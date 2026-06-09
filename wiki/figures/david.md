@@ -72,7 +72,7 @@ Tsumura (NICOT 1–2 Samuel) stresses the literary unity (Hannah's Song to David
 - [[matthew|Matthew]] (genealogy, "son of David")
 - [[acts|Acts]] (Peter/Paul sermons)
 - [[hebrews|Hebrews]] (faith, Melchizedek contrast)
-- [[messiah|Messiah]] / [[christology|Christology]]
+- [[messiah|Messiah]] / [[logos-christology|Christology]]
 - [[covenant|Covenant]], [[kingship-in-israel|Kingship in Israel]]
 - [[abraham|Abraham]] (covenant link in Matt 1)
 - [[ruth|Ruth]] (ancestress in line)

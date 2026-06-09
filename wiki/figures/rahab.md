@@ -51,7 +51,7 @@ Rahab embodies the reciprocity of *ḥesed* (covenant loyalty/kindness): her pro
 Woudstra (NICOT) highlights Rahab as the one through whom "the LORD your God is God" is confessed by a non-Israelite; she is spared explicitly "because she hid the messengers" (6:17) — reward for kindness within a theocentric frame. Patristic and medieval exegesis developed rich typological readings (Rahab = Church; scarlet cord = blood of Christ or sign of faith). Reformation interpreters used her for sola fide (Heb 11) while noting Jas 2's emphasis on works as the evidence of living faith. Modern scholarship emphasizes boundary-crossing, survival strategies of marginalized women, and the tension between *ḥerem* ideology and actual mercy. Feminist and postcolonial readings lift up Rahab as a trickster/survivor figure who negotiates power from below; evangelical responses often stress divine grace to the outsider and the missionary implication (a Canaanite becomes part of Israel's story and the Messiah's line). The story remains central to discussions of holy war, just war, land theology, and the universal scope of YHWH's reign.
 
 **Key Links**:
-- [[joshua|Joshua]] (text page; Woudstra on theocentric historiography and *ḥerem*)
+- [[book-of-joshua|Joshua]] (text page; Woudstra on theocentric historiography and *ḥerem*)
 - [[herem|The ḥerem (Devoted Thing)]] and [[herem-canaanite-conquest|Controversy: The ḥerem and Canaanite Conquest]]
 - [[hesed|Hesed]]
 - [[covenant|Covenant]]

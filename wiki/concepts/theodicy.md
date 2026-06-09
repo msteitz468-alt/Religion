@@ -3,20 +3,20 @@ title: Theodicy
 domain: theology / philosophy of religion
 traditions_using: [Judaism, Christianity, Islam]
 sources_ingested: 1
-last_updated: 2026-06-05
-tags: [concept, theodicy, suffering, justice, wisdom-literature]
+last_updated: 2026-06-09
+tags: [concept, theodicy, suffering, justice, wisdom-literature, secularization]
 ---
 
 Theodicy — from Greek *theos* (God) + *dikē* (justice) — is the theological problem of reconciling belief in an all-powerful, all-knowing, and good God with the existence of evil, suffering, and injustice in the world. The term was coined by Leibniz (1710), but the question it names is as old as religious reflection.
 
-In the Hebrew Bible, the theodicy question is pressed most directly and radically in the book of [[job|Job]], which subjects it to sustained literary examination. It also surfaces in the Psalms of lament (Pss. 10, 12, 13, 49, 73, 88), in Habakkuk (why do the wicked prosper?), in Jeremiah's confessions, and in much of the Wisdom tradition.
+In the Hebrew Bible, the theodicy question is pressed most directly and radically in the book of [[book-of-job|Job]], which subjects it to sustained literary examination. It also surfaces in the Psalms of lament (Pss. 10, 12, 13, 49, 73, 88), in Habakkuk (why do the wicked prosper?), in Jeremiah's confessions, and in much of the Wisdom tradition.
 
 ## The Biblical Forms of the Theodicy Problem
 
 Three distinct biblical problems are often grouped under "theodicy":
 
 **1. The problem of innocent suffering** — Why does a righteous person suffer?  
-*Primary text*: [[job|Job]]; Ps. 73.
+*Primary text*: [[book-of-job|Job]]; Ps. 73.
 
 **2. The problem of the wicked prospering** — Why do evildoers flourish?  
 *Primary texts*: Job 21:7-33; 24:1-17; Hab. 1:1-4; Ps. 73.
@@ -66,9 +66,23 @@ God's speeches from the whirlwind (chs. 38-41) do not address Job's specific cha
 
 **Islamic**: Theodicy in Islam engages the divine decree (*qadar*) — everything that happens is within God's will. Suffering is often understood as a test of faith (*ibtilāʾ*, cf. Quran 2:155-157) or as God's mercy in disguise. The Ash'arite tradition (majority Sunni) defends divine omnipotence over any human moral standard; the Mu'tazilite tradition argued for divine justice as an objective standard binding even on God.
 
+## The Modern Phase: From "Is God Just?" to "Is There Evil?"
+
+Classical theodicy presupposes that evil is real and asks how a good, omnipotent God can be
+reconciled with it. [[andrew-delbanco|Andrew Delbanco's]] *The Death of Satan* identifies a
+**later, secular turn** in which that presupposition itself erodes: as Western culture
+"unnamed" evil and the personified Devil "died," moderns were left "with a sense of evil but
+no longer the religious or philosophical language to talk intelligently about evil." A
+telling symptom, Delbanco notes, is that serious modern books on evil now *begin by proving
+the problem is real*. This shifts the question from theodicy proper to the
+[[secularization-of-evil|secularization of evil]] — recorded without adjudication per the
+Contradiction Protocol.
+
 ## Connections to the Wiki
 
-- **[[job|Job]]**: The primary OT text for the theodicy question
+- **[[book-of-job|Job]]**: The primary OT text for the theodicy question
+- **[[satan|Satan / the Devil]]** and **[[secularization-of-evil|The Death of Satan]]**: the personification of evil and its modern eclipse
+- **[[sitra-ahra|Sitra Aḥra]]**: the Kabbalistic theodicy locating evil as a shadow within the divine
 - **[[davidic-covenant|Davidic Covenant]]**: The Chronicler's handling of Cyrus as new David raises theodicy questions about the failure of the Davidic line
 - **[[herem-canaanite-conquest|ḥerem controversy]]**: The command to destroy the Canaanites is a theodicy problem in reverse — not why God allows suffering, but why God commands violence
 - **[[intermarriage-ezra-nehemiah|Intermarriage controversy]]**: The expulsion of foreign wives raises the question of whether innocent women and children suffered unjust consequences

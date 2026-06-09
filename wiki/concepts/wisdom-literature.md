@@ -24,7 +24,7 @@ Wisdom literature is a distinct literary and theological category within the Heb
 | Book | Tone | Central concern | Relationship to retribution doctrine |
 |---|---|---|---|
 | Proverbs | Confident | Practical wisdom for the righteous life | Affirms it: wisdom → prosperity; folly → ruin |
-| [[job|Job]] | Radical challenge | Theodicy; innocent suffering; limits of human knowledge | Qualifies it: the righteous *may* suffer terribly |
+| [[book-of-job|Job]] | Radical challenge | Theodicy; innocent suffering; limits of human knowledge | Qualifies it: the righteous *may* suffer terribly |
 | Ecclesiastes (Qohelet) | Skeptical | Vanity of human striving; the good life under death | Doubts it: righteous and wicked share the same fate |
 | Sirach (Ben Sira) | Traditional | Wisdom and Torah synthesis | Affirms it (with modifications) |
 | Wisdom of Solomon | Eschatological | Wisdom personified; immortality of the righteous | Reframes it: vindication comes after death |
@@ -43,7 +43,7 @@ Wisdom literature is the most internationally connected genre in the OT. Major A
 - **Mesopotamian theodicy texts**: "I Will Praise the Lord of Wisdom" ("Babylonian Job"), "The Babylonian Ecclesiastes"
 - **Sumerian lament texts**: Righteous sufferer who confesses and is healed
 
-The author of Job was demonstrably familiar with this tradition and transformed it: the genre of the suffering righteous is ANE-wide, but Job's escalation to a formal *lawsuit* against YHWH is without ANE parallel. See [[job|Job]] for the comparison table.
+The author of Job was demonstrably familiar with this tradition and transformed it: the genre of the suffering righteous is ANE-wide, but Job's escalation to a formal *lawsuit* against YHWH is without ANE parallel. See [[book-of-job|Job]] for the comparison table.
 
 ## Hermeneutical Method in Wisdom Literature
 

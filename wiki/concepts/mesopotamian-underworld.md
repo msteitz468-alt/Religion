@@ -35,3 +35,4 @@ despairing quest for immortality must be read.
 
 - [[mesopotamian-religion|Mesopotamian religion]], [[ereshkigal|Ereshkigal]], [[nergal|Nergal]],
   [[ishtar|the Descent of Inanna]]; [[epic-of-gilgamesh|Gilgamesh]]
+- [[sheol|Sheol]] — the comparably shadowy Hebrew netherworld read against this background; [[resurrection-of-the-dead|Resurrection of the Dead]]

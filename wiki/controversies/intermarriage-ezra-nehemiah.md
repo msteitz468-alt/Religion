@@ -77,7 +77,7 @@ The NT explicitly reverses the ethnic and purity logic of Ezra-Nehemiah at sever
 - **Acts 10:28**: Peter's statement that it is "unlawful for a Jew to associate with or to visit a Gentile" is the *legal position of Ezra-Nehemiah* — precisely what the Cornelius vision overturns. The descent of the Spirit on Cornelius functions as a theological refutation of the gentile impurity doctrine.
 - **Galatians 3:28**: "There is neither Jew nor Greek... you are all one in Christ Jesus" — the Pauline abolition of the *ethnic* category that Ezra-Nehemiah made binding.
 - **2 Corinthians 6:14**: Paul's "do not be unequally yoked with unbelievers" preserves the *religious* concern of Ezra-Nehemiah (not to intermarry with those who serve other gods) while discarding its ethnic form. The criterion shifts from ethnicity to faith.
-- **Ruth** (which precedes Ezra-Nehemiah in the canon): Ruth the Moabite — a member of one of the nations explicitly excluded in Neh 13:1-2 — is the great-grandmother of David. The book functions as a canonical counter-testimony to ethnic exclusivism, insisting that loyalty to YHWH and *ḥesed* toward his people constitute genuine belonging, regardless of ethnicity. See [[ruth|Ruth]] and [[hesed|ḥesed]].
+- **Ruth** (which precedes Ezra-Nehemiah in the canon): Ruth the Moabite — a member of one of the nations explicitly excluded in Neh 13:1-2 — is the great-grandmother of David. The book functions as a canonical counter-testimony to ethnic exclusivism, insisting that loyalty to YHWH and *ḥesed* toward his people constitute genuine belonging, regardless of ethnicity. See [[book-of-ruth|Ruth]] and [[hesed|ḥesed]].
 
 ## Cross-Tradition Legacy
 

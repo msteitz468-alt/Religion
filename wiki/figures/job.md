@@ -50,7 +50,7 @@ Job tests the proposition that disinterested fear of God is possible. The heaven
 Hartley (NICOT) treats the book as a unified literary masterpiece whose message modifies simplistic retribution and prefigures the Suffering Servant/Christ. The "Aim" sections and focus on message over emendation have shaped evangelical preaching. The book is foundational for theodicy (Augustine, Aquinas, Calvin, Barth, Gutiérrez's *On Job*), pastoral care (the friends as negative example), and wisdom theology. In Jewish tradition it probes the boundaries of protest and piety. Islamic Ayyub models prophetic patience. Modern scholarship (newsom, clines, habel) explores the polyphonic voices and the failure of all human systems (including Job's) before the divine. The figure remains the supreme biblical example of faith that refuses to let go of God even when God seems to have let go of the faithful.
 
 **Key Links**:
-- [[job|Job]] (text page, Hartley on message, Elihu, Suffering Servant link)
+- [[book-of-job|Job]] (text page, Hartley on message, Elihu, Suffering Servant link)
 - [[isaiah|Isaiah]] (Servant Songs modeled on Job per Hartley)
 - [[psalms|Psalms]] (Ps 73 theodicy parallel)
 - [[proverbs|Proverbs]] and [[ecclesiastes|Ecclesiastes]] (wisdom corpus conversation on retribution, hebel, fear of the LORD)

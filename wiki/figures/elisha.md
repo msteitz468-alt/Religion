@@ -52,3 +52,4 @@ Provan (NIBC) provides a dedicated excursus on Elisha in canonical context, expl
 - [[luke|Luke]] (4:27)
 - [[prophet|Prophet]] / [[sons-of-the-prophets|Prophetic Guilds]]
 - [[jehu|Jehu]] (political revolution)
+- [[resurrection-of-the-dead|Resurrection of the Dead]] — [[levenson-resurrection-and-the-restoration-of-israel|Levenson]] treats Elisha's raising of the Shunammite's son (2 Kgs 4) as the most extensive narrative resurrection in the Hebrew Bible, evidence of an *early* faith in God's power over death

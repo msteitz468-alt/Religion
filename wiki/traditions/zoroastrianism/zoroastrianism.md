@@ -4,9 +4,9 @@ also_known_as: [Mazdayasna ("worship of Mazda"), Zarathustrianism, (in India) Pa
 type: tradition
 date_range: prophet Zarathustra c. 1200–1000 BCE (disputed); organized religion to present
 canon_core: [gathas]
-hermeneutical_frameworks: [Avestan recitation and priestly commentary (Zand), influence-tracing]
+hermeneutical_frameworks: [Avestan recitation and priestly commentary (Zand), influence-tracing, talmudo-iranica]
 major_sects: [zurvanism]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-09
 tags: [tradition, zoroastrianism, dualism, persian]
 ---
@@ -50,6 +50,18 @@ Avestan **recitation** and priestly **Zand** commentary; for this wiki, **influe
 mode — disciplined comparison of Zoroastrian and Abrahamic eschatology that distinguishes genuine
 influence from parallel development (recorded without overclaiming).
 
+## The Sasanian Encounter with Judaism
+
+Beyond the Persian-period influence question, Zoroastrianism is the **living neighbor** of rabbinic
+Judaism in the **Sasanian Empire** (3rd–7th c. CE), where the **[[talmud-bavli|Babylonian Talmud]]** was
+produced in a Zoroastrian-ruled Mesopotamia. [[shai-secunda|Shai Secunda]]'s
+[[secunda-the-iranian-talmud|*The Iranian Talmud*]] reads the two communities' literatures together (the
+subfield **[[talmudo-iranica|Talmudo-Iranica]]**): rabbis and **[[magi|Zoroastrian priests (magi)]]**
+built mirror-image **"discourses of the Other"** (the rabbinic Jew/*goy* binary against the Zoroastrian
+*ēr*/*an-ēr*), competed over purity (notably menstruation) and recitation, yet shared a dense Sasanian
+cultural world — a late-antique interaction distinct from, but complementary to, the older
+[[zoroastrian-influence-on-abrahamic-eschatology|eschatological-influence]] question.
+
 ## Map of Sects
 
 - [[zurvanism|Zurvanism]] — a (largely extinct) heterodox current making **Zurvan** (Time) the parent of
@@ -59,7 +71,9 @@ influence from parallel development (recorded without overclaiming).
 
 - [[gathas|The Gathas]]; [[zarathustra|Zarathustra]]
 - [[zoroastrian-influence-on-abrahamic-eschatology|Zoroastrian influence on Abrahamic eschatology]]
-- [[skjaervo-spirit-of-zoroastrianism|Skjærvø, *The Spirit of Zoroastrianism*]] (scholarship)
+- [[skjaervo-spirit-of-zoroastrianism|Skjærvø, *The Spirit of Zoroastrianism*]] (scholarship);
+  [[secunda-the-iranian-talmud|Secunda, *The Iranian Talmud*]] (the Sasanian Jewish–Zoroastrian encounter)
+- [[magi|The Magi]] (the priesthood as the Bavli's foil); [[talmudo-iranica|Talmudo-Iranica]]
 - Cross-tradition: dualism vs. [[sitra-ahra|the Sitra Aḥra]], [[antichrist|the antichrist]],
   [[gnosticism|Gnostic dualism]]; resurrection ([[resurrection-body|resurrection]]); the Persian setting
   of [[persians|Cyrus]] and the return from [[babylon|exile]]

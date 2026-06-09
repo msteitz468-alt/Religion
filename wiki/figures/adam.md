@@ -36,7 +36,7 @@ The very name *adam* puns on *adamah* ("ground/earth") and *dam* ("blood"), and 
 Rabbinic Midrash develops Adam extensively: his cosmic size (filling the world from end to end before being diminished after the sin), his radiant garments of light (*or*, later exchanged for garments of skin, *or* spelled differently — a famous wordplay), Adam's repentance, and the legend of **Lilith** as his first wife before Eve (rooted in the two creation accounts). Crucially, rabbinic Judaism does **not** develop a doctrine of inherited original sin; Adam's sin brought mortality but each person remains responsible for their own sin. The *yetser ha-ra* (evil inclination) is a feature of human nature, not a transmitted guilt.
 
 ### Christian
-Paul makes Adam the typological hinge of salvation history (see [[paul|Paul]]):
+Paul makes Adam the typological hinge of salvation history (see [[paul-apostle|Paul]]):
 - **Romans 5:12–21**: "sin came into the world through one man, and death through sin" — Adam as the figure (*typos*) of the one to come; Christ as the second Adam who reverses Adam's trespass
 - **1 Corinthians 15:21–22, 45–49**: "as in Adam all die, so in Christ shall all be made alive"; Adam the "man of dust," Christ the "life-giving spirit" and "man of heaven"
 Augustine systematized this into the doctrine of **original sin** — Adam's guilt and corrupted nature transmitted to all his descendants — which became central to Western Christian theology. See [[original-sin|Original Sin]] (if present) and [[fall-of-man|the Fall]].
@@ -87,6 +87,6 @@ Adam grounds Pauline typology (the Adam–Christ structure of Romans and 1 Corin
 - [[kabbalah|Kabbalah]]
 - [[genesis|Genesis]] — the source narrative
 - [[noah|Noah]] — the second beginning of humanity after the Flood
-- [[paul|Paul]] — Adam–Christ typology
+- [[paul-apostle|Paul]] — Adam–Christ typology
 - [[philo-of-alexandria|Philo of Alexandria]] — allegorical Adam
 - [[eve|Eve]] — formed from Adam; the woman of the Eden narrative

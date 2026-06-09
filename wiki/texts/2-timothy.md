@@ -89,7 +89,7 @@ The PE use *epiphaneia* rather than *parousia* for Christ's return: "his appeari
 ## Key Links
 
 - [[1-timothy|First Letter to Timothy]] — companion PE
-- [[titus|Letter to Titus]] — companion PE
+- [[letter-to-titus|Letter to Titus]] — companion PE
 - [[pastoral-epistles-authorship|Pastoral Epistles: Pauline or Pseudonymous?]] — authorship controversy
 - [[sound-doctrine|Sound Doctrine (*Hygiainōn Didaskalia*)]] — PE distinctive concept
 - [[robert-yarbrough|Robert W. Yarbrough]] — PNTC commentary (2018)

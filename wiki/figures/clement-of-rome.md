@@ -81,8 +81,8 @@ Clement is primarily important as the *occasion* for [[1-clement|1 Clement]] rat
 - [[1-clement|First Clement]] — the letter associated with his name; see for all theological and historical content
 - [[shepherd-of-hermas|Shepherd of Hermas]] — *Herm.* 8.3 names a "Clement" as the external correspondence officer of the Roman church
 - [[monepiscopate|Monepiscopate]] — Clement's role does not evidence a monepiscopate in Rome; the collegial presbyterate is what 1 Clement reflects
-- [[peter|Peter (Simon Peter)]] — 1 Clement 5 is the primary witness to Peter's martyrdom in Rome
-- [[paul-of-tarsus|Paul of Tarsus]] — 1 Clement 5–6 witnesses Paul's martyrdom alongside Peter's
+- [[peter-apostle|Peter (Simon Peter)]] — 1 Clement 5 is the primary witness to Peter's martyrdom in Rome
+- [[paul-apostle|Paul of Tarsus]] — 1 Clement 5–6 witnesses Paul's martyrdom alongside Peter's
 - [[nt-canon-formation|NT Canon Formation]] — 1 Clement was nearly canonical; Clement of Alexandria and Origen cite it; Codex Alexandrinus includes it; Eusebius lists it as widely received but not canonical
 - [[ignatius-of-antioch|Ignatius of Antioch]] — contemporary, different governance model; Ignatius represents the monepiscopate; Clement represents the Roman collegial presbyterate
 - [[polycarp|Polycarp of Smyrna]] — addressed by the Roman church in a later letter; linked to the same apostolic network

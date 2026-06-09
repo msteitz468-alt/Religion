@@ -77,7 +77,7 @@ The *hygiainōn didaskalia* (sound doctrine) cluster in the PE is not abstract d
 
 ## Key Links
 
-- Texts: [[1-timothy|First Letter to Timothy]], [[2-timothy|Second Letter to Timothy]], [[titus|Letter to Titus]]
+- Texts: [[1-timothy|First Letter to Timothy]], [[2-timothy|Second Letter to Timothy]], [[letter-to-titus|Letter to Titus]]
 - Controversies: [[pastoral-epistles-authorship|Pastoral Epistles: Pauline or Pseudonymous?]], [[1-tim-2-12-women-teaching|Women, Teaching, and Authority in 1 Timothy 2:11–15]]
 - Concepts: [[sound-doctrine|Sound Doctrine (*Hygiainōn Didaskalia*)]], [[godliness|Godliness (*Eusebeia*)]]
 - Related commentators: [[frank-thielman|Frank Thielman]] (BECNT Ephesians), [[i-howard-marshall|I. Howard Marshall]]

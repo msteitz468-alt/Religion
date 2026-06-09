@@ -47,7 +47,7 @@ Esther is the supreme biblical example of *hidden providence* in the diaspora. G
 Breneman (NAC) and Harrington (NICOT for Ezra-Nehemiah context) read it as a story of identity, courage, and the hidden hand of God in imperial politics. Jewish liturgy and midrash make it a celebration of survival and joy in the face of hatred. Christian preaching uses it for "such a time as this," the call to risk for others, and the discernment of providence in ordinary events. It has shaped diaspora theology (God with his people even when temple and land are distant) and resistance literature. The reversal theme influences readings of the cross and resurrection (the one plotted against is exalted). In scholarship it is a key text for narrative criticism, irony, and the theology of divine hiddenness.
 
 **Key Links**:
-- [[esther|Esther]] (text page)
+- [[book-of-esther|Esther]] (text page)
 - [[ezra-nehemiah|Ezra-Nehemiah]] (contemporary or near-contemporary diaspora/return context; Harrington on purity and assembly)
 - [[purim|Purim]]
 - [[providence|Providence]] (hidden)
@@ -55,4 +55,4 @@ Breneman (NAC) and Harrington (NICOT for Ezra-Nehemiah context) read it as a sto
 - [[haman|Haman]]
 - [[exile|Exile / Diaspora]]
 - [[daniel|Daniel]] (court tales in foreign empire)
-- [[ruth|Ruth]] (another book with hidden providence and outsider woman deliverer)
+- [[book-of-ruth|Ruth]] (another book with hidden providence and outsider woman deliverer)

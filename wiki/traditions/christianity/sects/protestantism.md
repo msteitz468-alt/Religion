@@ -43,7 +43,7 @@ Holds the **27-book New Testament** and a **39-book Old Testament that excludes 
 the books Catholicism and Orthodoxy retain are relegated to the "Apocrypha" (Luther printed them
 between the Testaments as useful but non-canonical). This narrower OT is the defining canon divergence
 from the other two Western/Eastern streams; on ingested text pages Protestantism appears in
-`canonical_for` for the protocanonical books. (Luther's hostility to [[esther|Esther]] and
+`canonical_for` for the protocanonical books. (Luther's hostility to [[book-of-esther|Esther]] and
 [[james|James]] is documented on those pages.)
 
 ## Doctrinal Distinctives

@@ -36,3 +36,4 @@ Scientology's whole theory of relationships and persuasion; raising ARC raises a
 
 - [[scientology|Scientology]], [[scientology-fundamentals-of-thought|The Fundamentals of Thought]],
   [[tone-scale|Tone Scale]], [[auditing|Auditing]], [[eight-dynamics|Eight Dynamics]]
+- [[notes-on-the-lectures|Notes on the Lectures]] (1950) — an early lecture presentation of the ARC triangle

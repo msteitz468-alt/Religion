@@ -39,3 +39,5 @@ critically. Recorded without adjudication.
 
 - [[scientology|Scientology]], [[science-of-survival|Science of Survival]], [[auditing|Auditing]],
   [[arc-triangle|ARC Triangle]]
+- [[notes-on-the-lectures|Notes on the Lectures]] (1950) — the earliest, pre-*Science of Survival* lecture
+  form of the Tone Scale

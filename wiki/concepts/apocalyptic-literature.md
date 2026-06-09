@@ -163,6 +163,17 @@ genre generates four interpretive schools; most recent scholars (Osborne, Beale,
 **eclectic** synthesis. See [[revelation-interpretive-schools|The Four Interpretive Schools of
 Revelation]] and [[revelation|Revelation]].
 
+## The Ancient Roots (Cohn)
+
+[[cohn-cosmos-chaos-and-the-world-to-come|Norman Cohn]] (*Cosmos, Chaos and the World to Come*) situates
+apocalyptic in the longest historical frame. Most ancient peoples, he argues, held a **static cosmology** — a
+divinely-appointed order defended against chaos by the [[the-combat-myth|combat myth]] but never essentially
+changing. The decisive break was [[zarathustra|Zoroaster's]] vision of **linear time culminating in a final
+renovation** ([[frashokereti|Frashokereti]]: resurrection, judgment, a savior, a perfected world). On this
+view the apocalyptic of [[daniel|Daniel]], [[1-enoch|1 Enoch]], and [[jubilees|Jubilees]] emerges as Israel's
+older static order (*mishpat, tsedeq, shalom*) gives way under exile and empire — its relation to the Persian
+prototype being the open question of [[zoroastrian-influence-on-abrahamic-eschatology|the influence page]].
+
 ## Related Entries
 
 - [[daniel|Daniel]] — primary OT apocalyptic text
@@ -179,3 +190,4 @@ Revelation]] and [[revelation|Revelation]].
 
 1. [[tremper-longman|Longman, Tremper, III]]. *Daniel*. NIV Application Commentary. Grand Rapids: Zondervan, 1999.
 2. [[grant-osborne|Osborne, Grant R.]]. *Revelation*. BECNT. Grand Rapids: Baker Academic, 2002.
+3. [[cohn-cosmos-chaos-and-the-world-to-come|Cohn, Norman]]. *Cosmos, Chaos and the World to Come*. 2nd ed. Yale University Press, 2001.

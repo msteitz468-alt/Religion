@@ -48,7 +48,7 @@ Rudolph notes that while Christian Gnosticism (Valentinian, Sethian) is the best
 - Contrasts with orthodox Christian *pistis* (faith) and sacramental incorporation into Christ's death/resurrection (see [[justification|Justification]], [[theology-of-the-cross|Theology of the Cross]], [[new-creation|New Creation]]).
 - Shares surface vocabulary with Jewish wisdom traditions and [[woman-wisdom|Woman Wisdom]] / [[sophia-gnostic|Sophia (Gnostic)]] but radically revalues the creator and the material world.
 - Intersects [[principalities-powers|Principalities and Powers]] / [[stoicheia|Stoicheia]] (the archons/rulers that must be passed in the ascent).
-- Related to [[theosis|Theosis / Divine Nature]] (participation in the divine), but here as recovery of a pre-existent spark rather than transformation or grace-filled union.
+- Related to [[theosis-divine-nature|Theosis / Divine Nature]] (participation in the divine), but here as recovery of a pre-existent spark rather than transformation or grace-filled union.
 - Challenges and provokes the development of orthodox positions on creation, incarnation, resurrection, and canon (see [[gnostics|Gnostics]] group page, [[bauer-thesis|Bauer Thesis]], [[rule-of-faith|Rule of Faith]], [[nt-canon-formation|NT Canon Formation]]).
 - Cross-tradition echoes in later esoteric, mystical, and "Gnostic revival" movements (modern Theosophy, Jungian interpretation, etc.).
 

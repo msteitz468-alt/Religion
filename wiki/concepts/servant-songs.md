@@ -141,7 +141,7 @@ The Servant was almost universally read Christologically from Justin Martyr onwa
 
 - **[[isaiah|Isaiah]]** — primary text
 - **[[john-oswalt|John N. Oswalt]]** — commentary source
-- **[[john-hartley|John E. Hartley]] / [[job|Job]]**: Hartley proposed that Job is the *source* for Isaiah's Servant theology (direction of influence controversy); Oswalt treats the Servant Songs as Isaiah's own revelation
+- **[[john-hartley|John E. Hartley]] / [[book-of-job|Job]]**: Hartley proposed that Job is the *source* for Isaiah's Servant theology (direction of influence controversy); Oswalt treats the Servant Songs as Isaiah's own revelation
 - **[[theodicy|Theodicy]]**: Isaiah 53 provides the deepest OT answer to the theodicy question — innocent suffering is not merely permitted; it is the divinely chosen means of atonement
 - **[[divine-human-marriage|Divine-Human Marriage Metaphor]]**: Isaiah 54 immediately follows ch. 53 — the covenant of peace (54:10) is only possible after the Servant's atonement; the restored marriage follows the atoning sacrifice
 - **[[psalms|Psalms]]**: Ps 22 (forsaken, surrounded by tormentors, clothing divided) + Isa 53 + NT Passion = the OT Christological axis

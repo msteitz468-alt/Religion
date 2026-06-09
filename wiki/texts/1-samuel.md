@@ -104,7 +104,7 @@ Tsumura's discourse grammar analysis (wayqtl for narrative mainline vs. weqtl fo
 
 ## Relationship to the Former Prophets Sequence
 
-1 Samuel follows [[judges|Judges]] (ending in tribal anarchy, civil war, and the question "there was no king in Israel") and [[ruth|Ruth]] (a counternarrative of *[[hesed|ḥesed]]* operating at the micro level during the judges era). 1 Samuel resolves the kingship question that Judges raised but could not answer: the king comes, but he must be YHWH's vice-regent, subject to the prophetic word — and no amount of military capability or popular approval can substitute for that obedience.
+1 Samuel follows [[judges|Judges]] (ending in tribal anarchy, civil war, and the question "there was no king in Israel") and [[book-of-ruth|Ruth]] (a counternarrative of *[[hesed|ḥesed]]* operating at the micro level during the judges era). 1 Samuel resolves the kingship question that Judges raised but could not answer: the king comes, but he must be YHWH's vice-regent, subject to the prophetic word — and no amount of military capability or popular approval can substitute for that obedience.
 
 ## NT Connections
 

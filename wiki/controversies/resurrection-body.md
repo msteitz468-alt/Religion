@@ -81,9 +81,22 @@ Ciampa and Rosner place chapter 15 at the climax of the letter — the consummat
 
 **Historically resolved** on the factual claim: all ecumenical creeds affirm bodily resurrection. **Open** on the precise nature of the resurrection body (degree of physical continuity; transformation mechanism) and on the Corinthian problem being addressed. The debate between "spiritual" and "physical" readings of *sōma pneumatikon* continues in NT scholarship.
 
+## The Jewish Background (Levenson)
+
+Paul's insistence on a *bodily* resurrection (against a Greek "spiritual"/soul-survival
+reading) reflects the **Jewish** doctrine of the [[resurrection-of-the-dead|resurrection of
+the dead]], not a Christian novelty. [[jon-d-levenson|Jon D. Levenson]] stresses that this
+hope was, in its native Jewish form, **bodily, communal, and bound to the restoration of
+Israel** — which illuminates the contested **Option C** above (that the Corinthians may have
+accepted a resurrection *for Israel* but denied it for Gentile believers): in the Jewish
+matrix, resurrection and membership in the covenant people were inseparable, so extending it
+to Gentiles-in-Christ was precisely what required argument. See
+[[resurrection-of-the-dead|Resurrection of the Dead]].
+
 ## Key Links
 
 - [[1-corinthians|The First Letter to the Corinthians]]
+- [[resurrection-of-the-dead|Resurrection of the Dead]]; [[jon-d-levenson|Jon D. Levenson]]; [[sheol|Sheol]]
 - [[roy-ciampa-brian-rosner|Roy E. Ciampa and Brian S. Rosner]] — primary source
 - [[eschatological-temple|Eschatological Temple]] — the body as God's dwelling; resurrection vindicates bodily significance
 - [[divine-glory-kabod|Divine Glory (*Kābôd*)]] — resurrection as the consummation of divine glory (15:28, 43)

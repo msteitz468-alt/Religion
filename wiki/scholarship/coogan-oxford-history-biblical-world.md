@@ -79,7 +79,7 @@ Locations: [[ugarit]], [[hazor]], [[megiddo]], [[shechem]], [[byblos]], [[jerusa
 [[bethel]], [[dan]], [[gezer]], [[sinai-horeb]], [[mount-gerizim]].
 
 Cross-links touch existing pages: [[abraham]], [[moses]], [[nebuchadnezzar]],
-[[genesis]], [[exodus]], [[joshua]], [[judges]], [[ezra-nehemiah]], [[lamentations]],
+[[genesis]], [[exodus]], [[book-of-joshua|Joshua]], [[judges]], [[ezra-nehemiah]], [[lamentations]],
 [[obadiah]], [[divine-name]], [[herem-canaanite-conquest]].
 
 ## Notable Claims / Tensions Recorded

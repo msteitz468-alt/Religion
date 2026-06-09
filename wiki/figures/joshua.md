@@ -63,7 +63,7 @@ Joshua completes the Pentateuchal arc: the promises to the patriarchs (Genesis),
 
 **Key Links**:
 - [[deuteronomy|Deuteronomy]] (Craigie) — Moses' charge and succession, treaty framework
-- [[joshua|Joshua]] (text page; narrative from Woudstra or future sources)
+- [[book-of-joshua|Joshua]] (text page; narrative from Woudstra or future sources)
 - [[moses|Moses]] (predecessor and mentor)
 - [[covenant|Covenant]], [[suzerain-vassal-treaty|Suzerain-Vassal Treaty]], [[herem|The ḥerem]]
 - [[hebrews|Hebrews]] (rest typology, faith heroes)

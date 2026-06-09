@@ -57,6 +57,7 @@ The NPP represents an application of historical-critical method to the Jewish ba
 
 ## Key Links
 
+- [[new-perspective-on-paul-controversy|The New Perspective on Paul (controversy)]] — the structured dispute, with the named positions (Traditional / NPP / Beyond-the-NPP) laid out per source
 - [[romans|Letter to the Romans]] — primary text for the debate
 - [[justification|Justification]] — the central disputed doctrine
 - [[righteousness-of-god|The Righteousness of God]] — the *dikaiosynē theou* controversy

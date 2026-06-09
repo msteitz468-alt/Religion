@@ -45,4 +45,7 @@ and the documentary record is itself a major theme of the scholarship. Recorded 
 
 - [[scientology|Scientology]], [[dianetics|Dianetics]], [[thetan|Thetan]], [[auditing|Auditing]],
   [[engram|Engram]]
+- Primary texts: [[dianetics|Dianetics]], [[science-of-survival|Science of Survival]],
+  [[scientology-fundamentals-of-thought|Fundamentals of Thought]], and the early
+  [[notes-on-the-lectures|Notes on the Lectures]] (the 1950 LA/Oakland lecture series)
 - [[scientology-religion-or-commercial-enterprise|Religion or commercial enterprise?]]

@@ -48,7 +48,7 @@ Ruth is the narrative embodiment of *ḥesed* — covenant loyalty that exceeds 
 Lau (NICOT) brings honor-shame, social-identity, and missional lenses: Ruth risks shame and status to practice *ḥesed*; the book models boundary-crossing for the sake of the other and the inclusion of the nations in the royal line. The story is central to Jewish liturgy (Shavuot) and to Christian ethics of loyalty, hospitality, and care for the widow/foreigner. In feminist and womanist readings Ruth and Naomi are agents of their own redemption; Boaz is the enabler rather than the sole hero. The kinsman-redeemer has long been read typologically of Christ (redemption of lost inheritance, taking the outsider as bride). The genealogy keeps the book tethered to the larger Davidic/messianic hope. Modern scholarship values it as a literary and theological masterpiece that subverts expectations about who carries the promise.
 
 **Key Links**:
-- [[ruth|Ruth]] (text page; Lau on *ḥesed*, honor-shame, canonical positions, missional reading)
+- [[book-of-ruth|Ruth]] (text page; Lau on *ḥesed*, honor-shame, canonical positions, missional reading)
 - [[naomi|Naomi]] and [[boaz|Boaz]] (figures)
 - [[hesed|Hesed]]
 - [[kinsman-redeemer|Kinsman-Redeemer]]

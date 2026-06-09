@@ -15,7 +15,7 @@ last_updated: 2026-06-07
 tags: [text, old-testament, writings, wisdom-literature, proverbs, poetry, ethics]
 ---
 
-Proverbs is the third Wisdom literature text in the wiki (following [[job|Job]] and [[psalms|Psalms]]) and the most practically oriented of the three. Where Job probes the limits of retribution theology through a single narrative case, and the Psalter provides a communal liturgy from lament to praise, Proverbs presents Israel's wisdom tradition in its most direct form: instruction in how to live well before God, organized as short aphorisms, longer poems, numerical sayings, and royal instructions addressed primarily from father to son.
+Proverbs is the third Wisdom literature text in the wiki (following [[book-of-job|Job]] and [[psalms|Psalms]]) and the most practically oriented of the three. Where Job probes the limits of retribution theology through a single narrative case, and the Psalter provides a communal liturgy from lament to praise, Proverbs presents Israel's wisdom tradition in its most direct form: instruction in how to live well before God, organized as short aphorisms, longer poems, numerical sayings, and royal instructions addressed primarily from father to son.
 
 Its epistemological foundation, stated in the preamble and repeated at the prologue's close, is: **"The fear of the LORD is the beginning of wisdom"** (1:7; 9:10).
 
@@ -141,7 +141,7 @@ A **final editor** (probably Persian period) appended Collections V–VII and co
 
 ## Connections to the Wiki
 
-- **[[job|Job]]**: Both share the "fear of YHWH" as epistemological foundation (Job 28:28; Prov 1:7); both affirm that wisdom cannot be obtained from creation alone (Agur's argument = YHWH's challenge to Job in chs. 38-41); both affirm immortality
+- **[[book-of-job|Job]]**: Both share the "fear of YHWH" as epistemological foundation (Job 28:28; Prov 1:7); both affirm that wisdom cannot be obtained from creation alone (Agur's argument = YHWH's challenge to Job in chs. 38-41); both affirm immortality
 - **[[psalms|Psalms]]**: Wisdom psalms (1, 37, 49, 73, 119) share the same vocabulary and theology; "fear of the LORD" is the bridge concept; both books use *ʾašrê* ("happy/blessed") as a key term
 - **[[deuteronomy|Deuteronomy]]**: Both anchor ethics in YHWH's covenant; both disseminate wisdom in the home (Deut 6:7-9; Prov 1:8); both use *mišwôt* and *tôrâ* for their teachings
 - **[[1-2-chronicles|Chronicles]]**: Leithart's "sapiential imperialism" (Solomon rules by wisdom not force) = the royal wisdom theology Proverbs theorizes; the Chronicler's musical organization + Psalms + Proverbs together constitute Israel's wisdom heritage

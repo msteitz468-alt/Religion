@@ -92,7 +92,7 @@ The most contested passage in the PE. Paul's instructions for women in worship (
 ## Key Links
 
 - [[2-timothy|Second Letter to Timothy]] — continuation; Paul's last letter
-- [[titus|Letter to Titus]] — companion PE
+- [[letter-to-titus|Letter to Titus]] — companion PE
 - [[pastoral-epistles-authorship|Pastoral Epistles: Pauline or Pseudonymous?]] — defining controversy
 - [[1-tim-2-12-women-teaching|Women, Teaching, and Authority in 1 Timothy 2:11–15]] — most contested passage
 - [[sound-doctrine|Sound Doctrine (*Hygiainōn Didaskalia*)]] — distinctive PE concept

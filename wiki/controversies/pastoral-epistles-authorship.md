@@ -110,7 +110,7 @@ Whether the PE are Pauline or pseudonymous affects:
 
 - [[1-timothy|First Letter to Timothy]] — primary text
 - [[2-timothy|Second Letter to Timothy]] — primary text
-- [[titus|Letter to Titus]] — primary text
+- [[letter-to-titus|Letter to Titus]] — primary text
 - [[robert-yarbrough|Robert W. Yarbrough]] — Pauline authorship defense (PNTC 2018); Schlatter; global Christianity argument
 - [[2-thessalonians-authorship|2 Thessalonians: Pauline or Pseudonymous?]] — parallel authorship controversy; same basic arguments; more evenly divided
 - [[ephesians-authorship|Ephesians: Pauline or Pseudonymous?]] — parallel authorship controversy; style and ecclesiology also at stake

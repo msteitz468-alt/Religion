@@ -8,13 +8,17 @@ High-level synthesis of the wiki's current scope and contents.
 
 As of 2026-06-07, this wiki covers:
 
-**Jewish tradition (rabbinic)**: The Babylonian Talmud and its rabbinic context — structure, hermeneutics (Halacha/Aggadah, Thirteen Middot), codification history, and key controversies (Oral Torah authority, Pharisee/Sadducee/Karaite divisions). Covered primarily through a traditionalist apologetic secondary source (Unterman 1952).
+**Jewish tradition (rabbinic)**: The Babylonian Talmud and its rabbinic context — structure, hermeneutics (Halacha/Aggadah, Thirteen Middot), codification history, and key controversies (Oral Torah authority, Pharisee/Sadducee/Karaite divisions). Covered primarily through a traditionalist apologetic secondary source (Unterman 1952), now joined by a modern critical comparative source — [[secunda-the-iranian-talmud|Secunda, *The Iranian Talmud*]] (2014) — that reads the Bavli in its **Sasanian Iranian** context ([[talmudo-iranica|Talmudo-Iranica]]).
 
 **Jewish tradition (mystical / Kabbalah)** — *added 2026-06-07*: [[kabbalah|Kabbalah]] and its foundational text, the [[zohar|Zohar]] (Pritzker Edition Vols. I–XII, complete). Vols. I–IX (Matt) provide the main running Torah commentary (full Genesis–Deuteronomy) at the Sod/theosophic/theurgic level. Vol. X (Wolski) adds the earliest *Midrash ha-Ne’lam* stratum (Genesis-focused concealed midrash on soul, justice, patriarchs). Vols. XI–XII (Hecker and Wolski) add further *Midrash ha-Ne’lam* on the Megillot + the independent Zoharic Compositions (Idra Zuta, Heikhalot, Raza de-Razin physiognomy, Sitrei Otiyyot on letters/YHVH, Qav ha-Middah from Ein Sof, Tosefta, festival esoterica). Core theosophy: [[ein-sof|Ein Sof]] and the ten [[sefirot|sefirot]]; the divine feminine ([[shekhinah|Shekhinah]]) and the holy union (*zivvuga qaddisha*); the demonic [[sitra-ahra|Sitra Aḥra]]; theurgy (prayer as adornment for union, protection, letter mysticism, assembly); and [[pardes|PaRDeS]] hermeneutics (Sod in running commentary, concealed midrash, and independent composition modes). This remains the wiki's **first Jewish-mysticism source** and a first-order scope expansion. Authorship is itself a major [[zohar-authorship|controversy]] (Shim'on bar Yoḥai, traditional, vs. Moses de León, critical). The full Pritzker ingest now tracks the complete range of the Zoharic literary corpus.
 
 **Christian OT/NT scholarship**: Evangelical and broadly evangelical commentary on all five Torah books, four Former Prophets (including Kings), three Megillot (Esther, Song of Songs, Lamentations), two post-exilic Historical Books, 1–2 Chronicles, four Wisdom books (Job, Psalms, Proverbs, Ecclesiastes), four Latter Prophets (Isaiah, Jeremiah, Lamentations, Ezekiel), Daniel (Writings/Prophets), seven Minor Prophets from the Twelve (Hosea, Joel, Amos, Obadiah, Jonah, Micah, Zechariah), and Acts. Commentary series: NICOT (Hamilton on Genesis, Woudstra on Joshua, Webb on Judges, Lau on Ruth, Tsumura on 1–2 Samuel, Harrington on Ezra-Nehemiah, Craigie on Deuteronomy, Wenham on Leviticus), UBCS (Bruckner on Exodus), NAC (Cole on Numbers), BECNT (Bock on Acts). Woudstra and Hamilton/Craigie represent conservative Reformed/evangelical hermeneutics; Bruckner represents the centrist "believing criticism" approach; Webb combines literary-canonical criticism; Lau brings honor-shame social-scientific analysis, missions theology, and ethnic minority perspective; Tsumura brings Japanese evangelical Semitic philology and MT-first text criticism; Harrington (NICOT Ezra-Nehemiah 2022) brings Second Temple specialist expertise, ritual purity analysis, and Mary Douglas / Victor Turner social-scientific framing.
 
 **Primary texts in scope**: Babylonian Talmud, Mishna, **The Zohar**, Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1–2 Kings, 1–2 Chronicles, Ezra-Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Songs, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Zechariah, Matthew, Mark, Luke, Gospel of John, Acts, **Romans**, **1 Corinthians**, **2 Corinthians**, **Galatians**, 1–2–3 John, Hebrews, **James**, **1 Peter**, **2 Peter**, **Jude**, **Revelation**.
+
+**Philosophy of religion / comparative (meta-level)** — *added 2026-06-09*: a new layer that sits *above* the per-tradition pages and asks how the traditions relate to one another. Opened with [[john-hick|John Hick]]'s *An Interpretation of Religion* (1989), the systematic statement of [[religious-pluralism|religious pluralism]]: the great post-[[axial-age|axial-age]] traditions as culturally conditioned but soteriologically comparable responses to one ineffable [[the-real|Real]], judged by transformation "from self-centredness to Reality-centredness." This introduces a [[religious-realism|realism/non-realism]] axis and a new meta-controversy, [[religious-pluralism-debate|the pluralism debate]] (exclusivism / inclusivism / pluralism / perennialism / particularism / developmental-experiential). Extended 2026-06-09 with [[karen-armstrong|Karen Armstrong]]'s *A History of God* (1993), a narrative history of the monotheistic *idea* of God: religion as pragmatic [[mythos-and-logos|mythos]], the personal God vs. the [[apophatic-theology|God of the mystics]], fundamentalism as a modern mythos-as-logos error. Armstrong privileges the same apophatic Real as Hick but drifts toward the [[religious-realism|non-realism]] he opposes — a contradiction flagged on both pages. Completed 2026-06-09 with [[stephen-prothero|Stephen Prothero]]'s *God Is Not One* (2010), the **particularist** counter-case to *both* Hick and Armstrong: the traditions are not one — they pose different problems and seek different goals ([[four-part-model-of-religion|problem → solution → technique → exemplar]]; "only Christians seek salvation"), and the unitary view ([[perennialism|perennialism]] *and* New Atheism alike) is "Godthink," theology disguised as description. Prothero's ingest also added the wiki's first **West African** tradition, [[yoruba-religion|Yoruba religion]] (the way of the orishas; *ashe*; Ifa divination), with its diaspora sects [[santeria|Santería]] and [[candomble|Candomblé]] and the oral [[ifa-corpus|Ifa corpus]]. The three modern sources now form a pluralism trilogy — pluralism vs. mystical convergence vs. particularist difference — on [[religious-pluralism-debate|the pluralism debate]] page. The calibre "Quick Start Guide" bundled in `raw/misc/` is software documentation and was **not** ingested.
+
+**The modern reception of evil (2026-06-09)**: a related cultural-history thread, opened with [[andrew-delbanco|Andrew Delbanco]]'s *The Death of Satan* (1995). Where the pluralism trilogy asks how the traditions relate, Delbanco asks what happens to a *religious category* — evil and its personification, the [[satan|Devil]] — as a culture secularizes: America "unnamed" evil, the personified Satan "died," and moderns were left "with a sense of evil but no longer the language to talk intelligently about evil." This seeded the wiki's first **[[satan|Satan / the Devil]]** figure page (a cross-tradition synthesis from *ha-satan* the Accuser through Mastema/Belial, the patristic fallen-angel Devil, Iblis, and Kabbalistic Samael) and the concept [[secularization-of-evil|the secularization of evil]] — the modern phase succeeding classical [[theodicy|theodicy]]. Filed as a commentator page on the trade-book convention (with Hick/Armstrong/Prothero). Remaining un-ingested in `raw/misc/`: Levenson, *Resurrection and the Restoration of Israel*.
 
 ---
 
@@ -76,13 +80,76 @@ As of 2026-06-07, this wiki covers:
 | Figures | ~44+ (+ Adam, Shim'on bar Yoḥai, Jacob, Joseph, Judah, Tamar, Esau, Sarah, Rebekah, Rachel, Leah, Ishmael) |
 | Groups | 10 |
 | Locations | 3 |
-| Traditions | 16 (+ **Mesoamerican Religion**; Vedic, Mesopotamian, Egyptian, Greek, Roman, Judaism, Christianity, Samaritanism, Islam, Buddhism, Hinduism, Daoism, Confucianism, Zoroastrianism, Scientology) |
-| Sects | 72 (+ Mesoamerican: 2 (Maya, Aztec); Vedic: 2; Mesopotamian: 3; Egyptian: 6; Greek: 5; Roman: 6; Scientology: 2; Christianity 27; Zoroastrianism: 1; Confucianism: 2; Daoism: 2; Hinduism: 3; Buddhism: 3; Islam: 3; Judaism: 5) |
+| Traditions | 20 (+ **Shinto**; Chinese Folk Religion, Celtic, Norse, Mesoamerican, Vedic, Mesopotamian, Egyptian, Greek, Roman, Judaism, Christianity, Samaritanism, Islam, Buddhism, Hinduism, Daoism, Confucianism, Zoroastrianism, Scientology) |
+| Sects | 88 (+ Shinto: 4 cult-forms; Chinese folk: 4; Celtic: 4; Norse: 4; Mesoamerican: 2; Vedic: 2; Mesopotamian: 3; Egyptian: 6; Greek: 5; Roman: 6; Scientology: 2; Christianity 27; Zoroastrianism: 1; Confucianism: 2; Daoism: 2; Hinduism: 3; Buddhism: 3; Islam: 3; Judaism: 5) |
 | Comparisons | 1 |
 | Controversies | 31 (+ Zohar authorship) |
 | Timelines | 1 |
 | Queries | 0 |
-| **Total** | **~600+** |
+| **Total** | **~700+** |
+
+### Scope expansion — Shinto (2026-06-09) — fourth and last of the four new pantheons (Celtic, Norse, Chinese folk, Shinto now all complete)
+
+Built from the **Kojiki** (Chamberlain) and **Nihongi / Nihon Shoki** (Aston). [[shinto|Shinto]] tradition; **4
+cult-form sects** ([[shrine-shinto|Shrine Shinto]], [[state-shinto|State Shinto]], [[sect-shinto|Sect Shinto]],
+[[folk-shinto|Folk Shinto / shinbutsu-shūgō]]); **2 text pages** ([[kojiki|Kojiki]], [[nihongi|Nihongi]]); **4
+concepts** ([[kami|kami]], [[harae|harae & kegare]], [[musubi|musubi]], [[matsuri|matsuri]]); and a **12-kami
+pantheon** with detailed narratives for [[amaterasu|Amaterasu]] (the rock-cave), [[susanoo|Susanoo]] (the
+serpent), [[izanagi-and-izanami|Izanagi & Izanami]] (creation, Yomi, the origin of death), and
+[[okuninushi|Ōkuninushi]] (the cession of the land). Distinctives: a religion with **no founder, creed, or moral
+dualism**, organized instead around **purity vs. pollution** ([[harae|harae]]) and **kami-reverence**; an
+**immanent, generative** cosmos ([[musubi|musubi]]); and a politically charged **imperial-descent myth**
+(Amaterasu→[[ninigi|Ninigi]]→[[jimmu|Jimmu]]) that became **[[state-shinto|State Shinto]]**. Cross-links:
+[[susanoo|Susanoo]]/[[yamata-no-orochi|Yamata-no-Orochi]]↔[[the-combat-myth|combat myth]];
+[[folk-shinto|shinbutsu-shūgō]]↔[[chinese-folk-religion|Chinese]] three-teachings syncretism; the purity axis
+contrasted with the biblical sin/atonement axis.
+
+### Scope expansion — Chinese folk religion (2026-06-09) — third of four more pantheons (Shinto to follow)
+
+Built from **Werner's *Myths and Legends of China*** (with the Ming novels *Fengshen Yanyi* and *Journey to
+the West* as underlying mythological sources). [[chinese-folk-religion|Chinese folk religion]] tradition; **4
+cult-form sects** ([[celestial-bureaucracy-cult|the celestial-bureaucracy cult]],
+[[ancestor-veneration|ancestor veneration]], [[mazu-cult|the Mazu cult]], [[household-gods-cult|household &
+local gods]]); **2 text pages** ([[myths-and-legends-of-china|Myths and Legends of China]],
+[[investiture-of-the-gods|Investiture of the Gods]]); **3 concepts** ([[celestial-bureaucracy|the celestial
+bureaucracy]], [[tian-shangdi|Tian / Shangdi]], [[diyu|Diyu]]); and a **13-deity pantheon** with detailed
+narratives for [[pangu|Pángǔ]] (cosmic-body creation), the [[jade-emperor|Jade Emperor]], [[guanyin|Guanyin]]
+(Miao Shan), the [[the-eight-immortals|Eight Immortals]], and [[sun-wukong|Sun Wukong]]. The organizing
+distinctive: divinity as **bureaucratic office** — Heaven as an empire, gods as deified-and-promoted humans —
+plus thoroughgoing **syncretism** of the "three teachings" ([[daoism|Daoism]], [[confucianism|Confucianism]],
+Buddhism) and **ancestor veneration** as the oldest stratum. Cross-links: [[diyu|Diyu]]↔[[yama|Yama]];
+[[pangu|Pángǔ]]↔[[ymir|Ymir]] (cosmic-body creation); the Rites Controversy with Christianity. Note: the
+ancestor-veneration cult-form is filed as a **sect** (slug-unique), not a duplicate concept page.
+
+### Scope expansion — Celtic religion (2026-06-09) — second of four more pantheons (Chinese folk, Shinto to follow)
+
+Downloaded the **Mabinogion** (Lady Guest) and **Gods and Fighting Men** (Lady Gregory). [[celtic-religion|Celtic
+religion]] tradition; **4 cult-form sects** ([[tuatha-de-danann-cult|Irish Tuatha Dé Danann cult]],
+[[mabinogion-tradition|Welsh Mabinogion tradition]], [[druidism|Druidism]], and modern
+[[celtic-reconstructionism|Celtic Reconstructionism]]); **2 text pages** ([[mabinogion|the Mabinogion]],
+[[gods-and-fighting-men|Gods and Fighting Men]]); **4 concepts** ([[the-otherworld|the Otherworld]],
+[[annwn|Annwn]], [[the-tuatha-de-danann|the Tuatha Dé Danann]], [[sacred-kingship|sacred kingship]]); and a
+**13-deity pantheon** with detailed narratives for [[lugh|Lugh]] (the many-skilled, the slaying of
+[[balor|Balor]]), [[the-dagda|the Dagda]], [[morrigan|the Morrígan]], [[rhiannon|Rhiannon]], and
+[[bran-the-blessed|Brân the Blessed]]. Recurring Celtic distinctives: a religion that **left no scripture of
+its own** (the [[druidism|druids]] forbade writing it down), recorded as **euhemerized saga**; the
+**[[the-otherworld|Otherworld]]** as a feasting-country rather than a hell; **sovereignty kingship**; and
+**triplism**. Indo-European and combat-myth hooks: Lugh/Lugus ≈ Mercury; Balor as the one-eyed chaos-power
+([[the-combat-myth|combat myth]]).
+
+### Scope expansion — Norse religion (2026-06-09) — first of four more pantheons (Celtic, Chinese folk, Shinto to follow)
+
+Downloaded the **Poetic Edda** (Bellows) and **Prose Edda** (Brodeur). [[norse-religion|Norse religion]]
+tradition; **4 cult-form sects** ([[aesir-cult|Æsir]], [[vanir-cult|Vanir]], [[seidr|seiðr]], and the modern
+[[asatru|Ásatrú]] revival); the two Edda texts; concepts [[ragnarok|Ragnarök]], [[yggdrasil|Yggdrasil/Nine
+Worlds]], [[valhalla|Valhalla]], and [[norns|the Norns/fate]]; **15 deities** + [[snorri-sturluson|Snorri
+Sturluson]] (mythographer). Detailed narratives for [[odin|Odin]] (wisdom-quests), [[thor|Thor]] (the
+giant-slayer), [[loki|Loki]] and the **death of [[baldr|Baldr]]**, plus [[ymir|the creation from Ymir]] and
+[[ragnarok|Ragnarök]]. Distinctive: a tradition in which **the gods themselves are mortal and doomed**, ruled
+by **fate**, recorded only **after Christianization** (a constant source-critical caution). Indo-European and
+combat-myth links made explicit: [[tyr|Týr]] = [[zeus|Zeus]]/[[dyaus|Dyaus]] (the sky-father), [[thor|Thor]]
+vs. [[jormungandr|Jörmungandr]] in [[the-combat-myth|the combat myth]], and [[ymir|Ymir]] as cosmic-body
+creation (cf. [[tiamat|Tiamat]], Purusha).
 
 ### Scope expansion — Mesoamerican religion (2026-06-09) — the four ancient pantheons complete
 
@@ -232,6 +299,32 @@ dualism, angelology, resurrection, judgment, savior, and world-renewal, held ope
 cross-tradition question (parallels + caveats both on record). This completes the planned
 *Needed Sources.md* sequence (Islam → Buddhism → Hinduism → Daoism → Confucianism → Second Temple →
 Zoroastrianism) for all acquired public-domain sources.
+
+**Talmudo-Iranica — the Sasanian phase (2026-06-09)**: [[shai-secunda|Shai Secunda]]'s
+[[secunda-the-iranian-talmud|*The Iranian Talmud*]] (2014) opens a *second*, later Jewish–Zoroastrian
+front. Where the eschatology page asks whether *Achaemenid* Zoroastrianism shaped *Second Temple*
+Judaism, [[talmudo-iranica|Talmudo-Iranica]] asks how **Sasanian** Zoroastrianism and rabbinic Judaism
+interacted as living neighbors (3rd–7th c. CE): the [[talmud-bavli|Bavli]] as a product of a plural
+Iranian world, rabbis and the [[magi|magi]] building mirror-image "discourses of the Other," and a
+methodological turn **"beyond influence"** toward intertextual reading. New pages: scholarship
+`secunda-the-iranian-talmud`, commentator `shai-secunda`, concept `talmudo-iranica`, group `magi`;
+updates to `talmud-bavli`, `rabbinic-judaism`, `zoroastrianism`, and the eschatology comparison.
+
+**Resurrection — the Canaanite counter-thesis (2026-06-09)**: [[jon-d-levenson|Jon D. Levenson]]'s
+[[levenson-resurrection-and-the-restoration-of-israel|*Resurrection and the Restoration of Israel*]]
+(Yale, 2006) supplies the Jewish-biblical-theology counter-voice on a single strand of the influence
+question — the [[resurrection-of-the-dead|resurrection of the dead]]. Against the consensus that
+resurrection was a late, foreign import, Levenson roots it in native biblical themes ([[sheol|Sheol]]'s
+non-universality, familial continuity, national restoration) and ultimately in the Canaanite
+**[[the-combat-myth|Divine Warrior]]** (Baal–Mot) pattern — demoting Persia to "at best the grandmother."
+He thus **pulls against [[cohn-cosmos-chaos-and-the-world-to-come|Cohn]]** (who credits Zoroaster with the
+linear-eschatological frame) on the resurrection line, a tension recorded on the eschatology comparison per
+the Contradiction Protocol. He also sharpens the **resurrection vs. immortality-of-the-soul** distinction
+(modern Reform Judaism's drift to the latter as assimilation). New pages: scholarship
+`levenson-resurrection-and-the-restoration-of-israel`, commentator `jon-d-levenson`, concepts
+`resurrection-of-the-dead` and `sheol`; updates to the eschatology comparison, `the-combat-myth`,
+`mesopotamian-underworld`, `resurrection-body`, `elisha`. With this, **all three `raw/misc` works (Secunda,
+Delbanco, Levenson) are ingested — the queue is complete.**
 
 ### Scope expansion — Confucianism (2026-06-09)
 
@@ -764,7 +857,7 @@ tension to track on shared topics (conquest, Exodus, authorship).
 
 **Cross-wiki connections**: the new pages link densely to existing figures ([[abraham]],
 [[moses]], [[david]], [[solomon]], [[nebuchadnezzar]], [[melchizedek]]), texts
-([[genesis]], [[exodus]], [[joshua]], [[judges]], [[1-2-kings]], [[ezra-nehemiah]],
+([[genesis]], [[exodus]], [[book-of-joshua|Joshua]], [[judges]], [[1-2-kings]], [[ezra-nehemiah]],
 [[lamentations]], [[obadiah]]), concepts ([[divine-name]]), and controversies
 ([[herem-canaanite-conquest]], [[intermarriage-ezra-nehemiah]]). "Armageddon"
 ([[megiddo]]) and "Babylon the great" ([[babylon]]) connect the ANE map to NT apocalyptic

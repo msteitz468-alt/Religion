@@ -10,7 +10,7 @@ canon_distinctives: []   # OT includes the deuterocanon (Tobit, Judith, Wisdom, 
 key_doctrinal_distinctives: [papal primacy and (Vatican I) infallibility, seven sacraments, transubstantiation, Scripture and Tradition co-authoritative, Marian dogmas, purgatory]
 hermeneutical_method: [Scripture read within Tradition and the Magisterium; the fourfold senses (Quadriga)]
 key_figures: [peter-apostle, irenaeus, tertullian]
-key_texts: [matthew, romans, esther]
+key_texts: [matthew, romans, book-of-esther]
 sources_ingested: 0
 last_updated: 2026-06-09
 tags: [sect, christianity, catholicism, denomination]

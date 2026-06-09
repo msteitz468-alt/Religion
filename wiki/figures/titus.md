@@ -34,7 +34,7 @@ Commentators like Robert W. Yarbrough emphasize Titus's extensive experience—n
 **Key Links**:
 - [[galatians|Galatians]] (Jerusalem test case)
 - [[2-corinthians|2 Corinthians]] (emissary role)
-- [[titus|Titus]] (Pastoral Epistle)
+- [[letter-to-titus|Titus]] (Pastoral Epistle)
 - [[robert-yarbrough|Robert W. Yarbrough]]
 - [[paul-apostle|Paul the Apostle]]
 - [[acts|Acts of the Apostles]] (Bock) — early partnership with Paul and Barnabas

@@ -15,7 +15,7 @@ last_updated: 2026-06-07
 tags: [text, old-testament, writings, wisdom-literature, ecclesiastes, qohelet, skepticism, mortality]
 ---
 
-Ecclesiastes is the fourth Wisdom text in the wiki and the most theologically unsettling of the Hebrew Bible. Where [[proverbs|Proverbs]] confidently anchors wisdom in the "fear of the LORD" and affirms divine retribution, and [[job|Job]] tests retribution theology through a single case of innocent suffering, Ecclesiastes systematically undermines the confidence that both other Wisdom books assume. Its motto word, *hebel* ("vapor/breath/meaningless"), appears over thirty times and constitutes the book's basic verdict on human existence.
+Ecclesiastes is the fourth Wisdom text in the wiki and the most theologically unsettling of the Hebrew Bible. Where [[proverbs|Proverbs]] confidently anchors wisdom in the "fear of the LORD" and affirms divine retribution, and [[book-of-job|Job]] tests retribution theology through a single case of innocent suffering, Ecclesiastes systematically undermines the confidence that both other Wisdom books assume. Its motto word, *hebel* ("vapor/breath/meaningless"), appears over thirty times and constitutes the book's basic verdict on human existence.
 
 The book is not, however, simply the bible's nihilist manifesto. Its full theological message is a two-voice dialogue: the pessimism of Qohelet (the main speaker) is framed and corrected by a second wise teacher whose normative conclusion occupies the final two verses.
 
@@ -37,7 +37,7 @@ The critical structural observation: Ecclesiastes contains **two distinct voices
 
 The **Frame Narrator** is an unnamed wise teacher who addresses his son (12:12) and *quotes Qohelet's entire speech as a long teaching example*. The body of the book (1:12-12:7) is, in effect, a virtual quotation — a wisdom case study. The Frame Narrator's normative teaching is concentrated in the epilogue, especially 12:13-14, and it is *not simply a endorsement* of Qohelet but a correction of his trajectory.
 
-This two-voice structure is directly analogous to [[job|Job]]: both books contain extended, theologically problematic speeches by human participants (Job's friends, Qohelet) that are corrected at the end by a normative voice (the Yahweh speech from the whirlwind; the Frame Narrator's epilogue).
+This two-voice structure is directly analogous to [[book-of-job|Job]]: both books contain extended, theologically problematic speeches by human participants (Job's friends, Qohelet) that are corrected at the end by a normative voice (the Yahweh speech from the whirlwind; the Frame Narrator's epilogue).
 
 ## Genre: Framed Wisdom Autobiography
 
@@ -155,7 +155,7 @@ In this reading, Ecclesiastes functions as the NT's diagnostic foil: it describe
 
 ## Connections to the Wiki
 
-- **[[job|Job]]**: Both books have a dual-voice structure — problematic human speeches corrected by a normative voice at the end; both deal with wisdom's limits, divine inscrutability, and the inadequacy of the retribution doctrine as Proverbs states it
+- **[[book-of-job|Job]]**: Both books have a dual-voice structure — problematic human speeches corrected by a normative voice at the end; both deal with wisdom's limits, divine inscrutability, and the inadequacy of the retribution doctrine as Proverbs states it
 - **[[proverbs|Proverbs]]**: The sharpest intra-wiki tension. Proverbs (Waltke): "fear of the LORD" = positive covenantal foundation; divine retribution is trustworthy; life is God's gift. Ecclesiastes (Longman/Qohelet): "fear God" = dread of dangerous sovereign; retribution is unobservable (8:14); death renders all promises provisional
 - **[[psalms|Psalms]]**: Psalm 88 (ending in unrelieved darkness) is the Psalter's closest analogue to Qohelet's despair — both represent theologically legitimate expressions of radical suffering and doubt within the canon
 - **[[wisdom-literature|Wisdom Literature]]**: Ecclesiastes is the "destabilizing" Wisdom text; Proverbs presents the system; Job tests it with a case; Ecclesiastes attacks the system from within; together they constitute a polyphonic theological dialogue on wisdom's limits

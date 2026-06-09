@@ -100,6 +100,7 @@ The Zohar's account of the Sitra Aḥra is simultaneously a theodicy and an ethi
 - [[zohar|The Zohar]]
 - [[kabbalah|Kabbalah]]
 - [[theodicy|Theodicy]] — cross-tradition comparison
+- [[satan|Satan / the Devil]] — the cross-tradition figure; Samael as the Jewish-Kabbalistic "satan" / Accuser, contrasted with the Christian fallen-angel Devil
 - [[korah|Korah]] — his rebellion as left-vs-right sefirotic conflict
 - [[noah|Noah]] — the Flood as the Sitra Aḥra's harvest of sexual sin
 - [[adam|Adam]] — the primordial sin as the empowerment of the Sitra Aḥra

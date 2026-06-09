@@ -3,7 +3,7 @@ title: Christianity
 also_known_as: [the Christian tradition, the Jesus movement (earliest phase)]
 type: tradition
 date_range: 1st c. CE – present
-canon_core: [matthew, mark, luke, gospel-of-john, acts, romans, 1-corinthians, 2-corinthians, galatians, ephesians, philippians, colossians, 1-thessalonians, 2-thessalonians, 1-timothy, 2-timothy, titus, philemon, hebrews, james, 1-peter, 2-peter, letters-of-john, jude, revelation]
+canon_core: [matthew, mark, luke, gospel-of-john, acts, romans, 1-corinthians, 2-corinthians, galatians, ephesians, philippians, colossians, 1-thessalonians, 2-thessalonians, 1-timothy, 2-timothy, letter-to-titus, philemon, hebrews, james, 1-peter, 2-peter, letters-of-john, jude, revelation]
 hermeneutical_frameworks: [literal, allegorical, tropological, anagogical, rule-of-faith, typology]
 major_sects: [proto-orthodox-christianity, gnosticism, valentinianism, sethianism, marcionism, montanism, ebionism, arianism, catholicism, eastern-orthodoxy, protestantism]
 sources_ingested: 0

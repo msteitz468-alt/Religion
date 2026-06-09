@@ -30,18 +30,18 @@ Master index of all pages. Updated on every ingest.
 - [[leviticus|Leviticus]] — Torah/Pentateuch; sacrifice, purity, holiness; Hebrew
 - [[numbers|Numbers]] — Torah/Pentateuch; wilderness, census; Hebrew
 - [[deuteronomy|Deuteronomy]] — Torah/Pentateuch; covenant law; Hebrew
-- [[joshua|Joshua]] — Former Prophets; conquest, distribution, covenant renewal; Hebrew
+- [[book-of-joshua|Joshua]] — Former Prophets; conquest, distribution, covenant renewal; Hebrew
 - [[judges|Judges]] — Former Prophets; twelve judges; downward spiral; Hebrew
-- [[ruth|Ruth]] — Megilloth / Former Prophets (LXX); ḥesed; kinsman-redeemer; Davidic ancestry; Hebrew
+- [[book-of-ruth|Ruth]] — Megilloth / Former Prophets (LXX); ḥesed; kinsman-redeemer; Davidic ancestry; Hebrew
 - [[1-samuel|1 Samuel]] — Former Prophets; Samuel, Saul, David; transition to monarchy; Hebrew
 - [[2-samuel|2 Samuel]] — Former Prophets; David's reign; Davidic Covenant; Absalom; Hebrew
 - [[1-2-kings|1 and 2 Kings]] — Former Prophets; Deuteronomistic; Solomon; Elijah; exile; Davidic promise thread; Hebrew (enhanced with Provan NIBC: unified book as narrative literature + didactic, theocentric/Prophetic History framing, canonical excursus on Solomon/Elijah/Elisha)
 - [[ezra-nehemiah|Ezra-Nehemiah]] — Writings; post-exilic restoration; Persian period; Hebrew/Aramaic
-- [[esther|Esther]] — Writings/Megilloth; diaspora; hidden providence; God unnamed; Purim; Hebrew
+- [[book-of-esther|Esther]] — Writings/Megilloth; diaspora; hidden providence; God unnamed; Purim; Hebrew
 - [[1-2-chronicles|1–2 Chronicles]] — Writings; Davidic temple; Levitical music; recapitulation typology; Cyrus as new David; Hebrew (enhanced with Leithart Brazos: doctrinal/Nicene lens, full OT retelling typology, qahal/assembly, music as priestly-royal-prophetic sacrifice, seeking (baqash/darash), Cyrus as new David + Jubilee, David's war-bloodshed pollution, "manual for church reformers")
 
 *(Kings + Chronicles batch: narratives first (texts enhanced), then full-schema figures for Solomon/Elijah/Elisha; Provan + Leithart ingested per systematic Former Prophets continuation after Samuel. See log 2026-06-07.)*
-- [[job|Job]] — Writings/Wisdom literature; theodicy; innocent suffering; heavenly court; Hebrew
+- [[book-of-job|Job]] — Writings/Wisdom literature; theodicy; innocent suffering; heavenly court; Hebrew
 - [[psalms|Psalms (Psalter)]] — Writings/Poetry; five-book narrative; lament to praise; David to Moses; Hebrew
 - [[proverbs|Proverbs]] — Writings/Wisdom; seven collections; fear of the LORD; Woman Wisdom; Solomon; Hebrew
 - [[ecclesiastes|Ecclesiastes (Qohelet)]] — Writings/Wisdom; two voices; *hebel*; Solomonic persona; frame narrator; Hebrew
@@ -82,7 +82,7 @@ Master index of all pages. Updated on every ingest.
 - [[2-thessalonians|Second Letter to the Thessalonians]] — NT/Epistle; man of lawlessness; the restrainer; eschatological sequence; rebellious idlers; authorship disputed; Pauline/pseudonymous; Greek; Weima BECNT ingested
 - [[1-timothy|First Letter to Timothy]] — NT/Epistle/PE; church order; overseer qualifications; women and teaching; sound doctrine; Pastoral Epistle; authorship disputed; Greek; Yarbrough PNTC ingested
 - [[2-timothy|Second Letter to Timothy]] — NT/Epistle/PE; final letter; God-breathed Scripture; faithful saying; Paul's death; authorship disputed; Greek; Yarbrough PNTC ingested
-- [[titus|Letter to Titus]] — NT/Epistle/PE; two epiphanies; Titus 2:13 Christ-as-God; Spirit regeneration; Crete; authorship disputed; Greek; Yarbrough PNTC ingested
+- [[letter-to-titus|Letter to Titus]] — NT/Epistle/PE; two epiphanies; Titus 2:13 Christ-as-God; Spirit regeneration; Crete; authorship disputed; Greek; Yarbrough PNTC ingested
 - [[hebrews|Letter to the Hebrews]] — NT/General Epistle; Christ as High Priest; Melchizedek; once-for-all sacrifice; New Covenant; perseverance; warning passages; Greek; Cockerill NICNT ingested
 - [[james|The Letter of James]] — NT/General Epistle; faith and works; "justified by works" (2:24); spiritual wholeness vs. double-mindedness; the tongue; wisdom from above; anointing the sick; intensely practical; Greek; Moo PNTC ingested
 - [[1-peter|The First Letter of Peter]] — NT/General Epistle; Diaspora letter; "foreigners and resident aliens"; suffering for the name; Christ as Suffering Servant; spirits in prison (3:18–22); household code; Roman colonization theory; Greek; Jobes BECNT ingested
@@ -173,6 +173,7 @@ Master index of all pages. Updated on every ingest.
 - [[dianetics|Dianetics: The Modern Science of Mental Health]] — Hubbard (1950); the analytical vs. reactive mind, engrams, the path to "Clear"; primary text in `raw/`
 - [[science-of-survival|Science of Survival]] — Hubbard (1951); the Tone Scale / Chart of Human Evaluation; primary text in `raw/`
 - [[scientology-fundamentals-of-thought|Scientology: The Fundamentals of Thought]] — Hubbard (1956); the "basic book" (Eight Dynamics, ARC triangle, parts of man); primary text in `raw/`
+- [[notes-on-the-lectures|Notes on the Lectures of L. Ron Hubbard]] — compiled from the 1950 LA/Oakland lecture series; the earliest lecture form of the Tone Scale, ARC, engrams, the Dynamics (new 2026-06-09)
 
 ### Greek and Roman Religion
 
@@ -215,6 +216,40 @@ Master index of all pages. Updated on every ingest.
 
 - [[popol-vuh|The Popol Vuh]] — the K'iche' Maya creation epic; the failed humanities, the Hero Twins vs. Xibalba, the people of maize; ingested
 
+### Norse Religion
+
+*(Tradition added 2026-06-09.)*
+
+- [[poetic-edda|The Poetic Edda]] — the Elder Edda; the Völuspá (creation to Ragnarök), Hávamál; Bellows translation ingested
+- [[prose-edda|The Prose Edda]] — Snorri Sturluson's systematic handbook of the myths (Gylfaginning); Brodeur translation ingested
+
+### Celtic Religion
+
+*(Tradition added 2026-06-09.)*
+
+- [[mabinogion|The Mabinogion]] — the Four Branches of the Welsh Mabinogi; Pwyll & Annwn, Branwen, Math; Lady Guest translation ingested
+- [[gods-and-fighting-men|Gods and Fighting Men]] — Lady Gregory's retelling of the Irish Mythological & Fenian cycles; the Tuatha Dé Danann, the Battles of Mag Tuired, Fionn; ingested
+
+### Chinese Folk Religion
+
+*(Tradition added 2026-06-09.)*
+
+- [[myths-and-legends-of-china|Myths and Legends of China]] — Werner's 1922 compilation; the pantheon mapped as a celestial bureaucracy; P'an Ku, the gods of the ministries, Guanyin, the Eight Immortals, Monkey; ingested
+- [[investiture-of-the-gods|Investiture of the Gods (Fengshen Yanyi)]] — the Ming novel charter-myth of the gods' appointment to heavenly office; Nezha, Li Jing; referenced
+
+### Shinto
+
+*(Tradition added 2026-06-09.)*
+
+- [[kojiki|The Kojiki]] — "Record of Ancient Matters" (712 CE); Japan's oldest book; the age of the gods and the imperial-descent myth; Chamberlain translation ingested
+- [[nihongi|The Nihongi (Nihon Shoki)]] — "Chronicles of Japan" (720 CE); the official court history; preserves variant myths; Aston translation ingested
+
+### Yoruba Religion
+
+*(Tradition added 2026-06-09.)*
+
+- [[ifa-corpus|The Ifa Corpus (Odu Ifa)]] — the oral divinatory "scripture" of Yoruba religion; 256 *odu* signatures, each with memorized verse-stories; canonical across the African and diaspora forms; UNESCO oral-heritage masterpiece (new 2026-06-09)
+
 ---
 
 ## Figures
@@ -228,6 +263,31 @@ Master index of all pages. Updated on every ingest.
 - **Underworld**: [[hades|Hades/Pluto]], [[persephone|Persephone/Proserpina]], [[hecate|Hecate]]
 - **Other deities & personifications**: [[eros|Eros/Cupid]], [[pan|Pan/Faunus]], [[heracles|Heracles/Hercules]], [[asclepius|Asclepius]], [[nike|Nike/Victoria]], [[tyche|Tyche]] / [[fortuna|Fortuna]]
 - **Distinctly Roman** (no Greek twin): [[janus|Janus]], [[quirinus|Quirinus]], [[lares-and-penates|the Lares & Penates]]
+
+### The Norse Pantheon (2026-06-09)
+
+- **The great gods** (detailed narratives): [[odin|Odin]], [[thor|Thor]], [[loki|Loki]], [[baldr|Baldr]]
+- **Æsir & Vanir**: [[frigg|Frigg]], [[tyr|Týr]], [[heimdall|Heimdall]], [[freyja|Freyja]], [[freyr|Freyr]], [[njord|Njörð]], [[idunn|Iðunn]]
+- **Primordial, death & monsters**: [[ymir|Ymir]], [[hel|Hel]], [[fenrir|Fenrir]], [[jormungandr|Jörmungandr]]
+- Mythographer: [[snorri-sturluson|Snorri Sturluson]]
+
+### The Celtic Pantheon (2026-06-09)
+
+- **The great gods** (detailed narratives): [[lugh|Lugh]], [[the-dagda|the Dagda]], [[morrigan|the Morrígan]], [[rhiannon|Rhiannon]], [[bran-the-blessed|Brân the Blessed]]
+- **Irish / Tuatha Dé Danann**: [[nuada|Nuada]], [[brigid|Brigid]], [[manannan|Manannán mac Lir]], [[dian-cecht|Dian Cécht]], [[balor|Balor]]
+- **Welsh / Mabinogion**: [[branwen|Branwen]], [[pwyll|Pwyll]], [[arawn|Arawn]]
+
+### The Chinese Pantheon (2026-06-09)
+
+- **The great gods** (detailed narratives): [[pangu|Pángǔ]], [[jade-emperor|the Jade Emperor]], [[guanyin|Guanyin]], [[the-eight-immortals|the Eight Immortals]], [[sun-wukong|Sun Wukong]]
+- **Creation, fate & immortality**: [[nuwa|Nüwa]], [[xi-wangmu|Queen Mother of the West]], [[yan-wang|Yan Wang]]
+- **Household, local & ministry gods**: [[kitchen-god|the Kitchen God]], [[tudi-gong|the Earth God]], [[mazu|Mazu]], [[nezha|Nezha]], [[long-wang|the Dragon Kings]]
+
+### The Shinto Pantheon (2026-06-09)
+
+- **The great kami** (detailed narratives): [[amaterasu|Amaterasu]], [[susanoo|Susanoo]], [[izanagi-and-izanami|Izanagi & Izanami]], [[okuninushi|Ōkuninushi]]
+- **Heaven, moon & imperial line**: [[ninigi|Ninigi]], [[tsukuyomi|Tsukuyomi]], [[ame-no-uzume|Ame-no-Uzume]], [[jimmu|Jimmu]]
+- **Shrine kami, monster & fire**: [[inari|Inari]], [[hachiman|Hachiman]], [[yamata-no-orochi|Yamata-no-Orochi]], [[kagutsuchi|Kagutsuchi]]
 
 ### The Mesoamerican Pantheon (2026-06-09)
 
@@ -385,6 +445,7 @@ Master index of all pages. Updated on every ingest.
 - [[michael-archangel|Michael the Archangel]] — Chief prince of Israel; disputes with the devil over Moses' body (Jude); eschatological warrior
 - [[cain|Cain]] — Firstborn of Adam; murderer of Abel; archetype of murderous jealousy and rebellion (Jude)
 - [[korah|Korah]] — Levite who led a rebellion against Moses and Aaron; archetype of antiauthoritarian schism (Jude)
+- [[satan|Satan / the Devil]] — the cross-tradition personification of evil, a composite figure assembled over a millennium: *ha-satan* the heavenly Accuser (Job, Zech) → Second Temple cosmic rebel (Mastema, Belial) → NT/patristic fallen-angel Devil (Augustine, Milton; the dragon of Revelation) → Islamic Iblis/Shaytan → Kabbalistic Samael ([[sitra-ahra|Sitra Aḥra]]); subordinated to God (vs. Zoroastrian Ahriman); his modern "death" per Delbanco (new 2026-06-09)
 
 ---
 
@@ -396,6 +457,7 @@ Master index of all pages. Updated on every ingest.
 - [[middle-platonists|Middle Platonists]] — Hellenistic philosophical movement (c. 80 BCE–3rd c. CE); revival of dogmatic Platonism claiming agreement with Aristotle and Stoicism; theistic turn; key influence on Philo and early Christian Logos theology / allegorical exegesis (Stead, *Philosophy in Christian Antiquity*, Ch. 6). First group page under new schema.
 - [[cappadocian-fathers|Cappadocian Fathers]] — 4th-c. Eastern theologians (Basil of Caesarea, Gregory of Nazianzus, Gregory of Nyssa); fixed orthodox Trinitarian vocabulary (ousia for common nature/substratum vs. hypostasis for individual subsistences); defenders of Nicene homoousios and Spirit’s divinity; architects of relative unity (rule or substratum) and apophatic/mystical theology. Detailed in Wolfson (*Philosophy of the Church Fathers*, Part Two); cross-linked to Nicaea, logos-christology, and Stead/Wolfson scholarship.
 - [[pharisees|Pharisees]] — Jewish religious party (c. 160 BC–70 AD); rigorist Torah observance; oral Torah advocates; forebears of Rabbinic Judaism; Paul’s pre-conversion identity; party (not sect) that wished all Israel to observe but did not claim exclusive election; Hurtado (*Destroyer of the Gods*): Paul’s Pharisaic "zeal" = Phinehas-tradition vigilante covenant fidelity.
+- [[magi|The Magi (Zoroastrian Priesthood)]] — the [[zoroastrianism|Zoroastrian]] priestly class (*maguš*; rabbinic *amgusha*/*ḥabar*) as the **[[talmud-bavli|Bavli]]**'s "significant Other": reciters of the Avesta, "sorcerers"/"mumblers"/"destroying angels," occasional teachers of forbidden lore — yet mirrored against the rabbis as a rival recitation-based, internally competitive priesthood (Secunda, *The Iranian Talmud*) (new 2026-06-09)
 - [[hellenized-diaspora-jews|Hellenized Diaspora Jews]] — Greek-speaking Jews living outside the land of Israel, 1st–5th c. CE; primary mission field of earliest Christianity per Stark; bridge population between Jewish and Hellenic cultures; LXX as their scriptural medium; synagogue networks as foundation of Pauline missionary activity; cultural marginality as conversion opportunity; Marcion affair as evidence of Jewish-Christian dominance into mid-2nd c. (Stark, *Rise of Christianity*, Ch. 3)
 
 ### Ancient Near Eastern Peoples & Empires (Hebrew Bible — Coogan ingest, 2026-06-07)
@@ -509,7 +571,10 @@ Master index of all pages. Updated on every ingest.
 - [[coogan-oxford-history-biblical-world|The Oxford History of the Biblical World]] (Michael D. Coogan, ed.; Oxford, 1998) — multi-author historical-critical and archaeological survey of the biblical world from the Bronze Age through the Roman period. Ingested (2026-06-07) specifically to enrich **groups/** and **locations/**: Bronze Age peoples (Canaanites, Amorites, Hurrians, Hyksos, Apiru), the emergence of Israel and the Philistines/Sea Peoples, and the imperial powers (Assyria, Babylon, Persia) and their cities (Jerusalem, Samaria, Babylon, Ugarit, Hazor, Megiddo, Shechem, Byblos, Ashkelon, Ekron, Lachish, Jericho, Nineveh). Treats the Bible as a dependent variable weighed against archaeology; key tensions: Exodus historicity, the failure of the literal conquest model, Midianite/Kenite origin of Yahwism, Samarian Yahwism. Chapter authors include Pitard, Redmount, Stager, M. Cogan, and Leith.
 
 ### Scholarship (World Religions)
+- [[cohn-cosmos-chaos-and-the-world-to-come|Cohn, *Cosmos, Chaos and the World to Come*]] (Norman Cohn; Yale, 2nd ed. 2001) — the ancient roots of apocalyptic faith; the static-cosmos/combat-myth → Zoroastrian linear-eschatology thesis (new 2026-06-09)
 - [[skjaervo-spirit-of-zoroastrianism|Skjærvø, *The Spirit of Zoroastrianism*]] (Prods Oktor Skjærvø; Yale, 2011) — Avestan philology + translated primary sources; periodizes Old Avestan / Young Avestan / late Pahlavi (key for influence-tracing); user-supplied (new 2026-06-09)
+- [[secunda-the-iranian-talmud|Secunda, *The Iranian Talmud*]] (Shai Secunda; Penn Press, 2014) — reading the [[talmud-bavli|Bavli]] in its Sasanian Zoroastrian context (**[[talmudo-iranica|Talmudo-Iranica]]**); rabbinic/Zoroastrian "discourses of the Other"; the move "beyond influence" toward intertextuality; the late-antique counterpart to the eschatology-influence question (new 2026-06-09)
+- [[levenson-resurrection-and-the-restoration-of-israel|Levenson, *Resurrection and the Restoration of Israel*]] (Jon D. Levenson; Yale, 2006) — the [[resurrection-of-the-dead|resurrection of the dead]] as a native, "weight-bearing" rabbinic doctrine grown from biblical roots ([[sheol|Sheol]], familial continuity, [[the-combat-myth|Divine Warrior]]), not a late Zoroastrian import; the resurrection/immortality-of-the-soul distinction; the Canaanite counter-thesis to the [[zoroastrian-influence-on-abrahamic-eschatology|influence page]] (new 2026-06-09)
 - [[reitman-inside-scientology|Reitman, *Inside Scientology*]] (2011) — the anchor independent history of Scientology; investigative journalism (new 2026-06-09)
 - [[malko-the-now-religion|Malko, *Scientology: The Now Religion*]] (1970) — early period source, near the movement's origins (new 2026-06-09)
 - [[shelton-a-to-xenu|Shelton, *Scientology: A to Xenu*]] (2015) — ex-member insider's explanation of "the tech" (new 2026-06-09)
@@ -526,6 +591,8 @@ Master index of all pages. Updated on every ingest.
 - [[moses-de-leon|Moses de León]] (c. 1240–1305) — Castilian kabbalist; principal author/compiler of the [[zohar|Zohar]] (attributed to Shim'on bar Yoḥai); theurgy, divine feminine, Sitra Aḥra; wrote ~20 Hebrew works (*Sefer ha-Rimmon*); see [[zohar-authorship|authorship controversy]]
 - [[joseph-caro|Joseph Caro]] (1488–1575) — Shulchan Aruch; final Sephardic codifier
 - [[daniel-matt|Daniel C. Matt]] (b. 1950) — Modern academic scholar of Jewish mysticism; translator/annotator of the *Zohar: Pritzker Edition* (Stanford, 2004–2017) from a reconstructed critical Aramaic text; historical-critical, de León authorship; the wiki's Zohar source
+- [[shai-secunda|Shai Secunda]] (b. 1979) — Modern academic Talmudist + Iranist; founder-systematizer of **[[talmudo-iranica|Talmudo-Iranica]]** (reading the [[talmud-bavli|Bavli]] in its Sasanian Zoroastrian context); historical/source-critical + Iranian philology + "beyond influence" comparison; *The Iranian Talmud* (2014); Bard College (new 2026-06-09)
+- [[jon-d-levenson|Jon D. Levenson]] (b. 1949) — Harvard; the leading practitioner of **Jewish biblical theology** (historical criticism + theology + rabbinic exegesis); *Resurrection and the Restoration of Israel* (2006); [[resurrection-of-the-dead|resurrection]] as native rabbinic doctrine, resurrection vs. immortality of the soul, the Canaanite [[the-combat-myth|Divine Warrior]] as its root; against anachronistic individualism (new 2026-06-09)
 
 ### Christian Tradition (Evangelical Protestant)
 - [[victor-hamilton|Victor P. Hamilton]] — NICOT Genesis (2 vols., 1990/1995); evangelical
@@ -572,6 +639,12 @@ Master index of all pages. Updated on every ingest.
 - [[gene-green|Gene L. Green]] — BECNT Jude and 2 Peter (2008); cultural-contextual + social (honor) reading; defends authenticity of both; Jude's authoritative use of 1 Enoch; against the testament-genre argument; 2 Peter depends on Jude (*imitatio*); Majority World theology; Wheaton (distinct from Joel B. Green)
 - [[grant-osborne|Grant R. Osborne]] (1942–2018) — BECNT Revelation (2002); *The Hermeneutical Spiral*; Johannine authorship; Domitianic date; eclectic-futurist method; historic premillennial; mission theology; classical Arminian; TEDS; doctoral student of I. H. Marshall
 
+### Scholarship (Philosophy of Religion / Comparative — 2026-06-09)
+- [[john-hick|John Hick]] (1922–2012) — *An Interpretation of Religion* (Gifford Lectures, 1989); the leading philosopher of [[religious-pluralism|religious pluralism]]; neo-Kantian distinction of [[the-real|the Real]] *an sich* vs. as humanly experienced; the soteriological criterion (self- → Reality-centredness); the [[axial-age|axial age]] as the soteriological watershed; critical [[religious-realism|realism]] vs. non-realism; the "Copernican revolution" in theology. First philosophy-of-religion / cross-tradition meta-level source.
+- [[karen-armstrong|Karen Armstrong]] (b. 1944) — *A History of God* (1993); narrative historian of the monotheistic idea of God; [[mythos-and-logos|mythos vs. logos]]; the personal God (idol-prone) vs. the [[apophatic-theology|God of the mystics]]; religion as pragmatic and discardable; fundamentalism as a modern aberration; drifts toward [[religious-realism|non-realism]], dividing her from Hick. Developmental-experiential wing of [[religious-pluralism-debate|the pluralism debate]].
+- [[stephen-prothero|Stephen Prothero]] (b. 1960) — *God Is Not One* (2010); religious-studies scholar (Boston University); the leading **[[religious-pluralism-debate|particularist]]** — "God is not one," against "Godthink"; each religion has a distinct [[four-part-model-of-religion|problem → solution → technique → exemplar]]; "only Christians seek salvation"; targets [[perennialism|perennialism]] *and* the New Atheists as theology-in-disguise; elevates [[yoruba-religion|Yoruba religion]] to a great religion. The counter-case to both Hick and Armstrong.
+- [[andrew-delbanco|Andrew Delbanco]] (b. 1952) — *The Death of Satan* (1995); Columbia literary/cultural historian; "national spiritual biography" of how America "unnamed" evil and the personified [[satan|Devil]] "died"; the [[secularization-of-evil|secularization of evil]]; belief vs. irony; the banality of evil; we cannot live without metaphor. The wiki's source on the modern reception of evil.
+
 ---
 
 ## Concepts
@@ -610,6 +683,29 @@ Master index of all pages. Updated on every ingest.
 - [[arc-triangle|The ARC Triangle]] — Affinity, Reality, Communication = understanding
 - [[eight-dynamics|The Eight Dynamics]] — the urge to "Survive!" across eight expanding spheres (self → infinity)
 
+### Norse (2026-06-09)
+- [[ragnarok|Ragnarök]] — the doom and rebirth of the gods; the gods die fighting their fated end
+- [[yggdrasil|Yggdrasil and the Nine Worlds]] — the world-tree and the Norse cosmos
+- [[valhalla|Valhalla and the Norse afterlife]] — the warrior dead; death sorted by its manner
+- [[norns|The Norns (fate / wyrd)]] — fate as the deepest power, ruling gods and men alike
+
+### Celtic (2026-06-09)
+- [[the-otherworld|The Otherworld]] — the Celtic land of the gods and ever-young dead; Tír na nÓg; not a hell but a feasting-country
+- [[annwn|Annwn]] — the Welsh Otherworld as a neighboring kingdom (Pwyll & Arawn); the cauldron and the Wild Hunt
+- [[the-tuatha-de-danann|The Tuatha Dé Danann]] — the Irish divine race euhemerized into invaders; the gods who became the fairy-folk
+- [[sacred-kingship|Sacred kingship & the sovereignty goddess]] — kingship by union with the land; the blemished king cannot rule
+
+### Chinese (2026-06-09)
+- [[celestial-bureaucracy|The celestial bureaucracy]] — Heaven as an empire of ranked divine officials; gods as deified humans, promoted and demoted
+- [[tian-shangdi|Tian & Shangdi]] — Heaven and the High God; the Mandate of Heaven above even the Jade Emperor
+- [[diyu|Diyu]] — the Chinese underworld; the Ten Courts, judicial punishment, and rebirth (not eternal hell)
+
+### Shinto (2026-06-09)
+- [[kami|Kami]] — the "eight million" sacred powers; anything that inspires awe; immanent, finite, not wholly good
+- [[harae|Harae & kegare]] — purification and pollution; Shinto's central axis in place of sin/righteousness
+- [[musubi|Musubi]] — the generative, life-binding kami-force; a cosmos continually produced, not created from nothing
+- [[matsuri|Matsuri]] — festival and worship; serving and renewing the bond of community and kami
+
 ### Mesoamerican (2026-06-09)
 - [[five-suns|The Five Suns]] — the Aztec cyclical world-ages; the present sun born of the gods' sacrifice
 - [[mesoamerican-sacrifice|Sacrifice and the Sun]] — blood as the cosmic debt that keeps the sun moving
@@ -640,9 +736,12 @@ Master index of all pages. Updated on every ingest.
 - [[aggadah|Aggadah]] — Non-legal rabbinic material; narrative, theology, parable
 - [[thirteen-middot|Thirteen Middot of Rabbi Ishmael]] — Formal hermeneutical rules for deriving law
 - [[talmudic-hermeneutics|Talmudic Hermeneutics]] — Formal logical principles for legal derivation
+- [[talmudo-iranica|Talmudo-Iranica]] — modern comparative subfield reading the [[talmud-bavli|Bavli]] in its Sasanian Iranian context; disciplines "influence" toward intertextuality across a shared "text-scape" (Secunda/Elman) (new 2026-06-09)
 - [[gemara|Gemara]] — The dialectical commentary on the Mishna
 - [[pilpul|Pilpul]] — Intense, penetrating logical analysis and dialectical reasoning
 - [[pardes|PaRDeS (Fourfold Sense)]] — Peshat / Remez / Derash / Sod; the four levels of Jewish interpretation; Sod is Kabbalah's domain; parallels the Christian Quadriga and Islamic zahir/batin
+- [[fourfold-sense|Fourfold Sense (the Quadriga)]] — the Christian four senses: literal, allegorical, tropological (moral), anagogical; Cassian's "Jerusalem"; Aquinas's literal-sense priority; the parallel to PaRDeS (new 2026-06-09)
+- [[allegorical-reading|Allegorical Reading]] — the cross-tradition allegory family: Remez (Jewish), theōria/allegoria (Christian — Philo, Origen, Clement), ta'wil/bāṭin (Islamic); distinguished from typology; the recurring letter-vs-spirit controversy (new 2026-06-09)
 
 ### Jewish Mysticism (Kabbalah)
 *(New concept cluster, 2026-06-07, from the Zohar I ingest — first Jewish-mysticism source.)*
@@ -676,6 +775,9 @@ Master index of all pages. Updated on every ingest.
 - [[davidic-covenant|The Davidic Covenant (2 Sam 7)]] — YHWH's unconditional promise to David; eternal dynasty; Messianic foundation
 - [[midrash|Midrash]] — Method and corpus of intertextual Torah interpretation; embryo in Ezra 7:10; rabbinic development
 - [[theodicy|Theodicy]] — The problem of reconciling divine goodness with evil and suffering; Job as the central OT locus
+- [[secularization-of-evil|The Death of Satan / Secularization of Evil]] — Delbanco's thesis: modern (esp. American) culture's loss of a shared language for evil as the personified Devil "died"; banality of evil, the age of blame, belief vs. irony; the modern phase succeeding classical theodicy (new 2026-06-09)
+- [[resurrection-of-the-dead|Resurrection of the Dead (Tehiyyat ha-Metim)]] — bodily, communal, end-time raising of the dead; vs. immortality of the soul; Mishnah Sanhedrin 10:1 + the Amidah's *Gevurot*; Daniel 12 / Isaiah 26; the Canaanite Divine-Warrior root and Levenson's qualification of the Zoroastrian-influence thesis (new 2026-06-09)
+- [[sheol|Sheol]] — the biblical netherworld; the Pit; Levenson's fortunate/unfortunate-death distinction and the non-universality / non-irreversibility that "gesture toward" resurrection; cf. the Mesopotamian underworld (new 2026-06-09)
 - [[wisdom-literature|Wisdom Literature]] — Job, Proverbs, Ecclesiastes; genre; fear of YHWH; creation theology; ANE parallels
 - [[woman-wisdom|Woman Wisdom (Personified Wisdom)]] — Proverbs 8; hypostasis vs. type of Christ; Arian controversy; Christology
 - [[hebel|*Hebel* (Vanity/Meaninglessness)]] — Ecclesiastes' governing term; vapor/breath; death and inaccessible time; Romans 8 allusion
@@ -683,7 +785,8 @@ Master index of all pages. Updated on every ingest.
 - [[servant-songs|Servant Songs / Suffering Servant]] — Isaiah 42, 49, 50, 52-53; identity debate; substitutionary atonement; Christological fulfillment
 - [[new-covenant|New Covenant]] — Jeremiah 31:31-34; Torah on hearts; universal knowledge; forgiveness; longest OT quote in NT (Hebrews 8, 10)
 - [[divine-glory-kabod|Divine Glory (*Kābôd*)]] — YHWH's manifest presence; tabernacle to Ezekiel's temple to Incarnation to new Jerusalem
-- [[apocalyptic-literature|Apocalyptic Literature]] — genre; symbolic imagery; numbers; Daniel to Revelation; "God is in control"; hermeneutic
+- [[apocalyptic-literature|Apocalyptic Literature]] — genre; symbolic imagery; numbers; Daniel to Revelation; "God is in control"; hermeneutic; Cohn's ancient roots
+- [[frashokereti|Frashokereti ("the Making Wonderful")]] — the Zoroastrian final renovation of the world (resurrection, judgment, savior); Cohn's keystone (new 2026-06-09)
 - [[book-of-the-twelve|Book of the Twelve (Minor Prophets)]] — 12 prophets as canonical unit; Day of Yahweh; recurring themes; Joel as anchor
 
 ### Historical-Critical Methods
@@ -731,6 +834,16 @@ Master index of all pages. Updated on every ingest.
 - [[double-mindedness|Double-Mindedness and Spiritual Wholeness (*Dipsychos* / *Teleios*)]] — James's organizing concern; undivided loyalty to God vs. "double-souled" wavering; friendship with the world as spiritual adultery; "two ways" ethic
 - [[christian-exile-diaspora|Christian Exile / Diaspora Identity (*Parepidēmoi* / *Paroikoi*)]] — 1 Peter's controlling self-understanding; "foreigners and resident aliens"; election in exile; Christ the archetypal outsider; engagement not withdrawal; literal + spiritual (Jobes)
 - [[theosis-divine-nature|Theosis / Partakers of the Divine Nature (2 Pet 1:4)]] — deification; the only NT "partakers of the divine nature" text; ontological vs. immortality vs. moral-transformation readings; Eastern Orthodox *theōsis*; Green's moral reading
+
+### Philosophy of Religion / Comparative (2026-06-09)
+- [[religious-pluralism|Religious Pluralism]] — the religions as comparably valid responses to one reality; Race's exclusivism/inclusivism/pluralism typology; Hick's hypothesis; pluralism vs. perennialism (Hick ingest)
+- [[the-real|The Real]] — Hick's neo-Kantian ultimate; the Real *an sich* vs. as humanly experienced; personae/impersonae; the apophatic ground of all traditions
+- [[axial-age|The Axial Age (Achsenzeit)]] — Jaspers/Hick; the c. 800–200 BCE turn from cosmic/archaic to soteriological religion; pre-axial vs. post-axial
+- [[religious-realism|Religious Realism vs. Non-Realism]] — does religious language refer? critical realism (Hick) vs. non-realism (Feuerbach, Braithwaite, Phillips, Cupitt)
+- [[mythos-and-logos|Mythos and Logos]] — Armstrong's two modes of knowing; myth as non-literal symbolic truth; fundamentalism as the mythos-as-logos error
+- [[apophatic-theology|Apophatic Theology]] — the *via negativa*; Armstrong's personal God (idol-prone) vs. the God of the mystics; the "God of the philosophers"; Ein Sof, nirguna Brahman, batin
+- [[perennialism|Perennialism]] — the *philosophia perennis*; the "many paths up one mountain"; Huxley, the Traditionalists, Huston Smith; Prothero's chief target ("pretend pluralism," "Godthink")
+- [[four-part-model-of-religion|The Four-Part Model of Religion]] — Prothero's problem → solution → technique → exemplar scheme; an anti-reductive comparative device
 
 ---
 
@@ -878,6 +991,44 @@ a `sects/` page, cross-linked.)*
     - [[maya-religion|Maya Religion]] — the Popol Vuh, the Hero Twins, Xibalba, the Long Count (new 2026-06-09)
     - [[aztec-religion|Aztec Religion]] — the Five Suns; human sacrifice to feed the sun; Huitzilopochtli (new 2026-06-09)
 
+### Norse Religion
+- [[norse-religion|Norse Religion]] — tradition overview; the Viking-Age Germanic polytheism; a fated cosmos doomed at Ragnarök; the Eddas (new tradition 2026-06-09)
+  - **Cult forms / sub-traditions** ([[norse-religion|↑]]):
+    - [[aesir-cult|The Æsir Cult]] — Odin & Thor; sovereignty, war, Valhalla (new 2026-06-09)
+    - [[vanir-cult|The Vanir Cult]] — Freyr & Freyja; fertility and kingship (new 2026-06-09)
+    - [[seidr|Seiðr]] — the shamanic magic/prophecy tradition (new 2026-06-09)
+    - [[asatru|Ásatrú / Heathenry]] — the modern reconstructed revival (new 2026-06-09)
+
+### Celtic Religion
+- [[celtic-religion|Celtic Religion]] — tradition overview; the polytheism of the Gauls, Britons & Gaels; a religion with almost no scripture of its own, preserved as euhemerized saga; the Otherworld (new tradition 2026-06-09)
+  - **Cult forms / sub-traditions** ([[celtic-religion|↑]]):
+    - [[tuatha-de-danann-cult|Tuatha Dé Danann cult]] — the Irish divine race; Lugh, the Dagda, the Morrígan (new 2026-06-09)
+    - [[mabinogion-tradition|The Mabinogion tradition]] — Welsh/Brythonic; the families of Dôn & Llŷr; Rhiannon, Brân (new 2026-06-09)
+    - [[druidism|Druidism]] — the druidic priesthood; oral lore, soul's immortality, sacrifice (new 2026-06-09)
+    - [[celtic-reconstructionism|Celtic Reconstructionism / modern Druidry]] — the modern revivals (new 2026-06-09)
+
+### Chinese Folk Religion
+- [[chinese-folk-religion|Chinese Folk Religion]] — tradition overview; the diffused popular religion of gods, ghosts & ancestors; the celestial bureaucracy under the Jade Emperor; syncretism of the "three teachings"; apotheosis of humans into gods (new tradition 2026-06-09)
+  - **Cult forms / sub-traditions** ([[chinese-folk-religion|↑]]):
+    - [[celestial-bureaucracy-cult|The celestial-bureaucracy cult]] — shén worship; the ranked gods; imperial canonization (new 2026-06-09)
+    - [[ancestor-veneration|Ancestor veneration]] — the ancestral cult; the dead as continuing family; filial piety (new 2026-06-09)
+    - [[mazu-cult|The Mazu cult]] — the deified sea-goddess & the popular saviour-goddesses (with Guanyin) (new 2026-06-09)
+    - [[household-gods-cult|Household & local gods]] — the Kitchen God, Earth God, City God, door gods (new 2026-06-09)
+
+### Shinto
+- [[shinto|Shinto]] — tradition overview; "the way of the kami"; the indigenous religion of Japan; no founder/creed; purity over sin; the Kojiki imperial myth (new tradition 2026-06-09)
+  - **Cult forms / sub-traditions** ([[shinto|↑]]):
+    - [[shrine-shinto|Shrine Shinto (Jinja)]] — the mainstream; kami worship at shrines; Ise, Inari, Hachiman (new 2026-06-09)
+    - [[state-shinto|State Shinto (Kokka)]] — the 1868–1945 nationalized emperor-cult; disestablished (new 2026-06-09)
+    - [[sect-shinto|Sect Shinto (Kyōha)]] — the Thirteen organized sects; mountain cults, faith-healing, Tenrikyō (new 2026-06-09)
+    - [[folk-shinto|Folk Shinto & shinbutsu-shūgō]] — popular/domestic kami practice; the long Shinto-Buddhist fusion (new 2026-06-09)
+
+### Yoruba Religion
+- [[yoruba-religion|Yoruba Religion]] — tradition overview; "the way of the orishas"; West Africa & its Atlantic diaspora; the problem of *disconnection*, the goal of *connection*; *ashe* (power-to-make-things-happen); Ifa divination; the morally double-edged orishas; elevated to a "great religion" by Prothero (new tradition 2026-06-09)
+  - **Diaspora sects / sub-traditions** ([[yoruba-religion|↑]]):
+    - [[santeria|Santería (Regla de Ocha / Lucumí)]] — the Cuban form; orishas behind Catholic saints; the Hialeah sacrifice case (new 2026-06-09)
+    - [[candomble|Candomblé]] — the Brazilian form; the *terreiro*; a "danced religion"; matriarchal priestesses (new 2026-06-09)
+
 ### Samaritanism
 - [[samaritanism|Samaritanism]] — top-level **parallel tradition** (not a sect of Judaism); canon is the **Samaritan Pentateuch alone**; [[mount-gerizim|Gerizim]]-centered worship; cross-linked to [[samaritans|Samaritans]] (group) and [[gerizim-vs-jerusalem]] (new tradition 2026-06-09)
 
@@ -886,7 +1037,8 @@ a `sects/` page, cross-linked.)*
 ## Comparisons
 
 - [[genesis-ancient-near-east|Genesis and the Ancient Near East]] — Enuma Elish, Atrahasis, Gilgamesh, Ugaritic parallels
-- [[zoroastrian-influence-on-abrahamic-eschatology|Zoroastrian Influence on Abrahamic Eschatology]] — dualism, angelology, resurrection, judgment, savior, renewal; the influence-tracing question (new 2026-06-09)
+- [[zoroastrian-influence-on-abrahamic-eschatology|Zoroastrian Influence on Abrahamic Eschatology]] — dualism, angelology, resurrection, judgment, savior, renewal; the influence-tracing question (incl. Cohn's static→linear thesis) (new 2026-06-09)
+- [[the-combat-myth|The Combat Myth (Cosmos vs. Chaos)]] — the champion-god-vs-chaos-dragon pattern across Mesopotamia, Vedic India, Egypt, Canaan, Greece; Cohn's static-cosmos reading (new 2026-06-09)
 - [[interpretatio-romana|Interpretatio Romana — Greek & Roman God Equivalences]] — the full Zeus=Jupiter, Ares=Mars… mapping, with caveats (new 2026-06-09)
 
 ---
@@ -896,6 +1048,9 @@ a `sects/` page, cross-linked.)*
 ### Islamic / Cross-Tradition (2026-06-09)
 - [[qiraat-variant-readings|The Qira'at (Variant Qur'anic Readings)]] — the seven/ten canonical recitations vs. the preservation claim vs. revisionist text-criticism
 - [[crucifixion-in-the-quran|The Crucifixion of Jesus — Qur'an 4:157 vs. the Gospels]] — Islam's denial of the crucifixion; the sharpest Islam–Christianity contradiction
+
+### Philosophy of Religion / Comparative (2026-06-09)
+- [[religious-pluralism-debate|The Pluralism Debate]] — are the religions diverse responses to one reality? exclusivism / inclusivism / pluralism / perennialism / particularism; the fidelity-vs-parity crux; seeded by the Hick ingest, extensible by Armstrong and Prothero
 
 ### Hindu (Vedanta, 2026-06-09)
 - [[brahman-atman-vedanta-schools|The Nature of Brahman and the Self]] — Advaita vs. Vishishtadvaita vs. Dvaita; one shared canon, three irreconcilable readings of "that thou art"
@@ -949,7 +1104,7 @@ a `sects/` page, cross-linked.)*
 - [[pauls-opponents-2-corinthians|Paul's Opponents in 2 Corinthians]] — Judaizers vs. divine-men vs. pneumatics vs. practical-theologians-of-success; open
 
 ### NT/Pauline (Galatians)
-- [[new-perspective-on-paul|The New Perspective on Paul]] — Sanders/Dunn/Wright; covenantal nomism; works of law as boundary markers vs. traditional anthropological reading; open
+- [[new-perspective-on-paul-controversy|The New Perspective on Paul]] — Sanders/Dunn/Wright; covenantal nomism; works of law as boundary markers vs. traditional anthropological reading; open
 - [[pistis-christou|*Pistis Christou*: Faith of Christ Debate]] — objective genitive ("faith in Christ") vs. subjective genitive ("faithfulness of Christ"); Hays vs. Moo; open
 
 ### NT/Pauline (Ephesians)

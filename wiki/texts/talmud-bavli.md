@@ -10,9 +10,9 @@ canon_scope:
   rejected_by: [karaism, sadducees]
 language_original: Aramaic / Mishnaic Hebrew
 date_range: c. 200–600 CE (Mishna c. 200 CE; Gemara sealed c. 500–600 CE)
-sources_ingested: 1
-last_updated: 2026-06-06
-tags: [text, judaism, rabbinic, talmudic]
+sources_ingested: 2
+last_updated: 2026-06-09
+tags: [text, judaism, rabbinic, talmudic, sasanian]
 ---
 
 The **Babylonian Talmud** (*Talmud Bavli*) is the central, authoritative text of Rabbinic Judaism (see [[talmudic-period]]). It is a vast, dialectical compilation comprising two main components: the [[mishna|Mishna]] (the foundational legal code compiled c. 200 CE) and the [[gemara|Babylonian Gemara]] (the expansive analytical commentary on the Mishna developed by the Amoraim from c. 200–500 CE). 
@@ -80,6 +80,31 @@ The Talmud contains two distinct but intertwined streams of thought:
 
 While Halacha binds Jewish practice, the authority of Aggadah is debated. Some traditions view Aggadic narratives as literal and historically authoritative, while rationalist thinkers (like Maimonides) often treated them as allegories concealing deep philosophical or moral truths.
 
+## The Sasanian Iranian Context
+
+The Bavli is not only a legal-literary universe but a **document of Sasanian Iran**. Produced by the
+Amoraim of the Babylonian academies (Sura, Pumbedita, Maḥoza, Nehardea) in a Mesopotamia that was a
+breadbasket and administrative center of the **Persian (Sasanian) Empire**, it took shape amid
+**[[zoroastrianism|Zoroastrians]]**, Eastern Christians, Manichaeans, and Mandaeans. [[shai-secunda|Shai
+Secunda]]'s [[secunda-the-iranian-talmud|*The Iranian Talmud*]] (building on **Yaakov Elman**) argues —
+in the comparative subfield **[[talmudo-iranica|Talmudo-Iranica]]** — that the Bavli must be read against
+this world, just as the [[talmud-yerushalmi|Yerushalmi]] and Midrash are read against Greco-Roman
+Palestine. Symptoms of the Iranian milieu include:
+
+- **Acculturation as a rabbinic fault line** — Rav Naḥman of Maḥoza (near the capital Ctesiphon) is coded
+  as upper-class Sasanian (Iranian loanwords *atrunga*/*anbaga*, citrons and unmixed wine, his daughter
+  **Dēnag**), against the "resister" Rav Yehuda of provincial Pumbedita.
+- **Law shaped by Sasanian categories** — e.g. Rav Naḥman's "returnable gift" of the four species
+  parallels **temporary ownership** in the Sasanian law book *Mādayān ī Hazār Dādestān*.
+- **Iranian loanwords, calques, and topoi** in Jewish Babylonian Aramaic, sometimes displacing entrenched
+  Hebrew terms.
+- **Discourses of the [[magi|magi]]** — the Bavli both vilifies Zoroastrian priests (sorcerers,
+  "mumblers," "destroying angels") and, in a concurrent set of texts, mirrors them against the rabbis
+  themselves (see [[magi|The Magi]]).
+- **Shared imagery** — e.g. the spies' hellish punishment at b. Soṭa 35a reshaped on the template of the
+  Middle Persian *Ardā Wirāz nāmag* (see
+  [[zoroastrian-influence-on-abrahamic-eschatology|the influence page]]).
+
 ## Key Commentators
 
 - [[rashi|Rashi]] (1040–1105) — The indispensable primer for reading the text.
@@ -90,3 +115,4 @@ While Halacha binds Jewish practice, the authority of Aggadah is debated. Some t
 ## Sources Ingested
 
 1. [[isaac-unterman|Unterman, Isaac]]. *The Talmud: Its Origin and Development, Methods and Systems*. New York: Bloch, 1952/1965.
+2. [[secunda-the-iranian-talmud|Secunda, Shai]]. *The Iranian Talmud: Reading the Bavli in Its Sasanian Context*. Philadelphia: University of Pennsylvania Press, 2014.

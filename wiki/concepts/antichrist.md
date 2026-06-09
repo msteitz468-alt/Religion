@@ -102,5 +102,6 @@ The Protestant Reformation applied "antichrist" to the papacy (Luther). The spec
 - Texts: [[letters-of-john|Letters of John (1, 2, 3 John)]], [[2-thessalonians|Second Letter to the Thessalonians]]
 - Controversies: [[johannine-secessionists|The Johannine Secessionist Crisis]]; [[restrainer-2-thess-2|The Restrainer of 2 Thessalonians 2:6–7]]
 - Concepts: [[apocalyptic-literature|Apocalyptic Literature]] (eschatological context); [[daniel|Daniel]] (OT background, Dan 10–12)
+- Figures: [[satan|Satan / the Devil]] — the dragon who empowers the beast; the related but distinct cosmic adversary; and [[secularization-of-evil|the modern "death of Satan"]]
 - Commentators: [[i-howard-marshall|I. Howard Marshall]], [[colin-kruse|Colin G. Kruse]], [[jeffrey-weima|Jeffrey A. D. Weima]], [[grant-osborne|Grant R. Osborne]]
 - Revelation: [[revelation|The Revelation to John]] (the beast, chs. 13, 17); [[revelation-interpretive-schools|The Four Interpretive Schools]]

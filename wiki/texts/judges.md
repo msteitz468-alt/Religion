@@ -118,7 +118,7 @@ Judges features an unusually large number of women — named and unnamed — who
 - [[herem-canaanite-conquest|Controversy: The ḥerem and Canaanite Conquest]] — the ethical dispute
 - [[nazarite|Nazirite]] — Samson's consecration; Numbers 6
 - [[covenant|Covenant]] — the covenant faithfulness the book measures
-- [[joshua|Joshua]] — the preceding Former Prophet
+- [[book-of-joshua|Joshua]] — the preceding Former Prophet
 - [[documentary-hypothesis|Documentary Hypothesis]] — the DH debate
 
 ## Sources Ingested

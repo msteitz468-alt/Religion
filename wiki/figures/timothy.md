@@ -36,7 +36,7 @@ From Bock (Acts, this batch): Timothy's selection and role illustrate the collab
 **Key Links**:
 - [[acts|Acts of the Apostles]] (Bock)
 - [[darrell-bock|Darrell L. Bock]]
-- [[1-2-timothy|1-2 Timothy]] / [[titus|Titus]] (Pastorals)
+- [[1-timothy|1 Timothy]] / [[2-timothy|2 Timothy]] / [[letter-to-titus|Titus]] (Pastorals)
 - [[robert-yarbrough|Robert W. Yarbrough]]
 - [[paul-apostle|Paul the Apostle]]
 - [[silas|Silas]] (fellow co-worker in early missions)

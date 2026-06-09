@@ -54,7 +54,7 @@ Caleb embodies the principle that "the one who wholly follows the LORD" receives
 Woudstra (NICOT) and other evangelical commentators use the structural placement of Caleb materials to highlight the book's design: faith opens the allotment narrative; the faithful spy receives his portion; the two good spies (Caleb and Joshua) bracket the distribution. The story is a canonical bridge between Numbers (rebellion and promise) and Joshua (fulfillment). Jewish midrash and liturgy celebrate Caleb as the heart that did not go after the other spies. Christian preaching and devotional literature frequently cite "give me this mountain" for bold faith and perseverance. In discussions of the conquest and land theology, Caleb represents the obedient possessor who drives out the enemies (Anakim) that once terrified Israel. Modern canonical and narrative-critical readings (including Webb on Judges) note how Caleb's fidelity stands in contrast to the later deterioration; feminist readings sometimes highlight Achsah's agency in securing the springs. The figure remains a touchstone for themes of promise, patience, courage, and the interplay of divine gift and human responsibility in the Former Prophets.
 
 **Key Links**:
-- [[joshua|Joshua]] (text page; Woudstra on structure, allotment frames, Anakim reversal)
+- [[book-of-joshua|Joshua]] (text page; Woudstra on structure, allotment frames, Anakim reversal)
 - [[numbers|Numbers]] (Cole; the spy narrative and wilderness rebellion)
 - [[deuteronomy|Deuteronomy]] (Craigie/Arnold; the oath and succession context)
 - [[joshua|Joshua]] and [[moses|Moses]] (figures)

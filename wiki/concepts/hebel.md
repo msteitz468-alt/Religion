@@ -84,7 +84,7 @@ Paul's addition is "in hope" — the dimension Qohelet did not possess. The libe
 - [[wisdom-literature|Wisdom Literature]] — genre context
 - [[theodicy|Theodicy]] — Qohelet's challenge to retribution theology
 - [[proverbs|Proverbs]] — the contrasting Wisdom text whose confident system Qohelet challenges
-- [[job|Job]] — analogous canonical structure (problematic human voices corrected at the end)
+- [[book-of-job|Job]] — analogous canonical structure (problematic human voices corrected at the end)
 
 ## Sources Ingested
 

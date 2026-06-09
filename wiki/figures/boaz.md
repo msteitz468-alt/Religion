@@ -47,7 +47,7 @@ Boaz is the human agent of divine restoration. He "happens" to be the field owne
 Lau (NICOT) presents Boaz as the worthy man whose honor-shame sensitivity and *ḥesed* practice restore the vulnerable and advance the missional purpose of God. The story is a staple for preaching on godly leadership, protection of the marginalized, and the beauty of ordinary faithfulness. In Jewish tradition the gate scene and the communal blessing model justice and hope. Christian typological readings have long seen the kinsman-redeemer as pointing to Christ; the ethical force (care for the widow/foreigner, public justice, costly loyalty) remains primary. The figure is central to discussions of *ḥesed* ethics, redemption, and the surprising ways the Davidic line is preserved and extended.
 
 **Key Links**:
-- [[ruth|Ruth]] (text page; Lau on Boaz as *gibbôr ḥayil* and redeemer)
+- [[book-of-ruth|Ruth]] (text page; Lau on Boaz as *gibbôr ḥayil* and redeemer)
 - [[ruth|Ruth]] and [[naomi|Naomi]] (figures)
 - [[hesed|Hesed]]
 - [[kinsman-redeemer|Kinsman-Redeemer]]

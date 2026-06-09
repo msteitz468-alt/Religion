@@ -47,7 +47,7 @@ Naomi's arc is the book's emotional and theological center: from "full" to "empt
 Lau and others highlight Naomi's restoration as the goal of the *ḥesed* chain: Ruth's loyalty to Naomi, Boaz's loyalty to the family name and to Ruth, and the town's recognition that YHWH has not left Naomi without a redeemer. The story is a pastoral and ethical classic for widows, migrants, and those who have experienced loss of "fullness." In Jewish liturgy the book as a whole (read on Shavuot) celebrates the loyalty that brings blessing; Naomi's arc is part of that. Christian readings often pair her lament with the reversal as a pattern of honest prayer and providential answer. Feminist and womanist interpreters celebrate the female solidarity (Naomi-Ruth-townswomen) and the power of women's words to name reality and to bless. The figure remains central to discussions of *ḥesed* ethics, the inclusion of outsiders, and the quiet ways God restores what seems irretrievably lost.
 
 **Key Links**:
-- [[ruth|Ruth]] (text page; Lau on *ḥesed*, honor-shame, Naomi's restoration arc)
+- [[book-of-ruth|Ruth]] (text page; Lau on *ḥesed*, honor-shame, Naomi's restoration arc)
 - [[ruth|Ruth]] and [[boaz|Boaz]] (figures)
 - [[hesed|Hesed]]
 - [[kinsman-redeemer|Kinsman-Redeemer]]

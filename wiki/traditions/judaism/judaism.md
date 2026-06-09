@@ -3,7 +3,7 @@ title: Judaism
 also_known_as: [Yahadut, the Jewish tradition]
 type: tradition
 date_range: Iron Age Israelite religion (pre-exilic) – present; "Judaism" proper from the Second Temple / post-exilic period
-canon_core: [genesis, exodus, leviticus, numbers, deuteronomy, joshua, judges, 1-samuel, 2-samuel, 1-2-kings, isaiah, jeremiah, ezekiel, hosea, joel, amos, obadiah, jonah, micah, zechariah, psalms, proverbs, job, song-of-songs, ruth, lamentations, ecclesiastes, esther, daniel, ezra-nehemiah, 1-2-chronicles]
+canon_core: [genesis, exodus, leviticus, numbers, deuteronomy, book-of-joshua, judges, 1-samuel, 2-samuel, 1-2-kings, isaiah, jeremiah, ezekiel, hosea, joel, amos, obadiah, jonah, micah, zechariah, psalms, proverbs, book-of-job, song-of-songs, book-of-ruth, lamentations, ecclesiastes, book-of-esther, daniel, ezra-nehemiah, 1-2-chronicles]
 hermeneutical_frameworks: [pardes, peshat, derash, remez, sod, thirteen-middot]
 major_sects: [rabbinic-judaism, kabbalah, karaism, sadducees, essenes]
 sources_ingested: 0

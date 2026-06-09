@@ -159,7 +159,7 @@ These passages fill out the [[divine-human-marriage|Divine-Human Marriage Metaph
 
 - **[[servant-songs|Servant Songs]]** — concept page for the four songs
 - **[[psalms|Psalms]]**: Ps 22 (forsaken One) + Isa 52:13-53:12 + NT Passion = the Christological axis; Psalter's "Holy One of Israel" (Pss 71:22; 78:41; 89:18)
-- **[[job|Job]]**: Isaiah's Suffering Servant tradition intersects with Job 19:25-27 and the direction-of-influence controversy (Hartley vs. Oswalt)
+- **[[book-of-job|Job]]**: Isaiah's Suffering Servant tradition intersects with Job 19:25-27 and the direction-of-influence controversy (Hartley vs. Oswalt)
 - **[[ecclesiastes|Ecclesiastes]]**: Isa 40:6-8 ("the grass withers, the flower fades") directly engages *hebel*; YHWH's permanence vs. human transience
 - **[[divine-human-marriage|Divine-Human Marriage Metaphor]]**: Isaiah's "Your Maker is your husband" (54:5) is the fullest prophetic statement
 - **[[1-2-chronicles|Chronicles]]**: Cyrus as *māšîaḥ* in Isaiah → Cyrus as Davidic figure in Chronicles (Leithart)
