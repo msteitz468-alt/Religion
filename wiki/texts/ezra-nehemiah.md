@@ -2,6 +2,12 @@
 title: Ezra-Nehemiah
 tradition: Christianity (Protestant/Jewish canon); Judaism (Writings)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew and Aramaic (Ezra 4:8–6:18; 7:12–26 in Aramaic)
 date_range: Events ca. 538–430 BCE; compilation ca. 430–300 BCE; final editing possibly 3rd century BCE
 sources_ingested: 3

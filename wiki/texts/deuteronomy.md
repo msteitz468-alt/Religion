@@ -2,6 +2,12 @@
 title: Deuteronomy
 tradition: Judaism / Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, samaritanism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: composition debated — traditional: Mosaic (c. 1400 BCE); critical: 7th century BCE (Josianic); scholarly consensus: multiple stages with Mosaic core
 sources_ingested: 2

@@ -2,6 +2,12 @@
 title: Letter to Titus
 tradition: Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Greek
 date_range: ca. AD 62–64 (post-Acts; on pseudonymity view: ca. AD 80–100)
 sources_ingested: 1

@@ -2,6 +2,12 @@
 title: 1–2 Chronicles
 tradition: Christianity (Protestant/Jewish canon); Judaism (Writings)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: Events from creation to 538 BCE; composition debated, likely 4th–5th century BCE
 sources_ingested: 2

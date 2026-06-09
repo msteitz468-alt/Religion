@@ -2,6 +2,12 @@
 title: Song of Songs (Song of Solomon / Canticles)
 tradition: Hebrew Bible / Old Testament (Wisdom literature / Megillot)
 canon_status: canonical (disputed in antiquity)
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew (unusual dialect; *šě* relative pronoun; possible late features)
 date_range: Unknown; undatable ("lyrical in character, with no historical allusions"); likely composite from multiple periods
 sources_ingested: 2

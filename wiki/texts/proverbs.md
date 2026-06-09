@@ -2,6 +2,12 @@
 title: Proverbs
 tradition: Hebrew Bible / Old Testament (Wisdom literature)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: Core attributed to Solomon (950 BCE); Collection V edited by "men of Hezekiah" (715–689 BCE); final editor probably Persian period (540–332 BCE) or Hellenistic era
 sources_ingested: 2

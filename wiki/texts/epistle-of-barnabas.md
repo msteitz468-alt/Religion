@@ -1,7 +1,13 @@
 ---
 title: Epistle of Barnabas
 tradition: Christianity (proto-orthodox, Alexandrian milieu)
-canon_status: non-canonical (cited as scripture by Clement of Alexandria; in Codex Sinaiticus)
+canon_status: contested (cited as scripture by Clement of Alexandria; in Codex Sinaiticus)
+canon_scope:
+  canonical_for: []
+  deuterocanonical_for: []
+  authoritative_for: [proto-orthodox-christianity]
+  disputed_by: [proto-orthodox-christianity]   # canonical for Clement of Alexandria; in Codex Sinaiticus
+  rejected_by: [catholicism, eastern-orthodoxy, protestantism]
 language_original: Greek
 date_range: ca. 70–135 CE (after Jerusalem temple destruction; before Hadrianic rebuilding)
 sources_ingested: 1
@@ -64,13 +70,17 @@ The Two Ways section functions as the ethical application of the allegorical arg
 
 This is the patristic tradition that produced Origen's *Commentary on Numbers* and much of the Alexandrian exegetical corpus — but *Barnabas* is cruder and earlier than the systematized Alexandrian allegorism of Origen and Clement.
 
-## Canonical Status and Manuscript Tradition
+## Canon and Reception
 
 *Barnabas* was among the most disputed early texts regarding canonicity:
 - **Cited as scripture by Clement of Alexandria** — the earliest witness to the document and the most prestigious endorsement it received
 - **In Codex Sinaiticus** (4th century) — one of the two oldest complete Greek Bibles, *Barnabas* appears after Revelation and before the *Shepherd of Hermas*; its presence in Sinaiticus does not guarantee canonical status but indicates high authority
 - **Explicitly excluded by Eusebius** (*Church History* 3.25): listed among the "rejected" (*nothoi*) writings
 - **Origen**: Sometimes cited it as scripture, sometimes not
+
+Despite this quasi-canonical standing in the Alexandrian orbit, *Barnabas* was **excluded** from the closed 27-book canon and is non-canonical for [[catholicism|Catholicism]], [[eastern-orthodoxy|Eastern Orthodoxy]], and [[protestantism|Protestantism]] — a characteristic "near-miss" of the [[nt-canon-formation|canon-formation]] process.
+
+## Manuscript Tradition
 
 | Witness | Date | Contents |
 |---|---|---|

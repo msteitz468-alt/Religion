@@ -2,6 +2,12 @@
 title: Second Letter to the Thessalonians
 tradition: Christianity — Pauline
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Greek
 date_range: AD 51 (likely shortly after 1 Thessalonians, from Corinth)
 sources_ingested: 1

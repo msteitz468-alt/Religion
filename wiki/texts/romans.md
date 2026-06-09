@@ -2,6 +2,12 @@
 title: Letter to the Romans
 tradition: Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Greek
 date_range: c. AD 55–58 (Corinth, winter before Paul's final Jerusalem visit)
 sources_ingested: 1

@@ -1,7 +1,13 @@
 ---
 title: Fragments of Papias
 tradition: Christianity (proto-orthodox, Asian)
-canon_status: non-canonical
+canon_status: authoritative-noncanonical (patristic testimony)
+canon_scope:
+  canonical_for: []
+  deuterocanonical_for: []
+  authoritative_for: [proto-orthodox-christianity]
+  disputed_by: []
+  rejected_by: [catholicism, eastern-orthodoxy, protestantism]
 language_original: Greek (preserved as fragments in later authors)
 date_range: ca. 100–130 CE (floruit; Eusebius places him in Trajan's reign)
 sources_ingested: 1
@@ -116,3 +122,12 @@ His reading of the millennium as literal and material is consistent with a stron
 - [[nt-canon-formation|NT Canon Formation]] — Papias' "living voice" principle is a primary witness to the valuation of oral tradition over written texts in the early 2nd century
 - [[revelation-millennium|Revelation: The Millennium]] — Papias' literal millennialism, inherited by Irenaeus; Eusebius' reaction
 - [[irenaeus|Irenaeus of Lyons]] — knew Papias through Polycarp; adopted Papias' millennialism
+
+
+## Canon and Reception
+
+Papias's *Expositions* were **patristic testimony, never canon**; they survive only as fragments
+quoted by later writers (chiefly [[irenaeus|Irenaeus]] and Eusebius). Their enduring importance is
+evidential — the traditions that **Mark wrote as Peter's interpreter** and that **Matthew composed
+"the logia"** are foundational for later [[nt-canon-formation|gospel-origins]] discussion — rather
+than canonical. Recorded as `authoritative_for` proto-orthodoxy.

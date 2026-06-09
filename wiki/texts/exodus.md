@@ -2,6 +2,12 @@
 title: Exodus
 tradition: Judaism / Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, samaritanism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: Composition debated; events traditionally dated c. 1300–1250 BCE; final form likely 6th century BCE
 sources_ingested: 4

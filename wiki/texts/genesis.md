@@ -2,6 +2,12 @@
 title: Genesis
 tradition: Judaism / Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, samaritanism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew (with Aramaic glosses)
 date_range: composition debated — traditional: Mosaic (c. 1400 BCE); critical: J/E c. 950–850 BCE, P c. 550–450 BCE, final redaction c. 450 BCE
 sources_ingested: 6

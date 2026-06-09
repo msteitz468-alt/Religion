@@ -2,6 +2,12 @@
 title: Numbers
 tradition: Judaism / Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, samaritanism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: composition debated — traditional: Mosaic (c. 1400 or 1250 BCE); critical: Priestly redaction c. 550–450 BCE with earlier J and E materials
 sources_ingested: 3

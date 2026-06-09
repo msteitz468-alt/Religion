@@ -2,6 +2,12 @@
 title: Daniel
 tradition: Hebrew Bible / Old Testament (Writings; also classified with Prophets in the Greek/Christian canon)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew and Aramaic (1:1-2:4a and 8:1-12:13 in Hebrew; 2:4b-7:28 in Aramaic)
 date_range: Sixth century BCE (Longman/evangelical) or final redaction second century BCE (critical consensus)
 sources_ingested: 1

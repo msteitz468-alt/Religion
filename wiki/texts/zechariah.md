@@ -2,6 +2,12 @@
 title: Zechariah
 tradition: Hebrew Bible / Old Testament (Latter Prophets — Book of the Twelve)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: Zechariah 1-8 dated 520-518 BCE; Zechariah 9-14 probably later (no internal dates); book finalized ca. 480-440 BCE
 sources_ingested: 1

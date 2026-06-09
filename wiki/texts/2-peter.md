@@ -1,7 +1,13 @@
 ---
 title: The Second Letter of Peter
 tradition: Christianity
-canon_status: canonical
+canon_status: canonical (antilegomena — the most disputed NT book)
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: [proto-orthodox-christianity]   # the most doubted NT book (Eusebius); absent from the Syriac Peshitta; doubts persisted to the 4th c.
+  rejected_by: []
 language_original: Greek
 date_range: c. AD 60s before Peter's death (Green); alternatively c. AD 80–150 if pseudonymous
 sources_ingested: 1
@@ -166,3 +172,13 @@ prophetic inspiration (1:21) and the apostolic letter-canon (3:16).
 - [[new-creation|New Creation]] — 3:13 new heavens and new earth
 - [[jude|The Letter of Jude]] — its source
 - [[1-peter|The First Letter of Peter]] — the "first letter" (3:1)
+
+
+## Canon and Reception
+
+2 Peter is the **most doubted book in the New Testament**. Eusebius classes it among the
+*antilegomena*; Origen records that its authenticity was questioned; it is **absent from the Syriac
+Peshitta** and was slow to gain acceptance. It was confirmed canonical by the 4th century (Athanasius's
+367 list) and is now canonical for all three Western/Eastern streams. The doubts are inseparable from
+the authorship question — see [[2-peter-authorship|2 Peter authorship / testament genre]] and the
+[[2-peter-jude-relationship|relationship to Jude]].

@@ -12,6 +12,11 @@ tags: [group, christianity, second-century, heresy, gnosticism, egypt, syria, ro
 
 # Gnostics
 
+> **Group page** — the Gnostics as a social/historical actor. For Gnosticism as a *system*
+> (canon, doctrine, hermeneutics, relationship to orthodoxy), see the sect page
+> [[gnosticism|Gnosticism]] and its sub-schools [[valentinianism|Valentinianism]] and
+> [[sethianism|Sethianism]].
+
 ## Identity and Nomenclature
 
 "Gnosticism" is a modern scholarly category applied to a loose family of ancient movements that share certain structural features but were diverse and not self-described as a unified movement. The ancient writers who "knew" these groups (Irenaeus, Hippolytus, Tertullian, Epiphanius, Clement) typically called them by specific names — "Valentinians," "Sethians," "Ophites," "Basilideans" — not as a single movement. The word *gnostikos* ("one who knows") was used as a self-description by some groups.

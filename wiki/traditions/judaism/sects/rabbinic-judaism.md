@@ -1,11 +1,22 @@
 ---
 title: Rabbinic Judaism
-domain: tradition
-traditions_using: [Judaism]
+also_known_as: [Rabbinism, Talmudic Judaism, normative Judaism]
+parent_tradition: judaism
+type: normative stream
+dates: 1st–2nd c. CE (post-70) – present
+status: extant
+relationship_to_orthodoxy: normative
+canon_distinctives: [mishna, talmud-bavli, talmud-yerushalmi]   # the Oral Torah as co-authoritative canon alongside the Tanakh
+key_doctrinal_distinctives: [Oral Torah co-authoritative with Written Torah, authority of the rabbi-sage, halacha, dispute as legitimate ("these and these")]
+hermeneutical_method: [peshat, derash, thirteen-middot, dispute-preservation]
+key_figures: [rabbi-judah-ha-nasi, akiba, hillel, sherira-gaon, hai-gaon]
+key_texts: [mishna, talmud-bavli, talmud-yerushalmi]
 sources_ingested: 1
-last_updated: 2026-06-04
-tags: [tradition, judaism, rabbinic]
+last_updated: 2026-06-09
+tags: [sect, judaism, rabbinic]
 ---
+
+# Rabbinic Judaism
 
 **Rabbinic Judaism** is the form of Judaism that emerged from the Pharisaic tradition after the destruction of the Second Temple (70 CE) and became the dominant — effectively the sole surviving — form of normative Judaism from the 2nd century CE onward. Its defining features are: the authority of the [[oral-torah|Oral Torah]] alongside the Written Torah; the centrality of the rabbi (scholar-sage) as religious authority; the [[mishna|Mishna]] and [[talmud-bavli|Talmud]] as foundational texts; and the replacement of Temple sacrifice by prayer, Torah study, and ethical practice.
 

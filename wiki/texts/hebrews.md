@@ -2,6 +2,12 @@
 title: Letter to the Hebrews
 tradition: Christianity — General Epistle (Jewish-Christian background)
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: [proto-orthodox-christianity]
+  rejected_by: []
 language_original: Greek
 date_range: ca. AD 50–90; probably pre-70 (debate ongoing)
 sources_ingested: 1

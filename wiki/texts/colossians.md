@@ -2,6 +2,12 @@
 title: The Letter to the Colossians
 tradition: Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Greek
 date_range: c. AD 52–57 (Ephesian imprisonment, McKnight) or c. AD 62 (Roman imprisonment, Thielman); c. 60s–90s if pseudonymous (minority view)
 sources_ingested: 1

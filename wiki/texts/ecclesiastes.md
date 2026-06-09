@@ -2,6 +2,12 @@
 title: Ecclesiastes (Qohelet)
 tradition: Hebrew Bible / Old Testament (Wisdom literature)
 canon_status: canonical (disputed in antiquity)
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew (late/unusual dialect)
 date_range: Non-Solomonic; probably late Persian or early Hellenistic period (ca. 4th–3rd century BCE); final framing possibly later
 sources_ingested: 2

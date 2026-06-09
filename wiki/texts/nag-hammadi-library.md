@@ -1,7 +1,13 @@
 ---
 title: Nag Hammadi Library (Nag Hammadi Codices)
 tradition: Gnosticism / Late Antique Heterodox Christianity (with Jewish, Platonic, Hermetic elements)
-canon_status: non-canonical / apocryphal / heterodox scriptures (primary sources for Gnostic thought)
+canon_status: sectarian (canonical for Gnostic sects; rejected by proto-orthodoxy)
+canon_scope:
+  canonical_for: [gnosticism, valentinianism, sethianism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: [proto-orthodox-christianity, catholicism, eastern-orthodoxy, protestantism]
 language_original: Coptic (Sahidic dialect translations of Greek originals, 2nd–4th centuries CE)
 date_range: Greek originals primarily 2nd–3rd centuries CE; Coptic manuscripts 4th century CE (buried c. 367 CE?)
 sources_ingested: 1
@@ -83,6 +89,20 @@ The burial context (monastic, 4th c.) also raises questions about the continued 
 - New concepts: [[gnosis|Gnosis]], [[demiurge|Demiurge]], [[pleroma|Pleroma]], [[sophia-gnostic|Sophia (Gnostic)]]
 - [[irenaeus|Irenaeus of Lyons]] (heresiological counterpoint now supplemented)
 - [[clement-of-alexandria|Clement of Alexandria]] (preserved Valentinian fragments; overlaps with Nag Hammadi material)
+
+
+## Canon and Reception
+
+Canonicity here is wholly community-relative — the paradigm case for the `canon_scope` schema.
+The tractates were **scripture for the Gnostic communities** that produced and read them
+([[sethianism|Sethian]] and [[valentinianism|Valentinian]] circles) and were **rejected as
+heretical "apocrypha" by [[proto-orthodox-christianity|proto-orthodoxy]]**. The codices' burial
+(c. 367 CE) is plausibly tied to Athanasius's 39th Festal Letter, which fixed the 27-book NT and
+condemned non-canonical books — the same boundary-drawing that produced the
+[[nt-canon-formation|catholic canon]]. The *Gospel of Thomas* is the emblem of the split: not
+merely "apocryphal" but canonical within specific communities and explicitly excluded by others.
+No surviving church receives these texts as canonical today.
+
 
 ## Sources Ingested
 

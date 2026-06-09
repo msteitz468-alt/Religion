@@ -2,6 +2,12 @@
 title: Joshua
 tradition: Judaism / Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: Events traditionally dated c. 1400–1350 BCE (early date) or c. 1250–1200 BCE (late date); composition debated; Woudstra suggests a date shortly after Joshua's time, possibly early monarchy
 sources_ingested: 2

@@ -2,6 +2,12 @@
 title: The Letter of James
 tradition: Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: [proto-orthodox-christianity]
+  rejected_by: []
 language_original: Greek
 date_range: c. AD 40s (Moo) — alternatively late 1st century if pseudepigraphal; disputed
 sources_ingested: 1

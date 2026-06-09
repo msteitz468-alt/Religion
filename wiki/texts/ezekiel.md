@@ -2,6 +2,12 @@
 title: Ezekiel
 tradition: Hebrew Bible / Old Testament (Latter Prophets)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: Ezekiel's ministry 593-571 BCE (the book's latest dated oracle is 571 BCE); text finalized shortly after
 sources_ingested: 2

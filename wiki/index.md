@@ -105,9 +105,175 @@ Master index of all pages. Updated on every ingest.
 - *Letter of Polycarp to the Philippians* — ca. 107–110 CE; Pauline letters as scripture (Eph cited as *graphē*); anti-Docetism; plural elder governance at Philippi; documented in [[polycarp|Polycarp of Smyrna]] figure page; Greek
 - *Martyrdom of Polycarp* — ca. 155–160 CE; oldest Christian martyrdom narrative outside NT; typology of Polycarp as *typos Christou*; documented in [[polycarp|Polycarp of Smyrna]] figure page; Greek
 
+### Latter-day Saint Scriptures (Restorationist)
+
+*(Added 2026-06-09 — the open Mormon canon; the headline `canon_scope` case.)*
+
+- [[book-of-mormon|The Book of Mormon]] — "Another Testament"; `canonical_for [latter-day-saints]`, `deuterocanonical_for [community-of-christ]`, `rejected_by` historic Christianity; presents itself as continuing the biblical narrative; Gutenberg text ingested
+- [[doctrine-and-covenants|The Doctrine and Covenants]] — modern revelations; the open/additive canon; sacred-texts edition ingested
+- [[pearl-of-great-price|The Pearl of Great Price]] — Books of Moses & Abraham, Joseph Smith—History, Articles of Faith; canon for the LDS but not the Community of Christ; sacred-texts edition ingested
+- [[science-and-health|Science and Health (Eddy)]] — the Christian Science textbook; `authoritative_for [christian-science]` (paired with the Bible as "pastor"); Gutenberg text ingested
+
+### Islam (Qur'an and Hadith)
+
+*(Tradition added 2026-06-09 — Tier 1 of the world-religions expansion. Primary translation ingested: Pickthall Qur'an, public domain.)*
+
+- [[quran|The Qur'an]] — foundational scripture of Islam; 114 suras; literal word of God revealed to Muhammad (610–632); universally canonical across Sunni/Shia/Sufi; Arabic; Pickthall translation ingested
+- [[sahih-al-bukhari|Sahih al-Bukhari]] — the premier Sunni hadith collection (al-Bukhari, d. 870); the canon-split exemplar: `canonical_for: [sunni-islam]`, `rejected_by: [shia-islam]`; Arabic; Muhsin Khan translation ingested
+
+### Buddhism (Pali Canon & Mahayana Sutras)
+
+*(Tradition added 2026-06-09 — Tier 1 cont. Note the canon split in `canon_scope`: Mahayana sutras are `rejected_by: [theravada]`.)*
+
+- [[tipitaka|The Pali Canon (Tipitaka)]] — the Theravada canon; the three baskets; `canonical_for: [theravada]`, `authoritative_for: [mahayana, vajrayana]`; Pali
+- [[dhammapada|The Dhammapada]] — 423 verses; the most-revered shared Buddhist text; Buddharakkhita translation ingested
+- [[heart-sutra|The Heart Sutra]] — Prajnaparamita; "form is emptiness"; `canonical_for: [mahayana, vajrayana]`, `rejected_by: [theravada]`
+- [[lotus-sutra|The Lotus Sutra]] — One Vehicle + skillful means (*upaya*); Kern translation ingested; `rejected_by: [theravada]`
+
+### Hinduism (Vedanta — the prasthana-trayi)
+
+*(Tradition added 2026-06-09. One shared canon, three opposed commentaries — `canon_scope` identical, interpretation divergent.)*
+
+- [[upanishads|The Upanishads]] — shruti; Brahman/atman; the mahavakyas ("that thou art"); Müller (SBE1) ingested
+- [[bhagavad-gita|The Bhagavad Gita]] — Krishna's teaching; karma/jnana/bhakti yoga; Arnold verse translation ingested
+- [[brahma-sutras|The Brahma Sutras]] — Badarayana's aphorisms; the battleground of Vedanta; Thibaut (Shankara SBE34 + Ramanuja SBE48) ingested
+- [[yoga-sutras|The Yoga Sutras of Patanjali]] — the Yoga darshana; the eight limbs; Johnston translation ingested
+
+### Daoism
+
+*(Tradition added 2026-06-09. One shared canon, two transformative readings — Wang Bi vs. Heshang Gong.)*
+
+- [[daodejing|The Daodejing (Tao Te Ching)]] — 81 chapters; the ineffable Dao, wu-wei; Legge (SBE39) translation ingested
+- [[zhuangzi|The Zhuangzi]] — stories and paradoxes; skeptical relativism; the butterfly dream; Legge translation ingested
+
+### Confucianism (the Four Books)
+
+*(Tradition added 2026-06-09.)*
+
+- [[analects|The Analects (Lunyu)]] — the sayings of Confucius; ren, li, the junzi; Legge translation ingested
+- [[mencius|The Mencius (Mengzi)]] — the "Second Sage"; innate goodness of human nature; benevolent government; Legge translation ingested
+
+### Second Temple Judaism (Pseudepigrapha)
+
+*(Added 2026-06-09 — back-fills the Enoch figure, the Essene canon, and the Jude/1 Enoch controversy.)*
+
+- [[1-enoch|1 Enoch]] — the great apocalyptic pseudepigraphon; the Watchers and the Son of Man; the wiki's richest `canon_scope` (canonical for Ethiopia, authoritative at Qumran, quoted by Jude, rejected elsewhere); Charles translation ingested
+- [[jubilees|The Book of Jubilees]] — "rewritten Genesis"; the 364-day solar calendar; canonical in Ethiopia, authoritative at Qumran; Charles translation ingested
+
+### Zoroastrianism
+
+*(Tradition added 2026-06-09.)*
+
+- [[gathas|The Gathas of Zarathustra]] — the oldest Avestan stratum, the prophet's own hymns; Asha vs. the Lie; Mills (SBE31) translation ingested
+
+### Scientology
+
+*(Tradition added 2026-06-09.)*
+
+- [[dianetics|Dianetics: The Modern Science of Mental Health]] — Hubbard (1950); the analytical vs. reactive mind, engrams, the path to "Clear"; primary text in `raw/`
+- [[science-of-survival|Science of Survival]] — Hubbard (1951); the Tone Scale / Chart of Human Evaluation; primary text in `raw/`
+- [[scientology-fundamentals-of-thought|Scientology: The Fundamentals of Thought]] — Hubbard (1956); the "basic book" (Eight Dynamics, ARC triangle, parts of man); primary text in `raw/`
+
+### Greek and Roman Religion
+
+*(Traditions added 2026-06-09. No scriptural canon — these are authoritative literary/cult sources.)*
+
+- [[hesiod-theogony|Hesiod's Theogony]] — the foundational genealogy of the gods (+ Works and Days); Evelyn-White, ingested
+- [[homer|Homer — Iliad & Odyssey]] — the gods in epic action; Butler translations ingested
+- [[homeric-hymns|The Homeric Hymns]] — hymns to individual gods; the Eleusinian charter; ingested
+- [[orphic-hymns|The Orphic Hymns]] — the sacred writings of Orphism; Taylor, ingested
+- [[apollodorus-library|Apollodorus' Library]] — the standard myth handbook (download pending)
+- [[ovid-metamorphoses|Ovid's Metamorphoses]] — the great repository of Greco-Roman myth; ingested
+- [[ovid-fasti|Ovid's Fasti]] — the Roman religious calendar/festivals; ingested
+- [[virgil-aeneid|Virgil's Aeneid]] — the Roman national-religious epic of *pietas*; ingested
+- [[cicero-nature-of-the-gods|Cicero — On the Nature of the Gods]] — ancient philosophical theology; ingested
+
+### Ancient Egyptian Religion
+
+*(Tradition added 2026-06-09. Funerary/ritual texts — no scriptural canon.)*
+
+- [[book-of-the-dead|The Egyptian Book of the Dead]] — "Going Forth by Day"; the afterlife journey + the Negative Confession; Budge translation ingested
+- [[pyramid-texts|The Pyramid Texts]] — the oldest religious writings in the world; royal resurrection (Old Kingdom)
+- *Legends of the Gods* (Budge) — the Ra/Isis and creation legends — ingested in `raw/`
+
+### Ancient Mesopotamian Religion
+
+*(Tradition added 2026-06-09. Cuneiform myth/epic — no scriptural canon.)*
+
+- [[enuma-elish|The Enuma Elish]] — the Babylonian creation epic; Marduk slays Tiamat; King translation ingested
+- [[epic-of-gilgamesh|The Epic of Gilgamesh]] — mortality, friendship, and the Flood (Utnapishtim); ingested
+
+### Vedic Religion
+
+*(Tradition added 2026-06-09. Shruti — eternal revelation; also canonical in Hinduism.)*
+
+- [[rig-veda|The Rig Veda]] — 1,028 hymns to the Vedic gods; the Purusha & Creation hymns; full Griffith translation ingested
+
+### Mesoamerican Religion
+
+*(Tradition added 2026-06-09.)*
+
+- [[popol-vuh|The Popol Vuh]] — the K'iche' Maya creation epic; the failed humanities, the Hero Twins vs. Xibalba, the people of maize; ingested
+
 ---
 
 ## Figures
+
+### The Greek and Roman Pantheon (2026-06-09)
+
+*(Paired Greek/Roman deity pages; see [[interpretatio-romana|the equivalence comparison]] for the full mapping.)*
+
+- **The Twelve Olympians**: [[zeus|Zeus/Jupiter]], [[hera|Hera/Juno]], [[poseidon|Poseidon/Neptune]], [[demeter|Demeter/Ceres]], [[athena|Athena/Minerva]], [[apollo|Apollo]], [[artemis|Artemis/Diana]], [[ares|Ares/Mars]], [[aphrodite|Aphrodite/Venus]], [[hephaestus|Hephaestus/Vulcan]], [[hermes|Hermes/Mercury]], [[hestia|Hestia]] ([[vesta|Vesta]]), [[dionysus|Dionysus/Bacchus]]
+- **Primordials & Titans**: [[chaos|Chaos]], [[gaia|Gaia/Terra]], [[uranus|Uranus/Caelus]], [[nyx|Nyx/Nox]], [[cronus|Cronus/Saturn]], [[helios|Helios/Sol]], [[selene|Selene/Luna]], [[prometheus|Prometheus]], [[atlas|Atlas]]
+- **Underworld**: [[hades|Hades/Pluto]], [[persephone|Persephone/Proserpina]], [[hecate|Hecate]]
+- **Other deities & personifications**: [[eros|Eros/Cupid]], [[pan|Pan/Faunus]], [[heracles|Heracles/Hercules]], [[asclepius|Asclepius]], [[nike|Nike/Victoria]], [[tyche|Tyche]] / [[fortuna|Fortuna]]
+- **Distinctly Roman** (no Greek twin): [[janus|Janus]], [[quirinus|Quirinus]], [[lares-and-penates|the Lares & Penates]]
+
+### The Mesoamerican Pantheon (2026-06-09)
+
+- **The great gods** (detailed narratives): [[quetzalcoatl|Quetzalcoatl/Kukulkan]], [[huitzilopochtli|Huitzilopochtli]], [[tezcatlipoca|Tezcatlipoca]], the [[hero-twins|Hero Twins]]
+- **Aztec gods**: [[tlaloc|Tlaloc]], [[tonatiuh|Tonatiuh]], [[mictlantecuhtli|Mictlantecuhtli]], [[xipe-totec|Xipe Totec]], [[coatlicue|Coatlicue]]
+- **Maya gods**: [[itzamna|Itzamna]], [[chaac|Chaac]], [[ix-chel|Ix Chel]], [[maize-god|the Maize God]], [[ah-puch|Ah Puch]]
+
+### The Vedic Pantheon (2026-06-09)
+
+- **The great gods** (detailed narratives): [[indra|Indra]] (the slaying of Vritra), [[agni|Agni]], [[varuna|Varuna]]
+- **Cosmic & sovereign gods**: [[mitra|Mitra]], [[soma|Soma]], [[surya|Surya]], [[ushas|Ushas]], [[vayu|Vayu]], [[dyaus|Dyaus Pitar]], [[aditi|Aditi]], [[prajapati|Prajapati]]
+- **Fierce, storm & death gods**: [[rudra|Rudra]] (→ Shiva), the [[maruts|Maruts]], [[yama|Yama]], the [[ashvins|Ashvins]], the demon [[vritra|Vritra]]
+
+### The Mesopotamian Pantheon (2026-06-09)
+
+- **The great gods** (detailed narratives): [[marduk|Marduk]], [[ishtar|Ishtar/Inanna]] (the Descent), [[tiamat|Tiamat]], [[enki|Enki/Ea]]
+- **The supreme triad & strata-gods**: [[anu|An/Anu]], [[enlil|Enlil]], [[ashur|Ashur]], [[nabu|Nabu]], [[apsu|Apsu]]
+- **Astral, war & underworld gods**: [[nanna-sin|Nanna/Sin]], [[utu-shamash|Utu/Shamash]], [[ninurta|Ninurta]], [[adad|Adad]], [[ninhursag|Ninhursag]], [[nergal|Nergal]], [[ereshkigal|Ereshkigal]], [[dumuzi|Dumuzi/Tammuz]]
+- **Hero**: [[gilgamesh|Gilgamesh]]
+
+### The Egyptian Pantheon (2026-06-09)
+
+- **The great gods** (detailed narratives): [[ra|Ra/Atum]], [[osiris|Osiris]], [[isis|Isis]], [[horus|Horus]], [[set|Set]]
+- **The Ennead & cosmic gods**: [[shu|Shu]], [[tefnut|Tefnut]], [[geb|Geb]], [[nut|Nut]], [[nephthys|Nephthys]], [[amun|Amun-Ra]], [[aten|the Aten]], [[apep|Apep]]
+- **Other major deities**: [[thoth|Thoth]], [[ptah|Ptah]], [[anubis|Anubis]], [[hathor|Hathor]], [[sekhmet|Sekhmet]], [[bastet|Bastet]], [[sobek|Sobek]], [[khnum|Khnum]], [[mut|Mut]], [[khonsu|Khonsu]], [[bes|Bes]], [[taweret|Taweret]]
+
+### Buddhism (2026-06-09)
+- [[gautama-buddha|The Buddha (Siddhartha Gautama)]] — the awakened teacher and founder; the wiki's first non-theistic founder figure; human teacher (Theravada) vs. trans-historical Buddha (Mahayana)
+
+### Hinduism (2026-06-09)
+- [[krishna|Krishna]] — the eighth avatar of Vishnu; teacher of the Bhagavad Gita; supreme God of Vaishnavism; *avatara* and *bhakti*
+
+### Daoism (2026-06-09)
+- [[laozi|Laozi]] — legendary author of the Daodejing; the "Old Master"; deified in religious Daoism as Taishang Laojun
+
+### Confucianism (2026-06-09)
+- [[confucius|Confucius (Kongzi)]] — founding teacher of Confucianism; ren, li, the junzi; the "Uncrowned King" of the imperial cult
+
+### Zoroastrianism (2026-06-09)
+- [[zarathustra|Zarathustra (Zoroaster)]] — prophet and founder; revealed Ahura Mazda; framed religion as a cosmic moral choice; the Greek legendary "magus"
+
+### Restorationist Christianity (2026-06-09)
+- [[joseph-smith|Joseph Smith]] (1805–1844) — founder and first prophet of the Latter Day Saint movement; translator/revelator of the Book of Mormon, D&C, and Pearl of Great Price; martyred at Carthage
+
+### Scientology (2026-06-09)
+- [[l-ron-hubbard|L. Ron Hubbard]] (1911–1986) — founder of Dianetics and Scientology; "Source"; sole author of its scripture; contested biography
 
 ### Patristic and Hellenistic
 
@@ -306,6 +472,25 @@ Master index of all pages. Updated on every ingest.
 
 ## Commentators
 
+### Buddhist Tradition (2026-06-09)
+- [[buddhaghosa|Buddhaghosa]] (fl. 5th c.) — the great Theravada commentator; *Visuddhimagga* (Path of Purification); Mahavihara, Sri Lanka
+- [[shantideva|Shantideva]] (c. 685–763) — Mahayana/Nalanda; *Bodhicaryavatara* (Guide to the Bodhisattva Way of Life)
+
+### Hindu Tradition (Vedanta commentators, 2026-06-09)
+- [[shankara|Shankara]] (8th c.) — Advaita Vedanta; Brahma-Sutra-Bhashya; atman = Brahman; the dominant Hindu philosopher
+- [[ramanuja|Ramanuja]] (11th–12th c.) — Vishishtadvaita; the Sri-Bhashya; souls/world as God's body; bhakti
+- [[madhva|Madhva]] (13th c.) — Dvaita; fivefold eternal difference (commentary untranslated — secondary)
+
+### Restorationist / Adventist (2026-06-09)
+- [[ellen-g-white|Ellen G. White]] (1827–1915) — co-founder of Seventh-day Adventism; the "lesser light" (inspired but sub-canonical); *The Great Controversy* and the Conflict of the Ages series ingested
+
+### Daoist Tradition (Daodejing commentators, 2026-06-09)
+- [[wang-bi|Wang Bi]] (226–249) — *xuanxue*; the Dao as non-being (*wu*); the philosophical Daodejing (commentary untranslated — secondary)
+- [[heshang-gong|Heshang Gong]] — the longevity-cultivation Daodejing; foundational for religious Daoism / internal alchemy (untranslated — secondary)
+
+### Confucian Tradition (2026-06-09)
+- [[zhu-xi|Zhu Xi]] (1130–1200) — Neo-Confucian synthesizer; canonized the Four Books; li/qi metaphysics; defined the examination curriculum (commentaries untranslated — secondary)
+
 ### Scholarship (Patristic Philosophy)
 
 - [[christopher-stead|Christopher Stead]] (1913–2008) — *Philosophy in Christian Antiquity* (CUP 1994); philosophical analysis of Greek background (Middle Platonists, Philo) and patristic use in Trinity/Christology; cautious on "Christian philosophy" label; semantic precision on ousia/hypostasis; dedicated treatment of Augustine. Primary modern source for the philosophical formation of classical Christian doctrine.
@@ -322,6 +507,12 @@ Master index of all pages. Updated on every ingest.
 
 ### Scholarship (Hebrew Bible & Ancient Near East)
 - [[coogan-oxford-history-biblical-world|The Oxford History of the Biblical World]] (Michael D. Coogan, ed.; Oxford, 1998) — multi-author historical-critical and archaeological survey of the biblical world from the Bronze Age through the Roman period. Ingested (2026-06-07) specifically to enrich **groups/** and **locations/**: Bronze Age peoples (Canaanites, Amorites, Hurrians, Hyksos, Apiru), the emergence of Israel and the Philistines/Sea Peoples, and the imperial powers (Assyria, Babylon, Persia) and their cities (Jerusalem, Samaria, Babylon, Ugarit, Hazor, Megiddo, Shechem, Byblos, Ashkelon, Ekron, Lachish, Jericho, Nineveh). Treats the Bible as a dependent variable weighed against archaeology; key tensions: Exodus historicity, the failure of the literal conquest model, Midianite/Kenite origin of Yahwism, Samarian Yahwism. Chapter authors include Pitard, Redmount, Stager, M. Cogan, and Leith.
+
+### Scholarship (World Religions)
+- [[skjaervo-spirit-of-zoroastrianism|Skjærvø, *The Spirit of Zoroastrianism*]] (Prods Oktor Skjærvø; Yale, 2011) — Avestan philology + translated primary sources; periodizes Old Avestan / Young Avestan / late Pahlavi (key for influence-tracing); user-supplied (new 2026-06-09)
+- [[reitman-inside-scientology|Reitman, *Inside Scientology*]] (2011) — the anchor independent history of Scientology; investigative journalism (new 2026-06-09)
+- [[malko-the-now-religion|Malko, *Scientology: The Now Religion*]] (1970) — early period source, near the movement's origins (new 2026-06-09)
+- [[shelton-a-to-xenu|Shelton, *Scientology: A to Xenu*]] (2015) — ex-member insider's explanation of "the tech" (new 2026-06-09)
 
 ### Jewish Tradition
 - [[isaac-unterman|Isaac Unterman]] (1889–?) — Traditional rabbi; scholarship/exposition on the Talmud
@@ -384,6 +575,64 @@ Master index of all pages. Updated on every ingest.
 ---
 
 ## Concepts
+
+### Islamic (2026-06-09)
+- [[tafsir|Tafsir]] — Qur'anic exegesis; *bi'l-ma'thur* vs. *bi'l-ra'y*; *zahir/batin*; the Islamic hermeneutical-tracking framework
+- [[tawhid|Tawhid]] — divine oneness; the cardinal doctrine; set against the Trinity and alongside the Shema
+
+### Buddhist (2026-06-09)
+- [[four-noble-truths|The Four Noble Truths]] — suffering, its cause, its cessation, the Eightfold Path; the diagnostic core
+- [[anatta|Anatta (Non-self)]] — denial of a permanent soul; the antithesis of atman and the immortal soul
+- [[sunyata|Sunyata (Emptiness)]] — Mahayana; all phenomena empty of inherent existence (Nagarjuna)
+- [[bodhisattva|Bodhisattva]] — the vow to save all beings; the arhat-vs-bodhisattva divide
+- [[neyartha-nitartha|Neyartha / Nitartha]] — provisional vs. definitive meaning; the Buddhist hermeneutical framework
+
+### Hindu (2026-06-09)
+- [[brahman|Brahman]] — ultimate reality; the contested center of Vedanta
+- [[atman|Atman]] — the self; *tat tvam asi*; the antithesis of Buddhist non-self
+- [[moksha|Moksha]] — liberation from samsara; jnana vs. bhakti by school
+- [[maya|Maya]] — appearance/illusion vs. God's real creative power (the Advaita flashpoint)
+
+### Daoist (2026-06-09)
+- [[dao|Dao]] — the ineffable Way; source and pattern of all things
+- [[wu-wei|Wu-wei]] — effortless / spontaneous non-action in accord with the Dao
+- [[ziran|Ziran]] — "self-so"; naturalness/spontaneity (vs. Confucian cultivation)
+
+### Confucian (2026-06-09)
+- [[ren|Ren]] — humaneness/benevolence; the supreme Confucian virtue
+- [[li-confucian|Li]] — ritual propriety; cultivation through form (vs. Daoist ziran)
+
+### Scientology (2026-06-09)
+- [[thetan|Thetan]] — the immortal spiritual being that is the true self; godlike origin, trapped in matter
+- [[engram|Engram]] — the reactive mind's recordings of pain/unconsciousness; the source of suffering
+- [[auditing|Auditing]] — the core practice (E-meter); the Bridge to Total Freedom; Clear and the OT levels
+- [[tone-scale|The Tone Scale]] — the graded scale of emotional tones used to predict behavior (Science of Survival)
+- [[arc-triangle|The ARC Triangle]] — Affinity, Reality, Communication = understanding
+- [[eight-dynamics|The Eight Dynamics]] — the urge to "Survive!" across eight expanding spheres (self → infinity)
+
+### Mesoamerican (2026-06-09)
+- [[five-suns|The Five Suns]] — the Aztec cyclical world-ages; the present sun born of the gods' sacrifice
+- [[mesoamerican-sacrifice|Sacrifice and the Sun]] — blood as the cosmic debt that keeps the sun moving
+- [[xibalba|Xibalba]] — the Maya underworld of the Lords of Death, conquered by the Hero Twins
+
+### Vedic (2026-06-09)
+- [[rita|Rita]] — cosmic-moral order (the Indo-Iranian cousin of Zoroastrian *asha*; ancestor of *dharma*)
+- [[yajna|Yajna]] — the Vedic fire sacrifice; orthopraxy; the rite that sustains the cosmos
+
+### Mesopotamian (2026-06-09)
+- [[mesopotamian-underworld|The Mesopotamian Underworld (Kur/Irkalla)]] — the bleak "Land of No Return"; no judgment or resurrection
+
+### Egyptian (2026-06-09)
+- [[maat|Ma'at]] — cosmic order, truth, and justice (vs. chaos/isfet); the standard of the afterlife judgment
+- [[ka-ba-akh|The Egyptian Soul (Ka/Ba/Akh)]] — the multipart soul and the logic of mummification
+
+### Greek & Roman (2026-06-09)
+- [[pietas|Pietas]] — Roman piety; dutiful reverence to gods, family, and state (orthopraxy over belief)
+- [[mystery-cults|Mystery Cults]] — the initiatory salvation religions (Eleusis, Dionysus, Orphism, Isis, Mithras, Cybele)
+- [[fate-moirai|Fate (the Moirai / Parcae)]] — impersonal destiny, above even Zeus; the three Fates
+
+### Second Temple Judaism (2026-06-09)
+- [[pseudepigrapha|Pseudepigrapha]] — falsely-attributed Second Temple writings; a canon-status spectrum (Ethiopia/Qumran/Jude vs. rabbinic & Christian rejection)
 
 ### Jewish Hermeneutics and Law
 - [[oral-torah|Oral Torah]] — Core Jewish concept; Sinaitic transmission claim
@@ -485,20 +734,177 @@ Master index of all pages. Updated on every ingest.
 
 ---
 
-## Traditions
+## Traditions and Sects
 
-- [[rabbinic-judaism|Rabbinic Judaism]] — Post-70 CE Jewish tradition; Pharisaic-Talmudic
-- [[kabbalah|Kabbalah]] — Jewish mystical tradition; Ein Sof and the ten sefirot, the divine feminine, theurgy, the Sitra Aḥra; Provençal origins (12th c.) → Castilian Zohar (13th c.) → Safedian/Lurianic (16th c.) → Ḥasidism (18th c.); **first Jewish-mysticism tradition page (2026-06-07)**
+*(Restructured 2026-06-09 into a two-level hierarchy: each top-level tradition has its own
+subdirectory `traditions/<tradition>/<tradition>.md`, with sect / denomination / sub-tradition
+pages nested under it in `traditions/<tradition>/sects/`. Canonical status of texts is now a
+structural dimension via the `canon_scope` field on text pages, not just frontmatter. See
+CLAUDE.md. A community that is both a people and a sub-tradition keeps both a `groups/` page and
+a `sects/` page, cross-linked.)*
+
+### Judaism
+- [[judaism|Judaism]] — tradition overview; the Tanakh canon, PaRDeS hermeneutics, map of sects
+  - **Sects** ([[judaism|↑]]):
+    - [[rabbinic-judaism|Rabbinic Judaism]] — normative post-70 CE stream; Oral Torah co-authoritative; Talmud foundational
+    - [[kabbalah|Kabbalah]] — mystical movement (12th c.–present); Ein Sof and the ten sefirot, theurgy, the Sitra Aḥra; the Zohar as canonical mystical scripture
+    - [[karaism|Karaism]] — scripturalist sect (8th c.–present); Tanakh alone; **rejects** the rabbinic Oral Torah (new stub 2026-06-09)
+    - [[sadducees|Sadducees]] — priestly Second Temple party (2nd c. BCE–70 CE); Written Torah only; rejected the Oral Torah ([[pharisees|cf. Pharisees group]]) (new stub 2026-06-09)
+    - [[essenes|Essenes]] — separatist Second Temple sect; Qumran / Dead Sea Scrolls; solar calendar, dualism, expansive canon (Jubilees, 1 Enoch) (new stub 2026-06-09)
+
+### Christianity
+- [[christianity|Christianity]] — tradition overview; the 27-book NT canon, the Quadriga, map of 2nd-c. sects
+  - **Sects** ([[christianity|↑]]):
+    - [[proto-orthodox-christianity|Proto-orthodox Christianity]] — the stream that became catholic orthodoxy; fourfold Gospel, rule of faith, defined the canon (new stub 2026-06-09)
+    - [[gnosticism|Gnosticism]] — dualist, demiurgic, *gnosis*-soteriology family; canon includes Nag Hammadi ([[gnostics|group]]) (new stub 2026-06-09)
+      - [[valentinianism|Valentinianism]] — the most influential Gnostic school (new stub 2026-06-09)
+      - [[sethianism|Sethianism]] — the "classic"/Sethian Gnostic system; rewrites Genesis (new stub 2026-06-09)
+    - [[marcionism|Marcionism]] — two gods; subtractive canon (edited Luke + 10 Paulines); rejects the OT ([[marcionites|group]]) (new stub 2026-06-09)
+    - [[montanism|Montanism]] — the New Prophecy; ongoing ecstatic Spirit-revelation ([[montanists|group]]) (new stub 2026-06-09)
+    - [[ebionism|Ebionism]] — Jewish-Christian, law-observant, adoptionist; rejects Paul ([[ebionites|group]]) (new stub 2026-06-09)
+    - [[arianism|Arianism]] — 4th-c. movement: the Son as creature; condemned at Nicaea 325; exegetical (not canon) dispute; central to the Trinitarian-controversy material (new stub 2026-06-09)
+    - [[catholicism|Catholicism]] — Western/Latin church under Rome; OT includes the deuterocanon; split from the East at the Great Schism (1054) (new stub 2026-06-09)
+    - [[eastern-orthodoxy|Eastern Orthodoxy]] — Eastern conciliar churches; broadest OT canon; Revelation canonical but not read liturgically (new stub 2026-06-09)
+    - [[protestantism|Protestantism]] — 16th-c. Reformation; 39-book OT (no deuterocanon); *solas*; home stream of most ingested commentary (new stub 2026-06-09)
+    - [[oriental-orthodoxy|Oriental Orthodoxy]] — the non-Chalcedonian (Miaphysite) communion; Coptic/Syriac/Armenian/Ethiopian; split 451 (new 2026-06-09)
+    - [[ethiopian-orthodoxy|Ethiopian Orthodoxy]] — Tewahedo; the **widest Christian canon** (incl. 1 Enoch, Jubilees); resolves the `ethiopian-orthodoxy` canon_scope slug (new 2026-06-09)
+  - **Protestant denominational families** (filed flat under Christianity; all use the 66-book canon):
+    - [[lutheranism|Lutheranism]] — Luther; *sola fide*; sacramental union; the Book of Concord (new 2026-06-09)
+    - [[anglicanism|Anglicanism]] — the English *via media*; Book of Common Prayer; Thirty-Nine Articles (new 2026-06-09)
+    - [[methodism|Methodism]] — Wesleyan-Arminian; Christian perfection; the Quadrilateral (home stream of the wiki's Wesleyan commentators) (new 2026-06-09)
+    - [[baptists|Baptists]] — believer's baptism; congregational autonomy; religious liberty (new 2026-06-09)
+    - [[presbyterianism|Presbyterianism (Reformed)]] — Calvin; predestination/TULIP; covenant theology; the wiki's most-represented commentator stream (new 2026-06-09)
+    - [[pentecostalism|Pentecostalism]] — Spirit-baptism, tongues, continuationism; Azusa Street; the fastest-growing stream (new 2026-06-09)
+    - [[quakerism|Quakerism (Friends)]] — the Inner Light; no clergy or outward sacraments; peace testimony (new 2026-06-09)
+  - **Restorationist / new religious movements**:
+    - [[latter-day-saints|The Latter-day Saints (Mormonism)]] — Joseph Smith; **open canon** (Book of Mormon, D&C, Pearl of Great Price); the `canon_scope` exemplar (new 2026-06-09)
+    - [[seventh-day-adventism|Seventh-day Adventism]] — Millerite origin; Saturday Sabbath; 1844/investigative judgment; Ellen White as "lesser light" (new 2026-06-09)
+    - [[jehovahs-witnesses|Jehovah's Witnesses]] — Watch Tower; non-Trinitarian; 1914; the New World Translation (new 2026-06-09)
+    - [[stone-campbell-restoration|Stone-Campbell Restoration Movement]] — "no creed but Christ, no book but the Bible"; Churches of Christ / Disciples (new 2026-06-09)
+    - [[community-of-christ|Community of Christ]] (formerly RLDS) — the non-Brighamite Latter Day Saint church; liberalizing/mainline; resolves the `community-of-christ` canon_scope slug (new 2026-06-09)
+  - **Liberal / metaphysical**:
+    - [[christian-science|Christian Science]] — Mary Baker Eddy; the unreality of matter; *Science and Health* paired with the Bible (new 2026-06-09)
+    - [[unitarian-universalism|Unitarian Universalism]] — non-Trinitarian + universalist roots; now non-creedal/post-Christian (new 2026-06-09)
+
+### Islam
+- [[islam|Islam]] — tradition overview; the Qur'an, tafsir hermeneutics, the sect-defining hadith canon split (new tradition 2026-06-09)
+  - **Sects** ([[islam|↑]]):
+    - [[sunni-islam|Sunni Islam]] — majority stream; *sunna* + *ijma*; the six hadith books incl. [[sahih-al-bukhari|Bukhari]] (new 2026-06-09)
+    - [[shia-islam|Shia Islam]] — the Imamate; rejects the Sunni six books, holds its own Four Books (new 2026-06-09)
+    - [[sufism|Sufism]] — the mystical *batin* dimension within Sunni and Shia; analogue of Kabbalah (new 2026-06-09)
+
+### Buddhism
+- [[buddhism|Buddhism]] — tradition overview; the wiki's **first non-theistic tradition**; no single canon; Neyartha/Nitartha hermeneutics (new tradition 2026-06-09)
+  - **Sects** ([[buddhism|↑]]):
+    - [[theravada|Theravada]] — oldest school; the Pali Canon alone; the *arhat* ideal; **rejects** the Mahayana sutras (new 2026-06-09)
+    - [[mahayana|Mahayana]] — the bodhisattva ideal, emptiness, the Mahayana sutras; Zen/Pure Land (new 2026-06-09)
+    - [[vajrayana|Vajrayana]] — tantra atop Mahayana; Tibetan Buddhism (new 2026-06-09)
+
+### Hinduism
+- [[hinduism|Hinduism]] — tradition overview; tiered shared canon (shruti/smriti); the wiki's clearest "one canon, opposite readings" case (new tradition 2026-06-09)
+  - **Sects** (the Vedanta schools, [[hinduism|↑]]):
+    - [[advaita-vedanta|Advaita Vedanta]] — non-dualism (Shankara): atman *is* Brahman; the world is maya (new 2026-06-09)
+    - [[vishishtadvaita-vedanta|Vishishtadvaita Vedanta]] — qualified non-dualism (Ramanuja): souls/world as God's real body (new 2026-06-09)
+    - [[dvaita-vedanta|Dvaita Vedanta]] — dualism (Madhva): God and souls eternally distinct (new 2026-06-09)
+
+### Daoism
+- [[daoism|Daoism]] — tradition overview; the ineffable Dao; non-theistic, naturalistic; commentary-as-transformation (new tradition 2026-06-09)
+  - **Sects** ([[daoism|↑]]):
+    - [[philosophical-daoism|Philosophical Daoism]] (*daojia*) — Lao-Zhuang wisdom; Wang Bi's *xuanxue* (new 2026-06-09)
+    - [[religious-daoism|Religious Daoism]] (*daojiao*) — pantheon, alchemy, immortality; Heshang Gong (new 2026-06-09)
+
+### Confucianism
+- [[confucianism|Confucianism]] — tradition overview; ethics of cultivation (ren + li); the Four Books; canonization by commentary (new tradition 2026-06-09)
+  - **Sects** ([[confucianism|↑]]):
+    - [[classical-confucianism|Classical Confucianism]] — Confucius, Mencius, Xunzi; the human-nature debate (new 2026-06-09)
+    - [[neo-confucianism|Neo-Confucianism]] — Song-Ming li/qi metaphysics; Zhu Xi vs. Wang Yangming (new 2026-06-09)
+
+### Zoroastrianism
+- [[zoroastrianism|Zoroastrianism]] — tradition overview; Ahura Mazda; cosmic moral dualism; the key influence-source for Abrahamic eschatology (new tradition 2026-06-09)
+  - **Sects** ([[zoroastrianism|↑]]):
+    - [[zurvanism|Zurvanism]] — heterodox; Zurvan (Time) as parent of both Ohrmazd and Ahriman (largely extinct) (new 2026-06-09)
+
+### Scientology
+- [[scientology|Scientology]] — tradition overview; the wiki's first 20th-c. new religious movement; the immortal thetan; "Source" as verbatim scripture (new tradition 2026-06-09)
+  - **Sects** ([[scientology|↑]]):
+    - [[church-of-scientology|The Church of Scientology]] — the official, trademark-holding organization; "standard tech"; the Sea Org; Miscavige (new 2026-06-09)
+    - [[free-zone-scientology|The Free Zone]] — independent Scientologists practicing the tech outside the Church ("squirrels") (new 2026-06-09)
+
+### Ancient Greek Religion
+- [[greek-religion|Ancient Greek Religion]] — tradition overview; Hellenic polytheism; the Olympian pantheon; a religion of cult and myth without a canon (new tradition 2026-06-09)
+  - **Cult forms / sects** ([[greek-religion|↑]]):
+    - [[olympian-civic-religion|Olympian / Civic Religion]] — the public worship of the polis (new 2026-06-09)
+    - [[eleusinian-mysteries|The Eleusinian Mysteries]] — Demeter & Persephone; afterlife hope (new 2026-06-09)
+    - [[dionysian-mysteries|The Dionysian (Bacchic) Mysteries]] — ecstatic cult of Dionysus (new 2026-06-09)
+    - [[orphism|Orphism]] — the soul, reincarnation, "original sin"; a Greek cult *with* scripture (new 2026-06-09)
+    - [[greek-hero-cult|Hero Cult]] — worship of deified mortals at their tombs (new 2026-06-09)
+
+### Ancient Roman Religion
+- [[roman-religion|Ancient Roman Religion]] — tradition overview; *religio Romana*; orthopraxy, divination, *pietas*; the gods largely the Greek pantheon renamed (new tradition 2026-06-09)
+  - **Cult forms / sects** ([[roman-religion|↑]]):
+    - [[roman-state-cult|The State Cult]] — the priestly colleges, the calendar, the *pax deorum* (new 2026-06-09)
+    - [[imperial-cult|The Imperial Cult]] — emperor worship; the flashpoint of Christian martyrdom (new 2026-06-09)
+    - [[roman-household-religion|Household Religion]] — the daily cult of the Lares, Penates, and Vesta (new 2026-06-09)
+    - [[mithraism|Mithraism]] — the soldiers' mystery cult of Mithras (new 2026-06-09)
+    - [[cult-of-isis-roman|The Cult of Isis]] — the Egyptian mystery religion at Rome (new 2026-06-09)
+    - [[magna-mater-cybele|The Cult of Magna Mater (Cybele)]] — the Phrygian mother-goddess cult (new 2026-06-09)
+
+### Ancient Egyptian Religion
+- [[egyptian-religion|Ancient Egyptian Religion]] — tradition overview; 3,000 years of Nile polytheism; ma'at vs. chaos; the afterlife and divine kingship (new tradition 2026-06-09)
+  - **Theological systems / cult forms** ([[egyptian-religion|↑]]):
+    - [[heliopolitan-theology|Heliopolitan Theology]] — the Ennead from Atum-Ra (new 2026-06-09)
+    - [[hermopolitan-theology|Hermopolitan Theology]] — the Ogdoad and Thoth (new 2026-06-09)
+    - [[memphite-theology|Memphite Theology]] — creation by the word of Ptah (new 2026-06-09)
+    - [[theban-amun-cult|The Theban Cult of Amun]] — Amun-Ra, "king of the gods" (new 2026-06-09)
+    - [[osirian-cult|The Osirian / Afterlife Cult]] — Osiris, resurrection, the weighing of the heart (new 2026-06-09)
+    - [[atenism|Atenism]] — Akhenaten's near-monotheism of the Aten (new 2026-06-09)
+
+### Ancient Mesopotamian Religion
+- [[mesopotamian-religion|Ancient Mesopotamian Religion]] — tradition overview; the oldest literate religion; humans made to serve the gods; divination; a bleak underworld (new tradition 2026-06-09)
+  - **Cultural-historical strata** ([[mesopotamian-religion|↑]]):
+    - [[sumerian-religion|Sumerian Religion]] — the original An-Enlil-Enki pantheon; the *me* (new 2026-06-09)
+    - [[babylonian-religion|Babylonian Religion]] — Marduk supreme; the Enuma Elish (new 2026-06-09)
+    - [[assyrian-religion|Assyrian Religion]] — the national war-god Ashur; religion-as-empire (new 2026-06-09)
+
+### Vedic Religion
+- [[vedic-religion|Vedic Religion]] — tradition overview; the historical religion of the Vedas; fire sacrifice, no temples; the ancestor of Hinduism (new tradition 2026-06-09)
+  - **Phases / cult forms** ([[vedic-religion|↑]]):
+    - [[rigvedic-religion|Rigvedic Religion]] — the early hymnic religion of the devas; henotheism (new 2026-06-09)
+    - [[shrauta-brahmanism|Shrauta Brahmanism]] — the later sacrificial ritualism of the Brahmanas (new 2026-06-09)
+
+### Mesoamerican Religion
+- [[mesoamerican-religion|Mesoamerican Religion]] — tradition overview; the Maya & Aztec world; feeding the gods with blood; cyclical world-ages; the sacred calendar (new tradition 2026-06-09)
+  - **Sub-traditions** ([[mesoamerican-religion|↑]]):
+    - [[maya-religion|Maya Religion]] — the Popol Vuh, the Hero Twins, Xibalba, the Long Count (new 2026-06-09)
+    - [[aztec-religion|Aztec Religion]] — the Five Suns; human sacrifice to feed the sun; Huitzilopochtli (new 2026-06-09)
+
+### Samaritanism
+- [[samaritanism|Samaritanism]] — top-level **parallel tradition** (not a sect of Judaism); canon is the **Samaritan Pentateuch alone**; [[mount-gerizim|Gerizim]]-centered worship; cross-linked to [[samaritans|Samaritans]] (group) and [[gerizim-vs-jerusalem]] (new tradition 2026-06-09)
 
 ---
 
 ## Comparisons
 
 - [[genesis-ancient-near-east|Genesis and the Ancient Near East]] — Enuma Elish, Atrahasis, Gilgamesh, Ugaritic parallels
+- [[zoroastrian-influence-on-abrahamic-eschatology|Zoroastrian Influence on Abrahamic Eschatology]] — dualism, angelology, resurrection, judgment, savior, renewal; the influence-tracing question (new 2026-06-09)
+- [[interpretatio-romana|Interpretatio Romana — Greek & Roman God Equivalences]] — the full Zeus=Jupiter, Ares=Mars… mapping, with caveats (new 2026-06-09)
 
 ---
 
 ## Controversies
+
+### Islamic / Cross-Tradition (2026-06-09)
+- [[qiraat-variant-readings|The Qira'at (Variant Qur'anic Readings)]] — the seven/ten canonical recitations vs. the preservation claim vs. revisionist text-criticism
+- [[crucifixion-in-the-quran|The Crucifixion of Jesus — Qur'an 4:157 vs. the Gospels]] — Islam's denial of the crucifixion; the sharpest Islam–Christianity contradiction
+
+### Hindu (Vedanta, 2026-06-09)
+- [[brahman-atman-vedanta-schools|The Nature of Brahman and the Self]] — Advaita vs. Vishishtadvaita vs. Dvaita; one shared canon, three irreconcilable readings of "that thou art"
+
+### Scientology (2026-06-09)
+- [[scientology-religion-or-commercial-enterprise|Religion, Commercial Enterprise, or Cult?]] — the contested status of Scientology; a live test of the definition of "religion"
+
+### Daoist (2026-06-09)
+- [[wang-bi-vs-heshang-gong|Wang Bi vs. Heshang Gong]] — two readings of the Daodejing: philosophical/metaphysical vs. religious/longevity-cultivation (commentary-as-transformation)
 
 ### Jewish Tradition
 - [[oral-torah-authority|Oral Torah Authority]] — Pharisees vs. Sadducees vs. Karaites

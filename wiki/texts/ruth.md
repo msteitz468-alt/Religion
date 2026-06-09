@@ -2,6 +2,12 @@
 title: Ruth
 tradition: Judaism / Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: Events set in the period of the judges; composition date debated (monarchic c. 950–700 BCE or postexilic c. 500–400 BCE; no scholarly consensus)
 sources_ingested: 2

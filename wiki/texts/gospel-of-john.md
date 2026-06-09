@@ -2,6 +2,12 @@
 title: Gospel of John
 tradition: Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Greek
 date_range: c. 70–100 CE (conventional); possibly earlier (Michaels)
 sources_ingested: 2

@@ -2,6 +2,12 @@
 title: Micah
 tradition: Hebrew Bible / Old Testament (Latter Prophets — Book of the Twelve)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: 8th-century core (ca. 735-700 BCE); exilic update (6th-5th c.); postexilic reframing (5th-4th c.)
 sources_ingested: 1

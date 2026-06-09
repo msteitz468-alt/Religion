@@ -12,6 +12,10 @@ tags: [group, christianity, second-century, montanism, prophecy, charismatic, no
 
 # Montanists
 
+> **Group page** — the Montanist community as a social/historical actor. For Montanism as a
+> *system* (the New Prophecy, its view of ongoing revelation, discipline, relationship to
+> orthodoxy), see the sect page [[montanism|Montanism]].
+
 ## Identity and Nomenclature
 
 The Montanists — sometimes called the *New Prophecy* (*Hē Kainē Prophēteia*, their own self-designation), or *Cataphrygians*/*Phrygianism* (their origins in Phrygia, Asia Minor) — were a second-century charismatic revival movement within Christianity that claimed the Holy Spirit was currently speaking through its prophets in a new and definitive way.

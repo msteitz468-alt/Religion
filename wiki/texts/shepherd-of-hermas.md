@@ -1,7 +1,13 @@
 ---
 title: Shepherd of Hermas
 tradition: Christianity (proto-orthodox, Roman)
-canon_status: non-canonical (cited as scripture by several Fathers; included in Codex Sinaiticus; ultimately excluded)
+canon_status: contested (cited as scripture by several Fathers; in Codex Sinaiticus; ultimately excluded)
+canon_scope:
+  canonical_for: []
+  deuterocanonical_for: []
+  authoritative_for: [proto-orthodox-christianity]
+  disputed_by: [proto-orthodox-christianity]   # cited as scripture by several Fathers; in Codex Sinaiticus
+  rejected_by: [catholicism, eastern-orthodoxy, protestantism]
 language_original: Greek
 date_range: ca. 90–155 CE (probably composed in stages; final form ca. mid-2nd century)
 sources_ingested: 1
@@ -92,9 +98,9 @@ The *Shepherd* has notably **minimal Christology** — Christ is rarely mentione
 
 Visions 1–4 follow the form of a Jewish-Christian apocalypse — revelation from God through a heavenly mediator, interpretation of visions, concern with coming tribulation. The closest formal parallels are 4 Ezra and 1 Enoch. The Mandates resemble a Jewish-Hellenistic wisdom homily. The Parables use allegorical similitudes characteristic of Jewish parabolic tradition.
 
-## Canonical Status
+## Canon and Reception
 
-The *Shepherd* was among the most widely read texts in the 2nd–3rd centuries that ultimately did not enter the NT canon:
+The *Shepherd* was one of the **most popular and most nearly-canonical** non-NT texts — among the most widely read writings of the 2nd–3rd centuries that ultimately did not enter the NT canon:
 - **Irenaeus**: Accepted as scripture
 - **Clement of Alexandria**: Accepted as scripture
 - **Origen**: Accepted as scripture (at least for a period)
@@ -103,6 +109,8 @@ The *Shepherd* was among the most widely read texts in the 2nd–3rd centuries t
 - **Didymus the Blind**: Included it in his canon
 - **Codex Sinaiticus**: Present after the NT (after Barnabas) — reflects its quasi-canonical status in some communities
 - **Muratorian Canon**: Explicitly excluded from the NT (not apostolic; too recent; not to be read publicly in church)
+
+The Muratorian verdict — it *may be read* but not "among the prophets or the apostles" — proved decisive: the *Shepherd* was **excluded** from the settled canon of [[catholicism|Catholicism]], [[eastern-orthodoxy|Eastern Orthodoxy]], and [[protestantism|Protestantism]], surviving as an edifying but non-canonical text.
 
 ## Manuscript Tradition
 

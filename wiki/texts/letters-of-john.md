@@ -2,6 +2,12 @@
 title: Letters of John (1, 2, 3 John)
 tradition: Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: [proto-orthodox-christianity]
+  rejected_by: []
 language_original: Greek
 date_range: c. 85–100 CE (consensus); possibly 60s–90s CE (Robinson)
 sources_ingested: 2

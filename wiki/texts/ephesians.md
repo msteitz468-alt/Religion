@@ -2,6 +2,12 @@
 title: The Letter to the Ephesians
 tradition: Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Greek
 date_range: c. AD 62 (if Pauline; c. AD 80–90 if pseudonymous — debated)
 sources_ingested: 1

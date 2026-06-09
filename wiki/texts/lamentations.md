@@ -2,6 +2,12 @@
 title: Lamentations
 tradition: Hebrew Bible / Old Testament (Writings / Megillot)
 canon_status: canonical (no known ancient controversy)
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew (transitional Biblical Hebrew)
 date_range: Composed ca. 587-540 BCE, in the immediate aftermath of the fall of Jerusalem
 sources_ingested: 2

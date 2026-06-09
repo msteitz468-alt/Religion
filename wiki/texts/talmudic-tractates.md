@@ -2,6 +2,12 @@
 title: List of Talmudic Tractates
 tradition: Judaism
 canon_status: canonical (authoritative for rabbinic Judaism)
+canon_scope:
+  canonical_for: [rabbinic-judaism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: [karaism, sadducees]
 language_original: Aramaic / Mishnaic Hebrew
 date_range: c. 200–600 CE
 sources_ingested: 0

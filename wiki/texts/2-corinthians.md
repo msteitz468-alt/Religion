@@ -2,6 +2,12 @@
 title: The Second Letter to the Corinthians
 tradition: Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Greek
 date_range: c. AD 55–56 (from Macedonia, after Titus's return)
 sources_ingested: 1

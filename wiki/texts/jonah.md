@@ -2,6 +2,12 @@
 title: Jonah
 tradition: Hebrew Bible / Old Testament (Latter Prophets — Book of the Twelve)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew (with significant late/Aramaic linguistic features)
 date_range: Late Persian or early Hellenistic period (probably 4th century BCE); fictionally set in the 8th century during the reign of Jeroboam II
 sources_ingested: 1

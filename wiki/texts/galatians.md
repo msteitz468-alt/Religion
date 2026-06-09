@@ -2,6 +2,12 @@
 title: The Letter to the Galatians
 tradition: Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Greek
 date_range: c. AD 48–57 (destination and date disputed; possibly earliest surviving Pauline letter)
 sources_ingested: 2

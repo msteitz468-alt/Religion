@@ -2,6 +2,12 @@
 title: Amos
 tradition: Hebrew Bible / Old Testament (Latter Prophets — Book of the Twelve)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: Ministry ca. 760 BCE (between 765 and 750 BCE); during the reign of Jeroboam II of Israel
 sources_ingested: 1

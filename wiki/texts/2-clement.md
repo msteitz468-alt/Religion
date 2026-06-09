@@ -1,7 +1,13 @@
 ---
 title: Second Clement
 tradition: Christianity (proto-orthodox)
-canon_status: non-canonical
+canon_status: authoritative-noncanonical (early)
+canon_scope:
+  canonical_for: []
+  deuterocanonical_for: []
+  authoritative_for: [proto-orthodox-christianity]
+  disputed_by: []
+  rejected_by: [catholicism, eastern-orthodoxy, protestantism]
 language_original: Greek
 date_range: ca. 140 CE (range: ca. 95–170)
 sources_ingested: 1
@@ -91,3 +97,12 @@ The complete Greek text was unknown until the discovery of Codex Hierosolymitanu
 - [[1-clement|First Clement]] — transmitted with 2 Clement; they share manuscript tradition
 - [[nt-canon-formation|NT Canon Formation]] — 2 Clem. 2.4 is the earliest instance of a NT text cited as "scripture"
 - [[gnostics|Gnostics]] — the sermon's anti-docetic and anti-gnostic features suggest awareness of gnostic-leaning tendencies in the community
+
+
+## Canon and Reception
+
+Transmitted alongside [[1-clement|1 Clement]] (it follows it in Codex Alexandrinus and the later
+Apostolic-Constitutions orbit), 2 Clement is the **oldest surviving Christian sermon** outside the
+NT but was never a serious canon candidate. It was valued and read in some 2nd–4th century
+communities ([[proto-orthodox-christianity|proto-orthodox]]) yet **excluded** from the settled
+canon of all later Christian streams.

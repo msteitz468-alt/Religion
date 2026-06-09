@@ -1,7 +1,13 @@
 ---
 title: The Revelation to John (The Apocalypse)
 tradition: Christianity
-canon_status: canonical
+canon_status: canonical (antilegomena — long disputed, esp. in the East)
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: [proto-orthodox-christianity]   # antilegomena; long rejected in the Greek East and absent from the Syriac Peshitta; not read liturgically in Eastern Orthodoxy
+  rejected_by: []
 language_original: Greek
 date_range: c. AD 95 (Domitian; Osborne) — alternatively the late 60s (Nero) on the early-date view
 sources_ingested: 1
@@ -130,15 +136,9 @@ temple in the city, for its temple is the Lord God Almighty and the Lamb" (21:22
 Eden** (the river and tree of life). On 21:1–5, Osborne discusses renovation vs. re-creation of the
 cosmos. See [[new-creation|New Creation]] and [[eschatological-temple|The Eschatological Temple]].
 
-## Canonical Reception
+## Canon and Reception
 
-Accepted early in the **West** (Muratorian Canon; Justin, Irenaeus, Tertullian, Hippolytus, Clement,
-Origen), with opposition only from Marcion and the anti-Montanist Alogoi/Gaius. The **East** was far
-more hesitant: Dionysius of Alexandria's denial of apostolic authorship (on linguistic/stylistic
-grounds) and the **chiliasm** controversy led Eusebius, Cyril, Chrysostom, Theodore, and Theodoret to
-doubt it; it was omitted from the Peshitta and the Council of Laodicea (360), and only gained secure
-Eastern canonical status at the Council of Constantinople (680). It remains absent from the Eastern
-Orthodox lectionary.
+Revelation's canonical history is the mirror image of the Catholic Epistles': **firmly received in the West but long doubted in the East**. It was accepted early in the **West** (Muratorian Canon; Justin, Irenaeus, Tertullian, Hippolytus, Clement, Origen), with opposition only from Marcion and the anti-Montanist Alogoi/Gaius. The **East** was far more hesitant: Dionysius of Alexandria's denial of apostolic authorship (on linguistic/stylistic grounds) and the **chiliasm** controversy led Eusebius, Cyril, Chrysostom, Theodore, and Theodoret to doubt it; it was omitted from the Peshitta and the Council of Laodicea (360), and only gained secure Eastern canonical status at the Council of Constantinople (680). It is today fully `canonical_for` [[catholicism|Catholicism]] and [[protestantism|Protestantism]], and canonical for [[eastern-orthodoxy|Eastern Orthodoxy]] — which, however, still **does not read it liturgically** (it remains absent from the Eastern Orthodox lectionary). See [[revelation-date-authorship|the authorship/date controversy]].
 
 ## Relation to Other Books
 

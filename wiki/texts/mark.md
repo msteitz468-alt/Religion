@@ -2,6 +2,12 @@
 title: Gospel of Mark
 tradition: New Testament (Gospel)
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Greek
 date_range: Pre-64 CE (France/Hengel); ca. 69 CE also defended; critical consensus ca. 65–70 CE
 sources_ingested: 2

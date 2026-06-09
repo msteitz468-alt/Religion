@@ -1,7 +1,13 @@
 ---
 title: Esther
 tradition: Christianity (Protestant/Jewish canon); Judaism (Writings/Megilloth)
-canon_status: canonical (disputed in some traditions; see controversy)
+canon_status: canonical (historically disputed; see controversy)
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []   # the LXX "Additions to Esther" are deuterocanonical for catholicism & eastern-orthodoxy
+  authoritative_for: []
+  disputed_by: [proto-orthodox-christianity]   # absent from Melito's & some early canon lists; doubted by some rabbis (Qumran omits it); Luther hostile
+  rejected_by: []
 language_original: Hebrew (Greek additions in LXX)
 date_range: Events ca. 479 BCE (reign of Xerxes I); composition debated; Persian or early Hellenistic period
 sources_ingested: 1
@@ -13,11 +19,9 @@ The Book of Esther narrates the survival of the Jewish people in the Persian dia
 
 Esther is theologically distinctive for two features: **God's name does not appear anywhere in the Hebrew text** — making it the only canonical OT book in which YHWH is not explicitly named — and the book is organized entirely around the reversal of **human fortune through circumstances that the narrator refuses to interpret theologically**, leaving the reader to infer divine providence without being told it. See [[esther-canonicity|Esther: Canonical Disputes and the Hidden God]].
 
-## Canonical Position
+## Canon and Reception
 
-In the Hebrew Bible, Esther belongs to the **Writings** (*Kětûvîm*) and is one of the five **Megilloth** (scrolls read at annual feasts). Esther is read at Purim (Adar 14-15). In the Protestant OT canon, it appears among the Historical Books. In the Greek LXX, it has significant additions (107 verses not found in the Hebrew MT) that explicitly name God and Esther's prayers — additions considered deuterocanonical by Catholic and Orthodox traditions.
-
-**Canonical debates**: No fragments of Esther were found among the Dead Sea Scrolls, suggesting the Qumran community may not have accepted it. Martin Luther famously said he wished it had not been written. See [[esther-canonicity|Esther: Canonical Disputes and the Hidden God]].
+In the Hebrew Bible, Esther belongs to the **Writings** (*Kětûvîm*) and is one of the five **Megilloth** (scrolls read at annual feasts), read at Purim (Adar 14–15); in the Protestant OT it appears among the Historical Books. It has the most contested canon history of any book in the Hebrew Bible: it is the **only book unattested at Qumran** (suggesting the community may not have accepted it), and the Mishnah and Talmud preserve a rabbinic debate over whether it "defiles the hands" (i.e. is canonical), resolved in its favor on the strength of **Purim**. Among Christians it is **absent from Melito of Sardis's OT list** and was doubted in the Greek East, and **Luther** famously wished it had not been written. It is nonetheless today `canonical_for` [[rabbinic-judaism|Rabbinic Judaism]], [[catholicism|Catholicism]], [[eastern-orthodoxy|Eastern Orthodoxy]], and [[protestantism|Protestantism]] alike. The **LXX "Additions to Esther"** (107 verses naming God and adding prayers) are received as *deuterocanonical* by [[catholicism|Catholicism]] and [[eastern-orthodoxy|Eastern Orthodoxy]] but not by [[protestantism|Protestantism]]. See [[esther-canonicity|Esther: Canonical Disputes and the Hidden God]].
 
 ## Historical Setting
 
@@ -103,6 +107,7 @@ The Greek Septuagint version of Esther contains six major additions (totaling 10
 - Addition F: Mordecai's dream interpreted
 
 These additions — accepted as deuterocanonical by Catholic and Orthodox traditions — transform the book's theological profile. Where the MT maintains deliberate divine hiddenness, the LXX additions make God explicit and prayer prominent. They represent a later interpretive tradition that was uncomfortable with the MT's silence. See [[esther-canonicity|Esther: Canonical Disputes and the Hidden God]].
+
 
 ## Sources Ingested
 

@@ -12,6 +12,10 @@ tags: [group, christianity, second-century, heresy, marcionites, dualism, anti-O
 
 # Marcionites
 
+> **Group page** — the Marcionite community as a social/historical actor. For Marcionism as
+> a *system* (its two-god doctrine, subtractive canon, hermeneutics, relationship to
+> orthodoxy), see the sect page [[marcionism|Marcionism]].
+
 ## Identity and Nomenclature
 
 The Marcionites were the followers of [[marcion|Marcion of Sinope]], who after his expulsion from the Roman church c.144 CE founded his own church organization. The movement was self-consciously a separate institution — not a school within the church (like the Valentinians) but a rival church with its own bishops, presbyters, deacons, baptism, and Eucharist.

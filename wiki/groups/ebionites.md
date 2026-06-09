@@ -12,6 +12,10 @@ tags: [group, christianity, second-century, jewish-christianity, heresy, ebionit
 
 # Ebionites
 
+> **Group page** — the Ebionite community as a social/historical actor. For Ebionism as a
+> *system* (law observance, adoptionist Christology, Paul-rejecting canon, hermeneutics,
+> relationship to orthodoxy), see the sect page [[ebionism|Ebionism]].
+
 ## Identity and Nomenclature
 
 "Ebionites" derives from the Hebrew *ebyōnîm* ("the poor") — a term reflecting either self-designation (identification with the poor of the Sermon on the Mount or the Jerusalem church's poverty; cf. Rom 15:26 "the poor among the saints in Jerusalem") or a pejorative label applied by opponents. The designation appears in patristic sources from Irenaeus onwards (*Haer.* 1.26.2; 5.1.3). No Ebionite text uses the name as a self-designation in surviving sources.

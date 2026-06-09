@@ -2,6 +2,12 @@
 title: 1 and 2 Kings
 tradition: Hebrew Bible / Old Testament (Former Prophets)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: Covers Solomon's reign (ca. 970 BCE) through the Babylonian exile (586 BCE); book finalized after 562 BCE (the last event described)
 sources_ingested: 2

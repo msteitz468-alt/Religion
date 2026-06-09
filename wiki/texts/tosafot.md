@@ -2,6 +2,12 @@
 title: Tosafot
 tradition: unknown
 canon_status: unknown
+canon_scope:
+  canonical_for: []
+  deuterocanonical_for: []
+  authoritative_for: [rabbinic-judaism]
+  disputed_by: []
+  rejected_by: [karaism, sadducees]
 language_original: unknown
 date_range: unknown
 sources_ingested: 0

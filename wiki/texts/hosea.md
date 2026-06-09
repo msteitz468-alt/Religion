@@ -2,6 +2,12 @@
 title: Hosea
 tradition: Hebrew Bible / Old Testament (Latter Prophets — Book of the Twelve)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew (notoriously difficult dialect; possibly with Northern features)
 date_range: Ministry ca. 760-720 BCE; the last decades of the Northern Kingdom before the fall of Samaria (722/721 BCE)
 sources_ingested: 1

@@ -30,7 +30,7 @@ The central figure of Christianity, believed by his followers to be the incarnat
 - **Protestant (Reformation and Evangelical)**: Sola fide, sola gratia through Christ alone (Luther, Calvin); penal substitution (many); emphasis on personal faith in the finished work of the cross and resurrection. France, Green, Michaels, and Bock represent modern evangelical narrative-critical and historical readings that stress fulfillment, theocentric purpose, testimony, and historical reliability.
 - **Critical / Historical Jesus**: Quest for the "real" Jesus behind the portraits (Sanders, Wright, etc.); debates over apocalyptic prophet vs. wisdom teacher, Jewish context, and the resurrection as historical event or interpretation. The four Gospels are seen as faith-portraits rather than neutral biography.
 - **Jewish**: Jesus as failed or false messiah, or a righteous teacher (some modern Jewish scholarship); New Testament portraits viewed as supersessionist or polemical.
-- **Islamic**: 'Isa, a great prophet and messenger, born of the Virgin Maryam, performer of miracles, but neither divine nor crucified (Quran 4:157; 5:75, 110–120). The Gospels' portraits are seen as corrupted.
+- **Islamic**: ʿIsa, a great prophet and messenger, born of the Virgin Maryam, performer of miracles, but neither divine ([[tawhid|tawhid]] vs. [[logos-christology|Logos Christology]]) nor crucified ([[quran|Quran]] 4:157; 5:75, 110–120 — see [[crucifixion-in-the-quran|the crucifixion controversy]]). The Gospels' portraits are held to be corrupted (*tahrif*). See [[islam|Islam]].
 - **Other**: In various new religious movements and secular culture, reinterpreted as ethical teacher, revolutionary, or myth.
 
 **Theological and Narrative Significance**:

@@ -2,6 +2,12 @@
 title: The Zohar (Sefer ha-Zohar)
 tradition: Judaism (Kabbalistic)
 canon_status: canonical (in mystical Judaism, ranked alongside Torah and Talmud)
+canon_scope:
+  canonical_for: [kabbalah]
+  deuterocanonical_for: []
+  authoritative_for: [rabbinic-judaism]
+  disputed_by: [rabbinic-judaism]
+  rejected_by: []
 language_original: Aramaic (medieval neo-Aramaic with Hebrew; a unique artificial literary dialect)
 date_range: c. 1280–1300 CE (composition in Castile); first printed Mantua/Cremona 1558–1560
 sources_ingested: 12

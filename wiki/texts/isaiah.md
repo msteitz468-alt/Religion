@@ -2,6 +2,12 @@
 title: Isaiah
 tradition: Hebrew Bible / Old Testament (Prophets — Latter Prophets)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: 8th century BCE (Isaiah of Jerusalem, 740-701 BCE) per Oswalt; critical consensus dates chs. 40-55 to ca. 550-540 BCE and chs. 56-66 to ca. 520-500 BCE
 sources_ingested: 2

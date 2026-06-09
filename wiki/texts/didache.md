@@ -1,7 +1,13 @@
 ---
 title: The Didache
 tradition: Christianity (Jewish-Christian, early)
-canon_status: non-canonical (cited as scripture by some Fathers; ultimately excluded)
+canon_status: contested (cited as scripture by some Fathers; ultimately excluded)
+canon_scope:
+  canonical_for: []
+  deuterocanonical_for: []
+  authoritative_for: [proto-orthodox-christianity]
+  disputed_by: [proto-orthodox-christianity]   # cited as scripture by some Fathers
+  rejected_by: [catholicism, eastern-orthodoxy, protestantism]
 language_original: Greek
 date_range: late 1st century CE (range: ca. 50–150; final form probably ca. 90–110)
 sources_ingested: 1
@@ -93,3 +99,13 @@ The complete Greek text depends entirely on Codex Hierosolymitanus (the same 11t
 - [[nt-canon-formation|NT Canon Formation]] — the Didache's three uses of "gospel" without citing a written text, and its possible independence from Matthew, are relevant to the canon formation timeline
 - [[matthew|Gospel of Matthew]] — the most debated relationship in Didache scholarship
 - [[concepts/double-mindedness|Double-Mindedness]] — Didache uses the *dipsychos* concept (4.4: "you shall not be double-minded about whether it will be or not")
+
+
+## Canon and Reception
+
+The Didache hovered on the canon boundary: **cited as scripture by some Fathers** (echoes in Clement
+of Alexandria; used by the *Didascalia* and Apostolic Constitutions) and grouped among the *disputed*
+or *spurious* books in the canon-lists of Eusebius and Athanasius. It was **ultimately excluded** from
+the New Testament of [[catholicism|Catholicism]], [[eastern-orthodoxy|Eastern Orthodoxy]], and
+[[protestantism|Protestantism]], surviving in a single complete Greek manuscript (Codex
+Hierosolymitanus, 1056). See [[nt-canon-formation|NT canon formation]].

@@ -1,13 +1,19 @@
 ---
 title: Kabbalah
 also_known_as: [Jewish mysticism, Torat ha-Nistar (hidden Torah), Ḥokhmat ha-Emet (wisdom of truth), the Kabbalah]
-tradition: Judaism
-primary_texts: [Sefer Yetsirah, Sefer ha-Bahir, The Zohar, Lurianic writings]
-periods: [12th century Provence (origins) through present]
-key_figures: [Isaac the Blind, Moses Naḥmanides, Moses de León, Isaac Luria, Shim'on Lavi, the Baal Shem Tov]
+parent_tradition: judaism
+type: movement
+dates: 12th c. Provence – present
+status: extant
+relationship_to_orthodoxy: normative (esoteric stream within Rabbinic Judaism; contested by Maimonidean rationalism)
+canon_distinctives: [zohar]   # the Zohar as canonical mystical scripture alongside the rabbinic corpus; Sefer Yetsirah, Sefer ha-Bahir
+key_doctrinal_distinctives: [Ein Sof and the ten sefirot, the divine feminine (Shekhinah) and zivvuga qaddisha, theurgy, the Sitra Aḥra]
+hermeneutical_method: [sod, sefirotic correspondence, gematria, notarikon, theogonic reading]
+key_figures: [moses-de-leon, shimon-bar-yochai, Isaac the Blind, Moses Naḥmanides, Isaac Luria, the Baal Shem Tov]
+key_texts: [zohar]
 sources_ingested: 1
-last_updated: 2026-06-07
-tags: [tradition, judaism, mysticism, kabbalah]
+last_updated: 2026-06-09
+tags: [sect, judaism, mysticism, kabbalah]
 ---
 
 # Kabbalah

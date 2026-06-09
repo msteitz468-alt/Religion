@@ -2,6 +2,12 @@
 title: Job
 tradition: Hebrew Bible / Old Testament (non-nationalistic; Edomite/Transjordanian setting)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew (with notable Aramaic features and unique dialect)
 date_range: Composition debated; Hartley argues 7th century BCE (Hezekiah's era); events set in patriarchal period
 sources_ingested: 2

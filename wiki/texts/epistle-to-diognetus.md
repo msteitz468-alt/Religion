@@ -1,7 +1,13 @@
 ---
 title: Epistle to Diognetus
 tradition: Christianity (proto-orthodox, apologist tradition)
-canon_status: non-canonical
+canon_status: authoritative-noncanonical (apologetic)
+canon_scope:
+  canonical_for: []
+  deuterocanonical_for: []
+  authoritative_for: [proto-orthodox-christianity]
+  disputed_by: []
+  rejected_by: [catholicism, eastern-orthodoxy, protestantism]
 language_original: Greek
 date_range: ca. 150–225 CE (sections 1–10); sections 11–12 probably a different document
 sources_ingested: 1
@@ -136,3 +142,12 @@ The Holmes edition includes with *Diognetus* the sole surviving fragment of **Qu
 - [[origen|Origen]] — the apophatic theology of Diognetus anticipates Origen's approach
 - [[justin-martyr|Justin Martyr]] — contemporary apologist; compare for audience and method
 - [[nt-canon-formation|NT Canon Formation]] — *Diognetus* makes no use of the NT as scripture; its OT use is minimal and indirect; its canonical status was never seriously proposed
+
+
+## Canon and Reception
+
+An apologetic treatise rather than a canon candidate, Diognetus was **never proposed for
+scriptural status**; its value is as a 2nd–3rd century [[proto-orthodox-christianity|proto-orthodox]]
+witness (hence `authoritative_for`, not `canonical_for`). Its transmission was famously fragile — the
+sole surviving manuscript was **destroyed in the 1870 Strasbourg fire** — so its reception rests
+entirely on early modern copies.

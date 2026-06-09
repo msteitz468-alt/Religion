@@ -2,6 +2,12 @@
 title: The First Letter of Peter
 tradition: Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Greek
 date_range: c. AD 50s–60s (Jobes; possibly early 50s, possibly mid-60s before Peter's death); alternatively AD 75–95 if pseudonymous
 sources_ingested: 1

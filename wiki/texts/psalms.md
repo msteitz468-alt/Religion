@@ -2,6 +2,12 @@
 title: The Psalms (Psalter)
 tradition: Judaism (Writings); Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: Compositions span from patriarchal/early monarchy period to post-exilic (10th–5th c. BCE); final canonical shaping most likely post-exilic (6th–4th c. BCE)
 sources_ingested: 2

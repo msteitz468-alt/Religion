@@ -1515,3 +1515,607 @@ Source type: primary text / stratum of [[kabbalah|Kabbalah]], Nathan Wolski’s 
 **Bookkeeping**: index, overview, and zohar refreshed; nathan-wolski page substantially enhanced; log appended. Hermeneutical tracking: explicit attention to the composition mode (halls as theurgic adornment, letters as generators of sefirot, physiognomy as sod, measure from Ein Sof) alongside prior modes. All dates normalized to real system date 2026-06-07. Raw sources untouched.
 
 **Next frontier noted**: later Zoharic reception and commentary (e.g., Moses Cordovero *Or Yaqar*, Isaac Luria and the transformation of these units via tsimtsum/shevirah/tikkun); dedicated expansions for specific compositions (e.g., a concept page for “Raza de-Razin”/physiognomy or “Heikhalot” if sustained new treatment emerges); integration of Vol. XII material into existing concepts (shekhinah, sefirot, ein-sof, theurgy, divine-name) or text pages (e.g., festival/Shavu’ot dimensions); or sources on the historical transmission and printing of these strata (*Zohar Ḥadash*). The distinction between running commentary, concealed midrash, and independent composition is now fully tracked across the Pritzker set.
+
+---
+
+## [2026-06-09] migration | Schema restructure — sects as first-class pages, canon_scope, two-level traditions/
+
+**Type**: structural migration (not a source ingest). No `raw/` files touched; no prior log
+entries altered. Directed by user to solve three compounding organizational problems:
+(1) canonical status was frontmatter, not a navigable structural dimension; (2) sects had no
+first-class page type; (3) flat `traditions/` would not scale across world religions.
+
+**CLAUDE.md revised** (approved before execution):
+- `traditions/` documented as a **two-level hierarchy**: `traditions/<tradition>/<tradition>.md`
+  + `traditions/<tradition>/sects/<sect>.md`.
+- Text Page schema: added structured **`canon_scope`** block (`canonical_for` /
+  `deuterocanonical_for` / `authoritative_for` / `disputed_by` / `rejected_by`, entries =
+  tradition/sect slugs); `canon_status` demoted to a coarse headline; required **Canon and
+  Reception** body section, with Gospel of Thomas and Book of Mormon as worked stress cases.
+- Added two new page-type schemas: **Tradition Page** (none existed before) and
+  **Sect / Denomination Page** (parent_tradition, canon-divergence, doctrinal distinctives,
+  relationship_to_orthodoxy).
+- Updated Hermeneutical Tracking, Ingest Workflow (step 1 now requires the canon-status-within-
+  sect-vs-parent question), Lint Workflow, and Naming/Linking (group vs sect vs tradition
+  disambiguation; nested paths for filing only; canon_scope entries are slugs).
+
+**Pages migrated/created**:
+- Restructured `traditions/`: created [[judaism|Judaism]] and [[christianity|Christianity]]
+  tradition overview pages; `git mv` [[rabbinic-judaism]] and [[kabbalah]] into
+  `traditions/judaism/sects/` and reframed their frontmatter to the sect schema.
+- New sect stubs (8): Christianity — [[proto-orthodox-christianity]], [[gnosticism]],
+  [[valentinianism]], [[sethianism]], [[marcionism]], [[montanism]], [[ebionism]];
+  Judaism — [[karaism]].
+- Cross-linked the four overlapping `groups/` pages ([[gnostics]], [[marcionites]],
+  [[montanists]], [[ebionites]]) to their new sect pages (kept both per group/sect convention).
+- `canon_scope` rolled out to the **12 contested/sectarian text pages**: [[nag-hammadi-library]]
+  (canonical for Gnostic sects, rejected by proto-orthodoxy); the seven Apostolic Fathers
+  ([[1-clement]], [[2-clement]], [[didache]], [[epistle-of-barnabas]], [[shepherd-of-hermas]],
+  [[epistle-to-diognetus]], [[fragments-of-papias]]); and the antilegomena / disputed
+  canonical books [[esther]], [[jude]], [[2-peter]], [[revelation]]. Firmly-canonical Tanakh/NT
+  books deferred for per-ingest backfill (full Canon-and-Reception body sections likewise
+  deferred for the Apostolic Fathers).
+
+**Bookkeeping**: `index.md` Traditions section rebuilt as "Traditions and Sects" (two-level,
+nested); `overview.md` Coverage table updated (Traditions = 2 overviews; new Sects row = 10)
+with a dated structural note; total ~284 → ~295+. All dates normalized to 2026-06-09.
+
+**Follow-ups noted**: backfill `canon_scope` on the remaining ~63 text pages organically per
+ingest; add full Canon-and-Reception body sections to the Apostolic Fathers; create sect pages
+for later denominations (Catholicism, Eastern Orthodoxy, Protestantism, Latter-day Saints) and
+tradition pages for non-Abrahamic religions as sources arrive; the forward-referenced slugs
+`catholicism`, `eastern-orthodoxy`, `protestantism`, `thomasine-christianity`, `coptic-christianity`,
+and `latter-day-saints` currently resolve to not-yet-created pages by design.
+
+---
+
+## [2026-06-09] migration (phase 2) | Full schema conformance — canon_scope backfill + missing sects
+
+Follow-up to the same-day schema restructure, closing the deferred conformance gaps a lint
+against the new schema surfaced. No `raw/` touched; no prior log entries altered.
+
+- **`canon_scope` backfilled to all remaining text pages** (65 inserted; now 78/78 carry the
+  field — only the stray `deuteronomy (conflict …).md` sync-copy excluded). Corpus defaults
+  encode the live canon splits: Torah → adds [[samaritanism]] to `canonical_for`; the Oral-Torah
+  corpus ([[mishna]], [[talmud-bavli]], [[talmud-yerushalmi]], [[talmudic-tractates]], the six
+  seders) → `canonical_for: [rabbinic-judaism]`, `rejected_by: [karaism, sadducees]`; [[tosafot]]
+  → `authoritative_for: [rabbinic-judaism]`; [[zohar]] → `canonical_for: [kabbalah]`,
+  `authoritative_for`/`disputed_by: [rabbinic-judaism]`; Tanakh → rabbinic + Christian canons; NT
+  → Christian canons, with the antilegomena ([[hebrews]], [[james]], [[letters-of-john]]) adding
+  `disputed_by: [proto-orthodox-christianity]`.
+- **Four new pages** created (lint-identified, scope-rule-warranted):
+  - [[samaritanism|Samaritanism]] — new **top-level parallel tradition** (`traditions/samaritanism/`);
+    canon = Samaritan Pentateuch alone; Gerizim cult; cross-linked to [[samaritans]] (group),
+    [[mount-gerizim]], [[gerizim-vs-jerusalem]].
+  - [[arianism|Arianism]] — Christianity sect; the 4th-c. Son-as-creature movement; no canon
+    divergence (exegetical dispute); ties into the [[nicaea]] / [[cappadocian-fathers]] / Wolfson
+    Trinitarian material.
+  - [[sadducees|Sadducees]] and [[essenes|Essenes]] — Judaism sects (Second Temple parties with
+    distinct canon/halacha; Sadducees reject the Oral Torah, Essenes = Qumran/DSS expansive canon).
+- **Bookkeeping**: parent overviews ([[judaism]], [[christianity]]) updated (`major_sects` + body
+  sect maps); `index.md` Traditions-and-Sects section extended (Samaritanism tradition; Arianism,
+  Sadducees, Essenes sects); `overview.md` table updated (Traditions 2→3, Sects 10→13, total
+  ~299+) and its canon_scope note corrected to "all 78 text pages."
+
+**Schema conformance status**: text pages, tradition pages, and sect pages now all match the
+revised CLAUDE.md schema. Remaining items are enrichment, not conformance: fuller Canon-and-Reception
+body sections on the contested texts; lower-tier sect candidates (Nazarenes, Manichaeism, Mandaeism,
+Catharism) await dedicated sources; the `deuteronomy (conflict …)` sync-copy should be reconciled.
+
+---
+
+## [2026-06-09] migration (phase 3) | Denomination sect pages + Canon-and-Reception body sections
+
+Closes the last conformance loose ends from phase 2.
+
+- **Three denomination sect pages** created to resolve the forward-references the canon_scope
+  backfill introduced: [[catholicism|Catholicism]] (OT incl. deuterocanon), [[eastern-orthodoxy|
+  Eastern Orthodoxy]] (broadest OT; Revelation canonical but non-liturgical), and
+  [[protestantism|Protestantism]] (39-book OT; the *solas*; home stream of the wiki's ingested
+  commentary). Wired into [[christianity]] `major_sects` + body, `index.md`, and `overview.md`
+  (Sects 13→16, total ~302+). All `canon_scope` slugs now resolve.
+- **Canon-and-Reception body sections** added to all 12 contested/sectarian text pages
+  ([[nag-hammadi-library]], the seven Apostolic Fathers, [[esther]], [[jude]], [[2-peter]],
+  [[revelation]]), each narrating the community-relative canon split and cross-linking the
+  relevant sect/denomination and controversy pages — fulfilling the Text Page schema's required
+  section where the split is non-trivial.
+
+**Note**: a few pages (Revelation, Shepherd of Hermas, Esther) retain an older, differently-titled
+canon section alongside the new standardized one — candidates for a later merge, not a conformance
+issue.
+
+## [2026-06-09] cleanup | Merged overlapping canon sections
+
+Resolved the phase-3 note: the five contested texts that already had an older, differently-titled
+canon section ([[esther]] "Canonical Position", [[shepherd-of-hermas]] "Canonical Status",
+[[revelation]] "Canonical Reception", [[jude]] "Canonical Reception", and [[epistle-of-barnabas]]
+"Canonical Status and Manuscript Tradition") were merged into a single standardized
+**## Canon and Reception** section per page — older detail retained, the sect-keyed split and
+cross-links folded in, and Barnabas's combined heading split into separate Canon-and-Reception and
+Manuscript-Tradition sections. All 12 contested texts now carry exactly one canon section; no
+duplicate headings or dangling links remain.
+
+---
+
+## [2026-06-09] ingest | The Qur'an (Pickthall) — Islam, Tier 1 of the world-religions expansion
+
+First ingest beyond the Jewish/Christian foundation. Source: public-domain **Pickthall** English
+Qur'an (complete, 114 suras) acquired in `raw/texts/islam/`. Per the *Needed Sources.md* schema flag,
+the Islamic sect scaffolding was built **before** ingesting the text.
+
+**Pages created (10):**
+- Tradition: [[islam|Islam]] (two-level `traditions/islam/`).
+- Sects: [[sunni-islam|Sunni Islam]], [[shia-islam|Shia Islam]], [[sufism|Sufism]] — with the
+  sect-defining **hadith canon split** documented (Sunni *Kutub al-Sittah* vs. Shia *Four Books*).
+- Text: [[quran|The Qur'an]] — `canon_scope: canonical_for [sunni-islam, shia-islam, sufism]`; cruxes
+  list flagging the cross-tradition controversies.
+- Concepts: [[tafsir|Tafsir]] (the Islamic hermeneutical-tracking framework: *ma'thur* vs. *ra'y*;
+  *zahir/batin*) and [[tawhid|Tawhid]] (divine oneness; set against the Trinity, alongside the Shema).
+- Controversies: [[qiraat-variant-readings|the Qira'at]] (required schema flag — text-criticism) and
+  [[crucifixion-in-the-quran|the crucifixion (Q 4:157)]] (the flagship Islam–Christianity contradiction).
+
+**Hermeneutical tracking**: tafsir bi'l-ma'thur / bi'l-ra'y; zahir/batin and ta'wil (Shia + Sufi).
+Cross-tradition parallels flagged for a future comparison page (ta'wil vs. Remez/Sod vs. theoria).
+
+**Bookkeeping**: index.md (Traditions-and-Sects + Texts + Concepts + Controversies), overview.md
+(Traditions 3→4, Sects 16→19, total ~312+, scope note). `raw/` untouched.
+
+**Outstanding for the Islam tier**: (1) [[sahih-al-bukhari|Sahih al-Bukhari]] download failed (the
+2-level crawl produced nothing — re-download in progress); its text page + Sunni `canonical_for` /
+Shia `rejected_by` will follow. (2) Islamic reception sections on [[abraham|Ibrahim]], [[moses|Musa]],
+[[jesus|Isa]], [[ishmael|Isma'il]] and the Isaac-vs-Ishmael [[akedah-interpretation|Akedah]] dimension.
+(3) Sahih Muslim and Al-Muwatta not at the *Needed Sources.md* URLs (→ Outstanding).
+
+---
+
+## [2026-06-09] ingest | Buddhism — Dhammapada, Heart/Lotus Sutra, Visuddhimagga, Bodhicaryavatara (Tier 1 cont.)
+
+The wiki's **first non-theistic tradition**. CLAUDE.md updated first (Tradition Page section) to define
+the non-theistic / multi-canon model; the Neyartha/Nitartha framework was already in the hermeneutics
+list. Sources (public domain, in `raw/`): Dhammapada (Buddharakkhita), Heart Sutra (Conze), Lotus Sutra
+(Kern), Visuddhimagga (Nanamoli, PDF), Bodhicaryavatara (Barnett).
+
+**Pages created (15):**
+- Tradition: [[buddhism|Buddhism]]. Sects: [[theravada|Theravada]], [[mahayana|Mahayana]],
+  [[vajrayana|Vajrayana]] — the **Theravada/Mahayana canon split** documented (Pali Canon alone vs. the
+  Mahayana sutras).
+- Texts: [[tipitaka|Pali Canon]], [[dhammapada|Dhammapada]] (`canonical_for [theravada]`,
+  `authoritative_for [mahayana, vajrayana]`); [[heart-sutra|Heart Sutra]], [[lotus-sutra|Lotus Sutra]]
+  (`canonical_for [mahayana, vajrayana]`, `rejected_by [theravada]`) — the cleanest multi-canon use of
+  `canon_scope` so far.
+- Concepts: [[four-noble-truths|Four Noble Truths]], [[anatta|Anatta]], [[sunyata|Sunyata]],
+  [[bodhisattva|Bodhisattva]], [[neyartha-nitartha|Neyartha/Nitartha]].
+- Figure: [[gautama-buddha|The Buddha]]. Commentators: [[buddhaghosa|Buddhaghosa]] (Visuddhimagga),
+  [[shantideva|Shantideva]] (Bodhicaryavatara).
+
+**Cross-tradition fault lines flagged**: [[anatta|non-self]] vs. the Hindu *atman* ([[upanishads]]) and
+the Abrahamic/Kabbalist soul; [[sunyata|emptiness]] vs. Brahman/[[ein-sof|Ein Sof]] and apophatic
+theology. Several comparison pages flagged.
+
+**Bookkeeping**: index.md (Traditions-and-Sects + Texts + Concepts + Figures + Commentators), overview.md
+(Traditions 4→5, Sects 19→22, total ~333+). Also closed the Islam loose end: [[sahih-al-bukhari|Sahih
+al-Bukhari]] downloaded (244 ch.) and its text page created — the Sunni-canonical / Shia-rejected
+exemplar. `raw/` untouched.
+
+**Pending Buddhism enrichment**: Diamond Sutra, Platform Sutra, Bardo Thodol (dead URLs); SuttaCentral
+Nikaya prose; Nagarjuna's Mulamadhyamakakarika (copyright).
+
+---
+
+## [2026-06-09] ingest | Hinduism — Upanishads, Gita, Brahma Sutras (Shankara + Ramanuja), Yoga Sutras
+
+Tier 2. The wiki's clearest **"one shared canon, opposite readings"** tradition — complement to
+Buddhism's multi-canon split. Sources (public domain, in `raw/`): Upanishads (Müller SBE1), Bhagavad
+Gita (Arnold), Brahma Sutras with **Shankara** (Thibaut SBE34) and **Ramanuja** (Thibaut SBE48)
+commentaries, Yoga Sutras (Johnston).
+
+**Pages created (16):**
+- Tradition: [[hinduism|Hinduism]] (shruti/smriti tiered canon; prasthana-trayi).
+- Sects (the Vedanta schools): [[advaita-vedanta|Advaita]], [[vishishtadvaita-vedanta|Vishishtadvaita]],
+  [[dvaita-vedanta|Dvaita]] — divergence is **interpretive, not canonical** (`canon_scope` identical).
+- Texts: [[upanishads|Upanishads]], [[bhagavad-gita|Gita]], [[brahma-sutras|Brahma Sutras]],
+  [[yoga-sutras|Yoga Sutras]] (`canonical_for: [hinduism]`).
+- Commentators: [[shankara|Shankara]], [[ramanuja|Ramanuja]], [[madhva|Madhva]] (last a stub — no free
+  translation of his Brahma-Sutra commentary).
+- Concepts: [[brahman|Brahman]], [[atman|Atman]], [[moksha|Moksha]], [[maya|Maya]]. Figure: [[krishna|Krishna]].
+- Controversy (flagged triad): [[brahman-atman-vedanta-schools|The Nature of Brahman and the Self]] —
+  Advaita/Vishishtadvaita/Dvaita on "tat tvam asi."
+
+**Cross-tradition wiring**: [[atman|atman]] ↔ Buddhist [[anatta|non-self]] and [[brahman|Brahman]] ↔
+[[sunyata|emptiness]]/[[ein-sof|Ein Sof]] now connect the Indian and other traditions; the
+[[upanishads|Upanishads]] forward-refs from the Buddhism pages are resolved.
+
+**Bookkeeping**: index.md (Traditions-and-Sects + Texts + Concepts + Figures + Commentators +
+Controversies), overview.md (Traditions 5→6, Sects 22→25, total ~349+). `raw/` untouched.
+
+**Pending Hinduism enrichment**: Madhva commentary (untranslated); the Vaishnava/Shaiva/Shakta
+sampradayas and the other darshanas (Samkhya, Nyaya); karma/samsara/dharma concept pages.
+
+---
+
+## [2026-06-09] ingest | Daoism — Daodejing + Zhuangzi (Legge); the Wang Bi/Heshang Gong divide
+
+Tier 2 cont. The most hermeneutically foreign tradition so far. CLAUDE.md updated first with the
+**commentary-as-transformation** framework (Hermeneutical Tracking). Sources (public domain, in `raw/`):
+Daodejing (Legge SBE39) and Zhuangzi (Legge SBE39–40). The classical commentaries (Wang Bi, Heshang Gong,
+Guo Xiang) are all untranslated/copyright — documented from secondary knowledge.
+
+**Pages created (12):**
+- Tradition: [[daoism|Daoism]]. Sects: [[philosophical-daoism|Philosophical]] (*daojia*) and
+  [[religious-daoism|Religious]] (*daojiao*).
+- Texts: [[daodejing|Daodejing]], [[zhuangzi|Zhuangzi]] (`canonical_for: [daoism]`).
+- Concepts: [[dao|Dao]], [[wu-wei|Wu-wei]], [[ziran|Ziran]]. Figure: [[laozi|Laozi]].
+- Commentators: [[wang-bi|Wang Bi]] (philosophical/xuanxue) and [[heshang-gong|Heshang Gong]]
+  (longevity-cultivation) — both stubs pending translations.
+- Controversy (flagged): [[wang-bi-vs-heshang-gong|Wang Bi vs. Heshang Gong]].
+
+**Methodological note**: Daoism gives the wiki its **third distinct pattern of scriptural division** —
+same canon, different *purpose of reading* (metaphysics vs. body-cultivation) — alongside Buddhism's
+multi-canon split and Hindu Vedanta's one-canon-opposite-metaphysics. The ineffable [[dao|Dao]] is now
+cross-linked to the other "beyond-name" ultimates ([[ein-sof|Ein Sof]], [[sunyata|emptiness]],
+[[brahman|nirguna Brahman]]).
+
+**Bookkeeping**: index.md (all sections), overview.md (Traditions 6→7, Sects 25→27, total ~361+).
+`raw/` untouched. (Daoist concept pages forward-reference [[analects|Confucian li]] — resolved with the
+Confucianism ingest, next.)
+
+---
+
+## [2026-06-09] ingest | Confucianism — the Analects + Mencius (Legge)
+
+Tier 3 (Confucianism listed under the later legs, but ingested now as its sources were in hand). Sources
+(public domain, in `raw/`): Analects (Legge) and Mencius (Legge).
+
+**Pages created (9):**
+- Tradition: [[confucianism|Confucianism]] (the Five Classics / Four Books; ethics of cultivation).
+- Sects: [[classical-confucianism|Classical]] (Confucius/Mencius/Xunzi) and
+  [[neo-confucianism|Neo-Confucianism]] (Zhu Xi's Cheng-Zhu vs. Wang Yangming's Lu-Wang).
+- Texts: [[analects|Analects]], [[mencius|Mencius]] (`canonical_for: [confucianism]`).
+- Concepts: [[ren|Ren]] (humaneness), [[li-confucian|Li]] (ritual propriety). Figure: [[confucius|
+  Confucius]]. Commentator: [[zhu-xi|Zhu Xi]] (canonized the Four Books; commentary untranslated).
+
+**Resolves** the [[analects|Analects]] forward-references left by the Daoism ingest. **Cross-tradition
+spine**: the Confucian **cultivation** (li) vs. Daoist **un-contrivance** (ziran/wu-wei) debate is now
+wired in both directions — the central tension of Chinese thought. Zhu Xi's canon-by-commentary parallels
+the Vedanta and Daoist commentary patterns.
+
+**Bookkeeping**: index.md (all sections), overview.md (Traditions 7→8, Sects 27→29, total ~371+). `raw/`
+untouched. The Mencius/Xunzi human-nature dispute flagged for a future controversy page.
+
+---
+
+## [2026-06-09] ingest | Second Temple Judaism — 1 Enoch + Jubilees (Charles); pseudepigrapha canon handling
+
+Tier 3. Not a new tradition but a corpus within Judaism; ingested to back-fill existing nodes and to
+demonstrate **pseudepigrapha canon-status handling** (the schema flag). Sources (public domain): 1 Enoch
+and Jubilees (R. H. Charles).
+
+**Pages created (3):**
+- Texts: [[1-enoch|1 Enoch]] — the wiki's **richest `canon_scope`**: `canonical_for [ethiopian-orthodoxy]`,
+  `authoritative_for [essenes]`, `disputed_by [proto-orthodox-christianity]` (Jude quotes it),
+  `rejected_by [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]`. [[jubilees|Jubilees]] —
+  parallel pseudepigraphal split; the 364-day calendar.
+- Concept: [[pseudepigrapha|Pseudepigrapha]] — the canon-status spectrum and the Apocrypha/pseudepigrapha
+  terminology tangle, kept straight via `canon_scope`.
+
+**Back-fills**: the [[enoch|Enoch]] figure, the [[essenes|Essene]] expansive canon, the
+[[sons-of-god|sons of God / Watchers]] reading, and the [[jude-1-enoch-canon|Jude and 1 Enoch]]
+controversy now have their primary texts. `ethiopian-orthodoxy` is a forward-ref slug (a Christianity
+sect to be created when sourced).
+
+**Bookkeeping**: index.md (Texts + Concepts), log.md. (overview.md totals updated in the Zoroastrianism
+entry below.) `raw/` untouched.
+
+---
+
+## [2026-06-09] ingest | Zoroastrianism — the Gathas (Mills) + Skjærvø scholarship; influence-tracing
+
+Tier 3, and the **final tradition** of the planned sequence. Sources: the Gathas (Mills, SBE31, public
+domain, downloaded) and the user-supplied **Skjærvø, *The Spirit of Zoroastrianism***
+(`raw/commentaries/Zoroastrianism/`).
+
+**Pages created (6):**
+- Tradition: [[zoroastrianism|Zoroastrianism]] (Ahura Mazda; Asha vs. the Lie; cosmic dualism;
+  Frashokereti). Sect: [[zurvanism|Zurvanism]] (Time as the prior unity; largely extinct).
+- Text: [[gathas|The Gathas]] (`canonical_for: [zoroastrianism]`). Figure: [[zarathustra|Zarathustra]].
+- Scholarship: [[skjaervo-spirit-of-zoroastrianism|Skjærvø summary]] (notes the Mills translation's age).
+- **Comparison (the schema's "influence-tracing" page)**:
+  [[zoroastrian-influence-on-abrahamic-eschatology|Zoroastrian Influence on Abrahamic Eschatology]] —
+  dualism, ranked angels/demons, resurrection, final judgment, the Saoshyant/savior, and world-renewal,
+  with the Persian-period hinge (Cyrus, the end of the Exile) and the dating/independent-development
+  caveats; held open per the Contradiction Protocol.
+
+**Bookkeeping**: index.md (Traditions-and-Sects + Texts + Figures + Comparisons + Scholarship),
+overview.md (Traditions 8→9, Sects 29→30, total ~385+). `raw/` untouched.
+
+### Sequence complete
+The *Needed Sources.md* ingestion plan (Islam → Buddhism → Hinduism → Daoism → Confucianism → Second
+Temple Judaism → Zoroastrianism) is now ingested for **all acquired public-domain sources**. The wiki
+spans **9 traditions / 30 sects**. Outstanding throughout = copyrighted/untranslated commentaries and a
+few dead-URL primary texts (see download log and *Needed Sources.md* Outstanding).
+
+---
+
+## [2026-06-09] ingest | Mormonism (downloaded) + 9 other modern Christian sects
+
+User-directed expansion of the Christianity tree. **Mormonism downloaded and fully ingested**; the other
+sects documented from knowledge (their distinctive scriptures are copyright or, for the historic
+Protestant families, simply the shared 66-book canon).
+
+**Downloaded (public domain, `raw/texts/mormonism/`)**: the Book of Mormon (Gutenberg #17), the Doctrine
+and Covenants and the Pearl of Great Price (sacred-texts; PGP URL corrected to `/mor/pgp/`).
+
+**Pages created (14):**
+- **Latter-day Saints / Mormonism**: sect [[latter-day-saints]] (resolves the long-standing forward-ref);
+  texts [[book-of-mormon|Book of Mormon]] (the **realized `canon_scope` exemplar** — `canonical_for
+  [latter-day-saints]`, `deuterocanonical_for [community-of-christ]`, `rejected_by [catholicism,
+  eastern-orthodoxy, protestantism]`, + the "continues the biblical narrative" reception note),
+  [[doctrine-and-covenants|D&C]] (the open/additive canon), [[pearl-of-great-price|Pearl of Great Price]]
+  (canon for the LDS but not the Community of Christ); figure [[joseph-smith|Joseph Smith]].
+- **Restorationist / NRM**: [[seventh-day-adventism|Seventh-day Adventism]] (Ellen White as
+  `authoritative_for`, not `canonical` — a sub-canonical case), [[jehovahs-witnesses|Jehovah's Witnesses]]
+  (non-Trinitarian; structurally echoes [[arianism|Arianism]]).
+- **Protestant families**: [[lutheranism]], [[anglicanism]], [[methodism]], [[baptists]],
+  [[presbyterianism]], [[pentecostalism]], [[quakerism]] — these also give the wiki's ingested commentators
+  explicit denominational homes (Wesleyan→Methodism, Reformed→Presbyterianism, Baptist, etc.).
+
+**Bookkeeping**: index.md (Christianity sects regrouped into Protestant-families + Restorationist/NRM;
+Texts + Figures), overview.md (Sects 30→40; Christianity now 21 sects; total ~399+). `raw/` untouched
+(except the new `raw/texts/mormonism/` downloads).
+
+**New forward-ref slug**: `community-of-christ`. **Further sect candidates**: Christian Science,
+Unitarian-Universalism, Oriental Orthodoxy, the Stone-Campbell Restoration churches.
+
+---
+
+## [2026-06-09] ingest | Five further Christian sects (Oriental/Ethiopian Orthodoxy, Stone-Campbell, Christian Science, Unitarian Universalism)
+
+Completes the Christianity sect build-out (all documented from knowledge; no downloads).
+
+**Pages created (5):**
+- [[oriental-orthodoxy|Oriental Orthodoxy]] — the non-Chalcedonian (Miaphysite) communion (Coptic, Syriac,
+  Armenian, Ethiopian, etc.); accepts only the first three ecumenical councils.
+- [[ethiopian-orthodoxy|Ethiopian Orthodoxy]] (Tewahedo) — the **widest canon in Christianity** (~81 books
+  incl. [[1-enoch|1 Enoch]] and [[jubilees|Jubilees]]); **resolves the `ethiopian-orthodoxy` `canon_scope`
+  slug** those texts had pointed at, making that canon relation fully navigable.
+- [[stone-campbell-restoration|Stone-Campbell Restoration Movement]] — "no creed but Christ, no book but
+  the Bible"; restorationist *without* new scripture (contrast Mormonism); Churches of Christ / Disciples.
+- [[christian-science|Christian Science]] — Eddy; *Science and Health* `authoritative_for` (paired with the
+  Bible as "pastor"), a sub-canonical interpretive key (public domain — ingestable on request).
+- [[unitarian-universalism|Unitarian Universalism]] — non-Trinitarian + universalist roots; filed under
+  Christianity genealogically with its **post-Christian/pluralist** present flagged.
+
+**Bookkeeping**: index.md (two ancient branches added by Catholicism/Orthodoxy/Protestantism; a
+liberal/metaphysical group); overview.md (Sects 40→45; Christianity now 26; total ~404+). Fixed a stray
+[[cyril-of-alexandria]] link (no page) to plain text. `raw/` untouched.
+
+**Remaining forward-ref slug**: `community-of-christ`. SDA's Ellen White corpus and Eddy's *Science and
+Health* are public-domain and could be downloaded as text pages if desired.
+
+---
+
+## [2026-06-09] ingest | Community of Christ; Science and Health + Ellen G. White (downloaded)
+
+Closes the `community-of-christ` forward-ref and adds the public-domain texts behind two sects.
+
+- **Sect**: [[community-of-christ|Community of Christ]] (formerly RLDS) — the non-Brighamite Latter Day
+  Saint church; resolves the `community-of-christ` slug used by the Mormon scriptures' `canon_scope`
+  (Book of Mormon `deuterocanonical_for`; Pearl of Great Price `rejected_by`). Documents the intra-movement
+  canon split (its own growing D&C; no Pearl of Great Price; preference for the Inspired Version).
+- **Downloaded (public domain, Gutenberg)**: *Science and Health* (Eddy, #3458) and *The Great Controversy*
+  (E. White, #25833). (Steps to Christ / Desire of Ages / Patriarchs and Prophets not matched by the
+  Gutenberg search — retryable.)
+- **Text**: [[science-and-health|Science and Health]] — `authoritative_for: [christian-science]` (the
+  "pastor" pairing with the Bible; a sub-canonical interpretive key). **Commentator**:
+  [[ellen-g-white|Ellen G. White]] — the Adventist "lesser light", `authoritative_for:
+  [seventh-day-adventism]` (inspired but sub-canonical). Both sect pages updated (sources_ingested,
+  key_texts/figures).
+
+**Bookkeeping**: index.md (Texts + Commentators + the Community of Christ sect), overview.md (Sects 45→46;
+Christianity now 27). `raw/` untouched except the new public-domain downloads.
+
+---
+
+## [2026-06-09] ingest | Scientology — new tradition; Dianetics + Reitman/Malko/Shelton
+
+User-directed: created **Scientology as its own tradition** (a new religion, not a Christian sect) and
+ingested the four documents in `raw/commentaries/Scientology/` — [[l-ron-hubbard|Hubbard]]'s *Dianetics*
+(primary; a `.doc`) and three studies: [[reitman-inside-scientology|Janet Reitman, *Inside Scientology*]]
+(2011), [[malko-the-now-religion|George Malko, *The Now Religion*]] (1970), and [[shelton-a-to-xenu|Chris
+Shelton, *A to Xenu*]] (2015).
+
+**Pages created (11):**
+- Tradition: [[scientology|Scientology]]. Sects: [[church-of-scientology|Church of Scientology]] (official,
+  trademark-holding) and [[free-zone-scientology|Free Zone]] (independents / "squirrels") — a real
+  parent-vs-schism dispute over *who keeps the tech*.
+- Text: [[dianetics|Dianetics]] (`canonical_for [church-of-scientology, free-zone-scientology]`). Figure:
+  [[l-ron-hubbard|L. Ron Hubbard]] ("Source"). Concepts: [[thetan|Thetan]], [[engram|Engram/reactive mind]],
+  [[auditing|Auditing]] (E-meter, the Bridge, Clear, OT levels, the Xenu/OT III material).
+- Controversy: [[scientology-religion-or-commercial-enterprise|Religion, commercial enterprise, or cult?]].
+- Scholarship summaries for the three secondary sources.
+
+**Analytical firsts**: (1) an **anti-interpretive hermeneutic** — "Source"/"standard tech"/"Keeping
+Scientology Working" demand *verbatim* application with no commentary, the opposite pole from the wiki's
+commentary traditions; (2) a tradition whose **status as a religion** is itself the central controversy.
+Cross-wired the [[thetan|thetan]] to the [[atman|atman]]/[[anatta|anatta]] axis and the [[gnosticism|Gnostic]]
+spark.
+
+**Bookkeeping**: index.md (Traditions-and-Sects + Texts + Figures + Concepts + Controversies + Scholarship),
+overview.md (Traditions 9→10, Sects 46→48, total ~420+). `raw/` untouched (Dianetics `.doc` left as-is;
+content summarized from it and the secondary sources).
+
+## [2026-06-09] ingest | Scientology foundational texts — Science of Survival + Fundamentals of Thought
+
+Follow-up to the Scientology tradition: ingested the foundational Hubbard books in `raw/texts/Scientology/`
+(the primary scriptures, vs. the secondary studies in `raw/commentaries/Scientology/`).
+
+**Pages created (5):**
+- Texts: [[science-of-survival|Science of Survival]] (1951 — the **Tone Scale**) and
+  [[scientology-fundamentals-of-thought|Scientology: The Fundamentals of Thought]] (1956 — the "basic book").
+  Both `canonical_for: [church-of-scientology, free-zone-scientology]`. (Dianetics already ingested.)
+- Concepts (the doctrines these books introduce): [[tone-scale|The Tone Scale]] (Science of Survival),
+  [[arc-triangle|The ARC Triangle]] and [[eight-dynamics|The Eight Dynamics]] (Fundamentals of Thought) —
+  the open **eighth dynamic** ("Supreme Being/infinity") noted as a near-non-theistic structure in theistic
+  dress.
+
+**Updates**: [[scientology|Scientology]] tradition page (`canon_core` now the three foundational books; new
+Foundational Texts section); [[l-ron-hubbard|Hubbard]] figure (sources_ingested 4→6); Dianetics source path
+corrected to `raw/texts/Scientology/`. Bookkeeping: index.md (Texts + Concepts), overview.md (total ~425+).
+`raw/` untouched (the Fundamentals PDF is a scanned image; summarized from it + knowledge of the work).
+
+---
+
+## [2026-06-09] ingest | Ancient Greek & Roman religion — the classical pantheon (~60 pages)
+
+User-directed: added the Greek and Roman pantheons as **two new traditions**, comprehensively. Downloaded
+public-domain primary texts to `raw/texts/greek-religion/` and `raw/texts/roman-religion/`: Hesiod's
+Theogony + Homeric Hymns (Evelyn-White), Homer's Iliad & Odyssey (Butler), the Orphic Hymns (Taylor); Ovid's
+Metamorphoses & Fasti, Virgil's Aeneid, Cicero's On the Nature of the Gods. (Apollodorus' Library failed —
+flagged.)
+
+**Pages created (~60):**
+- Traditions: [[greek-religion|Ancient Greek Religion]], [[roman-religion|Ancient Roman Religion]].
+- Sects (cult forms) — Greek (5): [[olympian-civic-religion]], [[eleusinian-mysteries]],
+  [[dionysian-mysteries]], [[orphism]], [[greek-hero-cult]]; Roman (6): [[roman-state-cult]],
+  [[imperial-cult]], [[roman-household-religion]], [[mithraism]], [[cult-of-isis-roman]], [[magna-mater-cybele]].
+- Texts (9): Theogony, Homer, Homeric Hymns, Orphic Hymns, Apollodorus (stub/pending), Ovid Metamorphoses &
+  Fasti, Virgil Aeneid, Cicero — all `authoritative_for`, not `canonical` (no scriptural canon).
+- Figures (~34, paired Greek/Roman): the Twelve Olympians ([[zeus]]…[[dionysus]], + [[vesta]]); primordials/
+  Titans ([[chaos]], [[gaia]], [[uranus]], [[nyx]], [[cronus]], [[helios]], [[selene]]); underworld ([[hades]],
+  [[persephone]], [[hecate]]); others ([[eros]], [[pan]], [[heracles]], [[asclepius]], [[nike]], [[tyche]]/[[fortuna]]);
+  distinctly Roman ([[janus]], [[quirinus]], [[lares-and-penates]]).
+- Comparison: [[interpretatio-romana|the Greek–Roman equivalence mapping]]. Concepts: [[pietas]],
+  [[mystery-cults]], [[fate-moirai]].
+
+**Analytical firsts**: the wiki's first **canon-less** traditions (cult/myth/orthopraxy; `canon_scope`
+mostly empty) and its first emphasis on **orthopraxy over belief** (Roman *pietas*). Mystery cults flagged
+as early-Christian comparanda (recorded without asserting dependence).
+
+**Bookkeeping**: index.md (Traditions-and-Sects + Texts + a Pantheon figures section + Concepts +
+Comparisons), overview.md (Traditions 10→12, Sects 48→59, total ~485+). `raw/` untouched except the new
+public-domain downloads.
+
+**Pending**: Apollodorus' Library; Pausanias and the tragedians; minor deities (Prometheus, Atlas, the
+Muses, Nemesis, Iris, Rhea, Oceanus, Hypnos/Thanatos, etc.) for fuller coverage.
+
+## [2026-06-09] enhance | Greek/Roman gods — detailed myth narratives
+
+Follow-up (the deity pages were initially compact summaries). Added **detailed narrative sections** to the
+~15 key figures and narrated the three great cycles the user selected:
+
+- **Twelve Olympians** — each gained a "## Myths in Detail" section telling the actual stories ([[zeus]]
+  birth/Titanomachy/Typhon/loves; [[hera]] persecutions + Judgment of Paris; [[poseidon]] Athens-contest +
+  Odyssey wrath; [[demeter]] the rape of Persephone; [[athena]] birth/Arachne; [[apollo]] Delos/Python/Daphne;
+  [[artemis]] Actaeon/Niobe; [[ares]] the net + Mars-founds-Rome; [[aphrodite]] sea-birth/Judgment/Adonis;
+  [[hephaestus]] the golden-throne revenge; [[hermes]] the precocious first day; [[dionysus]] twice-born +
+  Pentheus).
+- **[[persephone]]** (the pomegranate, queen of the dead) and **[[heracles]]** — the **full Twelve Labors**
+  narrated, plus the Nessus death and apotheosis.
+- **New figures with full narratives**: [[prometheus]] (fire-theft + Pandora) and [[atlas]] — added to the
+  index pantheon list.
+- **Myth cycles**: the **Titanomachy / succession myth** narrated on [[hesiod-theogony|the Theogony page]];
+  the **Trojan War** (Judgment → wrath of Achilles → fall of Troy → Odyssey homecoming) on [[homer|the Homer
+  page]].
+
+Bookkeeping: index pantheon list (+ Prometheus, Atlas), overview total ~487+. Verified zero dangling links.
+`raw/` untouched. (Remaining minor deities — Rhea, Oceanus, the Muses, Nemesis, etc. — still available to add.)
+
+---
+
+## [2026-06-09] ingest | Ancient Egyptian religion (with detailed narratives) — tier 1 of 4 ancient pantheons
+
+User-directed: the "same treatment" as Greek/Roman for Egyptian, Mesopotamian, Vedic, Mesoamerican —
+starting with **Egyptian** (the others to follow). Downloaded the **Book of the Dead** and **Legends of the
+Gods** (Budge) to `raw/texts/egyptian-religion/`. (Mesopotamian Enuma Elish + Gilgamesh, the full Rig Veda,
+and the Popol Vuh are also downloaded, staged for the next tiers.)
+
+**Pages created (~36):**
+- Tradition: [[egyptian-religion|Ancient Egyptian Religion]]. Sects (theological systems):
+  [[heliopolitan-theology]], [[hermopolitan-theology]], [[memphite-theology]], [[theban-amun-cult]],
+  [[osirian-cult]], [[atenism]].
+- Texts: [[book-of-the-dead]], [[pyramid-texts]]. Concepts: [[maat|Ma'at]], [[ka-ba-akh|ka/ba/akh]].
+- ~25 deity figures. **Detailed narratives** for [[ra|Ra]] (creation, the Eye of Ra / Destruction of Mankind,
+  Isis & the secret name, the solar barque vs. [[apep|Apep]]) and the full **[[osiris|Osiris myth]]** across
+  [[osiris]], [[isis]], [[horus]] (the Contendings + the Eye of Horus), and [[set]]. Compact pages for the
+  Ennead ([[shu]], [[tefnut]], [[geb]], [[nut]], [[nephthys]]), [[thoth]], [[ptah]], [[anubis]], [[amun]],
+  [[aten]], [[sekhmet]], [[hathor]], [[bastet]], [[sobek]], [[khnum]], [[mut]], [[khonsu]], [[bes]], [[taweret]].
+
+**Distinctive contributions**: an intense afterlife religion with an early **ethical judgment of the dead**;
+**divine kingship** (pharaoh as Horus/son of Ra); fluid **henotheistic syncretism**; and **Atenism** as a
+monotheistic revolution inside a polytheism. Comparanda flagged (Memphite logos vs. Genesis 1; Aten hymn vs.
+Ps 104; Osiris as dying-rising god; Isis/Horus vs. Madonna/Child) — recorded without asserting dependence.
+
+**Bookkeeping**: index.md (Traditions-and-Sects + Texts + Egyptian Pantheon figures + Concepts), overview.md
+(Traditions 12→13, Sects 59→65, total ~525+). Verified zero dangling links. `raw/` untouched except downloads.
+
+**Next**: Mesopotamian (Enuma Elish, Gilgamesh — Anu, Enlil, Enki/Ea, Marduk, Ishtar, Tiamat...), then Vedic
+(Rig Veda — Indra, Agni, Varuna, Soma...), then Mesoamerican (Popol Vuh — the Aztec/Maya gods).
+
+---
+
+## [2026-06-09] ingest | Ancient Mesopotamian religion (with detailed narratives) — tier 2 of 4
+
+Downloaded **Enuma Elish** (King) and **Epic of Gilgamesh**. Pages (~25):
+- Tradition: [[mesopotamian-religion]]. Sects (strata): [[sumerian-religion]], [[babylonian-religion]],
+  [[assyrian-religion]] (supreme god shifts Enlil → Marduk → Ashur).
+- Texts: [[enuma-elish|Enuma Elish]] (full creation narrative: Apsu/Tiamat → Marduk's victory → world & humans),
+  [[epic-of-gilgamesh|Gilgamesh]] (mortality + the Flood). Concept: [[mesopotamian-underworld]].
+- ~18 deities + the hero [[gilgamesh]]. **Detailed narratives**: [[marduk]] vs. [[tiamat]] (Enuma Elish) and
+  the **Descent of [[ishtar|Inanna]]** (the seven gates, Dumuzi as substitute). Compact: [[anu]], [[enlil]],
+  [[enki]], [[apsu]], [[nabu]], [[ashur]], [[ereshkigal]], [[dumuzi]], [[nergal]], [[nanna-sin]],
+  [[utu-shamash]], [[ninurta]], [[ninhursag]], [[adad]].
+
+**Distinctive**: humans made from clay/divine blood to **labor for the gods**; **divination** central; the
+**bleakest afterlife** in the wiki (no judgment/resurrection) — opposite of Egypt. ANE comparanda
+(Tiamat/*tehom*, Flood/Noah, Ninhursag's rib/Eve, Dumuzi/Tammuz dying-rising) cross-linked to
+[[genesis-ancient-near-east]].
+
+Bookkeeping: index + overview (Traditions 13→14, Sects 65→68, total ~550+). One forward-ref (`rig-veda`)
+resolved by the Vedic tier. `raw/` untouched except downloads. **Next: Vedic, then Mesoamerican.**
+
+---
+
+## [2026-06-09] ingest | Vedic religion (with detailed narratives) — tier 3 of 4
+
+Downloaded the **full Rig Veda** (Griffith, 1,028 hymns). The historical ancestor of [[hinduism|Hinduism]],
+filed as its own tradition. Pages (~22):
+- Tradition: [[vedic-religion]] (fire sacrifice, no temples, the deva pantheon, rita). Sects (phases):
+  [[rigvedic-religion]], [[shrauta-brahmanism]].
+- Text: [[rig-veda|Rig Veda]] (`canonical_for [hinduism]`, `authoritative_for [vedic-religion]`; the Purusha &
+  Nasadiya creation hymns). Concepts: [[rita]], [[yajna]].
+- ~16 deities. **Detailed narrative**: [[indra]] slaying [[vritra]] (the central Vedic dragon-myth). Plus
+  [[agni]], [[varuna]] (the moral sovereign), [[soma]], [[mitra]], [[rudra]] (→ Shiva), [[surya]], [[ushas]],
+  [[vayu]], [[maruts]], [[yama]], [[ashvins]], [[prajapati]], [[dyaus]], [[aditi]].
+
+**Two distinctive contributions**: (1) the **Indo-European thread** made explicit ([[dyaus]]=Zeus=Jupiter,
+[[ushas]]=Eos=Aurora, [[ashvins]]=Dioscuri, [[indra]]/[[vritra]]=Marduk/Tiamat=Zeus/Typhon; Indo-Iranian
+[[rita]]/asha, [[soma]]/Haoma, [[yama]]/Yima); (2) the **Vedic→Hindu shift** (decline of Indra/Varuna, rise of
+Rudra→Shiva). Resolves the `rig-veda` forward-ref.
+
+Bookkeeping: index + overview (Traditions 14→15, Sects 68→70, total ~575+). Zero dangling links. `raw/`
+untouched except the Rig Veda download. **Next: Mesoamerican (Popol Vuh) — the final tier.**
+
+---
+
+## [2026-06-09] ingest | Mesoamerican religion (with detailed narratives) — tier 4 of 4 (project complete)
+
+Downloaded the **Popol Vuh**. Final tier of the four ancient pantheons. Pages (~22):
+- Tradition: [[mesoamerican-religion]]. Sects: [[maya-religion]], [[aztec-religion]].
+- Text: [[popol-vuh|Popol Vuh]] (full creation + Hero Twins narrative). Concepts: [[five-suns]],
+  [[mesoamerican-sacrifice]], [[xibalba]].
+- ~14 deities. **Detailed narratives**: [[quetzalcoatl|Quetzalcoatl]] (the Feathered Serpent creator),
+  [[huitzilopochtli]]'s birth at Coatepec, [[tezcatlipoca]], and the [[hero-twins|Hero Twins]] vs. Xibalba.
+  Plus [[tlaloc]], [[tonatiuh]], [[mictlantecuhtli]], [[xipe-totec]], [[coatlicue]], [[itzamna]], [[chaac]],
+  [[ix-chel]], [[maize-god]], [[ah-puch]].
+
+**Distinctive**: a radically **cyclical, fragile cosmos** (the Five Suns) sustained by **blood sacrifice**
+(reciprocity, not divine wrath); the sacred **calendar**; humanity **made of maize to feed the gods**.
+Dying-rising / underworld-descent comparanda (Maize God, Hero Twins, Xibalba) cross-linked to [[osiris]],
+[[dumuzi]], the [[mesopotamian-underworld]].
+
+Bookkeeping: index + overview (Traditions 15→16, Sects 70→72, total ~600+). Zero dangling links.
+
+### PROJECT COMPLETE — the four ancient pantheons
+Egyptian, Mesopotamian, Vedic, and Mesoamerican religions all ingested with the "same treatment" as
+Greek/Roman: tradition pages, cult-form/strata sects, primary texts, key concepts, and a full deity pantheon
+with **detailed narratives for the central myths**. The wiki now spans **16 traditions, 72 sects, ~600 pages**.

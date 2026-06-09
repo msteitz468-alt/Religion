@@ -2,6 +2,12 @@
 title: Judges
 tradition: Judaism / Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: Events c. 1326–1092 BCE (Webb's early-date chronology); composition debated; final form likely exilic or early post-exilic
 sources_ingested: 2

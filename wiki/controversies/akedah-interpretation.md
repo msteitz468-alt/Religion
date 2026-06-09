@@ -65,7 +65,7 @@ The [[zohar|Zohar]] reads the Akedah at the **Sod** level not primarily as a tes
 
 ## Islamic Reading (Eid al-Adha)
 
-Islamic tradition (Quran 37:100-112) presents a parallel *Akedah* narrative but does not identify the son by name. Muslim scholars are divided: most classical Islamic authorities identify the son as **Ishmael**, not Isaac (since Ishmael is the son of the covenant in Islamic tradition). The annual festival of Eid al-Adha commemorates the near-sacrifice and celebrates Abraham's submission (*islam*) to God. This tradition puts Judaism and Islam in direct disagreement over the identity of the bound son.
+Islamic tradition ([[quran|Quran]] 37:99–113) presents a parallel *Akedah* narrative but does not identify the son by name. Muslim scholars are divided: although early authorities were split (some named Isaac), **most classical and effectively all later [[islam|Islamic]] authorities identify the son as [[ishmael|Ishmael]]**, not Isaac (Ishmael being the firstborn and, in Islamic tradition, central to the line leading to Muhammad). The annual festival of **Eid al-Adha** commemorates the near-sacrifice and celebrates Abraham's submission (*islam*) to God. This puts Judaism/Christianity and Islam in direct disagreement over the identity of the bound son — one of the cross-tradition cruxes flagged on the [[quran|Qur'an]] and [[islam|Islam]] pages.
 
 ## Sources Ingested
 

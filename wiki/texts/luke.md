@@ -2,6 +2,12 @@
 title: Gospel of Luke
 tradition: Christianity
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Greek
 date_range: ca. 80–85 CE (critical consensus); some argue 60s CE; Green treats the question as interpretively secondary
 sources_ingested: 3

@@ -34,7 +34,11 @@ wiki/                       # LLM-maintained knowledge base
   groups/                   # Peoples, tribes, nations, ethnic groups, religious parties, and cultural collectives mentioned across texts
   locations/                # Geographical places, cities, regions, and sites with historical inhabitants and modern geographic identification
   concepts/                 # Theological, philosophical, and hermeneutical concepts
-  traditions/               # Denominational and textual traditions (e.g., Talmudic, Patristic, Sufi)
+  traditions/               # Two-level hierarchy of religions and their sub-traditions/sects:
+    [tradition]/            #   one subdirectory per top-level tradition (christianity/, judaism/, buddhism/, …)
+      [tradition].md        #   the Tradition overview page (e.g. christianity.md, judaism.md)
+      sects/                #   Sect / denomination / sub-tradition pages, nested under the parent tradition
+        [sect].md           #   e.g. gnosticism.md, marcionism.md, rabbinic-judaism.md, theravada.md
   comparisons/              # Cross-text, cross-tradition comparison pages
   controversies/            # Disputed interpretations and unresolved tensions
   timelines/                # Chronological pages (canonization, historical context, etc.)
@@ -52,7 +56,13 @@ For primary texts, books, pericopes, suras, suttas, etc.
 ---
 title: [Text Name]
 tradition: [Judaism / Christianity / Islam / Buddhism / Hinduism / etc.]
-canon_status: [canonical / deuterocanonical / apocryphal / non-canonical]
+canon_status: [headline summary only — canonical / deuterocanonical / contested / sectarian / non-canonical]
+canon_scope:                 # the structural canon dimension — WHICH traditions/sects treat this text HOW.
+  canonical_for: []          #   full scriptural canon (entries are tradition or sect page slugs)
+  deuterocanonical_for: []   #   secondary / graded / disputed-but-included canon
+  authoritative_for: []      #   esteemed and cited (liturgy, doctrine, halacha) but NOT scripture
+  disputed_by: []            #   canonicity actively contested or unsettled
+  rejected_by: []            #   explicitly excluded, non-scriptural, or condemned
 language_original: [Hebrew / Greek / Arabic / Sanskrit / Pali / etc.]
 date_range: [approximate composition date or range]
 sources_ingested: [count]
@@ -64,6 +74,29 @@ tags: [text, tradition-name, genre]
 Body includes: textual overview, major themes, narrative summary and structure, manuscript tradition notes, key
 interpretive cruxes (specific verses or passages that generate the most commentary
 disagreement), and links to commentator pages.
+
+**Canon scope (required).** `canon_scope` is the structural replacement for a single
+`canon_status` value: canonicity is not a property of a text but a *relation* between a
+text and a community. Each entry under a bucket is the page slug of a tradition (e.g.
+`christianity`) or a sect (e.g. `sethian-gnosticism`, `latter-day-saints`). The same text
+routinely appears in several buckets at once. `canon_status` is retained only as a coarse
+one-word headline derived from `canon_scope`. The body must include a **Canon and
+Reception** section narrating the split wherever it is non-trivial.
+
+Worked examples the schema must handle:
+
+- **Gospel of Thomas** — `canonical_for: [thomasine-christianity]`; `rejected_by:
+  [proto-orthodox-christianity, catholicism, eastern-orthodoxy, protestantism]`;
+  `disputed_by: [coptic-christianity]`. It is *not* merely "apocryphal": it is canonical
+  within specific communities and explicitly rejected by others, and the structure must
+  show that.
+- **Book of Mormon** (taxonomy stress test) — `canonical_for: [latter-day-saints]`;
+  `deuterocanonical_for: [<specific Restoration-movement sects>]`; `rejected_by:
+  [catholicism, eastern-orthodoxy, protestantism, …]`. The same text is full scripture
+  for one sect, graded/secondary canon for others, and non-scripture for everyone else.
+  Its claim to *continue the biblical narrative* is a **reception fact recorded in the
+  body** (a "Relationship to the parent canon" note), not a canon bucket — the buckets
+  record only canonical *standing*, per community.
 
 ---
 
@@ -280,6 +313,119 @@ modern Temple Mount / Haram al-Sharif status).
 
 ---
 
+### Tradition Page (`wiki/traditions/[tradition]/[tradition].md`)
+For a top-level religion or world tradition (Judaism, Christianity, Islam, Buddhism,
+Hinduism, Daoism, etc.). One overview page per tradition, living at the root of that
+tradition's subdirectory. The tradition page is the parent node for all of its `sects/`
+pages and the home of the tradition's shared/mainstream canon.
+
+```yaml
+---
+title: [Tradition Name]
+also_known_as: []
+type: tradition
+date_range: [origin to present / floruit]
+canon_core: []                 # texts canonical for the tradition broadly (the shared/mainstream canon) — text page slugs
+hermeneutical_frameworks: []   # interpretive systems native to the tradition (PaRDeS, the Quadriga, Zahir/Batin, …)
+major_sects: []                # slugs of the sect pages nested under this tradition
+sources_ingested: [count]
+last_updated: [YYYY-MM-DD]
+tags: [tradition, tradition-name]
+---
+```
+
+Body includes: definition and self-understanding; historical origin and development; the
+shared/mainstream canon and how canonical authority works in the tradition; the
+tradition's native hermeneutical frameworks; a **map of major sects/sub-traditions** (one
+line each, linked to their `sects/` pages); and cross-links to the figures, groups,
+concepts, and controversies most central to the tradition.
+
+**Non-theistic and multi-canon traditions**: a tradition need not be theistic (e.g.
+Buddhism), and need not have a single canon. Where a tradition has **multiple parallel
+canons with no common ancestor text** (the Pali Canon vs. the Mahayana sutra collections
+vs. the Vajrayana tantras), keep `canon_core` minimal — listing only what is genuinely
+shared — and carry the divergent canons at the **sect level** via each sect's
+`canon_distinctives` / `key_texts`. For non-theistic traditions, "doctrine" and the
+soteriological goal replace "theology proper" in the body; record the tradition's own
+account of ultimate reality (e.g. *nirvana*, *dao*) rather than forcing a deity slot.
+
+---
+
+### Sect / Denomination Page (`wiki/traditions/[tradition]/sects/[sect].md`)
+For a religious sub-tradition, denomination, sect, movement, school, or lineage *within* a
+parent tradition — e.g. Gnosticism, Marcionism, Catharism, Rabbinic Judaism, Karaism,
+Kabbalah, the Latter-day Saints, Sunni and Shia Islam, Theravada / Mahayana / Vajrayana
+Buddhism, Zen. A sect is a **first-class page type**: it has its own canon, its own
+hermeneutical rules, and its own relationship to the parent tradition and to "orthodoxy".
+
+**Scope rule**: Create a sect page when a sub-tradition (a) is treated as a distinct
+religious community or school within a parent tradition, (b) has a canon, doctrine, or
+hermeneutic that diverges from the parent or from sibling sects, and (c) generates
+sustained commentary, identity construction, or polemic.
+
+A sect page is **not** a duplicate of a `groups/` page. Where a group page already exists
+for the same community (e.g. [[gnostics]], [[marcionites]], [[ebionites]],
+[[montanists]]), keep both and cross-link them: the **group page** treats the community as
+a social/historical actor (who they were, where, when, archaeology, polemical reception);
+the **sect page** treats the sub-tradition as a *system* (its canon, doctrine,
+hermeneutics, and relationship to orthodoxy). See the disambiguation note under Naming and
+Linking Conventions.
+
+```yaml
+---
+title: [Sect / Denomination Name]
+also_known_as: []
+parent_tradition: [slug of the parent tradition page — e.g. christianity]
+type: [denomination / sect / movement / school / lineage / normative stream]
+dates: [emergence–present / floruit / "extinct (dates)"]
+status: [extant / extinct / revived]
+relationship_to_orthodoxy: [normative / heterodox / heretical (by whom) / schismatic / independent / self-understood-restoration]
+canon_distinctives: []          # texts this sect adds, removes, re-ranks, or rejects vs. the parent canon — text page slugs
+key_doctrinal_distinctives: []
+hermeneutical_method: []
+key_figures: []
+key_texts: []                   # text page slugs central to the sect
+sources_ingested: [count]
+last_updated: [YYYY-MM-DD]
+tags: [sect, parent-tradition-name]
+---
+```
+
+Body includes:
+
+**Identity and Origins**: What the sect is, when and where it emerged, and out of what
+parent tradition or prior sect. Self-designation versus outsider labels.
+
+**Relationship to the Parent Tradition**: What it inherits and shares; the precise points
+of departure; whether it understands itself as a reform, restoration, purification,
+continuation, or new revelation.
+
+**Canon and Scripture (Canon Divergence)** — the core required section: how this sect's
+canon differs from the parent's — texts added (new revelation, recovered scripture), texts
+removed or demoted, texts re-ranked, texts reinterpreted. This is the counterpart to the
+`canon_scope` field on text pages: every text the sect treats distinctively should appear
+here **and** list this sect in the appropriate `canon_scope` bucket on its own text page.
+Flag any text whose status here differs from the parent tradition.
+
+**Doctrinal Distinctives**: The theological positions that define the sect against the
+parent and sibling sects.
+
+**Hermeneutical Method**: How the sect reads its scriptures (and the parent's) — its native
+interpretive rules, esoteric/exoteric layering, authoritative interpreters. Per the
+Hermeneutical Tracking requirement this section is mandatory.
+
+**Relationship to Orthodoxy and Other Sects**: Who regards this sect as normative,
+heterodox, or heretical, and on what grounds — recorded *without adjudication* per the
+Contradiction Protocol, with the tradition context of each judgment. Mutual condemnations
+(e.g. proto-orthodox vs. Gnostic) are documented from both sides.
+
+**Historical Development, Subdivisions, and Influence**: Internal schools and offshoots,
+later history, suppression or survival, influence on the parent tradition and beyond.
+
+**Sources Ingested**.
+
+---
+
 ### Concept Page (`wiki/concepts/`)
 For theological constructs, hermeneutical methods, and recurring doctrinal categories.
 
@@ -335,10 +481,12 @@ tags: [controversy]
 
 ## Hermeneutical Tracking — Core Requirement
 
-This wiki must track *how* a text is read, not just *what* it says. Every text page
-and commentator page must record the interpretive framework(s) in use. Group pages
-and location pages should likewise note tradition-specific interpretive moves,
-typological uses, and polemical deployments of the collective or place in question.
+This wiki must track *how* a text is read, not just *what* it says. Every text page,
+commentator page, tradition page, and sect page must record the interpretive
+framework(s) in use — and a sect page must record the hermeneutical rules that
+distinguish it from its parent tradition. Group pages and location pages should likewise
+note tradition-specific interpretive moves, typological uses, and polemical deployments
+of the collective or place in question.
 
 Standard frameworks to identify and tag:
 
@@ -350,6 +498,10 @@ Standard frameworks to identify and tag:
   vs. tafsir bi'l-ra'y (reason-based)
 - **Buddhist**: Neyartha (interpretable) vs. Nitartha (definitive); commentarial
   lineage tracking
+- **Daoist**: *commentary-as-transformation* — the commentary functions as a practice
+  that transforms the reader/adept, not merely as explanation; track the divide between
+  the **philosophical/metaphysical** reading (xuanxue; Wang Bi) and the
+  **religious/longevity-cultivation** reading (Heshang Gong) of the same text
 - **Modern critical**: Historical-critical, form criticism, redaction criticism,
   canonical criticism, reader-response
 
@@ -363,7 +515,12 @@ Origen vs. Philo vs. Ibn Arabi) are valuable — flag these for comparison page 
 
 When I provide a new source, follow this sequence:
 
-1. **Identify** the source type: primary text, commentary, scholarship, or other.
+1. **Identify** the source type (primary text, commentary, scholarship, or other) and,
+   for any primary text, its **canonical status within the sect or tradition being
+   ingested — and whether that status differs from the parent tradition** (e.g. a text
+   canonical for the sect at hand but rejected by the parent, or vice versa). Answer this
+   explicitly; do not leave it implicit. It drives the `canon_scope` field on the text
+   page and the canon-divergence section of any sect page.
 2. **Discuss** with me: key takeaways, surprising claims, what this source adds or
    challenges relative to the wiki's existing contents.
 3. **Write or update** the relevant pages:
@@ -386,6 +543,17 @@ When I provide a new source, follow this sequence:
      geographic identification are discussed, or that carry significant narrative,
      theological, or pilgrimage weight (e.g. Jerusalem, Babylon, Mount Sinai,
      Shechem). Include explicit settlement history and modern mapping data.
+   - Update or create **tradition and sect pages**. If the source treats a sub-tradition,
+     denomination, sect, school, or movement (e.g. Gnosticism, Marcionism, Kabbalah, a
+     Buddhist vehicle), create or extend its `traditions/[parent]/sects/[sect].md` page —
+     especially its canon-divergence and hermeneutical-method sections — and the parent
+     `traditions/[parent]/[parent].md` overview if needed. Where a `groups/` page already
+     exists for the same community, keep both and cross-link.
+   - **Maintain `canon_scope` on every affected text page.** Whenever a source establishes
+     that a sect or tradition treats a text as canonical, deuterocanonical, authoritative
+     (non-canonical), disputed, or rejected, record it in the matching `canon_scope`
+     bucket. Conflicting valuations across communities are expected and must be preserved,
+     not flattened (Contradiction Protocol).
    - Update or create concept pages for theological/hermeneutical terms introduced
      or developed.
    - Update or create a controversy page if the source takes a position on a
@@ -441,6 +609,11 @@ When I ask for a wiki health check:
 - Identify locations or places (cities, regions, cult sites) whose historical
   inhabitants or modern geography are discussed but that lack their own `locations/`
   page.
+- Identify sub-traditions, denominations, sects, schools, or movements referenced across
+  pages (in figures, groups, texts, or controversies) but lacking their own
+  `traditions/[parent]/sects/` page, and any top-level tradition lacking an overview page.
+- Identify text pages missing a `canon_scope` field, or whose `canon_scope` omits a
+  community known (from ingested sources) to canonize, dispute, or reject the text.
 - Identify concepts used repeatedly without a concept page.
 - Identify controversies described inline that should be promoted to a
   `controversies/` page.
@@ -460,6 +633,19 @@ When I ask for a wiki health check:
   widely recognized English name as the canonical page title, with tradition-specific
   terms aliased in the page body (e.g., `allegorical-reading.md` covers Remez,
   Theoria, Ta'wil as tradition-specific instances).
+- **Tradition / sect / group disambiguation**: a *tradition* page is a top-level religion
+  (`traditions/[tradition]/[tradition].md`); a *sect* page is a sub-tradition within it
+  (`traditions/[tradition]/sects/[sect].md`) carrying canon, doctrine, and hermeneutics; a
+  *group* page (`groups/`) is a people or community as a social/historical actor. A
+  community that is both a people and a sub-tradition (Gnostics, Marcionites, Ebionites,
+  Montanists) gets **both** a group page and a sect page, cross-linked.
+- **Nested paths are for filing, not for link syntax**: sect and tradition pages are still
+  referenced with bare slugs in Obsidian links (`[[gnosticism|Gnosticism]]`), not with the
+  full nested path. Keep sect/tradition slugs globally unique so bare-slug links resolve.
+- **`canon_scope` entries are page slugs**: each item in a `canon_scope` bucket (and in a
+  sect's `canon_distinctives`) is the kebab-case slug of a tradition or sect page, so the
+  canon relation is navigable (e.g. `latter-day-saints`, `sethian-gnosticism`,
+  `proto-orthodox-christianity`).
 - Manuscript sigla, critical apparatus notation, and original-language terms should
   appear in the page body, not in file names.
 - Original-language terms: transliterate consistently (choose one system per language

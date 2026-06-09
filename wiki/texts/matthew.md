@@ -2,6 +2,12 @@
 title: Gospel of Matthew
 tradition: New Testament (Gospel)
 canon_status: canonical
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Greek
 date_range: France favors ca. 60s CE (pre-70 minority view); critical consensus ca. 80-90 CE
 sources_ingested: 3

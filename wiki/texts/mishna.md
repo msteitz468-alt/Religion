@@ -2,6 +2,12 @@
 title: Mishna
 tradition: Judaism
 canon_status: canonical (foundational text of rabbinic Judaism)
+canon_scope:
+  canonical_for: [rabbinic-judaism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: [karaism, sadducees]
 language_original: Mishnaic Hebrew
 date_range: c. 10 BCE–200 CE (oral tradition); compiled c. 200 CE
 sources_ingested: 1

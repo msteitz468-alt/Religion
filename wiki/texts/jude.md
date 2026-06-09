@@ -1,7 +1,13 @@
 ---
 title: The Letter of Jude
 tradition: Christianity
-canon_status: canonical
+canon_status: canonical (antilegomena — historically disputed)
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: [proto-orthodox-christianity]   # antilegomena (Eusebius); doubts tied to its use of 1 Enoch; absent from the Syriac Peshitta
+  rejected_by: []
 language_original: Greek
 date_range: c. AD 50s–early 60s (Green); alternatively later 1st–2nd century if pseudonymous
 sources_ingested: 1
@@ -112,14 +118,16 @@ for all delivered" (v. 3) treats the gospel as a fixed, defensible deposit — s
 of "early Catholicism," but Green sees it as continuous with Paul's appeals to received tradition (2
 Thess. 2:15). The doxology (vv. 24–25) has had an outsized liturgical afterlife.
 
-## Canonical Reception
+## Canon and Reception
 
 Accepted early in the West and Alexandria (Muratorian Canon; Clement of Alexandria wrote a commentary
 on it; Origen and Athanasius accepted it), but slow in **Syria** (excluded from the Peshitta; added
 only in the Philoxenian version, AD 507/508). Eusebius classed it among the *antilegomena* ("disputed
 books"). The doubts traced *only* to its apocryphal sources (Jerome: "because… it quotes from the
 apocryphal book of Enoch it is rejected by many… nevertheless by age and use it has gained
-authority").
+authority"). It was received into the 27-book canon by the 4th century and is today canonical for
+[[catholicism|Catholicism]], [[eastern-orthodoxy|Eastern Orthodoxy]], and [[protestantism|Protestantism]].
+See the [[jude-1-enoch-canon|Jude and 1 Enoch controversy]].
 
 ## Relation to Other Books
 

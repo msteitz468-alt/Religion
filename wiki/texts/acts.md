@@ -2,6 +2,12 @@
 title: Acts of the Apostles
 tradition: Christianity
 canon_status: canonical (NT)
+canon_scope:
+  canonical_for: [catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Greek (Koine)
 date_range: composed c. 62–80 CE (scholarly range; Bock prefers late 60s)
 sources_ingested: 2

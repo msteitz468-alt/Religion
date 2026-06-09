@@ -2,6 +2,12 @@
 title: 2 Samuel
 tradition: Christianity (Protestant/Jewish canon); Judaism (Former Prophets)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: Compositional layers from ca. 10th century BCE; final editing likely late 10th century BCE (Tsumura)
 sources_ingested: 2

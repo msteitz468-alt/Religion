@@ -2,6 +2,12 @@
 title: Jeremiah
 tradition: Hebrew Bible / Old Testament (Latter Prophets)
 canon_status: canonical
+canon_scope:
+  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: Hebrew
 date_range: Jeremiah's ministry ca. 626-585 BCE; scroll finalized ca. 550-540s BCE (Goldingay, minority view) or Persian period ca. 530-400 BCE (critical consensus)
 sources_ingested: 2

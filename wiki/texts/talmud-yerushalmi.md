@@ -2,6 +2,12 @@
 title: Jerusalem Talmud (Talmud Yerushalmi)
 tradition: unknown
 canon_status: unknown
+canon_scope:
+  canonical_for: [rabbinic-judaism]
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: [karaism, sadducees]
 language_original: unknown
 date_range: unknown
 sources_ingested: 0

@@ -1,7 +1,13 @@
 ---
 title: First Clement
 tradition: Christianity (proto-orthodox, Roman)
-canon_status: non-canonical (nearly canonical, 2nd century)
+canon_status: contested (near-canonical, then excluded)
+canon_scope:
+  canonical_for: []
+  deuterocanonical_for: []
+  authoritative_for: [proto-orthodox-christianity]
+  disputed_by: [proto-orthodox-christianity]   # in Codex Alexandrinus; canonical in some early Eastern/Coptic lists
+  rejected_by: [catholicism, eastern-orthodoxy, protestantism]
 language_original: Greek
 date_range: ca. 96 CE (Domitian/Trajan transition)
 sources_ingested: 1
@@ -103,3 +109,15 @@ The Greek text of 1 Clement was entirely unknown to Western scholarship until th
 - [[irenaeus|Irenaeus of Lyons]] — later built on 1 Clement's succession argument
 - [[bauer-thesis|Bauer Thesis]] — 1 Clement's intervention in Corinth is a key text for the Bauer debate
 - [[2-clement|Second Clement]] — transmitted with 1 Clement in Codex Alexandrinus and Codex Hierosolymitanus
+
+
+## Canon and Reception
+
+1 Clement sat at the **near-canonical edge** of the proto-orthodox collection. It is bound into
+**Codex Alexandrinus** (5th c.) after Revelation, was read publicly in the church at Corinth and
+elsewhere, and appears in some Eastern canon lists (the Apostolic Canons). It was ultimately
+**excluded from the 27-book New Testament** and so is not canonical for
+[[catholicism|Catholicism]], [[eastern-orthodoxy|Eastern Orthodoxy]], or
+[[protestantism|Protestantism]] — a clear instance of a text esteemed and quasi-scriptural in the
+2nd–4th centuries but outside the closed canon. See [[nt-canon-formation|NT canon formation]] and
+[[clement-of-rome|Clement of Rome]].
