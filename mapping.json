@@ -1,0 +1,577 @@
+[
+  {
+    "source_title": "Cockerill, Gareth Lee. *The Epistle to the Hebrews*. NICNT. Eerdmans, 2012.",
+    "raw_file": "raw/commentaries/Hebrews (NICNT) - Gareth Lee Cockerill.txt",
+    "pages": [
+      "controversies/hebrews-worldview-platonic-vs-apocalyptic",
+      "created/updated",
+      "commentators/gareth-lee-cockerill",
+      "controversies/hebrews-warning-passages",
+      "texts/hebrews"
+    ]
+  },
+  {
+    "source_title": "Yarbrough, Robert W. *The Letters to Timothy and Titus*. PNTC. Eerdmans, 2018.",
+    "raw_file": "raw/commentaries/The Letters to Timothy and Titus - Robert W. Yarbrough;.txt",
+    "pages": [
+      "texts/titus",
+      "created/updated",
+      "controversies/pastoral-epistles-authorship",
+      "commentators/robert-yarbrough"
+    ]
+  },
+  {
+    "source_title": "Weima, Jeffrey A. D. *1\u20132 Thessalonians*. BECNT. Baker Academic, 2014.",
+    "raw_file": "raw/commentaries/1-2 Thessalonians (BECNT) - Jeffrey A. D. Weima.txt",
+    "pages": [
+      "created/updated",
+      "controversies/parousia-",
+      "concepts/antichrist",
+      "new/updated",
+      "controversies/restrainer-",
+      "commentators/jeffrey-weima"
+    ]
+  },
+  {
+    "source_title": "Moo, Douglas J. *Galatians*. BECNT. Baker Academic, 2013.",
+    "raw_file": "raw/commentaries/Galatians (Baker Exegetical Commentary) - Douglas J. Moo.txt",
+    "pages": [
+      "created/updated",
+      "concepts/justification",
+      "controversies/pistis-christou",
+      "controversies/new-perspective-on-paul",
+      "texts/galatians",
+      "commentators/douglas-moo"
+    ]
+  },
+  {
+    "source_title": "Green, Joel B. *The Gospel of Luke*. NICNT. Eerdmans, 1997.",
+    "raw_file": "raw/commentaries/The Gospel of Luke - Green, Joel B.;.txt",
+    "pages": [
+      "texts/luke",
+      "created/updated",
+      "commentators/joel-green",
+      "concepts/jubilee"
+    ]
+  },
+  {
+    "source_title": "France, R. T. *The Gospel of Mark: A Commentary on the Greek Text*. NIGTC. Eerdmans, 2002.",
+    "raw_file": "raw/commentaries/The Gospel of Mark - R. T. France;.txt",
+    "pages": [
+      "created/updated",
+      "texts/mark",
+      "commentators/rt-france",
+      "concepts/messianic-secret",
+      "controversies/mark-ending"
+    ]
+  },
+  {
+    "source_title": "France, R. T. *The Gospel of Matthew*. NICNT. Eerdmans, 2007.",
+    "raw_file": "raw/commentaries/The Gospel of Mark - R. T. France;.txt",
+    "pages": [
+      "texts/matthew",
+      "commentators/rt-france",
+      "created/updated"
+    ]
+  },
+  {
+    "source_title": "Provan, Iain W. *1 and 2 Kings*. NIBC. Hendrickson, 1995; Boda, Mark J. *The Book of Zechariah*. NICOT. Eerdmans, 2016.",
+    "raw_file": "raw/commentaries/1 and 2 Kings - Iain W. Provan.txt",
+    "pages": [
+      "commentators/mark-boda",
+      "texts/zechariah",
+      "created/updated",
+      "commentators/iain-provan"
+    ]
+  },
+  {
+    "source_title": "Unterman, Isaac. *The Talmud: Its Origin and Development, Methods and Systems*",
+    "raw_file": "raw/commentaries/The Talmud _ origin and development, methods and systems, -- Unterman, Isaac, 1889- -- New York, New York State, 1965 -- New York _ Bloch Pub_ Co_ -- oclc 1178533697 -- 5fc56fbcc980b746593b1b199bc4ad7a -- Anna\u2019s Archive.pdf",
+    "pages": [
+      "commentators/rashi",
+      "created/updated",
+      "traditions/rabbinic-judaism",
+      "controversies/oral-torah-authority",
+      "concepts/aggadah",
+      "concepts/thirteen-middot",
+      "concepts/halacha",
+      "commentators/rabbi-judah-ha-nasi",
+      "timelines/talmudic-period",
+      "commentators/isaac-unterman",
+      "commentators/joseph-caro",
+      "commentators/maimonides",
+      "controversies/codification-debates",
+      "commentators/hai-gaon",
+      "concepts/oral-torah"
+    ]
+  },
+  {
+    "source_title": "Hamilton, Victor P. *The Book of Genesis: Chapters 1\u201317*. NICOT. Eerdmans, 1990.",
+    "raw_file": "raw/commentaries/Genesis 1-17 (NICOT) - Victor P. Hamilton.txt",
+    "pages": [
+      "comparisons/genesis-ancient-near-east",
+      "created/updated",
+      "controversies/sons-of-god",
+      "concepts/toledot",
+      "controversies/documentary-hypothesis",
+      "concepts/covenant",
+      "concepts/imago-dei",
+      "commentators/victor-hamilton",
+      "controversies/genesis-creation-accounts",
+      "texts/genesis"
+    ]
+  },
+  {
+    "source_title": "Hamilton, Victor P. *The Book of Genesis: Chapters 18\u201350*. NICOT. Eerdmans, 1995.",
+    "raw_file": "raw/commentaries/Genesis 1-17 (NICOT) - Victor P. Hamilton.txt",
+    "pages": [
+      "created/updated",
+      "controversies/akedah-interpretation",
+      "commentators/victor-hamilton",
+      "texts/genesis",
+      "oncepts/covenant"
+    ]
+  },
+  {
+    "source_title": "Craigie, Peter C. *The Book of Deuteronomy*. NICOT. Eerdmans, 1976.",
+    "raw_file": "raw/commentaries/Deuteronomy (NICOT) - Peter C. Craigie.txt",
+    "pages": [
+      "concepts/shema",
+      "created/updated",
+      "commentators/peter-craigie",
+      "controversies/deuteronomy-authorship",
+      "concepts/covenant",
+      "concepts/suzerain-vassal-treaty",
+      "texts/deuteronomy"
+    ]
+  },
+  {
+    "source_title": "Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007.",
+    "raw_file": "raw/commentaries/Acts (BECNT) - Darrell L. Bock.txt",
+    "pages": [
+      "created/updated",
+      "commentators/darrell-bock",
+      "texts/acts",
+      "controversies/acts-paul-tensions",
+      "concepts/luke-acts-unity"
+    ]
+  },
+  {
+    "source_title": "Cole, Dennis R. *Numbers*. NAC. Broadman & Holman, 2000.",
+    "raw_file": "raw/commentaries/Numbers - Dennis R. Cole;.txt",
+    "pages": [
+      "commentators/dennis-cole",
+      "created/updated",
+      "texts/numbers"
+    ]
+  },
+  {
+    "source_title": "Wenham, Gordon J. *Leviticus*. NICOT. Eerdmans/Routledge & Kegan Paul, c. 1979.",
+    "raw_file": "raw/commentaries/Leviticus (NICOT) - Gordon J. Wenham.txt",
+    "pages": [
+      "commentators/gordon-wenham",
+      "created/updated",
+      "texts/leviticus",
+      "concepts/holiness"
+    ]
+  },
+  {
+    "source_title": "Bruckner, James K. *Exodus*. Understanding the Bible Commentary Series. Baker Books, 2008/2012.",
+    "raw_file": "raw/commentaries/Ephesians (Baker Exegetical Commentary on - Thielman, Frank.;.txt",
+    "pages": [
+      "created/updated",
+      "concepts/passover",
+      "controversies/documentary-hypothesis",
+      "commentators/james-bruckner",
+      "concepts/covenant",
+      "concepts/tabernacle",
+      "concepts/divine-name",
+      "texts/exodus"
+    ]
+  },
+  {
+    "source_title": "Nogalski, James D. *The Books of Joel, Obadiah, and Jonah* (Obadiah + Jonah sections). NICOT. Eerdmans, 2023; Nogalski, James D. *The Book of Micah*. NICOT. Eerdmans, 2024.",
+    "raw_file": "raw/commentaries/Deuteronomy (NICOT) - Peter C. Craigie.txt",
+    "pages": [
+      "created/updated",
+      "texts/micah",
+      "texts/jonah",
+      "texts/obadiah",
+      "commentators/james-nogalski"
+    ]
+  },
+  {
+    "source_title": "Dearman, J. Andrew. *Hosea*. NICOT. Eerdmans, ca. 2010; Carroll R., M. Daniel. *The Book of Amos*. NICOT. Eerdmans, 2020; Nogalski, James D. *The Books of Joel, Obadiah, and Jonah*. NICOT. Eerdmans, 2023.",
+    "raw_file": "raw/commentaries/Deuteronomy (NICOT) - Peter C. Craigie.txt",
+    "pages": [
+      "commentators/m-daniel-carroll",
+      "created/updated",
+      "texts/hosea",
+      "concepts/book-of-the-twelve",
+      "texts/amos",
+      "concepts/divine-human-marriage",
+      "commentators/j-andrew-dearman",
+      "commentators/james-nogalski",
+      "texts/joel"
+    ]
+  },
+  {
+    "source_title": "Longman, Tremper, III. *Daniel*. NIV Application Commentary. Zondervan, 1999.",
+    "raw_file": "raw/commentaries/Daniel - Tremper Longman III.txt",
+    "pages": [
+      "texts/daniel",
+      "concepts/apocalyptic-literature",
+      "created/updated",
+      "commentators/tremper-longman"
+    ]
+  },
+  {
+    "source_title": "Block, Daniel I. *The Book of Ezekiel: Chapters 1\u201324* and *Chapters 25\u201348*. NICOT. Eerdmans, 1997/1998.",
+    "raw_file": "raw/commentaries/Ezekiel 25-48 (NICOT) - Daniel I. Block.txt",
+    "pages": [
+      "created/updated",
+      "concepts/new-covenant",
+      "texts/ezekiel",
+      "commentators/daniel-block",
+      "concepts/divine-human-marriage",
+      "concepts/divine-glory-kabod"
+    ]
+  },
+  {
+    "source_title": "Goldingay, John. *The Book of Jeremiah*. NICOT. Eerdmans, 2021; *The Book of Lamentations*. NICOT. Eerdmans, 2022; and Lalleman-de Winkel, Hetty. *Jeremiah and Lamentations*. TOTC 21. IVP.",
+    "raw_file": "raw/commentaries/Deuteronomy (NICOT) - Peter C. Craigie.txt",
+    "pages": [
+      "commentators/hetty-lalleman",
+      "created/updated",
+      "texts/lamentations",
+      "concepts/new-covenant",
+      "texts/jeremiah",
+      "concepts/divine-human-marriage",
+      "commentators/john-goldingay"
+    ]
+  },
+  {
+    "source_title": "Oswalt, John N. *The Book of Isaiah: Chapters 1\u201339* and *Chapters 40\u201366*. NICOT. Eerdmans, 1986/1998.",
+    "raw_file": "raw/commentaries/Isaiah 1-39 (NICOT) - John N. Oswalt.txt",
+    "pages": [
+      "created/updated",
+      "commentators/john-oswalt",
+      "texts/isaiah",
+      "concepts/divine-human-marriage",
+      "concepts/servant-songs"
+    ]
+  },
+  {
+    "source_title": "Longman, Tremper, III. *Song of Songs*. NICOT. Eerdmans, 2001.",
+    "raw_file": "raw/commentaries/Daniel - Tremper Longman III.txt",
+    "pages": [
+      "concepts/divine-human-marriage",
+      "commentators/tremper-longman",
+      "created/updated",
+      "texts/song-of-songs"
+    ]
+  },
+  {
+    "source_title": "Longman, Tremper, III. *The Book of Ecclesiastes*. NICOT. Eerdmans, 1998.",
+    "raw_file": "raw/commentaries/Daniel - Tremper Longman III.txt",
+    "pages": [
+      "created/updated",
+      "texts/ecclesiastes",
+      "concepts/hebel",
+      "commentators/tremper-longman",
+      "concepts/wisdom-literature"
+    ]
+  },
+  {
+    "source_title": "Waltke, Bruce K. *The Book of Proverbs: Chapters 1\u201315* and *Chapters 15\u201331*. NICOT. Eerdmans, 2004/2005.",
+    "raw_file": "raw/commentaries/The Book of Deuteronomy, Chapters 111 - Bill T. Arnold;.txt",
+    "pages": [
+      "concepts/woman-wisdom",
+      "texts/proverbs",
+      "created/updated",
+      "commentators/bruce-waltke",
+      "concepts/wisdom-literature"
+    ]
+  },
+  {
+    "source_title": "deClaiss\u00e9-Walford, Nancy; Jacobson, Rolf A.; Tanner, Beth LaNeel. *The Book of Psalms*. NICOT. Eerdmans, 2014.",
+    "raw_file": "raw/commentaries/The Book of Psalms (NICOT) - Nancy Declaisse-Walford.txt",
+    "pages": [
+      "commentators/declaisse-walford-jacobson-tanner",
+      "created/updated",
+      "texts/psalms"
+    ]
+  },
+  {
+    "source_title": "Hartley, John E. *The Book of Job*. NICOT. Eerdmans, 1988.",
+    "raw_file": "raw/commentaries/Isaiah 1-39 (NICOT) - John N. Oswalt.txt",
+    "pages": [
+      "concepts/theodicy",
+      "created/updated",
+      "controversies/job-",
+      "texts/job",
+      "commentators/john-hartley",
+      "concepts/wisdom-literature"
+    ]
+  },
+  {
+    "source_title": "Leithart, Peter J. *1 & 2 Chronicles*. Brazos Theological Commentary on the Bible. Brazos Press, 2019.",
+    "raw_file": "raw/commentaries/1 & 2 Chronicles - Peter J. Leithart.txt",
+    "pages": [
+      "commentators/peter-leithart",
+      "created/updated",
+      "concepts/davidic-covenant"
+    ]
+  },
+  {
+    "source_title": "Breneman, Mervin. *Ezra, Nehemiah, Esther*. NAC 10. B&H Publishing, 1993.",
+    "raw_file": "raw/commentaries/Ezra, Nehemiah, Esther NAC -- Mervin Breneman [Breneman, Mervin] -- The New American Commentary #1, 2011 -- B&H Publishing Group -- 9d2836ec3e51cfbc3ccbcc072495f9b0 -- Anna\u2019s Archive.epub",
+    "pages": [
+      "created/updated",
+      "controversies/intermarriage-ezra-nehemiah",
+      "texts/esther",
+      "commentators/mervin-breneman",
+      "texts/ezra-nehemiah",
+      "controversies/esther-canonicity"
+    ]
+  },
+  {
+    "source_title": "Harrington, Hannah K. *The Books of Ezra and Nehemiah*. NICOT. Eerdmans, 2022.",
+    "raw_file": "raw/commentaries/Ezra, Nehemiah, Esther NAC -- Mervin Breneman [Breneman, Mervin] -- The New American Commentary #1, 2011 -- B&H Publishing Group -- 9d2836ec3e51cfbc3ccbcc072495f9b0 -- Anna\u2019s Archive.epub",
+    "pages": [
+      "concepts/midrash",
+      "created/updated",
+      "controversies/intermarriage-ezra-nehemiah",
+      "texts/ezra-nehemiah",
+      "commentators/hannah-harrington"
+    ]
+  },
+  {
+    "source_title": "Tsumura, David Toshio. *The Second Book of Samuel*. NICOT. Eerdmans, 2019.",
+    "raw_file": "raw/commentaries/The Book of Psalms (NICOT) - Nancy Declaisse-Walford.txt",
+    "pages": [
+      "commentators/david-tsumura",
+      "created/updated",
+      "concepts/davidic-covenant"
+    ]
+  },
+  {
+    "source_title": "Tsumura, David Toshio. *The First Book of Samuel*. NICOT. Eerdmans, 2006.",
+    "raw_file": "raw/commentaries/The Book of Psalms (NICOT) - Nancy Declaisse-Walford.txt",
+    "pages": [
+      "commentators/david-tsumura",
+      "concepts/kingship-in-israel",
+      "created/updated",
+      "controversies/monarchy-request",
+      "controversies/herem-canaanite-conquest"
+    ]
+  },
+  {
+    "source_title": "Lau, Peter H. W. *Ruth*. NICOT. Eerdmans, 2023.",
+    "raw_file": "raw/commentaries/Deuteronomy (NICOT) - Peter C. Craigie.txt",
+    "pages": [
+      "created/updated",
+      "concepts/kinsman-redeemer",
+      "concepts/hesed",
+      "texts/ruth",
+      "commentators/peter-lau"
+    ]
+  },
+  {
+    "source_title": "Webb, Barry G. *Judges*. NICOT. Eerdmans, 2012.",
+    "raw_file": "raw/commentaries/Judges (NICOT) - Barry G. Webb.txt",
+    "pages": [
+      "created/updated",
+      "commentators/barry-webb",
+      "concepts/nazarite",
+      "texts/judges",
+      "controversies/herem-canaanite-conquest"
+    ]
+  },
+  {
+    "source_title": "Woudstra, Marten H. *Joshua*. NICOT. Eerdmans, 1981.",
+    "raw_file": "raw/commentaries/Joshua (NICOT) - Marten H. Woudstra.txt",
+    "pages": [
+      "created/updated",
+      "commentators/marten-woudstra",
+      "texts/joshua",
+      "concepts/covenant",
+      "concepts/herem",
+      "controversies/herem-canaanite-conquest",
+      "concepts/promised-land"
+    ]
+  },
+  {
+    "source_title": "Marshall, I. Howard. *The Epistles of John*. NICNT. Eerdmans, 1978; Kruse, Colin G. *The Letters of John*. PNTC. Eerdmans, 2020 (2nd ed.).",
+    "raw_file": "raw/commentaries/Isaiah 1-39 (NICOT) - John N. Oswalt.txt",
+    "pages": [
+      "commentators/i-howard-marshall",
+      "created/updated",
+      "texts/letters-of-john",
+      "concepts/antichrist",
+      "commentators/colin-kruse",
+      "controversies/johannine-secessionists"
+    ]
+  },
+  {
+    "source_title": "Seifrid, Mark A. *The Second Letter to the Corinthians*. PNTC. Eerdmans, 2014.",
+    "raw_file": "raw/commentaries/2 Corinthians (PNTC) - Mark A. Seifrid.txt",
+    "pages": [
+      "created/updated",
+      "concepts/new-creation",
+      "controversies/pauls-opponents-",
+      "concepts/theology-of-the-cross",
+      "commentators/mark-seifrid"
+    ]
+  },
+  {
+    "source_title": "Ciampa, Roy E., and Brian S. Rosner. *The First Letter to the Corinthians*. PNTC. Eerdmans, 2010.",
+    "raw_file": "raw/commentaries/2 Corinthians (PNTC) - Mark A. Seifrid.txt",
+    "pages": [
+      "created/updated",
+      "concepts/eschatological-temple",
+      "commentators/roy-ciampa-brian-rosner",
+      "controversies/food-offered-to-idols",
+      "controversies/resurrection-body"
+    ]
+  },
+  {
+    "source_title": "Schreiner, Thomas R. *Romans*. BECNT. Baker Academic, 1998.",
+    "raw_file": "raw/commentaries/Romans (BECNT) - Thomas R. Schreiner.txt",
+    "pages": [
+      "created/updated",
+      "concepts/justification",
+      "controversies/all-israel-saved",
+      "concepts/new-perspective-on-paul",
+      "controversies/righteousness-of-god",
+      "commentators/thomas-schreiner",
+      "texts/romans",
+      "controversies/romans-"
+    ]
+  },
+  {
+    "source_title": "Michaels, J. Ramsey. *The Gospel of John*. NICNT. Eerdmans, 2010.",
+    "raw_file": "raw/commentaries/The Gospel of John - J. Ramsey Michaels.txt",
+    "pages": [
+      "controversies/beloved-disciple-identity",
+      "created/updated",
+      "texts/letters-of-john",
+      "commentators/j-ramsey-michaels",
+      "concepts/logos-christology",
+      "concepts/i-am-sayings",
+      "texts/gospel-of-john",
+      "controversies/johannine-determinism",
+      "controversies/john-synoptic-independence",
+      "concepts/testimony-martyria",
+      "controversies/word-was-god-",
+      "concepts/paraclete-advocate"
+    ]
+  },
+  {
+    "source_title": "Thielman, Frank. *Ephesians*. BECNT. Baker Academic, 2010.",
+    "raw_file": "raw/commentaries/Ephesians (Baker Exegetical Commentary on - Thielman, Frank.;.txt",
+    "pages": [
+      "controversies/ephesians-household-code",
+      "created/updated",
+      "commentators/frank-thielman",
+      "texts/ephesians",
+      "concepts/eschatological-temple",
+      "concepts/principalities-powers",
+      "controversies/ephesians-authorship",
+      "controversies/ephesians-middle-wall",
+      "concepts/mysterion"
+    ]
+  },
+  {
+    "source_title": "McKnight, Scot. *The Letter to the Colossians*. NICNT. Eerdmans, 2018.",
+    "raw_file": "raw/commentaries/The Letter to Philemon - Scot McKnight;.txt",
+    "pages": [
+      "controversies/ephesians-household-code",
+      "created/updated",
+      "concepts/principalities-powers",
+      "concepts/stoicheia",
+      "concepts/christoformity",
+      "texts/colossians",
+      "commentators/scot-mcknight",
+      "controversies/colossian-opponents",
+      "controversies/colossians-authorship"
+    ]
+  },
+  {
+    "source_title": "Unterman, Isaac. *The Talmud*. New York: Bloch, 1965.",
+    "raw_file": "raw/commentaries/The Talmud _ origin and development, methods and systems, -- Unterman, Isaac, 1889- -- New York, New York State, 1965 -- New York _ Bloch Pub_ Co_ -- oclc 1178533697 -- 5fc56fbcc980b746593b1b199bc4ad7a -- Anna\u2019s Archive.pdf",
+    "pages": [
+      "texts/talmud-bavli",
+      "updated/created",
+      "texts/seder-nashim",
+      "texts/seder-nezikin",
+      "concepts/gemara",
+      "texts/seder-kodashim",
+      "texts/seder-tohorot",
+      "concepts/pilpul",
+      "texts/talmudic-tractates",
+      "concepts/talmudic-hermeneutics",
+      "texts/seder-moed",
+      "texts/seder-zeraim"
+    ]
+  },
+  {
+    "source_title": "Moo, Douglas J. *The Letter of James*. PNTC. Eerdmans, 2000.",
+    "raw_file": "raw/commentaries/The Letter of James (PNTC) - Douglas J. Moo.txt",
+    "pages": [
+      "controversies/james-authorship",
+      "concepts/justification",
+      "controversies/james-paul-justification",
+      "concepts/double-mindedness",
+      "-wisdom/paraenesis",
+      "texts/james",
+      "concepts/covenantal-nomism",
+      "figures/james-the-just",
+      "commentators/douglas-moo",
+      "controversies/anointing-healing-james-",
+      "concepts/wisdom-literature"
+    ]
+  },
+  {
+    "source_title": "Jobes, Karen H. *1 Peter*. BECNT. Baker Academic, 2005.",
+    "raw_file": "raw/commentaries/1 Peter (BECNT) - Karen H. Jobes.txt",
+    "pages": [
+      "figures/peter-apostle",
+      "concepts/christian-exile-diaspora",
+      "controversies/spirits-in-prison-",
+      "concepts/servant-songs",
+      "commentators/karen-jobes"
+    ]
+  },
+  {
+    "source_title": "Green, Gene L. *Jude and 2 Peter*. BECNT. Baker Academic, 2008.",
+    "raw_file": "raw/commentaries/1 Peter (BECNT) - Karen H. Jobes.txt",
+    "pages": [
+      "commentators/gene-green",
+      "second/testamentary",
+      "concepts/new-creation",
+      "figures/peter-apostle",
+      "figures/jude-brother-of-jesus",
+      "texts/jude",
+      "controversies/jude-",
+      "concepts/theosis-divine-nature"
+    ]
+  },
+  {
+    "source_title": "Osborne, Grant R. *Revelation*. BECNT. Baker Academic, 2002.",
+    "raw_file": "raw/commentaries/Revelation (BECNT) - Grant R. Osborne.txt",
+    "pages": [
+      "commentators/grant-osborne",
+      "concepts/lamb-of-god",
+      "concepts/antichrist",
+      "texts/revelation",
+      "concepts/apocalyptic-literature",
+      "concepts/new-creation",
+      "figures/john-apostle",
+      "concepts/eschatological-temple",
+      "controversies/revelation-millennium",
+      "controversies/revelation-date-authorship",
+      "controversies/revelation-interpretive-schools"
+    ]
+  }
+]

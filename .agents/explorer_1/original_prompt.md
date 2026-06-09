@@ -1,0 +1,2 @@
+## 2026-06-06T21:14:56Z
+Analyze mapping.json items 40, 41, 42. Read their raw files (use view_file or grep_search). Extract narrative information and identify major figures. Provide a strategy for injecting narrative info into primary text pages (wiki/texts/*.md), creating/updating wiki/figures/ pages per CLAUDE.md schema, and appending them to wiki/index.md. Write a handoff report and send it via send_message.

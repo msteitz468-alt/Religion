@@ -1,0 +1,23 @@
+#!/usr/bin/env python3
+import os
+import sys
+import glob
+
+def test_figure_pages_biography():
+    wiki_root = "/home/mark/mnt/gdrive/AI/Obsidian/Religion"
+    figures_dir = os.path.join(wiki_root, "wiki", "figures")
+    md_files = glob.glob(os.path.join(figures_dir, "*.md"))
+    
+    for md_file in md_files:
+        with open(md_file, 'r', encoding='utf-8') as f:
+            content = f.read().lower()
+            
+        if "biograph" not in content and "life" not in content:
+            print(f"Error: {md_file} lacks biographical overview section.")
+            sys.exit(1)
+            
+    print("All figure pages contain biographical data.")
+    sys.exit(0)
+
+if __name__ == "__main__":
+    test_figure_pages_biography()
