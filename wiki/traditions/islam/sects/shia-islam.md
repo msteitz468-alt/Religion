@@ -11,7 +11,7 @@ key_doctrinal_distinctives: [the Imamate (divinely-appointed succession from Ali
 hermeneutical_method: [tafsir via the Imams, batin / ta'wil, reason (the Imams as living interpreters)]
 key_figures: [Ali ibn Abi Talib, Husayn, Ja'far al-Sadiq, al-Tabatabai]
 key_texts: [quran]
-sources_ingested: 0
+sources_ingested: 1
 last_updated: 2026-06-09
 tags: [sect, islam, shia]
 ---
@@ -52,7 +52,14 @@ persecution); a distinctive ritual calendar centered on Ashura.
 ## Hermeneutical Method
 
 The Imams are the living, authoritative interpreters of the Qur'an; strong development of **ta'wil**
-(esoteric/*batin* interpretation). See [[tafsir|Tafsir]].
+(esoteric/*batin* interpretation). The foundational figure is the sixth Imam
+**[[jafar-al-sadiq|Ja'far al-Sadiq]]** (d. 765), credited with a threefold reading (literal /
+historical / allegorical) that assigns the meaning of the **ambiguous verses** to the Imams alone —
+holding that "a quarter of the Qur'an is about the Imams," who are designated by the verses of the
+"Straight Path," the "Firmest Handle," and above all the **Light of God** (Q 64:8). This is the
+sharpest contrast with the Sunni exegesis of [[al-tabari|al-Tabari]], for whom *ta'wil* is simply
+*tafsir* and the ambiguous category is narrow. See [[tafsir|Tafsir]] and
+[[allegorical-reading|Allegorical Reading]].
 
 ## Relationship to Orthodoxy and Other Sects
 

@@ -4,10 +4,10 @@ also_known_as: [Achaemenids; Parsa/Persis; the empire of Cyrus, Cambyses, Darius
 tradition: cross-tradition (ANE empire; sponsor of the Jewish restoration)
 textual_sources: [Ezra-Nehemiah, Esther, Daniel, Haggai, Zechariah, Isaiah 40–55 (Cyrus as "messiah"); the Cyrus Cylinder; Herodotus; the Elephantine and Samaria papyri]
 periods_active: Achaemenid Persian period 539–332 BCE (Cyrus' conquest of Babylon → Alexander's conquest)
-roles_significance: [the empire that ended the exile and authorized the Second Temple; overlord of the province of Yehud; framer of post-exilic Judaism; Cyrus uniquely called "messiah" in Isaiah]
-sources_ingested: 1
-last_updated: 2026-06-07
-tags: [group, ancient-near-east, empire, persia, second-temple, yehud, restoration]
+roles_significance: [the empire that ended the exile and authorized the Second Temple; overlord of the province of Yehud; framer of post-exilic Judaism; Cyrus uniquely called "messiah" in Isaiah; bearers of an "Avestan worldview" and the matrix of early Zoroastrianism]
+sources_ingested: 2
+last_updated: 2026-06-09
+tags: [group, ancient-near-east, empire, persia, second-temple, yehud, restoration, zoroastrianism]
 ---
 
 # Persians (Achaemenid Empire)
@@ -64,7 +64,45 @@ Judaism. The canon (Torah, Prophets, Psalms) approaches its final shape; Ezra re
 Law aloud at Jerusalem's gates. The roots of later Jewish sectarianism — including the
 [[samaritans|Samaritans]] — lie here.
 
+## The Religion of the Ancient Persians (an "Avestan Worldview")
+
+Beyond their role in the biblical story, the Achaemenids are the wiki's window onto
+**early [[zoroastrianism|Zoroastrianism]]**. Per [[rose-zoroastrianism-an-introduction|Rose]],
+the religion of the Ancient Persians was *not identical* with the Gathic religion (no Old
+Persian inscription names [[zarathustra|Zarathushtra]]), but it is close enough to the
+[[avesta|Avesta]] to count as **evolving Zoroastrianism**:
+
+- **The Truth/Lie ethic.** Darius's inscriptions (Bisutun, Naqsh-e Rostam) frame his rule
+  as a cosmic-moral choice: he upholds **arta** (Order/Right; Avestan
+  [[asha-druj|asha]]) against **drauga** (the Lie), "did nothing crooked," and was "a
+  friend to right." Xerxes condemns **daiva-worship**. This is the Gathic polarity in
+  royal idiom.
+- **Avestan names and divinities.** Royal and administrative names encode Avestan
+  religion — *Vishtaspa, Daraya-vahu* ("holding the good"), *Arta-xshaça* ("whose reign
+  is through asha"), and many **[[mitra|Mithra]]-** and *arta*-compounds — and the
+  Persepolis tablets record offerings to fire-guardians and to the **[[fravashi|fravashis]]**
+  of the righteous. **[[anahita|Anahita]]** and **Mithra** are invoked beside Ahura Mazda
+  by **Artaxerxes II**, who promoted an image-cult.
+- **Kingship and glory.** Rule depends on the [[xwarenah|*xwarenah*]] (divine glory) given
+  by **[[ahura-mazda|Ahura Mazda]]**; the winged figure over the king (the *fravohar*)
+  and the worship of **fire** with no temples or statues (so Herodotus) are its emblems.
+- **[[paradise|Paradise]].** The royal walled garden — *pairidaeza* → Greek *paradeisos* —
+  materialized the king's task of generating *asha*-ordered abundance.
+- **The cosmic cycle.** Greek reports (Theopompus, Aristotle on the two *archai*
+  Oromasdes/Areimanios) attest a **3,000-year-period** dualist cosmology circulating by
+  the late Achaemenid period — the millennial scheme later fixed in the
+  [[bundahishn|Bundahishn]].
+
 ## Influence on Later Traditions and Controversies
+
+**Cyrus as a cipher of just rule.** Rose notes that no Zoroastrian text names Cyrus; he
+may have **coalesced with the archetype of the good ruler** (Kavi Vishtaspa, or
+[[yama|Yima]] the "good shepherd," an epithet Isaiah 44.28 also gives Cyrus). His
+presentation in Deutero-Isaiah as Yahweh's instrument echoes the **incremental,
+beneficent agency of the Gathic [[saoshyant|saoshyant]]**, now expanded to a royal
+function — part of the broader, cautiously-weighed question of
+[[zoroastrian-influence-on-abrahamic-eschatology|Iranian influence on the Abrahamic
+traditions]].
 
 Cyrus-as-messiah became a major theme in Jewish and later Christian readings of divine
 providence working through pagan rulers. The **Ezra/Nehemiah marriage reforms** and the

@@ -5,8 +5,8 @@ tradition: Judaism / Christianity / cross-tradition
 textual_sources: [1 Samuel 9–31; 2 Samuel 1; 1 Chronicles 8:33; 9:39; Acts 13:21]
 dates: [traditional reign c. 1020–1000 BCE; floruit as king of Israel]
 roles: [first king of Israel, anointed by Samuel, warrior, tragic figure rejected for disobedience, pursuer of David]
-sources_ingested: 2
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-06-09
 tags: [figure, judaism, christianity, old-testament, saul, kingship, tragedy]
 ---
 
@@ -51,6 +51,23 @@ Saul's arc is the narrative demonstration that in Israel kingship is derivative 
 - **Endor**: Historical event or theological story? Reality of the spirit's appearance and accurate prediction.
 - **Davidic apology**: The portrayal of Saul as increasingly unstable and David as consistently loyal is sometimes read as pro-Davidic propaganda from the united monarchy or later.
 
+## Alter's Literary Reading
+
+[[robert-alter|Robert Alter]] ([[alter-the-david-story|*The David Story*]]) calls Saul **"the
+closest approximation of a tragic hero in the Hebrew Bible"** — a farm boy from Benjamin
+seeking lost donkeys who is overtaken by a kingship he never sought and at first tries to
+escape. Alter sees the writer mirroring Saul's defining **ambivalence and oscillation** in a
+structure of **paired or tripled episodes**: three coronation scenes for the reluctant king;
+two "Is Saul also among the prophets?" stories (one elevating, one devastating); two
+spear-hurlings at [[david|David]]; two encounters in which David spares his life. The
+Saul/David antithesis turns on the theme of **knowledge**: Saul is "a man deprived of the
+knowledge he desperately seeks," failing with oracle, dream, and prophet, until on the eve of
+Gilboa he resorts to the very necromancy he had outlawed and learns from Samuel's ghost
+"nothing but the news of his own imminent doom." Against the source critics, Alter resists
+sorting the book into "Saulide" and "Davidide" strands: the moral and psychological complexity
+with which both men are imagined, he argues, refutes the idea of simple partisan sources
+(recorded alongside those readings per the Contradiction Protocol).
+
 ## Influence on Commentary Traditions
 
 Tsumura (NICOT) stresses the literary and theological unity with David's rise, the prophetic-word principle, and the reversal motif. Saul is the textbook case for the dangers of kingship without submission to God and for the tragedy of a leader who cares more about image than repentance. In political theology and leadership studies he illustrates the limits of charisma and the necessity of character and obedience. The "how the mighty have fallen" lament is iconic. In Christian preaching he warns against partial obedience and self-justification; in Jewish tradition he is the flawed but human first king whose failure paves the way for David and the messianic hope. The Endor story continues to influence discussions of the afterlife, spiritualism, and divine sovereignty.
@@ -60,6 +77,8 @@ Tsumura (NICOT) stresses the literary and theological unity with David's rise, t
 - [[samuel|Samuel]] (anointer and judge who rejects him)
 - [[david|David]] (successor, spared twice, lamenter)
 - [[jonathan|Jonathan]] (son and friend of David)
+- [[abner|Abner]] (his army commander), [[michal|Michal]] (his daughter)
+- [[robert-alter|Robert Alter]] / [[alter-the-david-story|*The David Story*]] (Saul as tragic hero)
 - [[kingship-in-israel|Kingship in Israel]]
 - [[covenant|Covenant]] (contrast with Davidic)
 - [[hebrews|Hebrews]] (era of faith and failure)

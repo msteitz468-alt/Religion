@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Hebrew
 date_range: Compositional layers from ca. 10th century BCE; final editing likely late 10th century BCE (Tsumura)
-sources_ingested: 2
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-06-09
 tags: [text, old-testament, former-prophets, samuel, david, monarchy, covenant]
 ---
 
@@ -137,6 +137,25 @@ The theological logic: David's greatest failure directly leads to the temple sit
 - **Rev 5:5; 22:16**: "the Root of David" — Christ's Davidic identity in Revelation's climax
 - **2 Cor 6:18**: "I will be a father to you and you shall be sons and daughters to me" — echoes 2 Sam 7:14's adoption language, applied now to the church
 
+## The Literary Reading (Alter)
+
+[[robert-alter|Robert Alter]]'s [[alter-the-david-story|*The David Story*]] (1999) treats 2
+Samuel as the heart of "probably the greatest single narrative representation in antiquity of
+a human life evolving by slow stages through time." For Alter the true center of the second
+half is not dynastic [[succession-narrative|succession]] but **[[david|David's]] sin and the
+unfolding of [[nathan|Nathan's]] curse on his house** — a theme he finds closer to Greek
+tragedy (and to Faulkner's *Absalom, Absalom!*) than to political apologetic. He stresses the
+narrative's **reticence** (David must send to discover who [[bathsheba|Bathsheba]] is), its
+deliberate **analogy** between David's adultery and [[amnon|Amnon's]] rape of Tamar (both
+"prohibited sexual acts" that "lead to murder and political disarray"), and the
+**"freighted imagining" of unnecessary detail** — the weeping Paltiel following
+[[michal|Michal]] to Bahurim; David's "horrendous stutter of grief" over
+[[absalom|Absalom]]. He reads the pious frame of David's deathbed charge (1 Kings 2) as a
+light [[deuteronomistic-history|Deuteronomistic]] overlay on an otherwise Machiavellian
+testament. Recorded alongside Tsumura's canonical reading and the source-critical tradition
+per the Contradiction Protocol.
+
 ## Sources Ingested
 
 1. [[david-tsumura|Tsumura, David Toshio]]. *The Second Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2019.
+2. [[robert-alter|Alter, Robert]]. *[[alter-the-david-story|The David Story: A Translation with Commentary of 1 and 2 Samuel]]*. New York: W. W. Norton, 1999.

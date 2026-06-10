@@ -11,7 +11,7 @@ canon_scope:
   rejected_by: []
 language_original: Old (Gathic) Avestan
 date_range: c. 1200–1000 BCE (the oldest stratum of the Avesta)
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-09
 tags: [text, zoroastrianism, avesta, gathas, scripture]
 ---
@@ -26,11 +26,12 @@ Sanskrit), they are linguistically difficult and theologically dense — the see
 The Gathas are first-person, often dialogical addresses to **Ahura Mazda** ("the Wise Lord"): praise,
 questions, and pleas for guidance. Their core ideas:
 
-- **Ahura Mazda** as the supreme, wholly good creator, attended by the **Amesha Spentas** (the "Bounteous
-  Immortals" — Good Mind, Truth, Right-Mindedness, etc., later quasi-archangelic figures).
-- **Asha** (Truth/Order) vs. **Druj** (the Lie) as the fundamental polarity, and the **two primal
-  spirits** who chose between them (Yasna 30) — the charter text of Zoroastrian dualism and of **free
-  moral choice**.
+- **[[ahura-mazda|Ahura Mazda]]** as the supreme, wholly good creator, attended by the
+  **[[amesha-spentas|Amesha Spentas]]** (the "Holy/Bounteous Immortals" — Good Mind, Truth,
+  Right-Mindedness, etc., later quasi-archangelic figures).
+- **[[asha-druj|Asha]]** (Truth/Order) vs. **Druj** (the Lie) as the fundamental polarity, and the
+  **two primal spirits** ([[ahura-mazda|Ahura Mazda]] / [[angra-mainyu|Angra Mainyu]]) who chose
+  between them (Yasna 30) — the charter text of Zoroastrian dualism and of **free moral choice**.
 - A coming reckoning: judgment, reward and punishment, and the renewal of existence.
 
 ## Significance
@@ -40,8 +41,15 @@ for distinguishing **Zarathustra's original message** from later development —
 careful work of [[zoroastrian-influence-on-abrahamic-eschatology|tracing Zoroastrian influence]] on
 Abrahamic eschatology.
 
+As the prophet's own words within the larger **[[avesta|Avesta]]**, the Gathas are the criterion
+for distinguishing Zoroaster's original message from later **Younger Avestan** and Pahlavi
+([[bundahishn|Bundahishn]]) development.
+
 ## Sources Ingested
 
 1. *The Gâthâs / Yasna* in *The Zend-Avesta, Part III*, trans. L. H. **Mills** (Sacred Books of the East
    vol. 31, public domain) — acquired in `raw/texts/zoroastrianism/`. (Humbach's critical edition is
    `[COPYRIGHT]`; the Mills translation is dated, per *Needed Sources.md*.)
+2. Mary **Boyce**, *Zoroastrians: Their Religious Beliefs and Practices* (1979) — see
+   [[boyce-zoroastrians-beliefs-and-practices|the source page]]; the basis for the account of the
+   Gathas' theology and their relation to the rest of the Avesta.

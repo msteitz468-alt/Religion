@@ -120,6 +120,7 @@ Master index of all pages. Updated on every ingest.
 
 - [[quran|The Qur'an]] — foundational scripture of Islam; 114 suras; literal word of God revealed to Muhammad (610–632); universally canonical across Sunni/Shia/Sufi; Arabic; Pickthall translation ingested
 - [[sahih-al-bukhari|Sahih al-Bukhari]] — the premier Sunni hadith collection (al-Bukhari, d. 870); the canon-split exemplar: `canonical_for: [sunni-islam]`, `rejected_by: [shia-islam]`; Arabic; Muhsin Khan translation ingested
+- [[fusus-al-hikam|Fusus al-Hikam (The Bezels of Wisdom)]] — Ibn Arabi's late masterwork of speculative Sufism; 27 prophetic "bezels"; `authoritative_for: [sufism]`, `disputed_by: [sunni-islam]` (condemned by Ibn Taymiyya); *wahdat al-wujud* and the Perfect Man; Arabic; Bewley translation ingested (new 2026-06-09)
 
 ### Buddhism (Pali Canon & Mahayana Sutras)
 
@@ -165,6 +166,8 @@ Master index of all pages. Updated on every ingest.
 *(Tradition added 2026-06-09.)*
 
 - [[gathas|The Gathas of Zarathustra]] — the oldest Avestan stratum, the prophet's own hymns; Asha vs. the Lie; Mills (SBE31) translation ingested
+- [[avesta|The Avesta]] — the Zoroastrian scripture (Gathic + Younger Avestan); Yasna, Yashts, Vendidad; transmitted with its Pahlavi Zand (Boyce, *Zoroastrians*) (new 2026-06-09)
+- [[bundahishn|The Bundahishn]] — the Pahlavi compendium of Zoroastrian cosmology and eschatology (creation, the Assault, the 3,000-year schema, the molten-metal ordeal); authoritative but post-canonical (new 2026-06-09)
 
 ### Scientology
 
@@ -327,7 +330,9 @@ Master index of all pages. Updated on every ingest.
 - [[confucius|Confucius (Kongzi)]] — founding teacher of Confucianism; ren, li, the junzi; the "Uncrowned King" of the imperial cult
 
 ### Zoroastrianism (2026-06-09)
-- [[zarathustra|Zarathustra (Zoroaster)]] — prophet and founder; revealed Ahura Mazda; framed religion as a cosmic moral choice; the Greek legendary "magus"
+- [[zarathustra|Zarathustra (Zoroaster)]] — prophet and founder; revealed Ahura Mazda; framed religion as a cosmic moral choice; the Greek legendary "magus"; the *manthran* and his reception (Rose)
+- [[anahita|Anahita]] — the yazata of the waters, fertility, and martial sovereignty; the Artaxerxes II image-cult; Greek Anaitis (new 2026-06-09)
+- See also [[mitra|Mithra]] (Iranian yazata of contract/sun) and [[yama|Yima/Jamshid]] (first king, golden age) — extended with their Iranian material (2026-06-09)
 
 ### Restorationist Christianity (2026-06-09)
 - [[joseph-smith|Joseph Smith]] (1805–1844) — founder and first prophet of the Latter Day Saint movement; translator/revelator of the Book of Mormon, D&C, and Pearl of Great Price; martyred at Carthage
@@ -350,6 +355,7 @@ Master index of all pages. Updated on every ingest.
 - [[tertullian|Tertullian]] (c.155–220 CE) — Father of Latin theology; Trinitarian vocabulary (*trinitas*, *persona*, *substantia*); *Prescription against Heretics*; *Against Marcion* (5 vols.); later Montanist sympathies (Kruger)
 - [[clement-of-alexandria|Clement of Alexandria]] (c.150–215 CE) — Head of Alexandrian catechetical school; philosopher-theologian; allegorist; the true Christian *gnostikos*; preserved Valentinian sources; 23/27 NT books as functional canon (Kruger)
 - [[marcion|Marcion of Sinope]] (c.85–160 CE) — Founded Marcionite church (c.144 CE); two gods (OT Demiurge / NT Father); Docetic Christology; first closed Christian canon (edited Luke + 10 Pauline letters); primary heretical foil for Irenaeus/Tertullian (Kruger)
+- [[mani|Mani]] (c. 216–274/277 CE) — founder of [[manichaeism|Manichaeism]]; raised among Elchasaite baptists in Sasanian Babylonia; the Twin/*Syzygos* revelation; Apostle of Jesus, Paraclete, "Seal of the Prophets"; wrote his own canon; died under Bahram I; the arch-heresiarch for the Christian West (Gardner, *The Founder of Manichaeism*) (new 2026-06-09)
 - [[valentinus|Valentinus]] (c.100–175 CE) — Most influential gnostic teacher; Valentinian school; Pleroma cosmology; Sophia myth; three-class anthropology; *Gospel of Truth*; school included Ptolemy, Heracleon, Marcus, Theodotus (Kruger)
 
 ### Hebrew Bible / Old Testament
@@ -367,6 +373,8 @@ Master index of all pages. Updated on every ingest.
 - [[rachel|Rachel]] — Beloved wife of Jacob, mother of Joseph & Benjamin; dies on the road, "weeps for her children" (Jer 31; Matt 2); Kabbalistic **lower/revealed world** (Malkhut/Shekhinah) (Zohar Vol II)
 - [[leah|Leah]] — Substituted elder wife of Jacob; mother of six tribes incl. Levi & Judah (priesthood & kingship); buried in Machpelah; Kabbalistic **upper/concealed world** (Binah) (Zohar Vol II)
 - [[ishmael|Ishmael]] — Firstborn of Abraham by Hagar; circumcised but outside the covenant; progenitor of the Arabs; multi-tradition (Galatians 4 "flesh/Sinai"; Islamic prophet Ismaʿil, Kaaba, near-sacrifice) (Zohar Vol II)
+- [[muhammad|Muhammad]] (c. 570–632) — the Prophet of [[islam|Islam]], Seal of the Prophets; reciter of the [[quran|Qur'an]]; Mecca→Medina (the Hijra), statesman and lawgiver; his *sunna* the second source of law; venerated as man not divinized; the Western "pseudo-prophet" polemic; the Sufi Muhammadan Reality (new 2026-06-09, via Lawrence)
+- [[jafar-al-sadiq|Ja'far al-Sadiq]] (80/700–148/765) — the sixth Shi'ite Imam and Qur'anic exegete; eponym of Ja'fari law; the threefold (literal/historical/allegorical) reading and the doctrine of the **Imam as authoritative interpreter** ("a quarter of the Qur'an is about the Imams"); foundation of Shi'ite [[allegorical-reading|ta'wil]] (new 2026-06-09, via Lawrence)
 - [[moses|Moses]] — Lawgiver, prophet, mediator of exodus, Sinai, tabernacle; Jewish Moshe Rabbenu, Christian type of Christ, Islamic Musa
 - [[aaron|Aaron]] — First high priest; golden calf, intercessor, Nadab/Abihu, priestly line
 - [[miriam|Miriam]] — Prophetess, song leader at the sea, sibling challenge (Num 12 leprosy), death at Kadesh; model and cautionary tale for prophetic speech
@@ -387,6 +395,15 @@ Master index of all pages. Updated on every ingest.
 - [[saul|Saul]] — First king (Benjaminite, tall); anointed by Samuel; early promise (Ammonites, Michmash); two rejections for disobedience (*ḥerem* failure, offering without waiting); pursues David; dies on Gilboa with Jonathan; tragic foil to David (new from Tsumura)
 - [[david|David]] — Shepherd anointed by Samuel; defeats Goliath; anointed king of Judah (Hebron) then all Israel (Jerusalem); receives eternal Davidic covenant (2 Sam 7); sins with Bathsheba/Uriah, weathers Absalom revolt; psalmist, temple planner; "man after God's own heart" despite failure; ancestor of Messiah (multi-source from Tsumura + prior)
 - [[solomon|Solomon]] — Son of David; wisdom request, temple builder (sapiential Joshua per Leithart), wealth, foreign wives/apostasy, kingdom divided (Provan hinge of wisdom vs. fidelity); multi-trad (Jewish Temple builder/wise judge with aggadah, Christian type of Messianic peace "greater than Solomon", Islamic Sulayman prophet-king over jinn) (enhanced Kings + Chronicles batch)
+- **David-narrative court figures** (Alter, *The David Story*, 2026-06-09):
+  - [[jonathan|Jonathan]] — Eldest son of Saul, heir who yields to David; covenant of love ("surpassing the love of women"); battlefield faith (Michmash); dies at Gilboa; David's elegy
+  - [[abner|Abner]] — Saul's army commander; kingmaker of Ish-bosheth; kills Asahel; defects to David and is treacherously murdered by Joab at Hebron's gate
+  - [[michal|Michal]] — Daughter of Saul, David's first wife; the one woman said to "love" a man; saves David, is traded to Paltiel and reclaimed, despises David's dance, dies childless
+  - [[bathsheba|Bathsheba]] — Wife of Uriah taken by David; mother of Solomon; queen mother (*gebirah*) who, with Nathan, secures the succession; "the wife of Uriah" in Matt 1
+  - [[uriah|Uriah the Hittite]] — Loyal foreign warrior (one of the Thirty); refuses home comfort during holy war; bears his own death-warrant to Joab; the one blot on David (1 Kgs 15:5)
+  - [[nathan|Nathan]] — Court prophet; the Davidic Covenant oracle (2 Sam 7), the ewe-lamb parable and "you are the man" (2 Sam 12), and kingmaker for Solomon (1 Kgs 1)
+  - [[amnon|Amnon]] — David's firstborn; rapes his half-sister Tamar (2 Sam 13); murdered by Absalom; the first eruption of Nathan's curse
+  - [[absalom|Absalom]] — Third son; avenges Tamar by killing Amnon, then usurps the throne; killed by Joab in the terebinth against David's orders; David's "my son, my son" lament
 - [[asaph|Asaph]] — Eponymous Levite musician and "seer"; head of temple singer guild; attributed author of Pss 50, 73–83 (canonical Book Three turning point)
 - [[korah|Korah / Sons of Korah]] — Wilderness rebel (Num 16) whose surviving descendants became a major temple singer guild attributed with Psalms 42–49, 84–85, 87–88
 - [[heman|Heman the Ezrahite]] — Wise man and Kohathite Levite musician; attributed author of Ps 88, the darkest lament in the Psalter
@@ -458,6 +475,7 @@ Master index of all pages. Updated on every ingest.
 - [[cappadocian-fathers|Cappadocian Fathers]] — 4th-c. Eastern theologians (Basil of Caesarea, Gregory of Nazianzus, Gregory of Nyssa); fixed orthodox Trinitarian vocabulary (ousia for common nature/substratum vs. hypostasis for individual subsistences); defenders of Nicene homoousios and Spirit’s divinity; architects of relative unity (rule or substratum) and apophatic/mystical theology. Detailed in Wolfson (*Philosophy of the Church Fathers*, Part Two); cross-linked to Nicaea, logos-christology, and Stead/Wolfson scholarship.
 - [[pharisees|Pharisees]] — Jewish religious party (c. 160 BC–70 AD); rigorist Torah observance; oral Torah advocates; forebears of Rabbinic Judaism; Paul’s pre-conversion identity; party (not sect) that wished all Israel to observe but did not claim exclusive election; Hurtado (*Destroyer of the Gods*): Paul’s Pharisaic "zeal" = Phinehas-tradition vigilante covenant fidelity.
 - [[magi|The Magi (Zoroastrian Priesthood)]] — the [[zoroastrianism|Zoroastrian]] priestly class (*maguš*; rabbinic *amgusha*/*ḥabar*) as the **[[talmud-bavli|Bavli]]**'s "significant Other": reciters of the Avesta, "sorcerers"/"mumblers"/"destroying angels," occasional teachers of forbidden lore — yet mirrored against the rabbis as a rival recitation-based, internally competitive priesthood (Secunda, *The Iranian Talmud*) (new 2026-06-09)
+- [[parsis|Parsis (the Zoroastrians of India)]] — Iranian Zoroastrians who fled the Arab conquest to Gujarat (the *Qesse-ye Sanjan*; the Iran Shah fire); colonial-Bombay mercantile/philanthropic elite; the calendar, Wilson, and reform/traditionalist controversies; the patrilineal "Who is a Parsi?" question; modern global diaspora (Rose) (new 2026-06-09)
 - [[hellenized-diaspora-jews|Hellenized Diaspora Jews]] — Greek-speaking Jews living outside the land of Israel, 1st–5th c. CE; primary mission field of earliest Christianity per Stark; bridge population between Jewish and Hellenic cultures; LXX as their scriptural medium; synagogue networks as foundation of Pauline missionary activity; cultural marginality as conversion opportunity; Marcion affair as evidence of Jewish-Christian dominance into mid-2nd c. (Stark, *Rise of Christianity*, Ch. 3)
 
 ### Ancient Near Eastern Peoples & Empires (Hebrew Bible — Coogan ingest, 2026-06-07)
@@ -534,6 +552,14 @@ Master index of all pages. Updated on every ingest.
 
 ## Commentators
 
+### Islamic Tradition (2026-06-09)
+- [[al-zamakhshari|Al-Zamakhshari]] (467/1075–538/1144) — "Jar Allah"; the great [[mutazilism|Mu'tazilite]] grammarian and Qur'an commentator; *al-Kashshaf*, the paradigm of *tafsir bi'l-ra'y* (rhetoric/*i'jaz*, *ta'wil* of anthropomorphisms, the five principles); condemned yet preserved-by-purging (al-Baydawi). See [[kifayatullah-al-kashshaf|Kifayatullah's study]] (new 2026-06-09)
+- [[ibn-arabi|Ibn Arabi]] (560/1165–638/1240) — *al-Shaykh al-Akbar*; the supreme Sufi metaphysician; *[[fusus-al-hikam|Fusus al-Hikam]]* and *al-Futuhat al-Makkiyya*; esoteric *batin*/*ta'wil*; *[[wahdat-al-wujud|wahdat al-wujud]]* and the *[[al-insan-al-kamil|Perfect Man]]*; venerated and condemned alike (new 2026-06-09)
+- [[al-tabari|Al-Tabari]] (c. 224/839–310/923) — the foremost classical Sunni Qur'an commentator (*Jami' al-bayan*) and historian (the *Annals*); exemplar of *tafsir bi'l-ma'thur*; *ta'wil* = *tafsir*; Clear vs. Ambiguous Signs; the Sunni backstop against Imami esoteric reading (new 2026-06-09, via Lawrence)
+- [[robert-of-ketton|Robert of Ketton]] (fl. 1136–1157) — English polymath of the Toledo school; first complete **Latin** translation of the Qur'an (1143, *Lex Mahumet pseudoprophete*) for Peter the Venerable; polemical title but commentary-based (used [[al-tabari|al-Tabari]]); the Latin/Christian reception (new 2026-06-09, via Lawrence)
+- [[william-montgomery-watt|W. Montgomery Watt]] (1909–2006) — the foremost 20th-c. British Islamicist (Edinburgh); standard critical biographer of [[muhammad|Muhammad]] (*at Mecca* / *at Medina*) and reviser of Bell's *Introduction to the Qur'ān*; moderate historical-critical — affirms the Uthmanic text's authenticity; the foil for [[al-azami-history-of-the-quranic-text|Al-Azami]] (new 2026-06-09)
+- [[al-azami|M. M. Al-Azami]] (c. 1932–2017) — premier modern hadith scholar (King Saud Univ.; King Faisal Prize); traditionalist counter-history of the Qur'anic text ("law of witness"; Uthman standardized not created); anti-orientalist (vs. Schacht, Jeffery, Wansbrough); comparative use of biblical text-criticism (new 2026-06-09)
+
 ### Buddhist Tradition (2026-06-09)
 - [[buddhaghosa|Buddhaghosa]] (fl. 5th c.) — the great Theravada commentator; *Visuddhimagga* (Path of Purification); Mahavihara, Sri Lanka
 - [[shantideva|Shantideva]] (c. 685–763) — Mahayana/Nalanda; *Bodhicaryavatara* (Guide to the Bodhisattva Way of Life)
@@ -562,6 +588,9 @@ Master index of all pages. Updated on every ingest.
 ### Scholarship (Early Christianity in the Roman World)
 
 - [[michael-w-holmes|Michael W. Holmes]] — Bethel University; *The Apostolic Fathers: Greek Texts and English Translations*, 3rd ed. (Baker Academic, 2007); critical Greek text + English translation of all 10 Apostolic Fathers texts; 28 Papias fragments (most complete collection); historical-critical introductions. See also [[holmes-apostolic-fathers|source summary]].
+- [[de-lubac-medieval-exegesis|de Lubac, *Medieval Exegesis: The Four Senses of Scripture*]] (Henri de Lubac; 1959–64) — the definitive study of the Christian [[fourfold-sense|fourfold sense]]; "the doctrine of the senses *is* the doctrine of the two Testaments"; corrects the distich's authorship (Augustine of Dacia, not Nicholas of Lyra) and untangles the trichotomy/tetrachotomy duality (new 2026-06-09)
+- [[henri-de-lubac|Henri de Lubac]] (1896–1991) — Jesuit *ressourcement* theologian, Vatican II *peritus*, cardinal; the wiki's authority on the [[fourfold-sense|Quadriga]] and Christian [[allegorical-reading|allegory]]; spiritual exegesis as transformation of the reader; bridge from [[origen|Origen]] to the medieval synthesis (new 2026-06-09)
+- [[mark-julian-edwards|Mark Julian Edwards]] (b. 1962) — Oxford patristics scholar; *[[edwards-origen-against-plato|Origen Against Plato]]* (2002): Origen built a Christian philosophy *against* Platonism (anthropology the hinge); shared vocabulary ≠ influence; scepticism about the Ammonius Saccas link (new 2026-06-09)
 - [[michael-kruger|Michael J. Kruger]] (b.~1972) — President, RTS Charlotte; *Christianity at the Crossroads: How the Second Century Shaped the Future of the Church* (IVP Academic / SPCK, 2016/2017); five transitional axes (sociological, cultural-political, ecclesiological, doctrinal, textual-canonical); functional definition of canon; rule of faith; Bauer thesis refutation; convergent with Hurtado. See also [[kruger-christianity-at-the-crossroads|source summary]].
 - [[larry-hurtado|Larry W. Hurtado]] (1943–2019) — *Destroyer of the Gods: Early Christian Distinctiveness in the Roman World* (Baylor, 2016); *One God, One Lord* (1988); *Lord Jesus Christ* (2003). Social-historical analysis of early Christianity as a genuinely distinctive and novel movement within its Roman-world context. Five axes of distinctiveness: (1) exclusivist monotheism directed to the Roman "market"; (2) a particular "bookishness" including codex preference and *nomina sacra*; (3) a trans-ethnic identity as a new *tertium quid* (neither Jewish nor Gentile); (4) ethical rigorism, especially on sexual practice; (5) dyadic devotional pattern (God + Jesus jointly venerated). Key controversy: refutation of Bousset's *Kyrios Christos* (1913) thesis; Lord-Christology arose in Aramaic-speaking Jewish Christianity before Gentile influence was possible. See also [[hurtado-destroyer-of-the-gods|source summary]] in scholarship/.
 - [[rodney-stark|Rodney Stark]] (b. 1934) — University of Washington / Baylor; *The Rise of Christianity* (Princeton, 1996). Sociological account of early Christian growth 40–300 CE: 40%/decade growth model; Lofland-Stark network conversion model; Jewish mission as success (not failure); epidemic nursing and differential mortality; sex ratio / fertility advantage; 22-city quantitative analysis (67% of variance explained by synagogues + Romanization); Gnosticism as Christian heresy (statistical); Antioch as urban chaos case study (Ch. 7); martyrdom as rational choice (Iannaccone model); religious economy framework (exclusive vs. nonexclusive firms). See also [[stark-rise-of-christianity|source summary]] in scholarship/.
@@ -569,12 +598,20 @@ Master index of all pages. Updated on every ingest.
 
 ### Scholarship (Hebrew Bible & Ancient Near East)
 - [[coogan-oxford-history-biblical-world|The Oxford History of the Biblical World]] (Michael D. Coogan, ed.; Oxford, 1998) — multi-author historical-critical and archaeological survey of the biblical world from the Bronze Age through the Roman period. Ingested (2026-06-07) specifically to enrich **groups/** and **locations/**: Bronze Age peoples (Canaanites, Amorites, Hurrians, Hyksos, Apiru), the emergence of Israel and the Philistines/Sea Peoples, and the imperial powers (Assyria, Babylon, Persia) and their cities (Jerusalem, Samaria, Babylon, Ugarit, Hazor, Megiddo, Shechem, Byblos, Ashkelon, Ekron, Lachish, Jericho, Nineveh). Treats the Bible as a dependent variable weighed against archaeology; key tensions: Exodus historicity, the failure of the literal conquest model, Midianite/Kenite origin of Yahwism, Samarian Yahwism. Chapter authors include Pitard, Redmount, Stager, M. Cogan, and Leith.
+- [[robert-alter|Robert Alter]] (b. 1935) — Berkeley professor of Hebrew & comparative literature; founder of the [[literary-reading-of-the-bible|literary reading of the Bible]] (*The Art of Biblical Narrative*, 1981). Read here through *[[alter-the-david-story|The David Story]]* (1999), his translation + commentary on [[1-samuel|1]]–[[2-samuel|2 Samuel]]: David as "the first full-length portrait of a Machiavellian prince," the [[deuteronomistic-history|Deuteronomist]] as a light-handed editor, history "imagined" Shakespeare-fashion; foil to Polzin. Grounds the David-narrative court-figure cluster (new 2026-06-09)
+- [[alter-the-david-story|Alter, *The David Story*]] (1999) — source summary: literary unity over source atomization; the 1 Kings 2 deathbed seam as the showcase of light Deuteronomistic editing; readings of Samuel, Saul, and David (new 2026-06-09)
 
 ### Scholarship (World Religions)
 - [[cohn-cosmos-chaos-and-the-world-to-come|Cohn, *Cosmos, Chaos and the World to Come*]] (Norman Cohn; Yale, 2nd ed. 2001) — the ancient roots of apocalyptic faith; the static-cosmos/combat-myth → Zoroastrian linear-eschatology thesis (new 2026-06-09)
+- [[boyce-zoroastrians-beliefs-and-practices|Boyce, *Zoroastrians: Their Religious Beliefs and Practices*]] (Mary Boyce; Routledge, 1979) — the standard accessible survey; Indo-Iranian reconstruction (Avestan ↔ Vedic), the reform of Zoroaster, the strong-influence thesis, and living Parsi/Iranian practice as evidence; anchors the doctrinal vocabulary ([[ahura-mazda|Ahura Mazda]], [[asha-druj|asha/druj]], [[amesha-spentas|Amesha Spentas]], [[chinvat-bridge|Chinvat Bridge]], [[saoshyant|Saoshyant]]) (new 2026-06-09)
+- [[rose-zoroastrianism-an-introduction|Rose, *Zoroastrianism: An Introduction*]] (Jenny Rose; I.B. Tauris, 2011) — the **historical/geographical** complement to Boyce: Achaemenid → Parthian → Sasanian → Central Asian → Islamic-Iranian → [[parsis|Parsi]] → modern diaspora; reception-critical; the "Who is a Zoroastrian?" debate; grounds [[parsis|Parsis]], [[anahita|Anahita]], [[xwarenah|xwarenah]], [[paradise|paradise]] (new 2026-06-09)
 - [[skjaervo-spirit-of-zoroastrianism|Skjærvø, *The Spirit of Zoroastrianism*]] (Prods Oktor Skjærvø; Yale, 2011) — Avestan philology + translated primary sources; periodizes Old Avestan / Young Avestan / late Pahlavi (key for influence-tracing); user-supplied (new 2026-06-09)
 - [[secunda-the-iranian-talmud|Secunda, *The Iranian Talmud*]] (Shai Secunda; Penn Press, 2014) — reading the [[talmud-bavli|Bavli]] in its Sasanian Zoroastrian context (**[[talmudo-iranica|Talmudo-Iranica]]**); rabbinic/Zoroastrian "discourses of the Other"; the move "beyond influence" toward intertextuality; the late-antique counterpart to the eschatology-influence question (new 2026-06-09)
 - [[levenson-resurrection-and-the-restoration-of-israel|Levenson, *Resurrection and the Restoration of Israel*]] (Jon D. Levenson; Yale, 2006) — the [[resurrection-of-the-dead|resurrection of the dead]] as a native, "weight-bearing" rabbinic doctrine grown from biblical roots ([[sheol|Sheol]], familial continuity, [[the-combat-myth|Divine Warrior]]), not a late Zoroastrian import; the resurrection/immortality-of-the-soul distinction; the Canaanite counter-thesis to the [[zoroastrian-influence-on-abrahamic-eschatology|influence page]] (new 2026-06-09)
+- [[kifayatullah-al-kashshaf|Kifayatullah, *Al-Kashshaf: Al-Zamakhshari's Mu'tazilite Exegesis of the Qur'an*]] (De Gruyter, 2017) — reconstructs how [[al-zamakhshari|al-Zamakhshari]] embedded the [[mutazilism|Mu'tazilite]] five principles in his Qur'an commentary; the mechanics of *tafsir bi'l-ra'y* and the "purged commentary" reception (al-Baydawi, Ibn al-Munayyir); grounds [[al-zamakhshari|al-Zamakhshari]], [[mutazilism|Mu'tazilism]], [[tanzih-tashbih|tanzih/tashbih]] (new 2026-06-09)
+- [[lawrence-quran-a-biography|Lawrence, *The Qur'an: A Biography*]] (Bruce Lawrence; Atlantic, 2006) — reception history of the [[quran|Qur'an]] as "a Book of Signs"; orality and the theology of (un)translatability; fifteen vignettes from Muhammad to bin Laden; grounds [[muhammad|Muhammad]], [[jafar-al-sadiq|Ja'far al-Sadiq]], [[al-tabari|al-Tabari]], [[robert-of-ketton|Robert of Ketton]]; plurivocal vs. univocal reading (new 2026-06-09)
+- [[bell-watt-introduction-to-the-quran|Bell & Watt, *Introduction to the Qur'an*]] (Edinburgh, rev. 1970) — the standard Western **historical-critical** introduction; the collection under Abu Bakr (doubted) / Uthman, but a *moderate* verdict on authenticity; style, [[naskh|abrogation]], Bell's revision hypothesis; anchors the revisionist side of the [[qiraat-variant-readings|qira'at controversy]] (new 2026-06-09)
+- [[al-azami-history-of-the-quranic-text|Al-Azami, *The History of the Qur'anic Text*]] (UK Islamic Academy, 2003) — the **traditionalist counter-history** (deliberate Contradiction-Protocol pair to Bell & Watt); the "law of witness," Uthman as standardizer, the comparative Bible-corruption argument, and a Part III appraisal of Orientalist research; the traditionalist side of the [[qiraat-variant-readings|qira'at controversy]] (new 2026-06-09)
 - [[reitman-inside-scientology|Reitman, *Inside Scientology*]] (2011) — the anchor independent history of Scientology; investigative journalism (new 2026-06-09)
 - [[malko-the-now-religion|Malko, *Scientology: The Now Religion*]] (1970) — early period source, near the movement's origins (new 2026-06-09)
 - [[shelton-a-to-xenu|Shelton, *Scientology: A to Xenu*]] (2015) — ex-member insider's explanation of "the tech" (new 2026-06-09)
@@ -651,7 +688,11 @@ Master index of all pages. Updated on every ingest.
 
 ### Islamic (2026-06-09)
 - [[tafsir|Tafsir]] — Qur'anic exegesis; *bi'l-ma'thur* vs. *bi'l-ra'y*; *zahir/batin*; the Islamic hermeneutical-tracking framework
+- [[naskh|Naskh (Abrogation)]] — *an-nasikh wa-l-mansukh*; a later revelation supersedes an earlier (Q 2:106); the three types; legal + chronological mechanism; the critical "revision" reading (Bell & Watt) (new 2026-06-09)
 - [[tawhid|Tawhid]] — divine oneness; the cardinal doctrine; set against the Trinity and alongside the Shema
+- [[tanzih-tashbih|Tanzih and Tashbih]] — transcendence vs. likeness; the axis dividing the Islamic schools; radical *tanzih* ([[mutazilism|Mu'tazila]]) vs. the *tanzih*+*tashbih* synthesis ([[ibn-arabi|Ibn Arabi]], Noah bezel); the *bila kayfa* Sunni mean (new 2026-06-09)
+- [[wahdat-al-wujud|Wahdat al-wujud (the Unity of Being)]] — the cardinal Akbarian/Sufi doctrine; one Being (*al-Haqq*) self-disclosed in all things; pantheism vs. *wahdat al-shuhud* dispute (new 2026-06-09)
+- [[al-insan-al-kamil|Al-Insan al-Kamil (the Perfect Man)]] — the human as the all-comprehensive mirror of the divine Names, the *barzakh* and preserving principle of the cosmos (Ibn Arabi, Adam bezel); cf. Kabbalist Adam Qadmon (new 2026-06-09)
 
 ### Buddhist (2026-06-09)
 - [[four-noble-truths|The Four Noble Truths]] — suffering, its cause, its cessation, the Eightfold Path; the diagnostic core
@@ -742,6 +783,9 @@ Master index of all pages. Updated on every ingest.
 - [[pardes|PaRDeS (Fourfold Sense)]] — Peshat / Remez / Derash / Sod; the four levels of Jewish interpretation; Sod is Kabbalah's domain; parallels the Christian Quadriga and Islamic zahir/batin
 - [[fourfold-sense|Fourfold Sense (the Quadriga)]] — the Christian four senses: literal, allegorical, tropological (moral), anagogical; Cassian's "Jerusalem"; Aquinas's literal-sense priority; the parallel to PaRDeS (new 2026-06-09)
 - [[allegorical-reading|Allegorical Reading]] — the cross-tradition allegory family: Remez (Jewish), theōria/allegoria (Christian — Philo, Origen, Clement), ta'wil/bāṭin (Islamic); distinguished from typology; the recurring letter-vs-spirit controversy (new 2026-06-09)
+- [[literary-reading-of-the-bible|Literary Reading of the Bible]] — the modern literary-critical approach (Alter, Kermode, Fokkelman): the received text as designed whole; word-motifs, type-scenes, narrative gaps; synchronic counterweight to source/form/redaction criticism (new 2026-06-09)
+- [[deuteronomistic-history|Deuteronomistic History]] — Noth's hypothesis that Deuteronomy–2 Kings form one edited work; covenant retribution, cult centralization, prophecy-fulfillment, formulaic style; the Polzin–Alter dispute over its reach in Samuel (new 2026-06-09)
+- [[succession-narrative|Succession Narrative]] — Rost's hypothesized Court History of David (2 Sam 9–20 + 1 Kgs 1–2); "who will sit on David's throne?"; the consensus now challenged by the literary reading (new 2026-06-09)
 
 ### Jewish Mysticism (Kabbalah)
 *(New concept cluster, 2026-06-07, from the Zohar I ingest — first Jewish-mysticism source.)*
@@ -787,6 +831,16 @@ Master index of all pages. Updated on every ingest.
 - [[divine-glory-kabod|Divine Glory (*Kābôd*)]] — YHWH's manifest presence; tabernacle to Ezekiel's temple to Incarnation to new Jerusalem
 - [[apocalyptic-literature|Apocalyptic Literature]] — genre; symbolic imagery; numbers; Daniel to Revelation; "God is in control"; hermeneutic; Cohn's ancient roots
 - [[frashokereti|Frashokereti ("the Making Wonderful")]] — the Zoroastrian final renovation of the world (resurrection, judgment, savior); Cohn's keystone (new 2026-06-09)
+- [[ahura-mazda|Ahura Mazda ("the Wise Lord")]] — the one uncreated, wholly good Zoroastrian Creator; source of the Amesha Spentas; the dualism/monotheism question (Boyce) (new 2026-06-09)
+- [[angra-mainyu|Angra Mainyu (Ahriman)]] — the uncreated Hostile Spirit; the twin who chose evil (Yasna 30); contrasted with the *created* [[satan|Satan]] (new 2026-06-09)
+- [[asha-druj|Asha vs. Druj]] — Truth/Order vs. the Lie; the cosmic-and-moral polarity (Vedic *rta*); "good thoughts, words, deeds" (new 2026-06-09)
+- [[amesha-spentas|The Amesha Spentas]] — the six "Holy Immortals" forming a heptad with Ahura Mazda; hypostatized divine attributes; prototype cited for Abrahamic angelology (new 2026-06-09)
+- [[the-three-times|The Three Times (Creation, Mixture, Separation)]] — Zoroastrian linear, bounded cosmic history; *menog*/*getig*; the template behind apocalyptic periodization (new 2026-06-09)
+- [[chinvat-bridge|The Chinvat Bridge]] — the soul's individual post-mortem judgment by deeds; the Daena (conscience personified); cf. the Islamic *Sirat* (new 2026-06-09)
+- [[saoshyant|The Saoshyant]] — the coming Zoroastrian savior (later triplicated); raises the dead and inaugurates Frashokereti; messianism-influence anchor (new 2026-06-09)
+- [[fravashi|Fravashi]] — the guardian spirits / pre-existent souls; an absorbed Indo-Iranian hero/ancestor cult (new 2026-06-09)
+- [[xwarenah|Xwarenah (the divine glory / farr)]] — the radiant kingly fortune given by Ahura Mazda; won and lost (Yima); Achaemenid/Sasanian investiture; cf. *kabod* (Rose) (new 2026-06-09)
+- [[paradise|Paradise (*pairidaeza* → *paradeisos*)]] — the Iranian walled garden as image of *asha*-ordered abundance; etymon of "paradise" across the Abrahamic traditions (Rose) (new 2026-06-09)
 - [[book-of-the-twelve|Book of the Twelve (Minor Prophets)]] — 12 prophets as canonical unit; Day of Yahweh; recurring themes; Joel as anchor
 
 ### Historical-Critical Methods
@@ -904,7 +958,8 @@ a `sects/` page, cross-linked.)*
   - **Sects** ([[islam|↑]]):
     - [[sunni-islam|Sunni Islam]] — majority stream; *sunna* + *ijma*; the six hadith books incl. [[sahih-al-bukhari|Bukhari]] (new 2026-06-09)
     - [[shia-islam|Shia Islam]] — the Imamate; rejects the Sunni six books, holds its own Four Books (new 2026-06-09)
-    - [[sufism|Sufism]] — the mystical *batin* dimension within Sunni and Shia; analogue of Kabbalah (new 2026-06-09)
+    - [[sufism|Sufism]] — the mystical *batin* dimension within Sunni and Shia; analogue of Kabbalah; its summit is [[ibn-arabi|Ibn Arabi]]'s [[fusus-al-hikam|Fusus al-Hikam]] (new 2026-06-09)
+    - [[mutazilism|Mu'tazilism]] — the rationalist *kalam* school ("People of Justice and Unity"); the five principles, the created Qur'an, radical *tanzih*; exegetical monument [[al-zamakhshari|al-Zamakhshari]]'s *al-Kashshaf*; now absorbed into Zaydi/Twelver Shia kalam (new 2026-06-09)
 
 ### Buddhism
 - [[buddhism|Buddhism]] — tradition overview; the wiki's **first non-theistic tradition**; no single canon; Neyartha/Nitartha hermeneutics (new tradition 2026-06-09)
@@ -934,6 +989,7 @@ a `sects/` page, cross-linked.)*
 
 ### Zoroastrianism
 - [[zoroastrianism|Zoroastrianism]] — tradition overview; Ahura Mazda; cosmic moral dualism; the key influence-source for Abrahamic eschatology (new tradition 2026-06-09)
+- [[manichaeism|Manichaeism]] — tradition overview; the dualist universal religion of [[mani|Mani]] (Light vs. Darkness; Two Principles and Three Times; Elect and Hearers); founder's-own canon; North Africa to South China; the foil for Augustine's theodicy; classed as a developed Gnostic religion (new tradition 2026-06-09)
   - **Sects** ([[zoroastrianism|↑]]):
     - [[zurvanism|Zurvanism]] — heterodox; Zurvan (Time) as parent of both Ohrmazd and Ahriman (largely extinct) (new 2026-06-09)
 

@@ -5,8 +5,8 @@ tradition: Judaism / Christianity / Islam / cross-tradition
 textual_sources: [1 Samuel 16–31; 2 Samuel 1–24; 1 Kings 1–2; 1 Chronicles 11–29; Psalms (many attributed); Matthew 1:1, 6, 17; Luke 1:32; Acts 2:25–36; 13:22–23; Romans 1:3; Hebrews 11:32; and numerous prophetic references]
 dates: [traditional c. 1010–970 BCE; floruit as shepherd, warrior, king of Judah (Hebron 7 years), king of all Israel (Jerusalem 33 years)]
 roles: [shepherd, musician, warrior, anointed king, psalmist, sinner (Bathsheba/Uriah), repentant, covenant recipient, temple planner, father of Solomon]
-sources_ingested: 3
-last_updated: 2026-06-07
+sources_ingested: 4
+last_updated: 2026-06-09
 tags: [figure, judaism, christianity, islam, old-testament, david, kingship, messiah, covenant, psalmist]
 ---
 
@@ -58,14 +58,36 @@ David is the narrative and theological center of the Former Prophets. The moveme
 - **Succession**: Was there a "Succession Narrative"? How much is apologetic for Solomon?
 - **Messianic claims**: Jewish readings await a future Davidic king; Christian readings see fulfillment in Jesus (genealogy, titles, resurrection as enthronement per Acts 2/Ps 16).
 
+## Alter's Literary Reading
+
+[[robert-alter|Robert Alter]], in [[alter-the-david-story|*The David Story*]] (1999), reads
+the David narrative as "probably the greatest single narrative representation in antiquity of
+a human life evolving by slow stages through time," and David himself as **"the first
+full-length portrait of a Machiavellian prince in Western literature."** Two features anchor
+his reading. First, the narrative **systematically blocks access to David's inner world**
+while exposing [[saul|Saul's]]: until the story's midpoint nearly every word David speaks is
+public and arguably calculated for political advantage. The hinge is David's response to the
+death of his infant son by [[bathsheba|Bathsheba]] — "I am going to him. He will not come back
+to me" — the first utterance with "no conceivable political motive," a sudden window onto his
+inwardness. Second, David's decline is figured as a **loss of knowledge**: the once-perspicacious
+king becomes the isolated ruler who must send intermediaries to identify the woman bathing in
+view of his own palace, who is oblivious to [[amnon|Amnon's]] crime and [[absalom|Absalom's]]
+plots, and who ends as the "purblind," bedridden old man maneuvered by Bathsheba and
+[[nathan|Nathan]] over the succession. Alter treats the pious, Torah-laden portions of David's
+deathbed charge (1 Kings 2) as a [[deuteronomistic-history|Deuteronomistic]] overlay on an
+otherwise cold political testament — "nobody in the David story talks like this." This
+literary reading is recorded alongside the historical-critical and confessional readings per
+the Contradiction Protocol.
+
 ## Influence on Commentary Traditions
 
 Tsumura (NICOT 1–2 Samuel) stresses the literary unity (Hannah's Song to David's Song/Last Words), the reversal theme, providence in ordinary events, the Davidic covenant as theological center, and the MT as reliable. The figure dominates Jewish liturgy (Psalms), Christian hymnody and preaching (shepherd, king, penitent), and theology (covenant, messianism, the "heart" God seeks). The Bathsheba story and Ps 51 are central to doctrines of sin, repentance, and grace. The covenant (2 Sam 7) is foundational for kingdom theology and Christology. Modern scholarship (narrative criticism, social-scientific) explores honor-shame, kinship, and the complexity of David's character. David remains the most fully portrayed human figure in the OT and the bridge to the Messiah in both testaments.
 
 **Key Links**:
 - [[1-samuel|1 Samuel]] and [[2-samuel|2 Samuel]] (Tsumura on structure, covenant, reversal)
-- [[saul|Saul]], [[jonathan|Jonathan]], [[absalom|Absalom]], [[bathsheba|Bathsheba]], [[uriah|Uriah]], [[joab|Joab]], [[nathan|Nathan]]
+- [[saul|Saul]], [[jonathan|Jonathan]], [[absalom|Absalom]], [[bathsheba|Bathsheba]], [[uriah|Uriah]], [[joab|Joab]], [[nathan|Nathan]], [[abner|Abner]], [[amnon|Amnon]], [[michal|Michal]]
 - [[samuel|Samuel]] (anointer)
+- [[robert-alter|Robert Alter]] / [[alter-the-david-story|*The David Story*]] (literary reading)
 - [[solomon|Solomon]] (successor, temple builder)
 - [[davidic-covenant|Davidic Covenant]]
 - [[psalms|Psalms]]

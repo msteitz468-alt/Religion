@@ -5,8 +5,8 @@ tradition: cross-tradition
 textual_sources: [1 Kings, 2 Chronicles, Proverbs, Ecclesiastes, Song of Songs]
 dates: [c. 970 – 931 BCE]
 roles: [king, builder, wise man]
-sources_ingested: 2
-last_updated: 2026-06-06
+sources_ingested: 3
+last_updated: 2026-06-09
 tags: [figure, cross-tradition, king]
 ---
 
@@ -42,6 +42,21 @@ In the Deuteronomistic History (Provan), Solomon embodies the apex and the turni
 - **Foreign wives and idolatry**: Historical kernel or theological construct to explain the division? The text presents real sin with real (deferred) consequences.
 - **Chronicles vs Kings**: The more positive Chronicler portrait raises questions of selective retelling vs. historical reliability.
 
+**Alter's Literary Reading**
+
+[[robert-alter|Robert Alter]] ([[alter-the-david-story|*The David Story*]]) argues that the
+true conclusion of the Books of Samuel is [[1-2-kings|1 Kings]] 1–2 — the
+[[succession-narrative|succession]] of Solomon — which later redactors detached to preface
+the reign. On his reading Solomon's accession is secured by the coordinated maneuvering of
+[[bathsheba|Bathsheba]] and [[nathan|Nathan]] over a senile [[david|David]], the text leaving
+pointedly open whether David ever truly promised Solomon the throne. Alter's signature example
+of light [[deuteronomistic-history|Deuteronomistic]] editing is the **seam in 1 Kings 2**:
+David's high-minded, Torah-saturated charge to "keep what the LORD enjoins" is grafted onto an
+otherwise cold political testament instructing Solomon to kill [[joab|Joab]] and Shimei — the
+"wisdom" enjoined being "not the wisdom of the Torah of Moses but rather the wisdom of a
+Talleyrand," which Solomon promptly exercises. (Recorded alongside the confessional and
+historical-critical readings per the Contradiction Protocol.)
+
 **Influence on Commentary Traditions**
 
 Provan (NIBC) reads Solomon's reign as the hinge that reveals the book's didactic purpose: the story teaches that YHWH alone is God and that covenant fidelity is non-negotiable even for the wisest. The canonical excursus traces Solomon into the wisdom corpus and NT. Leithart (Brazos) highlights the typological depth (Joshua-sapiential, new creation temple, qahal ecclesiology) and the surprising transfer of the Davidic task. In Jewish tradition the Temple builder and wise judge dominate liturgy and midrash. Christian preaching uses the wisdom request, the temple prayer, and the fall as warnings and types. Islamic tradition celebrates the prophet-king who commands the unseen world and receives the submission of foreign queens. Modern scholarship debates the "Solomonic enlightenment" and the political apologetic function of the narrative. The figure remains central to discussions of wisdom, power, idolatry, and the limits of human achievement under the covenant.
@@ -50,6 +65,8 @@ Provan (NIBC) reads Solomon's reign as the hinge that reveals the book's didacti
 - [[1-2-kings|1 and 2 Kings]] (Provan on unified narrative, wisdom/apostasy arc, temple prayer as heart)
 - [[1-2-chronicles|1–2 Chronicles]] (Leithart on sapiential Joshua, new creation, qahal)
 - [[david|David]] (father, covenant recipient)
+- [[bathsheba|Bathsheba]] (mother, queen mother), [[nathan|Nathan]] (kingmaker)
+- [[robert-alter|Robert Alter]] / [[alter-the-david-story|*The David Story*]] (the succession, 1 Kings 1–2)
 - [[elijah|Elijah]] and [[elisha|Elisha]] (later prophetic contrast)
 - [[davidic-covenant|Davidic Covenant]]
 - [[temple|Temple]]

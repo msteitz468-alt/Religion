@@ -2,7 +2,7 @@
 title: Allegorical Reading
 domain: hermeneutics
 traditions_using: [Judaism, Christianity, Islam, Greco-Roman]
-sources_ingested: 0
+sources_ingested: 3
 last_updated: 2026-06-09
 tags: [concept, hermeneutics, allegory, interpretation, cross-tradition]
 ---
@@ -75,11 +75,16 @@ allegory becomes one regulated sense among four.
 ### Islamic — Ta'wil and the Batin
 The exoteric (*ẓāhir*) / esoteric (*bāṭin*) distinction underwrites *ta'wil*, the
 esoteric interpretation practiced in Sufism and especially in Shi'ism (where the Imams are
-the authoritative interpreters of the inner sense). The Sufi reading the inner meaning of
+the authoritative interpreters of the inner sense — foundationally the sixth Imam
+[[jafar-al-sadiq|Ja'far al-Sadiq]]). The Sufi reading the inner meaning of
 the Qur'an is the structural counterpart of the kabbalist reading [[pardes|Sod]]. See
 [[tafsir|Tafsir]] for the parallel exoteric, tradition-based commentary against which
 *ta'wil* is defined, and the *bi'l-ra'y* (reason-based) vs. *bi'l-ma'thur*
-(tradition-based) divide. Ibn Arabi is the towering figure of esoteric Qur'anic reading.
+(tradition-based) divide. [[ibn-arabi|Ibn Arabi]] (and the [[fusus-al-hikam|Fusus al-Hikam]]) is the
+towering figure of esoteric, mystical Qur'anic reading. A distinct but related use of *ta'wil* is the
+**rationalist** one: the [[mutazilism|Mu'tazila]] and [[al-zamakhshari|al-Zamakhshari]] read the
+anthropomorphic verses figuratively not to disclose a mystical *batin* but to protect God's
+incomparability ([[tanzih-tashbih|tanzih]]) — allegory in the service of reason rather than gnosis.
 
 ---
 
@@ -107,4 +112,5 @@ deeper sense (the Zohar's "beautiful maiden").
 - [[tafsir|Tafsir]] — Islamic commentary; *ta'wil* / *bāṭin* as the esoteric counterpart
 - [[midrash|Midrash]] — the homiletical (Derash) mode, adjacent to but distinct from allegory
 - [[origen|Origen]], [[clement-of-alexandria|Clement of Alexandria]], [[philo-of-alexandria|Philo]] — major practitioners
+- [[henri-de-lubac|Henri de Lubac]] / [[de-lubac-medieval-exegesis|Medieval Exegesis]] — the modern recovery of Christian spiritual exegesis against the Enlightenment "arbitrariness" charge
 - [[song-of-songs|Song of Songs]] — the text whose allegorical reading (the soul/Israel/Church and God) is paradigmatic across all three traditions

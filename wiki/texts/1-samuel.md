@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Hebrew
 date_range: Compositional layers from ca. 10th century BCE; final editing likely late 10th century BCE (Tsumura)
-sources_ingested: 2
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-06-09
 tags: [text, old-testament, former-prophets, samuel, monarchy, david, saul]
 ---
 
@@ -114,6 +114,22 @@ Tsumura's discourse grammar analysis (wayqtl for narrative mainline vs. weqtl fo
 - **Saul and David** as types: Tsumura: "In God's dealings with Saul and David, one might see God's 'justice' and his 'mercy,' respectively; both aspects will be fulfilled, according to the NT, in the person of Jesus Christ, who died on the cross"
 - **The Spirit of the LORD "rushing upon"** Saul (10:6, 10; 11:6) and David (16:13) — the *rûaḥ YHWH* as the empowerment of YHWH's anointed; the Spirit's departure from Saul (16:14) as YHWH's enacted rejection
 
+## The Literary Reading (Alter)
+
+[[robert-alter|Robert Alter]]'s [[alter-the-david-story|*The David Story*]] (1999) reads 1
+Samuel as the opening movement of a single, artfully unified narrative running to 1 Kings 2,
+against the form-critical division into independent sources (the Ark Narrative, a Saul cycle,
+a History of the Rise of David). Its method is the
+[[literary-reading-of-the-bible|literary reading of the Bible]]: close attention to
+word-motifs, the [[saul|Saul]]/[[david|David]] antithesis on the theme of **knowledge**, and
+the writer's use of **paired and tripled episodes** to mirror Saul's tragic ambivalence
+(three coronations; two "Saul among the prophets"; two sparings of Saul by David). Alter reads
+[[samuel|Samuel]] as a genuinely God-confirmed but "implacable, irascible" prophet whose story
+"enormously complicates" rather than promotes prophetic ideology. This synchronic literary
+approach is held alongside Tsumura's evangelical-canonical reading and the source- and
+redaction-critical tradition per the Contradiction Protocol.
+
 ## Sources Ingested
 
 1. [[david-tsumura|Tsumura, David Toshio]]. *The First Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2006.
+2. [[robert-alter|Alter, Robert]]. *[[alter-the-david-story|The David Story: A Translation with Commentary of 1 and 2 Samuel]]*. New York: W. W. Norton, 1999.

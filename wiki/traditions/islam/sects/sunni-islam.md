@@ -11,7 +11,7 @@ key_doctrinal_distinctives: [legitimacy of the first four Rightly-Guided Caliphs
 hermeneutical_method: [tafsir bi'l-mathur, the four sources of usul al-fiqh (Qur'an, sunna, ijma, qiyas)]
 key_figures: [Abu Bakr, al-Bukhari, al-Shafi'i, al-Tabari, al-Ghazali]
 key_texts: [quran, sahih-al-bukhari]
-sources_ingested: 0
+sources_ingested: 1
 last_updated: 2026-06-09
 tags: [sect, islam, sunni]
 ---
@@ -49,13 +49,19 @@ al-fiqh* with four roots (Qur'an, *sunna*, *ijma*, *qiyas*); Ash'ari/Maturidi th
 ## Hermeneutical Method
 
 Privileges *tafsir bi'l-ma'thur* (tradition-based exegesis — Qur'an by Qur'an, then hadith, then the
-Companions); see [[tafsir|Tafsir]].
+Companions); its classical exemplar is **[[al-tabari|al-Tabari]]**'s *Jami' al-bayan*, the Sunni
+exegetical backstop, which equates *ta'wil* with *tafsir* and keeps the "ambiguous verses" a narrow
+category — against the expansive Imami *ta'wil* of [[shia-islam|Shia Islam]]. See [[tafsir|Tafsir]].
 
 ## Relationship to Orthodoxy and Other Sects
 
 Regards itself as orthodoxy; the Sunni/Shia divide is the central intra-Islamic fault line, recorded
 without adjudication (Contradiction Protocol). Internal sub-currents (Salafi, traditional madhhab,
-Ash'ari/Maturidi) coexist.
+Ash'ari/Maturidi) coexist. Sunni theology was forged in reaction to the rationalist
+[[mutazilism|Mu'tazila]]: the **uncreated Qur'an** and the *bila kayfa* affirmation of the divine
+attributes (see [[tanzih-tashbih|tanzih / tashbih]]) are Ash'ari positions defined precisely against
+the Mu'tazilite created Qur'an and figurative *ta'wil* — even as Sunni *madrasas* kept reading
+[[al-zamakhshari|al-Zamakhshari]]'s Mu'tazilite *al-Kashshaf* in al-Baydawi's purged abridgment.
 
 ## Historical Development and Influence
 

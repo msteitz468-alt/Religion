@@ -2,12 +2,12 @@
 title: Adam
 also_known_as: [Adam ha-Rishon (the First Man), Adam Qadmon (the Primordial Human — distinct, see below), Adam (Greek: Adam), the first man]
 tradition: cross-tradition (Judaism, Christianity, Islam)
-textual_sources: [Genesis 1–5; 1 Chronicles 1:1; Hosea 6:7; Romans 5; 1 Corinthians 15; Qur'an (Adam); The Zohar]
+textual_sources: [Genesis 1–5; 1 Chronicles 1:1; Hosea 6:7; Romans 5; 1 Corinthians 15; Qur'an (Adam); The Zohar; Ibn Arabi, Fusus al-Hikam]
 dates: legendary / primordial
 roles: [first human, progenitor of humankind, first sinner, type/antitype, microcosm]
-sources_ingested: 1
-last_updated: 2026-06-07
-tags: [figure, cross-tradition, judaism, christianity, kabbalah, primordial]
+sources_ingested: 2
+last_updated: 2026-06-09
+tags: [figure, cross-tradition, judaism, christianity, islam, kabbalah, sufism, primordial]
 ---
 
 # Adam
@@ -43,6 +43,9 @@ Augustine systematized this into the doctrine of **original sin** — Adam's gui
 
 ### Islamic
 In the Qur'an, Adam (آدم) is the first prophet and God's vicegerent (*khalifa*) on earth (Q 2:30–39). God teaches Adam "the names of all things," demonstrating human superiority over the angels, whom God commands to prostrate before Adam — all do except Iblis (Satan). Adam and his wife are tempted by Iblis and eat from the tree, but in the Qur'anic account Adam **repents and is forgiven** (Q 2:37); there is no doctrine of inherited original sin, and the lapse occurs in the Garden before the descent to earth. Adam's dignity as prophet is preserved.
+
+### Islamic — Sufi / Akbarian (Ibn Arabi)
+For [[ibn-arabi|Ibn Arabi]], Adam is the **lead "bezel" of the [[fusus-al-hikam|Fusus al-Hikam]]** and the seed of its whole metaphysics. Reading the *khalifa* verse (Q 2:30) and the prostration of the angels esoterically, he makes Adam the **[[al-insan-al-kamil|Perfect Man]] (*al-insan al-kamil*)**: God willed to behold his own Names in a comprehensive object, and the cosmos was an unpolished mirror until Adam "polished" it — the single locus in whom *all* the divine Names are manifested together, the *barzakh* (isthmus) between the Real and creation, by whom the world is "guarded" and without whom it would dissolve. The angels' inability to grasp "the names" Adam knew (Q 2:31–33) becomes the superiority of the all-comprehensive human; Adam's vicegerency is realized supremely in the **Muhammadan Reality**. This is the Islamic-mystical counterpart of the Kabbalistic microcosm below — Adam as the conscious mirror in which the divine [[wahdat-al-wujud|unity of being]] becomes self-aware.
 
 ### Kabbalistic (the Zohar)
 The Zohar reads Adam at the **Sod** level as both microcosm and cosmic actor:
@@ -90,3 +93,4 @@ Adam grounds Pauline typology (the Adam–Christ structure of Romans and 1 Corin
 - [[paul-apostle|Paul]] — Adam–Christ typology
 - [[philo-of-alexandria|Philo of Alexandria]] — allegorical Adam
 - [[eve|Eve]] — formed from Adam; the woman of the Eden narrative
+- [[ibn-arabi|Ibn Arabi]] / [[fusus-al-hikam|Fusus al-Hikam]] — Adam as the [[al-insan-al-kamil|Perfect Man]]; compare the Kabbalist [[sefirot|Adam Qadmon]]

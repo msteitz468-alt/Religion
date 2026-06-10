@@ -5,8 +5,8 @@ tradition: Judaism / Christianity / cross-tradition
 textual_sources: [1 Samuel 1–28; 1 Chronicles 6:28; 9:22; 11:3; 26:28; 29:29; Acts 3:24; 13:20; Hebrews 11:32]
 dates: [floruit 11th century BCE (traditional); birth announced in days of Eli the priest]
 roles: [prophet, priest, judge, anointer of kings (Saul and David), intercessor, kingmaker, seer]
-sources_ingested: 2
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-06-09
 tags: [figure, judaism, christianity, old-testament, samuel, prophet, monarchy, judge]
 ---
 
@@ -58,11 +58,26 @@ Samuel embodies the principle that in Israel the king is subject to the prophet 
 
 ## Influence on Commentary Traditions
 
+**Alter's literary reading.** [[robert-alter|Robert Alter]]
+([[alter-the-david-story|*The David Story*]]) presents Samuel as "a densely imagined" and, "it
+must be said, in many respects a rather unattractive" character — a prophet genuinely
+confirmed by God who is nonetheless "implacable, irascible," proud, "histrionic," and "often
+palpably self-interested." His resistance to the monarchy mixes a noble ideal (the direct
+kingship of God over Israel) with resentment at his own loss of authority; he toys with
+founding a prophetic dynasty through his own corrupt sons. Citing Martin Buber, Alter raises
+whether Samuel, in demanding the [[amalekites|Amalekite]] *ḥerem* and hacking Agag to pieces,
+acted with "divinely authorized prophetic rightness" or "confused his own human impulses with
+God's will." Far from a simple promotion of prophetic ideology, the portrait "enormously
+complicates the notion of prophecy by concretely imagining what may become of the imperfect
+stuff of humanity when the mantle of prophecy is cast over it." This reading is held alongside
+the traditional and historical-critical accounts per the Contradiction Protocol.
+
 Tsumura (NICOT) emphasizes Samuel's role in subordinating kingship to the prophetic word, the reversal pattern, providence in the ordinary, and the defense of the MT against eclectic emendation. The figure is pivotal in all readings of the Deuteronomistic History and in Christian theology of prophecy and kingship (Christ as the true anointed one who obeys). The call narrative and "obedience better than sacrifice" are staples of preaching on hearing God's voice and prophetic ethics. The Endor story influences discussions of the afterlife, spiritualism, and divine sovereignty over the dead. In Jewish tradition Samuel is the model of the righteous judge and intercessor.
 
 **Key Links**:
 - [[1-samuel|1 Samuel]] and [[2-samuel|2 Samuel]] (Tsumura on structure, theology, MT)
 - [[saul|Saul]] and [[david|David]] (the kings he anoints)
+- [[robert-alter|Robert Alter]] / [[alter-the-david-story|*The David Story*]] (Samuel as irascible prophet)
 - [[hannah|Hannah]] (mother)
 - [[eli|Eli]] (mentor)
 - [[judges|Judges]] (successor era)

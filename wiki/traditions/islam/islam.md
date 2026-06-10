@@ -5,8 +5,8 @@ type: tradition
 date_range: 7th c. CE (revelation to Muhammad, 610–632) – present
 canon_core: [quran]
 hermeneutical_frameworks: [tafsir, zahir-batin, tafsir-bil-mathur, tafsir-bil-ray, tawil]
-major_sects: [sunni-islam, shia-islam, sufism]
-sources_ingested: 1
+major_sects: [sunni-islam, shia-islam, sufism, mutazilism]
+sources_ingested: 3
 last_updated: 2026-06-09
 tags: [tradition, islam]
 ---
@@ -44,7 +44,12 @@ Qur'anic interpretation is **[[tafsir|tafsir]]**, classically divided into *tafs
 (tradition-based: Qur'an by Qur'an, then hadith, then the Companions) and *tafsir bi'l-ra'y*
 (reasoned/opinion-based). A parallel esoteric axis runs from the *zahir* (outer/exoteric sense)
 to the *batin* (inner/esoteric sense), the latter developed especially in [[sufism|Sufi]] and
-Shia *ta'wil*. These map onto the CLAUDE.md hermeneutical-tracking categories for Islam.
+Shia *ta'wil*. These map onto the CLAUDE.md hermeneutical-tracking categories for Islam. The two
+poles are concretely instantiated by the wiki's exemplars: the rationalist
+[[al-zamakhshari|al-Zamakhshari]] (*[[tafsir|tafsir bi'l-ra'y]]*, [[mutazilism|Mu'tazilite]] *ta'wil*
+of the anthropomorphic verses) versus the mystic [[ibn-arabi|Ibn Arabi]] (the *batin* unveiled by
+disclosure) — who read the same God in opposite spirits along the [[tanzih-tashbih|tanzih/tashbih]]
+axis.
 
 ## Map of Major Sects / Sub-traditions
 
@@ -53,7 +58,13 @@ Shia *ta'wil*. These map onto the CLAUDE.md hermeneutical-tracking categories fo
 - [[shia-islam|Shia Islam]] — the partisans of *Ali* and the *Imamate*; authority via the
   divinely-guided Imams; its own hadith canon and jurisprudence.
 - [[sufism|Sufism]] — the mystical/ascetic dimension (*tasawwuf*) operating *within* both Sunni
-  and Shia Islam; the *batin*, the path (*tariqa*), and union with the divine.
+  and Shia Islam; the *batin*, the path (*tariqa*), and union with the divine. Its summit is
+  [[ibn-arabi|Ibn Arabi]]'s [[fusus-al-hikam|Fusus al-Hikam]] ([[wahdat-al-wujud|wahdat al-wujud]],
+  the [[al-insan-al-kamil|Perfect Man]]).
+- [[mutazilism|Mu'tazilism]] — the rationalist *kalam* school (the "People of Justice and Unity"); the
+  five principles, the created Qur'an, and radical [[tanzih-tashbih|tanzih]]. Now chiefly absorbed
+  into Zaydi and Twelver Shia theology; its exegetical monument is [[al-zamakhshari|al-Zamakhshari]]'s
+  *al-Kashshaf*.
 
 ## Key Cross-Tradition Controversies (with Judaism & Christianity)
 

@@ -2,7 +2,7 @@
 title: Tafsir (Qur'anic Exegesis)
 domain: hermeneutics
 traditions_using: [Islam]
-sources_ingested: 1
+sources_ingested: 4
 last_updated: 2026-06-09
 tags: [concept, islam, hermeneutics, tafsir]
 ---
@@ -18,18 +18,23 @@ Islamic counterpart to Jewish [[midrash|midrash]]/[[pardes|PaRDeS]] and Christia
 - **Tafsir bi'l-ma'thur** (tradition-based) — interpretation by transmitted authority, in a fixed
   order of precedence: the Qur'an explains itself; then the *sunna* (hadith) of the Prophet; then the
   reports of the Companions and Successors. The exemplar is the monumental *Jami al-bayan* of
-  **al-Tabari** (d. 923). The reference point for [[sunni-islam|Sunni]] exegesis.
+  **[[al-tabari|al-Tabari]]** (d. 923). The reference point for [[sunni-islam|Sunni]] exegesis.
 - **Tafsir bi'l-ra'y** (reason/opinion-based) — interpretation employing independent reasoning,
-  philology, theology, or philosophy. Legitimate when disciplined (al-Zamakhshari's *al-Kashshaf*;
-  al-Razi); condemned when it overrides transmitted meaning.
+  philology, theology, or philosophy. Legitimate when disciplined (the wiki's exemplar is
+  [[al-zamakhshari|al-Zamakhshari]]'s *al-Kashshaf*, the great [[mutazilism|Mu'tazilite]] commentary;
+  also al-Razi); condemned when it overrides transmitted meaning. Its signature move is the
+  [[allegorical-reading|ta'wil]] of the anthropomorphic verses demanded by radical
+  [[tanzih-tashbih|tanzih]].
 
 ## The Zahir / Batin Axis
 
 Cross-cutting the above is the distinction between the **zahir** (ظاهر, the outer/exoteric sense) and
 the **batin** (باطن, the inner/esoteric sense). **Ta'wil** — drawing out the inner sense — is
-developed especially in [[shia-islam|Shia]] interpretation (the Imams as authoritative interpreters)
-and in [[sufism|Sufi]] mysticism (every verse has inner depths). This is the structural parallel to
-[[kabbalah|Kabbalist]] *sod* and patristic allegory.
+developed especially in [[shia-islam|Shia]] interpretation (the Imams as authoritative interpreters —
+the foundational figure being the sixth Imam [[jafar-al-sadiq|Ja'far al-Sadiq]])
+and in [[sufism|Sufi]] mysticism (every verse has inner depths; [[ibn-arabi|Ibn Arabi]] is its
+towering figure). This is the structural parallel to [[kabbalah|Kabbalist]] *sod* and patristic
+allegory.
 
 ## Cross-Tradition Comparison (flagged)
 
@@ -40,5 +45,7 @@ The same esoteric move — text as a veil over hidden meaning — appears as Isl
 ## Cross-Links
 
 - [[quran|Qur'an]] — the object of tafsir
-- [[islam|Islam]], [[sunni-islam|Sunni]], [[shia-islam|Shia]], [[sufism|Sufism]]
+- [[islam|Islam]], [[sunni-islam|Sunni]], [[shia-islam|Shia]], [[sufism|Sufism]], [[mutazilism|Mu'tazilism]]
+- [[al-zamakhshari|al-Zamakhshari]] (*bi'l-ra'y* exemplar) / [[ibn-arabi|Ibn Arabi]] (*batin* exemplar);
+  [[allegorical-reading|ta'wil]], [[tanzih-tashbih|tanzih / tashbih]], [[tawhid|Tawhid]]
 - [[pardes|PaRDeS]], [[midrash|Midrash]], [[typology|Typology]] — comparanda in other traditions

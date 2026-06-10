@@ -1,8 +1,8 @@
 ---
 title: The Qira'at (Variant Qur'anic Readings)
 text_locus: the recited text of the Qur'an as a whole (rasm, vocalization, and the canonical readings)
-positions: [seven/ten canonical readings (traditional), single Uthmanic text with oral variants, revisionist text-critical]
-traditions_involved: [Sunni Islam, Shia Islam, modern historical-critical scholarship]
+positions: [seven/ten canonical readings (traditional), single Uthmanic text with oral variants, revisionist text-critical, traditionalist apologetic (Al-Azami)]
+traditions_involved: [Sunni Islam, Shia Islam, modern historical-critical scholarship, modern traditionalist apologetics]
 resolution_status: tradition-specific / open
 last_updated: 2026-06-09
 tags: [controversy, islam, quran, textual-criticism]
@@ -37,7 +37,17 @@ Nafi** reading common in North/West Africa.
 - **Revisionist / historical-critical** — points to early non-Uthmanic codices (the **Sanaa
   palimpsest**, with a scriptio inferior diverging from the standard text), the maturation of Arabic
   orthography, and the late systematization of the readings to argue for a more gradual canonization
-  than tradition allows. Recorded here without adjudication.
+  than tradition allows. The lineage runs from Nöldeke–Schwally's *Geschichte des Qorāns* through
+  Arthur Jeffery's work on the pre-Uthmanic codices to **[[bell-watt-introduction-to-the-quran|Bell &
+  Watt]]** (who treat the Abu Bakr "collection" as a back-projection but judge the Uthmanic text
+  *authentic* to Muhammad) and, at the radical end, John Wansbrough (a much later, gradual
+  canonization). Recorded here without adjudication.
+- **Traditionalist apologetic** — **[[al-azami-history-of-the-quranic-text|M. M. Al-Azami]]** answers
+  the critical lineage directly: the Qur'an was completely written and memorized in Muhammad's own
+  lifetime, the Uthmanic step was mere standardization of an already-fixed text, the variant-codex
+  reports are exaggerated or fabricated, and the orientalist method (Goldziher, Jeffery, Bell,
+  Wansbrough) is methodologically biased — contrasting the Qur'an's transmission favorably with the
+  textual history of the Bible. Recorded without adjudication (Contradiction Protocol).
 
 ## Comparative Note
 

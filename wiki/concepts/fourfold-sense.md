@@ -2,7 +2,7 @@
 title: Fourfold Sense (The Quadriga)
 domain: hermeneutics
 traditions_using: [Christianity (patristic and medieval)]
-sources_ingested: 0
+sources_ingested: 1
 last_updated: 2026-06-09
 tags: [concept, christianity, hermeneutics, medieval, interpretation, quadriga]
 ---
@@ -68,8 +68,28 @@ allegorical arbitrariness. Aquinas grounds the spiritual senses in the claim tha
 in Scripture, *the things signified by the words themselves signify further things* (because
 God authors history as well as the text).
 
-Henri de Lubac's *Exégèse médiévale* (1959–64) is the definitive modern study, recovering
-the fourfold sense as a coherent spiritual discipline rather than fanciful eisegesis.
+### De Lubac: the senses *are* the two Testaments
+[[henri-de-lubac|Henri de Lubac]]'s *Exégèse médiévale* (1959–64) is the definitive modern
+study (see [[de-lubac-medieval-exegesis|Medieval Exegesis]]). Its central thesis is that
+**the doctrine of the senses of Scripture and the doctrine of the relationship between the
+two Testaments are, in essence, one and the same thing**: the four senses are not four
+"compartments" stacked on a text but the articulation of the single divine economy — the
+letter of OT history, its fulfillment in Christ and Church (allegory), its appropriation in
+the soul (tropology), and its eschatological term (anagogy). De Lubac also corrects the
+record on two points the wiki had carried loosely:
+
+- **The distich's true author** is not Nicholas of Lyra (who transmitted it c. 1330) but the
+  Dominican **Augustine of Dacia** (d. 1282), in his *Rotulus pugillaris* (c. 1260), where
+  it condenses Aquinas's teaching.
+- **A real trichotomy/tetrachotomy duality** ran through the tradition *simultaneously*: a
+  threefold scheme (history / morality / mysticism) from [[origen|Origen]] and Jerome, and
+  the fourfold scheme from Cassian, Augustine, Bede, and Rabanus Maurus. Medieval catalogers
+  mapped the senses onto the four Latin doctors — Jerome (history), Ambrose (allegory),
+  Gregory (tropology), Augustine presiding.
+
+De Lubac recovers the fourfold sense as a coherent spiritual discipline rather than fanciful
+eisegesis, against Luther (who called the distich's verses "impious") and the Enlightenment
+charge that "anything a person wants can easily be extracted from Scripture."
 
 ---
 
@@ -96,4 +116,5 @@ letter-vs-spirit controversy across all the traditions.
 - [[pardes|PaRDeS]] — the Jewish fourfold parallel
 - [[typology|Typology]] — the historical prefigurative reading that overlaps the allegorical sense
 - [[origen|Origen]], [[clement-of-alexandria|Clement of Alexandria]], [[philo-of-alexandria|Philo]] — sources of the threefold sense
+- [[henri-de-lubac|Henri de Lubac]] / [[de-lubac-medieval-exegesis|Medieval Exegesis]] — the definitive modern study; "the senses are the two Testaments"
 - [[song-of-songs|Song of Songs]] — the text most thoroughly read through the spiritual senses
