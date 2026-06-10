@@ -60,4 +60,10 @@ Shares Mahayana's relationship to Theravada; internally organized into the major
 ## Historical Development and Influence
 
 Brought to Tibet from the 7th–8th c. (Padmasambhava, Santaraksita); systematized through the great
-lineages and the institution of reincarnate lamas (*tulkus*, e.g. the Dalai Lamas).
+lineages and the institution of reincarnate lamas (*tulkus*, e.g. the Dalai Lamas). Its ethical and
+contemplative core draws heavily on the inherited Mahayana classics: **[[shantideva|Śāntideva]]**'s
+[[bodhicaryavatara|Bodhicaryāvatāra]] is among the most studied of all texts in Tibetan monasticism,
+and its chapters on patience and on the [[exchange-of-self-and-other|exchange of self and other]] are
+the scriptural foundation of the **lojong** (mind-training) and **tonglen** traditions transmitted
+through Atiśa and the Kadampa. Its ninth chapter is a standard textbook for the Prāsaṅgika
+[[madhyamaka|Madhyamaka]] view championed by the Dalai Lamas.

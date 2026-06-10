@@ -6,7 +6,7 @@ date_range: 1950 (Dianetics) / 1953–54 (Church of Scientology) – present
 canon_core: [dianetics, science-of-survival, scientology-fundamentals-of-thought]
 hermeneutical_frameworks: [Source (Hubbard's exact words as scripture), "standard tech" / Keeping Scientology Working (verbatim application, no interpretation), graded confidential revelation (the Bridge)]
 major_sects: [church-of-scientology, free-zone-scientology]
-sources_ingested: 4
+sources_ingested: 6
 last_updated: 2026-06-09
 tags: [tradition, scientology, new-religious-movement, 20th-century]
 ---
@@ -75,5 +75,4 @@ introducing the [[eight-dynamics|Eight Dynamics]] and the [[arc-triangle|ARC tri
 - [[thetan|Thetan]], [[engram|Engram / the reactive mind]], [[auditing|Auditing]], [[tone-scale|Tone
   Scale]], [[arc-triangle|ARC Triangle]], [[eight-dynamics|Eight Dynamics]]
 - [[scientology-religion-or-commercial-enterprise|Religion or commercial enterprise?]]
-- Scholarship: [[reitman-inside-scientology|Reitman]], [[malko-the-now-religion|Malko]],
-  [[shelton-a-to-xenu|Shelton]]
+- Scholarship: [[urban-church-of-scientology|Urban (Princeton 2011)]], [[reitman-inside-scientology|Reitman]], [[wright-going-clear|Wright (2013)]], [[malko-the-now-religion|Malko]], [[shelton-a-to-xenu|Shelton]]

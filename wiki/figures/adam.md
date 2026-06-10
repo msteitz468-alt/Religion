@@ -5,7 +5,7 @@ tradition: cross-tradition (Judaism, Christianity, Islam)
 textual_sources: [Genesis 1–5; 1 Chronicles 1:1; Hosea 6:7; Romans 5; 1 Corinthians 15; Qur'an (Adam); The Zohar; Ibn Arabi, Fusus al-Hikam]
 dates: legendary / primordial
 roles: [first human, progenitor of humankind, first sinner, type/antitype, microcosm]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-09
 tags: [figure, cross-tradition, judaism, christianity, islam, kabbalah, sufism, primordial]
 ---
@@ -43,6 +43,18 @@ Augustine systematized this into the doctrine of **original sin** — Adam's gui
 
 ### Islamic
 In the Qur'an, Adam (آدم) is the first prophet and God's vicegerent (*khalifa*) on earth (Q 2:30–39). God teaches Adam "the names of all things," demonstrating human superiority over the angels, whom God commands to prostrate before Adam — all do except Iblis (Satan). Adam and his wife are tempted by Iblis and eat from the tree, but in the Qur'anic account Adam **repents and is forgiven** (Q 2:37); there is no doctrine of inherited original sin, and the lapse occurs in the Garden before the descent to earth. Adam's dignity as prophet is preserved.
+
+### Islamic — gender-egalitarian (Wadud)
+[[amina-wadud|Amina Wadud]] ([[wadud-quran-and-woman|*Qur'an and Woman*]]) presses the Qur'anic
+creation account against the rib-and-blame narrative inherited from Genesis and the *Isra'iliyyat*.
+The Qur'an creates humankind from a single *nafs* (self/soul) and its *zawj* (mate) — *min nafsin
+wahidatin* (Q 4:1) — with **no rib, no secondary or derivative creation of the woman, and no naming
+of "Eve" (*Hawwa*) anywhere**; Adam's wife is never blamed for the lapse (both are tempted, and in
+Q 20:115–121 it is *Adam* who "forgets"). On this reading woman is "primordially, cosmologically,
+eschatologically, spiritually, and morally a full human being," equally a *khalifa*; and the
+"phenomenon of pairs" (*zawj*) is itself a sign of [[tawhid|tawhid]] (all created things are paired,
+so the Creator alone is unpaired and One). This grounds the egalitarian case against
+male-hierarchical readings of [[quran-4-34-male-authority|Q 4:34]] / [[qiwama|qiwama]].
 
 ### Islamic — Sufi / Akbarian (Ibn Arabi)
 For [[ibn-arabi|Ibn Arabi]], Adam is the **lead "bezel" of the [[fusus-al-hikam|Fusus al-Hikam]]** and the seed of its whole metaphysics. Reading the *khalifa* verse (Q 2:30) and the prostration of the angels esoterically, he makes Adam the **[[al-insan-al-kamil|Perfect Man]] (*al-insan al-kamil*)**: God willed to behold his own Names in a comprehensive object, and the cosmos was an unpolished mirror until Adam "polished" it — the single locus in whom *all* the divine Names are manifested together, the *barzakh* (isthmus) between the Real and creation, by whom the world is "guarded" and without whom it would dissolve. The angels' inability to grasp "the names" Adam knew (Q 2:31–33) becomes the superiority of the all-comprehensive human; Adam's vicegerency is realized supremely in the **Muhammadan Reality**. This is the Islamic-mystical counterpart of the Kabbalistic microcosm below — Adam as the conscious mirror in which the divine [[wahdat-al-wujud|unity of being]] becomes self-aware.

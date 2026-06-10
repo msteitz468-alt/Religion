@@ -3,7 +3,7 @@ title: Confucianism
 also_known_as: [Ruism, Rujia ("the school of the scholars"), Kong jiao]
 type: tradition
 date_range: 6th–5th c. BCE (Confucius) – present
-canon_core: [analects, mencius]
+canon_core: [analects, mencius, yijing]
 hermeneutical_frameworks: [classical exegesis of the Five Classics & Four Books, Neo-Confucian li/qi metaphysics, commentarial canonization (Zhu Xi)]
 major_sects: [classical-confucianism, neo-confucianism]
 sources_ingested: 2

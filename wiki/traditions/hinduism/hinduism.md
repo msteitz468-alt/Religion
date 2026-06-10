@@ -4,9 +4,9 @@ also_known_as: [Sanatana Dharma ("the eternal way"), Vaidika Dharma, the Hindu t
 type: tradition
 date_range: Vedic period (c. 1500 BCE) – present
 canon_core: [upanishads, bhagavad-gita, brahma-sutras]
-hermeneutical_frameworks: [shruti-smriti, mimamsa, vedanta-bhashya (commentarial), prasthana-trayi]
-major_sects: [advaita-vedanta, vishishtadvaita-vedanta, dvaita-vedanta]
-sources_ingested: 5
+hermeneutical_frameworks: [shruti-smriti, mimamsa, vedanta-bhashya (commentarial), prasthana-trayi, saddarshana]
+major_sects: [advaita-vedanta, vishishtadvaita-vedanta, dvaita-vedanta, kashmir-shaivism]
+sources_ingested: 9
 last_updated: 2026-06-09
 tags: [tradition, hinduism]
 ---
@@ -19,6 +19,21 @@ the concepts of **dharma, karma, samsara, and moksha**, and a common ritual-phil
 It is the wiki's most internally diverse tradition — at once polytheistic, henotheistic, monistic, and
 (in some schools) effectively monotheistic. This page is the parent node for the Hindu sects under
 `traditions/hinduism/sects/`.
+
+## What Counts as Hinduism? (the definition problem)
+
+That "family of related traditions" framing is itself contested. [[wendy-doniger|Wendy Doniger]]
+(*[[doniger-the-hindus|The Hindus: An Alternative History]]*) argues there is **no single defining
+essence** at all: no founder, no governing institution, and **"no Hindu canon"** (the texts Euro-Americans
+prized, like the [[bhagavad-gita|Gita]], were not always central for all Hindus). She models the religion
+as a **"Zen diagram"** — a polythetic cluster of overlapping circles (belief in the Veda, *karma*,
+*dharma*, *bhakti*, *puja*, vegetarianism, etc.), each important to some Hindus but none shared by all,
+with **no central ring**. On this view Hindus are "**polydox**" and more **orthoprax than orthodox**
+(right practice matters more than right belief), and "Hindu" is partly an **outsider's geographic label**
+(from *sindhu*, the Indus) that only later became a self-designation. This anti-essentialist account is a
+deliberate counter to the tradition's own *Sanatana Dharma* self-understanding — and the flashpoint of the
+[[who-defines-hinduism|"who defines Hinduism?"]] controversy, where it meets the essentialist and
+Hindu-nationalist (*Hindutva*) objection.
 
 ## A Tiered, Shared Canon
 
@@ -59,8 +74,21 @@ the prasthana-trayi. The three great commentators — [[shankara|Shankara]], [[r
   world are the real body of a personal God (Vishnu/Narayana).
 - [[dvaita-vedanta|Dvaita Vedanta]] — **dualism** (Madhva): God and souls are eternally, really distinct.
 
-(The broad devotional *sampradayas* — Vaishnavism, Shaivism, Shaktism — and the other *darshanas*
-[Yoga, Samkhya, Nyaya] will be added as sources warrant; the [[yoga-sutras|Yoga Sutras]] are ingested.)
+Beyond Vedanta, the wiki also covers a non-Vedantic **tantric Śaiva** school:
+
+- [[kashmir-shaivism|Kashmir Shaivism]] (Trika / Pratyabhijñā) — **supreme non-duality** (Abhinavagupta):
+  all reality is the self-recognition of the one consciousness, **Śiva**; *not* a Vedanta school, though
+  it too produced a [[bhagavad-gita|Gita]] commentary ([[marjanovic-abhinavagupta-gita|Gītārtha-saṃgraha]]).
+
+These four schools are only a slice of the classical philosophical map: the **[[saddarshana|six orthodox
+darśanas]]** (Nyāya, Vaiśeṣika, Sāṃkhya, Yoga, Mīmāṃsā, Vedānta) plus the heterodox systems (Buddhism,
+Jainism, Cārvāka). Of the six, only Vedānta survives as a living mass tradition, which is why the wiki's
+coverage is Vedānta-centric; the other darśanas are flagged as gaps on the
+[[saddarshana|ṣaḍ-darśana]] page. (The broad devotional *sampradayas* — Vaishnavism, Shaivism, Shaktism —
+will be added as sources warrant; the [[yoga-sutras|Yoga Sutras]] are ingested.)
+
+The wiki's encyclopedic survey source for all of this is
+[[dasgupta-history-of-indian-philosophy|Dasgupta's *History of Indian Philosophy*]] (5 vols.).
 
 ## Key Cross-Links
 

@@ -11,7 +11,7 @@ canon_scope:
   rejected_by: []
 language_original: Pali
 date_range: oral from 5th c. BCE; committed to writing c. 1st c. BCE (Sri Lanka)
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-09
 tags: [text, buddhism, theravada, pali-canon, scripture]
 ---
@@ -37,9 +37,17 @@ The Tipitaka is `canonical_for: [theravada]` and treated as `authoritative_for` 
 
 Transmitted orally for some four centuries and written down in Sri Lanka (1st c. BCE), the canon is
 read in Theravada through the classical **[[buddhaghosa|commentaries of Buddhaghosa]]**. It is the
-documentary basis for the [[four-noble-truths|Four Noble Truths]], [[anatta|non-self]], and the path.
+documentary basis for the [[four-noble-truths|Four Noble Truths]], [[anatta|non-self]],
+[[noble-eightfold-path|the path]], [[karma|kamma]], [[samsara|rebirth]], and [[nirvana|nibbāna]].
+
+[[bhikkhu-bodhi|Bhikkhu Bodhi]]'s anthology reorganizes the *Sutta Piṭaka*'s scattered discourses
+into a graduated **thematic sequence** (the human condition → ethics and a fortunate rebirth →
+the path → the planes of realization), recovering the canon's implicit pedagogy of "gradual
+training" — see [[bodhi-in-the-buddhas-words|the scholarship page]].
 
 ## Sources Ingested
 
 1. Selected suttas and the [[dhammapada|Dhammapada]] (Buddharakkhita) via public-domain editions in
    `raw/texts/buddhism/`. (Full Nikaya selections from SuttaCentral pending.)
+2. [[bhikkhu-bodhi|Bhikkhu Bodhi]], *[[bodhi-in-the-buddhas-words|In the Buddha's Words]]* (Wisdom,
+   2005) — thematic Nikāya anthology with scholarly chapter introductions.

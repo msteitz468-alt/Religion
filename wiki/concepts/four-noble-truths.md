@@ -2,7 +2,7 @@
 title: The Four Noble Truths
 domain: doctrine
 traditions_using: [Buddhism]
-sources_ingested: 1
+sources_ingested: 4
 last_updated: 2026-06-09
 tags: [concept, buddhism, soteriology]
 ---
@@ -15,9 +15,18 @@ sermon and shared by every Buddhist school:
 1. **Dukkha** — life as ordinarily lived is *dukkha* (suffering, unsatisfactoriness, dis-ease).
 2. **Samudaya** — the origin of dukkha is **craving/clinging** (*tanha*), rooted in ignorance.
 3. **Nirodha** — dukkha can **cease**; the cessation is **nirvana**, the extinguishing of craving.
-4. **Magga** — the way to that cessation is the **Noble Eightfold Path** (right view, intention,
-   speech, action, livelihood, effort, mindfulness, concentration), summarized as ethics (*sila*),
-   meditation (*samadhi*), and wisdom (*panna*).
+4. **Magga** — the way to that cessation is the **[[noble-eightfold-path|Noble Eightfold Path]]**
+   (right view, intention, speech, action, livelihood, effort, mindfulness, concentration),
+   summarized as ethics (*sila*), meditation (*samadhi*), and wisdom (*panna*).
+
+[[bhikkhu-bodhi|Bodhi]] distinguishes the **mundane** right view embedded in the Truths (affirming
+[[karma|kamma]] and [[samsara|rebirth]], oriented to a fortunate destiny) from the **supramundane**
+right view that grasps the Truths as the path to [[nirvana|liberation]] beyond rebirth.
+
+**[[thich-nhat-hanh|Thich Nhat Hanh]]** cautions against two rote over-simplifications: "life is
+suffering" (the First Truth) is *too general* — [[dukkha|dukkha]] is to be understood, not
+universalized into despair; and "craving is the cause of suffering" (the Second) names only the
+*first* of many afflictions (*kleshas* — also anger, ignorance, arrogance, wrong views).
 
 ## Significance
 
@@ -36,5 +45,7 @@ with the Abrahamic soteriologies ([[justification|justification]], grace) and wi
 
 ## Cross-Links
 
-- [[buddhism|Buddhism]], [[gautama-buddha|The Buddha]], [[tipitaka|Pali Canon]]
-- [[anatta|Non-self]], [[sunyata|Emptiness]], [[bodhisattva|Bodhisattva]]
+- [[buddhism|Buddhism]], [[gautama-buddha|The Buddha]], [[tipitaka|Pali Canon]],
+  [[bhikkhu-bodhi|Bodhi anthology]]
+- [[noble-eightfold-path|Eightfold Path]], [[nirvana|Nirvana]], [[karma|Karma]],
+  [[samsara|Saṃsāra]], [[anatta|Non-self]], [[sunyata|Emptiness]], [[bodhisattva|Bodhisattva]]

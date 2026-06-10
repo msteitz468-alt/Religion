@@ -2,7 +2,7 @@
 title: Engram (and the Reactive Mind)
 domain: doctrine
 traditions_using: [Scientology]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-09
 tags: [concept, scientology, dianetics, mind]
 ---
@@ -35,6 +35,11 @@ Mainstream psychology rejects the engram model as unfounded (the term "engram" i
 memory theory but used idiosyncratically). The wiki's secondary sources treat it critically. Recorded
 without adjudication.
 
+## Urban's Context
+
+Urban (*The Church of Scientology*, Princeton 2011) notes that Hubbard's engram model was already implicit in his 1938 "Excalibur" manuscript, which posited "SURVIVE" as the fundamental command of life — anticipating the reactive mind's role as a survival-oriented, pre-rational store. The transition from the engram/Clear model (early Dianetics, 1950) to the thetan/OT model (1952 onward) was triggered by auditors reporting **past-lives memories** — experiences Dianetics had no theoretical framework to accommodate.
+
 ## Cross-Links
 
 - [[scientology|Scientology]], [[dianetics|Dianetics]], [[auditing|Auditing]], [[thetan|Thetan]]
+- [[urban-church-of-scientology|Urban]]

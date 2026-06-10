@@ -11,7 +11,7 @@ canon_scope:
   rejected_by: []
 language_original: Classical (Qur'anic) Arabic
 date_range: revealed 610–632 CE; canonical consonantal codex compiled under Caliph Uthman c. 650 CE
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-06-09
 tags: [text, islam, quran, scripture, arabic]
 ---
@@ -108,6 +108,12 @@ The text's afterlife runs through successive interpretive communities:
   African-American Islam (W. D. Mohammed), and militant absolutism (Lawrence reads bin Laden's
   univocal Qur'an as heir to the early Khawarij) — illustrating the standing tension between a
   **plurivocal** (historically reinterpreted) and a **univocal** (timeless, single-meaning) Qur'an.
+- **Gender-inclusive (feminist) tafsir**: the reformist current of [[fazlur-rahman|Fazlur Rahman]]'s
+  "double movement" and [[amina-wadud|Amina Wadud]]'s [[wadud-quran-and-woman|*Qur'an and Woman*]]
+  rereads the text holistically (a "[[tawhid|hermeneutics of tawhid]]") to argue that women's
+  inequality is an androcentric *reading* imposed on the Qur'an, not its teaching — the flashpoint
+  being [[quran-4-34-male-authority|Q 4:34]] ([[qiwama|qiwama]], *daraba*). See
+  [[islamic-feminism|Islamic feminism]].
 
 ## Sources Ingested
 
@@ -119,3 +125,5 @@ The text's afterlife runs through successive interpretive communities:
 4. Bell & Watt, *Introduction to the Qur'an* (rev. 1970) — the critical account of composition, text
    history, style, and [[naskh|abrogation]]; see [[bell-watt-introduction-to-the-quran|the
    scholarship page]].
+5. Amina Wadud, *Qur'an and Woman* (Oxford, 1999) — gender-inclusive holistic tafsir; the creation,
+   eschatology, and Q 4:34 rereadings; see [[wadud-quran-and-woman|the scholarship page]].

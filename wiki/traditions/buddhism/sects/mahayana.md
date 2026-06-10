@@ -9,9 +9,9 @@ relationship_to_orthodoxy: normative within itself (the largest body of Buddhist
 canon_distinctives: [heart-sutra, lotus-sutra]   # accepts the Mahayana sutras as buddhavacana atop the early canon
 key_doctrinal_distinctives: [the bodhisattva ideal, emptiness (sunyata), buddha-nature, upaya, the trikaya, many buddhas and bodhisattvas]
 hermeneutical_method: [neyartha-nitartha ranking, upaya (skillful means), the two truths]
-key_figures: [gautama-buddha, shantideva, Nagarjuna]
-key_texts: [heart-sutra, lotus-sutra]
-sources_ingested: 2
+key_figures: [gautama-buddha, nagarjuna, shantideva, thich-nhat-hanh]
+key_texts: [heart-sutra, lotus-sutra, mulamadhyamakakarika]
+sources_ingested: 5
 last_updated: 2026-06-09
 tags: [sect, buddhism, mahayana]
 ---
@@ -19,8 +19,8 @@ tags: [sect, buddhism, mahayana]
 # Mahayana
 
 > **Sect page.** The "Great Vehicle," the largest stream of [[buddhism|Buddhism]]. *(Ingested:
-> [[heart-sutra|Heart Sutra]], [[lotus-sutra|Lotus Sutra]], and [[shantideva|Shantideva]]'s
-> Bodhicaryavatara.)*
+> [[heart-sutra|Heart Sutra]], [[lotus-sutra|Lotus Sutra]], [[shantideva|Shantideva]]'s
+> Bodhicaryavatara, and [[thich-nhat-hanh|Thich Nhat Hanh]] on the [[zen|Zen]]/Engaged stream.)*
 
 ## Identity and Origins
 
@@ -44,25 +44,35 @@ the [[lotus-sutra|Lotus Sutra]], the Pure Land sutras, the Avatamsaka — held t
 
 ## Doctrinal Distinctives
 
-**[[sunyata|Emptiness]]** (*sunyata*) — all phenomena lack inherent existence (Nagarjuna's
-Madhyamaka); **buddha-nature** latent in all beings; the **trikaya** (three bodies of the Buddha); a
-cosmos of many buddhas and bodhisattvas; **upaya** (skillful means). The bodhisattva's **compassion**
+**[[sunyata|Emptiness]]** (*sunyata*) — all phenomena lack inherent existence, the doctrine given its
+philosophical defense by **[[nagarjuna|Nāgārjuna]]**'s [[madhyamaka|Madhyamaka]]
+([[mulamadhyamakakarika|MMK]]; the denial of [[svabhava|svabhāva]]); **[[buddha-nature|buddha-nature]]**
+(*tathāgatagarbha*) latent in all beings; the **trikaya** (three bodies, *kāya*, of the Buddha); a
+cosmos of many buddhas and celestial bodhisattvas (Maitreya the future Buddha, Avalokiteśvara of
+compassion, Mañjuśrī of wisdom, Tārā); **upaya** (skillful means). The bodhisattva's **compassion**
 (*karuna*) is co-equal with wisdom (*prajna*).
 
 ## Hermeneutical Method
 
 The **[[neyartha-nitartha|neyartha/nitartha]]** distinction is central and explicitly used to rank
-scriptures (the *Lotus* and Prajnaparamita as *nitartha*/definitive); the **two truths**
-(conventional vs. ultimate) and **upaya** govern how apparently conflicting teachings are reconciled.
+scriptures (the *Lotus* and Prajnaparamita as *nitartha*/definitive); the **[[two-truths|two
+truths]]** (conventional vs. ultimate) and **upaya** govern how apparently conflicting teachings are
+reconciled.
 
 ## Relationship to Orthodoxy and Other Sects
 
 Regards itself as the complete teaching; mutual canon non-recognition with Theravada. Internally
-diverse (Madhyamaka, Yogacara; Zen, Pure Land, Tiantai). [[vajrayana|Vajrayana]] builds upon it.
-Recorded without adjudication (Contradiction Protocol).
+diverse — the two great philosophical schools are **[[madhyamaka|Madhyamaka]]** (Nāgārjuna; emptiness)
+and **[[yogacara|Yogācāra]]** ("mind-only"; Asaṅga/Vasubandhu; the three natures as the antidote to a
+nihilist reading of emptiness), alongside the [[buddha-nature|Buddha-nature]] literature and the
+devotional/meditative streams ([[zen|Zen]], Pure Land, Tiantai). [[vajrayana|Vajrayana]] builds upon
+it. Recorded without adjudication (Contradiction Protocol).
 
 ## Historical Development and Influence
 
 From the early Prajnaparamita literature and Nagarjuna (2nd c.) and Asanga/Vasubandhu (4th c.) through
-its spread along the Silk Road into East Asia, generating Zen/Chan, Pure Land, Tiantai/Tendai, and
-Huayan.
+its spread along the Silk Road into East Asia, generating **[[zen|Zen/Chan]]**, Pure Land,
+Tiantai/Tendai, and Huayan. In the modern period the [[zen|Zen]] master
+**[[thich-nhat-hanh|Thich Nhat Hanh]]** developed the cross-sectarian movement of **Engaged
+Buddhism** — practice ([[mindfulness|mindfulness]], [[interbeing|interbeing]]) as inseparable from
+social and ecological action — and became a principal conduit of mindfulness into the West.

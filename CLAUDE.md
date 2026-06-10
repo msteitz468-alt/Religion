@@ -513,7 +513,78 @@ Origen vs. Philo vs. Ibn Arabi) are valuable — flag these for comparison page 
 
 ## Ingest Workflow
 
-When I provide a new source, follow this sequence:
+The governing principle is **fidelity within a declared scope** — not exhaustiveness. The
+point of an ingest is that everything the wiki attributes to a source was actually read in it;
+it is *not* that every source must be read cover to cover. These two ideas were once conflated
+(a full-read mandate), which made large reference works an open-ended burden. They are now
+separated: you read **what we scope**, and you read it honestly.
+
+**1. Scope the ingest first.** Before reading, fix the *scope* — how much of the source this
+ingest covers:
+- **Small, bounded sources** (a primary text or pericope, a single commentary, a paper, a
+  short monograph) → scope = **the whole thing**. It is small enough to simply read in full.
+- **Large reference / multi-volume / survey works** (encyclopedias, multi-volume histories,
+  big anthologies) → scope = a **named portion** I set or approve: a chapter, a topic, a
+  volume, a span of pages. Do not silently expand beyond it.
+
+**Scope it yourself, and progress autonomously.** Do **not** ask me to choose a scope each
+time. For a large multi-section work, *you* partition it: lay out a **scope plan** — an ordered
+sequence of coherent, bounded scopes that together cover the work (grouping sections
+thematically/chronologically into meaty units, not one tiny scope per heading) — record it on
+the source's scholarship page, and then **work through the scopes in order, one per pass,
+without pausing to ask which is next.** Checkpoint after each scope (ledger + index + log,
+verified) so I can read progress, redirect, or stop at any time; absent a redirection, continue
+to the next scope automatically. When the current work's plan is exhausted, move to the next
+unticked source on `outstanding sources.md` and scope *it* the same way. Keep every pass
+**lean** (principle 3). Surface a choice to me only when partitioning is genuinely ambiguous,
+when a scope proves too thin to stand alone (widen it), or when you hit something that needs my
+judgment (a sourcing gap, a faithfulness problem, a contested call) — not for routine "what
+next?" decisions.
+
+**2. Read the scope in full, in order — no TOC-triage.** Within the chosen scope, actually
+**read** the text sequentially; do not scan the table of contents, index, or a few searched
+passages and reconstruct from those. Search tools (grep, find, keyword lookup) may
+*supplement* the read — to locate a cross-reference, verify a term, or relocate a passage you
+already read — but must **never substitute** for it.
+
+**3. Read in large spans; file in lean batches.** Prioritize reading over filing. Read a
+substantial span (a chapter, or several) keeping **brief, verbatim-anchored notes** as you go
+(key claims with their line/page locus, so attribution stays checkable), then file the batch.
+Stop to file only when you need to — at a natural boundary, when unfiled notes have grown
+large enough that detail would be lost, when later material depends on a page earlier material
+warranted, or when a contradiction must be recorded while both sides are fresh. **File lean:**
+prefer extending a central page over creating a new one; create a page only when the subject
+genuinely warrants its own; de-link a tangential mention to plain text rather than spawning a
+stub. The notes must be taken *during* the read — this is not a licence to skim and
+reconstruct from memory.
+
+**4. Faithfulness — record only what the source says.** Attribute to a source only content you
+actually read in it. **Never present background knowledge, a standard textbook summary, a
+familiar technical term, or an inference as the source's own content.** When you add context
+from outside the source, mark it explicitly as outside the source (e.g. "not in X's account").
+If you are about to attribute a specific term, date, or claim to the source, confirm it is
+actually there (search the text) before doing so. This is the counterpart of the Contradiction
+Protocol's rule to distinguish textual claims from reconstruction.
+
+**5. Coverage ledger (required) — and a scoped ingest is *complete for its scope*.** On the
+source's `scholarship/` (or text/commentary) page, record exactly what was read — chapters,
+sections, or page/line ranges. A scoped read that covers its declared scope is **done, not a
+standing debt**: mark it "read in full (scope: Vol. I, Chs. I–V)" or similar, *not* "partial."
+Reserve "partial / in progress" for a scope you have not yet finished reading. Any portion
+inside the scope deliberately left unread (untranslatable apparatus, foreign-language
+sections, indices, repetitive matter) must be stated explicitly, with the reason. Widening the
+scope later (e.g. to another volume) is a **new scoped pass**, logged as such — not a debt
+carried by the old one.
+
+**OCR rule.** If a source arrives as a non-OCR (image-only) PDF, run OCR to produce a readable
+`.txt` or `.md` file before ingesting. Once the OCR output is verified as usable, **replace the
+original PDF in `raw/` with the OCR'd file** (same base name, new extension). The original PDF
+is no longer the canonical source file after replacement — delete or overwrite it. Record the
+fact of OCR conversion in the source's `scholarship/` page (e.g. "Source: `raw/foo.md` — OCR'd
+from `foo.pdf` on YYYY-MM-DD").
+
+When I provide a new source, follow this sequence (the principles above govern the whole
+sequence):
 
 1. **Identify** the source type (primary text, commentary, scholarship, or other) and,
    for any primary text, its **canonical status within the sect or tradition being
@@ -521,10 +592,13 @@ When I provide a new source, follow this sequence:
    canonical for the sect at hand but rejected by the parent, or vice versa). Answer this
    explicitly; do not leave it implicit. It drives the `canon_scope` field on the text
    page and the canon-divergence section of any sect page.
-2. **Discuss** with me: key takeaways, surprising claims, what this source adds or
-   challenges relative to the wiki's existing contents.
-3. **Write or update** the relevant pages:
-   - Write a source summary page in the appropriate `wiki/` subdirectory.
+2. **Read the scope through and discuss** with me: read the in-scope text sequentially (per
+   principles 2–4 above), and report key takeaways, surprising claims, and what it adds or
+   challenges relative to the wiki — grounded in the actual reading, not the TOC.
+3. **Write or update** the relevant pages (in lean batches per span read, per principle 3
+   above — extend before creating):
+   - Write a source summary page in the appropriate `wiki/` subdirectory, **including its
+     coverage ledger** (the span actually read).
    - Update the commentator page if the source is attributed to a known figure.
    - Update or create text pages for any primary texts prominently discussed.
    - Update or create **figure pages** for any named biblical or religious figures
@@ -560,9 +634,15 @@ When I provide a new source, follow this sequence:
      disputed question.
    - Update `overview.md` if the new source materially shifts the scope.
 4. **Update `index.md`** with the new/modified pages.
-5. **Append to `log.md`** with format: `## [YYYY-MM-DD] ingest | [Source Title]`
+5. **Append to `log.md`** with format: `## [YYYY-MM-DD] ingest | [Source Title]` — and state
+   the coverage: the declared **scope** and whether it was read in full or is still in
+   progress (e.g. "scope: Vol. I Chs. I–V — read in full" or "scope: Ch. VI — partial, read
+   pp. X–Y"), so the log is honest about what was read.
 
-A single commentary ingest may touch 10–20 pages. That is expected.
+A single commentary ingest may touch 10–20 pages; a focused scope of a larger work, fewer.
+Filing should be **lean** — only the pages a span genuinely changes, extending existing pages
+in preference to creating new ones. Widening to a larger scope of the same work is a later,
+separately-scoped pass, not an obligation incurred by the first.
 
 ---
 
@@ -619,6 +699,11 @@ When I ask for a wiki health check:
   `controversies/` page.
 - Identify claims that newer sources have superseded — flag for review, do not
   silently overwrite.
+- Identify **ledger gaps**: source pages that lack a coverage ledger entirely, or whose
+  ledger marks the *declared scope* as still "in progress / partial" (as opposed to a scope
+  read in full). A scope deliberately narrower than the whole work is **not** a defect — flag
+  only unfinished in-scope reads, missing ledgers, or a source ticked "done" on the
+  acquisition list whose ledger shows its declared scope was never actually finished.
 - Suggest 3–5 sources worth seeking (specific commentaries, scholarly works,
   primary texts) based on gaps in current coverage.
 - Suggest 3–5 questions worth investigating based on unresolved tensions.

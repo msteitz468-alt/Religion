@@ -2,7 +2,7 @@
 title: Tafsir (Qur'anic Exegesis)
 domain: hermeneutics
 traditions_using: [Islam]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-09
 tags: [concept, islam, hermeneutics, tafsir]
 ---
@@ -25,6 +25,19 @@ Islamic counterpart to Jewish [[midrash|midrash]]/[[pardes|PaRDeS]] and Christia
   also al-Razi); condemned when it overrides transmitted meaning. Its signature move is the
   [[allegorical-reading|ta'wil]] of the anthropomorphic verses demanded by radical
   [[tanzih-tashbih|tanzih]].
+
+## Atomistic vs. Holistic (Thematic) Tafsir
+
+A further modern axis cuts across both classical modes: the **atomistic** method — the standard
+classical and modern *tafasir* gloss the text one verse at a time from al-Fatiha to al-Nas, with
+little thematic linkage — versus a **holistic / thematic** reading that takes the whole Qur'an as a
+coherent unity governing its parts. The thematic turn is associated with
+[[fazlur-rahman|Fazlur Rahman]] (*Major Themes of the Qur'an*; the "double movement" from a verse's
+seventh-century particulars to its universal principle and back) and Amin Ahsan Islahi's *nazm*
+(coherence) school, and is radicalized by [[amina-wadud|Amina Wadud]]'s "**hermeneutics of
+[[tawhid|tawhid]]**" in [[wadud-quran-and-woman|*Qur'an and Woman*]] — the engine of
+[[islamic-feminism|gender-inclusive tafsir]]. The holistic reformists explicitly practise a
+principle-extracting *bi'l-ra'y* / *ijtihad* against the inherited consensus.
 
 ## The Zahir / Batin Axis
 

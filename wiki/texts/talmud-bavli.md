@@ -11,7 +11,7 @@ canon_scope:
 language_original: Aramaic / Mishnaic Hebrew
 date_range: c. 200–600 CE (Mishna c. 200 CE; Gemara sealed c. 500–600 CE)
 sources_ingested: 2
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 tags: [text, judaism, rabbinic, talmudic, sasanian]
 ---
 
@@ -105,12 +105,114 @@ Palestine. Symptoms of the Iranian milieu include:
   Middle Persian *Ardā Wirāz nāmag* (see
   [[zoroastrian-influence-on-abrahamic-eschatology|the influence page]]).
 
-## Key Commentators
+## Hermeneutical Methods
 
-- [[rashi|Rashi]] (1040–1105) — The indispensable primer for reading the text.
-- **The Tosafists** — Dialectical analysts who synthesized the entire Talmudic corpus.
-- [[maimonides|Maimonides]] (1135–1204) — Abstracted the Talmud into a systematic halakhic code (*Mishneh Torah*).
-- [[joseph-caro|Joseph Caro]] (1488–1575) — Compiled the *Shulchan Aruch*, the definitive code based heavily on Talmudic rulings.
+### Hillel's Seven Rules (Middot)
+
+The foundational hermeneutical toolkit for Halakhic derivation, attributed to [[hillel|Hillel the Elder]]:
+
+1. *Kal Vechomer* — a fortiori: what applies in a lighter case applies a fortiori in a heavier case
+2. *Gezera Shava* — analogy from identical expressions in two passages
+3. *Binyan Av Mikatuv Echad* — general rule derived from one verse
+4. *Binyan Av Mishneh Ketubim* — general rule derived from two verses
+5. *Klal U'Frat* — general principle → specific application (and vice versa)
+6. *Yotzeh Bo Bemekomo Acher* — clarification by parallel passage elsewhere
+7. *Davar HaLamed Meinyano* — inference from immediate context
+
+These are the *peshat* (plain meaning) and *derash* (expository/hidden meaning) modes operationalized. Later expanded to thirteen rules by Rabbi Ishmael.
+
+### The Two Midrash Schools
+
+Two rival schools of Midrashic interpretation (Ch. X):
+- **Rabbi Akiba's school**: methodological, derives law from every jot and tittle of Scripture; esoteric / remez orientation
+- **Rabbi Ishmael's school**: simpler, relies on plain meaning and analogy; closer to peshat
+
+## After the Close of the Talmud
+
+### The Saboraim (c. 540 CE)
+
+Post-Amoraic scholars who could not legislate new law but offered *sevaroth* (reasoned opinions
+and interpretations). Their primary contribution was sustaining Jewish spiritual life through
+Agada during the Persian persecutions. They finalized the Talmud's literary form before the
+Geonim era.
+
+### The Geonim (589–1038 CE)
+
+The Geonim (plural of *Gaon*, "eminence") were the heads of the great Babylonian yeshivas at
+Sura and Pumbaditha. The institution ran parallel to the **Exilarch** (*Resh Galutha*, descended
+from the Davidic line), who held administrative/political authority over diaspora Jewish
+communities under the Caliphate, while the Gaonim held religious/legal authority.
+
+Key Geonim (per [[unterman-talmud|Unterman]]):
+- **Saadia Gaon** (905–942): First systematic Jewish philosopher (*Emunoth ve-Deoth*); translated
+  Torah into Arabic; opposed the Karaites; fought the calendar dispute with Aaron ben Meir.
+- **Sherira Gaon**: First Jewish historian; wrote *Iggereth Sherira Gaon* tracing the chain of
+  tradition from Tannaim through Saboraim.
+- **Hai Gaon** (940–1038, the last great Gaon): Unique synthetic/deductive approach to Jewish law.
+  ~2,000 surviving Responsa. Willing to consult non-Jewish scholars on philological questions.
+  Called simply "The Gaon" for centuries. Died at 99 without heirs; with him the Babylonian
+  center effectively ended. "First systematic and scientific foundation for Jewish jurisprudence."
+
+The first major codex of Halacha: *Halachoth Gedoloth* by Simon de Cairo (c. 900 CE) — first
+comprehensive list of the 613 commandments.
+
+### Post-Geonim: Centers of Talmud Study
+
+After Hai Gaon's death the center of Jewish spiritual life transferred to North Africa, Spain,
+France, and Germany (Ch. XV):
+
+**North Africa (Kairawan)**: Chananel ben Hoshiel (early 11th c.) — brief flourishing under the
+Fatimites before new persecutions.
+
+**Spain (under the caliphs)**: Cordoba as a cultural center; Menachem ben Saruk (first Hebrew
+dictionary, *Machbereth*); the *Theoretical school* — Talmud as scholarly/philosophical enterprise.
+
+**France and Germany**: Rabbenu Gershom ben Judah (*Meor Hagolah*, "Light of the Diaspora",
+960–1040, Mayence) — founded the first great European yeshiva; decrees prohibiting polygamy,
+forced divorce, and opening others' mail; the *Practical school* — Talmud as daily legal
+handbook.
+
+## Key Commentators and Codifiers
+
+- **[[rashi|Rashi]]** (1040–1105) — The indispensable primer; "golden middle road" between
+  literal and symbolic; his daughters' husbands and grandchildren continued his work as the
+  **Tosafists**. Greatest Tosafist: Rabbenu Tam (Rabbi Jacob ben Meir, 1100–1171), author of
+  *Sepher Ha-Yasher*.
+- **Isaac Alfasi** (1013–1103) — *The Alfas*: first important surviving complete codification
+  of Talmudic law; exceeded even the Gaonim in authority.
+- **Maimonides / Rambam** (1135–1204) — *Mishna Torah* / *Yad-HaChazakah*: complete,
+  systematic codex arranged by subject without citations; criticized by Rabbi Abraham ben David
+  but ultimately strengthened Talmud study. *Mishna Torah* = "the Rambam."
+- **Jacob ben Asher** (1280–1340) — *Turim* ("Four Rows"): four-volume legal code (*Orach
+  Chaim*, *Yoreh Deah*, *Eben Haezer*, *Choshen Hamishpat*).
+- **[[joseph-caro|Joseph Caro]]** (1488–1575) — *Beth Joseph* (32-year commentary on the
+  *Turim*), condensed into *Shulchan Aruch* ("The Prepared Table"): the final, universal
+  codification, accepted throughout the Jewish world.
+
+## Judicial Principles Embedded in the Talmud
+
+Key legal principles recorded by [[unterman-talmud|Unterman]] (Ch. XVI):
+
+- **"An eye for an eye"** definitively interpreted as monetary compensation (not literal) by
+  the Pharisees at the time of Simon ben Shetah (Baba Kamma 83b; Mechilta Mishpatim V).
+- Capital punishment: theoretically preserved but practically near-abolished; requires two
+  direct witnesses, prior warning to the accused, unlimited defense, and post-sentence appeal.
+- **Humane laws of war**: no destruction of fruit trees; seek peace before attack; leave
+  one side of besieged city open; even necessary wars disqualified David from building the
+  Temple; offensive war requires Sanhedrin approval.
+
+## Persecutions of the Talmud (Historical)
+
+A continuous history of book-burnings and confiscations (Ch. XIX):
+- First enemy: Antiochus Epiphanes (2nd c. BCE)
+- 553 CE: Justinian prohibited traditional law interpretation
+- **1233 Paris**: First public burning (triggered by Maimonides controversy; initiated by apostate
+  Donin/Nicholas de Rupella; 12,000 books)
+- **1240 Paris trial**: Rabbi Jehiel ben Joseph defended the Talmud against Donin before King
+  Louis IX and Queen Blanche; verdict predetermined; Talmud burned 1242
+- Burnings continued through **1757** (Poland, last great burning, Bishop Dembowski)
+- Notable Christian defender: **Johannes Reuchlin** (1455–1522, humanist) — defended Hebrew
+  books in Oct. 1510 report; persecuted by Dominicans; supported by Luther, Erasmus, Melanchton
 
 ## Sources Ingested
 

@@ -3,10 +3,10 @@ title: Vedic Religion
 also_known_as: [the historical Vedic religion; Vedism; Brahmanism (later phase); ancient Indo-Aryan religion]
 type: tradition
 date_range: c. 1500–500 BCE (the Vedic period); the matrix of later Hinduism
-canon_core: [rig-veda]
+canon_core: [rig-veda, vedas]
 hermeneutical_frameworks: [the fire sacrifice (yajna), ritual exactitude, hymnic invocation, rita (cosmic order), the Brahmana ritual exegesis]
 major_sects: [rigvedic-religion, shrauta-brahmanism]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-09
 tags: [tradition, vedic-religion, indo-european, ancient, india]
 ---
@@ -50,6 +50,25 @@ heritage (compare [[dyaus|Dyaus Pitar]] = [[zeus|Zeus]] = Jupiter). The greatest
 **[[indra|Indra]]** (storm, the dragon-slayer), the fire-priest **[[agni|Agni]]**, and the cosmic sovereign
 **[[varuna|Varuna]]** — note that the gods who dominate the Rig Veda (Indra, Agni, Varuna) are *not* the great
 gods of later Hinduism (Vishnu, Shiva, Devi), a major shift the wiki tracks.
+
+## The Movement Toward the One (Dasgupta, Vol. I)
+
+[[dasgupta-history-of-indian-philosophy|Dasgupta]] (Ch. II) reads the Ṛgveda as caught between the many and
+the one. Its **[[henotheism|henotheism]]** — each god exalted as supreme in turn — is "neither polytheism
+nor monotheism but a simple primitive stage" tending toward both. Out of the impulse to magnify a single
+deity grew a **monotheistic tendency**: the abstraction of a supreme **Lord of beings**, [[prajapati|
+Prajāpati]], alongside Viśvakarman and the golden-egg Hiraṇyagarbha, and ultimately the supreme principle
+**[[brahman|Brahman]]** of the Śatapatha Brāhmaṇa. The great cosmogonic hymns — the **Nāsadīya** (X.129,
+"Then there was neither being nor not-being") and the **Puruṣa-sūkta** (X.90) — show "the first germs of
+philosophic speculation," even an agnostic boldness ("Who knows whether this world was ever created?").
+
+## Sacrifice as Mechanical Potency
+
+A defining Brāhmaṇic feature Dasgupta stresses: the **sacrifice produces its result of itself**, not by the
+gods' grace. Conceived as a "machinery in which every piece must tally," the rite's exact performance
+compels its effect (a mispronounced word can reverse the outcome), so the gods become mere instruments and
+the sacrifice a potency "superior even to the gods." Joined to **[[rita|ṛta]]** (cosmic order), this is the
+**first rudiment of the Law of [[karma|Karma]]**.
 
 ## Major Sects / Phases
 

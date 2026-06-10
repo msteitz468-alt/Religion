@@ -39,7 +39,7 @@ This grammatical difference has generated three main interpretations.
 
 The majority reading in Christian tradition: the anarthrous *theos* does not weaken the claim but is simply a feature of Greek grammar when a predicate noun precedes the verb — it does not become indefinite ("a god") merely by lacking the article. The Word shares in the full divine nature. "The Word was God" in the same sense that "God is love" (1 John 4:8) — "love" lacks the article but no one thinks it means "a kind of love."
 
-Supported by: the narrative logic of the Gospel (8:58 "Before Abraham was, I am"; 20:28 "My Lord and my God!"); the patristic tradition (Irenaeus, Athanasius, Nicaea); Colwell's Rule (E. C. Colwell, 1933: a definite predicate noun before the verb regularly lacks the article).
+Supported by: the narrative logic of the Gospel (8:58 "Before Abraham was, I am"; 20:28 "My Lord and my God!"); the patristic tradition (Irenaeus, Athanasius, Nicaea); Colwell's Rule (E. C. Colwell, 1933: a definite predicate noun before the verb regularly lacks the article). **William Barclay** described the NWT's "a god" rendering as "a deliberately distorted translation of truth" exhibiting "intellectual dishonesty"; Randolph O. Yeager called it the error of "sophomores in Greek grammar" — the article on *logos* marks it as subject, and *theos*'s emphatic predicate position demands "was God."
 
 ### 2. "The Word Was a God" — Indefinite (Jehovah's Witnesses)
 

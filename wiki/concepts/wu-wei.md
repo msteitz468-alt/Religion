@@ -2,8 +2,8 @@
 title: Wu-wei (Non-Action)
 domain: ethics
 traditions_using: [Daoism]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 2
+last_updated: 2026-06-10
 tags: [concept, daoism, ethics, practice]
 ---
 
@@ -20,6 +20,21 @@ that the sage ruler governs best by **not interfering**, letting things follow t
 (self-so nature). The [[zhuangzi|Zhuangzi]] illustrates it through **skill stories** — Cook Ding's blade
 glides through the ox along the natural openings, never dulling — where mastery looks like effortlessness
 because the agent has aligned with the pattern of the situation.
+
+## Merton's Clarification
+
+Thomas Merton (*The Way of Chuang Tzu*, 1965) provides the clearest modern exposition:
+
+> "The true character of wu wei is not mere inactivity but **perfect action** — because it is act
+> without activity. In other words, it is action not carried out independently of Heaven and earth
+> and in conflict with the dynamism of the whole, but **in perfect harmony with the whole**. It is
+> not mere passivity, but it is action that seems both effortless and spontaneous because performed
+> 'rightly,' in perfect accordance with our nature and with our place in the scheme of things. It is
+> completely free because there is in it no force and no violence."
+
+Merton adds that wu wei is disrupted by **objectification** — treating a goal as something outside
+oneself to be acquired by technique. The moment the archer shoots for a prize, he loses his skill.
+This is the structural critique of Confucian moral striving as well as of western activism.
 
 ## Cross-Tradition Note
 

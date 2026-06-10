@@ -11,7 +11,7 @@ key_doctrinal_distinctives: [atman = Brahman (identity), the world as maya, nirg
 hermeneutical_method: [reading the "great sayings" (mahavakyas) as literal identity statements; figurative reading of dualistic texts]
 key_figures: [shankara, Gaudapada]
 key_texts: [upanishads, bhagavad-gita, brahma-sutras]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-09
 tags: [sect, hinduism, vedanta, advaita]
 ---
@@ -61,7 +61,17 @@ The chief target of [[ramanuja|Ramanuja's]] [[vishishtadvaita-vedanta|Vishishtad
 [[madhva|Madhva's]] [[dvaita-vedanta|Dvaita]], who reject maya and defend a real, personal God and real
 selves. See [[brahman-atman-vedanta-schools|the controversy triad]]. Recorded without adjudication.
 
+## The Advaita Reading of the Gita
+
+Beyond the [[brahma-sutras|Brahma Sutras]], Advaita's reading of the **[[bhagavad-gita|Gita]]** (in
+[[shankara|Śaṅkara's]] [[gambhirananda-bhagavad-gita|*Gītā-bhāṣya*]]) is its second great commentarial
+front. There the school holds that **knowledge of the actionless Self alone liberates**, that
+[[karma-yoga|action]] only purifies the mind as preparation, and that the Gita's theism and call to
+action are *provisional* teaching — exactly the points its rivals deny (see
+[[jnana-karma-samuccaya|jñāna-karma-samuccaya]]).
+
 ## Historical Development and Influence
 
 From Shankara's monasteries (*mathas*) and his commentaries, Advaita became the prestige philosophy of
-classical Hinduism and the form most exported to the modern West (Vivekananda, neo-Vedanta).
+classical Hinduism and the form most exported to the modern West (Vivekananda, neo-Vedanta — the
+[[swami-gambhirananda|Ramakrishna Order]] being a principal modern transmitter of Śaṅkara's texts).

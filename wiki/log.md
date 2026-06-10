@@ -4,6 +4,154 @@ Append-only. Format: `## [YYYY-MM-DD] ingest | [Source Title]` or `## [YYYY-MM-D
 
 ---
 
+## 2026-06-10 ingest | Thibaut (trans.), *The Vedānta-Sūtras with the Commentary of Śaṅkara*, SBE 34 (1890)
+
+Source type: primary commentary (translation). Source file: `raw/commentaries/hinduism/shankara-brahma-sutras-en.txt` (5,760 lines). **Partial — file truncated**: file cuts off at Adhyāya I Pāda III sūtra 41; Adhyāya I Pāda IV and Adhyāya II are absent. Scope declared: Thibaut's Introduction (lines 108–~450) + Adhyāsa-bhāṣya (lines ~1260–1295) + Adhyāya I Pādas I–III through I.3.41 (lines ~1295–5760) — read in full within declared scope.
+
+**Key contributions**: (1) Adhyāsa-bhāṣya: verbatim definition of superimposition and the three competing definitions harmonized; the Self as non-absolute-non-object (object of the "I"-notion); examples: mother-of-pearl/silver, bodily/sense/mental attributes superimposed on Self; mutual superimposition = avidyā, structural presupposition of all knowing. (2) Four sādhana-catuṣṭaya prerequisites for Brahma-enquiry (I.1.1). (3) Brahman defined as omniscient cause of origin/subsistence/dissolution of the world (I.1.2). (4) Extended debate against Mīmāṃsā (I.1.4): mokṣa is kūṭastha-nitya (unchanging eternal), not an effected result; knowledge ≠ action; mahāvākyas express real identity; "he who knows Brahman becomes Brahman" — immediate, no intervening action. (5) Anti-Sāṃkhya pattern throughout Adhyāya I: every disputed Upanishadic term argued to refer to highest Brahman, not pradhāna. (6) Two-truths in exegetical action: "where there is duality one sees another" (nescience level) vs. "when the Self only is all this how should he see another?" (true knowledge level). (7) File identified as truncated; parallel ramanuja file (`raw/commentaries/hinduism/ramanuja-brahma-sutras-en.txt`) identified as duplicate of already-ingested SBE48 — skipped.
+
+**Pages updated (3)**: `scholarship/thibaut-vedanta-sutras.md` (SBE34 Shankara section expanded + SBE34 coverage ledger added; sources_ingested: 1→2), `commentators/shankara.md` (Adhyāsa-bhāṣya section + opening sūtra notes; sources_ingested: 2→3), `concepts/adhyasa.md` (verbatim definition, detailed examples, presupposition structure; sources_ingested: 1→2). No new pages created.
+
+---
+
+## 2026-06-10 ingest | Adler (trans./ed.), *The Original Meaning of the Yijing* (Columbia, 2020) — Zhu Xi, *Zhouyi benyi* (1188)
+
+Source type: scholarship/primary text (complete first Western translation of Zhu Xi's Yijing commentary). Scope: Introduction (lines 1–658, read in full) + representative hexagram sample: Hexagrams 1–3 (lines 659–~1100, read in full) + Xici zhuan / Treatise on the Appended Remarks Parts A–B (lines 6830–~7400, read in full) + Shuogua first three sections (lines 7640–7739, read in full). Notes, Bibliography, Index, and Hexagrams 4–64 declared out of scope (repetitive commentary format fully documented by sample).
+
+**Key contributions**: (1) Zhu Xi's hermeneutical key: "the Yi was originally created for divination" — against Wang Bi (yili only) and Cheng Yi (moralized text); synthesis of xiangshu (Shao Yong) and yili. (2) Bronze Age Zhouyi vs. Ten Wings: the original text was statecraft divination; the Ten Wings moralized it (junzi: 15 times in Zhouyi, 87 in Ten Wings). (3) Xici cosmology: taiji → Two Modes → Four Images → Eight Trigrams; "The alternation of yin and yang is called the Way"; *sheng sheng* (generation/regeneration = meaning of change). (4) Fu hexagram (24) as theological heart: "In Fu is seen the mind of Heaven and Earth" — cosmic incipience linking the natural and moral order. (5) Zhu Xi's *Zhouyi benyi* structure: Nine Diagrams + Hexagram commentary + Xici + Shuogua + Zagua + Shiyi; original arrangement (appendixes separate) vs. collated (Adler's choice).
+
+**Pages created (2)**: `texts/yijing.md`, `scholarship/adler-original-meaning-yijing.md`. **Pages updated (3)**: `commentators/zhu-xi.md` (Yi commentary hermeneutic + major works update), `traditions/confucianism/confucianism.md` (yijing added to canon_core), `index.md`. `outstanding sources.md` updated.
+
+---
+
+## 2026-06-10 ingest | de Lubac, *Medieval Exegesis: The Four Senses of Scripture*, Vols. 2 and 3
+
+Source type: scholarship (monograph). **Vol. 2**: Chs. 6–10, lines 140–1394 — read in full. **Vol. 3**: Chs. 1–6, lines 1–2191 (Notes and Index not within scope) — read in full.
+
+**Vol. 2 key contributions**: (1) Christian allegory not derived from pagan allegorism — Pauline warrant (Gal 4:24); allegoria *facti et dicti*, the historical events themselves are figures. (2) *Historia* as permanent foundation, not scaffolding; "first lay the foundation of history." (3) Content of allegory = always Christ and the Church, three dimensions: Future / Interior / Celestial. (4) Twofold tropology: simple moral + mystical (interiorization of the Mystery of Christ); *quotidie*. (5) Bernard of Clairvaux as "last of the Fathers." (6) Twofold anagogy: eschatological + contemplative; the three-advent structural key; Jerusalem as the paradigm symbol.
+
+**Vol. 3 key contributions**: (1) Refutation of the Spicq/Mandonnet/Smalley "precursors of literalism" thesis — Berno, Bruno of Segni, Rupert, Alcuin, Stephen Harding all shown to be thoroughgoing allegorists. (2) The "Non tuo sensui" principle was anti-heretical, not anti-allegorical; Christian allegory is the most objective reading. (3) Jerome was never invoked against Gregory — always paired. (4) Hugh of Saint Victor: conservative defender of the synthesis, not proto-literalist; his Ark descriptions mystical, not historical-critical; his emphasis on history defensive against Abelardian rationalism. (5) Victorine school: Andrew genuine exception; Godfrey, Absalon, Adam — traditional; Gautier anomalously narrow. (6) Joachim of Flora: the *concordia* = typic understanding (literal parallelism between OT history and Church history), not spiritual understanding; Three Ages (Father/Son/Spirit); the one genuine structural aberration; Thomas and Bonaventure directly opposed him; personally orthodox; de Lubac's closing: two equally deadly errors (Spirit outpacing Christ / Christ restraining Spirit).
+
+**Pages updated (2)**: `scholarship/de-lubac-medieval-exegesis.md` (Vols. 2–3 content + coverage ledger), `concepts/fourfold-sense.md` (substance of each sense; mystical tropology; anagogy; three-advent key). **Pages created (3)**: `commentators/hugh-of-saint-victor.md`, `commentators/richard-of-saint-victor.md`, `commentators/joachim-of-flora.md`. **Index updated**: de Lubac scholarship entry expanded; new Medieval Christian Tradition commentators section added.
+
+---
+
+## 2026-06-10 ingest | Merton, *The Way of Chuang Tzu* (New Directions, 1965)
+
+Source type: commentary / creative interpretation — NOT a translation (Merton explicitly disclaims translation). Scope: read in full — Note to Reader, full introductory essay ("A Study of Chuang Tzu," ~25 pages), all ~60 "readings" (Part 2), Glossary, Notes, Bibliography. Source: `raw/texts/daoism/The way of Chuang-Tzu - Zhuangzi.pdf`.
+
+Key contributions: (1) Clarification of *wu wei* as "perfect action" (not passivity) — act without activity, in harmony with the whole. (2) Zhuangzi's composite-text status confirmed (Inner Chapters = Zhuang Zhou's own; Outer/Misc. = disciples). (3) Critique of Confucianism: the problem is objectification of virtue, not insufficient virtue. (4) The Pivot of Tao: the still point through which Yes and No revolve. (5) *Xinzhai* (Fasting of the Heart): "hearing with the spirit... emptiness of all the faculties." (6) The Zhuangzi–Zen connection: Tang-period Chan Buddhists as true heirs. (7) Cross-traditional method: "monastic universality"; limited and careful Christian analogies (wu wei ↔ Paul on faith/works; Zhuangzi ↔ Ecclesiastes; Daoist via negativa ↔ John of the Cross).
+
+**Pages created (2)**: `scholarship/merton-way-of-chuang-tzu.md`, `commentators/thomas-merton.md`.
+
+**Pages updated (3)**: `texts/zhuangzi.md` (composite-text status, 10 key passages, Confucian critique, Zen connection; sources 1→2), `concepts/wu-wei.md` (Merton's definition, objectification critique; sources 1→2), `index.md` (Zhuangzi text entry, Daoist commentators section, Scholarship/Daoism section).
+
+---
+
+## 2026-06-10 ingest | Ziporyn, *Daodejing* (Liveright/Norton, 2022) + Wagner, *A Chinese Reading of the Daodejing* (SUNY, 2003)
+
+**Ziporyn** — scope: read in full — all 81 chapters, Introduction, Translator's Note, chapter-by-chapter Notes. Source: `raw/texts/daoism/Daodejing - Brook Ziporyn.txt`. Created `scholarship/ziporyn-daodejing.md`, `commentators/brook-ziporyn.md`; updated `texts/daodejing.md` (Ziporyn as new primary working text, composite-text thesis, A/B structure, key terms, manuscript history, chapter themes, political dimension).
+
+**Wagner** — scope A: Introduction + Chapter 3 (*Laozi weizhi lüeli*) — read in full. Chapter 4 (full critical text + extrapolative translation of Wang Bi's commentary on 81 chapters) out of scope — available for a future scoped pass. Source: `raw/commentaries/daoism/A Chinese Reading of the Daodejing. Wang B - Unknown.pdf`. Created `scholarship/wagner-wang-bi.md`; updated `commentators/wang-bi.md` (grounded with LZWZLL content: the featureless/nameless Dao, the *zhi*-pointer reading strategy, IPS, *ming*/*cheng*, political application, the 79-deviation Wang Bi Receptus problem). Updated `index.md` (Daoism scholarship section added; Wang Bi, Ziporyn entries updated). Updated `outstanding sources.md` (both ticked).
+
+---
+
+## 2026-06-10 ingest | Unterman, Isaac. *The Talmud: Its Origin and Development, Methods and Systems*. New York: Bloch, 1952/1965.
+
+Source type: traditional Jewish survey scholarship. **Coverage: read in full — all 20 chapters (Chs. I–XX) plus all appendices** (Tanaim list, Amoraim list, Geonim list, Commentators list, Exilarchs list, table of Talmud burnings, Masechtoth index, Money/Weights/Measures, General Bibliography). Source file: `/tmp/unterman_talmud.txt` (extracted from `raw/commentaries/judaism/` OCR PDF).
+
+Key content: Oral Torah theology; Pilpul; Mishna compilation (Judah ha-Nasi); Gemara (Rav/Abba Areca, Rav Ashi); Halacha methodology (Hillel's 7 hermeneutical rules; peshat vs. derash); Agada (6 categories; Midrash schools — Akiba vs. Ishmael); Pharisees/Sadducees/Essenes (socio-political class analysis); Zugoth; Simon ben Shetah; Beth Hillel vs. Beth Shamai (class dimensions, Prosbul); Sanhedrin due-process protections; Saboraim; Geonim (Saadia, Sherira, Hai Gaon); post-Geonim centers (Spain, France/Germany); Rashi + Tosefoth; Isaac Alfasi; Maimonides / Mishna Torah; Jacob ben Asher / Turim; Joseph Caro / Shulchan Aruch; judicial system; servitude/slavery in Talmudic law; attitude toward labor; persecutions (1233–1757); Talmudic concept of ethics (Judaism vs. Hellenism).
+
+**Pages created (3)**: `scholarship/unterman-talmud.md`, `groups/sadducees.md`, `groups/essenes.md`.
+
+**Pages updated (5)**: `texts/talmud-bavli.md` (Hillel's 7 rules, Geonim, post-Geonim centers, Rashi/Alfasi/Maimonides/Caro, judicial principles, persecution history), `groups/pharisees.md` (Unterman's internal Jewish portrait; Pharisee/Sadducee/Essene comparison with class analysis), `figures/hillel.md` (7 Middot, Prosbul, class dimension of Beit Hillel), `wiki/index.md`, `wiki/log.md`.
+
+## 2026-06-10 ingest | O'Cleary, D. S. *The Trinity vs. the Watchtower: Biblical Trinitarianism vs. the Teachings and Practice of Jehovah's Witnesses through the Watchtower Bible and Tract Society*. c. 2002–03.
+
+Source type: evangelical apologetics / theological essay. **Coverage: read in full — lines 0–1,157.** Introduction, Chapters 1–5, Bibliography, Footnotes. Footnotes are citation references only.
+
+Key contributions: (1) **Pyramidology** — Russell's *Studies in the Scriptures* Vol. 3 and *Watchtower* 1911 used the Great Pyramid at Giza as "the Bible in Stone"; Rutherford later repudiated it as Satanic. (2) **1935 closure of the 144,000** — official WTS doctrine declaring the anointed class closed in 1935; produced two-class soteriology (heavenly anointed vs. earthly "great crowd"). (3) **Douglas Walsh trial (1954)** — WTS Secretary-Treasurer Grant Suiter admitted under oath that JWs cannot understand Scripture without WTS publications. (4) William Barclay on John 1:1 NWT: "deliberate distortion" and "intellectual dishonesty" (supplements existing controversy page).
+
+Pages created (1): scholarship/trinity-vs-watchtower.
+
+Pages updated (3): traditions/christianity/sects/jehovahs-witnesses (pyramidology, 1935 closure, Walsh trial, hermeneutical method note; sources 3→4), controversies/word-was-god-1-1 (Barclay and Yeager quotes added), index.md (O'Cleary scholarship entry). Total: 1 new + 3 updated.
+
+---
+
+## 2026-06-10 ingest | Schnell, William J. *30 Years a Watchtower Slave: The Confessions of a Converted Jehovah's Witness*. Baker Books, 1956/1971.
+
+Source type: memoir / exposé (hostile former insider). **Coverage: read in full — lines 1–1,634.** Foreword and Chapters 1–18 ("When They Come to Your Door"). No appendices present in this edition.
+
+Key contributions: (1) **Three-tier WTS structure** — Russell's individual leadership (1879–1916), Rutherford's dictatorship (1919–1942), and the Consortium/Board of Directors (1942–present); the New York incorporation as self-perpetuating American control structure. (2) **Organizational construction timeline** — full table of WTS books (1922–1941) with year and organizational purpose; the Cedar Point "Advertise" pivot (1922); "Birth of a Nation" class system (1925); "Covenant or Sacrifice" Kingdom Publisher model (1925). (3) **Seven-step indoctrination program** — documented in detail as something Schnell helped create: book placement, back call, home book study, area book study, Kingdom Hall/Watchtower Study, service meeting, baptism. (4) **Germany as organizational blueprint** — Magdeburg Bethel (1924–1927) as the proving ground for all subsequent American methods; "Kadaver gehorsam," spy/dossier systems, Service Directors displacing Elders. (5) **Martyrdom strategy** — deliberate engineering of arrests in New Jersey for publicity; freedom-of-religion framing used instead of freedom-of-press to generate sympathy; *Lovell v. Griffin* (1938) and *Martin v. Struthers* SCOTUS cases. (6) **Doctrinal analysis** — "Spiritual Israelites" doctrine (1930); Gibeonite typology for Jonadabs; Matthew 24:45–52 double-standard; 6.5% Scripture content in WTS books. (7) **Personal narrative** — Schnell's vow (April 1952), 30-year arc from Magdeburg Bethel to quiet departure from a Kingdom Hall (1953), then public exposé.
+
+Pages created (1): scholarship/30-years-watchtower-slave.
+
+Pages updated (2): traditions/christianity/sects/jehovahs-witnesses (full Historical Development section added; sources 1→3), index.md (Schnell scholarship entry in World Religions section). Total: 1 new + 2 updated.
+
+---
+
+## 2026-06-10 ingest | Headley, Marc. *Blown for Good: Behind the Iron Curtain of Scientology*. BFG Books, 2009.
+
+Source type: first-person memoir / ex-member testimony. **Coverage: read in full — lines 1–5,867 (entire text including glossary).** Two sessions: lines 1–2,097 (prior session), lines 2,097–5,867 (current session).
+
+Key contributions: (1) **Gold Base physical plant** — building-by-building account: Cine Castle, A/V Manufacturing, Building 50 ($70M, ~2003, three deaths including Stacey [electrocution]), Bonnie View seasonal furnishings, Studio One, Eagle lookout, aeration pond, highway tunnel (flooding problems); the "shore story" (Golden Era Productions cover) confirmed. (2) **Sea Org labor mechanics** — Team Share Card system (five cards: Social/Bonus/Allowance/Chow/Berthing; zero cards = no pay/food/housing); 100+ hour workweeks; 15-minute meal breaks; no holidays; New Year's "Beer and Cheese party" (Ritz crackers + orange soda); 7-drill system including Blow Drill procedures detailed. (3) **Miscavige personal observations** — punched Headley in A/V Manufacturing; musical chairs incident (~2004, ~70 people, Queen's Greatest Hits / Bohemian Rhapsody, reassigned to continents, cancelled next morning); pool overboarding New Year's 2000; secret nighttime office searches; silk pajamas/sheepskin slippers; Macallan Scotch; $70M Building 50. (4) **Tom Cruise** — Freewinds birthday party 2004 ("best birthday ever"); Freedom Medal of Valor October 2004; RTC-organized actress girlfriend search (100+ auditions via Greg Wilhere); plan to fund Scientology from Cruise's film profits. (5) **Golden Age of Tech** (1995) — born from "A Talk on a Basic Qual" tape; piloted at Flag; drove Flag weekly income sharply higher; RTC enforced compliance. (6) **Super Power** — 57 perceptics; devices (Orbitron, Zero Gravity Rig, smell vials, balance platform) CST-commissioned; Headley piloted it 1991–92 at Gold Base; Feshbach family $4M donation; $100M+ raised; building not open as of 2009. (7) **Lisa McPherson** — under Miscavige's personal supervision at Flag 1995; died December 1995; rooms cleaned out; RTC supervisors reassigned to dishwashing. (8) **Annie Broeker/Tidman** — CO CMO Gold; confined at Happy Valley / "Old Gilman's"; never allowed to leave base. (9) **Claire Headley** (née Edwards, Neil Gaiman's sister) — married Marc in Las Vegas 1992 (California psych eval for under-18 avoided); escaped via Greyhound, intercepted in Las Vegas by Greg Wilhere, refused return; coerced abortions testified to in civil suit. (10) **Hubbard "Advices"** — unsigned management directives for legal deniability; boots-in-stove Apollo story. (11) **Marc's escape** — January 5, 2005; motorcycle; run off road by Security SUV; Riverside County Sheriffs declined to return him; U-Haul to Kansas City; both Headleys declared SP; no contact with Sea Org family for 4+ years as of 2009 printing.
+
+Pages created (6): scholarship/headley-blown-for-good, figures/annie-broeker, figures/lisa-mcpherson, figures/claire-headley, concepts/golden-age-of-tech, concepts/super-power.
+
+Pages updated (6): locations/gold-base (major expansion — building-by-building, highway tunnel, Blow Drill detail, aeration pond, Stacey electrocution, shore story; sources 3→4), figures/david-miscavige (Headley account section — musical chairs detail, New Year's overboarding, nighttime searches, Building 50, Cruise management, lifestyle; sources 4→5), groups/sea-org (Headley account — Team Share Cards, work hours, 7-drill/Blow Drill, aeration pond punishment, deaths, coerced abortions; sources 4→5), figures/l-ron-hubbard (Headley account — Advices unsigned for legal deniability, boots-in-stove story, Bonnie View seasonal maintenance; sources 9→10), index.md (3 new figures, 1 new scholarship, 2 new concepts; Gold Base Scientology entry updated). Total: 6 new + 6 updated.
+
+---
+
+## 2026-06-10 ingest | Atack, Jon. *A Piece of Blue Sky: Scientology, Dianetics, and L. Ron Hubbard Exposed*. Lyle Stuart / Carol Publishing Group, 1990.
+
+Source type: investigative journalism / NRM criticism / memoir (7 years inside Scientology, OT5; 6 years research). **Coverage: read in full — lines 1–5,757.** Parts 1–9, Epilogue, Bibliography, Abbreviations. Read across three sessions: (1) lines 0–2,694; (2) lines 2,694–5,085; (3) lines 5,085–5,757.
+
+Key contributions: (1) **Guardian's Office / Snow White** — Atack argues Hubbard personally authored Guardian Order 732 (April 1973), the Snow White mandate; primary source: Armstrong case transcripts (28 vols, ~10,000 pages). (2) **Financial structures** — OTC Panama (January 1, 1968; 98/100 shares Hubbard); Religious Research Foundation Liberia (August 1973); "Governing Policy" (March 1972: MAKE MONEY); ASI $85M Christmas target (1982); CST assets $500M+; 350-ft nuclear-proof tunnel in New Mexico mesa. (3) **Hubbard psychology** — Frank Gerbode: "manic with paranoid tendencies"; Cleckley psychopath checklist applied; Bolitho's *Twelve Against the Gods* as Hubbard's self-model; 1938 letter to Polly naming Napoleon/Genghis Khan/Alexander as ambition benchmarks; letters to wives confirm drug use during OT3 research (North Africa 1966). (4) **Sea Org conditions** — chain-locker punishments (children 3–5 years old; 30 nights); overboarding at Corfu (1968) filmed by Hubbard; Susan Meister's death (Apollo, 1971, no coroner); RPF introduced 1973 (motorcycle accident recovery); Happy Valley detention (1982, executives run around poles 5 hrs/day in desert heat); Vicki Aznaran's escape (April 9, 1987, Sobova Indian Reservation). (5) **Miscavige's rise** — confronted Mary Sue May 1981; dismantled GO by August 1981; Chairman ASI; RTC incorporated January 1, 1982 (Mayo claims terms altered post-signature); Broeker/Miscavige schism February 1987 over "upper level Holy Scriptures." (6) **Armstrong case** — Judge Breckenridge ruling June 22, 1984: Hubbard "schizophrenic and paranoid," "pathological liar"; Church "corrupt"; settled $800,000 December 1986. (7) **Latey ruling** — Justice Latey, High Court London, July 23, 1984: Scientology "corrupt, sinister, and dangerous." (8) **"Acceptable truth"** — Hubbard PR doctrine documented in *Management Series 1970–1974*, p. 116; the ideological foundation for GO plausible deniability and front-group structure. (9) **OT materials / Revolt in the Stars** — screenplay reveals Xenu, Chi, Chu, Rawl (Hubbard self-insert); Hubbard identified by inner circle as Rawl, the Buddha, and Cecil Rhodes across multiple lifetimes.
+
+Pages created (9): scholarship/atack-a-piece-of-blue-sky, figures/mary-sue-hubbard, figures/david-mayo, figures/gerry-armstrong, concepts/security-checking, concepts/rehabilitation-project-force, concepts/acceptable-truth, controversies/armstrong-case, controversies/latey-ruling.
+
+Pages updated (5): figures/l-ron-hubbard (Atack section added — OTC/RRF/CST financials, Snow White authorship, psychology, RPF origin, death details; sources 8→9), groups/sea-org (Atack section — chain lockers, overboarding, Susan Meister, CMO child labor, Happy Valley, Aznaran escape; sources 3→4), figures/david-miscavige (Atack section — physical description, ASI, confrontation of Mary Sue, RTC dispute, $85M target; sources 3→4), concepts/fair-game (Atack section — "Penalties for Lower Conditions" Oct 1967 formal record; Breckenridge/Latey confirmation; sources 1→2), index.md (Atack scholarship, 3 new figures, 3 new concepts, 2 new controversies). Total: 9 new + 5 updated.
+
+---
+
+## 2026-06-09 ingest | Urban, Hugh B. *The Church of Scientology: A History of a New Religion*. Princeton University Press, 2011.
+
+Source type: scholarship (history of religions / NRM studies). **Coverage: read in full — lines 1–14,804.** Introduction, Chapters 1–6, Conclusion, Appendix (chronological timeline), Notes, Bibliography, Index.
+
+Central argument: Scientology's contested journey to recognition as a "religion" in American law, culture, and politics is itself a case study in how the category *religion* has been historically defined and renegotiated. Urban deploys Bruce Lincoln's definition of religion as "discourse claiming transcendent authority," Talal Asad's genealogies of religion, Jonathan Z. Smith on 50+ competing definitions, and a "hermeneutics of respect + suspicion" double method.
+
+Key contributions: (1) **Hubbard biography, fully documented**: fabricated credentials (failed nuclear physics at GWU; Sequoia University PhD); war record; Armstrong case / Judge Breckenridge (1984); pulp fiction → "Excalibur" → Dianetics → the "religion angle." (2) **The Parsons/Crowley connection** (1946): Babalon Working; Crowley's "confidence trickster" assessment; Hubbard's alleged flight with Parsons's girlfriend and $20,970.80; the Church's "military mission" counter-claim. (3) **The April 10, 1953 O'Brien letter** as the smoking gun for the "religion angle" as deliberate legal/financial strategy. (4) **Space opera cosmology**: thetan, MEST, OT III/Xenu narrative documented via court records. (5) **Guardian's Office** operations: Snow White, Freakout vs. Paulette Cooper, IRS war (2,700 simultaneous lawsuits; 1993 settlement; $12.5M; Miscavige "The war is over!"). (6) **RPF** and corporate structure as evidence in the brainwashing/cult debate. (7) **CIA psychic research connection**: Puthoff (OT VII), Swann (OT IV), SRI remote viewing program funded through 1995. (8) **CAN takeover**: driven to bankruptcy, bought for $20,000 by Scientologist Stephen Hayes. (9) **Cyberspace wars**: FACTNet, Fishman affidavit, Netherlands Supreme Court (2005), Google/Xenu.net, Wikipedia ban (2009), Anonymous/Project Chanology (2008). (10) **Membership decline**: 55,000 → 25,000 US (2001–2008). (11) **Theoretical conclusion**: "Is Scientology a religion?" is the wrong question; the right question is "Who gets to define religion and what's at stake?"
+
+Pages created (4): scholarship/urban-church-of-scientology, concepts/fair-game, concepts/operating-thetan, groups/sea-org.
+
+Pages updated (8): figures/l-ron-hubbard (major expansion — biography, Parsons, religion angle, Snow White, death), controversies/scientology-religion-or-commercial-enterprise (major expansion — Urban's theoretical framework, IRS battle, all five positions), traditions/scientology/sects/church-of-scientology (full operational history), traditions/scientology/scientology (sources 4→5, Urban cross-link), concepts/thetan (Urban notes, sources 1→2), concepts/engram (Urban notes, sources 1→2), concepts/auditing (E-meter as confessional, Sec Check, financial data, sources 1→2). Total: 4 new + 8 updated.
+
+---
+
+## 2026-06-09 ingest | VanderKam, James C. *The Dead Sea Scrolls Today* (rev. ed., Eerdmans, 2010)
+
+Source type: scholarship (introductory overview by a Cave 4 editorial team member). Seven chapters covering: discovery and archaeology, survey of text types, the Essene identification debate, OT text and canon, NT parallels, publication controversy. Postscript updates through 2009. **Coverage: read in full — lines 1–2968 of the source file.**
+
+Key contributions: (1) **Magness revision of de Vaux archaeology**: No Phase Ia is identifiable; gap between Phase I and Phase II was months not 27 years; earthquake debris cleared and site rebuilt promptly. (2) **Calendar correction**: the Qumran community used both a 364-day solar calendar and a schematic (non-observational) lunar calendar coordinated via the mishmarot (priestly rotation) texts — a more complex picture than "solar-only" accounts. (3) **4Q521 (Messianic Apocalypse) agent correction**: it is **God** (not the messiah) who heals the wounded and revives the dead; the messiah is singular but is not the miraculous agent. (4) **Community Rule Cave 4 variants**: 4Q259 (copy e) lacks both the Two Spirits section (1QS III–IV) and the Two Messiahs formula (1QS 9.11) — confirming textual development of the document. (5) **Groningen Hypothesis** (García Martínez): The Wicked Priest is an office held by 6 successive Hasmonean high priests, not one person; VanderKam skeptical but acknowledges it as a live debate. (6) **Book of Giants as Similitudes substitute**: VanderKam proposes the Book of Giants (9-10 Qumran copies) may have occupied the slot of the missing Similitudes in the Qumran Enoch collection. (7) **Jubilees quasi-canonical**: Damascus Document cites Jubilees as "the Book of the Divisions of the Times" — explicitly supporting quasi-canonical standing. (8) **Hanan Eshel on Testimonia**: The cursed "rebuilder of Jericho" in Testimonia may target John Hyrcanus (134-104 BCE), who built in the Jericho area. (9) **4Q285 "Pierced Messiah"**: Eisenman's sensationalist reading refuted — the Davidic messiah does the killing (per Isaiah 11:4), is not the one killed. (10) **Publication controversy (Ch. 7)**: Full account of the access controversy, Wacholder-Abegg concordance reconstruction, Huntington Library opening, Eisenman/Robinson facsimile edition, Baigent-Leigh conspiracy theory (refuted), 4QMMT copyright case, all scrolls published by 2010.
+
+Pages created (2): scholarship/dead-sea-scrolls-vanderkam (new), controversies/wicked-priest-identity (new).
+
+Pages updated (10): traditions/judaism/sects/essenes (calendar complexity, two types of Essene communities, Magness phasing, sources 1→2), texts/community-rule (Cave 4 variants section, sources 1→2), figures/teacher-of-righteousness (Groningen Hypothesis, VanderKam's cautious stance, sources 1→2), concepts/two-messiahs (4Q521 divine agent correction, Schiffman messianic banquet, sources 1→2), texts/1-enoch (Book of Giants/Similitudes hypothesis, sources 2→3), texts/jubilees ("Book of Divisions" citation, quasi-canonical argument, sources 2→3), texts/heavenly-prince-melchizedek (VanderKam NT parallel note, sources 1→2), texts/testimonia (Hanan Eshel on John Hyrcanus, sources 1→2), texts/florilegium (no change needed — existing page adequate), plus index.md, overview.md. Total: 2 new + 10 updated.
+
+---
+
+## 2026-06-10 ingest | Buddhaghosa. *Visuddhimagga (The Path of Purification)*. Trans. Bhikkhu Ñāṇamoli. Buddhist Publication Society, 1956/1991.
+
+Source type: commentary / meditation manual (primary Theravada doctrinal synthesis). **Coverage: all 23 chapters + Conclusion — read in full. Read: PDF pages 1–810. Scope: complete text. Excluded: Index, Glossary, Tables I–VI (reference apparatus, not running text).**
+
+Key contributions: (1) **Seven Purifications** (*satta-visuddhi*) as the structural framework of the entire Theravada path: virtue (sīla) → concentration (samādhi) → view → overcoming doubt → what-is-and-is-not-the-path → knowledge-and-vision-of-the-way → knowledge-and-vision — the relay-chariot structure from MN 24. (2) **Forty meditation subjects** by temperament and object; the progression from access concentration (*upacāra-samādhi*) to full absorption. (3) **Four material jhānas** (fivefold Abhidhamma variant) plus four immaterial jhānas and attainment of cessation (*nirodha-samāpatti*): available only to non-returners and Arahants; the most complete classical Theravada account. (4) **Sixteen insight knowledges** from delimitation of mentality-materiality through change-of-lineage and the four path/fruition knowledges; ten imperfections of insight (*vipassanupakkilesa*) with the Elder Mahā-Nāga story. (5) **Seven noble persons** distinguished by the faculty predominant at emergence and the triple gateway to liberation (signless / desireless / void). (6) **Path knowledge as four-function simultaneous event**: full-understanding / abandoning / realizing / developing, with sixteen aspects of the four truths. (7) **Nibbāna**: "the unconditioned, the signless, non-occurrence, non-formation, cessation"; not positively produced (*anipphanna*); the object of change-of-lineage knowledge; "Non-arising is safety." (8) **Abhidhamma cognitive series** (*vīthi*): life-continuum → adverting → five-door → receiving → investigating → determining → seven impulsions → registration → life-continuum. (9) **Suttanta vs. Abhidhamma** distinction acknowledged but not hierarchically ranked (e.g. on the number of liberations). (10) **Hermeneutical method**: systematic-harmonizing; resolves canonical tensions by definition; uses the Paṭisambhidāmagga as his primary analytical source; records divergent elder opinions without adjudication.
+
+Pages created (6): scholarship/visuddhimagga, concepts/seven-purifications, concepts/jhana, concepts/samatha-vipassana, concepts/vipassana-insight-knowledges; commentators/buddhaghosa (stub replaced with full page).
+
+Pages updated (3): traditions/buddhism/sects/theravada (sources 4→5; full "Visuddhimagga Path in Detail" section added), concepts/nirvana (sources 2→3; "Nibbāna in the Visuddhimagga" section added), index.md (Visuddhimagga scholarship entry + four new concept entries). Total: 6 new + 3 updated.
+
+---
+
 ## 2026-06-07 ingest | Matt, Daniel C. (trans.). *The Zohar: Pritzker Edition, Volume II*. Stanford University Press, 2004.
 
 Source type: primary text of [[kabbalah|Kabbalah]], Daniel C. Matt's annotated translation, **Volume II** — the patriarchal narratives (Parashat Lekh Lekha, Va-Yera, Ḥayyei Sarah, Toledot, Va-Yetse; ~Gen 12–32). Ingested from `The Zohar 2 - Daniel C. Matt.epub` (ISBN 9780804782135). **This ingest closes the Genesis gap** between Noaḥ (Vol I) and Va-Yishlaḥ (Vol III): with Vols I–III, the wiki's Zohar now covers the **whole of Genesis**.
@@ -2317,3 +2465,684 @@ Source: `raw/The History of The Quranic Text, from Reve - Muhammad Mustafa Al-Az
 
 ### Three-source run summary (Lawrence + Bell&Watt + Al-Azami)
 Requested as "the next 3 on the list, one at a time." **Tabari blocked** (the `raw/` file is the Arabic de Goeje critical edition of the *Annals*, not an English *Tafsir* — skipped; partial coverage via the new `commentators/al-tabari.md`). Net for the run: **9 new pages** (muhammad, jafar-al-sadiq, al-tabari, robert-of-ketton, william-montgomery-watt, al-azami; scholarship: lawrence, bell-watt, al-azami; concept: naskh — i.e. 4 figures/commentators-classical + 2 modern commentators + 3 scholarship + 1 concept = 10 actually) and ~7 extended (quran, muhammad [twice], shia-islam, sunni-islam, tafsir, allegorical-reading, qiraat-variant-readings). Verified at run end: 0 dangling links; check_yaml clean.
+
+## [2026-06-09] ingest | Amina Wadud, *Qur'an and Woman* — Outstanding Sources §B Islam (Wadud)
+Source: `raw/Qur'an and Woman_ Rereading the Sacred Tex - Amina Wadud.txt` (Oxford UP, 1999; 1st ed. 1992). The foundational work of **gender-inclusive [[tafsir|tafsir]]** and the charter of [[islamic-feminism|Islamic feminism]]. Thesis: women's inequality is an *androcentric "prior text"* read **into** the [[quran|Qur'an]], not a teaching read **out** of it.
+- Created `scholarship/wadud-quran-and-woman.md` (the "hermeneutics of [[tawhid|tawhid]]" — holistic/thematic vs. atomistic; [[fazlur-rahman|Fazlur Rahman]]'s double movement; egalitarian creation [single *nafs*/*zawj*, no rib, no named/blamed Eve]; eschatological equity [[hur-al-ayn|hur al-'ayn]] as Makkan-specific; the Q 4:34 cluster).
+- Created `commentators/amina-wadud.md` (b. 1952; Sisters in Islam; the "gender jihad"; the 2005 mixed-gender prayer — recorded per Contradiction Protocol), `commentators/fazlur-rahman.md` (the double-movement method she builds on — a major prior gap).
+- Created `traditions/islam/sects/islamic-feminism.md` (movement page: holistic tafsir, the demotion of androcentric fiqh/hadith, Barlas/Musawah/Sisters in Islam; contested as heterodox).
+- Created `controversies/quran-4-34-male-authority.md` (qiwama/faddala/darajah/nushuz/daraba — classical vs. Qutb vs. reformist/feminist vs. "no-harm" readings, unadjudicated) and `concepts/qiwama.md` (umbrella term-cluster page) + `concepts/hur-al-ayn.md`.
+- Extended `texts/quran.md` (gender-inclusive reception; sources 3→5 [list reconciled]), `concepts/tafsir.md` (atomistic vs. holistic/thematic; 4→5), `concepts/tawhid.md` (tawhid as hermeneutic; 1→2), `figures/adam.md` (Wadud's egalitarian creation; 2→3), `traditions/islam/islam.md` (Islamic feminism in the sect map + frameworks; 3→4).
+- index.md, log.md, `outstanding sources.md` updated. Verified: 0 dangling links among new/edited pages.
+
+## [2026-06-09] ingest | Nāgārjuna, *Mūlamadhyamakakārikā* (Siderits & Katsura) — Outstanding Sources §B Buddhism
+Source: `raw/Nāgārjunas Middle Way The Mulamadhyamakakarika (Mark Siderits, Shoryu Katsura) .txt` (Wisdom, 2013) — translation+running commentary synthesized from the four classical Indian commentaries (the listed Garfield translation is not in `raw/`; ingested this instead). The founding text of [[madhyamaka|Madhyamaka]]: **all things are empty ([[sunyata|śūnya]]) — devoid of intrinsic nature ([[svabhava|svabhāva]])**, extending emptiness from the person to the [[abhidharma|Abhidharma]] *dharmas* themselves.
+- Created `texts/mulamadhyamakakarika.md` (the Abhidharma target; reductio method [infinite regress, neither-identical-nor-distinct, three times…]; ch. 24 two truths + nihilism objection [24.14/24.18]; ch. 25 saṃsāra=nirvāṇa; *prapañca*), `commentators/nagarjuna.md` (resolves the long-dangling plain-text "Nagarjuna"), `traditions/buddhism/sects/madhyamaka.md` (Svātantrika/Prāsaṅgika split; Yogācāra debate; the nihilism charge), `scholarship/siderits-katsura-nagarjunas-middle-way.md`.
+- Created 4 concept pages: `two-truths.md` (saṃvṛti/paramārtha; the Abhidharma vs. Madhyamaka redefinition), `svabhava.md`, `dependent-origination.md` (pratītyasamutpāda; the eightfold negation; "dependence entails emptiness"), `abhidharma.md` (the dharma/svabhāva/two-truths framework Madhyamaka targets).
+- Extended `concepts/sunyata.md` (Nāgārjuna's defense + emptiness-of-emptiness heading; 1→2), `concepts/anatta.md` (person-empty-dharmas-real → all empty; the graded self/nonself teaching; 1→2), `traditions/buddhism/sects/mahayana.md` (Madhyamaka & Yogācāra; 2→3), `traditions/buddhism/buddhism.md` (two truths in frameworks + Madhyamaka in the sect map; 5→6).
+- index.md, log.md, `outstanding sources.md` updated. Verified: 0 dangling links.
+
+## [2026-06-09] ingest | Śāntideva, *Bodhicaryāvatāra* (Crosby & Skilton) — Outstanding Sources §B Buddhism
+Source: `raw/Bodhicaryavatara (242p) - Crobsy, Kate; Skilton, Antrew (Trs).pdf` (Oxford World's Classics, 1995; General Intro. Paul Williams) — the full ten-chapter translation (the listed Wallace & Wallace is not in `raw/`; ingested this instead). The beloved poetic guide to the [[bodhisattva|bodhisattva]] path; the Dalai Lama's core text.
+- Created `texts/bodhicaryavatara.md` (the ten chapters; [[bodhicitta|bodhicitta]]'s two kinds; ch. 6 patience/the-enemy-as-teacher; ch. 8 the [[exchange-of-self-and-other|exchange of self and other]]; ch. 9 Prāsaṅgika [[madhyamaka|Madhyamaka]] emptiness; the "as long as space abides" dedication; two recensions), `scholarship/crosby-skilton-bodhicaryavatara.md`, and 2 concept pages `bodhicitta.md` + `exchange-of-self-and-other.md` (the basis of Tibetan *lojong*/*tonglen*).
+- **Enriched the pre-existing** `commentators/shantideva.md` (was sourced only from the older Barnett translation, with **no text page**): added Crosby/Skilton as source 2 (1→2), linked the new text/scholarship/concept pages, added the Prāsaṅgika/emptiness-of-emptiness and nonself-altruism detail. Resolves the previously-dangling `[[shantideva]]`/`[[bodhicaryavatara]]` references in mahayana.md, buddhism.md, bodhisattva.md.
+- Extended `concepts/bodhisattva.md` (Bodhicaryāvatāra structure + bodhicitta/exchange links; 1→2), `traditions/buddhism/sects/madhyamaka.md` (Śāntideva as Prāsaṅgika exemplar; key_figures/key_texts) and `traditions/buddhism/sects/vajrayana.md` (the lojong/tonglen lineage; ch. 9 as the Tibetan Prāsaṅgika textbook).
+- index.md, log.md, `outstanding sources.md` updated. Verified: 0 dangling links among new/edited pages.
+
+### Three-source run summary (Wadud + MMK + Bodhicaryāvatāra)
+Requested as "the next 3 on the list." All three present in `raw/` (the two Buddhist works via different translators than the wishlist named — Siderits & Katsura for the MMK, Crosby & Skilton for the Bodhicaryāvatāra — both fine). Net: **18 new pages** (Islam 7: wadud scholarship, amina-wadud, fazlur-rahman, islamic-feminism, quran-4-34 controversy, qiwama, hur-al-ayn; Buddhism 11: mulamadhyamakakarika, nagarjuna, madhyamaka, two-truths, svabhava, dependent-origination, abhidharma, siderits-katsura, bodhicaryavatara, crosby-skilton, bodhicitta, exchange-of-self-and-other — and shantideva enriched) and ~13 extended. The MMK ingest also grounded the wiki's first proper Madhyamaka philosophy cluster. Verified at run end: 0 dangling links among all new/edited pages.
+
+## [2026-06-09] ingest | Bhikkhu Bodhi, *In the Buddha's Words* — Outstanding Sources §B Buddhism (1 of 4)
+Source: `raw/In the Buddha's Words - Unknown.txt` (Wisdom, 2005) — [[bhikkhu-bodhi|Bhikkhu Bodhi]]'s thematic anthology of the Pali [[tipitaka|Nikāyas]], ten chapters with substantial scholarly introductions. The wiki's primary window onto the **early/Theravada discourse stratum**; recovers the canon's implicit **"gradual training"** and the **mundane vs. supramundane right view** distinction.
+- Created `commentators/bhikkhu-bodhi.md` (b. 1944, Brooklyn; Nyanaponika's successor at the Buddhist Publication Society; translator of all four Nikāyas; rebirth/kamma as integral, vs. secularized Dhamma) and `scholarship/bodhi-in-the-buddhas-words.md` (the ten-chapter architecture as argument).
+- Anchored four long-referenced but previously **ungrounded** core concept pages: `nirvana.md` (nibbāna; the "blowing out"; with/without residue; saṃsāra–nirvana non-duality in Mahayana), `noble-eightfold-path.md` (the *magga*; the three trainings sīla/samādhi/paññā; the Middle Way), `samsara.md` (the round of rebirth; rebirth without a self; six realms), `karma.md` (intention/*cetanā* as the Buddhist redefinition; mundane right view; karma without an agent).
+- Extended `concepts/four-noble-truths.md` (mundane vs. supramundane right view; 1→2), `texts/tipitaka.md` (Bodhi's thematic reorganization; 1→2), `traditions/buddhism/sects/theravada.md` (Bodhi in key_figures + the modern English-scholarship note; 2→3), `traditions/buddhism/buddhism.md` (eightfold-path/karma/samsara/nirvana links in core doctrine; 6→7).
+- index.md, log.md, `outstanding sources.md` updated. Verified: 0 new dangling links among new/edited pages (forward links to `mindfulness`, `zen`, `bhagavad-gita` reserved for later ingests in this run).
+
+## [2026-06-09] ingest | Walpola Rahula, *What the Buddha Taught* — Outstanding Sources §B Buddhism (2 of 4)
+Source: `raw/What the Buddha Taught_ Revised and Expand - Walpola Rahula.txt` (Grove, rev. 1974; 1st ed. 1959) — the classic short doctrinal primer by the Sri Lankan scholar-monk, organized around the [[four-noble-truths|Four Noble Truths]] with appended Pali translations. The confessional [[theravada|Theravada]] systematic complement to [[bhikkhu-bodhi|Bodhi]]'s anthology.
+- Created `commentators/walpola-rahula.md` (1907–1997; first bhikkhu university professor; rationalist *ehipassika* framing; the Theravada–Mahayana-convergence thesis) and `scholarship/rahula-what-the-buddha-taught.md` (the eight chapters; dukkha-not-pessimism; nirvana-not-negative-and-not-a-result; the no-soul chapter).
+- Anchored three previously-ungrounded concept pages: `dukkha.md` (the three aspects; "the five aggregates are dukkha"), `five-aggregates.md` (rūpa/vedanā/saññā/saṅkhāra/viññāṇa; the engine of non-self; the Abhidharma→Madhyamaka extension), `three-marks-of-existence.md` (anicca/dukkha/anatta; the "impermanent→dukkha→non-self" chain; anatta's wider scope incl. nibbāna).
+- Extended `concepts/anatta.md` (Rahula's "if no self, who is reborn?" answer; 2→3), `concepts/nirvana.md` (Rahula's not-negative/not-a-result defense; 1→2), `concepts/four-noble-truths.md` (2→3), `traditions/buddhism/sects/theravada.md` (Rahula in key_figures + note; 3→4), `traditions/buddhism/buddhism.md` (7→8).
+- index.md, log.md, `outstanding sources.md` updated. Verified: 0 new dangling links (only `mindfulness`, `zen` remain forward-reserved for the Thich Nhat Hanh ingest).
+
+## [2026-06-09] ingest | Thich Nhat Hanh, *The Heart of the Buddha's Teaching* — Outstanding Sources §B Buddhism (3 of 4)
+Source: `raw/The Heart of the Buddha's Teaching - Thich Nhat Hanh.txt` (Broadway, 1998; from the Vietnamese *Trái Tim Của Bụt*). A modern [[mahayana|Mahayana]]/[[zen|Zen]] and **Engaged-Buddhist** exposition of the [[four-noble-truths|Four Truths]] and [[noble-eightfold-path|Path]] that openly *revises* several received formulas.
+- Created `commentators/thich-nhat-hanh.md` (1926–2022; Vietnamese Thiền; Order of Interbeing/Plum Village; Engaged Buddhism; MLK Nobel nomination), `scholarship/thich-nhat-hanh-heart-of-the-buddhas-teaching.md`, and — a major structural gap — the **[[zen|Zen]] sect page** (`traditions/buddhism/sects/zen.md`: Chan/Thiền/Seon; "special transmission outside the scriptures"; sudden awakening; Buddha-nature; kōan; the experiential subordination of text).
+- Anchored `concepts/mindfulness.md` (*sati*; the Satipaṭṭhāna; TNH's "stopping" + collective mindfulness; the secular-"McMindfulness" debate — **resolves the prior dangling `mindfulness` link**) and `concepts/interbeing.md` (TNH's coined term for dependent origination/emptiness).
+- **Contradiction Protocol**: TNH rejects the standard three-marks list, holding the authentic **Three Dharma Seals** to be impermanence/nonself/**[[nirvana|nirvana]]**, not suffering (citing the *Saṃyukta Āgama* and [[nagarjuna|Nāgārjuna]]). Created `controversies/three-dharma-seals-is-suffering-universal.md` and flagged the dispute on `concepts/three-marks-of-existence.md` (1→2) and `concepts/dukkha.md` (1→2).
+- Extended `concepts/four-noble-truths.md` (TNH on "life is suffering" too general + craving not the sole cause; 3→4), `traditions/buddhism/sects/mahayana.md` (Zen + Engaged Buddhism; TNH in key_figures; 3→4), `traditions/buddhism/buddhism.md` (Zen + Engaged Buddhism in the sect map/core doctrine; 8→9).
+- index.md (incl. a new **Buddhist controversies** subsection + Zen in the sect map), log.md, `outstanding sources.md` updated. Verified: 0 dangling links among new/edited pages — the `mindfulness` and `zen` forward links are now resolved.
+
+## [2026-06-09] ingest | Williams, Tribe & Wynne, *Buddhist Thought* — Outstanding Sources §B Buddhism (4 of 4)
+Source: `raw/Buddhist Thought - Williams, Paul,Wynne, Alexander,Tribe, Ant.txt` (Routledge, 2000/2012). The **academic** survey of the Indian Buddhist tradition (Buddha → Abhidharma → Mahayana → Madhyamaka → Yogācāra → Buddha-nature → tantra). [[paul-williams|Williams]] was **already cited** in the wiki (he wrote the [[crosby-skilton-bodhicaryavatara|Crosby/Skilton]] intro) — now given his own page.
+- Created `commentators/paul-williams.md` (Bristol Buddhologist; the strong "no Self at all" reading of the *Anattalakkhaṇa Sutta*; later Catholic convert — treated as scholarly description) and `scholarship/williams-buddhist-thought.md`.
+- Anchored two long-referenced but pageless topics: the **[[yogacara|Yogācāra]] sect page** (`traditions/buddhism/sects/yogacara.md`: Mind-Only; the three natures; the *ālaya-vijñāna* store-consciousness; emptiness redefined as absence of subject-object duality; Yogācāra **as the anti-nihilist answer to Madhyamaka**, and the mutual reification charge — Contradiction Protocol) and `concepts/buddha-nature.md` (tathāgatagarbha; the "Self"/ātman problem; the ground of [[zen|Zen]] sudden awakening; rangtong/shentong).
+- Extended `concepts/abhidharma.md` (Williams's "maximum exactitude"/*Abhidharmakośa*; 1→2), `concepts/anatta.md` (Williams vs. the "True Self" reading; 3→4), `traditions/buddhism/sects/madhyamaka.md` (the Yogācāra nihilism debate; 1→2), `traditions/buddhism/sects/mahayana.md` (Yogācāra + Buddha-nature + the celestial bodhisattvas linked; Williams as source; 4→5), `traditions/buddhism/sects/zen.md` (Buddha-nature link), `traditions/buddhism/buddhism.md` (Yogācāra/Buddha-nature in the sect map; 9→10).
+- index.md (Yogācāra in the sect map; buddha-nature concept; Williams commentator + scholarship), log.md, `outstanding sources.md` updated. Verified: 0 dangling links among new/edited pages.
+
+### Four-source run summary (the next 4 — all §B Buddhism)
+Requested as "the next 4 on the list, one at a time." All four present in `raw/`. Net: **21 new pages** = commentators 4 (bhikkhu-bodhi, walpola-rahula, thich-nhat-hanh, paul-williams) + scholarship 4 (bodhi-in-the-buddhas-words, rahula-what-the-buddha-taught, thich-nhat-hanh-heart-of-the-buddhas-teaching, williams-buddhist-thought) + sects 2 (zen, yogacara) + concepts 10 (nirvana, noble-eightfold-path, samsara, karma, dukkha, five-aggregates, three-marks-of-existence, mindfulness, interbeing, buddha-nature) + controversy 1 (three-dharma-seals-is-suffering-universal); plus ~15 page-extensions. The run filled the early-Buddhist doctrinal core (Four Truths cluster, the path, nirvana, karma/samsara, the aggregates/marks) that the Mahayana-first earlier ingests had referenced but left ungrounded, **and** completed the Indian Mahayana school map (Madhyamaka + Yogācāra + Buddha-nature) and added the Zen sect. One genuine intra-Buddhist contradiction staged (the Three Dharma Seals). Verified at run end: 0 dangling links among all new/edited pages.
+
+## [2026-06-09] ingest | Gambhirananda (tr.), Śaṅkara's *Gītā-bhāṣya* — Outstanding Sources §B Hinduism (1 of 3)
+Source: `raw/Srimad Bhagavad Gita (Swami Gambhirananda) - v.pdf` — [[swami-gambhirananda|Swami Gambhirananda's]] literal English translation of **[[shankara|Śaṅkara's]]** commentary on the **[[bhagavad-gita|Bhagavad Gita]]**: the oldest surviving Gita commentary and the [[advaita-vedanta|Advaita]] reading.
+- Created `commentators/swami-gambhirananda.md` (1899–1988; Ramakrishna Order; standard translator of Śaṅkara's bhāṣyas), `scholarship/gambhirananda-bhagavad-gita.md` (Śaṅkara reads the Gita as a treatise on knowledge of the **actionless Self**; begins his comment only at **2.10**; **knowledge alone liberates**, action only purifies the mind), and `concepts/karma-yoga.md` (desireless action; preparatory-for-Śaṅkara vs. end-in-itself for modern readers vs. ongoing-service for Rāmānuja).
+- **Contradiction Protocol**: created `controversies/jnana-karma-samuccaya.md` — the Gita's central crux of whether knowledge *alone* or knowledge *combined with action* liberates; Śaṅkara (alone) vs. the Vṛttikāra/Mīmāṃsā combiners (+Vedic rites) vs. Ramakantha–Abhinavagupta (non-different as the Lord's powers) vs. modern karma-yoga-as-end.
+- Extended `texts/bhagavad-gita.md` (a "commentary battleground" section; 1→2→3 sources across this run), `commentators/shankara.md` (Gītā-bhāṣya + the 2.10 start + adhyāsa preamble; 1→2), `traditions/hinduism/sects/advaita-vedanta.md` (the Advaita Gita reading; 1→2), `figures/krishna.md` (the schools' rival readings of his self-disclosures; 1→2), `traditions/hinduism/hinduism.md`.
+
+## [2026-06-09] ingest | Thibaut (tr.), Brahma Sutras with Śaṅkara's commentary — Outstanding Sources §B Hinduism (2 of 3, **Madhva slot — blocked**)
+The list item is "**Madhvacharya** commentary on the Brahma Sutras," but Madhva's own *bhāṣya* has **no complete free English translation and is not in `raw/`**. The Brahma-Sutras file present (`raw/Brahma Sutras (Vedanta Sutras) With Commen - George Thibaut.txt`) is **[[george-thibaut|Thibaut's]] SBE translation of Śaṅkara's (+ Rāmānuja's) commentary**, not Madhva's. Ingested that and used the slot to **deepen the previously stub-level Vedanta cluster**; the Dvaita pole remains secondary (Madhva **still needed**).
+- Created `commentators/george-thibaut.md` (1848–1914 Indologist; his critical thesis that Rāmānuja may fit Bādarāyaṇa better than Śaṅkara), `scholarship/thibaut-vedanta-sutras.md` (the 4-adhyāya structure; Śaṅkara's adhyāsa preamble vs. Rāmānuja's *Mahāpūrvapakṣa*), `concepts/adhyasa.md` (superimposition of Self/not-Self = avidyā; the foundation of Advaita; Rāmānuja's refutation).
+- **Resolved a long-standing dangling link** referenced across ~8 pages: created the comparison `comparisons/brahman-atman-vedanta-schools.md` — Advaita / Vishishtadvaita / Dvaita / Kashmir-Śaiva readings of *tat tvam asi*; one canon, irreconcilable metaphysics.
+- Extended `texts/brahma-sutras.md` (4 adhyāyas; the pre-sutra divergence; Thibaut's verdict), `commentators/ramanuja.md` (Mahāpūrvapakṣa; Thibaut source link), `concepts/brahman.md` + `concepts/atman.md` (cross-links to adhyāsa + the comparison).
+
+## [2026-06-09] ingest | Marjanovic (tr.), Abhinavagupta's *Gītārtha-saṃgraha* — Outstanding Sources §B Hinduism (3 of 3)
+Source: `raw/Abhinavaguptas Commentary on the Bhagavad - Unknown.pdf` (Boris Marjanovic trans.) — the **[[kashmir-shaivism|Kashmir Śaiva]]** reading of the **[[bhagavad-gita|Gita]]** by **[[abhinavagupta|Abhinavagupta]]** (c. 950–1016).
+- Created `commentators/abhinavagupta.md` (Trika systematizer + the great rasa-aesthetics theorist; lineage Vasugupta→Utpaladeva→Lakṣmaṇagupta; Gita teacher Bhūtirāja), `scholarship/marjanovic-abhinavagupta-gita.md` (comments only on **hidden meanings**; *artha-saṃgraha* not *bhāṣya*; a Kashmiri recension; esoteric/tantric decoding — breath-control as guru-disciple initiation, sacrifice as the fire of one-pointedness; "more esoteric than Vedanta," 18.63), the **new sect page** `traditions/hinduism/sects/kashmir-shaivism.md` (Trika/Pratyabhijñā; reality as the one consciousness Śiva; *svātantrya*; the world as **real** self-manifestation, not māyā — the dynamic-non-dual foil to Advaita; revived 20th c. by Lakshman Joo), and `concepts/pratyabhijna.md` ("recognition" that one already is Śiva; bondage as self-forgetting).
+- Added the **Śaiva fourth voice** to `comparisons/brahman-atman-vedanta-schools.md`; extended `texts/bhagavad-gita.md` (Abhinavagupta as 3rd ingested commentary; sources →3), `figures/krishna.md`, `concepts/moksha.md` (the recognition view; 1→2), `traditions/hinduism/hinduism.md` (kashmir-shaivism added to `major_sects` and the sect map; the non-Vedantic Śaiva note; sources 5→7).
+- index.md (3 commentators, 3 scholarship entries, 3 concepts, the new sect, the comparison moved to Comparisons + the jñāna-karma controversy added, the Gita's 3 commentaries noted), log.md, `outstanding sources.md` updated.
+
+### Three-source run summary (the next 3 — §B Hinduism, Gita & Vedanta commentaries)
+Requested as "the next 3 on the list, one at a time." Net: **12 new pages** = commentators 3 (swami-gambhirananda, george-thibaut, abhinavagupta) + scholarship 3 (gambhirananda-bhagavad-gita, thibaut-vedanta-sutras, marjanovic-abhinavagupta-gita) + sect 1 (kashmir-shaivism) + concepts 3 (karma-yoga, adhyasa, pratyabhijna) + controversy 1 (jnana-karma-samuccaya) + comparison 1 (brahman-atman-vedanta-schools, which **resolves a dangling link** referenced across ~8 pages); plus ~10 page-extensions. The run brought all three classical Gita/Vedanta interpretive poles into the wiki on the *same* texts — Śaṅkara's Advaita *jñāna*, Thibaut's pairing of Śaṅkara vs. Rāmānuja on the Brahma Sutras, and Abhinavagupta's esoteric Kashmir-Śaiva reading — and added Kashmir Shaivism as the wiki's first non-Vedantic Hindu school. **Item 2 (Madhva's Brahma-Sutra commentary) remains blocked** for lack of a free English translation; the Dvaita pole is still secondary. One genuine controversy staged (jñāna-karma-samuccaya). Verified at run end: 0 dangling links among all new/edited pages; check_yaml clean.
+
+## [2026-06-09] ingest | Dasgupta, *A History of Indian Philosophy* (5 vols.) — Outstanding Sources §B Hinduism (item 4)
+Source: `raw/A History of Indian Philosophy. Vols. 1-5 - Unknown.txt` ([[surendranath-dasgupta|Surendranath Dasgupta]], Cambridge 1922–1955; 6.6 MB OCR). The encyclopedic modern-critical survey of the Indian schools — a **meta-source** organized by the [[saddarshana|ṣaḍ-darśana]]. Primary purpose of the ingest: use **Vol. IV (*Indian Pluralism*, 1961)** to finally **ground the [[dvaita-vedanta|Dvaita]] pole on a real source**, since [[madhva|Madhva's]] own *Brahma-Sūtra-bhāṣya* has no complete free English translation (the long-running blocked item).
+- Created `commentators/surendranath-dasgupta.md` (1887–1952; modern-critical historian), `scholarship/dasgupta-history-of-indian-philosophy.md` (the 5-volume map + the Vol. IV Madhva detail), `concepts/panchabheda.md` (the fivefold eternal difference; *svatantra*/*asvatantra*; the three classes of souls incl. **eternal damnation**), `concepts/saddarshana.md` (the six orthodox darśanas + heterodox; the wiki's Hindu-philosophy coverage-gap frame).
+- **De-stubbed the Dvaita cluster (0→1):** rewrote `traditions/hinduism/sects/dvaita-vedanta.md` and `commentators/madhva.md` from secondary→source-grounded — Madhva's Uḍupi/Tuḷuva life, his self-understanding as an incarnation of Vāyu, the 37 works, the *pañca-bheda*, Vishnu as the sole *svatantra* reality, the Jaya-tīrtha/Vyāsa-tīrtha dialectical school, and the **dualist–monist controversy** (Vyāsa-tīrtha's *Nyāyāmṛta* vs. Madhusūdana's *Advaita-siddhi*).
+- **Contradiction Protocol — Madhva's dates:** Dasgupta/Grierson/Bhandarkar give **c. 1197–1276**; the wiki previously carried the also-traditional **1238–1317**. Both now recorded on `madhva.md`, neither adjudicated.
+- Extended `texts/brahma-sutras.md` (Madhva's interpretation added; 2→3; gap-flag softened — own *bhāṣya* still untranslated, now mediated through Dasgupta), `comparisons/brahman-atman-vedanta-schools.md` (removed the "Dvaita rests on secondary knowledge" caveat), `traditions/hinduism/hinduism.md` (7→8; *ṣaḍ-darśana* added to `hermeneutical_frameworks` and the sect map; Dasgupta named as survey source).
+- index.md (Dasgupta added to Hindu commentators + scholarship; panchabheda + saddarshana added to Hindu concepts; Madhva/Dvaita/Brahma-Sutras lines updated), `outstanding sources.md` (item 4 ticked; the blocked Madhva item updated to "grounded via Dasgupta, no longer blocking").
+
+**Net: 4 new pages** (commentators 1, scholarship 1, concepts 2) + 6 extensions. The standout: the previously **blocked Dvaita/Madhva pole is now source-grounded** — the wiki's three classical Vedānta poles all rest on real sources for the first time (a direct Madhva *bhāṣya* translation, B.N.K. Sharma, remains desirable but no longer blocking).
+
+## [2026-06-09] revisit | Dasgupta Ch. XXVI (Madhva's Brahma-Sūtra interpretation) — deepened on close reading
+Re-read **Chapter XXVI** of Vol. IV in full (read the prior ingest had summarized only its opening lineage paragraph). The chapter is a sūtra-by-sūtra (*adhikaraṇa*-by-*adhikaraṇa*) comparison of Madhva's vs. Śaṅkara's Brahma-Sūtra readings, worked through Jaya-tīrtha's *Nyāya-sudhā* and Vyāsa-tīrtha's *Tātparya-candrikā*.
+- Added a substantial new section to `scholarship/dasgupta-history-of-indian-philosophy.md` — **"Inside Chapter XXVI: Madhva's Brahma-Sūtra Interpretation, Adhikaraṇa by Adhikaraṇa"** — covering BS I.1.1 (*athāto brahma-jijñāsā*, the theistic re-keying of every particle), the reality-of-bondage / anti-*ajñāna* polemic (the Dvaita counter to [[adhyasa|adhyāsa]]), the refutation of the *anirvacanīya* / *sad-asad-vilakṣaṇa* status of the world, BS I.1.2 (*janmādy asya yataḥ*, the **eight** divine functions; the *svarūpa*- vs *taṭastha-lakṣaṇa* dispute; the **_viśeṣa_** doctrine as Madhva's replacement for *samavāya*; *mukhyārtha*-by-difference on *tat tvam asi*), BS I.1.4 (*samanvaya*: every Upaniṣadic word denotes Viṣṇu; *śāstra* excludes the Śaiva Āgamas), the general pattern across I.1.5–I.4 (*vidvad-rūḍhi*; "Viṣṇu specifically"), the *māyāvāda*-worse-than-Buddhism polemic, and Dasgupta's philological note that Madhva re-divides and even adds sūtras.
+- **Faithfulness correction:** the earlier pages glossed Madhva's *tat tvam asi* reading as the popular re-parsing *atat tvam asi* ("thou art *not* that"). Dasgupta's Ch. XXVI does **not** present that; he gives the *mukhyārtha*-by-difference vs. *lakṣaṇā* argument. Corrected `commentators/madhva.md` (hermeneutics), `traditions/hinduism/sects/dvaita-vedanta.md` (hermeneutics), and the *tat tvam asi* row of `comparisons/brahman-atman-vedanta-schools.md` to lead with Dasgupta's actual account and flag the re-parsing as a separate later-Mādhva move not in Dasgupta.
+- Extended `texts/brahma-sutras.md` with a Madhva-reads-the-first-sutras paragraph (genuinely grounded in Ch. XXVI).
+Verified: 0 dangling links in edited pages; check_yaml clean (992 files, 0 issues).
+
+## [2026-06-09] read | Dasgupta, *History of Indian Philosophy* — full sequential read, PASS 1 (Vol. I front matter + Ch. I–II)
+Began the front-to-back read mandated by the revised Ingest Workflow (no more TOC-triage). **Read in full this pass:** Vol. I Preface + Contents, Ch. I (Introductory — Dasgupta's method and the scope of Vol. I), Ch. II (The Vedas, Brāhmaṇas and their Philosophy); **Ch. III (The Earlier Upaniṣads) opened, in progress.**
+- Created `texts/vedas.md` (the four Saṃhitās + the Saṃhitā/Brāhmaṇa/Āraṇyaka/Upaniṣad strata; śruti; canon_scope canonical_for vedic-religion+hinduism, rejected_by the nāstika systems), `concepts/henotheism.md` (Müller's kathenotheism; Macdonell's critique).
+- Extended `concepts/rita.md` (1→2; Dasgupta's claim that ṛta + mechanical sacrifice = the seed of karma — **resolved a previously dangling `[[rita]]` link**), `concepts/karma.md` (1→2; the Vedic ritual origin), `concepts/brahman.md` (1→2; emergence in the Śatapatha Brāhmaṇa), `concepts/atman.md` (1→2; vital-breath → world-self → self-in-man), `traditions/vedic-religion/vedic-religion.md` (1→2; henotheism→monotheistic tendency, Prajāpati/Hiraṇyagarbha, the Nāsadīya & Puruṣa hymns, sacrifice-as-mechanical-potency).
+- Updated the **coverage ledger** on `scholarship/dasgupta-history-of-indian-philosophy.md` to record exactly what is read (Vol. I front matter + Ch. I–II in full; Ch. III in progress; Vol. IV Madhva chapters read earlier out of order; everything else not yet read). index.md updated (vedas, henotheism).
+- **Noted gaps surfaced by the read:** no `vishnu`, `shruti`, or `brahmanas` page yet (the asides were de-linked to plain text pending substantial material). Verified: 0 dangling links in this batch; check_yaml clean (994 files, 0 issues).
+**Status: PARTIAL — pass 1 of a multi-pass full read. Next: finish Ch. III (Upaniṣads), then Ch. IV–X (Buddhism, Jainism, the six systems, Śaṅkara Vedānta).**
+
+## [2026-06-09] ingest | Dasgupta, *A History of Indian Philosophy* — PASS 1 cont. (Vol. I, Ch. III)
+Read Vol. I **Ch. III (The Earlier Upaniṣads), in full** (raw lines 933–1920), under the new
+"read in large spans, file in batches" cadence. Status: **PARTIAL** — pass 1 of a multi-pass full read.
+Filed batch:
+- **New:** `figures/yajnavalkya.md` (the central Upaniṣadic sage); `concepts/pancha-kosha.md` (the five sheaths).
+- **Extended:** `texts/upanishads.md` (1→2; Dasgupta's "melting pot"/three-currents reading, the Kṣatriya-origin debate vs. Garbe, *neti neti*, the word's etymology, Schopenhauer/Dārā Shukōh reception); `concepts/atman.md` (2→3; ātman=Brahman, the five kośas, Prajāpati–Indra parable); `concepts/brahman.md` (2→3; the failed quest + negative method + three currents); `concepts/karma.md` (2→3; desire-not-karma as cause of rebirth in the early Upaniṣads); `concepts/samsara.md` (1→2; devayāna/pitṛyāna, Yājñavalkya's caterpillar/goldsmith); `concepts/moksha.md` (2→3; emancipation as always-already, Naciketas–Yama).
+- Coverage ledger updated (Vol. I Chs. I–III read in full, lines 1–1920; Ch. IV next). Index updated.
+Next: Ch. IV (General Observations on the Systems), then Chs. V–X (Buddhism, Jainism, the six systems, Śaṅkara Vedānta).
+
+## [2026-06-09] ingest | Dasgupta, *History of Indian Philosophy* — PASS 1 cont. (Vol. I, Ch. IV + early Ch. V)
+Read Vol. I **Ch. IV (General Observations) in full** and **Ch. V (Buddhist Philosophy) in part** (raw
+lines 1921–2858: pre-Buddhist schools, the Buddha's life, the Pali canon, the twelvefold dependent
+origination, the five khandhas, avijjā/āsava, sīla/samādhi/paññā). Status: **PARTIAL** — remainder of
+Ch. V (Buddhist metaphysics / later schools) still to read. Filed (kept deliberately lean per scope):
+- **New:** `traditions/carvaka/carvaka.md` — the nāstika materialist tradition (resolves the pre-existing
+  `carvaka` slug in [[vedas]] canon_scope and the saddarshana gap).
+- **Extended:** `concepts/saddarshana.md` (1→2; upgraded from "general scholarship" to Dasgupta's close
+  reading — āstika/nāstika split, the six founders, the sūtra-commentary nature of Indian philosophy, the
+  four points of agreement); `concepts/karma.md` (Ch. IV pan-Indian karma: adṛṣṭa/apūrva, vāsanā, the four
+  kinds of action, Jaina karma-matter); `concepts/dependent-origination.md` (1→2; the chain over three
+  lives, hetu/paccaya, bhava=karma per Candrakīrti); `figures/gautama-buddha.md` (1→2; Dasgupta's life
+  account, ~560 BCE).
+- **Bookkeeping fix:** reverted an erroneous +1 source-count double-count on atman/brahman/karma (Dasgupta
+  already counted from the Ch. II batch; Ch. III is the same source).
+Next: finish Ch. V (Buddhist metaphysics, Sarvāstivāda/Sautrāntika, the later schools), then Ch. VI (Jainism).
+
+## [2026-06-09] ingest | Doniger, *The Hindus: An Alternative History* — scoped (Chs. 1 & 25)
+First ingest under the **scoped-reading schema**. A 25-chapter, ~780-page survey; **declared scope: Ch. 1
+("Working with Available Light") and Ch. 25 ("The Abuse of History"), read in full** (raw lines 384–668,
+8759–8821). Back matter (acknowledgments/chronology/glossary/notes) not read; the 23 narrative chapters
+are **out of scope, not owed** (future passes: e.g. the epics Chs. 9–11, or goddess/bhakti/Tantra 13–17).
+Scope chosen by the user (cleanest demo of the new schema). Filed lean (3 new + 1 extension):
+- **New:** `scholarship/doniger-the-hindus.md` (source + coverage ledger); `commentators/wendy-doniger.md`
+  (the anti-essentialist, psychoanalytic, margin-centered method); `controversies/who-defines-hinduism.md`
+  (Doniger's "alternative history" vs. essentialist/Hindutva objection vs. the insider-voice critique).
+- **Extended:** `traditions/hinduism/hinduism.md` (8→9; the "What counts as Hinduism?" / "Zen diagram"
+  definition problem).
+Faithfulness note: the 2014 Penguin India pulping is **post-2009 and not in the source** — recorded on the
+controversy page explicitly as external context; the 2003 London egg-throwing + Dalrymple's challenge ARE
+in-text (Ch. 25 acknowledgments). Malhotra's *Being Different* named as the rejoinder but **not** ingested
+(no content attributed to it).
+
+## [2026-06-09] ingest | Doniger, *The Hindus* — Scope 2 (Chs. 2–4), autonomous progression
+Second scope under the new **autonomous scope-plan** mode (no per-pass prompting). **Scope: Chs. 2–4
+(Time & Space; the Indus Valley; Between the Ruins and the Text), read in full** (raw lines 669–1298).
+Filed lean (3 new + extensions):
+- **New:** `locations/indus-valley-civilization.md` (Harappa/Mohenjo-Daro; seals; the proto-Śiva
+  "Pashupati" seal 420 debate — Marshall + 10 rivals, unadjudicated; modern Pakistan/India); the
+  controversy `controversies/aryan-migration-question.md` (the four "guesses" on Vedic origins, the
+  "Aryan"-as-race history, the horse argument, fusion/bricolage); the concept `concepts/yugas.md` (the
+  four dice-named Ages; linear+cyclical time; the *pralaya* / Manu-and-the-fish flood).
+- **Extended:** `commentators/wendy-doniger.md` (the "siren song of hindsight" + bricolage method);
+  `scholarship/doniger-the-hindus.md` (ledger + scope-plan checkbox 2/9 + Scope-2 summary).
+Flagged gap: **no Śiva figure page** yet (the proto-Śiva seal debate lives on the IVC page); `[[shiva]]`
+mentions de-linked to plain text rather than stubbed. Next (auto): Scope 3 — Veda & Brāhmaṇas (Chs. 5–6;
+expect lean/contrastive filing given Dasgupta overlap).
+
+## [2026-06-09] ingest | Doniger, *The Hindus* — Scope 3 (Chs. 5–6), autonomous progression
+
+Third scope under the autonomous scope-plan. **Scope: Chs. 5–6 (Rig Veda & Brāhmaṇas), read in full**
+(raw lines 1299–1988). Filed lean (1 new + 5 extended):
+
+- **New:** `concepts/varnas.md` — the four social classes from the Puruṣa-sūkta (RV 10.90), with
+  Doniger's social reading: the hymn naturalizes a pre-existing class structure rather than cosmologically
+  generating one; horse/cow/dog as class cipher.
+
+- **Extended:**
+  - `texts/rig-veda.md` (1→2): new "Doniger's Reading (Modern Critical)" section — three alliances
+    typology (gods+humans vs. Asuras; ascetics vs. gods; bhakti); oral refusal to write as religious act;
+    cattle/horse social symbolism ("Indians as cowboys," *gavisthi* = cattle raiding); Puruṣa-sūkta as
+    social document; women (Apala and Indra, rival-wife spells, widow's status); henotheism/kathenotheism
+    confirmed per Müller.
+  - `figures/indra.md` (1→2): new Brāhmaṇa section — Vritra now a Brahmin, making Indra's victory an act
+    of Brahminicide; soma addiction and the "divine hangover" (lion from nose, jackal from ears, beasts from
+    below); distribution of Brahminicide to earth/trees/women (menstrual blood as transferred pollution);
+    gods *intentionally* placing evil in humans (dice, desire for women, anger) to prevent them from
+    reaching heaven — shift from nature-forces to jealous kings.
+  - `concepts/yajna.md` (1→2): new sections on the horse sacrifice (*aśvamedha*) — political annexation,
+    the queen's ritual role, the text reading royal power as rape of the people; recycling of sacrificial
+    quality (human → horse → bull → ram → goat → grain); early ahimsa stirrings ("eat them right, don't
+    stop eating them"); soma scarcity driving yoga/breath-control development; Brāhmaṇic confidence vs.
+    controlled-catastrophe anxiety.
+  - `concepts/samsara.md` (sources noted): new "Brāhmaṇa Precursors" section — recurrent death
+    (*punarmrtyu*); transmigration mentioned; Bhrigu-in-hell story → Nachiketas precursor of Kaṭha
+    Upaniṣad; Doniger's inversion of the reincarnation-as-comfort reading.
+  - `scholarship/doniger-the-hindus.md`: Scope 3 summary added; coverage ledger extended to lines
+    1299–1988; scope-plan checkbox 3/9 → ✅.
+
+Next (auto): Scope 4 — Upaniṣads & the aims of life (Chs. 7–8).
+
+## [2026-06-09] ingest | Doniger, *The Hindus* — Scope 4 (Chs. 7–8), autonomous progression
+
+Fourth scope under the autonomous scope-plan. **Scope: Chs. 7–8 (Upaniṣads & the aims of life), read in
+full** (raw lines 1989–2549). Filed lean (2 new + 5 extended):
+
+- **New:** `concepts/dharma.md` — trivarga (dharma/artha/kama); sva-dharma vs. sanatana dharma; the
+  violence paradox (warrior's sva-dharma vs. universal ahimsa); the four ashramas; five solutions to
+  the householder/renunciant tension; the three dharma texts (Manu, Arthashastra, Kama-sutra).
+- **New:** `concepts/gunas.md` — the three qualities of matter (sattva/rajas/tamas); social mapping to
+  Brahmins/cows, Kshatriyas/horses, lower classes/dogs; prakriti + purusa as triad + transcendent fourth.
+
+- **Extended:**
+  - `concepts/karma.md` (2→3): Doniger's six meanings of karma (action → ritual → morally charged →
+    retributive across rebirths → fate/innate role → transferable). Six-layer framework as a new
+    hermeneutical key.
+  - `concepts/samsara.md` (2→3): Doniger's "overcrowding" theory (Ganges Valley urbanization anxiety);
+    two paths + the third (worms, No Exit); samsara's positive face (erotic Upaniṣads, the "whole
+    catastrophe").
+  - `concepts/moksha.md` (3→4): four-stage genealogy of the concept (freedom from death → from samsara →
+    through renunciation → beyond good/evil); neti neti; five solutions to householder/renunciant tension.
+  - `figures/yajnavalkya.md` (1→2): Maitreyī (theological wife) vs. Katyāyanī (worldly wife); Gārgī
+    passages; the feminist reading of the Upaniṣadic teacher who leaves both wives.
+  - `scholarship/doniger-the-hindus.md`: Scope 4 summary added; coverage ledger extended to lines
+    1989–2549; scope-plan checkbox 4/9 → ✅.
+
+Next (auto): Scope 5 — the epics (Rāmāyaṇa, Mahābhārata, dharma) — Chs. 9–11.
+
+## [2026-06-09] ingest | Doniger, *The Hindus* — Scope 5 (Chs. 9–11), autonomous progression
+
+Fifth scope under the autonomous scope-plan. **Scope: Chs. 9–11 (the epics — Rāmāyaṇa, Mahābhārata,
+dharma), read in full** (raw lines 2550–3614). Filed lean (9 new + 4 extended):
+
+**New pages:**
+- `texts/ramayana.md` — Vālmīki's epic; YAML + full body; Sītā's fire ordeal as anti-suttee; shadow-women;
+  monkeys as dream-work; symbolic ogres (guna mapping); language and compassion; Śambuka and Trishanku;
+  smriti canon; interpretive cruxes.
+- `texts/mahabharata.md` — 75,000 verses; "Fifth Veda"; narrative summary; "dharma is subtle";
+  violence/ahimsa; animals as moral agents; caste and class; BG synthesis; comparison table with Rāmāyaṇa.
+- `figures/sita.md` — birth *ayonijā*; two banishments; fire ordeal as protest; goddess status
+  (equine-goddess pattern); Doniger's "adjacent escalators" reading; shadow Sītās controversy.
+- `figures/rama.md` — avatara dynamics ("god in the making"); moral imperfections (Vālin, Śambuka);
+  proto-bhakti; political deployment in modern Hindu nationalism.
+- `figures/ashoka.md` — Kalinga conversion; dhamma edicts; Third Buddhist Council; Persian lion-capital
+  pillars; Aśoka as Yudhiṣṭhira figure; later mythologization.
+- `figures/draupadi.md` — *ayonijā* dark-skinned birth; polyandry (3 justifications); the disrobing;
+  South-Indian goddess cult (lower castes/Pariahs/Muslims); Kālī connection; Sītā comparison table.
+- `concepts/ahimsa.md` — double-negative structure; Vedic → Epic → Classical development; the violence
+  paradox; *matsya-nyāya*; Gita's 4 mentions; King Śibi; Jaina/Buddhist/Hindu distinctions.
+- `concepts/bhakti.md` — etymology (*bhaj*); hate-love/*dveṣa-bhakti*; Heliodorus pillar 115 BCE;
+  Gita's three-path table; Doniger's "third alliance"; bhakti and caste.
+- `groups/nishadas.md` — identity/nomenclature; Valmiki's origin story; house of lac; Ekalavya/thumb;
+  Jaina inversion (Arjuna as villain); modern Dalit hero; "horizontal annex" to the four-varṇa system.
+
+**Extended pages:**
+- `texts/bhagavad-gita.md` (3→4): Doniger's reading — three-path synthesis; "karma without kāma";
+  Arjuna's quasi-Buddhist hesitation; cosmic theophany; ahimsa's absence; political use vs. Gandhi.
+- `figures/krishna.md` (2→3): Doniger's reading — death (three overlapping stories); Heliodorus pillar;
+  rise of sectarian Hinduism; cross-links added.
+- `concepts/dharma.md` (1→2): "'Dharma Is Subtle'" section — Mandavya at the stake; origin of class
+  colors as karmic fall; Gita's karma-without-kāma as double bind.
+- `scholarship/doniger-the-hindus.md`: Scope 5 summary added; coverage ledger extended to Chs. 9–11
+  (lines 2550–3614); scope-plan checkbox 5/9 → ✅.
+
+Coverage: Chs. 9–11 read in full. Next (auto): Scope 6 — Śāstras, bhakti, early Purāṇas (Chs. 12–14).
+
+---
+
+## [2026-06-09] ingest | Doniger, *The Hindus* — Scope 6 (Chs. 12–14), autonomous progression
+
+Sixth scope of the scoped ingest of Wendy Doniger, *The Hindus: An Alternative History* (Penguin, 2009).
+Chs. 12–14 read in full (raw lines 3619–4942). Filed lean (5 new + 5 extended):
+
+**New pages:**
+- `figures/durga.md` — Chandikā/Durgā; the *Devīmāhātmya* (Mārkaṇḍeya Purāṇa); killing of Mahiṣa;
+  killing of Shumbha (absorbs all gods' shaktis); tooth-goddess type; independent shakti; Draupadī
+  connection; tooth/breast typology (Ramanujan); feminist-critique warning.
+- `figures/parvati.md` — Sati/Pārvatī/Gaurī/Kālī cluster; Sati's suicide (not suttee); Śakti Pīṭhas
+  (Viṣṇu dismembers Sati → 51/108 pilgrimage sites); winning Śiva by tapas; Kāma burned; Gaurī/Kālī
+  split; single-parent creation of Gaṇeśa; androgyne (Ardhanārīśvara); breast-goddess analysis.
+- `figures/ganesha.md` — origin myth (Pārvatī scrapes dirt → boy → Śiva decapitates → elephant head);
+  bandicoot vehicle; Lord of Obstacles (creator and remover); patron of scribes; single-parent parallel
+  with Skanda; folk-origins hypothesis.
+- `concepts/shakti.md` — two kinds of shakti (power belonging to a male god vs. what an independent
+  goddess *is*); tooth vs. breast goddess typology; the *Devīmāhātmya* paradox; Tantric development;
+  Doniger's feminist critique (goddess power ≠ women's power).
+- `concepts/darshan.md` — mutual gaze between devotee and deity; temple as royal palace; pūjā sequence;
+  the deity's eyes last opened in installation; Āḷvār verbal darshan; Kannappar's eyes as the ultimate
+  gift; darshan and kingship co-constitution.
+
+**Extended pages:**
+- `concepts/bhakti.md` (1→2): Full South Indian bhakti chapter (Ch. 13): Caṅkam poetry + viraha;
+  Nāyanmārs (63 Śaiva saints) including Campantar + bhakti violence (Jaina impalements); Āḷvārs (12
+  Vaiṣṇava saints) including Āṇṭāḷ; female saints (Karaikkal Ammaiyar, Māhadēvī); darshan and the
+  temple system; Kannappar and the caste double-bind; interreligious exchange (Jainism, Thomas
+  Christianity, Islam and *prapatti*).
+- `concepts/dharma.md` (2→3): Āpad-dharma (the escape clause); Manu as meditation not law code;
+  the three śāstras and their divergences (Manu/Kautilya/Kama-sutra); *tritiya prakriti* (third nature;
+  same-sex acts in the Kama-sutra vs. Manu's penances); Manu's fantastical miscegenation model of jati;
+  the four addictions.
+- `figures/sita.md` (1→2): Śakuntalā as equine-goddess cousin; Kālidāsa's Gupta-era softening of the
+  story (curse substituted for deliberate repudiation) as part of the Gupta literary program stripping
+  equine-goddess figures of protest and agency.
+- `figures/draupadi.md` (1→2): Puranic confirmation that Draupadī "was a goddess from the start";
+  buffalo-sacrifice connection to Durgā/Chandikā cult; *ayonijā* and tooth-goddess structural link.
+- `scholarship/doniger-the-hindus.md`: Scope 6 summary section added; coverage ledger extended to
+  Chs. 12–14 (lines 3619–4942); scope-plan checkbox 6/9 → ✅.
+
+Coverage: Chs. 12–14 read in full. Next (auto): Scope 7 — Tantra, the Sultanate, later Purāṇas,
+philosophy (Chs. 15–18).
+
+---
+
+## [2026-06-09] ingest | Doniger, *The Hindus* — Scope 7 (Chs. 15–18), autonomous progression
+
+Source: Wendy Doniger, *The Hindus: An Alternative History* (Penguin, 2009). Chs. 15–18 read in full
+(lines 4943–6607). Scope 7 coverage: Tantra (Ch. 15); Delhi Sultanate and Kabir and Virashaivas
+(Ch. 16); Later Puranas and avatars and accidental grace (Ch. 17); Vedanta philosophy and the
+Yoga-vasishtha (Ch. 18).
+
+**New pages (2):**
+- `figures/kabir.md`: Kabir (c. 1398–1448) — born into Muslim weaver family with Hindu ancestry;
+  nirguṇa bhakti; challenge to both traditions; "no Hindu, no Turk"; Pashupata parallel; willful
+  dishonor (prostitute story); buffalo recites the Veda; claimed by both after death.
+- `traditions/hinduism/sects/virashaiva.md`: Lingayats/Virashaivas — Basava (1106–1167); body as
+  the only temple of Shiva; portable linga; anti-caste; rejection of stone temples; Muslim influence;
+  Mahadevyyakka (female saint; body-as-temple poetry); violence in the Basava Purana.
+
+**Extended pages (3):**
+- `figures/krishna.md` (2→3): Harivamsha birth narrative (Kamsa, Kali as Yashoda's daughter);
+  Yashoda and the Bhagavata (universe in Krishna's mouth); Gopis as foster-mothers and lovers;
+  Radha and the Gita Govinda (Jayadeva, c. 1179–1209); shadow Sita reborn as Draupadi (Brahmavaivarta
+  Purana).
+- `concepts/bhakti.md` (2→3): North Indian Sant movement (Kabir, Ravidas, Dadu); Sufism–bhakti
+  synthesis; Virashaiva bhakti; accidental grace theology (bell-ringing thief; lamp-lighting adulterer;
+  dog's trident-paw); Shri Vaishnava Cats (passive grace) and Monkeys (active clinging); the zero-sum
+  universe cracked open.
+- `scholarship/doniger-the-hindus.md`: Scope 7 summary section added; coverage ledger extended to
+  Chs. 15–18 (lines 4943–6607); scope-plan checkbox 7/9 → ✅.
+
+Coverage: Chs. 15–18 read in full. Next (auto): Scope 8 — Mughals & British Raj (Chs. 19–22).
+
+## [2026-06-09] ingest | Doniger, *The Hindus* — Scope 8 (Chs. 19–22), autonomous progression
+
+**New pages (7):**
+- `figures/mirabai.md` — Krishna-bhakti saint; "the Deluder" poems; Bhil woman poem; anti-wife type
+- `figures/tulsidas.md` — *Ramcaritmanas*; shadow Sita (happy ending); Rāma and the Crow (Pariah masking)
+- `figures/chaitanya.md` — dual avatar of Kṛṣṇa and Rādhā; Gaudiya Vaishnavism; Sahajiyas; svakīyā/parakīyā (1717)
+- `figures/rammohun-roy.md` — Brahmo Samaj founder; anti-suttee; first use of "Hinduism" (1816?)
+- `figures/gandhi.md` — satyagraha; fasting; Gita commentary; caste conflict with Ambedkar; assassinated 1948
+- `figures/ambedkar.md` — Dalit; Constitution; mass conversion to Buddhism 1956; Poona Pact
+- `concepts/suttee.md` — widow immolation; mythology misapplied; British 1813 circular → 1829 ban; Doniger's multivocal analysis
+
+**New sect pages (2):**
+- `traditions/hinduism/sects/brahmo-samaj.md` — Rammohun Roy 1828; Upanishadic monotheism; anti-image-worship
+- `traditions/hinduism/sects/arya-samaj.md` — Dayananda Sarasvati 1875; Vedas-only; cow protection; shuddhi
+
+**Extended pages (4):**
+- `figures/krishna.md` — Bengal Vaishnavism section (Chaitanya, Chandidas, Radhavallabhas, svakīyā/parakīyā); Tulsidas/shadow Sita treatment; sources 3→5
+- `concepts/bhakti.md` — Tulsidas section (shadow Sita, Rāma and the Crow); Bengal Vaishnavism section (Chaitanya, Sahajiyas, Radhavallabhas); Kshetrayya section (Telugu courtesan devotion, triple register); sources 2→4
+- `scholarship/doniger-the-hindus.md` — Scope 8 summary section; coverage ledger extended to Chs. 19–22 (lines 6607–8033); scope-plan checkbox 8/9 → ✅
+- `index.md` — 7 new figures, 2 new sects, 1 new concept added
+
+Coverage: Chs. 19–22 read in full. Next (auto): Scope 9 — Modern Hinduism & diaspora (Chs. 23–24).
+
+---
+
+## [2026-06-09] ingest | Doniger, *The Hindus* — Scope 9 (Chs. 23–25), autonomous progression
+
+Source: Wendy Doniger, *The Hindus: An Alternative History* (Penguin, 2009). Coverage: **Chs. 23–25** (lines 8033–8821). This completes the full text — all 25 chapters read in full.
+
+**New pages (4):**
+- `figures/vivekananda.md` — first Hindu missionary to America; 1893 World's Parliament of Religions; Ramakrishna Mission; anti-caste, pro-beef; father of "first wave" American Hinduism
+- `traditions/hinduism/sects/iskcon.md` — International Society for Krishna Consciousness; Prabhupada 1965; Gaudiya Vaishnava lineage (Chaitanya); global missionary movement
+- `controversies/babri-masjid-ayodhya.md` — Babur's Mosque destroyed 1992; BJP mob; 1,000+ dead; Ram Setu; Ram Setu canal controversy; "political abuse of history"; JNU historians' pamphlet; "300 Ramayanas"
+- `concepts/hindutva.md` — Hindu nationalism; Savarkar (1922); RSS/Golwalkar; Saffronization; Arya Samaj as precursor; Babri Masjid; Agni missile; "the abuse of history"
+
+**Extended pages (4):**
+- `texts/ramayana.md` — added modern political uses section (Babri Masjid; Ram Setu; "300 Ramayanas" / Ramanujan essay controversy; subversive Ramayanas; Doniger's "fiction" verdict); sources 1→2
+- `controversies/who-defines-hinduism.md` — added American appropriation section: three objection types (got Kali wrong / wrong sort / only Hindus may write); inverted pizza effect; Doniger's response
+- `scholarship/doniger-the-hindus.md` — Scope 9 summary section; coverage ledger extended to Chs. 23–25; scope-plan checkbox 9/9 → ✅; full ingest declared complete (all 25 chapters read)
+- `index.md` — 1 new figure, 1 new sect, 1 new concept, 2 new controversies added
+
+Coverage: **Doniger, *The Hindus* — READ IN FULL** (Chs. 1–25). Back matter (acknowledgments, chronology, bibliography) excluded as reference apparatus.
+
+## [2026-06-09] ingest | Malhotra, *Being Different: An Indian Challenge to Western Universalism* (2011)
+
+Source: Rajiv Malhotra, *Being Different: An Indian Challenge to Western Universalism* (HarperCollins India, 2011). Coverage: **full text**, lines 1–6,455 (`raw/Being Different_ An Indian Challenge to We - Malhotra, Rajiv.txt`). Includes Introduction, Chapters 1–6, Conclusion, Appendix A, endnotes, bibliography, acknowledgments. **Full ingest complete.**
+
+**New pages (10):**
+- `scholarship/being-different-malhotra.md` — full source summary with coverage ledger; four core contrasts; Appendix A survey; bibliography of key interlocutors
+- `commentators/rajiv-malhotra.md` — biographical overview; hermeneutical method (comparative civilizational analysis + purva paksha); characteristic positions; controversies
+- `concepts/purva-paksha.md` — classical Indian debate methodology; Malhotra's extension to civilizational dialogue; Gandhi exemplar; relationship to catuskoti and upaya
+- `concepts/cultural-digestion.md` — tiger/prey metaphor; digestion vs. exchange; inculturation (de Nobili); difference anxiety as driver; relation to Said/post-colonial theory
+- `concepts/history-centrism.md` — structural dependence on unrepeatable historical events; Jewish/Christian/Islamic variants; dharmic contrast (adhyatma-vidya); secular heirs (Hegel, Marx); Big Bang counterargument
+- `concepts/sanskriti.md` — Pan-Asian Sanskrit civilization; pull vs. push spread; geographical extent; 18 non-translatables table
+- `concepts/sapeksha-dharma.md` — positive pluralism; nirapeksha contrast; reciprocity requirement; Gandhi as exemplar; Indian political philosophy
+- `concepts/adhyatma-vidya.md` — inner science; rishis as inner scientists; embodied transmission; Buddhist/Jain parallels; Western lack of consciousness science
+- `concepts/integral-unity.md` — purna vs. synthetic unity; Indra's Net; Hindu schools (Shankara, Ramanuja, Sri Jiva, Aurobindo); Buddhist shunyata/pratitya-samutpada; Jain aneka-anta-vada; bandhu
+- `concepts/integral-unity.md` — see above
+
+**Extended pages (2):**
+- `controversies/who-defines-hinduism.md` — expanded Position 3 from stub ("not yet ingested") to full statement of Malhotra's framework: cultural digestion, purva paksha, non-translatables, specific disagreement with Doniger on temple reclamation
+- `index.md` — new scholarship, commentator, and 7 concept pages added
+
+---
+
+## 2026-06-09 ingest | Vermes, Geza. *The Complete Dead Sea Scrolls in English*. Penguin Classics, 7th rev. ed. 2012.
+
+Source type: primary text + scholarship — the standard English translation and introduction of the Qumran corpus, by the foremost DSS scholar of the 20th century. Covers all major sectarian texts, biblical commentaries (pesharim), rewritten biblical texts, liturgical/wisdom texts, Copper Scroll, and an extensive catalogue appendix. Read in full: lines 1–22830 (across two sessions; final pass lines 17034–22830 in this session).
+
+**Coverage**: Read in full. Lines 18519+ (Scroll Catalogue, Bibliography, Endnotes) are reference appendices read for completeness but not treated as primary analytical content.
+
+**Key contributions**:
+
+(1) **Essene hypothesis and Qumran community identity** — Vermes confidently identifies the Qumran community with the Essenes (Josephus, Philo, Pliny); solar calendar dispute, Zadokite priestly identity, Teacher of Righteousness, Wicked Priest (= Jonathan Maccabaeus, 153–143 BCE). (2) **Two Spirits doctrine** — complete predestinarian dualism (1QS III-IV); Sons of Light vs. Darkness; Prince of Light vs. Belial; Zoroastrian parallel; NT parallels (John, Paul, 1 Thess). (3) **Two Messiahs** — Messiah of Aaron (priestly, precedence) and Messiah of Israel (Davidic/royal); together with a Prophet (Deut 18:18); detailed in messianic banquet (1QSa). (4) **Pesher hermeneutic** — all prophetic texts are contemporizing fulfillments of community's own history; God revealed the full meaning of prophecy to the Teacher; five types of Qumran commentary. (5) **Sanctuary of Men** — community = human temple; works of the Law substitute for Temple sacrifice (4Q174 *miqdash 'adam*). (6) **Heavenly Melchizedek (11Q13)** — eschatological *elohim*/archangel; releases captives at tenth Jubilee; judges against Belial/Melkiresha'. (7) **Messianic Apocalypse (4Q521)** — explicit Qumran resurrection; "He will revive the dead and bring good news to the poor" (cf. Matt 11:2-6). (8) **Angelic Liturgy (4Q400-407)** — earliest post-biblical Merkabah mysticism; seven heavenly sanctuaries; seven Prince-Priests. (9) **MMT** — "works of the Law" as specific halakhic acts; the Pauline parallel. (10) **Jubilees at Qumran** — Hebrew original confirmed; 4Q225 = earliest pre-Christian Isaac voluntary self-sacrifice. (11) **Book of Giants** — Gilgamesh named; no Book of Parables at Qumran.
+
+**New pages created (21)**:
+- `scholarship/dead-sea-scrolls-vermes.md` — source summary, full coverage ledger
+- `texts/community-rule.md` — 1QS
+- `texts/damascus-document.md` — CD
+- `texts/habakkuk-commentary.md` — 1QpHab (pesher)
+- `texts/war-scroll.md` — 1QM
+- `texts/temple-scroll.md` — 11QT
+- `texts/thanksgiving-hymns.md` — 1QH
+- `texts/genesis-apocryphon.md` — 1QapGen
+- `texts/mmt.md` — 4Q394-9
+- `texts/angelic-liturgy.md` — 4Q400-407
+- `texts/heavenly-prince-melchizedek.md` — 11Q13
+- `texts/messianic-apocalypse.md` — 4Q521
+- `texts/jubilees-dss.md` — 4Q216-28 (Qumran Jubilees)
+- `texts/book-of-enoch-dss.md` — 4Q201-212, 4Q530-3 (Qumran Enoch)
+- `texts/messianic-rule.md` — 1QSa
+- `texts/florilegium.md` — 4Q174
+- `texts/testimonia.md` — 4Q175
+- `figures/teacher-of-righteousness.md`
+- `concepts/two-spirits-doctrine.md`
+- `concepts/pesher.md`
+- `concepts/two-messiahs.md`
+- `concepts/merkabah.md`
+- `concepts/kittim.md`
+- `concepts/sanctuary-of-men.md`
+- `traditions/judaism/sects/essenes.md` — expanded stub → comprehensive sect page
+
+**Updated pages (4)**:
+- `figures/melchizedek.md` — added Qumran reception section (11Q13; Testament of Amram)
+- `texts/1-enoch.md` — added DSS attestation section; sources 1→2
+- `texts/jubilees.md` — added DSS attestation section; sources 1→2
+- `index.md` — all new/updated pages added
+
+Coverage: **Full** (lines 1–6,455).
+
+---
+
+## 2026-06-09 ingest | Wright, Lawrence. *Going Clear: Scientology, Hollywood, and the Prison of Belief*. Knopf, 2013.
+
+Source type: scholarship (investigative journalism / NRM). **Coverage: read in full — lines 1–8,867.** Introduction, Chapters 1–11, Epilogue, Acknowledgments and Note on Sources, Notes (full), Bibliography, Index.
+
+New pages created:
+- `scholarship/wright-going-clear.md`
+- `figures/david-miscavige.md`
+- `figures/marty-rathbun.md`
+- `figures/tommy-davis.md`
+- `figures/paul-haggis.md`
+- `locations/gold-base.md`
+- `concepts/the-hole.md`
+- `concepts/disconnection.md`
+- `concepts/purification-rundown.md`
+- `controversies/lisa-mcpherson-case.md`
+- `controversies/hubbard-military-records-forgery.md`
+
+Pages updated:
+- `figures/l-ron-hubbard.md` — Wright's additional evidence section (Admissions document, military forgery, between-lives doctrine, Tesla-coil machine, Hubbard's self-reported failure, Quentin Hubbard, homophobia documentation); sources 7→8
+- `groups/sea-org.md` — abortion policy, child labor, pay structure, Freewinds confinement, NDA terms; sources 1→3
+- `traditions/scientology/scientology.md` — Wright added to scholarship cross-links; sources 5→6
+- `index.md` — all new/updated pages added
+
+---
+
+## 2026-06-10 ingest | Hubbard, L. Ron. *Scientology 8-8008*. (1952; revised/expanded 1953)
+
+Source type: primary text — the Philadelphia Doctorate Course textbook; Hubbard's most systematic doctrinal statement prior to the OT materials. **Coverage: read in full.** Lines 1–2,694 read in prior session (Chapters 1–14); lines 2,694–8,702 read this session (Chapters 15–29, all of Book Two through Certainty Processing appendix of SOP 8); lines 8,723–15,040 confirmed non-doctrinal (publisher catalog + index) and noted.
+
+**Key doctrinal contributions**:
+
+- **Four Parts of Man**: thetan / standard memory banks / genetic entity / MEST body — the thetan is the only true individual
+- **Theta-MEST Theory**: theta (spiritual creative energy) vs. MEST (Matter, Energy, Space, Time); the MEST universe as an "agreed-upon illusion," a "police universe," a "major expanding trap of finite dimensions"; the gradient-of-agreement entrapment history over 76 trillion years
+- **Title meaning**: 8-8008 = reduce apparent infinity of MEST to zero, increase one's own universe from zero to infinity; the double 8 = infinity
+- **Chart of Attitudes**: 16 dichotomies from optimum (27.0–40.0) to low (0.0); basis for Rising Scale Processing
+- **Tone Scale extended**: -8.0 to 40.0; the two-position account (Body-Plus-Thetan "false tone" vs. actual thetan position sub-zero to 40.0); Sub-zero sequence; Responsibility Gradient with detailed tone-level descriptions
+- **ARC Triangle**: Communication declared "thousands of percent the senior in importance to affinity and reality"; communication change as the sole accurate test of case improvement; "A thetan can be what he can see"
+- **Anti-Nirvana statement**: "There is evidently no Nirvana. It is the feeling that one will 'merge' and lose his own individuality that restrains the thetan from attempting to remedy his lot."
+- **States of attainment**: Theta Exterior → Theta Clear → Cleared Theta Clear (50 hours Creative Processing; telekinesis promised) → Operating Thetan (SOP 8 goal)
+- **SOP 3** (Book One): 7-step Standard Operating Procedure for Theta Clearing
+- **SOP 8** (Book Two): 7-step Advanced Procedure toward OT; Spacation, Expanded GITA (~200 items), Present Time Differentiation, imitation
+- **29 Dichotomies**: AC-flow running producing energy through difference of potential
+- **The Factors**: 30-numbered cosmological prose poem (April 23, 1953); "Before the beginning was a Cause"; "The particle of admiration is best of all"
+- **Critique of existing religion**: Hinduism, Indian mysticism, conventional monotheism, and logic all critiqued — Scientology as superior alternative
+- **Deeply religious feelings**: reinterpreted as track-memories of the thetan's own cosmological history
+- **In-text glossary** (Chapter 27): authoritative definitions of thetan, illusion, reality, delusion, certainty, freedom, slavery, mysticism, human body/mind/soul
+- **Code of Honor**: 15 commands from "Never desert a comrade" through "Be true to your own goals"
+- **Glee of insanity**: psychotic irresponsibility as the only apparent escape from perpetual punishment for an immortal being
+
+**New pages created (2)**:
+- `texts/scientology-8-8008.md` — primary text page with full coverage ledger
+- `concepts/mest.md` — MEST / Theta-MEST Theory; the physical universe as illusion/trap; MEST as the lowest tone
+
+**Updated pages (3)**:
+- `concepts/thetan.md` — 8-8008 Definitions section (location, two-position account, anti-Nirvana statement, thetan history, states of attainment); sources 2→3
+- `concepts/tone-scale.md` — 8-8008 Elaborations (extended range, two-position account, responsibility gradient); sources 1→2
+- `concepts/arc-triangle.md` — 8-8008 Elaborations (Communication primacy, perception axiom, sole test of case improvement); sources 1→2
+
+**Index updated**: scientology-8-8008 text entry and MEST concept entry added.
+
+Coverage: **Full** (lines 1–8,702 doctrinal content; lines 8,723–15,040 catalog/index, non-doctrinal, noted).
+
+## 2026-06-10 ingest | Hubbard, L. Ron. *Scientology: A History of Man*. (1952; originally published as *What to Audit*)
+
+**Source type**: Primary doctrinal text (Scientology)
+**Canon status**: Authoritative for Scientology (part of the "Tech")
+**File**: `raw/Scientology, a History of Man A List and D - Unknown.txt` (extracted from PDF via pdftotext; PDF deleted per OCR rule)
+
+**Key content**:
+- Full taxonomy of Technique 88: the four auditing targets (Cellular Injuries, Genetic Entity, Injected Entities, Theta Being)
+- The Genetic Line: complete evolutionary incident sequence from Atom through Caveman, each named and E-Meter-verified; the Clam "deadly incident" warning
+- The Theta Line: 76-trillion-year spiral history; all Chapter 9 incidents (Jack-in-the-Box, Obsession, Borrowing, Nipping, Blanketing, The Halver, Facsimile One/Coffee-Grinder, Before Earth, The Joiners, Ice Cube, Between-Lives, Emanator, Double-Body, Theta Traps, Body Builder series)
+- Between-Lives: Mars as primary report station; last Martian Earth station in the Pyrenees; spinning-wheel forgetter apparatus
+- Supplement incidents (from *Scientology 8-80*): Glare Fights, Mirrors, Exploding Facsimiles, The Capper, The Prover, Iron Maiden, Theta Trap Posts, Parity
+- The Transfer doctrine (Chapter 11): ideal thetan outside the body; types of Transfer; Permanent Transfer as extinction of the thetan; boredom of immortality as the cause of fixation on bodies
+- Generalized incidents (Chapter 10): Motivator, Overt Act, DED, DEDEX, Misassist, Degrader
+- The Step-by-Step Breakdown of SOP 88
+- Key anti-mysticism statement: "India and 'join Nirvana' have given us 'techniques' WHICH ARE GUARANTEED TO GLUE A THETAN TO A BODY AS THOUGH RIVETED AND TIED WITH IRON BANDS."
+- The Halver: origin of religious and sexual compulsion as a deliberate invader control mechanism
+- The Boxer body-builder device equated with the psychologist's ideal of "a well-adjusted human being"
+
+**New pages created (3)**:
+- `texts/history-of-man.md` — primary text page with full coverage ledger
+- `concepts/genetic-entity.md` — the GE: somatic mind; evolutionary incident line; enters body 2 days before conception
+- `concepts/between-lives.md` — post-death implanting; Mars report station; Pyrenees; forgetter apparatus
+
+**Updated pages (2)**:
+- `concepts/thetan.md` — Transfer doctrine, whole track, theta traps, entities, boredom of immortality; sources 3→4
+- `index.md` — history-of-man text entry; genetic-entity and between-lives concept entries added
+
+Coverage: **Full** (lines 1–4,290 doctrinal content; lines 4,291–9,340 = Appendix/Further Study catalog, Editor's Glossary of ordinary English words, Index — non-doctrinal, noted and set aside).
+
+## 2026-06-10 ingest | *New World Translation of the Holy Scriptures* (2013 rev., 2015 printing). Watch Tower Bible and Tract Society.
+
+**Source type**: Primary canonical text (Jehovah's Witnesses)
+**Canon status**: Canonical for Jehovah's Witnesses; rejected by mainstream Christianity
+**File**: `raw/New World Translation of the Holy Scriptur - Watchtower.txt` (12,161 lines)
+
+**Key content**:
+- Uses "Hebrew Scriptures"/"Greek Scriptures" instead of OT/NT — JW terminology
+- "Jehovah" for YHWH throughout; footnoted at Gen 2:4 as "the first occurrence of God's distinctive personal name, יהוה (YHWH)"
+- Gen 1:2: "God's active force" for ruach elohim — denies personhood of the Holy Spirit; anti-Trinitarian
+- Gen 2:7: "living person" for nefesh chayyah — footnoted as "a breathing creature"; reflects JW annihilationism
+- Ex 3:14: "I Will Become What I Choose to Become" — distinctive rendering avoiding "I AM" (static Being)
+- Ex 6:2-3: Confirms YHWH not known by name to patriarchs; NWT's name-restoration rationale
+- "The true God" — used for haElohim contexts; emphasizes JW strict monotheism
+- "Stake" in OT hanging/impalement contexts (Joshua 10:26) — OT background to NT "torture stake"
+- Introductory "20 Questions" section confirms NT uses "Jehovah" (Romans 10:13) and annihilationist anthropology (Eccl 9:5, Psalm 146:4, John 11:11-14)
+- "The Grave" for Hades/Sheol throughout (not Hell)
+- 66-book Protestant canon (no deuterocanon)
+
+**New pages created (1)**:
+- `texts/new-world-translation.md` — primary text page; full documentation of distinctive translation features; coverage ledger noting partial ingest
+
+**Updated pages (1)**:
+- `traditions/christianity/sects/jehovahs-witnesses.md` — updated canon_distinctives, sources_ingested 0→1, removed stub notice
+
+Coverage: **Partial — Hebrew Scriptures only (Genesis through Joshua ch. 24 + Judges outline heading). Greek Scriptures (New Testament) absent from file.**
+
+---
+
+## 2026-06-10 ingest | Thibaut, George (trans.). *The Vedānta-Sūtras with the Commentary by Rāmānuja* (Śrī-Bhāṣya). Sacred Books of the East Vol. 48. Oxford, 1904.
+
+Source type: primary commentary (translation). **Coverage: read in full — lines 1–16,243 main commentary; lines 16,261–17,205 are the Index of Sanskrit Words (reference glossary only, noted but not substantively read).** Read across multiple sessions spanning two conversations. Source file: `raw/Brahma Sutras (Vedanta Sutras) With Commen - George Thibaut.txt`.
+
+**Key contributions — Rāmānuja's *Śrī-Bhāṣya***:
+
+**Adhyāya I (Samanvaya)**:
+- The *Mahāpūrvapakṣa*: Rāmānuja's seven-pronged attack on Advaita's coherence (*avidyā* cannot be defined, cannot locate Brahman as its locus, cannot have Brahman as its object; the self cannot be unknowing to itself; liberation as "knowledge" is circular).
+- The formal definition of *śarīra* (body): "any substance a conscious being controls and supports for its own purposes, and which stands in entirely subordinate relation to that being." This is the hermeneutical foundation for reading identity-texts and difference-texts without Advaita's two truths.
+- *Tat tvam asi* ("that thou art") = inseparable dependence as body to soul, not absolute identity.
+
+**Adhyāya II (Avirodha)**:
+- The *arambhaṇa* adhikaraṇa: world = Brahman's real *pariṇāma* (transformation), not *vivarta* (appearance). Decisive for *pariṇāmavāda* vs. *vivartavāda*.
+- Soul's properties: knower (*jñātṛ*), agent (*kartṛ*), atomic (*aṇu*), part/mode (*aṃśa*) of Brahman. Plural, not one.
+- Refutation of Sāṃkhya, Vaiśeṣika, Buddhism (vijñānavāda, momentariness), Jainism (*syādvāda*), and Pāśupata; defense of Pāñcarātra and the *vyūha* doctrine.
+- Cosmological sequence: Brahman → *ākāśa* → *vāyu* → fire → water → earth.
+- The *antaryāmin*-Brāhmaṇa (Bṛhadāraṇyaka III,7): Brahman dwells within every entity including individual souls, ruling from within while remaining "the Immortal" untouched by what it inhabits.
+
+**Adhyāya III (Sādhana)**:
+- Transmigration: souls in plants are "conjunctively present" (not embodied); only from the *yoni* does the soul obtain a new retributive body.
+- Dreams = created by the Supreme Person (prophetic; retributive); deep sleep = the soul rests in Brahman + the *nāḍīs*; same person wakes (memory, karma, scripture, liberation-injunctions all require it).
+- Brahman's twofold character: (1) freedom from all imperfections AND (2) all blessed qualities; connexion with bodies is *līlā* for Brahman.
+- *Neti neti* = denies exhaustiveness of any finite predicate, not the truth of attributes themselves.
+- Unity of vidyās across *śākhās*; Udgitha vidyās are separate (different subject-matters); essential attributes (bliss, knowledge, infinity, freedom from evil) must be included in all Brahman-meditations.
+- *Upāsanā* = *dhyāna* = *vedana*: the roots are interchangeable; liberating knowledge is repeated sustained practice, not a one-time event; must continue until death.
+- Three auxiliaries: *paṇḍitya* (full mastery), *bālya* (not manifesting pride), *mauna* (reiterated vivid representation = upāsanā itself).
+- Knowledge has an independent fruit (against Jaimini); three āśramas all obligatory; lapsed Naishṭhikas have no expiation; for householders, obligatory works are prerequisites that please the Lord for knowledge.
+
+**Adhyāya IV (Phala)**:
+- Three karman categories: *anārabdha-kārya* (destroyed at rise of knowledge), *ārabdha-kārya* (exhausted by retributive experience), post-knowledge karma (does not cling).
+- Good works at death received by friends; evil works by enemies; Agnihotra still obligatory for the knower.
+- Departure sequence: speech → mind; mind → *prāṇa*; *prāṇa* + soul → elements. Knower exits through the *suṣumnā* (100th+1 artery); assisted by the Lord's grace. Subtle body persists on the journey.
+- Path of the Gods (*devayāna*): light → day → bright fortnight → northern solstice months → Vāyu → sun → lightning → Varuṇa → Indra → Prajāpati → Brahman. Conducting deities lead. Symbol-meditators excluded (*tatkratuḥ*).
+- Release = manifestation of eternally existing true nature (not creation). Soul is non-divided from Brahman as body from its soul.
+- Three views on soul's nature: Jaimini (Brahman-character), Audulomi (pure intelligence), Bādarāyaṇa (both — lump-of-salt analogy). Creates by mere will; self-ruler; body at will.
+- World-ruling power (*jagat-vaiṣamya*) is the exclusive attribute of the Supreme Person; the released soul does not acquire it.
+- Non-return is absolute (Kh VIII,15; BG VIII,15–16; BG VII,17–19): Brahman will not eject the Devotee it loves.
+
+**Pages created (4)**: scholarship/thibaut-vedanta-sutras (major expansion), concepts/sarira-sariri, concepts/antaryami, concepts/upasana, concepts/path-of-the-gods.
+
+**Pages updated (4)**: commentators/ramanuja (comprehensive expansion — full doctrine, hermeneutics, controversies), traditions/hinduism/sects/vishishtadvaita-vedanta (comprehensive expansion — full doctrinal tables, karman categories, state of release), index.md (thibaut scholarship entry updated to note full ingest; 4 new Hindu concepts added).
+
+**Coverage: Full** (entire main commentary SBE Vol. 48, Adhyāyas I–IV, lines 1–16,243; Index of Sanskrit Words noted and set aside).
+
+---
+
+## 2026-06-10 ingest | Kirkland, Russell. *Taoism: The Enduring Tradition*. Routledge, 2004.
+
+Source type: scholarly survey / revisionist history of religion. **Coverage: scope = full main body (Chs. 1–5 + Conclusion), lines 193–1849 — read in full.** Lines 1850+ are endnotes only (citation references). Source: `raw/scholarship/Taoism the enduring Tradition - Kirkland, Russell;Giradot, Norman J.;.txt`.
+
+**Central arguments**:
+1. The tao-chia/tao-chiao ("philosophical Taoism / religious Taoism") dichotomy is a **modern scholarly fabrication** — *tao-chia* was always a Han bibliographic category, not a self-designating community.
+2. The true foundational Taoist text is the **Nei-yeh** (*Kuan-tzu* ch. 49, c. 4th c. BCE), not the Daodejing; it focuses purely on biospiritual cultivation and predates the received Tao te ching.
+3. The continuous practical core of Taoism across all periods is **biospiritual cultivation** (ch'i / ching / shen / hsin) — not "wu-wei philosophy."
+4. "Taoism" as an organized social community only emerged when **Lu Hsiu-ching** organized the first Taoist canon (~471 CE).
+5. The Daodejing has three strata (Guodian / Ma-wang-tui / received) — the Huan Yüan hypothesis places the full-text redaction at the Chi-hsia academy.
+6. The received 33-chapter Zhuangzi was assembled by **Kuo Hsiang** from a 52-chapter original; Kuo's confessional preface (discovered in Kyoto) admits he edited toward "what is easy to understand."
+7. Ko Hung (often cited as representative of Taoism) was NOT representative — his elevation by Creel/Welch was ideologically motivated.
+8. Taoism was deeply embedded in imperial legitimation, NOT anti-political.
+9. Women had formal sacerdotal roles in T'ien-shih; their diminution in late imperial period reflects social change, not Taoist ideology.
+
+**Pages created (14)**:
+- `scholarship/kirkland-taoism-enduring-tradition.md`
+- `commentators/russell-kirkland.md`
+- `commentators/lu-hsiu-ching.md`
+- `commentators/ko-hung.md`
+- `commentators/ssu-ma-cheng-chen.md`
+- `commentators/tu-kuang-ting.md`
+- `texts/nei-yeh.md`
+- `concepts/biospiritual-cultivation.md`
+- `traditions/daoism/sects/heavenly-masters.md`
+- `traditions/daoism/sects/shang-ching.md`
+- `traditions/daoism/sects/ling-pao.md`
+- `traditions/daoism/sects/quanzhen.md`
+- `traditions/daoism/sects/cheng-i.md`
+- `controversies/taochia-taochiao-dichotomy.md`
+
+**Pages updated (5)**:
+- `traditions/daoism/daoism.md` — major revision: ⚠ dichotomy warning, canon expanded (Nei-yeh added), biospiritual cultivation added to core concepts, sect map updated to historically attested communities, Taoism-and-State and Women-in-Taoism sections added
+- `texts/daodejing.md` — Kirkland's three-editions analysis and Huan Yüan hypothesis added
+- `texts/zhuangzi.md` — Kuo Hsiang's role section added
+- `wiki/index.md` — all 14 new pages entered; Daoism texts/commentators/scholarship/concepts/traditions updated
+- `outstanding sources.md` — Kirkland ticked as ingested
+
+---
+
+## 2026-06-10 ingest | Adler, *Reconstructing the Confucian Dao: Zhu Xi's Appropriation of Zhou Dunyi* (SUNY, 2014)
+
+Source type: scholarship — monograph. **Coverage: read in full (complete scope) — Introduction, Chapters 1–4 (including annotated Tongshu translation, Zhu Xi's published commentary Parts I and II), two key postfaces (1169 and 1179), Bibliography, Index. Lines 1–6,339.** Source file: `raw/scholarship/Reconstructing the Confucian Dao - Adler, Joseph Alan.txt`.
+
+Key contributions:
+1. **Adler's central argument**: Zhou Dunyi's role as "founder" of the Cheng-Zhu school was entirely Zhu Xi's retrospective construction (~100 years after Zhou died, 1169–1196). The conventional reason: Zhou's *taiji* concept provided the cosmological link between *qi* and *li*. The deeper reason (Adler's contribution): Zhou's theory of the **interpenetration of activity and stillness** (Tongshu section 16) cosmologically verified Zhu Xi's 1169 ji-chou enlightenment.
+2. **Translation**: *Taiji* = "Supreme Polarity" (NOT "Supreme Ultimate"). *Ji* = ridgepole = the highest point AND the pivot-junction that divides the roof into complementary halves — i.e., it is BOTH the pinnacle AND the principle of bipolarity. *Wuji er taiji* = "Nonpolar and yet Supreme Polarity!"
+3. **Three stages of Zhu Xi's zhong/he problem**: (1) 1153–1163 (Li Tong): stillness emphasis / quiet-sitting; (2) 1167–1168 (Zhang Shi): activity emphasis; (3) 1169 ji-chou enlightenment: interpenetration — stillness within activity, activity within stillness — joined by *jing* (reverent composure).
+4. **Tongshu section 16** as the pivot: "That which has no activity in activity, and no stillness in stillness, is spirit" — the cosmological verification of Zhu Xi's practical resolution.
+5. **Daotong**: Zhu Xi wrote 22 pieces promoting Zhou Dunyi 1169–1196. He replaced the prior account (Cheng Hao independently revived the Way) with Zhou Dunyi as the common teacher of both Chengs. Zhu Xi's use of *zheng tong* (normally reserved for imperial dynastic succession) as a deliberate political challenge to imperial claims of moral authority.
+6. **Daoist diagram origins**: Chen Tuan → Chong Fang → Mu Xiu → Zhou Dunyi's circles. Zhu Xi denied this. The popular yin-yang swirl first appears c. 1370 in Zhao Huiqian — NOT from Zhou Dunyi.
+7. **Zhu Xi as Benedict of Nursia**: Adler's comparison — Zhu was primarily concerned with facilitating sustainable religious practice (sagehood-cultivation), not speculative philosophy.
+
+**Pages created (6)**:
+- `scholarship/adler-reconstructing-confucian-dao.md`
+- `figures/zhou-dunyi.md`
+- `concepts/taiji.md`
+- `concepts/daotong.md`
+- `texts/taijitu-shuo.md`
+- `texts/tongshu.md`
+
+**Pages updated (2)**:
+- `commentators/zhu-xi.md` — major revision: full intellectual biography, three-stage zhong/he problem, ji-chou enlightenment, construction of Zhou Dunyi's canonical status, hermeneutical method, major works, key concepts, controversies, historical influence; sources 0→1
+- `traditions/confucianism/sects/neo-confucianism.md` — major revision: Daoxue self-designation, daotong as retrospective construction (Adler), weifa/yifa problem and interpenetration solution, Buddhism/Daoism parallels, full doctrinal and hermeneutical sections; sources 0→1
+
+**Index and log updated**: `wiki/index.md` (Confucianism texts section, figures section, concepts section, commentators section, new Scholarship/Confucianism subsection); `wiki/log.md` (this entry); `outstanding sources.md` (Adler ticked).

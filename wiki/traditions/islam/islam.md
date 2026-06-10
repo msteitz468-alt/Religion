@@ -4,9 +4,9 @@ also_known_as: [al-Islam, the Muslim tradition]
 type: tradition
 date_range: 7th c. CE (revelation to Muhammad, 610–632) – present
 canon_core: [quran]
-hermeneutical_frameworks: [tafsir, zahir-batin, tafsir-bil-mathur, tafsir-bil-ray, tawil]
-major_sects: [sunni-islam, shia-islam, sufism, mutazilism]
-sources_ingested: 3
+hermeneutical_frameworks: [tafsir, zahir-batin, tafsir-bil-mathur, tafsir-bil-ray, tawil, holistic-thematic-tafsir]
+major_sects: [sunni-islam, shia-islam, sufism, mutazilism, islamic-feminism]
+sources_ingested: 4
 last_updated: 2026-06-09
 tags: [tradition, islam]
 ---
@@ -65,6 +65,11 @@ axis.
   five principles, the created Qur'an, and radical [[tanzih-tashbih|tanzih]]. Now chiefly absorbed
   into Zaydi and Twelver Shia theology; its exegetical monument is [[al-zamakhshari|al-Zamakhshari]]'s
   *al-Kashshaf*.
+- [[islamic-feminism|Islamic feminism]] — a modern reformist *movement* (not a communal sect):
+  gender-inclusive [[tafsir|tafsir]] reading the Qur'an holistically against an androcentric "prior
+  text" ([[fazlur-rahman|Fazlur Rahman]]'s double movement; [[amina-wadud|Wadud]]'s
+  [[wadud-quran-and-woman|*Qur'an and Woman*]]; the [[qiwama|qiwama]] / [[quran-4-34-male-authority|Q
+  4:34]] debate). Contested as heterodox by traditionalists.
 
 ## Key Cross-Tradition Controversies (with Judaism & Christianity)
 

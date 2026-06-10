@@ -5,8 +5,8 @@ tradition: cross-tradition (Judaism primarily; also Christianity — NT polemica
 textual_sources: [Matthew, Mark, Luke, Acts, Romans, Galatians, Philippians, Josephus (Jewish Antiquities, Jewish War), Mishna]
 periods_active: c. 160 BC–70 AD (as a distinct party); legacy continues in Rabbinic Judaism post-70
 roles_significance: [Jewish religious party; legal rigorists; Torah observance advocates; Paul's pre-conversion identity; NT antagonists; forebears of Rabbinic Judaism]
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-06-10
 tags: [group, judaism, christianity, second-temple, pharisees]
 ---
 
@@ -63,6 +63,46 @@ Their actual numbers at any given time were probably not large — Josephus give
 ### The Oral Torah
 A defining Pharisaic commitment was the authority of oral legal tradition (*paradosis*, "that which is handed down") alongside written Scripture. The Sadducees rejected this, accepting only the Pentateuch as authoritative. The Pharisees held that the oral tradition was also given at Sinai and constituted a fence around the written Torah. This principle became the foundation of Rabbinic Judaism's entire edifice.
 
+## Unterman's Portrait (Internal Jewish Perspective)
+
+[[unterman-talmud|Unterman]] (Ch. IX) offers a detailed internal Jewish characterization
+contrasting the three parties as socio-political as well as theological factions:
+
+### The Pharisees (Unterman)
+
+The Pharisees were the **democratic party of common people and Levites** — not priests or
+aristocrats. Their theology directly challenged Sadducean privilege:
+
+- **Oral Torah**: The Pharisees held that an Oral Torah was given alongside the Written Torah
+  at Sinai, and that this living, interpretive tradition was authoritative. This democratized
+  Torah study — anyone could be a scholar, not just the priestly class.
+- **Free will AND divine providence**: Unlike the Sadducees (no providence) or the Essenes
+  (deterministic predestination), the Pharisees maintained both: man has free will AND God
+  guides history. A difficult theological balance, but one that made the Pharisaic tradition
+  intellectually dynamic.
+- **Reward and punishment; resurrection**: The Pharisees affirmed reward/punishment in the
+  afterlife and bodily resurrection — both denied by the Sadducees.
+- **Progressive methodology**: Hillel's seven hermeneutical rules; case-by-case legal
+  reasoning; willingness to adapt the law to new circumstances (e.g. Hillel's *Prosbul*).
+- **Socio-political dimension**: The Pharisees arose partly in response to the aristocratic,
+  priestly monopoly on religious authority. Their synagogue-centered practice placed Torah
+  scholarship above Temple privilege.
+
+### Contrast: Sadducees and Essenes (Unterman)
+
+**Sadducees**: Aristocratic, priestly, wealthy. Accepted only the Written Torah (Pentateuch)
+— no Oral Torah, no resurrection, no divine providence in daily affairs. Their power base
+depended on the Temple and the Roman alliance. When the Temple fell (70 CE), they vanished.
+
+**Essenes**: Ascetic, communal, pacifist. Withdrew from public life into desert communities
+(identified by Unterman as the authors of the Dead Sea Scrolls). Vegetarian. Held property
+in common. Contemplative, deterministic.
+
+Unterman's class analysis: The Pharisee/Sadducee split maps onto a democratic/aristocratic
+political divide. The Pharisees' survival and the emergence of Rabbinic Judaism is partly
+explained by their non-Temple, non-priestly institutional base (the synagogue and the
+yeshiva).
+
 ## Hurtado's Specific Contribution
 
 [[larry-hurtado|Hurtado]] (*Destroyer of the Gods*) uses the Pharisees primarily in two ways:
@@ -93,4 +133,6 @@ The question of how Paul's Pharisaic background relates to his NT theology — a
 - [[new-perspective-on-paul|New Perspective on Paul]] — Pharisaism as the backdrop for Paul's doctrine of the law
 - [[galatians|Galatians]] — Paul's account of his Pharisaic zeal (1:13-14)
 - [[philippians|Philippians]] — his Pharisaic credentials (3:5-6)
-- [[groups/sadducees|Sadducees]] — [page not yet written] contrasting party
+- [[sadducees|Sadducees]] — contrasting aristocratic-priestly party
+- [[essenes|Essenes]] — third major Second Temple party
+- [[unterman-talmud|Unterman, *The Talmud*]] — socio-political analysis

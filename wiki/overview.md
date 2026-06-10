@@ -6,7 +6,9 @@ High-level synthesis of the wiki's current scope and contents.
 
 ## Scope
 
-As of 2026-06-07, this wiki covers:
+As of 2026-06-09, this wiki covers:
+
+**Second Temple Judaism — Dead Sea Scrolls** — *added 2026-06-09*: The Qumran corpus, ingested via Vermes's *The Complete Dead Sea Scrolls in English* (7th ed., 2012) — the wiki's most extensive single-source ingest (22,831 lines, read in full) — and supplemented by VanderKam's *The Dead Sea Scrolls Today* (rev. ed., Eerdmans, 2010; read in full). The DSS cluster adds 21 new pages (Vermes) and 2 further pages (VanderKam: [[dead-sea-scrolls-vanderkam|scholarship page]] + [[wicked-priest-identity|Wicked Priest identity controversy]]). VanderKam's key corrections to Vermes: (a) Magness archaeology — no Phase Ia; short gap between Phases I and II; (b) coordinated solar+schematic-lunar calendar (not solar-only); (c) **God** not the messiah performs miracles in 4Q521; (d) 4Q259 (Community Rule copy e) lacks both the Two Spirits section and the Two Messiahs formula; (e) Book of Giants may occupy the Similitudes slot in the Qumran Enoch; (f) Jubilees quasi-canonical per Damascus Document's "Book of the Divisions" citation; (g) the Wicked Priest identity (Groningen Hypothesis) is an open scholarly controversy. The DSS cluster expands the wiki's coverage of Second Temple Judaism to its foundational sectarian layer: the [[essenes|Essenes]] (the probable producers of the scrolls) and their distinctive theology — the [[two-spirits-doctrine|Two Spirits predestinarian dualism]], the [[two-messiahs|Two Messiahs]] (Messiah of Aaron + Messiah of Israel + a Prophet), the 364-day solar calendar, the [[sanctuary-of-men|Sanctuary of Men]] (community as human temple), and the [[pesher|pesher]] hermeneutic (all prophecy fulfilled in the community's own history). Major new texts: [[community-rule|1QS]], [[damascus-document|CD]], [[habakkuk-commentary|1QpHab]], [[war-scroll|1QM]], [[temple-scroll|11QT]], [[mmt|MMT (4Q394-9)]], [[messianic-rule|1QSa]], [[angelic-liturgy|4Q400-407]], [[heavenly-prince-melchizedek|11Q13]] (Melchizedek as archangel), [[messianic-apocalypse|4Q521]] (explicit resurrection), [[florilegium|4Q174]], [[testimonia|4Q175]]. The [[merkabah|Merkabah mysticism]] concept is established here as the earliest post-biblical source (4Q400-407 = earliest Merkabah text). The [[kittim|Kittim]] concept (= Romans) provides the community's chronological anchor. Crucially, the ingested Vermes material also documents the Qumran attestation of [[1-enoch|1 Enoch]] and [[jubilees|Jubilees]] (15+ Jubilees copies; Enoch fragments confirming the Aramaic original and the *absence* of the Book of Parables), and supplies the *miqdash 'adam* / "works of the Law" parallels that illuminate the Pauline letters. The figure page for [[teacher-of-righteousness|the Teacher of Righteousness]] is now documented.
 
 **Jewish tradition (rabbinic)**: The Babylonian Talmud and its rabbinic context — structure, hermeneutics (Halacha/Aggadah, Thirteen Middot), codification history, and key controversies (Oral Torah authority, Pharisee/Sadducee/Karaite divisions). Covered primarily through a traditionalist apologetic secondary source (Unterman 1952), now joined by a modern critical comparative source — [[secunda-the-iranian-talmud|Secunda, *The Iranian Talmud*]] (2014) — that reads the Bavli in its **Sasanian Iranian** context ([[talmudo-iranica|Talmudo-Iranica]]).
 
@@ -75,20 +77,20 @@ As of 2026-06-07, this wiki covers:
 
 | Category | Pages |
 |---|---|
-| Texts | 54 (43 + 10 Apostolic Fathers + Zohar) |
-| Commentators | 50 (+ Moses de León, Daniel C. Matt) |
-| Scholarship | 8 (7 + Holmes source summary) |
-| Concepts | 70 (+ Ein Sof, Sefirot, Shekhinah, Sitra Aḥra, PaRDeS, Tsaddiq, Zoharic Afterlife, Circumcision) |
-| Figures | ~44+ (+ Adam, Shim'on bar Yoḥai, Jacob, Joseph, Judah, Tamar, Esau, Sarah, Rebekah, Rachel, Leah, Ishmael) |
+| Texts | ~75 (43 + 10 Apostolic Fathers + Zohar + 14 DSS + 1-Enoch/Jubilees DSS supplements + others) |
+| Commentators | 50+ |
+| Scholarship | 9 (+ dead-sea-scrolls-vermes) |
+| Concepts | ~77 (+ 6 DSS: two-spirits-doctrine, pesher, two-messiahs, merkabah, kittim, sanctuary-of-men) |
+| Figures | ~46+ (+ teacher-of-righteousness) |
 | Groups | 10 |
 | Locations | 3 |
-| Traditions | 21 (+ **Manichaeism**; Shinto, Chinese Folk Religion, Celtic, Norse, Mesoamerican, Vedic, Mesopotamian, Egyptian, Greek, Roman, Judaism, Christianity, Samaritanism, Islam, Buddhism, Hinduism, Daoism, Confucianism, Zoroastrianism, Scientology) |
-| Sects | 88 (+ Shinto: 4 cult-forms; Chinese folk: 4; Celtic: 4; Norse: 4; Mesoamerican: 2; Vedic: 2; Mesopotamian: 3; Egyptian: 6; Greek: 5; Roman: 6; Scientology: 2; Christianity 27; Zoroastrianism: 1; Confucianism: 2; Daoism: 2; Hinduism: 3; Buddhism: 3; Islam: 3; Judaism: 5) |
+| Traditions | 21 |
+| Sects | ~89 (Essenes expanded from stub to full page) |
 | Comparisons | 1 |
-| Controversies | 31 (+ Zohar authorship) |
+| Controversies | 31 |
 | Timelines | 1 |
 | Queries | 0 |
-| **Total** | **~700+** |
+| **Total** | **~730+** |
 
 ### Scope expansion — Shinto (2026-06-09) — fourth and last of the four new pantheons (Celtic, Norse, Chinese folk, Shinto now all complete)
 

@@ -2,7 +2,7 @@
 title: Auditing (and the Bridge to Total Freedom)
 domain: liturgy
 traditions_using: [Scientology]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-09
 tags: [concept, scientology, practice, e-meter]
 ---
@@ -37,7 +37,16 @@ Auditing must be delivered as **"standard tech"** — exactly as [[l-ron-hubbard
 deviation ("**Keeping Scientology Working**"). Altering the procedure ("squirreling") is the cardinal sin,
 and the boundary between the [[church-of-scientology|Church]] and the [[free-zone-scientology|Free Zone]].
 
+## Urban on Auditing
+
+Urban (*The Church of Scientology*, Princeton 2011) traces the E-meter's origin to **Volney Mathison's** device, which Hubbard adapted from around 1951–52. After a dispute, Hubbard and Mathison split in 1954. Hubbard rebranded the E-meter as a "religious artifact used as a spiritual guide in the church confessional" (1973 policy letter) — a deliberate reclassification to insulate it from FDA medical-device regulation, one of the most explicit examples of the "religion angle" in operational practice.
+
+The E-meter as confessional was critical to the **Security Check / Sec Check** — interrogation sessions ("Have you ever enslaved a population?"; "Did you come to Earth for evil purposes?") that used E-meter responses as lie-detector-style indicators of hidden transgression. These continued under the name "integrity processing" after Fair Game was officially canceled.
+
+The financial structure of auditing: the full Bridge reportedly costs a minimum of **$300,000–$400,000** to complete. In 1993, the Church's total assets were estimated at $398 million, with $300 million earned in a single year.
+
 ## Cross-Links
 
-- [[scientology|Scientology]], [[dianetics|Dianetics]], [[engram|Engram]], [[thetan|Thetan]],
-  [[l-ron-hubbard|Hubbard]]
+- [[scientology|Scientology]], [[dianetics|Dianetics]], [[engram|Engram]], [[thetan|Thetan]], [[operating-thetan|Operating Thetan]]
+- [[l-ron-hubbard|Hubbard]], [[fair-game|Fair Game]]
+- [[urban-church-of-scientology|Urban]]

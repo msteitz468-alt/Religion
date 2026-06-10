@@ -105,6 +105,10 @@ Master index of all pages. Updated on every ingest.
 - *Letter of Polycarp to the Philippians* — ca. 107–110 CE; Pauline letters as scripture (Eph cited as *graphē*); anti-Docetism; plural elder governance at Philippi; documented in [[polycarp|Polycarp of Smyrna]] figure page; Greek
 - *Martyrdom of Polycarp* — ca. 155–160 CE; oldest Christian martyrdom narrative outside NT; typology of Polycarp as *typos Christou*; documented in [[polycarp|Polycarp of Smyrna]] figure page; Greek
 
+### Jehovah's Witness Scripture
+
+- [[new-world-translation|New World Translation of the Holy Scriptures]] — the JW's own Bible translation (2013 rev.); "Jehovah" for YHWH throughout; "God's active force" (Gen 1:2, anti-Trinitarian); "living person" for nefesh (annihilationist anthropology); "I Will Become What I Choose to Become" (Ex 3:14); "torture stake" not "cross"; partial ingest (Genesis–Joshua only; Greek Scriptures absent from file) (new 2026-06-10)
+
 ### Latter-day Saint Scriptures (Restorationist)
 
 *(Added 2026-06-09 — the open Mormon canon; the headline `canon_scope` case.)*
@@ -130,36 +134,77 @@ Master index of all pages. Updated on every ingest.
 - [[dhammapada|The Dhammapada]] — 423 verses; the most-revered shared Buddhist text; Buddharakkhita translation ingested
 - [[heart-sutra|The Heart Sutra]] — Prajnaparamita; "form is emptiness"; `canonical_for: [mahayana, vajrayana]`, `rejected_by: [theravada]`
 - [[lotus-sutra|The Lotus Sutra]] — One Vehicle + skillful means (*upaya*); Kern translation ingested; `rejected_by: [theravada]`
+- [[mulamadhyamakakarika|Mūlamadhyamakakārikā]] — Nāgārjuna's root verses on the Middle Way (c. 150 CE); the founding *śāstra* of [[madhyamaka|Madhyamaka]]; "all things are empty"; `authoritative_for: [madhyamaka, mahayana, vajrayana]`; Siderits & Katsura translation (new 2026-06-09)
+- [[bodhicaryavatara|Bodhicaryāvatāra]] — Śāntideva's poetic guide to the bodhisattva path (8th c.); bodhicitta, the exchange of self and other (ch. 8), Madhyamaka emptiness (ch. 9); Crosby & Skilton translation (new 2026-06-09)
+- *Pali Nikāyas* (anthologized) — see [[bodhi-in-the-buddhas-words|Bodhi, *In the Buddha's Words*]], the thematic Nikāya anthology, under Scholarship (new 2026-06-09)
 
 ### Hinduism (Vedanta — the prasthana-trayi)
 
 *(Tradition added 2026-06-09. One shared canon, three opposed commentaries — `canon_scope` identical, interpretation divergent.)*
 
+- [[vedas|The Vedas]] — the four Saṃhitās (Ṛg/Sāma/Yajur/Atharva) + Brāhmaṇa/Āraṇyaka/Upaniṣad strata; śruti; the foundational canon of Vedic religion & Hinduism, rejected by the nāstika systems (new 2026-06-09; [[dasgupta-history-of-indian-philosophy|Dasgupta]] Vol. I)
 - [[upanishads|The Upanishads]] — shruti; Brahman/atman; the mahavakyas ("that thou art"); Müller (SBE1) ingested
-- [[bhagavad-gita|The Bhagavad Gita]] — Krishna's teaching; karma/jnana/bhakti yoga; Arnold verse translation ingested
-- [[brahma-sutras|The Brahma Sutras]] — Badarayana's aphorisms; the battleground of Vedanta; Thibaut (Shankara SBE34 + Ramanuja SBE48) ingested
+- [[bhagavad-gita|The Bhagavad Gita]] — Krishna's teaching; karma/jnana/bhakti yoga; **3 commentaries ingested**: Arnold (verse), Śaṅkara/Gambhirananda (Advaita), Abhinavagupta/Marjanovic (Kashmir Śaiva)
+- [[brahma-sutras|The Brahma Sutras]] — Badarayana's aphorisms; the battleground of Vedanta; 4 adhyāyas; Thibaut (Shankara SBE34/38 + Ramanuja SBE48) + [[dasgupta-history-of-indian-philosophy|Dasgupta]] on [[madhva|Madhva's]] reading ingested
 - [[yoga-sutras|The Yoga Sutras of Patanjali]] — the Yoga darshana; the eight limbs; Johnston translation ingested
+
+### Hinduism (Epics — smriti)
+
+*(The two great itihāsas, ingested via Doniger, *The Hindus*, Chs. 9–11, 2026-06-09.)*
+
+- [[ramayana|The Rāmāyaṇa]] — Vālmīki's epic; Rāma's exile and war against Rāvaṇa; Sītā's ordeals; proto-bhakti in Rāma's name; the first smriti text of classical Hinduism; c. 200 BCE–200 CE (new 2026-06-09)
+- [[mahabharata|The Mahābhārata]] — 75,000 verses; the Kuru civil war; "dharma is subtle"; *matsya-nyāya*; includes the Bhagavad Gita; the Fifth Veda; c. 300 BCE–300 CE (new 2026-06-09)
 
 ### Daoism
 
-*(Tradition added 2026-06-09. One shared canon, two transformative readings — Wang Bi vs. Heshang Gong.)*
+*(Tradition added 2026-06-09. One shared canon, two transformative readings — Wang Bi vs. Heshang Gong. Kirkland revision 2026-06-10: tao-chia/tao-chiao dichotomy challenged; Nei-yeh as true foundational text; organized Taoism from 5th c. CE.)*
 
-- [[daodejing|The Daodejing (Tao Te Ching)]] — 81 chapters; the ineffable Dao, wu-wei; Legge (SBE39) translation ingested
-- [[zhuangzi|The Zhuangzi]] — stories and paradoxes; skeptical relativism; the butterfly dream; Legge translation ingested
+- [[nei-yeh|The Nei-yeh (Inner Cultivation)]] — Kuan-tzu ch. 49, c. 4th c. BCE; Kirkland's candidate for true foundational Taoist text; biospiritual cultivation of ch'i / ching / shen / hsin; oral-tradition origins; predates the received Tao te ching; no wu-wei politics, no gender imagery (new 2026-06-10)
+- [[daodejing|The Daodejing (Tao Te Ching)]] — 81 chapters; the ineffable Dao, wu-wei; Legge (SBE39) + Ziporyn (Liveright 2022) translations ingested; Ziporyn: composite-text thesis, A/B ironic-inversion structure, key-term analysis (*dao*="the course", *de*="virtuosity"); Wang Bi's *Laozi weizhi lüeli* (LZWZLL) documented via Wagner Scope A; Kirkland: three-editions analysis (Guodian / Ma-wang-tui / received), Huan Yüan hypothesis (new 2026-06-10)
+- [[zhuangzi|The Zhuangzi]] — stories and paradoxes; skeptical relativism; wu-wei skill parables; Legge translation ingested; Merton creative readings + introductory essay; Kirkland: Kuo Hsiang assembled 33-chapter text from 52-chapter original, Kuo's confessional preface (new 2026-06-10)
 
-### Confucianism (the Four Books)
+### Confucianism (the Four Books and Foundational Neo-Confucian Texts)
 
-*(Tradition added 2026-06-09.)*
+*(Tradition added 2026-06-09. Neo-Confucian texts added 2026-06-10 from Adler ingest.)*
 
 - [[analects|The Analects (Lunyu)]] — the sayings of Confucius; ren, li, the junzi; Legge translation ingested
 - [[mencius|The Mencius (Mengzi)]] — the "Second Sage"; innate goodness of human nature; benevolent government; Legge translation ingested
+- [[yijing|Yijing (Scripture of Change / I Ching)]] — first of the Five Classics; 64 hexagrams + Ten Wings; Bronze Age oracle text Confucianized via the Ten Wings; Zhu Xi's hermeneutical key: "the Yi was originally created for divination"; xiangshu vs. yili schools; Xici's *taiji* → Two Modes → Eight Trigrams cosmological chain; *sheng sheng* (generation and regeneration) as the meaning of change; Fu hexagram (24) as the theological heart; Adler 2020 translation ingested (new 2026-06-10)
+- [[taijitu-shuo|Taijitu shuo (Discussion of the Supreme Polarity Diagram)]] — Zhou Dunyi (c. 1050s–1073); ~250 characters; the foundational cosmological text of Neo-Confucianism; wuji er taiji cosmogony; `authoritative_for: [neo-confucianism, cheng-zhu-school]`; Daoist diagram origin; Zhu Xi's taiji = li equation (new 2026-06-10)
+- [[tongshu|Tongshu (Penetrating the Scripture of Change)]] — Zhou Dunyi (c. 1050s–1073); 40 sections on sagehood, *cheng*, *ji*, activity-stillness interpenetration; **section 16** the pivot of Zhu Xi's 1169 ji-chou enlightenment; `authoritative_for: [neo-confucianism, cheng-zhu-school]`; Zhu Xi commentary 1187 (new 2026-06-10)
 
-### Second Temple Judaism (Pseudepigrapha)
+### Second Temple Judaism (Pseudepigrapha and Dead Sea Scrolls)
 
-*(Added 2026-06-09 — back-fills the Enoch figure, the Essene canon, and the Jude/1 Enoch controversy.)*
+*(Added 2026-06-09 — back-fills the Enoch figure, the Essene canon, and the Jude/1 Enoch controversy. DSS cluster added 2026-06-09 from Vermes ingest.)*
 
-- [[1-enoch|1 Enoch]] — the great apocalyptic pseudepigraphon; the Watchers and the Son of Man; the wiki's richest `canon_scope` (canonical for Ethiopia, authoritative at Qumran, quoted by Jude, rejected elsewhere); Charles translation ingested
-- [[jubilees|The Book of Jubilees]] — "rewritten Genesis"; the 364-day solar calendar; canonical in Ethiopia, authoritative at Qumran; Charles translation ingested
+- [[1-enoch|1 Enoch]] — the great apocalyptic pseudepigraphon; the Watchers and the Son of Man; the wiki's richest `canon_scope` (canonical for Ethiopia, authoritative at Qumran, quoted by Jude, rejected elsewhere); Charles translation ingested; Qumran fragments documented in [[book-of-enoch-dss]]
+- [[jubilees|The Book of Jubilees]] — "rewritten Genesis"; the 364-day solar calendar; canonical in Ethiopia, authoritative at Qumran; Charles translation ingested; Qumran fragments documented in [[jubilees-dss]]
+
+**Dead Sea Scrolls — Sectarian Texts (all `authoritative_for: [essenes]`)**:
+- [[community-rule|Community Rule (1QS)]] — the Qumran constitutional document; covenant renewal, Two Spirits, penal code, Council of Community; Vermes ingested
+- [[damascus-document|Damascus Document (CD)]] — the rule book for Essene camp communities; Exhortation + Laws; Teacher and Wicked Priest; Cairo Genizah + 4QD; Vermes ingested
+- [[war-scroll|War Scroll (1QM)]] — the 40-year eschatological war of Sons of Light vs. Sons of Darkness; military organization, liturgy, Michael's role; Vermes ingested
+- [[thanksgiving-hymns|Thanksgiving Hymns (1QH)]] — the Qumran Hodayot; Teacher hymns + Community hymns; divine birth metaphor; predestinarianism and grace; Vermes ingested
+- [[temple-scroll|Temple Scroll (11QT)]] — the ideal Torah; 500-cubit Temple; solar calendar festivals; Wood Offering; crucifixion/treason penalty; divine first-person voice; Vermes ingested
+- [[mmt|Miqsat Ma'ase Ha-Torah (MMT / 4Q394-9)]] — the halakhic letter; 20+ legal rulings; "works of the Law" (*ma'asay ha-Torah*); tripartite canon reference; Pauline parallel; Vermes ingested
+- [[messianic-rule|Messianic Rule (1QSa)]] — the eschatological congregation in the last days; the messianic banquet; Priest precedes Davidic Messiah; Two Messiahs illustrated; Vermes ingested (new 2026-06-09)
+- [[angelic-liturgy|Angelic Liturgy (4Q400-407, Shirot Olat HaShabbat)]] — 13 Sabbath songs; seven heavenly sanctuaries; Merkabah descriptions; earliest post-biblical Merkabah mysticism; Vermes ingested
+
+**Dead Sea Scrolls — Commentaries (Pesharim)**:
+- [[habakkuk-commentary|Habakkuk Commentary (1QpHab)]] — the primary pesher; Kittim = Romans; Teacher of Righteousness and Wicked Priest; "righteous by faith" = faithfulness to the Teacher; Vermes ingested
+
+**Dead Sea Scrolls — Rewritten Biblical Texts**:
+- [[genesis-apocryphon|Genesis Apocryphon (1QapGen)]] — Aramaic rewriting of Genesis; Lamech/Noah birth narrative; Sarah beauty ekphrasis; Abraham's prayer against Pharaoh; Melchizedek; Vermes ingested
+- [[jubilees-dss|Jubilees (Qumran Fragments, 4Q216-28)]] — Hebrew original confirmed; 4Q219 textual correction; 4Q225 = earliest pre-Christian Isaac willing self-sacrifice; Mastema; Vermes ingested
+- [[book-of-enoch-dss|Book of Enoch — Qumran Fragments (4Q201-212, 4Q530-3)]] — Aramaic original confirmed; 20 fallen angel chiefs; absence of Book of Parables; Astronomical Book more developed; Book of Giants (Gilgamesh named); Vermes ingested
+
+**Dead Sea Scrolls — Thematic Pesharim / Florilegia**:
+- [[florilegium|Florilegium (4Q174)]] — thematic pesher; Sanctuary of Men (*miqdash 'adam*); works of the Law as incense-offerings; Davidic Messiah + Interpreter of the Law; Vermes ingested (new 2026-06-09)
+- [[testimonia|Testimonia (4Q175)]] — four messianic proof-texts; the three-figure schema (Prophet + Star/Royal + Priestly); Deut 18:18 + Num 24:17 + Deut 33:8-11; Psalms of Joshua curse; Vermes ingested (new 2026-06-09)
+
+**Dead Sea Scrolls — Miscellaneous Eschatological**:
+- [[heavenly-prince-melchizedek|Heavenly Prince Melchizedek (11Q13)]] — Melchizedek as *elohim*/archangel Michael; tenth Jubilee eschatology; Day of Atonement release; Belial/Melkiresha' counterpart; Vermes ingested
+- [[messianic-apocalypse|Messianic Apocalypse (4Q521)]] — explicit resurrection; "He will revive the dead and bring good news to the poor"; Isaiah 61:1; closest Qumran parallel to Matt 11:2-6; Vermes ingested
 
 ### Zoroastrianism
 
@@ -177,6 +222,8 @@ Master index of all pages. Updated on every ingest.
 - [[science-of-survival|Science of Survival]] — Hubbard (1951); the Tone Scale / Chart of Human Evaluation; primary text in `raw/`
 - [[scientology-fundamentals-of-thought|Scientology: The Fundamentals of Thought]] — Hubbard (1956); the "basic book" (Eight Dynamics, ARC triangle, parts of man); primary text in `raw/`
 - [[notes-on-the-lectures|Notes on the Lectures of L. Ron Hubbard]] — compiled from the 1950 LA/Oakland lecture series; the earliest lecture form of the Tone Scale, ARC, engrams, the Dynamics (new 2026-06-09)
+- [[scientology-8-8008|Scientology 8-8008]] — Hubbard (1952/1953); the Philadelphia Doctorate Course textbook; the most systematic pre-OT doctrinal statement; Four Parts of Man, Theta-MEST Theory, Chart of Attitudes, SOP 3, SOP 8, The Factors; anti-Nirvana statement; "Gods above Gods" passage (new 2026-06-10)
+- [[history-of-man|Scientology: A History of Man]] — Hubbard (1952); the Technique 88 manual; whole track (76 trillion years); the Genetic Entity and evolutionary incident line; theta-line incidents (Halver, Fac One, Between-Lives/Mars, theta traps, Transfer doctrine); the GE vs. thetan distinction; anti-mysticism statement (new 2026-06-10)
 
 ### Greek and Roman Religion
 
@@ -303,6 +350,7 @@ Master index of all pages. Updated on every ingest.
 - **The great gods** (detailed narratives): [[indra|Indra]] (the slaying of Vritra), [[agni|Agni]], [[varuna|Varuna]]
 - **Cosmic & sovereign gods**: [[mitra|Mitra]], [[soma|Soma]], [[surya|Surya]], [[ushas|Ushas]], [[vayu|Vayu]], [[dyaus|Dyaus Pitar]], [[aditi|Aditi]], [[prajapati|Prajapati]]
 - **Fierce, storm & death gods**: [[rudra|Rudra]] (→ Shiva), the [[maruts|Maruts]], [[yama|Yama]], the [[ashvins|Ashvins]], the demon [[vritra|Vritra]]
+- **Upaniṣadic sages**: [[yajnavalkya|Yājñavalkya]] — the chief voice of the *ātman = Brahman* doctrine; *neti neti*, the Maitreyī dialogue, transmigration by desire ([[dasgupta-history-of-indian-philosophy|Dasgupta]] Vol. I, new 2026-06-09)
 
 ### The Mesopotamian Pantheon (2026-06-09)
 
@@ -322,12 +370,28 @@ Master index of all pages. Updated on every ingest.
 
 ### Hinduism (2026-06-09)
 - [[krishna|Krishna]] — the eighth avatar of Vishnu; teacher of the Bhagavad Gita; supreme God of Vaishnavism; *avatara* and *bhakti*
+- [[sita|Sītā]] — queen and avatar of Lakṣmī; Rāma's wife; the fire ordeal as anti-suttee protest; the equine-goddess pattern; Doniger's anti-doormat reading (new 2026-06-09)
+- [[rama|Rāma]] — seventh avatar of Viṣṇu; ideal king-warrior; moral imperfections (Vālin, Śambuka); the Rāmāyaṇa as proto-bhakti (new 2026-06-09)
+- [[ashoka|Aśoka]] — Maurya emperor (r. c. 268–232 BCE); Kalinga conquest and conversion; dhamma edicts; Third Buddhist Council; the pillar capitals (new 2026-06-09)
+- [[draupadi|Draupadī]] — Kṛṣṇā, born from fire; polyandrous wife of the five Pāṇḍavas; the disrobing; goddess-cult in South India; feminist counterpart to Sītā (new 2026-06-09)
+- [[durga|Durgā / Chandikā]] — paradigmatic tooth goddess; kills the buffalo-demon Mahiṣa; "Glorification of the Goddess" (*Devīmāhātmya*); independent [[shakti|shakti]] who absorbs all divine power; Doniger's feminist-critique test case (new 2026-06-09)
+- [[parvati|Pārvatī / Sati / Kālī]] — paradigmatic breast goddess; consort of Śiva; Sati's suicide and the Śakti Pīṭhas; winning Śiva; Kāma burned; Gaurī/Kālī split; single-parent mother of [[ganesha|Gaṇeśa]] (new 2026-06-09)
+- [[ganesha|Gaṇeśa]] — elephant-headed Lord of Obstacles; patron of scribes; parthenogenic son of Pārvatī; beheaded by Śiva and restored with an elephant head; bandicoot vehicle (new 2026-06-09)
+- [[kabir|Kabīr]] (c. 1398–1448) — Sant poet; born Muslim weaver with Hindu ancestry; nirguṇa bhakti; "no Hindu, no Turk"; challenges circumcision, sacred thread, untouchability; claimed by both traditions after death; paradigmatic figure of Hindu-Muslim synthesis (new 2026-06-09)
+- [[tulsidas|Tulsidas]] (c. 1532–1623) — principal architect of North Indian Vaishnavism; *Ramcaritmanas* (Hindi Rāmāyaṇa); shadow Sita; Rāma and the Crow (Pariah's divine vision masked as animal); happy ending (new 2026-06-09)
+- [[chaitanya|Chaitanya]] (1486–1533) — Bengali saint; incarnation of both Kṛṣṇa and Rādhā; founder of Gaudiya Vaishnavism; Sahajiyas; svakīyā/parakīyā debate (adulterous love declared orthodox in 1717); global root of ISKCON (new 2026-06-09)
+- [[mirabai|Mirabai]] (c. 1450–1525) — Rajput Krishna-bhakti poet-saint; refused forced marriage; "the Deluder" poems; Bhil woman poem; most quoted North Indian woman saint (new 2026-06-09)
+- [[rammohun-roy|Rammohun Roy]] (1774–1833) — founded Brahmo Samaj (1828); first to use the word "Hinduism" (1816?); anti-suttee campaign; Upanishad translations into Bangla; colonial reform paradigm (new 2026-06-09)
+- [[gandhi|Gandhi]] (1869–1948) — Mahatma; satyagraha and nonviolent resistance; fasting as moral weapon; Gita commentary (symbolic reading); conflict with Ambedkar over caste; assassination by Godse (RSS) 1948 (new 2026-06-09)
+- [[ambedkar|Ambedkar]] (1891–1956) — Dalit; drafted Indian Constitution; converted to Buddhism 1956 (5 million Dalits); rejected Gandhi's caste position; "Being Scheduled Caste causes inferiority in our minds. To be Buddhist, it makes me feel free." (new 2026-06-09)
+- [[vivekananda|Vivekananda]] (1863–1902) — first systematic Hindu missionary to the West; World's Parliament of Religions (Chicago 1893); founded Ramakrishna Mission; anti-caste, pro-beef; father of "first wave" American Hinduism (new 2026-06-09)
 
 ### Daoism (2026-06-09)
 - [[laozi|Laozi]] — legendary author of the Daodejing; the "Old Master"; deified in religious Daoism as Taishang Laojun
 
 ### Confucianism (2026-06-09)
 - [[confucius|Confucius (Kongzi)]] — founding teacher of Confucianism; ren, li, the junzi; the "Uncrowned King" of the imperial cult
+- [[zhou-dunyi|Zhou Dunyi]] (1017–1073) — author of the *Taijitu shuo* and *Tongshu*; retrospectively elevated by Zhu Xi as the post-Mencius link in the daotong; his activity-stillness interpenetration (Tongshu 16) was the key to Zhu Xi's 1169 enlightenment; daotong position was substantially Zhu Xi's construction, not a recognized status in his lifetime (new 2026-06-10)
 
 ### Zoroastrianism (2026-06-09)
 - [[zarathustra|Zarathustra (Zoroaster)]] — prophet and founder; revealed Ahura Mazda; framed religion as a cosmic moral choice; the Greek legendary "magus"; the *manthran* and his reception (Rose)
@@ -339,11 +403,27 @@ Master index of all pages. Updated on every ingest.
 
 ### Scientology (2026-06-09)
 - [[l-ron-hubbard|L. Ron Hubbard]] (1911–1986) — founder of Dianetics and Scientology; "Source"; sole author of its scripture; contested biography
+- [[david-miscavige|David Miscavige]] (b. 1960) — Chairman of the Board RTC; de facto leader of Scientology since 1987; documented abuse allegations (the Hole, physical assaults); IRS victory architect (Wright, *Going Clear*)
+- [[marty-rathbun|Marty Rathbun]] (b. 1957) — Inspector General for Ethics; handled IRS negotiations and Lisa McPherson cover-up; defected c. 2004; independent auditor and blogger; three-camp taxonomy of ex-members (Wright)
+- [[tommy-davis|Tommy Davis]] — son of Anne Archer; chief Church spokesperson c. 2004–2011; BBC Panorama confrontation; presented forged military document to Wright's fact-checkers; left Church c. 2011 (Wright)
+- [[paul-haggis|Paul Haggis]] (b. 1953) — Academy Award-winning screenwriter/director (*Crash*, *Million Dollar Baby*); 34 years in Scientology; resigned publicly August 19, 2009; narrative frame of *Going Clear* (Wright)
+- [[mary-sue-hubbard|Mary Sue Hubbard]] (1931–2002) — first Guardian of Scientology (March 1, 1966); directed the Guardian's Office; Operation Snow White mastermind; convicted and imprisoned; abandoned by Hubbard; displaced by Miscavige (new 2026-06-10)
+- [[david-mayo|David Mayo]] (fl. 1970s–80s) — Class 12 Auditor; Senior C/S Int; co-developed NOTs with Hubbard (1978); designated tech heir (April 1982); removed August 1982; Happy Valley; founded AAC Santa Barbara July 1983 (new 2026-06-10)
+- [[gerry-armstrong|Gerry Armstrong]] — Sea Org archivist who saved Hubbard's papers from shredder; left Church 1981; Armstrong case (1982–1986); Judge Breckenridge ruling (June 1984): Hubbard "pathological liar"; settled $800,000 (new 2026-06-10)
+- [[annie-broeker|Annie Broeker / Annie Tidman]] — personal aide to Hubbard in his final years; married Pat Broeker; Commanding Officer CMO Gold; confined at Happy Valley / "Old Gilman's" at Gold Base; never allowed to leave; present throughout the Headley years (1990–2005) (new 2026-06-10)
+- [[lisa-mcpherson|Lisa McPherson]] (1959–1995) — VIP Flag parishioner under Miscavige's personal supervision in 1995; died December 1995 while in Church care; "hit and run" response; RTC supervisors reassigned to dishwashing; one of Scientology's most significant legal crises (new 2026-06-10)
+- [[claire-headley|Claire Headley]] (née Edwards) — sister of Neil Gaiman; Sea Org supervisor, Qualifications Division, Gold Base; married Marc Headley in Las Vegas 1992 (under-18; California psych-eval requirement avoided); escaped via Greyhound bus January 2005, intercepted in Las Vegas, refused to return; testified about coerced abortions; declared SP (new 2026-06-10)
 
 ### Patristic and Hellenistic
 
 - [[philo-of-alexandria|Philo of Alexandria]] — Hellenistic Jewish philosopher-exegete; Middle Platonist; Logos as intermediary; major bridge to Christian theology (Stead, *Philosophy in Christian Antiquity* Ch. 6)
 - [[origen|Origen]] — Alexandrian Christian commentator, theologian, allegorist; head of catechetical school; philosophical exegesis of John, Song of Songs, Torah; influence and controversies (Stead)
+
+### Medieval Christian Tradition
+
+- [[hugh-of-saint-victor|Hugh of Saint Victor]] (c. 1096–1141) — foremost theologian of the Abbey of Saint Victor, Paris; defender of the traditional fourfold synthesis; "greatest thinker of his time" (de Ghellinck); great allegorist misread as a proto-literalist; emphasis on history was defensive, protecting the foundation of revelation against Abelardian dialectics (de Lubac Vol. 3) (new 2026-06-10)
+- [[richard-of-saint-victor|Richard of Saint Victor]] (c. 1110–1173) — Scottish-born prior of Saint Victor; mystical theologian (*Benjamin minor/maior*); Apocalypse commentary in the tradition of Bede; the Ezekiel Temple controversy clarified as a particular case, not a new hermeneutical program; "warm partisan of the fourfold exposition" (de Lubac Vol. 3) (new 2026-06-10)
+- [[joachim-of-flora|Joachim of Flora]] (c. 1135–1202) — Calabrian abbot; theologian of the Three Ages (Father/Son/Spirit); doctrine of *concordia* (typic understanding ≠ spiritual understanding); the first proper "precursor" of what could genuinely be called a new hermeneutical method; personally orthodox but structurally aberrant (Thomas Aquinas, Bonaventure, Gilson); condemned at Fourth Lateran Council 1215; Dante places him in Paradise (de Lubac Vol. 3) (new 2026-06-10)
 
 ### Second-Century Christianity
 
@@ -503,12 +583,23 @@ Master index of all pages. Updated on every ingest.
 - [[kedarites|Kedarites]] — North Arabian Arab confederation (Kedar, son of Ishmael); incense caravaneers; Persian allies (Geshem the Arab); pushed Edom into Idumea; heirs of Midian, forerunners of the Nabateans.
 - [[idumeans|Idumeans]] — post-exilic Edomites displaced west into Idumea (south of Judea); forcibly Judaized by John Hyrcanus (128 BCE); homeland of Herod the Great; "who counts as a Jew?"
 
+### South Asian / Hindu (2026-06-09)
+
+- [[nishadas|Niṣādas]] — generic Sanskrit term for forest-dwelling tribal peoples; the "horizontal annex" to the four-*varṇa* system; Valmiki's origin story; the house of lac (sacrificial substitutes); Ekalavya's thumb (*guru-dakṣiṇā*); the Jaina inversion (Arjuna as villain); modern Dalit hero (new 2026-06-09)
+
+### Second Temple Judaism / Qumran (2026-06-09)
+- [[teacher-of-righteousness|The Teacher of Righteousness]] — the anonymous founder-priest of the Qumran community; God revealed all prophetic mysteries to him; persecuted by the Wicked Priest (Jonathan Maccabaeus); no genealogy or biography given in the scrolls — a hermeneutical mediator, not a messianic claimant; NT comparison
+
 ### Second-Century Heterodox Groups
 
 - [[gnostics|Gnostics]] — Loose family of 2nd-c. movements sharing spirit-matter dualism, demiurgic cosmology, and *gnosis* soteriology; major sub-groups: Valentinianism, Basilideanism, Sethianism, Cerinthus, Ophites; primary sources: Nag Hammadi (1945) + heresiologists; phenomenological/historical synthesis: Rudolph, *Gnosis* (nature as late-antique religion with Pleroma/Sophia/Demiurge myth, gnosis-soteriology, ascent, community/ethics; history through 2nd-c. great systems, Manichaeism, Mandaean relic); primary patristic refutation: Irenaeus *Against Heresies* (Kruger, Stark, Rudolph)
 - [[ebionites|Ebionites]] — Jewish-Christian movement (c.100–400 CE); law-observance required; reject Paul; adoptionist Christology (Spirit descended on Jesus at baptism); *ebyōnîm* ("the poor"); concentrated in Transjordan; opposed by Irenaeus, Origen, Tertullian (Kruger)
 - [[marcionites|Marcionites]] — Marcion’s rival church (c.144 CE–5th/6th c.); spread from Euphrates to Britain; ascetic practice; two gods; Docetic Christ; first closed canon (edited Luke + 10 Pauline letters); refuted most extensively by Tertullian (Kruger)
 - [[montanists|Montanists]] — "New Prophecy" movement (c.165–present in Phrygia); Montanus + Priscilla + Maximilla; ecstatic utterance; claim of ongoing Spirit revelation; excommunicated by Asian synods; Tertullian’s later affiliation; Muratorian Fragment explicitly condemns (Kruger)
+
+### Scientology / New Religious Movements (2026-06-09)
+
+- [[sea-org|Sea Organization (Sea Org)]] — Scientology’s dedicated religious order, founded 1967 (Hubbard’s flotilla); billion-year contract; runs all major Scientology organizations worldwide; RPF (Rehabilitation Project Force) as internal punishment/reeducation detail; labor and living conditions cited in "religion or cult" debate ([[urban-church-of-scientology|Urban]])
 
 ## Locations
 
@@ -517,6 +608,8 @@ Master index of all pages. Updated on every ingest.
 - [[alexandria|Alexandria]] — Founded 331 BCE; Hellenistic royal capital and intellectual center (Mouseion/Library); large Jewish diaspora community (Philo); early Christian catechetical school (Clement, Origen); major site of patristic theological development (Athanasius, Trinitarian controversies). Modern: Alexandria, Egypt (Mediterranean port). Historical inhabitants by period + modern identification detailed in page. First location page under new schema (Stead Ch. 6 and related).
 - [[nicaea|Nicaea (İznik)]] — Site of First Ecumenical Council (325 CE, Nicene Creed with homoousios) and Seventh (787, icons); key for Trinitarian formulation and Cappadocian clarification (ousia/hypostasis, unity of substratum). Inhabitants by period: Hellenistic Greek/Bithynian, Roman provincial, 4th-c. Christian bishops/theologians (Athanasius, Eusebius of Caesarea, Arius et al.; majority Eastern), Byzantine, Ottoman/modern Turkish (İznik). Modern: İznik, Bursa Province, Turkey (40.43°N 29.72°E; on Lake İznik; walls and Hagia Sophia remains). Detailed in Wolfson (Creed context, homoousios suspicions, Cappadocian settlement). Cross-linked to cappadocian-fathers group, logos-christology, and Wolfson/Stead scholarship.
 - [[antioch|Antioch (on the Orontes)]] — Founded c.300 BCE; 3rd largest city in the Roman Empire (~150,000 pop.); density 195 persons/acre; 18 ethnic quarters; 41 catastrophes in 600 years; birthplace of the term "Christian" (Acts 11:26); Paul's missionary base; site of the Incident at Antioch (Gal 2:11-14); Ignatius' bishopric; Stark's case study in urban chaos and Christian revitalization (Ch. 7). Historical inhabitants: Seleucid, Greek, Aramaic-Syrian, Jewish diaspora (large), Roman, Christian, Sasanian (two sacks), Arab (637 CE), Crusader (1098-1268), Mamluk, Ottoman. Modern: Antakya, Hatay Province, Turkey (36.202°N 36.160°E). (Stark, *Rise of Christianity*, Ch. 7)
+
+- [[indus-valley-civilization|Indus Valley Civilization (Harappa)]] — Bronze Age urban civilization of the Indus plain (c. 2300–1500 BCE), older than the Vedas; grid cities (Harappa, Mohenjo-Daro), undeciphered seal script, the proto-Śiva "Pashupati" seal debate; modern Pakistan (Punjab/Sindh) + NW India. Doniger's skepticism about reading Hinduism back into it (new 2026-06-09; [[doniger-the-hindus|Doniger]] Chs. 3–4)
 
 ### Ancient Near Eastern / Hebrew Bible Sites (Coogan ingest, 2026-06-07)
 
@@ -544,6 +637,9 @@ Master index of all pages. Updated on every ingest.
 - [[dan|Dan]] — northern limit ("Dan to Beersheba"); Canaanite Laish taken by the migrating Danites; Jeroboam's northern calf-sanctuary (the bamah); the **Tel Dan stela** ("house of David"). Modern: Tel Dan, Galilee.
 - [[gezer|Gezer]] — great Canaanite city-state (Amarna's Milkilu; Merneptah's city-determinative vs. "Israel" as a people); Solomon's Egyptian-dowry rebuild (with Hazor, Megiddo); the Gezer Calendar. Modern: Tel Gezer.
 - [[sinai-horeb|Sinai / Horeb]] — the wilderness "mountain of God" of the covenant and lawgiving (and Elijah's "still small voice"); location unknown/disputed (Jebel Musa vs. Midian/Arabia vs. Negeb); Midianite origin of Yahwism.
+
+### Scientology (2026-06-09)
+- [[gold-base|Gold Base (Gilman Hot Springs)]] — Scientology's most secretive compound; ~90 miles east of Los Angeles near Hemet, CA; Gold Era Productions, RTC HQ, Bonnie View; the Hole; inward-facing spike fence, motion detectors, armed guards; ~33.75°N 116.85°W (Wright, *Going Clear*)
 - [[mount-gerizim|Mount Gerizim]] — the Samaritan holy mountain above Shechem (the "mountain of blessing"); the temple destroyed by John Hyrcanus (128 BCE); the counter-Jerusalem of John 4; living Samaritan Passover site. Modern: Jabal at-Tur, Nablus.
 - [[gerar|Gerar]] — western-Negev town of the patriarchal narratives (Abraham & Isaac and "Abimelech king of Gerar"; the wife-sister episodes and well-disputes); the Philistine "anachronism." Modern: usually Tel Haror, Israel.
 - [[beersheba|Beersheba]] — the proverbial southern limit ("from Dan to Beersheba"); patriarchal wells, oaths, and altars; an Iron Age Judahite town with a dismantled horned altar (cult suppression?). Modern: Tel Beersheba, near Be'er Sheva.
@@ -559,25 +655,45 @@ Master index of all pages. Updated on every ingest.
 - [[robert-of-ketton|Robert of Ketton]] (fl. 1136–1157) — English polymath of the Toledo school; first complete **Latin** translation of the Qur'an (1143, *Lex Mahumet pseudoprophete*) for Peter the Venerable; polemical title but commentary-based (used [[al-tabari|al-Tabari]]); the Latin/Christian reception (new 2026-06-09, via Lawrence)
 - [[william-montgomery-watt|W. Montgomery Watt]] (1909–2006) — the foremost 20th-c. British Islamicist (Edinburgh); standard critical biographer of [[muhammad|Muhammad]] (*at Mecca* / *at Medina*) and reviser of Bell's *Introduction to the Qur'ān*; moderate historical-critical — affirms the Uthmanic text's authenticity; the foil for [[al-azami-history-of-the-quranic-text|Al-Azami]] (new 2026-06-09)
 - [[al-azami|M. M. Al-Azami]] (c. 1932–2017) — premier modern hadith scholar (King Saud Univ.; King Faisal Prize); traditionalist counter-history of the Qur'anic text ("law of witness"; Uthman standardized not created); anti-orientalist (vs. Schacht, Jeffery, Wansbrough); comparative use of biblical text-criticism (new 2026-06-09)
+- [[fazlur-rahman|Fazlur Rahman]] (1919–1988) — Pakistani-American neo-modernist; the **"double movement"** hermeneutic (universal principle ← seventh-century particular → present) and thematic reading of the Qur'an; the methodological forerunner of feminist tafsir (new 2026-06-09)
+- [[amina-wadud|Amina Wadud]] (b. 1952) — American Muslim scholar; pioneer of **gender-inclusive tafsir** (*[[wadud-quran-and-woman|Qur'an and Woman]]*); the "hermeneutics of tawhid" and the [[quran-4-34-male-authority|Q 4:34]] reread; the "gender jihad" and the 2005 mixed-gender prayer (new 2026-06-09)
 
 ### Buddhist Tradition (2026-06-09)
 - [[buddhaghosa|Buddhaghosa]] (fl. 5th c.) — the great Theravada commentator; *Visuddhimagga* (Path of Purification); Mahavihara, Sri Lanka
-- [[shantideva|Shantideva]] (c. 685–763) — Mahayana/Nalanda; *Bodhicaryavatara* (Guide to the Bodhisattva Way of Life)
+- [[nagarjuna|Nāgārjuna]] (c. 150 CE) — founder of [[madhyamaka|Madhyamaka]]; the *[[mulamadhyamakakarika|MMK]]*; "all things empty of [[svabhava|svabhāva]]"; reductio method; emptiness=dependent origination=the middle path; a "second Buddha" (new 2026-06-09)
+- [[shantideva|Śāntideva]] (c. 685–763) — Mahayana/Nalanda; the *[[bodhicaryavatara|Bodhicaryāvatāra]]*; bodhicitta, the [[exchange-of-self-and-other|exchange of self and other]], Prāsaṅgika emptiness (now via Crosby & Skilton, 2026-06-09)
+- [[bhikkhu-bodhi|Bhikkhu Bodhi]] (b. 1944) — American Theravada monk; the foremost modern translator of the Pali Nikāyas; the *[[bodhi-in-the-buddhas-words|In the Buddha's Words]]* anthology; the "gradual training" reading; rebirth/kamma as integral (new 2026-06-09)
+- [[walpola-rahula|Walpola Rahula]] (1907–1997) — Sri Lankan scholar-monk; *[[rahula-what-the-buddha-taught|What the Buddha Taught]]* (1959), the classic short doctrinal primer; the celebrated anatta chapter; dukkha-as-realism; Theravada–Mahayana convergence (new 2026-06-09)
+- [[thich-nhat-hanh|Thich Nhat Hanh]] (1926–2022) — Vietnamese [[zen|Zen]] master; popularizer of [[mindfulness|mindfulness]] and "Engaged Buddhism"; [[interbeing|interbeing]]; revises the "three marks" to put [[nirvana|nirvana]] in place of suffering (new 2026-06-09)
+- [[paul-williams|Paul Williams]] (b. 1950) — British academic Buddhologist (Bristol); *[[williams-buddhist-thought|Buddhist Thought]]* + the [[crosby-skilton-bodhicaryavatara|Bodhicaryāvatāra]] intro; rigorous reconstruction of Indian Mahayana philosophy (Madhyamaka, [[yogacara|Yogācāra]], [[buddha-nature|Buddha-nature]]); the strong "no Self at all" reading of anatta (new 2026-06-09)
 
-### Hindu Tradition (Vedanta commentators, 2026-06-09)
-- [[shankara|Shankara]] (8th c.) — Advaita Vedanta; Brahma-Sutra-Bhashya; atman = Brahman; the dominant Hindu philosopher
+### Hindu Tradition (Vedanta & Śaiva commentators, 2026-06-09)
+- [[shankara|Shankara]] (8th c.) — Advaita Vedanta; Brahma-Sutra-Bhashya + Gītā-bhāṣya; atman = Brahman; the dominant Hindu philosopher
 - [[ramanuja|Ramanuja]] (11th–12th c.) — Vishishtadvaita; the Sri-Bhashya; souls/world as God's body; bhakti
-- [[madhva|Madhva]] (13th c.) — Dvaita; fivefold eternal difference (commentary untranslated — secondary)
+- [[madhva|Madhva]] (c. 1197–1276) — Dvaita; fivefold eternal difference ([[panchabheda|pañca-bheda]]); now grounded via [[dasgupta-history-of-indian-philosophy|Dasgupta Vol. IV]] (own *bhāṣya* still untranslated; dating disputed vs. 1238–1317)
+- [[abhinavagupta|Abhinavagupta]] (c. 950–1016) — Kashmir Śaivism (Trika); the *Gītārtha-saṃgraha*; also the great theorist of rasa aesthetics (new 2026-06-09)
+- [[swami-gambhirananda|Swami Gambhirananda]] (1899–1988) — Ramakrishna Order; standard English translator of Śaṅkara's bhāṣyas (new 2026-06-09)
+- [[george-thibaut|George Thibaut]] (1848–1914) — Indologist; SBE translator of the Brahma Sutras with Śaṅkara's & Rāmānuja's commentaries (new 2026-06-09)
+- [[surendranath-dasgupta|Surendranath Dasgupta]] (1887–1952) — historian of Indian philosophy; the 5-vol. *History of Indian Philosophy*; the wiki's encyclopedic survey source (new 2026-06-09)
+- [[wendy-doniger|Wendy Doniger]] (b. 1940) — Chicago Sanskritist / historian of religions; the anti-essentialist, psychoanalytic, margin-centered reading of Hinduism (*[[doniger-the-hindus|The Hindus: An Alternative History]]*); the "Zen diagram," "polydox"/orthoprax Hinduism; a contested modern-critical voice (new 2026-06-09)
+- [[rajiv-malhotra|Rajiv Malhotra]] (b. 1950) — Infinity Foundation; comparative civilizationalist; *[[being-different-malhotra|Being Different: An Indian Challenge to Western Universalism]]* (2011); [[purva-paksha|purva paksha]] methodology; [[cultural-digestion|cultural digestion]]; [[history-centrism|history-centrism]]; [[sanskriti|Sanskrit non-translatables]]; [[sapeksha-dharma|sapeksha-dharma]]; the systematic dharmic counter-position to Western universalism (new 2026-06-09)
 
 ### Restorationist / Adventist (2026-06-09)
 - [[ellen-g-white|Ellen G. White]] (1827–1915) — co-founder of Seventh-day Adventism; the "lesser light" (inspired but sub-canonical); *The Great Controversy* and the Conflict of the Ages series ingested
 
 ### Daoist Tradition (Daodejing commentators, 2026-06-09)
-- [[wang-bi|Wang Bi]] (226–249) — *xuanxue*; the Dao as non-being (*wu*); the philosophical Daodejing (commentary untranslated — secondary)
+- [[wang-bi|Wang Bi]] (226–249) — *xuanxue*; the Dao as featureless/nameless non-being (*wu*), the root of all entities; the implosive reading method (all chapters point at the same unnameable center); Interlocking Parallel Style; the *ming*/*cheng* distinction; the Wang Bi Receptus ≠ Wang Bi's actual text (79 deviations); Wagner translation (Scope A: Introduction + Ch. 3 / LZWZLL) ingested (new 2026-06-10)
+- [[brook-ziporyn|Brook Ziporyn]] (b. 1964) — University of Chicago; translator of [[daodejing|Daodejing]] (Liveright 2022) and [[zhuangzi|Zhuangzi]]; composite-text thesis; A/B ironic-inversion structure; "minimally discernible position" methodology (new 2026-06-10)
+- [[thomas-merton|Thomas Merton]] (1915–1968) — Trappist monk, Abbey of Gethsemani; *The Way of Chuang Tzu* (New Directions 1965); cross-traditional contemplative hermeneutic ("monastic universality"); wu wei as "perfect action... in perfect harmony with the whole"; commentary-as-transformation via *lectio divina* (new 2026-06-10)
 - [[heshang-gong|Heshang Gong]] — the longevity-cultivation Daodejing; foundational for religious Daoism / internal alchemy (untranslated — secondary)
+- [[russell-kirkland|Russell Kirkland]] (b. 1950) — University of Georgia; revisionist historian of Taoism; *Taoism: The Enduring Tradition* (Routledge, 2004); dismantler of the tao-chia/tao-chiao dichotomy; the Nei-yeh as foundational text; biospiritual cultivation as the continuous practical core; [[taochia-taochiao-dichotomy|the dichotomy controversy]] (new 2026-06-10)
+- [[lu-hsiu-ching|Lu Hsiu-ching]] (406–477 CE) — the "practical founder of organized Taoism" (Kirkland); organized the first systematic Taoist canon (~471 CE, *Catalogue of the Three Caverns*); aligned with the Liu-Sung dynasty; key figure of [[ling-pao|Ling-pao]] (new 2026-06-10)
+- [[ko-hung|Ko Hung]] (c. 283–343 CE) — *Pao-p'u-tzu*; T'ai-ch'ing (Outer Alchemy) tradition; Kirkland's reassessment: NOT representative of Taoism as a whole; Creel/Welch's elevation of him was ideologically motivated (new 2026-06-10)
+- [[ssu-ma-cheng-chen|Ssu-ma Ch'eng-chen]] (646–735 CE) — [[shang-ching|Shang-ch'ing]] master; noble bloodline; *Tso-wang lun*; sagely advisor to T'ang emperors; redirected imperial state cult; five-stage cultivation path; rejected sudden awakening (new 2026-06-10)
+- [[tu-kuang-ting|Tu Kuang-t'ing]] (850–933 CE) — greatest Taoist historian; *Yung-ch'eng chi-hsien lu* (first comprehensive female Taoist accounts); *Li-tai ch'ung-tao chi* (Taoism's political history) (new 2026-06-10)
 
-### Confucian Tradition (2026-06-09)
-- [[zhu-xi|Zhu Xi]] (1130–1200) — Neo-Confucian synthesizer; canonized the Four Books; li/qi metaphysics; defined the examination curriculum (commentaries untranslated — secondary)
+### Confucian Tradition (2026-06-10)
+- [[zhu-xi|Zhu Xi]] (1130–1200) — Neo-Confucian synthesizer; commentator on Zhou Dunyi's *Taijitu shuo* and *Tongshu*; li/qi metaphysics; the ji-chou enlightenment (1169); daotong constructor; Four Books commentaries became civil-service exam basis 1313–1905; compared to Benedict of Nursia (facilitating religious practice) rather than Thomas Aquinas (Adler 2014)
 
 ### Scholarship (Patristic Philosophy)
 
@@ -588,13 +704,17 @@ Master index of all pages. Updated on every ingest.
 ### Scholarship (Early Christianity in the Roman World)
 
 - [[michael-w-holmes|Michael W. Holmes]] — Bethel University; *The Apostolic Fathers: Greek Texts and English Translations*, 3rd ed. (Baker Academic, 2007); critical Greek text + English translation of all 10 Apostolic Fathers texts; 28 Papias fragments (most complete collection); historical-critical introductions. See also [[holmes-apostolic-fathers|source summary]].
-- [[de-lubac-medieval-exegesis|de Lubac, *Medieval Exegesis: The Four Senses of Scripture*]] (Henri de Lubac; 1959–64) — the definitive study of the Christian [[fourfold-sense|fourfold sense]]; "the doctrine of the senses *is* the doctrine of the two Testaments"; corrects the distich's authorship (Augustine of Dacia, not Nicholas of Lyra) and untangles the trichotomy/tetrachotomy duality (new 2026-06-09)
+- [[de-lubac-medieval-exegesis|de Lubac, *Medieval Exegesis: The Four Senses of Scripture*]] (Henri de Lubac; 1959–64) — the definitive study of the Christian [[fourfold-sense|fourfold sense]]; "the doctrine of the senses *is* the doctrine of the two Testaments"; corrects the distich's authorship (Augustine of Dacia, not Nicholas of Lyra) and untangles the trichotomy/tetrachotomy duality; Vol. 2 gives the substance of each sense (permanent history-foundation, allegoria facti et dicti, mystical tropology, two-form anagogy); Vol. 3 refutes the "precursors of literalism" thesis (Spicq/Mandonnet/Smalley) for every alleged link from Berno to Hugh to the Victorines, and analyzes Joachim of Flora's Three Ages as the one genuine structural aberration; **Vols. 1–3 complete** (2026-06-09/10)
 - [[henri-de-lubac|Henri de Lubac]] (1896–1991) — Jesuit *ressourcement* theologian, Vatican II *peritus*, cardinal; the wiki's authority on the [[fourfold-sense|Quadriga]] and Christian [[allegorical-reading|allegory]]; spiritual exegesis as transformation of the reader; bridge from [[origen|Origen]] to the medieval synthesis (new 2026-06-09)
 - [[mark-julian-edwards|Mark Julian Edwards]] (b. 1962) — Oxford patristics scholar; *[[edwards-origen-against-plato|Origen Against Plato]]* (2002): Origen built a Christian philosophy *against* Platonism (anthropology the hinge); shared vocabulary ≠ influence; scepticism about the Ammonius Saccas link (new 2026-06-09)
 - [[michael-kruger|Michael J. Kruger]] (b.~1972) — President, RTS Charlotte; *Christianity at the Crossroads: How the Second Century Shaped the Future of the Church* (IVP Academic / SPCK, 2016/2017); five transitional axes (sociological, cultural-political, ecclesiological, doctrinal, textual-canonical); functional definition of canon; rule of faith; Bauer thesis refutation; convergent with Hurtado. See also [[kruger-christianity-at-the-crossroads|source summary]].
 - [[larry-hurtado|Larry W. Hurtado]] (1943–2019) — *Destroyer of the Gods: Early Christian Distinctiveness in the Roman World* (Baylor, 2016); *One God, One Lord* (1988); *Lord Jesus Christ* (2003). Social-historical analysis of early Christianity as a genuinely distinctive and novel movement within its Roman-world context. Five axes of distinctiveness: (1) exclusivist monotheism directed to the Roman "market"; (2) a particular "bookishness" including codex preference and *nomina sacra*; (3) a trans-ethnic identity as a new *tertium quid* (neither Jewish nor Gentile); (4) ethical rigorism, especially on sexual practice; (5) dyadic devotional pattern (God + Jesus jointly venerated). Key controversy: refutation of Bousset's *Kyrios Christos* (1913) thesis; Lord-Christology arose in Aramaic-speaking Jewish Christianity before Gentile influence was possible. See also [[hurtado-destroyer-of-the-gods|source summary]] in scholarship/.
 - [[rodney-stark|Rodney Stark]] (b. 1934) — University of Washington / Baylor; *The Rise of Christianity* (Princeton, 1996). Sociological account of early Christian growth 40–300 CE: 40%/decade growth model; Lofland-Stark network conversion model; Jewish mission as success (not failure); epidemic nursing and differential mortality; sex ratio / fertility advantage; 22-city quantitative analysis (67% of variance explained by synagogues + Romanization); Gnosticism as Christian heresy (statistical); Antioch as urban chaos case study (Ch. 7); martyrdom as rational choice (Iannaccone model); religious economy framework (exclusive vs. nonexclusive firms). See also [[stark-rise-of-christianity|source summary]] in scholarship/.
 - [[kurt-rudolph|Kurt Rudolph]] (1929–2020) — German historian of religion; *Gnosis: The Nature and History of Gnosticism* (German 1977/1980; English 1987, ed. R. McL. Wilson). Foundational phenomenological + historical synthesis treating Gnosis as a coherent late-antique religion (*spätantike Religion*) with structured mythology (Pleroma of aeons, Sophia fall, Demiurge as inferior creator often = OT God, gnosis as saving knowledge and ascent, community/cult/ethics); detailed on Nag Hammadi as revolutionary primary sources; early schools, 2nd-c. "great systems" (esp. Valentinianism), Manichaeism as developed form, Mandaeans as living relic. Complements and challenges patristic/heresiological and sociological framings (Kruger, Stark, Wolfson) by centering Gnostic self-understanding and multi-root syncretism (Jewish apocalyptic, Hellenistic, Iranian, Christian elements). See [[rudolph-gnosis-the-nature-and-history-of-gnosticism|source summary]] in scholarship/; primary beneficiary pages: [[gnostics|Gnostics]], [[valentinus|Valentinus]], new concepts (gnosis, demiurge, pleroma, sophia-gnostic), [[nag-hammadi-library|Nag Hammadi Library]].
+
+### Scholarship (Dead Sea Scrolls / Second Temple)
+- [[dead-sea-scrolls-vermes|Vermes, *The Complete Dead Sea Scrolls in English*]] (Penguin Classics, 7th ed., 2012) — the standard English translation of the Qumran corpus; full text + introductions; Essene identification endorsed; covers all sectarian texts, pesharim, rewritten biblical texts, liturgical texts, and the Copper Scroll; **read in full** (lines 1–22830); primary source for all DSS text, concept, and figure pages above. See [[dead-sea-scrolls-vermes|source summary]] in scholarship/.
+- [[dead-sea-scrolls-vanderkam|VanderKam, *The Dead Sea Scrolls Today* (rev. ed., Eerdmans, 2010)]] — introductory scholarly overview by a Cave 4 editorial team member; Magness revision of de Vaux archaeology (no Phase Ia; short gap between phases); solar+schematic-lunar coordinated calendar (corrects "solar-only" accounts); 4Q521 divine agent correction; Cave 4 Community Rule variants (4Q259 lacks Two Spirits section and 9.11 Two Messiahs formula); Groningen Hypothesis discussion; Book of Giants as possible Similitudes substitute; Jubilees quasi-canonical argument; full publication controversy history; **read in full** (lines 1–2968). See [[dead-sea-scrolls-vanderkam|source summary]] in scholarship/.
 
 ### Scholarship (Hebrew Bible & Ancient Near East)
 - [[coogan-oxford-history-biblical-world|The Oxford History of the Biblical World]] (Michael D. Coogan, ed.; Oxford, 1998) — multi-author historical-critical and archaeological survey of the biblical world from the Bronze Age through the Roman period. Ingested (2026-06-07) specifically to enrich **groups/** and **locations/**: Bronze Age peoples (Canaanites, Amorites, Hurrians, Hyksos, Apiru), the emergence of Israel and the Philistines/Sea Peoples, and the imperial powers (Assyria, Babylon, Persia) and their cities (Jerusalem, Samaria, Babylon, Ugarit, Hazor, Megiddo, Shechem, Byblos, Ashkelon, Ekron, Lachish, Jericho, Nineveh). Treats the Bible as a dependent variable weighed against archaeology; key tensions: Exodus historicity, the failure of the literal conquest model, Midianite/Kenite origin of Yahwism, Samarian Yahwism. Chapter authors include Pitard, Redmount, Stager, M. Cogan, and Leith.
@@ -607,14 +727,35 @@ Master index of all pages. Updated on every ingest.
 - [[rose-zoroastrianism-an-introduction|Rose, *Zoroastrianism: An Introduction*]] (Jenny Rose; I.B. Tauris, 2011) — the **historical/geographical** complement to Boyce: Achaemenid → Parthian → Sasanian → Central Asian → Islamic-Iranian → [[parsis|Parsi]] → modern diaspora; reception-critical; the "Who is a Zoroastrian?" debate; grounds [[parsis|Parsis]], [[anahita|Anahita]], [[xwarenah|xwarenah]], [[paradise|paradise]] (new 2026-06-09)
 - [[skjaervo-spirit-of-zoroastrianism|Skjærvø, *The Spirit of Zoroastrianism*]] (Prods Oktor Skjærvø; Yale, 2011) — Avestan philology + translated primary sources; periodizes Old Avestan / Young Avestan / late Pahlavi (key for influence-tracing); user-supplied (new 2026-06-09)
 - [[secunda-the-iranian-talmud|Secunda, *The Iranian Talmud*]] (Shai Secunda; Penn Press, 2014) — reading the [[talmud-bavli|Bavli]] in its Sasanian Zoroastrian context (**[[talmudo-iranica|Talmudo-Iranica]]**); rabbinic/Zoroastrian "discourses of the Other"; the move "beyond influence" toward intertextuality; the late-antique counterpart to the eschatology-influence question (new 2026-06-09)
+- [[unterman-talmud|Unterman, *The Talmud: Its Origin and Development, Methods and Systems*]] (Isaac Unterman; Bloch, 1952/1965) — traditional Jewish survey of the Talmud's structure, hermeneutics, key parties, codification history, persecutions, and ethics; Hillel's seven hermeneutical rules (*Middot*); Pharisees/Sadducees/Essenes with socio-political class analysis; Geonim (Saadia, Sherira, Hai Gaon); post-Geonim centers (Spain/France/Germany); Rashi, Tosefoth, Alfasi, Maimonides, Turim, Shulchan Aruch; Talmud burnings 1233–1757; Judaism vs. Hellenism on ethics; **read in full — all 20 chapters + appendices** (new 2026-06-10)
 - [[levenson-resurrection-and-the-restoration-of-israel|Levenson, *Resurrection and the Restoration of Israel*]] (Jon D. Levenson; Yale, 2006) — the [[resurrection-of-the-dead|resurrection of the dead]] as a native, "weight-bearing" rabbinic doctrine grown from biblical roots ([[sheol|Sheol]], familial continuity, [[the-combat-myth|Divine Warrior]]), not a late Zoroastrian import; the resurrection/immortality-of-the-soul distinction; the Canaanite counter-thesis to the [[zoroastrian-influence-on-abrahamic-eschatology|influence page]] (new 2026-06-09)
 - [[kifayatullah-al-kashshaf|Kifayatullah, *Al-Kashshaf: Al-Zamakhshari's Mu'tazilite Exegesis of the Qur'an*]] (De Gruyter, 2017) — reconstructs how [[al-zamakhshari|al-Zamakhshari]] embedded the [[mutazilism|Mu'tazilite]] five principles in his Qur'an commentary; the mechanics of *tafsir bi'l-ra'y* and the "purged commentary" reception (al-Baydawi, Ibn al-Munayyir); grounds [[al-zamakhshari|al-Zamakhshari]], [[mutazilism|Mu'tazilism]], [[tanzih-tashbih|tanzih/tashbih]] (new 2026-06-09)
 - [[lawrence-quran-a-biography|Lawrence, *The Qur'an: A Biography*]] (Bruce Lawrence; Atlantic, 2006) — reception history of the [[quran|Qur'an]] as "a Book of Signs"; orality and the theology of (un)translatability; fifteen vignettes from Muhammad to bin Laden; grounds [[muhammad|Muhammad]], [[jafar-al-sadiq|Ja'far al-Sadiq]], [[al-tabari|al-Tabari]], [[robert-of-ketton|Robert of Ketton]]; plurivocal vs. univocal reading (new 2026-06-09)
 - [[bell-watt-introduction-to-the-quran|Bell & Watt, *Introduction to the Qur'an*]] (Edinburgh, rev. 1970) — the standard Western **historical-critical** introduction; the collection under Abu Bakr (doubted) / Uthman, but a *moderate* verdict on authenticity; style, [[naskh|abrogation]], Bell's revision hypothesis; anchors the revisionist side of the [[qiraat-variant-readings|qira'at controversy]] (new 2026-06-09)
 - [[al-azami-history-of-the-quranic-text|Al-Azami, *The History of the Qur'anic Text*]] (UK Islamic Academy, 2003) — the **traditionalist counter-history** (deliberate Contradiction-Protocol pair to Bell & Watt); the "law of witness," Uthman as standardizer, the comparative Bible-corruption argument, and a Part III appraisal of Orientalist research; the traditionalist side of the [[qiraat-variant-readings|qira'at controversy]] (new 2026-06-09)
+- [[wadud-quran-and-woman|Wadud, *Qur'an and Woman*]] (Amina Wadud; Oxford, 1999) — the foundational **gender-inclusive tafsir**; the "hermeneutics of tawhid" + [[fazlur-rahman|Fazlur Rahman]]'s double movement; egalitarian creation, [[hur-al-ayn|hur al-'ayn]], and the [[quran-4-34-male-authority|Q 4:34]] / [[qiwama|qiwama]] reread; grounds [[islamic-feminism|Islamic feminism]] (new 2026-06-09)
+- [[siderits-katsura-nagarjunas-middle-way|Siderits & Katsura, *Nāgārjuna's Middle Way*]] (Wisdom, 2013) — translation+commentary of the [[mulamadhyamakakarika|MMK]] synthesized from the four Indian commentaries; the Abhidharma target, the reductio patterns, the two truths; grounds [[nagarjuna|Nāgārjuna]], [[madhyamaka|Madhyamaka]], [[two-truths|two truths]], [[svabhava|svabhāva]] (new 2026-06-09)
+- [[crosby-skilton-bodhicaryavatara|Crosby & Skilton, *The Bodhicaryāvatāra*]] (Oxford World's Classics, 1995; intro. Paul Williams) — the standard accessible translation of [[shantideva|Śāntideva]]'s poem; Williams on emptiness as the negation of inherent existence and the emptiness-of-emptiness; grounds [[bodhicaryavatara|Bodhicaryāvatāra]], [[bodhicitta|bodhicitta]], [[exchange-of-self-and-other|exchange of self and other]] (new 2026-06-09)
+- [[bodhi-in-the-buddhas-words|Bodhi, *In the Buddha's Words*]] (Bhikkhu Bodhi; Wisdom, 2005) — thematic anthology of the Pali [[tipitaka|Nikāyas]] in ten chapters with scholarly introductions; the "gradual training" / mundane-vs-supramundane right-view structure; grounds [[nirvana|nirvana]], [[noble-eightfold-path|the Eightfold Path]], [[samsara|saṃsāra]], [[karma|kamma]] (new 2026-06-09)
+- [[visuddhimagga|Buddhaghosa, *Visuddhimagga* (Path of Purification)]] (5th c.; trans. Ñāṇamoli; BPS, 1956/1991) — the definitive Theravada meditation manual and doctrinal synthesis; 23 chapters + Conclusion; the [[seven-purifications|seven purifications]] as the organizing framework for the entire path (virtue/concentration/insight); the forty meditation subjects by temperament; the full [[vipassana-insight-knowledges|sixteen insight knowledges]] ending in the four supramundane paths; [[jhana|jhāna]] (four material + four immaterial + attainment of cessation); the ten imperfections of insight; the seven noble persons; the Abhidhamma cognitive series; Nibbāna as the unconditioned void/signless/desireless object; **read in full — all 23 chapters + Conclusion; PDF pp. 1–810** (new 2026-06-10)
+- [[rahula-what-the-buddha-taught|Rahula, *What the Buddha Taught*]] (Walpola Rahula; Grove, 1959/1974) — the classic concise exposition built on the [[four-noble-truths|Four Truths]] + appended Pali translations; dukkha-as-realism, nirvana-not-negative-not-a-result, the no-soul chapter; grounds [[dukkha|dukkha]], the [[five-aggregates|five aggregates]], the [[three-marks-of-existence|three marks]] (new 2026-06-09)
+- [[thich-nhat-hanh-heart-of-the-buddhas-teaching|Thich Nhat Hanh, *The Heart of the Buddha's Teaching*]] (1998) — a Zen/Engaged-Buddhist exposition of the [[four-noble-truths|Four Truths]] and [[noble-eightfold-path|Path]]; mindfulness as the heart of practice; **revises** received formulas ("life is suffering" too general; the [[three-dharma-seals-is-suffering-universal|Three Dharma Seals]] = impermanence/nonself/nirvana); grounds [[zen|Zen]], [[mindfulness|mindfulness]], [[interbeing|interbeing]] (new 2026-06-09)
+- [[williams-buddhist-thought|Williams, Tribe & Wynne, *Buddhist Thought*]] (Routledge, 2000/2012) — the academic survey of the Indian tradition (Buddha → Abhidharma → Mahayana → Madhyamaka → Yogācāra → Buddha-nature → tantra); the "no Self at all" reading of the Anattalakkhaṇa Sutta; Yogācāra as the anti-nihilist answer to emptiness; grounds [[yogacara|Yogācāra]], [[buddha-nature|Buddha-nature]] (new 2026-06-09)
+- [[gambhirananda-bhagavad-gita|Gambhirananda (tr.), Śaṅkara's Gītā-bhāṣya]] (Advaita Ashrama) — the oldest surviving [[bhagavad-gita|Gita]] commentary, [[shankara|Śaṅkara's]] Advaita reading: knowledge of the actionless Self alone liberates, begins at 2.10, [[karma-yoga|action]] only purifies; grounds [[jnana-karma-samuccaya|the knowledge-vs-action controversy]] (new 2026-06-09)
+- [[thibaut-vedanta-sutras|Thibaut (tr.), The Vedānta-Sūtras with Śaṅkara & Rāmānuja]] (SBE 34/38/48) — the [[brahma-sutras|Brahma Sutras]] with both founding commentaries; the 4-adhyāya structure, Śaṅkara's [[adhyasa|adhyāsa]] preamble vs. Rāmānuja's *Mahāpūrvapakṣa*; Thibaut's critical verdict that Rāmānuja may fit Bādarāyaṇa better; **SBE 48 (Rāmānuja) read in full** — Adhyāyas I–IV including the [[sarira-sariri|śarīra-śarīrī]] argument, [[antaryami|antaryāmin]] doctrine, *pariṇāmavāda*, three-karman schema, [[path-of-the-gods|Path of the Gods]], and the full state-of-release discussion (completed 2026-06-10)
+- [[marjanovic-abhinavagupta-gita|Marjanovic (tr.), Abhinavagupta's *Gītārtha-saṃgraha*]] — the [[kashmir-shaivism|Kashmir Śaiva]] reading of the [[bhagavad-gita|Gita]]: esoteric/tantric decoding, comments only on hidden meanings, knowledge=action as the Lord's *dṛk*/*kriyā*, the goal as [[pratyabhijna|recognition]]; "more esoteric than Vedanta" (new 2026-06-09)
+- [[dasgupta-history-of-indian-philosophy|Dasgupta, *A History of Indian Philosophy* (5 vols.)]] — the encyclopedic modern-critical survey; Vol. IV (*Indian Pluralism*) **grounds the [[dvaita-vedanta|Dvaita]] pole** ([[madhva|Madhva's]] life, [[panchabheda|pañca-bheda]], Brahma-Sūtra interpretation, the dualist–monist controversy); also the [[saddarshana|ṣaḍ-darśana]] frame (new 2026-06-09)
+- [[doniger-the-hindus|Doniger, *The Hindus: An Alternative History*]] (2009) — the anti-essentialist, margin-centered survey ([[wendy-doniger|Doniger]]); Hinduism as a "Zen diagram" with no canon or essence; "the abuse of history"; grounds [[who-defines-hinduism|the "who defines Hinduism?" controversy]] (scoped ingest: Chs. 1 & 25, new 2026-06-09)
+- [[wright-going-clear|Wright, *Going Clear: Scientology, Hollywood, and the Prison of Belief* (Knopf, 2013)]] — the major investigative narrative; Paul Haggis frame; Miscavige's rise; the Hole; IRS war; military records forgery; Sea Org conditions; ex-member testimonies (new 2026-06-09)
 - [[reitman-inside-scientology|Reitman, *Inside Scientology*]] (2011) — the anchor independent history of Scientology; investigative journalism (new 2026-06-09)
 - [[malko-the-now-religion|Malko, *Scientology: The Now Religion*]] (1970) — early period source, near the movement's origins (new 2026-06-09)
 - [[shelton-a-to-xenu|Shelton, *Scientology: A to Xenu*]] (2015) — ex-member insider's explanation of "the tech" (new 2026-06-09)
+- [[urban-church-of-scientology|Urban, *The Church of Scientology: A History of a New Religion* (Princeton, 2011)]] — the leading academic history; "hermeneutics of respect + suspicion"; the "religion angle" as deliberate strategy (Hubbard's 1953 O'Brien letter); IRS war (1967–1993); Snow White; Fair Game; OT III/Xenu via court records; Anonymous/Project Chanology; Urban's theoretical frame (Lincoln, Asad, J. Z. Smith on who defines religion) (new 2026-06-09)
+- [[atack-a-piece-of-blue-sky|Atack, *A Piece of Blue Sky: Scientology, Dianetics, and L. Ron Hubbard Exposed* (1990)]] — the first major insider critical biography; 7 years in Scientology (OT5) + 6 years research; Armstrong case transcripts (28 vols); Guardian's Office and Snow White (GO 732 authored by Hubbard); OTC/RRF financial structures; RPF origin (1973); Miscavige's rise; Armstrong case; Latey ruling; CST ($500M+; nuclear-proof tunnel); "acceptable truth" PR doctrine; psychological profile of Hubbard (Gerbode: "manic with paranoid tendencies"; Cleckley checklist) (new 2026-06-10)
+- [[headley-blown-for-good|Headley, *Blown for Good: Behind the Iron Curtain of Scientology* (BFG Books, 2009)]] — first-person memoir; 15 years at Gold Base (c. 1990–2005); A/V Manufacturing and Systems Director; building-by-building account of Gold Base; Team Share Card system; 7-drill/Blow Drill mechanics; musical chairs incident; Tom Cruise girlfriend search; Super Power pilot; Golden Age of Tech launch; three deaths during Building 50 construction; Miscavige's nighttime office searches and pool overboarding (2000); Claire Headley's escape via Greyhound; both declared SP; full read: lines 1–5,867 (new 2026-06-10)
+- [[30-years-watchtower-slave|Schnell, *30 Years a Watchtower Slave* (Baker, 1956/1971)]] — insider memoir; 30 years (1924–1953) inside the Watch Tower; organizational history from Magdeburg Bethel through Rutherford's Theocracy of 1938; seven-step indoctrination program; three-tier WTS structure (Russell/Rutherford/Consortium); *Lovell v. Griffin* and *Martin v. Struthers* SCOTUS cases; hostile former-insider / evangelical apologetic frame; full ingest (new 2026-06-10)
+- [[trinity-vs-watchtower|O'Cleary, *The Trinity vs. the Watchtower* (c. 2002–03)]] — evangelical counter-JW apologetic; five-chapter survey of Trinitarian doctrine (Tertullian → Athanasius → Cappadocians → Augustine → Barth) vs. JW anti-Trinitarian arguments; pyramidology in Russell era (Great Pyramid as "Bible in Stone"; repudiated by Rutherford as Satanic); 1935 closure of the 144,000 "anointed class" and two-class Christianity; Douglas Walsh trial (1954, Scotland — WTS conceded Witnesses cannot understand Scripture independently); Colwell's Rule / Barclay on John 1:1; full ingest (new 2026-06-10)
+- [[being-different-malhotra|Malhotra, *Being Different: An Indian Challenge to Western Universalism*]] (Rajiv Malhotra; HarperCollins India, 2011) — dharmic counter-position to Western universalism; the four contrasts (embodied knowing vs. history-centrism; integral vs. synthetic unity; comfort with chaos vs. anxiety over it; Sanskrit non-translatables vs. cultural digestion); [[purva-paksha|purva paksha]] as civilizational methodology; grounds [[rajiv-malhotra|Malhotra]], [[cultural-digestion|cultural-digestion]], [[history-centrism|history-centrism]], [[sanskriti|sanskriti]], [[sapeksha-dharma|sapeksha-dharma]], [[adhyatma-vidya|adhyatma-vidya]], [[integral-unity|integral-unity]], [[purva-paksha|purva-paksha]] (new 2026-06-09)
 
 ### Jewish Tradition
 - [[isaac-unterman|Isaac Unterman]] (1889–?) — Traditional rabbi; scholarship/exposition on the Talmud
@@ -676,6 +817,16 @@ Master index of all pages. Updated on every ingest.
 - [[gene-green|Gene L. Green]] — BECNT Jude and 2 Peter (2008); cultural-contextual + social (honor) reading; defends authenticity of both; Jude's authoritative use of 1 Enoch; against the testament-genre argument; 2 Peter depends on Jude (*imitatio*); Majority World theology; Wheaton (distinct from Joel B. Green)
 - [[grant-osborne|Grant R. Osborne]] (1942–2018) — BECNT Revelation (2002); *The Hermeneutical Spiral*; Johannine authorship; Domitianic date; eclectic-futurist method; historic premillennial; mission theology; classical Arminian; TEDS; doctoral student of I. H. Marshall
 
+### Scholarship (Daoism — 2026-06-10)
+- [[ziporyn-daodejing|Ziporyn, *Daodejing*]] (Liveright/Norton, 2022) — translation with Introduction + Notes; composite-text thesis; A/B structure; key-term analysis; working text for the wiki's Daodejing coverage; read in full
+- [[wagner-wang-bi|Wagner, *A Chinese Reading of the Daodejing*]] (SUNY, 2003) — critical edition + "extrapolative translation" of Wang Bi's Commentary; translation of Wang Bi's *Laozi weizhi lüeli* (LZWZLL); the Wang Bi Receptus ≠ Wang Bi's actual text (79 deviations); Interlocking Parallel Style; *ming*/*cheng* distinction; **Scope A (Introduction + Ch. 3) — read in full**; Ch. 4 (full commentary on all 81 chapters) available for a future scoped pass
+- [[merton-way-of-chuang-tzu|Merton, *The Way of Chuang Tzu*]] (New Directions, 1965) — creative interpretive readings of ~60 Zhuangzi passages + 25-page introductory essay; wu wei as perfect action; the Pivot; the Fasting of the Heart; Confucian critique; Zhuangzi–Zen connection; commentary-as-transformation hermeneutic; read in full (new 2026-06-10)
+- [[kirkland-taoism-enduring-tradition|Kirkland, *Taoism: The Enduring Tradition*]] (Routledge, 2004) — the major revisionist survey; tao-chia/tao-chiao dichotomy demolished; [[nei-yeh|Nei-yeh]] as foundational text; biospiritual cultivation as the continuous practical core; the five historically attested sects (T'ien-shih, Shang-ch'ing, Ling-pao, Quanzhen, Cheng-i); organized Taoism only from 5th c. CE; Taoism and the state; women in Taoism; scope: full main body Chs. 1–5 + Conclusion — read in full (new 2026-06-10)
+
+### Scholarship (Confucianism — 2026-06-10)
+- [[adler-reconstructing-confucian-dao|Adler, *Reconstructing the Confucian Dao: Zhu Xi's Appropriation of Zhou Dunyi* (SUNY, 2014)]] — the definitive study of Zhu Xi's retrospective construction of [[zhou-dunyi|Zhou Dunyi's]] canonical status; Adler's translation of *taiji* as "Supreme Polarity" (not "Ultimate"); the three stages of Zhu Xi's zhong/he problem (1153–1169) and the ji-chou enlightenment; Tongshu section 16 as the key; Daoist diagram origins; full annotated Tongshu translation; Zhu Xi as Benedict of Nursia; read in full (lines 1–6,339) (new 2026-06-10)
+- [[adler-original-meaning-yijing|Adler (trans./ed.), *The Original Meaning of the Yijing* (Columbia, 2020)]] — first complete English translation of Zhu Xi's *Zhouyi benyi* (1188); Adler's Introduction covers the Bronze Age Zhouyi vs. Ten Wings, xiangshu/yili schools, Wang Bi, Cheng Yi, and Zhu Xi's synthesis; Zhu Xi's hermeneutical key ("the Yi was originally created for divination"); Nine Diagrams; full commentary on hexagrams 1–64; Xici zhuan (Great Treatise) with full commentary; Shuogua trigram symbolism; *taiji* → Two Modes cosmological chain; *sheng sheng*; Fu hexagram; Introduction + hexagrams 1–3 (sample) + Xici + Shuogua intro read in full (new 2026-06-10)
+
 ### Scholarship (Philosophy of Religion / Comparative — 2026-06-09)
 - [[john-hick|John Hick]] (1922–2012) — *An Interpretation of Religion* (Gifford Lectures, 1989); the leading philosopher of [[religious-pluralism|religious pluralism]]; neo-Kantian distinction of [[the-real|the Real]] *an sich* vs. as humanly experienced; the soteriological criterion (self- → Reality-centredness); the [[axial-age|axial age]] as the soteriological watershed; critical [[religious-realism|realism]] vs. non-realism; the "Copernican revolution" in theology. First philosophy-of-religion / cross-tradition meta-level source.
 - [[karen-armstrong|Karen Armstrong]] (b. 1944) — *A History of God* (1993); narrative historian of the monotheistic idea of God; [[mythos-and-logos|mythos vs. logos]]; the personal God (idol-prone) vs. the [[apophatic-theology|God of the mystics]]; religion as pragmatic and discardable; fundamentalism as a modern aberration; drifts toward [[religious-realism|non-realism]], dividing her from Hick. Developmental-experiential wing of [[religious-pluralism-debate|the pluralism debate]].
@@ -693,36 +844,101 @@ Master index of all pages. Updated on every ingest.
 - [[tanzih-tashbih|Tanzih and Tashbih]] — transcendence vs. likeness; the axis dividing the Islamic schools; radical *tanzih* ([[mutazilism|Mu'tazila]]) vs. the *tanzih*+*tashbih* synthesis ([[ibn-arabi|Ibn Arabi]], Noah bezel); the *bila kayfa* Sunni mean (new 2026-06-09)
 - [[wahdat-al-wujud|Wahdat al-wujud (the Unity of Being)]] — the cardinal Akbarian/Sufi doctrine; one Being (*al-Haqq*) self-disclosed in all things; pantheism vs. *wahdat al-shuhud* dispute (new 2026-06-09)
 - [[al-insan-al-kamil|Al-Insan al-Kamil (the Perfect Man)]] — the human as the all-comprehensive mirror of the divine Names, the *barzakh* and preserving principle of the cosmos (Ibn Arabi, Adam bezel); cf. Kabbalist Adam Qadmon (new 2026-06-09)
+- [[qiwama|Qiwama]] — male authority/maintenance (Q 4:34) and its term-cluster (faddala, darajah, nushuz, daraba); classical rank vs. reformist conditional-responsibility readings (new 2026-06-09)
+- [[hur-al-ayn|Hur al-'Ayn]] — the companions of Paradise; the popular "virgins" reading vs. Wadud's culturally-specific Makkan-incentive reading (new 2026-06-09)
 
 ### Buddhist (2026-06-09)
 - [[four-noble-truths|The Four Noble Truths]] — suffering, its cause, its cessation, the Eightfold Path; the diagnostic core
 - [[anatta|Anatta (Non-self)]] — denial of a permanent soul; the antithesis of atman and the immortal soul
-- [[sunyata|Sunyata (Emptiness)]] — Mahayana; all phenomena empty of inherent existence (Nagarjuna)
+- [[sunyata|Sunyata (Emptiness)]] — Mahayana; all phenomena empty of inherent existence (Nāgārjuna); the emptiness of emptiness
+- [[svabhava|Svabhāva (Intrinsic Nature)]] — the "own-being" whose denial *is* emptiness; the mark of the ultimately real in Abhidharma (new 2026-06-09)
+- [[dependent-origination|Dependent Origination (Pratītyasamutpāda)]] — conditioned co-arising; the twelvefold chain; "dependence entails emptiness" (MMK 24.18) (new 2026-06-09)
+- [[two-truths|The Two Truths]] — conventional (*saṃvṛti*) vs. ultimate (*paramārtha*); the Abhidharma vs. Madhyamaka redefinition; the key to the nihilism objection (new 2026-06-09)
+- [[abhidharma|Abhidharma]] — the dharma-analysis ("person empty, dharmas real") that Madhyamaka takes as its target (new 2026-06-09)
+- [[bodhicitta|Bodhicitta (the Awakening Mind)]] — the bodhisattva's resolve; its two kinds (resolve / engaged); generated by the exchange of self and other (new 2026-06-09)
+- [[exchange-of-self-and-other|Exchange of Self and Other]] — Śāntideva's altruism meditation grounded in nonself; the basis of Tibetan *lojong*/*tonglen* (new 2026-06-09)
+- [[nirvana|Nirvana (Nibbāna)]] — the "blowing out" of greed/hatred/delusion; with vs. without residue; saṃsāra–nirvana non-duality in Mahayana (new 2026-06-09)
+- [[noble-eightfold-path|The Noble Eightfold Path]] — the *magga*; the three trainings (sīla/samādhi/paññā); the Middle Way (new 2026-06-09)
+- [[samsara|Saṃsāra]] — the beginningless round of rebirth; rebirth without a self; the six realms (new 2026-06-09)
+- [[karma|Karma (kamma)]] — intention (*cetanā*) as action; mundane right view; karma without an agent (new 2026-06-09)
+- [[dukkha|Dukkha]] — suffering/unsatisfactoriness; the three aspects; "the five aggregates are dukkha"; realism not pessimism (new 2026-06-09)
+- [[five-aggregates|The Five Aggregates (khandhas)]] — form/feeling/perception/formations/consciousness; the analysis behind non-self (new 2026-06-09)
+- [[three-marks-of-existence|The Three Marks of Existence]] — anicca / dukkha / anatta; "what is impermanent is dukkha; what is dukkha is non-self"; **disputed** (Thich Nhat Hanh: nirvana, not suffering) (new 2026-06-09)
+- [[mindfulness|Mindfulness (sati)]] — Right Mindfulness; the Satipaṭṭhāna; Thich Nhat Hanh's "stopping" + collective mindfulness; the secular-adaptation debate (new 2026-06-09)
+- [[interbeing|Interbeing]] — Thich Nhat Hanh's coined term for dependent origination/emptiness; "non-paper elements"; basis of Engaged Buddhism (new 2026-06-09)
+- [[buddha-nature|Buddha-nature (Tathāgatagarbha)]] — the innate factor enabling buddhahood; the "Self"/ātman problem; the ground of Zen "sudden awakening"; rangtong/shentong (new 2026-06-09)
 - [[bodhisattva|Bodhisattva]] — the vow to save all beings; the arhat-vs-bodhisattva divide
 - [[neyartha-nitartha|Neyartha / Nitartha]] — provisional vs. definitive meaning; the Buddhist hermeneutical framework
+- [[seven-purifications|The Seven Purifications (*Satta-visuddhi*)]] — Buddhaghosa's structural framework for the entire Theravada path; virtue → concentration → view → overcoming doubt → what-is-and-is-not-the-path → knowledge-and-vision-of-the-way → knowledge-and-vision; from the Visuddhimagga (new 2026-06-10)
+- [[jhana|Jhāna (Meditative Absorption)]] — the Theravada account of the four material and four immaterial absorptions; five hindrances suppressed; fivefold vs. fourfold counting; five mastery skills; attainment of cessation (*nirodha-samāpatti*); the jhāna-based vs. dry-insight path debate; from the Visuddhimagga (new 2026-06-10)
+- [[samatha-vipassana|Samatha and Vipassanā (Serenity and Insight)]] — the two fundamental meditative orientations; serenity alone does not liberate; the coupling at the path moment; the dry-insight (*sukkha-vipassaka*) path; tradition-specific debates; from the Visuddhimagga (new 2026-06-10)
+- [[vipassana-insight-knowledges|Vipassanā Insight Knowledges]] — the sixteen progressive insight stages from delimitation of mentality-materiality through path knowledge; the ten imperfections of insight; the triple gateway to liberation; the seven noble persons; defilements eliminated at each path; from the Visuddhimagga (new 2026-06-10)
 
 ### Hindu (2026-06-09)
 - [[brahman|Brahman]] — ultimate reality; the contested center of Vedanta
 - [[atman|Atman]] — the self; *tat tvam asi*; the antithesis of Buddhist non-self
-- [[moksha|Moksha]] — liberation from samsara; jnana vs. bhakti by school
+- [[moksha|Moksha]] — liberation from samsara; jnana / bhakti / recognition by school
 - [[maya|Maya]] — appearance/illusion vs. God's real creative power (the Advaita flashpoint)
+- [[karma-yoga|Karma-yoga]] — desireless action (*niṣkāma karma*); the Gita's signature ethic; preparation (Śaṅkara) vs. end-in-itself (modern) (new 2026-06-09)
+- [[adhyasa|Adhyāsa]] — superimposition of Self and not-Self; Śaṅkara's diagnosis of ignorance and the foundation of Advaita (new 2026-06-09)
+- [[pratyabhijna|Pratyabhijñā]] — "recognition" that one already is Śiva; Kashmir Śaiva liberation; the dynamic-non-dual foil to Advaita's māyā (new 2026-06-09)
+- [[panchabheda|Pañca-bheda]] — Madhva's fivefold eternal difference (God–soul, God–matter, soul–soul, soul–matter, matter–matter); the realist inverse of Advaita's non-difference; *svatantra*/*asvatantra* ontology (new 2026-06-09)
+- [[saddarshana|Ṣaḍ-darśana]] — the six orthodox schools (Nyāya, Vaiśeṣika, Sāṃkhya, Yoga, Mīmāṃsā, Vedānta) + the heterodox; the classical map of Indian philosophy and the wiki's coverage-gap frame (new 2026-06-09)
+- [[pancha-kosha|Pañca-kośa]] — the five "sheaths" (food, breath, mind, consciousness, bliss) through which the Upaniṣads reach the innermost [[atman|ātman]] (new 2026-06-09; [[dasgupta-history-of-indian-philosophy|Dasgupta]] Vol. I)
+- [[yugas|The Four Yugas]] — the dice-named declining Ages (Kṛta/Tretā/Dvāpara/Kali); Indian time as both linear and cyclical; the *pralaya* dissolution and the Manu-and-the-fish flood (new 2026-06-09; [[doniger-the-hindus|Doniger]] Ch. 2)
+- [[varnas|Varnas]] — the four social classes (Brahmin/Kshatriya/Vaishya/Shudra) from the Puruṣa-sūkta; Doniger's social reading of the Puruṣa-sūkta as naturalization of existing class structure (new 2026-06-09)
+- [[dharma|Dharma]] — duty/law/social order; trivarga (dharma/artha/kama); sva-dharma vs. sanatana dharma; violence paradox; four ashramas; Manu/Kautilya/Kama-sutra (new 2026-06-09)
+- [[gunas|Gunas]] — the three qualities of matter: sattva/rajas/tamas; mapped to Brahmins/cows, Kshatriyas/horses, lower classes/dogs (new 2026-06-09)
+- [[ahimsa|Ahiṃsā]] — nonviolence as double negative (*a-hiṃsā*, not-harming); double-bind with the warrior's sva-dharma; Jaina/Buddhist/Hindu divergences; *matsya-nyāya*; the Gita's four list-mentions; Aśoka's hedged vegetarianism (new 2026-06-09)
+- [[bhakti|Bhakti]] — loving devotion (*bhaj*); the third Gita path (beside karma/jñāna); earliest external evidence Heliodorus pillar 115 BCE; hate-as-bhakti; Doniger's "third alliance"; South Indian Nāyanmārs/Āḷvārs; Caṅkam poetry → viraha; darshan; Kannappar's caste double-bind (extended 2026-06-09)
+- [[shakti|Shakti]] — creative power, feminine energy; tooth-goddess (independent) vs. breast-goddess (consort) typology; the *Devīmāhātmya*'s paradox (Chandikā is her own shakti); goddess worship ≠ women's empowerment (Doniger critique) (new 2026-06-09)
+- [[darshan|Darshan]] — mutual gaze between devotee and deity; the temple as royal palace; the final act of *pūjā*; the god's power transmitted through sight; bhakti's central ritual enactment (new 2026-06-09)
+- [[suttee|Suttee (Sati)]] — widow immolation; the sati as "good woman" (anti-widow); mythology misapplied (Sita/goddess Sati); British sanctioned then banned (1813→1829); Rammohun Roy's campaign; "did she jump or was she pushed?" — Doniger's multivocal analysis; Rup Kanwar 1987 (new 2026-06-09)
+- [[hindutva|Hindutva]] — Hindu nationalism; Savarkar coined the term (1922); RSS/BJP ideology; Golwalkar's 1939 non-Hindu subordination doctrine; Saffronization; cow protection → communal violence; "the abuse of history"; smoking into Hinduism "a Christian idea of orthodoxy" (new 2026-06-09)
+- [[purva-paksha|Purva Paksha]] — classical Sanskrit method of mastering an opponent's position before rebuttal; extended by Malhotra to civilizational dialogue; Gandhi's *Hind Swaraj* as exemplar (new 2026-06-09)
+- [[cultural-digestion|Cultural Digestion]] — dominant civilization absorbs elements of a weaker one decontextually (tiger-and-prey metaphor); Malhotra's account of how Western scholarship and popular culture handle dharmic traditions; cf. inculturation (de Nobili) (new 2026-06-09)
+- [[history-centrism|History-Centrism]] — structural dependence of Abrahamic religions on unrepeatable historical events as the only authorized channel for divine access; contrasted with dharmic *adhyatma-vidya* (inner science) (new 2026-06-09)
+- [[sanskriti|Sanskriti]] — the Pan-Asian civilization organized around Sanskrit; spread by cultural "pull" not conquest; home of the 18 Sanskrit non-translatables (Brahman≠God; Dharma≠Religion; etc.) (new 2026-06-09)
+- [[sapeksha-dharma|Sapeksha-Dharma]] — positive pluralism with reciprocity; the dharmic alternative to Western secularism, perennialist sameness, and Indian pseudo-secularism (new 2026-06-09)
+- [[adhyatma-vidya|Adhyatma-Vidya]] — "inner science"; systematic first-person empirical inquiry into consciousness; rishis as inner scientists; contrasted with Abrahamic prophethood (new 2026-06-09)
+- [[integral-unity|Integral Unity]] — reality is fundamentally One; multiplicity emerges from unity (not assembled into it); Indra's Net; Advaita/Vishishta-Advaita/achintya-bhedabheda formulations; contrasted with Western synthetic unity (new 2026-06-09)
+- [[sarira-sariri|Śarīra-Śarīrī (Body-Soul Relation)]] — Rāmānuja's formal definition of a body; structural cornerstone of Vishishtadvaita hermeneutics; reads identity-texts and difference-texts without Advaita's two-truths device (new 2026-06-10)
+- [[antaryami|Antaryāmin (The Inner Ruler)]] — Brahman dwelling within every entity and ruling it from within (Bṛhadāraṇyaka III,7); the foundational proof-text for the body-soul relation; immanence + transcendence held simultaneously (new 2026-06-10)
+- [[upasana|Upāsanā (Meditation / Devotional Contemplation)]] — Vishishtadvaita's technical term for the soteriological practice; *upāsanā* = *dhyāna* = *vedana* = repeated sustained representation maintained until death; distinct from a one-time cognitive event (Advaita) (new 2026-06-10)
+- [[path-of-the-gods|Path of the Gods (*Devayāna*)]] — the post-mortem journey of the knower of Brahman; stages from light through Vāyu/sun/lightning to Brahman; who is conducted vs. not (Bādari/Jaimini/Bādarāyaṇa resolution); the *tatkratuḥ* principle (new 2026-06-10)
 
 ### Daoist (2026-06-09)
 - [[dao|Dao]] — the ineffable Way; source and pattern of all things
 - [[wu-wei|Wu-wei]] — effortless / spontaneous non-action in accord with the Dao
 - [[ziran|Ziran]] — "self-so"; naturalness/spontaneity (vs. Confucian cultivation)
+- [[biospiritual-cultivation|Biospiritual Cultivation]] — Kirkland's term for the continuous practical core of Taoism across all periods and communities: cultivation of *ch'i* (life-energy), *ching* (vital essence), *shen* (spirit), *hsin* (heart/mind); practice modalities from Nei-yeh through Quanzhen; bridges the false philosophical/religious dichotomy (new 2026-06-10)
 
 ### Confucian (2026-06-09)
 - [[ren|Ren]] — humaneness/benevolence; the supreme Confucian virtue
 - [[li-confucian|Li]] — ritual propriety; cultivation through form (vs. Daoist ziran)
+- [[taiji|Taiji (Supreme Polarity)]] — Adler's translation of 太極; *ji* = ridgepole/pivot; the supreme principle from which yin-yang bipolarity proceeds; Zhu Xi equated taiji with li; the wuji er taiji paradox; Daoist diagram origins; NOT "the supreme ultimate" (new 2026-06-10)
+- [[daotong|Daotong (Succession of the Way)]] — Han Yu's lineage claim, extended by Zhu Xi to insert Zhou Dunyi as the post-Mencius bridge to the Cheng brothers; a **retrospective construction** (nearly 100 years after Zhou died); hermeneutical warrant for treating the daotong texts as a coherent tradition; political challenge to imperial authority via *zheng tong* (new 2026-06-10)
 
 ### Scientology (2026-06-09)
 - [[thetan|Thetan]] — the immortal spiritual being that is the true self; godlike origin, trapped in matter
 - [[engram|Engram]] — the reactive mind's recordings of pain/unconsciousness; the source of suffering
 - [[auditing|Auditing]] — the core practice (E-meter); the Bridge to Total Freedom; Clear and the OT levels
+- [[operating-thetan|Operating Thetan (OT Levels)]] — the confidential upper levels; OT III / the Xenu narrative; body thetans; legal battles over secrecy ([[urban-church-of-scientology|Urban]])
+- [[fair-game|Fair Game]] — 1965 policy authorizing any means against Suppressive Persons; officially "canceled" 1968 but documented in use thereafter (Snow White, Operation Freakout, CAN takeover) ([[urban-church-of-scientology|Urban]])
 - [[tone-scale|The Tone Scale]] — the graded scale of emotional tones used to predict behavior (Science of Survival)
-- [[arc-triangle|The ARC Triangle]] — Affinity, Reality, Communication = understanding
+- [[arc-triangle|The ARC Triangle]] — Affinity, Reality, Communication = understanding; Communication is "thousands of percent the senior" (8-8008)
+- [[mest|MEST (Matter, Energy, Space, Time)]] — the physical universe as an "agreed-upon illusion" and "police universe"; the Theta-MEST polarity; MEST as the lowest tone (new 2026-06-10)
 - [[eight-dynamics|The Eight Dynamics]] — the urge to "Survive!" across eight expanding spheres (self → infinity)
+- [[the-hole|The Hole]] — double-wide trailers at Gold Base; 40–70 senior executives confined months to years; floor sleeping, ant-infested, hosed showers, daily forced confessions ("séances"); musical chairs incident; extra-canonical — no basis in Hubbard's published policies (Wright)
+- [[disconnection|Disconnection]] — policy of cutting all contact with declared Suppressive Persons, including family; rooted in PTS/SP doctrine; Church officially denies it is mandatory; cross-tradition comparisons to disfellowshipping, Meidung, excommunication (Wright; Haggis case)
+- [[purification-rundown|Purification Rundown]] — program combining exercise, sauna, and megadose niacin (to 5,000 mg/day) claiming to eliminate drug residues; Narconon drug-rehab application; 9/11 first responder program; no accepted scientific basis (Wright)
+- [[security-checking|Security Checking (Sec Check / Confessional Auditing)]] — meter-assisted interrogation; answers retained by org for GO/OSA use; renamed "Integrity Processing" (1968), then "Confessional Auditing"; questions include fantastical items ("enslaved a population?"); a Fair Game tool (new 2026-06-10)
+- [[rehabilitation-project-force|Rehabilitation Project Force (RPF)]] — punitive labor program for "out-ethics" Sea Org members; introduced 1973; RPF's RPF (1974); conditions: manual labor, run not walk, restricted diet, roach-infested quarters (Armstrong); "Happy Valley" (1982); Stephen Kent vs. J. Gordon Melton scholarly dispute (new 2026-06-10)
+- [[acceptable-truth|Acceptable Truth]] — Hubbard PR doctrine: tailor statements to audience "reality" rather than full truth; becomes "plausible denial" in the GO; applied via front-group (WISE/ABLE/Narconon) claimed autonomy (*Management Series 1970–1974*, p. 116) (new 2026-06-10)
+- [[golden-age-of-tech|Golden Age of Tech (GAT)]] — Miscavige's 1995–96 overhaul of Scientology training; piloted at Flag 1995; eliminated auditor judgment in favor of scripted procedure; born from "A Talk on a Basic Qual" tape; drove Flag weekly income sharply higher; RTC enforced compliance globally; controversial among ex-members as a departure from Hubbard's actual method (new 2026-06-10)
+- [[super-power|Super Power]] — Hubbard's late-1970s rundown targeting 57 "perceptics" (sensory/perceptual channels); piloted at Gold Base 1991–92 (Headley); perceptic devices include Orbitron, Zero Gravity Rig, smell vials, balance platform (CST-commissioned); Feshbach family $4M donation; $100M+ raised for dedicated Clearwater building; building not open as of 2009; originally for Sea Org staff, repositioned as premium public offering (new 2026-06-10)
+- [[genetic-entity|Genetic Entity (GE)]] — the somatic mind; evolutionary body track from Atom through Caveman; distinct from the thetan; enters body 2 days before conception; cowardly, stimulus-response (new 2026-06-10)
+- [[between-lives|Between-Lives]] — post-death implanting operation; Mars as primary report station; Pyrenees as last Earth-based Martian station; spinning-wheel forgetter; explains past-life amnesia (new 2026-06-10)
 
 ### Norse (2026-06-09)
 - [[ragnarok|Ragnarök]] — the doom and rebirth of the gods; the gods die fighting their fated end
@@ -753,7 +969,8 @@ Master index of all pages. Updated on every ingest.
 - [[xibalba|Xibalba]] — the Maya underworld of the Lords of Death, conquered by the Hero Twins
 
 ### Vedic (2026-06-09)
-- [[rita|Rita]] — cosmic-moral order (the Indo-Iranian cousin of Zoroastrian *asha*; ancestor of *dharma*)
+- [[rita|Rita]] — cosmic-moral order (the Indo-Iranian cousin of Zoroastrian *asha*; ancestor of *dharma*); Dasgupta makes it the seed of karma (sources 1→2, 2026-06-09)
+- [[henotheism|Henotheism (Kathenotheism)]] — Max Müller's term for the Ṛgvedic stage where each god is exalted in turn; neither poly- nor mono-theism; Macdonell's critique (new 2026-06-09; [[dasgupta-history-of-indian-philosophy|Dasgupta]] Vol. I)
 - [[yajna|Yajna]] — the Vedic fire sacrifice; orthopraxy; the rite that sustains the cosmos
 
 ### Mesopotamian (2026-06-09)
@@ -770,6 +987,14 @@ Master index of all pages. Updated on every ingest.
 
 ### Second Temple Judaism (2026-06-09)
 - [[pseudepigrapha|Pseudepigrapha]] — falsely-attributed Second Temple writings; a canon-status spectrum (Ethiopia/Qumran/Jude vs. rabbinic & Christian rejection)
+
+### Qumran / Dead Sea Scrolls (2026-06-09 — Vermes ingest)
+- [[two-spirits-doctrine|The Two Spirits Doctrine]] — 1QS III:13-IV:26; complete predestinarian dualism; Prince of Light vs. Belial (Angel of Darkness); Sons of Light vs. Darkness; eschatological judgment; Zoroastrian parallel; NT connections (John, Paul, 1 Thess)
+- [[pesher|Pesher]] — the Qumran interpretive method; all prophetic texts fulfilled in community's own history; God revealed the hidden meaning to the Teacher; continuous vs. thematic pesher; five Qumran commentary types; comparison with midrash, allegory, typology
+- [[two-messiahs|Two Messiahs]] — the Qumran expectation of Messiah of Aaron (priestly, has precedence) and Messiah of Israel (Davidic/royal), together with a Prophet (Deut 18:18); illustrated in 1QSa messianic banquet; NT comparison (Hebrews, Revelation)
+- [[merkabah|Merkabah Mysticism]] — Ezekiel 1 chariot vision; Qumran Angelic Liturgy (4Q400-407) = earliest post-biblical Merkabah text; seven heavenly sanctuaries; rabbinic *ma'aseh merkabah*; Hekhalot literature; NT parallels (Rev 4, 2 Cor 12)
+- [[kittim|Kittim]] — Qumran code-word for the Romans (worship military standards; cavalry greaves); determines community chronology; used in 1QpHab, 1QM, 4Q169
+- [[sanctuary-of-men|Sanctuary of Men (*Miqdash 'Adam*)]] — the community as human temple; works of the Law (*ma'asay ha-Torah*) function as Temple offerings; 4Q174 (Florilegium); connection to MMT; NT eschatological temple parallels (1 Cor 3:16; Eph 2:21; 1 Pet 2:5)
 
 ### Jewish Hermeneutics and Law
 - [[oral-torah|Oral Torah]] — Core Jewish concept; Sinaitic transmission claim
@@ -916,8 +1141,8 @@ a `sects/` page, cross-linked.)*
     - [[rabbinic-judaism|Rabbinic Judaism]] — normative post-70 CE stream; Oral Torah co-authoritative; Talmud foundational
     - [[kabbalah|Kabbalah]] — mystical movement (12th c.–present); Ein Sof and the ten sefirot, theurgy, the Sitra Aḥra; the Zohar as canonical mystical scripture
     - [[karaism|Karaism]] — scripturalist sect (8th c.–present); Tanakh alone; **rejects** the rabbinic Oral Torah (new stub 2026-06-09)
-    - [[sadducees|Sadducees]] — priestly Second Temple party (2nd c. BCE–70 CE); Written Torah only; rejected the Oral Torah ([[pharisees|cf. Pharisees group]]) (new stub 2026-06-09)
-    - [[essenes|Essenes]] — separatist Second Temple sect; Qumran / Dead Sea Scrolls; solar calendar, dualism, expansive canon (Jubilees, 1 Enoch) (new stub 2026-06-09)
+    - [[sadducees|Sadducees]] — priestly Second Temple party (2nd c. BCE–70 CE); Written Torah only; no Oral Torah, no resurrection, no providence; aristocratic/Temple-based; vanished after 70 CE; contrast to [[pharisees|Pharisees]] (full page 2026-06-10)
+    - [[essenes|Essenes]] — separatist Second Temple sect; ascetic, communal, pacifist; identified with Qumran / Dead Sea Scroll community; deterministic theology; contrast to Pharisees and Sadducees (full page 2026-06-10)
 
 ### Christianity
 - [[christianity|Christianity]] — tradition overview; the 27-book NT canon, the Quadriga, map of 2nd-c. sects
@@ -960,26 +1185,42 @@ a `sects/` page, cross-linked.)*
     - [[shia-islam|Shia Islam]] — the Imamate; rejects the Sunni six books, holds its own Four Books (new 2026-06-09)
     - [[sufism|Sufism]] — the mystical *batin* dimension within Sunni and Shia; analogue of Kabbalah; its summit is [[ibn-arabi|Ibn Arabi]]'s [[fusus-al-hikam|Fusus al-Hikam]] (new 2026-06-09)
     - [[mutazilism|Mu'tazilism]] — the rationalist *kalam* school ("People of Justice and Unity"); the five principles, the created Qur'an, radical *tanzih*; exegetical monument [[al-zamakhshari|al-Zamakhshari]]'s *al-Kashshaf*; now absorbed into Zaydi/Twelver Shia kalam (new 2026-06-09)
+    - [[islamic-feminism|Islamic feminism]] — a modern reformist **movement**; gender-inclusive tafsir ([[fazlur-rahman|Fazlur Rahman]], [[amina-wadud|Wadud]]); the [[qiwama|qiwama]]/[[quran-4-34-male-authority|Q 4:34]] reread; contested as heterodox (new 2026-06-09)
 
 ### Buddhism
 - [[buddhism|Buddhism]] — tradition overview; the wiki's **first non-theistic tradition**; no single canon; Neyartha/Nitartha hermeneutics (new tradition 2026-06-09)
   - **Sects** ([[buddhism|↑]]):
     - [[theravada|Theravada]] — oldest school; the Pali Canon alone; the *arhat* ideal; **rejects** the Mahayana sutras (new 2026-06-09)
     - [[mahayana|Mahayana]] — the bodhisattva ideal, emptiness, the Mahayana sutras; Zen/Pure Land (new 2026-06-09)
+    - [[madhyamaka|Madhyamaka]] — the "Middle Way" philosophical school within Mahayana ([[nagarjuna|Nāgārjuna]]); all dharmas empty of [[svabhava|svabhāva]]; the [[two-truths|two truths]]; Svātantrika/Prāsaṅgika (new 2026-06-09)
+    - [[zen|Zen (Chan/Thiền/Seon)]] — the meditation school of East Asian Mahayana; "a special transmission outside the scriptures"; sudden awakening, Buddha-nature, kōan; modern Engaged Buddhism ([[thich-nhat-hanh|Thich Nhat Hanh]]) (new 2026-06-09)
+    - [[yogacara|Yogācāra]] — the "Mind-Only" school (Asaṅga/Vasubandhu); the three natures; the store-consciousness; emptiness as absence of subject-object duality; the anti-nihilist counterpart to [[madhyamaka|Madhyamaka]] (new 2026-06-09)
     - [[vajrayana|Vajrayana]] — tantra atop Mahayana; Tibetan Buddhism (new 2026-06-09)
 
 ### Hinduism
 - [[hinduism|Hinduism]] — tradition overview; tiered shared canon (shruti/smriti); the wiki's clearest "one canon, opposite readings" case (new tradition 2026-06-09)
-  - **Sects** (the Vedanta schools, [[hinduism|↑]]):
+  - **Sects** ([[hinduism|↑]]):
     - [[advaita-vedanta|Advaita Vedanta]] — non-dualism (Shankara): atman *is* Brahman; the world is maya (new 2026-06-09)
     - [[vishishtadvaita-vedanta|Vishishtadvaita Vedanta]] — qualified non-dualism (Ramanuja): souls/world as God's real body (new 2026-06-09)
-    - [[dvaita-vedanta|Dvaita Vedanta]] — dualism (Madhva): God and souls eternally distinct (new 2026-06-09)
+    - [[dvaita-vedanta|Dvaita Vedanta]] — dualism (Madhva): God and souls eternally distinct; [[panchabheda|pañca-bheda]]; grounded via [[dasgupta-history-of-indian-philosophy|Dasgupta Vol. IV]] (de-stubbed 2026-06-09)
+    - [[kashmir-shaivism|Kashmir Shaivism]] (Trika / Pratyabhijñā) — non-Vedantic tantric Śaiva non-dualism (Abhinavagupta): all is the self-recognition of Śiva; the world as real self-manifestation, not māyā (new 2026-06-09)
+    - [[virashaiva|Virashaiva (Lingayat)]] — Basava (1106–1167); body as the only temple; portable liṅga; anti-caste; anti-stone-temple; Mahadevyyakka; "things standing shall fall, but the moving ever shall stay" (new 2026-06-09)
+    - [[brahmo-samaj|Brahmo Samaj]] — founded 1828 by Rammohun Roy; Upanishadic monotheism; anti-image-worship; anti-suttee; "colonial Stockholm syndrome" variant of Hindu reform; Bengal (new 2026-06-09)
+    - [[arya-samaj|Arya Samaj]] — founded 1875 by Dayananda Sarasvati; Vedas-only theology; cow protection societies; shuddhi reconversion; Aryan identity; North India Hindu nationalism root (new 2026-06-09)
+    - [[iskcon|ISKCON (Hare Krishna)]] — International Society for Krishna Consciousness; founded 1965 by Prabhupada in LA; Gaudiya Vaishnava lineage (via Chaitanya); global missionary movement; most visible face of diaspora Hinduism (new 2026-06-09)
+- [[carvaka|Cārvāka (Lokāyata)]] — the **nāstika materialist** tradition; no soul, no afterlife, perception the only valid knowledge (rejects inference and scripture); Dhūrtta vs. Suśikṣita schools; the standard *pūrvapakṣa* foil (new tradition 2026-06-09; [[dasgupta-history-of-indian-philosophy|Dasgupta]] Vol. I)
 
 ### Daoism
-- [[daoism|Daoism]] — tradition overview; the ineffable Dao; non-theistic, naturalistic; commentary-as-transformation (new tradition 2026-06-09)
-  - **Sects** ([[daoism|↑]]):
-    - [[philosophical-daoism|Philosophical Daoism]] (*daojia*) — Lao-Zhuang wisdom; Wang Bi's *xuanxue* (new 2026-06-09)
-    - [[religious-daoism|Religious Daoism]] (*daojiao*) — pantheon, alchemy, immortality; Heshang Gong (new 2026-06-09)
+- [[daoism|Daoism]] — tradition overview; the ineffable Dao; non-theistic, naturalistic; commentary-as-transformation; Kirkland revision 2026-06-10: biospiritual cultivation as the true core, tao-chia/tao-chiao dichotomy challenged
+  - **Sects (historically attested — Kirkland, 2026-06-10)**:
+    - [[heavenly-masters|T'ien-shih (Heavenly Masters)]] — Chang Tao-ling (144 CE); foundational populist movement; parallel male/female sacerdotal structure; evolved into Cheng-i (new 2026-06-10)
+    - [[shang-ching|Shang-ch'ing (Upper Clarity)]] — aristocratic; visualizational meditation; Lady Wei Hua-ts'un revelations (364–370 CE); T'ao Hung-ching compiled *Chen-kao*; Ssu-ma Ch'eng-chen at T'ang court (new 2026-06-10)
+    - [[ling-pao|Ling-pao (Numinous Treasure)]] — Ko Ch'ao-fu; Mahayana Buddhist integration; universalistic soteriology; Lu Hsiu-ching organized into first Taoist canon ~471 CE (new 2026-06-10)
+    - [[quanzhen|Quanzhen (Integrating Perfection)]] — Wang Che (1113–1170); monastic; Inner Alchemy + self-cultivation; women (Sun Pu-erh); survives today at White Cloud Abbey, Beijing (new 2026-06-10)
+    - [[cheng-i|Cheng-i (Orthodox Unity)]] — hereditary southern priesthood; Lung-hu shan; non-monastic; talismanic ritual; Tao-tsang compiled under its auspices (1444/45); dominant in Taiwan today (new 2026-06-10)
+  - **Older framework (contested — see [[taochia-taochiao-dichotomy]])**:
+    - [[philosophical-daoism|Philosophical Daoism]] (*daojia*) — Lao-Zhuang wisdom; Wang Bi's *xuanxue*; Kirkland: never a real self-identified community (2026-06-09)
+    - [[religious-daoism|Religious Daoism]] (*daojiao*) — pantheon, alchemy, immortality; Heshang Gong; Kirkland: conflates all organized Taoism problematically (2026-06-09)
 
 ### Confucianism
 - [[confucianism|Confucianism]] — tradition overview; ethics of cultivation (ren + li); the Four Books; canonization by commentary (new tradition 2026-06-09)
@@ -1096,6 +1337,7 @@ a `sects/` page, cross-linked.)*
 - [[zoroastrian-influence-on-abrahamic-eschatology|Zoroastrian Influence on Abrahamic Eschatology]] — dualism, angelology, resurrection, judgment, savior, renewal; the influence-tracing question (incl. Cohn's static→linear thesis) (new 2026-06-09)
 - [[the-combat-myth|The Combat Myth (Cosmos vs. Chaos)]] — the champion-god-vs-chaos-dragon pattern across Mesopotamia, Vedic India, Egypt, Canaan, Greece; Cohn's static-cosmos reading (new 2026-06-09)
 - [[interpretatio-romana|Interpretatio Romana — Greek & Roman God Equivalences]] — the full Zeus=Jupiter, Ares=Mars… mapping, with caveats (new 2026-06-09)
+- [[brahman-atman-vedanta-schools|One Canon, Rival Readings — Brahman & Ātman Across the Vedanta Schools]] — Advaita / Vishishtadvaita / Dvaita / Kashmir-Śaiva readings of "that thou art"; the prime exhibit of "one canon, irreconcilable metaphysics" (new 2026-06-09)
 
 ---
 
@@ -1104,15 +1346,27 @@ a `sects/` page, cross-linked.)*
 ### Islamic / Cross-Tradition (2026-06-09)
 - [[qiraat-variant-readings|The Qira'at (Variant Qur'anic Readings)]] — the seven/ten canonical recitations vs. the preservation claim vs. revisionist text-criticism
 - [[crucifixion-in-the-quran|The Crucifixion of Jesus — Qur'an 4:157 vs. the Gospels]] — Islam's denial of the crucifixion; the sharpest Islam–Christianity contradiction
+- [[quran-4-34-male-authority|Q 4:34 — Male Authority (qiwama) and the *daraba* clause]] — classical vs. Qutb vs. reformist/feminist ([[amina-wadud|Wadud]]) vs. "no-harm" readings of *qiwama*/*nushuz*/*daraba*; the flashpoint of [[islamic-feminism|Islamic feminism]] (new 2026-06-09)
+
+### Buddhist (2026-06-09)
+- [[three-dharma-seals-is-suffering-universal|The Three Dharma Seals — Is Suffering a Universal Mark?]] — the standard *anicca/dukkha/anatta* triad ([[walpola-rahula|Rahula]], Theravada) vs. *anicca/anatta/nirvana* ([[thich-nhat-hanh|Thich Nhat Hanh]], Northern/Mahayana); a Pali-vs-Āgama transmission split (new 2026-06-09)
 
 ### Philosophy of Religion / Comparative (2026-06-09)
 - [[religious-pluralism-debate|The Pluralism Debate]] — are the religions diverse responses to one reality? exclusivism / inclusivism / pluralism / perennialism / particularism; the fidelity-vs-parity crux; seeded by the Hick ingest, extensible by Armstrong and Prothero
 
 ### Hindu (Vedanta, 2026-06-09)
-- [[brahman-atman-vedanta-schools|The Nature of Brahman and the Self]] — Advaita vs. Vishishtadvaita vs. Dvaita; one shared canon, three irreconcilable readings of "that thou art"
+- [[jnana-karma-samuccaya|Jñāna-karma-samuccaya — Knowledge Alone, or Knowledge with Action?]] — the Gita's central crux: Śaṅkara (knowledge alone) vs. the Mīmāṃsā-leaning combiners (knowledge + Vedic rites) vs. Abhinavagupta (knowledge=action as Śiva's powers) vs. modern karma-yoga-as-end (new 2026-06-09)
+- (The three-/four-school reading of "that thou art" is filed as a **comparison**: [[brahman-atman-vedanta-schools|One Canon, Rival Readings]].)
+- [[who-defines-hinduism|Who Defines Hinduism? Doniger's "Alternative History" and Its Critics]] — does Hinduism have an essence, and who may narrate it? [[wendy-doniger|Doniger's]] anti-essentialist, margin-centered history vs. the essentialist / Hindu-nationalist (*Hindutva*) objection vs. the "insider voice" critique (Malhotra); "the abuse of history" (new 2026-06-09)
+- [[babri-masjid-ayodhya|Babri Masjid / Ayodhya]] — destruction of Babur's Mosque by BJP mob (December 6, 1992; 1,000+ dead); the claim that it stood on Rāma's birthplace; Ram Setu / Sethusamudram canal; Romila Thapar / JNU historians vs. Hindu nationalist use of myth; "political abuse of history" (new 2026-06-09)
+- [[aryan-migration-question|Origins of the Vedic People (the "Aryan" Question)]] — where the Rig-Vedic people came from: invasion / migration / Out-of-India / IVC=Vedic; the racial history of "Aryan"; the horse argument; Doniger's fusion/bricolage resolution (new 2026-06-09; [[doniger-the-hindus|Doniger]] Ch. 4)
 
 ### Scientology (2026-06-09)
 - [[scientology-religion-or-commercial-enterprise|Religion, Commercial Enterprise, or Cult?]] — the contested status of Scientology; a live test of the definition of "religion"
+- [[lisa-mcpherson-case|Lisa McPherson Case]] — death December 5, 1995 (17 days isolation, Introspection Rundown, Fort Harrison Hotel, Clearwater); Rathbun admitted destroying evidence and neutralizing the medical examiner; criminal charges dropped; civil case settled 2004; ~$20–30M spent (Wright)
+- [[hubbard-military-records-forgery|Hubbard Military Records Forgery]] — Church's "Notice of Separation" document found to be a forgery by two St. Louis archivists (phantom signatory, font inconsistencies, nonexistent medals); official Navy record shows Hubbard not qualified for command (Wright)
+- [[armstrong-case|Armstrong Case (1982–1986)]] — Church v. Gerald Armstrong; Judge Breckenridge (June 22, 1984): Hubbard "schizophrenic and paranoid," "pathological liar"; Church "corrupt"; Armstrong's document-saving justified; settled $800,000 (new 2026-06-10)
+- [[latey-ruling|Latey Ruling (July 23, 1984)]] — English High Court (*Re B & G Wards*); Justice Latey: Scientology "corrupt, sinister, and dangerous"; Hubbard "a fraud and a liar"; independent contemporaneous judicial finding (new 2026-06-10)
 
 ### Daoist (2026-06-09)
 - [[wang-bi-vs-heshang-gong|Wang Bi vs. Heshang Gong]] — two readings of the Daodejing: philosophical/metaphysical vs. religious/longevity-cultivation (commentary-as-transformation)
@@ -1135,6 +1389,9 @@ a `sects/` page, cross-linked.)*
 - [[intermarriage-ezra-nehemiah|The Intermarriage Controversy in Ezra-Nehemiah]] — Ezra's expulsion of foreign wives; holy seed; matrilineal descent; open
 - [[esther-canonicity|Esther: Canonical Disputes and the Hidden God]] — God unnamed; Qumran exclusion; Luther; LXX additions; tradition-specific
 - [[job-42-6|Job 42:6 — Recantation or Surrender?]] — Five positions on Job's final response; theodicy resolution; open controversy
+
+### Second Temple / Dead Sea Scrolls
+- [[wicked-priest-identity|The Identity of the Wicked Priest]] — Jonathan Maccabaeus thesis (Vermes) vs. the Groningen Hypothesis (García Martínez: an office held by 6 Hasmonean high priests); VanderKam skeptical of Groningen; open controversy
 
 ### Second Temple / Samaritan
 - [[gerizim-vs-jerusalem|Gerizim vs. Jerusalem — the Chosen Place of Worship]] — Which is the divinely chosen sanctuary? Samaritan (Mount Gerizim, grounded in the Samaritan Pentateuch's Deut 27.4 "Gerizim" reading) vs. Jewish (Jerusalem/Zion); John 4 relativizes both; the structural fault line of the Samaritan–Jewish schism; open / tradition-specific (Coogan Ch. 8)

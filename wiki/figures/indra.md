@@ -5,7 +5,7 @@ tradition: Vedic religion (and Hinduism)
 textual_sources: [the Rig Veda (esp. the Vritra hymns), the Brahmanas]
 dates: mythological
 roles: [king of the gods, storm/war god, slayer of the dragon Vritra, god of rain]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-09
 tags: [figure, vedic-religion, storm-god, king-of-gods, indra]
 ---
@@ -28,6 +28,32 @@ the rivers, bringing the rains, and **establishing the ordered cosmos**. "He sle
 the waters" (RV 1.32). This **storm-god-vs-chaos-dragon** combat is a deep **Indo-European** pattern (compare
 [[marduk|Marduk]] vs. [[tiamat|Tiamat]], [[zeus|Zeus]] vs. Typhon, Thor vs. the World-Serpent), and Indra's
 victory is repeatedly celebrated as the act that **upholds [[rita|rita]]** against chaos.
+
+## Brāhmaṇas: Brahminicide and the Distribution of Evil
+
+In the Brāhmaṇas ([[wendy-doniger|Doniger]], *[[doniger-the-hindus|The Hindus]]*, Ch. 6), Indra's portrait
+darkens significantly. The **Vritra** he kills is now described in Brāhmaṇic texts as a **Brahmin** (a Dasyu
+Brahmin — from the indigenous peoples, but a Brahmin nonetheless), making Indra's defining victory an act of
+**Brahminicide** (*brahmahatyā*) — the worst sin in the Brāhmaṇic moral universe. This guilt must be
+distributed to make the world safe again.
+
+**Soma addiction.** Indra's notorious attachment to soma is made explicit. On one occasion the Brahminicide
+"flows out with the excess soma": from his nose a **lion** arises; from his ears a **jackal**; from the
+lower opening of his body, **tigers and wild beasts**. The divine hangover leaves humanity to deal with
+man-eating predators.
+
+**The distribution of Brahminicide.** Indra distributes the sin among willing receivers, with compensating
+boons: **earth** takes a third (receives the power to fill in dug-out portions within a year); **trees** take
+a third (receive the ability to re-sprout from pruning); **women** take a third (receive the ability to enjoy
+intercourse until childbirth). The Brahminicide that women take becomes **menstrual blood** — not mere biology,
+but transmitted divine pollution transformed by compensation.
+
+**Gods and the intentional placing of evil in humans.** In a related Brāhmaṇic text, the gods *deliberately*
+install evil in humans — sleep, carelessness, anger, hunger, **love of dice, desire for women** — to prevent
+humans from accumulating enough merit to reach heaven. This marks a profound shift in the theology of evil:
+from Vedic gods as morally neutral nature-forces (fire, storm, rain) to **jealous, self-interested cosmic
+rulers** who see human virtue as a threat. Doniger frames this as the "second alliance" pattern (gods against
+humans) emerging to dominate the Brāhmaṇic worldview.
 
 ## From Vedic King to Hindu Demigod
 

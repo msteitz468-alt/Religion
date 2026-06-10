@@ -2,7 +2,7 @@
 title: Tawhid (Divine Oneness)
 domain: theology
 traditions_using: [Islam]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-09
 tags: [concept, islam, theology, monotheism]
 ---
@@ -35,9 +35,22 @@ Tawhid is the sharpest point of contact and conflict with the other monotheisms:
   a tawhid-based critique would read as compromising oneness (mirroring the internal Jewish tension
   between [[kabbalah|Kabbalah]] and rationalist monotheism).
 
+## Tawhid as Hermeneutic
+
+Beyond doctrine, *tawhid* has been turned into a **method of reading**. [[amina-wadud|Amina Wadud]]
+proposes a "**hermeneutics of tawhid**" ([[wadud-quran-and-woman|*Qur'an and Woman*]]): because God
+is one, the [[quran|Qur'an]] is a *coherent unity*, so its parts must be read in the light of the
+whole rather than atomistically verse-by-verse (see [[tafsir|holistic vs. atomistic tafsir]]). She
+also reads the **phenomenon of pairs (*zawj*)** in creation as itself a sign of tawhid: every created
+thing is paired, therefore the uncreated Creator alone is unpaired and One (Q 42:11, "nothing is like
+Him"). This grounds her egalitarian reading of human creation (see [[adam|Adam, Islamic]]) and her
+critique of male-hierarchical exegesis ([[qiwama|qiwama]], [[quran-4-34-male-authority|Q 4:34]]).
+
 ## Cross-Links
 
 - [[quran|Qur'an]] (Sura 112; 4:171), [[islam|Islam]]
+- [[wadud-quran-and-woman|Wadud]] (hermeneutics of tawhid), [[tafsir|holistic tafsir]],
+  [[islamic-feminism|Islamic feminism]]
 - [[shema|Shema]] — the Jewish parallel confession
 - [[logos-christology|Logos Christology]], [[arianism|Arianism]] — the Christian debates tawhid speaks to
 - [[divine-name|The Divine Name]], [[creation-ex-nihilo|Creation ex nihilo]]

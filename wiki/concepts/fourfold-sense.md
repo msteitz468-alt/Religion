@@ -2,8 +2,8 @@
 title: Fourfold Sense (The Quadriga)
 domain: hermeneutics
 traditions_using: [Christianity (patristic and medieval)]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 2
+last_updated: 2026-06-10
 tags: [concept, christianity, hermeneutics, medieval, interpretation, quadriga]
 ---
 
@@ -90,6 +90,66 @@ record on two points the wiki had carried loosely:
 De Lubac recovers the fourfold sense as a coherent spiritual discipline rather than fanciful
 eisegesis, against Luther (who called the distich's verses "impious") and the Enlightenment
 charge that "anything a person wants can easily be extracted from Scripture."
+
+---
+
+## Each Sense in Depth (De Lubac, Vols. 2–3)
+
+[[de-lubac-medieval-exegesis|De Lubac's Vols. 2–3]] give the most detailed modern account of each
+sense's content and inner logic.
+
+### The Literal / Historical Sense: Permanent Foundation
+
+*Historia* is the **permanent, indispensable foundation** of the spiritual senses — not a scaffold
+to be removed once the building is complete. The tradition from Origen through the twelfth century
+repeats: "first lay the foundation of history." The phrase "the letter that kills" (2 Cor 3:6) does
+not reject historical reading; it identifies the **orientation** of the reader who remains at the
+letter without perceiving Christ's fulfillment. Special case: the *Canticle of Canticles* has "no
+*historia* in the strict sense" because it is not a narrative — a literary-genre recognition, not a
+denial of history.
+
+### The Allegorical Sense: Christ and the Church
+
+**Content of allegory**: always and only **Christ and the Church**. Christian allegory goes "from
+history to history" — from the letter of OT history to the real, publicly verified history of
+Christ's life, death, and resurrection. It does *not* dissolve the historical into atemporal
+abstractions (as pagan/Stoic allegorism does). This is *allegoria facti et dicti*: the historical
+*events themselves* (not merely prophetic words about them) are figures. Three dimensions of the
+allegorical content:
+1. **Future** — OT events point forward to the Christ-event (typology)
+2. **Interior** — the mystery has inexhaustible depth; each reading opens further
+3. **Celestial** — allegory opens onto eternity, not only onto a past event
+
+### The Tropological / Moral Sense: Interiorization of the Mystery
+
+**Twofold tropology**: (a) simple moral tropology (ethical instruction for the soul); (b)
+**mystical tropology** — the *interiorization of the objective Mystery of Christ*, by which what
+the Spirit accomplished externally in Christ is appropriated inwardly by the believer. The key
+term: **quotidie** ("daily") — the mystery of Christ is not only past but is being fulfilled every
+day within the soul and the Church. **Church and soul** are in mutual symbolic identification:
+what is said of the Church is said of the soul. [[bernard-of-clairvaux|Bernard of Clairvaux]]
+("the last of the Fathers") exemplifies mystical tropology rooted in the objective allegory, not
+in private introspection.
+
+### The Anagogical Sense: Eschatology and Contemplation
+
+**Twofold anagogy**: (a) doctrinal/eschatological anagogy — the soul directed toward the last
+things (resurrection, judgment, eternal life); (b) contemplative/mystical anagogy — the soul's
+present ascent to God in contemplation, an anticipation of eternity within time.
+
+**Three-advent structure** (architectural key to the full fourfold scheme):
+- Christ's *first* (historical) coming → allegory
+- Christ's *interior* coming (in soul and Church) → tropology
+- Christ's *eschatological* coming → anagogy
+
+Gregory the Great's "wheel within the wheel": Scripture grows with the reader who grows with
+Scripture. The senses are not four separate compartments but one progressive movement.
+
+**Jerusalem as paradigmatic illustration** (Cassian, Gregory, the whole tradition):
+- Literal: the historical city of the Jews
+- Allegorical: the Church Militant
+- Tropological: the faithful soul
+- Anagogical: the heavenly, eschatological city (Rev 21)
 
 ---
 

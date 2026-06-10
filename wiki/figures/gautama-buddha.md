@@ -3,9 +3,9 @@ title: The Buddha (Siddhartha Gautama)
 also_known_as: [Siddhartha Gautama, Shakyamuni, the Tathagata, the Awakened One]
 tradition: Buddhism
 textual_sources: [Pali Canon (Tipitaka), the Mahayana sutras]
-dates: traditionally c. 563–483 BCE (or c. 480–400 BCE on revised dating)
+dates: traditionally c. 563–483 BCE (Dasgupta gives "in or about 560 BCE"); or c. 480–400 BCE on revised dating
 roles: [founder, awakened teacher, "world-honored one"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-09
 tags: [figure, buddhism, founder]
 ---
@@ -52,7 +52,21 @@ birthplace specifics, and the historical kernel of the awakening narrative are d
 trans-historical Mahayana Buddha vs. the human Buddha of the Pali suttas is itself a tradition-dividing
 portrait.
 
+## Dasgupta's Account (Vol. I, Ch. V)
+
+[[dasgupta-history-of-indian-philosophy|Dasgupta]] places the Buddha's birth "in or about 560 BCE" in the
+**Lumbinī Grove near Kapilavastu** (the Nepal terai), son of **Suddhodana**, a prince of the **Śākya**
+clan, and Queen **Mahāmāyā**. The legend of the four predictive sights ("a decrepit old man, a diseased
+man, a dead man, and a monk") frames the **Great Renunciation** at age 29; he travelled to **Rājagṛha** and
+then **Uruvelā**, where with five ascetics he carried austerity to the point of collapse before concluding
+"the truth was not to be won by the way of extreme asceticism." After supreme enlightenment he taught for
+**45 years**, dying at over 80 by passing through the stages of *dhyāna* into nirvāṇa
+(*Mahāparinibbāna-suttanta*). Dasgupta frames the Buddha's originality against the philosophical deadlock he
+inherited — Upaniṣadic absolutism, [[carvaka|Cārvāka]] materialism, and Ājīvaka fatalism — onto which "he
+erected a new superstructure of thought on altogether original lines."
+
 ## Cross-Links
 
 - [[buddhism|Buddhism]], [[tipitaka|Pali Canon]], [[dhammapada|Dhammapada]]
 - [[four-noble-truths|Four Noble Truths]], [[anatta|Non-self]], [[bodhisattva|Bodhisattva]]
+- [[dependent-origination|Dependent origination]], [[carvaka|Cārvāka]] (a school he argued past)
