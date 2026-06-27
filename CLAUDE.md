@@ -14,6 +14,17 @@ lives in `raw/`. The wiki lives in `wiki/`. Never modify files in `raw/`.
 
 ---
 
+## Task-Observer Activation (mandatory)
+
+At the start of any task-oriented session (ingest, lint, query, or any tool-using work),
+invoke the `task-observer` (`one-skill-to-rule-them-all`) skill **before** reading source
+content or beginning work. It captures skill-improvement observations and runs the
+session-start protocol (weekly-review check, observation log). When loading any skill, also
+check `skill-observations/log.md` for OPEN observations relevant to the work and apply their
+insight even if the skill file isn't yet updated.
+
+---
+
 ## Directory Structure
 
 ```
@@ -511,7 +522,95 @@ Origen vs. Philo vs. Ibn Arabi) are valuable — flag these for comparison page 
 
 ---
 
-## Ingest Workflow
+## Ingest Workflow — Deployed Subagent Strategy (DEFAULT)
+
+**Primary ingest method for all sources.** Parallelizes claim/passage extraction across
+Sonnet subagents while keeping all scaffolding, taxonomy, canon decisions, reconciliation,
+and validation on the main thread. The scope-and-fidelity workflow below ("Ingest Workflow
+— Scope & Fidelity") remains authoritative for **what each page must contain** (page types,
+frontmatter, `canon_scope`, hermeneutical tracking, coverage ledger, the lean-filing rule)
+and **how to partition a large work into scopes** (the scope plan) — apply it *within* the
+steps here. The two are one workflow: subagents are how a scope gets read in parallel, not a
+different standard of fidelity.
+
+Non-negotiable principle: **the main thread owns structure; subagents own bulk extraction.**
+Subagents never decide taxonomy, page naming, `canon_scope` buckets, sect-vs-group splits,
+or cross-links — they extract faithfully within boundaries the main thread already drew.
+
+**Step 1 — Scaffold first, on the main thread.** Before spawning anything, read enough (TOC,
+intro, conclusion, targeted sampling) to do the structural work that requires judgment:
+- Identify the source type and, for any primary text, its **canonical status per sect /
+  tradition** and whether that differs from the parent tradition (drives `canon_scope` and
+  any sect canon-divergence section) — per Ingest-sequence step 1 below.
+- Write the **source summary page** (in `scholarship/`, or the relevant text/commentary
+  page) including the **scope plan** for a large multi-section work (the ordered sequence of
+  bounded scopes) and the **coverage ledger** skeleton.
+- Create or name the **key pages everything links to** — the central text/commentator/
+  tradition/sect pages, and the figure/group/location/concept pages the ingest will
+  populate — so subagents inherit names and never invent structural ones.
+- Decide **naming conventions, the page taxonomy, and the hermeneutical framing** (which
+  PaRDeS / Quadriga / Zahir-Batin / neyartha-nitartha / etc. frameworks are in play).
+
+Do not spawn any agent until the linkable page names and the canon/taxonomy decisions exist.
+
+**Step 2 — Split the scope by disjoint line-ranges.** Within the scope being read, divide the
+raw text into N contiguous, non-overlapping chunks by line number.
+- **Size N to the material, not a fixed number.** Base it on *body* length × density (exclude
+  front matter, apparatus, indices, untranslated sections). Rule of thumb: one agent per
+  ~2,000–3,500 body lines; floor 2–3; up to ~10 for very large/multi-volume references. **Do
+  not default to 6** — over-splitting starves agents of context.
+- **Weight chunks by density and importance, not even boundaries.** Dense/pivotal stretches
+  (a key sura's tafsir, a doctrinally loaded sutta, the heart of a commentary) get their own
+  agent; lighter narrative combines into a larger range. Align edges to natural
+  section/chapter boundaries only where it doesn't fight the weighting.
+- Ranges must be **disjoint** — every line in exactly one chunk.
+
+**Step 3 — Spawn one Sonnet subagent per chunk (staggered batches + background).** Use the
+Agent tool with **`model: sonnet`** and `run_in_background: true`, one agent per chunk. Each
+prompt must contain: its **exclusive line-range** (read only that range); the **relevant
+schema, naming conventions, and hermeneutical-tracking requirement** from this file; the
+**established page names** it may link to (Step 1); **exclusive ownership of the titles it
+creates** (a distinct topic set / title namespace so no two agents write the same file); and
+the **faithfulness mandate** — extract only what is actually in its range, **with
+verbatim-anchored grounding quotes and line/page loci**, no outside knowledge, no background
+summary presented as the source's content, no reading beyond its range (this is principle 4
+of the scope-and-fidelity workflow, enforced per agent).
+- **Staggered deployment (rate-limit mitigation):** never launch all at once. Spawn in
+  batches of 2 (at most 3 for lighter ranges), then `sleep 10` before the next batch (20s+
+  if 429s recur). Optionally pre-cut per-range cache files
+  (`/tmp/..._cache/range_N_START_END.txt`) so each agent does a cheap one-shot read of only
+  its slice. Collect task_ids; monitor to completion. If a subagent fails (e.g. 429), the
+  main thread recovers *that range alone* (read its slice, extract, label the block
+  "Main-thread recovery (rate limit on subagent)") and lets the others continue. Do not
+  restart a rate-limited agent.
+
+**Step 4 — Review and tie together (main thread).** Dedupe overlapping claims; reconcile
+naming; fix cross-links between new pages (subagents only linked Step-1 names); fill the
+source page's coverage ledger for the scope just read; record any **contradictions** on both
+pages and the relevant `controversies/` page (Contradiction Protocol); set/extend
+`canon_scope` buckets on every affected text page; confirm each new sect/group page is
+cross-linked to its counterpart. Remove agent artifacts (stray instructions, prompt echoes,
+stray tags — grep first). **File lean** per the scope-and-fidelity rule: extend a central
+page before creating a new one; de-link tangential mentions rather than spawning stubs.
+
+**Step 5 — Lint and validate.** Run `python Scripts/lint_wiki.py` and resolve what it
+surfaces — red links (missing pages), orphans, and commentators/figures/groups/locations/
+sects mentioned without their own page. Re-run until clean.
+
+**Step 6 — Bookkeeping and file.** Update `index.md` with new/modified pages; tick the source
+on `outstanding sources.md` if it is a line item there; append the `log.md` entry stating the
+declared **scope** and whether it was read in full or remains in progress (per Ingest-sequence
+step 5 below). For a multi-scope work, checkpoint after **each** scope (ledger + index + log,
+verified on disk) and continue autonomously to the next scope in the plan; do not pause to ask
+"what next?".
+
+> The section below remains the source of truth for fidelity, scope partitioning, page
+> contents, `canon_scope`, hermeneutical tracking, and the coverage ledger. Read it as the
+> definition of *quality*; read the six steps above as the definition of *throughput*.
+
+---
+
+## Ingest Workflow — Scope & Fidelity
 
 The governing principle is **fidelity within a declared scope** — not exhaustiveness. The
 point of an ingest is that everything the wiki attributes to a source was actually read in it;
