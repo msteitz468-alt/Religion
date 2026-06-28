@@ -110,6 +110,24 @@ Despite using interpreters for his Western addresses (mostly Iranians, but also 
 
 ## From Smith, Concise Encyclopedia (2026-06-28)
 
+### Biographical Entry (Lines 1025–1600)
+
+**Titles:** His given name was 'Abbás. Bahá'u'lláh also referred to him as the "Master" (*Áqá*), the "Most Great Branch" (*ghusn-i-a'zam*), the "Mystery of God" (*sirru'lláh*), and the "Limb of the Law of God." During his leadership (1892–1921) he preferred the title 'Abdu'l-Bahá — "Servant of Bahá" (lines 1025–1035). Bahá'u'lláh's Tablet of the Branch stated that those who turned towards 'Abdu'l-Bahá had turned towards God, and those who rejected him had repudiated Bahá'u'lláh (lines 1044–1059).
+
+**Early life:** Born on the night of the Báb's declaration (23 May 1844). His mother was Navváb, Bahá'u'lláh's first wife (lines 1069–1072). He never attended school but read widely and became well known and respected among Ottoman officials and reformers including Midhat Pasha and Shaykh Muhammad 'Abduh (lines 1092–1099). In 1873 he married Munjírih Nahrí (1847–1938); they had four daughters surviving to adulthood and five children who died in childhood (lines 1110–1144). Unlike his father, grandfather, and uncles, he remained monogamous (lines 1145–1149).
+
+**Ministry Phase 1 (1892–1908):** Persistent difficulty and danger. His half-brother Muhammad-'Alí led an initially covert campaign against him. The campaign caused recurrent problems with Turkish authorities: reimposition of confinement in Akka (1901) and two official commissions of enquiry, the second expected to cause exile to North Africa (lines 1153–1136). He wrote his Will and Testament appointing Shoghi Effendi as Guardian and outlining the Universal House of Justice (lines 1169–1190). Other developments of this period: *Treatise on Politics* (1892–3); first Western Bahá'í pilgrimage visit to Akka (1898–9); construction of the Shrine of the Báb on Mount Carmel (lines 1191–1210).
+
+**Ministry Phase 2 (1908–1914):** The Young Turk revolution freed him. He moved from Akka to Haifa in 1910, which "thenceforth was to remain the headquarters of the Faith" (line 1220). He traveled extensively, visiting England and France (September–December 1911), then thirty-eight American and Canadian cities (March 1912–June 1913), then Britain, France, Germany, and Austria-Hungary. He met John Dewey, Henri Bergson, Emmeline Pankhurst, Annie Besant, Arminius Vambery, and Kahlil Gibran (lines 1362–1370). He deliberately demonstrated Bahá'í belief in racial equality by insisting that Louis Gregory should sit next to him at a prestigious dinner in Washington DC (lines 1430–1436).
+
+**Ministry Phase 3 (1914–1921):** World War I prevented travel; his life was threatened by Turkish army chief Jamal Pasha. He averted local famine through grain stocks, earning a British knighthood (1920). He died peacefully on 28 November 1921 (lines 1384–1412).
+
+**Personality:** E. G. Browne wrote of his "eloquence, wide religious knowledge, and 'majestic' and 'genial' bearing." He was commanding yet approachable, with a ready sense of humour. Many Western Bahá'ís saw him in Christ-like terms (lines 1414–1439).
+
+**Theological Status (per Shoghi Effendi):** 'Abdu'l-Bahá is the third "Central Figure" of the Faith (after Bahá'u'lláh and the Báb), not a Manifestation but the "Center and Pivot" of Bahá'u'lláh's Covenant; his vicegerent on earth; the unerring interpreter of his mind and word; the "Architect" of Bahá'u'lláh's World Order. His words possessed "an equal validity" with those of Bahá'u'lláh but were not equal in rank. It was "impious and heretical" to identify him as a Manifestation, as having "mystic unity" with his father, or as the return of Jesus Christ (lines 1449–1499).
+
+**Writings:** Over 27,000 letters have survived. Unauthenticated "Pilgrims' Notes" of conversations are excluded from the canon. Works composed during Bahá'u'lláh's lifetime include: *The Secret of Divine Civilization* (1875); *Traveller's Narrative* (1886); and *Commentary on "I Was a Hidden Treasure."* Later works include: *Treatise on Politics* (1892–3); *Tablets of the Divine Plan* (1916–17); *Tablets to the Hague* (1919); *Tablet to Dr. Forel* (1921); and his Will and Testament. He wrote mostly in Persian, also in Arabic, and in Ottoman Turkish. Best-known collections of oral teachings: *Some Answered Questions* (1904–6) and *Memorials of the Faithful* (1915) (lines 1512–1598).
+
 ### The Covenant and Succession
 'Abdu'l-Bahá is the Centre of [[bahaullah|Bahá'u'lláh]]'s Covenant, appointed in the [[covenant-bahai|Book of the Covenant]] (Kitáb-i-'Ahd) as the *ghusn-i-a'zam* (Most Great Branch) and Bahá'u'lláh's successor. 'Abdu'l-Bahá described the Covenant doctrine as 'the most great characteristic' of Bahá'u'lláh's religion, stating that through it the unity of the Bahá'í Faith was assured and schism prevented (lines 9979–9982).
 

@@ -13,8 +13,8 @@ associated_peoples:
   - Bhatras (small caste, traditional fortune-tellers/hawkers)
   - Chamars (Outcaste community)
   - Bedis (prominent Jat got)
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [location, sikhism, south-asia, homeland]
 ---
 
@@ -60,6 +60,27 @@ Punjab is not merely the homeland of the Panth but the site of its sacred geogra
 - **Gurdwara Reform Movement (early 1920s)**: resulted in the Sikh Gurdwaras Act 1925, creating the SGPC as the institutional authority for historic Punjab gurdwaras
 - **1947 partition**: divided Punjab between India and Pakistan; displaced populations; cut Sikhs off from Nankana Sahib and other sacred sites in Pakistani Punjab
 - **Idi Amin 1972**: expulsion of Indians from Uganda brought many East African Ramgarhia Sikhs to UK
+
+## Khushwant Singh's Account (Vol. 1, Ch. 1 "The Sikh Homeland")
+
+Khushwant Singh opens his *History of the Sikhs* with the land itself. The Punjab "has a geographical unity
+distinct from the neighbouring countries and the rest of India… shaped like a scalene triangle balanced on
+its sharpest angle," an "extensive plain… across which flow six large rivers: the Indus, Jhelum, Chenab,
+Ravi, Beas, and the Sutlej." The Aryans called it *Sapta Sindhva* (seven seas); after the Sarasvati dried
+and the Indus was excluded it became *panj-āb*, the land of the five waters. He stresses the **Jat
+peasantry** of the central plains (Majha) as the demographic engine of Sikhism: each Jat village "a small
+republic… conscious of absolute equality between themselves," tilling "his land with his sword girded round
+his waist." For Singh, "the spirit of Punjabi nationalism first manifested itself in Majha… its backbone was
+the Jat peasantry."
+
+Singh also frames Sikhism's emergence from the land's two religious currents — the Hindu **[[sant-tradition|Bhakti/Sant]]**
+revival (Ramananda, [[kabir|Kabir]]) and Punjab **Sufism** (the Chishtis of Pak Pattan, Data Ganj
+Baksh of Lahore) — concluding that "Sikhism was born out of a wedlock between Hinduism and Islam," yet with
+"features which bore no resemblance to either."
+
+**The Sikh empire.** The later volumes of Singh's narrative make the Punjab the seat of Sikh political power:
+the [[misls|misl]] confederacies that filled the vacuum left by [[ahmad-shah-abdali|Abdali]], and the unified
+kingdom of [[ranjit-singh|Ranjit Singh]] (capital [[lahore|Lahore]]), before the British annexation of 1849.
 
 ## Related Pages
 

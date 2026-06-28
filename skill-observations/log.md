@@ -51,3 +51,31 @@ DECLINED = user decided not to pursue
 **Suggested improvement:** Consider softening the staggering mandate from "always" to "when rate limits are actually being hit" — launch in parallel by default, and fall back to staggered batches only after observing 429s. The current always-stagger rule adds wall-clock latency (sleeps + serialized batches) that this environment did not require.
 
 **Principle:** Mitigation steps prescribed for a failure mode should be triggered by evidence of that failure mode, not applied unconditionally; defaulting to the cheaper path (full parallelism) and degrading gracefully on first error is usually faster than pre-emptively serializing.
+
+### Observation 4: Deploy all extraction subagents up front across scopes, not scope-by-scope
+
+**Date:** 2026-06-27
+**Session context:** Deployed-subagent ingest of Heschel's *God in Search of Man* (a 3-part, ~14.7k-line monograph) into the religion wiki. I launched Scope 1's extractors, integrated/checkpointed it, then launched Scope 2's. Mid-run the user interjected: "deploy the rest of the subagents."
+**Skill:** Project workflow (CLAUDE.md "Ingest Workflow — Deployed Subagent Strategy"); not an open-source skill.
+**Type:** internal
+**Phase/Area:** Step 2–3 (split scope / spawn subagents) vs. the per-scope checkpoint cadence.
+
+**Issue:** CLAUDE.md frames the deployed-subagent workflow scope-by-scope (read a scope, file it, checkpoint, then move to the next). For a single-author work whose scopes are *extraction-independent* (no subagent needs another scope's output), serializing the read wastes wall-clock time. The user explicitly asked to launch all remaining extractors at once. Throughput is higher if every chunk across every scope is spawned up front (staggered in batches of 2–3 to respect rate limits) while the main thread still integrates and checkpoints *per scope* as each scope's extractions return.
+
+**Suggested improvement:** In the project's ingest workflow, note that when scopes are extraction-independent, the main thread may deploy all chunk-extractors up front (staggered) and integrate/checkpoint per scope as results arrive — separating "parallel extraction" (can run ahead) from "filing/checkpointing" (stays ordered, per scope). Keep the per-scope checkpoint requirement intact.
+
+**Principle:** Parallelism and checkpoint cadence are independent axes. Reading ahead in parallel doesn't require filing ahead; you can fan out all extraction work immediately while keeping integration serialized and checkpointed, as long as no extractor depends on another's output.
+
+### Observation 5: Subagents rewriting existing sections instead of appending to designated skeletons
+
+**Date:** 2026-06-27
+**Session context:** Ingesting Karl Barth *Church Dogmatics* I.1 §§1–12 via deployed-subagent strategy; multiple Sonnet subagents given range-specific extraction tasks and told to update shared pages (`karl-barth.md`, scholarship page)
+**Skill:** wiki-ingest-verifier (or new skill: deployed-subagent-ingest)
+**Type:** internal
+**Phase/Area:** Subagent prompt design / file ownership constraints
+
+**Issue:** Subagents given permission to "update `wiki/commentators/karl-barth.md`" treated this as license to restructure and rewrite sections that were already written by the main thread or prior subagents. The user observed subagents rewriting sections independently. The root cause: prompts said "add only details explicitly in lines X–Y not already in the file" but did not enforce a structural constraint (e.g., append-only to a named section, or add only a clearly delimited new section with a section header that identifies the source range).
+
+**Suggested improvement:** In the deployed-subagent ingest workflow prompt template, add an explicit constraint for shared pages: subagents may only (a) fill in skeleton placeholders that were explicitly named in the prompt by section header, or (b) append a new clearly-delimited section with a header specifying its scope (e.g., "## Key Arguments from §§9–10"). They must NOT edit, restructure, or rewrite any section not explicitly assigned. The scholarship page skeleton should be the primary vehicle for subagent output; the commentator page should receive only an append of a new section, never in-place edits.
+
+**Principle:** In multi-agent parallel ingest, file ownership must be made structurally enforced in the prompt, not just described as a preference. "Don't overwrite existing content" is not enough — agents need an explicit positive instruction about *where* to write (a named section header or an append operation), not just a negative instruction about what not to touch.

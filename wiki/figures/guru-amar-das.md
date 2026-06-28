@@ -6,8 +6,8 @@ textual_sources:
   - guru-granth-sahib
 dates: "born uncertain (probably c. 1479); died 1574 (probably aged 95)"
 roles: [Guru, third Guru of the Nanak-panth, administrative consolidator]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [figure, sikhism, guru]
 ---
 
@@ -65,3 +65,15 @@ Under Amar Das the Panth still had pilgrimage (to Goindval), two designated fest
 - [[sikhism|Sikhism]] — tradition
 - [[sikhs|Panth]] — the community under Amar Das
 - [[sant-tradition|Sant Tradition]] — doctrinal background; Amar Das continued Nanak's message
+
+## Khushwant Singh's Account (Vol. 1, Ch. 3)
+
+Khushwant Singh foregrounds Amar Das's institution-building from his seat at **Goindwal**: he made the
+[[langar|langar]] obligatory before audience — "*pehle paṅgat piche saṅgat*: First sit in a row in the
+kitchen, then seek the company of the Guru" — extended the parish system to **twenty-two *manjīs***
+served by *masands*, fixed the Baisakh gathering, and pressed social reforms: replacing Sanskrit rites
+with Guru-hymns, opposing purdah, encouraging widow remarriage and intercaste alliance, and strictly
+forbidding ***satī***. Singh notes that Brahmin resentment of these reforms — and their complaints to
+Akbar, who refused to act — marked "the beginning of the oppression of the Sikhs," and records Amar Das's
+defence of Punjabi over Sanskrit: Sanskrit "was like water in a well… Punjabi was like rain which fell over
+all the land."

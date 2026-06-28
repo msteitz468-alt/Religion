@@ -5,8 +5,8 @@ tradition: Sikhism
 textual_sources: []
 dates: "1621–1675"
 roles: [guru, martyr]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [figure, sikhism, guru]
 ---
 
@@ -42,4 +42,21 @@ The conflict between Sikh and Muslim accounts remains unresolved. McLeod treats 
 
 **Controversy cross-link**: See controversies page on the martyrdom of Guru Tegh Bahadur — Sikh vs. Muslim accounts.
 
-**See also**: [[guru-har-krishan|Guru Har Krishan]] (predecessor), [[guru-gobind-singh|Guru Gobind Singh]] (successor, son), [[guru-hargobind|Guru Hargobind]] (father), [[khalsa|Khalsa]]
+## Khushwant Singh's Account (Vol. 1, Ch. 5)
+
+Khushwant Singh adds the narrative detail. After Hargobind's death (1644) Tegh Bahadur lived quietly at
+Bakala until Har Krishan's dying words *Bābā Bakāle* pointed to him; rivals (Dhirmal hired an assassin; the
+*masaṅds* slammed the Harimandir doors in his face) opposed his succession. He founded **[[anandpur|Anandpur]]**
+— "He bought a hillock near the village of Makhowal, five miles north of Kiratpur… named it *ānaṅdpur* (the
+haven of bliss)" — then travelled east to Patna (where his son, the future Gobind Singh, was born in
+December 1666), Bengal, and Assam.
+
+On the execution, Singh weighs the same two traditions McLeod does and comes down, on balance, for the Sikh
+version: that Kashmiri Brahmins sought his protection against forced conversion and he was beheaded in Delhi
+(11 November 1675) on refusing to renounce his faith — a version, Singh notes, "supported by Tegh Bahadur's
+son" in the *Bicitra Nāṭak*: "He gave his head but never cried in pain… He suffered martyrdom for the sake of
+his faith." His body was cremated where it fell (the site of Gurdwara Rikāb Gaṅj) and his head carried to
+Anandpur (Sīs Gaṅj) by his son. (Sikh and Muslim accounts conflict; see
+"Historicity and Controversies" above.)
+
+**See also**: [[guru-har-krishan|Guru Har Krishan]] (predecessor), [[guru-gobind-singh|Guru Gobind Singh]] (successor, son), [[guru-hargobind|Guru Hargobind]] (father), [[khalsa|Khalsa]], [[anandpur|Anandpur]]

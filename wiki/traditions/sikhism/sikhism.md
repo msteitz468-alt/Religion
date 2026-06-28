@@ -6,8 +6,8 @@ date_range: 1469 CE (birth of Guru Nanak) – present
 canon_core: [guru-granth-sahib]
 hermeneutical_frameworks: [gurmat, nam-simaran, the-guru]
 major_sects: [khalsa, udasi, nirmala, nirankari, namdhari, nihang]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [tradition, sikhism, monotheism, indic]
 ---
 
@@ -88,6 +88,19 @@ Rahit]]**.
   of Gurus.
 - **[[namdhari|Namdharis (Kukas)]]** — reformist "purified Khalsa"; a living Guru-line; treat the
   Dasam Granth as fully canonical.
+
+## Political History of the Tradition (Khushwant Singh, Vol. 1)
+
+[[khushwant-singh-history-of-the-sikhs|Khushwant Singh's *A History of the Sikhs*]] (Scope 2 of the Sikhism
+corpus) supplies the tradition's political-historical spine, complementing McLeod's thematic survey. It
+traces the institutional build-up under the early Gurus (the [[langar|langar]], the *manjī*/*masand*
+network, the Gurmukhi script, the founding of [[amritsar|Amritsar]] and compilation of the
+[[guru-granth-sahib|Granth]]), the militarization under [[guru-hargobind|Hargobind]] and the founding of the
+[[khalsa|Khalsa]] under [[guru-gobind-singh|Gobind Singh]]; then the eighteenth-century era of
+[[banda-bahadur|Banda Bahadur]], the persecution and the [[ghallughara|Ghallugharas]], and the
+[[misls|misl]] confederacies governing through the **Sarbat Khalsa**; culminating in
+[[ranjit-singh|Ranjit Singh]]'s **Sarkar Khalsa** — a Sikh-led but deliberately multi-confessional Punjabi
+state (1799–1839), the high-water mark of Sikh temporal power before the British annexation of 1849.
 
 ## Cross-Links
 

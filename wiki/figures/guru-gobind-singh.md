@@ -5,8 +5,8 @@ tradition: Sikhism
 textual_sources: []
 dates: "December 1666–7 October 1708"
 roles: [guru, military leader, poet, founder of the Khalsa]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [figure, sikhism, guru]
 ---
 
@@ -74,4 +74,20 @@ Guru Gobind Singh "looms very large indeed in the consciousness of Sikhs" and "s
 - Whether the Dasam Granth shares scripture status with the Adi Granth (see [[dasam-granth|Dasam Granth]] page).
 - Whether the Khalsa initiation story records actual events or has been shaped by later tradition; McLeod says "it is most unlikely — indeed impossible — that tradition would be seriously astray on an event so critical for the future of the Panth. Equally, however, it would be strange for tradition to get it all right" (McLeod ~L784–791).
 
-**See also**: [[guru-tegh-bahadur|Guru Tegh Bahadur]] (predecessor, father), [[khalsa|Khalsa]], [[guru-granth-sahib|Guru Granth Sahib]], [[dasam-granth|Dasam Granth]], [[five-ks|Five Ks]], [[amrit-sanskar|Amrit Sanskar]], [[miri-piri|Miri-Piri]]
+## Khushwant Singh's Account (Vol. 1, Ch. 5) — Supplementary Detail
+
+Khushwant Singh's narrative agrees with McLeod on the main arc and adds several historically-attributed
+details. He grounds Gobind Singh's doctrine of righteous war (*dharma yudh*) in the *Bicitra Nāṭak* and the
+*Zafarnāmā* — "When all other means have failed, it is permissible to draw the sword" — and stresses the
+**continuity-with-difference** from Nanak: "Nanak had propagated goodness, Gobind Singh condemned evil… Nanak's
+God loved His saints; Gobind's God destroyed His enemies." On the Khalsa initiates he names the five drinking
+"out of one bowl to signify their initiation into the casteless fraternity," with the fourfold renunciation
+(*krit nāś, kul nāś, dharma nāś, karm nāś*). Singh notes the five Ks and the *rahit* were not codified with
+later precision — "obviously crystallized into a code at a later date" — converging with McLeod against the
+traditional dating. At **Talwandi Sabo (Dam Dama)** the Guru prepared a definitive Granth with **Bhai Mani
+Singh**, who subsequently compiled the [[dasam-granth|Dasam Granth]] from the Guru's own works, "distinct from
+the first or the Adi Granth." Singh's distinctive contribution is the sequel: from his deathbed at
+[[nanded|Nanded]] the Guru had earlier, at Nanded, commissioned the hermit Madho Das — renamed
+**[[banda-bahadur|Banda Bahadur]]** — to carry the armed struggle into the Punjab.
+
+**See also**: [[guru-tegh-bahadur|Guru Tegh Bahadur]] (predecessor, father), [[khalsa|Khalsa]], [[guru-granth-sahib|Guru Granth Sahib]], [[dasam-granth|Dasam Granth]], [[five-ks|Five Ks]], [[amrit-sanskar|Amrit Sanskar]], [[miri-piri|Miri-Piri]], [[banda-bahadur|Banda Bahadur]], [[anandpur|Anandpur]], [[nanded|Nanded]]

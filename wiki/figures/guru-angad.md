@@ -6,8 +6,8 @@ textual_sources:
   - guru-granth-sahib
 dates: "born 31 March 1504 (traditional); died 29 March 1552"
 roles: [Guru, second Guru of the Nanak-panth, successor of Guru Nanak]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [figure, sikhism, guru]
 ---
 
@@ -44,6 +44,17 @@ Angad received a Panth "which consisted of members who were bound directly to th
 ## The Succession Anecdote
 
 The most famous janam-sakhi anecdote about the succession presents Nanak testing his followers by placing coins, then jewels, then a shrouded "corpse" before them. All but Lahina retreated. Lahina lifted the shroud obediently — and found Nanak himself beneath it. The story testifies to Angad's "devoted obedience to Guru Nanak, fulfilling his every wish as a welcome command" (McLeod ~L1286–1326).
+
+## Khushwant Singh's Account (Vol. 1, Ch. 3)
+
+Khushwant Singh takes the stronger traditional view that **McLeod cautions against**: that Angad actively
+**codified the Gurmukhi script**, taking "the thirty-five letters of the acrostic composed by Nanak,
+selected the appropriate letters from other scripts current in northern India, and called the new script
+Gurmukhī." For Singh this was decisive for Sikh identity — Angad's compilation of Nanak's hymns "became the
+nucleus of the sacred writings of the Sikhs… and thus fostered a sense of their being a separate people."
+(Contrast McLeod's "Gurmukhi Script" section above, which treats the invention claim as a late development.)
+Singh also stresses Angad's emphasis on physical fitness — drill and a wrestling arena at every community
+centre — and his move to Khadur to avoid schism with Siri Chand's [[udasi|Udasis]].
 
 ## Cross-links
 

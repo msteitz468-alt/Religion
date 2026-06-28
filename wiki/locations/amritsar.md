@@ -8,8 +8,8 @@ periods_inhabited: "founded as Chak Guru / Ramdaspur by Guru Ram Das, c. 1574–
 modern_geography: "Amritsar, Punjab, India; major city in Indian Punjab near the Pakistan border; site of the Harimandir Sahib (Golden Temple)"
 associated_peoples:
   - sikhs
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [location, sikhism, pilgrimage-site, sacred-pool]
 ---
 
@@ -46,6 +46,20 @@ The city's name "Amritsar" means "Pool of the Nectar of Immortality" (*amrit* = 
 
 - The relative roles of Guru Amar Das vs. Guru Ram Das in initiating the Amritsar project are slightly ambiguous in McLeod's account: he credits the *decision* to Amar Das and the *founding and excavation* to Ram Das. This is consistent but may reflect different layers of tradition.
 - The **historicity of the miri-piri doctrine** associated with the Akal Takhat is contested: orthodox Sikh tradition treats it as a deliberate theological innovation by Guru Hargobind; McLeod argues the terminology is likely a later development. See [[miri-piri|Mīrī-Pīrī]] and [[who-is-a-sikh|Who is a Sikh?]].
+
+## The Eighteenth Century: Desecration and Rebuilding (Khushwant Singh, Vol. 1)
+
+Khushwant Singh's *History of the Sikhs* makes Amritsar the barometer of Sikh fortunes in the persecution
+era. Under [[guru-hargobind|Hargobind]] the **Akāl Taḵẖt** and the Lohgarh fort were built facing the
+Harimandir. As the religious-political centre of the [[misls|Sarbat Khalsa]], the Harimandir was repeatedly
+destroyed by [[ahmad-shah-abdali|Ahmad Shah Abdali]] — blown up and its pool fouled with cow carcasses in
+1757, 1762 (the [[ghallughara|Vaḍā Ghallūghārā]]), and 1764, the last defended to the death by thirty Sikhs —
+and each time rebuilt by the Sikhs, the martyr [[deep-singh|Baba Deep Singh]] dying in the attempt of 1757.
+When [[ranjit-singh|Ranjit Singh]] took the city (c. 1803), Singh notes that "anyone who aspired to be the
+leader of the Khalsa and Maharajah of the Punjab had to take Amritsar to make good his title"; the Maharajah
+seized the great gun Zam Zama and "made a grant for the temple to be rebuilt in marble and covered with gold
+leaf" — the gilding that gave the **Golden Temple** its name — later adding a bejewelled canopy sent by the
+Nizam of Hyderabad.
 
 ## Cross-links
 

@@ -196,3 +196,17 @@ Bahá'u'lláh taught that the human race is "one indivisible whole: the fruits o
 
 ### Teaching on Kingship
 Bahá'u'lláh regarded "the majesty of kingship" as one of the "signs of God"; kings manifested divine power and were the "dayspring of his authority" (l. 20267–20274). In the Kitáb-i-Aqdas he declared himself to be the King of Kings (l. 20322–20323). He favoured constitutional monarchy as combining "the majesty of kingship with the advantages of democratic government for the common people" (*Tablets* 28; l. 20288–20296).
+
+## From Smith, Concise Encyclopedia — Sufism and Additional Topics (2026-06-28)
+
+*Source: lines 29939–29988 of Smith, A Concise Encyclopedia of the Bahá'í Faith (Oneworld, 2000).*
+
+### Relationship to Sufism
+
+Bahá'u'lláh evidently sympathized with some aspects of Sufism but was critical of others. During his Kurdistan retreat he lived the life of a solitary dervish, later moving to the Khálidiyya Sufi centre in Sulaymániyyah at the invitation of Shaykh Ismá'íl, its local shaykh. He also gained the respect of the leaders of the regional Naqshbandí and Qádirí orders (lines 29944–29951). At his hosts' request, he commented on Ibnu'l-'Arabí's "Meccan Revelations" (Al-futúhát al-makkiyya) and composed his Ode of the Dove in the ecstatic style of Ibnu'l-Fárid (lines 29952–29956). Returning to Baghdad he remained in contact with Kurdish Sufis, writing the Seven Valleys and Four Valleys in response to Sufi correspondents (GPB 121–4, 128–9; lines 29957–29964). Several of his followers were Sufis, notably Sádiq-'Alí, in whose honour he dedicated an annual night for the remembrance of God (dhikr; MF 36–8; lines 29965–29968).
+
+In sharp distinction to many Sufi beliefs, Bahá'u'lláh absolutely rejected any form of pantheism: God in essence is beyond any human attribute or physical location; no human being has ever known him (SV 22–3; TB 60; lines 29969–29974). He also criticized Sufi seclusion from the everyday world, extreme asceticism, and expressions encouraging idleness and drug-taking. The true Sufi was one who was severed from all save God and constant in worship and obedience to holy law (MF 36–8; TB 60; lines 29974–29988).
+
+### The Síyáh-Chál Visions
+
+Bahá'u'lláh was placed in the Síyáh-Chál ("Black Pit") dungeon in Tehran in 1852 and weighed down with the infamous chains "Qara-Guhar" (51 kg) and "Sálásil". It was here that he experienced the initiatory visions that marked the beginning of his mission (ESW 21–2; lines 29367–29372). Shoghi Effendi described the Síyáh-Chál as the second holiest Bahá'í site in Iran (line 29374).

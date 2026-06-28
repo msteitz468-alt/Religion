@@ -6,8 +6,8 @@ textual_sources:
   - guru-granth-sahib
 dates: "died 1581; held Guruship 1574–1581 (seven years)"
 roles: [Guru, fourth Guru of the Nanak-panth, founder of Amritsar]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [figure, sikhism, guru]
 ---
 
@@ -49,3 +49,13 @@ From Ram Das onward, all subsequent Gurus descended from him in the Sodhi Khatri
 - [[guru-granth-sahib|Adi Granth]] — contains Ram Das's hymns
 - [[sikhism|Sikhism]] — tradition
 - [[sikhs|Panth]] — community under Ram Das
+
+## Khushwant Singh's Account (Vol. 1, Ch. 3)
+
+Khushwant Singh recounts that Ram Das (fourth Guru, 1534–81), the Sodhi son-in-law of
+[[guru-amar-das|Amar Das]] who had long administered the parishes and represented the Guru at Akbar's
+court, dug the great tank "at the site granted to his wife by Emperor Akbar" and founded the town that
+became **[[amritsar|Amritsar]]** — at first known as *Guru kā Cak / Cak Rām Dās / Rām Dās Purā* — inviting
+tradesmen to settle it. He expressed the succession of his youngest son Arjan over the elder Prithi Chand
+in the classic image of the Guruship's unity: "As one lamp is lighted from another, so the Guru's spirit
+will pass into him."

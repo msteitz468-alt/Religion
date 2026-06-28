@@ -2,8 +2,8 @@
 title: Manifestation of God
 domain: theology
 traditions_using: [bahai, babi]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [concept, bahai, babi]
 ---
 
@@ -54,6 +54,28 @@ Smith notes that the Babi theology of the Manifestation was developed especially
 ## Relationship to Progressive Revelation
 
 The Manifestation of God concept is the theological foundation for [[progressive-revelation|Progressive Revelation]]: each Manifestation is appropriate to the capacity of the age, abrogates the previous holy law, and gives teachings suited to that particular time.
+
+## From Smith, Concise Encyclopedia (2026-06-28)
+
+*Lines 21302–21391 of Peter Smith, A Concise Encyclopedia of the Bahá'í Faith (Oneworld, 2000).*
+
+### Detailed Doctrine
+
+For Bahá'ís, God in essence is unknowable; therefore he sends his messengers — the Manifestations of God — to be his exponents on earth. They are theophanies: mirrors who reflect God's glory and reveal his attributes. They are not incarnations of God; they do not embody the divine essence (WOE 112–13). They transmit divine knowledge and infinite grace to humankind (KI 63–8). For human beings they represent the divine presence and are the means of approach to God (KI 89–92) (lines 21302–21337).
+
+They are **Prophets 'endowed with constancy'**, who reveal divine law; possess the 'Most Great Infallibility' (*'iṣmah-i-kubrá*); and are protected from sin. They come as a succession of teachers (see [[progressive-revelation|Progressive Revelation]]; [[prophecy|Prophecy]]) (lines 21339–21344).
+
+**Double station**: The Manifestations have a double station — of 'essential unity' and 'distinction'. Thus, whilst they share a common role as bringers of divine revelations and proclaim the same faith, each also has his own mission, message and human individuality. As channels through which human beings approach the divine, they may claim to be the very voice of God, or they may refer to themselves as mere prophets and emphasize the unapproachability of the divine essence (KI 97–8, 113–16) (lines 21317–21329).
+
+**No definitive list**: There is no definitive list of recognized Manifestations, but they include Adam, Abraham, Moses, Zoroaster, Krishna, the Buddha, Jesus, Muhammad, the Báb, and Bahá'u'lláh (lines 21345–21353).
+
+**Spiritual sovereignty**: They exercise spiritual sovereignty over all in heaven and earth (KI 69). Each brings a judgment which separates the faithful (who accept them) from the unbelievers (who reject them) (KI 72), and engenders a transformation in the lives of their followers, bringing unity to diverse peoples, giving them peace, courage and certitude (KI 72–3, 100) (lines 21354–21361).
+
+**Future Manifestations**: Future Manifestations will arise under the 'shadow' of Bahá'u'lláh (WOE 111), though none for at least a thousand years (KA 32 k37) (lines 21329–21332).
+
+### The Maid of Heaven
+
+In one of his visions in the Síyáh-Chál prison in Tehran (1852), [[bahaullah|Bahá'u'lláh]] saw a maiden (*ḥúrí*) — the 'embodiment' of the remembrance of God's name — who addressed the entire creation to announce his mission. This figure recurs in a number of Bahá'u'lláh's visionary writings ('The Tablet of the Maiden' (*Lawḥ-i-Ḥúrí*), 'The Tablet of the Deathless Youth', *The Tablet of the Holy Mariner*, and 'The Tablet of the Vision' (*Lawḥ-i-Ru'yá*), the first three all written in Baghdad): luminous, garbed in white, standing in the air, consoling him, or alluding to his own death. Shoghi Effendi refers to the Maiden as analogous to the burning bush encountered by Moses, the dove that descended on Jesus, or the Angel Gabriel who appeared to Muhammad (GPB 101) (lines 21235–21263).
 
 ## Controversies
 

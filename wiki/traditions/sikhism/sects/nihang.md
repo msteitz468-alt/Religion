@@ -11,8 +11,8 @@ key_doctrinal_distinctives: [militant Khalsa observance, full honour for the Das
 hermeneutical_method: [gurmat]
 key_figures: [guru-gobind-singh]
 key_texts: [guru-granth-sahib, dasam-granth]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [sect, sikhism, martial, khalsa, nihang]
 ---
 
@@ -39,6 +39,18 @@ After the 1984 assault on the [[amritsar|Golden Temple]], the section led by San
 government rebuilding of the **Akal Takhat**; the Panth subsequently demolished and rebuilt it "with
 Khalsa hands unsullied by the attack" (agent 5 ~L198–205).
 
+## In Khushwant Singh's History (Vol. 1)
+
+Khushwant Singh gives the **Nihangs / Akalis** ("servitors of the Timeless God") a vivid role in the Ranjit
+Singh era as fearless "suicide squads" in dark-blue Mughal-style uniform, deriving the name *nihaṅg* from the
+Persian for "crocodile" and the order's founding from a son of [[guru-gobind-singh|Gobind Singh]]. Their
+leader **Akali Phula Singh** (b. 1761) helped [[ranjit-singh|Ranjit Singh]] take [[amritsar|Amritsar]], led
+assaults in the major sieges, and died at the battle of Naushera / Pir Sabak (1823), riddled with bullets in
+his howdah while exhorting the Nihangs "not to give way." Singh records their friction with Ranjit's
+ecumenical policy — they were outspoken even to the Maharajah, hostile to his 1831 Ropar meeting with the
+British, and one "actually attempted to assault Ranjit" — and notes that the Nihangs still gather in their
+thousands at [[anandpur|Anandpur]] for the mock battles of **Hola Mohalla**.
+
 ## Cross-Links
 [[khalsa|Khalsa]] · [[sikhism|Sikhism]] · [[dasam-granth|Dasam Granth]] · [[amritsar|Amritsar]] ·
-[[guru-gobind-singh|Guru Gobind Singh]]
+[[guru-gobind-singh|Guru Gobind Singh]] · [[ranjit-singh|Ranjit Singh]] · [[anandpur|Anandpur]]

@@ -5,8 +5,8 @@ tradition: Sikhism
 textual_sources: []
 dates: "1595–1644"
 roles: [guru, military leader, founder of miri-piri doctrine]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [figure, sikhism, guru]
 ---
 
@@ -40,4 +40,18 @@ McLeod cautions that many accounts exaggerate the conflicts of this period, sugg
 
 Hargobind's militarization is a touchstone in debates over the relationship between Guru Nanak's interior, name-centred spirituality and the external martial identity of the Khalsa.
 
-**See also**: [[guru-arjan|Guru Arjan]] (predecessor), [[guru-har-rai|Guru Har Rai]] (successor/grandson), [[miri-piri]], [[khalsa|Khalsa]]
+## Khushwant Singh's Account (Vol. 1, Ch. 4)
+
+Where McLeod cautions against magnifying the period's conflicts, Khushwant Singh narrates the militarization
+in full. Becoming Guru at eleven after Arjan's martyrdom, Hargobind girded **two swords** at his investiture
+— declaring himself *mīrī pīrī dā mālik*, "the lord of the spiritual and secular domains" (Singh, ch. 4,
+fn.3; the founding gesture of [[miri-piri|miri-piri]]) — accepted "offerings of arms and horses instead of
+money," built the **Lohgarh** fortress at [[amritsar|Amritsar]], and erected the **Akāl Taḵẖt** ("the throne
+of the Timeless God") facing the Harimandir, where "the congregation heard ballads extolling feats of heroism…
+and discussed plans of military conquests." Jahangir imprisoned him at Gwalior over Arjan's unpaid fine.
+Singh records open clashes with Shah Jahan's forces (Amritsar 1628; Lahira; Kartarpur) and his retirement to
+**Kiratpur**, where he died in 1644. Singh's verdict: the shift "from a peaceful propagation of the faith to
+the forthright declaration of the right to defend that faith by force of arms proved to be extremely
+popular."
+
+**See also**: [[guru-arjan|Guru Arjan]] (predecessor), [[guru-har-rai|Guru Har Rai]] (successor/grandson), [[miri-piri]], [[khalsa|Khalsa]], [[amritsar|Amritsar]]

@@ -3985,3 +3985,106 @@ Pages extended:
 - `wiki/figures/bahaullah.md` — added: Book of the Covenant, Epistle to the Son of the Wolf, divine judgment, civilization teachings, consultation
 - `wiki/figures/abdu-l-baha.md` — added: Covenant role, Some Answered Questions, Commentary on Hidden Treasure, economic teachings
 - `wiki/concepts/bahai-administrative-order.md` — added: consultation, Continental Boards of Counsellors, conventions, constitutions, custodians, elections
+
+---
+
+## 2026-06-28 ingest | Smith, Concise Encyclopedia of the Bahá'í Faith — Subagent D (lines 12931–16930)
+
+Scope: lines 12931–16930 — read in full. Alphabetical entries from the tail of the spread/expansion entry through the letter H (ending mid-entry on "holy years").
+
+Pages created:
+- `wiki/locations/haifa.md` — Haifa as Bahá'í World Centre; sacred sites; historical role from Bahá'u'lláh through Shoghi Effendi
+- `wiki/concepts/hands-of-the-cause.md` — full entry: history, lists of named Hands, interregnum 1957–63, post-1963 status
+- `wiki/concepts/greatest-name.md` — bahá as God's hundredth/greatest name; usages; numerical symbolism
+- `wiki/texts/hidden-words.md` — Kalimát-i-Maknúnih; composition, identification, content summary
+- `wiki/concepts/nineteen-day-feast.md` — origins, three-part format, participation rules
+- `wiki/concepts/bahai-fasting.md` — nineteen-day fast in month of 'Alá'; legislation, exemptions, purpose
+- `wiki/concepts/he-whom-god-shall-make-manifest.md` — Babi messianic concept; Azali objection; Bahá'u'lláh's claim
+- `wiki/concepts/guardianship-bahai.md` — institution of the Guardianship; succession rules; end of guardianship
+- `wiki/concepts/bahai-holy-days.md` — full calendar of major and minor holy days; observance notes
+- `wiki/figures/louis-gregory.md` — prominent African-American Bahá'í, posthumous Hand of the Cause
+
+Pages extended:
+- `wiki/figures/shoghi-effendi.md` — added: doctrinal framework of the Guardianship; problem of succession; God Passes By summary; Hands appointment history; funds system
+- `wiki/traditions/bahai/bahai.md` — added: regional global expansion summaries (Russia, Turkey, North America, Europe, Africa, Latin America, South Asia, South East Asia, Oceania); key theological/ethical teachings; government teachings; holy war position
+
+## 2026-06-28 ingest | Smith, Concise Encyclopedia of the Bahá'í Faith — Subagent E (lines 16931–20930)
+Scope: lines 16931–20930 — read in full.
+
+Pages created:
+- `wiki/texts/kitab-i-iqan.md` — Kitáb-i-Íqán (Book of Certitude)
+- `wiki/concepts/huququ-llah.md` — Ḥuqúqu'lláh ("The Right of God")
+- `wiki/concepts/infallibility-bahai.md` — Infallibility in Bahá'í theology
+- `wiki/concepts/independent-investigation-of-truth.md` — core Bahá'í principle
+- `wiki/figures/mulla-husayn.md` — Mullá Ḥusayn Bushrú'í, first Letter of the Living
+- `wiki/figures/husayn-imam.md` — Third Shí'í Imám, martyred at Karbalá
+- `wiki/figures/khadijih-bagum.md` — the Báb's wife
+- `wiki/figures/ibn-i-abhar.md` — Hand of the Cause
+- `wiki/figures/ibn-i-asdaq.md` — Hand of the Cause, Apostle of Bahá'u'lláh
+- `wiki/figures/kheiralla-ibrahim-george.md` — pioneer teacher turned covenant-breaker
+- `wiki/figures/kazim-rashti.md` — Shaykhi leader, teacher of the Letters of the Living
+- `wiki/groups/letters-of-the-living.md` — the Báb's first eighteen disciples
+- `wiki/locations/karbala.md` — Iraqi city, Shí'í holy site, Bábí significance
+
+Pages extended:
+- `wiki/figures/bahaullah.md` — added sections on Kitáb-i-Íqán, Ishraqát, Súra of the Kings, teachings on human nature/justice/unity/kingship
+- `wiki/figures/the-bab.md` — added sections on honorific titles, Letters of the Living, wife Khadíjih Bagum
+- `wiki/traditions/bahai/bahai.md` — added sections on holy years, human rights, Iran community history, relations with Islam/Judaism/Jesus, law
+
+Key entries in range (selected for full coverage): holy year (1992–93), homosexuality, houses of justice, honorific titles, Hujjat (Zanján leader), human life/nature/race/rights, Ḥuqúqu'lláh, Ḥusayn (Third Imám), Mullá Ḥusayn Bushrú'í, Ibn-i-Abhar, Ibn-i-Asdaq, iconography, Imáms (full Twelver list), Imbrie murder (1924), incorporation of assemblies, independent investigation of truth, Indian religions, indigenous peoples, infallibility, inheritance, institutes, intellect, interfaith dialogue, International Archives, International Bahá'í Bureau/Council/Teaching Centre, interpretation, Kitáb-i-Íqán, Iran (full entry), Iraq, Iṣfahán, Ishraqát, Islam, Istanbul, Jesus, Judaism, justice, Karbalá, Karím Khán Kirmání, Kázim Rashtí, Khadem, Khadíjih Bagum, Kheiralla, King and Beloved of Martyrs, kings/kingship, Kings (Súra of the), Knights of Bahá'u'lláh, knowledge, language, law, lawh, Letters of the Living.
+
+## 2026-06-28 ingest | Smith, Concise Encyclopedia of the Bahá'í Faith — Subagent H (lines 28931–33900)
+
+Scope: lines 28931–33900 — read in full. Alphabetical encyclopedia entries from continuation of "Shoghi Effendi writings" through end of main text (letter Z) and beginning of bibliography (line 33788 onward = bibliography, not encyclopedia content).
+
+Pages created:
+- `figures/tahirih.md` — Fátimih Baraghání (1814–1852), Bibi leader and Letter of the Living
+- `figures/vahid.md` — Sayyid Yahyá Dárábí (d. 1850), Babi leader
+- `concepts/universal-house-of-justice.md` — supreme Bahá'í governing body (lines 31531–31922)
+- `concepts/soul-bahai.md` — Bahá'í doctrine of the soul and afterlife (lines 29630–29726)
+- `concepts/world-order-bahai.md` — Shoghi Effendi's vision of future world order + World Order letters (lines 33184–33380)
+- `texts/some-answered-questions.md` — 'Abdu'l-Bahá's talks to Laura Dreyfus-Barney (lines 29614–29629)
+- `texts/tablets-of-the-divine-plan.md` — 'Abdu'l-Bahá's 14 letters on global teaching mission (lines 30145–30222)
+- `texts/will-and-testament-abdu-l-baha.md` — charter of the Bahá'í Administrative Order (lines 32462–32543)
+- `locations/siyah-chal.md` — Tehran dungeon where Bahá'u'lláh received prophetic visions (lines 29350–29376)
+- `locations/tabarsi.md` — Babi stronghold and site of major conflict 1848–1849 (lines 30109–30143)
+- `locations/tehran.md` — Iranian capital; birthplace of Bahá'u'lláh and 'Abdu'l-Bahá (lines 30609–30703)
+- `locations/yazd.md` — Iranian city, major Bahá'í and Zoroastrian community (lines 33467–33482)
+- `locations/zanjan.md` — Babi uprising site 1850–1851 (lines 33661–33706)
+
+Pages extended:
+- `figures/shoghi-effendi.md` — added translations detail, books, other works from lines 28931–29001
+- `figures/bahaullah.md` — added Sufism relationship and Síyáh-Chál visions (lines 29939–29988)
+- `locations/haifa.md` — added detailed Shrine of the Báb history (lines 29002–29164, 30706–30721)
+- `traditions/bahai/bahai.md` — added sections on social evolution, teaching, tolerance, gender equality, and socio-economic development
+
+Key entries covered but not given separate pages (content integrated or referenced): Shrine of the Báb (in haifa.md), shrines and holy places, Sufism, Siyah-Chal, Tabarsi, Sultan Lawh-i- (tablet to Násiru'd-Dín Sháh), Tablets of the Divine Plan, Ten Year Crusade, theology, time/dispensations/epochs, tolerance, trustworthiness, ulama, Universal House of Justice Constitution, Will and Testament, women, World Order letters, Zoroastrianism, Zanjan.
+
+## 2026-06-28 ingest | Smith, Concise Encyclopedia of the Bahá'í Faith — Subagent G (lines 24931–28930)
+
+Source: `raw/A Concise Encyclopedia of the Bahai Faith (Concise Encyclopedia of World Faiths) (Peter Smith) (z-library.sk, 1lib.sk, z-lib.sk).txt` (Oneworld, 2000). **Scholarship / encyclopedia.** Scope: **lines 24931–28930** — read in full. Encyclopedic entries covering letters P (prayer, prejudice, priesthood, proclamation, progressive revelation, Promise of World Peace, Promised Day is Come, prophecy, prophets, prosperity of humankind, psychic powers, public recognition, publishing, purity) through S (Qa'im, Qajars, Qayyumu'l-Asma', Qazvin, qiblah, Quddus, Quran, race, radio stations, Tablets of Ra'is, several figures, reason, regional councils, reincarnation, religion, religion and science, religious diversity, religious leaders, Remey and Remeyite groups, repentance, resurrection, return, revelation, reverence, review, Ridvan, ritual, several figures, Sabeanism, sacrifice, several figures, salvation, scholarship, schools, science, scripture, Secret of Divine Civilization, secularism, self-defence, Seven Martyrs of Tehran, Seven Proofs, Seven Valleys, sex, Shaykhism, Shi'ism, Shiraz, House of the Bab, Shirazi Mirza-yi, Shoghi Effendi, Shoghi Effendi Writings of).
+
+Pages created: `figures/quddus.md`, `texts/qayyumu-l-asma.md`, `texts/seven-valleys.md`, `locations/shiraz.md`, `texts/secret-of-divine-civilization.md`, `concepts/shaykhism.md`, `figures/martha-root.md`, `figures/ruhiyyih-khanum.md`, `figures/charles-mason-remey.md`, `concepts/bahai-prayer.md`, `concepts/qiblah-bahai.md`, `concepts/bahai-return.md`, `concepts/bahai-revelation.md`, `concepts/bahai-covenant-breaking.md`, `groups/seven-martyrs-of-tehran.md`, `concepts/ridvan.md`, `concepts/qaim.md`.
+
+Pages extended: `figures/shoghi-effendi.md` (added From Smith, Concise Encyclopedia section with leadership, personal life, and writings detail from lines 28684–28930), `concepts/progressive-revelation.md` (added Encyclopedia's extended definition from lines 25210–25268).
+
+## 2026-06-28 ingest | Smith, Concise Encyclopedia of the Bahá'í Faith — Subagent A (lines 930–4930)
+Scope: lines 930–4930 — read in full (with interruption and resumption). Pages created/updated: commentators/peter-smith.md, texts/kitab-i-aqdas.md, figures/mirza-abu-l-fadl.md, figures/subh-i-azal.md, groups/azalis.md, traditions/babi/sects/azali-babism.md, locations/akka.md, locations/haifa.md; extended concepts/bahai-administrative-order.md, figures/abdu-l-baha.md, figures/the-bab.md.
+
+## 2026-06-28 ingest | Smith, Concise Encyclopedia of the Bahá'í Faith — Subagent B (lines 4931–8930)
+Scope: lines 4931–8930 — read in full. Pages created: figures/bahiyyih-khanum.md, figures/badi.md, commentators/edward-granville-browne.md, locations/bahji.md, locations/baghdad.md, texts/the-bayan.md, texts/bisharat.md, concepts/bahai-calendar.md; extended figures/bahaullah.md, figures/the-bab.md.
+
+## 2026-06-28 ingest | Smith, Concise Encyclopedia of the Bahá'í Faith — Subagent C (lines 8931–12930)
+Scope: lines 8931–12930 — read in full. Pages created: concepts/covenant-bahai.md, concepts/bahai-expansion.md, texts/epistle-to-the-son-of-the-wolf.md, texts/dawn-breakers.md, locations/edirne.md, locations/chihriq.md, figures/amelia-collins.md, figures/john-esslemont.md, figures/hippolyte-dreyfus-barney.md, figures/laura-dreyfus-barney.md, figures/hyde-dunn.md, figures/clara-dunn.md, figures/dayyan.md, figures/arthur-dodge.md; extended figures/bahaullah.md, figures/abdu-l-baha.md, concepts/bahai-administrative-order.md.
+
+## 2026-06-28 ingest | Smith, Concise Encyclopedia of the Bahá'í Faith — Subagent F (lines 20931–24930)
+Scope: lines 20931–24930 — read in full. Pages created: concepts/mashriqu-l-adhkar.md, concepts/bahai-marriage.md, concepts/bahai-martyrdom.md, concepts/bahai-peace.md, concepts/bahai-millenarianism.md, concepts/bahai-pilgrimage.md, concepts/bahai-pioneering.md, concepts/bahai-plans.md, figures/maxwell-may.md, figures/maxwell-william.md, figures/olinga-enoch.md, figures/muhajir-rahmatu-llah.md, figures/mishkin-qalam.md, figures/nabil-i-azam.md, figures/nabil-i-akbar.md, figures/mirza-mihdi-purest-branch.md, figures/mirza-ali-covenant-breaker.md, figures/munirih-khanum.md, figures/navvab.md, groups/nuri-family.md, locations/maku.md, locations/nayriz.md; extended concepts/manifestation-of-god.md.
+
+## 2026-06-28 ingest | Smith, Concise Encyclopedia of the Bahá'í Faith — Main thread recovery
+Pages created: figures/ahmad-al-ahsai.md, locations/ashkhabad.md.
+
+## 2026-06-28 ingest | Smith, Concise Encyclopedia of the Bahá'í Faith — complete
+Full scope (lines 930–33,900) read via 8 parallel Sonnet subagents. Main thread wrote source summary page, scaffold, key page names; handled bookkeeping, lint review, red-link fixes, and source filing. Source relocated to raw/scholarship/. ~120 wiki pages created or extended. **Note for future ingests:** subagent prompts must NOT instruct agents to update log.md or index.md — those are main-thread-only files.
+
+## 2026-06-28 ingest | Khushwant Singh, *A History of the Sikhs*, Vol. 1 (1469–1838)
+Scope: Vol. 1, Chs. 1–18 — full body (raw lines 253–9205) — **read in full** (appendices/bibliography/index excluded as apparatus). Scope 2 of the Sikhism corpus plan ([[mcleod-sikhism]]). Deployed-subagent strategy: four Sonnet subagents extracted disjoint line-ranges (Chs 1–3 / 4–6 / 7–10 / 11–18) to scratchpad notes; main thread owned all taxonomy, page creation, and cross-linking. New pages: figures/banda-bahadur, figures/ahmad-shah-abdali, figures/jassa-singh-ahluwalia, figures/hari-singh-nalwa, figures/deep-singh, groups/misls, locations/lahore, locations/sirhind, locations/nanded, locations/anandpur, locations/kartarpur, controversies/ghallughara, controversies/treaty-of-lahore-1809, scholarship/khushwant-singh-history-of-the-sikhs. Enriched: ranjit-singh (full reign), the ten Guru pages (Nanak, Angad, Amar Das, Ram Das, Arjan, Hargobind, Tegh Bahadur, Gobind Singh), khalsa, nihang, guru-granth-sahib, amritsar, punjab, sikhs, sikhism. Raw source filed to raw/scholarship/. Lint clean for affected pages. Vol. 2 (1839–2004) remains a later pass.

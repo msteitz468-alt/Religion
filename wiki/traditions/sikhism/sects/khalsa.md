@@ -11,8 +11,8 @@ key_doctrinal_distinctives: [initiation by amrit (khaṇḍe dī pāhul), the Fi
 hermeneutical_method: [gurmat]
 key_figures: [guru-gobind-singh, guru-nanak]
 key_texts: [guru-granth-sahib, dasam-granth, rahit-maryada]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [sect, sikhism, khalsa, order]
 ---
 
@@ -82,6 +82,19 @@ Panth** — against the **Sanatan Sikhs**. Sibling sects diverge from this mains
 Khalsa" under a living Guru-line; the [[nirankari|Nirankaris]], [[udasi|Udasis]], and [[nirmala|
 Nirmalas]] sit further from Khalsa norms.
 
+## Historical Development — the Misl Era (Khushwant Singh, Vol. 1)
+
+Khushwant Singh's *History of the Sikhs* supplies the eighteenth-century political history of the Khalsa as a
+corporate body. After [[banda-bahadur|Banda Bahadur]]'s execution (1716) left the Panth without a personal
+leader, the Khalsa governed itself through the **Sarbat Khalsa** — the biennial general assembly at
+[[amritsar|Amritsar]] whose resolutions carried the authority of a *gurmatā* ("decree of the Guru"). Its
+fighting arm, the **Dal Khalsa** (1748), was organized into the twelve **[[misls|misls]]** under
+[[jassa-singh-ahluwalia|Jassa Singh Ahluwalia]], who funded itself through the *rākhī* protection system and
+weathered the Mughal persecutions and the Afghan invasions of [[ahmad-shah-abdali|Ahmad Shah Abdali]],
+including the two [[ghallughara|Ghallugharas]]. This is the period in which "the rise of militant Sikhism
+became the rise of Jat power in the Punjab," ending with the misls' absorption into [[ranjit-singh|Ranjit
+Singh]]'s **Sarkar Khalsa**. See [[misls|the Misls]] for the institutions and the roster.
+
 ## Cross-Links
 [[sikhism|Sikhism]] · [[guru-gobind-singh|Guru Gobind Singh]] · [[sikhs|Sikhs]] ·
-[[five-ks|Five Ks]] · [[rahit-maryada|Rahit Maryada]]
+[[five-ks|Five Ks]] · [[rahit-maryada|Rahit Maryada]] · [[misls|the Misls]] · [[ranjit-singh|Ranjit Singh]]

@@ -5,8 +5,8 @@ tradition: Sikhism
 textual_sources: [guru-granth-sahib]
 periods_active: ["1469 (Guru Nanak) – present"]
 roles_significance: [the community of the Gurus' disciples, a religious and political collective of the Punjab]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [group, sikhism, punjab, community]
 ---
 
@@ -53,6 +53,18 @@ shalok asks "why should she be called weak?" Yet "all the Gurus were men," and M
 their gift was *equal access to liberation*, not social equality — patriarchy "deprived of its
 domineering aspects" but "still intact," reinforced by Jat land inheritance. See
 [[who-is-a-sikh|Who is a Sikh?]] for the doctrine-vs-practice tension.
+
+## The Panth as a Political People (Khushwant Singh, Vol. 1)
+
+Where McLeod profiles the Panth sociologically, Khushwant Singh's *History of the Sikhs* narrates its
+transformation into a corporate political and military actor. The persecution after [[banda-bahadur|Banda
+Bahadur]] "uproot[ed] a large number of peasants from the land and convert[ed] them into professional
+soldiers"; the Panth governed itself through the **[[misls|Sarbat Khalsa]]** and fought as the Dal Khalsa,
+so that "the rise of militant Sikhism became the rise of **Jat** power in the Punjab." Singh credits the
+[[misls|misls]] with "the resurrection of the spirit of Punjabi nationalism" and with winning over the
+Muslim peasantry — a base that [[ranjit-singh|Ranjit Singh]] consolidated into the multi-confessional
+**Sarkar Khalsa** state. He also notes a doctrinal cost: under the misls, mass Hindu conversion to Sikhism
+re-introduced caste and Brahmin influence into the Sikh aristocracy, against the Gurus' intent.
 
 ## Theological and Narrative Significance
 

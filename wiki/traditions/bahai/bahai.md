@@ -159,3 +159,58 @@ Total Bahá'ís worldwide: approximately 5 million, residing in Bahá'í communi
 ### Contemporary Challenges: Persecution of Iranian Bahá'ís (1979–present)
 
 The fall of the Sháh and establishment of the Islamic Republic in 1979 ushered in a period of massive persecution. Within a few years, over 200 Bahá'ís had been executed or murdered; hundreds arrested; properties confiscated; graveyards and shrines destroyed; thousands discharged from work and their children dismissed from schools and universities. In 1983, the government banned Bahá'í activities and made membership of spiritual assemblies a criminal offence; all Bahá'í institutions were disbanded. Although varying in intensity, the threat remains real. Some 10,000 Bahá'ís fled and were resettled elsewhere, but the mass of Iranian Bahá'ís remain. Ironically, the persecutions appear to have stiffened Bahá'í resolve globally and increased worldwide public awareness, provoking sympathy and support from individual governments, the European Union, and the UN (lines 3668–3734).
+
+## From Smith, Concise Encyclopedia (2026-06-28)
+
+### Holy Years
+The Bahá'í Faith observed a holy year from Riḍván 1992 to Riḍván 1993, marking the centenary of Bahá'u'lláh's passing and the inauguration of his Covenant (l. 16941–16945). Events included an international gathering at the Bahá'í World Centre (27–30 May 1992), the second Bahá'í World Congress in New York City (23–26 November 1992), the publication of the authorized English translation of the Kitáb-i-Aqdas, and the coming into general effect of the law of [[huququ-llah|Ḥuqúqu'lláh]] (l. 16946–16964).
+
+### Human Rights Position
+The Bahá'í view of human rights is based on divinely revealed standards of social justice (l. 17235–17238). Specific teachings include: economic rights (life, food, adequate wages, private property, freedom from slavery); political rights (just government, rule of law, consultative assemblies, free press, equality before the law); governments' responsibility to work for peace; equal rights of women with men; consideration for minorities; and family rights including freedom in choice of marriage partner (l. 17243–17303). The Bahá'í International Community has issued statements on Religious Intolerance (1995) and Violence Against Women (1995) (l. 17304–17310).
+
+### Iran: History of the Bahá'í Community
+Iran is the birthplace of the Bahá'í Faith and, until the 1960s, homeland of the majority of the world's Bahá'ís (l. 18902–18906). The Bábí movement began c.1844; Bábís may have constituted ~2.5% of the non-nomadic Iranian population at the movement's height (l. 18991–18993). Bahá'í expansion from the 1860s encompassed Iranian Jews and Zoroastrians as well as Shí'ís (l. 19035–19043). During the Pahlavi period (1925–79) the community developed assemblies and schools but also faced waves of government repression (1932–41, 1951, 1955). The Islamic Republic (from 1979) launched a systematic campaign to destroy all Bahá'í organization; more than 200 Bahá'ís were killed or disappeared; the Faith was officially banned in 1983 (l. 19193–19215). International condemnation of human-rights abuses has probably been the single most important factor in bringing international attention to the Bahá'í Faith (l. 19257–19263).
+
+### Relationship to Islam
+Bahá'ís uphold the divine origin and independent status of Islam, regarding it as one of nine known revealed religions and Muḥammad as a Manifestation of God (l. 19478–19483). They follow an essentially Shí'í interpretation of succession after Muḥammad, accepting the validity of the imamate (l. 19484–19492). Bahá'í shares with Islam the concept of holy law and elements of Islamic philosophy, particularly Mu'tazilite rationalism and Ishraqí Neoplatonism (l. 19588–19592). It diverges in interpreting the Quranic "Seal of the Prophets" (33:40) as referring to the last in the cycle of prophets preparing for the Day of Resurrection, not the last of all divine messengers (l. 19549–19556). Shoghi Effendi described Islam as "the source and background" of the Bahá'í Faith, and study of Islam as "absolutely indispensable" for Bahá'ís (l. 19518–19522).
+
+### Bahá'í Views on Judaism
+Bahá'ís regard Judaism as one of nine known revealed religions, and Abraham and Moses as Manifestations of God (l. 19796–19801). [[bahaullah|Bahá'u'lláh]] denounced European anti-Semitism as evidence of tyranny (l. 19829–19831), claimed to be the promised one of Judaism (ruling "on the throne of David"), and proclaimed the long days of Jewish abasement to be over (l. 19832–19861). [[abdu-l-baha|'Abdu'l-Bahá]] in the 1890s affirmed that the prophesied "ingathering" of the Jews to Palestine would occur (l. 19837–19845). Bahá'í authorities do not allow Bahá'í teaching work to be conducted in Israel (l. 19913–19915).
+
+### Bahá'í Views on Jesus
+Bahá'ís recognize Jesus as a Manifestation of God (l. 19745). Bahá'u'lláh emphasized his "exalted station" (l. 19747). [[abdu-l-baha|'Abdu'l-Bahá]] called him "the essence of the Holy Spirit" and "a ransom for the life of the world" (l. 19765–19769). Most miracles attributed to Jesus are to be interpreted symbolically; his Resurrection is to be understood as spiritual rather than physical (l. 19783–19786). [[shoghi-effendi|Shoghi Effendi]] accepted his "Sonship and Divinity" and the doctrine of the virgin birth (l. 19788–19790).
+
+### Law
+The Bahá'í system of sacred law is rooted in the [[kitab-i-aqdas|Kitáb-i-Aqdas]] and supplementary texts, with interpretations of 'Abdu'l-Bahá and Shoghi Effendi and legislation of the Universal House of Justice constituting its basis (l. 20622–20631). Bábí law has been abrogated except where specifically reiterated by Bahá'u'lláh (l. 20639–20641). Key principles include gradual application with tact and wisdom; diversity of application across communities; and primacy of individual conscience in compliance for matters that are not criminal (l. 20677–20731). There is no clerical class empowered to elucidate the law authoritatively (l. 20749–20751). The Universal House of Justice has the power to legislate on matters not covered by the foundational texts, and its legislation is explicitly subsidiary and subject to revision (l. 20635–20638).
+
+## From Smith, Concise Encyclopedia — Social Teachings and Institutions (2026-06-28)
+
+*Source: lines 29416–29588, 30476–30608, 31001–31051, 32615–32934 of Smith, A Concise Encyclopedia of the Bahá'í Faith (Oneworld, 2000).*
+
+### Social Evolution
+
+For Shoghi Effendi, Bahá'u'lláh's mission was to achieve the "organic and spiritual unity of the whole body of nations", marking humanity's "coming of age" — a mystic process of maturation analogous to that of the individual, and the furthermost limit of possible societal organization (WOB 163–6; lines 29417–29431). The present age of transition represents the adolescent stage in humanity's "slow and painful evolution", characterized by impetuosity, self-assurance and rebelliousness. Previous stages have seen progressive unification of the family, tribe, city-state, and nation. The progressive revelation of divine truth corresponds to the possibilities of human receptiveness at each stage (PoC 12–24; WOB 43, 202; lines 29432–29454).
+
+### Teaching (Mission)
+
+The endeavour to attract more people to the Bahá'í Faith is strongly emphasized and is commonly referred to as "teaching". All Bahá'ís have the obligation to teach their religion (line 30480). Bahá'u'lláh commanded his followers to teach, emphasizing ethics and wisdom: "it is goodly conduct and saintliness that will ensure the triumph of the Faith" (TB 88, 126, 196; lines 30495–30501). Teachers should be "ablaze with the fire of the love of God" and speak with "penetrating power" based on purity of spirit (TB 198–9; lines 30527–30530). They should exercise moderation, tact, and wisdom (TB 143; line 30532), and not exceed the individual's capacity by saying too much (lines 30536–30539).
+
+'Abdu'l-Bahá's [[tablets-of-the-divine-plan|Tablets of the Divine Plan]] outlined a global mission of Bahá'í expansion. The Universal House of Justice has emphasized "teaching the masses" as a means of continued large-scale expansion, particularly in the Third World (lines 30587–30608).
+
+### Tolerance
+
+The Bahá'í Faith advocates cultural and religious tolerance. Bahá'u'lláh instructed his followers to associate with all peoples with "joy and radiance". This promotes unity, social order, and advancement. Bahá'ís should "consort with the followers of all religions in a spirit of friendliness and fellowship" (TB 22, 35, 87; lines 31001–31018). 'Abdu'l-Bahá advocated "infinite kindness and forbearance" when speaking with those of a different religion. Fanaticism and "unreasoning religious zeal" repel others (lines 31018–31022). This contrasted strongly with 19th-century Iranian Shi'i practice, in which religious minority groups were often severely discriminated against and regarded as ritually unclean (lines 31040–31051).
+
+### Gender Equality (Women)
+
+The essential equality of men and women is a basic Bahá'í principle (lines 32615–32737). Bahá'u'lláh stated that in the present day God has removed the distinctions that formerly differentiated the "stations" of men and women as upheld in Islamic religious law (line 32624). He made it an obligation for parents to educate daughters as well as sons (KA 38; line 32681). 'Abdu'l-Bahá was more emphatic: all human beings are made in the image of God; God does not differentiate between them on the basis of gender. Both sexes possess the same potentialities of intelligence, virtue, and prowess (lines 32684–32692). Women and men are "like the two wings of a bird": only if both wings are strong will the bird of humanity be able to fly (lines 32699–32701). Both sexes should receive equal educational opportunity and the same political, social, and economic rights (lines 32709–32713).
+
+Gender differentiation within the Faith: women are exempted from fasting when menstruating, pregnant, or nursing. All levels of Bahá'í administration except for the all-male Universal House of Justice are equally open to men and women; no reason is given for this exception, but 'Abdu'l-Bahá stated that "the wisdom of it would eventually become clear" (CC2: 369–70; lines 32769–32787).
+
+By 1993, 28 per cent of national spiritual assembly membership world-wide was female (generally higher in richer countries; lines 32885–32889).
+
+### Socio-Economic Development
+
+For Bahá'ís the development of both spiritual and material civilization is important. Emphasis was placed on political and legal reform, care for the poor, limitations on armaments, work, agriculture, education, literacy, and the emancipation of women (lines 29476–29507). The Universal House of Justice in October 1983 called for systematic application of Bahá'í principles to "upraising the quality of human life" and announced the establishment of an Office of Social and Economic Development in Haifa (lines 29519–29528). The number of Bahá'í development projects grew from 127 in 1979 to 1,344 in 1986, the largest numbers being educational (lines 29530–29545).
+
+Elements of the Bahá'í perspective on development include: grassroots initiatives and local consultation; the essential need for wider social and moral issues (notably female emancipation and trustworthiness) to form part of the development process; self-reliance; development of "human resources"; a community-service ethos; and valuing of local minority cultures (lines 29572–29588).

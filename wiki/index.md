@@ -337,9 +337,12 @@ Master index of all pages. Updated on every ingest.
 - [[janam-sakhis|Janam-sākhīs]] — the hagiographies of Guru Nanak; non-canonical; McLeod's case study in tradition vs. history
 - [[rahit-maryada|Sikh Rahit Maryada]] — the authoritative Khalsa code of conduct (SGPC, 1950); not scripture
 
-### Bahá'í Faith (Tradition added 2026-06-27; [[smith-short-history-bahai-faith|Smith 1995]] scholarship ingest)
+### Bahá'í Faith (Tradition added 2026-06-27; [[smith-short-history-bahai-faith|Smith 1995]] scholarship ingest; text stubs added 2026-06-28 [[peter-smith|Smith, Concise Encyclopedia]])
 
-*(No primary Bahá'í texts ingested yet — scholarship only. Primary texts to add: Kitáb-i-Aqdas, Kitáb-i-Íqán, Hidden Words, 'Abdu'l-Bahá's talks.)*
+- [[epistle-to-the-son-of-the-wolf|Epistle to the Son of the Wolf]] (*Lawḥ-i-Ibn-i-Dhi'b*, c.1891) — Bahá'u'lláh's last major work; addressed to persecuting Iranian cleric; summarizes teachings; presents biblical prophecies; laments Subh-i-Azal
+- [[dawn-breakers|The Dawn-Breakers]] (*Táríkh-i-Nabíl*) — Nabíl-i-A'ẓam's history of the Bábí movement; composed 1887–8; Shoghi Effendi English translation 1932; authoritative source for early Bábí history; Persian original in manuscript only
+
+*(Further primary Bahá'í texts to add as stubs: Kitáb-i-Aqdas, Kitáb-i-Íqán, Hidden Words, Some Answered Questions, the Bayán, Seven Valleys.)*
 
 ---
 
@@ -644,7 +647,13 @@ Master index of all pages. Updated on every ingest.
 - [[guru-arjan|Guru Arjan]] (compiles the Adi Granth, 1604; first martyr Guru; author of Sukhmani Sahib) · [[guru-hargobind|Guru Hargobind]] (mīrī-pīrī)
 - [[guru-har-rai|Guru Har Rai]] · [[guru-har-krishan|Guru Har Krishan]] · [[guru-tegh-bahadur|Guru Tegh Bahadur]] (martyr)
 - [[guru-gobind-singh|Guru Gobind Singh]] (1666–1708) — tenth Guru; founds the Khalsa (1699); closes the personal Guruship
-- [[ranjit-singh|Maharaja Ranjit Singh]] (1780–1839) — the Sikh kingdom of the Punjab *(stub; expanded in Scope 2)*
+- [[ranjit-singh|Maharaja Ranjit Singh]] (1780–1839) — the Sikh kingdom of the Punjab; the Sarkar Khalsa *(expanded 2026-06-28 from [[khushwant-singh-history-of-the-sikhs|Khushwant Singh]])*
+- **18th–19th c. figures** (new 2026-06-28; [[khushwant-singh-history-of-the-sikhs|Khushwant Singh]] Vol. 1):
+  - [[banda-bahadur|Banda Bahadur]] (1670–1716) — first Sikh seizure of power; conqueror of Sirhind; martyr
+  - [[jassa-singh-ahluwalia|Jassa Singh Ahluwalia]] (1718–1783) — supreme commander of the Dal Khalsa; *Sultān-ul-Qaum*
+  - [[hari-singh-nalwa|Hari Singh Nalwa]] (d. 1837) — Ranjit Singh's foremost general; died at Jamrud
+  - [[deep-singh|Baba Deep Singh]] (d. 1757) — martyr of the Shaheed misl; defender of the Harimandir
+  - [[ahmad-shah-abdali|Ahmad Shah Abdali]] (r. 1747–1772) — Afghan king; nine invasions; the Sikhs' antagonist and unwitting benefactor
 - **Bhagat bāṇī poets included in the SGGS** (expanded 2026-06-27 from primary text; Part 2 additions 2026-06-27):
   - [[namdev|Namdev]] (c. 1270–1350) — Maharashtrian Vaishnava Sant; printer caste; compositions in Siree Raag, Goojaree, Sorat'h, Dhanaasaree; validated by Mehl 3 at Ang 67
   - [[ravidas|Ravidas]] (c. 1450–1520) — Chamar cobbler-saint of Varanasi; *sam dal* ("equally in all"); "You are me, and I am You" (Ang 93); Ravidassia community founder; Sorat'h (7 shabads, low-caste self-declaration); Dhanaasaree (Naam-Aartee, Ang 694)
@@ -710,12 +719,20 @@ Master index of all pages. Updated on every ingest.
 - [[marcionites|Marcionites]] — Marcion’s rival church (c.144 CE–5th/6th c.); spread from Euphrates to Britain; ascetic practice; two gods; Docetic Christ; first closed canon (edited Luke + 10 Pauline letters); refuted most extensively by Tertullian (Kruger)
 - [[montanists|Montanists]] — "New Prophecy" movement (c.165–present in Phrygia); Montanus + Priscilla + Maximilla; ecstatic utterance; claim of ongoing Spirit revelation; excommunicated by Asian synods; Tertullian’s later affiliation; Muratorian Fragment explicitly condemns (Kruger)
 
-### Bahá'í Faith (2026-06-27; [[smith-short-history-bahai-faith|Smith 1995]])
+### Bahá'í Faith (2026-06-27; [[smith-short-history-bahai-faith|Smith 1995]]; extended 2026-06-28 [[peter-smith|Smith, Concise Encyclopedia]])
 
 - [[the-bab|The Báb]] (Siyyid 'Alí-Muḥammad, 1817–1850) — founder of Babism; co-founder of the Bahá'í Faith; executed Tabriz 1850; the Bayán as his scripture
 - [[bahaullah|Bahá'u'lláh]] (Mírzá Ḥusayn-'Alí Núrí, 1817–1892) — prophet-founder of the Bahá'í Faith; exiled Baghdad → Edirne → 'Akká; the Kitáb-i-Aqdas as holy law
 - [[abdu-l-baha|'Abdu'l-Bahá]] (1844–1921) — successor and Center of the Covenant; journeys to West 1910–13; 27,000+ letters
 - [[shoghi-effendi|Shoghi Effendi]] (1897–1957) — Guardian of the Bahá'í Faith; systematized the Administrative Order; major translator and historian
+- [[amelia-collins|Amelia Collins]] (1873–1962) — American Hand of the Cause; major philanthropist; Vice-President of International Bahá'í Council 1951
+- [[john-esslemont|John E. Esslemont]] (1874–1925) — British Bahá'í; author of *Bahá'u'lláh and the New Era*; posthumous Hand of the Cause; Disciple of 'Abdu'l-Bahá
+- [[hippolyte-dreyfus-barney|Hippolyte Dreyfus-Barney]] (1873–1928) — early French Bahá'í scholar; first translator of Bahá'í writings into French; Disciple of 'Abdu'l-Bahá
+- [[laura-dreyfus-barney|Laura Clifford Dreyfus-Barney]] (1879–1974) — compiler of *Some Answered Questions*; American Bahá'í in France
+- [[hyde-dunn|J.H. Hyde Dunn]] (1855–1941) — pioneer to Australia; posthumous Hand of the Cause
+- [[clara-dunn|Clara Dunn]] (1869–1960) — Hand of the Cause; pioneer to Australia with husband Hyde Dunn
+- [[arthur-dodge|Arthur Pillsbury Dodge]] (1849–1915) — early American Bahá'í; first community president New York 1898; Disciple of 'Abdu'l-Bahá
+- [[dayyan|Dayyán]] (d. 1856) — Bábí leader/claimant; murdered in Baghdad at Subh-i-Azal's instigation
 
 ### Scientology / New Religious Movements (2026-06-09)
 
@@ -726,8 +743,9 @@ Master index of all pages. Updated on every ingest.
 - [[ajivikas|Ājīvikas]] — extinct fatalist [[sramana|śramaṇa]] order of [[makkhali-gosala|Makkhali Gosāla]]; *niyati*
 
 ### Sikhism (2026-06-27; [[mcleod-sikhism|McLeod]])
-- [[sikhs|Sikhs (the Panth)]] — the community of the Gurus' disciples; the Nanak-panth → Khalsa Panth; caste, diaspora, gender
+- [[sikhs|Sikhs (the Panth)]] — the community of the Gurus' disciples; the Nanak-panth → Khalsa Panth; caste, diaspora, gender *(political history added 2026-06-28)*
 - [[jats|Jats]] — the dominant landowning caste of the Panth (>60%); the Khalsa constituency; the caste-vs-creed tension
+- [[misls|The Misls]] — the 18th-c. Sikh military confederacies; the Dal Khalsa, Sarbat Khalsa, gurmatā, rākhī (new 2026-06-28; [[khushwant-singh-history-of-the-sikhs|Khushwant Singh]] Vol. 1)
 
 ### Greco-Roman (2026-06-27; [[city-of-god|City of God]])
 - [[romans|Romans]] — the imperial people; paradigm of the [[two-cities|earthly city]]; their gods, virtue, and the 410 sack in *City of God*
@@ -741,6 +759,15 @@ Master index of all pages. Updated on every ingest.
 - [[antioch|Antioch (on the Orontes)]] — Founded c.300 BCE; 3rd largest city in the Roman Empire (~150,000 pop.); density 195 persons/acre; 18 ethnic quarters; 41 catastrophes in 600 years; birthplace of the term "Christian" (Acts 11:26); Paul's missionary base; site of the Incident at Antioch (Gal 2:11-14); Ignatius' bishopric; Stark's case study in urban chaos and Christian revitalization (Ch. 7). Historical inhabitants: Seleucid, Greek, Aramaic-Syrian, Jewish diaspora (large), Roman, Christian, Sasanian (two sacks), Arab (637 CE), Crusader (1098-1268), Mamluk, Ottoman. Modern: Antakya, Hatay Province, Turkey (36.202°N 36.160°E). (Stark, *Rise of Christianity*, Ch. 7)
 
 - [[indus-valley-civilization|Indus Valley Civilization (Harappa)]] — Bronze Age urban civilization of the Indus plain (c. 2300–1500 BCE), older than the Vedas; grid cities (Harappa, Mohenjo-Daro), undeciphered seal script, the proto-Śiva "Pashupati" seal debate; modern Pakistan (Punjab/Sindh) + NW India. Doniger's skepticism about reading Hinduism back into it (new 2026-06-09; [[doniger-the-hindus|Doniger]] Chs. 3–4)
+
+### Sikhism (Punjab/Amritsar 2026-06-27 [[mcleod-sikhism|McLeod]]; rest new/enriched 2026-06-28 from [[khushwant-singh-history-of-the-sikhs|Khushwant Singh]] Vol. 1)
+- [[punjab|Punjab]] — the homeland of the Panth; the land of the five rivers; the Jat peasantry; seat of Sikh power *(enriched 2026-06-28)*
+- [[amritsar|Amritsar]] — holiest Sikh city; the Harimandir (Golden Temple), repeatedly destroyed by Abdali and rebuilt; gilded by Ranjit Singh *(enriched 2026-06-28)*
+- [[lahore|Lahore]] — historic Punjab capital; Ranjit Singh's seat (the Sarkar Khalsa); place of Guru Arjan's execution
+- [[anandpur|Anandpur]] — founded by Guru Tegh Bahadur; base of Guru Gobind Singh; birthplace of the Khalsa (1699)
+- [[kartarpur|Kartarpur]] — township founded by Guru Nanak on the Ravi; his last home and death-place (1539)
+- [[sirhind|Sirhind]] — Mughal seat where Gobind Singh's sons were executed; sacked by Banda Bahadur (1710)
+- [[nanded|Nanded]] — Deccan town where Guru Gobind Singh died and vested the Guruship in the Granth (1708)
 
 ### Ancient Near Eastern / Hebrew Bible Sites (Coogan ingest, 2026-06-07)
 
@@ -784,6 +811,10 @@ Master index of all pages. Updated on every ingest.
 ### Hinduism — Rāmāyaṇa (2026-06-27; [[buck-ramayana|Buck retelling]])
 - [[ayodhya|Ayodhyā]] — capital of the solar dynasty on the Sarayu River; seat of Daśaratha and Rāma; twelve leagues × ten wide; site of the great sacrifice, the coronation crisis, and Rāma-rāj; one of the seven sacred cities; modern Ayodhyā, Uttar Pradesh (new 2026-06-27)
 - [[lanka|Laṅkā]] — island fortress of Rāvaṇa; built by Viśvakarmā for Kubera, seized by Rāvaṇa; site of Sītā's captivity and the war of the Rāmāyaṇa; identified with Sri Lanka / Rāma Setu (new 2026-06-27)
+
+### Bahá'í Sites (2026-06-28; [[peter-smith|Smith, Concise Encyclopedia]])
+- [[edirne|Edirne (Adrianople)]] — ancient city in European Turkey, c.200 km NW of Istanbul; Bahá'u'lláh's exile there 1863–1868; 'the Land of Mystery'; the break with Subh-i-Azal and the beginning of Bahá'u'lláh's proclamation; house of Riḍá Beg survives as pilgrimage site
+- [[chihriq|Chihriq]] — fortress in northwestern Iran (Azerbaiján province) near Urúmiyyih; the Báb's prison April 1848–June 1850; the 'Grievous Mountain'; site of the conversion of Dayyán and the Báb's 'Sermon of Wrath'
 
 ---
 
@@ -1174,10 +1205,12 @@ Master index of all pages. Updated on every ingest.
 - [[genetic-entity|Genetic Entity (GE)]] — the somatic mind; evolutionary body track from Atom through Caveman; distinct from the thetan; enters body 2 days before conception; cowardly, stimulus-response (new 2026-06-10)
 - [[between-lives|Between-Lives]] — post-death implanting operation; Mars as primary report station; Pyrenees as last Earth-based Martian station; spinning-wheel forgetter; explains past-life amnesia (new 2026-06-10)
 
-### Bahá'í Faith (2026-06-27; [[smith-short-history-bahai-faith|Smith 1995]])
+### Bahá'í Faith (2026-06-27; [[smith-short-history-bahai-faith|Smith 1995]]; extended 2026-06-28 [[peter-smith|Smith, Concise Encyclopedia]])
 - [[manifestation-of-god|Manifestation of God]] — the Bahá'í term for divinely-appointed messengers (preferred over "prophet"); includes Abraham, Moses, Krishna, Zoroaster, Buddha, Jesus, Muhammad, the Báb, Bahá'u'lláh
 - [[progressive-revelation|Progressive Revelation]] — doctrine that God sends successive Manifestations for each age, each abrogating the prior holy law; the Bahá'í extension of Islamic *naskh*
-- [[bahai-administrative-order|Bahá'í Administrative Order]] — the system of elected and appointed institutions (Local/National Spiritual Assemblies, Universal House of Justice, Hands of the Cause); no clergy
+- [[bahai-administrative-order|Bahá'í Administrative Order]] — the system of elected and appointed institutions (Local/National Spiritual Assemblies, Universal House of Justice, Hands of the Cause, Continental Boards of Counsellors); no clergy; consultation as bedrock
+- [[covenant-bahai|Covenant (Bahá'í)]] — the Greater and Lesser Covenants; Greater = chain of Manifestations; Lesser = appointed succession (Bahá'u'lláh → 'Abdu'l-Bahá → Shoghi Effendi → UHJ); Covenant-breakers doctrine
+- [[bahai-expansion|Bahá'í Expansion]] — three-stage history (Islamic 1844–1892; Internationalization 1892–1953; Global from 1953); 5 million adherents by early 1990s; 190 countries by 1995; detailed statistical tables
 
 ### Norse (2026-06-09)
 - [[ragnarok|Ragnarök]] — the doom and rebirth of the gods; the gods die fighting their fated end
@@ -1565,7 +1598,7 @@ a `sects/` page, cross-linked.)*
     - [[nirankari|Nirankaris]] (Asali) — Baba Dayal's Nanak-panthi renewal; a continuing Guru-line
     - [[namdhari|Namdharis (Kukas)]] — reformist "purified Khalsa"; a living Guru-line; the Dasam Granth as canonical
 
-### Bahá'í Faith (new tradition 2026-06-27; [[smith-short-history-bahai-faith|Smith 1995]])
+### Bahá'í Faith (new tradition 2026-06-27; [[smith-short-history-bahai-faith|Smith 1995]]; extended 2026-06-28 [[peter-smith|Smith, Concise Encyclopedia]])
 - [[bahai|Bahá'í Faith]] — tradition overview; independent world religion; progressive revelation; five million adherents worldwide (1995); emerged from Babism 1844/1863; the Kitáb-i-Aqdas as holy law; elected Administrative Order (no clergy)
 - [[babi|Babi Religion]] — the 1844–1853 Iranian precursor tradition; the Báb's revelation; the Bayán; collapse after military suppression and the Báb's execution 1850; transformed into the Bahá'í Faith
 
@@ -1731,6 +1764,8 @@ a `sects/` page, cross-linked.)*
 
 ### Sikhism (2026-06-27; [[mcleod-sikhism|McLeod]])
 - [[who-is-a-sikh|Who is a Sikh?]] — Sikh identity, the historicity of the Five Ks and the 1699 Khalsa, the "transformation" of Sikhism, and Nanak's relation to the Sant tradition: Tat Khalsa / normative historiography vs. McLeod / historical-critical scholarship vs. Sanatan Sikhism
+- [[ghallughara|The Ghallugharas (1746, 1762)]] — the Sikh "holocausts"; the dispute over casualty figures (new 2026-06-28; [[khushwant-singh-history-of-the-sikhs|Khushwant Singh]] Vol. 1)
+- [[treaty-of-lahore-1809|Treaty of Lahore / Amritsar (1809)]] — the Sutlej boundary; British protection of the cis-Sutlej chiefs; the divided Punjab (new 2026-06-28)
 
 ### Islamic / Cross-Tradition (2026-06-09)
 - [[qiraat-variant-readings|The Qira'at (Variant Qur'anic Readings)]] — the seven/ten canonical recitations vs. the preservation claim vs. revisionist text-criticism; Bukhari evidence for Umar–Hisham incident, Abu Bakr's collection, Uthman's standardization, and the Ibn Masud / Mu'awwidhatain dispute (extended 2026-06-27)
@@ -1895,3 +1930,51 @@ a `sects/` page, cross-linked.)*
 - [[jephthah-vow]]
 - [[paris-trial-1240]]
 - [[women-and-worship]]
+
+## Bahá'í / Babi — Added 2026-06-28 (Smith Concise Encyclopedia, Subagent E)
+
+### Texts
+- [[kitab-i-iqan]] — Kitáb-i-Íqán (Book of Certitude), Bahá'u'lláh's chief doctrinal work
+
+### Concepts
+- [[huququ-llah]] — Ḥuqúqu'lláh, "The Right of God" monetary obligation
+- [[infallibility-bahai]] — Bahá'í doctrine of infallibility ('isma)
+- [[independent-investigation-of-truth]] — core Bahá'í principle
+
+### Figures
+- [[mulla-husayn]] — Mullá Ḥusayn Bushrú'í, first disciple of the Báb
+- [[husayn-imam]] — Third Shí'í Imám, martyred at Karbalá
+- [[khadijih-bagum]] — the Báb's wife
+- [[ibn-i-abhar]] — Hand of the Cause
+- [[ibn-i-asdaq]] — Hand of the Cause, Apostle of Bahá'u'lláh
+- [[kheiralla-ibrahim-george]] — pioneer teacher, later covenant-breaker
+- [[kazim-rashti]] — Shaykhi leader, teacher of the Letters of the Living
+
+### Groups
+- [[letters-of-the-living]] — the Báb's first eighteen disciples (Ḥurúfu'l-Ḥayy)
+
+### Locations
+- [[karbala]] — Iraqi city, site of martyrdom of Third Imám; Shaykhí and Bábí significance
+
+## Bahá'í / Babi — Added 2026-06-28 (Smith Concise Encyclopedia, Subagent H — lines 28931–33900)
+
+### Texts
+- [[some-answered-questions]] — 'Abdu'l-Bahá's talks to Laura Dreyfus-Barney in 'Akká (1904–6); topics include soul, sin, metaphysics, Christian subjects
+- [[tablets-of-the-divine-plan]] — 'Abdu'l-Bahá's 14 letters (1916–17) on global Bahá'í teaching mission; charter for subsequent teaching plans
+- [[will-and-testament-abdu-l-baha]] — 'Abdu'l-Bahá's will (1901–8); established the Guardianship and defined the Bahá'í Administrative Order
+
+### Concepts
+- [[universal-house-of-justice]] — supreme elected governing body of the Bahá'í Faith; established 1963; nine men elected every five years
+- [[soul-bahai]] — Bahá'í doctrine: every person has an immortal rational soul; original sin rejected; soul progresses after death without limit
+- [[world-order-bahai]] — Shoghi Effendi's vision of a future Bahá'í world commonwealth; the World Order of Bahá'u'lláh letters (1929–36)
+
+### Figures
+- [[tahirih]] — Fátimih Baraghání (1814–1852); Letter of the Living; Babi leader; poet; executed Tehran 1852; first unveiled woman in a messianic movement
+- [[vahid]] — Sayyid Yahyá Dárábí (d. 1850); prominent cleric; Babi leader; killed at Nayriz
+
+### Locations
+- [[siyah-chal]] — "Black Pit"; underground dungeon, Tehran; Bahá'u'lláh imprisoned and received prophetic visions (1852)
+- [[tabarsi]] — Shrine southeast of Bárfurúsh, northern Iran; site of 1848–49 Babi siege and massacre; nine Letters of the Living killed
+- [[tehran]] — Iranian capital; birthplace of Bahá'u'lláh and 'Abdu'l-Bahá; site of Síyáh-Chál; centre of early Bahá'í community
+- [[yazd]] — Iranian city; major site of Bahá'í martyrdoms (1891, 1903); large Zoroastrian converts to Bahá'í
+- [[zanjan]] — Iranian city; largest Babi community (3,000+); major Babi uprising 1850–51; Hujjat's stronghold

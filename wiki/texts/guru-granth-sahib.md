@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Punjabi/Gurmukhi (with Braj, Sant Bhasha, Persian, and other registers)
 date_range: compiled 1604 (Ādi Granth, Guru Arjan); final recension 1706 (Guru Gobind Singh)
-sources_ingested: 6
-last_updated: 2026-06-27
+sources_ingested: 7
+last_updated: 2026-06-28
 tags: [text, sikhism, scripture, granth]
 ---
 
@@ -37,6 +37,14 @@ first five Gurus (Arjan's own being the largest single contribution), with the c
 Granth (agent 1 ~L1981–2051). A prototype lay in the **Goindval pothis** commissioned by
 [[guru-amar-das|Guru Amar Das]]; a stated motive for compilation was to fix an authentic text against
 the spurious hymns circulating from Prithi Chand's followers (the "Minas").
+
+**Khushwant Singh's account** (*History of the Sikhs* Vol. 1, ch. 3) corroborates and dates this: the threat
+of Prithi Chand's "spurious scripture" prompted Arjan to gather the first three Gurus' hymns from Mohan (son
+of [[guru-amar-das|Amar Das]]), compile the selection by the Ramsar tank with Bhai Gurdas as scribe, submit
+it to Akbar's inspection (the emperor satisfied, offering 51 gold mohurs), and install it in the
+[[amritsar|Harimandir]] in **August 1604** with Bhai Buddha as first *graṅthī*. Singh records Arjan's own
+seal on the work, the *Muṇḍāvaṇī*: "In this vessel you will find three things — truth, peace and
+contemplation."
 
 A 1,430-page printed standard now governs; devout reading-disciplines run from a continuous unbroken
 48-hour recitation (**akhand path**, concluded by the *bhog* ceremony) to instalment-readings over
