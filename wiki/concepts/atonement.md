@@ -12,7 +12,7 @@ tags: [concept, christianity, soteriology, atonement, satisfaction, scholasticis
 **Atonement** is the reconciliation of humanity to God effected by the saving work of
 [[jesus|Christ]], pre-eminently His Passion. [[thomas-aquinas|Aquinas]]'s account
 ([[summa-theologica|*ST*]] Tertia Pars Q48–Q49) is the most systematic of the scholastic
-treatments. It develops and qualifies [[anselm-of-canterbury|Anselm]]'s satisfaction theory, and
+treatments. It develops and qualifies Anselm's satisfaction theory, and
 is the bridge between the patristic models and later Catholic and Protestant soteriology. Aquinas's
 distinctive move is that the Passion does not save in *one* way but in **four concurrent modes** —
 merit, satisfaction, sacrifice, and redemption — all reducible to a single instrumental efficient
@@ -98,7 +98,7 @@ the one sacrifice.
 - [[incarnation]] · [[priesthood-of-christ]] · [[christ-as-mediator]] · [[hypostatic-union]]
 - [[ransom-to-whom]] · [[guilt-for-christs-death]] · [[purgatory]] · [[bodily-resurrection]]
 - [[sacrifice]] · [[sin]] · [[original-sin]] · [[grace]] · [[sacraments]]
-- [[jesus]] · [[thomas-aquinas]] · [[summa-theologica]] · [[augustine]] · [[anselm-of-canterbury]]
+- [[jesus]] · [[thomas-aquinas]] · [[summa-theologica]] · [[augustine]] · anselm-of-canterbury
 
 ## Sources Ingested
 

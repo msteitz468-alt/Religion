@@ -44,6 +44,16 @@ Augustine systematized this into the doctrine of **original sin** — Adam's gui
 ### Islamic
 In the Qur'an, Adam (آدم) is the first prophet and God's vicegerent (*khalifa*) on earth (Q 2:30–39). God teaches Adam "the names of all things," demonstrating human superiority over the angels, whom God commands to prostrate before Adam — all do except Iblis (Satan). Adam and his wife are tempted by Iblis and eat from the tree, but in the Qur'anic account Adam **repents and is forgiven** (Q 2:37); there is no doctrine of inherited original sin, and the lapse occurs in the Garden before the descent to earth. Adam's dignity as prophet is preserved.
 
+**Bukhari evidence (Vol. 4, Book 55):**
+
+*Physical stature:* Hadiths attest that Adam was created at a height of sixty cubits ("the people of Paradise will enter it in the image of Adam, the height of which was sixty cubits into the sky" — 4:55:543, Abu Huraira). Human stature has progressively diminished since Adam's time, a motif of primal magnitude.
+
+*Eve's role:* "Were it not for Eve, no woman would ever betray her husband" (4:55:611, Abu Huraira). This hadith attributes a corrupting precedent to Eve, standing in tension with Wadud's Qur'anic egalitarian reading above — the hadith imports a blame-Eve motif that Wadud argues is absent from the Qur'an itself.
+
+*The Adam-Moses Predestination Debate (4:55:621):* Moses confronted Adam: "You are the one who got the people out of Paradise by your sin and made them miserable." Adam replied: "you blame me for a thing which had already been written in my fate before my creation." The Prophet declared: **"So Adam overcame Moses."** This hadith — narrated five times in succession — is a key Sunni proof-text for *qadar* (divine predestination): moral censure of Adam for his sin is deflected by appeal to prior divine decree. The repetition signals its theological importance. It also functions christologically in inter-religious comparison: unlike Paul's Adam-Christ typology (Romans 5), the Islamic Adam is vindicated by predestination rather than requiring a second Adam to undo his act.
+
+*Greeting as origin of salam:* Adam's greeting to the angels — "Assalamu Alaikum" — is presented as the origin of the Muslim greeting formula, with the angels returning "wa Alaikum Assalam wa rahmatullah." This grounds the liturgical greeting in Adamic precedent (cited in various Bukhari contexts).
+
 ### Islamic — gender-egalitarian (Wadud)
 [[amina-wadud|Amina Wadud]] ([[wadud-quran-and-woman|*Qur'an and Woman*]]) presses the Qur'anic
 creation account against the rib-and-blame narrative inherited from Genesis and the *Isra'iliyyat*.

@@ -2,9 +2,9 @@
 title: Bodily Resurrection
 domain: theology/eschatology
 traditions_using: [Islam, Christianity, Judaism]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
-tags: [concept, islam, eschatology]
+tags: [concept, islam, christianity, eschatology, aquinas]
 ---
 
 # Bodily Resurrection
@@ -66,6 +66,35 @@ The Conclusion of the *Tahafut* enumerates three doctrines on which Ghazali pron
 The denial of bodily resurrection is singled out as the most unambiguous violation: "These three doctrines do not agree with Islam in any respect. The one who believes them believes that prophets utter falsehoods and that they said whatever they have said by way of [promoting common] utility, to give examples and explanation to the multitudes of created mankind. This is manifest infidelity which none of the Islamic sects have believed" (Conclusion, §3). The charge is especially sharp here because allegorizing the resurrection texts implies that prophetic speech is a pious deception — a noble lie for the masses — which Ghazali regards as the deepest form of the philosophers' impiety.
 
 ---
+
+## Aquinas on the Resurrection and the glorified body (Summa Theologiae, Supplement)
+
+The Christian comparandum is treated at length by [[thomas-aquinas|Aquinas]] in the
+[[summa-theologica|*ST*]] Supplement (XP Q75–Q96), where — unlike the eschatology al-Ghazali defends
+against the philosophers — the resurrection is integrated into a full metaphysics of the
+[[atonement|risen Christ]] as cause.
+
+- **The resurrection itself** (XP Q75–Q80): universal (all the dead rise), miraculous (beyond every
+  created natural power), and caused by **Christ's resurrection** as its quasi-instrumental efficient
+  and exemplar cause. Against **metempsychosis** and Gnostic denial, the **same body** rises —
+  identity guaranteed by the rational soul, which is the body's form; the risen body has integrity
+  (all its members). The time is hidden (Joachim of Fiore's datings dismissed).
+- **The four dowries (*dotes*) of the glorified body** (XP Q82–Q85), the gifts overflowing from the
+  beatified soul (cf. Christ's body at the Transfiguration): **impassibility** (incapacity for
+  suffering or corruption), **subtlety** (*subtilitas* — the body's full subjection to the spirit,
+  as when the risen Christ passed through closed doors), **agility** (instantaneous movement at the
+  soul's command), and **clarity** (*claritas* — the radiant beauty of the blessed body). The bodies
+  of the **damned** also rise, but passible and inglorious. All rise at the perfect age (~33) and
+  proper stature.
+- **The General Judgment** (XP Q88–Q90): beyond the particular judgment each soul receives at death,
+  there will be a **general judgment** at the end — because a person's life has effects that continue
+  after death (in reputation, descendants, the works left behind, the body's condition), and these
+  must finally be assessed; and because Christ, who was judged, must be seen to judge in His humanity
+  by all, good and wicked. The world itself is **renewed** (XP Q91), the heavenly motions ceasing.
+- The **[[beatific-vision]]**, the mansions of the blessed, the question whether the blessed see and
+  rejoice in the punishment of the damned, and the **aureoles** (the special crowns of martyrs,
+  virgins, and doctors) close the work (XP Q92–Q96). The fate of the damned is treated under
+  [[hell]]; that of unbaptized infants under [[limbo]].
 
 ## Cross-Tradition Note
 

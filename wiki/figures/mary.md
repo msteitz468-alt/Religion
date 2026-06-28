@@ -58,13 +58,13 @@ Mary is the first to hear and embody the gospel in Luke—her song is the initia
   tinder of concupiscence) was **fettered** at her sanctification and entirely removed only at
   Christ's conception. This is **materially different from the dogma defined by Pius IX in 1854**
   (*Ineffabilis Deus*), which holds Mary preserved free from original sin from the first instant —
-  the position championed by [[duns-scotus|Duns Scotus]] (the *praeredemptio*) against the Thomist
+  the position championed by Duns Scotus (the *praeredemptio*) against the Thomist
   objection. The divergence is a standard example for the **development of doctrine**.
 - **Perpetual virginity** (Q28): affirmed *ante partum*, *in partu*, and *post partum*; Helvidius
   named and refuted; the "brethren of the Lord" explained as kinsmen (Jerome's view); Joseph also held
   to have remained a virgin.
 - **Espousals** (Q29): a true marriage (consent making it real) though unconsummated; possessing all
-  three [[marriage-goods|goods of marriage]].
+  three goods of marriage.
 - **Annunciation** (Q30): Mary's consent was sought "in lieu of that of the entire human nature."
 - **Mother of God / Theotokos** (Q35): affirmed; its denial (Nestorius, Photinus) declared heretical
   — because the one she bore is the divine Person (see [[hypostatic-union]]). She supplied the matter
@@ -72,7 +72,7 @@ Mary is the first to hear and embody the gospel in Luke—her song is the initia
   principle (Q31–32).
 
 This material is recorded as a **contradiction** with the later Marian dogma per the wiki's
-Contradiction Protocol; see also [[immaculate-conception|the controversy]].
+Contradiction Protocol; see also the controversy.
 
 **Key Links**:
 - [[luke|Gospel of Luke]] (birth narrative, Magnificat)

@@ -99,9 +99,9 @@ his synthesis with Aristotle), and read with interest but without the same autho
 
 ## Coverage Ledger
 
-**Status: the Prima Pars (Part I, Q1–119), the Prima Secundae (Part I-II, Q1–114), and the Secunda
-Secundae (Part II-II, Q1–189) are all ingested in full. The Tertia Pars (Part III, Q1–90) and the
-Supplement are in progress (Part 4 file) — see the Part 4 ledger below.**
+**Status: the entire *Summa Theologica* is now ingested in full — the Prima Pars (Part I, Q1–119), the
+Prima Secundae (Part I-II, Q1–114), the Secunda Secundae (Part II-II, Q1–189), and the Tertia Pars
+(Part III, Q1–90) together with the Supplement (XP Q1–99 + Appendices). See the four ledgers below.**
 
 | Scope | Questions | Lines (raw) | Status |
 |-------|-----------|-------------|--------|
@@ -163,20 +163,20 @@ contents). The ingest is partitioned into eight scopes:
 
 | Scope | Section | Questions | Lines (raw) | Status |
 |-------|---------|-----------|-------------|--------|
-| 1. The Incarnation — the union | TP Q1–26 | 1–7993 | in progress |
-| 2. The mysteries of Christ's life | TP Q27–59 | 7994–18665 | in progress |
-| 3. Sacraments in general + Baptism + Confirmation | TP Q60–72 | 18666–23986 | in progress |
-| 4. The Eucharist + Penance (TP) | TP Q73–90 | 23987–31729 | in progress |
-| 5. Suppl.: Penance — contrition, confession, satisfaction, keys, indulgences | XP Q1–28 | 31730–36915 | not started |
-| 6. Suppl.: Extreme Unction + Holy Orders | XP Q29–40 | 36916–39686 | not started |
-| 7. Suppl.: Matrimony | XP Q41–68 | 39687–47165 | not started |
-| 8. Suppl.: The Last Things + Appendices | XP Q69–99 + App. | 47166–58630 | not started |
+| 1. The Incarnation — the union | TP Q1–26 | 1–7993 | read in full |
+| 2. The mysteries of Christ's life | TP Q27–59 | 7994–18665 | read in full |
+| 3. Sacraments in general + Baptism + Confirmation | TP Q60–72 | 18666–23986 | read in full |
+| 4. The Eucharist + Penance (TP) | TP Q73–90 | 23987–31729 | read in full |
+| 5. Suppl.: Penance — contrition, confession, satisfaction, keys, indulgences | XP Q1–28 | 31730–36915 | read in full |
+| 6. Suppl.: Extreme Unction + Holy Orders | XP Q29–40 | 36916–39686 | read in full |
+| 7. Suppl.: Matrimony | XP Q41–68 | 39687–47165 | read in full |
+| 8. Suppl.: The Last Things + Appendices | XP Q69–99 + App. | 47166–58630 | read in full |
 
 **Sources:**
 - Part I — `raw/texts/Summa Theologica - Part 1 (Prima Pars).txt`
 - Part I-II — `raw/texts/Summa Theologica - Part 2 (Prima Secundae).txt`
 - Part II-II — `raw/texts/Summa Theologica - Part 3 (Secunda Secundae).txt`
-- Part III + Supplement — `raw/Summa Theologica - Part 4 (Tertia Pars and Supplement).txt`
+- Part III + Supplement — `raw/texts/Summa Theologica - Part 4 (Tertia Pars and Supplement).txt`
 
 All are the CCEL public-domain English translation by the Fathers of the English
 Dominican Province.

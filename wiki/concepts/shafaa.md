@@ -93,9 +93,30 @@ A distinct eschatological theme closely associated with the shafāʿa chapters: 
 
 The analogy used is seeing the full moon or the sun on a cloudless day — a clear, unimpeded sight without difficulty (Nos. 0349, 0352).
 
+## Additional Evidence from Sahih al-Bukhari (Book 76)
+
+*Source: Sahih al-Bukhari, Vol. 8, Book 76 (Ar-Riqaq), No. 570. M. Muhsin Khan trans.*
+
+Bukhari's version of the Great Intercession inserts **Noah** between Adam and Abraham (not present in the Muslim version above) and adds **Jesus** explicitly declining and directing humanity to Muhammad. The chain in Bukhari (No. 570) is thus: Adam → Noah → Abraham → Moses → Jesus → Muhammad. Each declines citing personal "sins": Adam (eating from the tree), Noah (a supplication he made against his nation), Abraham ("three lies"), Moses (the man he killed). Jesus gives no specific failing, simply directing them to Muhammad.
+
+Muhammad then prostrates before Allah, receives permission, and says: "Go and take out of the Fire whoever has faith equal to a mustard seed in his heart." The quantitative faith-extraction sequence matches Sahih Muslim's account.
+
+### The Waliyy Hadith (No. 509) — Foundation of Sufi Spirituality
+
+Bukhari Book 76 also contains the *hadith qudsi* of the *waliyy* (saint/protégé): whoever takes a waliyy of Allah as an enemy, Allah wages war against him. Supererogatory acts of worship bring the servant so close that: "I become his sense of hearing… his sense of sight… his hand with which he grasps… his leg with which he walks." This is not intercession in the eschatological sense but the realized union-with-divine-faculties that Sufi traditions ground in this text. See [[ibn-arabi|Ibn Arabi]] for the developed metaphysical account.
+
+### The Lake-Fount (Hawd) and Apostates Driven Away
+
+The Ar-Riqaq intercession material connects to the Hawd (Prophet's Lake-Fount). The Prophet warns repeatedly that some who claim to be "my companions" will be driven away from the Hawd on Judgment Day because they apostatized (*irtaddu*) after his death. The Prophet says he will protest "But they were my companions!" and is told "You do not know what they innovated after you." This is among the most unsettling passages in Bukhari — potentially including Companions in the driven-away group, though the text does not specify names (No. 578 area).
+
+### Umar's Rajm Hadith (Book 82, No. 817) — A Parallel Text
+
+In a thematically related passage from Book 82, Umar ibn al-Khattab publicly declares (in a sermon at the Farewell Pilgrimage): "Allah sent Muhammad with the Truth and revealed the Holy Book to him, and among what Allah revealed, was the Verse of the Rajm (the stoning of married person)… I am afraid that after a long time has passed, somebody will say 'We do not find the Verses of the Rajm in Allah's Book,' and thus will go astray by leaving an obligation that Allah has revealed." This is the most politically significant single hadith in Book 82 — a Caliph explicitly warning that a Quranic verse (the stoning verse) is absent from the written *mushaf* but was revealed and must not be forgotten. It connects to the [[qiraat-variant-readings|variant readings]] controversy.
+
 ## Cross-links
 
-- [[sahih-muslim|Ṣaḥīḥ Muslim]] — primary source for all content above
+- [[sahih-muslim|Ṣaḥīḥ Muslim]] — primary source for most of the above
+- [[sahih-al-bukhari|Sahih al-Bukhari]] — additional evidence (Book 76, No. 570; Book 82, No. 817)
 - [[iman|Īmān]] — faith as the necessary condition for intercession; quantitative faith thresholds
 - [[sunni-islam|Sunni Islam]] — tradition for which these hadiths are canonical
 - [[muhammad|Muhammad]] — the preeminent intercessor

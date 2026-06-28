@@ -58,6 +58,46 @@ Moses is the human face of the exodus paradigm: from slavery to covenant people,
 - **Modern**: Liberation (Gutierrez, Cone: Moses as revolutionary); canonical (Childs); creational (Fretheim, via Bruckner).
 - Cross-tradition: Abraham (promise) → Moses (fulfillment/mediation); comparisons with other lawgivers (Hammurabi, Muhammad as prophet).
 
+## Islamic Reception (Bukhari Evidence)
+
+*Source: Sahih al-Bukhari, Vol. 4, Books 55–56 (Prophets; Virtues of the Prophet). M. Muhsin Khan trans.*
+
+### Physical Descriptions (from the Mi'raj encounters)
+
+Four hadiths describe Moses from Muhammad's night-journey visions, with minor variations:
+- "Moses was a thin person with lank hair, looking like one of the men of the tribe of Shanua." (4:55:607, Abu Huraira)
+- "The prophet Moses was brown, a tall person as if from the people of the tribe of Shanu'a." (4:55:608, Ibn Abbas)
+- "I saw Moses. He was a tall person with lank hair as if he belonged to the people of the tribe of Shanu's." (4:55:647, Abu Huraira)
+- "Moses was of brown complexion, straight hair and tall stature as if he was from the people of Az-Zutt." (4:55:648, Ibn Umar)
+
+### The Al-Khadir Narrative (4:55:612–614)
+
+The most extensive narrative in this range. Moses, the most learned among Bani Israel, was directed by Allah to find a servant more learned than he at "the junction of the two seas." He traveled with Yusha' bin Nun, carrying a fish in a basket as a sign — when the fish escaped (into the sea "straight as in a tunnel"), they retraced their steps and found Al-Khadir. Three episodes: (1) Al-Khadir damaged a ship's plank; (2) Al-Khadir killed a boy; (3) Al-Khadir repaired a wall in a hostile village. Moses protested each; Al-Khadir parted after the third, explaining each act's hidden wisdom. The Prophet added: "We wished that Moses could have remained patient by virtue of which Allah might have told us more about their story." Al-Khadir's name derives from sitting on barren white land that "turned green with plantation after (his sitting over it)" (4:55:614).
+
+### The Angel of Death Episode
+
+Moses strikes the angel of death in the eye when the angel comes to take his soul; Allah restores the angel's eye and instructs him to tell Moses to place his hand on an ox and he will live as many years as hairs his hand covers. Moses asks to be made to die near the Holy Land ("a stone's throw") rather than live those years. The Prophet declared: "I wish I could show you his grave beside the road near the red sandhill." (4:55:619, Abu Huraira)
+
+### Shyness and the Stone Miracle (4:55:616)
+
+Moses was so modest that he always covered his body. Bani Israel accused him of skin disease or scrotal hernia. Allah cleared his name: the stone on which he laid his clothes fled; Moses chased it naked before a group of Bani Israel "who saw him naked then, and found him the best of what Allah had created." The stone stopped; Moses struck it with his stick. Quranic cross-reference: 33:69.
+
+### Moses's Patience Under Criticism
+
+"May Allah bestow His Mercy on Moses, for he was harmed more (in a worse manner) than this; yet he endured patiently" — said by the Prophet when accused of unjust distribution, invoking Moses as the paradigm of patience under false accusation. (4:55:617, Abdullah)
+
+### The Adam-Moses Predestination Debate (4:55:621)
+
+Adam and Moses argued: Moses accused Adam of causing humanity's expulsion from Paradise through his sin; Adam replied, "you blame me for a thing which had already been written in my fate before my creation." **"So Adam overcame Moses."** This hadith is a key text for Islamic qadar (divine decree) — predestination defeats moral censure.
+
+### The 'Ashura Fast (4:55:631 area; cf. 4:56:592)
+
+The Prophet found Jews fasting on 'Ashura and was told it was the day Moses was saved from Pharaoh. He declared: "We are more entitled to Moses than you," and instituted the fast for Muslims. This claim — that Muslims inherit Moses more than the Jews do — is a significant supersessionist move within Islamic prophetology.
+
+### Eschatological Role
+
+In the Mi'raj, Moses is encountered in the sixth heaven (accounts vary on the exact heaven). Crucially, Moses's intercession drives the reduction of the daily prayers from 50 to 5: each time Muhammad passed Moses returning from Allah, Moses urged him to ask for reduction ("your community cannot bear it"). The 50→5 reduction thus passes through Moses's advocacy. Additionally, Moses is described as holding the leg/corner of Allah's Throne in at least one hadith (cited in the Mi'raj complex).
+
 **Key Links**:
 - [[exodus|Exodus]] (primary, Bruckner + Zohar Vol. IV)
 - [[james-bruckner|James K. Bruckner]]
@@ -70,3 +110,5 @@ Moses is the human face of the exodus paradigm: from slavery to covenant people,
 - [[documentary-hypothesis|Documentary Hypothesis]] (Bruckner's moderate engagement)
 - [[zohar|The Zohar]], [[kabbalah|Kabbalah]], [[sefirot|Ten Sefirot]] — Moses as the prophet of Tif'eret, "bridegroom of the Shekhinah"
 - [[shekhinah|Shekhinah]], [[korah|Korah]] (the rebellion Moses mediates as a sefirotic conflict)
+- [[sahih-al-bukhari|Sahih al-Bukhari]] — Islamic reception (Books 55–56, Vol. 4)
+- [[isra-and-miraj|Night Journey and Ascension]] — Moses encountered in the heavens; intercedes for 50→5 prayer reduction

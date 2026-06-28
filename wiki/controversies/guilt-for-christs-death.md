@@ -57,7 +57,7 @@ Messiah (so were culpable) but not explicitly as God (so 1 Cor. 2:8 stands).
 
 - The **deicide charge** — holding the Jewish people collectively and perpetually guilty of killing
   God — drew on this exegetical tradition (and on Matt. 27:25, "His blood be on us and on our
-  children") and fuelled centuries of Christian anti-Judaism. See [[the-jews-in-christian-polemic]]
+  children") and fuelled centuries of Christian anti-Judaism. See the-jews-in-christian-polemic
   if developed.
 - **Modern Catholic repudiation**: *Nostra Aetate* (1965) declared that Christ's death "cannot be
   charged against all the Jews, without distinction, then alive, nor against the Jews of today,"

@@ -52,6 +52,26 @@ Abraham is the answer to the primeval crisis (Gen 1–11): from universal degene
 - **Jewish**: Midrashic expansions; Akedah in liturgy as merit for Israel.
 - Cross-tradition: Comparisons of allegory (Philo/Origen) vs. literal-historical (Hamilton); Abraham as common father in interfaith dialogue (Judaism/Christianity/Islam).
 
+## Islamic Reception (Bukhari Evidence)
+
+*Source: Sahih al-Bukhari, Vol. 4, Book 55 (Prophets). M. Muhsin Khan trans.*
+
+### Muhammad's Resemblance to Abraham
+
+The Prophet declared: "I resemble prophet Abraham more than any of his offspring does" (4:55:607, Abu Huraira; repeated 4:55:647). The claim is cosmological rather than genealogical — Muhammad is the closest embodiment of the Abrahamic original, not merely a descendant.
+
+### Al-Khalil ("Friend of God")
+
+Abraham is identified as "Allah's Khalil" in the honorific genealogical chain: Joseph is called "the most honorable," son of Jacob, son of Isaac, "son of Allah's Khalil" (4:55:597, Abu Huraira). The *Khalil* title — also applied to Muhammad in contexts where the Prophet declines it for himself to avoid rivalry — is Abraham's defining Islamic epithet.
+
+### First Dressed on the Day of Resurrection
+
+"The first to be dressed will be Abraham" (4:55:656, Ibn Abbas). At the resurrection, before any other human being is clothed, Abraham receives his garments — a preeminence that echoes his role as the father of the prophetic line.
+
+### The Ka'ba's Primacy over Jerusalem
+
+"Al-Masjid-ul-Haram was built first; Al-Masjid-ul-Aqsa was next; forty (years) between them" (4:55:636, Abu Dhar). Though not explicitly attributing the Ka'ba's foundation to Abraham in this hadith, the context positions the Ka'ba's antiquity (associated Islamically with Abraham and Ishmael, Q 2:127) as prior to the Jerusalem sanctuary.
+
 **Key Links**:
 - [[genesis|Genesis]] (primary narrative, Hamilton)
 - [[victor-hamilton|Victor P. Hamilton]]
@@ -62,3 +82,5 @@ Abraham is the answer to the primeval crisis (Gen 1–11): from universal degene
 - [[zohar|The Zohar]], [[kabbalah|Kabbalah]], [[sefirot|Ten Sefirot]] — Abraham as Ḥesed (right side)
 - [[circumcision|Circumcision]] — Gen 17; the covenant of Yesod that "opens the rungs"
 - [[sarah|Sarah]], [[ishmael|Ishmael]] — his wife and his firstborn son; [[isaac|Isaac]] the covenant heir
+- [[sahih-al-bukhari|Sahih al-Bukhari]] — Islamic reception (Book 55, Vol. 4)
+- [[muhammad|Muhammad]] — claims resemblance to Abraham more than any of his offspring

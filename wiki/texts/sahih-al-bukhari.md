@@ -172,6 +172,56 @@ economic life. Recurring principles:
   the Prophet's encouragement of freeing slaves as expiation.
 - Gifts and bequests to non-Muslims, the binding nature of conditions in contracts.
 
+## Key Theological Themes (Volumes 7–9)
+
+*(Content developed from Pass 3 ingest — see Coverage Ledger below.)*
+
+### Marriage Law and Social Ethics — Book 62
+
+Book 62 (*Kitab al-Nikah*) establishes Islamic marriage as a normative *sunna*: "He who does not follow my tradition in religion, is not from me" (No. 1). Key rulings: mahr (bride-gift) is required but flexible in form; mut'a (temporary marriage) was abrogated at Khaybar per Ali's narration (No. 50), though Ibn Abbas preserved a minority permissive view (No. 51) — the Sunni/Shia split point. Night-turn rotation system among the Prophet's nine wives documented. See [[nikah|Nikah (Islamic Marriage)]].
+
+### Divorce Law — Book 63
+
+Book 63 (*Kitab al-Talaq*) establishes the *tahlil* (legalization) requirement after triple divorce, wife-initiated *khul'* with mahr return (the Thabit case), and the 'idda periods. Intra-Companion dispute: Aisha vs. Fatima bint Qais on divorced women's residence rights. See [[talaq|Talaq (Divorce)]].
+
+### Food, Medicine, and Ethics (Books 65–76)
+
+Books 67–71 document halal/haram food rulings, the Islamic medical tradition (honey as medicine, black seed "heals all diseases except death," cupping, the quarantine principle), and the prohibition of all intoxicants — with Umar's sermon (Book 69, No. 487) defining *khamr* functionally as "that which disturbs the mind."
+
+Book 73 (*Kitab al-Adab* / Good Manners) is the longest single book in volumes 7–8, covering filial duty, neighbor rights, anger management ("Do not become angry" — the *la taghdab* hadith), truthfulness vs. lying, prohibition of backbiting (*ghiba*) and slander, and the "you will be with those whom you love" consolation.
+
+### Piety and Eschatology — Book 76 (Ar-Riqaq)
+
+Book 76 (*Kitab al-Riqaq* — Softening of Hearts) is the eschatological heart of the collection. Key content: the Great Intercession chain (Adam → Noah → Abraham → Moses → Jesus → Muhammad, No. 570); description of the Sirat bridge with hooks "like thorns of As-Sa'dan"; the Lake-Fount with warnings about apostates driven away; the vision of Allah in Paradise (ru'yat Allah) "as you see the full moon" (No. 577). The *waliyy* hadith (No. 509) — "I become his hearing, his sight, his hand, his leg" — is the foundational text of Sufi spirituality. See [[shafaa|Shafa'a (Intercession)]].
+
+### Divine Decree — Book 77 (Qadar)
+
+Book 77 contains the 40-day womb hadith (when the angel inscribes the child's destiny), the *fitra* hadith, and the Adam-Moses predestination debate (No. 611 — "Adam overcame Moses"). See [[tawhid|Tawhid]] for the theological implications.
+
+### Legal Punishments — Book 81
+
+Book 81 (*Hudood*) documents the two-tier adultery punishment: 100 lashes plus exile for the unmarried; stoning (*rajm*) for the married. The Ma'iz case (No. 813) is the primary named stoning narrative. Theft threshold: quarter-dinar (Aisha's narration) vs. three dirhams (Ibn Umar) — a minor contradiction preserved.
+
+### The Rajm Verse — Book 82
+
+Umar's sermon (Book 82, No. 817) declares: "Allah sent Muhammad with the Truth and revealed… the Verse of the Rajm (stoning) … I am afraid that after a long time has passed, somebody will say 'We do not find the Verses of the Rajm in Allah's Book.'" This hadith records a Caliph explicitly stating that a revealed verse is absent from the written *mushaf* — one of the most politically sensitive passages in the entire collection. See [[qiraat-variant-readings|Qira'at Controversy]].
+
+### Apostasy — Book 84
+
+"Whoever changed his Islamic religion, then kill him" (No. 57, Ibn Abbas from the Prophet). The death penalty for apostasy is stated twice. Mu'adh bin Jabal insists on execution: "This is the judgment of Allah and His Apostle" (No. 58).
+
+### Dreams — Book 87
+
+The prophetic status of dreams is documented extensively: good dreams are "1/46 of prophecy" (Nos. 112, 116–118, 144). Samura's long eschatological dream receives full prophetic interpretation (the Quran-neglector, habitual liar, adulterers, usury-eater, Abraham with children of the *fitra*, Malik the gatekeeper of Hell). "Whoever sees me (the Prophet) in a dream truly sees me, for Satan cannot imitate my form" (various narrations).
+
+### End-Times Signs — Book 88 (Fitan)
+
+The eleven signs of the Last Hour enumerated (No. 237): Smoke, Dajjal, the Beast, rising of the sun from the West (closing repentance), Jesus's descent, Gog and Magog, three landslides, and a driving fire. The Dajjal is described as one-eyed with "Kafir" written between his eyes. Medina is protected from both plague and the Dajjal. Umar is "the door" whose breaking releases tribulation (No. 216). Notably, **the Mahdi does not appear in Bukhari's Fitan book** — a fact relevant to debates about the Mahdi hadiths' authenticity. See [[fitan|Fitan]].
+
+### Tawhid — Book 93 (Closing the Collection)
+
+Book 93 (*Kitab al-Tawhid*) is the theological crown. Major content: the 99 Names hadith (No. 489); divine attribute hadiths — Hand, Shin, Foot, Laughter affirmed without *ta'wil*; the full-moon *ru'yat Allah* (Nos. 529–532); Allah as Time (*al-Dahr*, No. 583); shirk as the greatest sin (Nos. 611, 623). The collection closes (No. 652) with: "*Subhan Allah wa-bi hamdihi* and *Subhan Allah Al-Azim*" — two words light on the tongue but heavy in the divine balance. See [[tawhid|Tawhid]].
+
 ## Major Companion-Narrators in Volumes 1–3
 
 The collection is transmitted through chains (*isnad*) that pass through named Companions. The most
@@ -198,7 +248,7 @@ the most cited sections in Sunni kalam.
 
 1. *Translation of Sahih Bukhari* (M. Muhsin Khan), public-domain English edition (9 volumes,
    244 chapters). — acquired in `raw/texts/islam/`.
-2. GlobalGrey edition (M. Muhsin Khan translation), `raw/sahih-al-bukhari-vol1-3.txt` —
+2. GlobalGrey edition (M. Muhsin Khan translation), `raw/texts/islam/sahih-al-bukhari-vol1-3.txt` —
    Volumes 1–3 (Books 1–50), lines 131–22,233. Read in full.
 
 ## Coverage Ledger
@@ -208,13 +258,15 @@ the most cited sections in Sunni kalam.
 | Vol. 1 (Books 1–12): Revelation through Characteristics of Prayer | 131–7,149 | Read in full (2026-06-27) |
 | Vol. 2 (Books 13–26): Friday Prayer through Hajj | 7,150–14,124 | Read in full (2026-06-27) |
 | Vol. 3 (Books 27–50): Minor Pilgrimage through Conditions | 14,125–22,233 | Read in full (2026-06-27) |
-| Vol. 4 (Books 51–56): Wills · Jihad · Khums · Creation · Prophets · Virtues | raw/sahih-al-bukhari-vol4-6.txt, lines 1–8,248 | Read in full (2026-06-27) |
-| Vol. 5 (Books 57–59): Companions · Ansar · Maghazi | raw/sahih-al-bukhari-vol4-6.txt, lines 8,249–16,950 | Read in full (2026-06-27) |
-| Vol. 6 (Books 60–61): Tafsir · Virtues of the Quran | raw/sahih-al-bukhari-vol4-6.txt, lines 16,951–23,246 | Read in full (2026-06-27) |
-| Vol. 7–9 (Books 62–93) | raw/sahih-al-bukhari-vol7-9.txt | Not yet ingested |
+| Vol. 4 (Books 51–56): Wills · Jihad · Khums · Creation · Prophets · Virtues | raw/texts/islam/sahih-al-bukhari-vol4-6.txt, lines 1–8,248 | Read in full (2026-06-27) |
+| Vol. 5 (Books 57–59): Companions · Ansar · Maghazi | raw/texts/islam/sahih-al-bukhari-vol4-6.txt, lines 8,249–16,950 | Read in full (2026-06-27) |
+| Vol. 6 (Books 60–61): Tafsir · Virtues of the Quran | raw/texts/islam/sahih-al-bukhari-vol4-6.txt, lines 16,951–23,246 | Read in full (2026-06-27) |
+| Vol. 7 (Books 62–72): Marriage through Dress | raw/texts/islam/sahih-al-bukhari-vol7-9.txt, lines 1–7,022 | Read in full (2026-06-27) |
+| Vol. 8 (Books 73–82): Good Manners through Punishment | raw/texts/islam/sahih-al-bukhari-vol7-9.txt, lines 7,023–14,450 | Read in full (2026-06-27) |
+| Vol. 9 (Books 83–93): Blood Money through Tawhid | raw/texts/islam/sahih-al-bukhari-vol7-9.txt, lines 14,451–20,998 | Read in full (2026-06-27) |
 
 ## Scope Plan (Multi-Pass)
 
 - **Pass 1**: `sahih-al-bukhari-vol1-3.txt` — Vols. 1–3, Books 1–50 ✓ (read in full 2026-06-27)
 - **Pass 2**: `sahih-al-bukhari-vol4-6.txt` — Vols. 4–6, Books 51–61 ✓ (read in full 2026-06-27)
-- **Pass 3**: `sahih-al-bukhari-vol7-9.txt` — Vols. 7–9, Books 62–93 (Marriage, Ethics, Tawhid) — not yet begun
+- **Pass 3**: `sahih-al-bukhari-vol7-9.txt` — Vols. 7–9, Books 62–93 (Marriage, Ethics, Tawhid) ✓ (read in full 2026-06-27)

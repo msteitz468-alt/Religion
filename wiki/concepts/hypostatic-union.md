@@ -20,12 +20,12 @@ subsisting Person of the Word**. It is the doctrine the [[incarnation|Incarnatio
 
 The Chalcedonian formula was hammered out against two opposite errors:
 
-- **[[nestorianism|Nestorianism]]** — so distinguishing the natures as to imply *two* persons /
+- **Nestorianism** — so distinguishing the natures as to imply *two* persons /
   subjects loosely conjoined (a union of indwelling, dignity, or grace). Condemned at Ephesus (431).
-- **[[monophysitism|Monophysitism / Eutychianism]]** — so uniting the natures as to leave *one*
+- **Monophysitism / Eutychianism** — so uniting the natures as to leave *one*
   nature, the human absorbed into the divine ("one incarnate nature"). Condemned at Chalcedon (451).
 - Constantinople II (553) and III (680–681) extended the settlement, the latter defining **two
-  wills and two operations** ([[monothelitism|against Monothelitism]]).
+  wills and two operations** (against Monothelitism).
 
 The Eastern Oriental Orthodox churches (Coptic, Armenian, Syriac), holding to Cyril's
 *miaphysite* formula "one incarnate nature of the Word," reject Chalcedon — a division between
@@ -75,7 +75,7 @@ into one.
 ## Related
 
 - [[incarnation]] · [[communicatio-idiomatum]] · [[trinity]] · [[logos-christology]]
-- [[nestorianism]] · [[monophysitism]] · [[apollinarianism]] · [[monothelitism]]
+- nestorianism · monophysitism · apollinarianism · monothelitism
 - [[jesus]] · [[thomas-aquinas]] · [[summa-theologica]] · [[catholicism]] · [[eastern-orthodoxy]]
 
 ## Sources Ingested

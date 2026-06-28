@@ -71,6 +71,30 @@ Joseph is the bridge from the patriarchal age to the national story: his descent
 
 ---
 
+## Islamic Reception (Bukhari Evidence)
+
+*Source: Sahih al-Bukhari, Vol. 4, Book 55 (Prophets), Nos. 597–603. M. Muhsin Khan trans.*
+
+### The Most Honorable Lineage
+
+Two hadiths establish Joseph as the supreme exemplar of prophetic lineage:
+- "The most honorable person is Joseph, Allah's Prophet, the son of Allah's Prophet, the son of Allah's Prophet, the son of Allah's Khalil" (4:55:597, Abu Huraira — the four-generation chain: Joseph → Jacob → Isaac → Abraham)
+- "The honorable, the son of the honorable, the son of the honorable, (was) Joseph, the son of Jacob! the son of Isaac, the son of Abraham" (4:55:603, Ibn Umar)
+
+When Abu Huraira pressed further and Muhammad listed himself, he was told "you are asking me about nobility" — implying Joseph's family chain is unmatched for concentrated prophetic lineage.
+
+### Patience as Paradigm
+
+The Prophet himself measured his own capacity for patient endurance against Joseph's standard: "If I were to stay in prison (for a period equal to) the stay of Joseph (prison) and then the offer of freedom came to me, then I would have accepted it" (4:55:601, Abu Huraira — said in context of praising Lot). This elevates Joseph as the primary Islamic exemplar of patience in unjust suffering.
+
+### Drought and Famine Association
+
+The Prophet invoked Joseph's era as a paradigm of divine punishment through famine: "O Allah! Let them suffer from years (of drought) similar to that inflicted during the life-time of Joseph" (4:55:600, Abu Huraira — praying against the Mudar tribe). The seven-year famine of Genesis is here absorbed into Islamic prophetic memory as a template for divine chastisement.
+
+### Aisha Compared to Joseph's Female Companions
+
+The Prophet compared Aisha (and women who insist on their viewpoint despite evidence) to "the female companions of Joseph" (4:55:598–599, Abu Huraira) — a pointed reference to Zulaikha's household.
+
 ## Cross-Links
 
 - [[tsaddiq|Tsaddiq (the Righteous One, Foundation of the World)]] — the concept Joseph embodies
@@ -81,3 +105,5 @@ Joseph is the bridge from the patriarchal age to the national story: his descent
 - [[sitra-ahra|Sitra Aḥra]] — Er and Onan as the negative pole of Yesod (wasted seed)
 - [[judah|Judah]] — his brother; the other messianic line
 - [[genesis|Genesis]] — the source narrative
+- [[sahih-al-bukhari|Sahih al-Bukhari]] — Islamic reception (Book 55, Vol. 4)
+- [[abraham|Abraham]] — al-Khalil; Joseph's great-grandfather in the prophetic chain

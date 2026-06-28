@@ -56,7 +56,7 @@ Jesus is the hinge of salvation history—the fulfillment of Israel's story (Mat
 *person*, his account is the classic scholastic statement of the [[hypostatic-union|hypostatic
 union]] — one divine Person subsisting in two complete natures — with its corollaries: the
 [[communicatio-idiomatum|communicatio idiomatum]], Christ's two wills and two operations
-(dyothelitism, against [[monothelitism]]), His threefold human knowledge (beatific, infused,
+(dyothelitism, against monothelitism), His threefold human knowledge (beatific, infused,
 acquired), His being at once *viator* and *comprehensor*, and His sinlessness yet real passibility
 (He assumed hunger, pain, sorrow, fear, but not the *fomes* of sin or ignorance). See
 [[incarnation]]. On Christ's *work*, Aquinas treats the [[priesthood-of-christ|priesthood]]
@@ -76,6 +76,46 @@ session at the Father's right hand; and His universal judiciary power. On the **
 death** (Q47) Aquinas grades culpability — the Jewish rulers' "affected ignorance" as gravest, the
 common people partly excused, the Gentile soldiers most excused; see
 [[guilt-for-christs-death|the controversy]].
+
+## Islamic Reception (Bukhari Evidence)
+
+*Source: Sahih al-Bukhari, Vol. 4, Book 55 (Prophets), Nos. 596–658. M. Muhsin Khan trans.*
+
+### Islamic Theological Formula
+
+The definitive Islamic statement on Jesus appears at 4:55:644 (narrated Ubada): "If a person testifies that None has the right to be worshipped but Allah Alone Who has no partners, and that Muhammad is His Slave and His Apostle, and that **Jesus is Allah's Slave and His Apostle and His Word which He bestowed on Mary and a Spirit created by Him**, and that Paradise is true, and Hell is true, Allah will admit him into Paradise." This formula — slave (*abd*), apostle (*rasul*), word (*kalimatuh*), and spirit (*ruh*) — is the Bukhari collection's clearest articulation of the Islamic position on Jesus's nature. The Prophet explicitly disavows the Christian elevation: "Do not exaggerate in praising me as the Christians praised the son of Mary, for I am only a Slave" (4:55:654, Umar).
+
+### Physical Descriptions (with Internal Contradiction)
+
+Four hadith chains describe Jesus, primarily from Muhammad's Mi'raj visions:
+- "Jesus who was of average height with red face as if he had just come out of a bathroom." (4:55:607, Abu Huraira)
+- "Jesus was a curly-haired man of moderate height." (4:55:608, Ibn Abbas)
+- "I saw Jesus. He was one of moderate height and was red-faced as if he had just come out of a bathroom." (4:55:647, Abu Huraira)
+- "Jesus was of red complexion, curly hair and a broad chest." (4:55:648, Ibn Umar)
+
+**Internal contradiction explicitly noted in the text (4:55:649–650):** A dream vision at the Ka'ba describes a man "of brown complexion and lank hair walking between two men, and water was dropping from his head." In 4:55:650, narrated by Salim from his father (Ibn Umar — the same narrator as 4:55:648), the "red complexion" description is explicitly corrected: "No, By Allah, the Prophet did not tell that Jesus was of red complexion but said [brown complexion and lank hair]." In this corrective account the red-complexioned figure is the **Dajjal**, not Jesus. The two figures — Jesus and the Antichrist — are thus set in deliberate visual contrast: Jesus brownish with lank hair; the Dajjal red/curly and one-eyed. See [[qiraat-variant-readings]] for how Bukhari preserves intra-Companion contradictions without adjudication.
+
+### Muhammad and Jesus: The Nearest Prophet
+
+"I am the nearest of all the people to the son of Mary, and all the prophets are paternal brothers, and there has been no prophet between me and him" (4:55:651, Abu Huraira). "Both in this world and in the Hereafter, I am the nearest of all the people to Jesus, the son of Mary. The prophets are paternal brothers; their mothers are different, but their religion is one" (4:55:652, Abu Huraira). The intimacy functions within the Islamic prophetological schema: Jesus's proximity to Muhammad is inversely proportional to his distance from the Christian portrait.
+
+### The End-Times Role
+
+"By Him in Whose Hands my soul is, surely (Jesus,) the son of Mary will soon descend amongst you and will judge mankind justly (as a Just Ruler); he will break the Cross and kill the pigs and there will be no Jizya (i.e. taxation taken from non Muslims). Money will be in abundance so that nobody will accept it, and a single prostration to Allah (in prayer) will be better than the whole world and whatever is in it." (4:55:657, Abu Huraira; with Q 4:159 cited). A second hadith adds: "How will you be when the son of Mary descends amongst you and he will judge people by the Law of the Quran and not by the law of Gospel" (4:55:658, Abu Huraira). Breaking the Cross = abolition of the symbol of Christian theology; killing pigs = abolition of a Christian food permission; judgment by the Quran = confirmation that the Quran, not the Gospel, is the final criterion.
+
+### Other Significant Hadiths
+
+- **Encountered in the Mi'raj** (second heaven): "When we reached over the second heaven, I saw Yahya (i.e. John) and Jesus who were cousins." Gabriel introduced them; both returned the greeting: "Welcome, O Pious Brother and Pious Prophet!" (4:55:640, Malik bin Sasaa)
+- **Mary and Jesus exempted from Satan's touch**: "There is none born among the off-spring of Adam, but Satan touches it. A child therefore, cries loudly at the time of birth because of the touch of Satan, except Mary and her child." Cited with Q 3:36 (4:55:641, via Abu Huraira)
+- **Jesus speaks in cradle**: "None spoke in cradle but three: (The first was) Jesus…" (4:55:645, Abu Huraira) — the first named among three; the others are Juraij and an unnamed child
+- **Double reward for former followers**: "If a man believes in Jesus and then believes in me, he will get a double reward." (4:55:655, Abu Musa)
+- **Jesus's moral integrity**: "Jesus, seeing a man stealing, asked him, 'Did you steal?' He said, 'No, by Allah…' Jesus said, 'I believe in Allah and suspect my eyes.'" (4:55:653, Abu Huraira — Jesus defers to the oath over his own perception)
+- **Intercession posture**: The Prophet invokes Jesus's words ("If You punish them, they are Your slaves, and if you forgive them, You, only You are the All-Mighty the All-Wise," Q 5:117–118) as the parallel of his own future posture toward his strayed community. (4:55:656, Ibn Abbas)
+
+### Mary's Rank
+
+- "Mary, the daughter of Imran, was the best among the women (of the world of her time) and Khadija is the best amongst the women (of this nation)." (4:55:642, Ali)
+- "Many amongst men reached (the level of) perfection but none amongst the women reached this level except Asia, Pharaoh's wife, and Mary, the daughter of Imran." (4:55:643, Abu Musa)
 
 **Key Links**:
 - [[matthew|Gospel of Matthew]], [[mark|Gospel of Mark]], [[luke|Gospel of Luke]], [[gospel-of-john|Gospel of John]], [[acts|Acts of the Apostles]]

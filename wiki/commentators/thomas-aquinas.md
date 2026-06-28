@@ -88,11 +88,20 @@ sacramental theology.
 
 ## Sources Ingested
 
-- **[[summa-theologica|Summa Theologiae]], Prima Pars (Part I), Prima Secundae (Part I-II), and
-  Secunda Secundae (Part II-II)** — all ingested in full; see the text page's Coverage Ledger. The
-  II-II is Aquinas's detailed moral theology, treating each virtue in particular: the
-  [[theological-virtues|theological]] and [[cardinal-virtues|cardinal virtues]],
-  [[charity-aquinas|charity]], [[religion-virtue|religion]], [[just-war|just war]],
-  [[usury-and-just-price|economic ethics]], [[lying]], [[humility-and-pride|humility & pride]],
-  the [[contemplative-and-active-life|two lives]], and the [[states-of-life|states of life]]. The
-  Tertia Pars + Supplement (Part 4 file) remains a separate ingest.
+- **[[summa-theologica|Summa Theologiae]] — the entire work, all four Parts, ingested in full**; see
+  the text page's Coverage Ledger.
+  - **Prima Pars (Part I)** — God, Trinity, creation, angels, man.
+  - **Prima Secundae (Part I-II)** — beatitude, human acts, passions, habits, law, grace.
+  - **Secunda Secundae (Part II-II)** — Aquinas's detailed moral theology, each virtue in particular:
+    the [[theological-virtues|theological]] and [[cardinal-virtues|cardinal virtues]],
+    [[charity-aquinas|charity]], [[religion-virtue|religion]], [[just-war|just war]],
+    [[usury-and-just-price|economic ethics]], [[lying]], [[humility-and-pride|humility & pride]],
+    the [[contemplative-and-active-life|two lives]], and the [[states-of-life|states of life]].
+  - **Tertia Pars (Part III) + Supplement** — Christ and the last things: the
+    [[incarnation|Incarnation]] and [[hypostatic-union|hypostatic union]],
+    [[communicatio-idiomatum|communicatio idiomatum]], the [[priesthood-of-christ|priesthood]] and
+    [[christ-as-mediator|mediation]] of Christ, the [[atonement]]; the seven [[sacraments]] —
+    [[baptism]], the [[transubstantiation|Eucharist]], [[sacrament-of-penance|penance]] and
+    [[indulgences]], [[extreme-unction]], [[holy-orders]], [[matrimony]]; and the last things —
+    [[bodily-resurrection|resurrection]], [[purgatory]], [[limbo]], and [[hell]]. The Supplement was
+    compiled posthumously by Fra Rainaldo da Piperno from Aquinas's *Scriptum* on the Sentences.

@@ -38,21 +38,21 @@ and man" (Q1 A2) — only the God-man can satisfy.
 
 ## The mode of union (TP Q2–Q6): the [[hypostatic-union]]
 
-The union is **not in the nature** (against [[monophysitism]] / Eutyches and Dioscorus, who held
+The union is **not in the nature** (against monophysitism / Eutyches and Dioscorus, who held
 "one incarnate nature" resulting from two) but **in the Person** — the one *hypostasis* or
 *suppositum* of the Word (Q2 A1–A3). Aquinas deploys the distinction between **nature** (the
 *quid est*) and **suppositum/person** (the subsisting *who*): in composite beings the two really
 differ; the human nature of Christ is real and complete but subsists in the divine Person rather
 than in a created human person. "The hand of Socrates is not a person, because it does not exist
 by itself"; just so the assumed humanity, existing in something nobler, is no second person
-(Q2 A2). Against **[[nestorianism|Nestorius]]** and Theodore of Mopsuestia (who made the union one
+(Q2 A2). Against **Nestorius** and Theodore of Mopsuestia (who made the union one
 of indwelling, dignity, or "equivocation" — an *accidental* union of two persons), Aquinas insists
 on a single subsisting *who*, citing Ephesus's anathemas. The Person of Christ is therefore
 "composite" only "by reason of number" — one being subsisting in two natures (Q2 A4). Full
 treatment: [[hypostatic-union]].
 
 He affirms the **complete humanity**: a true earthly body (against Docetism — Manes, Valentine),
-a rational **soul** and a human **mind/intellect** (against [[apollinarianism|Apollinaris]] and
+a rational **soul** and a human **mind/intellect** (against Apollinaris and
 Arius, who denied Christ a human soul or mind), on the axiom "what was not assumed is not curable"
 (Damascene) (Q5). The order of assumption is logical, not temporal: the Word assumes flesh through
 the medium of the soul, and the parts through the whole, all simultaneously at conception (Q6).
@@ -92,7 +92,7 @@ the medium of the soul, and the parts through the whole, all simultaneously at c
   "Man is God" are both true — but not abstract-of-abstract ("the Godhead is the manhood" is false),
   and qualified statements ("Christ is a creature," "this Man began to be") must carry the rider
   *in His human nature* lest they collapse into Arianism. See [[communicatio-idiomatum]].
-- **Two wills and two operations** (Q18–Q19): against **[[monothelitism]]** (and Apollinaris,
+- **Two wills and two operations** (Q18–Q19): against **monothelitism** (and Apollinaris,
   Eutyches), Aquinas affirms **dyothelitism** — a divine and a human will in Christ — and two
   corresponding operations (dyoenergism), citing Constantinople III. The human will (and the
   sensitive appetite) genuinely shrank from death yet was without contrariety to the divine will:
@@ -141,7 +141,7 @@ nature/suppositum distinction.
 
 - [[hypostatic-union]] · [[communicatio-idiomatum]] · [[christ-as-mediator]] ·
   [[priesthood-of-christ]]
-- [[monophysitism]] · [[nestorianism]] · [[apollinarianism]] · [[monothelitism]] — the rejected
+- monophysitism · nestorianism · apollinarianism · monothelitism — the rejected
   Christologies
 - [[jesus]] · [[mary]] · [[melchizedek]] · [[atonement]] · [[original-sin]] · [[grace]] ·
   [[trinity]]

@@ -4,9 +4,43 @@ Append-only. Format: `## [YYYY-MM-DD] ingest | [Source Title]` or `## [YYYY-MM-D
 
 ---
 
+## 2026-06-27 ingest | Sahih al-Bukhari (M. Muhsin Khan trans.) — Pass 3: Vols. 7–9, Books 62–93
+
+Source type: primary hadith collection (Sunni Islam). **Scope: `raw/texts/islam/sahih-al-bukhari-vol7-9.txt`, lines 1–20,998 — read in full.** Scope covers Books 62–93: Marriage (62), Divorce (63), Family Support (64), Food (65), Aqiqa (66), Hunting (67), Sacrifice (68), Drinks (69), Patients (70), Medicine (71), Dress (72), Good Manners (73), Asking Permission (74), Invocations (75), Ar-Riqaq/Piety (76), Qadar/Divine Will (77), Oaths (78), Expiation (79), Inheritance (80), Hudood (81), Punishment of Disbelievers (82), Blood Money (83), Apostasy (84), Compulsion (85), Tricks (86), Dreams (87), Fitan/Afflictions (88), Judgments (89), Wishes (90), Single Narrators (91), Qur'an and Sunnah (92), Tawhid (93).
+
+**Method:** 7 Sonnet subagents deployed in parallel, reading disjoint line ranges (A: 1–3000, B: 3001–5800, C: 5801–8500, D: 8501–11000, E: 11001–14200, F: 14201–17200, G: 17201–20998). Main thread reconciled and wrote pages. Pending Pass 2 figure extensions (Agent C Vol. 4–6 notes) also filed this session.
+
+**Pages created (new):**
+- `wiki/concepts/nikah.md` — Islamic marriage law (Book 62); mahr, mut'a controversy, conditions for validity
+- `wiki/concepts/talaq.md` — Islamic divorce (Book 63); khul', ila', lian, tahlil requirement, 'idda
+- `wiki/concepts/fitan.md` — Eschatology and tribulations (Book 88); 11 signs of the Hour, Dajjal, Umar as "the door," absence of Mahdi from Bukhari
+- `wiki/figures/jesus.md` (extended) — Islamic reception section added (Book 55): physical descriptions with red/brown contradiction; end-times role; theological formula; Mary's rank; cradle speech
+
+**Pages extended (modified):**
+- `wiki/figures/moses.md` — Islamic reception section: Khadir narrative, Angel of Death, stone miracle, Adam-Moses debate, 'Ashura fast
+- `wiki/figures/adam.md` — Islamic Bukhari section: 60-cubit height, Eve-betrayal hadith, Adam-Moses predestination debate
+- `wiki/figures/abraham.md` — Islamic Bukhari section: resemblance to Muhammad, al-Khalil, first dressed at resurrection
+- `wiki/figures/joseph.md` — Islamic Bukhari section: lineage honor chain, patience paradigm, drought association
+- `wiki/concepts/tawhid.md` — Book 93 section: 99 names, anthropomorphic attributes (Hand/Shin/Foot/Laughter), ru'yat Allah, Allah as al-Dahr, shirk, final hadith
+- `wiki/concepts/shafaa.md` — Bukhari Book 76 section: intercession chain with Noah inserted; waliyy hadith; Lake-Fount apostasy warning; Umar's rajm-verse hadith
+- `wiki/texts/sahih-al-bukhari.md` — coverage ledger updated (Vols. 7–9 read in full); Vol. 7–9 key themes section added; Pass 3 marked complete in scope plan
+- `wiki/index.md` — nikah, talaq, fitan added; shafaa and tawhid entries updated
+
+**Source filing:** `raw/texts/islam/sahih-al-bukhari-vol7-9.txt` is the final volume of the 3-pass ingest. All passes complete. All three source files may now be moved:
+- `raw/texts/islam/sahih-al-bukhari-vol1-3.txt` → `raw/texts/islam/`
+- `raw/texts/islam/sahih-al-bukhari-vol4-6.txt` → `raw/texts/islam/`
+- `raw/texts/islam/sahih-al-bukhari-vol7-9.txt` → `raw/texts/islam/`
+
+**Contradictions flagged:**
+- Jesus's complexion (red vs. brown): intra-Companion contradiction in 4:55:647–650; the red-complexioned figure in the corrective hadith is the Dajjal, not Jesus
+- Isbal (garment below ankle): No. 678 condemns unconditionally; Nos. 679/683 tie condemnation to arrogance only — the Abu Bakr exception supports the conditional reading
+- Mut'a: Ali's Khaybar abrogation vs. Ibn Abbas's minority permissive view — the Sunni/Shia split point
+- Umar's rajm-verse hadith (Book 82, No. 817): a Caliph attests a Quranic verse is missing from the written mushaf
+- Divorced woman's residence: Aisha vs. Fatima bint Qais (Book 63)
+
 ## 2026-06-27 ingest | Sahih al-Bukhari (M. Muhsin Khan trans.) — Pass 2: Vols. 4–6, Books 51–61
 
-Source type: primary hadith collection (Sunni Islam). **Scope: `raw/sahih-al-bukhari-vol4-6.txt`, lines 1–23,246 — read in full.** Scope covers Books 51–61: Wills (51), Jihad (52), Khums (53), Beginning of Creation / Angels (54), Prophets (55), Virtues of Muhammad (56), Companions (57), Ansar (58), Military Expeditions / Maghazi (59), Tafsir (60), Virtues of the Quran (61).
+Source type: primary hadith collection (Sunni Islam). **Scope: `raw/texts/islam/sahih-al-bukhari-vol4-6.txt`, lines 1–23,246 — read in full.** Scope covers Books 51–61: Wills (51), Jihad (52), Khums (53), Beginning of Creation / Angels (54), Prophets (55), Virtues of Muhammad (56), Companions (57), Ansar (58), Military Expeditions / Maghazi (59), Tafsir (60), Virtues of the Quran (61).
 
 **Method:** 8 Sonnet subagents deployed in parallel, reading disjoint line ranges. Main thread reconciled outputs and wrote pages.
 
@@ -3721,3 +3755,10 @@ Method: Main-thread scaffold (11 new pages) + 6 parallel Sonnet subagents by lin
 - `wiki/concepts/iman.md` — added Bukhari Book 2 (Jibril hadith, sweetness of faith, eschatological grounding)
 - `wiki/concepts/five-pillars.md` — added comprehensive Bukhari documentation: Salat times/Adhan/characteristics, Zakat thresholds/distribution, Hajj structure/Farewell Pilgrimage, Sawm theology
 - `wiki/figures/muhammad.md` — added funerary practice and death-related teaching from Book 23
+
+## [2026-06-27] ingest | Summa Theologica — Tertia Pars (Part III) + Supplement (Part 4 file)
+Scope: the entire Tertia Pars (TP Q1–90) and the Supplement (XP Q1–99 + Appendices), partitioned into 8 scopes (raw lines 1–58630) — **read in full**. Deployed-subagent strategy: 17 Sonnet extraction agents (9 for the Tertia Pars released first, then 8 for the Supplement), all background, none rate-limited; main thread did all scaffolding, reconciliation, and filing. Linting/index/ledger deferred to the end per the established pattern.
+
+Scopes (all read in full): 1. Incarnation — the union (TP Q1–26); 2. Mysteries of Christ's life (TP Q27–59); 3. Sacraments in general + Baptism + Confirmation (TP Q60–72); 4. Eucharist + Penance/TP (TP Q73–90); 5. Suppl. Penance — contrition/confession/satisfaction/keys/indulgences (XP Q1–28); 6. Suppl. Extreme Unction + Holy Orders (XP Q29–40); 7. Suppl. Matrimony (XP Q41–68); 8. Suppl. Last Things + Appendices (XP Q69–99 + App.).
+
+Pages created: incarnation, hypostatic-union, communicatio-idiomatum, priesthood-of-christ, christ-as-mediator, atonement, sacraments, baptism, transubstantiation, sacrament-of-penance, indulgences, holy-orders, extreme-unction, matrimony, hell, limbo (concepts); guilt-for-christs-death, ransom-to-whom (controversies). Extended: jesus, mary (figures); purgatory, bodily-resurrection (concepts); thomas-aquinas (commentator); summa-theologica (text — Part 4 ledger, all 8 scopes "read in full"). **The entire Summa Theologica is now ingested in full (all four Parts).** Recorded contradiction: Aquinas denies the Immaculate Conception in its later-defined (1854) form. Raw file relocated to raw/texts/.

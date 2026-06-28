@@ -2,7 +2,7 @@
 title: Predestination, Providence, and Foreknowledge (Aquinas)
 domain: theology
 traditions_using: [Christianity]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [concept, christianity, scholasticism, grace, aquinas]
 ---
@@ -57,6 +57,36 @@ predestination** (Q23, A4).
 - **Prayer and predestination** (Q23, A8): the prayers of the saints and other secondary causes
   *further the effect* of predestination, since God ordains the end together with the means; prayer
   does not change God's eternal plan but is one of the ordained causes within it.
+
+## Calvin and double predestination (Reformed development)
+
+[[john-calvin|Calvin]]'s account (as reported in [[gordon-calvins-institutes-a-biography|Gordon's
+biography of the *Institutes*]]) emerges with clarity in the 1539 edition of the
+[[institutes-of-the-christian-religion|*Institutes*]] and is treated in Book 3. Calvin held that he
+was saying "nothing new" — that predestination "simply flowed from Romans, Augustine, Thomas Aquinas,
+and Luther." His controversial step was **double predestination**: from before creation God ordained
+both the **elect to life** *and* the **reprobate to death**, "entirely apart from any reckoning of
+human merit" — "by his just and irreprehensible but incomprehensible judgment he has barred the door
+to those whom he has given over to damnation."
+
+Key features distinguishing it from the Thomist account above:
+
+- **Symmetry of the decree.** Where Aquinas frames reprobation as God's *permission* of a
+  self-originated defect, Calvin states the reprobating decree more directly and symmetrically, which
+  is precisely what separated him from his friends **Melanchthon and Bullinger**, who accepted election
+  but rejected the reprobation half.
+- **Pastoral function.** Gordon insists predestination is **not** the "cornerstone" of the *Institutes*
+  (a later caricature) but a doctrine of **assurance**: by removing all human merit it places salvation
+  wholly "in the hands of God," offering comfort and explaining the problem of evil by placing God's
+  wisdom beyond human grasp.
+- **God not the author of sin.** Against the charge that the decree makes God the author of evil,
+  Calvin appealed to the **divine will as "the highest rule of righteousness"**: "whatever he wills, by
+  the fact that he wills it, must be considered righteous… When one asks why God has so done, we must
+  reply: because he has willed it."
+
+The doctrine was "received with widespread repugnance, even among his friends," hated by Catholics and
+most Lutherans, and was later systematised (well beyond Calvin's own emphasis) at the Synod of Dort.
+See [[calvinism|Calvinism]].
 
 ## Reception and controversy
 
