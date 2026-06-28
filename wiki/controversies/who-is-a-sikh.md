@@ -4,7 +4,7 @@ text_locus: The definition of "Sikh"; the historicity of the Five Ks and the 169
 positions: [Tat Khalsa / normative-Sikh historiography, McLeod / historical-critical scholarship, Sanatan Sikh / "Sikhism as part of the Hindu tradition", Sahaj-dhari inclusivism]
 traditions_involved: [Sikhism, Hinduism]
 resolution_status: open
-last_updated: 2026-06-27
+last_updated: 2026-06-28
 tags: [controversy, sikhism, identity, historiography]
 ---
 
@@ -50,7 +50,22 @@ positions are recorded here **without adjudication**; he is himself a party, and
    liturgical equality) against the lived reality of [[jats|Jat]] endogamy, land inheritance, and
    male-dominated institutions (see [[sikhs|Sikhs]]).
 
+## The Singh Sabha and the Communal Boundary (Khushwant Singh, Vol. 2)
+
+Khushwant Singh's *A History of the Sikhs* Vol. 2 adds a historical dimension to the identity question:
+the modern boundary between "Sikh" and "Hindu" was, in his account, forged **reactively** by the
+[[singh-sabha|Singh Sabha]] in response to the Arya Samaj's absorptionist claim. "The more the Samajists
+claimed Sikhism to be a branch of Hinduism, the more the Sikhs insisted that they were a distinct and
+separate community" — crystallized in **Kahan Singh Nabha's *Ham Hindu Nahin Hain*** ("We are not
+Hindus"). Singh frames this not as a purely internal theological development but as an existential
+defence against post-[[annexation-of-the-punjab|annexation]] demographic reabsorption. The boundary was
+then legally codified: the **Sikh Gurdwaras Act 1925** defined a Sikh as one who believes in the ten
+Gurus and the Granth and "is not a *patit* [apostate]" — a definition Singh notes was "particularly
+odious to the Hindu members" of the legislature precisely because it drew a hard line against Hinduism.
+See [[singh-sabha|Singh Sabha]] and [[akali-movement|the Akali movement]].
+
 ## Related
 
 [[guru-nanak|Guru Nanak]] · [[khalsa|Khalsa]] · [[sant-tradition|Sant tradition]] · [[five-ks|Five
-Ks]] · [[dasam-granth|Dasam Granth]] · [[sikhs|Sikhs]] · [[sikhism|Sikhism]]
+Ks]] · [[dasam-granth|Dasam Granth]] · [[sikhs|Sikhs]] · [[sikhism|Sikhism]] ·
+[[singh-sabha|Singh Sabha]] · [[akali-movement|Akali movement]]

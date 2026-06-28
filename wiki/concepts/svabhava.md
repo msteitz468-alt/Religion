@@ -3,8 +3,8 @@ title: Svabhāva (Intrinsic Nature)
 also_known_as: [own-being, inherent existence, self-nature; contrast parabhāva (extrinsic nature)]
 domain: doctrine / metaphysics
 traditions_using: [Buddhism]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [concept, buddhism, mahayana, madhyamaka, metaphysics]
 ---
 
@@ -40,6 +40,21 @@ Abhidharma definition — *if* anything were ultimately real it would have *svab
 
 So the dharmas go the way of the chariot: conceptual fictions, empty of *svabhāva*. And **emptiness
 itself is empty** — it is not a new *svabhāva*-bearing ultimate, but a "dependent concept."
+
+## Tsong-kha-pa's Precise Definition (Lamrim Chenmo Vol. III)
+
+[[tsongkhapa|Tsong-kha-pa]] makes the exact identification of *svabhāva* the hinge of his whole
+treatment of emptiness (see [[object-of-negation|the object of negation]]). His definition: a thing's
+existing **"by way of its own intrinsic character"** — an "objective ontological status in and of
+itself, **without being posited through the force of an awareness**." Citing
+[[candrakirti|Candrakīrti]]'s *Catuḥśataka* commentary, he treats *intrinsic*, *essential*,
+*autonomous*, and *"not depending on another"* as synonyms — but warns that "not depending on
+another" means *not posited by a conventional consciousness*, **not** "not depending on causes and
+conditions" (a too-coarse object that even non-Madhyamaka Buddhists already reject). The referent of
+this *svabhāva* is precisely what **innate** ignorance superimposes; its absence in persons is the
+selflessness of persons, in phenomena the selflessness of phenomena. The
+[[svatantrika-prasangika-distinction|Svātantrika/Prāsaṅgika divide]] is over whether anything has
+such intrinsic character *even conventionally* — denied by the Prāsaṅgika.
 
 ## Cross-Tradition Note
 

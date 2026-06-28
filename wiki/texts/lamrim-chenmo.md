@@ -11,7 +11,7 @@ canon_scope:
 language_original: Tibetan (Classical)
 date_range: 1402 CE (composed at Reting/Radreng monastery)
 sources_ingested: 1
-last_updated: 2026-06-27
+last_updated: 2026-06-28
 tags: [text, buddhism, mahayana, vajrayana, gelug, lamrim, treatise]
 ---
 
@@ -23,11 +23,14 @@ tags: [text, buddhism, mahayana, vajrayana, gelug, lamrim, treatise]
 > structuring the whole Mahayana path as a graded sequence (*lam rim*) for practitioners of three
 > capacities.
 
-**Ingested:** Volume Two of the three-volume Lamrim Chenmo Translation Committee edition (Snow Lion,
-2004), covering the **path of the person of great capacity** — the generation of
-[[bodhicitta|bodhicitta]] and training in the **[[six-perfections|six perfections]]**. (Volume One:
-small- and medium-capacity stages; Volume Three: the perfections of meditative stabilization
-(śamatha) and wisdom (vipaśyanā) — not yet ingested.)
+**Ingested:** All three volumes of the Lamrim Chenmo Translation Committee edition (Snow Lion,
+2000/2002/2004). **Volume One**: the foundation plus the small- and medium-capacity stages.
+**Volume Two**: the **path of the person of great capacity** — the generation of
+[[bodhicitta|bodhicitta]] and training in the **[[six-perfections|six perfections]]**. **Volume
+Three**: the last two perfections — **meditative serenity** ([[samatha-vipassana|śamatha]]) and
+**insight** ([[samatha-vipassana|vipaśyanā]]) — the latter being Tsong-kha-pa's great
+**[[madhyamaka|Madhyamaka]]** treatise on **[[sunyata|emptiness]]** in its
+[[svatantrika-prasangika-distinction|Prāsaṅgika]] form.
 
 ## The Lamrim Genre and Lineage
 
@@ -61,6 +64,30 @@ The "great capacity" portion of the path. Chapter contents:
 13. The Perfection of Joyous Perseverance
 14. The Perfections of Meditative Stabilization and Wisdom (overview)
 15. Helping Others to Mature: The Four Ways to Gather Disciples
+
+## Structure of Volume Three
+
+The meditation and wisdom portion — the *śamatha* (serenity) and *vipaśyanā* (insight) sections
+deferred at the end of Volume Two. Published first (Snow Lion, 2002) "because there is a great
+interest in its subject matter." Two parts:
+
+**Part One — Meditative Serenity (*śamatha*, *zhi gnas*):**
+1. Serenity and Insight (their nature, why both are needed, why in that order)
+2. Preparing for Meditative Serenity (prerequisites, posture)
+3. Focusing Your Mind (the object, the nine mental abidings, the eight applications/five faults)
+4. Dealing with Laxity and Excitement (*bying ba* / *rgod pa*; mindfulness and introspection)
+5. Attaining Serenity (the marks of accomplishment; mental and physical pliancy)
+6. Serenity as Part of the Path (mundane vs. supramundane paths; serenity alone is insufficient)
+
+**Part Two — Insight (*vipaśyanā*, *lhag mthong*) — the great Madhyamaka treatise:**
+7. Why Insight Is Needed · 8. Relying on Definitive Sources (*neyārtha*/*nītārtha*) · 9. The
+Stages of Entry into Reality · 10. Misidentifying the Object to Be Negated · 11. Dependent-Arising
+and Emptiness · 12. Rational Analysis · 13. Valid Establishment · 14. Conventional Existence ·
+15. Production Is Not Refuted · 16. Not Negating Enough · 17. The Actual Object to Be Negated ·
+18–21. The Svātantrika/Prāsaṅgika Distinction (misinterpretations, refutation, Tsong-kha-pa's own
+interpretation, and that his critique does not damage his own arguments) · 22. Analyzing a Chariot ·
+23. The Person Lacks Intrinsic Nature · 24. Objects Lack Intrinsic Nature · 25. Insight Requires
+Analysis · 26. Uniting Insight and Serenity · 27. Summary and Conclusion.
 
 ## Structure of Volume One
 
@@ -138,6 +165,51 @@ of arguments against anger), joyous perseverance ("delight in virtue," its four 
 **overview** of meditative stabilization and wisdom (the full treatment deferred to Volume Three).
 The volume closes with the **four ways to gather disciples** (saṃgrahavastu).
 
+## Major Themes (Volume Three)
+
+**Serenity and insight must be united, and insight requires analysis.** The two are distinguished
+not by their objects but by their mode — serenity (*zhi gnas*) is non-analytical one-pointed
+stabilization; insight (*lhag mthong*) is "analysis with discerning wisdom." Both knowing-emptiness
+serenity and not-knowing-emptiness insight are possible: "there is meditative serenity that knows
+emptiness and there is insight which does not know emptiness." Serenity must be developed first
+because discerning analysis becomes *actual* insight only once it can itself generate **pliancy**
+(*śin sbyangs*); fixing on a single object (even emptiness) yields only serenity. The whole volume
+is framed against the position Tsong-kha-pa assigns to the Chinese **[[heshang-moheyan|Hva-shang]]**
+(see [[samye-debate|the Samyé debate]]): that since all conceptuality binds, thoughtless absorption
+is the path. His countering thesis — that genuine *vipaśyanā* is produced by active discerning
+analysis (*vicāra*), not by stopping thought — recurs from the serenity section to the conclusion.
+
+**Serenity alone cannot liberate.** Concentration is shared with non-Buddhists; it suppresses
+manifest afflictions (the mundane "calmness/coarseness" path, up to the Peak of Cyclic Existence)
+but cannot uproot their seeds. Only the wisdom realizing the **two selflessnesses** (of persons and
+of phenomena) severs the root of *saṃsāra*. He sorts authoritative sources by the
+[[neyartha-nitartha|definitive/provisional]] (*nītārtha*/*neyārtha*) criterion — texts teaching the
+ultimate are definitive — and declares his allegiance: he follows **[[buddhapalita|Buddhapālita]]**
+and **[[candrakirti|Candrakīrti]]** in determining the intent of **[[nagarjuna|Nāgārjuna]]**, i.e.
+the [[svatantrika-prasangika-distinction|Prāsaṅgika]] reading.
+
+**Emptiness is dependent-arising; the [[object-of-negation|object of negation]] must be precisely
+identified.** The signature contribution: before negating, one must know exactly what emptiness
+denies — *intrinsic existence* (*svabhāva*), defined as a thing's "existing by way of its own
+character, not posited through the force of an awareness." **Over-negation** (negating mere
+existence and cause-and-effect) falls into nihilism; **under-negation** (refuting only a coarse
+constructed self) leaves innate ignorance untouched. The "distinguishing feature of Madhyamaka" is
+"the admissibility of all the teachings about cyclic existence and nirvana… in the absence of even a
+particle of intrinsic nature." Reason's failure to *find* a thing under ultimate analysis does not
+*refute* it; the three criteria for **[[two-truths|conventional existence]]** keep the conventional
+world intact.
+
+**The Prāsaṅgika method and the delineation of selflessness.** Chapters 18–21 give Tsong-kha-pa's
+influential reading of the [[svatantrika-prasangika-distinction|Svātantrika/Prāsaṅgika split]]: the
+Svātantrikas ([[bhavaviveka|Bhāvaviveka]]) accept that things exist "by way of their own character"
+conventionally and so may use autonomous (*svatantra*) syllogisms; the Prāsaṅgikas refute intrinsic
+character even conventionally and argue only by consequence (*prasaṅga*). The selflessness of the
+**person** is delineated by Candrakīrti's **sevenfold chariot analysis** (ch. 22) and the
+same/different reasoning (ch. 23); the selflessness of **phenomena** by refuting the four kinds of
+production (ch. 24). Insight and serenity are finally united (*yuganaddha*) when analysis itself
+induces pliancy (ch. 26). The work closes (ch. 27) with a recap of the whole three-capacities path
+and a turn toward the Vajrayāna, dedicated to **Mañjughoṣa** and composed at Reting.
+
 ## Canon and Reception
 
 The *Lamrim Chenmo* is not scripture (*buddhavacana*) but an **authoritative treatise** (*śāstra*):
@@ -150,6 +222,12 @@ neutrality — and stages the **Hva-shang controversy** as settled doctrine (see
 
 ## Coverage Ledger
 
+- **Scope: Volume Three** (the last two perfections: meditative serenity (*śamatha*) and insight
+  (*vipaśyanā*) / Madhyamaka) — **read in full** (deployed-subagent ingest 2026-06-28). Body read:
+  Part One (serenity) chs. 1–6 and Part Two (insight) chs. 7–27, plus the Dedication and Colophon
+  (book pp. 13–371). Excluded: Appendix 1 (Outline/*sa bcad*), Appendix 2 (Glossary), Appendix 3
+  (Tibetan emendations), Notes, Bibliography, Index — apparatus, consulted for reference only.
+  Source: `raw/texts/Tsong-Kha-Pa_The Great Treatise on the Stages of the Path to Enlightenment Vol 3 (Unknown) (z-library.sk, 1lib.sk, z-lib.sk).txt`
 - **Scope: Volume Two** (great-capacity path: bodhicitta + perfections) — **read in full**
   (deployed-subagent ingest 2026-06-27). Body read: chapters 1–15 (book pp. 13–231). Excluded:
   Appendix 1 (Outline/sa bcad), Appendix 2 (Glossary), Appendix 3 (Tibetan emendations), Notes,

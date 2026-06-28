@@ -6,7 +6,7 @@ tradition: [Buddhism (Mahayana / Vajrayana)]
 affiliation: [Gelug (founder); Kadam lineage; Madhyamaka-Prasangika]
 primary_texts_commented: [lamrim-chenmo, Mahayana sutras and shastras, Madhyamaka, Vinaya, tantra]
 sources_ingested: 1
-last_updated: 2026-06-27
+last_updated: 2026-06-28
 tags: [commentator, buddhism, mahayana, vajrayana, gelug, madhyamaka]
 ---
 
@@ -32,6 +32,40 @@ holding that the valid cognition of the ultimate (emptiness) and conventional ce
 dependent-arising "aid each other," and treats the **six perfections** as common to both the
 perfection (sūtra) and mantra (tantra) vehicles.
 
+## Madhyamaka Method and the Object of Negation
+
+Volume Three of the [[lamrim-chenmo|Lamrim Chenmo]] is Tsong-kha-pa's great statement of the
+**[[svatantrika-prasangika-distinction|Prāsaṅgika]]-[[madhyamaka|Madhyamaka]]** view, and the source
+of several positions that became defining for the [[gelug|Gelug]] school:
+
+- **Precisely identify the [[object-of-negation|object of negation]].** Emptiness denies a definite
+  target — *intrinsic existence* (*svabhāva*), "existence by way of a thing's own character, not
+  posited through the force of an awareness" — and one must neither **over-negate** (sliding into
+  nihilism by denying mere existence and cause-and-effect) nor **under-negate** (refuting only a
+  coarse constructed self while leaving innate ignorance untouched). The fundamental object of
+  negation is the referent of *innate*, not merely acquired, ignorance.
+- **Emptiness *is* dependent-arising.** Far from destroying cause-and-effect, emptiness of intrinsic
+  existence is what makes the dependently arisen world possible; "the admissibility of all the
+  teachings about cyclic existence and nirvana… in the absence of even a particle of intrinsic
+  nature" is "the distinguishing feature of Madhyamaka." He repeatedly attacks "Tibetans who claim
+  to be Madhyamikas" who think anti-*svabhāva* arguments also refute conventional existence —
+  likening them to nihilists (Lokāyata).
+- **"Not found under analysis" ≠ "refuted by reason."** Ultimate analysis seeks intrinsic nature and
+  does not find it; this refutes intrinsic existence, not mere existence. He defends conventional
+  reality with three criteria (known to a conventional consciousness; uncontradicted by another
+  conventional valid cognition; uncontradicted by reason analyzing reality) — see [[two-truths|the
+  two truths]].
+- **The Svātantrika/Prāsaṅgika split.** His widely cited reading: the divide is whether things have
+  intrinsic *character* (*svalakṣaṇa*) even conventionally — accepted by Svātantrikas
+  ([[bhavaviveka|Bhāvaviveka]]), who therefore use autonomous (*svatantra*) syllogisms, and denied by
+  Prāsaṅgikas ([[buddhapalita|Buddhapālita]], [[candrakirti|Candrakīrti]]), who argue only by
+  consequence (*prasaṅga*) — *not*, as others held, whether one adds the qualifier "ultimately."
+- **Insight requires analysis** (his anti-quietist signature). Genuine *vipaśyanā* is produced by
+  active discerning analysis, not by stopping thought; the contrast is the distinction between *not
+  thinking of* true existence and *knowing the absence of* true existence. Only the latter is the
+  antidote. This grounds his recurring refutation of the [[heshang-moheyan|Hva-shang]] position (see
+  [[samye-debate|the Samyé debate]]), following [[kamalasila|Kamalaśīla]].
+
 ## Major Works
 
 - The **[[lamrim-chenmo|Lamrim Chenmo]]** (Stages of the Path) — the sūtra-path synthesis (the
@@ -53,5 +87,5 @@ perfection (sūtra) and mantra (tantra) vehicles.
 
 ## Sources Ingested
 
-- [[lamrim-chenmo|Lamrim Chenmo]], Volumes One (foundation + small/medium capacity) and Two
-  (great-capacity path), Snow Lion 2000/2004.
+- [[lamrim-chenmo|Lamrim Chenmo]], Volumes One (foundation + small/medium capacity), Two
+  (great-capacity path), and Three (serenity and insight / Madhyamaka), Snow Lion 2000/2002/2004.

@@ -9,10 +9,10 @@ relationship_to_orthodoxy: normative within Mahayana (the "highest view" in Tibe
 canon_distinctives: [mulamadhyamakakarika]   # adds Nāgārjuna's śāstra corpus atop the Prajñāpāramitā sūtras
 key_doctrinal_distinctives: [emptiness of all dharmas (sunyata), no intrinsic nature (svabhava), the two truths, emptiness of emptiness, no positive thesis (Prasangika)]
 hermeneutical_method: [prasanga (reductio) argument, the two truths, neyartha-nitartha ranking, emptiness as the definitive meaning]
-key_figures: [nagarjuna, Aryadeva, Buddhapalita, Bhaviveka, Candrakirti, shantideva]
+key_figures: [nagarjuna, aryadeva, buddhapalita, bhavaviveka, candrakirti, kamalasila, shantideva, tsongkhapa]
 key_texts: [mulamadhyamakakarika, bodhicaryavatara, heart-sutra]
-sources_ingested: 2
-last_updated: 2026-06-09
+sources_ingested: 3
+last_updated: 2026-06-28
 tags: [sect, buddhism, mahayana, madhyamaka, philosophy]
 ---
 
@@ -67,10 +67,21 @@ the [[two-truths|two truths]] (ultimate claims are always cashed out conventiona
 
 The four classical commentaries on the [[mulamadhyamakakarika|MMK]] seeded a methodological split:
 
-- **Svātantrika** (after **Bhāviveka**) — holds that the Mādhyamika may use independent
-  (*svatantra*) positive syllogisms.
-- **Prāsaṅgika** (after **Candrakīrti**, *Prasannapadā*) — holds that only *prasaṅga* (consequence)
-  arguments are legitimate; the Mādhyamika asserts nothing. This becomes the Tibetan norm.
+- **Svātantrika** (after **[[bhavaviveka|Bhāvaviveka]]**) — holds that the Mādhyamika may use
+  independent (*svatantra*) positive syllogisms.
+- **Prāsaṅgika** (after **[[buddhapalita|Buddhapālita]]** and **[[candrakirti|Candrakīrti]]**,
+  *Prasannapadā*) — holds that only *prasaṅga* (consequence) arguments are legitimate; the Mādhyamika
+  asserts nothing autonomously. This becomes the Tibetan norm.
+
+[[tsongkhapa|Tsong-kha-pa]]'s [[lamrim-chenmo|Lamrim Chenmo]] (Vol. III) gives the reading that
+became standard in the [[gelug|Gelug]] school: the real basis of the split is not whether one adds
+the qualifier "ultimately" to the object of negation, but whether things possess intrinsic
+*character* (*svalakṣaṇa*) **even conventionally** — affirmed by the Svātantrikas (hence their use of
+autonomous syllogisms requiring a subject established by a common non-mistaken valid cognition),
+denied by the Prāsaṅgikas (who therefore argue only from what the opponent accepts). See
+[[svatantrika-prasangika-distinction|the dedicated controversy page]]. Notably, Tsong-kha-pa insists
+the Prāsaṅgika *does* have a system and assertions of his own — refuting the "no thesis at all"
+reading common among other Tibetans.
 
 Madhyamaka debated **[[yogacara|Yogācāra]]** ("mind-only") over whether consciousness is ultimately
 real: Yogācāra arose partly *because* its founders judged the Mādhyamika emptiness to court
@@ -95,6 +106,8 @@ skepticism, Wittgenstein, deconstruction).
    [[siderits-katsura-nagarjunas-middle-way|the scholarship page]].
 2. [[paul-williams|Williams]], Tribe & Wynne, *[[williams-buddhist-thought|Buddhist Thought]]*
    (Routledge, 2000/2012) — the Madhyamaka/Yogācāra debate over nihilism.
+3. [[tsongkhapa|Tsong-kha-pa]], [[lamrim-chenmo|Lamrim Chenmo]] Vol. III (Snow Lion, 2002) — the
+   Prāsaṅgika insight section; object of negation, the two truths, the Svātantrika/Prāsaṅgika split.
 
 ## Cross-Links
 

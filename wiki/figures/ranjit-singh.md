@@ -5,7 +5,7 @@ tradition: Sikhism
 textual_sources: []
 dates: 1780–1839 (r. 1801–1839)
 roles: [maharaja, military leader, state-builder]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-28
 tags: [figure, sikhism, punjab, ruler]
 ---
@@ -78,7 +78,23 @@ his pyre, with Brahmins, Sikh granthis, and Muslims praying together. Emily Eden
 mouse with grey whiskers and one eye"; Singh's verdict rests on his own boast: "My kingdom… was small, it is
 now large; it was scattered, broken, and divided; it is now consolidated."
 
+## Aftermath: the Fratricidal Succession (Vol. 2)
+
+Khushwant Singh opens Vol. 2 with the verdict that "Ranjit Singh was like a massive banyan tree which
+cast its shadow over the whole of the Punjab; and like the banyan he had sheltered the land beneath him
+to such an extent that nothing but weeds could thrive in it" — his dominance left successors unable to
+grow. He left seven sons "by different women… the emotions that determined their attitude towards each
+other were fratricidal rather than fraternal." Within a decade the throne passed through **Kharak
+Singh** (deposed, dead of dysentery 1840), **Nao Nihal Singh** (killed by a collapsing archway, 1840),
+**Chand Kaur** (regent, murdered 1842), and **Sher Singh** (assassinated 1843), to the child
+[[duleep-singh|Duleep Singh]] under the regency of Rani Jindan — while the Dogra faction and the army
+*pañcāyats* contended for real power. Singh also stresses the structural flaw Ranjit Singh himself
+planted: expanding and modernizing the army from 1822 without sustaining campaigns, so soldiers went
+unpaid for years. The collapse runs through the two Anglo-Sikh Wars to British annexation in 1849. See
+[[duleep-singh|Duleep Singh]] and [[annexation-of-the-punjab|Annexation of the Punjab]].
+
 ## Cross-Links
 [[sikhism|Sikhism]] · [[khalsa|Khalsa]] · [[punjab|Punjab]] · [[misls|the Misls]] · [[lahore|Lahore]] ·
 [[amritsar|Amritsar]] · [[hari-singh-nalwa|Hari Singh Nalwa]] · [[treaty-of-lahore-1809|Treaty of Lahore 1809]] ·
+[[duleep-singh|Duleep Singh]] · [[annexation-of-the-punjab|Annexation of the Punjab]] ·
 [[nihang|Nihangs/Akalis]] · [[nirankari|Nirankaris]] · [[namdhari|Namdharis]]

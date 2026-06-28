@@ -3,8 +3,8 @@ title: Dependent Origination (Pratītyasamutpāda)
 also_known_as: [dependent arising, conditioned co-arising, paṭiccasamuppāda (Pali), the twelvefold chain (nidānas)]
 domain: doctrine
 traditions_using: [Buddhism]
-sources_ingested: 3
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-06-28
 tags: [concept, buddhism, metaphysics, causation]
 ---
 
@@ -82,6 +82,14 @@ and the whole Buddhist path, impossible (MMK 24.14).
 Read as **conventional** truth, dependent origination describes how pots and persons arise; read as
 **ultimate** truth, it states that no ultimately real thing ever arises (see [[two-truths|the two
 truths]]).
+
+In the [[lamrim-chenmo|Lamrim Chenmo]] (Vol. III), [[tsongkhapa|Tsong-kha-pa]] calls
+dependent-arising "the best reason to use in order to know the absence of intrinsic existence" — the
+**"king of reasonings"** ("whatever relies on causes and conditions lacks intrinsic nature"). Its
+force is double-edged: it refutes intrinsic existence (the eternalist extreme) while *guaranteeing*
+the conventional efficacy of cause-and-effect (against the nihilist extreme). Hence "the meaning of
+emptiness… is dependent-arising" — the two are not in tension but mutually entail each other, the
+heart of his Madhyamaka (see [[sunyata|emptiness]], [[object-of-negation|the object of negation]]).
 
 ## Cross-Tradition Note
 

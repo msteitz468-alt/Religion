@@ -13,7 +13,7 @@ The following sources address structural omissions and canonical gaps identified
 
 ### Sikhism — **tradition added 2026-06-27** (see [[sikhism]]; 3-scope plan on [[mcleod-sikhism]])
 - [x] McLeod, W. H. *Sikhism*. Penguin Books, 1997. — **ingested in full 2026-06-27** (Scope 1; deployed-subagent strategy; whole tradition scaffolded — ten Gurus, GGS, Khalsa, doctrine, sects); filed at `raw/scholarship/`.
-- [~] Singh, Khushwant. *A History of the Sikhs* (Vols. 1 & 2). Oxford University Press, 2004. — **Scope 2 (history/politics).** **Vol. 1 (1469–1838) ingested in full 2026-06-28** (deployed-subagent strategy; see [[khushwant-singh-history-of-the-sikhs]]); filed at `raw/scholarship/`. **Vol. 2 (1839–2004) still outstanding** in `raw/`.
+- [x] Singh, Khushwant. *A History of the Sikhs* (Vols. 1 & 2). Oxford University Press, 2004. — **Scope 2 (history/politics).** **Both volumes ingested in full 2026-06-28** (deployed-subagent strategy; see [[khushwant-singh-history-of-the-sikhs]]); both filed at `raw/scholarship/`. Vol. 1 (1469–1838) and Vol. 2 (1839–2004) complete — collapse of the kingdom, annexation, Singh Sabha, Akali/Gurdwara Reform, Partition, Punjabi Suba, and the 1980s crisis (Bhindranwale, Blue Star, 1984, Khalistan).
 - [x] *Sri Guru Granth Sahib* Part 1 (Angs 1–346). (Thind/Khalsa trans.). — **Part 1 ingested in full 2026-06-27** (deployed-subagent strategy; 6 agents; Nitnem, Siree Raag, Raag Maajh, Raag Gauree incl. Sukhmani Sahib); raw file at `raw/` (Part 2 complete).
 - [x] *Sri Guru Granth Sahib* Part 2 (Angs 347–694). (Thind/Khalsa trans.). — **Part 2 ingested in full 2026-06-27** (deployed-subagent strategy; 6 agents; Raag Aasaa, Goojaree, Bihaagraa, Wadahans, Sorat'h, Dhanaasaree); raw file at `raw/texts/`.
 - [x] *Sri Guru Granth Sahib* Part 3 (Angs 695–1106). (Thind/Khalsa trans.). — **Part 3 ingested in full 2026-06-27** (5 agents; Jaitsree, Todee, Bairaaree, Tilang, Soohee incl. Kuchajee triptych, Bilaaval, Gond, Raamkalee incl. Anand Sahib/Oankaar/Sidh Gosht, Nat Naaraayan, Maaroo); raw file at `raw/texts/`.
@@ -45,7 +45,7 @@ The following sources address structural omissions and canonical gaps identified
 - [x] Heschel, Abraham Joshua. *God in Search of Man: A Philosophy of Judaism*. — **ingested in full 2026-06-27** (all three parts; filed at `raw/texts/`); see [[god-in-search-of-man]].
 
 ### Buddhism (Vajrayana / Tibetan)
-- [~] Tsongkhapa. *The Great Treatise on the Stages of the Path to Enlightenment (Lamrim Chenmo)* (Vols 1-3). Snow Lion. — **Vols 1 & 2 ingested 2026-06-27** (deployed-subagent strategy; foundation + small/medium/great-capacity path, bodhicitta, the six perfections). **Vol 3 (śamatha & vipaśyanā) still outstanding.**
+- [x] Tsongkhapa. *The Great Treatise on the Stages of the Path to Enlightenment (Lamrim Chenmo)* (Vols 1-3). Snow Lion. — **All three volumes ingested** (Vols 1 & 2 on 2026-06-27; Vol 3 — śamatha & vipaśyanā / Madhyamaka — on 2026-06-28) via deployed-subagent strategy: foundation + small/medium/great-capacity path, bodhicitta, the six perfections, serenity, and the Prāsaṅgika insight section (object of negation, two truths, Svātantrika/Prāsaṅgika, selflessness).
 - [x] *The Tibetan Book of the Dead (Bardo Thödol)*. (Trans. Gyurme Dorje, ed. Graham Coleman and Thupten Jinpa). Penguin Classics, 2005. — ingested 2026-06-27 (full 14-chapter cycle + Introduction, appendices, glossary).
 
 ### Hinduism (Bhakti / Epics)

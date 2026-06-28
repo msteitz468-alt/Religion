@@ -53,8 +53,21 @@ In the Singh Sabha controversies they aligned with the **Sanatan Sikhs**, yet ai
 providing the model for the **Anand marriage ceremony** the reformers adopted; the reformer Jodh Singh
 married his son to a daughter of the Nirankari Guru (McLeod ~L10836–10862).
 
+## Khushwant Singh's Account (Vol. 2, Ch. 8)
+
+Khushwant Singh's *A History of the Sikhs* Vol. 2 corroborates the founder and dates above: **Dyal Das**
+(d. 1855), a bullion merchant of Peshawar, preached the formless (*nirankar*) God, opposed idol worship
+and Brahmanical ritual, and founded the Dayalsar temple near Rawalpindi, with succession through his
+sons and grandsons. Singh judges the movement of "limited theological originality," significant chiefly
+for **initiating Granth-based marriage rites** that resisted Hinduization — grouping it with the
+[[namdhari|Namdhari]] and Radha Soami movements as revivals of "small impact on the Sikh masses" relative
+to the later [[singh-sabha|Singh Sabha]]. (The violent 1978 clash with the unrelated **Sant Nirankaris**
+that launched [[jarnail-singh-bhindranwale|Bhindranwale]] — see the disambiguation above — concerns the
+Sant Nirankari Mission, not these Asali Nirankaris.)
+
 ## Sources Ingested
 [[mcleod-sikhism|McLeod, *Sikhism*]] Ch. 9 — read in full (2026-06-27).
+Khushwant Singh, *A History of the Sikhs* Vol. 2 (OUP, 2004), Ch. 8 — read in full (2026-06-28).
 
 ## Cross-Links
 [[sikhism|Sikhism]] · [[namdhari|Namdharis]] · [[khalsa|Khalsa]] · [[nam-simaran|Nām simaraṇ]] ·

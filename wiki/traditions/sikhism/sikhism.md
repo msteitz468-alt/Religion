@@ -5,8 +5,8 @@ type: tradition
 date_range: 1469 CE (birth of Guru Nanak) – present
 canon_core: [guru-granth-sahib]
 hermeneutical_frameworks: [gurmat, nam-simaran, the-guru]
-major_sects: [khalsa, udasi, nirmala, nirankari, namdhari, nihang]
-sources_ingested: 2
+major_sects: [khalsa, udasi, nirmala, nirankari, namdhari, nihang, singh-sabha]
+sources_ingested: 3
 last_updated: 2026-06-28
 tags: [tradition, sikhism, monotheism, indic]
 ---
@@ -104,7 +104,18 @@ state (1799–1839), the high-water mark of Sikh temporal power before the Briti
 
 ## Cross-Links
 
+## Modern History and the Political Tradition (Khushwant Singh, Vol. 2)
+
+The political and social history of the tradition since 1839 is carried on dedicated pages drawn from
+Khushwant Singh's *A History of the Sikhs* Vol. 2: the collapse of the kingdom and
+[[annexation-of-the-punjab|British annexation]]; the [[singh-sabha|Singh Sabha]] reform that defined
+modern Sikh identity; the [[akali-movement|Akali movement]] and Gurdwara Reform that placed the shrines
+under the SGPC; the [[partition-of-punjab-1947|Partition of 1947]]; and the crisis of the 1980s — the
+[[anandpur-sahib-resolution|Anandpur Sahib Resolution]], [[jarnail-singh-bhindranwale|Bhindranwale]],
+[[operation-blue-star|Operation Blue Star]], the [[1984-anti-sikh-violence|1984 anti-Sikh violence]], and
+[[khalistan|Khalistan]].
+
 [[guru-nanak|Guru Nanak]] · [[guru-granth-sahib|Guru Granth Sahib]] · [[khalsa|Khalsa]] ·
 [[sikhs|Sikhs (community)]] · [[sant-tradition|Sant tradition]] · [[akal-purakh|Akal Purakh]] ·
 [[nam-simaran|Nām Simaraṇ]] · [[hukam|Hukam]] · [[haumai|Haumai]] · [[miri-piri|Mīrī-Pīrī]] ·
-[[who-is-a-sikh|Who is a Sikh?]]
+[[who-is-a-sikh|Who is a Sikh?]] · [[singh-sabha|Singh Sabha]] · [[akali-movement|Akali movement]]

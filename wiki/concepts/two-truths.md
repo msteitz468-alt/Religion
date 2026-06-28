@@ -3,8 +3,8 @@ title: The Two Truths (Saṃvṛti and Paramārtha)
 also_known_as: [conventional and ultimate truth, satyadvaya; saṃvṛti-satya / paramārtha-satya]
 domain: doctrine / epistemology
 traditions_using: [Buddhism]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [concept, buddhism, madhyamaka, abhidharma, epistemology]
 ---
 
@@ -50,6 +50,23 @@ Two consequences are central to Madhyamaka:
   (MMK 24.14): only because things are empty (and so dependently arising) can suffering, the path,
   and liberation function at all. The charge that emptiness destroys the Dharma rests on confusing
   the two truths.
+
+## Tsong-kha-pa's Criteria for Conventional Existence (Lamrim Chenmo Vol. III)
+
+Where some Tibetan readers concluded that, since neither ordinary things nor essentialist constructs
+are "found under analysis," the conventional should be abandoned along with the ultimate,
+[[tsongkhapa|Tsong-kha-pa]] insists the conventional is robust. His key move: a reasoning
+consciousness analyzing *intrinsic existence* and a conventional consciousness have **different
+objects** — "not found by analysis" is not "refuted by reason" (a visual consciousness does not find
+sounds, but does not refute them). He gives **three criteria** for conventional existence: something
+exists conventionally if (1) it is known to a conventional (non-analytical) consciousness, (2) no
+other conventional valid cognition contradicts it, and (3) reason analyzing reality does not
+contradict it. The crucial caution: *not being contradicted* by such reasoning must not be confused
+with *being established* by it — whatever reason established would have to exist essentially. He
+distinguishes two senses of *saṃvṛti* keyed to whether the sensory consciousness is mistaken (it
+apprehends intrinsic character that does not exist even conventionally) yet still validly posits its
+object. Not everything "known to the world" qualifies: the reified "I," superimposed essence, and
+"yesterday's mountain is today's mountain" are excluded.
 
 ## Significance
 

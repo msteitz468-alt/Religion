@@ -70,6 +70,21 @@ The Namdhari turban is distinctively white homespun cloth, tied horizontally acr
 
 The Tat Khalsa ultimately accepted the Namdharis within the broad Panth despite their heterodox Guru doctrine. Principal Teja Singh concluded "that even if they were astray on one vital point they were at least potentially aligned with the Panth" (~L36–38). The historian Ganda Singh called the Ajapal Singh story "pure fiction of recent creation" but did not otherwise dispute the Namdhari claim to be Sikhs (~L40–43). "The battles over Nirankari and Namdhari membership were fought many decades ago and the issue of panthic membership has in their cases been conceded" (~L45–46).
 
+## Khushwant Singh's Account (Vol. 2, Ch. 8)
+
+Khushwant Singh's *A History of the Sikhs* Vol. 2 frames the **Namdhari (Kuka)** movement as a
+post-annexation revival with a proto-nationalist edge. He traces it from **Balak Singh** (1797–1862) of
+Hazro to **Ram Singh** (1816–85), a Ramgarhia carpenter and former artilleryman of Bhaini, who
+introduced the ecstatic worship from which the outsider nickname *Kuka* ("shrieker") derives, plus a
+paramilitary organization and *hukumnamas* mandating non-cooperation with British institutions. Singh's
+strongest claim is that **Ram Singh's 1860s *swadeshi* boycott** (of foreign goods, courts, schools, and
+the post) "anticipated Gandhi by sixty years." He notes critically that Kuka violence was misdirected
+onto Muslim butchers (cow protection) rather than the British. The **1872 Malerkotla affair** is recorded
+in grim detail: 66 Kuka prisoners blown from cannon by the deputy commissioner Cowan (later dismissed)
+and 16 more by Forsythe; Ram Singh was deported to Burma and died at Rangoon in 1885. ("Namdhari" is the
+preferred self-designation; "Kuka" the outsider/worship nickname.)
+
 ## Sources Ingested
 
 - W. H. McLeod, *Sikhism* (Penguin, 1997), lines 11001–13600 (range 5), covering the Sikh Sects chapter (Namdhari section) and adjacent social material.
+- Khushwant Singh, *A History of the Sikhs* Vol. 2 (OUP, 2004), Ch. 8 ("Religious Movements") — read in full (2026-06-28).

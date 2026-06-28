@@ -5,7 +5,7 @@ tradition: Sikhism
 textual_sources: [guru-granth-sahib]
 periods_active: ["1469 (Guru Nanak) – present"]
 roles_significance: [the community of the Gurus' disciples, a religious and political collective of the Punjab]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-28
 tags: [group, sikhism, punjab, community]
 ---
@@ -74,5 +74,28 @@ After 1708 the Panth is itself a locus of the Guru's authority — the **Guru Pa
 holding the Panth together are faith in the [[guru-granth-sahib|Guru Granth Sahib]], the gurdwara, and
 the [[rahit-maryada|Rahit]].
 
+## The Panth in the Modern Era (Khushwant Singh, Vol. 2)
+
+Khushwant Singh's Vol. 2 narrates the Panth's nineteenth- and twentieth-century transformation. After the
+[[annexation-of-the-punjab|British annexation]], he argues, the heavily-Hinduized community faced
+absorption (Dalhousie predicted Sikh "disappearance"), reversed by British martial-race recruitment and
+the [[singh-sabha|Singh Sabha]]'s redefinition of Sikhs as a distinct community — crystallized in Kahan
+Singh's *Ham Hindu Nahin Hain* (see [[who-is-a-sikh|"Who is a Sikh?"]]). The **Land Alienation Act
+(1900)**, Singh notes, split the community along caste lines so that "race came to matter more than
+religion." Sikh emigration met racial discrimination abroad, breeding the **Ghadr** movement (which Singh
+calls "the first secular movement" for Indian liberation, Sikh in rank-and-file but not religious in aim)
+and a later turn to Marxism (the Kirti Kisan party). The [[akali-movement|Akali movement]] then seized the
+shrines, and [[partition-of-punjab-1947|Partition]] reduced the Sikhs "from… the most prosperous
+community… to the level of other Indian communities," even as leadership passed from Khatri traders to
+land-based **Jat Sikhs** of Malwa.
+
+Singh's 2004 balance-sheet: ~18 million Sikhs, 80% in Punjab; the lowest poverty rate of any community
+(6.16% vs. 26.10% national); and two Sikhs (Manmohan Singh as PM, Montek Singh Ahluwalia) at the helm of
+India's government — "a notional fulfilment of the prophecy *Raj Karega Khalsa*." Yet his "Summing Up" is
+unsparingly self-critical of the community's leadership decline and "display of religiosity," ending on
+the bleak suggestion that "perhaps the Khalsa have run the course of history prescribed for them."
+
 ## Cross-Links
-[[sikhism|Sikhism]] · [[khalsa|Khalsa]] · [[guru-nanak|Guru Nanak]] · [[punjab|Punjab]]
+[[sikhism|Sikhism]] · [[khalsa|Khalsa]] · [[guru-nanak|Guru Nanak]] · [[punjab|Punjab]] ·
+[[singh-sabha|Singh Sabha]] · [[akali-movement|the Akali movement]] · [[partition-of-punjab-1947|Partition of Punjab]] ·
+[[who-is-a-sikh|Who is a Sikh?]]

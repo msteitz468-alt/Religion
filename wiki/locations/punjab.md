@@ -13,7 +13,7 @@ associated_peoples:
   - Bhatras (small caste, traditional fortune-tellers/hawkers)
   - Chamars (Outcaste community)
   - Bedis (prominent Jat got)
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-28
 tags: [location, sikhism, south-asia, homeland]
 ---
@@ -90,3 +90,19 @@ kingdom of [[ranjit-singh|Ranjit Singh]] (capital [[lahore|Lahore]]), before the
 - [[amritsar|Amritsar]]
 - [[sikhs|Panth]]
 - [[ardas|Ardas]]
+
+## Colonial and Modern Punjab (Khushwant Singh, Vol. 2)
+
+After the 1849 [[annexation-of-the-punjab|annexation]], Khushwant Singh's Vol. 2 traces the province
+through British canal-colony development (which made it "the granary of India" and reversed the predicted
+decline of the Sikhs), the [[partition-of-punjab-1947|Partition of 1947]] that split it along the
+Radcliffe line and devastated the Sikh heartland, and the post-Independence remaking of the state. The
+[[akali-movement|Punjabi Suba]] campaign culminated in the **1966 reorganization**, which carved Haryana
+and Himachal out of the old province and left a Punjab "about 56–60 per cent" Sikh, gathering "nearly 80
+per cent of the Sikh population in one State" — but bequeathed the running sore of the shared capital
+**Chandigarh** (built by Le Corbusier) and the Sutlej-Yamuna water dispute. The **Green Revolution**,
+centred on Punjab Agricultural University (Ludhiana, 1962) and Borlaug's dwarf wheat, made Punjab India's
+most prosperous state (per-capita income Rs 995 in 1971–2, the nation's highest); Singh's dialectic is
+that this very prosperity bred the religious fundamentalism and, ultimately, the terrorism of the 1980s
+that claimed over 25,000 lives before order was restored in the early 1990s. See
+[[operation-blue-star|Operation Blue Star]] and [[khalistan|Khalistan]].

@@ -8,7 +8,7 @@ periods_inhabited: "founded as Chak Guru / Ramdaspur by Guru Ram Das, c. 1574–
 modern_geography: "Amritsar, Punjab, India; major city in Indian Punjab near the Pakistan border; site of the Harimandir Sahib (Golden Temple)"
 associated_peoples:
   - sikhs
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-28
 tags: [location, sikhism, pilgrimage-site, sacred-pool]
 ---
@@ -69,3 +69,17 @@ Nizam of Hyderabad.
 - [[guru-granth-sahib|Adi Granth / Guru Granth Sahib]] — compiled at Amritsar
 - [[sikhism|Sikhism]] — tradition for which Amritsar is the holiest city
 - [[sikhs|Panth]] — the Sikh community whose principal centre this has been since the 16th century
+
+## Modern History (Khushwant Singh, Vol. 2)
+
+Khushwant Singh's *A History of the Sikhs* Vol. 2 makes Amritsar the stage of the modern Sikh political
+drama. The **Jallianwala Bagh massacre** of 13 April 1919 — Brigadier-General Dyer firing on a penned
+crowd, killing "379 and wounding over 2000" — occurred here; Singh treats it as the blow that broke Sikh
+loyalty to the Raj (even as Golden Temple priests presented Dyer a *siropa*). The city was then the
+epicentre of the [[akali-movement|Gurdwara Reform movement]]: the **Keys Affair** at the Golden Temple
+treasury, the **Guru ka Bagh** *morcha* nearby, and the founding of the SGPC from the Akal Takht (1920).
+Finally, the **Akal Takht** and Harimandir were the target of [[operation-blue-star|Operation Blue Star]]
+(June 1984): tank shells "brought down most of the edifice" of the Akal Takht, the **Sikh Reference
+Library** of rare Granth manuscripts and Guru *hukumnamas* was destroyed, and the Harimandir itself took
+"hundreds of fresh bullet marks." The 1988 **Operation Black Thunder** and the later "Galiara" corridor
+project around the temple are also recorded. See [[operation-blue-star|Operation Blue Star]].

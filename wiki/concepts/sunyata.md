@@ -2,8 +2,8 @@
 title: Sunyata (Emptiness)
 domain: doctrine
 traditions_using: [Buddhism]
-sources_ingested: 2
-last_updated: 2026-06-09
+sources_ingested: 3
+last_updated: 2026-06-28
 tags: [concept, buddhism, mahayana, madhyamaka, metaphysics]
 ---
 
@@ -35,6 +35,18 @@ useful way of conceptualizing experience. This guards Madhyamaka against the two
 "slow-witted" snake-handler (MMK 24.11) — reading emptiness as the nihilist non-existence of
 everything, or as a substantial ground of being — and distinguishes it sharply from a substance
 metaphysics. Its purpose is the cessation of **hypostatization (*prapañca*)** — which *is* nirvāṇa.
+
+## Tsong-kha-pa's Gelug Reading (Lamrim Chenmo Vol. III)
+
+[[tsongkhapa|Tsong-kha-pa]] (following [[buddhapalita|Buddhapālita]] and
+[[candrakirti|Candrakīrti]]) gives the most influential Tibetan articulation: **emptiness *is*
+dependent-arising**, and so emptiness is perfectly compatible with — indeed the precondition of —
+functioning cause-and-effect. The crux is precision about the **[[object-of-negation|object of
+negation]]**: emptiness denies only *intrinsic existence* ([[svabhava|svabhāva]]), never *mere
+existence*. To miss this is to fall into **over-negation** (nihilism — denying the conventional
+world) or **under-negation** (leaving a residue of intrinsic existence). "The meaning of emptiness…
+is dependent-arising; it does not mean that things do not exist." Emptiness is itself empty: taking
+it as a truly existent absolute is, per Nāgārjuna, the "incurable" reification of emptiness.
 
 ## Cross-Tradition Significance
 

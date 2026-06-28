@@ -155,7 +155,7 @@ Master index of all pages. Updated on every ingest.
 - [[mulamadhyamakakarika|Mūlamadhyamakakārikā]] — Nāgārjuna's root verses on the Middle Way (c. 150 CE); the founding *śāstra* of [[madhyamaka|Madhyamaka]]; "all things are empty"; `authoritative_for: [madhyamaka, mahayana, vajrayana]`; Siderits & Katsura translation (new 2026-06-09)
 - [[bodhicaryavatara|Bodhicaryāvatāra]] — Śāntideva's poetic guide to the bodhisattva path (8th c.); bodhicitta, the exchange of self and other (ch. 8), Madhyamaka emptiness (ch. 9); Crosby & Skilton translation (new 2026-06-09)
 - [[bardo-thodol|The Tibetan Book of the Dead (Bardo Thödol)]] — the Nyingma *kar-gling zhi-khro* treasure-cycle; six bardos, the peaceful & wrathful deities, liberation by hearing; `canonical_for: [nyingma]`, `authoritative_for: [vajrayana]`; Coleman/Jinpa/Dorje first complete translation (new 2026-06-27)
-- [[lamrim-chenmo|The Great Treatise on the Stages of the Path (Lamrim Chenmo)]] — Tsong-kha-pa's 1402 *summa* of the graded path (*lam rim*); founding treatise of the [[gelug|Gelug]] school; `authoritative_for: [gelug, tibetan-buddhism]`; Lamrim Chenmo Translation Committee (Snow Lion), **Vols. One & Two ingested** (new 2026-06-27)
+- [[lamrim-chenmo|The Great Treatise on the Stages of the Path (Lamrim Chenmo)]] — Tsong-kha-pa's 1402 *summa* of the graded path (*lam rim*); founding treatise of the [[gelug|Gelug]] school; `authoritative_for: [gelug, tibetan-buddhism]`; Lamrim Chenmo Translation Committee (Snow Lion), **all three Vols. ingested** (Vol. Three — śamatha & vipaśyanā / Madhyamaka — new 2026-06-28)
 - *Pali Nikāyas* (anthologized) — see [[bodhi-in-the-buddhas-words|Bodhi, *In the Buddha's Words*]], the thematic Nikāya anthology, under Scholarship (new 2026-06-09)
 
 ### Hinduism (Vedanta — the prasthana-trayi)
@@ -654,6 +654,11 @@ Master index of all pages. Updated on every ingest.
   - [[hari-singh-nalwa|Hari Singh Nalwa]] (d. 1837) — Ranjit Singh's foremost general; died at Jamrud
   - [[deep-singh|Baba Deep Singh]] (d. 1757) — martyr of the Shaheed misl; defender of the Harimandir
   - [[ahmad-shah-abdali|Ahmad Shah Abdali]] (r. 1747–1772) — Afghan king; nine invasions; the Sikhs' antagonist and unwitting benefactor
+- **Modern-era figures** (new 2026-06-28; [[khushwant-singh-history-of-the-sikhs|Khushwant Singh]] Vol. 2):
+  - [[duleep-singh|Maharaja Duleep Singh]] (1838–1893) — last sovereign of the Sikh Empire; deposed at the annexation (1849); regency of Rani Jindan
+  - [[master-tara-singh|Master Tara Singh]] (1885–1967) — dominant Akali leader; Gurdwara Reform, Partition, and the Punjabi Suba; the 1961 failed fast
+  - [[jarnail-singh-bhindranwale|Jarnail Singh Bhindranwale]] (1947–1984) — militant revivalist; fortified the Akal Takht; killed in Operation Blue Star *(contested figure)*
+  - [[indira-gandhi|Indira Gandhi]] (1917–1984) — PM who ordered Operation Blue Star; assassinated by her Sikh bodyguards
 - **Bhagat bāṇī poets included in the SGGS** (expanded 2026-06-27 from primary text; Part 2 additions 2026-06-27):
   - [[namdev|Namdev]] (c. 1270–1350) — Maharashtrian Vaishnava Sant; printer caste; compositions in Siree Raag, Goojaree, Sorat'h, Dhanaasaree; validated by Mehl 3 at Ang 67
   - [[ravidas|Ravidas]] (c. 1450–1520) — Chamar cobbler-saint of Varanasi; *sam dal* ("equally in all"); "You are me, and I am You" (Ang 93); Ravidassia community founder; Sorat'h (7 shabads, low-caste self-declaration); Dhanaasaree (Naam-Aartee, Ang 694)
@@ -746,6 +751,7 @@ Master index of all pages. Updated on every ingest.
 - [[sikhs|Sikhs (the Panth)]] — the community of the Gurus' disciples; the Nanak-panth → Khalsa Panth; caste, diaspora, gender *(political history added 2026-06-28)*
 - [[jats|Jats]] — the dominant landowning caste of the Panth (>60%); the Khalsa constituency; the caste-vs-creed tension
 - [[misls|The Misls]] — the 18th-c. Sikh military confederacies; the Dal Khalsa, Sarbat Khalsa, gurmatā, rākhī (new 2026-06-28; [[khushwant-singh-history-of-the-sikhs|Khushwant Singh]] Vol. 1)
+- [[akali-movement|The Akali Movement (Shiromani Akali Dal & SGPC)]] — the political-religious movement controlling the Sikh shrines since 1920; Gurdwara Reform, the Punjabi Suba, and modern Sikh politics (new 2026-06-28; [[khushwant-singh-history-of-the-sikhs|Khushwant Singh]] Vol. 2)
 
 ### Greco-Roman (2026-06-27; [[city-of-god|City of God]])
 - [[romans|Romans]] — the imperial people; paradigm of the [[two-cities|earthly city]]; their gods, virtue, and the 410 sack in *City of God*
@@ -760,9 +766,10 @@ Master index of all pages. Updated on every ingest.
 
 - [[indus-valley-civilization|Indus Valley Civilization (Harappa)]] — Bronze Age urban civilization of the Indus plain (c. 2300–1500 BCE), older than the Vedas; grid cities (Harappa, Mohenjo-Daro), undeciphered seal script, the proto-Śiva "Pashupati" seal debate; modern Pakistan (Punjab/Sindh) + NW India. Doniger's skepticism about reading Hinduism back into it (new 2026-06-09; [[doniger-the-hindus|Doniger]] Chs. 3–4)
 
-### Sikhism (Punjab/Amritsar 2026-06-27 [[mcleod-sikhism|McLeod]]; rest new/enriched 2026-06-28 from [[khushwant-singh-history-of-the-sikhs|Khushwant Singh]] Vol. 1)
-- [[punjab|Punjab]] — the homeland of the Panth; the land of the five rivers; the Jat peasantry; seat of Sikh power *(enriched 2026-06-28)*
-- [[amritsar|Amritsar]] — holiest Sikh city; the Harimandir (Golden Temple), repeatedly destroyed by Abdali and rebuilt; gilded by Ranjit Singh *(enriched 2026-06-28)*
+### Sikhism (Punjab/Amritsar 2026-06-27 [[mcleod-sikhism|McLeod]]; rest new/enriched 2026-06-28 from [[khushwant-singh-history-of-the-sikhs|Khushwant Singh]] Vols. 1–2)
+- [[punjab|Punjab]] — the homeland of the Panth; the land of the five rivers; the Jat peasantry; seat of Sikh power *(colonial–modern arc + Suba/Green Revolution added from Vol. 2, 2026-06-28)*
+- [[amritsar|Amritsar]] — holiest Sikh city; the Harimandir (Golden Temple) *(Jallianwala Bagh, Gurdwara Reform, Operation Blue Star added from Vol. 2, 2026-06-28)*
+- [[nankana-sahib|Nankana Sahib]] — birthplace of Guru Nanak (now in Pakistan); site of the 1921 massacre that galvanized Gurdwara Reform (new 2026-06-28; Vol. 2)
 - [[lahore|Lahore]] — historic Punjab capital; Ranjit Singh's seat (the Sarkar Khalsa); place of Guru Arjan's execution
 - [[anandpur|Anandpur]] — founded by Guru Tegh Bahadur; base of Guru Gobind Singh; birthplace of the Khalsa (1699)
 - [[kartarpur|Kartarpur]] — township founded by Guru Nanak on the Ravi; his last home and death-place (1539)
@@ -843,7 +850,14 @@ Master index of all pages. Updated on every ingest.
 - [[buddhaghosa|Buddhaghosa]] (fl. 5th c.) — the great Theravada commentator; *Visuddhimagga* (Path of Purification); Mahavihara, Sri Lanka
 - [[nagarjuna|Nāgārjuna]] (c. 150 CE) — founder of [[madhyamaka|Madhyamaka]]; the *[[mulamadhyamakakarika|MMK]]*; "all things empty of [[svabhava|svabhāva]]"; reductio method; emptiness=dependent origination=the middle path; a "second Buddha" (new 2026-06-09)
 - [[shantideva|Śāntideva]] (c. 685–763) — Mahayana/Nalanda; the *[[bodhicaryavatara|Bodhicaryāvatāra]]*; bodhicitta, the [[exchange-of-self-and-other|exchange of self and other]], Prāsaṅgika emptiness (now via Crosby & Skilton, 2026-06-09)
-- [[tsongkhapa|Tsong-kha-pa]] (1357–1419) — founder of the [[gelug|Gelug]] school; author of the *[[lamrim-chenmo|Lamrim Chenmo]]*; synthesizing scholastic; analytical-meditation method; the anti-Hva-shang polemic; sūtra–tantra integration (new 2026-06-27)
+- [[tsongkhapa|Tsong-kha-pa]] (1357–1419) — founder of the [[gelug|Gelug]] school; author of the *[[lamrim-chenmo|Lamrim Chenmo]]*; synthesizing scholastic; analytical-meditation method; the anti-Hva-shang polemic; sūtra–tantra integration (new 2026-06-27; Madhyamaka method enriched 2026-06-28)
+- [[candrakirti|Candrakīrti]] (c. 7th c.) — the definitive [[svatantrika-prasangika-distinction|Prāsaṅgika]] interpreter of [[nagarjuna|Nāgārjuna]]; *Madhyamakāvatāra*, *Prasannapadā*; no intrinsic character even conventionally; the chariot analysis (new 2026-06-28)
+- [[buddhapalita|Buddhapālita]] (c. early 6th c.) — commentator on the [[mulamadhyamakakarika|MMK]] whose *prasaṅga* method seeded the [[svatantrika-prasangika-distinction|Svātantrika/Prāsaṅgika split]] (new 2026-06-28)
+- [[bhavaviveka|Bhāvaviveka]] (c. 6th c.) — founder of the [[svatantrika-prasangika-distinction|Svātantrika]] stream; conventional intrinsic character; autonomous syllogisms; *Prajñāpradīpa*, *Tarkajvālā* (new 2026-06-28)
+- [[aryadeva|Āryadeva]] (c. 3rd c.) — disciple of Nāgārjuna; the *Four Hundred Stanzas*; "the seed of cyclic existence is consciousness"; the one door to peace (new 2026-06-28)
+- [[asanga|Asaṅga]] (c. 4th c.) — founder of [[yogacara|Yogācāra]]; the "vast" trailblazer; *Śrāvakabhūmi* (nine mental states, pliancy) — the basis of the Lamrim serenity section (new 2026-06-28)
+- [[kamalasila|Kamalaśīla]] (8th c.) — author of the three *Stages of Meditation*; the gradualist of [[samye-debate|the Samyé debate]]; "insight requires analysis" (new 2026-06-28)
+- [[heshang-moheyan|Hva-shang Moheyan]] (fl. late 8th c.) — Chinese Chan master; the "sudden / no-thought" position defeated at [[samye-debate|Samyé]]; Tsong-kha-pa's standing foil for quietism (new 2026-06-28)
 - [[bhikkhu-bodhi|Bhikkhu Bodhi]] (b. 1944) — American Theravada monk; the foremost modern translator of the Pali Nikāyas; the *[[bodhi-in-the-buddhas-words|In the Buddha's Words]]* anthology; the "gradual training" reading; rebirth/kamma as integral (new 2026-06-09)
 - [[w-y-evans-wentz|W. Y. Evans-Wentz]] (1878–1965) — editor who (with Kazi Dawa Samdup) produced the 1927 *Tibetan Book of the Dead* and coined the English title; Theosophical framing; the Jung commentary (new 2026-06-27)
 - [[walpola-rahula|Walpola Rahula]] (1907–1997) — Sri Lankan scholar-monk; *[[rahula-what-the-buddha-taught|What the Buddha Taught]]* (1959), the classic short doctrinal primer; the celebrated anatta chapter; dukkha-as-realism; Theravada–Mahayana convergence (new 2026-06-09)
@@ -1095,7 +1109,8 @@ Master index of all pages. Updated on every ingest.
 - [[sunyata|Sunyata (Emptiness)]] — Mahayana; all phenomena empty of inherent existence (Nāgārjuna); the emptiness of emptiness
 - [[svabhava|Svabhāva (Intrinsic Nature)]] — the "own-being" whose denial *is* emptiness; the mark of the ultimately real in Abhidharma (new 2026-06-09)
 - [[dependent-origination|Dependent Origination (Pratītyasamutpāda)]] — conditioned co-arising; the twelvefold chain; "dependence entails emptiness" (MMK 24.18) (new 2026-06-09)
-- [[two-truths|The Two Truths]] — conventional (*saṃvṛti*) vs. ultimate (*paramārtha*); the Abhidharma vs. Madhyamaka redefinition; the key to the nihilism objection (new 2026-06-09)
+- [[two-truths|The Two Truths]] — conventional (*saṃvṛti*) vs. ultimate (*paramārtha*); the Abhidharma vs. Madhyamaka redefinition; the key to the nihilism objection (new 2026-06-09; Tsong-kha-pa's three criteria for conventional existence added 2026-06-28)
+- [[object-of-negation|The Object of Negation (dgag bya)]] — what emptiness denies (intrinsic existence); Tsong-kha-pa's twin errors of over- and under-negation; the referent of innate ignorance (new 2026-06-28)
 - [[abhidharma|Abhidharma]] — the dharma-analysis ("person empty, dharmas real") that Madhyamaka takes as its target (new 2026-06-09)
 - [[bodhicitta|Bodhicitta (the Awakening Mind)]] — the bodhisattva's resolve; its two kinds (resolve / engaged); generated by the exchange of self and other (new 2026-06-09)
 - [[exchange-of-self-and-other|Exchange of Self and Other]] — Śāntideva's altruism meditation grounded in nonself; the basis of Tibetan *lojong*/*tonglen* (new 2026-06-09)
@@ -1481,6 +1496,7 @@ Master index of all pages. Updated on every ingest.
 - [[five-ks|Five Ks]] — the *pañj kakār* of the Khalsa; [[amrit-sanskar|Amrit Sanskār]] — Khalsa initiation
 - [[langar|Langar]] — the egalitarian free kitchen; [[gurdwara|Gurdwara]] — the Sikh place of worship
 - [[nit-nem|Nit-nem]] — the daily liturgical discipline; [[ardas|Ardas]] — the Khalsa prayer
+- [[anandpur-sahib-resolution|Anandpur Sahib Resolution]] — the 1973 Akali charter of Sikh demands; the autonomy-vs-separatism ambiguity at the heart of the 1980s crisis (new 2026-06-28; [[khushwant-singh-history-of-the-sikhs|Khushwant Singh]] Vol. 2)
 - [[ardhamagadhi|Ardhamāgadhī]] — the Prakrit of the Śvetāmbara canon
 
 ---
@@ -1597,6 +1613,7 @@ a `sects/` page, cross-linked.)*
     - [[nirmala|Nirmalas]] — celibate scholarly order; Vedantic learning; allied with the Sanatan Sikhs
     - [[nirankari|Nirankaris]] (Asali) — Baba Dayal's Nanak-panthi renewal; a continuing Guru-line
     - [[namdhari|Namdharis (Kukas)]] — reformist "purified Khalsa"; a living Guru-line; the Dasam Granth as canonical
+    - [[singh-sabha|Singh Sabha]] — the late-19th-c. reform movement that forged modern Sikh identity ("Ham Hindu Nahin Hain"); the Tat Khalsa / Sanatan split (new 2026-06-28; [[khushwant-singh-history-of-the-sikhs|Khushwant Singh]] Vol. 2)
 
 ### Bahá'í Faith (new tradition 2026-06-27; [[smith-short-history-bahai-faith|Smith 1995]]; extended 2026-06-28 [[peter-smith|Smith, Concise Encyclopedia]])
 - [[bahai|Bahá'í Faith]] — tradition overview; independent world religion; progressive revelation; five million adherents worldwide (1995); emerged from Babism 1844/1863; the Kitáb-i-Aqdas as holy law; elected Administrative Order (no clergy)
@@ -1766,6 +1783,11 @@ a `sects/` page, cross-linked.)*
 - [[who-is-a-sikh|Who is a Sikh?]] — Sikh identity, the historicity of the Five Ks and the 1699 Khalsa, the "transformation" of Sikhism, and Nanak's relation to the Sant tradition: Tat Khalsa / normative historiography vs. McLeod / historical-critical scholarship vs. Sanatan Sikhism
 - [[ghallughara|The Ghallugharas (1746, 1762)]] — the Sikh "holocausts"; the dispute over casualty figures (new 2026-06-28; [[khushwant-singh-history-of-the-sikhs|Khushwant Singh]] Vol. 1)
 - [[treaty-of-lahore-1809|Treaty of Lahore / Amritsar (1809)]] — the Sutlej boundary; British protection of the cis-Sutlej chiefs; the divided Punjab (new 2026-06-28)
+- [[annexation-of-the-punjab|The Anglo-Sikh Wars and Annexation (1845–1849)]] — Khushwant Singh's deliberate-aggression-and-treason thesis vs. the British self-defence narrative (new 2026-06-28; Vol. 2)
+- [[partition-of-punjab-1947|The Partition of the Punjab (1947)]] — the central wound of modern Sikh history; Sikhs as victims and perpetrators; the self-inflicted division (new 2026-06-28; Vol. 2)
+- [[operation-blue-star|Operation Blue Star (1984)]] — the army assault on the Golden Temple; contested casualty figures; Singh's "grievous blunder" critique (new 2026-06-28; Vol. 2)
+- [[1984-anti-sikh-violence|The 1984 Anti-Sikh Violence]] — the November massacres after Indira Gandhi's assassination; pogrom vs. riot; impunity (new 2026-06-28; Vol. 2)
+- [[khalistan|Khalistan]] — the demand for a sovereign Sikh state; tactical origins, 1980s militancy, and a diaspora-driven non-starter (new 2026-06-28; Vol. 2)
 
 ### Islamic / Cross-Tradition (2026-06-09)
 - [[qiraat-variant-readings|The Qira'at (Variant Qur'anic Readings)]] — the seven/ten canonical recitations vs. the preservation claim vs. revisionist text-criticism; Bukhari evidence for Umar–Hisham incident, Abu Bakr's collection, Uthman's standardization, and the Ibn Masud / Mu'awwidhatain dispute (extended 2026-06-27)
@@ -1777,6 +1799,8 @@ a `sects/` page, cross-linked.)*
 
 ### Buddhist (2026-06-09)
 - [[three-dharma-seals-is-suffering-universal|The Three Dharma Seals — Is Suffering a Universal Mark?]] — the standard *anicca/dukkha/anatta* triad ([[walpola-rahula|Rahula]], Theravada) vs. *anicca/anatta/nirvana* ([[thich-nhat-hanh|Thich Nhat Hanh]], Northern/Mahayana); a Pali-vs-Āgama transmission split (new 2026-06-09)
+- [[svatantrika-prasangika-distinction|The Svātantrika/Prāsaṅgika Distinction]] — autonomous (*svatantra*) syllogism vs. consequence (*prasaṅga*); conventional intrinsic character; [[tsongkhapa|Tsong-kha-pa]]'s Gelug reading and the "no-thesis" question (new 2026-06-28)
+- [[samye-debate|The Samyé Debate (Gradual vs. Sudden)]] — [[kamalasila|Kamalaśīla]]'s analytical gradualism vs. [[heshang-moheyan|Hva-shang Moheyan]]'s no-thought subitism; the quietism foil of Tsong-kha-pa's insight section (new 2026-06-28)
 
 ### Philosophy of Religion / Comparative (2026-06-09)
 - [[religious-pluralism-debate|The Pluralism Debate]] — are the religions diverse responses to one reality? exclusivism / inclusivism / pluralism / perennialism / particularism; the fidelity-vs-parity crux; seeded by the Hick ingest, extensible by Armstrong and Prothero

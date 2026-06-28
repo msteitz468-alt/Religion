@@ -3,8 +3,8 @@ title: Samatha and Vipassanā (Serenity and Insight)
 also_known_as: [śamatha-vipaśyanā (Sanskrit), tranquillity-meditation / insight-meditation, calm-abiding / clear-seeing]
 domain: meditation / soteriology
 traditions_using: [Buddhism — Theravada, Mahayana, Vajrayana]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [concept, buddhism, meditation, soteriology]
 ---
 
@@ -81,6 +81,39 @@ practice: stabilizing the mind before undertaking the analysis of emptiness (*ś
 
 In [[vajrayana|Vajrayana]], the two are integrated into the tantric path via *tummo* and other
 practices; the coupling is instantaneous rather than sequential.
+
+## The Tibetan Mahāyāna Treatment (Tsong-kha-pa, Lamrim Chenmo Vol. III)
+
+[[tsongkhapa|Tsong-kha-pa]]'s [[lamrim-chenmo|Lamrim Chenmo]] (Vol. III, drawing on
+[[asanga|Asaṅga]]'s *Śrāvakabhūmi*, Maitreya, and [[kamalasila|Kamalaśīla]]'s *Stages of Meditation*)
+gives the classic Tibetan scholastic account, differing from the Theravāda *Visuddhimagga* on
+several points:
+
+- **Distinguished by mode, not object.** Serenity (*zhi gnas*) is non-analytical one-pointed
+  stabilization; insight (*lhag mthong*) is analysis with discerning wisdom. The *same* object
+  (even emptiness) can be approached either way — "there is meditative serenity that knows emptiness
+  and there is insight which does not know emptiness." So they are not divided by their objects (as
+  the Theravāda subject-vs-formations contrast might suggest).
+- **Pliancy is the dividing line.** Neither serenity nor insight is the *actual* attainment until it
+  can generate physical and mental **pliancy** (*śin sbyangs*); the mere ninth mental state, or mere
+  analysis, is only an "approximation." Mental pliancy arises first, then an energy-wind (*rlung*)
+  induces physical pliancy.
+- **The mechanics of serenity.** Achieved via the **nine mental states**, six forces, four
+  attentions, and the **five faults / eight antidotes** (Maitreya's *Madhyāntavibhāga*); mindfulness
+  (*dran pa*) fastens the mind to the object, vigilance (*shes bzhin*) detects **laxity** (*bying
+  ba*) and **excitement** (*rgod pa*).
+- **Serenity alone cannot liberate** — the shared Buddhist position, but pressed hard: concentration
+  is common to non-Buddhists and only suppresses afflictions (the mundane "calmness/coarseness"
+  path); only insight into the two selflessnesses uproots their seeds. (Compare Āḷāra Kālāma and
+  Uddaka Rāmaputta above; Tsong-kha-pa's parallel example is **Udraka/Rudraka**.)
+- **Insight requires analysis** (his anti-quietist signature, against the
+  [[heshang-moheyan|Hva-shang]] / [[samye-debate|Samyé-debate]] position): genuine *vipaśyanā* is
+  produced by active discerning analysis (*vicāra*), not by stopping thought. One must distinguish
+  *not thinking of* true existence from *knowing the absence of* true existence.
+- **Union** (*yuganaddha*, *zung 'brel*) is achieved when analysis itself induces pliancy and
+  one-pointed focus, so that analytical and stabilizing meditation cease to compete — experienced in
+  an uninterrupted stream, not simultaneously. Achieved "in separate sessions," it need not occur
+  within one continuous sitting (Ratnākaraśānti).
 
 ## Cross-Links
 
