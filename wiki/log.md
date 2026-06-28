@@ -3960,3 +3960,28 @@ Source: `raw/scholarship/kreeft-shorter-summa.txt` (renamed from original). **Sc
 The *Summa Theologiae* itself is already ingested in full from four separate raw files; this source adds no new Aquinas textual coverage. Unique content: Kreeft's editorial apparatus — selection criterion, seven-domain map of the philosophical core, anti-nominalist and anti-reductionist framing, Big Bang/creation compatibility note, glossary definitions, and pedagogical endnotes.
 
 Pages created: `wiki/scholarship/kreeft-shorter-summa` (full scholarship page with coverage ledger, structure table, selected endnote summaries); `wiki/commentators/peter-kreeft` (Neo-Thomist popularizer; hermeneutical method; characteristic philosophical positions). Extended: `wiki/commentators/thomas-aquinas` (sources_ingested → 2; Kreeft anthology added to Sources Ingested section). Index updated (Scholastic Theology section; Medieval Christian Tradition commentators). Raw source filed to `raw/scholarship/kreeft-shorter-summa.txt`.
+
+## [2026-06-28] ingest | Smith, Concise Encyclopedia of the Bahá'í Faith — Subagent C (lines 8931–12930)
+
+Scope: lines 8931–12930 — read in full. Alphabetically-organized encyclopedia entries covering chastity through expansion.
+
+Pages created:
+- `wiki/concepts/covenant-bahai.md` — Bahá'í doctrine of the Covenant (Greater/Lesser), Book of the Covenant, Covenant-breakers
+- `wiki/concepts/bahai-expansion.md` — history and statistics of Bahá'í global expansion
+- `wiki/texts/epistle-to-the-son-of-the-wolf.md` — Lawḥ-i-Ibn-i-Dhi'b (c.1891)
+- `wiki/texts/dawn-breakers.md` — Táríkh-i-Nabíl / The Dawn-Breakers (Nabíl-i-A'ẓam; Shoghi Effendi trans. 1932)
+- `wiki/locations/edirne.md` — Edirne (Adrianople), site of Bahá'u'lláh's exile 1863–1868
+- `wiki/locations/chihriq.md` — Chihriq fortress, site of the Báb's imprisonment 1848–1850
+- `wiki/figures/amelia-collins.md` — American Hand of the Cause (1873–1962)
+- `wiki/figures/john-esslemont.md` — British Bahá'í author (1874–1925), Disciple of 'Abdu'l-Bahá
+- `wiki/figures/hippolyte-dreyfus-barney.md` — French Bahá'í scholar and translator (1873–1928)
+- `wiki/figures/laura-dreyfus-barney.md` — compiler of Some Answered Questions (1879–1974)
+- `wiki/figures/hyde-dunn.md` — pioneer to Australia, Hand of the Cause (1855–1941)
+- `wiki/figures/clara-dunn.md` — Hand of the Cause, pioneer to Australia (1869–1960)
+- `wiki/figures/dayyan.md` — Bábí figure Mullá Asadu'lláh Khú'í (d. 1856)
+- `wiki/figures/arthur-dodge.md` — Disciple of 'Abdu'l-Bahá, early American Bahá'í (1849–1915)
+
+Pages extended:
+- `wiki/figures/bahaullah.md` — added: Book of the Covenant, Epistle to the Son of the Wolf, divine judgment, civilization teachings, consultation
+- `wiki/figures/abdu-l-baha.md` — added: Covenant role, Some Answered Questions, Commentary on Hidden Treasure, economic teachings
+- `wiki/concepts/bahai-administrative-order.md` — added: consultation, Continental Boards of Counsellors, conventions, constitutions, custodians, elections

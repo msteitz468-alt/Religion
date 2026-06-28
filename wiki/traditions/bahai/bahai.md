@@ -120,6 +120,42 @@ Total Bahá'ís worldwide: approximately 5 million, residing in Bahá'í communi
 - Sub-Saharan Africa: probably over 1 million Bahá'ís (~one-fifth of world total) (line 3094).
 - Latin America: probably ~750,000 Bahá'ís (~16% of world total) (line 4148–4150).
 
+---
+
+## From Smith, Concise Encyclopedia (2026-06-28)
+
+### Global Expansion: Regional Summaries (lines 12931–16930)
+
+**Russia and Central Asia**: After the 1917 revolution, Bahá'í expansion beyond the expatriate Iranian communities became possible. Central assemblies for Turkistán and the Caucasus were consolidated as a national entity by 1925. Under Communist consolidation, however, restrictions were imposed and the Bahá'í communities of Soviet Asia were crushed during the 1930s. Following liberalization in 1989–91, Bahá'í communities re-emerged and national assemblies were formed in each of the former Soviet republics (1992–4) (lines 12942–12965).
+
+**Turkey**: Early Bahá'í groups consisted largely of expatriate Iranians; a genuinely Turkish Bahá'í community only slowly developed after the establishment of the modern Turkish nation. A national assembly was formed in 1959; Turkey now has the greatest number of local assemblies of any country in the Islamic heartland (lines 12966–12984).
+
+**North America**: By 1900 there were some 1,500 American Bahá'ís in 60 localities in 25 states; by 1916 approximately 3,000. Large-scale enrolments during the late 1960s–early 1970s raised the total to 105,000 by 1973 and 179,000 by 1988. Canada established a separate national assembly in 1948. Of the 27 Hands appointed by Shoghi Effendi (1951–7), thirteen were North Americans; of the first sixteen-member Universal House of Justice, seven were Americans and one was Canadian (lines 13007–13104).
+
+**Europe**: The German Bahá'í community was severely persecuted under the Nazi regime (1937); Bahá'í activities ceased throughout most of Europe during World War II. The European House of Worship in Frankfurt was dedicated in 1964. By the late 1980s, approximately 25,000 Bahá'ís in Europe; by 1992, thirty-four national assemblies (lines 13105–13249).
+
+**Africa**: Systematic Bahá'í teaching began with the Africa Campaign (1951–3). The Ten Year Crusade (1953–63) produced dramatic growth: over 50,000 Bahá'ís in 2,655 localities by 1963; 348 African tribal groups represented; Bahá'í literature translated into 94 African languages. The Bahá'í House of Worship in Kampala dedicated January 1961. By 1992, 5,877 local assemblies and 33,000+ localities; 54 national assemblies (lines 13302–13431).
+
+**Latin America**: Mass teaching, especially among Amerindians, grew the community to an estimated 700,000+ by 1992, with 3,501 local assemblies. The first Latin American House of Worship was dedicated in Panama (1972); six Bahá'í radio stations were established (lines 13432–13594).
+
+**South Asia (India)**: Mass teaching campaigns from the 1960s onward transformed the Indian Bahá'í community from fewer than 400 (1961) to over 2.3 million by 1993 — the world's largest. The Bahá'í House of Worship in New Delhi (completed 1986) attracts more daily visitors than the Taj Mahal. Zonal ('State') Bahá'í Councils were developed from 1986 to devolve administration (lines 13595–13720).
+
+**South East Asia**: Originating with Jamál Effendi and Siyyid Muṣṭafá Rúmí's visit to Burma in 1878. Large-scale enrolments during the Ten Year Crusade: Vietnam (195 local assemblies by 1964), Philippines (150), Malaysia (97), Indonesia (63) (lines 13721–13833).
+
+**Oceania**: Sustained activity began in the 1950s. By 1992, Bahá'ís in over 3,500 localities, 614 local assemblies, 14 national assemblies; significant portions of some island populations are Bahá'í (approaching 20 per cent in Kiribati). The Bahá'í House of Worship in Apia, Western Samoa was dedicated in 1984 (lines 13905–13976).
+
+### Key Theological/Ethical Teachings Documented in This Range
+
+- **God**: God's essence is unknowable; knowledge of God is primarily achieved through the [[manifestation-of-god|Manifestations of God]] who reflect his attributes. Every created thing in the universe is a "sign" of God's sovereignty. Shoghi Effendi described God as one, personal, unknowable, inaccessible, eternal, omniscient, omnipresent, and almighty; "infinitely subtle yet rational"; rejecting immanentist, pantheistic, and anthropomorphic conceptions (lines 15010–15082).
+
+- **[[he-whom-god-shall-make-manifest|He Whom God Shall Make Manifest]]**: The Babi messianic figure promised in the Bayán; identified by Bahá'u'lláh with himself in the 1860s. The Azali objection that the Báb specified a distant future date was countered by Bahá'ís citing the Báb's own indication of "the year nine" (1852–3) as significant (lines 16548–16634).
+
+- **Government**: Bahá'u'lláh emphasized justice in government and praised constitutional monarchy; 'Abdu'l-Bahá called for separation of legislative and executive functions and predicted federalism as the future pattern of government. Bahá'ís are to be loyal, honest, and obedient to government, avoiding sedition and partisan political involvement (lines 15204–15383).
+
+- **Holy war**: The Bahá'í Faith explicitly rejects jihád; Bahá'u'lláh forbade holy war at the time of his 1863 Riḍván declaration. Bahá'ís teach through moral example and peaceful persuasion (lines 16893–16926).
+
+- **[[bahai-holy-days|Holy days]]**: Major observances include Nawrúz (21 March), the Riḍván Festival (21 April–2 May), Declaration of the Báb (23 May), Ascension of Bahá'u'lláh (29 May), Martyrdom of the Báb (9 July), and the Twin Birthdays (20 October and 12 November) (lines 16726–16852).
+
 ### Contemporary Challenges: Persecution of Iranian Bahá'ís (1979–present)
 
 The fall of the Sháh and establishment of the Islamic Republic in 1979 ushered in a period of massive persecution. Within a few years, over 200 Bahá'ís had been executed or murdered; hundreds arrested; properties confiscated; graveyards and shrines destroyed; thousands discharged from work and their children dismissed from schools and universities. In 1983, the government banned Bahá'í activities and made membership of spiritual assemblies a criminal offence; all Bahá'í institutions were disbanded. Although varying in intensity, the threat remains real. Some 10,000 Bahá'ís fled and were resettled elsewhere, but the mass of Iranian Bahá'ís remain. Ironically, the persecutions appear to have stiffened Bahá'í resolve globally and increased worldwide public awareness, provoking sympathy and support from individual governments, the European Union, and the UN (lines 3668–3734).

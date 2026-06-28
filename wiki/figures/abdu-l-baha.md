@@ -107,3 +107,21 @@ Despite using interpreters for his Western addresses (mostly Iranians, but also 
 - [[bahai-administrative-order|Bahá'í Administrative Order]] — institutions he developed
 - [[manifestation-of-god|Manifestation of God]] — the concept framing his role (as interpreter, not Manifestation)
 - [[smith-short-history-bahai-faith|Smith 1995]] — source
+
+## From Smith, Concise Encyclopedia (2026-06-28)
+
+### The Covenant and Succession
+'Abdu'l-Bahá is the Centre of [[bahaullah|Bahá'u'lláh]]'s Covenant, appointed in the [[covenant-bahai|Book of the Covenant]] (Kitáb-i-'Ahd) as the *ghusn-i-a'zam* (Most Great Branch) and Bahá'u'lláh's successor. 'Abdu'l-Bahá described the Covenant doctrine as 'the most great characteristic' of Bahá'u'lláh's religion, stating that through it the unity of the Bahá'í Faith was assured and schism prevented (lines 9979–9982).
+
+He declared his half-brother Mírzá Muḥammad-'Alí (also named in the Book of the Covenant, but as subordinate) and his followers to be [[covenant-breakers|Covenant-breakers]], expelling the larger part of Bahá'u'lláh's family from the Faith (lines 10082–10095). He also expelled Dr Ameen U. Fareed (Amínu'lláh Fáríd) for financial misconduct (lines 10096–10106).
+
+His Will and Testament appointed [[shoghi-effendi|Shoghi Effendi]] as Guardian and promised divine guidance for the Universal House of Justice (lines 9965–9974).
+
+### Some Answered Questions
+This key Bahá'í text was compiled by [[laura-dreyfus-barney|Laura Clifford Dreyfus-Barney]] from her recorded conversations with 'Abdu'l-Bahá in Akká beginning 1904, published 1908 (lines 11160–11168). See [[some-answered-questions|Some Answered Questions]].
+
+### Commentary on 'I was a Hidden Treasure' (lines 9279–9306)
+A work by 'Abdu'l-Bahá, composed in Baghdad, addressing themes in Islamic mystical philosophy: stages of divine love, the unknowability of God, and the question of whether archetypal forms were eternal or created. 'Abdu'l-Bahá held that both viewpoints rested on the mystical state of their respective proponents rather than the characteristics of what they were describing.
+
+### Economic Teachings
+'Abdu'l-Bahá saw the struggle for physical existence as 'the fountain-head of all calamities' (line 11270). He taught the necessity of abolishing extremes of both poverty and wealth through legislation and voluntary sharing; advocated communal village storehouses, graduated income taxes, industrial profit sharing, adequate wages, and industrial courts to resolve labour disputes (lines 11325–11402). See also poverty, wealth, and reciprocity themes (lines 11258–11402).

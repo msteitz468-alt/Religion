@@ -97,6 +97,30 @@ In 1953, all twelve national assemblies then in existence embarked on a ten-year
 
 Other significant developments: construction of Bahá'í Houses of Worship at Kampala, Uganda, and Sydney, Australia (both dedicated 1961), and increasing contact with the United Nations (1948–) (lines 2775–2779).
 
+## From Smith, Concise Encyclopedia (2026-06-28)
+
+### The Guardianship: Doctrinal Framework
+
+Shoghi Effendi defined the [[guardianship-bahai|Guardianship]] in his *Dispensation of Bahá'u'lláh* (1934) as empowering each Guardian "to reveal the purport and disclose the implications of the utterances of Bahá'u'lláh and of 'Abdu'l-Bahá." Such interpretations were "authoritative and binding." Together with the [[universal-house-of-justice|Universal House of Justice]], the Guardianship was designed to ensure the continuity of divinely appointed authority, safeguard the unity of followers, and maintain the elasticity and flexibility of the Faith's teachings (lines 15635–15654, Smith *Concise Encyclopedia*).
+
+He emphasized the distinction between the spiritual station of the Guardians and that of 'Abdu'l-Bahá: the distance between them was greater than that which separated 'Abdu'l-Bahá from his father. Unlike 'Abdu'l-Bahá, no Guardian would ever be a perfect exemplar of Bahá'u'lláh's teachings. He stressed that his own interpretations generally extended to matters relating to the Faith, not to subjects such as economics and science (lines 15679–15697).
+
+### The Problem of Succession
+
+Shoghi Effendi did not have any children, and during his lifetime expelled his brothers and cousins from the Faith as Covenant-breakers. By the 1950s there were none among the male descendants of Bahá'u'lláh who remained loyal. Presumably for this reason, Shoghi Effendi felt himself unable to appoint a successor and died in November 1957 without leaving a will (lines 15699–15714).
+
+### God Passes By
+
+Shoghi Effendi's one published book, *God Passes By* (1944), describes the first hundred years of the "Bahá'í Era and Cycle" (incorporating the Babi as well as the Bahá'í "Dispensations"). It was not intended to be a "detailed history" and does not include the academic apparatus of notes, references, and bibliography. It divides Bahá'í history into four distinct periods centering respectively on the missions of the Báb, Bahá'u'lláh, and 'Abdu'l-Bahá, and on the rise of the Bahá'í Administration, presenting these together as a single indivisible divine drama and evolutionary process. It summarizes the main events and the writings and teachings of the Bahá'í Central Figures; characterizes the main participants; details the prophetic role of the Báb and Bahá'u'lláh and the implementation of the Bahá'í Covenant; and instances examples of divine judgment on those who attacked the Faith. Its major importance for Bahá'ís lies less in historical detail than in its vision of the onward progress of the Faith in the face of opposition and tribulation (lines 15147–15137, Smith *Concise Encyclopedia*).
+
+### Appointment of Hands of the Cause
+
+Shoghi Effendi honored several Bahá'ís as Hands posthumously between 1925 and 1952, then began appointing functioning Hands in 1951: an initial group of twelve (24 December 1951), raised to nineteen (29 February 1952). The total was raised to twenty-seven in October 1957, shortly before his death. Most Hands were assigned responsibilities in the continents where they resided, notably to assist in achieving teaching plan goals. Five were appointed from or as members of the International Bahá'í Council. The Hands were also given responsibility to protect the Faith against external and internal enemies, and were authorized to appoint Auxiliary Boards (from 1954) (lines 16025–16060, Smith *Concise Encyclopedia*). See [[hands-of-the-cause|Hands of the Cause]].
+
+### Funds and Financial System
+
+Shoghi Effendi regularized the Bahá'í funding system. In 1923 he issued that all local and national Assemblies should establish their own funds, under their exclusive control, to be expended as they saw fit to promote the interests of the Faith. He described the flow of contributions as the "life-blood" of these institutions. All Bahá'ís were encouraged to support the funds "liberally and continuously, and in a spirit of sacrificia." He designated the monies under his own control as the **International Fund**, used for international projects, building and land acquisition at the Bahá'í World Centre, international conferences, and the subsidy of activities in poorer parts of the Bahá'í world. In 1954 he instituted five continental funds to support the work of the Hands of the Cause and the newly established Auxiliary Boards (lines 14690–14795, Smith *Concise Encyclopedia*).
+
 ## The Bahá'í World Centre
 
 The development of the Bahá'í World Centre in the Haifa–'Akká area was largely the work of Shoghi Effendi. This included:
@@ -117,3 +141,38 @@ In his last general letter to the Bahá'ís (October 1957), he had referred to t
 The Hands retained this headship until 1963, when on their instructions the elections for the first Universal House of Justice were held. The Hands debarred themselves from election (lines 2830–2832). The appointed International Bahá'í Council had meanwhile been replaced by an elected council (1961); electors for both the International Council (disbanded 1963) and the Universal House of Justice were the members of all national spiritual assemblies (lines 2833–2837).
 
 The one significant exception to the Bahá'í world's acceptance of the Hands' custodial role was Charles Mason Remey, one of the most senior American Hands, who proclaimed himself second Guardian in 1960 and attracted a small but widely spread following. The rest of the Hands and the overwhelming majority of the Bahá'í world rejected his claims; Remey and his followers were declared Covenant-breakers. After Remey's death in 1974, his followers split into several mutually antagonistic groups; a small remnant remains active mainly in the United States (lines 2842–2851).
+
+
+## From Smith, Concise Encyclopedia — Writings Detail (2026-06-28)
+
+*Source: lines 28931–29001 of Smith, A Concise Encyclopedia of the Bahá'í Faith (Oneworld, 2000).*
+
+### Letters
+
+Published collections of English-language letters include: correspondence encouraging Bahá'ís to teach and "live the life"; reports of Bahá'í activities world-wide pointing to wider significance of particular events; summons to achieve specific goals (settlement of pioneers, establishment of assemblies, translation of literature, acquisition of Bahá'í centres); analysis of historical developments; statements regarding beliefs, morality, social principles, law and administration; and obituaries of outstanding Bahá'ís. Some letters to the Iranian Bahá'ís were published in the original but are generally difficult to obtain, and few have been translated (lines 28934–28961).
+
+### Books
+
+Shoghi Effendi wrote one book in English, an interpretive history of the first century of Babi-Bahá'í history: *God Passes By* (1944). He also wrote a shorter Persian-language version, the *Lawh-i-Qarn*, and was extensively involved in editing work for the *Bahá'í World* volumes (lines 28963–28972).
+
+### Translations
+
+A few smaller pieces appeared in print in the 1920s, together with a collaborative rendering of Bahá'u'lláh's *Hidden Words* (1929). Later he published four further volumes of Bahá'u'lláh's writings: *The Kitáb-i-Íqán* (1931); *Gleanings from the Writings of Bahá'u'lláh* (1935); *Prayers and Meditations by Bahá'u'lláh* (1938); and *Epistle to the Son of the Wolf* (1941). He also translated Nabíl-i-A'zam's (Zarandí's) history of the Babis, which appeared in English as *The Dawn-Breakers* (1932). Many other translated passages from Bahá'í scripture appeared in his letters (lines 28974–28993).
+
+### Other Works
+
+Shoghi Effendi prepared several compilations of Bahá'í statistics and other materials, as well as a number of historical maps (lines 28996–29000).
+
+The following adds detail from Smith's *Concise Encyclopedia of the Bahá'í Faith* (Oneworld, 2000), lines 28684–28930.
+
+### Writings
+
+Shoghi Effendi wrote extensively in both English and Persian. 'Abdu'l-Bahá had conferred upon the Guardianship the function of interpreter of the word of God, and Guardians were empowered "to reveal the purport and disclose the implications of the utterances of Bahá'u'lláh and of 'Abdu'l-Bahá." These interpretations were authoritative and binding. George [[townshend|Townshend]] served as Shoghi Effendi's literary adviser.
+
+The vast majority of his writings are letters (over 17,500 letters by him or written on his behalf by a secretary have been collected so far), ranging from routine correspondence to lengthy monographs. Fourteen volumes of English-language letters had been published as of Smith's writing: collections to the American, Canadian, Alaskan, British, German, Indian, Australian and New Zealand Bahá'ís, together with monograph letters on the World Order of Bahá'u'lláh, the teaching of the Faith (*Advent of Divine Justice*), and Bahá'u'lláh's proclamation to the rulers (*The Promised Day Is Come*) (lines 28890–28930).
+
+### Leadership Style (additional detail)
+
+He signed his letters to the Bahá'ís "your true brother" and referred to the institution of the guardianship rather than to his own personal role. Whilst 'Abdu'l-Bahá had attended the mosque and acted as a local notable, Shoghi Effendi distanced himself from the local Palestinian notability and concentrated his energies on world-wide direction of the Faith. Unlike 'Abdu'l-Bahá he never journeyed to visit the Bahá'ís overseas; his primary contacts were through extensive correspondence and meetings with pilgrims visiting Haifa (lines 28822–28850).
+
+Personal life was largely subordinated to his work. In 1937 he married Mary Maxwell (b. 1910), [[ruhiyyih-khanum|Rúhiyyih Khánum]], the only daughter of two North American Bahá'ís. During the 1940s a conflict developed between Shoghi Effendi and many members of his extended family — his brother, sisters, cousins and aunts — partly because of their contacts with Covenant-breaking members of Bahá'u'lláh's extended family. All were eventually excommunicated (lines 28851–28884). He died unexpectedly on 4 November 1957 in London following a bout of influenza and was buried there (lines 28884–28889).

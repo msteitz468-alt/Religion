@@ -7,8 +7,8 @@ textual_sources:
   - writings-of-the-bab
 dates: "1817–1850"
 roles: [prophet, founder, Manifestation of God]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [figure, babi, bahai]
 ---
 
@@ -82,3 +82,44 @@ The Báb's writings, particularly the Bayán, established the doctrinal framewor
 - [[manifestation-of-god|Manifestation of God]] — central theological concept
 - [[progressive-revelation|Progressive Revelation]] — doctrinal framework
 - [[smith-short-history-bahai-faith|Smith 1995]] — source
+
+---
+
+## From Smith, Concise Encyclopedia of the Bahá'í Faith (2026-06-28)
+
+*Source: lines 4931–5103. All claims are from this source unless noted.*
+
+### Family of the Báb
+
+**Maternal family:** The Báb's mother, Fátimih Bagum, had three brothers: (1) Hájí Mírzá Sayyid Muhammad (d. 1876), Khál-i-Akbar ("the Greatest Uncle"), the recipient of the *Kitáb-i-Íqán*, who became a believer after receiving it; (2) Hájí Mírzá Sayyid 'Alí, known as Khál-i-A'zam ("Most Great Uncle"), the Báb's guardian after his father's death and the first male family member to accept his nephew's claims — he subsequently died as one of the Seven Martyrs of Tehran (1850); (3) Hájí Mírzá Hasan-'Alí, Khál-i-Asghar ("Younger Uncle"). The son of Sayyid Muhammad, Hájí Mírzá Muḥammad-Taqí (the Vakílu'd-Dawlih), was the chief builder of the Bahá'í House of Worship in Ashkhabad (lines 4935–4956).
+
+The Báb's first wife, [[khadijih-bagum|Khadíjih Bagum]] (a niece of his mother's father), had two brothers: Hájí Mírzá Abu'l-Qásim (1811–87) and Hájí Mírzá Sayyid Hasan (d. 1892), "Afnán-i-Kabír" — sons of whom married daughters of 'Abdu'l-Bahá. One of these sons, Mírzá Hádí, who married Díyá'iyyih, was the father of [[shoghi-effendi|Shoghi Effendi]] (lines 4960–4971). Bahá'u'lláh appointed the descendants of the Báb's family (the *Afnán*) as hereditary custodians of the House of the Báb in Shiraz (line 5012–5018).
+
+Whilst in Isfahan (1846–7), the Báb married a second wife, Fátimih (d. 1916), the sister of Mullá Rajab-'Alí (line 5021–5023). After the Báb's death, Subh-i-Azal briefly married the second wife (for one month), then divorced her and married her to Sayyid Muhammad Isfahání — an action Bahá'ís cite as contrary to the Báb's instructions that his wives remain unmarried after his death (lines 5010–5019).
+
+**Paternal family:** Details of the Báb's father, Mírzá Muḥammad-Ridá, are less available; most of that side did not become Bahá'ís. Two of his father's cousins were eminent Shi'i clerics — Mírzá-yi-Shírází (1815–95), the leading mujtahid of his time, and Hájí Sayyid Javád (d. 1870/1), the Friday prayer leader in Kirmán — both reportedly secret Babi/Bahá'ís who protected Babis and Bahá'ís from persecution (lines 4980–4991). Aqá Mírzá Aqá (1842–1903), a son of another cousin, became the second male member of the Báb's paternal family to accept the Faith in his teens, and was later an active Bahá'í teacher; Bahá'u'lláh honored him with the title Núru'd-Dín ("Light of Faith") and designated him recipient of the Tablet of the World (lines 4997–5011).
+
+### Writings of the Báb
+
+The Báb wrote extensively, either in his own hand — mostly during the early stage of his mission — or dictated to his companion and secretary, Sayyid Husayn Yazdí ("'Azíz"), one of the Letters of the Living. He referred to having composed 500,000 verses by 1848 (the equivalent of eighty books the size of the Quran), one-fifth of which had been disseminated. Suppression of Babism led to significant losses, but widespread copying preserved many manuscripts. Little has been published in accessible form, even in the original Arabic and Persian (lines 5032–5051).
+
+**Pre-mission works (before May 1844):** Five works are known, including a Quran commentary, a treatise on "right behaviour," and a pilgrimage prayer honoring Muhammad, Fátima, and the Imáms (lines 5052–5058).
+
+**First work of the mission:** The [[qayyumu-l-asma|Qayyúmu'l-Asmá']] (May–June 1844) (lines 5060–5062).
+
+**Works composed up to departure for Isfahan (September 1846):** Eleven commentaries on Quranic verses or Islamic traditions (the best known being on the Chapter of Kawthar, composed for Vahíd); thirteen treatises on theological and legal issues including elements of specifically Babi ritual; homilies; and collections of prayers (lines 5063–5072).
+
+**Works composed in Isfahan (September 1846–March 1847):** A commentary on the Quranic *súra* of Wa'l-'Asr for the imam-jum'a (Friday prayer leader) Sayyid Muhammad; a treatise on the "specific prophethood" of Muhammad for the city governor Manúchihr Khán (lines 5073–5081).
+
+**Works from Azerbaijan (most important):** The Persian **[[the-bayan|Bayán]]** and its companion Arabic volume; the **Seven Proofs** (*Dalá'il-i-Sab'ih*); the Book of Names; nine further commentaries on the Quran; and the *Kitáb-i-Panj Sha'n* ("Book of the Five Grades") — a book in which the Báb wrote in five modes: Quranic-style Arabic verses, prayers, homilies, commentaries, and Persian-language writing (lines 5083–5095). The Báb also fashioned many talismans (line 5102).
+
+## From Smith, Concise Encyclopedia (2026-06-28)
+
+### Honorific Titles Given to Followers
+The Báb gave various of his followers honorific religious titles (l. 16999–17007). The best known are the [[letters-of-the-living|Letters of the Living]]. Others were named "Mirrors." Individuals were also given specific religious names: [[quddus|Quddús]] ("Holy"), [[tahirih|Táhirih]] ("Pure"), Vaḥíd ("Unique"), etc.
+
+### Letters of the Living
+The [[letters-of-the-living|Letters of the Living]] (*Ḥurúfu'l-Ḥayy*) were the Báb's first eighteen disciples (l. 20855). The Báb gave them a cosmic role, identifying them with the *sábiqún* (forerunners) — the first members of the human race to respond to God's pre-eternal covenant (l. 20922–20927). They were also to form the first *waḥíd* ("unity") in a proposed hierarchy of nineteen-member groups (l. 20929–20930). Most had been followers of Shaykhi leader Sayyid [[kazim-rashti|Kázim Rashtí]] (l. 20917–20919); nine were killed during or following the Shaykh Ṭabarsí conflict (l. 20920–20921).
+
+### Wife: Khadíjih Bagum
+The Báb's wife was [[khadijih-bagum|Khadíjih Bagum]] (d. 1882), his second cousin and childhood playmate, whom he married in August 1842 (l. 20075–20080). She later became a Bahá'í. According to her own account she recognized her husband's religious station before his declaration in 1844 (l. 20083–20089).

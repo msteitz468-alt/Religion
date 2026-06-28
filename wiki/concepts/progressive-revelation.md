@@ -55,3 +55,16 @@ The doctrine in its Bahá'í form requires the Báb to be understood as both a f
 - [[bahai|Bahá'í Faith]] — the tradition that systematized this doctrine
 - [[babi|Babi Religion]] — the immediate predecessor tradition
 - [[smith-short-history-bahai-faith|Smith 1995]] — source
+
+
+## From Smith, Concise Encyclopedia (2026-06-28)
+
+Additional detail from Smith's *Concise Encyclopedia* (Oneworld, 2000), lines 25210–25268.
+
+### Extended Definition
+
+Smith defines progressive revelation as the Bahá'í doctrine relating the various recognized world religions as "different stages in the eternal history and constant evolution of one religion", itself divine and indivisible, and of which the Bahá'í revelation formed an integral part. Bahá'u'lláh's revelation occupied a unique role as it represented the culmination of those of the past (WOB 114–19, 166–7). No religion — including the Bahá'í Faith itself — could claim to be the final revelation of God to humanity (PDC 112) (lines 25210–25224).
+
+Revelation was both recurrent and progressive. Each [[manifestation-of-god|Manifestation of God]] brought divine teachings appropriate to the spiritual capacity of the people of his day. As such, "religious truth" is relative to its recipients and not absolute. The prophets proclaimed "eternal verities" (moral and spiritual truths renewed by each Manifestation), but their message also changed to reflect the particular "spiritual evolution of human society" at their time of appearance — thus Bahá'u'lláh's message included both eternal moral truths and the call for world unity based on the proclamation of the oneness of humankind; and laws of marriage and criminal punishment varied from one religion to another. The cycle of successive divine messengers is like the annual coming of spring that brings new life to a cold, dead world which has come to neglect the teachings of the previous revelator (lines 25225–25252).
+
+Over time, each religious system has declined as religionists blindly follow tradition rather than the pure teachings of the founder and base their belief on imitation rather than exercising independent investigation of truth. In the future God will continue to "send down" his messengers to humanity until "the end that hath no end", and they will "unfold" an "ever-increasing" measure of divine guidance (lines 25252–25263). However, Bahá'u'lláh was insistent that no further Manifestation would come for at least one thousand years after him (KA 32 k37) (lines 25264–25267).

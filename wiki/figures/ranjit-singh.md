@@ -5,8 +5,8 @@ tradition: Sikhism
 textual_sources: []
 dates: 1780–1839 (r. 1801–1839)
 roles: [maharaja, military leader, state-builder]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [figure, sikhism, punjab, ruler]
 ---
 
