@@ -112,8 +112,24 @@ confer being and form on the spheres. He nonetheless **subordinates emanation to
 time**: unlike [[avicenna|Avicenna]] and [[al-farabi|al-Farabi]] he denies the cosmos proceeds
 *necessarily and eternally*, and faults Aristotle's emanationist compounding of spheres from
 simple Intelligences as incoherent (II:22). See [[guide-for-the-perplexed]].
-- [[incoherence-of-the-philosophers]] — source page
+## Averroes Repudiates the Avicennan Cascade
+
+Strikingly, in the *[[incoherence-of-the-incoherence|Tahāfut al-Tahāfut]]* (Disc. 3)
+**[[averroes|Averroes]]** — though defending the *falāsifa* — **rejects the ten-intellect emanation
+scheme itself** as no part of authentic Aristotelianism: the triple-derivation cascade (each
+intellect yielding the next intellect, a sphere-soul, and a sphere-body from its threefold
+self-relation) consists of "inventions fabricated against the philosophers by Avicenna, Fārābī, and
+others," found among the Peripatetics only in Porphyry. In its place he offers an Aristotelian
+picture: the celestial bodies are **rational animals moved "by command"** by their incorporeal
+movers, and the First Principle "distributes unity" through the cosmic hierarchy as a king governs
+through deputies or a soul governs one animal — answering "from the One only one proceeds" without a
+serial decomposition of the intellect. He concedes he "cannot give in this book a demonstrative
+proof" of how plurality proceeds from the Monad. See [[separate-intellects]], [[necessary-existent]].
+
+- [[incoherence-of-the-philosophers]] — source page (Ghazālī's attack)
+- [[incoherence-of-the-incoherence]] — Averroes' reply (rejects the Avicennan cascade)
 - [[al-ghazali]] — author
+- [[averroes]] — defends *falsafa* but repudiates the emanation cascade
 - [[avicenna]] — chief philosophical target
 - [[al-farabi]] — originator of the Islamic emanationist cosmology (not in text)
 - [[kalam]] — theological tradition within which Ghazālī operates (not in text)

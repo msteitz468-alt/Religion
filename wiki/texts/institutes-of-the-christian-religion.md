@@ -5,7 +5,7 @@ canon_status: authoritative (Reformed) — confessional standard, not scripture
 canon_scope:
   canonical_for: []
   deuterocanonical_for: []
-  authoritative_for: [calvinism]
+  authoritative_for: [presbyterianism]
   disputed_by: []
   rejected_by: [catholicism]
 language_original: Latin (with Calvin's own French translations)
@@ -122,7 +122,7 @@ order of topics derived from Paul's Letter to the Romans and the articles of the
 
 The *Institutes* is **not scripture** in any tradition — Calvin subordinated it entirely to the Bible.
 It functions as the foundational **confessional/authoritative standard** of the Reformed tradition
-([[calvinism|Calvinism]] / Reformed / Presbyterian churches), "sitting in the library of any educated
+([[presbyterianism|Calvinism]] / Reformed / Presbyterian churches), "sitting in the library of any educated
 Protestant cleric." It was **condemned by the
 Catholic Council of Trent** (which regarded Calvin as the arch-heretic among Protestants), hated by
 most Lutherans, and even publicly burned in Switzerland by Calvin's *Protestant* opponents over double
@@ -133,5 +133,5 @@ B–C pending).
 ## See also
 
 - [[john-calvin|John Calvin]] — author
-- [[calvinism|Calvinism / Reformed tradition]]
+- [[presbyterianism|Calvinism / Reformed tradition]]
 - [[gordon-calvins-institutes-a-biography|Gordon, *Calvin's Institutes: A Biography*]] (source)

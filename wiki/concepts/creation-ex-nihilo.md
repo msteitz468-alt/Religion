@@ -60,13 +60,14 @@ necessarily-emanated cosmos. This is the subject of the First Discussion of
 [[al-ghazali|al-Ghazali]]'s [[incoherence-of-the-philosophers|*Tahafut al-Falasifa*]] — see
 [[eternity-of-the-world|the eternity of the world]] and the controversy page.
 
-## Islam — Creation in Time vs. an Eternal World
-
-In Islamic [[kalam|theology]], creation *ex nihilo* and the world's temporal origination
-(*huduth*) are defended against the [[falsafa|philosophers']] doctrine of an eternal,
-necessarily-emanated cosmos. This is the subject of the First Discussion of
-[[al-ghazali|al-Ghazali]]'s [[incoherence-of-the-philosophers|*Tahafut al-Falasifa*]] — see
-[[eternity-of-the-world|the eternity of the world]] and the controversy page.
+For **[[averroes|Averroes]]** (in the *[[incoherence-of-the-incoherence|Tahāfut al-Tahāfut]]*, Disc.
+2–3), strict creation from absolute non-being is incoherent: "an opposite cannot be changed into its
+opposite," and "non-existence itself cannot become existence." The agent instead converts **potency
+into actuality** in an eternal substrate; "everything that comes into being comes into being from
+something else," so prime matter (*hyle*) must be eternal. What scripture calls God's "making what
+He wants out of nothing" he reads as the First Principle bestowing on each existent the
+characteristic by which it becomes existent — not literal production from absolute non-being. See
+[[necessary-existent]], [[emanation]].
 
 ## Judaism — Maimonides
 

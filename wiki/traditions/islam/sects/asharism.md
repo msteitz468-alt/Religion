@@ -11,7 +11,7 @@ key_doctrinal_distinctives: [occasionalism, divine omnipotence and will over nat
 hermeneutical_method: [dialectical theology (kalam), bila kayf affirmation of attributes]
 key_figures: [al-ghazali]
 key_texts: [incoherence-of-the-philosophers]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [sect, islam, kalam, theology]
 ---
@@ -38,6 +38,22 @@ Against the [[mutazilism|Mu'tazila]] on the createdness of the Quran and the pri
 against the [[falsafa|falasifa]] on the [[eternity-of-the-world|eternity of the world]] and
 causal necessity. See [[al-ghazali|al-Ghazali]].
 
+## Averroes's Critique of Ash'arite Method
+
+In the *[[incoherence-of-the-incoherence|Tahāfut al-Tahāfut]]*, **[[averroes|Averroes]]** attacks
+the school's core moves as self-undermining. **[[occasionalism|Occasionalism]]** he calls
+"sophistry": denying efficient causes denies the intellect itself ("intelligence is nothing but the
+perception of things with their causes"), and the appeal to divine **habit (*ʿāda*)** either makes
+God acquire habits (impossible) or covertly reinstates the natural necessity it meant to deny; a God
+of pure unbounded will is "an arbitrary tyrant" whose world would be unknowable. He charges the
+Ashʿarite doctrine of **real attributes additional to the essence** with making God a composite —
+"an eternal man" — and judges the school's account of **annihilation** and its **atomism** (accidents
+not persisting two moments) incoherent. He singles out **Abū al-Maʿālī al-Juwaynī** for the most
+extreme version: denying necessary connection even "between condition and conditioned… cause and
+sign." On the dispute's deeper structure he holds the difference between Ashʿarism and *falsafa* is
+"sometimes more the formula than the essence" (see [[harmony-of-religion-and-philosophy]]).
+
 ## Sources Ingested
 
 - [[incoherence-of-the-philosophers|al-Ghazali, *The Incoherence of the Philosophers*]].
+- [[incoherence-of-the-incoherence|Averroes, *The Incoherence of the Incoherence*]] (critic of Ash'arite kalam), trans. van den Bergh.

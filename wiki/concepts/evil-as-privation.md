@@ -86,3 +86,4 @@ evil an independent substance.
 - [[divine-providence]] — God "makes a good use even of evil wills."
 - [[manichaeism|Manichaeism]] — the dualist position Augustine wrote against.
 - [[creation-ex-nihilo]] — why created natures are good yet mutable.
+- [[nature-of-evil]] — the dispute with the Kabbalistic/Hasidic stream ([[abraham-joshua-heschel|Heschel]], the Zohar), which rejects privation and treats evil as a real, active power *sustained by a holy spark* rather than mere absence.

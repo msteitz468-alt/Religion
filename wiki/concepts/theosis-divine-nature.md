@@ -2,9 +2,9 @@
 title: Theosis / Partakers of the Divine Nature (2 Peter 1:4)
 domain: theology / soteriology / anthropology
 traditions_using: [Christianity — Eastern Orthodox (central), Catholic, Protestant (debated)]
-sources_ingested: 1
-last_updated: 2026-06-06
-tags: [concept, christianity, soteriology, deification, theosis, eastern-orthodox, new-testament]
+sources_ingested: 2
+last_updated: 2026-06-27
+tags: [concept, christianity, soteriology, deification, theosis, eastern-orthodox, new-testament, patristics, athanasius]
 ---
 
 # Theosis / Partakers of the Divine Nature (2 Peter 1:4)
@@ -55,6 +55,24 @@ Plutarch, the Stoics — and J. M. Starr's comparative study), Green concludes:
 So for Green, 2 Pet. 1:4 promises **God-like moral character**, the fruit of God's promises, set
 against the moral corruption of the false teachers — not an ontological merger with deity.
 
+## Athanasius's Formula (the "wonderful exchange")
+
+The doctrine's charter statement comes from [[athanasius|Athanasius]]'s
+[[on-the-incarnation|*On the Incarnation*]] §54, cast as an **exchange**:
+
+> "He, indeed, assumed humanity that we might become God. He manifested Himself by means of a body in
+> order that we might perceive the Mind of the unseen Father. He endured shame from men that we might
+> inherit immortality." (§54)
+
+Crucially, Athanasius *defines* the "becoming God" in the treatise itself, and it is **not** an
+ontological merger of essences but the recovery of **incorruption, immortality, and the restored
+[[imago-dei|Image]]** — the participatory life of the Word reversing the Fall's slide toward
+non-being (§§4–9). This anchors the East's later **essence/energies** distinction (Palamas): the
+formula promises real participation in God's *life*, while later theology specifies it is in his
+*energies*, not his unknowable essence. It also sits comfortably with the **moral-transformation**
+reading of 2 Pet 1:4 below (incorruption *and* God-like character), against which it is sometimes
+wrongly set as if it required ontological deification.
+
 ## Tradition Map
 
 - **Eastern Orthodox**: *theōsis* is the architecture of salvation; 2 Pet. 1:4 (with John 17, Gal.
@@ -83,3 +101,5 @@ language some find in Johannine "abiding" and Pauline "in Christ."
 - [[justification|Justification]] — the forensic counterpart in soteriology
 - [[new-creation|New Creation]] — the transformation/renewal theme
 - [[peter-apostle|Simon Peter]] — the claimed author
+- [[athanasius|Athanasius]] · [[on-the-incarnation|On the Incarnation]] (§54) — the classic formula
+- [[incarnation]] · [[imago-dei]] — the Christological and anthropological ground

@@ -2,9 +2,9 @@
 title: Atonement (Aquinas's account of the saving work of the Passion)
 domain: theology / soteriology
 traditions_using: [Christianity]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
-tags: [concept, christianity, soteriology, atonement, satisfaction, scholasticism, aquinas]
+tags: [concept, christianity, soteriology, atonement, satisfaction, scholasticism, aquinas, patristics, athanasius]
 ---
 
 # Atonement
@@ -82,6 +82,25 @@ closed by original and personal sin.
   Passion removes evil and wins forgiveness; the Resurrection is "the beginning and exemplar of all
   good things," the cause of newness of life. See [[bodily-resurrection]].
 
+## The patristic background: Athanasius's "exchange" / physical model
+
+Long before Anselm and Aquinas, [[athanasius|Athanasius]]'s [[on-the-incarnation|*On the
+Incarnation*]] (c. 318) frames the saving work not as juridical satisfaction but as the reversal of
+**corruption** (*phthora*) through the Word's solidarity with human nature. Because humanity, made in
+the [[imago-dei|Image]], had fallen toward non-being, only the Word who made all could "recreate"
+it. The Word assumes a real, mortal body and "surrendered His body to death instead of all," so that
+"in His death all might die, and the law of death thereby be abolished" (§8). The death of the one
+body, indwelt by "the Word who was above all," is "a sufficient exchange for all" (§9) — the body
+both pays "the debt" owed by all to death (§20) and, being deathless by the Word's indwelling,
+abolishes corruption from within. This is often called the **"physical" or "participatory" theory of
+redemption**: salvation works by the union of humanity-in-general with the immortal Word, illustrated
+by the **great king honoring a whole city by dwelling in one of its houses** (§9). Athanasius also
+keeps the older **Christus Victor / ransom** motifs (Heb 2:14: the Word destroys "him that had the
+power of death, that is, the devil," §§10, 20) and the **curse-bearing** of the cross (Gal 3:13,
+§25), but his governing category is incorruption restored, not penalty satisfied. This contrasts
+instructively with Aquinas's later **satisfaction** framing and with the patristic "ransom to Satan"
+strand Aquinas rejected (see [[ransom-to-whom]]).
+
 ## Reception and significance
 
 Aquinas's "satisfaction" refines Anselm's: where Anselm framed the alternative as *aut poena aut
@@ -99,7 +118,10 @@ the one sacrifice.
 - [[ransom-to-whom]] · [[guilt-for-christs-death]] · [[purgatory]] · [[bodily-resurrection]]
 - [[sacrifice]] · [[sin]] · [[original-sin]] · [[grace]] · [[sacraments]]
 - [[jesus]] · [[thomas-aquinas]] · [[summa-theologica]] · [[augustine]] · anselm-of-canterbury
+- [[athanasius]] · [[on-the-incarnation]] · [[theosis-divine-nature]] — the patristic exchange model
 
 ## Sources Ingested
 
 - [[summa-theologica]] Tertia Pars Q47–Q56 (read in full, Part 4 Scope 2c).
+- [[on-the-incarnation|Athanasius, *On the Incarnation*]] §§1–55 (read in full) — the patristic
+  exchange / physical model of redemption.

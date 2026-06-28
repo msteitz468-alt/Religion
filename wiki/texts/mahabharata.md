@@ -11,8 +11,8 @@ canon_scope:
   rejected_by: []
 language_original: Sanskrit
 date_range: c. 300 BCE–300 CE (final form; core war narrative possibly as early as 950 BCE)
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [text, hinduism, epic, smriti, itihasa, dharma]
 ---
 

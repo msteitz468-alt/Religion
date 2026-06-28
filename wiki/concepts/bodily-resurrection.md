@@ -102,8 +102,34 @@ The doctrine of bodily resurrection is shared across the Abrahamic traditions, t
 
 ---
 
+## Averroes's Reply (Tahāfut al-Tahāfut, Natural Sciences Disc. 4)
+
+This is the **third and climactic *[[takfir]]* charge**. **[[averroes|Averroes]]**'s reply is a
+delicate balancing act:
+
+- **Resurrection is religiously and politically necessary.** Belief in an afterlife motivates the
+  virtue without which human society and happiness fail; revealed laws are "necessary political
+  arts." To deny resurrection, having power to destroy religious belief, is heresy that "both
+  theologians and philosophers will no doubt kill." See [[harmony-of-religion-and-philosophy]].
+- **But: simulacra, not numerically identical bodies.** "What arises from the dead is *simulacra* of
+  these earthly bodies, not these bodies themselves, for that which has perished does not return
+  individually" — the resurrected body is the same *specifically*, not *numerically*. This is sharper
+  against the Ashʿarite atomists, on whose own principle (accidents not lasting two moments) the
+  perished body cannot be numerically the same either.
+- **Material images suit the masses.** Sensory depictions of paradise are "more appropriate" for
+  motivating the many (Ibn ʿAbbās: "There is no relation in the other world to this world but the
+  names").
+- **Ghazālī contradicts himself.** Averroes notes Ghazālī claims in the *Tahāfut* that no Muslim
+  holds a purely spiritual resurrection, yet elsewhere credits the Sufis with exactly that — "this
+  man erred in religious questions as he erred in rational problems."
+
+Averroes also gives a **historical note**: bodily resurrection "was first mentioned by the prophets
+of Israel after Moses" (the Psalms), is affirmed in the New Testament, and is a Sabaean doctrine; it
+is not found in "the oldest philosophers." Compare the controversy [[resurrection-body]].
+
 ## See Also
 
+- [[averroes]] — affirms resurrection *specifically*, not *numerically*
 - [[incoherence-of-the-philosophers]] — source text
 - [[al-ghazali]] — author
 - [[avicenna]] — primary target of Discussion 20

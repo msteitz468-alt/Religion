@@ -194,8 +194,24 @@ Ezek. 1) and the *ma'aseh bereshit* (account of Creation, Gen. 1–3). This repr
 *sod*-level (esoteric) hermeneutic of Jewish biblical interpretation applied to Aristotelian
 cosmology.
 
+## Averroes on the Movers of the Spheres (Tahāfut al-Tahāfut)
+
+In the *[[incoherence-of-the-incoherence|Tahāfut al-Tahāfut]]* (Disc. 3, 14–16),
+**[[averroes|Averroes]]** keeps the separate intellects as the **incorporeal movers** of the
+celestial spheres but rejects [[avicenna|Avicenna]]'s serial [[emanation]] cascade that derives them
+one from another. For Averroes the heavens are **rational animals** that the movers move "by
+command," and "intellect" is predicated of these separate substances **analogically** (*per prius et
+posterius*), the First being the cause of intellectuality in all the rest (see [[necessary-existent]]).
+Against the Sixteenth Discussion he denies that the celestial souls need particular images of
+terrestrial events ("the Preserved Tablet"): a single circular motion requires no such imagination,
+and heavenly cognition is a unified mode transcending the universal/particular distinction (see
+[[gods-knowledge-of-particulars]]). The sublunary "**bestower of forms**" (*dator formarum*) is the
+lowest separate intellect, on the Avicennan view he reports.
+
 ## Cross-Links
 
+- [[averroes]] — movers of the spheres; rejects the Avicennan cascade
+- [[incoherence-of-the-incoherence]] — Averroes' treatment (Disc. 3, 14–16)
 - [[maimonides]] — author
 - [[guide-for-the-perplexed]] — source text
 - [[existence-of-god]] — the proofs that presuppose and establish the role of the Intelligences

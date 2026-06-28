@@ -121,8 +121,34 @@ His method throughout is internal critique on demonstrative (*burhān*) grounds:
 
 ---
 
+## Averroes's Position (Tahāfut al-Tahāfut)
+
+In Discussions 6–8 of the *[[incoherence-of-the-incoherence|Tahāfut al-Tahāfut]]*,
+**[[averroes|Averroes]]** sides with the philosophers and the [[mutazilism|Muʿtazila]] against the
+Ashʿarite affirmation of real attributes — but on a reframed basis:
+
+- **Attributes as equivocal predicates, not real additions.** "Knowledge," "will," "life," and
+  "power" are predicated of God and of creatures **equivocally** (analogically, *per prius et
+  posterius*). Divine knowledge is **pure act and the cause of existents**, where human knowledge is
+  passive and caused by them; so the dispute is partly verbal — "there is no difference between one
+  who says that God wills with a will which does not resemble the human will, and one who says that
+  God knows through a knowledge which does not resemble human knowledge."
+- **Why real co-eternal attributes fail.** An essence with attributes really added to it is a
+  **composite**, hence requires a cause ("every compound is transitory"); the Ashʿarite God becomes,
+  in effect, "an eternal man." The Muʿtazilite view (attributes = essence) "comes nearer to the
+  truth," and the philosophers' approaches that of the Muʿtazila.
+- **Analogical predication dissolves Ghazālī's Disc. 7 objection** that the First and the first
+  separate intellect "share" intellectuality (hence a genus, hence composition): "intellect" is said
+  of the separate intellects analogically, the First being the cause of intellectuality in all
+  others. This objection, Averroes grants, was valid against [[avicenna|Avicenna]] (who missed the
+  category) but not against Aristotle or [[al-farabi|al-Fārābī]]. See [[necessary-existent]].
+- **A topic forbidden to the masses.** "The problem concerning the knowledge of the Creator… is one
+  of those questions which it is forbidden to discuss in a dialectical way, let alone put… in a
+  book." See [[harmony-of-religion-and-philosophy]].
+
 ## See Also
 
+- [[averroes]] — defends attribute-denial via analogical predication; [[necessary-existent]]
 - [[emanation]] — the emanationist cosmology that presupposes radical divine simplicity
 - [[kalam]] — the Islamic theological discipline within which the attributes debate occurs
 - [[mutazilism]] — the theological movement aligned with the philosophers on attribute-denial

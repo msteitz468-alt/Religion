@@ -5,7 +5,7 @@ dates: c. 1058–1111 CE
 tradition: Islam
 affiliation: [Sunni Islam, Ash'arism, Shafi'i jurisprudence, Sufism]
 primary_texts_commented: [incoherence-of-the-philosophers, quran]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [commentator, islam, theologian, philosopher, sufi]
 ---
@@ -67,6 +67,21 @@ His critique reshaped the relation of reason and revelation in Sunni Islam and p
 **[[averroes|Ibn Rushd / Averroes]]**'s point-by-point reply, the
 *[[incoherence-of-the-incoherence|Tahafut al-Tahafut]]*.
 
+## Averroes's Counter-Reading
+
+A generation later, **[[averroes|Averroes]]** answered the *Tahāfut* line by line in the
+*[[incoherence-of-the-incoherence|Tahāfut al-Tahāfut]]* — and read Ghazālī against the grain. He
+charged that Ghazālī's objections were largely **sophistical**, "opposing difficulty with
+difficulty" to produce perplexity rather than refutation, and proposed renaming the book "the
+Incoherence of Ghazālī." More provocatively, he doubted Ghazālī's **sincerity**: that he defended
+Ashʿarism only "to flatter the masses of his times," while "in metaphysics he recurs to the
+philosophers… most clearly shown… in his book called *The Niche for Lights*." Averroes also accused
+him of confusing the demonstrative sciences and of contradicting himself across his works (e.g. on
+whether spiritual resurrection is heresy — Ghazālī "erred in religious questions as he erred in
+rational problems"). On the three *[[takfir]]* charges, Averroes answered each (see
+[[eternity-of-the-world]], [[gods-knowledge-of-particulars]], [[bodily-resurrection]]).
+
 ## Sources Ingested
 
 - [[incoherence-of-the-philosophers|*The Incoherence of the Philosophers*]], trans. Marmura (2000).
+- [[incoherence-of-the-incoherence|*The Incoherence of the Incoherence*]] (Averroes, as critic of Ghazālī), trans. van den Bergh.

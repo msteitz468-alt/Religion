@@ -86,7 +86,7 @@ Key features distinguishing it from the Thomist account above:
 
 The doctrine was "received with widespread repugnance, even among his friends," hated by Catholics and
 most Lutherans, and was later systematised (well beyond Calvin's own emphasis) at the Synod of Dort.
-See [[calvinism|Calvinism]].
+See [[presbyterianism|Calvinism]].
 
 ## Reception and controversy
 

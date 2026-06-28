@@ -83,8 +83,23 @@ This has direct consequences for the zahir/batin question raised in Discussion 2
 
 ---
 
+## Averroes's Reply (Tahāfut al-Tahāfut, Natural Sciences Disc. 2–3)
+
+Against Ghazālī's epistemological challenge, **[[averroes|Averroes]]** largely **defends the
+demonstrability** of the soul's immateriality. He endorses the proof that "every substratum which is
+impressed by the inherence of the form in it… is corporeal," whereas "the receptacle of the
+intelligibles is not impressed by the intelligibles" — so it is no body; and he resolves Ghazālī's
+sheep-and-wolf counterexample by distinguishing two kinds of bodily divisibility (Ghazālī, he says,
+"committed a sophism" by sliding between them). On **immortality** he meets the Avicennan
+individuation problem with a tentative solution — surviving souls subsist in a "subtle heavenly
+warmth" as their spiritual matter — and treats the **material intellect** as "absolutely immaterial"
+(praising Anaxagoras, via Aristotle, for making intellect the prime mover). For the masses he offers
+the **sleep/death analogy** as "a proof which all can understand." On whether immortality entails
+*bodily* resurrection, see [[bodily-resurrection]].
+
 ## See Also
 
+- [[averroes]] — defends the soul's demonstrable immateriality
 - [[incoherence-of-the-philosophers]] — source text
 - [[al-ghazali]] — author
 - [[avicenna]] — whose psychology is the primary target

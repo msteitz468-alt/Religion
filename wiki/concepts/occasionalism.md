@@ -94,9 +94,41 @@ The analogy of talc demonstrates that unknown qualities capable of blocking norm
 
 ---
 
+## Averroes's Rebuttal: The Defense of Natural Causation
+
+In the Natural-Sciences First Discussion of the *[[incoherence-of-the-incoherence|Tahāfut
+al-Tahāfut]]*, **[[averroes|Averroes]]** mounts the classic philosophical defense of efficient
+causation against Ghazālī's occasionalism:
+
+- **Denial of causes is sophistry — and self-refuting.** "To deny the existence of efficient causes
+  which are observed in sensible things is sophistry." Crucially, "intelligence is nothing but the
+  perception of things with their causes"; so to deny causes is to deny the intellect, and with it
+  knowledge, proof, definition, and even the design-inference to a wise Maker.
+- **"Habit" collapses.** If the supposed *ʿāda* belongs to God it is impossible ("God cannot acquire
+  habits" — "Thou shalt not find any alteration in the course of God"); if to things, it is just
+  **nature**; if to our judging souls, it is itself naturally determined. The Ashʿarite appeal to a
+  divinely-created "knowledge of habits" covertly reintroduces the natural necessity it meant to
+  deny, since "the knowledge created in us is always in conformity with the nature of the real
+  thing."
+- **The tyrannical-prince reductio.** A God of pure unbounded will, with no fixed standard, is like
+  an arbitrary tyrant whose acts are "unknown by nature" — the world would be utterly opaque.
+- **A qualified concession.** Averroes grants that fire's burning is real but **not unconditional**:
+  external conditions (the talc, the prophet's body) can impede it, so causal power is genuine yet
+  defeasible. He also insists the genuine philosophers never *disputed* miracles — these are
+  religious principles — and pins the "Abraham unburned" objection on "heretical Muslims," not the
+  *falāsifa*. Natural order is finally grounded in divine wisdom: "This is the wisdom of God and
+  God's course in created things, and you will never find in God's course any alteration."
+
+This makes the causality dispute a contest between [[asharism|Ashʿarite]] occasionalism and the
+*[[falsafa]]* defense of **real natural causation** as the precondition of all science. See
+[[harmony-of-religion-and-philosophy]], [[prophetic-miracle]].
+
+---
+
 ## Cross-Links
 
 - [[al-ghazali|Al-Ghazālī]] — author of the *Tahāfut*
+- [[averroes|Averroes]] — defender of natural causation; [[incoherence-of-the-incoherence|*Tahāfut al-Tahāfut*]]
 - [[incoherence-of-the-philosophers|Incoherence of the Philosophers]] — source text
 - [[asharism|Ash'arism]] — tradition within which this doctrine is normative
 - [[kalam|Kalām]] — the broader dialectical-theological context

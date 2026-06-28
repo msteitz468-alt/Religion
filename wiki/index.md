@@ -26,6 +26,7 @@ Master index of all pages. Updated on every ingest.
   - [[seder-tohorot|Seder Tohorot]] — Purities; Laws of ritual purity
 - [[zohar|The Zohar]] — Foundational text of [[kabbalah|Kabbalah]] / Jewish mysticism; mystical (Sod) commentary on the Torah; Aramaic; attributed to Shim'on bar Yoḥai (2nd c.) but composed by [[moses-de-leon|Moses de León]] in Castile c. 1280–1300; main running Torah commentary (Genesis–Deuteronomy) via Matt's Pritzker Edition **Vols. I–IX** (detailed in previous entries); **Volume X** (Nathan Wolski, 2026-06-07) presents the *Midrash ha-Ne’lam* (“the Concealed Midrash”), the earliest stratum of the Zoharic corpus — a more midrashic, “concealed,” soul-centered layer on Genesis; **Volumes XI–XII** (Hecker and Wolski, 2026-06-07) present additional *Midrash ha-Ne’lam* on the Megillot together with the independent “Zoharic Compositions” (joint Introduction by Wolski and Hecker; Wolski: Heikhalot Be-Reshit/Pequdei and Piqqudin; Hecker: the rest) — *Heikhalot* (theurgic prayer praxis adorning Malkhut/Shekhinah’s halls/maidens for “seventh with seventh” union; two versions), *Raza de-Razin* (physiognomy with mutability/teshuvah emphasis — see new [[heikhalot|Heikhalot]] and [[raza-de-razin|Raza de-Razin]] concepts), *Sitrei Otiyyot* (YHVH letters generating sefirot as chariots), *Qav ha-Middah* (Line of Measure from Ein Sof), plus Piqqudin, Merkevet Yeḥezqel, Zohar al ha-Parashot, and Tosefta-style addenda. Many units mislabeled “New Zohar” in print but among the earliest strata. Completing the non-running strata and the full Pritzker Edition (I–XII). **First Jewish-mysticism source — scope expansion (2026-06-07); main Torah commentary complete (I–IX); concealed midrashic and composition genres added (Vols. X–XII, 2026-06-07); Pritzker Edition complete.**
 - [[guide-for-the-perplexed|The Guide for the Perplexed (Moreh Nevukhim)]] — [[maimonides|Maimonides]]'s philosophical-theological classic; Judeo-Arabic, c. 1190; reconciles Torah with Aristotelian philosophy via the doctrine of the parable; negative theology, creation vs. eternity, prophecy, providence, reasons for the commandments; authoritative (non-scriptural) for Rabbinic Judaism (Friedländer trans., ingested in full 2026-06-27)
+- [[god-in-search-of-man|God in Search of Man: A Philosophy of Judaism]] — [[abraham-joshua-heschel|Heschel]]'s 1955 constructive philosophy of Judaism (companion to *Man Is Not Alone*); non-canonical modern theology; three parts (God / Revelation / Response). **Ingested in full 2026-06-27** — Part I ([[radical-amazement]], [[awe]], [[the-ineffable]], [[kavod|glory]], [[depth-theology]], [[divine-pathos]]); Part II ([[revelation]], [[religion-of-time]]); Part III ([[mitzvah]], [[kavanah]], [[halakhah]], [[freedom]], [[nature-of-evil]])
 - [[genesis|Genesis]] — Torah/Pentateuch; creation, patriarchs; Hebrew (enhanced 2026-06-07 with Zoharic/Kabbalistic Sod reading of Gen 1–11)
 - [[exodus|Exodus]] — Torah/Pentateuch; liberation, law, tabernacle; Hebrew
 - [[leviticus|Leviticus]] — Torah/Pentateuch; sacrifice, purity, holiness; Hebrew
@@ -108,7 +109,9 @@ Master index of all pages. Updated on every ingest.
 
 ### Patristic Theology
 
+- [[on-the-incarnation|On the Incarnation (De Incarnatione Verbi Dei)]] — [[athanasius|Athanasius of Alexandria]]'s early treatise (c. 318), companion to *Contra Gentes*, addressed to Macarius; the **Divine Dilemma**, the [[imago-dei|Image]] re-drawn, the "He assumed humanity that we might become God" formula (§54, [[theosis-divine-nature|theosis]]), and the refutation of Jews (Dan 9) and Gentiles; pre-Arian; authoritative (non-scriptural) across Christianity; Greek; Lewis-introduced trans., **whole treatise (§§1–57) read in full** (new 2026-06-27)
 - [[city-of-god|The City of God (De Civitate Dei)]] — [[augustine|Augustine of Hippo]]'s 22-book apology "Against the Pagans," 413–426 CE; occasioned by the sack of Rome (410); the [[two-cities|two cities]] and the first Christian philosophy of history; authoritative (non-scriptural) across Christianity; Latin; NPNF/Dods trans., **whole work (Books I–XXII) read in full** (updated 2026-06-27)
+- [[institutes-of-the-christian-religion|Institutes of the Christian Religion]] — [[john-calvin|John Calvin]]'s ordered summary of Christian doctrine (1536–1559), the foundational systematic work of the [[presbyterianism|Reformed]] tradition; a 20-year project across Latin & French editions; definitive 1559 four-book structure (Creator/Redeemer/Spirit/Church); authoritative (non-scriptural) for the Reformed, condemned by Trent; built from [[gordon-calvins-institutes-a-biography|Gordon's biography of the book]] (Scope A) (new 2026-06-27)
 - [[on-christian-doctrine|On Christian Doctrine (De Doctrina Christiana)]] — [[augustine|Augustine]]'s four-book charter of Western Christian hermeneutics (Books I–III 397 CE, Book IV 426/427); signs & things, [[use-and-enjoyment|use/enjoyment]], [[charity-and-cupidity|the rule of charity]], the [[spoils-of-egypt|spoils of Egypt]], [[tichonius-seven-rules|Tichonius's seven rules]], and a [[christian-eloquence|Christian rhetoric]]; Augustine's 44-book OT canon (with deuterocanon); authoritative (non-scriptural) across Christianity; Latin; NPNF/Shaw trans., **whole work (Books I–IV) read in full** (added 2026-06-27)
 - [[septuagint|The Septuagint (LXX)]] — the ancient Greek Old Testament; Augustine's account of the seventy translators and the **inspired authority** of the LXX (against Jerome's *hebraica veritas*), *City of God* XVIII; canonical for Eastern Orthodoxy, source of the Catholic deuterocanon (new 2026-06-27)
 
@@ -138,7 +141,7 @@ Master index of all pages. Updated on every ingest.
 - [[sahih-muslim|Ṣaḥīḥ Muslim]] — the second Sunni hadith collection (Muslim ibn al-Hajjaj, d. 875); 43 books across theology, ritual, law, eschatology, biography, and Qurʾānic tafsīr; `canonical_for: [sunni-islam]`; Arabic; Siddiqui translation; Book 1 (Kitāb al-Īmān) ingested 2026-06-27 — yielding pages on [[iman|Īmān]], [[ihsan|Iḥsān]], [[five-pillars|Five Pillars]], [[shafaa|Shafāʿa]], [[nifaq|Nifāq]] (new 2026-06-27)
 - [[fusus-al-hikam|Fusus al-Hikam (The Bezels of Wisdom)]] — Ibn Arabi's late masterwork of speculative Sufism; 27 prophetic "bezels"; `authoritative_for: [sufism]`, `disputed_by: [sunni-islam]` (condemned by Ibn Taymiyya); *wahdat al-wujud* and the Perfect Man; Arabic; Bewley translation ingested (new 2026-06-09)
 - [[incoherence-of-the-philosophers|The Incoherence of the Philosophers (Tahafut al-Falasifa)]] — al-Ghazali's 1095 polemic against [[falsafa|falsafa]]; 20 Discussions; the three-charge *[[takfir]]*; `authoritative_for: [sunni-islam, asharism]`, `disputed_by: [falsafa]`; Arabic; Marmura translation ingested (new 2026-06-27)
-- [[incoherence-of-the-incoherence|The Incoherence of the Incoherence (Tahafut al-Tahafut)]] — Averroes' point-by-point reply defending the philosophers; `authoritative_for: [falsafa]` (stub — source present, not yet ingested) (new 2026-06-27)
+- [[incoherence-of-the-incoherence|The Incoherence of the Incoherence (Tahafut al-Tahafut)]] — Averroes' c. 1180 point-by-point reply defending the philosophers (but turning on Avicenna and judging neither side demonstrative); 20 Discussions; `authoritative_for: [falsafa]`; van den Bergh translation ingested in full (updated 2026-06-27)
 
 ### Buddhism (Pali Canon & Mahayana Sutras)
 
@@ -169,7 +172,7 @@ Master index of all pages. Updated on every ingest.
 *(The two great itihāsas, ingested via Doniger, *The Hindus*, Chs. 9–11, 2026-06-09.)*
 
 - [[ramayana|The Rāmāyaṇa]] — Vālmīki's epic; Rāma's exile and war against Rāvaṇa; Sītā's ordeals; proto-bhakti in Rāma's name; the first smriti text of classical Hinduism; c. 200 BCE–200 CE (new 2026-06-09)
-- [[mahabharata|The Mahābhārata]] — 75,000 verses; the Kuru civil war; "dharma is subtle"; *matsya-nyāya*; includes the Bhagavad Gita; the Fifth Veda; c. 300 BCE–300 CE (new 2026-06-09)
+- [[mahabharata|The Mahābhārata]] — 75,000 verses; the Kuru civil war; "dharma is subtle"; *matsya-nyāya*; includes the Bhagavad Gita; the Fifth Veda; c. 300 BCE–300 CE; **Rajagopalachari retelling ingested in full 2026-06-27** (new 2026-06-09)
 
 ### Daoism
 
@@ -333,6 +336,10 @@ Master index of all pages. Updated on every ingest.
 - [[janam-sakhis|Janam-sākhīs]] — the hagiographies of Guru Nanak; non-canonical; McLeod's case study in tradition vs. history
 - [[rahit-maryada|Sikh Rahit Maryada]] — the authoritative Khalsa code of conduct (SGPC, 1950); not scripture
 
+### Bahá'í Faith (Tradition added 2026-06-27; [[smith-short-history-bahai-faith|Smith 1995]] scholarship ingest)
+
+*(No primary Bahá'í texts ingested yet — scholarship only. Primary texts to add: Kitáb-i-Aqdas, Kitáb-i-Íqán, Hidden Words, 'Abdu'l-Bahá's talks.)*
+
 ---
 
 ## Figures
@@ -421,7 +428,24 @@ Master index of all pages. Updated on every ingest.
 - [[jatayu|Jaṭāyu]] — vulture king; Daśaratha's lifelong friend; dies resisting Rāvaṇa's abduction; his dying testimony sends Rāma to Laṅkā (new 2026-06-27)
 - [[sugriva|Sugrīva]] — exiled monkey king of Kiṣkindhā; allied with Rāma; kills his brother Vali (disputed ethics); leads the monkey-bear army (new 2026-06-27)
 - [[ashoka|Aśoka]] — Maurya emperor (r. c. 268–232 BCE); Kalinga conquest and conversion; dhamma edicts; Third Buddhist Council; the pillar capitals (new 2026-06-09)
-- [[draupadi|Draupadī]] — Kṛṣṇā, born from fire; polyandrous wife of the five Pāṇḍavas; the disrobing; goddess-cult in South India; feminist counterpart to Sītā (new 2026-06-09)
+- [[draupadi|Draupadī]] — Kṛṣṇā, born from fire; polyandrous wife of the five Pāṇḍavas; the disrobing; goddess-cult in South India; feminist counterpart to Sītā; Kichaka episode; vow of loose hair (updated 2026-06-27)
+- [[bhishma|Bhīṣma]] — Devavrata; the great renunciation; bhīṣma-pratigya; the Amba tragedy; falls to Arjuna/Śikhaṇḍin's arrows; bed of arrows on Kurukṣetra (new 2026-06-27)
+- [[drona|Droṇa]] — brahmin military preceptor; teacher of Pāṇḍavas and Kauravas; humiliated by Drupada; revenge via Dhṛṣṭadyumna; killed by Dhṛṣṭadyumna after he lays down arms (new 2026-06-27)
+- [[karna|Karṇa]] — the great tragic hero; Kunti's secret son; three curses; Indra's theft of his armour; loyalty to Duryodhana; killed by Arjuna; revealed as eldest Pāṇḍava (new 2026-06-27)
+- [[arjuna|Arjuna]] — the preeminent archer; Gāṇḍīva bow; chose the unarmed Krishna over his army; crisis before battle → the Bhagavad Gītā; killed Bhishma, Bhagadatta, Jayadratha, Karna (new 2026-06-27)
+- [[yudhishthira|Yudhiṣṭhira]] — Dharmaputra; eldest Pāṇḍava; gambled away the kingdom; model of forbearance in exile; final trial with the dog (Dharma in disguise) (new 2026-06-27)
+- [[duryodhana|Duryodhana]] — chief Kaurava; "perverse pride redeemed by great courage in adversity"; final mace duel with Bhima; receives garlands from heaven as a fallen kshatriya (new 2026-06-27)
+- [[abhimanyu|Abhimanyu]] — Arjuna's son; killed alone in the chakravyuha formation on Day 13; triggers Arjuna's oath against Jayadratha (new 2026-06-27)
+- [[ashvatthama|Aśvatthāman]] — Droṇa's son; perpetrator of the night massacre; aims the Brahmastra at Uttara's womb; surrenders his forehead jewel (new 2026-06-27)
+- [[kunti|Kuntī]] — mother of the Pāṇḍavas; Durvāsa's boon; secret birth of Karṇa; strategic counsellor during exile; Rajagopalachari's "worthy mother of heroes" (new 2026-06-27)
+- [[dhritarashtra|Dhṛtarāṣṭra]] — blind king of Hastinapura; father of the Kauravas; pattern of acknowledge-then-capitulate; retires to forest with Gāndhārī (new 2026-06-27)
+- [[gandhari|Gāndhārī]] — Dhṛtarāṣṭra's wife; self-blindfolded in solidarity; mother of 100 Kauravas; curses Krishna after the war (new 2026-06-27)
+- [[shakuni|Śakuni]] — Gāndhārī's brother; master dice-caster; engineers the fateful game; "evil genius of the Kauravas" (new 2026-06-27)
+- [[vidura|Vidura]] — half-brother of Dhṛtarāṣṭra and Pāṇḍu; avatar of Dharma; chief counsellor; repeatedly ignored voice of dharma (new 2026-06-27)
+- [[vyasa|Vyāsa]] — author-narrator of the Mahābhārata; also a character within it; transmission chain: Vyāsa → Gaṇapati → Vaiśampāyana → Janamejaya (new 2026-06-27)
+- [[pandu|Pāṇḍu]] — king of Hastinapura; cursed by Kindama; fathers the five Pāṇḍavas via Kuntī's boon; dies in the forest (new 2026-06-27)
+- [[devayani|Devayānī]] — daughter of Śukrācārya; the Kacha-Devayānī love story; marries Yayāti; triggers his curse (new 2026-06-27)
+- [[yayati|Yayāti]] — king cursed with premature old age; Puru's willing sacrifice of youth; renunciation after long indulgence (new 2026-06-27)
 - [[durga|Durgā / Chandikā]] — paradigmatic tooth goddess; kills the buffalo-demon Mahiṣa; "Glorification of the Goddess" (*Devīmāhātmya*); independent [[shakti|shakti]] who absorbs all divine power; Doniger's feminist-critique test case (new 2026-06-09)
 - [[parvati|Pārvatī / Sati / Kālī]] — paradigmatic breast goddess; consort of Śiva; Sati's suicide and the Śakti Pīṭhas; winning Śiva; Kāma burned; Gaurī/Kālī split; single-parent mother of [[ganesha|Gaṇeśa]] (new 2026-06-09)
 - [[ganesha|Gaṇeśa]] — elephant-headed Lord of Obstacles; patron of scribes; parthenogenic son of Pārvatī; beheaded by Śiva and restored with an elephant head; bandicoot vehicle (new 2026-06-09)
@@ -433,6 +457,7 @@ Master index of all pages. Updated on every ingest.
 - [[gandhi|Gandhi]] (1869–1948) — Mahatma; satyagraha and nonviolent resistance; fasting as moral weapon; Gita commentary (symbolic reading); conflict with Ambedkar over caste; assassination by Godse (RSS) 1948 (new 2026-06-09)
 - [[ambedkar|Ambedkar]] (1891–1956) — Dalit; drafted Indian Constitution; converted to Buddhism 1956 (5 million Dalits); rejected Gandhi's caste position; "Being Scheduled Caste causes inferiority in our minds. To be Buddhist, it makes me feel free." (new 2026-06-09)
 - [[vivekananda|Vivekananda]] (1863–1902) — first systematic Hindu missionary to the West; World's Parliament of Religions (Chicago 1893); founded Ramakrishna Mission; anti-caste, pro-beef; father of "first wave" American Hinduism (new 2026-06-09)
+- [[c-rajagopalachari|C. Rajagopalachari]] (1878–1972) — Rajaji; Indian statesman and popular reteller of the Hindu epics; devotional-pedagogical approach; stripped accretions to reveal the "noble epic" core; Gita-centered; first Indian Governor-General (new 2026-06-27)
 
 ### Daoism (2026-06-09)
 - [[laozi|Laozi]] — legendary author of the Daodejing; the "Old Master"; deified in religious Daoism as Taishang Laojun
@@ -682,6 +707,13 @@ Master index of all pages. Updated on every ingest.
 - [[marcionites|Marcionites]] — Marcion’s rival church (c.144 CE–5th/6th c.); spread from Euphrates to Britain; ascetic practice; two gods; Docetic Christ; first closed canon (edited Luke + 10 Pauline letters); refuted most extensively by Tertullian (Kruger)
 - [[montanists|Montanists]] — "New Prophecy" movement (c.165–present in Phrygia); Montanus + Priscilla + Maximilla; ecstatic utterance; claim of ongoing Spirit revelation; excommunicated by Asian synods; Tertullian’s later affiliation; Muratorian Fragment explicitly condemns (Kruger)
 
+### Bahá'í Faith (2026-06-27; [[smith-short-history-bahai-faith|Smith 1995]])
+
+- [[the-bab|The Báb]] (Siyyid 'Alí-Muḥammad, 1817–1850) — founder of Babism; co-founder of the Bahá'í Faith; executed Tabriz 1850; the Bayán as his scripture
+- [[bahaullah|Bahá'u'lláh]] (Mírzá Ḥusayn-'Alí Núrí, 1817–1892) — prophet-founder of the Bahá'í Faith; exiled Baghdad → Edirne → 'Akká; the Kitáb-i-Aqdas as holy law
+- [[abdu-l-baha|'Abdu'l-Bahá]] (1844–1921) — successor and Center of the Covenant; journeys to West 1910–13; 27,000+ letters
+- [[shoghi-effendi|Shoghi Effendi]] (1897–1957) — Guardian of the Bahá'í Faith; systematized the Administrative Order; major translator and historian
+
 ### Scientology / New Religious Movements (2026-06-09)
 
 - [[sea-org|Sea Organization (Sea Org)]] — Scientology’s dedicated religious order, founded 1967 (Hubbard’s flotilla); billion-year contract; runs all major Scientology organizations worldwide; RPF (Rehabilitation Project Force) as internal punishment/reeducation detail; labor and living conditions cited in "religion or cult" debate ([[urban-church-of-scientology|Urban]])
@@ -765,7 +797,7 @@ Master index of all pages. Updated on every ingest.
 - [[al-ghazali|Abu Hamid al-Ghazali]] (c. 1058–1111) — "the Proof of Islam"; the supreme Sunni [[asharism|Ash'arite]] theologian; author of the *[[incoherence-of-the-philosophers|Tahafut al-Falasifa]]*; turns the philosophers' own *burhan* against them; [[occasionalism]], the divine will, the three-charge *[[takfir]]* (new 2026-06-27)
 - [[avicenna|Avicenna (Ibn Sina)]] (c. 980–1037) — the supreme systematizer of [[falsafa|falsafa]]; the chief target of the *Tahafut*; the Necessary Existent, [[emanation]], the [[eternity-of-the-world|eternity of the world]], God's [[gods-knowledge-of-particulars|universal knowledge of particulars]], the immortal [[soul-in-islamic-philosophy|rational soul]] (new 2026-06-27)
 - [[al-farabi|Al-Farabi]] (c. 870–950) — "the Second Teacher"; founder of Islamic [[falsafa|falsafa]] and its emanationist cosmology; paired with Avicenna as "the philosophers" in the *Tahafut* (new 2026-06-27)
-- [[averroes|Averroes (Ibn Rushd)]] (1126–1198) — the great Andalusian Aristotelian; defender of [[falsafa|falsafa]]; author of the *[[incoherence-of-the-incoherence|Tahafut al-Tahafut]]* rebutting al-Ghazali (stub — source not yet ingested) (new 2026-06-27)
+- [[averroes|Averroes (Ibn Rushd)]] (1126–1198) — the great Andalusian Aristotelian, "the Commentator"; defender of [[falsafa|falsafa]] in the *[[incoherence-of-the-incoherence|Tahafut al-Tahafut]]*, yet detaching Aristotle from [[avicenna|Avicenna]] and holding neither side demonstrative; [[necessary-existent|analogical predication]], real natural [[occasionalism|causation]], resurrection as *simulacra*, [[harmony-of-religion-and-philosophy|religion and philosophy]] (updated 2026-06-27)
 - [[amina-wadud|Amina Wadud]] (b. 1952) — American Muslim scholar; pioneer of **gender-inclusive tafsir** (*[[wadud-quran-and-woman|Qur'an and Woman]]*); the "hermeneutics of tawhid" and the [[quran-4-34-male-authority|Q 4:34]] reread; the "gender jihad" and the 2005 mixed-gender prayer (new 2026-06-09)
 - [[aisha|Aisha bint Abi Bakr]] (c. 613–678) — *Umm al-Mu'minin*; wife of the Prophet; daughter of Abu Bakr; one of the most prolific Sunni hadith transmitters; transmitted the first revelation narrative, Hajj hadiths, and private prophetic practice; authoritative corrector of legal misreadings (new 2026-06-27)
 - [[bilal-ibn-rabah|Bilal ibn Rabah]] (c. 580–640) — the Prophet's first *mu'adhdhin*; institution of the Adhan documented in Ṣaḥīḥ al-Bukhārī; Adhan phrases doubled; the two-adhan Fajr system (new 2026-06-27)
@@ -816,6 +848,9 @@ Master index of all pages. Updated on every ingest.
 ### Confucian Tradition (2026-06-10)
 - [[zhu-xi|Zhu Xi]] (1130–1200) — Neo-Confucian synthesizer; commentator on Zhou Dunyi's *Taijitu shuo* and *Tongshu*; li/qi metaphysics; the ji-chou enlightenment (1169); daotong constructor; Four Books commentaries became civil-service exam basis 1313–1905; compared to Benedict of Nursia (facilitating religious practice) rather than Thomas Aquinas (Adler 2014)
 
+### Greek Fathers (2026-06-27; [[on-the-incarnation|On the Incarnation]])
+- [[athanasius|Athanasius of Alexandria]] (c. 296/298–373) — bishop of [[alexandria|Alexandria]]; great opponent of [[arianism|Arianism]] (*Athanasius contra mundum*); *On the Incarnation* — the Divine Dilemma, the [[imago-dei|Image]]-restoring redemption, and the classic [[theosis-divine-nature|theosis]] formula; "instrument/temple" Logos-Christology
+
 ### Latin Fathers & Classical Interlocutors (2026-06-27; [[city-of-god|City of God]])
 - [[augustine|Augustine of Hippo]] (354–430) — bishop of Hippo; fountainhead of Western theology; *City of God*, the two cities, providence as philosophy of history; *On Christian Doctrine*, the charter of Latin hermeneutics
 - [[cyprian|Cyprian of Carthage]] (c. 200–258) — bishop and martyr; cited by Augustine as a model of the three styles of [[christian-eloquence|Christian eloquence]] (*On Christian Doctrine* IV)
@@ -843,6 +878,11 @@ Master index of all pages. Updated on every ingest.
 - [[larry-hurtado|Larry W. Hurtado]] (1943–2019) — *Destroyer of the Gods: Early Christian Distinctiveness in the Roman World* (Baylor, 2016); *One God, One Lord* (1988); *Lord Jesus Christ* (2003). Social-historical analysis of early Christianity as a genuinely distinctive and novel movement within its Roman-world context. Five axes of distinctiveness: (1) exclusivist monotheism directed to the Roman "market"; (2) a particular "bookishness" including codex preference and *nomina sacra*; (3) a trans-ethnic identity as a new *tertium quid* (neither Jewish nor Gentile); (4) ethical rigorism, especially on sexual practice; (5) dyadic devotional pattern (God + Jesus jointly venerated). Key controversy: refutation of Bousset's *Kyrios Christos* (1913) thesis; Lord-Christology arose in Aramaic-speaking Jewish Christianity before Gentile influence was possible. See also [[hurtado-destroyer-of-the-gods|source summary]] in scholarship/.
 - [[rodney-stark|Rodney Stark]] (b. 1934) — University of Washington / Baylor; *The Rise of Christianity* (Princeton, 1996). Sociological account of early Christian growth 40–300 CE: 40%/decade growth model; Lofland-Stark network conversion model; Jewish mission as success (not failure); epidemic nursing and differential mortality; sex ratio / fertility advantage; 22-city quantitative analysis (67% of variance explained by synagogues + Romanization); Gnosticism as Christian heresy (statistical); Antioch as urban chaos case study (Ch. 7); martyrdom as rational choice (Iannaccone model); religious economy framework (exclusive vs. nonexclusive firms). See also [[stark-rise-of-christianity|source summary]] in scholarship/.
 - [[kurt-rudolph|Kurt Rudolph]] (1929–2020) — German historian of religion; *Gnosis: The Nature and History of Gnosticism* (German 1977/1980; English 1987, ed. R. McL. Wilson). Foundational phenomenological + historical synthesis treating Gnosis as a coherent late-antique religion (*spätantike Religion*) with structured mythology (Pleroma of aeons, Sophia fall, Demiurge as inferior creator often = OT God, gnosis as saving knowledge and ascent, community/cult/ethics); detailed on Nag Hammadi as revolutionary primary sources; early schools, 2nd-c. "great systems" (esp. Valentinianism), Manichaeism as developed form, Mandaeans as living relic. Complements and challenges patristic/heresiological and sociological framings (Kruger, Stark, Wolfson) by centering Gnostic self-understanding and multi-root syncretism (Jewish apocalyptic, Hellenistic, Iranian, Christian elements). See [[rudolph-gnosis-the-nature-and-history-of-gnosticism|source summary]] in scholarship/; primary beneficiary pages: [[gnostics|Gnostics]], [[valentinus|Valentinus]], new concepts (gnosis, demiurge, pleroma, sophia-gnostic), [[nag-hammadi-library|Nag Hammadi Library]].
+
+### Scholarship (Reformation / Reformed Tradition)
+- [[barth-church-dogmatics-i1|Karl Barth, *Church Dogmatics* I.1, §§1–7]] — Prolegomena: the Word of God as criterion of dogmatics; task of dogmatics; prolegomena; church proclamation; threefold Word; nature and knowability of the Word; dogma and dogmatics. Read in full 2026-06-27. Grounds [[dogmatics]], [[analogia-fidei]], [[analogia-entis]], [[church-proclamation]], [[threefold-word-of-god]], [[knowability-of-the-word-of-god]], [[dogma-barth]], [[dogmatics-as-science]], [[word-of-god]] concept pages; creates [[natural-theology]] and [[scripture-church-normativity-in-dogmatics]] controversy pages; extends [[karl-barth]] commentator page.
+- [[barth-church-dogmatics-i1-s8-12|Karl Barth, *Church Dogmatics* I.1, §§8–12]] — Revelation of God: the Triune God; §8 (God in His Revelation; Trinity as root of revelation); §9 (Triunity of God); §10 (God the Father); §11 (God the Son); §12 (God the Holy Spirit). §8 read in full 2026-06-27. Grounds [[revealer-revelation-revealedness]] and [[vestigium-trinitatis]] concept pages; extends [[trinity]], [[karl-barth]].
+- [[gordon-calvins-institutes-a-biography|Bruce Gordon, *John Calvin's Institutes of the Christian Religion: A Biography*]] (Princeton, 2016; *Lives of Great Religious Books*) — a reception/composition history of the [[institutes-of-the-christian-religion|*Institutes*]]; thesis that **"Calvin is not Calvinism"** and that the book was a 20-year evolving project, not the 1559 edition alone. Anchors the [[institutes-of-the-christian-religion|*Institutes* text page]], the [[john-calvin|Calvin]] commentator page, [[presbyterianism|Calvinism/Reformed]], and Calvin's double [[predestination]]. **Scope A** (Intro + Chs. 1–2 + editions) read in full; Scopes B–C pending (new 2026-06-27)
 
 ### Scholarship (Dead Sea Scrolls / Second Temple)
 - [[dead-sea-scrolls-vermes|Vermes, *The Complete Dead Sea Scrolls in English*]] (Penguin Classics, 7th ed., 2012) — the standard English translation of the Qumran corpus; full text + introductions; Essene identification endorsed; covers all sectarian texts, pesharim, rewritten biblical texts, liturgical texts, and the Copper Scroll; **read in full** (lines 1–22830); primary source for all DSS text, concept, and figure pages above. See [[dead-sea-scrolls-vermes|source summary]] in scholarship/.
@@ -879,6 +919,7 @@ Master index of all pages. Updated on every ingest.
 - [[marjanovic-abhinavagupta-gita|Marjanovic (tr.), Abhinavagupta's *Gītārtha-saṃgraha*]] — the [[kashmir-shaivism|Kashmir Śaiva]] reading of the [[bhagavad-gita|Gita]]: esoteric/tantric decoding, comments only on hidden meanings, knowledge=action as the Lord's *dṛk*/*kriyā*, the goal as [[pratyabhijna|recognition]]; "more esoteric than Vedanta" (new 2026-06-09)
 - [[dasgupta-history-of-indian-philosophy|Dasgupta, *A History of Indian Philosophy* (5 vols.)]] — the encyclopedic modern-critical survey; Vol. IV (*Indian Pluralism*) **grounds the [[dvaita-vedanta|Dvaita]] pole** ([[madhva|Madhva's]] life, [[panchabheda|pañca-bheda]], Brahma-Sūtra interpretation, the dualist–monist controversy); also the [[saddarshana|ṣaḍ-darśana]] frame (new 2026-06-09)
 - [[doniger-the-hindus|Doniger, *The Hindus: An Alternative History*]] (2009) — the anti-essentialist, margin-centered survey ([[wendy-doniger|Doniger]]); Hinduism as a "Zen diagram" with no canon or essence; "the abuse of history"; grounds [[who-defines-hinduism|the "who defines Hinduism?" controversy]] (scoped ingest: Chs. 1 & 25, new 2026-06-09)
+- [[rajagopalachari-mahabharata|Rajagopalachari, *Mahabharata*]] (C. Rajagopalachari; Bharatiya Vidya Bhavan, 1950) — 106-chapter prose retelling/adaptation of the Sanskrit Mahābhārata; originally written in Tamil (c. 1943), translated to English; strips "accretions" to foreground the dharmic narrative and character portraits; emphasis on *nishkama karma* and the Gita as the epic's center; source for 17 new Mahābhārata figure pages; **full text read in 4-part parallel ingest** (new 2026-06-27)
 - [[buck-ramayana|Buck, *Ramayana: King Rama's Way*]] (William Buck; Univ. of California Press, 1976) — creative prose retelling of Vālmīki's Rāmāyaṇa for Western readers; preserves the epic's spirit and devotional tone while streamlining repetition and theological digression; key divergence: softens the fire ordeal (Agni leads Sītā to Rāma rather than Rāma rejecting her); Ram Dass foreword frames Hanumān as the model of *seva*; van Nooten introduction provides Sanskrit context; **full text read in 6-part parallel ingest** (new 2026-06-27)
 - [[dundas-the-jains|Dundas, *The Jains*]] (Paul Dundas; Routledge, 2nd ed. 2002) — the standard single-volume survey of Jainism; **the foundational ingest for the new [[jainism|Jainism]] tradition**: the [[tirthankara|fordmakers]] and historical [[mahavira|Mahāvīra]]; the [[digambara|Digambara]]/[[svetambara|Śvetāmbara]] schism and canon dispute; doctrine ([[karma|karma-as-matter]], [[loka|cosmos]], [[jiva|jīva]]); the ascetic and lay paths; [[anekantavada|anekāntavāda]]; and the modern reform movements; **whole body (Intro + Chs. 1–9) read in full** (new 2026-06-27)
 - [[wright-going-clear|Wright, *Going Clear: Scientology, Hollywood, and the Prison of Belief* (Knopf, 2013)]] — the major investigative narrative; Paul Haggis frame; Miscavige's rise; the Hole; IRS war; military records forgery; Sea Org conditions; ex-member testimonies (new 2026-06-09)
@@ -907,6 +948,7 @@ Master index of all pages. Updated on every ingest.
 - [[daniel-matt|Daniel C. Matt]] (b. 1950) — Modern academic scholar of Jewish mysticism; translator/annotator of the *Zohar: Pritzker Edition* (Stanford, 2004–2017) from a reconstructed critical Aramaic text; historical-critical, de León authorship; the wiki's Zohar source
 - [[shai-secunda|Shai Secunda]] (b. 1979) — Modern academic Talmudist + Iranist; founder-systematizer of **[[talmudo-iranica|Talmudo-Iranica]]** (reading the [[talmud-bavli|Bavli]] in its Sasanian Zoroastrian context); historical/source-critical + Iranian philology + "beyond influence" comparison; *The Iranian Talmud* (2014); Bard College (new 2026-06-09)
 - [[jon-d-levenson|Jon D. Levenson]] (b. 1949) — Harvard; the leading practitioner of **Jewish biblical theology** (historical criticism + theology + rabbinic exegesis); *Resurrection and the Restoration of Israel* (2006); [[resurrection-of-the-dead|resurrection]] as native rabbinic doctrine, resurrection vs. immortality of the soul, the Canaanite [[the-combat-myth|Divine Warrior]] as its root; against anachronistic individualism (new 2026-06-09)
+- [[abraham-joshua-heschel|Abraham Joshua Heschel]] (1907–1972) — Polish-born American theologian (Hasidic lineage; JTS); poetic-phenomenological **philosophy of Judaism** via **[[depth-theology]]**; *God in Search of Man* (1955) ingested (Part I): [[radical-amazement]], [[awe]], [[the-ineffable]], the [[kavod|glory]], and the **[[divine-pathos|"God in search of man"]]** thesis; critic of natural theology and religious rationalism (new 2026-06-27)
 
 ### Christian Tradition (Evangelical Protestant)
 - [[victor-hamilton|Victor P. Hamilton]] — NICOT Genesis (2 vols., 1990/1995); evangelical
@@ -988,6 +1030,8 @@ Master index of all pages. Updated on every ingest.
 - [[eternity-of-the-world|Eternity of the World]] — the philosophers' pre-eternal cosmos vs. *huduth* (temporal origination); the divine will as specifier; first charge of *takfir* (Tahafut Disc. 1) (new 2026-06-27)
 - [[divine-attributes-in-islam|Divine Attributes in Islam]] — real co-eternal attributes ([[asharism|Ash'arite]]) vs. their reduction to negation/relation ([[falsafa|falasifa]] + [[mutazilism|Mu'tazila]]) (new 2026-06-27)
 - [[gods-knowledge-of-particulars|God's Knowledge of Particulars]] — Avicenna's "universal way" vs. Ghazali's providence objection; second charge of *takfir* (Tahafut Disc. 13) (new 2026-06-27)
+- [[necessary-existent|The Necessary Existent (wajib al-wujud)]] — the possible/necessary division; the proofs of God's unity, simplicity, and incorporeality; Averroes vs. Avicenna on essence/existence and analogical predication (Tahafut al-Tahafut, Disc. 4–10) (new 2026-06-27)
+- [[harmony-of-religion-and-philosophy|Harmony of Religion and Philosophy (Averroes)]] — religious doctrine as symbol and "necessary political art"; the masses-vs-elect rule; one truth in two registers (new 2026-06-27)
 - [[prophetic-miracle|Prophetic Miracle (Mu'jiza)]] — how occasionalism makes miracle metaphysically possible and underwrites prophetic veracity (Tahafut Disc. 17) (new 2026-06-27)
 - [[bodily-resurrection|Bodily Resurrection]] — literal (*zahir*) bodily resurrection vs. the philosophers' spiritual-allegory afterlife; third charge of *takfir* (Tahafut Disc. 20) (new 2026-06-27)
 - [[iman|Īmān (Faith)]] — Islamic theology of interior belief; the six articles; the Islām/Īmān/Iḥsān triad; faith increases/decreases; quantitative thresholds and intercession; from Ṣaḥīḥ Muslim Book 1 + Ṣaḥīḥ al-Bukhārī Book 2 (new 2026-06-27, extended 2026-06-27)
@@ -1127,6 +1171,11 @@ Master index of all pages. Updated on every ingest.
 - [[genetic-entity|Genetic Entity (GE)]] — the somatic mind; evolutionary body track from Atom through Caveman; distinct from the thetan; enters body 2 days before conception; cowardly, stimulus-response (new 2026-06-10)
 - [[between-lives|Between-Lives]] — post-death implanting operation; Mars as primary report station; Pyrenees as last Earth-based Martian station; spinning-wheel forgetter; explains past-life amnesia (new 2026-06-10)
 
+### Bahá'í Faith (2026-06-27; [[smith-short-history-bahai-faith|Smith 1995]])
+- [[manifestation-of-god|Manifestation of God]] — the Bahá'í term for divinely-appointed messengers (preferred over "prophet"); includes Abraham, Moses, Krishna, Zoroaster, Buddha, Jesus, Muhammad, the Báb, Bahá'u'lláh
+- [[progressive-revelation|Progressive Revelation]] — doctrine that God sends successive Manifestations for each age, each abrogating the prior holy law; the Bahá'í extension of Islamic *naskh*
+- [[bahai-administrative-order|Bahá'í Administrative Order]] — the system of elected and appointed institutions (Local/National Spiritual Assemblies, Universal House of Justice, Hands of the Cause); no clergy
+
 ### Norse (2026-06-09)
 - [[ragnarok|Ragnarök]] — the doom and rebirth of the gods; the gods die fighting their fated end
 - [[yggdrasil|Yggdrasil and the Nine Worlds]] — the world-tree and the Norse cosmos
@@ -1230,6 +1279,21 @@ Master index of all pages. Updated on every ingest.
 - [[reasons-for-the-commandments|Reasons for the Commandments]] — *ta'amei ha-mitzvot*; every precept rational; laws against Sabian idolatry; sacrifices as concession
 - [[intellectual-perfection|Intellectual Perfection]] — the four perfections; the Parable of the Palace; love of God as knowledge of God
 
+### Modern Jewish Thought (Heschel)
+*(New concept cluster, 2026-06-27, from the [[god-in-search-of-man|God in Search of Man]] Part I ingest.)*
+- [[depth-theology|Depth-Theology]] — Heschel's method: probing the *act* of believing and its pre-conceptual substratum rather than the content of creeds; situational over conceptual thinking
+- [[radical-amazement|Radical Amazement]] — wonder that does not cease when explained; "the most incomprehensible fact is the fact that we comprehend at all"; root of religious awareness
+- [[awe|Awe (Yir'ah)]] — disposition between wonder and faith; sharply distinct from fear; "awe precedes faith"
+- [[the-ineffable|The Ineffable]] — the dimension of hidden *meaning* beyond expression (its biblical name is the glory); "God is a mystery, but the mystery is not God"
+- [[kavod|Kavod (Glory)]] — God's *presence* (not essence) pervading the world; "an act rather than a quality; a process not a substance"
+- [[divine-pathos|Divine Pathos (God in Search of Man)]] — biblical faith as God seeking man; God as concern and ultimate Subject; adverbial theology; faith as attachment, not mere belief
+- [[revelation|Revelation (Heschel's Theory)]] — revelation as event not process, "an ecstasy of God"; the paradox of Sinai; co-revelation ("the word of God and man"); the two-front battle vs. fundamentalism and criticism
+- [[religion-of-time|A Religion of Time]] — Judaism grounded in unique historical events, not timeless truths or sacred space; a chosen time as well as a chosen people
+- [[mitzvah|Mitzvah (the Deed as Response)]] — the commanded deed as response; the leap of action; partnership of God and man; "the deed is wiser than the heart"
+- [[kavanah|Kavanah]] — inner intention/direction of the heart; attentiveness, appreciation, integration; the inward pole of the mitzvah (vs. keva)
+- [[halakhah|Halakhah and Agadah]] — the structural polarity of law (science of deeds) and agadah (art of being); critique of religious behaviorism and pan-halachism
+- [[freedom|Freedom (Heschel)]] — freedom as event grounded in creation; "all freedom is a situation of God's waiting for man to choose"; "God is in need of man"
+
 ### Jewish Mysticism (Kabbalah)
 *(New concept cluster, 2026-06-07, from the Zohar I ingest — first Jewish-mysticism source.)*
 - [[ein-sof|Ein Sof]] — "Without end"; the utterly transcendent, unknowable divine Infinite; source of the sefirot; apophatic (cf. Maimonides, Pseudo-Dionysius, Plotinus's One)
@@ -1312,6 +1376,13 @@ Master index of all pages. Updated on every ingest.
 - [[covenantal-nomism|Covenantal Nomism]] — Sanders's "get in by grace, stay in by obedience"; Moo's qualifications (diversity; covenant ≠ guaranteed salvation; final-judgment synergism); framework for James 2
 - [[eschatological-temple|Eschatological Temple]] — church as God's dwelling place; 1 Cor 3:16; 6:19; Eph 2:19–22; OT background; grounds Pauline ethics; *oikonomia*-to-*oikos*-to-*naos* progression in Ephesians
 - [[theology-of-the-cross|Theology of the Cross (Theologia Crucis)]] — power in weakness; *sub contrario*; Luther + 2 Cor; the great exchange; hermeneutical dimension
+- [[dogmatics|Dogmatics]] — Barth's definition: the Church's scientific self-examination of the content of its talk about God; three senses of theology; dogmatics as enquiry (*theologia crucis*) and as act of faith; contrast with RC magisterium and Modernist anthropology (new 2026-06-27)
+- [[analogia-fidei|Analogia Fidei (Analogy of Faith)]] — the epistemological principle grounded in Rom. 12:6; the norm of dogmatics as given *with the Church* in Christ, not invented; Barth's alternative to the *analogia entis*; movement exclusively from God to creature (new 2026-06-27)
+- [[analogia-entis|Analogia Entis (Analogy of Being)]] — scholastic-Catholic principle of creaturely participation in divine being as the basis for natural theology; Aquinas; Przywara; Barth's critique: grace becomes nature; the "constantly available relationship" replaces the free divine address (new 2026-06-27)
+- [[church-proclamation|Church Proclamation]] — Barth's central category for the Church's constitutive act: preaching + sacrament as the repetition of the divine promise; contrasted with Modernist self-expression (Schleiermacher, Tillich) and Roman Catholic sacramentalism; the raw material of dogmatics; the event in which man's talk about God is God's own speech (new 2026-06-27)
+- [[word-of-god|Word of God]] — Barth's doctrine of the nature of the Word: as speech (*Dei loquentis persona*; rational, personal, purposive address); as act (contingent contemporaneity, power to rule, decision); as mystery (secularity, one-sidedness, spirituality); all developed in *Church Dogmatics* I.1 §5 against Gogarten's anthropological starting point and Tillich's symbolist account (new 2026-06-27)
+- [[knowability-of-the-word-of-god|Knowability of the Word of God]] — Barth's epistemological account of how the Word of God can be known by man: grounded in the Word itself, not in human religious capacity; concretely consisting in *acknowledgment* (*Anerkennung*) in nine dimensions; fully realised only as *faith* — God's miracle on man; the assurance is expectation, not possession (new 2026-06-27, from *CD* I.1 §6)
+- [[threefold-word-of-god|The Word of God in its Threefold Form]] — Barth's structural doctrine: three forms (revealed / written / preached) of the one Word; no hierarchy of value; revelation (Jesus Christ) is the presupposition never met directly; Scripture attests; proclamation promises; mutual dependence mapped onto Trinitarian structure; critique of Protestant orthodoxy's loss of dynamic between the forms (new 2026-06-27)
 - [[new-creation|New Creation (Kainē Ktisis)]] — 2 Cor 5:17; Gal 6:15; Rom 8:18–25; Isaiah background; already/not yet; personal + cosmic
 - [[mysterion|The Mystery (*Mystērion*) in Paul]] — hidden divine plan now disclosed; Jewish apocalyptic background (Dan *rāz*); Ephesians' dominant usage: Gentile inclusion as full co-heirs; *syn-* compounds; church as cosmic proclamation to powers
 - [[principalities-powers|Rulers and Authorities in the Heavenly Places (Principalities and Powers)]] — *archai*, *exousiai*, *kosmokratores*; Jewish apocalyptic and Ephesian magical background; Eph 1:21; 3:10; 6:12; Col 1:16; 2:15; armor of God (6:10–20); McKnight's "polluted structures" reading
@@ -1491,6 +1562,10 @@ a `sects/` page, cross-linked.)*
     - [[nirankari|Nirankaris]] (Asali) — Baba Dayal's Nanak-panthi renewal; a continuing Guru-line
     - [[namdhari|Namdharis (Kukas)]] — reformist "purified Khalsa"; a living Guru-line; the Dasam Granth as canonical
 
+### Bahá'í Faith (new tradition 2026-06-27; [[smith-short-history-bahai-faith|Smith 1995]])
+- [[bahai|Bahá'í Faith]] — tradition overview; independent world religion; progressive revelation; five million adherents worldwide (1995); emerged from Babism 1844/1863; the Kitáb-i-Aqdas as holy law; elected Administrative Order (no clergy)
+- [[babi|Babi Religion]] — the 1844–1853 Iranian precursor tradition; the Báb's revelation; the Bayán; collapse after military suppression and the Báb's execution 1850; transformed into the Bahá'í Faith
+
 ### Daoism
 - [[daoism|Daoism]] — tradition overview; the ineffable Dao; non-theistic, naturalistic; commentary-as-transformation; Kirkland revision 2026-06-10: biospiritual cultivation as the true core, tao-chia/tao-chiao dichotomy challenged
   - **Sects (historically attested — Kirkland, 2026-06-10)**:
@@ -1632,6 +1707,21 @@ a `sects/` page, cross-linked.)*
 ---
 
 ## Controversies
+
+### Jewish Theology (2026-06-27; [[god-in-search-of-man|Heschel]])
+- [[nature-of-evil|The Nature of Evil: Privation vs. Real-but-Derivative Power]] — evil as privation of good ([[maimonides|Maimonides]], Aquinas) vs. a real, active power sustained by a "holy spark" ([[abraham-joshua-heschel|Heschel]], the Zohar); rationalist vs. mystical streams within Judaism
+
+### Christian Epistemology / Natural Theology (2026-06-27; [[barth-church-dogmatics-i1|Barth, *CD* I.1]])
+- [[natural-theology|Natural Theology — Barth's Rejection and the Liberal Counterposition]] — whether knowledge of God can be grounded in a universal human religious capacity (Schleiermacher, Wobbermin), a supernaturally given but personally possessed consciousness of faith (indirect Christian Cartesianism), or the *analogia entis* (Roman Catholicism), vs. Barth's insistence that all knowledge of God is grounded exclusively in the Word and event of faith
+
+### Christian Trinitarian Theology (2026-06-27; [[barth-church-dogmatics-i1-s8-12|Barth, *CD* I.1 §§8–12]])
+- [[revealer-revelation-revealedness|Revealer / Revelation / Revealedness]] — Barth's threefold structural analysis of biblical revelation as the root of the doctrine of the Trinity: Revealer (Father/veiling), Revelation (Son/unveiling), Revealedness (Spirit/impartation); the triadic structure of Easter/Good Friday/Pentecost
+- [[vestigium-trinitatis|Vestigium Trinitatis]] — the Augustinian tradition of finding traces of the Trinity in nature, culture, history, religion, and consciousness; Barth's critique and positive restatement; Augustine's *mens/notitia/amor*; Anselm's spring/stream/lake; Luther's Grammatica/Dialectica/Rhetorica; Joachim of Fiore's three kingdoms; non-Christian triads
+- [[eternal-son|Eternal Son]] — the doctrine that the Son is antecedently and eternally the Son of God; "antecedently in Himself" as Barth's structural hinge; Nicene eternal generation (*generatio aeterna*); defense against Ebionite and Docetic Christologies and against liberal-Protestant *beneficia*-only approaches (from *CD* I.1 §11, new 2026-06-27)
+- [[reconciliation|Reconciliation]] — the economic act appropriated to the Son: God addressing enemies as friends; reconciliation as coinciding with revelation; distinct from redemption (eschatological/Spirit) and from creation (Father); Barth's structural use in *CD* I.1 §11 (new 2026-06-27)
+- [[holy-spirit|Holy Spirit (Pneumatology)]] — the Spirit as subjective side of revelation; three NT functions (participation, instruction, authorization); eschatological reserve; the Eternal Spirit as eternal act of communion between Father and Son (Augustine: *commune aliquid*); Creator Spirit; from *CD* I.1 §12 (new 2026-06-27)
+- [[filioque|Filioque]] — the Western creedal addition "and [from] the Son" to the Spirit's procession; Barth's alignment with the Western tradition on the rule that immanent Trinity cannot differ in content from economic Trinity; arguments against the Eastern *ek monou tou Patros*; from *CD* I.1 §12 (new 2026-06-27)
+- [[redemption|Redemption]] — the Spirit's economic act: setting man free as child of God; formally "freedom," materially "divine sonship"; eschatological character of all Spirit-statements; distinct from reconciliation (present, Son's work); from *CD* I.1 §12 (new 2026-06-27)
 
 ### Christian Eschatology (2026-06-27; [[city-of-god|City of God]])
 - [[universal-salvation-controversy|Universal Salvation (Apokatastasis) vs. Eternal Punishment]] — whether the punishment of the damned and the devil is endless (Augustine) or all are finally restored (Origen); the softening *misericordes*; Matt. 25:46 vs. 1 Cor. 15:28; a live, tradition-specific dispute

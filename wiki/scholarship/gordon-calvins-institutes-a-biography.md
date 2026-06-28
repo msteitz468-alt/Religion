@@ -47,7 +47,7 @@ scoped passes:
    structure (Creator / Redeemer / Spirit / Church), the editions, and the key interpretive cruxes.
 2. A full rebuild of the [[john-calvin|Calvin commentator page]] (was a stub): biography,
    hermeneutical method, the *Institutes*–commentaries relationship, and characteristic positions.
-3. The [[calvinism|Calvinism / Reformed sect page]], distinguishing the historical Calvin from the
+3. The [[presbyterianism|Calvinism / Reformed sect page]], distinguishing the historical Calvin from the
    movement.
 4. Calvin's **double predestination** as a distinct development on the
    [[predestination|predestination concept page]], and its place in his (anti-)systematic vision.

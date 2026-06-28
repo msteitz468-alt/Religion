@@ -5,8 +5,8 @@ tradition: Hinduism
 textual_sources: [Bhagavad Gita, Mahabharata, the Puranas (esp. Bhagavata Purana), Harivamsa]
 dates: legendary/mythic (traditionally placed at the start of the Kali Yuga, c. 3100 BCE)
 roles: [avatar of Vishnu, supreme God (Vaishnavism), teacher of the Gita, divine cowherd]
-sources_ingested: 4
-last_updated: 2026-06-09
+sources_ingested: 5
+last_updated: 2026-06-27
 tags: [figure, hinduism, vaishnavism, avatar]
 ---
 
@@ -154,6 +154,20 @@ ordeal; the real Sita returned from the fire unharmed; Tulsidas omits the Uttara
 his poem ends with Rāma and Sita together, happily ever after. This is not about Kṛṣṇa directly
 but shows the same **Vedantic illusionism** being applied across the two great Vaishnava deities
 to solve the problem of divine injustice toward devotees.
+
+## Rajagopalachari's Portrayal (1950 Retelling)
+
+[[c-rajagopalachari|Rajagopalachari]] presents Krishna as "most energetic of men, whose divinity scintillates through a cloud of very human characteristics" — a deliberately humanizing frame that nonetheless preserves his theological significance. Key episodes in the retelling:
+
+**Advice and strategy**: Krishna advises Yudhishthira that Jarasandha must die before the Rajasuya sacrifice can proceed, explaining that Jarasandha had defeated the Yadavas and forced them to abandon Mathura and build Dwaraka (Ch. XIX). At the Rajasuya, Bhishma's nomination of Krishna for first honor triggers Sisupala's long denunciation — Krishna endures it through 100 insults before killing him (Ch. XXI).
+
+**The peace mission** (Ch. LV): Krishna states his motive explicitly: "I have not come here with any hope that I would be able to secure a peaceful settlement, but only in order that the world might not hold me to blame." He reveals his *Vishvarupa* (cosmic form) when Duryodhana's friends plot to seize him, granting Dhritarashtra temporary sight who then asks to be blind again. Before departing, Kunti tells him: "The time has come for that for which a kshatriya woman brings forth sons."
+
+**Battle conduct**: Krishna drove at Bhishma and was struck by arrows, which made him "more beautiful than ever as he stood like a green palasa tree in full bloom." He twice jumped from the chariot with his discus in anger at Arjuna's half-heartedness and was restrained by Arjuna (Days 3 and 9). When Bhagadatta's missile was hurled at Arjuna, Krishna interposed himself: "This shaft would have killed you... it is really my own thing and came back to its lawful owner" (Ch. LXXVIII). Bhishma himself recognized Arjuna and Krishna as the human-divine dyad "Nara and Narayana."
+
+**Krishna's vow** (Ch. XXVII): When Draupadi showed him her hair and wept, he swore her wrongs would be avenged: "For protecting the righteous, for destroying the wicked and for firmly upholding the law, I am born on earth age after age." He explained his absence during the dice game (he was defeating Salva at Dwaraka).
+
+**Krishna's death** (Ch. CV): Thirty-six years after Kurukshetra, the Yadavas destroy each other in a drunken brawl on a beach. The maces they use grew from rushes that sprang from a cursed iron mace ground to powder — a curse triggered by Yadava arrogance toward visiting sages. Balarama departs "in a stream of light which issued from his forehead like a silver serpent." Krishna, recognizing "the destined hour was come," lies down in deep meditation. A hunter mistakes him for a deer and shoots an arrow through his foot. Rajagopalachari's framing: "Thus did the great Vasudeva depart from the world of men" — the death is the completion of the avatar, not its failure. News of his death causes the Pandavas to "lose all remaining attachment to life on earth" and triggers their final pilgrimage (Ch. CVI). (Source: [[rajagopalachari-mahabharata]])
 
 ## Cross-Links
 

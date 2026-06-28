@@ -59,8 +59,8 @@ the divine is uniquely unbegotten — so a *begotten* Son must be a creature.
 
 Condemned at [[nicaea|Nicaea]] (325), which confessed the Son *homoousios* (of one substance) with
 the Father; reaffirmed at Constantinople (381) after the [[cappadocian-fathers|Cappadocians]]
-clarified *ousia* (one substance) vs. *hypostasis* (three subsistences). Athanasius was its great
-opponent. The dispute is documented from both sides without adjudication (Contradiction Protocol).
+clarified *ousia* (one substance) vs. *hypostasis* (three subsistences). [[athanasius|Athanasius]]
+was its great opponent. The dispute is documented from both sides without adjudication (Contradiction Protocol).
 
 ## Historical Development and Influence
 

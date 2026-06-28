@@ -2,7 +2,127 @@
 
 Append-only. Format: `## [YYYY-MM-DD] ingest | [Source Title]` or `## [YYYY-MM-DD] query | [Question Summary]`
 
+## [2026-06-27] ingest | Karl Barth, *Church Dogmatics* I.1, §8 (God in His Revelation)
+
+Source: `raw/Church Dogmatics, Vol. 1.1, Sections 8-12 The Doctrine of the Word of God, Study Edition 2 (Karl Barth).txt` (T&T Clark Study Edition, 2009). **Systematic theology / scholarship.** Scope: **§8 in full** (lines 70–2532). Read by subagent with main-thread review and filing.
+
+Pages created: `concepts/vestigium-trinitatis.md`, `concepts/revealer-revelation-revealedness.md`. Pages extended: `scholarship/barth-church-dogmatics-i1-s8-12.md` (§8 section summary populated); `commentators/karl-barth.md` (§8 arguments section added); `concepts/trinity.md` (Barth's derivation section added). Index updated: §8 entry on `barth-church-dogmatics-i1-s8-12` updated; new Christian Trinitarian Theology concept cluster added to index.
+
+Key claims with line numbers: Opening thesis — Revealer/Revelation/Revealedness (lines 72–75); "God reveals Himself. He reveals Himself through Himself. He reveals Himself" (line 103); Trinity "what basically distinguishes the Christian doctrine of God as Christian" (lines 351–352); revelation is *Dei loquentis persona* (line 494); Deus revelatus is the Deus absconditus (line 1257); "God's presence is always God's decision to be present" (line 1283); pneuma as "the miracle of the presence of real men at God's revelation" (line 1719); Feuerbach as the logical outcome of the Augustinian consciousness argument (line 2289); "*nulla vera et plena similitudo trinitatis in creaturis reperitur*" — Quenstedt (line 2332); positive vestigium = "the thrice single voice of the Father, the Son, and the Spirit" in Scripture and proclamation (lines 2477–2484).
+
+Scope declared: §8 (lines 70–2532) — read in full.
+
 ---
+
+## [2026-06-27] ingest | Karl Barth, *Church Dogmatics* I.1, §§1–7 (consolidated)
+
+Source: `raw/Church Dogmatics, Vol 1.1, Sections 1-7 The Doctrine of the Word of God, Study Edition 1 (Karl Barth).txt` (T&T Clark Study Edition, 2009). **Systematic theology / scholarship.** Scope: **§§1–7 in full** (lines 132–13338; back-matter series index excluded). Ingested via deployed-subagent strategy (5 staggered Sonnet subagents; disjoint line-ranges 132–2697 / 2698–5762 / 5763–8564 / 8565–11829 / 11830–13338). Main thread owns all scaffold, taxonomy, page naming, cross-linking, and validation; subagents extracted section summaries and concept page content within their assigned ranges.
+
+Pages created: `scholarship/barth-church-dogmatics-i1` (scope plan + coverage ledger + full §§1–7 section summaries); `commentators/karl-barth`; concepts `dogmatics`, `analogia-fidei`, `analogia-entis`, `church-proclamation`, `threefold-word-of-god`, `word-of-god`, `knowability-of-the-word-of-god`, `dogma-barth`, `dogmatics-as-science`; controversies `natural-theology`, `scripture-church-normativity-in-dogmatics`. Extended: `commentators/karl-barth` (multiple methodological statement sections from each scope). Index and log updated. Red links resolved: `barmen-declaration` de-linked (no source); `church-dogmatics` re-linked to actual scholarship pages. Source remains in `raw/` root (§§8–12 ingest underway).
+
+Key claims: Barth's refusal of H. Scholz's six scientific demands (lines 389–432); threefold Word schema as Trinitarian analogy (lines 5537–5548); "The Bible constitutes itself the Canon" (lines 4884–4885); *imago Dei* "totally annihilated" by sin (line 10968); *analogia fidei* as the only valid epistemology for the Word (lines 11231–11233); dogma as eschatological ("the Word of God is above dogma as the heavens are above the earth," lines 12229–30).
+
+---
+
+## 2026-06-27 ingest | Karl Barth, *Church Dogmatics* I.1, §6
+
+Source type: systematic theology / scholarship. **Scope: lines 8565–11829 (§6 The Knowability of the Word of God) — read in full by subagent.**
+
+**Pages created:**
+- `wiki/concepts/knowability-of-the-word-of-god.md` — new concept page: epistemological grounding of knowledge of the Word in the Word itself (not in human religious capacity); nine dimensions of acknowledgment; faith as the event of knowability; rejection of Cartesianism and indirect Christian Cartesianism
+- `wiki/controversies/natural-theology.md` — new controversy page: Barth's rejection of natural theology; Schleiermacher / Wobbermin / Schaeder positions; Brunner's mediating position; Roman Catholic analogia entis; stakes for dogmatics
+
+**Pages updated:**
+- `wiki/scholarship/barth-church-dogmatics-i1.md` — §6 section summary filled in with sub-section summaries, key verbatim quotes, and line references
+- `wiki/commentators/karl-barth.md` — new "Epistemological Method (from §6)" section added; Brunner debate entry updated with cross-link to [[natural-theology]]
+- `wiki/concepts/analogia-fidei.md` — §6.4 content added: the specific articulation of the analogia fidei as alternative to analogia entis, imago Dei treatment, Pauline inversion
+- `wiki/index.md` — scholarship entry updated; [[knowability-of-the-word-of-god]] added to concepts; [[natural-theology]] added to controversies
+
+## 2026-06-27 ingest | Karl Barth, *Church Dogmatics* I.1, §§3–4
+
+Source type: systematic theology / scholarship. **Scope: lines 2698–5762 (§3 Church Proclamation as the Material of Dogmatics; §4 The Word of God in its Threefold Form) — read in full.**
+
+**Method:** Single subagent (Sonnet) reading lines 2698–5762.
+
+**Pages updated:**
+- `wiki/scholarship/barth-church-dogmatics-i1.md` — §3 and §4 section summaries filled in (detailed content, line references, key interlocutors)
+- `wiki/commentators/karl-barth.md` — "Key Arguments from §§3–4" section added
+- `wiki/index.md` — Barth scholarship entry updated; two new concept entries added
+
+**Pages created:**
+- `wiki/concepts/church-proclamation.md` — Barth's definition; Modernist self-dialogue critique (Schleiermacher, Tillich); RC sacramentalism critique; proclamation as raw material of dogmatics
+- `wiki/concepts/threefold-word-of-god.md` — three forms (revealed/written/preached); four concentric circles of the preached Word; Scripture as self-imposing Canon; revelation = Jesus Christ; Trinitarian analogy; critique of Protestant orthodoxy
+
+**Key claims with line numbers:**
+- §3 opening contrast with Modernism: lines 2704–2835 (Schleiermacher at 2726–2736; Tillich at 2737–2757)
+- RC "Silentium altissimum" on preaching: line 2898
+- RC grace as physical not historical event (*ex opere operato*): lines 3021–3096
+- "Sacrament for the sake of preaching, not vice versa": line 3133
+- Calvin: *anima ecclesiae*: lines 3184–3185
+- Dogmatics serves proclamation, not vice versa: lines 3937–3939
+- Four concentric circles (commission/theme/judgment/event): lines 4007–4264
+- "Man's talk about God in which and through which God speaks about Himself": lines 4263–4264
+- As Christ is true man, so proclamation is a fully human event: lines 4218–4226
+- Roman Catholic succession critique: lines 4372–4441
+- Scripture as "bolt against Platonic anamnesis": lines 4594–4595
+- Bible self-imposes as Canon via its content (Immanuel promise): lines 4884–4921
+- "The Bible is God's Word to the extent that God causes it to be His Word": lines 4988–4989
+- "The 'is' refers to its being in this becoming": lines 5005–5007
+- *Deus dixit* vs. *Paulus dixit*: line 5175
+- Revelation = Jesus Christ = "The Word became flesh": lines 5455–5457
+- *Ubi et quando* vs. *illic et tunc*: lines 5407–5412
+- Three forms as analogy to Trinity: lines 5537–5548
+- Orthodoxy's collapse from forgetting proclamation: lines 5671–5721
+
+---
+
+## 2026-06-27 ingest | Karl Barth, *Church Dogmatics* I.1, §§1–2
+
+Source type: systematic theology / scholarship. **Scope: `raw/Church Dogmatics, Vol 1.1, Sections 1-7 The Doctrine of the Word of God, Study Edition 1 (Karl Barth).txt`, lines 132–2697 (§1 The Task of Dogmatics; §2 The Task of Prolegomena to Dogmatics) — read in full.**
+
+**Method:** Single subagent (Sonnet) reading lines 132–2697.
+
+**Pages updated:**
+- `wiki/scholarship/barth-church-dogmatics-i1.md` — §1 and §2 section summaries filled in (scope: §§1–2 complete; §§3–7 remain as next scopes in the plan)
+- `wiki/commentators/karl-barth.md` — "Explicit Methodological Statements in Church Dogmatics I.1, §§1–2" section added
+
+**Pages created:**
+- `wiki/concepts/dogmatics.md` — Barth's definition and the threefold structure (biblical/practical/dogmatic theology); dogmatics as enquiry and act of faith; contrast with RC and Modernist positions
+- `wiki/concepts/analogia-fidei.md` — analogy of faith (Rom. 12:6); Barth's epistemological alternative to the *analogia entis*
+- `wiki/concepts/analogia-entis.md` — Roman Catholic analogy of being; Barth's critique (grace becomes nature; constantly available relationship); Przywara as interlocutor
+
+**Key claims with line numbers:**
+- §1 opening thesis: lines 133–134
+- Three senses of theology: lines 157–158 (J. Gerhard schema)
+- Three theological disciplines: lines 213–217
+- Rejection of H. Scholz's scientific demands: lines 389–432 (quote at 422–423)
+- *Analogia fidei* as epistemological basis: lines 550–569
+- *Theologia crucis* as mode of dogmatics: line 700
+- Luther on theological certainty: lines 602–604
+- RC vs. Evangelical on dogma: lines 753–781
+- Anselm on *intellectus fidei*: lines 819–826
+- Dogmatics as act of faith, not biography: lines 1078–1081
+- §2 opening thesis: lines 1239–1240
+- Rejection of Brunner's eristics: lines 1392–1492
+- Heresy as the real necessity of prolegomena: lines 1508–1614
+- Schleiermacher as "classical exponent of Modernism": lines 1719–1720
+- Modernist prolegomena (Schleiermacher, Bultmann) rejected: lines 1728–1839
+- RC prolegomena and *analogia entis* rejected: lines 1898–1950
+- Prolegomena as first part of dogmatics, not prior to it: lines 1986–1989
+- The Word of God as criterion of dogmatics: lines 2038–2041
+- Doctrine of the Word of God (not just *De scriptura sacra*) as the shape of prolegomena: lines 2042–2070
+
+---
+
+## 2026-06-27 ingest | Mahabharata (C. Rajagopalachari)
+
+Source type: popular prose retelling/adaptation of the Sanskrit Mahābhārata. **Scope: `raw/scholarship/Mahabharata (C. Rajagopalachari, Vyasa).txt`, lines 557–12320 (complete 106-chapter retelling) — read in full.**
+
+**Method:** 4 Sonnet subagents in parallel (Agent 1: 557–3100, Chs. I–XXIII; Agent 2: 3100–5900, Chs. XXIV–XLVII; Agent 3: 5900–8500, Chs. XLVIII–LXXIII; Agent 4: 8500–12320, Chs. LXXIV–CVI + Glossary). Main thread scaffolded, reconciled, and integrated notes.
+
+**Pages created:** `rajagopalachari-mahabharata`, `c-rajagopalachari`, and 17 figure pages: bhishma, drona, kunti, vidura, devayani, yayati, pandu, yudhishthira, dhritarashtra, gandhari, shakuni, arjuna, abhimanyu, karna, duryodhana, ashvatthama, vyasa.
+
+**Pages extended:** mahabharata (sources +1), krishna (sources +1, Rajagopalachari section), draupadi (sources +1, Rajagopalachari section).
 
 ## 2026-06-27 ingest | Sahih al-Bukhari (M. Muhsin Khan trans.) — Pass 3: Vols. 7–9, Books 62–93
 
@@ -3762,3 +3882,73 @@ Scope: the entire Tertia Pars (TP Q1–90) and the Supplement (XP Q1–99 + Appe
 Scopes (all read in full): 1. Incarnation — the union (TP Q1–26); 2. Mysteries of Christ's life (TP Q27–59); 3. Sacraments in general + Baptism + Confirmation (TP Q60–72); 4. Eucharist + Penance/TP (TP Q73–90); 5. Suppl. Penance — contrition/confession/satisfaction/keys/indulgences (XP Q1–28); 6. Suppl. Extreme Unction + Holy Orders (XP Q29–40); 7. Suppl. Matrimony (XP Q41–68); 8. Suppl. Last Things + Appendices (XP Q69–99 + App.).
 
 Pages created: incarnation, hypostatic-union, communicatio-idiomatum, priesthood-of-christ, christ-as-mediator, atonement, sacraments, baptism, transubstantiation, sacrament-of-penance, indulgences, holy-orders, extreme-unction, matrimony, hell, limbo (concepts); guilt-for-christs-death, ransom-to-whom (controversies). Extended: jesus, mary (figures); purgatory, bodily-resurrection (concepts); thomas-aquinas (commentator); summa-theologica (text — Part 4 ledger, all 8 scopes "read in full"). **The entire Summa Theologica is now ingested in full (all four Parts).** Recorded contradiction: Aquinas denies the Immaculate Conception in its later-defined (1854) form. Raw file relocated to raw/texts/.
+
+## [2026-06-27] ingest | Bruce Gordon, *John Calvin's Institutes of the Christian Religion: A Biography*
+
+Source: `raw/John Calvins Institutes of the Christian Religion A Biography (Gordon Bruce) ....txt` (Princeton, 2016; *Lives of Great Religious Books*). **Scholarship**, not primary text — a reception/composition history *of the book*. Note: this is **not** Calvin's *Institutes* itself (the McNeill/Battles primary text remains outstanding, `outstanding sources.md` line 35).
+
+Scope: **Scope A** — Introduction + Ch. 1 ("A Book Emerges") + Ch. 2 ("1559: The Year of the Book") + Appendix 2 (editions); Appendix 1 (Servetus) sampled for context. **Read in full** (raw lines ~236–1135, 4514–4528). Read on the main thread (judgment-heavy central pages). Three-scope plan recorded on the source page; Scopes B (Ch. 3 + Servetus) and C (Chs. 4–12 modern reception) pending.
+
+Pages created: `scholarship/gordon-calvins-institutes-a-biography` (source + scope plan + ledger); `texts/institutes-of-the-christian-religion` (text page with canon_scope — authoritative_for: [presbyterianism], rejected_by: [catholicism]). Extended: `commentators/john-calvin` (stub → full page); `traditions/christianity/sects/presbyterianism` (Calvinism/Reformed — consolidated rather than forking a duplicate `calvinism.md`); `concepts/predestination` (Calvin's double predestination section). Index updated (Texts + new Reformation/Reformed scholarship subsection). Lint clean (no new red links/orphans). Gordon's governing theses preserved: **"Calvin is not Calvinism"** and the *Institutes* as a 20-year evolving project. Raw file stays in `raw/` root until the scope plan is exhausted.
+
+## [2026-06-27] ingest | Abraham Joshua Heschel, *God in Search of Man: A Philosophy of Judaism*
+
+Source: `raw/God in Search of Man A Philosophy of Judaism (Abraham Joshua Heschel ...).txt` (Farrar, Straus and Cudahy, 1955). **Primary work of modern religious philosophy** (not scripture; non-canonical) — Heschel's constructive philosophy of Judaism, companion to *Man Is Not Alone*.
+
+Scope plan (recorded on text page): three scopes = the book's three parts — I "God" (chs 1–16), II "Revelation" (chs 17–27), III "Response" (chs 28–43).
+
+**All three scopes read in full (2026-06-27)** via deployed-subagent strategy (7 staggered Sonnet subagents total, disjoint line-ranges; quote-grounded extractions returned to the main thread, which did all filing/taxonomy/cross-linking):
+- Scope 1 — Part I "God", chs 1–16 (lines 422–6268): chunks 422–2920 / 2921–4686 / 4687–6268.
+- Scope 2 — Part II "Revelation", chs 17–27 (lines 6269–9289): chunks 6269–7837 / 7838–9289.
+- Scope 3 — Part III "Response", chs 28–43 (lines 9290–14640): chunks 9290–10931 / 10932–12993 / 12994–14640.
+Back matter (Index, Notes apparatus, copyright) excluded as non-substantive.
+
+Pages created: `texts/god-in-search-of-man` (source + scope plan + ledger + Part I–III themes); `commentators/abraham-joshua-heschel`; concepts `depth-theology`, `radical-amazement`, `awe`, `the-ineffable`, `kavod`, `divine-pathos`, `revelation`, `religion-of-time`, `mitzvah`, `kavanah`, `halakhah`, `freedom`; controversy `nature-of-evil`. Extended `evil-as-privation` (contrast note). Index updated (Texts; "Modern Jewish Thought (Heschel)" concept cluster; commentator entry; new Jewish-theology controversy). Lint clean (no new red links/orphans; PaRDeS senses aliased to `pardes`). Cruxes recorded: vs. natural theology / argument from design; vs. religious rationalism (Cohen; qualifies Maimonides' Thirteen Principles); vs. God-as-symbol (Tillich); vs. apophaticism deifying the mystery; the revelation "two-front battle" (fundamentalist verbal dictation vs. liberal/critical reduction); evil-as-privation vs. evil-sustained-by-a-holy-spark (Zohar); faith-vs-works dichotomy rejected; "God is in need of man." Source fully ingested — raw file relocated to `raw/texts/` (see Source line on text page).
+
+## [2026-06-27] ingest | Athanasius, On the Incarnation (De Incarnatione Verbi Dei)
+
+Scope: the whole treatise (§§1–57 + C. S. Lewis introduction + translator's Scripture end-notes) — **read in full**. Small bounded source (1,345 lines); ingested on the main thread.
+
+Source: `raw/texts/On the Incarnation_ The Treatise De Incarn - Saint Athanasius.txt` (relocated from `raw/` root into `raw/texts/` on completion).
+
+Pages created: `texts/on-the-incarnation` (source + full §-by-§ argument, Divine Dilemma, theosis formula §54, cruxes, canon_scope authoritative-for the historic churches); `commentators/athanasius` (resolves prior red links from [[alexandria]]). Pages extended: `concepts/incarnation` (new "Divine Dilemma" patristic-motive section; sources 1→2); `concepts/theosis-divine-nature` (Athanasius §54 "wonderful exchange" section; sources 1→2); `concepts/atonement` (patristic "exchange/physical" model section; sources 1→2); `traditions/christianity/sects/arianism` (linked Athanasius). Index updated (Texts → Patristic; Commentators → new "Greek Fathers" subsection).
+
+Faithfulness notes: the treatise's declared opponents are **Jews and Gentiles, not Arians** — the anti-Arian framing (incl. the *contra mundum* epitaph) comes from the bound C. S. Lewis introduction and is labelled as reception, not retrojected onto the early text (Contradiction Protocol). "Instrument/temple" Christology's near-silence on a human rational soul flagged as a later-addressed gap. Broad foils "the Jews"/"the Gentiles/Greeks" left as plain text (no group pages yet) rather than spawning stubs from a single treatise. Lint clean — no new red links or orphans.
+
+## 2026-06-27 ingest | A Short History of the Bahá'í Faith (Peter Smith, 1995)
+
+**Source:** `raw/scholarship/A short history of the Baháí faith (Smith, Peter, 1947 November 27-) (z-library.sk, 1lib.sk, z-lib.sk).txt` (relocated from `raw/` root on completion)
+
+**Scope:** Full text, lines 262–4536 (Chapters 1–11 + Conclusion + Chronology) — read in full. Bibliography/Index (lines 4537–5339) not read (reference matter only).
+
+**Pages created:**
+- `traditions/bahai/bahai.md` — Bahá'í Faith tradition overview
+- `traditions/babi/babi.md` — Babi Religion tradition (1844–1853 precursor)
+- `figures/the-bab.md` — Siyyid 'Alí-Muḥammad, the Báb (1817–1850)
+- `figures/bahaullah.md` — Bahá'u'lláh (1817–1892), prophet-founder
+- `figures/abdu-l-baha.md` — 'Abdu'l-Bahá (1844–1921), successor and interpreter
+- `figures/shoghi-effendi.md` — Shoghi Effendi (1897–1957), Guardian
+- `concepts/manifestation-of-god.md` — the Bahá'í term for divine messengers
+- `concepts/progressive-revelation.md` — doctrine of successive dispensations
+- `concepts/bahai-administrative-order.md` — elected institutional structure
+- `scholarship/smith-short-history-bahai-faith.md` — source summary + coverage ledger
+
+**Method:** Two parallel Sonnet subagents (lines 262–2132; lines 2133–4536) with main-thread scaffolding and reconciliation. `bahai.md` Part 1 body written on main thread after Agent 1 left placeholder unfilled.
+
+**Index:** Updated (Texts, Figures, Concepts, Traditions sections).
+
+## [2026-06-27] ingest | Karl Barth, *Church Dogmatics* I.1, §§8–12 (consolidated)
+
+Source: `raw/Church Dogmatics, Vol. 1.1, Sections 8-12 The Doctrine of the Word of God, Study Edition 2 (Karl Barth).txt` (T&T Clark Study Edition, 2009). **Systematic theology / scholarship.** Scope: **§§8–12 in full** (lines 70–9525; front matter excluded). Ingested via deployed-subagent strategy (3 staggered Sonnet subagents: lines 70–2532 / 2533–4929 / 4930–9525). Main thread owns scaffold, taxonomy, page naming, cross-linking, and validation.
+
+Pages created: `scholarship/barth-church-dogmatics-i1-s8-12` (scope plan + coverage ledger + full §§8–12 section summaries); concepts `vestigium-trinitatis`, `revealer-revelation-revealedness`, `modes-of-being`, `perichoresis`, `opera-trinitatis`, `eternal-son`, `holy-spirit`, `filioque` (updated), `reconciliation`, `redemption`. Extended: `concepts/trinity` (Barth's §§8–9 derivation of Trinity from revelation); `commentators/karl-barth` (all §§8–12 positions consolidated and reorganized into single "Positions Grounded in CD I.1" section). Index updated. Lint clean. Both §§1–7 and §§8–12 raw files remain in `raw/` root pending decision on relocating (both Vol. I.1 fascicles now fully ingested).
+
+Key claims: Trinity placed first because Scripture's holiness requires knowing *who* the God is (lines 307–317); the three questions of revelation are "essentially identical" answers (lines 100–102); *Filioque* affirmed on the rule that immanent and economic Trinity cannot differ (lines 9011–9013); "theological favouritisms" of Pietism and Enlightenment alike forbidden (lines 4805–08).
+
+## [2026-06-27] ingest | Averroes, The Incoherence of the Incoherence (Tahafut al-Tahafut)
+
+Source: `raw/commentaries/Averroes - Tahafut al Tahafut - The Incoherence of the Incoherence, Volumes I and II (Averroes) (z-library.sk, 1lib.sk, z-lib.sk).txt` (Simon van den Bergh translation; Bouyges Arabic base text; Gibb Memorial). **Primary commentary / philosophical treatise.** Scope: **the whole translated work read in full** — Preface, van den Bergh's Introduction, and all 20 discussions (16 metaphysical + 4 natural-science). Ingested via the deployed-subagent strategy (7 staggered Sonnet subagents over disjoint line-ranges: 97–1107 intro / 1108–3899 Disc.1 / 3900–7337 Disc.2–3 / 7338–10619 Disc.4–7 / 10620–12686 Disc.8–13 / 12687–14019 Disc.14–16 / 14020–16047 Natural Sciences 1–4). Subagents produced grounded extraction notes; main thread owned all scaffolding, taxonomy, page naming, reconciliation, cross-linking, and validation. Raw file relocated from `raw/` root to `raw/commentaries/`.
+
+Pages created: text [[incoherence-of-the-incoherence]] (full rewrite from stub: structure of all 20 discussions, method, interpretive cruxes, coverage ledger); concepts [[necessary-existent]] (wajib al-wujud — unity, simplicity, incorporeality, essence/existence, analogical predication) and [[harmony-of-religion-and-philosophy]] (Averroes' double-register / masses-vs-elect / religion as political art). Rewritten: commentator [[averroes]] (full, from stub). Extended: commentators [[al-ghazali]] (Averroes' counter-reading + sincerity charge), [[avicenna]] (Averroes' critique), [[al-farabi]] (analogical predication credit); sects [[falsafa]] (Averroes-vs-Avicenna internal fault line), [[asharism]] (critique of occasionalism/attributes/al-Juwayni); concepts [[eternity-of-the-world]], [[occasionalism]] (the causality rebuttal), [[divine-attributes-in-islam]], [[gods-knowledge-of-particulars]], [[emanation]] (repudiation of the Avicennan cascade), [[separate-intellects]], [[bodily-resurrection]] (simulacra), [[soul-in-islamic-philosophy]], [[creation-ex-nihilo]] (also fixed a pre-existing duplicated section), [[takfir]] (Averroes' response to the three charges); controversy [[eternity-of-the-world]] (added Position 3: Averroes). Index updated. Lint clean (no red links or orphans introduced).
+
+Key claims: Averroes' verdict that **neither** philosophers nor theologians demonstrate their case — "the Incoherence of both parties together"; the **eternal agent** and the third, timeless kind of priority; the **accidental (potential) vs. actual (essential) infinite**; the systematic **detaching of Aristotle from Avicenna** (emanation cascade, possible/necessary, existence-additional-to-quiddity, missing analogical predication all blamed on Avicenna); **real natural causation** ("intelligence is nothing but the perception of things with their causes") vs. Ashʿarite occasionalism; **resurrection as simulacra** (specifically, not numerically, identical bodies); the **suspicion of Ghazali's sincerity** (citing The Niche for Lights); and religion as a **"necessary political art"** with the masses/elect rule.

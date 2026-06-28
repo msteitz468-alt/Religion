@@ -4,6 +4,7 @@ text_locus: "al-Ghazālī, Tahāfut al-Falāsifa, First Discussion (and Second D
 positions:
   - "Philosophers (falsafa): world is pre-eternal, co-eternal with God as effect with cause"
   - "Ash'arite / kalam: world is temporally originated by an eternal divine will; time itself is created"
+  - "Averroes (Tahafut al-Tahafut): defends pre-eternity but holds neither side's proofs are demonstrative; God's priority is timeless, not temporal"
 traditions_involved: [Islam, falsafa, kalam, Ash'arism]
 resolution_status: tradition-specific
 last_updated: 2026-06-27
@@ -65,6 +66,32 @@ Al-Ghazālī's *Tahāfut al-Falāsifa* (late 11th c.) is the primary surviving r
 - **Possibility as a mental judgment**: "Possibility, necessity, and impossibility" refer back to "rational judgments," not to mind-independent material receptacles (§115–127). Universals likewise exist in the mind, not in the concrete — a position the philosophers themselves hold.
 
 - **Ghazālī's methodological disclaimer**: This work does not defend creation-in-time positively. It only "muddies" the philosophers' proofs. The positive Ash'arite case was to be made in the planned *Principles of Belief* (§134).
+
+---
+
+## Position 3: Averroes — Neither Side Demonstrates
+
+**Holder**: [[averroes|Averroes]] (Ibn Rushd), in the *[[incoherence-of-the-incoherence|Tahāfut
+al-Tahāfut]]*, c. 1180 — a generation after Ghazālī.
+
+Averroes defends the philosophers' pre-eternity but **rejects the framing** of both prior positions.
+His verdict is that "neither the arguments of the theologians for the temporal creation of the
+world… nor the arguments of the philosophers… suffice to reach absolute evidence or afford stringent
+proof": the four proofs are "in the highest degree dialectical," and Ghazālī's objections are
+sophistical. His own reconstruction:
+
+- The world is in **"everlasting becoming"**; an eternal agent's act has no beginning ("a limited
+  act can only be imagined of a limited agent"). God's priority is a **third kind** — "the priority
+  of the unchanging timeless existence to the changing existence which is in time" — neither temporal
+  nor the causal simultaneity of two temporal things.
+- "**Will**" said of an eternal agent is **equivocal** with human will; the dispute is partly verbal.
+- He distinguishes the impossible **actual/essential infinite** from the admissible
+  **accidental/potential infinite**, which is "a necessary consequence of the existence of an eternal
+  first principle."
+- He suspects Ghazālī did not sincerely hold the Ashʿarite position, "recurring to the philosophers"
+  in *The Niche for Lights*.
+
+See [[eternity-of-the-world]] (concept) and [[harmony-of-religion-and-philosophy]].
 
 ---
 

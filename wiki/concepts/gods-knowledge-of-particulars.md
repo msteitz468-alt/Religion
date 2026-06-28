@@ -232,8 +232,34 @@ the scriptural foundations of revelation, prophecy, and divine judgment.
 
 ---
 
+## Averroes's Reply (Tahāfut al-Tahāfut, Disc. 11–13)
+
+This is the **second of the three *[[takfir]]* charges**. In Discussions 11–13,
+**[[averroes|Averroes]]** rejects both Ghazālī's objection and Avicenna's formulation:
+
+- **Knowing universals ≠ knowing particulars — the categories are equivocal.** Knowledge of
+  individuals is sensation/imagination (passive, multiplied and changed by its objects); knowledge of
+  universals is intellect (invariable). Ghazālī's *tu quoque* — that one simple divine knowledge
+  already spans many distinct genera, so why not temporal states? — **equivocates on "knowledge."**
+- **Divine knowledge is neither universal nor individual.** "The most competent philosophers do not
+  call God's knowledge of existents either universal or individual," because both belong to the
+  passive human intellect. God's knowledge is **pure act and the cause** of existents — "it is His
+  knowledge which produces the existents, and it is not the existents which produce His knowledge" —
+  so the eclipse-style "change in the knower" objection simply does not apply.
+- **Against making it a public dogma.** The deepest formulation — that "God is the totality of
+  existents," a truth Averroes says the steadfast philosophers and the Sufi masters know — "must not
+  be written down and it must not be made an obligation of faith." See
+  [[harmony-of-religion-and-philosophy]].
+
+Averroes thus salvages divine omniscience without Avicenna's "universal way" (which Ghazālī rightly
+saw as denying God knowledge of Muḥammad's individual act) — by denying that human "universal vs.
+particular" applies to the First at all. He also charges Ghazālī with presenting philosophers'
+conclusions as if they were self-evident first principles, "confusing the sciences in a most terrible
+way."
+
 ## Cross-Links
 
+- [[averroes]] — answers the charge via the equivocity of divine knowledge
 - [[al-ghazali]] — author of the *Tahāfut*; proponent of Ashʿarī divine omniscience
 - [[avicenna]] — chief target; proponent of universal-only knowledge
 - [[falsafa]] — the tradition Ghazālī is refuting

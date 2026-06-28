@@ -5,7 +5,7 @@ dates: c. 980–1037 CE
 tradition: Islam
 affiliation: [falsafa, Aristotelianism, Neoplatonism]
 primary_texts_commented: []
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [commentator, islam, philosopher, falsafa]
 ---
@@ -36,6 +36,22 @@ immortal soul]], allegorized resurrection) are Avicennan positions.
   [[emanation]] of intellects and spheres from the One ("from one only one proceeds"); the rational
   [[soul-in-islamic-philosophy|soul]] as an incorporeal substance surviving the body.
 
+## Averroes's Critique (Tahāfut al-Tahāfut)
+
+In the *[[incoherence-of-the-incoherence|Tahāfut al-Tahāfut]]*, **[[averroes|Averroes]]** defends
+"the philosophers" but treats Avicenna as a corrupter of authentic Aristotelianism, blaming on him
+the very features Ghazālī attacks. He charges Avicenna with: (1) the ten-intellect [[emanation]]
+cascade ("inventions fabricated against the philosophers by Avicenna, Fārābī, and others"); (2) the
+**possible/necessary** division, borrowed from the [[mutazilism|Muʿtazila]], with "possible"
+redefined as "having a cause" (see [[necessary-existent]]); (3) treating **existence as an accident
+additional to the quiddity** — "a most erroneous theory"; (4) the superfluous
+"necessary-through-another"; and (5) missing **analogical predication** (*per prius et posterius*),
+so that Ghazālī's Disc. 7 objections "were valid against him" though not against Aristotle or
+al-Fārābī. Averroes likewise rejects as "anomalous" Avicenna's affirmation of an actual infinity of
+disembodied souls. On God's knowledge of particulars "in a universal way," see
+[[gods-knowledge-of-particulars]].
+
 ## Sources Ingested
 
 - [[incoherence-of-the-philosophers|*The Incoherence of the Philosophers*]] (as reported/critiqued by al-Ghazali).
+- [[incoherence-of-the-incoherence|*The Incoherence of the Incoherence*]] (Averroes, as critic of Avicenna), trans. van den Bergh.

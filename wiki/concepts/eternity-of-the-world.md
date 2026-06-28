@@ -130,8 +130,40 @@ bad "proofs" of faith-articles, lest they expose the faith to ridicule. He thus 
 Maimonides that creation-in-time is undemonstrated, but rests its *fact* purely on revelation rather
 than judging it the more probable. See [[creation-ex-nihilo]].
 
+---
+
+## Averroes's Reply (Tahāfut al-Tahāfut)
+
+[[averroes|Averroes]]'s rebuttal of Ghazālī's First Discussion is **two-edged**: the philosophers'
+four proofs are "in the highest degree dialectical" and fall short of demonstration, yet Ghazālī's
+objections are sophistical. His own positive view:
+
+- **The eternal agent.** A fully-conditioned eternal cause cannot delay its effect; "a limited act
+  can only be imagined of a limited agent, not of the eternal agent whose existence and action are
+  unlimited." "The starting-point of His acts is at the starting-point of His existence; for neither
+  of them has a beginning."
+- **A third kind of priority.** God's priority over the world is neither temporal (which would
+  require an infinite prior time) nor the causal simultaneity of two temporal things, but "the
+  priority of the unchanging timeless existence to the changing existence which is in time."
+- **"Will" is equivocal.** To speak of an eternal will choosing one of two contraries "abandons the
+  definition of will," transferring it "from the possible to the necessary"; demonstration points to
+  a divine principle "neither voluntary nor natural" that the Law calls "will."
+- **The accidental infinite.** Against Ghazālī's even/odd argument from infinite past revolutions,
+  Averroes distinguishes the **actual/essential** infinite (impossible) from the
+  **potential/accidental** infinite (admissible — indeed "a necessary consequence of the existence
+  of an eternal first principle"): past revolutions exist only potentially and so are neither even
+  nor odd "outside the soul."
+- **Heavenly poles are natural, not arbitrary.** The differentiating-will puzzle (why *these* poles
+  and motions?) is answered by treating the spheres as **living animals of distinct species** whose
+  poles are natural organs — "There is no altering the creation of God." See [[separate-intellects]].
+
+His framing verdict: "neither the arguments of the theologians for the temporal creation of the
+world… nor the arguments of the philosophers… suffice to reach absolute evidence." He also suspects
+Ghazālī did not sincerely hold the Ashʿarite position (citing *The Niche for Lights*). This is the
+**first of the three *[[takfir]]* charges**; see [[harmony-of-religion-and-philosophy]].
+
 ## Cross-Links
 
-- [[thomas-aquinas]] · [[al-ghazali]] · [[avicenna]] · [[al-farabi]] · [[maimonides]] · [[falsafa]] · [[asharism]] · [[kalam]]
-- [[incoherence-of-the-philosophers]] · [[creation-ex-nihilo]] · [[emanation]] · [[occasionalism]]
+- [[thomas-aquinas]] · [[al-ghazali]] · [[avicenna]] · [[al-farabi]] · [[maimonides]] · [[falsafa]] · [[asharism]] · [[kalam]] · [[averroes]] · [[necessary-existent]]
+- [[incoherence-of-the-philosophers]] · [[incoherence-of-the-incoherence]] · [[creation-ex-nihilo]] · [[emanation]] · [[occasionalism]]
 - Controversy: [[eternity-of-the-world]] (controversies page)

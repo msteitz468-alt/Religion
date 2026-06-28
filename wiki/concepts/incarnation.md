@@ -2,9 +2,9 @@
 title: The Incarnation
 domain: theology / Christology
 traditions_using: [Christianity]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
-tags: [concept, christianity, christology, scholasticism, aquinas]
+tags: [concept, christianity, christology, scholasticism, aquinas, patristics, athanasius]
 ---
 
 # The Incarnation
@@ -17,6 +17,30 @@ Pars (TP QQ1–26). Aquinas inherits the conciliar settlement (Nicaea, Ephesus, 
 Constantinople II–III) and renders it in Aristotelian metaphysical vocabulary — *natura*,
 *persona*, *suppositum*, *hypostasis* — drawing above all on **John Damascene**, Augustine,
 Pseudo-Dionysius, Boethius, and Cyril.
+
+## The patristic motive: Athanasius's "Divine Dilemma" (*On the Incarnation*)
+
+Centuries before the scholastic synthesis, [[athanasius|Athanasius]]'s
+[[on-the-incarnation|*On the Incarnation*]] (c. 318) gives the classic patristic account of *why*
+the Word became flesh, structured around the **"Divine Dilemma"** (§§6–10). Humanity, made in the
+[[imago-dei|Image]] and meant for incorruption, fell into **corruption and non-being** (*phthora*)
+through sin (§4, "evil is non-being"). This sets God's **goodness** (which cannot let his creatures
+perish) against his **truthfulness** (which cannot revoke the sentence of death). Repentance is
+insufficient — it cannot undo *corruption* and would leave God "untrue" (§7). Only the Word, who made
+all from nothing, can both "recreate all" and "maintain for the Father His consistency."
+
+The solution has a **double purpose**: (1) the Word takes a real body "as an instrument" and offers
+it to death "instead of all," so that "in His death all might die, and the law of death thereby be
+abolished" — the death of the one body indwelt by "the Word who was above all" being a "sufficient
+exchange for all" (§§8–9); and (2) the **Image himself re-draws the defaced portrait** on the same
+panel (the simile of §14), restoring the knowledge of God that creation, law, and prophets had failed
+to keep alive. Athanasius caps it with the deification formula: "He, indeed, assumed humanity that we
+might become God" (§54; see [[theosis-divine-nature]]). His "instrument/temple" Christology (the body
+as the Word's *organon*) is characteristically Alexandrian and says little of a human rational soul —
+the gap later Christology closed with the axiom "what is not assumed is not healed" (Damascene),
+treated below. Note this is an **early, pre-Arian** work: its opponents are Jews and Gentiles, not
+[[arianism|Arians]]. Compare Aquinas's later, juridically framed treatment of the same "fittingness"
+question:
 
 ## Fitness and motive of the Incarnation (TP Q1)
 
@@ -146,7 +170,10 @@ nature/suppositum distinction.
 - [[jesus]] · [[mary]] · [[melchizedek]] · [[atonement]] · [[original-sin]] · [[grace]] ·
   [[trinity]]
 - [[thomas-aquinas]] · [[summa-theologica]] · [[logos-christology]]
+- [[athanasius]] · [[on-the-incarnation]] · [[imago-dei]] — the patristic motive
 
 ## Sources Ingested
 
 - [[summa-theologica]] Tertia Pars QQ1–26 (read in full, Part 4 Scopes 1a–1b).
+- [[on-the-incarnation|Athanasius, *On the Incarnation*]] §§1–57 (read in full) — the Divine Dilemma
+  and patristic motive.

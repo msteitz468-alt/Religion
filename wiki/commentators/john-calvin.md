@@ -3,7 +3,7 @@ title: John Calvin
 full_name: Jean Cauvin (John Calvin)
 dates: 1509–1564
 tradition: Christianity (Reformed)
-affiliation: [calvinism, reformed-reformation, geneva]
+affiliation: [presbyterianism, reformed-reformation, geneva]
 primary_texts_commented: [institutes-of-the-christian-religion, romans, psalms]
 sources_ingested: 1
 last_updated: 2026-06-27
@@ -21,7 +21,7 @@ A central caution from Gordon governs the page: **Calvin is not "Calvinism."** M
 popularly attributed to him — predestinarian rigorism as the centre of his thought, biblical
 inerrancy, a capitalist work ethic, theocracy, "TULIP" — belongs to later interpreters (especially
 the seventeenth-century Synod of Dort) rather than to the historical reformer. See
-[[calvinism|Calvinism]] for the movement.
+[[presbyterianism|Calvinism]] for the movement.
 
 ## Biographical overview
 
@@ -106,7 +106,7 @@ register, disciplined by humanist philology, and aimed not at intellectual assen
 Calvin worked within a **network**, not as a solitary genius — without Luther and Zwingli "there would
 have been no John Calvin as we know him," and the partnership of Heinrich Bullinger in Zurich likely
 saved his Genevan ministry. His *Institutes* became the confessional anchor of the
-[[calvinism|Reformed tradition]] and was cited heavily at the Westminster Assembly, even where later
+[[presbyterianism|Reformed tradition]] and was cited heavily at the Westminster Assembly, even where later
 Reformed orthodoxy (Dort) developed well beyond him. His afterlife as a contested symbol — from
 nineteenth-century Princeton to Barth, apartheid South Africa, and Chinese house churches — is the
 subject of [[gordon-calvins-institutes-a-biography|Gordon's later chapters]] (Scope C pending).

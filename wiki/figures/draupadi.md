@@ -5,8 +5,8 @@ tradition: Hinduism
 textual_sources: [mahabharata]
 dates: legendary/mythic; Dvāpara/Kali Yuga cusp
 roles: [queen, goddess, avatar (of Śrī/Lakṣmī), polyandrous wife of the five Pāṇḍavas]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [figure, hinduism, mahabharata, goddess, avatar]
 ---
 
@@ -102,6 +102,20 @@ domesticated them.
 | Devotion | Rāma / cosmic ideal | husbands + her own sense of justice |
 | Reception | daughters named after her | not named after; worshipped in South India |
 | "What if she were the role model?" | women would resist dharma-shāstric oppression | women would demand justice |
+
+## Rajagopalachari's Portrayal (1950 Retelling)
+
+[[c-rajagopalachari|Rajagopalachari]] presents Draupadi as "most unfortunate of queens" — a framing that foregrounds her suffering without diminishing her agency. Key episodes:
+
+**Svayamvara** (Ch. XVI): Arjuna (in brahmin disguise) strings the iron bow and shoots five arrows through the revolving disk. Draupadi places the garland on him. When Kunti inadvertently says "share all things in common," the Pandavas take her jointly as wife; Drupada objects but ultimately consents.
+
+**The dice game** (Chs. XXIV–XXV): Draupadi was dragged to the assembly by Duhsasana by the hair while in "a single garment" (implying menstrual period). Sent twice via messenger before Duhsasana seized her in person. She made a legal argument: Yudhishthira had no right to stake her because he was already a slave when he did so; and Shakuni violated game rules by proposing her specifically. Her appeal to the elders: "If you have loved and revered the mothers who bore you and gave you suck... forsake me not in this horror more cruel than death!" When Duhsasana attempted to strip her, she prayed to Krishna; miraculously, each garment removed was replaced until Duhsasana "sat down in sheer fatigue." Bhima's oath to drink Duhsasana's heart's blood follows. Bhishma and Drona were present but silent.
+
+**Krishna's vow** (Ch. XXVII): Draupadi held her loose hair before Krishna and wept: "Even my husbands did not protect me... I, the wife of five heroes, was dishonoured." Krishna made his famous solemn vow of vengeance.
+
+**At Virata's court** (Ch. XLIII): Draupadi served as Sairandhri, maidservant, though "those who should have been served by many maids." Kichaka, Virata's commander-in-chief, persistently harassed her; Queen Sudeshna was complicit. After Kichaka dragged and kicked her in open court, Draupadi appealed to Bhima, showing her cracked hands. Bhima killed Kichaka in the dancing hall, pounding his body "into a shapeless lump of flesh." Citizens demanded her expulsion; she bought a month's delay.
+
+**Final vengeance**: Draupadi's vow — to leave her hair unbound until it was washed in Duhsasana's blood — runs as a thread through the entire narrative. It is fulfilled on the battlefield when Bhima kills Duhsasana. (Source: [[rajagopalachari-mahabharata]])
 
 ## Cross-Links
 
