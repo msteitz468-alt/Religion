@@ -3,7 +3,8 @@ title: Image of God (Tzelem / Demut)
 domain: theology
 traditions_using:
   - Judaism
-sources_ingested: 1
+  - Christianity
+sources_ingested: 2
 last_updated: 2026-06-27
 tags:
   - concept
@@ -43,8 +44,22 @@ Maimonides extends the image-of-God theme to Gen 5:3 ("Adam … begat a son in h
 
 Maimonides' treatment exemplifies the *sod* (mystical/philosophical) register of PaRDeS hermeneutics: the plain sense (*peshat*) of "image" as physical likeness is explicitly rejected as the vulgar misreading that leads to anthropomorphism. The true meaning is accessible only to those trained in philosophy.
 
+## Aquinas — the image in the mind (Summa Theologiae I, Q93)
+
+[[thomas-aquinas|Aquinas]] reaches a conclusion structurally parallel to Maimonides': man is made to
+God's image specifically in respect of his **intellectual nature / the mind**, not the body, which
+bears only a "trace" (*vestigium*) of God (Q93, A6). But where Maimonides stops at the bare intellect,
+Aquinas develops the **image of the Trinity** in the soul: it is found chiefly in the *acts* of
+**memory, understanding, and will** by which the mind knows and loves God (Q93, A7, following Augustine,
+*De Trinitate*). He distinguishes three grades of the image (Q93, A4): of **creation** (the natural
+aptitude for knowing and loving God — in all human beings), of **re-creation** (conformity by grace —
+in the just), and of **likeness/glory** (in the blessed). The image belongs equally to both sexes as to
+intellectual nature; "the Son alone is the Image" perfectly, while man is only made *to* the image — an
+imperfect, distant approach. See [[trinity]], [[thomistic-anthropology]], [[beatific-vision]].
+
 ## Cross-Links
 
+- [[thomas-aquinas]] · [[summa-theologica]] — the Christian Trinitarian development of the *imago Dei*
 - [[anthropomorphism]] — the error that results from reading *tselem* as physical form
 - [[guide-for-the-perplexed|*Guide for the Perplexed*]] — Part I, Chs. I–II, VII
 

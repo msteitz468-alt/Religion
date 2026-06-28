@@ -5,8 +5,8 @@ tradition: Christianity (foundational across all branches; significant in Jewish
 textual_sources: [Gospels (Matthew, Mark, Luke, John), Acts, Pauline Epistles, Hebrews, Revelation, and references in James, Jude, 1-2 Peter]
 dates: c. 4 BCE – c. 30/33 CE (traditional; scholarly range debated)
 roles: [messiah, priest, king, prophet, savior, teacher, healer, suffering servant, exalted Lord]
-sources_ingested: 5
-last_updated: 2026-06-07
+sources_ingested: 6
+last_updated: 2026-06-27
 tags: [figure, christianity, messiah, son-of-god, son-of-man, servant]
 ---
 
@@ -30,7 +30,7 @@ The central figure of Christianity, believed by his followers to be the incarnat
 - **Protestant (Reformation and Evangelical)**: Sola fide, sola gratia through Christ alone (Luther, Calvin); penal substitution (many); emphasis on personal faith in the finished work of the cross and resurrection. France, Green, Michaels, and Bock represent modern evangelical narrative-critical and historical readings that stress fulfillment, theocentric purpose, testimony, and historical reliability.
 - **Critical / Historical Jesus**: Quest for the "real" Jesus behind the portraits (Sanders, Wright, etc.); debates over apocalyptic prophet vs. wisdom teacher, Jewish context, and the resurrection as historical event or interpretation. The four Gospels are seen as faith-portraits rather than neutral biography.
 - **Jewish**: Jesus as failed or false messiah, or a righteous teacher (some modern Jewish scholarship); New Testament portraits viewed as supersessionist or polemical.
-- **Islamic**: ʿIsa, a great prophet and messenger, born of the Virgin Maryam, performer of miracles, but neither divine ([[tawhid|tawhid]] vs. [[logos-christology|Logos Christology]]) nor crucified ([[quran|Quran]] 4:157; 5:75, 110–120 — see [[crucifixion-in-the-quran|the crucifixion controversy]]). The Gospels' portraits are held to be corrupted (*tahrif*). See [[islam|Islam]].
+- **Islamic**: ʿĪsā, a great prophet and messenger, born of the Virgin Maryam, performer of miracles, but neither divine ([[tawhid|tawhid]] vs. [[logos-christology|Logos Christology]]) nor crucified ([[quran|Qurʾān]] 4:157; 5:75, 110–120 — see [[crucifixion-in-the-quran|the crucifixion controversy]]). The Gospels' portraits are held to be corrupted (*tahrif*). The [[sahih-muslim|Ṣaḥīḥ Muslim]] confessional formula (Book 1, Ch. 11, No. 0043) identifies Jesus as "servant and the son of His slave-girl and His word which He communicated to Mary and is His Spirit" — naming him within a monotheistic declaration of belief. The Qurʾānic titles *Rūḥ Allāh* (Spirit of Allah) and *Kalimatuhu* (His Word) are attested in these hadiths as recognized epithets. In the intercession (*shafāʿa*) sequence (Nos. 0373–0375), ʿĪsā appears as the fourth intercessor sought by humanity — after Adam, Abraham, and Moses — but defers to Muhammad, saying "I am not fit to do this." During the Prophet's Night Journey (*Isrāʾ*), ʿĪsā is described as physically located in the second heaven, appearing with a ruddy complexion, curly hair, and medium stature. In the end-times, ʿĪsā descends (Ch. 72) to rule as a just judge by the *sharīʿa* of Muhammad, kills the Dajjāl (Ch. 76), and is contrasted with al-Dajjāl throughout Book 41 (*Fitan*). People of the Book who believe in him before his death will constitute a class saved by that belief (implied by No. 0284). See [[islam|Islam]]; [[sunni-islam|Sunni Islam]]; [[shafaa|Shafāʿa]].
 - **Other**: In various new religious movements and secular culture, reinterpreted as ethical teacher, revolutionary, or myth.
 
 **Theological and Narrative Significance**:
@@ -50,6 +50,32 @@ Jesus is the hinge of salvation history—the fulfillment of Israel's story (Mat
 - **Michaels (John)**: Jesus as the unique Envoy whose testimony, signs, and "I am" sayings reveal the Father; the cross as glorification; the testimony chain that includes the reader.
 - **Bock (Acts)**: The risen and exalted Jesus who continues to direct the mission, distribute the Spirit, and fulfill God's plan; central to the resolution of Jewish-Gentile and Israel-church questions.
 - Broader: Shaped all major Christian doctrines (Trinity, atonement, ecclesiology, eschatology). Modern narrative criticism (France, Green, Michaels) and historical work (Bock) emphasize reading the portraits on their own terms while engaging critical questions. Cross-tradition: Jewish readings stress the failed messiah; Islamic the prophet 'Isa; both engage the canonical portraits critically.
+
+**Aquinas's Christology (Summa Theologiae, Tertia Pars)**:
+[[thomas-aquinas|Aquinas]] devotes the [[summa-theologica|*Summa*]] Tertia Pars to Christ. On the
+*person*, his account is the classic scholastic statement of the [[hypostatic-union|hypostatic
+union]] — one divine Person subsisting in two complete natures — with its corollaries: the
+[[communicatio-idiomatum|communicatio idiomatum]], Christ's two wills and two operations
+(dyothelitism, against [[monothelitism]]), His threefold human knowledge (beatific, infused,
+acquired), His being at once *viator* and *comprehensor*, and His sinlessness yet real passibility
+(He assumed hunger, pain, sorrow, fear, but not the *fomes* of sin or ignorance). See
+[[incarnation]]. On Christ's *work*, Aquinas treats the [[priesthood-of-christ|priesthood]]
+(Christ as both priest and victim, after the order of [[melchizedek|Melchizedek]]), the
+[[christ-as-mediator|mediation]] (Christ the sole perfect Mediator, *as man*), and the
+[[atonement]] wrought by the Passion through four concurrent modes — merit, satisfaction,
+sacrifice, and redemption.
+
+Aquinas also narrates the *mysteries of Christ's life* (TP Q27–59): His conception of the Virgin
+[[mary|Mary]] by the Holy Spirit; His [[baptism|baptism]] by [[john-the-baptist|John]] (to
+sanctify the waters and fulfil all justice, manifesting the Trinity); His temptation (overcome by
+Scripture, not power); His teaching (why He wrote nothing) and miracles (worked by His own power,
+not prayer); His Transfiguration (a transient overflow of the glorified body's *claritas*); His
+Passion and death; His descent into hell (delivering the holy Fathers from the *limbus patrum*,
+not the lost); His Resurrection (the efficient and exemplar cause of ours); His Ascension and
+session at the Father's right hand; and His universal judiciary power. On the **guilt for Christ's
+death** (Q47) Aquinas grades culpability — the Jewish rulers' "affected ignorance" as gravest, the
+common people partly excused, the Gentile soldiers most excused; see
+[[guilt-for-christs-death|the controversy]].
 
 **Key Links**:
 - [[matthew|Gospel of Matthew]], [[mark|Gospel of Mark]], [[luke|Gospel of Luke]], [[gospel-of-john|Gospel of John]], [[acts|Acts of the Apostles]]

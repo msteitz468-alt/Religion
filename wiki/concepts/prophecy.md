@@ -1,8 +1,8 @@
 ---
 title: Prophecy
 domain: theology
-traditions_using: [Judaism]
-sources_ingested: 1
+traditions_using: [Judaism, Christianity]
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [concept, judaism, prophecy, philosophy]
 ---
@@ -166,8 +166,48 @@ Maimonides concludes the section (Ch. XLVIII) with the principle that all things
 
 ---
 
+## Aquinas on prophecy (ST II-II Q171–178)
+
+[[thomas-aquinas|Aquinas]] treats prophecy as the first of the **gratuitous graces** (*gratiae
+gratis datae*) — charisms given not for the recipient's own sanctification but **for the benefit of
+others** ([[summa-theologica|*ST*]] II-II Q171–178). His account converges with Maimonides at several
+points and diverges sharply at others.
+
+- **Nature (Q171).** Prophecy is primarily **knowledge** (a supernatural light enabling sure
+  judgement of things beyond natural reason), with speech and miracle as secondary and confirmatory.
+  It is **not a habit but a transient passion** — the prophetic light comes and goes (Elisha needing
+  the minstrel) — a notable contrast with a fixed disposition. It extends to past, present, future,
+  divine, and human things; **future contingents** are its most proper matter, but it is not confined
+  to them (against a narrowing of prophecy to prediction). **Nothing false** can fall under true
+  prophecy, though prophecies of denunciation express the order of *causes*, not God's final decree
+  (hence Nineveh).
+- **Cause (Q172).** Prophecy **cannot be natural** (2 Pet. 1:21) and is mediated through the
+  **angels**; unusually, Aquinas holds it does **not require sanctifying grace or charity** (Balaam,
+  Caiaphas prophesied), though disordered passions hinder it. **Demons** can produce a real but
+  improper "prophecy" by manipulating the imagination — they cannot enlighten the intellect — and
+  may speak truths (the Sibyls).
+- **Manner and degrees (Q173–174).** Prophets do **not see God's essence** but receive an
+  intellectual light, sometimes with new or rearranged images; intellectual vision alone ranks above
+  imaginative. As in Maimonides, **Moses is the greatest prophet** — but Aquinas (with Augustine)
+  holds Moses, like **Paul in his rapture, *did* see the divine essence** (Q174, A4), a stronger
+  claim than the *Guide*'s. Post-apostolic prophecy continues for the **direction of action**, not
+  for new doctrine.
+- **Rapture (Q175).** **Paul was "caught up to the third heaven" and saw God's essence** — through a
+  transient light of glory, withdrawn from his senses though not wholly separated from his body, and
+  not knowing "whether in the body or out of the body."
+- **The other charisms (Q176–178).** The **gift of tongues**, the **grace of the word** (preaching —
+  women may teach privately but not publicly), and the working of **miracles** complete the
+  gratuitous graces; prophecy ranks above tongues (knowledge of things over knowledge of words).
+
+This Christian, Aristotelian-but-grace-centred account stands beside Maimonides' emanationist theory
+above as a major cross-tradition comparison: both rank Moses supreme and tie prophecy to intellect
+and imagination, but Aquinas grounds it in transient divine motion and angelic mediation rather than
+the steady overflow of the [[separate-intellects|Active Intellect]], and uniquely admits the
+beatific vision in rapture.
+
 ## Cross-Links
 
+- [[contemplative-and-active-life]] — the treatise (Q179–182) that follows the charisms in the *Summa*
 - [[maimonides]] — author of the theory
 - [[guide-for-the-perplexed]] — primary source
 - [[separate-intellects]] — the Active Intellect that mediates the overflow
@@ -185,3 +225,4 @@ Maimonides concludes the section (Ch. XLVIII) with the principle that all things
 | Source | Scope | Coverage |
 |--------|-------|----------|
 | [[guide-for-the-perplexed]] | Part II, Chs. XXXII–XLVIII | Read in full (this range) |
+| [[summa-theologica]] | II-II Q171–178 | Read in full (Secunda Secundae Scope 9) |

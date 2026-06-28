@@ -2,8 +2,8 @@
 title: Karma (kamma)
 domain: doctrine / ethics / cosmology
 traditions_using: [Buddhism, Hinduism, Jainism, Sikhism]
-sources_ingested: 3
-last_updated: 2026-06-09
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [concept, buddhism, ethics, cosmology, cross-tradition]
 ---
 
@@ -106,6 +106,27 @@ ethical foundation, distinct from the *supramundane* right view of the
 [[nirvana|nirvana]] is **not** the product of karma: it is the *unconditioned*, attained by
 exhausting craving, not by accumulating merit. Good karma improves one's place *within*
 saṃsāra; the [[noble-eightfold-path|path]] leads *out* of it.
+
+## Tsong-kha-pa on Karma (Lamrim Chenmo, Vol. I, chs. 13–16)
+
+In the **[[lamrim-chenmo|Lamrim Chenmo]]**, certainty about karma is "the correct viewpoint for all
+Buddhists … the foundation of all virtue." [[tsongkhapa|Tsong-kha-pa]] lays out **four general
+features**: karma is *certain* (happiness only from virtue, suffering only from nonvirtue); it
+*magnifies* (a tiny seed yields a great fruit — "like a poison ingested"); one does *not* meet the
+effect of an action *not* done; and what *is* done *does not perish* ("Even in one hundred eons / Karma
+does not perish"). He details the **ten nonvirtuous paths of action** (analyzed by basis, attitude,
+performance, culmination) and their fruitional, causally-concordant, and environmental effects;
+distinguishes **projecting** from **completing** karma; and orders how karma ripens (weightiest first,
+then what is manifest at death, then the most habituated, then the earliest).
+
+**Purification** is possible through the **four powers** (eradication/contrition; applying remedies —
+e.g. recitation, emptiness, images, buddha-names; turning away from faults; and the foundation of
+[[refuge|refuge]] and [[bodhicitta|bodhicitta]]): "karma does not perish even in one hundred eons" is
+said only of karma for which no remedy has been cultivated. He nonetheless warns that understanding
+emptiness while being uncertain about karma is "a mistaken understanding of emptiness," since
+emptiness *is* the meaning of [[dependent-origination|dependent-arising]] and confirms cause and
+effect. The **afflictions** (kleśas), not karma alone, are the primary root of cyclic existence — "in
+the absence of afflictions … there will be no sprout of suffering."
 
 ## Karma and Non-Self
 

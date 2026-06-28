@@ -113,8 +113,25 @@ incorporeality *was* demonstrated. Like [[al-ghazali|al-Ghazali]] he refuses the
 claim to demonstrate eternity, but unlike the [[kalam|Mutakallimun]] he equally refuses their
 claim to *demonstrate* creation, resting it on prophecy instead. See [[guide-for-the-perplexed]].
 
+## Christianity — Aquinas: neither side is demonstrable (Summa I, Q46)
+
+[[thomas-aquinas|Aquinas]] ([[summa-theologica|*Summa Theologiae*]] I, Q46, A1–2) reaches a
+conclusion close to Maimonides' but on Christian ground, and against his own contemporary
+**Bonaventure**, who held the world's temporal beginning to be rationally demonstrable. For Aquinas,
+**that the world began in time is held by faith and cannot be demonstrated by reason — and neither
+can its eternity.** Two arguments: (1) demonstration proceeds from a thing's essence/definition,
+which abstracts from "here and now," so nothing in a creature's essence shows whether it always
+existed; (2) the world depends on God's **will** regarding creatures, which is not necessary and so
+not demonstrable. He calls Aristotle's eternity arguments merely *dialectical*, not apodictic
+(*Topics* i.9), and distinguishes the *intolerable* error (that God did not make the world) from the
+merely faith-contrary opinion (a created yet beginningless world), which reason cannot strictly
+refute. He adds the same pastoral warning he gives about the [[trinity|Trinity]] (Q32): do not offer
+bad "proofs" of faith-articles, lest they expose the faith to ridicule. He thus agrees with
+Maimonides that creation-in-time is undemonstrated, but rests its *fact* purely on revelation rather
+than judging it the more probable. See [[creation-ex-nihilo]].
+
 ## Cross-Links
 
-- [[al-ghazali]] · [[avicenna]] · [[al-farabi]] · [[maimonides]] · [[falsafa]] · [[asharism]] · [[kalam]]
+- [[thomas-aquinas]] · [[al-ghazali]] · [[avicenna]] · [[al-farabi]] · [[maimonides]] · [[falsafa]] · [[asharism]] · [[kalam]]
 - [[incoherence-of-the-philosophers]] · [[creation-ex-nihilo]] · [[emanation]] · [[occasionalism]]
 - Controversy: [[eternity-of-the-world]] (controversies page)

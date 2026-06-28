@@ -3,8 +3,8 @@ title: Bodhicitta (the Awakening Mind)
 also_known_as: [the Mind of Awakening, the Thought of Enlightenment, the awakening-mind]
 domain: doctrine / ethics / soteriology
 traditions_using: [Buddhism]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept, buddhism, mahayana, ethics]
 ---
 
@@ -35,6 +35,25 @@ priceless jewel of a buddha." It is generated and stabilized through the meditat
 since there is no real, enduring self ([[anatta|nonself]]), the partiality of self-concern has no
 ground, and "the very being of the bodhisattva is the welfare of others." Bodhicitta is the doctrinal
 heart of the **lojong** (mind-training) tradition of Tibetan [[vajrayana|Buddhism]].
+
+## Tsong-kha-pa's Treatment (Lamrim Chenmo, Vol. II)
+
+[[tsongkhapa|Tsong-kha-pa]]'s **[[lamrim-chenmo|Lamrim Chenmo]]** makes bodhicitta the **sole
+entrance to the Mahāyāna**: one is a Mahāyāna practitioner the moment it is generated and lapses from
+the vehicle the moment it is lost, "no matter what other good qualities you may have—such as the
+knowledge of emptiness." He systematizes its cultivation through **two methods**:
+
+1. The **seven cause-and-effect personal instructions** (from [[atisha|Atiśa]]): a preliminary of
+   impartiality, then recognizing all beings as one's mother → recollecting their kindness → wishing
+   to repay it → love → great compassion → wholehearted resolve → bodhicitta. Great **compassion** is
+   the root, "important at the beginning, the middle, and the end."
+2. **[[exchange-of-self-and-other|Exchanging self and other]]** (from Śāntideva).
+
+He treats the **adopting** of the vow (the ritual before a qualified master, distinguishing
+**aspirational** from **engaged** bodhicitta — matching Śāntideva's two kinds above) and its
+**maintenance** — the precepts that prevent its degeneration, including the **four dark and four
+light dharmas**, and the warning that abandoning even a single being abandons the spirit "like
+destroying a whole collection by destroying just a piece of it."
 
 ## Cross-Tradition Note
 

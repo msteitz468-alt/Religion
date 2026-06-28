@@ -1013,3 +1013,20 @@ eternity]] place him in direct dialogue with the Islamic [[falsafa]]/[[kalam]] m
 al-Ghazali ingest — he inherits the [[zahir-batin]] frame from [[al-farabi]] and [[avicenna]]
 yet, like [[al-ghazali]], refuses the philosophers' demonstration of eternity. His systematic
 critique of the Mutakallimun (Guide I:71–76) is recorded on [[kalam]].
+
+**Sikhism added as a new top-level tradition (2026-06-27).** Scope 1 of a three-scope plan — W. H.
+McLeod's *Sikhism* (Penguin, 1997), read in full via the deployed-subagent strategy — scaffolds
+[[sikhism|Sikhism]] as a monotheistic Indic tradition of the **ten Gurus**, from [[guru-nanak|Guru
+Nanak]] (1469–1539) to [[guru-gobind-singh|Guru Gobind Singh]], with authority finally vested in the
+[[guru-granth-sahib|Guru Granth Sahib]] (scripture-as-living-Guru) and the [[khalsa|Khalsa]] /
+[[sikhs|Panth]]. The ingest establishes the tradition's native hermeneutic [[gurmat|Gurmat]] (bāṇī as
+the Guru's living voice; the discipline of [[nam-simaran|nām simaraṇ]]; the [[hukam|hukam]] oracle),
+its God [[akal-purakh|Akal Purakh]], the [[sant-tradition|Sant]] matrix McLeod assigns to Nanak's
+thought, and the [[five-ks|Five Ks]] / [[rahit-maryada|Rahit]] of the Khalsa. The contested
+[[dasam-granth|Dasam Granth]] supplies the wiki's clearest case of a single text whose canon standing
+**splits by sect** (disputed in the mainstream, fully canonical for the [[namdhari|Namdharis]], full
+honour from the [[nihang|Nihangs]]). McLeod's signature historical-critical theses — the late
+codification of the Five Ks, the "transformation" of an interior religion into a militant order, and
+Sikhism's emergence as a *separate* system only with the Singh Sabha — are filed, without adjudication,
+on [[who-is-a-sikh|Who is a Sikh?]]. Scope 2 (Khushwant Singh's *History of the Sikhs*) and Scope 3+
+(the *Guru Granth Sahib* itself) remain outstanding.

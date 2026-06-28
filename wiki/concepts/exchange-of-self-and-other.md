@@ -3,8 +3,8 @@ title: Exchange of Self and Other (Parātmaparivartana)
 also_known_as: [equalizing and exchanging self and other, parātmasamatā (equality) + parātmaparivartana (exchange), the basis of lojong / tonglen]
 domain: ethics / meditation
 traditions_using: [Buddhism]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept, buddhism, mahayana, ethics, meditation]
 ---
 
@@ -43,6 +43,19 @@ other, once seen as conventional, can be re-drawn:
 
 The paradoxical result: pure altruism turns out, unintentionally, to be the fulfilment of one's own
 deepest aspiration — "the very being of the bodhisattva is the welfare of others."
+
+## Tsong-kha-pa's Framing (Lamrim Chenmo, Vol. II)
+
+[[tsongkhapa|Tsong-kha-pa]] presents the exchange as **one of two methods** for generating
+[[bodhicitta|bodhicitta]] — the Śāntideva lineage, alongside the [[atisha|Atiśa]] **seven cause-and-
+effect** method. He stresses that "exchange" does not mean the absurd thought "I am others," but "a
+change in the orientation of the two states of mind of cherishing yourself and neglecting others."
+The remedies he supplies meet two obstacles: the sense that self and other are essentially distinct
+(answered by their interdependence — "Like this side and the other side of a river, they are false")
+and the sense that others' suffering does not harm "me" (answered by the hand–foot analogy of a body
+without "a self-sufficient essence"). The Kadam masters voice it — Lang-ri-tang-ba's "horse strategy"
+of keeping self-cherishing away, and Kam-lung-ba's warning that neglecting beings makes them neglect
+us in turn.
 
 ## Influence
 

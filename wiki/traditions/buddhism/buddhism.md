@@ -5,8 +5,8 @@ type: tradition
 date_range: 5th c. BCE (the historical Buddha) – present
 canon_core: [dhammapada]   # minimal shared core; the full canons diverge by sect (see note)
 hermeneutical_frameworks: [neyartha-nitartha, commentarial-lineage, upaya (skillful means)]
-major_sects: [theravada, mahayana, vajrayana, nyingma, dzogchen]
-sources_ingested: 11
+major_sects: [theravada, mahayana, vajrayana, nyingma, dzogchen, tibetan-buddhism, kadam, gelug]
+sources_ingested: 12
 last_updated: 2026-06-27
 tags: [tradition, buddhism, non-theistic]
 ---
@@ -68,6 +68,10 @@ hearers); the **[[two-truths|two truths]]** (conventional vs. ultimate), the ind
   Its oldest Tibetan school is **[[nyingma|Nyingma]]** ("the Ancient Ones"), whose contemplative
   summit is **[[dzogchen|Dzogchen]]** (the Great Perfection) and whose
   [[terma|treasure literature]] includes the [[bardo-thodol|Tibetan Book of the Dead]].
+- [[tibetan-buddhism|Tibetan Buddhism]] — the umbrella of Tibetan schools, framed by the graded path
+  (*lam rim*) of [[atisha|Atiśa]]'s **[[kadam|Kadam]]** lineage and its reform, the
+  **[[gelug|Gelug]]** of [[tsongkhapa|Tsong-kha-pa]] (lineage of the Dalai Lamas), whose root path-text
+  is the **[[lamrim-chenmo|Lamrim Chenmo]]**.
 
 ## Key Cross-Links
 

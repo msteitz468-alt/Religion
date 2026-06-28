@@ -51,7 +51,7 @@ This is the wiki's first sustained engagement with patristic philosophical theol
 - [[christopher-stead|Christopher Stead]] (commentator/scholar page)
 - [[philo-of-alexandria|Philo of Alexandria]] (figure)
 - [[origen|Origen]] (figure + commentator role)
-- [[augustine-of-hippo|Augustine of Hippo]] (figure)
+- [[augustine|Augustine of Hippo]] (commentator)
 - [[middle-platonists|Middle Platonists]] (group)
 - [[alexandria|Alexandria]] (location — historical inhabitants by period + modern geography)
 - New or enhanced concepts: divine substance/ousia distinctions, divine simplicity, the debate over Christian philosophy/faith and reason.

@@ -106,6 +106,16 @@ Master index of all pages. Updated on every ingest.
 - *Letter of Polycarp to the Philippians* — ca. 107–110 CE; Pauline letters as scripture (Eph cited as *graphē*); anti-Docetism; plural elder governance at Philippi; documented in [[polycarp|Polycarp of Smyrna]] figure page; Greek
 - *Martyrdom of Polycarp* — ca. 155–160 CE; oldest Christian martyrdom narrative outside NT; typology of Polycarp as *typos Christou*; documented in [[polycarp|Polycarp of Smyrna]] figure page; Greek
 
+### Patristic Theology
+
+- [[city-of-god|The City of God (De Civitate Dei)]] — [[augustine|Augustine of Hippo]]'s 22-book apology "Against the Pagans," 413–426 CE; occasioned by the sack of Rome (410); the [[two-cities|two cities]] and the first Christian philosophy of history; authoritative (non-scriptural) across Christianity; Latin; NPNF/Dods trans., **whole work (Books I–XXII) read in full** (updated 2026-06-27)
+- [[on-christian-doctrine|On Christian Doctrine (De Doctrina Christiana)]] — [[augustine|Augustine]]'s four-book charter of Western Christian hermeneutics (Books I–III 397 CE, Book IV 426/427); signs & things, [[use-and-enjoyment|use/enjoyment]], [[charity-and-cupidity|the rule of charity]], the [[spoils-of-egypt|spoils of Egypt]], [[tichonius-seven-rules|Tichonius's seven rules]], and a [[christian-eloquence|Christian rhetoric]]; Augustine's 44-book OT canon (with deuterocanon); authoritative (non-scriptural) across Christianity; Latin; NPNF/Shaw trans., **whole work (Books I–IV) read in full** (added 2026-06-27)
+- [[septuagint|The Septuagint (LXX)]] — the ancient Greek Old Testament; Augustine's account of the seventy translators and the **inspired authority** of the LXX (against Jerome's *hebraica veritas*), *City of God* XVIII; canonical for Eastern Orthodoxy, source of the Catholic deuterocanon (new 2026-06-27)
+
+### Scholastic Theology (2026-06-27; [[thomas-aquinas|Aquinas]], *Summa Theologica*)
+
+- [[summa-theologica|Summa Theologiae]] — [[thomas-aquinas|Thomas Aquinas]]'s systematic masterwork (c. 1265–1274), the central text of scholastic theology; the question–article (*disputatio*) method; *exitus–reditus* structure; authoritative (non-scriptural) for [[catholicism|Catholicism]]; Latin; CCEL/English Dominican trans. **Prima Pars (Q1–119) and Prima Secundae (Q1–114) ingested in full** — [[five-ways|the One God]], the [[trinity|Trinity]], [[creation-ex-nihilo|creation]], [[evil-as-privation|evil]], the [[angels|angels]], the [[thomistic-anthropology|soul]] and [[image-of-god-tzelem|imago Dei]], [[divine-providence|divine government]]; and [[beatitude|the last end]], [[human-act|human acts]], [[passions-aquinas|passions]], [[cardinal-virtues|virtues]] & [[theological-virtues|theological virtues]], [[sin]], [[natural-law|law]] ([[old-law|Old]] & [[new-law|New]]), and [[grace]]. **Secunda Secundae (Part II-II, Q1–189) now also ingested in full** — the theological & cardinal virtues in particular ([[theological-virtues|faith & hope]], [[charity-aquinas|charity]], [[cardinal-virtues|prudence, justice, fortitude, temperance]]), with [[just-war|just war]], [[usury-and-just-price|usury & the just price]], the virtue of [[religion-virtue|religion]], [[lying]], [[humility-and-pride|humility & pride]], [[schism]], the charisms ([[prophecy]]), the [[contemplative-and-active-life|active & contemplative life]], and the [[states-of-life|states of life]]; plus the controversy [[coercion-of-unbelievers|coercion of unbelievers]]. Tertia Pars + Supplement (Part 4) remains a separate ingest (added 2026-06-27)
+
 ### Jehovah's Witness Scripture
 
 - [[new-world-translation|New World Translation of the Holy Scriptures]] — the JW's own Bible translation (2013 rev.); "Jehovah" for YHWH throughout; "God's active force" (Gen 1:2, anti-Trinitarian); "living person" for nefesh (annihilationist anthropology); "I Will Become What I Choose to Become" (Ex 3:14); "torture stake" not "cross"; partial ingest (Genesis–Joshua only; Greek Scriptures absent from file) (new 2026-06-10)
@@ -125,6 +135,7 @@ Master index of all pages. Updated on every ingest.
 
 - [[quran|The Qur'an]] — foundational scripture of Islam; 114 suras; literal word of God revealed to Muhammad (610–632); universally canonical across Sunni/Shia/Sufi; Arabic; Pickthall translation ingested
 - [[sahih-al-bukhari|Sahih al-Bukhari]] — the premier Sunni hadith collection (al-Bukhari, d. 870); the canon-split exemplar: `canonical_for: [sunni-islam]`, `rejected_by: [shia-islam]`; Arabic; Muhsin Khan translation ingested
+- [[sahih-muslim|Ṣaḥīḥ Muslim]] — the second Sunni hadith collection (Muslim ibn al-Hajjaj, d. 875); 43 books across theology, ritual, law, eschatology, biography, and Qurʾānic tafsīr; `canonical_for: [sunni-islam]`; Arabic; Siddiqui translation; Book 1 (Kitāb al-Īmān) ingested 2026-06-27 — yielding pages on [[iman|Īmān]], [[ihsan|Iḥsān]], [[five-pillars|Five Pillars]], [[shafaa|Shafāʿa]], [[nifaq|Nifāq]] (new 2026-06-27)
 - [[fusus-al-hikam|Fusus al-Hikam (The Bezels of Wisdom)]] — Ibn Arabi's late masterwork of speculative Sufism; 27 prophetic "bezels"; `authoritative_for: [sufism]`, `disputed_by: [sunni-islam]` (condemned by Ibn Taymiyya); *wahdat al-wujud* and the Perfect Man; Arabic; Bewley translation ingested (new 2026-06-09)
 - [[incoherence-of-the-philosophers|The Incoherence of the Philosophers (Tahafut al-Falasifa)]] — al-Ghazali's 1095 polemic against [[falsafa|falsafa]]; 20 Discussions; the three-charge *[[takfir]]*; `authoritative_for: [sunni-islam, asharism]`, `disputed_by: [falsafa]`; Arabic; Marmura translation ingested (new 2026-06-27)
 - [[incoherence-of-the-incoherence|The Incoherence of the Incoherence (Tahafut al-Tahafut)]] — Averroes' point-by-point reply defending the philosophers; `authoritative_for: [falsafa]` (stub — source present, not yet ingested) (new 2026-06-27)
@@ -140,6 +151,7 @@ Master index of all pages. Updated on every ingest.
 - [[mulamadhyamakakarika|Mūlamadhyamakakārikā]] — Nāgārjuna's root verses on the Middle Way (c. 150 CE); the founding *śāstra* of [[madhyamaka|Madhyamaka]]; "all things are empty"; `authoritative_for: [madhyamaka, mahayana, vajrayana]`; Siderits & Katsura translation (new 2026-06-09)
 - [[bodhicaryavatara|Bodhicaryāvatāra]] — Śāntideva's poetic guide to the bodhisattva path (8th c.); bodhicitta, the exchange of self and other (ch. 8), Madhyamaka emptiness (ch. 9); Crosby & Skilton translation (new 2026-06-09)
 - [[bardo-thodol|The Tibetan Book of the Dead (Bardo Thödol)]] — the Nyingma *kar-gling zhi-khro* treasure-cycle; six bardos, the peaceful & wrathful deities, liberation by hearing; `canonical_for: [nyingma]`, `authoritative_for: [vajrayana]`; Coleman/Jinpa/Dorje first complete translation (new 2026-06-27)
+- [[lamrim-chenmo|The Great Treatise on the Stages of the Path (Lamrim Chenmo)]] — Tsong-kha-pa's 1402 *summa* of the graded path (*lam rim*); founding treatise of the [[gelug|Gelug]] school; `authoritative_for: [gelug, tibetan-buddhism]`; Lamrim Chenmo Translation Committee (Snow Lion), **Vols. One & Two ingested** (new 2026-06-27)
 - *Pali Nikāyas* (anthologized) — see [[bodhi-in-the-buddhas-words|Bodhi, *In the Buddha's Words*]], the thematic Nikāya anthology, under Scholarship (new 2026-06-09)
 
 ### Hinduism (Vedanta — the prasthana-trayi)
@@ -312,6 +324,15 @@ Master index of all pages. Updated on every ingest.
 - [[samayasara|Samayasāra]] — [[kundakunda|Kundakunda]]'s Digambara mystical classic; the two-standpoints
 - [[purvas|The Pūrvas]] — the fourteen lost foundational scriptures; central to the canon-loss dispute
 
+### Sikhism (Tradition added 2026-06-27; [[mcleod-sikhism|McLeod]] + SGGS Parts 1 & 2 primary-text ingest)
+- [[guru-granth-sahib|Guru Granth Sahib (Ādi Granth)]] — the supreme scripture and living Guru; compiled by Guru Arjan 1604; arranged by rāg; **canonical for all Sikhs**; **all 1,430 Angs ingested in full 2026-06-27** (Parts 1–4; 31 raags + concluding sections)
+- [[sukhmani-sahib|Sukhmani Sahib]] — 24-Ashtapadī hymn by Guru Arjan; Angs 262–296; most recited long composition; Brahm Gyani, Naam supremacy, Jivan Mukta (new 2026-06-27)
+- [[japji|Japji]] — Guru Nanak's opening composition; the morning prayer; Mūl Mantar + 38 stanzas; deeply expanded from primary text (new 2026-06-27)
+- [[dasam-granth|Dasam Granth]] — collection associated with Guru Gobind Singh; **disputed** (once equal to the Adi Granth; canonical for [[namdhari|Namdharis]])
+- [[jap-sahib|Jap Sahib]] — Guru Gobind Singh's 199-stanza morning bāṇī (from the Dasam Granth)
+- [[janam-sakhis|Janam-sākhīs]] — the hagiographies of Guru Nanak; non-canonical; McLeod's case study in tradition vs. history
+- [[rahit-maryada|Sikh Rahit Maryada]] — the authoritative Khalsa code of conduct (SGPC, 1950); not scripture
+
 ---
 
 ## Figures
@@ -382,11 +403,23 @@ Master index of all pages. Updated on every ingest.
 - [[padmasambhava|Padmasambhava]] — "Guru Rinpoche," the Lotus-Born; 8th-c. founder-figure of [[nyingma|Nyingma]]; attributed author of the [[bardo-thodol|Tibetan Book of the Dead]]; fountainhead of the *terma* tradition (new 2026-06-27)
 - [[karma-lingpa|Karma Lingpa]] — 14th-c. treasure-finder (*gter-ston*) who revealed the *kar-gling zhi-khro* (Tibetan Book of the Dead) at Mount Gampodar (new 2026-06-27)
 - [[yama|Yama (Yama Dharmarāja)]] — *(cross-tradition; Buddhist section added 2026-06-27)* judge of the bardo of rebirth; the mirror of past actions; the judge as projection of mind
+- [[atisha|Atiśa Dīpaṃkaraśrījñāna]] (982–1054) — Bengali master; his *Lamp for the Path* founded the graded-path (*lam rim*) framework; source of the [[kadam|Kadam]] lineage (new 2026-06-27)
+- [[suvarnadvipa-serlingba|Suvarṇadvīpa (Ser-ling-ba)]] (fl. c. 1000) — the "man from the Golden Isle"; Atiśa's teacher for the [[bodhicitta|bodhicitta]] lineage; Tsong-kha-pa's example of revering the bodhicitta-guru despite a differing philosophical view (new 2026-06-27)
 
 ### Hinduism (2026-06-09)
 - [[krishna|Krishna]] — the eighth avatar of Vishnu; teacher of the Bhagavad Gita; supreme God of Vaishnavism; *avatara* and *bhakti*
-- [[sita|Sītā]] — queen and avatar of Lakṣmī; Rāma's wife; the fire ordeal as anti-suttee protest; the equine-goddess pattern; Doniger's anti-doormat reading (new 2026-06-09)
-- [[rama|Rāma]] — seventh avatar of Viṣṇu; ideal king-warrior; moral imperfections (Vālin, Śambuka); the Rāmāyaṇa as proto-bhakti (new 2026-06-09)
+- [[sita|Sītā]] — queen and avatar of Lakṣmī; Rāma's wife; the fire ordeal as anti-suttee protest; the equine-goddess pattern; Doniger's anti-doormat reading; updated from Buck retelling (updated 2026-06-27)
+- [[rama|Rāma]] — seventh avatar of Viṣṇu; ideal king-warrior; moral imperfections (Vālin, Śambuka); the Rāmāyaṇa as proto-bhakti; updated from Buck retelling (updated 2026-06-27)
+- [[hanuman|Hanumān]] — monkey hero, son of Vāyu; the great leap to Laṅkā; burning of the city; embodiment of *seva* (selfless service) in the bhakti tradition; perfect devotee of Rāma (new 2026-06-27)
+- [[lakshmana|Lakṣmaṇa]] — Rāma's devoted half-brother; protector and warrior companion in exile; wounded by Indrajit; kills Indrajit; avatar of Śeṣa (new 2026-06-27)
+- [[ravana|Rāvaṇa]] — ten-headed demon king of Laṅkā; half-Brahmin scholar-devotee of Śiva; abducts Sītā; knows Rāma is Viṣṇu and engineers his own death for divine union (new 2026-06-27)
+- [[bharata|Bharata]] — Rāma's half-brother; refuses the throne won by his mother's boons; places Rāma's sandals on the throne and governs as regent (new 2026-06-27)
+- [[dasaratha|Daśaratha]] — solar dynasty king of Ayodhyā; father of Rāma; horse sacrifice; the two boons trap; dies of grief after Rāma's exile (new 2026-06-27)
+- [[valmiki|Vālmīki]] — the *Adikavi* (first poet); anthill meditator; composer of the Rāmāyaṇa; shelters Sītā; raises Kuśa and Lava (new 2026-06-27)
+- [[vishnu|Viṣṇu]] — the Preserver; source of avatars; Nārāyaṇa on Śeṣa; descends as Rāma to kill Rāvaṇa; the four weapons set aside on descent (new 2026-06-27)
+- [[brahma-god|Brahmā]] — the Creator; grandfather of gods and demons; grants Rāvaṇa's boon of invulnerability; prompts Vālmīki to compose the Rāmāyaṇa (new 2026-06-27)
+- [[jatayu|Jaṭāyu]] — vulture king; Daśaratha's lifelong friend; dies resisting Rāvaṇa's abduction; his dying testimony sends Rāma to Laṅkā (new 2026-06-27)
+- [[sugriva|Sugrīva]] — exiled monkey king of Kiṣkindhā; allied with Rāma; kills his brother Vali (disputed ethics); leads the monkey-bear army (new 2026-06-27)
 - [[ashoka|Aśoka]] — Maurya emperor (r. c. 268–232 BCE); Kalinga conquest and conversion; dhamma edicts; Third Buddhist Council; the pillar capitals (new 2026-06-09)
 - [[draupadi|Draupadī]] — Kṛṣṇā, born from fire; polyandrous wife of the five Pāṇḍavas; the disrobing; goddess-cult in South India; feminist counterpart to Sītā (new 2026-06-09)
 - [[durga|Durgā / Chandikā]] — paradigmatic tooth goddess; kills the buffalo-demon Mahiṣa; "Glorification of the Goddess" (*Devīmāhātmya*); independent [[shakti|shakti]] who absorbs all divine power; Doniger's feminist-critique test case (new 2026-06-09)
@@ -455,6 +488,11 @@ Master index of all pages. Updated on every ingest.
 
 ### Hebrew Bible / Old Testament
 - [[adam|Adam]] — The first human (Gen 1–5); image of God, first sinner, progenitor; multi-tradition (rabbinic cosmic Adam, Pauline Adam–Christ typology, Islamic prophet-vicegerent, Kabbalistic microcosm/Adam Qadmon and the first sin as cosmic divorce); distinguish from Adam Qadmon (the divine anthropos of the sefirot)
+- [[eve|Eve]] — The first woman (Gen 2–4); deceived by the serpent; Augustine's reading of the fall and the relative culpability of the first parents (*City of God* XIV) (new 2026-06-27)
+- [[abel|Abel]] — Second son of Adam; the righteous shepherd slain by Cain; Augustine's **first citizen of the city of God** and type of the slain Christ (*City of God* XV) (new 2026-06-27)
+- [[seth|Seth]] — Third son of Adam, head of the **godly line** to Noah and the patriarchs; the "sons of God" of Gen 6 as Seth's line, not angels (*City of God* XV) (new 2026-06-27)
+- [[nimrod|Nimrod]] — "Mighty hunter," founder of Babylon and Babel; Augustine's human founder of the **earthly city**, the archetype later doubled in Rome (*City of God* XVI) (new 2026-06-27)
+- [[stephen-protomartyr|Stephen the Protomartyr]] — the first Christian martyr (Acts 6–7); central to Augustine's catalogue of contemporary miracles at his relics in Hippo (*City of God* XXII) (new 2026-06-27)
 - [[shimon-bar-yochai|Shim'on bar Yoḥai (Rashbi)]] — 2nd-c. Tanna and disciple of Akiva (cave legend, Shabbat 33b); protagonist and attributed author of the [[zohar|Zohar]]; "the Holy Lamp"; venerated at Meron / Lag ba-Omer; historical sage vs. legendary mystic (see [[zohar-authorship|authorship controversy]])
 - [[abraham|Abraham]] — Foundational patriarch; faith, covenant, Akedah, sojourner; multi-tradition (Jewish midrash/Akedah, Christian exemplar/typology, Islamic Ibrāhīm; Kabbalistic embodiment of Ḥesed)
 - [[isaac|Isaac]] — Second patriarch, "son of the promise"; the Aqedah (binding, Gen 22); Gerar and the wells; blesses Jacob over Esau; Christian type of Christ, Islamic Ishaq; Isaac-vs-Ishmael near-sacrifice dispute (Coogan batch-2 forward-link)
@@ -572,6 +610,24 @@ Master index of all pages. Updated on every ingest.
 - [[acarya-bhiksu|Ācārya Bhikṣu]] (1726–1803) — founder of the [[terapanth|Terāpanth]]
 - [[srimad-rajacandra|Śrīmad Rājacandra]] (1867–1901) — mystic; Gandhi's spiritual mentor
 
+### Sikhism — the Ten Gurus + later figures (2026-06-27; [[mcleod-sikhism|McLeod]] + SGGS Part 1)
+- [[guru-nanak|Guru Nanak]] (1469–1539) — founder; first Guru; the divine Name; the Sant inheritance
+- [[guru-angad|Guru Angad]] · [[guru-amar-das|Guru Amar Das]] (manjī system, langar) · [[guru-ram-das|Guru Ram Das]] (founds Amritsar)
+- [[guru-arjan|Guru Arjan]] (compiles the Adi Granth, 1604; first martyr Guru; author of Sukhmani Sahib) · [[guru-hargobind|Guru Hargobind]] (mīrī-pīrī)
+- [[guru-har-rai|Guru Har Rai]] · [[guru-har-krishan|Guru Har Krishan]] · [[guru-tegh-bahadur|Guru Tegh Bahadur]] (martyr)
+- [[guru-gobind-singh|Guru Gobind Singh]] (1666–1708) — tenth Guru; founds the Khalsa (1699); closes the personal Guruship
+- [[ranjit-singh|Maharaja Ranjit Singh]] (1780–1839) — the Sikh kingdom of the Punjab *(stub; expanded in Scope 2)*
+- **Bhagat bāṇī poets included in the SGGS** (expanded 2026-06-27 from primary text; Part 2 additions 2026-06-27):
+  - [[namdev|Namdev]] (c. 1270–1350) — Maharashtrian Vaishnava Sant; printer caste; compositions in Siree Raag, Goojaree, Sorat'h, Dhanaasaree; validated by Mehl 3 at Ang 67
+  - [[ravidas|Ravidas]] (c. 1450–1520) — Chamar cobbler-saint of Varanasi; *sam dal* ("equally in all"); "You are me, and I am You" (Ang 93); Ravidassia community founder; Sorat'h (7 shabads, low-caste self-declaration); Dhanaasaree (Naam-Aartee, Ang 694)
+  - [[sheikh-farid|Sheikh Farid]] (Farīduddīn Ganj-i-Shakar, 1173–1266) — Chishti Sufi; sole Muslim Bhagat in the SGGS; Aasaa + later shaloks collection
+  - [[dhanna|Dhanna Bhagat]] (c. 15th c.) — Jat farmer; divine providence for turtle babies and worms; Aasaa Bhagat bāṇī, Ang 487–488
+  - [[sain|Sain Bhagat]] (c. 15th c.) — barber caste; "village drudge" transformed; endorsed by Mehl 5 at Ang 488
+  - [[trilochan|Trilochan]] (c. 14th c.) — Maharashtrian Vaishnava; consciousness-at-death teaching (Goojaree Ang 526); Siree Raag and Goojaree
+  - [[jayadeva|Jayadeva (Jai Dayv)]] (c. 1150–1200) — Bengali Sanskrit Brahmin; *Gīta Govinda* author; sole Sanskrit composer among the Bhagats; Goojaree Ang 527
+  - [[bheekhan|Bheekhan]] (c. 16th c.) — North Indian Sant / Sufi; 2 compositions in Sorat'h; bodily longing → omnivision
+- [[lucretia|Lucretia]] (legendary; trad. 509 BCE) — Roman matron; rape and suicide; Augustine's test case against suicide and for inviolable inward chastity (*City of God* I) (new 2026-06-27)
+
 ---
 
 ## Groups
@@ -634,6 +690,13 @@ Master index of all pages. Updated on every ingest.
 - [[jains|The Jains]] — the Jain community; the Jain-identity question; Western views; *jina*→*jaina*
 - [[ajivikas|Ājīvikas]] — extinct fatalist [[sramana|śramaṇa]] order of [[makkhali-gosala|Makkhali Gosāla]]; *niyati*
 
+### Sikhism (2026-06-27; [[mcleod-sikhism|McLeod]])
+- [[sikhs|Sikhs (the Panth)]] — the community of the Gurus' disciples; the Nanak-panth → Khalsa Panth; caste, diaspora, gender
+- [[jats|Jats]] — the dominant landowning caste of the Panth (>60%); the Khalsa constituency; the caste-vs-creed tension
+
+### Greco-Roman (2026-06-27; [[city-of-god|City of God]])
+- [[romans|Romans]] — the imperial people; paradigm of the [[two-cities|earthly city]]; their gods, virtue, and the 410 sack in *City of God*
+
 ## Locations
 
 *(New schema category added 2026-06-07 per CLAUDE.md update. `wiki/locations/` created for geographical places, cities, regions, and sites. Pages must cover historical inhabitants ("who lived there when") by period + modern geography / identification (tell, coordinates, political status, current names). Full page format documented in CLAUDE.md. To be populated from sources that discuss settlement history, archaeology, or sacred geography.)*
@@ -681,6 +744,11 @@ Master index of all pages. Updated on every ingest.
 - [[mathura|Mathurā]] — early Jain centre; stūpa and donative inscriptions at Kankālī Ṭīlā (also a major Hindu/Buddhist site)
 - [[mount-satrunjaya|Mount Śatruñjaya]] — the supreme Śvetāmbara pilgrimage hill at Pālītāṇā, Gujarat
 - [[shravana-belgola|Shravana Belgola]] — Digambara pilgrimage site, Karnataka; the [[bahubali|Bāhubali]] colossus and *mastakābhiṣeka*
+- [[rome|Rome]] — the Eternal City; sack by Alaric (410 CE); setting and symbol of the earthly city in *City of God* (new 2026-06-27)
+
+### Hinduism — Rāmāyaṇa (2026-06-27; [[buck-ramayana|Buck retelling]])
+- [[ayodhya|Ayodhyā]] — capital of the solar dynasty on the Sarayu River; seat of Daśaratha and Rāma; twelve leagues × ten wide; site of the great sacrifice, the coronation crisis, and Rāma-rāj; one of the seven sacred cities; modern Ayodhyā, Uttar Pradesh (new 2026-06-27)
+- [[lanka|Laṅkā]] — island fortress of Rāvaṇa; built by Viśvakarmā for Kubera, seized by Rāvaṇa; site of Sītā's captivity and the war of the Rāmāyaṇa; identified with Sri Lanka / Rāma Setu (new 2026-06-27)
 
 ---
 
@@ -699,16 +767,26 @@ Master index of all pages. Updated on every ingest.
 - [[al-farabi|Al-Farabi]] (c. 870–950) — "the Second Teacher"; founder of Islamic [[falsafa|falsafa]] and its emanationist cosmology; paired with Avicenna as "the philosophers" in the *Tahafut* (new 2026-06-27)
 - [[averroes|Averroes (Ibn Rushd)]] (1126–1198) — the great Andalusian Aristotelian; defender of [[falsafa|falsafa]]; author of the *[[incoherence-of-the-incoherence|Tahafut al-Tahafut]]* rebutting al-Ghazali (stub — source not yet ingested) (new 2026-06-27)
 - [[amina-wadud|Amina Wadud]] (b. 1952) — American Muslim scholar; pioneer of **gender-inclusive tafsir** (*[[wadud-quran-and-woman|Qur'an and Woman]]*); the "hermeneutics of tawhid" and the [[quran-4-34-male-authority|Q 4:34]] reread; the "gender jihad" and the 2005 mixed-gender prayer (new 2026-06-09)
+- [[aisha|Aisha bint Abi Bakr]] (c. 613–678) — *Umm al-Mu'minin*; wife of the Prophet; daughter of Abu Bakr; one of the most prolific Sunni hadith transmitters; transmitted the first revelation narrative, Hajj hadiths, and private prophetic practice; authoritative corrector of legal misreadings (new 2026-06-27)
+- [[bilal-ibn-rabah|Bilal ibn Rabah]] (c. 580–640) — the Prophet's first *mu'adhdhin*; institution of the Adhan documented in Ṣaḥīḥ al-Bukhārī; Adhan phrases doubled; the two-adhan Fajr system (new 2026-06-27)
+- [[abu-bakr|Abu Bakr al-Siddiq]] (c. 573–634) — first caliph; al-Siddiq title; Hijra Cave; death-of-Prophet speech; well-drawing dream; ranked first even by Ali; enforced Zakat; ruled on Fadak; from Ṣaḥīḥ al-Bukhārī Books 51–58 (new 2026-06-27)
+- [[umar-ibn-al-khattab|Umar ibn al-Khattab]] (c. 584–644) — second caliph; transmitter of the niyyah hadith (Vol. 1, No. 1); *al-Faruq*; *muhaddath*; "Satan takes another path"; "door" against afflictions; death and shura; from Ṣaḥīḥ al-Bukhārī Books 1, 51–58 (new 2026-06-27)
+- [[abu-hurairah|Abu Hurairah]] (d. c. 678) — the most prolific single transmitter of hadith in the Sunni corpus; his own explanation of his prolific count from Ṣaḥīḥ al-Bukhārī Book 57 (new 2026-06-27)
 
 ### Buddhist Tradition (2026-06-09)
 - [[buddhaghosa|Buddhaghosa]] (fl. 5th c.) — the great Theravada commentator; *Visuddhimagga* (Path of Purification); Mahavihara, Sri Lanka
 - [[nagarjuna|Nāgārjuna]] (c. 150 CE) — founder of [[madhyamaka|Madhyamaka]]; the *[[mulamadhyamakakarika|MMK]]*; "all things empty of [[svabhava|svabhāva]]"; reductio method; emptiness=dependent origination=the middle path; a "second Buddha" (new 2026-06-09)
 - [[shantideva|Śāntideva]] (c. 685–763) — Mahayana/Nalanda; the *[[bodhicaryavatara|Bodhicaryāvatāra]]*; bodhicitta, the [[exchange-of-self-and-other|exchange of self and other]], Prāsaṅgika emptiness (now via Crosby & Skilton, 2026-06-09)
+- [[tsongkhapa|Tsong-kha-pa]] (1357–1419) — founder of the [[gelug|Gelug]] school; author of the *[[lamrim-chenmo|Lamrim Chenmo]]*; synthesizing scholastic; analytical-meditation method; the anti-Hva-shang polemic; sūtra–tantra integration (new 2026-06-27)
 - [[bhikkhu-bodhi|Bhikkhu Bodhi]] (b. 1944) — American Theravada monk; the foremost modern translator of the Pali Nikāyas; the *[[bodhi-in-the-buddhas-words|In the Buddha's Words]]* anthology; the "gradual training" reading; rebirth/kamma as integral (new 2026-06-09)
 - [[w-y-evans-wentz|W. Y. Evans-Wentz]] (1878–1965) — editor who (with Kazi Dawa Samdup) produced the 1927 *Tibetan Book of the Dead* and coined the English title; Theosophical framing; the Jung commentary (new 2026-06-27)
 - [[walpola-rahula|Walpola Rahula]] (1907–1997) — Sri Lankan scholar-monk; *[[rahula-what-the-buddha-taught|What the Buddha Taught]]* (1959), the classic short doctrinal primer; the celebrated anatta chapter; dukkha-as-realism; Theravada–Mahayana convergence (new 2026-06-09)
 - [[thich-nhat-hanh|Thich Nhat Hanh]] (1926–2022) — Vietnamese [[zen|Zen]] master; popularizer of [[mindfulness|mindfulness]] and "Engaged Buddhism"; [[interbeing|interbeing]]; revises the "three marks" to put [[nirvana|nirvana]] in place of suffering (new 2026-06-09)
 - [[paul-williams|Paul Williams]] (b. 1950) — British academic Buddhologist (Bristol); *[[williams-buddhist-thought|Buddhist Thought]]* + the [[crosby-skilton-bodhicaryavatara|Bodhicaryāvatāra]] intro; rigorous reconstruction of Indian Mahayana philosophy (Madhyamaka, [[yogacara|Yogācāra]], [[buddha-nature|Buddha-nature]]); the strong "no Self at all" reading of anatta (new 2026-06-09)
+
+### Hindu Tradition — Rāmāyaṇa (2026-06-27)
+- [[william-buck|William Buck]] (1933–1970) — American prose reteller of the Indian epics; *Ramayana: King Rama's Way* (1976) and the *Mahabharata* retelling; goal: capture the spirit without scholarly apparatus; key changes to the fire ordeal and ending; not a scholar but a storyteller (new 2026-06-27)
+- [[valmiki|Vālmīki]] — the *Adikavi* (first poet); legendary anthill-meditator; composer of the Sanskrit Rāmāyaṇa; also a character within it as Sītā's protector and Kuśa/Lava's teacher (new 2026-06-27)
 
 ### Hindu Tradition (Vedanta & Śaiva commentators, 2026-06-09)
 - [[shankara|Shankara]] (8th c.) — Advaita Vedanta; Brahma-Sutra-Bhashya + Gītā-bhāṣya; atman = Brahman; the dominant Hindu philosopher
@@ -737,6 +815,17 @@ Master index of all pages. Updated on every ingest.
 
 ### Confucian Tradition (2026-06-10)
 - [[zhu-xi|Zhu Xi]] (1130–1200) — Neo-Confucian synthesizer; commentator on Zhou Dunyi's *Taijitu shuo* and *Tongshu*; li/qi metaphysics; the ji-chou enlightenment (1169); daotong constructor; Four Books commentaries became civil-service exam basis 1313–1905; compared to Benedict of Nursia (facilitating religious practice) rather than Thomas Aquinas (Adler 2014)
+
+### Latin Fathers & Classical Interlocutors (2026-06-27; [[city-of-god|City of God]])
+- [[augustine|Augustine of Hippo]] (354–430) — bishop of Hippo; fountainhead of Western theology; *City of God*, the two cities, providence as philosophy of history; *On Christian Doctrine*, the charter of Latin hermeneutics
+- [[cyprian|Cyprian of Carthage]] (c. 200–258) — bishop and martyr; cited by Augustine as a model of the three styles of [[christian-eloquence|Christian eloquence]] (*On Christian Doctrine* IV)
+- [[ambrose|Ambrose of Milan]] (c. 339–397) — bishop who baptized Augustine; a model of Christian eloquence in *On Christian Doctrine* IV
+- [[tichonius|Tichonius]] (fl. c. 370–390) — [[donatism|Donatist]] exegete; the *Liber Regularum* and the [[tichonius-seven-rules|seven rules]] adopted by Augustine
+- [[varro|Marcus Terentius Varro]] (116–27 BCE) — Rome's greatest antiquarian; the [[three-theologies|three theologies]]; chief pagan source on Roman religion in *City of God* VI–VII
+- [[plato|Plato]] (c. 428–348 BCE) — the philosopher "nearest to us"; natural theology in *City of God* VIII
+- [[plotinus|Plotinus]] (c. 204–270) — founder of Neoplatonism; quoted respectfully in *City of God* VIII–IX
+- [[porphyry|Porphyry of Tyre]] (c. 234–305) — Neoplatonist; theurgy and the "universal way"; chief adversary of *City of God* X
+- [[apuleius|Apuleius of Madaura]] (c. 124–after 170) — Platonist; demons-as-mediators (*De Deo Socratis*) refuted in *City of God* VIII–IX
 
 ### Scholarship (Patristic Philosophy)
 
@@ -790,6 +879,7 @@ Master index of all pages. Updated on every ingest.
 - [[marjanovic-abhinavagupta-gita|Marjanovic (tr.), Abhinavagupta's *Gītārtha-saṃgraha*]] — the [[kashmir-shaivism|Kashmir Śaiva]] reading of the [[bhagavad-gita|Gita]]: esoteric/tantric decoding, comments only on hidden meanings, knowledge=action as the Lord's *dṛk*/*kriyā*, the goal as [[pratyabhijna|recognition]]; "more esoteric than Vedanta" (new 2026-06-09)
 - [[dasgupta-history-of-indian-philosophy|Dasgupta, *A History of Indian Philosophy* (5 vols.)]] — the encyclopedic modern-critical survey; Vol. IV (*Indian Pluralism*) **grounds the [[dvaita-vedanta|Dvaita]] pole** ([[madhva|Madhva's]] life, [[panchabheda|pañca-bheda]], Brahma-Sūtra interpretation, the dualist–monist controversy); also the [[saddarshana|ṣaḍ-darśana]] frame (new 2026-06-09)
 - [[doniger-the-hindus|Doniger, *The Hindus: An Alternative History*]] (2009) — the anti-essentialist, margin-centered survey ([[wendy-doniger|Doniger]]); Hinduism as a "Zen diagram" with no canon or essence; "the abuse of history"; grounds [[who-defines-hinduism|the "who defines Hinduism?" controversy]] (scoped ingest: Chs. 1 & 25, new 2026-06-09)
+- [[buck-ramayana|Buck, *Ramayana: King Rama's Way*]] (William Buck; Univ. of California Press, 1976) — creative prose retelling of Vālmīki's Rāmāyaṇa for Western readers; preserves the epic's spirit and devotional tone while streamlining repetition and theological digression; key divergence: softens the fire ordeal (Agni leads Sītā to Rāma rather than Rāma rejecting her); Ram Dass foreword frames Hanumān as the model of *seva*; van Nooten introduction provides Sanskrit context; **full text read in 6-part parallel ingest** (new 2026-06-27)
 - [[dundas-the-jains|Dundas, *The Jains*]] (Paul Dundas; Routledge, 2nd ed. 2002) — the standard single-volume survey of Jainism; **the foundational ingest for the new [[jainism|Jainism]] tradition**: the [[tirthankara|fordmakers]] and historical [[mahavira|Mahāvīra]]; the [[digambara|Digambara]]/[[svetambara|Śvetāmbara]] schism and canon dispute; doctrine ([[karma|karma-as-matter]], [[loka|cosmos]], [[jiva|jīva]]); the ascetic and lay paths; [[anekantavada|anekāntavāda]]; and the modern reform movements; **whole body (Intro + Chs. 1–9) read in full** (new 2026-06-27)
 - [[wright-going-clear|Wright, *Going Clear: Scientology, Hollywood, and the Prison of Belief* (Knopf, 2013)]] — the major investigative narrative; Paul Haggis frame; Miscavige's rise; the Hole; IRS war; military records forgery; Sea Org conditions; ex-member testimonies (new 2026-06-09)
 - [[reitman-inside-scientology|Reitman, *Inside Scientology*]] (2011) — the anchor independent history of Scientology; investigative journalism (new 2026-06-09)
@@ -900,9 +990,21 @@ Master index of all pages. Updated on every ingest.
 - [[gods-knowledge-of-particulars|God's Knowledge of Particulars]] — Avicenna's "universal way" vs. Ghazali's providence objection; second charge of *takfir* (Tahafut Disc. 13) (new 2026-06-27)
 - [[prophetic-miracle|Prophetic Miracle (Mu'jiza)]] — how occasionalism makes miracle metaphysically possible and underwrites prophetic veracity (Tahafut Disc. 17) (new 2026-06-27)
 - [[bodily-resurrection|Bodily Resurrection]] — literal (*zahir*) bodily resurrection vs. the philosophers' spiritual-allegory afterlife; third charge of *takfir* (Tahafut Disc. 20) (new 2026-06-27)
+- [[iman|Īmān (Faith)]] — Islamic theology of interior belief; the six articles; the Islām/Īmān/Iḥsān triad; faith increases/decreases; quantitative thresholds and intercession; from Ṣaḥīḥ Muslim Book 1 + Ṣaḥīḥ al-Bukhārī Book 2 (new 2026-06-27, extended 2026-06-27)
+- [[ihsan|Iḥsān (Excellence of Worship)]] — the third level of the Jibrīl hadith; "worship Allah as if you see Him"; foundational for Sufi *murāqaba* (new 2026-06-27)
+- [[five-pillars|Five Pillars of Islam (Arkān al-Islām)]] — shahāda, ṣalāt, zakāt, ṣawm, ḥajj; extended with detailed Ṣaḥīḥ al-Bukhārī documentation of prayer times, Adhan, Zakat thresholds, Hajj structure, and Sawm theology (extended 2026-06-27)
+- [[sunna|Sunna]] — the normative example of the Prophet; distinct from *hadith* (the record); three types: statements, acts, tacit approvals; from Ṣaḥīḥ al-Bukhārī (new 2026-06-27)
+- [[isnad|Isnad]] — chain of transmitters authenticating each hadith; al-Bukhari's standard (*sahih*); matn vs. isnad distinction; the epistemology of Sunni hadith science (new 2026-06-27)
+- [[riba|Riba (Usury/Interest)]] — Islamic prohibition on unjustified increment in financial transactions; riba al-fadl (excess) and riba al-nasa'a (delay); six ribawi commodities; eschatological warnings; from Ṣaḥīḥ al-Bukhārī Vol. 3 (new 2026-06-27)
+- [[azab-al-qabr|'Adhab al-Qabr (Punishment of the Grave)]] — the post-death, pre-resurrection state; questioning by two angels; reward or punishment beginning immediately at burial; attested in Ṣaḥīḥ al-Bukhārī Vol. 2 (new 2026-06-27)
+- [[shafaa|Shafāʿa (Intercession)]] — prophetic intercession on the Day of Judgment; the graduated faith-weight thresholds; the intercession sequence (Adam → Abraham → Moses → ʿĪsā → Muhammad); Abu Talib boundary case; reserved prophetic prayer (*duʿāʾ*) (new 2026-06-27)
+- [[nifaq|Nifāq (Hypocrisy)]] — the three/four signs of the hypocrite; the two-hearts typology; extinguishing of light on the bridge; Muslim/*muʾmin* distinction (new 2026-06-27)
 - [[soul-in-islamic-philosophy|Soul in Islamic Philosophy (Nafs)]] — the Avicennan immaterial immortal rational soul, which Ghazali holds undemonstrated by reason alone (Tahafut Disc. 18–19) (new 2026-06-27)
 - [[qiwama|Qiwama]] — male authority/maintenance (Q 4:34) and its term-cluster (faddala, darajah, nushuz, daraba); classical rank vs. reformist conditional-responsibility readings (new 2026-06-09)
 - [[hur-al-ayn|Hur al-'Ayn]] — the companions of Paradise; the popular "virgins" reading vs. Wadud's culturally-specific Makkan-incentive reading (new 2026-06-09)
+- [[jihad|Jihad]] — third-best deed hierarchy; intent-based; expanded martyrdom (100 Paradise grades); rules of warfare; ghulul; end-times jihad; key Maghazi episodes; from Ṣaḥīḥ al-Bukhārī Vol. 4 (new 2026-06-27)
+- [[khums|Khums (One-Fifth)]] — Islamic obligation on war booty; ghanima vs. fai distinction; distribution principles; the Fadak controversy; Sunni vs. Shia law; from Ṣaḥīḥ al-Bukhārī Book 53 (new 2026-06-27)
+- [[isra-and-miraj|Isra and Mi'raj (Night Journey and Ascent)]] — al-Buraq; seven heavens; prophets encountered; Al-Bait al-Mamur; Sidrat al-Muntaha; origin of the five daily prayers (50→5); Aisha's denial of vision of Allah; from Ṣaḥīḥ al-Bukhārī Book 54 (new 2026-06-27)
 
 ### Buddhist (2026-06-09)
 - [[four-noble-truths|The Four Noble Truths]] — suffering, its cause, its cessation, the Eightfold Path; the diagnostic core
@@ -914,6 +1016,14 @@ Master index of all pages. Updated on every ingest.
 - [[abhidharma|Abhidharma]] — the dharma-analysis ("person empty, dharmas real") that Madhyamaka takes as its target (new 2026-06-09)
 - [[bodhicitta|Bodhicitta (the Awakening Mind)]] — the bodhisattva's resolve; its two kinds (resolve / engaged); generated by the exchange of self and other (new 2026-06-09)
 - [[exchange-of-self-and-other|Exchange of Self and Other]] — Śāntideva's altruism meditation grounded in nonself; the basis of Tibetan *lojong*/*tonglen* (new 2026-06-09)
+- [[six-perfections|The Six Perfections (Pāramitās)]] — generosity, ethics, patience, joyous perseverance, meditative stabilization, wisdom; the engaged bodhisattva path; method + wisdom (new 2026-06-27)
+  - [[generosity-dana|Generosity (Dāna)]], [[patience-kshanti|Patience (Kṣānti)]], [[joyous-perseverance-virya|Joyous Perseverance (Vīrya)]] — the perfections treated in detail in Lamrim Vol. II (new 2026-06-27)
+- [[three-types-of-persons|The Three Types of Persons]] — the *lam rim* architecture: small / medium / great capacity; all scripture as one graded path (new 2026-06-27)
+- [[precious-human-life|Precious Human Life (Leisure & Opportunity)]] — the rare basis for practice; eight leisures, ten opportunities (new 2026-06-27)
+- [[mindfulness-of-death|Mindfulness of Death & Impermanence]] — the three roots/nine reasons; foundation of the small-capacity path (new 2026-06-27)
+- [[refuge|Going for Refuge (the Three Jewels)]] — the door into the teaching; the causes and precepts of refuge (new 2026-06-27)
+- [[renunciation|Renunciation (the Determination to Be Free)]] — the medium-capacity attitude; first of the three principal aspects of the path (new 2026-06-27)
+- [[three-trainings|The Three Trainings (Śīla/Samādhi/Prajñā)]] — ethics, concentration, wisdom; the path to liberation (new 2026-06-27)
 - [[nirvana|Nirvana (Nibbāna)]] — the "blowing out" of greed/hatred/delusion; with vs. without residue; saṃsāra–nirvana non-duality in Mahayana (new 2026-06-09)
 - [[noble-eightfold-path|The Noble Eightfold Path]] — the *magga*; the three trainings (sīla/samādhi/paññā); the Middle Way (new 2026-06-09)
 - [[samsara|Saṃsāra]] — the beginningless round of rebirth; rebirth without a self; the six realms (new 2026-06-09)
@@ -960,6 +1070,7 @@ Master index of all pages. Updated on every ingest.
 - [[varnas|Varnas]] — the four social classes (Brahmin/Kshatriya/Vaishya/Shudra) from the Puruṣa-sūkta; Doniger's social reading of the Puruṣa-sūkta as naturalization of existing class structure (new 2026-06-09)
 - [[dharma|Dharma]] — duty/law/social order; trivarga (dharma/artha/kama); sva-dharma vs. sanatana dharma; violence paradox; four ashramas; Manu/Kautilya/Kama-sutra (new 2026-06-09)
 - [[gunas|Gunas]] — the three qualities of matter: sattva/rajas/tamas; mapped to Brahmins/cows, Kshatriyas/horses, lower classes/dogs (new 2026-06-09)
+- [[rama-raj|Rāma-rāj]] — Rāma's reign as the ideal of dharmic kingship; golden age of abundance and justice in Ayodhyā; the structural paradox that the same dharmic standard produces Sītā's banishment; Gandhi's political appropriation as a vision of righteous self-rule (new 2026-06-27)
 - [[ahimsa|Ahiṃsā]] — nonviolence as double negative (*a-hiṃsā*, not-harming); double-bind with the warrior's sva-dharma; Jaina/Buddhist/Hindu divergences; *matsya-nyāya*; the Gita's four list-mentions; Aśoka's hedged vegetarianism (new 2026-06-09)
 - [[bhakti|Bhakti]] — loving devotion (*bhaj*); the third Gita path (beside karma/jñāna); earliest external evidence Heliodorus pillar 115 BCE; hate-as-bhakti; Doniger's "third alliance"; South Indian Nāyanmārs/Āḷvārs; Caṅkam poetry → viraha; darshan; Kannappar's caste double-bind (extended 2026-06-09)
 - [[shakti|Shakti]] — creative power, feminine energy; tooth-goddess (independent) vs. breast-goddess (consort) typology; the *Devīmāhātmya*'s paradox (Chandikā is her own shakti); goddess worship ≠ women's empowerment (Doniger critique) (new 2026-06-09)
@@ -1078,6 +1189,20 @@ Master index of all pages. Updated on every ingest.
 - [[pilpul|Pilpul]] — Intense, penetrating logical analysis and dialectical reasoning
 - [[pardes|PaRDeS (Fourfold Sense)]] — Peshat / Remez / Derash / Sod; the four levels of Jewish interpretation; Sod is Kabbalah's domain; parallels the Christian Quadriga and Islamic zahir/batin
 - [[fourfold-sense|Fourfold Sense (the Quadriga)]] — the Christian four senses: literal, allegorical, tropological (moral), anagogical; Cassian's "Jerusalem"; Aquinas's literal-sense priority; the parallel to PaRDeS (new 2026-06-09)
+- [[two-cities|The Two Cities (Civitas Dei / Civitas Terrena)]] — Augustine's framework: two communities defined by two loves; the engine of his philosophy of history (new 2026-06-27)
+- [[three-theologies|The Three Theologies]] — Varro's mythical / natural / civil theology, turned by Augustine against pagan religion (new 2026-06-27)
+- [[gloria-love-of-praise|Glory and the Love of Praise (Gloria)]] — the love of glory as the lesser vice God used to build Rome; "they have received their reward" (new 2026-06-27)
+- [[evil-as-privation|Evil as Privation of Good (privatio boni)]] — Augustine's theodicy: evil is no nature but the loss of good; the evil will has a "deficient," not efficient, cause; against Manichaean dualism (*City of God* XI–XII) (new 2026-06-27)
+- [[original-sin|Original Sin and the Fall]] — pride as the root of the fall; death as its penalty; concupiscence and the disordered will; "flesh" as the whole self living by self-love (*City of God* XIII–XIV) (new 2026-06-27)
+- [[peace|Peace (Pax) — the Tranquillity of Order]] — Augustine's "peace is the tranquillity of order"; the hierarchy of peace; war waged for peace; a "people" defined by its objects of love; the pilgrim city's use of earthly peace (*City of God* XIX) (new 2026-06-27)
+- [[supreme-good|The Supreme Good (Summum Bonum)]] — eternal life as the supreme good vs. the philosophers' vain happiness in this life; Varro's 288 sects; the Stoics and suicide (*City of God* XIX) (new 2026-06-27)
+- [[last-judgment|The Last Judgment]] — the final judgment from both Testaments; the two resurrections; Antichrist; the order of the last things (*City of God* XX) (new 2026-06-27)
+- [[millennialism|Millennialism (Chiliasm) and Augustine's Amillennial Reading]] — the thousand years of Rev. 20 as the present Church age, against the carnal chiliasts; Satan bound and loosed; Gog and Magog (*City of God* XX) (new 2026-06-27)
+- [[eternal-punishment|Eternal Punishment (Hell)]] — the endless, bodily second death; how a body burns unconsumed (the natural marvels); against the *misericordes* and Origen's universalism; "saved as by fire" (*City of God* XXI) (new 2026-06-27)
+- [[purgatory|Purgatory / Purgatorial Punishment]] — the "germ of purgatory": limited pre-judgment cleansing for the regenerate; 1 Cor. 3:15; later a Catholic–Protestant dividing line (*City of God* XXI) (new 2026-06-27)
+- [[resurrection|Resurrection of the Body]] — bodily resurrection against the Platonists/Porphyry; objections answered (infants, stature, scars, cannibalism); the spiritual body and *non posse peccare* (*City of God* XXII) (new 2026-06-27)
+- [[beatific-vision|The Beatific Vision]] — the face-to-face sight and enjoyment of God; whether seen by bodily eyes; the eternal Sabbath; "we shall rest and see, see and love, love and praise" (*City of God* XXII) (new 2026-06-27)
+- [[relic-veneration|Relic Veneration and the Cult of the Martyrs]] — Augustine's catalogue of contemporary miracles at the relics of Stephen; "our martyrs are not our gods"; miracles as witnesses to the resurrection (*City of God* XXII) (new 2026-06-27)
 - [[allegorical-reading|Allegorical Reading]] — the cross-tradition allegory family: Remez (Jewish), theōria/allegoria (Christian — Philo, Origen, Clement), ta'wil/bāṭin (Islamic); distinguished from typology; the recurring letter-vs-spirit controversy (new 2026-06-09)
 - [[literary-reading-of-the-bible|Literary Reading of the Bible]] — the modern literary-critical approach (Alter, Kermode, Fokkelman): the received text as designed whole; word-motifs, type-scenes, narrative gaps; synchronic counterweight to source/form/redaction criticism (new 2026-06-09)
 - [[deuteronomistic-history|Deuteronomistic History]] — Noth's hypothesis that Deuteronomy–2 Kings form one edited work; covenant retribution, cult centralization, prophecy-fulfillment, formulaic style; the Polzin–Alter dispute over its reach in Samuel (new 2026-06-09)
@@ -1226,6 +1351,24 @@ Master index of all pages. Updated on every ingest.
 - [[anekantavada|Anekāntavāda]] — "many-pointedness"; the signature Jain epistemology; [[syadvada|Syādvāda]] — its sevenfold predication
 - [[women-and-liberation-in-jainism|Women and liberation]] — the Digambara/Śvetāmbara dispute over female *mokṣa*
 - [[bhattaraka|Bhaṭṭāraka]] — the Digambara clothed cleric-administrator; [[temple-dwelling-monks|Temple-dwelling monks]] (caityavāsīs)
+
+### Sikhism (2026-06-27; [[mcleod-sikhism|McLeod]] + SGGS Part 1 primary-text ingest)
+- [[gurmat|Gurmat]] — the Sikh hermeneutic: bāṇī as the Guru's living voice; the Granth *is* the Guru
+- [[akal-purakh|Akal Purakh]] — God: the Timeless One, formless, without gender; *Vāhigurū*
+- [[naam|Naam]] — the divine Name as cosmic ground of existence; the only true cleanser; supreme in all four ages (expanded from primary text, 2026-06-27)
+- [[shabad|Shabad]] — the Divine Word; cosmic sound-current; the Guru's utterance; the Shabad Guru (expanded from primary text, 2026-06-27)
+- [[nadar|Nadar (Divine Grace)]] — the unmerited divine glance (*nazar*); Gurprasaad; grace overrides karma (new from primary text, 2026-06-27)
+- [[mul-mantar|Mool Mantar]] — the 9-attribute theological axiom opening the Granth; Ik Oaṅkār + Sat Nām + Kartā Purakhu + Nirbhau + Nirvair + Akāl Mūrat + Ajūnī + Saibhaṅ + Gur Prasādi (new 2026-06-27)
+- [[brahm-gyani|Brahm Gyani]] — the God-conscious being; the lotus simile; "the highest of the high, yet the most humble"; the God-conscious being is Himself God (Sukhmani Sahib, Ashtapadī 8) (new 2026-06-27)
+- [[saadh-sangat|Saadh Sangat]] — Company of the Holy; the transformative congregation; iron → gold by the Philosopher's Stone (new 2026-06-27)
+- [[nam-simaran|Nām Simaraṇ]] — remembrance of the divine Name; the central discipline; [[hukam|Hukam]] — the divine Order/Will
+- [[haumai|Haumai]] — self-centred egoism (the human predicament); [[gurmukh-manmukh|Gurmukh / Manmukh]] — the Guru-faced vs. self-faced person
+- [[the-guru|The Guru]] — the human Gurus, the inner *śabad*, and the eternal Guru as one light
+- [[sant-tradition|Sant tradition]] — the nirguṇa north-Indian matrix of Nanak's teaching
+- [[miri-piri|Mīrī-Pīrī]] — the dual temporal/spiritual authority (Guru Hargobind's two swords)
+- [[five-ks|Five Ks]] — the *pañj kakār* of the Khalsa; [[amrit-sanskar|Amrit Sanskār]] — Khalsa initiation
+- [[langar|Langar]] — the egalitarian free kitchen; [[gurdwara|Gurdwara]] — the Sikh place of worship
+- [[nit-nem|Nit-nem]] — the daily liturgical discipline; [[ardas|Ardas]] — the Khalsa prayer
 - [[ardhamagadhi|Ardhamāgadhī]] — the Prakrit of the Śvetāmbara canon
 
 ---
@@ -1304,6 +1447,9 @@ a `sects/` page, cross-linked.)*
     - [[vajrayana|Vajrayana]] — tantra atop Mahayana; Tibetan Buddhism (new 2026-06-09)
     - [[nyingma|Nyingma]] — "the Ancient Ones," oldest Tibetan school; the nine vehicles, the *terma* system; canonizes the [[bardo-thodol|Tibetan Book of the Dead]] (new 2026-06-27)
     - [[dzogchen|Dzogchen (Atiyoga)]] — the Great Perfection; highest of the nine vehicles; *rig-pa*, khregs-chod/thod-rgal, the rainbow body; the contemplative frame of the Book of the Dead (new 2026-06-27)
+    - [[tibetan-buddhism|Tibetan Buddhism]] — umbrella of the Tibetan schools; the Kangyur/Tengyur canon; the graded path and sūtra–tantra union (new 2026-06-27)
+    - [[kadam|Kadam]] — the reform lineage of [[atisha|Atiśa]] and Drom-tön-pa; the graded path + mind-training; seedbed of the Gelug (new 2026-06-27)
+    - [[gelug|Gelug]] — [[tsongkhapa|Tsong-kha-pa]]'s "New Kadam"; the *[[lamrim-chenmo|Lamrim Chenmo]]*; Prāsaṅgika + monastic discipline; lineage of the Dalai Lamas (new 2026-06-27)
 
 ### Hinduism
 - [[hinduism|Hinduism]] — tradition overview; tiered shared canon (shruti/smriti); the wiki's clearest "one canon, opposite readings" case (new tradition 2026-06-09)
@@ -1329,6 +1475,16 @@ a `sects/` page, cross-linked.)*
     - [[terapanth|Terāpanth]] — [[acarya-bhiksu|Ācārya Bhikṣu]]'s single-*ācārya* movement; the Anuvrat movement
     - [[kanji-svami-panth|Kānjī Svāmī Panth]] — modern Digambara-derived movement centred on [[kundakunda|Kundakunda]]'s mysticism
     - [[yapaniya|Yāpanīya]] — extinct south-Indian intermediate sect
+
+### Sikhism (new tradition 2026-06-27; [[mcleod-sikhism|McLeod]] — Scope 1 of 3)
+- [[sikhism|Sikhism]] — tradition overview; monotheistic Indic path of the ten Gurus; the divine Name; the [[guru-granth-sahib|Guru Granth Sahib]] as living Guru; the [[sant-tradition|Sant]] matrix
+  - **Sects** ([[sikhism|↑]]):
+    - [[khalsa|Khalsa]] — the order of initiated Sikhs (Guru Gobind Singh, 1699); the Five Ks and the Rahit; the normative mainstream
+    - [[nihang|Nihangs (Akalis)]] — militant Khalsa order; full honour to the Dasam Granth
+    - [[udasi|Udasis]] — ascetic order from Nanak's son Siri Chand; "Hinduizing"; ejected from gurdwaras in the 1920s
+    - [[nirmala|Nirmalas]] — celibate scholarly order; Vedantic learning; allied with the Sanatan Sikhs
+    - [[nirankari|Nirankaris]] (Asali) — Baba Dayal's Nanak-panthi renewal; a continuing Guru-line
+    - [[namdhari|Namdharis (Kukas)]] — reformist "purified Khalsa"; a living Guru-line; the Dasam Granth as canonical
 
 ### Daoism
 - [[daoism|Daoism]] — tradition overview; the ineffable Dao; non-theistic, naturalistic; commentary-as-transformation; Kirkland revision 2026-06-10: biospiritual cultivation as the true core, tao-chia/tao-chiao dichotomy challenged
@@ -1449,6 +1605,14 @@ a `sects/` page, cross-linked.)*
 ### Samaritanism
 - [[samaritanism|Samaritanism]] — top-level **parallel tradition** (not a sect of Judaism); canon is the **Samaritan Pentateuch alone**; [[mount-gerizim|Gerizim]]-centered worship; cross-linked to [[samaritans|Samaritans]] (group) and [[gerizim-vs-jerusalem]] (new tradition 2026-06-09)
 
+### Christian Hermeneutics & Rhetoric (2026-06-27; [[on-christian-doctrine|On Christian Doctrine]])
+- [[use-and-enjoyment|Use and Enjoyment (uti/frui)]] — Augustine's division of things into those to be enjoyed (God alone) and those to be used in reference to him; the traveler analogy; sign-theory grounded in the Word-made-flesh
+- [[charity-and-cupidity|Charity and Cupidity (caritas/cupiditas)]] — love of God/neighbor as both the end of Scripture and the criterion of valid interpretation; the *ordo amoris*; the faith-hope-love triad
+- [[spoils-of-egypt|Spoils of Egypt]] — the licence to appropriate true and useful pagan learning for Christian use, as Israel took Egyptian gold
+- [[figurative-interpretation|Figurative Interpretation]] — the master rule that whatever, taken literally, cannot promote purity of life or sound doctrine must be read figuratively; variable figural values; multiple valid senses
+- [[tichonius-seven-rules|Tichonius's Seven Rules]] — the [[donatism|Donatist]] exegete's *Liber Regularum* adopted (with corrections) by Augustine into Latin exegesis
+- [[christian-eloquence|Christian Eloquence]] — Augustine's Christianized Ciceronian rhetoric: the three styles (subdued/temperate/majestic) for teaching, delighting, and moving
+
 ---
 
 ## Comparisons
@@ -1464,9 +1628,17 @@ a `sects/` page, cross-linked.)*
 
 ## Controversies
 
+### Christian Eschatology (2026-06-27; [[city-of-god|City of God]])
+- [[universal-salvation-controversy|Universal Salvation (Apokatastasis) vs. Eternal Punishment]] — whether the punishment of the damned and the devil is endless (Augustine) or all are finally restored (Origen); the softening *misericordes*; Matt. 25:46 vs. 1 Cor. 15:28; a live, tradition-specific dispute
+
+### Sikhism (2026-06-27; [[mcleod-sikhism|McLeod]])
+- [[who-is-a-sikh|Who is a Sikh?]] — Sikh identity, the historicity of the Five Ks and the 1699 Khalsa, the "transformation" of Sikhism, and Nanak's relation to the Sant tradition: Tat Khalsa / normative historiography vs. McLeod / historical-critical scholarship vs. Sanatan Sikhism
+
 ### Islamic / Cross-Tradition (2026-06-09)
-- [[qiraat-variant-readings|The Qira'at (Variant Qur'anic Readings)]] — the seven/ten canonical recitations vs. the preservation claim vs. revisionist text-criticism
+- [[qiraat-variant-readings|The Qira'at (Variant Qur'anic Readings)]] — the seven/ten canonical recitations vs. the preservation claim vs. revisionist text-criticism; Bukhari evidence for Umar–Hisham incident, Abu Bakr's collection, Uthman's standardization, and the Ibn Masud / Mu'awwidhatain dispute (extended 2026-06-27)
 - [[crucifixion-in-the-quran|The Crucifixion of Jesus — Qur'an 4:157 vs. the Gospels]] — Islam's denial of the crucifixion; the sharpest Islam–Christianity contradiction
+- [[fadak-inheritance|The Fadak Inheritance Dispute]] — Fatima's claim vs. Abu Bakr's refusal; Umar's arbitration (Nos. 325–326); the foundational Sunni/Shia property and succession grievance; from Ṣaḥīḥ al-Bukhārī Book 53 (new 2026-06-27)
+- [[divine-foreknowledge-and-free-will|Divine Foreknowledge and Free Will]] — Cicero (deny foreknowledge) vs. Stoic fate vs. Augustine's compatibilism (the will among the causes God foreknows); *City of God* V (new 2026-06-27)
 - [[quran-4-34-male-authority|Q 4:34 — Male Authority (qiwama) and the *daraba* clause]] — classical vs. Qutb vs. reformist/feminist ([[amina-wadud|Wadud]]) vs. "no-harm" readings of *qiwama*/*nushuz*/*daraba*; the flashpoint of [[islamic-feminism|Islamic feminism]] (new 2026-06-09)
 - [[eternity-of-the-world|The Eternity of the World]] — the [[falsafa|falasifa]]' pre-eternal cosmos vs. the *kalam* doctrine of temporal creation; the Tahafut debate ([[al-ghazali|al-Ghazali]] vs. [[avicenna|Avicenna]]/[[averroes|Averroes]]); resolution tradition-specific (new 2026-06-27)
 

@@ -159,6 +159,54 @@ of **fiction**, created by human authors who lived at various times, and shows h
 transformed the actual circumstance of the historical period into something far more beautiful, terrible,
 challenging, and elevating than the circumstances themselves."
 
+## William Buck's Retelling (1976)
+
+**William Buck**, *Ramayana: King Rama's Way* (University of California Press, 1976), is a prose retelling of Valmiki's Rāmāyaṇa in English. Buck (1931–1970) worked from scholarly translations rather than from the Sanskrit directly; the book was published posthumously. It renders the epic as literary prose narrative rather than verse translation, condensing and sometimes reordering material while following Valmiki's overall structure.
+
+### Frame Structure
+
+Buck preserves the **double frame** structure of the Sanskrit Valmiki text. The outer frame is:
+
+> "Sauti the storyteller told this tale to his friend Saunaka in Naimisha Forest. Bending with humility he finished the wonderful Mahabharata in the evening, and the next morning Saunaka asked, 'Lotus-eyed Sauti, who was that monkey Hanuman who met Bhima in the Hills . . .  What is that story of Rama, which keeps Hanuman alive so long as it is told by men on Earth?'" (lines 1013–1020)
+
+Sauti's description of the Rāmāyaṇa frames it as exceeding even time: "Arjuna the Pandava is gone, and Fire took away his bow, but somewhere Time waits to rearm him. So Time is beyond Fire, but Ramayana is beyond Time" (lines 1023–1026). Rāma ruled the earth for eleven thousand years (line 1030), and the festival in Naimisha Forest at which Kuśa and Lava performed was in that same forest — the setting of the current frame.
+
+The **inner frame** is the performance by Kuśa and Lava at Rāma's year-long festival in Naimisha Forest (lines 1199–1228). Valmiki taught the boys the poem by memory; they "sang Ramayana to a lute and a drum, like Gandharvas, the heavenly musicians" (lines 1197–1198). For a year they sang portions each morning. Rāma himself came to listen every day, not yet knowing who the boys were. The poem being performed *is* the poem we are reading — a recursive loop in which the Rāmāyaṇa contains its own first singing.
+
+Valmiki composed the poem by gazing into cupped water: "He held a little water cupped in his hands, and looking down into it he clearly saw Rama and Sita. He saw them move, he heard them talk and laugh. He saw all Rama's life happen within the water" (lines 1177–1181). Brahmā had promised him: "As you make your poem, Rama's life will be revealed to you, and no word of yours will be untrue" (lines 1173–1174).
+
+### Temporal Framing: Yuga Doctrine
+
+Buck's opening explicitly locates the story within the yuga cosmology: "We live now in the third age of Time, and Rama lived in the second age of the world" (lines 1041–1042). The story is thus set in the **Treta Yuga** (second age), and the narrator speaks from the **Dvāpara Yuga** (third age). Viśvāmitra, addressing Daśaratha, elaborates the yuga decline: "we are living in the second age of the world, and the quarter part of Virtue has now died among men. These are faded days and Dharma declines" (lines 1603–1605). The first age (*Kṛta/Satya Yuga*) is described as a time when "food came by wishing and grew from Earth without tending. No one wept, nor was cruel, nor hurt another; and there were not many gods then among different men but only one" (lines 1606–1609). The second age "began with the first slaughter and sacrifice of an innocent animal to some lower god" (line 1610).
+
+### Key Theological Emphases in the Opening
+
+**The avatar as cosmological necessity.** Buck foregrounds the theological logic of Viṣṇu's incarnation before narrating the birth of the princes. Rāvaṇa's boon from Brahmā explicitly excluded men and animals — "from disdain Ravana did not mention men or animals" (line 1440). The descent of Nārāyaṇa is therefore not merely rescue but structural: only a mortal man can kill what the gods cannot touch. The scene between Indra and Nārāyaṇa (lines 1404–1461) presents this as a cosmic conversation at the foundation of the epic's plot.
+
+**The origin of poetry.** Buck makes the invention of the *shloka* meter and thereby of all poetry a central prologue: "Before Ramayana there was no poetry on Earth" (line 1048). The meter arises from grief at the killing of a bird in love, and Brahmā validates it: "by a river, the world's first verse has been born from pity" (line 1170). Poetry's origin in compassion for suffering echoes the poem's dominant themes of exile, separation, and witness.
+
+**Ravana's mythological history as prologue.** Viśvāmitra's long speech to Daśaratha (lines 1630–2617) provides an extended origin myth for the Rākṣasas, Laṅkā, Rāvaṇa's penance and boon, Rāvaṇa's conquests (of heaven, death's realm, the underworld, the moon), and the Battle of Heaven — before the main narrative of Rāma's childhood begins. This places the cosmic stakes (a world under demonic domination) squarely before the audience before the hero acts.
+
+**Dharma of kinship and oath.** The crisis of Kaikeyī's two boons (lines 3059–3502) is framed as a conflict of dharmas: a Solar King's word cannot be broken, a father's love for his son is real, and a husband's oath to his wife was honestly made. Rāma himself resolves the conflict by insisting on his father's integrity: "Dasaratha never takes back, never fails to carry out what he has once spoken. Mother, I am like my father, trust me, have no fear" (lines 3433–3435). The tragedy is that Daśaratha's righteousness — his incapacity to break an oath — is the mechanism of his son's exile.
+
+### Buck's Retelling: Book 2 of Ayodhyā — Exile, Dasaratha's Death, Bharata's Regency (lines 3501–5730)
+
+**The departure.** Sītā insists on joining exile with a speech inverting Rāma's arguments: "It is Ayodhyā that would be the wilderness for me without you" (line 3538). Vasiṣṭha's departure blessing entrusts the three exiles to mountains, trees, birds, Sun, Moon, lakes, and the Guardians of the four directions (lines 3639–3658). Sumantra drives them through a gate defended by forty rows of guards, scattering them with a war-whip (lines 3943–3947). The Kosalas who followed are lost by Sumantra's false trail through the Tamasa River — the red horses leave no hoof-marks (lines 4022–4026).
+
+**Guha the Hunter King.** At the Ganga crossing, the exiles meet Guha — described in precise ethnographic detail (painted, tattooed, bearskin, tiger teeth, bone ornaments, poisoned darts, sandalwood-cigar, lines 4060–4072). He is Rāma's childhood friend; he taught Lakṣmaṇa forest lore but "Rāma I could never teach to hunt" (lines 4103–4104). Guha keeps Lakṣmaṇa company through the night with the story of his own death and rescue by Shiva's guardian Nandin — an anecdote about unorthodox devotion (kicking Shiva's idol as a form of engagement rather than reverence) overriding Yama's legal claim (lines 4149–4274). The moral: "when even the Court of Death cannot tell right from wrong, it is surely very hard for us to judge things" (lines 4272–4274).
+
+**Dasaratha's death.** Daśaratha goes blind when Rāma's chariot disappears (line 4600). He tells Kausalyā the story of accidentally killing a blind man's son in his youth, and recognizes the karmic return: his death over a lost son mirrors the curse of parents whose only son he killed (lines 4696–4803). Yama enters the palace and takes his soul with a "diamond-wire silver noose" (lines 4804–4811). See [[dasaratha|Daśaratha]].
+
+**Bharata's refusal and march.** Bharata, returning from Kekaya with prophetic dreams of disaster, repudiates Kaikeyi utterly, performs the funeral in Rāma's name, and marches with the entire Kosala nation — nine thousand war-elephants, six thousand chariots — to find Rāma. At Bharadwaja's hermitage, the architect Viswakarman conjures a divine feast for the whole army: "rivers ran with water and wines and milk and sugar syrup," Gandharvas played, Apsarasas danced, food appeared, Nagas cared for horses and elephants (lines 5280–5326). By dawn the feast had vanished without trace.
+
+**The Chitrakuta dialogue: promise versus love.** Rama and Bharata meet on the hillside. Bharata offers to take Rāma's place in exile; Rāma refuses, citing Daśaratha's word as inviolable. Bharata argues: men dying lose judgment; a brother is irreplaceable. Rāma insists: "a man's unbroken word is like a bowl of clear glass; once shattered, no one can put it back" (lines 5514–5516). The Kosalas cheer Rāma's answer.
+
+**The sandals and the Nandigrama regency.** Bharata asks for Rāma's "wooden-soled sandals with colored flowers painted on them" (lines 5594–5595). He installs them on the royal throne at Nandigrama in Rāma's stead, dressed in barkcloth with Śatrughna at his side. The sandals govern actively: "if any case was wrongly judged the sandals swiftly beat together their loud wooden soles" (lines 5616–5618). Ayodhyā falls into total silence for fourteen years: musicians unstring their lutes; Kosalas walk because Rāma walks; flags are furled; only the women keep wearing flowers "because Sītā went to the forest dressed in fashion" (line 5628). See [[bharata|Bharata]].
+
+**Forest life and the Brahma Weapon.** Lakṣmaṇa builds a bamboo house at Chitrakuta (lines 4535–4539); Rāma and Sītā walk blooming hillsides. A crow attacks Sītā and draws blood; Rāma puts the Brahma Weapon on a grassblade and throws it — it pursues the crow through all the heavens and worlds until the crow surrenders his right eye at Rāma's feet (lines 5444–5462).
+
+**The wandering years and Anasuya's gifts.** Moving south through the Vindhyas, Rāma's party visits the hermitage of Atri and Anasuya. Anasuya gives Sītā a never-fading garland, never-tarnishing gold ornaments, and a sandalwood jar that never empties (lines 5700–5705). They wander from place to place for thirteen years until late in the fourteenth spring. Book 2 (Ayodhyā) ends; the Forest Book (Part Two: Sītā's Rescue) begins at line 5730.
+
 ## Sources Ingested
 
 1. [[wendy-doniger|Wendy Doniger]], *[[doniger-the-hindus|The Hindus: An Alternative History]]* (2009),
@@ -166,3 +214,5 @@ challenging, and elevating than the circumstances themselves."
 2. [[wendy-doniger|Wendy Doniger]], *[[doniger-the-hindus|The Hindus: An Alternative History]]* (2009),
    Ch. 24–25 (read in full) — Babri Masjid; Ram Setu; "300 Rāmāyaṇas" / Ramanujan controversy; Sītā's
    modern feminist retellings; subversive Rāmāyaṇas (Tamil counter-epic, Dalit version, Tribal version).
+3. William Buck, *Rāmāyaṇa: King Rāma's Way* (1976, University of California Press) — lines 1–5730 read
+   across multiple subagents (Book 1 of Ayodhyā through end of Book 2, start of Forest Book).

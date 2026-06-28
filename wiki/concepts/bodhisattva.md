@@ -2,8 +2,8 @@
 title: Bodhisattva
 domain: doctrine
 traditions_using: [Buddhism]
-sources_ingested: 2
-last_updated: 2026-06-09
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [concept, buddhism, mahayana, soteriology]
 ---
 
@@ -28,6 +28,11 @@ contrast between the great Buddhist vehicles.
 
 The arhat-vs-bodhisattva ideal is, with the canon question, the substance of the Theravada/Mahayana
 divide — a candidate comparison/controversy page.
+
+In [[tibetan-buddhism|Tibetan Buddhism]], the bodhisattva path is set out as a graded curriculum in
+[[tsongkhapa|Tsong-kha-pa]]'s **[[lamrim-chenmo|Lamrim Chenmo]]**: generating [[bodhicitta|bodhicitta]],
+adopting and maintaining the vow, and training in the **[[six-perfections|six perfections]]** plus
+the four ways to gather disciples (the "great capacity" path).
 
 ## Key Virtue
 

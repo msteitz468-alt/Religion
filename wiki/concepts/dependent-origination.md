@@ -3,8 +3,8 @@ title: Dependent Origination (Pratītyasamutpāda)
 also_known_as: [dependent arising, conditioned co-arising, paṭiccasamuppāda (Pali), the twelvefold chain (nidānas)]
 domain: doctrine
 traditions_using: [Buddhism]
-sources_ingested: 2
-last_updated: 2026-06-09
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [concept, buddhism, metaphysics, causation]
 ---
 
@@ -51,6 +51,20 @@ wiki should track:
   from read as **ground** (*paccaya*): *avijjā* is the *paccaya* of *saṅkhāra* in nine ways (ground of its
   origin, movement, conglomeration, etc.), suggesting "the saṅkhāras were in some sense regarded as special
   manifestations of avijjā" — though, he cautions, the early texts do not develop this further.
+
+## Tsong-kha-pa's Treatment (Lamrim Chenmo, Vol. I, ch. 21)
+
+[[tsongkhapa|Tsong-kha-pa]] presents the twelve factors as "the best method for generating
+disenchantment with cyclic existence" (see [[renunciation|the determination to be free]]). He
+organizes them in three further classifications: by **four causes** (the *Rice Seedling Sūtra*'s seed
+of consciousness sown by ignorance, moistened by craving); by **four groups** (projecting / projected
+/ actualizing / actualized — *Compendium of Knowledge*); and by **three paths** (Nāgārjuna's
+*Fundamental Treatise*: factors 1, 8, 9 are afflictions; 2 and 10 are [[karma|karma]]; the other seven
+are suffering — "From the three arise the two; from the two arise the seven…"). The cycle completes
+over a **minimum of two and a maximum of three** lifetimes. Because arhats retain vast projecting
+karma yet are liberated by lacking afflictions, the analysis exposes the afflictions as the real
+enemy. The Kadam master **Pu-chung-wa** built his entire graded path on the twelve factors, mapping
+them onto the [[three-types-of-persons|three capacities]].
 
 ## Nāgārjuna's Reading: Dependence Entails Emptiness
 

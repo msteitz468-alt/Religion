@@ -28,6 +28,15 @@ Zeus *is* fate's executor, sometimes its subject) — an ancient version of the 
 The [[roman-religion|Roman]] *fatum* is more bound up with **providence** and Rome's destiny ([[virgil-aeneid|
 the *Aeneid*]]).
 
+## Augustine's Critique of Fate
+
+In [[city-of-god|*City of God*]] Book V, [[augustine|Augustine]] attacks astrological **fate** as the
+cause of Roman greatness, refuting it from the divergent lives of **twins** (born under the same
+constellation) and dismissing Nigidius Figulus's potter's-wheel analogy. He distinguishes two senses of
+*fatum*: stellar determinism (rejected outright) and the providential "order of causes" willed by God
+(acceptable in substance but better not called "fate"). This providential order does not abolish the
+will but includes it — see [[divine-foreknowledge-and-free-will]] and [[divine-providence]].
+
 ## Cross-Tradition Note
 
 A rich comparandum: Greco-Roman fate as **impersonal allotment** contrasts with the **personal, sovereign

@@ -60,8 +60,21 @@ The Middle Platonic synthesis (especially through Philo) is a major source for t
 
 Modern scholarship (including Stead) continues to debate the precise degree of originality versus borrowing in early Christian theology and the extent to which Middle Platonic assumptions (e.g., a sharp matter/spirit dualism or hierarchical emanation) helped or hindered the articulation of distinctively Christian claims.
 
+## Augustine and the Platonists in the City of God
+
+[[augustine|Augustine]]'s [[city-of-god|*City of God*]] Books VIII–X give the fullest Christian
+engagement with the Platonist tradition (here shading into Neoplatonism). Augustine judges the
+[[plato|Platonists]] "nearest of all to us" — they grasped God as immaterial, immutable cause of being,
+truth, and goodness, and the soul's blessedness as participation in him. Yet they fatally conceded
+worship to many gods and made **demons the mediators** between gods and men: [[apuleius|Apuleius]]'s
+*De Deo Socratis* (Books VIII–IX) and [[porphyry|Porphyry]]'s theurgy (Book X) are his chief targets,
+with [[plotinus|Plotinus]] quoted respectfully throughout. The Platonists' tragedy, for Augustine, is to
+have glimpsed the Logos yet rejected the one incarnate Mediator out of pride.
+
 ## Key Links
 
+- [[plato|Plato]], [[plotinus|Plotinus]], [[porphyry|Porphyry]], [[apuleius|Apuleius]] — the Platonist
+  tradition as Augustine engages it.
 - [[philo-of-alexandria|Philo of Alexandria]] — the outstanding Jewish Middle Platonist.
 - [[alexandria|Alexandria]] — primary geographical and cultural center.
 - [[logos-christology|Logos Christology]] — direct conceptual descendant.

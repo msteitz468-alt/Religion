@@ -110,6 +110,39 @@ Maimonides connects the theodicy problem to a pervasive anthropocentric error. T
 
 The universe is not made for man; God's intention is to give existence to everything whose existence is possible ("existence is undoubtedly good"), and the divine wisdom that governs this is not accessible to human reasoning except partially. Nor are God's works purposeless or arbitrary: "no intelligent person can assume that any of the actions of God can be in vain, purposeless, or unimportant. According to our view and the view of all that follow the Law of Moses, all actions of God are 'exceedingly good'" (Ch. XXV, lines 485–490, citing Gen. i. 31). But the purpose of many things is not human welfare specifically.
 
+## Augustine: Providence over History and the Two Cities
+
+In [[city-of-god|*City of God*]] Books I–V, [[augustine|Augustine]] develops a providential **philosophy
+of history**. Temporal goods and ills befall good and bad alike, by design: the same affliction "proves,
+purges, clarifies the good, but damns, ruins, exterminates the wicked" (Book I). Earthly **empire** is
+not the gift of the pagan gods but is distributed by the one God "to good and bad… according to the order
+of things and times, which is hidden from us, but thoroughly known to Himself" (Book IV) — Assyria, Rome,
+and even tyrants like Nero receive dominion when God judges fit (Book V, citing Prov. 8:15; Job 34:30).
+Against the Roman blame of Christianity for the 410 sack, Augustine reframes catastrophe as providential
+chastisement and mercy (Ps. 89:32). On the compatibility of God's foreknowledge with human freedom, see
+[[divine-foreknowledge-and-free-will]]; the providential "order of causes" includes the freely willing
+will itself, and is distinct from astrological [[fate-moirai|fate]].
+
+## Aquinas: the government of the world (Summa Theologiae I, Q103–119)
+
+Where [[thomas-aquinas|Aquinas]] treats providence *in itself* under God's knowledge and will
+(Q22–23; see [[predestination]]), the *execution* of providence is the **government of the world**
+(Q103–119). God governs all things toward the good as their end (Q103); by **design** He orders all
+things immediately, but in **execution** He works through a hierarchy of **secondary causes**, "to
+communicate the dignity of causality to creatures" (the archer–arrow image). He **conserves** every
+creature in being at every moment — "not for a moment could it subsist" without God's sustaining act
+(Q104) — and works in every agent as end, mover, and giver of form (Q105, A5). He alone moves the
+**will** efficaciously, since only the universal good fills its capacity (Q105, A4). He can also act
+**outside** the order of secondary causes He established — **miracles**, defined as what God does
+beyond the order of the whole created nature, in three grades (Q105, A6–8).
+
+On **fate and the stars**: the heavenly bodies **cannot impose necessity on the human intellect or
+will**, which are not corporeal powers; they incline only indirectly through the bodily passions, and
+"the wise man is master of the stars" (Ptolemy). What truth there is in **"fate"** is nothing but the
+ordering of secondary causes under divine providence — not an astral necessity — and things God does
+immediately are "above fate" (Q115–116; see [[fate-moirai]]). This secures human freedom *within*
+universal providence.
+
 ## Cross-Tradition Notes
 
 - **Aristotle** (as characterized by Maimonides): No individual divine providence; divine attention is confined to the heavenly spheres and to species-forms.

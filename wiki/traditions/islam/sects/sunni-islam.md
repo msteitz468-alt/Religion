@@ -6,7 +6,7 @@ type: normative stream
 dates: 7th c. CE (crystallized after the early caliphal disputes) – present
 status: extant
 relationship_to_orthodoxy: normative (the majority tradition, ~85–90% of Muslims)
-canon_distinctives: [quran, sahih-al-bukhari]   # Qur'an + the Kutub al-Sittah (six hadith books)
+canon_distinctives: [quran, sahih-al-bukhari, sahih-muslim]   # Qur'an + the Kutub al-Sittah (six hadith books)
 key_doctrinal_distinctives: [legitimacy of the first four Rightly-Guided Caliphs, authority of community consensus (ijma), the four madhhabs, the uncreated Qur'an]
 hermeneutical_method: [tafsir bi'l-mathur, the four sources of usul al-fiqh (Qur'an, sunna, ijma, qiyas)]
 key_figures: [Abu Bakr, al-Bukhari, al-Shafi'i, al-Tabari, al-Ghazali]

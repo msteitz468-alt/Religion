@@ -64,6 +64,13 @@ fertile soil where exilic Judaism (Sabbath, prayer, scripture, the Aramaic shift
 born. The prophetic oracles against Babylon (Isa. 13; 47; Jer. 50–51) proclaim its
 doom and the exiles' return.
 
+For [[augustine|Augustine]] in [[city-of-god|*City of God*]] (Books XVI–XVIII), Babylon — founded by
+[[nimrod|Nimrod]] at Babel and "interpreted *Confusion*" — is the standing **archetype of the
+[[two-cities|earthly city]]** (*civitas terrena*), the city built by pride and the *libido dominandi*.
+Augustine extends the type into a philosophy of history: Assyria/Babylon is "**the first Babylon of the
+East**," and [[rome|Rome]] is "**a second Babylon in the west**" — the two great heads of the earthly
+city, running their course in parallel with the city of God from Abraham to the present.
+
 ## Key Events, Figures, and Controversies
 
 The Tower of Babel; Nebuchadrezzar's deportations; Belshazzar's feast (Daniel 5);

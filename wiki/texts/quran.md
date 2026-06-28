@@ -115,6 +115,68 @@ The text's afterlife runs through successive interpretive communities:
   being [[quran-4-34-male-authority|Q 4:34]] ([[qiwama|qiwama]], *daraba*). See
   [[islamic-feminism|Islamic feminism]].
 
+## Collection and Text History (Bukhari Evidence)
+
+*Source: Sahih al-Bukhari, Vol. 6, Book 61 (Virtues of the Qur'an), Nos. 502–582. M. Muhsin Khan trans.*
+
+### First Collection — Abu Bakr (after Battle of Yamama, 12 AH / 633 CE)
+
+**No. 509** (Zaid bin Thabit, narrated by his son):
+
+> "Abu Bakr sent for me [i.e. Zaid] at the time of the Battle of Yamamah [where many Quran-reciters were killed]. Umar was with him. Abu Bakr said, '…the Quran reciters are being killed in the battles… I suggest you order that the Qur'an be collected.' … I [Zaid] said, 'How will you do something which Allah's Apostle did not do?' Abu Bakr said, 'By Allah, it is a good project.' Umar kept on urging me to accept his proposal till Allah opened my chest for it and I agreed with Umar's opinion."
+
+Zaid collected Quranic material "from parchments, scapula, leaf-stalks of date palms, and from the memories of men." He found the last two verses of Surah Al-Tauba (9:128–129) **only with Khuzaima bin Thabit al-Ansari** and included them.
+
+The compiled codex was given to Abu Bakr, passed at his death to Umar, and at Umar's death to his daughter Hafsa.
+
+### Standardization — Uthman (c. 25 AH / 645 CE)
+
+**No. 510** (Zaid bin Thabit, narrated in the same chain):
+
+Uthman learned that Companions in different regions were reciting with different readings, causing disputes. He sent to Hafsa for the codex, ordered Zaid and three Qurayshi men to copy it. **Key editorial instruction**: "If you (Zaid) differ with Abdur-Rahman bin Hisham, Abdullah bin Az-Zubair and Said bin Al-As in any point in the Qur'an, then write it in the dialect of Quraish as the Qur'an was revealed in their tongue."
+
+Uthman then distributed copies and "ordered that all the other Qur'anic materials, whether written in fragmentary manuscripts or whole copies, be burnt." This is the origin of the standard Uthmanic text.
+
+### The Seven Ahruf (Modes of Recitation)
+
+**No. 513** (Umar bin al-Khattab): Umar heard Hisham bin Hakim reciting Surah al-Furqan in a mode different from what the Prophet had taught him. Umar grabbed Hisham and brought him to the Prophet: "I heard this man reciting Surat Al-Furqan in a way other than the one you taught me." The Prophet said: "Recite it, O Hisham." He recited it and the Prophet said: "Thus has it been revealed." Then Umar recited his version and the Prophet said: "Thus has it also been revealed." Conclusion: **"This Quran has been revealed to be recited in seven different ways (ahruf)."**
+
+**No. 514** (Ubai bin Ka'b): Gabriel taught the Prophet the Quran in one mode; Muhammad requested additional modes for the ease of his community. Each time he asked, Gabriel increased by one, until seven. The Prophet then said: "…all of them are sufficient and adequate."
+
+**Purpose of the Seven Ahruf** (stated explicitly in the hadiths): ease (*takhfif*) for the community.
+
+**No. 582** (Abdullah bin Masud): Warning against division over variant recitations:
+> "I saw the Messenger of Allah recite it (a verse) in a certain way, and men taught it in a different way. I was so grieved that I became rough in speech." The Prophet's advice: "Whoever recites [the Qur'an] in the mode he has heard is correct."
+
+### Qira'at Variant — Ibn Masud and Al-Mu'awwidhatain
+
+**No. 560** (Zirr bin Hubaish from Ubai bin Ka'b): A significant canonical controversy:
+> "Ibn Masud struck the (two suras of Refuge, i.e. Surah al-Falaq and Surah An-Nas [113–114]) out of his Mushaf, saying, 'These two are not from the Book of Allah.'"
+Ubai explicitly contradicted him, asserting the Prophet himself had taught him these two suras. The disagreement is recorded without adjudication; the Uthmanic text includes them. This is one of the clearest instances of a Companion-level textual dispute in the Sunni hadith corpus.
+
+### Order of Revelation
+
+**No. 515** (Aisha): A foundational pedagogical principle about the Quran's composition:
+> "The first things that were revealed thereof were the Suras with short verses dealing with Paradise and Hell. When the people came to embrace Islam, the Verses regarding legal and illegal things were revealed."
+
+This establishes a **two-phase canonical logic**: (1) doctrine and eschatology first, to build faith; (2) legal injunctions second, once the community was grounded. Aisha's example: if the first verse had been "do not drink wine," people would never have stopped; if it had been "do not commit adultery," people would never have stopped.
+
+### Virtues of Specific Suras
+
+- **Al-Fatiha** (No. 528): "greatest Surah" (*Umm al-Kitab*, "Mother of the Book")
+- **Al-Ikhlas** (Nos. 533–534): equivalent to one-third of the Quran in spiritual weight
+- **Ayat al-Kursi** (2:255) and the last two verses of Baqara (Nos. 530, 530a): protection for the night
+- **Al-Baqara** (No. 531): The Prophet recommends reciting daily because "al-Shaytan does not come near a house in which Surat al-Baqara is recited"
+
+### Khawarij Identified by Their Recitation
+
+**Nos. 577–578** (Abu Said al-Khudri; Sahl bin Hunaif): A proto-Kharijite group is described:
+> "They recite the Quran in a very impressive way but it does not exceed their throats (they have no inner faith)."
+
+The marker of the Khawarij in Bukhari is excessive Quran recitation without inward faith — "they go out of Islam as an arrow darts out of a game."
+
+---
+
 ## Sources Ingested
 
 1. *The Meaning of the Glorious Koran*, trans. Marmaduke **Pickthall** (1930). [Public-domain English

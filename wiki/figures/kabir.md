@@ -2,7 +2,7 @@
 title: Kabir
 also_known_as: [Kabīr]
 tradition: cross-tradition (Hindu-Muslim Sant)
-textual_sources: []
+textual_sources: [guru-granth-sahib]
 dates: c. 1398–1448 CE
 roles: [poet-saint, bhakti sant, nirgun theologian, social critic]
 sources_ingested: 1
@@ -110,6 +110,97 @@ critique cut both ways — neither tradition could afford to let the other have 
 His influence extends into Sikhism: Guru Nanak (1469–1539), who founded Sikhism just after
 Kabir's death, shared Kabir's nirgun theology and his refusal of the Hindu-Muslim binary. Several
 of Kabir's poems are included in the Sikh *Guru Granth Sahib*.
+
+## In the Guru Granth Sahib (Raag Aasaa Bhagat Bāṇī, Angs 475–484)
+
+The SGGS includes a large collection of Kabir's compositions — among the most extensive of any
+Bhagat — concentrated in the **Bhagat bāṇī** section of [[raag-aasaa|Raag Aasaa]] (Angs 475–484).
+The section heading names him first: "Kabeer Jee-o, Naam Dayv Jee-o, Ravi Daas Jee-o." His
+social identity is explicit: "A weaver from a lowly family, he became an ocean of excellence"
+(Mehl 5 intercalation, L8849–8851, Ang 488).
+
+### Composition types
+
+The Aasaa Bhagat bāṇī contains 22 Chau-Padas and Panch-Padas, 8 Tri-Padas, 7 Du-Tukas, and
+1 Ik-Tuka by Kabir — a variety of metres suggesting a large collected corpus.
+
+### Cosmic Weaver metaphor
+
+One of the most distinctive theological images in Kabir's SGGS compositions is the identification
+of God as the cosmic weaver and the world as his loom:
+
+> "No one knows the secret of God, the Cosmic Weaver. He has stretched out the fabric of the whole world." (L8201–8207, Ang 484)
+
+> "He has made the earth and sky His loom. Upon it, He moves the two bobbins of the sun and the moon." (L8218–8222, Ang 484)
+
+> "Says Kabeer, when my body workshop breaks, the Weaver shall blend my thread with His thread." (L8234–8238, Ang 484)
+
+Kabir's craft becomes the vehicle for non-dual theology: the individual weaver (Kabir) and the
+cosmic Weaver (God) are joined in one cloth. He contrasts this with Brahminic privilege:
+
+> "In my house, I constantly weave the thread, while you wear the thread around your neck, O Brahmin. You read the Vedas and sacred hymns, while I have enshrined the Lord of the Universe in my heart." (L7780–7788, Ang 483)
+
+> "You are a Brahmin, and I am a weaver of Benares; can You understand my wisdom? You beg from emperors and kings, while I meditate on the Lord." (L7817–7824, Ang 483)
+
+### Hindu-Muslim synthesis and inter-religious address
+
+The SGGS preserves Kabir's characteristic challenge to both religious systems simultaneously:
+
+> "Where have the Hindus and Muslims come from? Who put them on their different paths? Think of this, and contemplate it within your mind, O men of evil intentions. Who will go to heaven and hell?" (L6776–6788, Ang 477)
+
+> "Allah is hidden in every heart; reflect upon this in your mind. The One Lord is within both Hindu and Muslim; Kabeer proclaims this out loud." (L7967–7973, Ang 483)
+
+> "Says Kabeer, I sing the Glorious Praises of the Lord; I teach both Hindus and Muslims." (L7061–7063, Ang 479)
+
+His reinterpretation of Islamic practice is systematic — circumcision, fasting, prayer, the Kalma,
+the Kaaba — all redefined as inner states rather than outward acts:
+
+> "Keeping your fasts, reciting your prayers, and reading the Kalma, the Islamic creed, shall not take you to paradise. The Temple of Mecca is hidden within your mind, if you only knew it." (L7296–7306, Ang 479)
+
+> "Because of the love of woman, circumcision is done; I don't believe in it, O Siblings of Destiny. If God wished me to be a Muslim, it would be cut off by itself." (L6803–6810, Ang 477)
+
+He also extends the critique to Islamic ethics — the Qazi who fasts but kills animals for pleasure:
+
+> "You keep your fasts to please Allah, while you murder other beings for pleasure. You look after your own interests, and do not see the interests of others. What good is your word?" (L7927–7934, Ang 483)
+
+### Critique of idol worship
+
+Kabir is direct in targeting temple worship:
+
+> "The sculptor carves the stone and fashions it into an idol, placing his feet upon its chest. If this stone god was true, it would devour the sculptor for this!" (L7103–7108, Ang 479)
+
+> "The priest enjoys these [rice, sweets, cookies], while he puts ashes into the mouth of the idol." (L7113–7118, Ang 479)
+
+### Ulat-bāṃsī (inverted speech) compositions
+
+Kabir's SGGS compositions include *ulat-bāṃsī* — paradox verses using deliberately inverted
+imagery to point at the transcendence of ordinary logic:
+
+> "First, the son was born, and then, his mother. The guru falls at the feet of the disciple." (L7573–7576, Ang 481)
+
+> "The fish of the water gives birth upon a tree. I saw a cat carrying away a dog." (L7585–7589, Ang 481)
+
+> "Says Kabeer, listen, O Saints — the ant has eaten the mountain." (L6706–6707, Ang 477)
+
+### Critique of pilgrimage
+
+> "If salvation can be obtained by bathing in water, then what about the frog, which is always bathing in water? As is the frog, so is that mortal; he is reincarnated, over and over again." (L8260–8272, Ang 484)
+
+> "If the hard-hearted sinner dies in Benaares, he cannot escape hell. And even if the Lord's Saint dies in the cursed land of Haramba, still, he saves all his family." (L8273–8279, Ang 484)
+
+### On non-dualism
+
+> "As the reflection of an object blends in the water when the pitcher is broken, says Kabeer, just so virtue dispels doubt, and then the soul is absorbed in the profound, absolute Lord." (L6393–6401, Ang 475)
+
+> "I am Your son, and You are my Father. We both dwell in the same place." (L6522–6525, Ang 476)
+
+### Critique of caste-enforcing Brahmin ascetics
+
+> "They wear loin cloths, three and a half yards long, and triple-wound sacred threads. They have rosaries around their necks, and they carry glittering jugs in their hands. They are not called Saints of the Lord — they are thugs of Benares." (L6409–6418, Ang 476)
+
+Also in Raag Gauree (Angs 325–340): the Simritee as a serpent; the cosmic weaver restatement;
+inter-religious detachment as the highest path. See [[guru-granth-sahib|Guru Granth Sahib]]
+Raag Gauree Bhagat Bāṇī section for those compositions.
 
 ## Cross-Links
 

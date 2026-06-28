@@ -4,6 +4,119 @@ Append-only. Format: `## [YYYY-MM-DD] ingest | [Source Title]` or `## [YYYY-MM-D
 
 ---
 
+## 2026-06-27 ingest | Sahih al-Bukhari (M. Muhsin Khan trans.) — Pass 2: Vols. 4–6, Books 51–61
+
+Source type: primary hadith collection (Sunni Islam). **Scope: `raw/sahih-al-bukhari-vol4-6.txt`, lines 1–23,246 — read in full.** Scope covers Books 51–61: Wills (51), Jihad (52), Khums (53), Beginning of Creation / Angels (54), Prophets (55), Virtues of Muhammad (56), Companions (57), Ansar (58), Military Expeditions / Maghazi (59), Tafsir (60), Virtues of the Quran (61).
+
+**Method:** 8 Sonnet subagents deployed in parallel, reading disjoint line ranges. Main thread reconciled outputs and wrote pages.
+
+**Pages created (new):**
+- `wiki/concepts/jihad.md` — from Book 52
+- `wiki/concepts/khums.md` — from Book 53
+- `wiki/concepts/isra-and-miraj.md` — from Book 54 (Night Journey; 7 heavens; 50→5 prayers)
+- `wiki/figures/abu-bakr.md` — from Books 57–58
+- `wiki/figures/umar-ibn-al-khattab.md` — from Books 57–58
+- `wiki/controversies/fadak-inheritance.md` — from Book 53 (Fatima vs. Abu Bakr; Sunni/Shia split point)
+
+**Pages extended:**
+- `wiki/figures/muhammad.md` — physical description, five names, miracles, last days and death (from Books 56, 59)
+- `wiki/texts/quran.md` — full compilation history section: Abu Bakr's collection (No. 509), Uthman's standardization (No. 510), seven ahruf (Nos. 513–514), Mu'awwidhatain dispute (No. 560), order of revelation (No. 515), virtues of suras, Khawarij identification (from Book 61)
+- `wiki/concepts/tafsir.md` — Book 60 tafsir bi'l-ma'thur section: asbab al-nuzul table, abrogation disputes (Ibn Abbas back-to-back contradiction; 2:184 dispute), key hermeneutical cruxes
+- `wiki/controversies/qiraat-variant-readings.md` — Bukhari evidence section added
+- `wiki/texts/sahih-al-bukhari.md` — coverage ledger updated to "Read in full" for Vol. 4–6; scope plan updated
+- `wiki/locations/madinah.md` — sanctity, names, eschatological role (from Book 56)
+- `wiki/index.md` — all new/modified pages added
+
+**Source not yet moved** to `raw/texts/` — awaiting Pass 3 (Vol. 7–9) completion before relocation.
+
+**Contradictions flagged:**
+- Aisha vs. Ibn Umar: can the dead hear? (Badr well, Book 59 Nos. 316–317) — not yet promoted to controversies page
+- Last verse revealed: al-Bara vs. Ibn Abbas (4:176 vs. riba verse) — noted in tafsir.md
+- 25:68 vs. 4:93 abrogation: Ibn Abbas gave contradictory rulings Nos. 285–286 — noted in tafsir.md
+- The "smoke" of 44:10: Ibn Masud's historical reading vs. eschatological reading — noted in tafsir.md
+
+## 2026-06-27 ingest | William Buck, *Rāmāyaṇa* (1976) — Part Three: The Dharma Wheel (lines 13566–16313)
+
+Source type: literary retelling / prose Rāmāyaṇa. **Scope: lines 13566–16313 — read in full.** Key episodes: reunion with Sita (Buck's altered fire scene — Agni leads Sita to Rama, no harsh rejection); return to Ayodhya and coronation; eleven-thousand-year Rāma-rāj; second banishment of Sita; Valmiki's hermitage and naming of Kusha and Lava; Naimisha festival (yearlong Ramayana recitation); Sita's return to the earth; visit of Time; death of Lakshmana; Rama's final departure and return to Vishnu's heaven. Pages updated: `wiki/figures/sita.md`, `wiki/figures/rama.md`, `wiki/figures/valmiki.md`, `wiki/figures/vishnu.md`, `wiki/locations/ayodhya.md`. Page created: `wiki/concepts/rama-raj.md`.
+
+---
+
+## 2026-06-27 ingest | Sri Guru Granth Sahib — Part 3, Scope J (Angs 695–727), Thind/Khalsa translation
+
+Source type: primary scripture (Sikhism). Source file: `raw/Sri Guru Granth Sahib - Part 3 (Angs 695-1106).txt`. **Scope J: Angs 695–727 (Dhanaasaree Bhagat Bāṇī tail, Raag Jaitsree, Raag Todee, Raag Bairaaree, Raag Tilang) — read in full.** Raag sections written to `wiki/texts/guru-granth-sahib.md`. Bhagats covered: Trilochan, Sain, Peepaa, Dhanna (Ang 695); Ravidas in Jaitsree (Ang 711); Namdev in Todee (Ang 718); Kabir and Namdev in Tilang (Angs 726–727). Notable: Mehl 1 and Mehl 5 Persian-language compositions in Tilang; Mehl 9 Kaafee compositions; body-as-temple theology in Peepaa; Bairaaree's Hukam-theology concentration; Tilang's inter-religious linguistic pluralism (Punjabi, Braj, Persian/Sufi register).
+
+---
+
+## 2026-06-27 ingest | Sri Guru Granth Sahib — Part 2 (Angs 347–694), Thind/Khalsa translation
+
+Source type: primary scripture (Sikhism). Source file: `raw/Sri Guru Granth Sahib - Part 2 (Angs 347-694).txt` (74,781 lines; Thind/Khalsa translation). **Scope: Angs 347–694 (complete Part 2) — read in full.**
+
+Canonical status: `canonical_for: [sikhism, khalsa]`. Method: deployed-subagent ingest — main thread scaffolded, pre-cut 6 cache files in scratchpad; six Sonnet subagents read disjoint line-ranges (Agents 1–6), each producing staging files; main thread reconciled and integrated all six staging files.
+
+**Scope plan** (completed in full):
+- Scope E: Angs 347–488 (Raag Aasaa: Mehl 1–5; Baabar Vāṇī; Pattī acrostic; Kaafee sub-raag; full Bhagat bāṇī: Kabir, Namdev, Ravidas, Sheikh Farid, Dhanna, Sain) — read in full
+- Scope F: Angs 489–536 (Raag Goojaree: Mehl 1–5; two Vaars; Bhagat bāṇī: Kabir, Namdev, Ravidas, Trilochan, Jai Dayv/Jayadeva) — read in full
+- Scope G: Angs 537–556 (Raag Bihaagraa: Mehl 5 primarily; Var with creation cosmology) — read in full
+- Scope H: Angs 557–625 (Raag Wadahans: Alaahane genre; Ghorees; Var with 21 Paurees; no Bhagat bāṇī) — read in full
+- Scope H-ext: Angs 626–659 (Raag Sorat'h — discovered within Part 2 range; Mehl 5/9/1; Var; Bhagat bāṇī: Kabir incl. Khalsa definition; Namdev; Ravidas 7 shabads; Bheekhan 2 shabads) — read in full
+- Scope I: Angs 660–694 (Raag Dhanaasaree: Mehl 1 Aartee Ang 663; Mehl 3/4/5/9; Bhagat bāṇī: Kabir, Namdev, Ravidas Naam-Aartee) — read in full
+
+**Key contributions**: Baabar Vāṇī (historical witness to Mughal invasion); Goojaree Vaar Pauree 2 (Vedas/Bible/Koran affirmed as paths to one God — most direct inter-religious statement in Part 2); Alaahane sub-genre (mourning theology); Aartee composition at Ang 663 (cosmic worship); Ravidas Naam-Aartee at Ang 694 (final composition of Part 2); Khalsa defined by Kabir as those who know loving devotion (predating the formal Khalsa institution by >100 years). New figure pages: Dhanna, Sain, Trilochan, Jayadeva/Jai Dayv, Bheekhan. Expanded: Kabir, Namdev, Ravidas, Sheikh Farid.
+
+---
+
+## 2026-06-27 ingest | Sri Guru Granth Sahib — Part 1 (Angs 1–346), Thind/Khalsa translation
+
+Source type: primary scripture (Sikhism). Source file: `raw/Sri Guru Granth Sahib - Part 1 (Angs 1-346).txt` (78,102 lines; Thind/Khalsa translation). **Scope: Angs 1–346 (the complete Part 1) — read in full.**
+
+Canonical status: `canonical_for: [sikhism, khalsa]`. Method: deployed-subagent ingest — main thread scaffolded page structure, established page names and taxonomy, created coverage ledger and scope plan; six Sonnet subagents read disjoint line-ranges in parallel (Agents 1–3 in first batch, 4–6 in second batch), each producing staging files; main thread reconciled and integrated all six staging files, resolved cross-links, and filed results.
+
+**Scope plan** (completed in full):
+- Scope A: Angs 1–13 (Nitnem liturgy: Japji, Sodar, So Purakh, Kirtan Sohila) — read in full
+- Scope B: Angs 14–93 (Siree Raag: Mehl 1–5, Var, Bhagat bāṇī) — read in full
+- Scope C: Angs 94–150 (Raag Maajh: Mehl 1–5, Var of Maajh 27 Paurees) — read in full
+- Scope D: Angs 151–346 (Raag Gauree: early, Baavan Akhree, Sukhmani Sahib, post-Sukhmani, Bhagat bāṇī incl. Kabir) — read in full
+
+**Key contributions**: First primary-text ingest of the SGGS. Detailed pauri-by-pauri treatment of Japji. Full coverage of Siree Raag theological character, Bhagat bāṇī (Kabir, Ravidas, Trilochan, Baynee, Namdev), anti-caste poetry. Raag Maajh viraha register and Var. Raag Gauree theological depth (Fear of God, death-while-living, Sukhmani Sahib all 24 Ashtapadīs, Kabir's inter-religious critique). New concept pages for Naam, Shabad, Nadar.
+
+**Pages created (new)**: texts/`sukhmani-sahib`; concepts/`naam`, `shabad`, `nadar`; figures/`namdev`, `ravidas`, `sheikh-farid`.
+**Pages significantly expanded**: texts/`guru-granth-sahib`, `japji`; concepts/`hukam`; figures/`kabir`, `ravidas`.
+**Index, log updated.** Raw file not yet relocated (SGGS Part 2 ingest pending).
+
+---
+
+## 2026-06-27 ingest | Augustine, *The City of God*, Part 3 (Books XIX–XXII) — NPNF1 vol. 2, trans. Marcus Dods
+
+Source type: primary text (patristic theology). Source file: `raw/texts/Augustine City of God - Part 3 (Books XIX-XXII, The Ends of the Two Cities).txt` (7,328 lines; NPNF1 vol. 2, ed. Philip Schaff, trans. Marcus Dods et al., 1871). **Scope: Part 3, Books XIX–XXII ("the ends of the two cities") — read in full.** With this pass the **entire twenty-two-book work is read in full.** Canonical status unchanged: *authoritative (non-scriptural)* across Christianity. Method: deployed-subagent ingest — main thread scaffolded structure (reused [[city-of-god]], [[augustine]], [[two-cities]]; pre-named new pages); Books XIX–XXII read in full by four background Sonnet subagents on disjoint, book-aligned line-ranges (XIX / XX / XXI / XXII), each returning grounded notes with verbatim quotes + line loci; reconciled and filed on the main thread. NPNF footnotes used selectively (identifications; the editors' "germ of purgatory" note).
+
+**Key contributions**: the **ends** of the two cities — Book XIX on the [[supreme-good|supreme good]] and [[peace|peace as the tranquillity of order]] (and the redefinition of "a people"); Book XX on the [[last-judgment|last judgment]], the two resurrections, and the **amillennial** reading of Rev. 20 ([[millennialism]]) against the chiliasts; Book XXI on [[eternal-punishment|eternal punishment]] (the natural-marvels argument, the *misericordes*, the nascent [[purgatory|purgatory]], the [[universal-salvation-controversy|Origenist universalism]] dispute); Book XXII on the bodily [[resurrection]], the [[beatific-vision|beatific vision]] and eternal Sabbath, and post-apostolic miracles at the relics of [[stephen-protomartyr|Stephen]] ([[relic-veneration]]).
+
+**Pages created (new)**: concepts/`peace`, `supreme-good`, `last-judgment`, `resurrection`, `eternal-punishment`, `beatific-vision`, `purgatory`, `millennialism`, `relic-veneration`; figures/`stephen-protomartyr`; controversies/`universal-salvation-controversy`.
+**Pages significantly expanded**: texts/`city-of-god` (Books XIX–XXII argument-by-book, new cruxes, ledger, `sources_ingested` 2→3, Part 3 source line); commentators/`augustine`; concepts/`two-cities`; figures/`elijah`.
+**Index, log updated.** Raw file relocated to `raw/texts/` (all three Parts now filed there). Lint clean.
+
+---
+
+## 2026-06-27 ingest | Augustine, *The City of God*, Part 2 (Books XI–XVIII) — NPNF1 vol. 2, trans. Marcus Dods
+
+Source type: primary text (patristic theology). Source file: `raw/texts/Augustine City of God - Part 2 (Books XI-XVIII, Origin and History of the Two Cities).txt` (12,169 lines; NPNF1 vol. 2, ed. Philip Schaff, trans. Marcus Dods et al., 1871). **Scope: Part 2, Books XI–XVIII ("the origin and history of the two cities") — read in full.** Canonical status unchanged: *authoritative (non-scriptural)* across Christianity. Method: deployed-subagent ingest — main thread scaffolded structure (reused [[city-of-god]], [[augustine]], [[two-cities]]; named new pages); Books XI–XVIII read in full by six background Sonnet subagents on disjoint line-ranges (XI / XII / XIII–XIV / XV / XVI / XVII–XVIII), each returning grounded notes with verbatim quotes + line loci; reconciled and filed on the main thread. NPNF footnotes used selectively; an untranslated Latin passage in Book XIV noted but not rendered. Part 3 (Books XIX–XXII) not yet ingested.
+
+**Key contributions**: (1) **Origin of the two cities** in the fall of the angels (Book XI): time created *with* the world; **evil as privation of good** and the **"deficient" cause** of the evil will (XI–XII); against Manichaean dualism and Origen's pre-existent souls; rejection of cyclic recurrence; the world under 6,000 years old; unity of the race from one Adam. (2) **The fall** (XIII–XIV): death as penal; the three deaths; "flesh" = the whole self living by self-love; pride as the root; concupiscence as the disordered will; the defining **two-loves formula** ("two cities… by two loves"). (3) **History of the cities** (XV–XVIII): [[cain|Cain]]/[[abel|Abel]] as first citizens; the [[cain|Cain]]/[[seth|Seth]] lines; [[nimrod|Nimrod]]/Babel/[[babylon|Babylon]] as the earthly city; [[abraham|Abraham]]'s twofold promise; Sarah/Hagar as the two covenants; Isaac/the ram as types of Christ; the **Davidic covenant** fulfilled in Christ not Solomon; the threefold sense of prophecy; the **two Babylons** (Assyria/Babylon and [[rome|Rome]]); the **inspired Septuagint** ([[septuagint]]); the Jewish dispersion as providential testimony.
+
+**Pages**: created [[septuagint]] (text, with `canon_scope`), [[evil-as-privation]], [[original-sin]] (concepts), [[eve]], [[abel]], [[seth]], [[nimrod]] (figures). Extended [[city-of-god]] (per-book XI–XVIII, ledger, `sources_ingested` 1→2), [[two-cities]] (angelic origin, two loves, historical course), [[augustine]] (positions, `sources_ingested` 1→2), [[cain]], [[babylon]], [[rome]] (Augustine sections). Index and log updated; lint clean (no new orphans or red links). Raw source relocated to `raw/texts/`.
+
+---
+
+## 2026-06-27 ingest | Augustine, *The City of God*, Part 1 (Books I–X) — NPNF1 vol. 2, trans. Marcus Dods
+
+Source type: primary text (patristic theology/apologetics). Source file: `raw/texts/Augustine City of God - Part 1 (Books I-X, Against the Pagans).txt` (15,247 lines; NPNF1 vol. 2, ed. Philip Schaff, trans. Marcus Dods et al., 1871; public domain/CCEL). **Scope: Part 1, Books I–X ("Against the Pagans") — read in full.** Canonical status: *authoritative (non-scriptural)* across Christianity (Catholic/Orthodox/Protestant); recorded in `canon_scope.authoritative_for`. Method: deployed-subagent ingest — front matter + both prefaces + Book I opening read on the main thread for scaffolding; Books I–X read in full by six background Sonnet subagents on disjoint line-ranges (I / II–III / IV–V / VI–VII / VIII–IX / X), reconciled and filed on the main thread. NPNF critical apparatus used selectively (dating, identifications), not exhaustively. Parts 2–3 (Books XI–XXII) not yet ingested.
+
+**Key contributions**: (1) The **two cities** framework and Augustine's providential philosophy of history. (2) Books I–V — the gods gave Rome no temporal security (sack of 410; Lucretia and the argument against suicide; Rome's moral [II] and physical [III] ruin before Christ; "justice removed, what are kingdoms but great robberies?" [IV]; fate/astrology refuted and free-will compatibilism, Roman *gloria* rewarded with empire [V]). (3) Books VI–X — the gods give no eternal life either: Varro's three theologies [VI–VII]; the Platonists "nearest to us" yet conceding demon-worship [VIII]; demons as false mediators and Christ the true Mediator [IX]; *latreia* and true sacrifice, Porphyry's theurgy refuted, Christ the "universal way" [X].
+
+**Pages created (16)**: texts/`city-of-god`; commentators/`augustine`, `varro`, `porphyry`, `apuleius`, `plato`, `plotinus`; figures/`lucretia`; groups/`romans`; locations/`rome`; concepts/`two-cities`, `three-theologies`, `gloria-love-of-praise`; controversies/`divine-foreknowledge-and-free-will`. **Pages updated**: concepts/`sacrifice` (stub → full, *latreia* & true sacrifice), `divine-providence`, `fate-moirai`; groups/`middle-platonists`; scholarship/`philosophy-in-christian-antiquity` (fixed red link to `augustine`); `index`. Lint clean (no new red links/orphans). Raw file relocated to `raw/texts/`.
+
+---
+
 ## 2026-06-10 ingest | Thibaut (trans.), *The Vedānta-Sūtras with the Commentary of Śaṅkara*, SBE 34 (1890)
 
 Source type: primary commentary (translation). Source file: `raw/commentaries/hinduism/shankara-brahma-sutras-en.txt` (5,760 lines). **Partial — file truncated**: file cuts off at Adhyāya I Pāda III sūtra 41; Adhyāya I Pāda IV and Adhyāya II are absent. Scope declared: Thibaut's Introduction (lines 108–~450) + Adhyāsa-bhāṣya (lines ~1260–1295) + Adhyāya I Pādas I–III through I.3.41 (lines ~1295–5760) — read in full within declared scope.
@@ -3284,3 +3397,327 @@ notable rationalist controversy.
 groups); `log.md`; `overview.md`; ticked on `outstanding sources.md`; raw source filed to
 `raw/texts/`. Lint: 0 ingest red links, 0 new orphans (de-linked tangential `al-razi` and
 `thomas-aquinas` mentions per lean-filing).
+
+---
+
+## 2026-06-27 ingest | Tsong-kha-pa, *The Great Treatise on the Stages of the Path to Enlightenment* (Lamrim Chenmo), Vols. One & Two
+
+Source type: primary treatise (śāstra). Tibetan Buddhism / [[gelug|Gelug]]. Lamrim Chenmo Translation
+Committee edition (Snow Lion, 2000/2004). Ingested via the **deployed-subagent strategy** (8 Sonnet
+subagents — 4 per volume — extracting disjoint line-ranges with verbatim-anchored grounding quotes;
+main thread owned all scaffolding, taxonomy, canon, reconciliation, and filing).
+
+- **Scope: Volume Two** (great-capacity path) — **read in full**. Body chs. 1–15 (book pp. 13–231):
+  bodhicitta (the two methods — Atiśa's seven cause-and-effect + Śāntideva's exchange of self and
+  other), the ritual and maintenance of the vow (four dark/light dharmas), the introduction to the
+  perfections (method+wisdom; the **Hva-shang** polemic), and the six perfections (generosity, ethics,
+  patience, joyous perseverance, + overview of stabilization & wisdom) and four ways to gather
+  disciples. Source: `raw/texts/...volume two...txt`.
+- **Scope: Volume One** (foundation + small/medium capacity) — **read in full**. Prologue + chs. 1–24
+  (book pp. 33–354) + modern front matter (Cutler, Thurman, Ruegg). Atiśa's life; the four greatnesses;
+  reliance on the teacher; analytical vs. quietist meditation; precious human life; the three types of
+  persons; mindfulness of death; refuge; karma; the four truths / suffering; dependent-arising;
+  renunciation; the three trainings. Source (EPUB→txt via `ebook-convert`, 2026-06-27; original
+  image-only PDF was discarded as unusable — no OCR retained): `raw/texts/...Lam rim Chen mo Volume One...txt`.
+
+**Pages created (13):** texts/`lamrim-chenmo`; commentators/`tsongkhapa`; figures/`atisha`,
+`suvarnadvipa-serlingba`; traditions/buddhism/sects/`gelug`, `kadam`, `tibetan-buddhism`;
+concepts/`six-perfections`, `generosity-dana`, `patience-kshanti`, `joyous-perseverance-virya`,
+`three-types-of-persons`, `precious-human-life`, `mindfulness-of-death`, `refuge`, `renunciation`,
+`three-trainings`. **Pages extended (6):** concepts/`bodhicitta`, `bodhisattva`,
+`exchange-of-self-and-other`, `karma`, `dependent-origination`, `four-noble-truths`; plus
+`traditions/buddhism/buddhism.md` (sect map). `canon_scope` set on the text page
+(`authoritative_for: [gelug, tibetan-buddhism]`). Avoided a duplicate by folding the twelve-factors
+material into existing `dependent-origination` (not a new `dependent-arising` page).
+
+**Bookkeeping:** `index.md` (text, 2 figures, commentator, 9 concepts, 3 sects); `log.md`. Lint:
+0 ingest red links, 0 new orphans, 0 missing-commentator/concept flags. Indian masters and Kadam
+teachers (Asaṅga, Kamalaśīla, Haribhadra, Drom-tön-pa, Bo-do-wa, etc.) kept as plain text per
+lean-filing.
+
+## [2026-06-27] ingest | Sikhism — McLeod, *Sikhism* (Penguin, 1997) [NEW TRADITION]
+
+**Scope:** Scope 1 of a 3-scope Sikhism plan (see [[mcleod-sikhism]]). McLeod's *Sikhism* —
+**Introduction + Chs 1–14 + the scripture-translation Appendix** (book pp. xxi–301; raw lines
+~743–16731) — **read in full**. Glossary consulted for reference; Notes/References/Bibliographic
+Note/Index excluded as apparatus. (Scope 2 = Khushwant Singh, *A History of the Sikhs* Vols 1–2;
+Scope 3+ = the *Sri Guru Granth Sahib* itself — both still outstanding in `raw/`.)
+
+**Method:** deployed-subagent strategy. Main thread scaffolded the structural pages and canon/taxonomy
+decisions; **6 Sonnet subagents** (run_in_background, staggered in 3 batches of 2) extracted disjoint
+line-ranges (~743–3200 / 3201–5800 / 5801–8400 / 8401–11000 / 11001–13600 / 13601–16731) with
+verbatim-anchored grounding loci. Main thread reconciled, recovered the sect/text pages that straddled
+range boundaries, enriched the central pages, set canon_scope, fixed cross-links, and linted.
+
+**Pages created (~30):**
+- Tradition + sects: [[sikhism]]; [[khalsa]], [[nihang]], [[udasi]], [[nirmala]], [[nirankari]],
+  [[namdhari]]
+- Texts: [[guru-granth-sahib]], [[dasam-granth]], [[japji]], [[jap-sahib]], [[janam-sakhis]],
+  [[rahit-maryada]]
+- Figures (the ten Gurus): [[guru-nanak]], [[guru-angad]], [[guru-amar-das]], [[guru-ram-das]],
+  [[guru-arjan]], [[guru-hargobind]], [[guru-har-rai]], [[guru-har-krishan]], [[guru-tegh-bahadur]],
+  [[guru-gobind-singh]]; + [[ranjit-singh]] (stub, for Scope 2)
+- Concepts: [[gurmat]], [[akal-purakh]], [[nam-simaran]], [[the-guru]], [[hukam]], [[haumai]],
+  [[gurmukh-manmukh]], [[sant-tradition]], [[miri-piri]], [[five-ks]], [[amrit-sanskar]], [[langar]],
+  [[gurdwara]], [[nit-nem]], [[ardas]]
+- Groups: [[sikhs]], [[jats]]; Locations: [[amritsar]], [[punjab]]; Controversy: [[who-is-a-sikh]]
+- Scholarship: [[mcleod-sikhism]] (source page + 3-scope plan + coverage ledger)
+
+**canon_scope set:** Guru Granth Sahib `canonical_for: [sikhism, khalsa]`; Dasam Granth `authoritative_for:
+[sikhism, khalsa]`, `disputed_by: [sikhism]`, `canonical_for: [namdhari]` (+ full honour by Nihangs);
+Jap Sahib likewise; janam-sākhīs `rejected_by: [sikhism]` (as scripture); Rahit Maryada authoritative.
+
+**Contradictions filed:** [[who-is-a-sikh]] gathers the McLeod-vs-normative disputes (Five Ks origin,
+the "transformation" thesis, Nanak-as-Sant, Sikh identity, doctrine-vs-practice on caste/gender);
+mīrī-pīrī historicity flagged on [[miri-piri]] and [[amritsar]].
+
+**Bookkeeping:** `index.md` (Texts, Figures, Groups, Concepts, Traditions/Sects, Controversies);
+`overview.md`; `outstanding sources.md` (Sikhism line ticked for McLeod). **Lint: 0 Sikhism red links,
+0 Sikhism orphans, 0 missing-figure/concept/sect flags.** Raw source moved to `raw/scholarship/`.
+
+## [2026-06-27] ingest | Augustine, On Christian Doctrine (De Doctrina Christiana), Books I–IV
+Scope: the whole work (single bounded commentary) — **read in full** (Preface + Books I–IV, raw lines 126–6481; the Scripture/page indices that follow are reference apparatus, not read). NPNF1 vol. 2, ed. Philip Schaff; trans. J. F. Shaw. Ingested via deployed-subagent strategy: 4 Sonnet subagents, one per book (disjoint line-ranges I/265–1057, II/1058–2375, III/2376–3576, IV/3577–6481), main thread scaffolding + reconciliation.
+- New text page: [[on-christian-doctrine]] (incl. Augustine's 44-book OT canon with the deuterocanon; canon_scope: authoritative for christianity/catholicism/eastern-orthodoxy/protestantism).
+- New concept pages: [[use-and-enjoyment]], [[charity-and-cupidity]], [[spoils-of-egypt]], [[figurative-interpretation]], [[tichonius-seven-rules]], [[christian-eloquence]].
+- New commentator pages: [[tichonius]], [[cyprian]], [[ambrose]]. New sect page: [[donatism]] (+ added to christianity major_sects/sect map).
+- Updated [[augustine]] commentator page (hermeneutical method, deuterocanon, Tichonius reception; sources_ingested 3→4).
+- Lint clean for all new/touched pages. index.md updated.
+- Raw source relocated to raw/commentaries/.
+
+## 2026-06-27 ingest | Sri Guru Granth Sahib — Part 3 (Angs 695–1106)
+
+**Source**: `raw/Sri Guru Granth Sahib - Part 3 (Angs 695-1106).txt`
+**Scope**: Angs 695–1106 — read in full
+**Method**: 5 parallel Sonnet subagents (staggered batches), merged by main thread
+
+**Scopes read**:
+- Scope J: Angs 695–727 — Dhanaasaree Bhagat Bāṇī tail (Trilochan, Sain, Peepaa, Dhanna), Raag Jaitsree, Raag Todee, Raag Bairaaree, Raag Tilang
+- Scope K: Angs 727–794 — Raag Soohee (incl. Kuchajee / Suchajee / Gunvantee bride-poem triptych; Bhagat Bāṇī of Kabir, Ravidas, Sheikh Farid)
+- Scope L: Angs 795–840 — Raag Bilaaval (incl. Sadhna's sole SGGS composition)
+- Scope M: Angs 841–875 — Raag Gond (Bhagat Bāṇī of Kabir, Namdev, Ravidas)
+- Scope N: Angs 876–974 — Raag Raamkalee (incl. Anand Sahib, Raamkalee Sadd, Dakhanee Oankaar, Sidh Gosht, Var of Raamkalee; Kabir Bhagat Bāṇī)
+- Scope O: Angs 975–999 — Raag Nat Naaraayan
+- Scope P: Angs 1000–1106 — Raag Maaroo (incl. Dakhanee Maaroo, Var of Maaroo; Bhagat Bāṇī of Kabir, Namdev, Jayadeva, Ravidas)
+
+**Pages updated**: `wiki/texts/guru-granth-sahib.md` (major extension)
+
+## 2026-06-27 ingest | Sri Guru Granth Sahib — Part 4 (Angs 1107–1430)
+
+**Source**: `raw/Sri Guru Granth Sahib - Part 4 (Angs 1107-1430).txt`
+**Scope**: Angs 1107–1430 — read in full
+**Method**: 4 parallel Sonnet subagents, merged by main thread
+
+**Scopes read**:
+- Scope Q–S: Angs 1107–1167 — Raag Tukhaari (Baarah Maahaa / Twelve Months), Raag Kaydaaraa, Raag Bhairao
+- Scope T–U: Angs 1168–1252 — Raag Basant + Basant Hindol (Mehl 9), Raag Saarang
+- Scope V–Y: Angs 1253–1351 — Raag Malaar, Raag Kaanraa, Raag Kalyaan, Raag Prabhaatee
+- Scope Z–Z2: Angs 1352–1430 — Raag Jaijaavantee, Shalok Vaaran Tay Vadheek, Shalok Farid Jee (full collection), Shalok Mehl 9 (all 57), Mundaavanee, Raag Maalaa
+
+**Pages updated**: `wiki/texts/guru-granth-sahib.md` (complete — all 1,430 Angs now covered)
+
+## [2026-06-27] ingest | Aquinas, Summa Theologica — Prima Pars Scope 1 (Q1–26) + Prima Secundae Scope 1 (Q1–21)
+
+**Method**: Deployed-subagent strategy. Main thread scaffolded the central [[summa-theologica|text page]] (with a 5-scope plan + coverage ledger per Part) and the [[thomas-aquinas|commentator page]]; Sonnet subagents extracted disjoint line-ranges to scratchpad notes; main thread reconciled and filed. A coverage gap (Q11–12, split between two ranges) was recovered on the main thread by direct read.
+
+**Prima Pars Scope 1 — The One God (Q1–26), lines 10230–18558 — read in full.** Pages:
+- New concepts: [[five-ways]] (Q2, incl. self-evidence/Anselm rebuttal, a-posteriori demonstration), [[divine-simplicity]] (Q3, *ipsum esse subsistens*), [[analogy]] (Q13, analogical predication + "He Who Is"/Tetragrammaton; engages [[maimonides|Rabbi Moses]]), [[predestination]] (Q22 providence, Q23 predestination/reprobation, Q14 A13 eternal-present foreknowledge).
+- Extended: [[beatific-vision]] (Q12 — light of glory, deiform, degrees by charity, incomprehensibility, natural reason vs. grace).
+- New commentator stub: [[boethius]] (eternity & person definitions, *De Hebdomadibus*).
+- Cross-tradition: noted the parallel between the Five Ways and Maimonides' four Aristotelian proofs ([[existence-of-god]]); Aquinas cites "Rabbi Moses," Avicenna, Averroes, Pseudo-Dionysius, Damascene, Boethius throughout.
+
+**Prima Secundae Scope 1 — Last End + Human Acts (Q1–21), lines 1–6274 — read in full.** Pages:
+- New concepts: [[beatitude]] (Q1–5, last end = vision of God, imperfect vs. perfect happiness, grace required), [[human-act]] (Q6–21, voluntary/involuntary, the anatomy of the act, the three fonts of morality: object/circumstances/end; erring conscience).
+
+**Scaffolded/updated**: [[summa-theologica]], [[thomas-aquinas]], `index.md` (new Scholastic Theology subsection). Trinity (Q27–43) and Passions (Q22–48) extraction complete; filing in progress. Remaining Prima Pars scopes (Q44–119) and Prima Secundae scopes (Q49–114) ongoing per the ledger.
+
+## [2026-06-27] ingest | Aquinas, Summa Theologica — Prima Pars Scope 2 (Q27–43, Trinity) + Prima Secundae Scope 2 (Q22–48, Passions)
+
+**Method**: Deployed-subagent (Sonnet) extraction of disjoint line-ranges → main-thread reconciliation/filing.
+
+**Prima Pars Scope 2 — The Most Holy Trinity (Q27–43), lines 18559–23260 — read in full.** Pages:
+- New concept: [[trinity]] (processions Q27, person/Boethius def. Q29, appropriation Q39, equality & circumincession Q42, missions Q43; the Trinity NOT knowable by natural reason, Q32 — a key contrast with the demonstrable one God).
+- New controversy: [[filioque]] (Q36 — Aquinas's three-fold Latin defense and engagement with the Greek "through the Son"; East-West dispute; cross-links [[catholicism]]/[[eastern-orthodoxy]]).
+- Cross-linked anti-Arian material (Q42) to [[arianism]].
+
+**Prima Secundae Scope 2 — The Passions (Q22–48), lines 6275–12195 — read in full.** Pages:
+- New concept: [[passions-aquinas]] (concupiscible/irascible structure Q23, anti-Stoic moral evaluation Q24, love as root passion + effects Q26–28, the five remedies of sorrow Q38, hope/fear/anger Q40–48).
+
+**Updated**: [[summa-theologica]] ledger (4 scopes now read in full), `index.md`. Remaining Prima Pars scopes (Q44–119) and Prima Secundae scopes (Q49–114) ongoing.
+
+## [2026-06-27] ingest | Aquinas, Summa Theologica — Prima Pars Scope 3 (Q44–64) + Prima Secundae Law core (Q90–97)
+
+**Method**: Deployed-subagent (Sonnet) extraction → main-thread filing.
+
+**Prima Pars Scope 3 — Creation, Good & Evil, Angels (Q44–64), lines 23261–28780 — read in full.** Pages:
+- Extended [[creation-ex-nihilo]] with Aquinas (Q44–46: God as first/exemplar/final cause, *creatio ex nihilo*, creation as relation not change, proper to God alone vs. Avicenna's mediated creation).
+- Extended [[evil-as-privation]] with Aquinas (Q48–49: evil as privation of due good, good as subject of evil, pain vs. fault, evil caused only *per accidens*, no supreme evil — anti-Manichean).
+- Extended [[eternity-of-the-world]] with Aquinas (Q46: the world's temporal beginning is held by faith and **not demonstrable by reason** — distinct from Bonaventure and from the kalam; converges with Maimonides).
+- New concept [[angels]] (Q50–64: each angel its own species, innate species + morning/evening knowledge, the fall of the angels as pride; rejects Avicebron's spiritual matter).
+
+**Prima Secundae Scope 4a — Law core (Q90–97), lines 23592–25503 — read in full.** Pages:
+- New concept [[natural-law]] (Q90 definition of law; Q91 the four kinds; Q94 natural law = the rational creature's participation in the eternal law, first precept "good is to be done…", the natural inclinations; Q95–97 human law by conclusion/determination, *lex iniusta non est lex*). Re-linked from [[human-act]].
+
+**Updated**: [[summa-theologica]] ledger; `index.md`. Remaining: Prima Pars Q65–119; Prima Secundae Q49–89 and Q98–114.
+
+## [2026-06-27] ingest | William Buck, Rāmāyaṇa — Lines 11501–13565 (Siege of Lanka / Invisible Warrior / Ravana and Time)
+
+**Method**: Subagent extraction (main-thread filing).
+
+**Scope**: Lines 11501–13565 — Part Two later chapters: The Building of the Bridge retrospective, The Siege of Lanka (Kumbhakarna), The Invisible Warrior (Indrajit), Ravana and Time (final battle, death of Ravana). Read in full.
+
+**Pages updated**:
+- [[ravana]] — extended with: Kumbhakarna's counsel and death; Indrajit's two campaigns and death; Ravana's final council and farewell to Mandodari; the confrontation with Kāla (Time); the final battle on Indra's chariot; death by Agastya's arrow; the posthumous letter revealing he knew Rama was Narayana all along.
+- [[hanuman]] — extended with: battle role against Kumbhakarna; near-death under Indrajit; Jambavan's declaration that Hanuman is the axis of the army; the Mountain-Lifting episode (uprooting the Medicine Hill of Life); theological statement that his power comes from wholehearted love for Rama; final battle acts.
+- [[lakshmana]] — extended with: standing alone against Kumbhakarna; killed and revived by Indrajit's first assault; interrupting Indrajit's fire sacrifice; single combat with Indrajit; beheading Indrajit with Agastya's arrow.
+- [[lanka]] — extended with: the monkey causeway (retrospective); the siege logistics; house-gods departing the city; Ravana's final night and dance; the city at dawn after Ravana's death.
+- [[vishnu]] — extended with: Ravana's posthumous letter identifying Rama as Narayana; the non-dual vision of Narayana flowing through all beings; Kumbhakarna's and Malyavan's recognition of the divine identity during the battle.
+
+## 2026-06-27 ingest | Ramayana: King Rama's Way (William Buck, 1976)
+
+Source: `raw/commentaries/Ramayana King Ramas Way Valmikis Ramayana told in English Prose by William Buck (William Buck, Valmiki etc.).txt`
+Nature: Literary prose retelling/adaptation of Valmiki's Sanskrit Ramayana for Western readers; not a scholarly translation. Adapted from English translations; Buck studied Sanskrit but did not work from the Sanskrit directly.
+Scope: Full text — front matter (lines 1–1000) + Part One: The Prince of Ayodhya (lines 1001–5729) + Part Two: Sita's Rescue (lines 5730–13565) + Part Three: The Dharma Wheel (lines 13566–16313) — **read in full**.
+Method: Main-thread scaffold (11 new pages) + 6 parallel Sonnet subagents by line range, main-thread tie-together.
+
+**New pages created:**
+- [[buck-ramayana]] — source summary with coverage ledger (scholarship/)
+- [[hanuman]] — Hanumān figure page (full: the leap, finding Sita, burning Lanka, mountain-lifting, seva theology)
+- [[lakshmana]] — Lakṣmaṇa figure page (full: exile companion, wounding, killing Indrajit)
+- [[ravana]] — Rāvaṇa figure page (full: origin, boon, abduction, the war, death, posthumous letter)
+- [[bharata]] — Bharata figure page (full: the regency, sandals on throne, ascetic mourning)
+- [[dasaratha]] — Daśaratha figure page (full: sacrifice, sons' births, boons crisis, death)
+- [[valmiki]] — Vālmīki figure page (full: anthill legend, composition, Sita's refuge, Kusa/Lava)
+- [[vishnu]] — Viṣṇu figure page (created; avatar theology, iconography, descent mechanics)
+- [[brahma-god]] — Brahmā figure page (created; creator, boon-granter, naming clarification)
+- [[jatayu]] — Jaṭāyu figure page (vulture king, dying witness, Indra's tribute)
+- [[sugriva]] — Sugrīva figure page (monkey king, Vali conflict, alliance with Rama)
+- [[ayodhya]] — Ayodhyā location page (full: city description, Sarayu, Rāma-rāj, Ram Janmabhoomi note)
+- [[lanka]] — Laṅkā location page (full: origin, siege, house-gods' departure, Rāma Setu)
+- [[william-buck]] — commentator page (literary adapter, method, divergences)
+- [[rama-raj]] — concept page (dharmic kingship, Gandhi's reception, structural paradox)
+
+**Pages updated:**
+- [[ramayana]] — added "William Buck's Retelling" section
+- [[rama]] — extended with coronation, regency, second banishment, return to Vishnu
+- [[sita]] — extended with captivity, Hanuman encounter, fire scene (Buck's version), second exile, return to earth
+- [[vishnu]] — extended with Ramayana avatar theology in full
+
+**Key theological finds:**
+- Nārāyaṇa's "I already have" (line 1447) — the descent precedes Indra's request
+- Descent as "becoming four" — all four sons simultaneously
+- Rāvaṇa's posthumous letter: engineered his own death for divine union with Nārāyaṇa
+- Sītā's return to earth: "this was the end of her long patience with Rāma" (line 15750)
+- The fire ordeal (Buck's version): Agni leads Sītā to Rāma; Rāma's touch *burns Agni*
+
+**Raw file moved:** `git mv` to `raw/commentaries/` (see below)
+
+## [2026-06-27] ingest | Aquinas, Summa Theologica — Prima Pars Q65–83 + Prima Secundae Q49–89, Q109–114
+
+**Method**: Deployed-subagent (Sonnet) extraction → main-thread filing. A Q71 gap (slice began at Q72) was recovered by direct main-thread read.
+
+**New concept pages:**
+- [[thomistic-anthropology]] (Prima Pars Q75–83): soul as substantial form of the body, immortality, the active intellect in each soul (against Averroist monopsychism), synderesis/conscience, free-will.
+- [[grace]] (Prima Secundae Q109–114): necessity (sanans + elevans), grace as participation of the divine nature, operating/cooperating & prevenient grace, no certitude of being in grace (Q112 A5), justification as real infusion (vs. forensic imputation), condign/congruous merit, no merit of first grace or of perseverance — with a Contradiction-Protocol "Contrasts" section vs. the Protestant Reformers (cross-links [[justification]], [[john-calvin]]).
+- [[cardinal-virtues]] (Q49–61): habits, the Augustinian definition of virtue, acquired vs. infused, the five intellectual virtues, primacy of prudence, the four cardinal virtues, vice/sin/malice (Q71).
+- [[theological-virtues]] (Q62–70): faith/hope/charity, infused moral virtue, no mean in the theological virtues, the connection of the virtues in charity, charity alone remaining in glory, the seven Gifts/Beatitudes/Fruits.
+- [[sin]] (Q71–89): definition of sin, the seven capital vices, **original sin** (propagation not imitation; privation of original justice + concupiscence), the four wounds of nature, mortal vs. venial sin.
+
+**Extended:** [[creation-ex-nihilo]] with Aquinas's **Genesis hermeneutic** (the six days, Q65–74: Augustine's simultaneous creation vs. the successive-day Fathers; the two-rule method; accommodation).
+
+**Updated**: [[summa-theologica]] ledger; tasks. Remaining in flight: Prima Pars Q84–102 (cognition + origin of man) and Q103–119 (government). Remaining unspawned: Prima Secundae Q98–108 (Old & New Law).
+
+## 2026-06-27 ingest | Ṣaḥīḥ Muslim (Siddiqui translation)
+
+**Source**: `raw/Sahih Muslim ( etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt` — 74,728 lines; compiled by Muslim ibn al-Hajjaj al-Naysaburi (d. 261 AH / 875 CE); translated by Abd-al-Hamid Siddiqui.
+
+**Scope**: Book 1 — Kitāb al-Īmān (The Book of Faith), lines 2767–7659 — **read in full** via two parallel subagents (lines 2767–5210 + 5211–7659).
+
+**Pages created**:
+- [[sahih-muslim|Ṣaḥīḥ Muslim]] (text page) — 43-book structure, canon scope, hermeneutical framework, interpretive cruxes
+- [[iman|Īmān]] (concept) — tripartite Islām/Īmān/Iḥsān structure, six articles, faith increases/decreases, quantitative thresholds
+- [[ihsan|Iḥsān]] (concept) — the third level of the Jibrīl hadith; significance for Sufism
+- [[five-pillars|Five Pillars of Islam]] (concept) — canonical statement with three parallel transmissions and pillar-by-pillar treatment
+- [[shafaa|Shafāʿa]] (concept) — full intercession doctrine: sequence, faith-weight thresholds, Abu Talib case, reserved prophetic prayer
+- [[nifaq|Nifāq]] (concept) — hypocrisy signs, two-hearts typology, Muslim/muʾmin distinction
+
+**Pages updated**:
+- [[sunni-islam]] — added `sahih-muslim` to `canon_distinctives`
+- [[jesus]] — expanded Islamic section with hadith christology formula, ʿĪsā in the intercession sequence, physical descriptions, eschatological descent
+- `wiki/scholarship/sahih-muslim-source.md` — scope plan (Scopes 1–9) and coverage ledger
+
+**Scope plan** (9 scopes total, sequential): Scope 1 complete. Scopes 2–9 (Books 2–43) remain.
+
+## [2026-06-27] ingest | Aquinas, Summa Theologica — Prima Pars Q84–119 + Prima Secundae Q98–108 (Parts I & I-II COMPLETE)
+
+**Method**: Deployed-subagent (Sonnet) extraction → main-thread filing. Two split-question gaps (Q71; Q106) recovered by direct main-thread read.
+
+**Prima Pars Q84–102 + Q103–119 — read in full.**
+- Extended [[thomistic-anthropology]] with the epistemology of abstraction (Q84–85), the divinely-created rational soul / anti-traducianism (Q118), and the state of innocence / original justice (Q94–95).
+- Extended [[image-of-god-tzelem]] with Aquinas's Trinitarian *imago Dei* (Q93: image in the mind; memory/understanding/will; the three grades).
+- Extended [[angels]] with the Dionysian angelic hierarchy (Q106–108) and angelic action (guardian angels, demons).
+- Extended [[divine-providence]] with the government of the world (Q103–119): execution through secondary causes, conservation, miracles (Q105), and fate / astral non-determinism — the will is not subject to the stars (Q115–116).
+
+**Prima Secundae Q98–108 — read in full.**
+- New concept [[old-law]] (Q98–105): goodness/purpose, the moral/ceremonial/judicial division, the Decalogue (indispensable, two tables), the literal+figurative (Quadriga) causes of the ceremonial law and their cessation, the judicial precepts and the **mixed constitution** (Q105 A1). Heavy engagement with [[maimonides|Rabbi Moses]] on the reasons of the precepts.
+- New concept [[new-law]] (Q106–108): the New Law is **chiefly the grace of the Holy Spirit** inscribed on the heart (Q106 A1) and so justifies (A2); perfect to the Old's imperfect; the **evangelical counsels** (poverty, chastity, obedience).
+
+**Milestone**: the **Prima Pars (Q1–119) and Prima Secundae (Q1–114) are now ingested in full.** ~32 wiki pages created or extended across the ingest. Remaining Summa work (future sessions): Part 3 (Secunda Secundae) and Part 4 (Tertia Pars + Supplement) — separate raw files.
+
+## [2026-06-27] ingest | Aquinas, Summa Theologica — Secunda Secundae Scope 1 (Q1–22, Faith & Hope)
+**Method**: Deployed-subagent strategy. Main thread scaffolded the II-II 10-scope plan + ledger on [[summa-theologica]]; two Sonnet subagents extracted disjoint line-ranges (Faith Q1–9; unbelief/heresy/apostasy/blasphemy + Hope Q17–22) to scratchpad notes; main thread filed.
+- Extended [[theological-virtues]] with the II-II particular treatment of **faith** (object/act/virtue/cause/gifts of understanding & knowledge) and **hope** (object, gift of fear taxonomy, despair & presumption).
+- New controversy: [[coercion-of-unbelievers]] (Q10–12 — no compulsion of Jews/pagans, toleration of rites, no forced baptism of Jewish children, death penalty for obstinate heretics, apostasy dissolving allegiance). Cross-links [[catholicism]], Judaism, Islam, [[paris-trial-1240]].
+**Scope plan progress**: 1 of 10 II-II scopes read in full. Remaining scopes 2–10 (Charity through States of Life) ongoing.
+
+## [2026-06-27] ingest | Aquinas, Summa Theologica — Secunda Secundae Scope 2 (Q23–46, Charity)
+**Method**: Deployed-subagent; two Sonnet subagents (Q23–30; Q31–46) → scratchpad notes → main-thread filing.
+- New concept: [[charity-aquinas]] (caritas as friendship/amicitia with God; created infused habit vs. Peter Lombard; charity the form/mother/root of the virtues; lost entirely by one mortal sin; the *ordo caritatis*; joy/peace/mercy as effects; sloth/envy/hatred/[[schism]]/[[sedition]] as opposed vices; gift of wisdom). Distinguished from the Augustinian [[charity-and-cupidity]].
+- New concept: [[just-war]] (Q40 — the three conditions: legitimate authority, just cause, right intention; clerics & war; lawful ambushes vs. unlawful perfidy; Augustine→Aquinas→Salamanca lineage; cross-tradition jihad/dharma-yuddha/ahimsa comparison).
+**Scope plan progress**: 2 of 10 II-II scopes read in full. (Red links [[schism]], [[sedition]], [[peter-lombard]] to be resolved in the final lint pass.)
+
+## [2026-06-27] ingest | Aquinas, Summa Theologica — Secunda Secundae Scopes 3–4 (Q47–79, Prudence & Justice)
+**Method**: Deployed-subagent; three Sonnet subagents (Prudence Q47–56; Justice Q57–66; Justice Q67–79) → notes → main-thread filing.
+- Extended [[cardinal-virtues]] with the II-II treatment of **prudence** (recta ratio agibilium; command as chief act; eight integral parts; prudence of the flesh) and **justice** (the *ius*; render-to-each-his-right; commutative vs. distributive; restitution; murder & self-defence/double-effect Q64 A7; private property vs. common use in necessity Q66; verbal injuries; just price).
+- New concept: [[usury-and-just-price]] (Q77–78 — the just price and disclosure of defects; usury as intrinsically unjust on the consumptible-money argument; licit compensations damnum emergens & societas; cross-link to Islamic riba).
+**Scope plan progress**: 4 of 10 II-II scopes read in full. Scope 6 (Q101–122) extraction also complete, filing next; Scope 5 (Religion Q80–100) extraction in flight.
+
+## [2026-06-27] ingest | Aquinas, Summa Theologica — Secunda Secundae Scope 6 (Q101–122, virtues annexed to justice)
+**Method**: Deployed-subagent; two Sonnet subagents (Q101–108 piety→vengeance; Q109–122 truth→precepts) → notes → main-thread filing.
+- Extended [[cardinal-virtues]] with the **annexed (potential) parts of justice**: piety (parents & country), observance, the **latria/dulia/hyperdulia** distinction (Q103), **obedience and its limits** ("obey God rather than men"; unjust commands), gratitude, vengeance, truthfulness, liberality vs. covetousness, and **epikeia/equity** (Q120).
+- New concept: [[lying]] (Q110 — the Augustinian absolute prohibition; threefold division officious/jocose/mischievous; lying as intrinsically evil never justified by a good end; prudent concealment / mental reservation as the licit alternative).
+**Scope plan progress**: 5 of 10 II-II scopes read in full (1–4, 6). Scope 5 (Religion) half-extracted; Scopes 7–10 extraction in flight.
+
+## [2026-06-27] ingest | Aquinas, Summa Theologica — Secunda Secundae Scope 5 (Q80–100, the virtue of Religion)
+**Method**: Deployed-subagent; two Sonnet subagents (Religion Q80–88; superstition/idolatry/simony Q89–100) → notes → main-thread filing.
+- New concept: [[religion-virtue]] (religion as a moral virtue annexed to justice — latria owed God alone; devotion & prayer as interior acts; the Lord's Prayer; sacrifice as natural law; vows; and the opposed vices — superstition, idolatry as gravest sin, divination/astrology/magic and demonic compact, tempting God, sacrilege, simony).
+**Scope plan progress**: 6 of 10 II-II scopes read in full (1–6). Scopes 7–10 extraction complete or in flight; filing next.
+
+## [2026-06-27] ingest | Aquinas, Summa Theologica — Secunda Secundae Scopes 7–8 (Q123–170, Fortitude & Temperance)
+**Method**: Deployed-subagent; three Sonnet subagents (Fortitude Q123–140; Temperance Q141–154; Q155–170) → notes → main-thread filing.
+- Extended [[cardinal-virtues]] with **fortitude** (endurance as chief act; danger of death in just war; **martyrdom** as supreme act; magnanimity reconciled with humility; patience/perseverance requiring grace) and **temperance** (least cardinal virtue; abstinence/fasting; chastity & **virginity above marriage**; gluttony & lust as capital vices; continence; meekness & anger; studiousness vs. curiosity; eutrapelia).
+- New concept: [[humility-and-pride]] (humility restraining inordinate hope, rooted in reverence for God, Benedict's twelve degrees; pride as the most grievous sin by aversion and the **first sin** of the angels and of Adam Q163–165; reconciliation with Aristotelian magnanimity; cross-links [[original-sin]], [[haumai]], [[anatta]]).
+**Scope plan progress**: 8 of 10 II-II scopes read in full (1–8). Scopes 9 (charisms/lives) and 10 (states of life) extraction complete; filing next.
+
+## [2026-06-27] ingest | Aquinas, Summa Theologica — Secunda Secundae Scopes 9–10 (Q171–189) — SECUNDA SECUNDAE COMPLETE
+**Method**: Deployed-subagent; three Sonnet subagents (charisms/lives Q171–182; states Q183–185; religious life Q186–189) → notes → main-thread filing.
+- Extended [[prophecy]] with Aquinas's account (Q171–178: prophecy as a gratuitous grace, a transient passion not a habit; angelic mediation; demons & false prophecy; Moses greatest, and Moses & Paul-in-rapture seeing the divine essence) — added Christianity to the page's traditions and a cross-tradition comparison with Maimonides.
+- New concept: [[contemplative-and-active-life]] (Q179–182 — Martha/Mary; contemplation simply higher; the active life calming the passions; the "mixed life" of *contemplata aliis tradere*).
+- New concept: [[states-of-life]] (Q183–189 — perfection essentially in charity, the counsels as instruments; episcopal state; the three vows; the kinds of religious orders and Aquinas's defence of the teaching-preaching mendicants at the apex; entrance into religion / no long deliberation).
+**Milestone**: the **Secunda Secundae (Part II-II, Q1–189) is now ingested in full** across the 10-scope plan. Remaining Summa work: Part 4 (Tertia Pars + Supplement) — separate raw file.
+
+## [2026-06-27] ingest | Sahih al-Bukhari, Volumes 1–3 (Books 1–50)
+**Source**: `raw/texts/islam/sahih-al-bukhari-vol1-3.txt` (GlobalGrey/M. Muhsin Khan translation), lines 131–22,233.
+**Method**: Deployed-subagent (6 Sonnet subagents, staggered batches); main thread scaffolded, subagents extracted, main thread reconciled and filed.
+**Scope**: Vol. 1 (Books 1–12), Vol. 2 (Books 13–26), Vol. 3 (Books 27–50) — read in full.
+**New pages**:
+- `wiki/concepts/sunna.md` — normative example of the Prophet; hadith as its record
+- `wiki/concepts/isnad.md` — chain of transmission; al-Bukhari's standard; matn vs. isnad
+- `wiki/concepts/riba.md` — Islamic prohibition on usury; riba al-fadl and riba al-nasa'a
+- `wiki/concepts/azab-al-qabr.md` — punishment of the grave; grave questioning; barzakh
+- `wiki/figures/aisha.md` — *Umm al-Mu'minin*; major hadith transmitter; Farewell Pilgrimage testimony
+- `wiki/figures/bilal-ibn-rabah.md` — first mu'adhdhin; institution of the Adhan
+**Extended pages**:
+- `wiki/texts/sahih-al-bukhari.md` — added Vol. 1–3 theological content, coverage ledger, scope plan
+- `wiki/concepts/iman.md` — added Bukhari Book 2 (Jibril hadith, sweetness of faith, eschatological grounding)
+- `wiki/concepts/five-pillars.md` — added comprehensive Bukhari documentation: Salat times/Adhan/characteristics, Zakat thresholds/distribution, Hajj structure/Farewell Pilgrimage, Sawm theology
+- `wiki/figures/muhammad.md` — added funerary practice and death-related teaching from Book 23

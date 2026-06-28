@@ -2,8 +2,8 @@
 title: The Four Noble Truths
 domain: doctrine
 traditions_using: [Buddhism]
-sources_ingested: 4
-last_updated: 2026-06-09
+sources_ingested: 5
+last_updated: 2026-06-27
 tags: [concept, buddhism, soteriology]
 ---
 
@@ -36,6 +36,18 @@ can be unconditioned) and is realized fully in [[anatta|non-self]]. The [[mahaya
 [[heart-sutra|Heart Sutra]] provocatively *negates* the Four Truths at the ultimate level ("no
 suffering, no origin, no cessation, no path") — not to deny them but to deny their inherent existence
 under [[sunyata|emptiness]].
+
+## In the Lamrim's Medium-Capacity Path
+
+[[tsongkhapa|Tsong-kha-pa]]'s **[[lamrim-chenmo|Lamrim Chenmo]]** (Vol. I) frames the medium-capacity
+scope on the Four Truths, and explains why the Buddha taught **suffering first** (reversing causal
+order): "if his disciples failed to develop a proper determination to liberate themselves … first,
+they would sever the very root of liberation." It cites the *Sublime Continuum*'s physician's sequence
+("Recognize that you are ill; eliminate the cause; attain health; rely on a remedy") and elaborates
+the truth of suffering (the eight and six types of suffering, and the three — pain, change, and
+conditionality), its **origin** in the [[karma|afflictions]], and the path of the
+[[three-trainings|three trainings]] whose wisdom-training is the sixteen aspects (four per truth). See
+[[renunciation|the determination to be free]].
 
 ## Cross-Tradition Note
 

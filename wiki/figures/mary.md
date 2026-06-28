@@ -5,8 +5,8 @@ tradition: cross-tradition
 textual_sources: [Gospel of Luke, Gospel of Matthew, Gospel of John, Acts of the Apostles]
 dates: 1st century CE
 roles: [mother of Jesus, disciple, prophet]
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [figure, christianity, mother-of-jesus]
 ---
 
@@ -26,7 +26,7 @@ Mary is a 1st-century Jewish woman from Nazareth in Galilee, betrothed to Joseph
 - **Johannine Narrative (Christianity)**: J. Ramsey Michaels presents Mary at Cana as prompting the first sign, and at the cross as the mother entrusted to the disciple whom Jesus loved—symbolizing the new family of faith formed at the "hour" of glorification.
 - **Early Church / Patristic**: Venerated as Theotokos (God-bearer) at Ephesus 431; perpetual virginity developed (leading to kinship debates with James and Jude). Protoevangelium of James expands her childhood and purity.
 - **Eastern Orthodox**: Theotokos, Ever-Virgin; central in iconography (e.g., Hodegetria) and liturgy; her fiat as model of synergy with grace.
-- **Roman Catholic**: Immaculate Conception (1854), Assumption (1950); Mediatrix and co-redemptrix discussions; perpetual virginity (Hieronymian view of brothers as cousins).
+- **Roman Catholic**: Immaculate Conception (1854), Assumption (1950); Mediatrix and co-redemptrix discussions; perpetual virginity (Hieronymian view of brothers as cousins). **Note**: medieval Catholic theology did not uniformly hold the Immaculate Conception — [[thomas-aquinas|Aquinas]] *denied* it in its later-defined form (see below), a famous case where a pre-1854 Doctor of the Church contradicts what became dogma.
 - **Protestant**: Emphasizes her as model of faith and obedience (Magnificat as gospel proclamation); skepticism toward later dogmas of perpetual virginity and intercession; focus on her lowliness and God's reversal.
 - **Islam**: Maryam, mother of 'Isa; highly honored (Sura 19, 3:42-47); virgin birth affirmed; but Jesus is prophet, not divine Son.
 - **Jewish**: Largely absent or negative in early sources; modern scholarship notes her as representative of faithful Jewish women in the Jesus movement.
@@ -46,6 +46,33 @@ Mary is the first to hear and embody the gospel in Luke—her song is the initia
 - **Michaels (John)**: At Cana and the cross, she participates in the "signs" and the formation of the believing community at the hour of Jesus' glorification.
 - **Bock (Acts)**: Her presence in the upper room underscores continuity between the Jesus story and the Spirit-empowered church; the family of Jesus (including brothers) joins the apostolic community.
 - Broader: Patristic (Irenaeus: new Eve), medieval (Bernard of Clairvaux), Reformation (Luther's commentary on Magnificat), and modern feminist/liberation readings (Mary as icon of the oppressed). Cross-tradition comparisons (e.g., with Hannah, or Islamic Maryam) highlight her as a figure of divine favor and reversal.
+
+**Aquinas on the Blessed Virgin (Summa Theologiae III Q27–Q35)**:
+[[thomas-aquinas|Aquinas]] treats Mary within his Christology. Key positions:
+
+- **Sanctification, not Immaculate Conception** (Q27): Aquinas holds that Mary **contracted original
+  sin** and was sanctified (cleansed of it) by grace **in the womb, *after* her animation** but
+  before birth — *not* preserved from contracting it from the first instant of her conception. He
+  reasons that universal redemption by Christ requires that all (Christ alone excepted) contract
+  original sin, "otherwise the Incarnation would not be necessary for all." The *fomes* of sin (the
+  tinder of concupiscence) was **fettered** at her sanctification and entirely removed only at
+  Christ's conception. This is **materially different from the dogma defined by Pius IX in 1854**
+  (*Ineffabilis Deus*), which holds Mary preserved free from original sin from the first instant —
+  the position championed by [[duns-scotus|Duns Scotus]] (the *praeredemptio*) against the Thomist
+  objection. The divergence is a standard example for the **development of doctrine**.
+- **Perpetual virginity** (Q28): affirmed *ante partum*, *in partu*, and *post partum*; Helvidius
+  named and refuted; the "brethren of the Lord" explained as kinsmen (Jerome's view); Joseph also held
+  to have remained a virgin.
+- **Espousals** (Q29): a true marriage (consent making it real) though unconsummated; possessing all
+  three [[marriage-goods|goods of marriage]].
+- **Annunciation** (Q30): Mary's consent was sought "in lieu of that of the entire human nature."
+- **Mother of God / Theotokos** (Q35): affirmed; its denial (Nestorius, Photinus) declared heretical
+  — because the one she bore is the divine Person (see [[hypostatic-union]]). She supplied the matter
+  of Christ's body (from her purest blood, per Aristotelian biology), the Holy Spirit being the active
+  principle (Q31–32).
+
+This material is recorded as a **contradiction** with the later Marian dogma per the wiki's
+Contradiction Protocol; see also [[immaculate-conception|the controversy]].
 
 **Key Links**:
 - [[luke|Gospel of Luke]] (birth narrative, Magnificat)

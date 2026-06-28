@@ -5,7 +5,7 @@ type: tradition
 date_range: 1st c. CE – present
 canon_core: [matthew, mark, luke, gospel-of-john, acts, romans, 1-corinthians, 2-corinthians, galatians, ephesians, philippians, colossians, 1-thessalonians, 2-thessalonians, 1-timothy, 2-timothy, letter-to-titus, philemon, hebrews, james, 1-peter, 2-peter, letters-of-john, jude, revelation]
 hermeneutical_frameworks: [literal, allegorical, tropological, anagogical, rule-of-faith, typology]
-major_sects: [proto-orthodox-christianity, gnosticism, valentinianism, sethianism, marcionism, montanism, ebionism, arianism, catholicism, eastern-orthodoxy, protestantism]
+major_sects: [proto-orthodox-christianity, gnosticism, valentinianism, sethianism, marcionism, montanism, ebionism, arianism, donatism, catholicism, eastern-orthodoxy, protestantism]
 sources_ingested: 0
 last_updated: 2026-06-09
 tags: [tradition, christianity]
@@ -60,6 +60,9 @@ the Ebionites read within a Jewish-Christian, law-observant frame.
 - [[ebionism|Ebionism]] — Jewish-Christian, law-observant, adoptionist; rejected Paul.
 - [[arianism|Arianism]] — the 4th-c. Christological movement holding the Son to be a
   creature; condemned at [[nicaea|Nicaea]] (325); no canon divergence, an exegetical dispute.
+- [[donatism|Donatism]] — the rigorist North African schism (4th–6th c.); the church as a
+  communion of the pure and rebaptism of the lapsed; no canon divergence, an ecclesiological
+  dispute settled against it by [[augustine|Augustine]].
 
 The three major historic streams that descend from proto-orthodoxy (the wiki's `canon_scope`
 reference points for the NT and OT canons):
