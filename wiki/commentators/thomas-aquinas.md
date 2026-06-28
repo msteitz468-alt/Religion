@@ -5,8 +5,8 @@ dates: c. 1225–1274
 tradition: Christianity (Roman Catholic)
 affiliation: [Dominican Order, scholasticism, Thomism]
 primary_texts_commented: [summa-theologica]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [commentator, christianity, scholasticism, dominican]
 ---
 
@@ -90,6 +90,9 @@ sacramental theology.
 
 - **[[summa-theologica|Summa Theologiae]] — the entire work, all four Parts, ingested in full**; see
   the text page's Coverage Ledger.
+- **[[kreeft-shorter-summa|A Shorter Summa]] (Peter Kreeft, 1993)** — Kreeft's pedagogical anthology
+  of the philosophical passages; unique content is Kreeft's editorial apparatus (introduction, glossary,
+  59 endnotes). See [[peter-kreeft]] for Kreeft's positions as a Neo-Thomist expositor.
   - **Prima Pars (Part I)** — God, Trinity, creation, angels, man.
   - **Prima Secundae (Part I-II)** — beatitude, human acts, passions, habits, law, grace.
   - **Secunda Secundae (Part II-II)** — Aquinas's detailed moral theology, each virtue in particular:
