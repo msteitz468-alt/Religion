@@ -2,8 +2,8 @@
 title: Theosis / Partakers of the Divine Nature (2 Peter 1:4)
 domain: theology / soteriology / anthropology
 traditions_using: [Christianity — Eastern Orthodox (central), Catholic, Protestant (debated)]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-06-28
 tags: [concept, christianity, soteriology, deification, theosis, eastern-orthodox, new-testament, patristics, athanasius]
 ---
 
@@ -73,6 +73,21 @@ formula promises real participation in God's *life*, while later theology specif
 reading of 2 Pet 1:4 below (incorruption *and* God-like character), against which it is sometimes
 wrongly set as if it required ontological deification.
 
+## Clement of Alexandria
+
+[[clement-of-alexandria|Clement of Alexandria]] (c.150–215) is an important pre-Athanasian witness to
+deification, already stating the "exchange" formula a century earlier. In the [[protrepticus|
+Protrepticus]]: "the Word of God became man, that thou mayest learn from man how man may become God"
+(applied with Ps 82:6, "I said, ye are gods"). The [[stromata|Stromata]] develops it as the term of
+the perfected [[gnosis|Christian Gnostic]]'s ascent: assimilation to God (*homoiōsis theōi*) such that
+"man, when deified purely into a passionless state, becomes a unit," "the soul studies to be God," and
+the perfected are "called by the appellation of gods... destined to sit on thrones." The strongest
+formulation: one who follows the Lord "will be formed perfectly in the likeness of the teacher — **made
+a god going about in flesh**." Clement guards the Creator/creature distinction — against the Stoics he
+denies that "virtue in man and God is the same," and holds "it is utterly impossible for any one to
+become perfect as God is" — and ties deification to [[apatheia|passionlessness]] and to participation,
+not identity. The doctrine passes through [[origen|Origen]] into the Eastern tradition mapped below.
+
 ## Tradition Map
 
 - **Eastern Orthodox**: *theōsis* is the architecture of salvation; 2 Pet. 1:4 (with John 17, Gal.
@@ -93,6 +108,51 @@ character. It contrasts instructively with the **forensic** emphasis of [[justif
 (status before God) and complements the Pauline **new-creation** transformation
 ([[new-creation|New Creation]]). It also stands at a distance from the *ontological* participation
 language some find in Johannine "abiding" and Pauline "in Christ."
+
+## Pseudo-Dionysius
+
+In [[pseudo-dionysius|Pseudo-Dionysius the Areopagite]], *theōsis* (deification) is not merely
+a soteriological destination but the architectonic *purpose* of hierarchy itself — celestial
+and ecclesiastical alike. The term appears as the organizing telos of both treatises:
+
+> "The assimilation to, and union with, God, as far as attainable, is deification. And this
+> is the common goal of every Hierarchy — the clinging love towards God and Divine things
+> divinely and uniformly ministered." (*Ecclesiastical Hierarchy*, Caput I §III)
+
+For Dionysius, deification is *hierarchically mediated* — it cannot occur by direct contact
+between the human soul and God, but only through graduated transmission of divine illumination
+downward through the orders (celestial, then ecclesiastical). Each rank is "purified,
+illuminated, and perfected" by those above it, and in turn "purifies, illuminates, and
+perfects" those below. The goal of the process is likeness to God: "the purpose… of Hierarchy
+is the assimilation and union, as far as attainable, with God, having Him Leader of all
+religious science and operation, by looking unflinchingly to His most Divine comeliness, and
+copying, as far as possible, and by perfecting its own followers as Divine images, mirrors
+most luminous and without flaw, receptive of the primal light" (*Celestial Hierarchy*, Caput
+III §II).
+
+The sacraments of the Ecclesiastical Hierarchy are the vehicles of deification for embodied
+human beings: Baptism as illuminating birth in God; the Eucharist as perfecting union with
+Christ; the Chrism as the seal of the Holy Spirit. Together they constitute the sensible
+mediation of an intelligible process whose end is the same as that of the Seraphim — immediate
+participation in the divine light.
+
+The [[on-divine-names|Divine Names]] adds complementary material from the perspective of
+divine procession (*proodoi*) and return. Caput II states that "the godlike become both gods, and
+sons of gods, and fathers of gods," accomplished "spiritually, i.e. incorporeally, immaterially,
+intellectually" through the "deification from Itself" that God distributes to those turned toward
+Him (DN II.XI). Caput VII describes the apex of deification as achieved not by intellectual effort
+but through *agnosia*: "it is better to be of God, and not of ourselves. For thus things Divine
+will be given to those who become dear to God" (DN VII.I) — "Celebrating then, in a superlative
+sense, this, the irrational and mindless and foolish Wisdom." God's own power in Caput VIII
+"bequeaths the deification Itself, by furnishing a power for this to those who are being deified"
+(DN VIII.V). The goal announced in Caput I is eschatological: "when we have become incorruptible and
+immortal, and have reached the Christlike and most blessed repose... we shall be fulfilled, through
+all-pure contemplations, with the visible manifestation of God covering us with glory, in most
+brilliant splendours, as the disciples in the most Divine Transfiguration" (DN I.IV).
+
+Sources: [[celestial-hierarchy|On the Celestial Hierarchy]]; [[ecclesiastical-hierarchy|On the
+Ecclesiastical Hierarchy]] — Parker translation (1897/1899), read in full; [[on-divine-names|On the
+Divine Names]] — Parker translation (1897), Caputs I–XIII, read in full.
 
 ## Key Links
 

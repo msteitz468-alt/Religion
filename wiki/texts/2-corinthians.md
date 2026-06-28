@@ -130,3 +130,9 @@ Is "new creation" in 5:17 individual (the individual believer's renewal in Chris
 - [[justification|Justification]] — 5:21 as the compressed expression of the forensic exchange
 - [[servant-songs|Servant Songs]] — the suffering apostle pattern draws on Deutero-Isaiah
 - [[romans|Letter to the Romans]] — 2 Cor 5:21 connects to Rom 3–4; Paul's mission in Spain assumed complete by the end of the Corinthian crisis (Rom 15:19–24)
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[new-creation]] · [[theology-of-the-cross]]

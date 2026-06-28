@@ -42,7 +42,27 @@ is centrifugal — "the self is spiritually immature; it grows in the concern fo
 non-self." Heschel rejects self-effacement ("elimination of the self is in itself no
 virtue"); the Hebrew for sacrifice means "to come near."
 
+## Free Will in Early Christian Thought: Clement of Alexandria
+
+Though this page centers on Heschel's modern Jewish account, the wiki also anchors here the
+**free-will / voluntary-choice** theme in patristic thought, where [[clement-of-alexandria|Clement of
+Alexandria]] is a pivotal early defender. Against the [[gnostics|Gnostic]] determinism of
+[[basilides|Basilides]] and [[valentinus|Valentinus]] — who held faith to be a *natural* endowment and
+the elect "saved by nature" — Clement insists that "self-determining choice and refusal have been given
+by the Lord to men," that faith and salvation are voluntary, and that "if we are pulled like inanimate
+things by the puppet-strings of natural powers... willingness and unwillingness... are mere
+redundancies" ([[stromata|Stromata]] II). The corollary protects divine justice: "Each one of us, who
+sins, with his own free-will chooses punishment; the blame lies in the exercise of free choice. But God
+is blameless" ([[paedagogus|Paedagogus]] I; cf. *Strom.* VII). Even salvation is not coerced — "Nor
+shall he who is saved be saved against his will"; "to save men against their will is an act of force,
+but to save them when they choose is an act of grace" ([[quis-dives-salvetur|Quis Dives Salvetur]]).
+This anti-deterministic emphasis became characteristic of the Greek patristic tradition (via
+[[origen|Origen]]), in contrast to the stronger predestinarian currents later developed in the Latin
+West (see [[predestination|predestination]]).
+
 ## Sources
 
 - [[god-in-search-of-man|*God in Search of Man*]], Part III (chs. 39 "The Self and the
   non-Self", 41 "Freedom"), Heschel (1955).
+- [[clement-of-alexandria|Clement of Alexandria]], *Stromata*, *Paedagogus*, *Quis Dives Salvetur*
+  (Delphi Complete Works, 2016) — patristic free-will material.

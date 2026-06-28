@@ -102,6 +102,8 @@ Master index of all pages. Updated on every ingest.
 - [[epistle-of-barnabas|Epistle of Barnabas]] — anonymous; not by Barnabas of Acts; Alexandrian; ca. 70–135 CE; radical allegory; supersessionism (Israel's covenant "shattered"); Two Ways section; in Codex Sinaiticus; Greek
 - [[shepherd-of-hermas|Shepherd of Hermas]] — Roman; freedman author; ca. 90–155 CE; composite; postbaptismal repentance; wealth and poverty; minimal Christology; more early copies than many canonical writings; in Codex Sinaiticus; Greek
 - [[epistle-to-diognetus|Epistle to Diognetus]] — anonymous; ca. 150–225 CE; Greek apology; "third race" passage (sec. 5); soul-body analogy (sec. 6); sole manuscript destroyed 1870 (Strasbourg); includes Fragment of Quadratus; secs. 11–12 a separate document; Greek
+- [[first-apology-justin|First Apology of Justin Martyr]] — c. 155–160 CE; to Emperor Antoninus Pius and the Senate; 68 chapters; apologetics; fulfilled prophecy argument; Logos theology; earliest detailed Eucharist and Sunday worship description (Chs LXV–LXVII); Simon Magus; Marcion; Greek (trans. Schaff)
+- [[second-apology-justin|Second Apology of Justin Martyr]] — c. 160 CE; to the Roman Senate; 15 chapters; case of Ptolemaeus; *logos spermatikos*; angelic fall demonology; Crescens the Cynic; Greek (trans. Schaff)
 - [[fragments-of-papias|Fragments of Papias]] — Papias of Hierapolis; ca. 100–125 CE; 28 fragments; "living voice" principle; Mark as Peter's interpreter (Frag. 3.15); Matthew's "Hebrew logia" (Frag. 3.16); literal millennialism; Two Johns problem; Greek (preserved in Eusebius and others)
 - *Letters of Ignatius* — seven authentic letters (Middle Recension); ca. 107–117 CE; monepiscopate; anti-Docetism; martyrdom theology; documented in [[ignatius-of-antioch|Ignatius of Antioch]] figure page; Greek
 - *Letter of Polycarp to the Philippians* — ca. 107–110 CE; Pauline letters as scripture (Eph cited as *graphē*); anti-Docetism; plural elder governance at Philippi; documented in [[polycarp|Polycarp of Smyrna]] figure page; Greek
@@ -109,6 +111,16 @@ Master index of all pages. Updated on every ingest.
 
 ### Patristic Theology
 
+- [[on-divine-names|On the Divine Names]] — [[pseudo-dionysius|Pseudo-Dionysius the Areopagite]]'s longest systematic treatise (c. 485–530 CE), 13 chapters; cataphatic theology of divine names (Good, Being, Life, Wisdom, Eros, etc.); evil as non-being; Neoplatonic *proodoi*; authoritative for Catholic and Orthodox theology; Parker 1897 trans., **read in full** (new 2026-06-28)
+- [[mystical-theology|Mystical Theology]] — Pseudo-Dionysius's shortest work (5 chapters); locus classicus of Christian [[apophatic-theology|apophatic theology]]; Divine Darkness; *agnosia*; Moses typology; Parker 1897 trans., **read in full** (new 2026-06-28)
+- [[celestial-hierarchy|On the Celestial Hierarchy]] — Pseudo-Dionysius's treatise on the nine angelic orders in three triads; definition of *hierarchia*; symbolic representations; deification as telos; foundational for medieval angelology; Parker 1899 trans., **read in full** (new 2026-06-28)
+- [[ecclesiastical-hierarchy|On the Ecclesiastical Hierarchy]] — Pseudo-Dionysius's treatise on the church's sacraments and orders as earthly hierarchy parallel to the celestial; Baptism, Eucharist, Chrism; three sacerdotal and lay orders; theosis through sensible mediation; Parker 1899 trans., **read in full** (new 2026-06-28)
+- [[letters-of-dionysius|Letters of Dionysius the Areopagite]] — 11 letters to Gaius, Dorotheus, Sopatros, Polycarp, Demophilus, Titus, John on Patmos, Apollophanes; Divine Darkness, Incarnation, hierarchical conduct, Heliopolis eclipse narrative; Parker 1897 trans., **read in full** (new 2026-06-28)
+- [[de-principiis|De Principiis (On First Principles)]] — [[origen|Origen of Alexandria]]'s first systematic Christian theology (c. 220–230 CE), 4 books; God/Trinity, pre-existence of souls, the fall, free will, multiple world-ages, *apokatastasis*, and the three-level hermeneutic (literal/moral/spiritual); survives mainly in Rufinus's Latin; condemned at Constantinople II (553 CE); Schaff/ANF trans., **complete (Preface + Books I–IV) read in full** (new 2026-06-28)
+- [[contra-celsus|Contra Celsus (Against Celsus)]] — Origen's 8-book apologetic (c. 248 CE) responding point-by-point to Celsus's *True Doctrine* (c. 178 CE), the most serious pagan philosophical critique of Christianity; the primary source for recovering Celsus; covers historical, philosophical, ethical, and political objections; Schaff/ANF trans., **Books I–VIII read in full** (new 2026-06-28)
+- [[commentary-on-john-origen|Commentary on the Gospel of John (Origen)]] — originally 32 books; Books I, II, IV–VI, X survive in Greek (Schaff/ANF); the eternal Gospel vs. somatic Gospel; the Logos Christology; Voice/Word distinction (Baptist as voice); allegorical harmonization of the Gospels; the Jordan as Logos typology; **Books I, II, IV–VI, X read in full** (new 2026-06-28)
+- [[commentary-on-matthew-origen|Commentary on the Gospel of Matthew (Origen)]] — originally 25 books; Books I–II (fragments) and X–XIV survive in Greek (Schaff/ANF); systematic anti-Gnostic allegoresis; the democratization of Peter's keys; divorce, celibacy, and guardian-angel theology; **Books I–II (fragments), X–XIV read in full** (new 2026-06-28)
+- [[letters-of-origen|Letters of Origen]] — three letters: Julius Africanus→Origen (on Susanna as LXX forgery); Origen→Africanus (defense of LXX additions and the Hexapla methodology); Origen→Gregory Thaumaturgus (spoils of Egypt; liberal arts as propaedeutic to theology); **all three read in full** (new 2026-06-28)
 - [[on-the-incarnation|On the Incarnation (De Incarnatione Verbi Dei)]] — [[athanasius|Athanasius of Alexandria]]'s early treatise (c. 318), companion to *Contra Gentes*, addressed to Macarius; the **Divine Dilemma**, the [[imago-dei|Image]] re-drawn, the "He assumed humanity that we might become God" formula (§54, [[theosis-divine-nature|theosis]]), and the refutation of Jews (Dan 9) and Gentiles; pre-Arian; authoritative (non-scriptural) across Christianity; Greek; Lewis-introduced trans., **whole treatise (§§1–57) read in full** (new 2026-06-27)
 - [[city-of-god|The City of God (De Civitate Dei)]] — [[augustine|Augustine of Hippo]]'s 22-book apology "Against the Pagans," 413–426 CE; occasioned by the sack of Rome (410); the [[two-cities|two cities]] and the first Christian philosophy of history; authoritative (non-scriptural) across Christianity; Latin; NPNF/Dods trans., **whole work (Books I–XXII) read in full** (updated 2026-06-27)
 - [[institutes-of-the-christian-religion|Institutes of the Christian Religion]] — [[john-calvin|John Calvin]]'s ordered summary of Christian doctrine (1536–1559), the foundational systematic work of the [[presbyterianism|Reformed]] tradition; a 20-year project across Latin & French editions; definitive 1559 four-book structure (Creator/Redeemer/Spirit/Church); authoritative (non-scriptural) for the Reformed, condemned by Trent; built from [[gordon-calvins-institutes-a-biography|Gordon's biography of the book]] (Scope A) (new 2026-06-27)
@@ -494,7 +506,7 @@ Master index of all pages. Updated on every ingest.
 ### Patristic and Hellenistic
 
 - [[philo-of-alexandria|Philo of Alexandria]] — Hellenistic Jewish philosopher-exegete; Middle Platonist; Logos as intermediary; major bridge to Christian theology (Stead, *Philosophy in Christian Antiquity* Ch. 6)
-- [[origen|Origen]] — Alexandrian Christian commentator, theologian, allegorist; head of catechetical school; philosophical exegesis of John, Song of Songs, Torah; influence and controversies (Stead)
+- [[origen|Origen of Alexandria]] (c. 184/185–253/254 CE) — Most prolific patristic exegete; founder of Christian systematic theology; head of Alexandrian catechetical school; three-level hermeneutic (literal/moral/spiritual); subordinationist Trinitarianism; pre-existence of souls; *apokatastasis*; condemned Constantinople II (553 CE); Schaff/ANF complete works ingested in full 2026-06-28
 
 ### Medieval Christian Tradition
 
@@ -513,7 +525,8 @@ Master index of all pages. Updated on every ingest.
 - [[irenaeus|Irenaeus of Lyons]] (c.130–202 CE) — Bishop of Lyons; *Against Heresies*; fourfold Gospel; apostolic succession; recapitulation theology; anti-gnostic polemicist; rule of faith formulator (Kruger)
 - [[tertullian|Tertullian]] (c.155–220 CE) — Father of Latin theology; Trinitarian vocabulary (*trinitas*, *persona*, *substantia*); *Prescription against Heretics*; *Against Marcion* (5 vols.); later Montanist sympathies (Kruger)
 - [[clement-of-alexandria|Clement of Alexandria]] (c.150–215 CE) — Head of Alexandrian catechetical school; philosopher-theologian; allegorist; the true Christian *gnostikos*; preserved Valentinian sources; 23/27 NT books as functional canon (Kruger)
-- [[marcion|Marcion of Sinope]] (c.85–160 CE) — Founded Marcionite church (c.144 CE); two gods (OT Demiurge / NT Father); Docetic Christology; first closed Christian canon (edited Luke + 10 Pauline letters); primary heretical foil for Irenaeus/Tertullian (Kruger)
+- [[marcion|Marcion of Sinope]] (c.85–160 CE) — Founded Marcionite church (c.144 CE); two gods (OT Demiurge / NT Father); Docetic Christology; first closed Christian canon (edited Luke + 10 Pauline letters); primary heretical foil for Irenaeus/Tertullian (Kruger); named by Justin (*First Apol.* Chs XXVI, LVIII)
+- [[simon-magus|Simon Magus]] (fl. 1st c. CE) — Samaritan magician; Acts 8; first Christian heresiarch prototype; the "Simoni Deo Sancto" statue claim (confused with Semo Sancus inscription); Helena as *ennoia*; disciple Menander; foundational for Irenaean heresiology; Justin's earliest patristic account (new 2026-06-28)
 - [[mani|Mani]] (c. 216–274/277 CE) — founder of [[manichaeism|Manichaeism]]; raised among Elchasaite baptists in Sasanian Babylonia; the Twin/*Syzygos* revelation; Apostle of Jesus, Paraclete, "Seal of the Prophets"; wrote his own canon; died under Bahram I; the arch-heresiarch for the Christian West (Gardner, *The Founder of Manichaeism*) (new 2026-06-09)
 - [[valentinus|Valentinus]] (c.100–175 CE) — Most influential gnostic teacher; Valentinian school; Pleroma cosmology; Sophia myth; three-class anthropology; *Gospel of Truth*; school included Ptolemy, Heracleon, Marcus, Theodotus (Kruger)
 
@@ -897,7 +910,18 @@ Master index of all pages. Updated on every ingest.
 - [[zhu-xi|Zhu Xi]] (1130–1200) — Neo-Confucian synthesizer; commentator on Zhou Dunyi's *Taijitu shuo* and *Tongshu*; li/qi metaphysics; the ji-chou enlightenment (1169); daotong constructor; Four Books commentaries became civil-service exam basis 1313–1905; compared to Benedict of Nursia (facilitating religious practice) rather than Thomas Aquinas (Adler 2014)
 
 ### Greek Fathers (2026-06-27; [[on-the-incarnation|On the Incarnation]])
+- [[commentators/justin-martyr|Justin Martyr]] (c. 100–165 CE) — *First* and *Second Apology* (ingested 2026-06-28); prophetic-typological hermeneutic (fourfold prophetic voice); *logos spermatikos*; Sunday worship and Eucharist descriptions; anti-Marcionite and anti-Simonian polemic; subordinationist triadic formula
 - [[athanasius|Athanasius of Alexandria]] (c. 296/298–373) — bishop of [[alexandria|Alexandria]]; great opponent of [[arianism|Arianism]] (*Athanasius contra mundum*); *On the Incarnation* — the Divine Dilemma, the [[imago-dei|Image]]-restoring redemption, and the classic [[theosis-divine-nature|theosis]] formula; "instrument/temple" Logos-Christology
+
+### Cappadocians & Patristic Philosophy (2026-06-28; [[zachhuber-rise-of-christian-theology|Zachhuber]])
+- [[basil-of-caesarea|Basil of Caesarea]] ("the Great," c. 330–378/379) — architect of the **abstract account** of [[ousia-hypostasis-distinction|Cappadocian philosophy]]; *Against Eunomius*, *On the Holy Spirit*, the *ousia*/*hypostasis* letters; shared univocal predicates + particularizing properties; metaphysical restraint
+- [[gregory-of-nyssa|Gregory of Nyssa]] (c. 335–c. 394) — Basil's brother; the **concrete account** (real universal nature realized in individuals); cosmology (*Hexaëmeron*, *On the Creation of Humanity*), *To Ablabius*, likely author of *Epistle 38*; the systematizer of patristic philosophy
+- [[gregory-of-nazianzus|Gregory of Nazianzus]] ("the Theologian," c. 329–c. 390) — the five *Theological Orations*; Origenist emphasis on the Father as cause; rhetorical brilliance; brief president of Constantinople 381
+- [[eunomius|Eunomius of Cyzicus]] (c. 335–c. 393) — anomoian/heteroousian "neo-Arian"; God's essence = "ingenerate" and knowable; the binary predication challenge that catalyzed the Cappadocian theory ([[arianism|Arianism]])
+- [[apollinarius-of-laodicea|Apollinarius of Laodicea]] (c. 310–c. 390) — derivative (*ab uno*) account of *homoousios* ("all are Adam"); shaped the young Basil; later condemned for Word–flesh Christology (Apollinarianism)
+- [[cyril-of-alexandria|Cyril of Alexandria]] (c. 376–444) — most influential 5th-c. Greek theologian; *Thesaurus*, *Dialogues on the Trinity*, *Commentary on John*, *Against Nestorius*; evidence that the classical theory became a *koine*; *mia physis*/union *kath' hypostasin*; the [[double-homoousion|double homoousion]]; banner of [[oriental-orthodoxy|miaphysitism]]
+- [[theodoret-of-cyrus|Theodoret of Cyrus]] (c. 393–c. 458/466) — leading Antiochene; *Eranistes*; Cyril's chief antagonist; "Christian philosophy" distinct from pagan; accepts "two hypostases, that is natures"; condemned in the Three Chapters (553)
+- [[nestorius|Nestorius]] (c. 386–c. 450) — Patriarch of Constantinople; rejected *Theotokos*; condemned at Ephesus 431; double homoousion in a derivative key; eponym of the two-hypostases Christology of the Church of the East
 
 ### Latin Fathers & Classical Interlocutors (2026-06-27; [[city-of-god|City of God]])
 - [[augustine|Augustine of Hippo]] (354–430) — bishop of Hippo; fountainhead of Western theology; *City of God*, the two cities, providence as philosophy of history; *On Christian Doctrine*, the charter of Latin hermeneutics
@@ -912,9 +936,11 @@ Master index of all pages. Updated on every ingest.
 
 ### Scholarship (Patristic Philosophy)
 
+- [[perl-theophany|Eric D. Perl, *Theophany: The Neoplatonic Philosophy of Dionysius the Areopagite*]] (SUNY Press, 2007) — philosophical monograph presenting [[pseudo-dionysius|Pseudo-Dionysius]] as a coherent Neoplatonic philosopher (not a Christian apologizing for Platonism); central concept: [[theophany|theophany]] — all being as God's self-manifestation; organized as 7 essays on DN I, IV, V, VII; excludes Trinity/Christology/liturgy; covers transcendence (Ch. 1), theophany (Ch. 2), Goodness/Beauty/Love (Ch. 3), evil as privation (Ch. 4), hierarchy (Ch. 5), cognition (Ch. 6), symbolism (Ch. 7). **Read in full (body + endnotes, 2026-06-28)**
 - [[christopher-stead|Christopher Stead]] (1913–2008) — *Philosophy in Christian Antiquity* (CUP 1994); philosophical analysis of Greek background (Middle Platonists, Philo) and patristic use in Trinity/Christology; cautious on "Christian philosophy" label; semantic precision on ousia/hypostasis; dedicated treatment of Augustine. Primary modern source for the philosophical formation of classical Christian doctrine.
 - [[harry-austryn-wolfson|Harry Austryn Wolfson]] (1887–1974) — *The Philosophy of the Church Fathers, Vol. I: Faith, Trinity, Incarnation* (Harvard, 1956; part of "Structure and Growth of Philosophic Systems from Plato to Spinoza" series); hypothetico-deductive reconstruction of the "Christian version of Greek philosophy" created by the Fathers (building on Philo); detailed on faith/reason (single vs. double faith theories), allegorical method (classifications from Philo + NT), Trinity (three-and-one via relative unity of rule or substratum/ousia/hypostasis/homoousios; twofold vs. single stage Logos; Cappadocian vocabulary), Incarnation (two-and-one via physical union analogies, especially "predominance" and perichoresis), and "the Anathematized" heresies (Gnostic systems, Modalism, neo-Ebionism/neo-Docetism as logical outcomes). Foundational for understanding patristic thought as systematic philosophy. Cross-links to Stead and new groups/locations (Cappadocians, Nicaea). See also [[wolfson-the-philosophy-of-the-church-fathers|source summary]] in scholarship/.
 - [[mark-julian-edwards|Mark Julian Edwards]] — *Origen against Plato* (Ashgate 2002; reissued Routledge 2018; Ashgate Studies in Philosophy & Theology in Late Antiquity). Challenges over-Platonizing of Origen ("contamination" narrative from ancient heresiologists to moderns like John Paul II); Origen constructed *Christian* philosophy *to preserve* theology from pagan infiltration. Common vocabulary/parallels insufficient for dependence claims. New interpretations of Gnostics and Clement's Trinity. Core: Origen's hermeneutics, eschatology, cosmology, Trinitarian theology tied to his *radically anti-Platonic* understanding of human nature/anthropology. Complements Stead (overview) and Wolfson (systematic reconstruction) as corrective on Origen specifically. Cross-links in Origen figure, logos-christology, and scholarship pages. See [[edwards-origen-against-plato|source summary]] in scholarship/.
+- [[zachhuber-rise-of-christian-theology|Johannes Zachhuber, *The Rise of Christian Theology and the End of Ancient Metaphysics*]] (OUP, 2020) — first full analysis of **Patristic philosophy** from the Cappadocians to John of Damascus. Thesis: patristic thought *is* philosophy; doctrinal controversy was its incubator (Trinity → the "classical theory"; Christology → its radical transformation). The [[ousia-hypostasis-distinction|Cappadocian classical theory]] has an **abstract** (Basil) and a **concrete** (Gregory of Nyssa) version and is an *ontology of being-as-one* continuous with Hellenism — *contra* Lossky/Zizioulas's "turn to the person." The real "end of ancient metaphysics" came from Christology forcing the conceptualization of the individual *as individual* (anticipations of nominalism, essence/existence). **Scope 1 of 6 (Intro + Ch. 2) ingested 2026-06-28**; scopes 3–10 pending. See [[zachhuber-rise-of-christian-theology|source summary]] in scholarship/ for the full scope plan.
 
 ### Scholarship (Early Christianity in the Roman World)
 
@@ -1460,7 +1486,8 @@ Master index of all pages. Updated on every ingest.
 - [[axial-age|The Axial Age (Achsenzeit)]] — Jaspers/Hick; the c. 800–200 BCE turn from cosmic/archaic to soteriological religion; pre-axial vs. post-axial
 - [[religious-realism|Religious Realism vs. Non-Realism]] — does religious language refer? critical realism (Hick) vs. non-realism (Feuerbach, Braithwaite, Phillips, Cupitt)
 - [[mythos-and-logos|Mythos and Logos]] — Armstrong's two modes of knowing; myth as non-literal symbolic truth; fundamentalism as the mythos-as-logos error
-- [[apophatic-theology|Apophatic Theology]] — the *via negativa*; Armstrong's personal God (idol-prone) vs. the God of the mystics; the "God of the philosophers"; Ein Sof, nirguna Brahman, batin
+- [[apophatic-theology|Apophatic Theology]] — the *via negativa*; Armstrong's personal God (idol-prone) vs. the God of the mystics; the "God of the philosophers"; Ein Sof, nirguna Brahman, batin; extended with Perl's philosophical account (apophasis as logical necessity from the being/intelligibility identity; refutation of Rorem's "human limitation" framing and Derrida's misreading; 2026-06-28)
+- [[theophany|Theophany (Divine Self-Manifestation)]] — Perl's central concept: all being as God's self-manifestation; the transcendence/immanence synthesis in Pseudo-Dionysius and the Neoplatonic tradition; theophany as structure of hierarchy, cognition, and symbolism (new 2026-06-28)
 - [[perennialism|Perennialism]] — the *philosophia perennis*; the "many paths up one mountain"; Huxley, the Traditionalists, Huston Smith; Prothero's chief target ("pretend pluralism," "Godthink")
 - [[four-part-model-of-religion|The Four-Part Model of Religion]] — Prothero's problem → solution → technique → exemplar scheme; an anti-reductive comparative device
 
@@ -1738,6 +1765,10 @@ a `sects/` page, cross-linked.)*
 ### Samaritanism
 - [[samaritanism|Samaritanism]] — top-level **parallel tradition** (not a sect of Judaism); canon is the **Samaritan Pentateuch alone**; [[mount-gerizim|Gerizim]]-centered worship; cross-linked to [[samaritans|Samaritans]] (group) and [[gerizim-vs-jerusalem]] (new tradition 2026-06-09)
 
+### Christian Sacramental Theology (2026-06-28; [[first-apology-justin|First Apology of Justin Martyr]])
+- [[eucharist|Eucharist]] — Justin's earliest detailed description (Chs LXV–LXVII): kiss of peace, *proestos*, thanksgiving prayer, Amen, deacon distribution; "not common bread" but "flesh and blood of that Jesus"; institution narrative from the "memoirs called Gospels"; Mithraic imitation cited; new (2026-06-28)
+- [[baptism|Baptism]] — enriched with Justin's description (Ch. LXI): preparation by fasting+prayer; triadic formula; *phōtismos* / illumination; born by "choice" not "necessity"; prerequisite for Eucharist (updated 2026-06-28)
+
 ### Christian Hermeneutics & Rhetoric (2026-06-27; [[on-christian-doctrine|On Christian Doctrine]])
 - [[use-and-enjoyment|Use and Enjoyment (uti/frui)]] — Augustine's division of things into those to be enjoyed (God alone) and those to be used in reference to him; the traveler analogy; sign-theory grounded in the Word-made-flesh
 - [[charity-and-cupidity|Charity and Cupidity (caritas/cupiditas)]] — love of God/neighbor as both the end of Scripture and the criterion of valid interpretation; the *ordo amoris*; the faith-hope-love triad
@@ -1761,6 +1792,9 @@ a `sects/` page, cross-linked.)*
 
 ## Controversies
 
+### Christian Christology / Patristic Philosophy (2026-06-28; [[zachhuber-rise-of-christian-theology|Zachhuber]])
+- [[chalcedonian-definition|The Chalcedonian Definition as a Crisis of the Classical Theory]] — Chalcedon's "two natures in one hypostasis" was philosophically unsupported by the Cappadocian [[ousia-hypostasis-distinction|classical theory]] (which lacked an account of individuation); the three resulting positions (Chalcedonian dyophysitism / Cyrilline-miaphysite *mia physis* / Antiochene-"Nestorian" two-hypostases) and the permanent ecclesial split; the engine of later patristic philosophy (new 2026-06-28)
+
 ### Jewish Theology (2026-06-27; [[god-in-search-of-man|Heschel]])
 - [[nature-of-evil|The Nature of Evil: Privation vs. Real-but-Derivative Power]] — evil as privation of good ([[maimonides|Maimonides]], Aquinas) vs. a real, active power sustained by a "holy spark" ([[abraham-joshua-heschel|Heschel]], the Zohar); rationalist vs. mystical streams within Judaism
 
@@ -1775,6 +1809,10 @@ a `sects/` page, cross-linked.)*
 - [[holy-spirit|Holy Spirit (Pneumatology)]] — the Spirit as subjective side of revelation; three NT functions (participation, instruction, authorization); eschatological reserve; the Eternal Spirit as eternal act of communion between Father and Son (Augustine: *commune aliquid*); Creator Spirit; from *CD* I.1 §12 (new 2026-06-27)
 - [[filioque|Filioque]] — the Western creedal addition "and [from] the Son" to the Spirit's procession; Barth's alignment with the Western tradition on the rule that immanent Trinity cannot differ in content from economic Trinity; arguments against the Eastern *ek monou tou Patros*; from *CD* I.1 §12 (new 2026-06-27)
 - [[redemption|Redemption]] — the Spirit's economic act: setting man free as child of God; formally "freedom," materially "divine sonship"; eschatological character of all Spirit-statements; distinct from reconciliation (present, Son's work); from *CD* I.1 §12 (new 2026-06-27)
+
+### Patristic Philosophy / Metaphysics (2026-06-28; [[zachhuber-rise-of-christian-theology|Zachhuber]])
+- [[ousia-hypostasis-distinction|Ousia and Hypostasis (the Cappadocian "classical theory")]] — "one *ousia* in three *hypostases*"; the **abstract account** (Basil — shared univocal predicates + particularizing *idiōmata*) and **concrete account** (Gregory of Nyssa — a real universal nature realized in individuals); the *Epistle 38* synthesis toward a being/existence distinction; built-in tensions (is a hypostasis the concrete individual or its properties?); Zachhuber's reading as an *ontology of being-as-one* (vs. Lossky/Zizioulas's "turn to the person"); the foundation later transformed by Christology; its 5th-c. spread into a *koine* via Cyril and Theodoret (new 2026-06-28)
+- [[double-homoousion|The Double Homoousion]] — "consubstantial with the Father in divinity, with us in humanity"; Formula of Reunion (433), Chalcedon (451); within the classical theory it implied (via *two natures → two hypostases*) a duality of hypostases in Christ; the abstract-reduction escape; Apollinarius, Nestorius (derivative key), Cyril (new 2026-06-28)
 
 ### Christian Eschatology (2026-06-27; [[city-of-god|City of God]])
 - [[universal-salvation-controversy|Universal Salvation (Apokatastasis) vs. Eternal Punishment]] — whether the punishment of the damned and the devil is endless (Augustine) or all are finally restored (Origen); the softening *misericordes*; Matt. 25:46 vs. 1 Cor. 15:28; a live, tradition-specific dispute
@@ -2002,3 +2040,29 @@ a `sects/` page, cross-linked.)*
 - [[tehran]] — Iranian capital; birthplace of Bahá'u'lláh and 'Abdu'l-Bahá; site of Síyáh-Chál; centre of early Bahá'í community
 - [[yazd]] — Iranian city; major site of Bahá'í martyrdoms (1891, 1903); large Zoroastrian converts to Bahá'í
 - [[zanjan]] — Iranian city; largest Babi community (3,000+); major Babi uprising 1850–51; Hujjat's stronghold
+
+## Clement of Alexandria — Added 2026-06-28 (Delphi Complete Works of Clement of Alexandria)
+
+### Texts
+- [[protrepticus|Protrepticus (Exhortation to the Greeks)]] — first of Clement's trilogy; apologetic protreptic; anthropology of Greek religion (the seven origins of the gods); mystery-cult polemic; the Logos as "New Song"; "man may become God"; Greek
+- [[paedagogus|Paedagogus (The Instructor)]] — second of the trilogy; the Logos as *paidagogos* forming the moral life; detailed code of daily conduct (food, dress, wealth, sexual ethics); the "Hymn to Christ the Saviour"; Greek
+- [[stromata|Stromata (Miscellanies)]] — eight-book "patchwork"; faith→gnosis→love; philosophy as schoolmaster/handmaid/covenant; the theft of the Greeks; the true Christian Gnostic; apatheia; apophatic theology; primary source for lost Gnostic works; Greek
+- [[quis-dives-salvetur|Quis Dives Salvetur]] — homily on Mark 10:17–31; salvation by disposition not dispossession; wealth as neutral instrument; the legend of John and the robber; Greek
+- [[clement-fragments|Fragments of Clement]] — Adumbrationes, Hypotyposes fragments (Gospel-order tradition; Barnabas & Apocalypse of Peter as scripture-tier), *Exhortation to Endurance*; canon testimony; Greek
+
+### Commentators
+- [[clement-of-alexandria|Clement of Alexandria (commentator)]] (c.150–215 CE) — hermeneutical method (allegory, esoteric reserve, faith→gnosis→love, eclectic use of Greek learning) and characteristic positions, drawn directly from his own works; complements the figure page
+
+### Figures
+- [[basilides|Basilides]] (fl. c.120–140 CE) — Alexandrian Gnostic heresiarch; reported in Clement's *Stromata* (faith as natural endowment; martyrdom theodicy; Isidore's ethics)
+
+### Groups
+- [[carpocratians|Carpocratians]] — 2nd-c. antinomian Gnostic sect (Carpocrates & Epiphanes); "community of wives"; Epiphanes' *Concerning Righteousness*; foil for Clement's ethics
+
+### Concepts
+- [[apatheia|Apatheia (Passionlessness)]] — Stoic ideal transformed by Clement into eradication (not moderation) of the passions; assimilation to the impassible God; precondition of pure prayer
+- [[use-of-wealth|Use of Wealth]] — Christian wealth ethics; Clement's "disposition not dispossession" vs. the literal-renunciation tradition
+- [[second-repentance|Second Repentance]] — post-baptismal penance; Clement & Hermas affirm a further forgiveness against rigorist denial
+
+### Controversies
+- [[rich-man-renunciation|Must the Rich Man Sell All?]] — literal vs. spiritual reading of Mark 10:21; Clement's *Quis Dives Salvetur*, monastic literalism, counsel-vs-precept

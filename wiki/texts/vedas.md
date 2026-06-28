@@ -73,6 +73,13 @@ acceptance of their authority is the very definition of an *āstika* (orthodox) 
 by the *nāstika* systems — [[buddhism|Buddhism]], Jainism, and Cārvāka materialism — whose denial of Vedic
 authority marks them as heterodox.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[varnas]]
+
 ## Sources Ingested
 
 1. [[dasgupta-history-of-indian-philosophy|Surendranath Dasgupta, *A History of Indian Philosophy*]],

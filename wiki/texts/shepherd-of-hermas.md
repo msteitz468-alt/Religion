@@ -112,6 +112,13 @@ The *Shepherd* was one of the **most popular and most nearly-canonical** non-NT 
 
 The Muratorian verdict — it *may be read* but not "among the prophets or the apostles" — proved decisive: the *Shepherd* was **excluded** from the settled canon of [[catholicism|Catholicism]], [[eastern-orthodoxy|Eastern Orthodoxy]], and [[protestantism|Protestantism]], surviving as an edifying but non-canonical text.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[nt-canon-formation]]
+
 ## Manuscript Tradition
 
 The text of the *Shepherd* is poorly preserved — complex manuscript situation with no single complete witness:

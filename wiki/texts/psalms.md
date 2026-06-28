@@ -202,6 +202,13 @@ The Psalter is the most-cited OT book in the NT. Key connections:
 - **[[wisdom-literature|Wisdom Literature]]**: Pss. 1, 37, 49, 73, 119 represent the wisdom tradition within the Psalter.
 - **[[ezra-nehemiah|Ezra-Nehemiah]]**: Book Five of the Psalter narrates the same restoration that Ezra-Nehemiah records in prose.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[servant-songs]]
+
 ## Sources Ingested
 
 1. [[declaisse-walford-jacobson-tanner|deClaissé-Walford, Nancy; Jacobson, Rolf A.; Tanner, Beth LaNeel]]. *The Book of Psalms*. NICOT. Grand Rapids: Eerdmans, 2014.

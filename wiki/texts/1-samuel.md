@@ -129,6 +129,13 @@ the writer's use of **paired and tripled episodes** to mirror Saul's tragic ambi
 approach is held alongside Tsumura's evangelical-canonical reading and the source- and
 redaction-critical tradition per the Contradiction Protocol.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[davidic-covenant]] · [[deuteronomistic-history]] · [[literary-reading-of-the-bible]] · [[resurrection-of-the-dead]] · [[sheol]] · [[succession-narrative]]
+
 ## Sources Ingested
 
 1. [[david-tsumura|Tsumura, David Toshio]]. *The First Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2006.

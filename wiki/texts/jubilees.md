@@ -50,6 +50,13 @@ Jubilees is attested at Qumran in 15+ copies across five caves (4Q216–28 incl.
 
 VanderKam (2010) specifically emphasizes the Damascus Document's citation: it refers to Jubilees as **"the Book of the Divisions of the Times into their Jubilees and Weeks"** — the closest thing to a formal scriptural citation of the book in any Qumran text. This citation, along with the extraordinary number of copies (15+), leads VanderKam to argue that Jubilees had **quasi-canonical status** alongside Torah and Prophets at Qumran — not merely "authoritative" but approaching scriptural standing. VanderKam uses this as part of his argument that the Qumran community had **no closed canon** and that Jubilees and 1 Enoch were part of their expansive scripture. See [[dead-sea-scrolls-vanderkam]].
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[apocalyptic-literature]] · [[pseudepigrapha]]
+
 ## Sources Ingested
 
 1. *The Book of Jubilees*, trans. R. H. **Charles** (public domain) — acquired in

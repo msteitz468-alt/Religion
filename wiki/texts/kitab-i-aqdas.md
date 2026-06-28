@@ -59,3 +59,9 @@ Canonical for the Bahá'í Faith. The Aqdas is regarded as the supreme legal tex
 - [[universal-house-of-justice|Universal House of Justice]]
 - [[mashriqu-l-adhkar|Mashriqu'l-Adhkár]]
 - [[huququ-llah|Huqúqu'lláh]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[bahai-fasting]] · [[bahai-holy-days]] · [[bahai-prayer]] · [[bahai-revelation]] · [[huququ-llah]] · [[nineteen-day-feast]] · [[qiblah-bahai]] · [[universal-house-of-justice]]

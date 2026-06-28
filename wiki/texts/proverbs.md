@@ -147,6 +147,13 @@ A **final editor** (probably Persian period) appended Collections V–VII and co
 - **[[1-2-chronicles|Chronicles]]**: Leithart's "sapiential imperialism" (Solomon rules by wisdom not force) = the royal wisdom theology Proverbs theorizes; the Chronicler's musical organization + Psalms + Proverbs together constitute Israel's wisdom heritage
 - **[[wisdom-literature|Wisdom Literature]]**: Proverbs is the foundational, "confident" Wisdom text; Job and Ecclesiastes qualify and test its claims from the edges
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[hebel]] · [[woman-wisdom]]
+
 ## Sources Ingested
 
 1. [[bruce-waltke|Waltke, Bruce K.]]. *The Book of Proverbs: Chapters 1–15*. NICOT. Grand Rapids: Eerdmans, 2004.

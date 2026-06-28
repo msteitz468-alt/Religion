@@ -121,6 +121,13 @@ The alternation of judgment and renewal runs throughout both panels, setting a p
 - **[[divine-glory-kabod|Divine Glory]]**: The pathos of Hosea 11 (YHWH arguing with himself) complements Ezekiel's *kābôd* theology and Isaiah's Holy One
 - **[[book-of-the-twelve|Book of the Twelve]]**: Hosea is the first book; its themes of covenant infidelity and restoration introduction anticipate and anchor the whole collection
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[book-of-the-twelve]] · [[jubilee]] · [[resurrection-of-the-dead]]
+
 ## Sources Ingested
 
 1. [[j-andrew-dearman|Dearman, J. Andrew]]. *Hosea*. NICOT. Grand Rapids: Eerdmans, ca. 2010.

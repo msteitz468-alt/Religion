@@ -146,6 +146,13 @@ Every powerful human figure in Daniel (Nebuchadnezzar, Belshazzar, Darius) ultim
 - **[[servant-songs|Servant Songs]]**: The "one like a son of man" in Daniel 7 and the Suffering Servant in Isaiah 52-53 are the two most important OT passages for NT Christology; together they provide the complete picture (suffering + vindication; humanity + divinity)
 - **[[apocalyptic-literature|Apocalyptic Literature]]** — concept page for the genre
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[antichrist]] · [[apocalyptic-literature]] · [[mysterion]] · [[principalities-powers]] · [[resurrection-of-the-dead]]
+
 ## Sources Ingested
 
 1. [[tremper-longman|Longman, Tremper, III]]. *Daniel*. NIV Application Commentary. Grand Rapids: Zondervan, 1999.

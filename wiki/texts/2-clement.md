@@ -69,6 +69,13 @@ This reflects the author's use of oral or written gospel traditions not preserve
 
 **First use of NT as "Scripture"**: The citation of Matt. 9:13 as "scripture" (2.4) is the earliest known instance of this practice in surviving Christian literature — a data point directly relevant to the canon formation timeline.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[nt-canon-formation]]
+
 ## Manuscript Tradition
 
 | Witness | Date | Contents |

@@ -58,6 +58,13 @@ source teaching) and to historians and critics (as evidence of how rapidly Hubba
 Dianetics, and of the doctrine *before* the 1952 shift to Scientology and the thetan). It rounds out the
 wiki's primary-source coverage of the foundational Hubbard corpus.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[arc-triangle]] · [[tone-scale]]
+
 ## Sources Ingested
 
 1. Hubbard, L. Ron. *Notes on the Lectures of L. Ron Hubbard* (California Series, fall 1950). Compiled 1950

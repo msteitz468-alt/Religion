@@ -53,3 +53,9 @@ local temple legends.
 - [[investiture-of-the-gods|Investiture of the Gods]] (a key underlying source)
 - [[pangu|P'an Ku]], [[jade-emperor|Jade Emperor]], [[guanyin|Guanyin]], [[the-eight-immortals|the Eight
   Immortals]], [[sun-wukong|Sun Wukong]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[tian-shangdi]]

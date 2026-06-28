@@ -131,3 +131,9 @@ Two OT books form the primary template:
 - [[servant-songs|Servant Songs (Isaiah 52–53)]] — Paul's eschatological herald identity draws on Deutero-Isaiah
 - [[isaiah|Isaiah]] — primary OT background for 1 Corinthians 1–4
 - [[deuteronomy|Deuteronomy]] — primary OT analogue for the letter's structure and ethics
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[dyadic-devotion]] · [[eschatological-temple]] · [[mysterion]] · [[new-creation]] · [[principalities-powers]] · [[theology-of-the-cross]]

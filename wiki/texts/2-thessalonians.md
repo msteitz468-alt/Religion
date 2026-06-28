@@ -142,3 +142,9 @@ A specific subgroup within the congregation is persistently refusing to work, ap
 - [[apocalyptic-literature|Apocalyptic Literature]] — genre context for 2 Thess 2
 - [[eschatological-temple|Eschatological Temple]] — temple reference in 2:4
 - [[parousia-1-thess-4|Parousia and the Fate of the Deceased (1 Thess 4:13–18)]] — the companion eschatological passage
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[antichrist]]

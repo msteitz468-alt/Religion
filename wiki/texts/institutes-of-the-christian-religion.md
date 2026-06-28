@@ -135,3 +135,9 @@ B–C pending).
 - [[john-calvin|John Calvin]] — author
 - [[presbyterianism|Calvinism / Reformed tradition]]
 - [[gordon-calvins-institutes-a-biography|Gordon, *Calvin's Institutes: A Biography*]] (source)
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[predestination]]

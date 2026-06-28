@@ -39,6 +39,21 @@ extent of real influence vs. shared environment; the wiki records the parallels 
 (per the Contradiction Protocol; cf. [[mithraism|Mithraism]] and the
 [[zoroastrian-influence-on-abrahamic-eschatology|Zoroastrian-influence]] question).
 
+## Clement of Alexandria as Witness and Polemicist
+
+One of the fullest early-Christian descriptions of the mysteries — and a paradigm of Christian
+ambivalence toward them — is [[clement-of-alexandria|Clement of Alexandria]]'s [[protrepticus|
+Protrepticus]]. Claiming insider knowledge, Clement "publishes" the secret tokens and synthemata of
+the Eleusinian and Cybele/Attis mysteries and recounts the Orphic Dionysus-Zagreus myth and the Baubo
+episode, denouncing the mysteries as "murders and funerals." Yet — in a move with deep consequences —
+he simultaneously **co-opts the entire vocabulary** of initiation for Christianity: Christ is the
+hierophant, baptism the true initiation, the gospel the genuine "mystery" ("O truly sacred mysteries!
+O stainless light!... The Lord is the hierophant"). The later Christian language of *mysterion* /
+sacrament owes much to this appropriation. (His source-critical reliability is partial: a Delphi
+editorial note observes that "so far as Eleusis is concerned, Clement makes no charge of immoral
+practices," the Baubo material coming from Orphic poems.)
+
 ## Cross-Links
 
 - [[greek-religion|Greek religion]], [[roman-religion|Roman religion]]; the individual mystery sects above
+- [[clement-of-alexandria|Clement of Alexandria]] · [[protrepticus|Protrepticus]] · [[mysterion|Mysterion]]

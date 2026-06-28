@@ -69,6 +69,13 @@ This passage is a primary witness to Peter and Paul's presence in Rome and their
 
 The letter was *read publicly in churches* during the 2nd century — treated as authoritative instruction even if not technically canonical.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[monepiscopate]] · [[nt-canon-formation]]
+
 ## Manuscript Tradition
 
 | Witness | Date | Contents |

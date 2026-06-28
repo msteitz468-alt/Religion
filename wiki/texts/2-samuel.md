@@ -155,6 +155,13 @@ light [[deuteronomistic-history|Deuteronomistic]] overlay on an otherwise Machia
 testament. Recorded alongside Tsumura's canonical reading and the source-critical tradition
 per the Contradiction Protocol.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[davidic-covenant]] · [[deuteronomistic-history]] · [[literary-reading-of-the-bible]] · [[succession-narrative]]
+
 ## Sources Ingested
 
 1. [[david-tsumura|Tsumura, David Toshio]]. *The Second Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2019.

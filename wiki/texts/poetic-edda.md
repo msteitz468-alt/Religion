@@ -41,6 +41,13 @@ The Poetic Edda is the **foundation document** of [[norse-religion|Norse religio
 sources it was **written down in Christian Iceland**, raising the standard caution about Christian coloring of
 a pagan inheritance.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[ragnarok]]
+
 ## Sources Ingested
 
 1. *The Poetic Edda*, trans. Henry Adams **Bellows** (1923, public domain) — `raw/texts/norse-religion/`.

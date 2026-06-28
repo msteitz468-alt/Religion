@@ -2,9 +2,9 @@
 title: The Trinity
 domain: theology
 traditions_using: [Christianity]
-sources_ingested: 2
-last_updated: 2026-06-27
-tags: [concept, christianity, trinitarian-theology, aquinas, barth]
+sources_ingested: 3
+last_updated: 2026-06-28
+tags: [concept, christianity, trinitarian-theology, aquinas, barth, cappadocians, ousia, hypostasis]
 ---
 
 # The Trinity
@@ -101,9 +101,15 @@ In §9 Barth carries the constructive doctrinal argument through four sub-sectio
 
 **Meaning of the Doctrine**: The Trinity answers the question of the *subject* of revelation — "who" reveals Himself. It guards against Subordinationism (which denies the revealer is fully God) and Modalism (which denies God really is what He reveals Himself to be): "As Father, Son and Spirit God is, so to speak, ours in advance" (ll. 4248–49).
 
+## The Greek Patristic Apparatus: "One Ousia in Three Hypostases"
+
+The Latin formula Aquinas inherited ("one *substantia*/*essentia* in three *personae*") and Barth's modern reworking both rest on a Greek conceptual settlement fixed in the 4th century by the [[cappadocian-fathers|Cappadocian Fathers]]: **one *ousia* in three *hypostases***. Johannes Zachhuber's [[zachhuber-rise-of-christian-theology|*The Rise of Christian Theology*]] (2020) reconstructs this as a genuine philosophy — the **classical theory** — with two complementary versions: [[basil-of-caesarea|Basil]]'s **abstract account** (the common divinity as univocally shared predicates; each person marked by a particularizing property / *idiōma*) and [[gregory-of-nyssa|Gregory of Nyssa]]'s **concrete account** (a real universal nature subsisting only in its individual hypostases). The settlement answered two threats at once: [[eunomius|Eunomius]]'s anomoianism (which made the Son "unlike in substance") and Sabellian modalism (which collapsed the persons). For the full treatment — including the "why not three Gods?" problem, the abstract/concrete tension, and Zachhuber's argument that this is an *ontology of being-as-one* rather than a "turn to the person" — see [[ousia-hypostasis-distinction|Ousia / Hypostasis (the classical theory)]]. Note the translation hazard the Latin tradition negotiated: Greek *hypostasis* (lit. "substance") maps to Latin *persona*, not to *substantia*.
+
 ## Related
 
 - [[thomas-aquinas]] · [[summa-theologica]] · [[filioque]] · [[arianism]] · [[logos-christology]]
+- [[ousia-hypostasis-distinction]] — the Greek patristic conceptual basis
+- [[cappadocian-fathers]] · [[basil-of-caesarea]] · [[gregory-of-nyssa]] · [[gregory-of-nazianzus]]
 - [[divine-simplicity]] — the unity of essence the persons share
 - [[augustine]] — *De Trinitate*, Aquinas's chief patristic source (to be ingested)
 - [[modes-of-being]] — Barth's substitute for "persons"
@@ -116,3 +122,4 @@ In §9 Barth carries the constructive doctrinal argument through four sub-sectio
 - [[summa-theologica]] I, Q27–43 (read in full as part of Prima Pars Scope 2)
 - [[barth-church-dogmatics-i1-s8-12]] §8, lines 70–2532 (read in full)
 - [[barth-church-dogmatics-i1-s8-12]] §9, lines 2533–4264 (read in full)
+- [[zachhuber-rise-of-christian-theology|Zachhuber, *The Rise of Christian Theology*]] — Intro + Ch. 2 (the Cappadocian classical theory), read in full (Scope 1)

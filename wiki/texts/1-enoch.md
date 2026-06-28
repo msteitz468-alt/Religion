@@ -60,6 +60,13 @@ Aramaic fragments of 1 Enoch were found in multiple Qumran caves (4Q201–212: t
 
 VanderKam (2010) raises an important hypothesis about the structural gap: **the Book of Giants** (found in 9-10 Qumran copies; 4Q530-3) may have **occupied the slot of the missing Similitudes** in the Qumran version of 1 Enoch. If so, the Qumran "Enoch collection" replaced the Similitudes (with their developed Son of Man Christology) with the Book of Giants (expanding on the Watchers and their offspring). The Similitudes may be a later composition that entered the Ethiopic Enoch tradition after the Qumran period. See [[dead-sea-scrolls-vanderkam]].
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[apocalyptic-literature]] · [[merkabah]] · [[pseudepigrapha]]
+
 ## Sources Ingested
 
 1. *The Book of Enoch*, trans. R. H. **Charles** (1917, public domain) — acquired in

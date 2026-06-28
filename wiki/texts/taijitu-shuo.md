@@ -137,3 +137,9 @@ after Zhu Xi's system was institutionalized (Yuan dynasty, 1313).
 - [[zhu-xi|Zhu Xi]] — commentator and interpreter
 - [[taiji|taiji (Supreme Polarity)]] — the central concept
 - [[daotong|daotong]] — the lineage in which this text anchors Zhou Dunyi's role
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[daotong]] · [[taiji]]

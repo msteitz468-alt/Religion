@@ -5,12 +5,18 @@ tradition: Christianity (proto-orthodox / Alexandrian)
 textual_sources: [New Testament, Greek philosophy, OT LXX, apocryphal literature]
 dates: c.150–215 CE
 roles: [theologian, teacher, apologist, philosopher, catechist]
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [figure, christianity, patristics, second-century, alexandria, philosophy, allegorical]
 ---
 
 # Clement of Alexandria
+
+> For Clement's hermeneutical method, characteristic positions, and influence as an
+> exegete/theologian — now drawn directly from his own works — see the dedicated
+> [[clement-of-alexandria|Clement of Alexandria (commentator)]] page. His works have text pages:
+> [[protrepticus|Protrepticus]], [[paedagogus|Paedagogus]], [[stromata|Stromata]],
+> [[quis-dives-salvetur|Quis Dives Salvetur]], [[clement-fragments|Fragments]].
 
 ## Biographical Overview
 
@@ -33,11 +39,11 @@ His most substantial and complex work — 8 books of theological and philosophic
 Homiletical work on the story of the Rich Young Ruler (Mark 10:17-31). Argues against a strictly literal reading — the wealthy Christian need not literally give everything away, but must possess wealth without being possessed by it. An early Christian engagement with wealth ethics.
 
 ### *Excerpta ex Theodoto*
-A collection of quotations from the Valentinian gnostic teacher Theodotus, with Clement's comments — the main primary source for Valentinian theology alongside Irenaeus and the Nag Hammadi texts.
+A collection of quotations from the Valentinian gnostic teacher Theodotus, with Clement's comments — the main primary source for Valentinian theology alongside Irenaeus and the Nag Hammadi texts. (Not included in the Delphi *Complete Works* edition ingested here; Clement's extant Valentinian material in that edition is what the [[stromata|Stromata]] preserves of [[valentinus|Valentinus]], Heracleon, [[basilides|Basilides]], and Isidore.)
 
 ## Hermeneutical Method
 
-Clement is an allegorist in the tradition of [[philo-of-alexandria|Philo of Alexandria]] (though the Philo page does not yet exist) and the first major Christian to use allegory systematically as an exegetical tool. He distinguishes:
+Clement is an allegorist in the tradition of [[philo-of-alexandria|Philo of Alexandria]] and the first major Christian to use allegory systematically as an exegetical tool. He distinguishes:
 - The outward, literal sense of Scripture (*somatic* or *pneumatic* reading accessible to beginners)
 - The inner spiritual meaning (*pneumatic* or *gnostic* reading) accessible to the mature Christian *gnostikos*
 

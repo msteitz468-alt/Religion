@@ -97,3 +97,9 @@ condemned heresy — are preserved side by side and **not adjudicated** (Contrad
 - [[quran|Qur'an]] — the scripture whose inner sense it claims to unveil
 - Comparative: the [[kabbalah|Kabbalist]] *sod* and the Zohar — flagged for a comparison page on
   esoteric reading across traditions
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[al-insan-al-kamil]] · [[allegorical-reading]] · [[tanzih-tashbih]] · [[wahdat-al-wujud]]

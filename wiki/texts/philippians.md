@@ -77,3 +77,9 @@ See also [[christ-hymn|Christ Hymn (Philippians 2:6-11)]] and controversies arou
 - [[christ-hymn|Christ Hymn (Philippians 2:6-11)]]
 - [[euodia-and-syntyche|Euodia and Syntyche]] (unity exhortation)
 - [[citizenship|Citizenship in Heaven]] (3:20)
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[dyadic-devotion]]

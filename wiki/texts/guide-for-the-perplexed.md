@@ -116,6 +116,13 @@ Scope plan (one deployed subagent per range), partitioned by chapter boundaries:
 **Status: the whole Guide (Introduction + Parts I–III) read in full** via eight deployed
 subagents (chapter-aligned ranges), reconciled on the main thread. Scope complete.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[account-of-creation]] · [[allegorical-reading]] · [[anthropomorphism]] · [[creation-ex-nihilo]] · [[divine-attributes]] · [[divine-names]] · [[divine-providence]] · [[emanation]] · [[eternity-of-the-world]] · [[existence-of-god]] · [[image-of-god-tzelem]] · [[intellectual-perfection]] · [[kalam]] · [[maaseh-merkabah]] · [[matter-and-form]] · [[negative-theology]] · [[prophecy]] · [[reasons-for-the-commandments]] · [[separate-intellects]] · [[theodicy]]
+
 ## Sources Ingested
 
 - Maimonides, *The Guide for the Perplexed*, trans. M. Friedländer (2nd ed., 1904; Dover repr.).

@@ -140,6 +140,13 @@ it as a useful external witness but it carries no binding authority.
    Second Coming — interpreted literally in mainstream Sunni eschatology but read
    allegorically by some modernist scholars.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[five-pillars]] · [[ihsan]] · [[iman]] · [[nifaq]] · [[shafaa]]
+
 ## Source
 
 See [[sahih-muslim-source|Source page]] for the full scope plan and coverage ledger.

@@ -68,3 +68,9 @@ The Florilegium uses a **thematic pesher** (as distinct from the **continuous pe
 
 ## See Also
 [[community-rule]] · [[mmt]] · [[sanctuary-of-men]] · [[two-messiahs]] · [[pesher]] · [[essenes]] · [[dead-sea-scrolls-vermes]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[sanctuary-of-men]]

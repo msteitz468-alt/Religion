@@ -56,6 +56,13 @@ Largely in **Braj Bhasha**, which few Sikhs can now read. Portions are in daily 
   declaration vesting Guruship in "the Granth" does not specify whether the Adi Granth alone or both
   Granths were intended (agent 2 ~L1121–1125). See [[guru-granth-sahib|Guru Granth Sahib]].
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[nit-nem]]
+
 ## Coverage Ledger
 - **From [[mcleod-sikhism|McLeod, *Sikhism*]] Chs 4, 8 + Appendix** — read in full (2026-06-27): canon
   history, liturgical use, the disputed status. The text itself awaits a later deep ingest.

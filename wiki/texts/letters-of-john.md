@@ -129,3 +129,9 @@ Summary of secessionist teaching as reconstructed from the author's rebuttals:
 - Concept: [[new-covenant|New Covenant]] (Jer 31:31–34 and its NT development)
 - Concept: [[divine-glory-kabod|Divine Glory (*Kābôd*)]] (Johannine *koinōnia* theology resonates with tabernacle theology)
 - Text: [[acts|Acts of the Apostles]] (Johannine community overlaps with Ephesian church of Acts 19–20)
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[antichrist]] · [[paraclete-advocate]]

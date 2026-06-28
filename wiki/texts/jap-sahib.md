@@ -32,3 +32,9 @@ Nit-nem and during the consecration of [[amrit-sanskar|amrit initiation]] — an
 ## Cross-Links
 [[dasam-granth|Dasam Granth]] · [[japji|Japji]] · [[nit-nem|Nit-nem]] · [[guru-gobind-singh|Guru
 Gobind Singh]] · [[amrit-sanskar|Amrit Sanskar]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[nit-nem]]

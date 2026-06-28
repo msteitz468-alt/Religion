@@ -90,7 +90,26 @@ philosophers (Avicenna's errors, or "heretical Muslims'") or matters where the p
 inner sense and the religious literal sense are two registers of one truth. He charges Ghazālī
 himself with confusing the registers — and with self-contradiction across his works.
 
+## Christian parallel: Clement of Alexandria
+
+The Averroist harmony has a much earlier Christian counterpart in [[clement-of-alexandria|Clement of
+Alexandria]], who first made Greek philosophy a *positive* theological resource rather than a diabolical
+rival. Clement's signature thesis (in the [[stromata|Stromata]]): "before the advent of the Lord,
+philosophy was necessary to the Greeks for righteousness... For this was a **schoolmaster to bring 'the
+Hellenic mind,' as the law, the Hebrews, 'to Christ'**" — philosophy "a preparation, paving the way for
+him who is perfected in Christ." Philosophy is "the **handmaid** of theology" (the Hagar/Sarah
+allegory: secular culture the handmaid, wisdom the wife) and "a **covenant** peculiar to" the Greeks,
+given by "the same God that furnished both the Covenants." "Rightly, then, to the Jews belonged the
+Law, and to the Greeks Philosophy, until the Advent." Two differences from Averroes are instructive:
+(1) Clement frames the harmony **historically/providentially** (philosophy as *preparatio evangelica*,
+now superseded by Christ) rather than as a permanent masses/elect epistemology; and (2) he qualifies it
+with the **"theft of the Greeks"** — the best Greek dogmas are derivative, plagiarized from [[moses|
+Moses]] and the prophets. Yet Clement shares the esoteric/exoteric layering (the
+[[zahir-batin|reserve]] of [[gnosis|gnosis]] for "the few") and the conviction that true philosophy and
+true revelation cannot finally conflict. The same instinct recurs in [[origen|Origen]] and the later
+Christian appropriation of Aristotle. See also [[clement-of-alexandria|Clement (commentator)]].
+
 ## Related
 
 [[averroes]] · [[falsafa]] · [[takfir]] · [[zahir-batin]] · [[bodily-resurrection]] ·
-[[gods-knowledge-of-particulars]] · [[prophecy]] · [[al-ghazali]]
+[[gods-knowledge-of-particulars]] · [[prophecy]] · [[al-ghazali]] · [[clement-of-alexandria]]

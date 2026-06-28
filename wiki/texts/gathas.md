@@ -45,6 +45,13 @@ As the prophet's own words within the larger **[[avesta|Avesta]]**, the Gathas a
 for distinguishing Zoroaster's original message from later **Younger Avestan** and Pahlavi
 ([[bundahishn|Bundahishn]]) development.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[ahura-mazda]] · [[amesha-spentas]] · [[saoshyant]] · [[xwarenah]]
+
 ## Sources Ingested
 
 1. *The Gâthâs / Yasna* in *The Zend-Avesta, Part III*, trans. L. H. **Mills** (Sacred Books of the East

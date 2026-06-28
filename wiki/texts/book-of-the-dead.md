@@ -37,6 +37,13 @@ Texts (Middle Kingdom) — and marks the **democratization** of the afterlife: e
 privilege, became available to anyone who could commission a copy. The ethical self-examination of the
 Negative Confession is a notable early articulation of moral accountability after death.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[ka-ba-akh]] · [[maat]]
+
 ## Sources Ingested
 
 1. *The Egyptian Book of the Dead*, trans. E. A. Wallis **Budge** (public domain) — `raw/texts/egyptian-religion/`.

@@ -53,3 +53,9 @@ several of its episodes ("The Guardian of the Gate of Heaven," "A Battle of the 
   [[celestial-bureaucracy|the celestial bureaucracy]]
 - [[nezha|Nezha]], [[jade-emperor|Jade Emperor]]; [[myths-and-legends-of-china|Myths and Legends of China]]
 - cf. the apotheosis principle; [[sun-wukong|Sun Wukong]] and *Journey to the West*
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[celestial-bureaucracy]]

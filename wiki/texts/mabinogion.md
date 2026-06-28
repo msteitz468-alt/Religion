@@ -50,6 +50,13 @@ three **Arthurian romances** (Owain, Peredur, Geraint) that parallel Chrétien d
 - the **cauldron of rebirth** as an ancestor of the **Grail**;
 - **Brân's talismanic head** and the Otherworld feast as a Celtic afterlife motif.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[annwn]] · [[sacred-kingship]] · [[the-otherworld]]
+
 ## Manuscript tradition
 
 The tales survive complete in two great manuscripts — the **White Book of Rhydderch** (*Llyfr Gwyn

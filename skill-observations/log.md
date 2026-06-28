@@ -79,3 +79,17 @@ DECLINED = user decided not to pursue
 **Suggested improvement:** In the deployed-subagent ingest workflow prompt template, add an explicit constraint for shared pages: subagents may only (a) fill in skeleton placeholders that were explicitly named in the prompt by section header, or (b) append a new clearly-delimited section with a header specifying its scope (e.g., "## Key Arguments from §§9–10"). They must NOT edit, restructure, or rewrite any section not explicitly assigned. The scholarship page skeleton should be the primary vehicle for subagent output; the commentator page should receive only an append of a new section, never in-place edits.
 
 **Principle:** In multi-agent parallel ingest, file ownership must be made structurally enforced in the prompt, not just described as a preference. "Don't overwrite existing content" is not enough — agents need an explicit positive instruction about *where* to write (a named section header or an append operation), not just a negative instruction about what not to touch.
+
+### Observation 6: Critical-edition chapter-tables inflate subagent line-ranges and invite TOC-sampling
+
+**Date:** 2026-06-28
+**Session context:** Ingesting the Delphi Complete Works of Clement of Alexandria (multi-work corpus) via the Deployed Subagent Strategy; one subagent was assigned the opening range of the Stromata.
+**Skill:** Wiki ingest workflow (CLAUDE.md — Deployed Subagent Strategy, Step 2 line-range splitting)
+**Type:** internal
+**Phase/Area:** Step 2 (splitting scope by line-ranges) and the faithfulness mandate (read the range in full, no TOC-triage)
+
+**Issue:** The Delphi edition prefixes each work with a detailed master chapter-table (every chapter's summary heading for all 8 books) before the running text. The subagent assigned lines 11139–17000 found its line budget consumed partly by this TOC and ended up reading Bk I Chs. I–XVII + Bk II Chs. I–XII in full but only *sampling* Bk I Chs. XVIII–XXIX and Bk II Chs. XIII–XXIII via their chapter-table headings — i.e. the duplicated TOC made part of its assigned range look "covered" when the body text was not read line-by-line. The main thread had to flag this honestly in the coverage ledger rather than mark the whole range "read in full."
+
+**Suggested improvement:** When scaffolding (Step 1) a reference/critical/Delphi-style edition, the main thread should locate and exclude (or separately assign) the front chapter-table/TOC block before computing density-weighted line-ranges, since a TOC duplicates body content and inflates line counts. Subagent prompts for such works should explicitly say: "a detailed chapter-table precedes the body; do NOT treat reading its headings as reading the corresponding body chapters."
+
+**Principle:** Line-count is a poor proxy for reading-effort when a source duplicates its own content (TOC, indices, parallel translations, untranslated originals). Density-weighting in Step 2 should be computed on *body* text with such blocks identified up front, and the faithfulness mandate should name TOC-sampling as a specific failure mode distinct from general TOC-triage.

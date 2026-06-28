@@ -54,3 +54,9 @@ Three books:
   [[musubi|musubi]]
 - [[izanagi-and-izanami|Izanagi & Izanami]], [[amaterasu|Amaterasu]], [[susanoo|Susanoo]],
   [[okuninushi|Ōkuninushi]], [[ninigi|Ninigi]], [[jimmu|Jimmu]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[harae]] · [[kami]] · [[musubi]]

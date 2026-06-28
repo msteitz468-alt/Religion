@@ -204,6 +204,13 @@ Jerusalem is the city of destiny: both the place where the divine purpose is con
 - **[[new-covenant|New Covenant]]**: the Last Supper's cup "poured out for you" (22:20) invokes Jer 31:31–34; Luke's version is closest to Paul's (1 Cor 11:25)
 - **[[jubilee|The Jubilee / Year of the Lord's Favor]]**: the Nazareth sermon's central concept
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[jubilee]]
+
 ## Sources Ingested
 
 1. [[joel-green|Green, Joel B.]]. *The Gospel of Luke*. NICNT. Grand Rapids: Eerdmans, 1997.

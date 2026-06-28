@@ -149,3 +149,9 @@ perfection stages, deity yoga, and guru transmission.
   [[terma|Terma]] · [[trikaya|Trikāya]] · [[five-pristine-cognitions|Five pristine cognitions]] ·
   [[six-realms|Six realms]] · [[rigpa|Rigpa]] · [[natural-liberation|Natural liberation]]
 - Source: [[coleman-dorje-tibetan-book-of-the-dead|Coleman/Jinpa/Dorje translation]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[bardo]] · [[five-pristine-cognitions]] · [[inner-radiance]] · [[mahamudra]] · [[natural-liberation]] · [[nyingthig]] · [[peaceful-and-wrathful-deities]] · [[phowa]] · [[rigpa]] · [[six-realms]] · [[terma]] · [[trikaya]]

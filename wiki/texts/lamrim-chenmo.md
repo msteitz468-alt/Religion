@@ -220,6 +220,13 @@ means; whether using mentally-given goods is theft), departing from the wiki's u
 neutrality — and stages the **Hva-shang controversy** as settled doctrine (see
 [[exchange-of-self-and-other]] and [[bodhicitta]]).
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[bodhicitta]] · [[bodhisattva]] · [[dependent-origination]] · [[four-noble-truths]] · [[generosity-dana]] · [[joyous-perseverance-virya]] · [[karma]] · [[mindfulness-of-death]] · [[object-of-negation]] · [[patience-kshanti]] · [[precious-human-life]] · [[refuge]] · [[renunciation]] · [[samatha-vipassana]] · [[six-perfections]] · [[three-trainings]] · [[three-types-of-persons]]
+
 ## Coverage Ledger
 
 - **Scope: Volume Three** (the last two perfections: meditative serenity (*śamatha*) and insight

@@ -44,6 +44,13 @@ Mainstream psychology does not accept the Tone Scale as a validated predictive i
 secondary sources ([[reitman-inside-scientology|Reitman]], [[shelton-a-to-xenu|Shelton]]) treat it
 critically. Recorded without adjudication (Contradiction Protocol).
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[tone-scale]]
+
 ## Sources Ingested
 
 1. *Science of Survival*, L. Ron Hubbard (1951) — `raw/texts/Scientology/`.

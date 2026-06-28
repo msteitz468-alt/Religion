@@ -66,6 +66,13 @@ The Qumran Melchizedek is an angel; the Hebrews Melchizedek is a Christological 
 ## VanderKam on the NT Parallel
 VanderKam (2010) states that 11QMelchizedek's heavenly Melchizedek "**more nearly resembles Jesus in the Epistle to the Hebrews**" than the Melchizedek of Genesis 14 — emphasizing the eschatological judicial and priestly functions of both figures, and the way both transcend the normal Levitical priestly category. The parallel is functional: both the Qumran Melchizedek (an angel performing atonement-judgment) and the Hebrews Christ (a priest of the heavenly sanctuary making eternal atonement) operate as superior non-Levitical priestly figures. Neither is the other, but the theological tradition they share is visible. See [[dead-sea-scrolls-vanderkam]].
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[two-messiahs]]
+
 ## Sources Ingested
 - Vermes, Geza. *The Complete Dead Sea Scrolls in English* (Penguin Classics, 7th ed., 2012) — see [[dead-sea-scrolls-vermes]]
 - VanderKam, James C. *The Dead Sea Scrolls Today* (rev. ed., Eerdmans, 2010) — see [[dead-sea-scrolls-vanderkam]]

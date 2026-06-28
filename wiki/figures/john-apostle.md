@@ -111,7 +111,13 @@ also a study in transformation — from ambition to the apostle of love and the 
 - **Authorship of each Johannine book** — Gospel, Epistles, and Revelation each independently
   debated; see the linked text pages.
 - **Martyrdom vs. old age** — most tradition has John dying of old age at Ephesus (uniquely among the
-  apostles), though a minority tradition (from a reading of Mark 10:39) posited early martyrdom.
+  apostles), though a minority tradition (from a reading of Mark 10:39) posited early martyrdom. The
+  Ephesus tradition is dramatized in [[clement-of-alexandria|Clement of Alexandria]]'s legend of the
+  aged John and the young robber (in [[quis-dives-salvetur|Quis Dives Salvetur]]): John reclaims a
+  convert who has become a brigand chief, pursuing him — "from your own father, from this old, unarmed
+  man... Christ has sent me" — until the youth is "baptized a second time with his tears." Clement's
+  [[clement-fragments|Hypotyposes]] fragments also transmit the tradition that John, "last of all...
+  composed a spiritual Gospel," and the near-docetic story of John handling the risen Christ's body.
 
 ## Key Links
 

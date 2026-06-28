@@ -90,6 +90,13 @@ is not itself scripture. Notably, Augustine commends the seven hermeneutical rul
 explicitly rejecting Tichonius's ecclesiology: a striking case of received method across a
 sectarian boundary.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[charity-and-cupidity]] · [[christian-eloquence]] · [[figurative-interpretation]] · [[spoils-of-egypt]] · [[tichonius-seven-rules]] · [[use-and-enjoyment]]
+
 ## Coverage Ledger
 
 - **Scope:** the whole work, Books I–IV (single bounded commentary).

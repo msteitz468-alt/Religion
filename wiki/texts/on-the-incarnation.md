@@ -163,6 +163,13 @@ in modern ecumenical and devotional contexts (hence the popular Lewis-introduced
 - [[arianism]] · [[gnosticism]] · [[alexandria]]
 - [[jesus|Jesus Christ]] · Jews · Gentiles
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[atonement]] · [[incarnation]] · [[theosis-divine-nature]]
+
 ## Sources Ingested
 
 - `raw/texts/On the Incarnation_ The Treatise De Incarn - Saint Athanasius.txt` — §§1–57 plus the

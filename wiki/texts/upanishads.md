@@ -99,6 +99,13 @@ wiki should track:
   Latin by Anquetil Duperron (1801–02), which **Schopenhauer** read with rapture ("the solace of my life…
   of my death"); **Rām Mohan Roy** founded the Brāhma Samāj on Upaniṣadic doctrine.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[anatta]] · [[atman]] · [[brahman]] · [[dependent-origination]] · [[henotheism]] · [[karma]] · [[moksha]] · [[pancha-kosha]] · [[saddarshana]] · [[samsara]] · [[sunyata]] · [[yajna]]
+
 ## Sources Ingested
 
 1. *The Upanishads*, trans. F. Max **Müller** (Sacred Books of the East, vol. 1, public domain) —

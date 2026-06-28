@@ -195,3 +195,9 @@ functions as the closing *inclusio* of the letter's Diaspora/exile frame (Rome c
 - [[servant-songs|Servant Songs]] — Peter's Isaiah 53 Christology (2:21–25)
 - [[ephesians-household-code|The Ephesians Household Code]] — the parallel *Haustafel* debate
 - [[james|The Letter of James]] / [[hebrews|Hebrews]] — the other General Epistles in the wiki
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[christian-exile-diaspora]] · [[lamb-of-god]]

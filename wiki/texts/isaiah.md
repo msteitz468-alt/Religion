@@ -165,6 +165,13 @@ These passages fill out the [[divine-human-marriage|Divine-Human Marriage Metaph
 - **[[1-2-chronicles|Chronicles]]**: Cyrus as *māšîaḥ* in Isaiah → Cyrus as Davidic figure in Chronicles (Leithart)
 - **[[theodicy|Theodicy]]**: Isaiah's answer — God's sovereignty over pagan nations for both judgment and redemption; the Servant's suffering is redemptive, not punitive for his own sin
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[divine-glory-kabod]] · [[jubilee]] · [[new-covenant]] · [[new-creation]] · [[resurrection-of-the-dead]] · [[servant-songs]]
+
 ## Sources Ingested
 
 1. [[john-oswalt|Oswalt, John N.]]. *The Book of Isaiah: Chapters 1–39*. NICOT. Grand Rapids: Eerdmans, 1986.

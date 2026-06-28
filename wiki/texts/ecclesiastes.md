@@ -162,6 +162,13 @@ In this reading, Ecclesiastes functions as the NT's diagnostic foil: it describe
 - **[[hebel|*Hebel*]]**: The concept page for Ecclesiastes' governing term
 - **[[theodicy|Theodicy]]**: Qohelet's challenge to retributive theology is a sustained theodicy argument — the most sustained in the Wisdom literature after Job
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[hebel]]
+
 ## Sources Ingested
 
 1. [[tremper-longman|Longman, Tremper, III]]. *The Book of Ecclesiastes*. NICOT. Grand Rapids: Eerdmans, 1998.

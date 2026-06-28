@@ -260,6 +260,12 @@ Jerome's Vulgate, and relied on Latin (not Greek) authorities throughout.
 across [[christianity|Christianity]] — Catholic, Orthodox, and Protestant alike claim Augustine. Twenty
 printed editions appeared between 1467 and 1500.
 
+## Concepts
+
+Concept pages developed from this text:
+
+[[beatific-vision]] · [[divine-providence]] · [[eternal-punishment]] · [[evil-as-privation]] · [[fate-moirai]] · [[gloria-love-of-praise]] · [[last-judgment]] · [[millennialism]] · [[original-sin]] · [[peace]] · [[purgatory]] · [[relic-veneration]] · [[resurrection]] · [[sacrifice]] · [[supreme-good]] · [[three-theologies]] · [[two-cities]]
+
 ## Coverage Ledger
 
 - **Part 1, Books I–X** — **read in full** (scope: Books I–X, "Against the Pagans"; ingested 2026-06-27).

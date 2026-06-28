@@ -87,6 +87,13 @@ Acts is studied through several modern frameworks:
 - C. K. Barrett — *Acts* (ICC, 2 vols., 1994/1998): critical; most comprehensive modern commentary
 - Joseph Fitzmyer — *Acts* (AB, 1998): moderate-critical; takes Lukan authorship seriously
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[luke-acts-unity]]
+
 ## Sources Ingested
 
 1. [[darrell-bock|Bock, Darrell L.]]. *Acts*. BECNT. Grand Rapids: Baker Academic, 2007.

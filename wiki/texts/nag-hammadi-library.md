@@ -104,6 +104,13 @@ merely "apocryphal" but canonical within specific communities and explicitly exc
 No surviving church receives these texts as canonical today.
 
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[demiurge]] · [[gnosis]] · [[pleroma]] · [[sophia-gnostic]]
+
 ## Sources Ingested
 
 1. Rudolph, Kurt. *Gnosis: The Nature and History of Gnosticism*. HarperSanFrancisco, 1987. (Extensive treatment of the Nag Hammadi discovery as the decisive turning point in modern research; analysis of individual tractates in the context of phenomenological description and historical reconstruction; emphasis on how primary texts correct and supplement the heresiologists while confirming the basic structures of Gnostic myth and soteriology.)

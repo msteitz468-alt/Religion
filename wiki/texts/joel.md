@@ -118,6 +118,13 @@ The Nogalski commentary also covers Obadiah and Jonah. Brief notes:
 - **[[apocalyptic-literature|Apocalyptic Literature]]**: The Day of Yahweh in Joel anticipates the apocalyptic development in Daniel and Revelation
 - **[[divine-human-marriage|Divine-Human Marriage Metaphor]]**: Joel continues the tradition (Israel as YHWH's possession/people) without the explicit marriage imagery of Hosea/Ezekiel
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[book-of-the-twelve]]
+
 ## Sources Ingested
 
 1. [[james-nogalski|Nogalski, James D.]]. *The Books of Joel, Obadiah, and Jonah*. NICOT. Grand Rapids: Eerdmans, 2023.

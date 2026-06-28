@@ -185,3 +185,9 @@ The most significant background debate for Hebrews interpretation is whether its
 - [[genesis|Genesis]] — Gen 14:17–24 (Melchizedek); Gen 2:2 (the "rest"); patriarchal examples in ch. 11
 - [[jubilee|The Jubilee / Year of the Lord's Favor]] — 11QMelchizedek's eschatological Melchizedek; background for Hebrews' use
 - [[apocalyptic-literature|Apocalyptic Literature]] — heavenly world + two-age eschatology; the proper background frame for Hebrews
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[christian-exile-diaspora]]

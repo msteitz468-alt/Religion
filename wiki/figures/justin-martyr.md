@@ -2,11 +2,11 @@
 title: Justin Martyr
 also_known_as: [Justin the Philosopher, Justin of Flavia Neapolis]
 tradition: Christianity — proto-orthodox, 2nd century
-textual_sources: [New Testament — Gospels, Pauline letters; OT Septuagint]
+textual_sources: [first-apology-justin, second-apology-justin, New Testament — Gospels, Pauline letters; OT Septuagint]
 dates: c. AD 100–165
 roles: [apologist, philosopher, martyr, canon witness]
-sources_ingested: 2
-last_updated: 2026-06-06
+sources_ingested: 4
+last_updated: 2026-06-28
 tags: [figure, christianity, apologist, early-christianity, martyr, second-century, canon]
 ---
 
@@ -99,6 +99,10 @@ Justin is the most widely cited 2nd-century Christian source in early Christian 
 - **Irenaeus** — who shared Justin's multiple-Gospel canon and anti-Marcionite stance.
 - **Later dogmatic theology** — his Logos Christology influenced Origen, Clement of Alexandria, and through them the Nicene tradition.
 
+## Justin Martyr as Commentator
+
+See [[commentators/justin-martyr|Justin Martyr (Commentator)]] for a full account of his hermeneutical method, characteristic positions, and the works ingested.
+
 ## Key Links
 
 - [[larry-hurtado|Larry W. Hurtado]] — cites Justin extensively
@@ -110,3 +114,9 @@ Justin is the most widely cited 2nd-century Christian source in early Christian 
 - [[marcionites|Marcionites]] — Justin's earliest naming of Marcion
 - [[dyadic-devotion|Dyadic Devotion]] — Justin's worship descriptions provide early evidence
 - [[nomina-sacra|Nomina Sacra]] — contemporaneous with Justin's activity
+- [[first-apology-justin|First Apology]] — primary text (ingested 2026-06-28)
+- [[second-apology-justin|Second Apology]] — primary text (ingested 2026-06-28)
+- [[eucharist|Eucharist]] — earliest detailed description in *First Apol.* Chs LXV–LXVII
+- [[baptism|Baptism]] — detailed early description in *First Apol.* Ch. LXI
+- [[simon-magus|Simon Magus]] — Justin's heresiological account; statue confusion
+- [[commentators/justin-martyr|Justin Martyr (Commentator)]] — hermeneutical method and sources

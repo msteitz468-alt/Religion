@@ -2,9 +2,9 @@
 title: Hypostatic Union
 domain: theology / Christology
 traditions_using: [Christianity]
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [concept, christianity, christology, chalcedon, scholasticism, aquinas]
+sources_ingested: 2
+last_updated: 2026-06-28
+tags: [concept, christianity, christology, chalcedon, scholasticism, aquinas, patristic, ousia, hypostasis]
 ---
 
 # Hypostatic Union
@@ -62,6 +62,13 @@ classic scholastic analysis using the distinction between **nature** and **suppo
   have assumed, and it was most **fitting** that the Son — the Word, exemplar of all creation and of
   human wisdom — should (Q3 A4–A5, A8).
 
+## The Patristic-Philosophy Background (Zachhuber)
+
+Before its scholastic articulation, the hypostatic union was the point at which the Greek [[ousia-hypostasis-distinction|Cappadocian "classical theory"]] broke down. Johannes Zachhuber ([[zachhuber-rise-of-christian-theology|*The Rise of Christian Theology*]]) shows that the classical theory — designed for the Trinity (unity despite plural hypostases) — lacked any **account of individuation**, and so was peculiarly unsuited to Christology, which needs a theory of the individual to explain one Person in whom two natures meet. The two doctrines set nearly opposite conceptual demands.
+
+- The **[[double-homoousion|double homoousion]]** (consubstantial with the Father in divinity, with us in humanity) implied — by the shared fifth-century inference that **two natures entail two hypostases** — that the Incarnate had two hypostases, which would destroy his personal unity. [[cyril-of-alexandria|Cyril]] and [[theodoret-of-cyrus|Theodoret]] both accepted that inference; Cyril resisted its conclusion by pressing the *mia physis* ("one incarnate nature") and union *kath' hypostasin*, while Theodoret reluctantly accepted "two united hypostases, that is natures."
+- **Chalcedon's** "two natures in one hypostasis" therefore had no support in the reigning philosophy — a [[chalcedonian-definition|crisis of the classical theory]] that drove the sixth–eighth-century innovations Zachhuber traces. The neo-Chalcedonian solution reduced the classical theory to its **abstract** dimension: Christ's humanity is real (he shares all human properties) but does not subsist as a separate human hypostasis — anticipated implicitly by Gregory of Nyssa against [[apollinarius-of-laodicea|Apollinarius]]. Aquinas's *nature*-vs-*suppositum* analysis below is the mature Latin form of this same move.
+
 ## Significance
 
 The hypostatic union is the metaphysical ground of the [[communicatio-idiomatum|communicatio
@@ -81,3 +88,4 @@ into one.
 ## Sources Ingested
 
 - [[summa-theologica]] Tertia Pars Q2–Q3 (read in full, Part 4 Scope 1a).
+- [[zachhuber-rise-of-christian-theology|Zachhuber, *The Rise of Christian Theology*]] Ch. 3 (the Christological crisis of the classical theory), read in full (Scope 2).

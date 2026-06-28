@@ -60,3 +60,9 @@ This does not resolve the debate about Paul's meaning, but it contextualizes it:
 
 ## See Also
 [[community-rule]] · [[temple-scroll]] · [[sanctuary-of-men]] · [[essenism]] · [[sadducees]] · [[dead-sea-scrolls-vermes]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[sanctuary-of-men]]

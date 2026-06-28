@@ -77,3 +77,9 @@ The laws require that every member study the "Book of Hagu" — an apparently au
 
 ## See Also
 [[community-rule]] · [[teacher-of-righteousness]] · [[essenism]] · [[essenes]] · [[two-messiahs]] · [[pesher]] · [[dead-sea-scrolls-vermes]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[two-messiahs]]

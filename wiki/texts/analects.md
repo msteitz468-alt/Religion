@@ -40,6 +40,13 @@ Confucian world. Its gnomic wisdom-saying form invites comparison with other gno
 deliberate **cultivation** (*li*, learning) stands in sharp, deliberate contrast to Daoist
 **[[ziran|ziran]]** and [[wu-wei|wu-wei]].
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[li-confucian]] · [[ren]] · [[wu-wei]] · [[ziran]]
+
 ## Sources Ingested
 
 1. *The Analects (Confucian Analects)*, trans. James **Legge** (1893, public domain) — acquired in

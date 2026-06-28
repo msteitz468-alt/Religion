@@ -97,6 +97,13 @@ The Hebrew name *Yehoshua* ("the LORD is salvation") was rendered *Iēsous* in t
 - [[documentary-hypothesis|Documentary Hypothesis]] — the Hexateuch vs. DH debate
 - [[deuteronomy|Deuteronomy]] — the book Joshua most directly continues
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[deuteronomistic-history]]
+
 ## Sources Ingested
 
 1. [[marten-woudstra|Woudstra, Marten H.]]. *Joshua*. New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 1981.

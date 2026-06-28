@@ -69,3 +69,9 @@ The opening songs assign a **chief angelic priest** to each of the seven heavenl
 
 ## See Also
 [[merkabah]] · [[essenism]] · [[dead-sea-scrolls-vermes]] · [[1-enoch]] · [[ezekiel-prophet]] · [[kabbalah]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[merkabah]]

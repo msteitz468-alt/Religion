@@ -125,6 +125,13 @@ This reading operates entirely at the **Sod** level of PaRDeS (see [[pardes|PaRD
 
 Cross-links: [[zohar|The Zohar]], [[shekhinah|Shekhinah]], [[sitra-ahra|Sitra Aḥra]], [[sefirot|Ten Sefirot]], [[moses|Moses]], [[miriam|Miriam]], [[aaron|Aaron]], [[jethro|Jethro]], [[pharaoh|Pharaoh]], [[exodus|Exodus]], [[kabbalah|Kabbalah]], [[pardes|PaRDeS]], [[tabernacle|Tabernacle (Mishkan)]], [[gilgul|Gilgul]], [[bezalel|Bezalel]].
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[tabernacle]]
+
 ## Sources Ingested
 
 1. [[james-bruckner|Bruckner, James K.]]. *Exodus*. Understanding the Bible Commentary Series. Grand Rapids: Baker Books, 2008/2012.

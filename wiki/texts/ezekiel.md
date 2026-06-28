@@ -173,6 +173,13 @@ Not an architectural blueprint for a future building. Block: "a theological cons
 - **[[new-covenant|New Covenant]]**: Ezek 36:25-27 as the parallel/complement to Jer 31:31-34
 - **[[servant-songs|Servant Songs]]**: Isaiah's Servant as "light to the nations" (42:6; 49:6) is what Ezekiel's narrowly nationalistic vision notably omits — a genuine theological contrast
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[divine-glory-kabod]] · [[resurrection-of-the-dead]]
+
 ## Sources Ingested
 
 1. [[daniel-block|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 1–24*. NICOT. Grand Rapids: Eerdmans, 1997.

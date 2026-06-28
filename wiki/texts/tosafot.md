@@ -18,3 +18,9 @@ tags: [text, stub]
 # Tosafot
 
 This is a stub page for the text Tosafot.
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[pilpul]]

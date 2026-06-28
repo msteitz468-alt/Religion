@@ -35,6 +35,13 @@ to found the race from which Rome will spring. Commissioned in the Augustan age,
 The literary charter of Rome's sense of **divinely-ordained mission**, and the central text of Roman
 *pietas*; later read by Christians (Dante's guide) and mined for "messianic" resonance (the Fourth Eclogue).
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[fate-moirai]] · [[pietas]]
+
 ## Sources Ingested
 
 1. *The Aeneid of Virgil* (verse translation, Gutenberg #228, public domain) — `raw/texts/roman-religion/`.

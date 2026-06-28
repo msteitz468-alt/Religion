@@ -92,6 +92,13 @@ The Sukhmani Sahib develops several concepts from the Granth to their fullest ex
 
 **Hermeneutical approach**: Non-allegorical, direct devotional (bhakti) mode. The text does not employ layers of peshat/derash or Zahir/Batin; its interpretive principle is experiential internalization of Naam through Simran.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[brahm-gyani]] · [[saadh-sangat]]
+
 ## Coverage Ledger
 
 - **SGGS Part 1 (Angs 262–296), Thind/Khalsa translation** — read in full (2026-06-27): all 24 Ashtapadīs (Agent 6 extraction, lines 58444–66600).

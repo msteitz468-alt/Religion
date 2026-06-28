@@ -123,6 +123,13 @@ recognized by Kirkland as the most direct textual ancestor of what Taoists actua
 - [[russell-kirkland|Russell Kirkland]] (source of this analysis)
 - [[taochia-taochiao-dichotomy|Tao-chia / Tao-chiao Controversy]]
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[biospiritual-cultivation]]
+
 ## Sources Ingested
 
 1. [[kirkland-taoism-enduring-tradition|Kirkland, *Taoism: The Enduring Tradition*]] (Routledge,

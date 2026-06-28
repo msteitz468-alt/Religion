@@ -97,6 +97,12 @@ his synthesis with Aristotle), and read with interest but without the same autho
 [[eastern-orthodoxy|Eastern Orthodoxy]]. Its standing is recorded in `canon_scope` as
 *authoritative_for* Catholicism rather than canonical.
 
+## Concepts
+
+Concept pages developed from this text:
+
+[[analogy]] · [[angels]] · [[atonement]] · [[baptism]] · [[beatific-vision]] · [[beatitude]] · [[bodily-resurrection]] · [[cardinal-virtues]] · [[charity-aquinas]] · [[christ-as-mediator]] · [[communicatio-idiomatum]] · [[contemplative-and-active-life]] · [[creation-ex-nihilo]] · [[divine-providence]] · [[divine-simplicity]] · [[eternity-of-the-world]] · [[evil-as-privation]] · [[extreme-unction]] · [[five-ways]] · [[fourfold-sense]] · [[grace]] · [[hell]] · [[holy-orders]] · [[human-act]] · [[humility-and-pride]] · [[hypostatic-union]] · [[image-of-god-tzelem]] · [[incarnation]] · [[indulgences]] · [[just-war]] · [[limbo]] · [[lying]] · [[matrimony]] · [[natural-law]] · [[new-law]] · [[old-law]] · [[passions-aquinas]] · [[predestination]] · [[priesthood-of-christ]] · [[prophecy]] · [[purgatory]] · [[religion-virtue]] · [[sacrament-of-penance]] · [[sacraments]] · [[schism]] · [[sin]] · [[states-of-life]] · [[theological-virtues]] · [[thomistic-anthropology]] · [[transubstantiation]] · [[trinity]] · [[usury-and-just-price]]
+
 ## Coverage Ledger
 
 **Status: the entire *Summa Theologica* is now ingested in full — the Prima Pars (Part I, Q1–119), the

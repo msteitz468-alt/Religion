@@ -2,8 +2,8 @@
 title: Logos Christology
 domain: theology / Christology
 traditions_using: [Christianity]
-sources_ingested: 2
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-06-28
 tags: [concept, christianity, christology, johannine, patristic, philosophy]
 ---
 
@@ -52,7 +52,8 @@ John 1:14 uses the verb *egeneto* (came to be, came into existence) — the same
 The Logos title became enormously productive in early Christian theology:
 
 - **Ptolemy** (Valentinian Gnostic, mid-2nd c.): the earliest known commentator on John, used 1:1–5 to construct an aeon-hierarchy. Creation becomes the work of three entities (God, Beginning, Logos). Irenaeus refutes this reading but agrees with Ptolemy on John's authorship.
-- **Justin Martyr** (2nd c.): used *logos* to claim Jesus as the divine reason/word present in all philosophers who "lived according to reason" — a missiological application.
+- **Justin Martyr** (2nd c.): used *logos* to claim Jesus as the divine reason/word present in all philosophers who "lived according to reason" — a missiological application. His *logos spermatikos* ("spermatic/seed word") doctrine holds that the Logos implanted as a seed (*sperma*) in all rational beings is why pagan philosophers grasped partial truths. Christ is "the whole rational being, both body, and reason, and soul" — not a fragment but the fullness of the Logos (*Second Apol.* Chs VIII, X, XIII). Pre-Christian "Christians" include Socrates, Heraclitus, Abraham, and Elias. Justin's placement of the Son "in the second place" and the prophetic Spirit "in the third" (*First Apol.* XIII) is an early subordinationist triadic formula. See [[first-apology-justin|First Apology]] and [[second-apology-justin|Second Apology]].
+- **Clement of Alexandria** (c.150–215): develops Logos Christology pastorally and cosmically across his trilogy. In the [[protrepticus|Protrepticus]] the Logos is the pre-existent "**New Song**" — creator who "tuned the discord of the elements to harmonious arrangement" — and now the incarnate teacher ("He alone being both, both God and man"), echoing John 1:1 directly. In the [[paedagogus|Paedagogus]] the Logos is the *paidagogos* (Tutor) who morally forms humanity, and in the [[stromata|Stromata]] he is Wisdom, the revealer of the unknowable Father ("the image of God is the divine and royal Word... and the image of the image is the human mind"), and the "only demonstration." Clement extends Justin's [[harmony-of-religion-and-philosophy|logos spermatikos]] (philosophy as the Logos's seed among the Greeks) and bridges to [[origen|Origen]]. See [[clement-of-alexandria|Clement (commentator)]].
 - **Origen** (early 3rd c.): most extensive early commentary on John; Logos Christology integrated into his subordinationist metaphysics (see [[origen|Origen]] figure page).
 - **Arianism**: used Logos Christology (especially "the Father is greater than I," 14:28) to argue the Son is a created, subordinate being.
 - **Nicene orthodoxy**: insisted the Son is *homoousios* (same substance) with the Father; "the Word was God" (1:1c) as the proof-text.

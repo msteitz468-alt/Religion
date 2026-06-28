@@ -61,3 +61,9 @@ The *Anand Marriage Act* of 1909 gave legal standing to the Anand marriage cerem
 - [[guru-granth-sahib|Guru Granth Sahib]] — the scripture the Rahit Maryada serves and governs the treatment of
 - [[gurdwara|Gurdwara]] — the institution regulated by the Rahit Maryada
 - [[sikhism|Sikhism]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[amrit-sanskar]] · [[five-ks]]

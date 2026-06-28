@@ -103,6 +103,13 @@ used for its philosophy alone — "which can be used to support arguments for pe
 the hands of Gandhi." The Mahābhārata as a whole is "passionately against war, vividly aware of the
 tragedy of war, despite the many statements that violence is necessary."
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[ahimsa]] · [[bhakti]] · [[dharma]] · [[gunas]] · [[karma]] · [[karma-yoga]] · [[moksha]] · [[nirvana]]
+
 ## Sources Ingested
 
 1. *The Song Celestial*, trans. Sir Edwin **Arnold** (1885, public domain, verse) — acquired in

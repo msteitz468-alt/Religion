@@ -43,6 +43,13 @@ Read as **[[neyartha-nitartha|nitartha]]** (definitive) by Mahayana; its negatio
 the **two truths** (conventional vs. ultimate), not as nihilism. Its esoteric, paradoxical register is
 central to Zen and to [[vajrayana|Vajrayana]] practice.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[four-noble-truths]] · [[neyartha-nitartha]] · [[noble-eightfold-path]] · [[sunyata]]
+
 ## Sources Ingested
 
 1. The Heart Sutra (Conze-tradition English), public domain — acquired in `raw/texts/buddhism/`.

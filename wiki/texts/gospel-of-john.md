@@ -122,3 +122,9 @@ Michaels's summary of the theological parabola: "Just as the Gospel's christolog
 - Controversy: [[johannine-determinism|Johannine Determinism]]
 - Controversy: [[word-was-god-1-1|John 1:1 — "The Word Was God"]]
 - Controversy: [[johannine-secessionists|The Johannine Secessionist Crisis]] (1 John perspective on the same community)
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[i-am-sayings]] · [[lamb-of-god]] · [[logos-christology]] · [[paraclete-advocate]] · [[testimony-martyria]]

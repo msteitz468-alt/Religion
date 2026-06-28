@@ -89,6 +89,13 @@ The first sustained Sod-level mystical commentary on Deuteronomy in the wiki ent
 
 **Hermeneutical character**: Entirely at the **Sod** level—symbolic, theosophical, theurgical, and narrative-expansive. Deuteronomy is re-enacted in the heavenly realm; Moses’ words are simultaneously historical address and cosmic event. This complements (and contrasts with) Craigie’s and Arnold’s treaty-form, rhetorical, and covenantal readings by adding the mythic drama of sefirot, Shekhinah, and the soul’s journey. Cross-references: [[zohar|The Zohar]], [[shekhinah|Shekhinah]], [[moses|Moses]], [[daniel-matt|Daniel C. Matt]], [[numbers|Numbers]] (Zoharic continuation), [[gnosis|Gnosis]], [[zoharic-afterlife|Zoharic Afterlife]] (Rav Metivta).
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[covenant]] · [[deuteronomistic-history]] · [[new-covenant]] · [[shema]] · [[suzerain-vassal-treaty]]
+
 ## Sources Ingested
 
 1. [[peter-craigie|Craigie, Peter C.]]. *The Book of Deuteronomy*. NICOT. Grand Rapids: Eerdmans, 1976.

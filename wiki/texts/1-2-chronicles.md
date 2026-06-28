@@ -160,6 +160,13 @@ The omissions are not whitewashing but selective emphasis: the Chronicler focuse
 - **Rev 21:24**: "The kings of the earth will bring their glory into it" — fulfillment of the pilgrimage-of-nations pattern in Solomon's reign (Queen Sheba; Huram of Tyre)
 - **Isa 44:28–45:1**: Cyrus as YHWH's "shepherd" and "anointed" — the prophetic grounding of Leithart's "Cyrus as new David" reading
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[davidic-covenant]]
+
 ## Sources Ingested
 
 1. [[peter-leithart|Leithart, Peter J.]]. *1 & 2 Chronicles*. Brazos Theological Commentary on the Bible. Grand Rapids: Brazos Press, 2019.

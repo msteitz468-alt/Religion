@@ -127,6 +127,13 @@ The Masoretic Text (MT) is the standard Hebrew tradition. The Septuagint (LXX) a
 - [[maimonides|Maimonides]] — engages Gen 1–3 in *Guide for the Perplexed* (philosophical allegorization)
 - Nahmanides (Ramban) — kabbalistic and peshat commentary
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[circumcision]] · [[imago-dei]] · [[toledot]] · [[zoharic-afterlife]]
+
 ## Sources Ingested
 
 1. [[victor-hamilton|Hamilton, Victor P.]]. *The Book of Genesis: Chapters 1–17*. NICOT. Grand Rapids: Eerdmans, 1990.

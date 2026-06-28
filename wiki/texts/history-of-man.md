@@ -179,6 +179,13 @@ Within Scientology, *A History of Man* holds **authoritative** status — it is 
 
 **Critical reception**: The book has been widely cited by critics of Scientology as exemplary of Hubbard's cosmology in its most unguarded form. The claims about Mars, between-lives implant stations, invader electronics, and the Clam incident have been extensively satirized. No independent evidence supports any of the historical or cosmological claims.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[between-lives]] · [[genetic-entity]] · [[thetan]]
+
 ## Coverage Ledger
 
 Read in full: lines 1–4,290 (doctrinal content: Preface through Supplement). Lines 4,291–9,340 = Appendix (Further Study catalog, Guide to Materials, Addresses) and Editor's Glossary (ordinary English word definitions with a few technical Scientology terms) and Index — non-doctrinal; noted and set aside.

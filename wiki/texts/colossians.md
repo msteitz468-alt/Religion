@@ -181,3 +181,9 @@ Three interpretations: (a) objective genitive — worshiping angels; (b) subject
 - [[heis-kainos-anthropos|The One New Human Being (*Heis Kainos Anthrōpos*)]] — Col 3:10–11 as the Colossian parallel to Eph 2:15
 - [[galatians|Letter to the Galatians]] — stoicheia parallel; law's abolition; opponents' parallel logic
 - [[logos-christology|Logos Christology]] — background to the creator-Christology of Col 1:15–17
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[christoformity]] · [[heis-kainos-anthropos]] · [[mysterion]] · [[principalities-powers]] · [[stoicheia]]

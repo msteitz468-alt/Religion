@@ -176,6 +176,13 @@ NT: The Song is never quoted in the NT, though the divine-human marriage metapho
 - **[[divine-human-marriage|Divine-Human Marriage Metaphor]]**: The concept page for the marriage metaphor in Scripture
 - **[[wisdom-literature|Wisdom Literature]]**: The Song belongs to Wisdom broadly conceived (Childs, Landy, Murphy) — wisdom as the application of God's will to the nitty-gritty of life; the man-woman relationship as the most intimate domain of that nitty-gritty
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[allegorical-reading]] · [[divine-human-marriage]] · [[fourfold-sense]]
+
 ## Sources Ingested
 
 1. [[tremper-longman|Longman, Tremper, III]]. *Song of Songs*. NICOT. Grand Rapids: Eerdmans, 2001.

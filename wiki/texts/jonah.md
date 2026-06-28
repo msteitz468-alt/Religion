@@ -95,6 +95,13 @@ The final question — the most important unanswered question in the Hebrew Bibl
 - **[[daniel|Daniel]]**: Both deal with Judeans navigating foreign imperial contexts; Daniel succeeds; Jonah fails (until he doesn't)
 - **[[apocalyptic-literature|Apocalyptic Literature]]**: Jonah is the anti-type — instead of cosmic visions of divine judgment, a story of divine mercy for a specific foreign city
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[book-of-the-twelve]]
+
 ## Sources Ingested
 
 1. [[james-nogalski|Nogalski, James D.]]. *The Books of Joel, Obadiah, and Jonah*. NICOT. Grand Rapids: Eerdmans, 2023.

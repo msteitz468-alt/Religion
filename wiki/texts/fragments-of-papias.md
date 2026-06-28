@@ -131,3 +131,9 @@ quoted by later writers (chiefly [[irenaeus|Irenaeus]] and Eusebius). Their endu
 evidential — the traditions that **Mark wrote as Peter's interpreter** and that **Matthew composed
 "the logia"** are foundational for later [[nt-canon-formation|gospel-origins]] discussion — rather
 than canonical. Recorded as `authoritative_for` proto-orthodoxy.
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[nt-canon-formation]]

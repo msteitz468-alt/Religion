@@ -131,6 +131,13 @@ most widely read section and one of the most contested texts in the history of V
 - [[yajna|Yajña]], [[ashoka|Aśoka]]
 - [[doniger-the-hindus|Doniger, *The Hindus*]]
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[ahimsa]] · [[just-war]]
+
 ## Sources Ingested
 
 1. [[wendy-doniger|Wendy Doniger]], *[[doniger-the-hindus|The Hindus: An Alternative History]]* (2009),

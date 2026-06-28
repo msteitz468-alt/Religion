@@ -104,6 +104,13 @@ Scope plan (one deployed subagent per range), partitioned by Discussion:
 full** via five deployed subagents (one per Discussion-range), reconciled on the main thread.
 Scope complete.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[bodily-resurrection]] · [[creation-ex-nihilo]] · [[divine-attributes-in-islam]] · [[emanation]] · [[eternity-of-the-world]] · [[gods-knowledge-of-particulars]] · [[kalam]] · [[necessary-existent]] · [[occasionalism]] · [[prophetic-miracle]] · [[soul-in-islamic-philosophy]] · [[takfir]] · [[zahir-batin]]
+
 ## Sources Ingested
 
 - al-Ghazali, *The Incoherence of the Philosophers*, trans. M. E. Marmura (2nd ed., 2000).

@@ -148,6 +148,13 @@ barely known to exist; laws and prohibitions multiply thieves; small states with
 the ideal. This is not anarchism exactly — the sage-ruler *does* govern — but governance consists in
 removing obstacles to the people's self-ordering (*ziran*).
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[biospiritual-cultivation]] · [[dao]] · [[wu-wei]] · [[ziran]]
+
 ## Sources Ingested
 
 1. *The Tao Te Ching*, trans. James **Legge** (SBE 39, 1891, public domain) — `raw/texts/daoism/daodejing-legge-en.txt`.

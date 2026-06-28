@@ -108,6 +108,13 @@ The Svetambara scriptures function not only as intellectual texts but as sacred 
 - Manuscripts are treated with profound reverence; the oldest Jain manuscript libraries (Patan, Cambay, Broach, Jaisalmer) are the oldest manuscript libraries in India (lines 1628–1709).
 - The **Digambara** festival of *Sruta Pancami* ("Scripture Fifth") involves taking manuscripts out, worshipping them, and recopying them.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[ardhamagadhi]] · [[tirthankara]] · [[women-and-liberation-in-jainism]]
+
 ## Sources Ingested
 
 [[dundas-the-jains|Dundas, *The Jains*]] (2nd ed.), Chapter 3 ("Scriptures") — read in full for this slice.

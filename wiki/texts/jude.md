@@ -159,3 +159,9 @@ See the [[jude-1-enoch-canon|Jude and 1 Enoch controversy]].
 - [[2-peter|The Second Letter of Peter]] — the dependent letter
 - [[james|James]] / [[james-the-just|James the Just]] — the brother and the family-of-Jesus corpus
 - [[apocalyptic-literature|Apocalyptic Literature]] — Jude's interpretive frame
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[pseudepigrapha]]

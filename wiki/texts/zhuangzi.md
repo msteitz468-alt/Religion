@@ -115,6 +115,13 @@ of Zhuangzi's sensibility: iconoclastic, humorous, totally practical — the sam
 "transformed highly speculative Indian Buddhism into the... kind of Buddhism that was to flourish in
 China and Japan" (Merton). Zen illuminates Zhuangzi and Zhuangzi illuminates Zen.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[biospiritual-cultivation]] · [[dao]] · [[wu-wei]]
+
 ## Sources Ingested
 
 1. *The Writings of Kwang-zze (Zhuangzi)*, trans. James **Legge** (SBE 39–40, public domain) —

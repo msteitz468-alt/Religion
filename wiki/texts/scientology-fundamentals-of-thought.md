@@ -41,6 +41,13 @@ As the **basic book**, *Fundamentals of Thought* is typically the entry point to
 is "Source," applied as **standard tech**. It distills the conceptual map that the graded [[auditing|
 Bridge]] then works through in practice.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[arc-triangle]] · [[eight-dynamics]]
+
 ## Sources Ingested
 
 1. *Scientology: The Fundamentals of Thought*, L. Ron Hubbard (1956) — `raw/texts/Scientology/` (PDF).

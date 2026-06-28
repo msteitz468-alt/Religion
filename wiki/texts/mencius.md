@@ -39,6 +39,13 @@ Confucian view of human nature for late imperial East Asia, shaping ethics, educ
 thought. Its theory of legitimate rule by the people's welfare is among the most consequential political
 ideas in the Chinese tradition.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[ren]]
+
 ## Sources Ingested
 
 1. *The Works of Mencius*, trans. James **Legge** (public domain) — acquired in

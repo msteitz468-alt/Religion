@@ -181,6 +181,13 @@ rule. Averroes' signal contribution to the technical apparatus is **analogical p
 
 ---
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[creation-ex-nihilo]] · [[divine-attributes-in-islam]] · [[emanation]] · [[eternity-of-the-world]] · [[harmony-of-religion-and-philosophy]] · [[necessary-existent]] · [[occasionalism]] · [[separate-intellects]] · [[takfir]]
+
 ## Coverage Ledger
 
 - **Source**: `raw/commentaries/Averroes - Tahafut al Tahafut - The Incoherence of the Incoherence, Volumes I and II (Averroes) (z-library.sk, 1lib.sk, z-lib.sk).txt` (Simon van den Bergh trans.; Bouyges Arabic base; relocated from `raw/` root on 2026-06-27).

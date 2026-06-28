@@ -90,6 +90,13 @@ trains the view. It operates on the **[[two-truths|two truths]]** and the
 **[[neyartha-nitartha|definitive]]** emptiness teaching, read through the [[bodhisattva|bodhisattva]]
 ideal and *upāya*.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[bodhicitta]] · [[bodhisattva]] · [[exchange-of-self-and-other]] · [[six-perfections]]
+
 ## Sources Ingested
 
 1. *Śāntideva: The Bodhicaryāvatāra*, trans. Kate **Crosby** & Andrew **Skilton**, with a General

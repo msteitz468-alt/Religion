@@ -46,6 +46,13 @@ wiki ([[reitman-inside-scientology|Reitman]], [[malko-the-now-religion|Malko]], 
 Shelton]]) treats its origins and reception critically. Recorded without adjudication (Contradiction
 Protocol).
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[auditing]] · [[engram]]
+
 ## Sources Ingested
 
 1. *Dianetics: The Modern Science of Mental Health*, L. Ron Hubbard (1950) — `raw/texts/Scientology/`

@@ -76,6 +76,13 @@ The text is associated with the tradition of embedding Jain doctrine within stan
 - [[svetambara]] — the other community accepting the text
 - [[jainism|Jainism]] — parent tradition
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[ahimsa]] · [[ajiva]] · [[ardhamagadhi]] · [[jiva]] · [[karma]] · [[kevala-jnana]] · [[loka]] · [[moksha]]
+
 ## Sources Ingested
 
 [[dundas-the-jains|Dundas, *The Jains*]] ch. 4 (Doctrine).

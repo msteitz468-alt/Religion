@@ -184,6 +184,13 @@ Job's uniqueness: four speakers (literary breakthrough), the format of a formal 
 - **Heb 4:12-13**: "Everything is laid bare before him" — the language of total divine knowledge echoes Yahweh's speeches on divine omniscience.
 - **Isaiah's Suffering Servant (Isa 40-55)**: Hartley argues Job provided the model for Isaiah's portrait; the Servant songs draw on the paradigm of the innocent sufferer who is ultimately vindicated.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[hebel]] · [[servant-songs]] · [[sheol]] · [[theodicy]] · [[wisdom-literature]]
+
 ## Sources Ingested
 
 1. [[john-hartley|Hartley, John E.]]. *The Book of Job*. NICOT. Grand Rapids: Eerdmans, 1988.

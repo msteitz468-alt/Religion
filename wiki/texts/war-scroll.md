@@ -69,3 +69,9 @@ The War Scroll identifies **Michael** (Prince of Light, Prince of Angels) as the
 
 ## See Also
 [[community-rule]] · [[two-spirits-doctrine]] · [[kittim]] · [[essenism]] · [[dead-sea-scrolls-vermes]] · [[michael-archangel]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[kittim]]

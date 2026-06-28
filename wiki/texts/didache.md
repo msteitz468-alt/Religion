@@ -64,6 +64,13 @@ The relationship to Matthew is the most-debated question in *Didache* scholarshi
 
 There is no meaningful connection with Mark, John, Acts, or any Pauline letter. The *Didache* may represent a strand of early Christianity that developed largely independently of the Pauline mission.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[monepiscopate]] · [[nt-canon-formation]]
+
 ## Manuscript Tradition
 
 | Witness | Date | Contents |

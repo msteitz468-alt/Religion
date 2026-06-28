@@ -62,6 +62,13 @@ the developed Zoroastrian eschatology that the
 [[zoroastrian-influence-on-abrahamic-eschatology|influence page]] compares with
 [[apocalyptic-literature|apocalyptic]] periodization of history.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[angra-mainyu]] · [[frashokereti]] · [[the-three-times]]
+
 ## Sources Ingested
 
 1. Mary Boyce, *Zoroastrians: Their Religious Beliefs and Practices* (1979) — see

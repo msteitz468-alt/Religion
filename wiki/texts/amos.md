@@ -110,6 +110,13 @@ Many scholars have questioned whether this represents Amos's own words or a late
 - **[[book-of-the-twelve|Book of the Twelve]]**: Amos follows Joel and precedes Obadiah in the canonical collection; Joel 3:16 and 3:18 quote Amos 1:2 and 9:13 respectively, connecting the two books
 - **[[theodicy|Theodicy]]**: Amos's challenge about YHWH's justice (why does Israel suffer if they have worshipped YHWH?) extends the theodicy question
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[book-of-the-twelve]] · [[jubilee]]
+
 ## Sources Ingested
 
 1. [[m-daniel-carroll|Carroll R., M. Daniel]]. *The Book of Amos*. NICOT. Grand Rapids: Eerdmans, 2020.

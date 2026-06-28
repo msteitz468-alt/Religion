@@ -172,6 +172,13 @@ The phrase "each person interpreted them as best he could" may explain the diver
 
 **Significance for canon history**: The Papias tradition is the earliest explicit association of the name "Matthew" with a written account. By ca. 120 CE, a document called Matthew's "oracles" was known and being translated/interpreted — whether or not this is identical to canonical Matthew, the tradition establishes apostolic attribution for Matthean tradition within the second generation. See [[fragments-of-papias|Fragments of Papias]] and [[nt-canon-formation|NT Canon Formation]].
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[messianic-secret]]
+
 ## Sources Ingested
 
 1. [[rt-france|France, R. T.]]. *The Gospel of Matthew*. NICNT. Grand Rapids: Eerdmans, 2007.

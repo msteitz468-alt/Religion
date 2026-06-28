@@ -46,6 +46,13 @@ Gilgamesh returns to Uruk **empty-handed but wiser** — finding his immortality
 his city** and his name. The epic's lesson: **death is the human lot; meaning lies in deeds, friendship, and
 what one leaves behind.**
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[mesopotamian-underworld]]
+
 ## Sources Ingested
 
 1. *The Epic of Gilgamish* (public domain translation, Gutenberg) — `raw/texts/mesopotamian-religion/`.

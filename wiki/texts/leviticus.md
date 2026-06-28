@@ -86,6 +86,13 @@ Sacrificial systems were universal in the ancient Near East. Ugaritic texts use 
 - [[gordon-wenham|Gordon J. Wenham]] — *Leviticus* (NICOT, c. 1979): conservative evangelical; holiness-as-wholeness framework; extensive Douglas engagement
 - Jacob Milgrom — *Leviticus* (AB, 3 vols., 1991–2001): comprehensive; defends priestly material's antiquity
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[holiness]] · [[jubilee]] · [[tabernacle]]
+
 ## Sources Ingested
 
 1. [[gordon-wenham|Wenham, Gordon J.]]. *Leviticus*. NICOT. Grand Rapids: Eerdmans/London: Routledge & Kegan Paul, c. 1979.

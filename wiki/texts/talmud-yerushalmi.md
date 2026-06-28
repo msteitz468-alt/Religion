@@ -18,3 +18,9 @@ tags: [text, stub]
 # Jerusalem Talmud (Talmud Yerushalmi)
 
 This is a stub page for the text Jerusalem Talmud (Talmud Yerushalmi).
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[talmudo-iranica]]

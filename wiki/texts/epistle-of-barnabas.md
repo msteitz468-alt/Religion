@@ -80,6 +80,13 @@ This is the patristic tradition that produced Origen's *Commentary on Numbers* a
 
 Despite this quasi-canonical standing in the Alexandrian orbit, *Barnabas* was **excluded** from the closed 27-book canon and is non-canonical for [[catholicism|Catholicism]], [[eastern-orthodoxy|Eastern Orthodoxy]], and [[protestantism|Protestantism]] — a characteristic "near-miss" of the [[nt-canon-formation|canon-formation]] process.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[nt-canon-formation]]
+
 ## Manuscript Tradition
 
 | Witness | Date | Contents |

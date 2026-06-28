@@ -212,6 +212,13 @@ The text interacts with and explicitly critiques Hindu non-dualism, Buddhist nir
 4. **The MEST universe as illusion** — Hubbard's idealist metaphysics is internally consistent but structurally similar to the Advaita Vedanta māyā doctrine he explicitly critiques; the relationship between these systems is a potential comparison page.
 5. **"Deeply religious feelings"** as track-memory — Hubbard's psychological reduction of religious experience to facsimiles from the thetan's whole track removes any independent epistemological validity from religious experience.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[arc-triangle]] · [[mest]] · [[thetan]] · [[tone-scale]]
+
 ## Coverage Ledger
 
 Read in full: lines 1–8,702 (doctrinal content, Book One and Book Two through the Certainty Processing appendix of SOP 8); lines 8,723–15,040 are publisher catalog ("Further Study" listing of other Hubbard works) and the index — confirmed non-doctrinal and noted.

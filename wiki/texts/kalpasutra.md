@@ -58,6 +58,13 @@ The *Kalpasuta* is canonical for the [[svetambara|Svetambara Murtipujaka Sangha]
 
 As a manuscript object, "every copy of [the *Kalpasuta*] within a library is an evocative symbol of the tradition to which the Svetambaras belong" (lines 925–927). Its extraordinary manuscript proliferation — more copies than any other Jain work, typically with fine illuminations — makes it the most visually attested text in the Svetambara tradition.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[tirthankara]] · [[women-and-liberation-in-jainism]]
+
 ## Sources Ingested
 
 [[dundas-the-jains|Dundas, *The Jains*]] (2nd ed.), Chapters 2 and 3 — read in full for this slice.

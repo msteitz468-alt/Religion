@@ -162,6 +162,13 @@ This is consistent with France's hermeneutical principle: comment on Mark as Mar
 - **[[messianic-secret|The Messianic Secret]]**: The concept page tracks this across Mark and engages Wrede's 1901 theory
 - **[[mark-ending|The Ending of Mark]]**: Controversy page for the 16:8 debate
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[messianic-secret]]
+
 ## Sources Ingested
 
 1. [[rt-france|France, R. T.]]. *The Gospel of Mark: A Commentary on the Greek Text*. NIGTC. Grand Rapids: Eerdmans, 2002.

@@ -105,3 +105,9 @@ Schreiner operates from the assumption that all 13 Pauline letters are authentic
 - [[divine-glory-kabod|Divine Glory (*Kābôd*)]] — the glory of God as Romans' ultimate theme
 - [[johannine-determinism|Johannine Determinism]] — compare with Romans 9 on election and divine initiative
 - [[acts|Acts of the Apostles]] — Luke's account of Paul's mission; tensions with Romans explored in [[acts-paul-tensions|Acts and Paul's Letters]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[dyadic-devotion]] · [[gloria-love-of-praise]] · [[justification]] · [[mysterion]] · [[new-creation]] · [[new-perspective-on-paul]] · [[principalities-powers]]

@@ -62,6 +62,13 @@ The Gemara (completing the [[talmud-bavli|Talmud]]) was composed as a running co
 - [[rashi|Rashi]] — commented on most tractates
 - [[maimonides|Maimonides]] — *Commentary on the Mishna* (Arabic, c. 1168); later superseded by his *Mishna Torah*
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[gemara]] · [[oral-torah]]
+
 ## Sources Ingested
 
 1. [[isaac-unterman|Unterman, Isaac]]. *The Talmud: Its Origin and Development, Methods and Systems*. New York: Bloch, 1952/1965.

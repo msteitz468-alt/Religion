@@ -50,3 +50,9 @@ moment that produced the long fusion of [[folk-shinto|shinbutsu-shūgō]] and th
 - [[shinto|Shinto]]; the parallel chronicle [[kojiki|the Kojiki]]; [[kami|kami]], [[harae|harae]]
 - [[amaterasu|Amaterasu]], [[susanoo|Susanoo]], [[izanagi-and-izanami|Izanagi & Izanami]], [[ninigi|Ninigi]],
   [[jimmu|Jimmu]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[kami]]

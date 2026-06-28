@@ -177,6 +177,13 @@ The marker of the Khawarij in Bukhari is excessive Quran recitation without inwa
 
 ---
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[al-insan-al-kamil]] · [[bahai-revelation]] · [[five-pillars]] · [[gods-knowledge-of-particulars]] · [[hur-al-ayn]] · [[iman]] · [[isra-and-miraj]] · [[naskh]] · [[prophetic-miracle]] · [[qiwama]] · [[shafaa]] · [[tafsir]] · [[tanzih-tashbih]] · [[tawhid]]
+
 ## Sources Ingested
 
 1. *The Meaning of the Glorious Koran*, trans. Marmaduke **Pickthall** (1930). [Public-domain English

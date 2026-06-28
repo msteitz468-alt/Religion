@@ -74,6 +74,13 @@ intention** than Śaṅkara's non-dualism — i.e. that the sutras may have been
 Advaita the later (if more powerful) overlay. A clean example of the critical voice standing apart from
 every traditional *bhāṣya*.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[adhyasa]] · [[brahman]] · [[saddarshana]]
+
 ## Sources Ingested
 
 1. *The Vedānta-Sūtras with the Commentary of [[shankara|Śaṅkara]]*, trans.

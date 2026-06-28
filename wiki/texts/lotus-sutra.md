@@ -44,6 +44,13 @@ The Lotus reads itself as **[[neyartha-nitartha|nitartha]]** (the definitive, fi
 the classic warrant for **upaya** as an interpretive principle — different teachings for different
 capacities, all converging on the One Vehicle.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[neyartha-nitartha]]
+
 ## Sources Ingested
 
 1. *The Saddharma-Pundarika*, trans. H. **Kern** (SBE 21, public domain), 27 chapters — acquired in

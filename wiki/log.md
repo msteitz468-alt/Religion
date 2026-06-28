@@ -2,6 +2,29 @@
 
 Append-only. Format: `## [YYYY-MM-DD] ingest | [Source Title]` or `## [YYYY-MM-DD] query | [Question Summary]`
 
+## [2026-06-28] ingest | Pseudo-Dionysius, *On the Divine Names* and *Mystical Theology* (Parker 1897)
+
+Source: `raw/Dionysius the Areopagite, Works (1897) [ThML].txt` — Parker translation, Vol. 1 (1897).
+Lines 166–512 (Parker's preface to *Divine Names* + Caput I–XIII of *Divine Names* + Parker's
+preface to *Mystical Theology* + Caput I–V of *Mystical Theology*). **Primary patristic text
+(theology/mysticism).** Scope: *On the Divine Names* complete (Caput I–XIII) and *Mystical
+Theology* complete (Caput I–V). Read in full for this scope (agent range 166–512).
+
+Pages filled: `wiki/texts/on-divine-names.md` (all Caput summaries, Key Theological Positions,
+Relation to Neoplatonism, Reception and Influence); `wiki/texts/mystical-theology.md` (all Caput
+summaries, Key Theological Positions). Pages extended: `wiki/concepts/apophatic-theology.md`
+(Pseudo-Dionysius section added); `wiki/concepts/theosis-divine-nature.md` (Divine Names material
+added to existing Pseudo-Dionysius section); `wiki/concepts/evil-as-privation.md` (Pseudo-Dionysius
+section added with verbatim extracts from DN IV.XIX–XXXV).
+
+Key verbatim anchors: "beneficent progressions" (Proodoi) = DN I; evil "parasitical subsistence"
+(DN IV.XXXI); "knowing nothing, knowing above mind" (MT II); "above every abstraction" (MT V); the
+three movements of souls — circular, spiral, straight (DN IV.VIII–IX); divine darkness as
+"super-luminous gloom" (MT I.I). Parker's translator framing: authentic 1st-c. apostolic text;
+Dionysius as "Master not Pupil" to Proclus/Plotinus.
+
+Scope declared: lines 166–512 — read in full.
+
 ## [2026-06-27] ingest | Karl Barth, *Church Dogmatics* I.1, §8 (God in His Revelation)
 
 Source: `raw/Church Dogmatics, Vol. 1.1, Sections 8-12 The Doctrine of the Word of God, Study Edition 2 (Karl Barth).txt` (T&T Clark Study Edition, 2009). **Systematic theology / scholarship.** Scope: **§8 in full** (lines 70–2532). Read by subagent with main-thread review and filing.
@@ -4094,3 +4117,149 @@ Scope: Vol. 2, 24 chapters + Epilogue — full body (raw lines 281–14435) — 
 
 ## 2026-06-28 ingest | Tsong-kha-pa, *Great Treatise on the Stages of the Path* (Lamrim Chenmo), Vol. III
 Scope: Volume Three — the last two perfections: meditative serenity (*śamatha*, Part One chs. 1–6) and insight (*vipaśyanā* / Madhyamaka, Part Two chs. 7–27), plus Dedication & Colophon (book pp. 13–371) — **read in full** (appendices: Outline/*sa bcad*, Glossary, Tibetan emendations; Notes/Bibliography/Index excluded as apparatus). Completes the Lamrim Chenmo (all three volumes now ingested). Deployed-subagent strategy: eight Sonnet subagents extracted disjoint line-ranges (A 299–2967 serenity chs 1–4 / B 2968–4365 serenity chs 5–6 / C 4366–5455 insight chs 7–10 / D 5456–7462 chs 11–14 / E 7463–9177 chs 15–17 / F 9178–11316 Svātantrika/Prāsaṅgika chs 18–21 / G 11317–13561 selflessness chs 22–24 / H 13562–15339 chs 25–27 + colophon) to scratchpad notes; main thread owned all taxonomy, page creation, and cross-linking. New pages: commentators/candrakirti, commentators/buddhapalita, commentators/bhavaviveka, commentators/aryadeva, commentators/asanga, commentators/kamalasila, commentators/heshang-moheyan, concepts/object-of-negation, controversies/svatantrika-prasangika-distinction, controversies/samye-debate. Enriched: lamrim-chenmo (Vol. III structure, themes, ledger), tsongkhapa (Madhyamaka method), samatha-vipassana (Tibetan treatment), sunyata, svabhava, two-truths (three criteria), dependent-origination (king of reasonings), madhyamaka (Tsong-kha-pa's Svātantrika/Prāsaṅgika reading; key_figures slugs fixed). Distinctive Candrakīrti claim recorded per Contradiction Protocol (conception of true existence as *afflictive* not merely cognitive ignorance; śrāvakas realize selflessness of phenomena). Raw source filed to raw/texts/. Lint clean for affected pages (no red links or orphans from new pages).
+
+## 2026-06-28 ingest | Pseudo-Dionysius, *Works* — complete (Parker 1897–1899)
+
+Source: `raw/texts/Dionysius the Areopagite, Works (1897) [ThML].txt` — John Parker translation,
+2 volumes (Vol. 1: 1897; Vol. 2: 1899). Lines 1–1712. Scope: complete Works — both volumes — read
+in full. Deployed-subagent strategy: 3 Sonnet subagents (Agent 1: lines 166–512 Divine Names +
+Mystical Theology; Agent 2: lines 513–717 Letters + Liturgy + Objections + Alexandrine School;
+Agent 3: lines 718–1712 Celestial Hierarchy + Ecclesiastical Hierarchy); main thread owned
+taxonomy, scaffold, controversies, cross-linking, and tie-together.
+
+New pages: commentators/pseudo-dionysius, texts/on-divine-names, texts/mystical-theology,
+texts/celestial-hierarchy, texts/ecclesiastical-hierarchy, texts/letters-of-dionysius,
+controversies/pseudo-dionysius-authorship. Extended: concepts/apophatic-theology (Dionysian section),
+concepts/theosis-divine-nature (Dionysian section), concepts/evil-as-privation (Dionysian section).
+
+Key content: Divine Names Caput I–XIII (cataphatic method; Good, Light, Beauty, Eros, evil as
+non-being); Mystical Theology Caput I–V (Divine Darkness, agnosia, Moses typology, final apophatic
+negation); Letters I–XI (Gaius × 4, Dorotheus, Sopatros, Polycarp, Demophilus, Titus, John on
+Patmos, Apollophanes; Heliopolis eclipse narrative; hierarchical conduct); Celestial Hierarchy
+Caput I–XV (nine angelic orders in three triads; definition of hierarchia; symbolic representations);
+Ecclesiastical Hierarchy Caput I–VII (Baptism, Eucharist, Chrism; three sacerdotal orders;
+burial rite; theosis as telos); Parker's apologetics (Objections to Genuineness; Alexandrine School
+Dionysius→Pantaenus→Ammonius→Plotinus chain). Authorship controversy documented.
+Raw source filed to raw/texts/.
+
+## 2026-06-28 ingest | Justin Martyr, *Apologies of Justin* (First and Second Apology)
+
+Source: `raw/texts/Apologies of Justin (Illustrated) (Justin Martyr) (z-library.sk, 1lib.sk, z-lib.sk).txt` — trans. Philip Schaff (*Apostolic Fathers with Justin Martyr and Irenaeus*, Eerdmans, repr. 2001). Scope: **complete** — First Apology (lines 13–1815, Chs I–LXVIII + appended imperial letters of Hadrian, Antoninus, and Marcus Aurelius) and Second Apology (lines 1816–2218, Chs I–XV) — **read in full** on the main thread. Lines 2219–2390 = TOC (not content). Source type: primary patristic texts (apologetics), not scripture. Main thread handled all reading, taxonomy, page creation, and bookkeeping.
+
+Pages created:
+- `texts/first-apology-justin.md` — 68-chapter apology to Antoninus Pius; fulfilled prophecy argument; Logos theology; sacramental descriptions (baptism, Eucharist, Sunday worship); Simon Magus; Marcion
+- `texts/second-apology-justin.md` — 15-chapter apology to the Roman Senate; case of Ptolemaeus; *logos spermatikos*; angelic fall demonology; Crescens the Cynic
+- `commentators/justin-martyr.md` — hermeneutical method: prophetic-typological (fourfold prophetic speaker), philosophical-rationalist (*logos spermatikos*); characteristic positions; works consulted
+- `concepts/eucharist.md` — earliest detailed description from Justin; *proestos*; thanksgiving prayer; identity of elements; Mithraic imitation claim; tradition-specific reception
+- `figures/simon-magus.md` — Acts 8 and Justin's patristic account; the Semo Sancus inscription confusion; Helena as *ennoia*; Menander; proto-Gnostic tradition
+
+Pages extended:
+- `figures/justin-martyr.md` — updated sources_ingested (2→4); added textual_sources; added commentator cross-link; added links to new pages
+- `concepts/logos-christology.md` — added Justin's *logos spermatikos* doctrine; updated sources_ingested (2→3)
+- `concepts/baptism.md` — added Justin's Ch. LXI description (*phōtismos*, triadic formula, choice vs. necessity); updated sources_ingested (1→2)
+- `wiki/index.md` — new entries in texts, commentators, concepts, figures sections
+
+Raw source filed: `git mv` to `raw/texts/`.
+
+## 2026-06-28 ingest | Origen, *Complete Works* (Schaff/ANF)
+
+Source: `raw/scholarship/The Complete Works of Origen (8 Books) Cross-Linked to the Bible (Origen Philip Schaff) (z-library.sk, 1lib.sk, z-lib.sk).txt` — Schaff/ANF translations (Crombie/Tollinton/Roberts-Donaldson). Lines 1–46509. KJV Bible appendix (lines 46510–120023) excluded. Scope: complete Origen text in the file — **read in full**. Deployed-subagent strategy: 18 Sonnet subagents extracted disjoint line-ranges (A 1–2434 / B 2435–4891 / C 4892–8187 / D 8188–10475 / E 10476–13712 / F 13713–16393 / G 16394–18736 / H 18737–22105 / I 22106–24260 / J 24261–26966 / K 26967–29108 / L 29109–31415 / M 31416–34861 / N 34862–37376 / O 37377–39384 / P 39385–41000 / Q 41001–44500 / R 44501–46509); main thread owned scaffold, taxonomy, all page creation, synthesis sections, coverage ledgers, and tie-together.
+
+New pages: commentators/origen, texts/de-principiis, texts/contra-celsus, texts/commentary-on-john-origen, texts/commentary-on-matthew-origen, texts/letters-of-origen.
+
+Key content: *De Principiis* Preface (six apostolic heads + open questions) + Books I–IV (subordinationist Trinity; eternal generation; pre-existence and fall of souls; world as remedial school; multiple aeones; free will and Pharaoh; *apokatastasis*; three-level hermeneutic; stumbling-block theory; eternal Gospel); *Letters* (Africanus–Origen debate on Susanna/LXX canon; Hexapla methodology; spoils of Egypt); *Contra Celsus* Books I–VIII (Panthera charge; sorcery/magic distinction; comparative religion; allegorical defense of anthropomorphisms; Plato vs. Moses; civic-parasite refutation; moral-transformation criterion throughout); *Commentary on John* Books I, II, IV–VI, X (eternal Gospel; Logos divine names; Voice/Word distinction; Jordan typology; Temple as soul allegory; Christ's omniscience and believing *in* vs. *in His name*); *Commentary on Matthew* Books I–II, X–XIV (harmony-of-Scripture as governing premise; anti-Gnostic dragnet; Peter's-rock democratization; guardian-angel advancement theology; divorce/celibacy eschatology).
+
+Note on Matthew book divisions: actual Gospel coverage in the source differs from the Schaff table; Book XII covers Matt 16:1–17:9 (not 17:10ff); Book XIV ends at Matt 19:11 (not 22:33) — scaffold table corrected accordingly.
+
+Raw source filed to raw/scholarship/.
+
+## 2026-06-28 ingest | Johannes Zachhuber, *The Rise of Christian Theology and the End of Ancient Metaphysics* — Scope 1 (Intro + Ch. 2)
+
+Source: `raw/The rise of Christian theology and the end of ancient metaphysics  patristic philosophy from the Cappadocian Fathers to John… (Johannes Zachhuber) (z-library.sk, 1lib.sk, z-lib.sk).txt` (OUP, 2020). **Scholarship / patristic philosophy.** Large monograph partitioned into a **6-scope plan** (recorded on the scholarship page). Scope 1 = **Introduction + Chapter 2 (lines 42–2814) — read in full** on the main thread (sequential read; footnotes/Greek apparatus as supporting context). Bibliography (lines 12418–13475) excluded as apparatus.
+
+Scope 1 covers: §1.1–1.3 (patristic thought as Christian philosophy; chronological scope to John of Damascus; the "rise of Christian theology / end of ancient metaphysics" thesis) and §2.1–2.4 (background — Origen, the homoiousians/Athanasius, Apollinarius, Eunomius; the **abstract account** in Basil and Nazianzen; the **concrete account** in Gregory of Nyssa — cosmology + *To Ablabius*; the *Epistle 38* synthesis; the systematic structure and tensions of the classical theory).
+
+Pages created: `scholarship/zachhuber-rise-of-christian-theology.md` (source summary + scope plan + ledger), `concepts/ousia-hypostasis-distinction.md` (the classical theory — abstract/concrete accounts), `commentators/basil-of-caesarea.md`, `commentators/gregory-of-nyssa.md`, `commentators/gregory-of-nazianzus.md`, `commentators/eunomius.md`, `commentators/apollinarius-of-laodicea.md`.
+
+Pages extended: `groups/cappadocian-fathers.md` (Zachhuber's abstract/concrete reconstruction; sources_ingested 1→2), `concepts/trinity.md` (the Greek patristic apparatus section; sources_ingested 2→3). Index updated (new Greek-Fathers/Cappadocians commentator subsection; Patristic Philosophy scholarship entry; Patristic Metaphysics concept subsection). Resolves prior red links `basil-of-caesarea`, `gregory-of-nyssa`, `gregory-of-nazianzus` (referenced from `cappadocian-fathers`).
+
+Key takeaways: (1) Zachhuber reads patristic doctrine *as philosophy*; (2) the Cappadocian "classical theory" has two versions (Basil abstract / Gregory of Nyssa concrete), fused in *Epistle 38*; (3) **contra Lossky/Zizioulas**, the Cappadocian Trinity is an ontology of being-as-one continuous with Hellenism — the real metaphysical "revolution" came later from Christology (conceptualizing the individual *as individual*). Recorded as a scholarly position (not adjudicated) where it contests the personalist reading.
+
+**Multi-scope work in progress** — raw source NOT yet filed out of `raw/` root (filing happens after the declared whole-work scope is complete). Scopes 2–6 pending; next pass = Ch. 3 (lines 2815–4477).
+
+## 2026-06-28 ingest | Johannes Zachhuber, *The Rise of Christian Theology* — Scope 2 (Ch. 3)
+
+Source: `raw/The rise of Christian theology and the end of ancient metaphysics ... (Johannes Zachhuber) ...txt` (OUP, 2020). Scope 2 = **Chapter 3, "The Rise of the Classical Theory and the Challenge of Christology" (lines 2882–4424) — read in full** on the main thread (sequential). Covers §3.1 (the classical theory becomes a *koine* — Cyril of Alexandria and Theodoret of Cyrus; §3.1.2 the Cappadocians as symbols of Christian *paideia*) and §3.2 (Christology's philosophical challenges — the classical theory's lack of an account of individuation; the Apollinarian debate and Gregory of Nyssa's implicit "abstract reduction" of *physis*; the double homoousion in Apollinarius/Nestorius/Cyril/Theodoret; the *two natures → two hypostases* inference; §3.2.3 Chalcedon as a crisis of the classical theory).
+
+Pages created: `commentators/cyril-of-alexandria.md`, `commentators/theodoret-of-cyrus.md`, `commentators/nestorius.md`, `concepts/double-homoousion.md`, `controversies/chalcedonian-definition.md`.
+
+Pages extended: `concepts/hypostatic-union.md` (patristic-philosophy background — the individuation problem, double homoousion, Chalcedon crisis; sources_ingested 1→2), `concepts/ousia-hypostasis-distinction.md` (5th-c. koine spread via Cyril/Theodoret; Christological-crisis fill-in), `scholarship/zachhuber-rise-of-christian-theology.md` (scope plan + ledger + Scope 2 pages). Index updated (Cappadocians commentator subsection extended; double-homoousion concept; chalcedonian-definition controversy subsection).
+
+Key takeaways: (1) the Cappadocian "classical theory" became a shared *koine* by the early 5th c. — Cyril (Alexandrian) and Theodoret (Antiochene) both presuppose it despite opposed Christologies; (2) the theory had **no account of individuation**, making it ill-suited to Christology; (3) the double homoousion + the shared *two-natures-imply-two-hypostases* inference left **Chalcedon's "two natures in one hypostasis" philosophically unsupported** — the crisis that drove the rest of the book. Contradiction Protocol observed on `controversies/chalcedonian-definition.md` (three Christologies recorded, not adjudicated).
+
+Forward references to "Severus of Antioch" left as plain text (page created in Scope 3). **Multi-scope work in progress** — raw source NOT yet filed. Next pass = Ch. 4 (Severus/miaphysitism) + Ch. 5 (Philoponus), lines 4425–6536.
+
+---
+
+## [2026-06-28] ingest | Delphi Complete Works of Clement of Alexandria
+
+**Scope:** the complete English translations of Clement's works in the Delphi edition (2016) —
+Protrepticus, Paedagogus (I–III), Stromata (I–VIII), Quis Dives Salvetur, Exhortation to Endurance,
+and the Fragments. **Read in full for its declared scope** (source lines 24–32110). **Excluded:** the
+untranslated Greek texts (lines 32111–58635) and the appended Delphi editorial biographies by
+Butterworth and Coxe (58636–59410). Minor in-scope caveats noted in the coverage ledger on
+`commentators/clement-of-alexandria.md`: Stromata Bk I Chs. XVIII–XXIX & Bk II Chs. XIII–XXIII read via
+the chapter-table + chapter openings; Paedagogus II.10 and parts of the Stromata III marriage material
+are in Latin in this edition (the latter covered via the parallel LCC English).
+
+**Method:** Deployed Subagent Strategy — 6 Sonnet subagents over disjoint line-ranges wrote
+quote-anchored extraction notes to scratchpad; the main thread owned all structure, taxonomy, and
+synthesis. Scaffold (commentator page + 5 text stubs) built before spawning.
+
+**Pages created:** `commentators/clement-of-alexandria.md` (with scope plan + coverage ledger);
+texts `protrepticus`, `paedagogus`, `stromata`, `quis-dives-salvetur`, `clement-fragments`;
+concepts `apatheia`, `use-of-wealth`, `second-repentance`; figure `basilides`; group `carpocratians`;
+controversy `rich-man-renunciation`.
+**Pages extended:** `figures/clement-of-alexandria.md` (cross-linked to new commentator/text pages;
+Excerpta-ex-Theodoto note corrected — not in this edition; sources_ingested 1→2); concepts
+`theosis-divine-nature`, `apophatic-theology`, `gnosis`, `harmony-of-religion-and-philosophy`,
+`logos-christology`, `freedom` (patristic free-will section), `mystery-cults`; figures `john-apostle`
+(the robber legend). Index updated (new dated Clement block).
+
+**Key takeaways:** (1) Clement is the first Christian to make Greek philosophy a *positive* preparation
+for the Gospel ("schoolmaster to bring the Hellenic mind to Christ") while subordinating it via the
+"theft of the Greeks"; (2) his signature move is reclaiming "Gnostic" for the orthodox believer — the
+true Gnostic attains apatheia and assimilation to God ("made a god going about in flesh"), an early
+deification doctrine bridging to Origen; (3) Stromata V is a *locus classicus* of apophatic theology
+("knowing not what He is, but what He is not"); (4) Quis Dives Salvetur founds the "disposition not
+dispossession" tradition of wealth ethics. **Faithfulness flag:** the Delphi "Fragments" do NOT contain
+the Excerpta ex Theodoto/Eclogae Propheticae — no Valentinian aeon-system material attributed to this
+source. Lint clean for all new pages. Raw source filed to `raw/texts/`.
+
+## 2026-06-28 | ingest | Perl, *Theophany: The Neoplatonic Philosophy of Dionysius the Areopagite* (SUNY Press, 2007)
+
+**Source type**: Scholarship — philosophical monograph. Author: Eric D. Perl (University of Dallas / Catholic University of America).
+
+**Scope**: Introduction + Chapters 1–7 + Conclusion — read in full (body text lines 145–4677; endnotes section lines 4678–5824). Bibliography/Index excluded as apparatus.
+
+**Note on file structure**: The file contains the book body in lines 145–4677, followed by the endnotes section (organized by chapter) in lines 4678–5824. Initial subagents (A and B) were mistakenly assigned the endnotes range; three corrective body-text agents (C, D, E) were then deployed. Both body text and endnotes have now been fully read and integrated. Coverage is complete for the declared scope.
+
+**Pages created**:
+- `wiki/scholarship/perl-theophany.md` — source summary page; full chapter-by-chapter summaries (body text + endnotes); coverage ledger complete
+
+**New concept pages**:
+- `wiki/concepts/theophany.md` — Perl's central category: all being as God's self-manifestation; transcendence/immanence synthesis; hierarchy/cognition/symbolism as theophany's ramifications
+
+**Pages extended**:
+- `wiki/commentators/pseudo-dionysius.md` — added `## Perl's Philosophical Reading (*Theophany*, 2007)` with subsections for each chapter pair: Perl's methodological bracketing of Trinity/Christology/liturgy; rejection of the accusation/exculpation pattern; body-text summaries per chapter
+- `wiki/concepts/apophatic-theology.md` — extended with Perl's philosophical account: apophasis as logical necessity from the being/intelligibility identity; refutation of Rorem's "human limitation" framing and Derrida's misreading; symbolism as the positive face of apophasis
+- `wiki/concepts/evil-as-privation.md` — extended with Perl's Ch. 4 privation analysis: how evil falls outside theophany; the demon/fallen-angel case; the causelessness/unintelligibility of evil
+
+**Key interpretive contributions**:
+1. Dionysius as Neoplatonic philosopher: Perl's method brackets trinitarian doctrine, Christology, and liturgy — reading Dionysius as philosophy, not as theology under apology
+2. Theophany as the governing concept: all being = God's self-manifestation; transcendence and immanence are logically identical
+3. Apophasis as philosophical necessity: the being/intelligibility identity (Parmenides → Plato → Plotinus → Dionysius) requires that the first principle transcend being; apophasis is not rhetoric but logical conclusion
+4. The hierarchy, cognition, and symbolism chapters extend theophany into structure/reception/expression
+5. Evil as falling outside theophany: privation is non-being, hence outside the divine self-manifestation; evil is causeless and unintelligible
+
+**Raw source filed**: `mv` to `raw/scholarship/` (raw/ is git-ignored, so `mv` used rather than `git mv`)

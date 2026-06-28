@@ -58,6 +58,13 @@ The Popol Vuh enshrines the central Mesoamerican ideas — humanity **created of
 the gods**, the **conquest of death** by the Hero Twins (who become sun and moon), and the **cyclical
 creations** — and is the wiki's window onto the [[maya-religion|Maya]] sacred world.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[xibalba]]
+
 ## Sources Ingested
 
 1. *Popol Vuh* (public-domain English translation, Project Gutenberg #56550) —

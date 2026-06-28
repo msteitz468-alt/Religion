@@ -214,6 +214,13 @@ A continuous history of book-burnings and confiscations (Ch. XIX):
 - Notable Christian defender: **Johannes Reuchlin** (1455–1522, humanist) — defended Hebrew
   books in Oct. 1510 report; persecuted by Dominicans; supported by Luther, Erasmus, Melanchton
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[aggadah]] · [[covenant]] · [[gemara]] · [[halacha]] · [[oral-torah]] · [[pilpul]] · [[talmudo-iranica]]
+
 ## Sources Ingested
 
 1. [[isaac-unterman|Unterman, Isaac]]. *The Talmud: Its Origin and Development, Methods and Systems*. New York: Bloch, 1952/1965.

@@ -232,3 +232,9 @@ that a Christian's plain "yes/no" should need no reinforcement.
 - [[wisdom-literature|Wisdom Literature]] — the contested genre classification
 - [[romans|Romans]] / [[galatians|Galatians]] — Paul's justification material
 - [[new-covenant|New Covenant]] — Jer. 31:33 background to "the law of liberty" (1:25)
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[covenantal-nomism]] · [[double-mindedness]] · [[justification]] · [[wisdom-literature]]

@@ -61,3 +61,9 @@ the Young") with Niamh and his fatal return to a Christianized Ireland three hun
 - [[lugh|Lugh]], [[nuada|Nuada]], [[the-dagda|the Dagda]], [[morrigan|the Morrígan]], [[brigid|Brigid]],
   [[dian-cecht|Dian Cécht]], [[manannan|Manannán]], [[balor|Balor]]
 - Welsh counterpart: [[mabinogion|the Mabinogion]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[the-otherworld]] · [[the-tuatha-de-danann]]

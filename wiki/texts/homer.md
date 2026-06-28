@@ -72,6 +72,13 @@ Rome ([[virgil-aeneid|the *Aeneid*]]).
 Ithaca — the Cyclops, Circe, the Sirens, the descent to the dead, the wrath of [[poseidon|Poseidon]], and the
 protection of [[athena|Athena]] — to reclaim his wife Penelope and his home.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[fate-moirai]]
+
 ## Sources Ingested
 
 1. *The Iliad of Homer* and 2. *The Odyssey of Homer* (Butler prose translations, public domain) —

@@ -45,6 +45,13 @@ into a graduated **thematic sequence** (the human condition → ethics and a for
 the path → the planes of realization), recovering the canon's implicit pedagogy of "gradual
 training" — see [[bodhi-in-the-buddhas-words|the scholarship page]].
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[abhidharma]] · [[four-noble-truths]]
+
 ## Sources Ingested
 
 1. Selected suttas and the [[dhammapada|Dhammapada]] (Buddharakkhita) via public-domain editions in

@@ -33,3 +33,9 @@ The text is not classed as divine revelation (that status is reserved for the wr
 - [[abdu-l-baha|'Abdu'l-Bahá]] — author
 - [[dreyfus-barney|Laura Dreyfus-Barney]] — interlocutor
 - [[soul-bahai|Soul]] — major theme
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[soul-bahai]]

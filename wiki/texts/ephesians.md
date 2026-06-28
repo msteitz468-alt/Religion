@@ -139,3 +139,9 @@ The Spirit is given as "the promised Holy Spirit" and functions as a "pledge" (*
 - [[galatians|Letter to the Galatians]] — the closest thematic parallel: Jew-Gentile unity, the law, new creation
 - [[romans|Letter to the Romans]] — the more systematic treatment of many of Ephesians' themes
 - [[colossians|Letter to the Colossians]] — the sister letter, written simultaneously; closest verbal parallels
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[eschatological-temple]] · [[heis-kainos-anthropos]] · [[mysterion]] · [[principalities-powers]]

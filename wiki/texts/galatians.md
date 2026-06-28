@@ -155,3 +155,9 @@ This text is subject to multiple overlapping and sometimes conflicting interpret
 - [[1-corinthians|First Letter to the Corinthians]] — "the world has been crucified to me" (Gal. 6:14) echoes 1 Cor. 1:18–25
 - [[abraham|Abraham]] — the central OT figure in the argument of chapters 3–4
 - [[covenant|Covenant]] — the distinction between Abrahamic and Mosaic covenants is foundational to the letter's argument
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[stoicheia]]

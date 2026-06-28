@@ -52,6 +52,33 @@ Rudolph notes that while Christian Gnosticism (Valentinian, Sethian) is the best
 - Challenges and provokes the development of orthodox positions on creation, incarnation, resurrection, and canon (see [[gnostics|Gnostics]] group page, [[bauer-thesis|Bauer Thesis]], [[rule-of-faith|Rule of Faith]], [[nt-canon-formation|NT Canon Formation]]).
 - Cross-tradition echoes in later esoteric, mystical, and "Gnostic revival" movements (modern Theosophy, Jungian interpretation, etc.).
 
+## Clement of Alexandria's Orthodox Reclamation
+
+[[clement-of-alexandria|Clement of Alexandria]] (c.150–215) executes a remarkable counter-move: he
+**reclaims the word "Gnostic" for the orthodox believer**, deliberately appropriating the heretics'
+prestige-term and relocating true *gnosis* within the catholic Church. For Clement, *gnosis* is not a
+secret cosmological revelation that saves a pneumatic elite, but the **mature fruit of faith** —
+"neither is knowledge without faith, nor faith without knowledge." All Christians begin with
+[[rule-of-faith|faith]]; the perfected "Christian Gnostic" advances from faith to knowledge to love.
+This Gnostic does good "out of love, and for the sake of its own excellence," not for reward, attains
+[[apatheia|passionlessness]], and is "assimilated to God" ([[theosis-divine-nature|deified]]); his
+whole life is unceasing prayer.
+
+Crucially, Clement **inverts the Gnostic markers**:
+- *Gnosis* is open in principle to all who pursue it through faith, not the natural endowment of a
+  saved-by-nature elite — against [[basilides|Basilides]] and [[valentinus|Valentinus]], he insists
+  faith and election are **voluntary**, not natural (see [[freedom|free will]]).
+- The Creator and the material world are **good**, not the work of an ignorant [[demiurge|Demiurge]];
+  the one God of Law and Gospel is affirmed against Marcion and the Valentinians.
+- He nonetheless retains the esoteric form: an unwritten apostolic tradition of *gnosis* "imparted...
+  to a few," and truth deliberately veiled from "the profane."
+
+Clement is thus simultaneously a **primary witness** to the heretical Gnostics (the [[stromata|
+Stromata]] preserves fragments of [[valentinus|Valentinus]], Heracleon, [[basilides|Basilides]],
+Isidore, and the [[carpocratians|Carpocratians]]) and the architect of an orthodox alternative carried
+forward by [[origen|Origen]]. The famous Valentinian formula quoted above (*Exc. Theod.* 78.2) survives
+precisely because Clement preserved it.
+
 ## Key Sources and Influence
 
 Rudolph's *Gnosis* provides the most systematic phenomenological account. Primary witnesses: Nag Hammadi tractates (especially *Apocryphon of John*, *Gospel of Truth*, *Gospel of Philip*, *Trimorphic Protennoia*); heresiologists (Irenaeus on Valentinian gnosis; Hippolytus); Manichaean and Mandaean texts. The recovery of primary sources since 1945 has allowed scholars to hear Gnostic self-descriptions of gnosis rather than only polemical caricatures.

@@ -113,6 +113,13 @@ Provan reads Kings typologically within the full biblical canon:
 - **[[lamentations|Lamentations]]**: The grief response to what Kings describes and theologically interprets
 - **[[davidic-covenant|The Davidic Covenant]]**: Kings is the sustained dramatic exploration of the conditional/unconditional tension in 2 Sam 7
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[deuteronomistic-history]] · [[succession-narrative]]
+
 ## Sources Ingested
 
 1. [[iain-provan|Provan, Iain W.]]. *1 and 2 Kings*. New International Biblical Commentary. Peabody: Hendrickson; Carlisle: Paternoster, 1995.

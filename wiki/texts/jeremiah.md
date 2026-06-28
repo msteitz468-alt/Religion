@@ -147,6 +147,13 @@ This passage is quoted in Hebrews 8:8-12 and 10:16-17 — together constituting 
 - **[[theodicy|Theodicy]]**: Lamentations and Jeremiah together provide the most comprehensive OT treatment of the theodicy question from within the catastrophe itself
 - **[[psalms|Psalms]]**: Jeremiah's Confessions draw on the protest psalm tradition; the psalms of protest provide the vocabulary Jeremiah personalizes
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[new-covenant]]
+
 ## Sources Ingested
 
 1. [[john-goldingay|Goldingay, John]]. *The Book of Jeremiah*. NICOT. Grand Rapids: Eerdmans, 2021.

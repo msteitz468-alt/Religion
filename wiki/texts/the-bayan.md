@@ -45,3 +45,9 @@ There are French translations of both works (by A.L.M. Nicolas). Browne produced
 - [[kitab-i-aqdas|Kitáb-i-Aqdas]] — the Bahá'í holy law that superseded Babi law in the Bayán
 - [[kitab-i-iqan|Kitáb-i-Íqán]] — Bahá'u'lláh's work regarded as the Bayán's completion
 - [[smith-concise-encyclopedia-bahai-faith|Smith, Concise Encyclopedia]] — source
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[he-whom-god-shall-make-manifest]] · [[huququ-llah]] · [[qiblah-bahai]]

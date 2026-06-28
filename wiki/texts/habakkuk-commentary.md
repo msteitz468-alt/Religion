@@ -104,3 +104,9 @@ The Habakkuk Commentary is the primary documentary witness to:
 
 ## See Also
 [[pesher]] · [[teacher-of-righteousness]] · [[kittim]] · [[essenism]] · [[community-rule]] · [[damascus-document]] · [[dead-sea-scrolls-vermes]] · [[two-spirits-doctrine]]
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[kittim]] · [[pesher]]

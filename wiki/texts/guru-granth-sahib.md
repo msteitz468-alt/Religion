@@ -2880,6 +2880,13 @@ The SGGS as printed ends on **Ang 1430** with the Raag Maalaa's conclusion. The 
 - [[guru-granth-sahib|Guru Granth Sahib]] — the text these sections conclude
 - [[sikhism|Sikhism]] — tradition to which these texts belong; Raag Maalaa debate is a live intra-tradition controversy (see [[who-is-a-sikh|Who Is a Sikh?]] page for related canon debates)
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[akal-purakh]] · [[amrit-sanskar]] · [[ardas]] · [[brahm-gyani]] · [[gurdwara]] · [[gurmat]] · [[mul-mantar]] · [[naam]] · [[nadar]] · [[nam-simaran]] · [[nit-nem]] · [[saadh-sangat]] · [[sant-tradition]] · [[shabad]] · [[the-guru]]
+
 ## Coverage Ledger
 
 - **From [[mcleod-sikhism|McLeod, *Sikhism*]] Ch. 8 + scripture-translation Appendix** — read in full

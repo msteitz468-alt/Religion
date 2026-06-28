@@ -207,6 +207,13 @@ Buck's opening explicitly locates the story within the yuga cosmology: "We live 
 
 **The wandering years and Anasuya's gifts.** Moving south through the Vindhyas, Rāma's party visits the hermitage of Atri and Anasuya. Anasuya gives Sītā a never-fading garland, never-tarnishing gold ornaments, and a sandalwood jar that never empties (lines 5700–5705). They wander from place to place for thirteen years until late in the fourteenth spring. Book 2 (Ayodhyā) ends; the Forest Book (Part Two: Sītā's Rescue) begins at line 5730.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[rama-raj]]
+
 ## Sources Ingested
 
 1. [[wendy-doniger|Wendy Doniger]], *[[doniger-the-hindus|The Hindus: An Alternative History]]* (2009),

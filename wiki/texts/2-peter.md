@@ -182,3 +182,9 @@ Peshitta** and was slow to gain acceptance. It was confirmed canonical by the 4t
 367 list) and is now canonical for all three Western/Eastern streams. The doubts are inseparable from
 the authorship question — see [[2-peter-authorship|2 Peter authorship / testament genre]] and the
 [[2-peter-jude-relationship|relationship to Jude]].
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[new-creation]] · [[theosis-divine-nature]]

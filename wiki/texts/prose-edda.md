@@ -39,6 +39,13 @@ clearest window onto [[norse-religion|Norse religion]] — most popular retellin
 be read alongside the older [[poetic-edda|Poetic Edda]], not behind it. Snorri also has a [[snorri-sturluson|
 commentator page]] for his role as the great medieval systematizer of the myths.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[ragnarok]]
+
 ## Sources Ingested
 
 1. *The Prose Edda*, trans. Arthur Gilchrist **Brodeur** (1916, public domain; "The Younger Edda") —

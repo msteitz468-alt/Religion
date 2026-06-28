@@ -109,6 +109,13 @@ The closing Slok establishes **kirat karo** (honest labor) alongside Naam medita
 
 Japji is the first element of the early-morning order of Sikh worship. "Having risen early a Sikh should bathe and repeat these works" — Japji, followed by Guru Gobind Singh's Jap Sahib, and then the Ten Savayyas from the Dasam Granth (~L1382–1386). Japji is chanted, not sung, distinguishing it from virtually all other compositions in the Adi Granth.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[ardas]] · [[mul-mantar]] · [[naam]] · [[nit-nem]] · [[shabad]]
+
 ## Manuscript Tradition and Text Format
 
 McLeod notes that the text of the Adi Granth and Dasam Granth runs continuously to the right-hand margin without line breaks; the end of each hymn-line is marked by "do dande" — two vertical strokes (||) (~L1374–1381).

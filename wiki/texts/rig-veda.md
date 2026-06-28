@@ -86,6 +86,13 @@ is addressed as supreme in turn — not because the worshipper believes in only 
 approached deity receives, *in that moment*, the whole force of devotion. Serial, situational monotheism
 rather than true polytheism.
 
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[asha-druj]] · [[atman]] · [[bhakti]] · [[brahman]] · [[henotheism]] · [[rita]] · [[varnas]] · [[yajna]]
+
 ## Sources Ingested
 
 1. *The Hymns of the Rigveda*, trans. Ralph T. H. **Griffith** (1896, public domain; complete, 1,028 hymns)

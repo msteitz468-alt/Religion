@@ -158,3 +158,9 @@ provides the cosmological sequence (activity-stillness → yin-yang → Five Pha
 - [[taiji|taiji (Supreme Polarity)]] — cosmological concept underlying both texts
 - [[daotong|daotong]] — the lineage in which the *Tongshu* plays a foundational role
 - [[neo-confucianism|Neo-Confucianism / Daoxue]] — the tradition shaped by these texts
+
+## Concepts
+
+Concept pages developed from this text:
+
+[[taiji]]
