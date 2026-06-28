@@ -5,8 +5,8 @@ tradition: Judaism / Christianity / Islam / cross-tradition
 textual_sources: [Book of Job]
 dates: [patriarchal-era setting (traditional); composition debated, Hartley argues 7th cent. BCE]
 roles: [righteous sufferer, theodicy exemplar, model of disinterested faith, friend of God]
-sources_ingested: 2
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [figure, cross-tradition, wisdom-literature, theodicy, suffering, job]
 ---
 
@@ -26,6 +26,8 @@ Job is introduced as "blameless and upright, one who feared God and turned away 
 ## Tradition-Specific Reception
 
 **Judaism**: Job is a righteous Gentile (or sometimes identified with biblical figures). The Talmud debates whether he was a real person or a parable (Bava Batra 15a). His complaints are studied as honest lament; the theophany and restoration affirm that God is just even when inscrutable. Medieval commentators (Rashi, Ibn Ezra, Rambam) wrestle with the problem of evil and the limits of theodicy. Job models *yir'at shamayim* (fear of Heaven) under trial.
+
+**Maimonides' Allegorical Reading** (*Guide for the Perplexed* III.XXIII): Maimonides treats the Book of Job explicitly as a *mashal* (parable) designed to encode every major philosophical position on divine [[divine-providence|providence]]. He assigns each of the five speakers a named philosophical doctrine: "The view ascribed to job is the theory of Aristotle. Eliphaz holds the opinion taught in Scripture, Bildad's opinion is identical with that of the Mu'tazilah, whilst Zofar defends the theory of the Asha'riyah. These were the ancient views on Providence; later on a new theory was set forth, namely, that ascribed to Elihu" (Ch. XXIII). Job's initial position — that the perfect and the wicked are destroyed alike, and that God holds humanity in contempt — is precisely the Aristotelian view that there is no special individual providence. Maimonides argues that this error arose from Job's knowing God only "by the hearing of the ear" (tradition, *shemu'ah*), not by rational investigation, so he mistook bodily goods (health, children, wealth) for the true goods of human life. When Job finally says "I have heard of thee by the hearing of the ear; but now mine eye seeth thee. Wherefore I abhor myself, and repent because of dust and ashes" (xlii. 5–6), Maimonides reads this as intellectual conversion: Job now recognizes that "there is undoubtedly true felicity in the knowledge of God; it is attained by all who acquire that knowledge, and no earthly trouble can disturb it." This final utterance justifies God's commendation of Job over his friends. Maimonides explicitly rejects the Talmudic mitigation (B.T. Baba B. 16a) that the commendation merely excuses Job's pain-driven blasphemy; for Maimonides, the commendation reflects Job's final *correct* position. The principal lesson of the whole book is an application of [[negative-theology]]: "we should not fall into the error of imagining His knowledge to be similar to ours, or His intention, providence, and rule similar to ours. The term 'rule' has not the same definition in both cases: it signifies two different notions, which have nothing in common but the name" (Ch. XXIII).
 
 **Christianity**: Classic study in theodicy, innocent suffering, and the limits of retribution ("the friends" represent bad pastoral care). The book is read as preparation for the cross: a righteous sufferer who is vindicated. Elihu's mediating angel and "ransom" language is sometimes seen as pointing to Christ. James highlights Job's *hypomonē* (steadfast endurance). Many see the Suffering Servant of Isaiah (and thus Christ) as modeled on Job (per Hartley). The whirlwind speeches humble human claims to judge God; the epilogue shows restoration beyond what retribution would predict. In liturgy and art, Job is the patron of the suffering righteous.
 
@@ -49,7 +51,7 @@ Job tests the proposition that disinterested fear of God is possible. The heaven
 
 Hartley (NICOT) treats the book as a unified literary masterpiece whose message modifies simplistic retribution and prefigures the Suffering Servant/Christ. The "Aim" sections and focus on message over emendation have shaped evangelical preaching. The book is foundational for theodicy (Augustine, Aquinas, Calvin, Barth, Gutiérrez's *On Job*), pastoral care (the friends as negative example), and wisdom theology. In Jewish tradition it probes the boundaries of protest and piety. Islamic Ayyub models prophetic patience. Modern scholarship (newsom, clines, habel) explores the polyphonic voices and the failure of all human systems (including Job's) before the divine. The figure remains the supreme biblical example of faith that refuses to let go of God even when God seems to have let go of the faithful.
 
-**Key Links**:
+**Key Links** (updated 2026-06-27 — Maimonides section added from *Guide* III.XXIII):
 - [[book-of-job|Job]] (text page, Hartley on message, Elihu, Suffering Servant link)
 - [[isaiah|Isaiah]] (Servant Songs modeled on Job per Hartley)
 - [[psalms|Psalms]] (Ps 73 theodicy parallel)
@@ -57,3 +59,6 @@ Hartley (NICOT) treats the book as a unified literary masterpiece whose message 
 - [[hebrews|Hebrews]] and [[james|James]] (endurance)
 - [[suffering|Theodicy / Innocent Suffering]] controversies
 - [[melchizedek|Melchizedek]] and other non-Israelite righteous figures for cross-tradition
+- [[divine-providence]] (Maimonides' five-views schema derived from Job's dialogue)
+- [[guide-for-the-perplexed]] (source of the allegorical reading)
+- [[maimonides]] (commentator page)

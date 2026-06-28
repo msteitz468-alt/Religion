@@ -11,15 +11,17 @@ key_doctrinal_distinctives: [tantra, mantra and visualization, deity yoga, the g
 hermeneutical_method: [neyartha-nitartha, esoteric transmission, twilight/coded language (sandhya-bhasa), guru-given meaning]
 key_figures: [gautama-buddha, Padmasambhava, Nagarjuna]
 key_texts: [heart-sutra, lotus-sutra]
-sources_ingested: 0
-last_updated: 2026-06-09
+sources_ingested: 1
+last_updated: 2026-06-27
 tags: [sect, buddhism, vajrayana, tantra]
 ---
 
 # Vajrayana
 
 > **Sect page.** The tantric vehicle, built atop [[mahayana|Mahayana]]; dominant in Tibet and the
-> Himalaya. *(Stub — the Bardo Thodol download failed at the file's URL; flagged for re-sourcing.)*
+> Himalaya. Its Tibetan lineages are detailed at [[nyingma|Nyingma]] (with [[dzogchen|Dzogchen]]),
+> Kagyu, Sakya, and Gelug; for the death/bardo literature see the
+> [[bardo-thodol|Tibetan Book of the Dead]].
 
 ## Identity and Origins
 

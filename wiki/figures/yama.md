@@ -1,13 +1,13 @@
 ---
 title: Yama
 also_known_as: [Yama; the first mortal; lord of the dead; (Iranian) Yima; Yima Xshaeta ("Yima the radiant"); (Middle Persian) Jamshid]
-tradition: Vedic religion (and Hinduism); Zoroastrianism (as Yima/Jamshid)
-textual_sources: [the Rig Veda, the Atharva Veda, the Katha Upanishad; (Iranian) the Videvdad, the Yashts, the Shah Nameh]
+tradition: Vedic religion (and Hinduism); Zoroastrianism (as Yima/Jamshid); Buddhism (Vajrayana, as Yama Dharmarāja)
+textual_sources: [the Rig Veda, the Atharva Veda, the Katha Upanishad; (Iranian) the Videvdad, the Yashts, the Shah Nameh; (Buddhist) bardo-thodol]
 dates: mythological
-roles: [the first man to die; king and god of the dead; (Iranian) the first king and good shepherd of the golden age]
-sources_ingested: 2
-last_updated: 2026-06-09
-tags: [figure, vedic-religion, zoroastrianism, death, underworld, kingship]
+roles: [the first man to die; king and god of the dead; (Iranian) the first king and good shepherd of the golden age; (Buddhist) judge of the dead, embodiment of the law of cause and effect]
+sources_ingested: 3
+last_updated: 2026-06-27
+tags: [figure, vedic-religion, zoroastrianism, buddhism, death, underworld, kingship, judgment]
 ---
 
 # Yama
@@ -45,9 +45,26 @@ turns from *first to die* toward *first king*. Per
   the world "made wonderful." Rose notes that **[[persians|Cyrus]]** as "good shepherd"
   (Isa. 44.28) may have coalesced with this archetype of the just ruler.
 
+## The Buddhist Yama Dharmarāja (Tibetan Book of the Dead)
+
+In Tibetan [[vajrayana|Vajrayana]] Buddhism the same death-lord becomes **Yama Dharmarāja**
+(*gshin-rje*), the judge of the [[bardo|bardo of rebirth]] in the [[bardo-thodol|Tibetan Book of
+the Dead]]. He embodies "the infallible laws of cause and effect": the wandering consciousness is
+brought before him and his **mirror of past actions**, where an innate good and bad conscience
+tally white and black pebbles. He dismembers the deceased — who, having only a **mental body**,
+cannot die. The text's decisive teaching is that Yama and his acolytes "do not substantially
+exist": they are "your own bewildered perceptions," natural forms of emptiness — when recognition
+fails, all the [[peaceful-and-wrathful-deities|wrathful deities]] appear in his form (and the
+peaceful as Mahākāla). He is also the central character of the masked drama (Chapter 13), and the
+emanational sage who governs the hell-realm in the deity maṇḍala. The judgment is thus **real in
+experience but empty in nature** — the inescapability of [[karma|karma]] dramatised, the judge
+himself a projection of mind.
+
 ## Cross-Links
 
 - [[surya|Surya/Vivasvat]]; [[hinduism|Hinduism]] (Yama the judge); [[upanishads|the Katha Upanishad]]
+- Buddhist: [[bardo-thodol|Tibetan Book of the Dead]]; [[bardo|Bardo]]; [[six-realms|Six realms]];
+  [[karma|Karma]]; [[vajrayana|Vajrayana]]
 - [[zoroastrianism|Zoroastrianism]]; [[xwarenah|the xwarenah he loses]]; [[saoshyant|the
   Saoshyant he prefigures]]; [[ahura-mazda|Ahura Mazda]]; [[bundahishn|the Bundahishn]];
   [[mitra|Mithra]] (a fellow yazata-era figure); [[rose-zoroastrianism-an-introduction|Rose]]

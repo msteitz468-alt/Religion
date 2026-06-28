@@ -604,6 +604,17 @@ step 5 below). For a multi-scope work, checkpoint after **each** scope (ledger +
 verified on disk) and continue autonomously to the next scope in the plan; do not pause to ask
 "what next?".
 
+**Step 7 — File the raw source out of `raw/` root.** Once a source is **fully ingested for its
+declared scope** (not mid-way through a multi-scope work — wait until the work's scope plan is
+exhausted), move its file out of the top level of `raw/` into the matching typed subfolder so the
+root does not accumulate loose files: `raw/texts/` for primary texts, `raw/commentaries/` for
+commentary works, `raw/scholarship/` for academic works, `raw/misc/` for anything that fits none.
+This is a **relocation only** — never alter the file's contents (the "Never modify files in `raw/`"
+rule governs *content*; filing into a subfolder is permitted and expected). After moving, **update
+every reference to the old path**: the `Source:` line on the source's `scholarship/`/text page, its
+coverage ledger, and the `log.md` entry. Use `git mv` so history is preserved. (For an OCR'd source,
+this relocation happens together with the PDF-replacement in the OCR rule below.)
+
 > The section below remains the source of truth for fidelity, scope partitioning, page
 > contents, `canon_scope`, hermeneutical tracking, and the coverage ledger. Read it as the
 > definition of *quality*; read the six steps above as the definition of *throughput*.
@@ -737,6 +748,11 @@ sequence):
    the coverage: the declared **scope** and whether it was read in full or is still in
    progress (e.g. "scope: Vol. I Chs. I–V — read in full" or "scope: Ch. VI — partial, read
    pp. X–Y"), so the log is honest about what was read.
+6. **File the raw source out of `raw/` root.** Once the source is fully ingested for its declared
+   scope, `git mv` its file from the top of `raw/` into the matching typed subfolder (`raw/texts/`,
+   `raw/commentaries/`, `raw/scholarship/`, or `raw/misc/`), then update every reference to the old
+   path (the source page's `Source:` line and coverage ledger, and the `log.md` entry). Relocation
+   only — do not alter the file's contents.
 
 A single commentary ingest may touch 10–20 pages; a focused scope of a larger work, fewer.
 Filing should be **lean** — only the pages a span genuinely changes, extending existing pages

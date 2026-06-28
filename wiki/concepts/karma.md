@@ -123,8 +123,31 @@ point [[madhyamaka|Madhyamaka]] later analyzes under the [[two-truths|two truths
   soul, removed by austerity — the most physicalist version.
 - **Buddhism** alone makes intention constitutive and denies the self that bears it.
 
+## Jainism — Karma as Material Substance (Dundas)
+
+[[dundas-the-jains|Dundas]] (*The Jains*, ch. 4) details the most physicalist karma theory in South
+Asia. Karma is a **fine material substance** (*pudgala*, a form of [[ajiva|non-soul]]) that adheres to
+the [[jiva|soul]]; the mechanism by which a formless soul attracts matter "has to be taken on trust as a
+matter of inference and faith." The binding agents are the **passions** (*kasaya* — anger, pride,
+deception, greed; the word means "resin/stickiness"): when calmed, karma cannot stick, "just as a clod of
+earth thrown at a dried-up wall will not stick to it" (Akalanka).
+
+- **The nine *tattvas* (reals)** map the soul's career: [[jiva]], [[ajiva]], *asrava* (inflow of karma),
+  *punya* (merit), *papa* (demerit), *bandha* (binding), *samvara* (warding off inflow), *nirjara*
+  (burning off bound karma), and *[[moksha]]* (release). Umasvati's [[tattvartha-sutra|Tattvartha
+  Sutra]] gives a seven-real version (TS 1.4).
+- **Eight types of karma**, in two groups: four **harming** (*ghatiya*) — delusory (*mohaniya*, the
+  keystone), knowledge-covering, perception-obscuring, obstacle — which damage the soul's innate
+  [[kevala-jnana|omniscience]], bliss and energy; and four **non-harming** (*aghatiya*) — feeling, name
+  (whose subtype *tirthankara-naman* destines one to become a [[tirthankara|fordmaker]]), life-span, clan.
+- Karma imparts a soul-**colouring** (*lesya*), perhaps borrowed from the [[ajivikas|Ajivikas]]. Jain
+  karma is "much more elaborately thought out and systematised than its equivalent in Hinduism or
+  Buddhism" yet does **not** entail determinism. From [[kundakunda|Kundakunda]]'s *nishchaya* (ultimate)
+  standpoint, karma does not truly modify the soul at all.
+
 ## Cross-Links
 
+- [[jiva|Jain soul]], [[ajiva|Non-soul]], [[tirthankara|Fordmaker]], [[tattvartha-sutra|Tattvartha Sutra]] (Jainism)
 - [[samsara|Saṃsāra]], [[nirvana|Nirvana]], [[anatta|Non-self]],
   [[dependent-origination|Dependent origination]], [[four-noble-truths|Four Noble Truths]]
 - [[buddhism|Buddhism]], [[bhikkhu-bodhi|Bodhi anthology]], [[noble-eightfold-path|Eightfold Path]]

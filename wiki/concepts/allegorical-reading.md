@@ -60,6 +60,17 @@ narratives the ascent of the mind. Within later Jewish interpretation, allegory 
 Maimonidean rationalists used (e.g., reading the Garden narrative as the active intellect),
 and which the kabbalists appropriated and redirected toward the mystical [[pardes|Sod]].
 
+[[maimonides|Maimonides]]' [[guide-for-the-perplexed|*Guide for the Perplexed*]] is the most
+systematic deployment of this register: Scripture's literal sense is "silver" and its inner sense
+"gold" (Prov. 25:11; Guide Introduction), and the whole of Part I allegorizes the Torah's
+[[anthropomorphism|anthropomorphic]] language away. His governing rule is *dibberah Torah
+bi-leshon benei adam* ("the Law speaks in the language of man"). Critically, he **limits**
+allegory: a literal text may be read figuratively *only* where reason has *demonstrated* the
+literal sense impossible (so divine corporeality is allegorized, but the creation account is held
+literal because [[eternity-of-the-world|eternity]] is undemonstrated — Guide II:25). This
+disciplined, demonstration-gated allegoresis parallels the Islamic *[[zahir-batin|batin]]* he
+inherited from [[al-farabi|al-Farabi]] and [[avicenna|Avicenna]].
+
 ### Christian — Theoria and Allegoria
 [[origen|Origen]], building on [[philo-of-alexandria|Philo]] and
 [[clement-of-alexandria|Clement of Alexandria]], systematized a threefold sense (somatic /

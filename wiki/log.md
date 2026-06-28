@@ -3146,3 +3146,141 @@ Key contributions:
 - `traditions/confucianism/sects/neo-confucianism.md` — major revision: Daoxue self-designation, daotong as retrospective construction (Adler), weifa/yifa problem and interpenetration solution, Buddhism/Daoism parallels, full doctrinal and hermeneutical sections; sources 0→1
 
 **Index and log updated**: `wiki/index.md` (Confucianism texts section, figures section, concepts section, commentators section, new Scholarship/Confucianism subsection); `wiki/log.md` (this entry); `outstanding sources.md` (Adler ticked).
+
+---
+
+## [2026-06-27] ingest | The Tibetan Book of the Dead (Bardo Thödol) — Coleman/Jinpa/Dorje, First Complete Translation
+
+**Source**: `raw/texts/The Tibetan Book of the Dead First Complete Translation (Penguin Classics Deluxe Edition) (Graham Coleman, Thupten Jinpa, Gyurme Dorje).txt` (~18,750 lines; filed into `raw/texts/` after ingestion). Penguin Classics. First complete English translation of the full fourteen-chapter *kar-gling zhi-khro* cycle.
+
+**Scope**: whole work — read in full via deployed Sonnet subagents over six disjoint line-ranges (editorial Introduction; Chs 1–7; Chs 8–11 Pts I–II; Ch 11 Pt III–Ch 14; Appendices One & Two + Notes; Glossary of Key Terms). Main thread owned scaffolding, taxonomy, canon decisions, reconciliation, filing. Repetitive ritual rubrics and bibliographic notes skimmed; doctrinal content read. See coverage ledger on the source page.
+
+**Identification**: primary text, a Nyingma [[terma|treasure]]; **canonical_for: [nyingma]**, **authoritative_for: [vajrayana]** — divergent from the parent tradition (no standing in Theravada or East-Asian Mahayana). Recorded in `canon_scope` on the text page.
+
+**Pages created (18)**:
+- `texts/bardo-thodol.md` — the core text page (structure, six bardos, after-death journey, canon & reception, cruxes, hermeneutics)
+- `traditions/buddhism/sects/nyingma.md`; `traditions/buddhism/sects/dzogchen.md`
+- `figures/padmasambhava.md`; `figures/karma-lingpa.md`
+- `commentators/w-y-evans-wentz.md`
+- `concepts/`: `bardo.md`, `inner-radiance.md`, `peaceful-and-wrathful-deities.md`, `phowa.md`, `terma.md`, `trikaya.md`, `five-pristine-cognitions.md`, `six-realms.md`, `rigpa.md`, `natural-liberation.md`, `nyingthig.md`, `mahamudra.md`
+- `scholarship/coleman-dorje-tibetan-book-of-the-dead.md` — source summary + scope plan + coverage ledger
+
+**Pages updated (4)**:
+- `figures/yama.md` — added Buddhist Yama Dharmarāja section (bardo of rebirth, mirror of past actions, judge-as-projection); frontmatter +Buddhism, sources 2→3
+- `traditions/buddhism/sects/vajrayana.md` — removed the "Bardo Thodol re-sourcing" stub note; sources 0→1; linked Nyingma/Dzogchen/Book of the Dead
+- `traditions/buddhism/buddhism.md` — added nyingma, dzogchen to major_sects; sect-map note; sources 10→11
+- (cross-links throughout)
+
+**Bookkeeping**: `wiki/index.md` (Texts/Buddhism; Figures/Buddhism; Concepts new Vajrayāna/Nyingma subsection; Commentators/Buddhist; Scholarship/World Religions; Traditions/Buddhism sects); `outstanding sources.md` (ticked); `sources-ingested.md` (Buddhism section). Lint: TBD pages clean (no red links/orphans).
+
+## [2026-06-27] ingest | The Jains (Paul Dundas, 2nd ed., 2002)
+
+**Scope:** Introduction + Chapters 1–9 (the full body, ~lines 313–12242) — **read in full** via 7
+deployed Sonnet subagents (one per chapter range), reconciled on the main thread. Glossary/Notes/
+Bibliography/Index consulted as apparatus only. Coverage ledger on [[dundas-the-jains|the source page]].
+
+**Foundational ingest — Jainism is a new top-level tradition in the wiki.**
+
+New pages (~40):
+- `traditions/jainism/jainism.md` (tradition) + sects: `digambara`, `svetambara`, `sthanakvasi`,
+  `terapanth`, `kanji-svami-panth`, `kharatara-gaccha`, `tapa-gaccha`, `yapaniya`
+- Figures: `mahavira`, `parshvanatha`, `rshabha`, `makkhali-gosala`, `kundakunda`, `hemacandra`,
+  `banarsidas`, `lonka`, `acarya-bhiksu`, `srimad-rajacandra`, `bahubali`
+- Texts: `jain-agamas`, `kalpasutra`, `acaranga-sutra`, `tattvartha-sutra`, `samayasara`, `purvas`
+  (all with `canon_scope` recording the Digambara/Svetambara canon split)
+- Concepts: `tirthankara`, `loka`, `jiva`, `ajiva`, `kevala-jnana`, `gunasthana`, `mahavrata`,
+  `anuvrata`, `sallekhana`, `jain-asceticism`, `jain-puja`, `anekantavada`, `syadvada`,
+  `women-and-liberation-in-jainism`, `bhattaraka`, `temple-dwelling-monks`, `sramana`, `ardhamagadhi`
+- Groups: `jains`, `ajivikas`; Locations: `mathura`, `mount-satrunjaya`, `shravana-belgola`
+- Comparison: `jain-views-of-hinduism-and-buddhism`
+- Scholarship: `dundas-the-jains`
+
+Extended (Jain sections merged in): `concepts/karma.md` (karma as material substance; 9 tattvas; 8 karma
+types), `concepts/moksha.md` (release from karma; the siddhas), `concepts/ahimsa.md` (pramada/intention;
+cosmological scope).
+
+**Contradictions flagged on pages** (not adjudicated): Digambara denial of female liberation is a *later*
+hardening (early Digambara texts affirmed it); the Svetambara 45-text canon's anga/upanga division is not
+attested before the 12th c.; Mahavira eating a cock in the *Bhagavati* vs. later vegetarian glosses;
+Kundakunda's dating (2nd–3rd c. vs. post-750 CE) and the kevalin's experience of feeling-karma; the modern
+reading of *anekantavada* as "intellectual ahimsa"/tolerance as a "well-meant misreading" (Dundas).
+
+**Bookkeeping:** `index.md` (new Jainism blocks), `overview.md` (new-tradition note), source filed to
+`raw/texts/`. Lint: all Jain-relevant red links and orphans resolved.
+
+## [2026-06-27] ingest | The Incoherence of the Philosophers (al-Ghazali, trans. Marmura)
+
+**Scope:** the whole treatise — Author's Introductions + the twenty Discussions + the Book's
+Conclusion (Marmura parallel English–Arabic edition, body lines ~1262–9913). **Read in full**
+via five deployed Sonnet subagents partitioned by Discussion-range (Disc 1; Disc 2–10; Disc
+11–16; Disc 17; Disc 18–20 + Conclusion), reconciled on the main thread. Translator's
+introduction and endnotes/bibliography/index = reference apparatus, consulted as needed, not
+ingested as running content. Scope complete.
+
+**New pages:** text [[incoherence-of-the-philosophers]] (+ stub [[incoherence-of-the-incoherence]]);
+commentators [[al-ghazali]], [[avicenna]], [[al-farabi]] (+ stub [[averroes]]); sects
+[[asharism]], [[falsafa]]; concepts [[kalam]], [[takfir]], [[zahir-batin]], [[occasionalism]],
+[[emanation]], [[eternity-of-the-world]], [[divine-attributes-in-islam]],
+[[gods-knowledge-of-particulars]], [[prophetic-miracle]], [[bodily-resurrection]],
+[[soul-in-islamic-philosophy]]; controversy [[eternity-of-the-world]].
+
+**Extended:** [[islam]] (added asharism + falsafa sects; the Tahafut reason/revelation section);
+[[creation-ex-nihilo]] (Islamic *huduth* vs. eternal world).
+
+**Key takeaways:** al-Ghazali attacks [[falsafa|falsafa]] (Avicenna, al-Farabi) on its *own*
+demonstrative (*burhan*) terms, claiming its metaphysics is undemonstrated. He pronounces the
+philosophers infidels (*[[takfir]]*) on exactly three doctrines — the world's pre-eternity,
+God's ignorance of temporal particulars, and the denial of bodily resurrection — treating all
+other errors (incl. causal necessity) as *bid'a* shared with the [[mutazilism|Mu'tazila]], not
+*kufr*. The Seventeenth Discussion's denial of necessary causation ("fire does not burn… God
+creates the burning") is the classic statement of Ash'arite [[occasionalism]]. Hermeneutics: the
+*[[zahir-batin|zahir/batin]]* axis is decisive — Ghazali permits allegory only where reason
+proves the literal impossible, forbidding it for resurrection. Answered by [[averroes|Averroes]]
+in the *[[incoherence-of-the-incoherence|Tahafut al-Tahafut]]* (source present, not yet ingested).
+
+**Bookkeeping:** `index.md` (texts, commentators, concepts, sects, controversies); `overview.md`
+(Islamic-philosophy note); source filed to `raw/texts/`. Lint: all ingest red links/orphans
+resolved (created [[zahir-batin]] to clear the one red link).
+
+## [2026-06-27] ingest | The Guide for the Perplexed (Maimonides, trans. Friedländer)
+
+**Scope:** the whole *Guide for the Perplexed* (*Moreh Nevukhim* / *Dalalat al-Ha'irin*),
+Introduction + Parts I–III, body lines ~3093–25205 of the Friedländer one-volume translation —
+**read in full.** Front matter (translator's preface, life of Maimonides, analytical TOC; lines
+1–3092) consulted as apparatus, not ingested as running content; the text ends "AMEN. END." with
+no trailing notes/index.
+
+**Method:** Deployed-subagent strategy. Main thread scaffolded the central text page
+([[guide-for-the-perplexed]]) and an [[aristotle]] stub, fixed naming/taxonomy and the eight
+chapter-aligned line-ranges, then spawned **8 Sonnet subagents** (staggered batches of 2) over
+disjoint ranges: I:Intro–XXVI; I:XXVII–LVI; I:LVII–LXXVI; II:props–XXIII; II:XXIV–XLVIII;
+III:Intro–XXII; III:XXIII–XL; III:XLI–LIV. Each owned an exclusive page namespace and returned a
+"CENTRAL-PAGE CLAIMS" block (no edits to shared central pages); main thread merged. All 8
+completed cleanly (no rate limits; 70k–101k tokens each).
+
+**New pages:** texts/[[guide-for-the-perplexed]]; commentators/[[aristotle]]; concepts/
+[[anthropomorphism]], [[image-of-god-tzelem]], [[divine-names]], [[account-of-creation]],
+[[negative-theology]], [[divine-attributes]], [[existence-of-god]], [[separate-intellects]],
+[[prophecy]], [[maaseh-merkabah]], [[matter-and-form]], [[divine-providence]],
+[[reasons-for-the-commandments]], [[intellectual-perfection]]; groups/[[sabians]]. Extended:
+figures/[[job]] (Maimonides' allegorical reading).
+
+**Merged into central pages:** [[maimonides]] (new "Doctrine of the Guide" section,
+sources_ingested→2); [[kalam]] (Maimonides' I:71–76 critique of the Mutakallimun); [[judaism]]
+(philosophical-rationalist register; sources_ingested→1); [[eternity-of-the-world]],
+[[creation-ex-nihilo]], [[emanation]], [[theodicy]], [[allegorical-reading]] (Maimonidean
+sections). Controversy [[job-42-6]] gained a Maimonides position (intellectual transformation;
+his explicit rejection of the B.B. 16a "spoke in pain" mitigation — recorded without
+adjudication, Contradiction Protocol).
+
+**Key takeaways:** (1) demonstration-gated allegory — a literal text is allegorized only where
+reason *demonstrates* the literal sense impossible (incorporeality yes, eternity no → creation
+texts stand, II:25); (2) Maimonides refuses to *demonstrate* creation as firmly as he refuses
+Aristotle's eternity, resting creation on prophecy; (3) providence proportional to intellect
+(III:17–18); (4) sacrifices as a concession to Sabian-idolatry habit (III:32) — flagged as a
+notable rationalist controversy.
+
+**Bookkeeping:** `index.md` (texts, commentators, a new "Jewish Philosophy" concept cluster,
+groups); `log.md`; `overview.md`; ticked on `outstanding sources.md`; raw source filed to
+`raw/texts/`. Lint: 0 ingest red links, 0 new orphans (de-linked tangential `al-razi` and
+`thomas-aquinas` mentions per lean-filing).

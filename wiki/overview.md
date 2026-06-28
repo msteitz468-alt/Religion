@@ -968,3 +968,48 @@ and ~12 updates. With Vols I–VI the Zohar now covers the **whole of Genesis pl
 **Vol XI addendum (Hecker ingest, 2026-06-07)**: Joel Hecker’s *The Zohar: Pritzker Edition, Volume Eleven: Midrash ha-Ne’lam and Zoharic Compositions* adds the next major stratum beyond the main Torah commentary and the Genesis *Midrash ha-Ne’lam*. It includes additional concealed midrash on the Megillot (Song of Songs, Ruth, Lamentations) — extending the soul-, glory-, and exile-centered “earliest” voice — plus the independent Zoharic Compositions (*Matnitin*, Toseftot, *Zohar on Song of Songs*, and especially the *Idra Zuta* / “Small Assembly”). Hecker stresses that much of this material, though printed as *Zohar Ḥadash* (“New Zohar”), belongs to the earliest phases of the corpus. The *Idra Zuta* supplies the dramatic literary and theological climax: Rashbi’s deathbed theosophic discourse with his innermost circle, his soul departing amid the revelation of the most hidden divine secrets. This volume deepens the wiki’s coverage of Zoharic genres (concealed midrash + mystical assembly), the theurgic power of the *Ḥavrayya* circle, the figure of Rashbi, and the exegesis of the Megillot in a Sod key. Cross-linked to the new [[joel-hecker|Joel Hecker]] commentator page and expanded treatment in [[shimon-bar-yochai|Shim’on bar Yoḥai]] (Idra Zuta death scene) and [[zohar|The Zohar]] (new Structure section). Frontier advanced; Vols. X–XI represent the non-running-commentary strata.
 
 **Vol XII addendum (Wolski and Hecker ingest, 2026-06-07)**: Nathan Wolski and Joel Hecker’s *The Zohar: Pritzker Edition, Volume Twelve: Zoharic Compositions* completes the independent theosophic compositions (the non-running stratum begun in Vol. XI) and brings the entire Pritzker Edition (Vols. I–XII) into the wiki. Joint Introduction by Wolski and Hecker; Wolski translated the Heikhalot Be-Reshit, Heikhalot Pequdei, and Piqqudin; Hecker the rest. Key units: the *Heikhalot* (two versions; divine halls as Malkhut/Shekhinah’s maidens adorned for union with the sefirot/Binah — “seventh with seventh”; prayer as theurgic preparation; seventh hall hidden with multi-colored pillar; patriarchs rousing Shekhinah for protection) — see new [[heikhalot|Heikhalot]] concept; *Raza de-Razin* (physiognomy, metoposcopy, chiromancy for reading character/fate from the body, linked to *Secretum secretorum*, with distinctive Zoharic emphasis on mutability of features through sin or *teshuvah*) — see new [[raza-de-razin|Raza de-Razin]] concept; *Sitrei Otiyyot* (secrets of YHVH letters engraving and generating the sefirot as chariots); *Qav ha-Middah* (luminous Line of Measure from Ein Sof giving scale, shape, light, color, and permanence to the sefirot); plus Piqqudin, Merkevet Yeḥezqel, Zohar al ha-Parashot, and Tosefta-style addenda (Torah’s apotropaic protection, Moses’ staff/snake, blending of Compassion/Judgment, Ten Commandments in Shavu’ot context, supernal shofar = Binah on Shabbat eve). The Introduction explicitly notes that much of this material, though printed as *Zohar Ḥadash* (“New Zohar”), comprises some of the *earliest* Zoharic strata — a bibliographic misnomer. These deepen theurgy of adornment and union, letter mysticism, Ein Sof emanation, Shekhinah, and embodied esoteric knowledge (Sod level). Cross-linked to enhanced [[nathan-wolski|Nathan Wolski]] (Vols. X and XII) and [[joel-hecker|Joel Hecker]] (Vols. XI and XII), [[zohar|The Zohar]] (revised Structure section and lead list), and concepts (shekhinah, sefirot, ein-sof, theurgy, divine-name, plus new heikhalot and raza-de-razin pages). The Pritzker Edition is now fully represented; frontier for Zohar in the wiki shifts to later reception (Cordovero, Luria) or specific expansions (e.g., dedicated Idra pages, Megillot integration).
+
+---
+
+**Jainism added as a new top-level tradition (2026-06-27).** The foundational ingest of Paul Dundas's
+*The Jains* (2nd ed., 2002; whole body read in full) establishes [[jainism|Jainism]] as the wiki's second
+major non-theistic Indian [[sramana|śramaṇa]] tradition alongside [[buddhism|Buddhism]]. Like Buddhism it
+is a **multi-canon** tradition with no single shared scripture: the [[digambara|Digambara]]/[[svetambara|
+Śvetāmbara]] schism is partly a dispute over whether the original canon survives (the Śvetāmbara 45-text
+[[jain-agamas|Āgama]] vs. the Digambara claim that it is lost), with only the [[tattvartha-sutra|Tattvārtha
+Sūtra]] authoritative for both. Jainism sharpens the wiki's coverage of [[karma|karma]] (uniquely treated
+as a *material* substance), [[ahimsa|ahiṃsā]] (its most uncompromising form), and Indian epistemology
+([[anekantavada|anekāntavāda]]/[[syadvada|syādvāda]], the doctrine of many-pointedness). ~40 new pages:
+the tradition + 8 sects, 11 figures, 6 texts, ~18 concepts, 2 groups, 3 locations, and a Hindu/Buddhist
+comparison. It also fills out the **[[carvaka|nāstika]]/[[sramana|śramaṇa]] map** of non-Vedic India,
+adding the extinct [[ajivikas|Ājīvikas]] of [[makkhali-gosala|Makkhali Gosāla]].
+
+**Islamic philosophy added — the Tahafut debate (2026-06-27).** The ingest of
+[[al-ghazali|al-Ghazali]]'s *[[incoherence-of-the-philosophers|Tahafut al-Falasifa]]* (1095,
+Marmura translation; the whole treatise read in full) opens the wiki's **reason-versus-revelation**
+front in Islam. It establishes the [[falsafa|falsafa]] school (the Aristotelian–Neoplatonist
+[[al-farabi|al-Farabi]] / [[avicenna|Avicenna]] tradition) and [[asharism|Ash'arism]] (Sunni
+[[kalam|dialectical theology]]) as sect pages under [[islam|Islam]], with [[al-ghazali|al-Ghazali]],
+[[avicenna|Avicenna]], [[al-farabi|al-Farabi]], and a stub [[averroes|Averroes]] as commentators.
+The doctrinal payload — [[emanation]], the [[eternity-of-the-world|eternity of the world]],
+[[gods-knowledge-of-particulars|God's knowledge of particulars]], the immortal
+[[soul-in-islamic-philosophy|rational soul]], [[bodily-resurrection|bodily resurrection]], and
+above all [[occasionalism]] (the denial of necessary causation grounding
+[[prophetic-miracle|miracle]]) — is captured as concept pages, along with the
+*[[zahir-batin|zahir/batin]]* hermeneutic and Ghazali's selective *[[takfir]]* of the philosophers
+on three doctrines. Averroes's rebuttal, the *[[incoherence-of-the-incoherence|Tahafut
+al-Tahafut]]* (source present in `raw/`), is stubbed for a future ingest.
+
+**Medieval Jewish rationalism added — Maimonides' *Guide for the Perplexed* (2026-06-27).**
+The whole *Guide* (Friedländer trans., Intro + Parts I–III) is ingested. It anchors a new
+"Jewish Philosophy" concept cluster: [[negative-theology]] and the [[divine-attributes|doctrine
+of attributes]], [[anthropomorphism]] and [[image-of-god-tzelem|tzelem]], [[divine-names]],
+[[existence-of-god|the Aristotelian proofs]] and the [[separate-intellects|Intelligences]],
+[[prophecy]], [[maaseh-merkabah]], [[matter-and-form|evil as privation]], [[divine-providence|
+providence proportional to intellect]], [[reasons-for-the-commandments]] (and the
+[[sabians|Sabian]] foil), and [[intellectual-perfection]]. Maimonides' demonstration-gated
+[[allegorical-reading|allegoresis]] and his suspension on [[eternity-of-the-world|creation vs.
+eternity]] place him in direct dialogue with the Islamic [[falsafa]]/[[kalam]] material from the
+al-Ghazali ingest — he inherits the [[zahir-batin]] frame from [[al-farabi]] and [[avicenna]]
+yet, like [[al-ghazali]], refuses the philosophers' demonstration of eternity. His systematic
+critique of the Mutakallimun (Guide I:71–76) is recorded on [[kalam]].

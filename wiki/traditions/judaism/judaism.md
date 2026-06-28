@@ -6,8 +6,8 @@ date_range: Iron Age Israelite religion (pre-exilic) – present; "Judaism" prop
 canon_core: [genesis, exodus, leviticus, numbers, deuteronomy, book-of-joshua, judges, 1-samuel, 2-samuel, 1-2-kings, isaiah, jeremiah, ezekiel, hosea, joel, amos, obadiah, jonah, micah, zechariah, psalms, proverbs, book-of-job, song-of-songs, book-of-ruth, lamentations, ecclesiastes, book-of-esther, daniel, ezra-nehemiah, 1-2-chronicles]
 hermeneutical_frameworks: [pardes, peshat, derash, remez, sod, thirteen-middot]
 major_sects: [rabbinic-judaism, kabbalah, karaism, sadducees, essenes]
-sources_ingested: 0
-last_updated: 2026-06-09
+sources_ingested: 1
+last_updated: 2026-06-27
 tags: [tradition, judaism]
 ---
 
@@ -36,6 +36,16 @@ Judaism reads Scripture through the fourfold [[pardes|PaRDeS]] system — **Pesh
 formal [[thirteen-middot|Thirteen Middot]] for deriving law. Different sects privilege
 different levels: Rabbinic Judaism centers peshat and derash; [[kabbalah|Kabbalah]] claims
 the sod level as the inner life of revelation.
+
+Alongside these, a **philosophical-rationalist** register matured in the medieval Judeo-Arabic
+world, exemplified by [[maimonides|Maimonides]]' [[guide-for-the-perplexed|*Guide for the
+Perplexed*]]: Scripture's anthropomorphic language is systematically allegorized (the *Remez*/
+[[allegorical-reading|allegorical]] level put to philosophical use under the rule "the Law speaks
+in the language of man"), Aristotelian demonstration is admitted as a neutral instrument, and the
+deepest matters (*Maaseh Bereshit*, *[[maaseh-merkabah|Maaseh Merkabah]]*) are taught only
+esoterically. Maimonides notes that such philosophical learning, "once cultivated by our
+forefathers," had been "neglected" under persecution (Guide I:71). This stream provoked the
+medieval **Maimonidean controversy** within Rabbinic Judaism.
 
 ## Map of Major Sects / Sub-traditions
 

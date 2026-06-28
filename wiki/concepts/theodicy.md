@@ -2,8 +2,8 @@
 title: Theodicy
 domain: theology / philosophy of religion
 traditions_using: [Judaism, Christianity, Islam]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept, theodicy, suffering, justice, wisdom-literature, secularization]
 ---
 
@@ -87,6 +87,23 @@ Contradiction Protocol.
 - **[[herem-canaanite-conquest|ḥerem controversy]]**: The command to destroy the Canaanites is a theodicy problem in reverse — not why God allows suffering, but why God commands violence
 - **[[intermarriage-ezra-nehemiah|Intermarriage controversy]]**: The expulsion of foreign wives raises the question of whether innocent women and children suffered unjust consequences
 
+## Maimonides — Evil as Privation, Providence by Intellect
+
+[[maimonides|Maimonides]] gives a rationalist theodicy in [[guide-for-the-perplexed|*Guide*]]
+III:8–24. **Evil has no positive existence**: it is *privation*, and most evils befall from
+[[matter-and-form|matter]], the principle of corruption — so God, who creates only being, is not
+the author of evils as such. He classifies **three kinds of evil**: natural (mortality), evils
+men inflict on one another, and (the largest class) evils a man brings on himself through excess.
+Against al-Razi's claim that evil predominates, he answers that the universe "does not
+exist for man's sake" (III:12, 25). His most distinctive move is that **[[divine-providence|divine
+providence]] is proportional to intellectual perfection** (III:17–18): individual providence
+attaches to humans in the measure of their knowledge of God, not equally. He reads
+[[job|Job]] as a parable in which the speakers voice rival theories of providence — and
+**explicitly rejects** the Talmudic excuse that Job spoke wrongly only "in his pain" (B.T. Baba
+Batra 16a), holding instead that Job's words were vindicated because he *abandoned his error*
+(III:23). See [[divine-providence]], [[matter-and-form]].
+
 ## Sources Ingested
 
 1. [[john-hartley|Hartley, John E.]]. *The Book of Job*. NICOT. Grand Rapids: Eerdmans, 1988.
+2. [[guide-for-the-perplexed|Maimonides, *The Guide for the Perplexed*]] (III:8–24).

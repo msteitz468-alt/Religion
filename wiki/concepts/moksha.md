@@ -79,7 +79,24 @@ Truths]]) and Jain liberation, and contrasts with the Abrahamic goal of **resurr
 with God** ([[resurrection-body|resurrection]], [[theosis-divine-nature|theosis]]) — a once-lived life
 judged, not an escape from recurrence. A candidate comparison page on liberation-vs-resurrection.
 
+## Jainism — Release from Karma (Dundas)
+
+In [[jainism|Jainism]], *moksha* is defined by Umasvati simply as "release from all karma"
+([[tattvartha-sutra|TS]] 10.5), and is distinguished from enlightenment ([[kevala-jnana|*kevala-jnana*]],
+omniscience), which precedes it. Liberation is a **two-stage** process ([[dundas-the-jains|Dundas]], ch.
+4): first the uprooting of the four harming ([[karma|*ghatiya*]]) karmas frees the soul's innate
+omniscience (the living *kevalin*); then, when the four non-harming karmas expire, the soul sheds the body
+and "rises through innate capability in one instant … to the realm of the *siddhas*, the liberated [[jiva|
+jivas]] at the top of the universe" (the *[[loka|siddha-shila]]*), there to exist perpetually in a
+disembodied, genderless state of perfect joy, energy and knowledge. The *siddhas* interpenetrate yet
+Jainism "fiercely resists" merging them into a single Hindu-style world-soul, and *[[samsara]]* never
+empties — "liberation is regarded as having validity only if its opposite continues to exist." Only
+*bhavya* souls can ever attain it. The Digambara–Svetambara dispute over
+[[women-and-liberation-in-jainism|whether a woman can be liberated]] is a dispute precisely over access to
+*moksha*.
+
 ## Cross-Links
 
+- [[jiva|Jain soul]], [[kevala-jnana|Omniscience]], [[loka|Jain cosmos]], [[tirthankara|Fordmaker]] (Jainism)
 - [[hinduism|Hinduism]], [[brahman|Brahman]], [[atman|Atman]], [[maya|Maya]], [[bhagavad-gita|Gita]]
 - [[four-noble-truths|Nirvana / Four Noble Truths]] — the Buddhist parallel

@@ -5,9 +5,9 @@ type: tradition
 date_range: 7th c. CE (revelation to Muhammad, 610–632) – present
 canon_core: [quran]
 hermeneutical_frameworks: [tafsir, zahir-batin, tafsir-bil-mathur, tafsir-bil-ray, tawil, holistic-thematic-tafsir]
-major_sects: [sunni-islam, shia-islam, sufism, mutazilism, islamic-feminism]
-sources_ingested: 4
-last_updated: 2026-06-09
+major_sects: [sunni-islam, shia-islam, sufism, mutazilism, islamic-feminism, asharism, falsafa]
+sources_ingested: 5
+last_updated: 2026-06-27
 tags: [tradition, islam]
 ---
 
@@ -70,6 +70,20 @@ axis.
   text" ([[fazlur-rahman|Fazlur Rahman]]'s double movement; [[amina-wadud|Wadud]]'s
   [[wadud-quran-and-woman|*Qur'an and Woman*]]; the [[qiwama|qiwama]] / [[quran-4-34-male-authority|Q
   4:34]] debate). Contested as heterodox by traditionalists.
+- [[asharism|Ash'arism]] — the dominant school of Sunni [[kalam|dialectical theology]];
+  [[occasionalism]], the affirmation of the attributes *bila kayf*, the uncreated Qur'an. Its
+  greatest exponent is [[al-ghazali|al-Ghazali]].
+- [[falsafa|Falsafa]] — the school of Islamic Aristotelian–Neoplatonist *philosophy*
+  ([[al-farabi|al-Farabi]], [[avicenna|Avicenna]], [[averroes|Averroes]]); [[emanation]], the
+  [[eternity-of-the-world|eternity of the world]], the immortal rational soul. Prosecuted as
+  heterodox by al-Ghazali's [[incoherence-of-the-philosophers|*Tahafut al-Falasifa*]].
+
+## Reason and Revelation: the Tahafut Debate
+
+The classic Islamic confrontation of philosophy and theology is the exchange between
+[[al-ghazali|al-Ghazali]]'s [[incoherence-of-the-philosophers|*Tahafut al-Falasifa*]] (which
+declares the [[falsafa|philosophers]] infidels on three doctrines — see *[[takfir]]*) and
+[[averroes|Averroes]]'s reply, the [[incoherence-of-the-incoherence|*Tahafut al-Tahafut*]].
 
 ## Key Cross-Tradition Controversies (with Judaism & Christianity)
 

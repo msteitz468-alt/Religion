@@ -113,6 +113,22 @@ The Brahmin redactors of the Mahābhārata "created a text that accepted the pol
 the violence of the universe, in part precisely in order to distinguish themselves from the nonviolent
 Buddhists and Jainas."
 
+### The Jain Account (Dundas)
+
+For [[jainism|Jainism]], *ahimsa* is "the highest religious duty" (*ahimsa paramo dharmah*) and the very
+definition of the religion ([[dundas-the-jains|Dundas]], *The Jains*, chs. 1, 6). Its decisive criterion
+is **carelessness** (*pramada*): an act is truly violent only when done without care — "carelessness is
+action itself" — so Umasvati defines *himsa* as "the removal of life through a careless action of mind,
+body or speech" ([[tattvartha-sutra|TS]] 7.8). Jinabhadra (6th–7th c.) made **intention** decisive: a
+doctor who causes pain with pure intent is non-violent, while one who merely *intends* to kill is a killer
+— a position in tension with the early canon's view that all violence, "performed, caused, or approved,"
+is equivalent. The scope is cosmologically total: earth, water, fire, air and plants all hold souls, so
+ahimsa demands awareness of the most minute life (hence masks, filtered water, strict vegetarianism, and
+the [[mahavrata|Great Vows]] — all derived from the first vow). Though negative in form, Jain ahimsa is
+read positively as friendship and goodwill, grounded in the recognition that "all souls are like oneself."
+Rare medieval rulings permitted **defensive** violence (Jinadatta Suri: fighting to protect a religious
+activity costs no merit). See [[mahavrata]] and [[jain-asceticism]].
+
 ## Cross-Links
 
 - [[dharma|Dharma]], [[karma|Karma]], [[bhagavad-gita|Bhagavad Gita]]
@@ -126,3 +142,6 @@ Buddhists and Jainas."
 1. [[wendy-doniger|Wendy Doniger]], *[[doniger-the-hindus|The Hindus: An Alternative History]]* (2009),
    Chs. 9–11 (read in full) — the history of ahimsa from the Brāhmaṇas through the epics; Aśoka;
    the Gita's evasion; Yudhiṣṭhira's limited noncruelty; Śibi; matsya-nyāya.
+2. [[dundas-the-jains|Paul Dundas]], *The Jains* (2nd ed., 2002), chs. 1 & 6 — the Jain doctrine of
+   ahimsa: *pramada*/carelessness, intention (Jinabhadra), the cosmological scope of life, and defensive
+   violence.

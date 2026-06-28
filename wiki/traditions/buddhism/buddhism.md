@@ -5,9 +5,9 @@ type: tradition
 date_range: 5th c. BCE (the historical Buddha) – present
 canon_core: [dhammapada]   # minimal shared core; the full canons diverge by sect (see note)
 hermeneutical_frameworks: [neyartha-nitartha, commentarial-lineage, upaya (skillful means)]
-major_sects: [theravada, mahayana, vajrayana]
-sources_ingested: 10
-last_updated: 2026-06-09
+major_sects: [theravada, mahayana, vajrayana, nyingma, dzogchen]
+sources_ingested: 11
+last_updated: 2026-06-27
 tags: [tradition, buddhism, non-theistic]
 ---
 
@@ -65,6 +65,9 @@ hearers); the **[[two-truths|two truths]]** (conventional vs. ultimate), the ind
   **Engaged Buddhism**
   ([[thich-nhat-hanh|Thich Nhat Hanh]], [[mindfulness|mindfulness]], [[interbeing|interbeing]]).
 - [[vajrayana|Vajrayana]] — "the Diamond Vehicle"; tantra, mantra, and guru-yoga atop Mahayana; Tibet.
+  Its oldest Tibetan school is **[[nyingma|Nyingma]]** ("the Ancient Ones"), whose contemplative
+  summit is **[[dzogchen|Dzogchen]]** (the Great Perfection) and whose
+  [[terma|treasure literature]] includes the [[bardo-thodol|Tibetan Book of the Dead]].
 
 ## Key Cross-Links
 
