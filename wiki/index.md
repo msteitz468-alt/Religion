@@ -1806,6 +1806,9 @@ a `sects/` page, cross-linked.)*
 - [[the-combat-myth|The Combat Myth (Cosmos vs. Chaos)]] — the champion-god-vs-chaos-dragon pattern across Mesopotamia, Vedic India, Egypt, Canaan, Greece; Cohn's static-cosmos reading (new 2026-06-09)
 - [[interpretatio-romana|Interpretatio Romana — Greek & Roman God Equivalences]] — the full Zeus=Jupiter, Ares=Mars… mapping, with caveats (new 2026-06-09)
 - [[brahman-atman-vedanta-schools|One Canon, Rival Readings — Brahman & Ātman Across the Vedanta Schools]] — Advaita / Vishishtadvaita / Dvaita / Kashmir-Śaiva readings of "that thou art"; the prime exhibit of "one canon, irreconcilable metaphysics" (new 2026-06-09)
+- [[mysticism-across-traditions|Mysticism Across Traditions]] — apophatic union and contemplative ascent: Christian, Kabbalah, Sufism, Advaita/Tantra, Buddhist, Daoist, Neoplatonic (new 2026-06-28)
+- [[scripture-canon-and-interpretation|Scripture, Canon & Interpretation Across Traditions]] — how traditions form canons, theorize inspiration, and read the literal–esoteric spectrum (new 2026-06-28)
+- [[messianism-and-eschatology|Messianism & Eschatology Across Traditions]] — awaited deliverers and the end of the order, from Saošyant to Mahdī to the Parousia (new 2026-06-28)
 
 ---
 

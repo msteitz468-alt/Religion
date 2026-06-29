@@ -153,3 +153,4 @@ The Christian adoption of the codex (book format, not roll) from the very beginn
 - [[epistle-to-diognetus|Epistle to Diognetus]]
 - [[matthew|Gospel of Matthew]]
 - [[nag-hammadi-library|Nag Hammadi Library (Nag Hammadi Codices)]]
+- [[scripture-canon-and-interpretation|Scripture, Canon & Interpretation Across Traditions]] — the cross-tradition comparison hub

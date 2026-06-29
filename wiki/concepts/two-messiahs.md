@@ -74,3 +74,4 @@ VanderKam follows Schiffman's interpretation: the regular communal meals at Qumr
 - [[messianic-apocalypse|Messianic Apocalypse (4Q521)]]
 - [[messianic-rule|The Messianic Rule (1QSa)]]
 - [[testimonia|Testimonia (4Q175)]]
+- [[messianism-and-eschatology|Messianism & Eschatology Across Traditions]] — the cross-tradition comparison hub

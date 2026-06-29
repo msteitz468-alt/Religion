@@ -233,6 +233,10 @@ that transient mystical experience may occasionally be granted even to non-mysti
   [[perennialism]], [[mystical-theology|Mystical Theology (Dionysius)]], [[pseudo-dionysius]],
   [[plotinus]].
 
+## Cross-Tradition Hub
+
+- [[mysticism-across-traditions|Mysticism Across Traditions]] — the comparative hub gathering the mystical paths of all the traditions.
+
 ## Related Texts
 
 - [[letters-of-dionysius|Letters of Dionysius the Areopagite]]
