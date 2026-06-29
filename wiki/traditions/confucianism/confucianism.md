@@ -13,6 +13,8 @@ tags: [tradition, confucianism, chinese-religion]
 
 # Confucianism
 
+**Chronology:** see the [[confucianism-timeline|Timeline of Confucianism]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 Top-level tradition page. **Confucianism** (Chinese *Rujia*, "the school of the scholars") is the
 ethical, social, and political tradition founded on the teaching of **[[confucius|Confucius]]** (Kongzi,
 551–479 BCE). Whether it is a "religion" is itself debated — it centers on **moral self-cultivation,

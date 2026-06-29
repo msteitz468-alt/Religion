@@ -121,8 +121,23 @@ rejecting both modalism and Arian subordinationism at once.
 
 The Latin formula Aquinas inherited ("one *substantia*/*essentia* in three *personae*") and Barth's modern reworking both rest on a Greek conceptual settlement fixed in the 4th century by the [[cappadocian-fathers|Cappadocian Fathers]]: **one *ousia* in three *hypostases***. Johannes Zachhuber's [[zachhuber-rise-of-christian-theology|*The Rise of Christian Theology*]] (2020) reconstructs this as a genuine philosophy — the **classical theory** — with two complementary versions: [[basil-of-caesarea|Basil]]'s **abstract account** (the common divinity as univocally shared predicates; each person marked by a particularizing property / *idiōma*) and [[gregory-of-nyssa|Gregory of Nyssa]]'s **concrete account** (a real universal nature subsisting only in its individual hypostases). The settlement answered two threats at once: [[eunomius|Eunomius]]'s anomoianism (which made the Son "unlike in substance") and Sabellian modalism (which collapsed the persons). For the full treatment — including the "why not three Gods?" problem, the abstract/concrete tension, and Zachhuber's argument that this is an *ontology of being-as-one* rather than a "turn to the person" — see [[ousia-hypostasis-distinction|Ousia / Hypostasis (the classical theory)]]. Note the translation hazard the Latin tradition negotiated: Greek *hypostasis* (lit. "substance") maps to Latin *persona*, not to *substantia*.
 
+## Ayres: "Pro-Nicene" Theology as the Doctrine's Real Settlement
+
+Lewis Ayres ([[nicaea-and-its-legacy|*Nicaea and Its Legacy*]], 2004) argues that the developed
+doctrine of the Trinity is the achievement not of Nicaea (325) but of
+**[[pro-nicene-theology|pro-Nicene theology]]** (360s–380s), defined by three marks: a clear
+person–nature distinction, the Son's eternal generation *within* the one divine being, and the
+[[opera-trinitatis|inseparable operation]] of the persons — all governed by
+[[divine-simplicity|divine simplicity]] and divine incomprehensibility. On this reading the
+clear Creator/creature boundary modern readers assume was "itself an achievement of the fourth
+century." Ayres also rejects the [[de-regnon-paradigm|de Régnon paradigm]] (Greek East = three
+persons first, Latin West = one essence first): [[gregory-of-nyssa|Gregory of Nyssa]] and
+[[augustine|Augustine]] alike reason from divine unity, so the typology "is inadequate and
+misleading."
+
 ## Related
 
+- [[pro-nicene-theology]] · [[de-regnon-paradigm]] · [[opera-trinitatis]] · [[nicaea-and-its-legacy]]
 - [[thomas-aquinas]] · [[summa-theologica]] · [[filioque]] · [[arianism]] · [[logos-christology]]
 - [[ousia-hypostasis-distinction]] — the Greek patristic conceptual basis
 - [[cappadocian-fathers]] · [[basil-of-caesarea]] · [[gregory-of-nyssa]] · [[gregory-of-nazianzus]]

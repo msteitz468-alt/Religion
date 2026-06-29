@@ -13,6 +13,8 @@ tags: [tradition, egyptian-religion, polytheism, ancient]
 
 # Ancient Egyptian Religion
 
+**Chronology:** see the [[egyptian-religion-timeline|Timeline of Egyptian Religion]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 Top-level tradition page. **Ancient Egyptian religion** is one of the longest-lived religious systems in
 human history — over **three thousand years** of polytheistic worship along the Nile. Its governing concern
 was the maintenance of **[[maat|ma'at]]** (cosmic order, truth, justice, balance) against **isfet** (chaos

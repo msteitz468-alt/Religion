@@ -13,6 +13,8 @@ tags: [tradition, chinese-folk-religion, polytheism, east-asian]
 
 # Chinese folk religion
 
+**Chronology:** see the [[chinese-folk-religion-timeline|Timeline of Chinese Folk Religion]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 **Chinese folk religion** (also *Chinese popular religion* or *Shenism*) is the **diffused, non-institutional
 religion of the Chinese people** — the vast, syncretic field of gods, ghosts, ancestors, and spirits
 (**shén** 神 and **guǐ** 鬼) worshipped at temples, household altars, roadside shrines, and seasonal festivals.

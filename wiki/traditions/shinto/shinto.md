@@ -13,6 +13,8 @@ tags: [tradition, shinto, japanese, polytheism, animism]
 
 # Shinto
 
+**Chronology:** see the [[shinto-timeline|Timeline of Shinto]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 **Shinto** (神道 *Shintō*, "the way of the **[[kami|kami]]**") is the **indigenous religion of Japan** — a
 tradition of reverence for the *kami*, the innumerable sacred powers immanent in nature, ancestors, and
 remarkable things. It has **no founder, no fixed creed, no commanding moral code, and (until modern times) no

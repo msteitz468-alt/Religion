@@ -62,8 +62,23 @@ For the *Filioque* (the Spirit's procession from Father and Son), see [[filioque
 - **Reformed tradition**: Emphasis on the Spirit's work in inspiration, illumination, and regeneration. Calvin: the Spirit is the "bond by which Christ effectually unites us to himself." The Spirit's *internal testimony* (*testimonium internum Spiritus Sancti*) authenticates Scripture.
 - **Pentecostal/Charismatic**: Emphasis on the Spirit's gifts (*charismata*): tongues, prophecy, healing. "Baptism in the Spirit" as a distinct experience subsequent to conversion. Not covered in the current source.
 
+## Pro-Nicene Pneumatology (Ayres, Nicaea and Its Legacy)
+
+Lewis Ayres ([[nicaea-and-its-legacy|*Nicaea and Its Legacy*]], 2004) judges the chief
+[[pro-nicene-theology|pro-Nicene]] contribution to pneumatology to be "the insistence that the
+work of the Spirit is inseparable from Father and Son" (see [[opera-trinitatis]]) — establishing
+"that the work of sanctification is the unmediated work of God." The standard tactic was to
+"apply to the Spirit arguments about the unity of activity and nature that had been developed in
+polemic over the Son's status" ([[basil-of-caesarea|Basil's]] *On the Holy Spirit*;
+[[gregory-of-nyssa|Gregory of Nyssa]]; [[athanasius|Athanasius's]] *Letters to Serapion*). Yet
+Ayres notes a limit: "on the subject of the Spirit's place in the Godhead as such little
+progress is made" — Basil famously withholds calling the Spirit God in the same terms as Father
+and Son — and "the later question of the [[filioque|filioque]] is not an issue" in the
+fourth-century debate.
+
 ## Relation to Other Concepts
 
+- [[pro-nicene-theology]] · [[opera-trinitatis]] · [[nicaea-and-its-legacy]]
 - [[trinity|Trinity]] — the Spirit as the third mode of being in Barth's trinitarian doctrine
 - [[filioque|Filioque]] — the controversy over whether the Spirit proceeds from the Father alone or from Father and Son
 - [[redemption|Redemption]] — the Spirit's economic work: setting man free as child of God

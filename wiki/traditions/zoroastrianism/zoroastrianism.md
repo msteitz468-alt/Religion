@@ -13,6 +13,8 @@ tags: [tradition, zoroastrianism, dualism, persian]
 
 # Zoroastrianism
 
+**Chronology:** see the [[zoroastrianism-timeline|Timeline of Zoroastrianism]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 Top-level tradition page. **Zoroastrianism** is the ancient Iranian religion founded by the prophet
 **[[zarathustra|Zarathustra]]** (Zoroaster), centered on **[[ahura-mazda|Ahura Mazda]]** ("the Wise
 Lord") as the supreme, wholly good God, and on a **cosmic moral dualism** between Ahura Mazda's

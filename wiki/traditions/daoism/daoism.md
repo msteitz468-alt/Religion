@@ -13,6 +13,8 @@ tags: [tradition, daoism, chinese-religion]
 
 # Daoism
 
+**Chronology:** see the [[daoism-timeline|Timeline of Daoism]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 Top-level tradition page. **Daoism** (*Tao-chiao*, "the teaching of Tao") is the Chinese tradition
 oriented to the **Dao** ("the Way") — the nameless, generative source and pattern of all things —
 and to living in accord with it through sustained [[biospiritual-cultivation|biospiritual cultivation]]

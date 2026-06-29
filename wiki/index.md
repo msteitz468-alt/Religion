@@ -960,6 +960,7 @@ Master index of all pages. Updated on every ingest.
 
 ### Scholarship (Early Christianity in the Roman World)
 
+- [[nicaea-and-its-legacy|Lewis Ayres, *Nicaea and Its Legacy: An Approach to Fourth-Century Trinitarian Theology*]] (OUP, 2004) — **read in full 2026-06-28** (9-agent deployed strategy). Revisionist account of the 4th-c. Trinitarian controversies: "Arianism" as a polemical construct, the deconstruction of "one Nicene theology," and [[pro-nicene-theology|pro-Nicene theology]] (360s–380s) as the real settlement; rejection of the [[de-regnon-paradigm|de Régnon East/West paradigm]] and defence of Augustine. New commentators [[aetius]], [[ephrem-the-syrian]], [[lewis-ayres]]; figures [[constantius-ii]], [[eusebius-of-caesarea]], [[eusebius-of-nicomedia]], [[asterius-the-sophist]], [[photinus]], [[theodosius-i]], [[valens]]; groups [[homoians]], [[homoiousians]], [[heteroousians]]; concepts [[pro-nicene-theology]], [[participation]], [[deification]]; controversy [[de-regnon-paradigm]]. Extended [[arius]], [[athanasius]], [[marcellus-of-ancyra]], [[basil-of-caesarea]], [[hilary-of-poitiers]], the Gregorys, [[augustine]], [[eunomius]], [[cyril-of-jerusalem]], and the [[homoousion]]/[[ousia-hypostasis-distinction]]/[[divine-simplicity]]/[[opera-trinitatis]]/[[trinity]] concept pages.
 - [[wilken-christians-as-romans-saw-them|Robert Louis Wilken, *The Christians as the Romans Saw Them*]] (Yale, 2nd ed. 2003) — early Christianity seen through the eyes of its Greek and Roman critics; **read in full 2026-06-28** (5-agent deployed strategy). Revisionist thesis: Roman religion was sincere (not decadent) and the pagan critics were perceptive, forcing Christian theology to develop. New commentator pages [[pliny-the-younger|Pliny]], [[galen|Galen]], [[celsus|Celsus]], [[julian-the-apostate|Julian]] (+ figure); extended [[porphyry|Porphyry]]; new group [[christians|Christians (as the Romans saw them)]]; concepts [[superstitio]], [[biblical-criticism-antiquity]] (Porphyry on Daniel), [[pietas]] (merged); controversies [[christianity-apostasy-from-judaism]] and [[roman-persecution-piety-or-prejudice]].
 - [[michael-w-holmes|Michael W. Holmes]] — Bethel University; *The Apostolic Fathers: Greek Texts and English Translations*, 3rd ed. (Baker Academic, 2007); critical Greek text + English translation of all 10 Apostolic Fathers texts; 28 Papias fragments (most complete collection); historical-critical introductions. See also [[holmes-apostolic-fathers|source summary]].
 - [[de-lubac-medieval-exegesis|de Lubac, *Medieval Exegesis: The Four Senses of Scripture*]] (Henri de Lubac; 1959–64) — the definitive study of the Christian [[fourfold-sense|fourfold sense]]; "the doctrine of the senses *is* the doctrine of the two Testaments"; corrects the distich's authorship (Augustine of Dacia, not Nicholas of Lyra) and untangles the trichotomy/tetrachotomy duality; Vol. 2 gives the substance of each sense (permanent history-foundation, allegoria facti et dicti, mystical tropology, two-form anagogy); Vol. 3 refutes the "precursors of literalism" thesis (Spicq/Mandonnet/Smalley) for every alleged link from Berno to Hugh to the Victorines, and analyzes Joachim of Flora's Three Ages as the one genuine structural aberration; **Vols. 1–3 complete** (2026-06-09/10)
@@ -1989,8 +1990,25 @@ a `sects/` page, cross-linked.)*
 - [[bahai-timeline|Timeline of the Baháʼí Faith]] — Bábí prelude → Baháʼuʼlláh → ʻAbduʼl-Bahá → Guardianship → Universal House of Justice
 - [[babi-timeline|Timeline of the Bábí Faith]] — the 1844–1863 messianic movement out of Shaykhī Shīʻism
 - [[samaritanism-timeline|Timeline of Samaritanism]] — the Gerizim Israelite community, schism to surviving remnant
+- [[mesopotamian-religion-timeline|Timeline of Mesopotamian Religion]] — Sumer → Babylon/Assyria → Persian-Hellenistic decline
+- [[egyptian-religion-timeline|Timeline of Egyptian Religion]] — Old Kingdom solar cult → Osiris → New Kingdom/Amarna → Greco-Roman Isis
+- [[chinese-folk-religion-timeline|Timeline of Chinese Folk Religion]] — Shang/Zhou roots → the celestial bureaucracy → late-imperial pantheon → modern revival
+- [[zoroastrianism-timeline|Timeline of Zoroastrianism]] — Zarathustra → Achaemenid → Sasanian codification → Parsis
+- [[greek-religion-timeline|Timeline of Greek Religion]] — Mycenaean/Archaic → Olympian civic religion & mysteries → Hellenistic → Roman/Neo-Platonic decline
+- [[jainism-timeline|Timeline of Jainism]] — Tīrthaṅkaras → Mahāvīra → Digambara/Śvetāmbara schism & canon → medieval → modern reform
+- [[confucianism-timeline|Timeline of Confucianism]] — Confucius → Mencius → Han orthodoxy → Neo-Confucian revival → modern
+- [[daoism-timeline|Timeline of Daoism]] — classical philosophy → Celestial Masters → revelation & commentary → Quanzhen/Zhengyi → modern
+- [[roman-religion-timeline|Timeline of Roman Religion]] — household & state cult → Republican civic religion → imperial cult & mysteries → Christianization
+- [[celtic-religion-timeline|Timeline of Celtic Religion]] — Iron-Age paganism → Irish & Welsh myth-cycles → Christianization
+- [[norse-religion-timeline|Timeline of Norse Religion]] — Migration-age gods → Viking Age → the Eddas → modern Heathenry
+- [[shinto-timeline|Timeline of Shinto]] — ancient kami worship → classical chronicles → Buddhist syncretism → State Shinto → modern
 - [[buddhism-timeline|Timeline of Buddhism]] — the Buddha → early schools → Mahāyāna/Madhyamaka → Yogācāra → Vajrayāna & Tibetan schools → modern Buddhism
 - [[hinduism-timeline|Timeline of Hinduism]] — Vedic → Upaniṣadic → epic/classical darśanas → Vedānta schools & bhakti → modern reform
+- [[carvaka-timeline|Timeline of Cārvāka (Lokāyata)]] — the Indian materialist school, surviving through its opponents' refutations
+- [[manichaeism-timeline|Timeline of Manichaeism]] — Mani → spread across Rome & Asia → Silk-Road flourishing → decline
+- [[mesoamerican-religion-timeline|Timeline of Mesoamerican Religion]] — Olmec → Classic Maya → Aztec Five Suns → conquest & survival
+- [[yoruba-religion-timeline|Timeline of Yoruba Religion]] — Ilé-Ifẹ̀ origins → Ọ̀yọ́ Empire → Atlantic diaspora → modern revival
+- [[sikhism-timeline|Timeline of Sikhism]] — Gurū Nānak → the Ten Gurus & the Khālsā → misls & empire → colonial reform → modern
 - [[new-religious-movements-timeline|New Religious Movements (1800–present)]] — Restorationism → metaphysical/esoteric movements → Baháʼí → the postwar NRM wave (Scientology et al.)
 - [[talmudic-period|The Talmudic Period]] — Zugoth through Geonim; detailed rabbinic-era timeline (Judaism)
 

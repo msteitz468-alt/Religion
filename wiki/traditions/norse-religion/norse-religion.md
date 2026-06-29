@@ -13,6 +13,8 @@ tags: [tradition, norse-religion, polytheism, germanic, indo-european]
 
 # Norse Religion
 
+**Chronology:** see the [[norse-religion-timeline|Timeline of Norse Religion]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 Top-level tradition page. **Norse religion** is the pre-Christian polytheism of the **Scandinavian and
 Germanic peoples** — best known in its **Viking-Age** (c. 793–1100 CE) form — a religion of **many gods, a
 fated cosmos doomed to destruction and rebirth, sacrificial cult, and a heroic warrior ethos**. It is part of

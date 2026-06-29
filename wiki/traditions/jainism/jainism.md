@@ -13,6 +13,8 @@ tags: [tradition, jainism, non-theistic, sramana]
 
 # Jainism
 
+**Chronology:** see the [[jainism-timeline|Timeline of Jainism]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 Top-level tradition page. Jainism is an ancient Indian **[[sramana|sramana]]** (renouncer)
 tradition — like [[buddhism|Buddhism]], a **non-theistic** path with no creator God — built on
 radical **[[ahimsa|non-violence]]**, asceticism, and a distinctive realist, pluralist metaphysics.

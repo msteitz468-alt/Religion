@@ -13,6 +13,8 @@ tags: [tradition, mesopotamian-religion, polytheism, ancient, near-east]
 
 # Ancient Mesopotamian Religion
 
+**Chronology:** see the [[mesopotamian-religion-timeline|Timeline of Mesopotamian Religion]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 Top-level tradition page. **Mesopotamian religion** is the polytheistic system of ancient **Sumer, Akkad,
 Babylonia, and Assyria** (c. 3500 BCE onward) — the religion of the world's first cities and first writing,
 and a deep substratum beneath the later religions of the Near East (and behind several themes in the

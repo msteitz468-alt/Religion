@@ -13,6 +13,8 @@ tags: [tradition, greek-religion, polytheism, ancient]
 
 # Ancient Greek Religion
 
+**Chronology:** see the [[greek-religion-timeline|Timeline of Greek Religion]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 Top-level tradition page. **Ancient Greek religion** is the polytheistic worship of the Greek pantheon —
 the **Olympian gods** and a vast company of Titans, primordial powers, nature deities, daimones, and
 heroes — practiced across the Greek world from the Mycenaean age until its suppression under Christian

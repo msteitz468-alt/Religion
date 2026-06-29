@@ -62,6 +62,18 @@ the Father; reaffirmed at Constantinople (381) after the [[cappadocian-fathers|C
 clarified *ousia* (one substance) vs. *hypostasis* (three subsistences). [[athanasius|Athanasius]]
 was its great opponent. The dispute is documented from both sides without adjudication (Contradiction Protocol).
 
+## Historiographical Caution: "Arianism" as a Category (Ayres)
+
+Lewis Ayres ([[nicaea-and-its-legacy|*Nicaea and Its Legacy*]], 2004) warns that **"Arianism"
+is not a single coherent sect** descended from [[arius|Arius]]: the term was a polemical
+construction (above all by [[athanasius|Athanasius]] in the *Orations Against the Arians*,
+c. 339–40) that lumped together distinct [[pro-nicene-theology|trajectories]]. After Nicaea,
+Arius "is of little significance," and the mid-century positions are better named precisely —
+[[homoians|Homoian]] ("like"), [[homoiousians|Homoiousian]] ("like in substance"), and
+[[heteroousians|Heteroousian]]/Anomoean ([[aetius|Aetius]] and [[eunomius|Eunomius]]) — none of
+which simply "is" Arius's theology. This wiki retains the "Arianism" sect page for the broad
+movement while recording Ayres's caution; see [[arian-controversy]].
+
 ## Historical Development and Influence
 
 Repeatedly ascendant and suppressed through the 4th century; an imperial and political as much as a

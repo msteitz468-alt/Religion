@@ -13,6 +13,8 @@ tags: [tradition, yoruba, west-african, diaspora, polytheism, orisha]
 
 # Yoruba Religion
 
+**Chronology:** see the [[yoruba-religion-timeline|Timeline of Yoruba Religion]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 **Yoruba religion** — the **"way of the orishas"** — is the indigenous tradition of the
 **Yoruba people** of southwestern Nigeria and Benin and of its vast **Atlantic diaspora**
 (Cuba, Brazil, Haiti, the wider Caribbean, and the United States). Carried across the

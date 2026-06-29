@@ -13,6 +13,8 @@ tags: [tradition, roman-religion, polytheism, ancient]
 
 # Ancient Roman Religion
 
+**Chronology:** see the [[roman-religion-timeline|Timeline of Roman Religion]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 Top-level tradition page. **Ancient Roman religion** (*religio Romana*) is the polytheistic system of the
 Roman state and people — closely related to [[greek-religion|Greek religion]] (its gods largely
 identified with the Greek pantheon via [[interpretatio-romana|interpretatio romana]]) but with a

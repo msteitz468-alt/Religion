@@ -20,7 +20,7 @@ tags: [scholarship, christianity, trinity, fourth-century, nicaea, patristics]
 Lewis Ayres's study is a revisionist account of the fourth-century Trinitarian
 controversies and their resolution. Its central methodological argument is that the
 traditional narrative — an "Arian" heresy opposed by "Nicene" orthodoxy, settled at the
-[[council-of-nicaea-325|Council of Nicaea (325)]] — distorts the history. Ayres argues:
+[[arian-controversy|Council of Nicaea (325)]] — distorts the history. Ayres argues:
 
 1. **"Arianism" is a polemical construct.** There was no coherent "Arian" party or
    movement descended from [[arius|Arius]]; the label was forged (especially by

@@ -13,6 +13,8 @@ tags: [tradition, celtic-religion, polytheism, indo-european]
 
 # Celtic religion
 
+**Chronology:** see the [[celtic-religion-timeline|Timeline of Celtic Religion]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 **Celtic religion** is the pre-Christian polytheism of the Celtic-speaking peoples of Iron Age and early
 medieval Europe — the **Gauls** of the Continent, the **Britons** of Britain, and above all the **Gaels** of
 Ireland, whose myths survive in the richest written form. Unlike [[norse-religion|Norse]], Greek, or

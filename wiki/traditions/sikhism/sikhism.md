@@ -13,6 +13,8 @@ tags: [tradition, sikhism, monotheism, indic]
 
 # Sikhism
 
+**Chronology:** see the [[sikhism-timeline|Timeline of Sikhism]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 Top-level tradition page. **Sikhism** (Gurmukhi: *Sikhī*) is a monotheistic Indic tradition founded
 in the Punjab by **[[guru-nanak|Guru Nanak]]** (1469–1539) and developed through a lineage of **ten
 human Gurus**, culminating in the investiture of scriptural and corporate authority in the

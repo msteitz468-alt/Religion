@@ -13,6 +13,8 @@ tags: [tradition, mesoamerican-religion, polytheism, ancient, americas]
 
 # Mesoamerican Religion
 
+**Chronology:** see the [[mesoamerican-religion-timeline|Timeline of Mesoamerican Religion]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 Top-level tradition page. **Mesoamerican religion** is the family of related polytheistic traditions of
 pre-Columbian Mexico and Central America — the **Olmec, Maya, Aztec (Mexica), Zapotec, Mixtec, and Toltec**
 peoples — sharing a common religious world over some three thousand years until the Spanish conquest (1521).

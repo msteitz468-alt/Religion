@@ -13,6 +13,8 @@ tags: [tradition, manichaeism, dualism, gnosticism, late-antiquity]
 
 # Manichaeism
 
+**Chronology:** see the [[manichaeism-timeline|Timeline of Manichaeism]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 **Manichaeism** is the dualist universal religion founded by the prophet [[mani|Mani]]
 (c. 216–274/277 CE) in Sasanian Mesopotamia. Conceived by its founder as the final,
 complete, and self-consciously *universal* revelation — superseding and perfecting the

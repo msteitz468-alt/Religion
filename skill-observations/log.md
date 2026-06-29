@@ -164,3 +164,17 @@ DECLINED = user decided not to pursue
 **Suggested improvement:** Before emitting a wiki link to a page you did not create this session, confirm the exact slug exists (grep the target dir or rely on the lint pass) rather than trusting a remembered `ls`. When the user defers linting to the end, budget for a red-link fix pass on every newly created page.
 
 **Principle:** Treat remembered file listings as hints, not facts; the cheap mechanical check (grep/lint) is the source of truth for link targets. This is the wiki analogue of the general rule "verify before asserting."
+
+### Observation 12: Extraction subagents embed raw line-loci in finished page prose
+
+**Date:** 2026-06-28
+**Session context:** Ingesting Lewis Ayres, *Nicaea and Its Legacy* via the Deployed Subagent Strategy (9 Sonnet agents). Agents were told to ground claims with verbatim quotes + book/cache line loci in their NOTES files, and separately to create new wiki pages they owned.
+**Skill:** CLAUDE.md "Deployed Subagent Strategy" (project ingest workflow) — also relevant to the task-observer's faithfulness/throughput guidance.
+**Type:** internal
+**Phase/Area:** Step 3 (subagent prompts) / Step 4 (review and tie together)
+
+**Issue:** Every new page the subagents authored was littered with raw extraction loci in the finished prose — e.g. "(l.599–600)", "(cache l.238–241)", "(lines ~897–899)", "(~1739)". The faithfulness mandate correctly requires verbatim-anchored loci *during extraction*, but the agents carried those loci into the published page bodies (not just their notes). Cleaning them required a multi-pass UTF-8-aware regex strip, which then damaged several legitimate adjacent citations (mixing "; cache l.X" inside real parentheticals like "(Hilary, *Synod.* 11; cache l.238–241)") and produced unbalanced parens and word-smush ("throughdoes", "footnote atindicates") needing hand repair. Roughly 25% of the main-thread integration time went to artifact cleanup.
+
+**Suggested improvement:** In the Deployed Subagent Strategy, add an explicit rule to the subagent page-creation prompt: "Line/page loci are for your NOTES file and your own verification ONLY. In any finished wiki page you author, cite only real source references (work titles, book/section/letter numbers, e.g. *C. Eun.* 1.20; Ep. 234) — NEVER raw book-line or cache-line numbers (l.NNN, cache l.NNN, ~NNNN, lines NNN–NNN)." Optionally add a main-thread Step-4 grep gate: `grep -nE 'cache|\bl\.[0-9]|\(~[0-9]|lines? ~?[0-9]+[–-]' <new pages>` must return empty before bookkeeping.
+
+**Principle:** When a workflow asks subagents to *ground* their extraction with internal source coordinates, those coordinates leak into deliverables unless the prompt explicitly separates "evidence I record for verification" from "citations that belong in the finished artifact." Make the boundary explicit in the prompt and enforce it with a cheap mechanical check, rather than relying on a post-hoc strip that can corrupt adjacent real content.

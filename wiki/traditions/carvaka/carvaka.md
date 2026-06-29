@@ -13,6 +13,8 @@ tags: [tradition, carvaka, nastika, materialism, india]
 
 # Cārvāka (Lokāyata)
 
+**Chronology:** see the [[carvaka-timeline|Timeline of Cārvāka]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 **Cārvāka**, also **Lokāyata** ("that which is found among people in general"), is the **materialist and
 nāstika** school of Indian philosophy — one of the three heterodox systems (with [[buddhism|Buddhism]] and
 Jainism) that **reject the authority of the [[vedas|Vedas]]**. It is the standard *pūrvapakṣa* (opponent's

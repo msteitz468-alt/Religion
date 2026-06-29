@@ -97,9 +97,24 @@ Zachhuber's later chapters trace how Christology, under the pressure of the **NN
 
 Standing somewhat apart, [[maximus-the-confessor|Maximus the Confessor]] "sought to return to the classical theory," reviving Gregory of Nyssa's concrete dimension and subordinating it to a **whole/part** ontology, while [[john-of-damascus|John of Damascus]] "removed himself most radically from most of its principles." Both miaphysite and Damascene lines, Zachhuber notes, broke the classical theory "at the exact same point: the ontological continuity between ousia and hypostasis."
 
+## Ayres on the Distinction's Emergence (Nicaea and Its Legacy)
+
+Lewis Ayres ([[nicaea-and-its-legacy|*Nicaea and Its Legacy*]], 2004) presents the
+*ousia*/*idiomata* distinction as the technical heart of [[pro-nicene-theology|pro-Nicene
+theology]] and "as much epistemological as strictly ontological": [[basil-of-caesarea|Basil's]]
+*Contra Eunomium* distinguishes the shared *ousia* (the "rationale of the substance") from the
+individuating *idiomata* "added onto the substance like marks or forms," which "do not cut the
+identity in nature." Ayres notes Basil only gradually adopted "three hypostases" (first at *C.
+Eun.* 3.3) and uses *tropos hyparxeos* ("mode of being") sparingly and austerely — it designates
+"merely the mode of origination of the persons," not a thick concept of personhood (likewise in
+[[gregory-of-nyssa|Gregory of Nyssa]]). Throughout, "the Father is first in an order… as the
+source (αἰτία/ἀρχή) of Son and Spirit," greater "only by being the cause, not at the level of
+substance."
+
 ## Key Links
 
 - [[cappadocian-fathers|Cappadocian Fathers]] — the group
+- [[pro-nicene-theology]] · [[nicaea-and-its-legacy]] · [[homoousion]] · [[heteroousians]]
 - [[basil-of-caesarea|Basil of Caesarea]] (abstract account) · [[gregory-of-nyssa|Gregory of Nyssa]] (concrete account) · [[gregory-of-nazianzus|Gregory of Nazianzus]]
 - [[eunomius|Eunomius]] · [[apollinarius-of-laodicea|Apollinarius of Laodicea]] · [[origen|Origen]]
 - [[trinity|Trinity]] · [[hypostatic-union|Hypostatic Union]] · [[logos-christology|Logos Christology]]

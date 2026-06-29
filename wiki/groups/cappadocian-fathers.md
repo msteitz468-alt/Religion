@@ -66,8 +66,23 @@ Johannes Zachhuber's [[zachhuber-rise-of-christian-theology|*The Rise of Christi
 
 - **The "classical theory."** Within a few decades the Cappadocian framework became a shared intellectual *koine* across the East — not a school affiliation but a lingua franca — which is why Zachhuber calls it the "classical theory." Its built-in tensions (is a *hypostasis* the concrete individual or only its properties? is the individual also *ousia*?) became the engine of later patristic philosophy.
 
+## Ayres: The Cappadocians as Pro-Nicene Architects (Nicaea and Its Legacy)
+
+Lewis Ayres ([[nicaea-and-its-legacy|*Nicaea and Its Legacy*]], 2004) treats the Cappadocians as
+central architects of **[[pro-nicene-theology|pro-Nicene theology]]** but resists two older
+framings: the [[heteroousians|Harnack]] "neo-Nicene" thesis (that they retreated from
+[[athanasius|Athanasius]] into adapted [[homoiousians|Homoiousianism]]) — following Ritter, Ayres
+holds their account of divine unity "functionally identical" to Athanasius's — and the "one
+original Nicene theology" narrative, noting that detailed Athanasian influence on
+[[basil-of-caesarea|Basil]] "is difficult to prove." He stresses development over time (Basil's
+late adoption of *homoousios*; his reticence on the Spirit) and uses
+[[gregory-of-nyssa|Gregory of Nyssa]] against the [[de-regnon-paradigm|"social Trinity" reading]]
+of *Ad Ablabium*. [[gregory-of-nazianzus|Gregory Nazianzen's]] *Theological Orations* are the
+pro-Nicene "manifesto" of 380.
+
 ## Key Links
 
+- [[pro-nicene-theology]] · [[de-regnon-paradigm]] · [[nicaea-and-its-legacy]]
 - [[zachhuber-rise-of-christian-theology|Zachhuber, *The Rise of Christian Theology*]] — primary source for the abstract/concrete reconstruction (2026-06-28)
 - [[ousia-hypostasis-distinction|Ousia / Hypostasis (the classical theory)]] — the dedicated concept page
 - [[eunomius|Eunomius]] · [[apollinarius-of-laodicea|Apollinarius of Laodicea]] — the antagonist and the influence behind the theory

@@ -19,11 +19,11 @@ This is the master navigation layer. For a single tradition's internal chronolog
 
 | Era | Abrahamic | Indian / Dharmic | East Asian | Ancient / Other |
 |---|---|---|---|---|
-| **Origins** (pre-1000 BCE) | early Hebrew religion | [[vedic-religion|Vedic religion]], [[rig-veda|Ṛg Veda]] | (oracle-bone religion) | [[mesopotamian-religion|Mesopotamia]], [[egyptian-religion|Egypt]] |
+| **Origins** (pre-1000 BCE) | early Hebrew religion | [[vedic-religion|Vedic religion]], [[rig-veda|Ṛg Veda]] | [[chinese-folk-religion-timeline|oracle-bone religion]] | [[mesopotamian-religion-timeline|Mesopotamia]], [[egyptian-religion-timeline|Egypt]] |
 | **Axial Age** (800–200 BCE) | Hebrew prophets; [[septuagint|Diaspora]] | [[gautama-buddha|Buddha]], [[mahavira|Mahāvīra]], [[upanishads|Upaniṣads]] | [[confucius|Confucius]], [[laozi|Laozi]] | [[zarathustra|Zarathustra]]; [[greek-religion|Greek philosophy]] |
 | **Classical Antiquity** (200 BCE–200 CE) | [[essenes|Second Temple Judaism]]; rise of [[christianity|Christianity]] | [[bhagavad-gita|Gītā]], epics; early Mahāyāna | Han Confucianism; [[daoism|religious Daoism]] | [[roman-religion|Roman religion]]; [[mystery-cults|mystery cults]] |
 | **Late Antiquity** (200–600 CE) | [[talmudic-period|Talmud]]; [[nicaea|Nicaea]]→[[chalcedonian-definition|Chalcedon]] | [[nagarjuna|Madhyamaka]], [[asanga|Yogācāra]] | Celestial Masters; Neo-Daoism | [[manichaeism|Manichaeism]]; [[zoroastrianism|Sasanian Zoroastrianism]] |
-| **Early Medieval** (600–1000) | rise of [[islam|Islam]]; Geonim; Byzantine theology | [[shankara|Śaṅkara]]; [[vajrayana|Vajrayāna]] | [[chinese-folk-religion|Tang religion]]; Chan/Zen | (Norse [[norse-religion|conversion era]]) |
+| **Early Medieval** (600–1000) | rise of [[islam|Islam]]; Geonim; Byzantine theology | [[shankara|Śaṅkara]]; [[vajrayana|Vajrayāna]] | [[chinese-folk-religion|Tang religion]]; Chan/Zen | Norse [[norse-religion-timeline|conversion era]] |
 | **High/Late Medieval** (1000–1500) | Scholasticism; [[kabbalah|Kabbalah]]; Sufism | [[ramanuja|Rāmānuja]], [[madhva|Madhva]]; bhakti | [[zhu-xi|Neo-Confucianism]] | — |
 | **Early Modern** (1500–1800) | [[protestantism|Reformation]]; [[shaykhism|Shi'i revival]] | [[sikhism|Sikh Gurus]]; Mughal-era movements | late Neo-Confucian / [[shinto|Shinto]] revival | — |
 | **Modern** (1800–present) | reform movements; [[bahai|Baháʼí Faith]] | reform Hinduism; modern Buddhism | [[new-religious-movements-timeline|New religious movements]] | [[scientology|Scientology]] & [[new-religious-movements-timeline|NRMs]] |
@@ -36,8 +36,8 @@ The earliest literate religions of Mesopotamia and Egypt; the Vedic tradition in
 
 | Tradition | Key developments | Hub |
 |---|---|---|
-| Mesopotamian | [[enuma-elish|Enūma Eliš]], [[epic-of-gilgamesh|Gilgamesh]]; [[marduk]], [[ishtar]] | [[mesopotamian-religion]] |
-| Egyptian | [[pyramid-texts]]; [[ra]], [[osiris]], [[isis]] | [[egyptian-religion]] |
+| Mesopotamian | [[enuma-elish|Enūma Eliš]], [[epic-of-gilgamesh|Gilgamesh]]; [[marduk]], [[ishtar]] | [[mesopotamian-religion]] · [[mesopotamian-religion-timeline|timeline]] |
+| Egyptian | [[pyramid-texts]]; [[ra]], [[osiris]], [[isis]] | [[egyptian-religion]] · [[egyptian-religion-timeline|timeline]] |
 | Vedic / Indian | [[rig-veda|Ṛg Veda]]; [[indra]], [[agni]], [[varuna]] | [[vedic-religion]] |
 | Israelite | early Hebrew religion; the patriarchs [[abraham]], [[moses]] | [[judaism]] |
 
@@ -50,11 +50,11 @@ The earliest literate religions of Mesopotamia and Egypt; the Vedic tradition in
 | Judaism | the classical prophets; exile and return; [[deuteronomistic-history]] | [[judaism]] |
 | Hinduism | the [[upanishads|Upaniṣads]]; [[atman]]/[[brahman]] | [[hinduism]] · [[hinduism-timeline|timeline]] |
 | Buddhism | [[gautama-buddha|the Buddha]]; [[four-noble-truths]], [[dependent-origination]] | [[buddhism]] · [[buddhism-timeline|timeline]] |
-| Jainism | [[mahavira|Mahāvīra]]; [[ahimsa]], [[anekantavada]] | [[jainism]] |
-| Confucianism | [[confucius]]; the [[analects]], [[ren]], [[li-confucian|li]] | [[confucianism]] |
-| Daoism | [[laozi]], [[zhuangzi]]; the [[daodejing]], [[dao]], [[wu-wei]] | [[daoism]] |
+| Jainism | [[mahavira|Mahāvīra]]; [[ahimsa]], [[anekantavada]] | [[jainism]] · [[jainism-timeline|timeline]] |
+| Confucianism | [[confucius]]; the [[analects]], [[ren]], [[li-confucian|li]] | [[confucianism]] · [[confucianism-timeline|timeline]] |
+| Daoism | [[laozi]], [[zhuangzi]]; the [[daodejing]], [[dao]], [[wu-wei]] | [[daoism]] · [[daoism-timeline|timeline]] |
 | Zoroastrianism | [[zarathustra]]; the [[gathas|Gāthās]], [[asha-druj]] | [[zoroastrianism]] |
-| Greek | [[homer]], [[hesiod-theogony|Hesiod]]; [[plato]], [[aristotle]] | [[greek-religion]] |
+| Greek | [[homer]], [[hesiod-theogony|Hesiod]]; [[plato]], [[aristotle]] | [[greek-religion]] · [[greek-religion-timeline|timeline]] |
 
 ## III. Classical Antiquity (c. 200 BCE – 200 CE)
 
@@ -66,7 +66,7 @@ Second Temple Judaism and the birth of Christianity in the Roman world; the Hind
 | Christianity | [[jesus-of-nazareth]], [[paul-apostle]]; the Gospels; [[nt-canon-formation]] | [[christianity]] · [[christianity-timeline|timeline]] |
 | Hinduism | the [[mahabharata]], [[ramayana]], [[bhagavad-gita|Gītā]] | [[hinduism]] · [[hinduism-timeline|timeline]] |
 | Buddhism | early [[lotus-sutra|Mahāyāna sūtras]]; the [[tipitaka|Pāli Canon]] committed to writing | [[buddhism]] · [[buddhism-timeline|timeline]] |
-| Roman | [[cicero-nature-of-the-gods|Cicero]], [[virgil-aeneid|Virgil]]; the [[mystery-cults]]; emperor cult | [[roman-religion]] |
+| Roman | [[cicero-nature-of-the-gods|Cicero]], [[virgil-aeneid|Virgil]]; the [[mystery-cults]]; emperor cult | [[roman-religion]] · [[roman-religion-timeline|timeline]] |
 
 ## IV. Late Antiquity (c. 200–600 CE)
 
@@ -77,8 +77,8 @@ The codification of Judaism in the [[talmudic-period|Talmud]]; the Christian cou
 | Judaism | the [[mishna|Mishnah]] (c. 200) and the [[talmud-bavli|Talmud]]; [[judah-hanasi|Judah ha-Nasi]] | [[judaism]] · [[judaism-timeline|timeline]] |
 | Christianity | [[nicaea|Nicaea (325)]], [[chalcedonian-definition|Chalcedon (451)]]; [[athanasius]], [[augustine]], [[cyril-of-alexandria]] | [[christianity]] · [[christianity-timeline|timeline]] |
 | Buddhism | [[nagarjuna|Nāgārjuna]] ([[sunyata|Madhyamaka]]); [[asanga|Asaṅga]], [[buddhaghosa]] | [[buddhism]] · [[buddhism-timeline|timeline]] |
-| Manichaeism | [[mani]]; dualist [[manichaeism|world religion]] spanning Rome to China | [[manichaeism]] |
-| Zoroastrianism | Sasanian consolidation; the [[avesta|Avesta]] | [[zoroastrianism]] |
+| Manichaeism | [[mani]]; dualist [[manichaeism|world religion]] spanning Rome to China | [[manichaeism]] · [[manichaeism-timeline|timeline]] |
+| Zoroastrianism | Sasanian consolidation; the [[avesta|Avesta]] | [[zoroastrianism]] · [[zoroastrianism-timeline|timeline]] |
 
 ## V. The Early Medieval World (c. 600–1000 CE)
 
@@ -111,7 +111,7 @@ The Protestant Reformation; the founding of Sikhism; Safavid and Mughal religiou
 | Tradition | Key developments | Hub |
 |---|---|---|
 | Christianity | the [[protestantism|Reformation]]; [[john-calvin|Calvin]], Luther; [[justification|justification by faith]] | [[christianity]] · [[christianity-timeline|timeline]] |
-| Sikhism | [[guru-nanak|Gurū Nānak]] and the Ten Gurus; the [[guru-granth-sahib|Gurū Granth Sāhib]] | [[sikhism]] |
+| Sikhism | [[guru-nanak|Gurū Nānak]] and the Ten Gurus; the [[guru-granth-sahib|Gurū Granth Sāhib]] | [[sikhism]] · [[sikhism-timeline|timeline]] |
 | Islam | [[shaykhism|Shaykhī]] and reformist currents; Safavid Twelver establishment | [[islam]] · [[islam-timeline|timeline]] |
 | Shinto | [[kojiki|Kojiki]]-based revival; kokugaku | [[shinto]] |
 

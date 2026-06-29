@@ -2,6 +2,42 @@
 
 Append-only. Format: `## [YYYY-MM-DD] ingest | [Source Title]` or `## [YYYY-MM-DD] query | [Question Summary]`
 
+## [2026-06-28] ingest | Lewis Ayres, *Nicaea and Its Legacy* (OUP 2004)
+
+Source: `raw/scholarship/Nicaea and Its Legacy An Approach to Fourth-Century Trinitarian Theology
+(Lewis Ayres) (z-library.sk, 1lib.sk, z-lib.sk).txt` (epub-derived plain text, 22,666 lines).
+**Scope: the whole monograph — read in full** (body lines 405–20483; bibliography and index
+excluded as reference apparatus). Read via the deployed-subagent strategy: **9 Sonnet agents**
+across disjoint line-ranges aligned to the book's three Parts (Intro+Ch.1; Ch.2–3; Ch.4–5; Ch.6;
+Ch.7–8; Ch.9–10; Ch.11–13; Ch.14–15; Ch.16+Epilogue). Coverage ledger on the source page
+[[nicaea-and-its-legacy]].
+
+Central theses filed: "Arianism" is a polemical construct (largely Athanasius's), not a movement;
+there was no single "Nicene theology" in 325 and *homoousios* was no rallying cry; the real
+settlement is **pro-Nicene theology** (360s–380s), defined by three marks (person–nature
+distinction; eternal generation within the unitary divine being; inseparable operation) and three
+strategies; the East/West (de Régnon) typology is rejected and Augustine defended as fully
+pro-Nicene.
+
+New pages (15): concepts [[pro-nicene-theology]], [[participation]], [[deification]]; controversy
+[[de-regnon-paradigm]]; commentators [[aetius]], [[ephrem-the-syrian]], [[lewis-ayres]]; figures
+[[constantius-ii]], [[eusebius-of-caesarea]], [[eusebius-of-nicomedia]], [[asterius-the-sophist]],
+[[photinus]], [[theodosius-i]], [[valens]]; groups [[homoians]], [[homoiousians]],
+[[heteroousians]]. Extended: [[arian-controversy]], [[arius]], [[athanasius]],
+[[marcellus-of-ancyra]], [[basil-of-caesarea]], [[hilary-of-poitiers]], [[gregory-of-nazianzus]],
+[[gregory-of-nyssa]], [[augustine]], [[eunomius]], [[cyril-of-jerusalem]], [[constantine]], and
+the [[homoousion]], [[ousia-hypostasis-distinction]], [[divine-simplicity]], [[opera-trinitatis]],
+[[holy-spirit]], [[trinity]], [[cappadocian-fathers]], and [[arianism]] pages.
+
+Contradiction Protocol: Ayres's deconstruction of "Arianism" and de-emphasis of the 325 creed
+recorded against the older Kelly/Ehrman narrative on [[arian-controversy]] and [[arianism]]; the
+de Régnon East/West dispute and the "modern attack on Augustine" promoted to the new
+[[de-regnon-paradigm]] controversy page (positions recorded, not adjudicated). Lint run after the
+full ingest: clean for all new/edited pages (only two transient red links — `council-of-nicaea-325`
+and a full-path `controversies/de-regnon-paradigm` link — fixed). Subagent extraction artifacts
+(book/cache line-loci, prompt echoes) stripped from all new pages and verified. Raw source
+relocated from `raw/` root to `raw/scholarship/` (Step 7).
+
 ## [2026-06-28] ingest | Pseudo-Dionysius, *On the Divine Names* and *Mystical Theology* (Parker 1897)
 
 Source: `raw/Dionysius the Areopagite, Works (1897) [ThML].txt` — Parker translation, Vol. 1 (1897).
