@@ -67,3 +67,7 @@ a *goal*, recognizing that believers still sin (3:2).
 - [[wisdom-literature|Wisdom Literature]] — the "two ways" and wisdom/folly framing
 - [[shema|The Shema]] — the undivided-heart command behind the ethic
 - [[james-paul-justification|James and Paul on Justification]] — dead/divided faith vs. working faith
+
+## Related Texts
+
+- [[shepherd-of-hermas|Shepherd of Hermas]]

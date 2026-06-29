@@ -66,3 +66,7 @@ West (see [[predestination|predestination]]).
   non-Self", 41 "Freedom"), Heschel (1955).
 - [[clement-of-alexandria|Clement of Alexandria]], *Stromata*, *Paedagogus*, *Quis Dives Salvetur*
   (Delphi Complete Works, 2016) — patristic free-will material.
+
+## Related Texts
+
+- [[clement-fragments|Fragments of Clement of Alexandria]]

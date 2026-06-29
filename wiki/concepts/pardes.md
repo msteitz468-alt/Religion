@@ -79,3 +79,8 @@ But the content differs sharply: the Christian allegorical sense finds *Christ* 
 - [[talmudic-hermeneutics|Talmudic Hermeneutics]] — the Derash level
 - [[oral-torah|Oral Torah]] — the rabbinic interpretive matrix
 - [[moses-de-leon|Moses de León]] — early systematizer of PaRDeS
+
+## Related Texts
+
+- [[exodus|Exodus]]
+- [[genesis|Genesis]]

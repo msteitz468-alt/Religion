@@ -42,3 +42,7 @@ After Guru Gobind Singh's death the corporate Panth — particularly the Khalsa 
 ## Cross-links
 
 **See also**: [[guru-hargobind|Guru Hargobind]], [[guru-gobind-singh|Guru Gobind Singh]], [[khalsa|Khalsa]], [[five-ks|Five Ks]], [[akal-purakh|Akal Purakh]], [[nam-simaran|Nam Simaran]], [[the-guru|The Guru]]
+
+## Related Texts
+
+- [[dasam-granth|Dasam Granth]]

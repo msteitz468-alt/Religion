@@ -66,3 +66,8 @@ recorded, without overclaiming, on
   [[amesha-spentas|the Amesha Spentas]], [[the-three-times|the Three Times]]
 - [[frashokereti|Frashokereti]], [[zurvanism|Zurvanism]]
 - Background: [[varuna|Varuna]], [[soma|Soma/Haoma]]; [[boyce-zoroastrians-beliefs-and-practices|Boyce]]
+
+## Related Texts
+
+- [[avesta|The Avesta]]
+- [[bundahishn|The Bundahishn ("Primal Creation")]]

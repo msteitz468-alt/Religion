@@ -86,3 +86,8 @@ The Passover institutionalized Israel's identity as a delivered, covenant people
 ## Sources Ingested
 
 1. [[james-bruckner|Bruckner, James K.]]. *Exodus*. Understanding the Bible Commentary Series. Grand Rapids: Baker Books, 2008/2012.
+
+## Related Texts
+
+- [[exodus|Exodus]]
+- [[gospel-of-john|Gospel of John]]

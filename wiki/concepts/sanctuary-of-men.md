@@ -51,3 +51,7 @@ In early Christianity, the logic is virtually identical to Qumran's: the physica
 
 ## See Also
 [[community-rule]] · [[mmt]] · [[essenism]] · [[florilegium]] · [[two-messiahs]] · [[dead-sea-scrolls-vermes]]
+
+## Related Texts
+
+- [[temple-scroll|Temple Scroll (Megillat ha-Miqdash)]]

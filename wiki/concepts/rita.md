@@ -45,3 +45,8 @@ conceptual ancestor of the later Hindu **dharma**. A strong candidate for a cros
 
 - [[varuna|Varuna]], [[vedic-religion|Vedic religion]], [[rig-veda|Rig Veda]];
   [[zoroastrianism|asha (Zoroastrian)]], [[maat|ma'at (Egyptian)]], [[dao|the Dao]]
+
+## Related Texts
+
+- [[upanishads|The Upanishads]]
+- [[vedas|The Vedas]]

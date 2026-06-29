@@ -92,3 +92,7 @@ the Vedānta schools borrow and contest.
 - [[advaita-vedanta|Advaita]] · [[vishishtadvaita-vedanta|Viśiṣṭādvaita]] · [[dvaita-vedanta|Dvaita]] ·
   [[kashmir-shaivism|Kashmir Śaivism]]
 - [[brahman|Brahman]] · [[atman|Ātman]] · [[maya|Māyā]] · [[moksha|Mokṣa]]
+
+## Related Texts
+
+- [[vedas|The Vedas]]

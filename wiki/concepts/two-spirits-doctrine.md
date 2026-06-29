@@ -50,3 +50,12 @@ The structural parallel (two cosmic principles, light vs. darkness, truth vs. li
 
 ## See Also
 [[community-rule]] · [[essenism]] · [[teacher-of-righteousness]] · [[predestination]] · [[angra-mainyu]] · [[asha-druj]] · [[dead-sea-scrolls-vermes]]
+
+## Related Texts
+
+- [[book-of-enoch-dss|Book of Enoch — Qumran Fragments]]
+- [[habakkuk-commentary|Habakkuk Commentary (Pesher Habakkuk)]]
+- [[heavenly-prince-melchizedek|Heavenly Prince Melchizedek (11Q13)]]
+- [[jubilees-dss|Jubilees (Qumran Fragments)]]
+- [[thanksgiving-hymns|Thanksgiving Hymns (Hodayot)]]
+- [[war-scroll|War Scroll (Milhamah)]]

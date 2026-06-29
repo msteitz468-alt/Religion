@@ -116,3 +116,14 @@ The Greek *kainḕ diathḗkē* (new covenant/testament) is the term from which 
 1. [[john-goldingay|Goldingay, John]]. *The Book of Jeremiah*. NICOT. Grand Rapids: Eerdmans, 2021.
 2. [[hetty-lalleman|Lalleman-de Winkel, Hetty]]. *Jeremiah and Lamentations*. TOTC 21. Downers Grove: InterVarsity Press.
 3. [[daniel-block|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 1–24*. NICOT. Grand Rapids: Eerdmans, 1997.
+
+## Related Texts
+
+- [[1-corinthians|The First Letter to the Corinthians]]
+- [[2-corinthians|The Second Letter to the Corinthians]]
+- [[ezekiel|Ezekiel]]
+- [[hebrews|Letter to the Hebrews]]
+- [[james|The Letter of James]]
+- [[letters-of-john|Letters of John (1, 2, 3 John)]]
+- [[luke|Gospel of Luke]]
+- [[romans|Letter to the Romans]]

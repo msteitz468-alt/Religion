@@ -47,3 +47,9 @@ Hukam is the cosmic expression of [[akal-purakh|Akal Purakh]]'s nature, made per
 - [[sikhism|Sikhism]] — tradition overview
 
 **Source:** W. H. McLeod, *Sikhism* (Penguin, 1997), `raw/scholarship/mcleod-sikhism.txt` (~L607–616, ~L1030–1034, ~L1556–1557)
+
+## Related Texts
+
+- [[guru-granth-sahib|Guru Granth Sahib (Ādi Granth)]]
+- [[japji|Japji]]
+- [[sukhmani-sahib|Sukhmani Sahib]]

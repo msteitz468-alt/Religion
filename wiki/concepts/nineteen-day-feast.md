@@ -33,3 +33,7 @@ The feast should be held on the first day of each Bahá'í month if possible. Al
 ## Significance
 
 The Nineteen Day Feast is the primary regular communal institution of Bahá'í community life, combining worship, governance consultation, and fellowship. It occurs thirteen times per year in the Bahá'í calendar (nineteen months of nineteen days each). It is distinct from a mere social gathering in that it integrates devotional, administrative, and social dimensions as an intentional community-building institution.
+
+## Related Texts
+
+- [[hidden-words|Hidden Words]]

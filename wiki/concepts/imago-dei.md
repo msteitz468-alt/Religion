@@ -52,3 +52,7 @@ The NT applies *imago dei* language to Christ: Paul calls Christ "the image (*ei
 
 1. [[victor-hamilton|Hamilton, Victor P.]]. *The Book of Genesis: Chapters 1–17*. NICOT. Grand Rapids: Eerdmans, 1990.
 2. [[victor-hamilton|Hamilton, Victor P.]]. *The Book of Genesis: Chapters 18–50*. NICOT. Grand Rapids: Eerdmans, 1995.
+
+## Related Texts
+
+- [[on-the-incarnation|On the Incarnation (De Incarnatione Verbi Dei)]]

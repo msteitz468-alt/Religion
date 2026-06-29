@@ -83,3 +83,8 @@ material world** (water, earth, plants, animals, fire) as religious duty.
 - [[gathas|the Gathas]], [[boyce-zoroastrians-beliefs-and-practices|Boyce]],
   [[rose-zoroastrianism-an-introduction|Rose]]; [[mitra|Mithra]] and [[anahita|Anahita]] (yazatas)
 - Comparative: [[zoroastrian-influence-on-abrahamic-eschatology|influence on angelology]]
+
+## Related Texts
+
+- [[avesta|The Avesta]]
+- [[bundahishn|The Bundahishn ("Primal Creation")]]

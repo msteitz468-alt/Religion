@@ -121,3 +121,11 @@ legalism; James at quietism."
 - [[mark-seifrid|Mark A. Seifrid]] — 2 Cor. 5:21 as the compressed heart of forensic justification; *great exchange*
 - [[pistis-christou|*Pistis Christou* Debate]] — whether justification comes by faith *in* Christ or Christ's *own* faithfulness
 - [[johannine-determinism|Johannine Determinism]] — compare: John's "eternal life as knowledge" vs. Paul's forensic justification
+
+## Related Texts
+
+- [[1-corinthians|The First Letter to the Corinthians]]
+- [[2-corinthians|The Second Letter to the Corinthians]]
+- [[ephesians|The Letter to the Ephesians]]
+- [[galatians|The Letter to the Galatians]]
+- [[institutes-of-the-christian-religion|Institutes of the Christian Religion]]

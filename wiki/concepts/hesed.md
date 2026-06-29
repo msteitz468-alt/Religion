@@ -80,3 +80,10 @@ See [[divine-name|The Divine Name (YHWH)]] for the Sinai revelation context of á
 ## Sources Ingested
 
 1. [[peter-lau|Lau, Peter H. W.]]. *Ruth*. NICOT. Grand Rapids: Eerdmans, 2023.
+
+## Related Texts
+
+- [[1-samuel|1 Samuel]]
+- [[book-of-ruth|Ruth]]
+- [[psalms|The Psalms (Psalter)]]
+- [[song-of-songs|Song of Songs (Song of Solomon / Canticles)]]

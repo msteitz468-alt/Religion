@@ -113,3 +113,7 @@ Christian appropriation of Aristotle. See also [[clement-of-alexandria|Clement (
 
 [[averroes]] · [[falsafa]] · [[takfir]] · [[zahir-batin]] · [[bodily-resurrection]] ·
 [[gods-knowledge-of-particulars]] · [[prophecy]] · [[al-ghazali]] · [[clement-of-alexandria]]
+
+## Related Texts
+
+- [[protrepticus|Protrepticus (Exhortation to the Greeks)]]

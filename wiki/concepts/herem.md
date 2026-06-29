@@ -80,3 +80,8 @@ The *ḥerem* is the OT's sharpest ethical challenge: is divinely commanded geno
 ## Sources Ingested
 
 1. [[marten-woudstra|Woudstra, Marten H.]]. *Joshua*. NICOT. Grand Rapids: Eerdmans, 1981.
+
+## Related Texts
+
+- [[book-of-joshua|Joshua]]
+- [[judges|Judges]]

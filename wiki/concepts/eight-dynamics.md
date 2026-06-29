@@ -43,3 +43,8 @@ of a survival hierarchy and leaves its content to the individual — a near-**no
 
 - [[scientology|Scientology]], [[scientology-fundamentals-of-thought|The Fundamentals of Thought]],
   [[thetan|Thetan]], [[arc-triangle|ARC Triangle]]
+
+## Related Texts
+
+- [[notes-on-the-lectures|Notes on the Lectures of L. Ron Hubbard]]
+- [[scientology-8-8008|Scientology 8-8008]]

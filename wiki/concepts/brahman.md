@@ -68,3 +68,7 @@ are sharp:
 - [[hinduism|Hinduism]], [[upanishads|Upanishads]], [[atman|Atman]], [[maya|Maya]], [[moksha|Moksha]]
 - [[brahma-sutras|Brahma Sutras]], [[adhyasa|Adhyāsa]], [[brahman-atman-vedanta-schools|The Vedanta
   schools compared]]
+
+## Related Texts
+
+- [[vedas|The Vedas]]

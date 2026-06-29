@@ -57,3 +57,8 @@ a leading candidate antecedent for the sharp light/darkness, truth/falsehood dua
 - [[frashokereti|Frashokereti]], [[chinvat-bridge|the Chinvat Bridge]] (judgment by deeds)
 - Indo-Iranian parallel: [[rig-veda|the Rig Veda]] (*rta*), [[varuna|Varuna]]
 - [[boyce-zoroastrians-beliefs-and-practices|Boyce]]
+
+## Related Texts
+
+- [[avesta|The Avesta]]
+- [[gathas|The Gathas of Zarathustra]]

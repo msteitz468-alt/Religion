@@ -79,3 +79,7 @@ Boaz redeems Ruth; they marry; Obed is born. The marriage of a redeemer and his 
 ## Sources Ingested
 
 1. [[peter-lau|Lau, Peter H. W.]]. *Ruth*. NICOT. Grand Rapids: Eerdmans, 2023.
+
+## Related Texts
+
+- [[book-of-ruth|Ruth]]

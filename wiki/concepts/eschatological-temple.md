@@ -99,3 +99,8 @@ The NT temple-church concept does not simply replace the Jerusalem temple withou
 - [[passover|Passover]] — 1 Cor 5:6–8 uses Passover imagery for community purification
 - [[revelation|The Revelation to John]] — Rev 21:22: the New Jerusalem as the Holy of Holies, with no temple but God and the Lamb
 - [[grant-osborne|Grant R. Osborne]] — source for the New Jerusalem consummation of the temple theme
+
+## Related Texts
+
+- [[2-thessalonians|Second Letter to the Thessalonians]]
+- [[florilegium|Florilegium (Midrash on Eschatology)]]

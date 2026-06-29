@@ -92,3 +92,9 @@ The rule of faith is implicitly the centrepiece of the debate over the [[bauer-t
 - [[shema|Shema]] — Paul's monotheistic baseline underlying the rule
 - [[kyrios-christology-origins|Kyrios-Christology Origins]] — the high Christology embedded in the rule
 - [[dyadic-devotion|Dyadic Devotion]] — Hurtado's complementary account of the early devotional pattern
+
+## Related Texts
+
+- [[nag-hammadi-library|Nag Hammadi Library (Nag Hammadi Codices)]]
+- [[on-christian-doctrine|On Christian Doctrine (De Doctrina Christiana)]]
+- [[stromata|Stromata (Miscellanies)]]

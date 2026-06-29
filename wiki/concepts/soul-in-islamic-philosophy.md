@@ -118,3 +118,7 @@ the **sleep/death analogy** as "a proof which all can understand." On whether im
 Source: `raw/scholarship/ghazali_tahafut_marmura.txt` (Marmura translation)
 Scope: Discussions 18–19 ("On their inability to sustain a rational demonstration [proving] that the human soul is a self-subsisting spiritual substance …" and "On refuting their statement that it is impossible for human souls to undergo annihilation …") — read in full.
 Range: lines 7919–9913 of the cache file (E_7919_9913.txt).
+
+## Related Texts
+
+- [[incoherence-of-the-incoherence|The Incoherence of the Incoherence (Tahafut al-Tahafut)]]

@@ -31,3 +31,7 @@ of Chinese thought (a candidate comparison/controversy page).
 ## Cross-Links
 
 - [[daoism|Daoism]], [[dao|Dao]], [[wu-wei|Wu-wei]], [[daodejing|Daodejing]]
+
+## Related Texts
+
+- [[nei-yeh|Nei-yeh (Inner Cultivation)]]

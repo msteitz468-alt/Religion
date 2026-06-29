@@ -51,3 +51,7 @@ Buddhist deities by simply **assigning them offices**.
 - [[jade-emperor|Jade Emperor]], [[tudi-gong|Earth God]], [[kitchen-god|Kitchen God]], [[yan-wang|Yan Wang]],
   [[diyu|Diyu]], [[mazu|Mazu]]; [[investiture-of-the-gods|Investiture of the Gods]]
 - [[tian-shangdi|Tian / Shangdi]] (the impersonal order above even the bureaucracy); [[daoism|Daoism]]
+
+## Related Texts
+
+- [[myths-and-legends-of-china|Myths and Legends of China]]

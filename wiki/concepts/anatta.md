@@ -67,3 +67,10 @@ Anatta is the **direct antithesis** of the doctrines of an enduring soul elsewhe
 - [[buddhism|Buddhism]], [[four-noble-truths|Four Noble Truths]], [[sunyata|Emptiness]]
 - [[nagarjuna|Nāgārjuna]], [[madhyamaka|Madhyamaka]], [[svabhava|Svabhāva]], [[abhidharma|Abhidharma]]
 - [[upanishads|Upanishads]] (atman — the contrasting view)
+
+## Related Texts
+
+- [[bodhicaryavatara|Bodhicaryāvatāra (A Guide to the Bodhisattva's Way of Life)]]
+- [[heart-sutra|The Heart Sutra]]
+- [[new-world-translation|New World Translation of the Holy Scriptures]]
+- [[tipitaka|The Pali Canon (Tipitaka)]]

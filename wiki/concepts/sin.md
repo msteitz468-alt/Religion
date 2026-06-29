@@ -71,3 +71,7 @@ adds a new species.
 
 - [[summa-theologica]] I-II, Q71–89 (read in full as part of Prima Secundae Scope 3; Q71 recovered by
   main-thread read).
+
+## Related Texts
+
+- [[some-answered-questions|Some Answered Questions]]

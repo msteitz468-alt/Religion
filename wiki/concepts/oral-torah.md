@@ -49,3 +49,8 @@ These are analogies, not equivalents; the institutional and theological structur
 ## Sources Ingested
 
 1. [[isaac-unterman|Unterman, Isaac]]. *The Talmud: Its Origin and Development, Methods and Systems*. New York: Bloch, 1952/1965.
+
+## Related Texts
+
+- [[exodus|Exodus]]
+- [[seder-nezikin|Seder Nezikin (Order of Damages)]]

@@ -78,3 +78,7 @@ The *Kedushah* prayer's refrain ("Holy, holy, holy is the LORD of hosts") invoke
 ## Sources Ingested
 
 1. [[james-bruckner|Bruckner, James K.]]. *Exodus*. Understanding the Bible Commentary Series. Grand Rapids: Baker Books, 2008/2012.
+
+## Related Texts
+
+- [[exodus|Exodus]]

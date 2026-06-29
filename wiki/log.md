@@ -4199,6 +4199,18 @@ Key takeaways: (1) the Cappadocian "classical theory" became a shared *koine* by
 
 Forward references to "Severus of Antioch" left as plain text (page created in Scope 3). **Multi-scope work in progress** — raw source NOT yet filed. Next pass = Ch. 4 (Severus/miaphysitism) + Ch. 5 (Philoponus), lines 4425–6536.
 
+## 2026-06-28 ingest | Johannes Zachhuber, *The Rise of Christian Theology* — Scopes 3–6 (Chs. 4–10), completing the work
+
+Source: `raw/scholarship/The rise of Christian theology and the end of ancient metaphysics ... (Johannes Zachhuber) ...txt` (OUP, 2020). Scopes 3–6 = **Chapters 4–10 (lines 4478–12417) — read in full**, completing the six-scope plan; the **entire body (Chs. 1–10) is now read in full**, Bibliography excluded as apparatus. Deployed-subagent strategy: four background Sonnet subagents read disjoint line-ranges (Scope 3 = 4478–6536, Chs. 4–5; Scope 4 = 6537–8231, Chs. 6–7; Scope 5 = 8232–10526, Ch. 8; Scope 6 = 10527–12417, Chs. 9–10) to scratchpad notes; the **main thread owned all taxonomy, page creation, and cross-linking**.
+
+Pages created (11 commentators): `severus-of-antioch`, `john-philoponus`, `john-the-grammarian-of-caesarea`, `damian-of-alexandria`, `peter-of-callinicus`, `leontius-of-byzantium`, `pamphilus-the-theologian`, `theodore-of-raithu`, `leontius-of-jerusalem`, `maximus-the-confessor`, `john-of-damascus`; (1 concept) `concepts/enhypostaton.md`; (1 controversy) `controversies/tritheist-controversy.md`.
+
+Pages extended: `concepts/ousia-hypostasis-distinction.md` (the three post-Chalcedonian transformations — "the hidden revolution"); `scholarship/zachhuber-rise-of-christian-theology.md` (ledger Scopes 3–6, pages-generated, early-modern afterlife). Index updated (post-Chalcedonian transformers commentator subsection; enhypostaton concept; tritheist-controversy; Zachhuber scholarship line marked complete).
+
+Key takeaways: (1) Christology forced two rival reconstructions of the classical theory on the Chalcedonian side — the **philosophy of the enhypostaton** (Leontius of Byzantium → Pamphilus → Theodore of Raïthu; substance/accident binary, hypostasis marginalized) and the **philosophy of the hypostasis** (John the Grammarian → Leontius of Jerusalem → John of Damascus; hypostasis as the foundational individual in which all else inheres); (2) the miaphysite **particular natures** (Severus → Philoponus) drove the **tritheist controversy**; (3) **Maximus** alone tried to return to the classical theory (whole/part ontology); (4) **John of Damascus** ("End and Beginning") synthesized the Chalcedonian lines into a near-explicit essence/existence duality "deeply alien to ancient metaphysics," transmitted West via Burgundio/Peter Lombard — Zachhuber's "end of ancient metaphysics." Contradiction Protocol observed on `controversies/tritheist-controversy.md` and within commentator pages (Krausmüller vs. Zachhuber on Severus/Pamphilus; Elert's Theodore-of-Pharan identification; scholarly dating disputes) — recorded, not adjudicated.
+
+**Work complete for the full declared scope.** Raw source filed: `git mv` from `raw/` root into `raw/scholarship/`.
+
 ---
 
 ## [2026-06-28] ingest | Delphi Complete Works of Clement of Alexandria
@@ -4263,3 +4275,62 @@ source. Lint clean for all new pages. Raw source filed to `raw/texts/`.
 5. Evil as falling outside theophany: privation is non-being, hence outside the divine self-manifestation; evil is causeless and unintelligible
 
 **Raw source filed**: `mv` to `raw/scholarship/` (raw/ is git-ignored, so `mv` used rather than `git mv`)
+
+## [2026-06-28] ingest | Sharpe, *Mysticism: Its True Nature and Value* (1910)
+
+**Source**: `raw/scholarship/Dionysius the Areopagite: Mysticism Theology and Letters.md` (OCR;
+the file's supplied title reflects the bundled Dionysian translations, but the work is A. B.
+Sharpe's monograph on mysticism). **Scope: the whole monograph — read in full** (Introduction;
+Chs. I–XII; Letters I, II, V; Appendices I–II). Front matter (donor plate, imprimatur, TOC, index)
+treated as apparatus.
+
+Read via the deployed-subagent strategy: 4 Sonnet subagents over disjoint line-ranges
+(Introduction 361–1253; Chs. I–V 1254–4755; Chs. VI–X 4755–7223; Ch. XI–Appendices 7223–8962),
+synthesized on the main thread.
+
+**New pages**: [[mysticism]] (the wiki's first general theory-of-mysticism concept page —
+natural vs. supernatural, the *lumen gloriae*, the three Augustinian visions, the psychology of
+mysticism, the anti-perennialist and anti-James arguments); [[sharpe-mysticism|scholarship source
+page]] (scope plan + coverage ledger).
+
+**Extended**: [[pseudo-dionysius]] (Sharpe's reading + his translation; sources_ingested→3);
+[[plotinus]] (Ch. VIII — Plotinus as the lone non-Christian "true mystic"); [[mystical-theology]]
+and [[letters-of-dionysius]] (Sharpe's translation as a second witness alongside Parker);
+[[pseudo-dionysius-authorship]] (Sharpe's "not a forgery" position); [[perennialism]] (Sharpe as
+an early confessional critic — Contradiction Protocol).
+
+Lint: clean for new/edited pages (no new red links or orphans introduced). Raw source `mv`'d to
+`raw/scholarship/` (raw/ is git-ignored, so `mv` not `git mv`).
+
+## [2026-06-28] ingest | Rolt, *Dionysius the Areopagite: On the Divine Names and the Mystical Theology* (SPCK, 1920)
+
+**Source**: `raw/scholarship/Dionysius the Areopagite: On the Divine Names and the Mystical Theology.md`
+(CCEL/ThML transcription of the SPCK 1920 edition; C. E. Rolt, trans.; ed. W. J. Sparrow-Simpson).
+
+**Scope**: Rolt's Preface + Introduction (Sects. I–X), lines 86–227; Rolt's translation of the
+*Mystical Theology* (Chs. I–V), lines 413–431; Sparrow-Simpson's appended essay *The Influence of
+Dionysius in Religious History*, lines 434–514 — **read in full**. Rolt's translation of *On the
+Divine Names* (Chs. I–XIII), lines 230–412 — **read as a translation witness** (full chapter scheme
++ Chs. IV and XI read in full; doctrine confirmed identical to the already-ingested
+[[on-divine-names|Parker]] text; distinctive renderings recorded). Front matter and indexes
+(lines 1–85, 515–1455) not ingested (apparatus).
+
+The wiki already held the Dionysian corpus from Parker (1897) and Sharpe (1910); this pass adds
+the Rolt edition as a **third translation witness** plus two pieces of original scholarship —
+Rolt's philosophical Introduction (Super-Essence = the Supra-Personal Absolute; "two emanating
+streams"; "God is but an Appearance of the Absolute," after Bradley; the "zero" image for evil;
+comparison with Bradley/McTaggart/Bergson) and Sparrow-Simpson's reception-and-criticism history.
+
+**Pages**: created [[rolt-dionysius]] (scholarship), [[john-scotus-eriugena]] (commentator),
+[[dionysius-christian-or-neoplatonist]] (controversy). Updated [[on-divine-names]] (2nd witness),
+[[mystical-theology]] (3rd witness), [[pseudo-dionysius]] (Rolt's reading + Sparrow-Simpson
+reception; sources 3→4), [[emanation]] (Dionysian *proodos* / two streams), [[evil-as-privation]]
+(Rolt's "zero" image + critique; sources 3→4). Index + log updated.
+
+Contradiction Protocol: Rolt's "Supra-Personal Absolute" reading is recorded alongside
+[[perl-theophany|Perl's]] strict-Neoplatonist and [[sharpe-mysticism|Sharpe's]] Thomistic
+readings, and the orthodoxy dispute is filed as [[dionysius-christian-or-neoplatonist]] without
+adjudication.
+
+Lint: see below. Raw source `mv`'d to `raw/scholarship/` (raw/ is git-ignored, so `mv` not
+`git mv`).

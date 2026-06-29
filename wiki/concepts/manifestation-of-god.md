@@ -80,3 +80,8 @@ In one of his visions in the Síyáh-Chál prison in Tehran (1852), [[bahaullah|
 ## Controversies
 
 The concept breaks fundamentally with the Islamic understanding of the finality of prophethood and with Christian claims for the unique and final saving work of Christ. Within the Babi movement, the question of whether the Báb's claims were those of a gate/intermediary or a full Manifestation was itself contested, with later Bahá'í interpretation favoring the latter. See [[smith-short-history-bahai-faith|Smith 1995]] for the ambiguity of the early claims (lines 466–492).
+
+## Related Texts
+
+- [[kitab-i-iqan|Kitáb-i-Íqán (Book of Certitude)]]
+- [[seven-valleys|Seven Valleys]]

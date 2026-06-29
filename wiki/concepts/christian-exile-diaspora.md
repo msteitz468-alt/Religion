@@ -83,3 +83,7 @@ controversy]]):
 - [[peter-apostle|Simon Peter]] — the author
 - [[hebrews|Hebrews]] — "strangers and exiles" (11:13–16), the kindred NT exile motif
 - [[covenant|Covenant]] — the Israel-titles of 2:9–10 transferred to the church
+
+## Related Texts
+
+- [[epistle-to-diognetus|Epistle to Diognetus]]

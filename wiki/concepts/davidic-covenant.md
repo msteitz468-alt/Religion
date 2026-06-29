@@ -133,3 +133,8 @@ The Chronicler retells Nathan's oracle (1 Chr 17 = 2 Sam 7) with additional emph
 
 1. [[david-tsumura|Tsumura, David Toshio]]. *The Second Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2019.
 2. [[peter-leithart|Leithart, Peter J.]]. *1 & 2 Chronicles*. BTC. Grand Rapids: Brazos Press, 2019.
+
+## Related Texts
+
+- [[1-2-kings|1 and 2 Kings]]
+- [[psalms|The Psalms (Psalter)]]

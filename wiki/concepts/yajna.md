@@ -84,3 +84,8 @@ target of the inward, anti-ritual reactions of the [[upanishads|Upanishads]] and
    Vol. I, Chs. II–III — Brāhmaṇas, sacrifice as cosmological re-enactment.
 2. [[wendy-doniger|Wendy Doniger]], *[[doniger-the-hindus|The Hindus: An Alternative History]]* (2009),
    Ch. 6 (read in full) — horse sacrifice, recycling of sacrificial quality, soma scarcity, ahimsa stirrings.
+
+## Related Texts
+
+- [[mahabharata|Mahābhārata]]
+- [[ramayana|Rāmāyaṇa]]

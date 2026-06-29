@@ -68,3 +68,7 @@ practice, championed in the modern era by the **Dalai Lama**.
 - [[bodhicitta|Bodhicitta]], [[bodhisattva|the Bodhisattva ideal]], [[anatta|Nonself]]
 - [[shantideva|Śāntideva]], [[bodhicaryavatara|Bodhicaryāvatāra]] (ch. 8)
 - [[sunyata|Emptiness]], [[mahayana|Mahayana]], [[vajrayana|Vajrayana]] (lojong / tonglen)
+
+## Related Texts
+
+- [[lamrim-chenmo|The Great Treatise on the Stages of the Path to Enlightenment (Lamrim Chenmo)]]

@@ -191,3 +191,9 @@ Those [[hands-of-the-cause|Hands of the Cause]] who exercised collective leaders
 
 ### Elections (lines 11665–11701)
 Members of local and national assemblies, the Universal House of Justice, and some Regional Bahá'í Councils are elected by secret ballot. Nominations, canvassing, and all forms of electioneering are prohibited. There should be no discussion of personalities before the election. Each individual elector should prayerfully follow the dictates of their own conscience. Those with the most votes are elected if eligible to serve.
+
+## Related Texts
+
+- [[kitab-i-aqdas|Kitáb-i-Aqdas]]
+- [[secret-of-divine-civilization|Secret of Divine Civilization]]
+- [[will-and-testament-abdu-l-baha|Will and Testament of 'Abdu'l-Bahá]]

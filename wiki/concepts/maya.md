@@ -36,3 +36,8 @@ ground — so the comparison marks a contrast as much as a likeness.
 
 - [[hinduism|Hinduism]], [[brahman|Brahman]], [[advaita-vedanta|Advaita]], [[sunyata|Emptiness]]
 - [[brahman-atman-vedanta-schools|The Vedanta controversy triad]]
+
+## Related Texts
+
+- [[scientology-8-8008|Scientology 8-8008]]
+- [[upanishads|The Upanishads]]

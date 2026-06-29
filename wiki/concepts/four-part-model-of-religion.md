@@ -71,3 +71,7 @@ like *sin* and *salvation* — is a term native to one game only. See
 - [[religious-pluralism-debate|The Pluralism Debate]] — particularism (position 5)
 - [[yoruba-religion|Yoruba Religion]] — the tradition Prothero adds via this lens (problem =
   disconnection)
+
+## Related Texts
+
+- [[ifa-corpus|The Ifa Corpus (Odu Ifa)]]

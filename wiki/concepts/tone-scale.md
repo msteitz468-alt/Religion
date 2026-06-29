@@ -77,3 +77,7 @@ In most human beings the thetan is operating sub-zero. Auditing first drops the 
 - [[scientology-8-8008|Scientology 8-8008]] (primary source for the -8.0 to 40.0 range and two-position account)
 - [[notes-on-the-lectures|Notes on the Lectures]] (1950) — the earliest, pre-*Science of Survival* lecture
   form of the Tone Scale
+
+## Related Texts
+
+- [[history-of-man|Scientology: A History of Man]]

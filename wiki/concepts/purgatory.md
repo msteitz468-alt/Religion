@@ -63,3 +63,7 @@ text is cited by both sides.
 ## Related
 
 [[city-of-god]] · [[augustine]] · [[eternal-punishment]] · [[last-judgment]] · [[resurrection]]
+
+## Related Texts
+
+- [[summa-theologica|Summa Theologica (Summa Theologiae)]]

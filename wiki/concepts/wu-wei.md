@@ -47,3 +47,7 @@ comparison page on effort vs. effortlessness in the spiritual life.
 ## Cross-Links
 
 - [[daoism|Daoism]], [[dao|Dao]], [[ziran|Ziran]], [[daodejing|Daodejing]], [[zhuangzi|Zhuangzi]]
+
+## Related Texts
+
+- [[nei-yeh|Nei-yeh (Inner Cultivation)]]

@@ -66,3 +66,8 @@ An offence against the Rahit by an Amrit-dhari Sikh is called a *tanakhah*; the 
 - [[guru-granth-sahib|Guru Granth Sahib]] — the open scripture required at the ceremony
 - [[gurdwara|Gurdwara]] — the setting for the ceremony
 - [[sikhism|Sikhism]]
+
+## Related Texts
+
+- [[dasam-granth|Dasam Granth]]
+- [[jap-sahib|Jap Sahib]]

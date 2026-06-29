@@ -37,3 +37,8 @@ The concept of haumai belongs to the broader inheritance Nanak received from the
 - [[sikhism|Sikhism]] — tradition overview
 
 **Source:** W. H. McLeod, *Sikhism* (Penguin, 1997), `raw/scholarship/mcleod-sikhism.txt` (~L509–537, ~L597–600)
+
+## Related Texts
+
+- [[guru-granth-sahib|Guru Granth Sahib (Ādi Granth)]]
+- [[japji|Japji]]

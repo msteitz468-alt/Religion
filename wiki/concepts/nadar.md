@@ -28,3 +28,8 @@ This last verse states the asymmetry clearly: Nadar flows downward (God to human
 Pauri 24: "By His Glance of Grace, He bestows His Blessings." Pauri 38: "Such is the karma of those upon whom He has cast His Glance of Grace. O Nanak, the Merciful Lord, by His Grace, uplifts and exalts them." (L1756–1764, Ang 8)
 
 The *Kirtan Sohila* (Hymn 5, Mehl 5): those "blessed to sing God's Praises" — the blessing is not earned; the language throughout is passive (blessed, given, awakened), emphasizing divine initiative.
+
+## Related Texts
+
+- [[japji|Japji]]
+- [[sukhmani-sahib|Sukhmani Sahib]]

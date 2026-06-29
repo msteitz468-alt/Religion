@@ -271,3 +271,7 @@ way."
 - [[emanation]] — the philosophical cosmological framework at stake
 - [[occasionalism]] — Ghazālī's alternative account of causality (natural sciences section)
 - [[zahir-batin]] — hermeneutical axis active in Disc. 16's dispute over "the tablet"
+
+## Related Texts
+
+- [[incoherence-of-the-incoherence|The Incoherence of the Incoherence (Tahafut al-Tahafut)]]

@@ -2,8 +2,8 @@
 title: Perennialism (the Perennial Philosophy)
 domain: philosophy of religion / comparative religion
 traditions_using: [cross-tradition]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [concept, philosophy-of-religion, comparative-religion, pluralism, mysticism]
 ---
 
@@ -92,8 +92,24 @@ against triumphalism and "holy war" — a motive Prothero concedes is "to their 
 (d) particularism risks reinstating exclusivist rivalry and ignoring genuine convergences
 (the [[religious-pluralism-debate|Golden Rule]]).
 
+## A Confessional Critic: Sharpe (1910)
+
+Long before the modern pluralism debate, A. B. Sharpe's *[[sharpe-mysticism|Mysticism: Its True
+Nature and Value]]* (1910) argued against the perennialist reading **of mysticism specifically**
+— the claim that beneath their doctrinal trappings "Catholic, Protestant, Buddhist and
+Mohammedan" mystics contemplate one and the same impersonal Absolute. Sharpe's two objections
+(developed on [[mysticism]]): (1) **logical** — we possess only the mystics' own reports, and
+cannot credit the bare "unity" while discarding the specific content (e.g. Teresa's explicit
+intuition *of the Holy Trinity*); the recorded experiences "are so various as to be mutually
+destructive"; (2) **moral** — if the great Christian contemplatives were deceived about Whom they
+met, their expenditure of life is hard to justify. Unlike Prothero's pluralist-era critique,
+Sharpe's is openly confessional: he rejects the common core *in order to* defend the reality of
+specifically supernatural Christian mysticism. (Contradiction noted, not adjudicated: the
+perennialist "defenders' reply" above rests precisely on the convergence Sharpe denies.)
+
 ## Cross-Links
 
+- [[mysticism|Mysticism]] — Sharpe's natural/supernatural framework and his anti-perennialist case
 - [[stephen-prothero|Stephen Prothero]] — perennialism's leading critic
 - [[religious-pluralism-debate|The Pluralism Debate]] — perennialism as position 4
 - [[religious-pluralism|Religious Pluralism]] — the Hickian cousin

@@ -60,3 +60,9 @@ The Qumran pesharim are the earliest known examples of running biblical commenta
 
 ## See Also
 [[teacher-of-righteousness]] · [[habakkuk-commentary]] · [[community-rule]] · [[essenism]] · [[two-spirits-doctrine]] · [[dead-sea-scrolls-vermes]]
+
+## Related Texts
+
+- [[damascus-document|Damascus Document (Sefer Brit Dammesek)]]
+- [[florilegium|Florilegium (Midrash on Eschatology)]]
+- [[testimonia|Testimonia (4Q175)]]

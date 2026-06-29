@@ -178,3 +178,8 @@ letter-vs-spirit controversy across all the traditions.
 - [[origen|Origen]], [[clement-of-alexandria|Clement of Alexandria]], [[philo-of-alexandria|Philo]] — sources of the threefold sense
 - [[henri-de-lubac|Henri de Lubac]] / [[de-lubac-medieval-exegesis|Medieval Exegesis]] — the definitive modern study; "the senses are the two Testaments"
 - [[song-of-songs|Song of Songs]] — the text most thoroughly read through the spiritual senses
+
+## Related Texts
+
+- [[on-christian-doctrine|On Christian Doctrine (De Doctrina Christiana)]]
+- [[summa-theologica|Summa Theologica (Summa Theologiae)]]

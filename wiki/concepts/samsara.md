@@ -121,3 +121,7 @@ liberation — making Buddhist saṃsāra a process "all the way down."
 - [[karma|Karma]], [[dependent-origination|Dependent origination]], [[anatta|Non-self]],
   [[nirvana|Nirvana]], [[dukkha|Dukkha]]
 - [[buddhism|Buddhism]], [[bhikkhu-bodhi|Bodhi anthology]], [[two-truths|Two Truths]]
+
+## Related Texts
+
+- [[tipitaka|The Pali Canon (Tipitaka)]]

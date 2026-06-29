@@ -94,6 +94,30 @@ Ghazālī throughout Discussions 2–10 argues on the philosophers' own demonstr
 
 ---
 
+## Dionysian Emanation (*proodos*) — Rolt's "Two Streams"
+
+The Christian-Neoplatonic version of emanation runs not through the Islamic ten-intellect cascade
+but through the *proodos* / *epistrophē* ("procession" / "return") of [[pseudo-dionysius|
+Pseudo-Dionysius]]. In Dionysius the divine Names are God's "beneficent progressions" (*proodoi*)
+outward to creation; the very word **Emanation (*proodos*)** "means an act by which the
+Super-Essence goes forth from Itself" while "all the time" remaining "wholly within itself" — an
+act Dionysius calls "an **ecstasy of Divine Love**."
+
+[[rolt-dionysius|C. E. Rolt]] (1920) systematizes this into a metaphysics of **two emanating
+streams** issuing from the Super-Essential Godhead: a **Universal Stream** (the *autoeinai,
+autozōē* — "Very Being," "Very Life," etc.; the abstract "formal law" of the universe, of which
+the most universal emanations rank highest) and a **Particular Stream** (mere particularity,
+practically identified with **Non-entity**, *to mē on*, the "rough material"). The two "cross,
+but do not mingle" timelessly until, at the pre-ordained moment, they mingle and **Time and the
+temporal world begin** — matter arising first as "merely existent" (*ousiōdēs*), then ascending
+Existence → Life → Sensation → Reason → Spirit. Unlike the necessitarian Islamic schemes (and
+unlike Plotinus, for whom Rolt notes creation is "an act of necessity"), Dionysian procession is
+framed as an overflow of love, and Dionysius/Rolt deny the cosmos proceeds by necessity from a
+will-less First. See [[rolt-dionysius|Rolt's edition]], [[theosis-divine-nature|theosis]] (the
+*epistrophē*/return), [[apophatic-theology|apophatic theology]], and [[plotinus|Plotinus]].
+
+---
+
 ## See Also
 
 - [[divine-attributes-in-islam]] — the related critique of the philosophers' denial of positive attributes

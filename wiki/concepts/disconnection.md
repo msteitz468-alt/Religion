@@ -47,3 +47,7 @@ The structural parallel is real; the controversy focuses on whether Scientology'
 - [[sea-org|Sea Organization]], [[church-of-scientology|Church of Scientology]], [[fair-game|Fair Game]]
 - [[paul-haggis|Paul Haggis]], [[tommy-davis|Tommy Davis]]
 - [[wright-going-clear|Wright]], [[reitman-inside-scientology|Reitman]]
+
+## Related Texts
+
+- [[new-world-translation|New World Translation of the Holy Scriptures]]

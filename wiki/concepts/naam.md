@@ -32,3 +32,7 @@ The Naam is not obtained by individual effort but by [[nadar|Nadar]] (divine gra
 ## Naam and Haumai
 
 [[Haumai]] (ego) is the opposite of Naam-consciousness: Japji Pauri 2 establishes that understanding [[hukam|Hukam]] dissolves haumai, and throughout the Granth, Naam-simaran is the practice by which haumai is progressively overcome. The Manmukh (self-willed person) forgets the Naam; the Gurmukh (Guru-oriented person) lives by it.
+
+## Related Texts
+
+- [[sukhmani-sahib|Sukhmani Sahib]]

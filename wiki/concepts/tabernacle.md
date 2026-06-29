@@ -104,3 +104,8 @@ Cross-references: [[zohar|The Zohar]] (Vol. V), [[shekhinah|Shekhinah]], [[moses
 1. [[james-bruckner|Bruckner, James K.]]. *Exodus*. Understanding the Bible Commentary Series. Grand Rapids: Baker Books, 2008/2012.
 
 2. [[daniel-matt|Matt, Daniel C.]], trans. and comm. *The Zohar: Pritzker Edition, Volume Five*. Stanford University Press, 2009. The *mishkan* is read as the symbol and earthly locus of Shekhinah (Kallat Moshe, Bride of Moses); detailed sefirotic correspondences of the structure and vessels; the theurgical purpose of its construction; linkage to the laws of Mishpatim and the Sava stratum on gilgul. See the Zoharic section above and the full treatment on the [[zohar|Zohar]] page.
+
+## Related Texts
+
+- [[gospel-of-john|Gospel of John]]
+- [[hebrews|Letter to the Hebrews]]

@@ -70,3 +70,7 @@ The Kabbalistic Tsaddiq becomes, in 18th-century **Ḥasidism**, the *rebbe* or 
 - [[moses|Moses]] — the righteous one who "stands in the breach"
 - [[elijah|Elijah]] — the deathless guardian of the covenant (Yesod) at circumcision
 - [[circumcision|Circumcision]] — the bodily seal of the covenant of Yesod that the Tsaddiq guards
+
+## Related Texts
+
+- [[genesis|Genesis]]

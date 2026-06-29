@@ -88,3 +88,8 @@ See [[rudolph-gnosis-the-nature-and-history-of-gnosticism|Rudolph, *Gnosis*]] (s
 ## Sources Ingested
 
 1. Rudolph, Kurt. *Gnosis: The Nature and History of Gnosticism*. HarperSanFrancisco, 1987. (Phenomenological core; detailed analysis of gnosis as the unifying soteriological principle across schools, with attention to its revelatory, cosmological, and practical dimensions.)
+
+## Related Texts
+
+- [[clement-fragments|Fragments of Clement of Alexandria]]
+- [[deuteronomy|Deuteronomy]]

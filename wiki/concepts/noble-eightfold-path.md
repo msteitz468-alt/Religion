@@ -56,3 +56,7 @@ abolish practice but to deny the path's inherent existence under [[sunyata|empti
   [[karma|Karma]], [[dependent-origination|Dependent origination]]
 - [[buddhism|Buddhism]], [[gautama-buddha|The Buddha]], [[bhikkhu-bodhi|Bodhi anthology]],
   [[mindfulness|Mindfulness]]
+
+## Related Texts
+
+- [[tipitaka|The Pali Canon (Tipitaka)]]

@@ -93,3 +93,17 @@ DECLINED = user decided not to pursue
 **Suggested improvement:** When scaffolding (Step 1) a reference/critical/Delphi-style edition, the main thread should locate and exclude (or separately assign) the front chapter-table/TOC block before computing density-weighted line-ranges, since a TOC duplicates body content and inflates line counts. Subagent prompts for such works should explicitly say: "a detailed chapter-table precedes the body; do NOT treat reading its headings as reading the corresponding body chapters."
 
 **Principle:** Line-count is a poor proxy for reading-effort when a source duplicates its own content (TOC, indices, parallel translations, untranslated originals). Density-weighting in Step 2 should be computed on *body* text with such blocks identified up front, and the faithfulness mandate should name TOC-sampling as a specific failure mode distinct from general TOC-triage.
+
+### Observation 7: Step 7 "git mv" assumes raw sources are tracked; they often aren't
+
+**Date:** 2026-06-28
+**Session context:** Completing the multi-scope ingest of Zachhuber, *The Rise of Christian Theology* (Scopes 3–6); filing the raw source out of `raw/` root per ingest Step 7.
+**Skill:** Project ingest workflow (CLAUDE.md, Ingest Step 7 / OCR rule)
+**Type:** internal
+**Phase/Area:** Ingest Workflow → Step 7 (file the raw source out of `raw/` root)
+
+**Issue:** CLAUDE.md Step 7 directs `git mv` to relocate a fully-ingested raw file into its typed subfolder. The Zachhuber `.txt` was untracked (raw sources in this repo are frequently not added to git), so `git mv` failed with "not under version control." A plain `mv` was the correct fallback and preserved content.
+
+**Suggested improvement:** Reword Step 7 to "`git mv` if the file is tracked, otherwise `mv`" (or "move the file — `git mv` when tracked"). Same applies to the OCR replacement rule. Prevents a failed first attempt every ingest where the raw file was never committed.
+
+**Principle:** Workflow instructions that hard-code a VCS-aware command should state the plain-filesystem fallback, since source assets are often untracked. Match the command to the file's actual tracking state rather than assuming it.

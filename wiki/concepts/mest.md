@@ -44,3 +44,7 @@ MEST is the goal of aberration — complete identification with the physical uni
 - [[thetan|Thetan]], [[scientology|Scientology]], [[scientology-8-8008|Scientology 8-8008]]
 - [[eight-dynamics|Eight Dynamics]] (Dynamic 6 = the MEST universe itself, i.e., the physical world)
 - [[auditing|Auditing]], [[engram|Engram]], [[tone-scale|Tone Scale]]
+
+## Related Texts
+
+- [[history-of-man|Scientology: A History of Man]]

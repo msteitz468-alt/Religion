@@ -202,3 +202,8 @@ Dionysius inherits this argument directly and applies it to his doctrine of God.
 Perl's reading thus corrects two common misframings. Against the view that apophasis acknowledges a limitation of *human* cognition (so that some other, non-human or divine mode of thought might reach God): "human concepts and minds are unable to capture God, not because they are human, but because they are concepts and minds" (Perl's correction of Rorem, paraphrased from endnotes lines 4873–4875). Against the view that negative theology aims at "a superior, inconceivable, ineffable mode of being" beyond the categories (Derrida): "If to be is to be intelligible, then an 'inconceivable, ineffable mode of being' is a contradiction in terms" (endnotes line 4880–4882). The Neoplatonic-Dionysian apophasis does not land on a hidden superessential being; it departs from the domain of being altogether. This is why Proclus's *Commentary on Plato's Parmenides* ends in silence — "by means of a negation Parmenides has removed all negations. With silence he concludes the contemplation of the One" (endnotes lines 4918–4921) — and Perl defends this as rational, not irrational, silence: the logical outcome of the argument, not its abandonment.
 
 Source: [[perl-theophany|Perl, *Theophany*, 2007]], body text of Chapter 1 (range file lines 248–730) and endnotes to Chapter 1 (lines 4742–4931).
+
+## Related Texts
+
+- [[god-in-search-of-man|God in Search of Man: A Philosophy of Judaism]]
+- [[letters-of-dionysius|Letters of Dionysius the Areopagite]]

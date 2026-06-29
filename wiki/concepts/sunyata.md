@@ -66,3 +66,8 @@ A rich and contested comparandum:
 - [[svabhava|Svabhāva]], [[two-truths|Two Truths]], [[dependent-origination|Dependent origination]],
   [[abhidharma|Abhidharma]] — the conceptual cluster
 - [[neyartha-nitartha|Neyartha/Nitartha]] — emptiness teachings ranked as *nitartha* (definitive)
+
+## Related Texts
+
+- [[bodhicaryavatara|Bodhicaryāvatāra (A Guide to the Bodhisattva's Way of Life)]]
+- [[lamrim-chenmo|The Great Treatise on the Stages of the Path to Enlightenment (Lamrim Chenmo)]]

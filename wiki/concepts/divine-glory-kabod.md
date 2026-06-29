@@ -105,3 +105,12 @@ A recurring pattern structures the *kābôd* narrative across both Testaments:
 ## Sources Ingested
 
 1. [[daniel-block|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 1–24*. NICOT. Grand Rapids: Eerdmans, 1997.
+
+## Related Texts
+
+- [[daniel|Daniel]]
+- [[gospel-of-john|Gospel of John]]
+- [[hosea|Hosea]]
+- [[letters-of-john|Letters of John (1, 2, 3 John)]]
+- [[romans|Letter to the Romans]]
+- [[zechariah|Zechariah]]

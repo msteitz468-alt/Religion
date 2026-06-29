@@ -65,3 +65,8 @@ A key polemical marker of both the Sant tradition and Nanak's teaching is that n
 - [[khalsa|Khalsa]] — nam simaran as an explicit Rahit obligation
 
 **Source:** W. H. McLeod, *Sikhism* (Penguin, 1997), `raw/scholarship/mcleod-sikhism.txt` (~L539–699, ~L810–814, ~L1195–1196, ~L1623–1626)
+
+## Related Texts
+
+- [[dasam-granth|Dasam Granth]]
+- [[japji|Japji]]

@@ -2,7 +2,7 @@
 title: Evil as Privation of Good (privatio boni)
 domain: theology
 traditions_using: [Christianity, Neoplatonism]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-28
 tags: [concept, christianity, neoplatonism, theodicy, augustine, aquinas, evil]
 ---
@@ -144,6 +144,28 @@ Source: [[perl-theophany|Perl, *Theophany*, 2007]], Ch. 4 endnotes, range lines 
 
 **Evil as causeless and unintelligible — the comparison with Augustine.** The climactic philosophical claim is that evil has no cause: "as non-being, as inactivity, evil is without cause (*anaition*)" (DN IV.30, 732A) [lines 2663–2664]. Perl treats this as the doctrine's philosophical strength, not its weakness. Since causality is intelligibility and intelligibility is goodness, an evil that had a cause would by that fact be good. "Unintelligibility, or causelessness, is therefore the very meaning of evil; and it is as unintelligibility that evil is non-being" [lines 2710–2712]. This is why Dionysius says man "unintelligibly fell from the divine goods" (EH III.3.11, 440C) [lines 2707–2709] — the fall as such cannot be understood. The parallel with Augustine (noted in the endnote analysis above) is confirmed in the body text's argument structure: both treat the will's defection from the Good as the font of evil and both deny that this defection has any efficient or intelligible cause, though Dionysius operates more from final causality (things fail to attain their telos) while Augustine operates more from efficient causality (the will fails to choose its proper end).
 
+## Rolt's "Zero" Image and His Critique of Dionysius (1920)
+
+[[rolt-dionysius|C. E. Rolt]] restates the Dionysian privation theory with a striking
+illustration: evil is **like zero in mathematics** — "non-entity (since, added to numbers, it
+makes no difference) and yet has an annihilating force (since it reduces to zero all numbers that
+are multiplied by it). Even so evil is nothing and yet manifests itself in the annihilation of
+the things it qualifies." Evil is "a tendency of things towards nothingness": sickness toward
+death, sin toward spiritual death. Because "the ground of the soul is indestructible," no creature
+(not even a demon) is "inherently bad" — "Were they such they would cease *ipso facto* to exist."
+
+Unusually, Rolt also **criticizes** the doctrine he expounds. Dionysius's "great weakness," he
+argues, is failing "to emphasize the ugliness of evil": "a lapse or failure has in it something
+positive… as positive as the virtues from which it lapses." Quoting Augustine ("Sin is naught,
+and men are naughts when they sin"), Rolt insists that in this finite world "the bad qualities of
+things may… have as much actuality as their good qualities"; evil "ought to have no actuality
+here, not that it has none." He attributes Dionysius's one-sidedness partly to anti-[[manichaeism|
+Manichaean]] over-correction and to his being "so dazzled with his vision of ultimate Reality"
+that he gives too little prominence "to the Cross of Christ." Rolt distinguishes three Dionysian
+senses of **Non-Existence** (formless Aristotelian "Matter"; evil as formless; the Super-Essence
+as beyond Existence) and notes the "dangerous, yet true" corollary — taught also by Augustine and
+Dante — that "evil is a mistaken quest for Good." See [[rolt-dionysius|Rolt's edition]].
+
 ## Cross-Links
 
 - [[original-sin]] — pride as the deficient turning of the will that founds the [[two-cities|earthly city]].
@@ -151,3 +173,9 @@ Source: [[perl-theophany|Perl, *Theophany*, 2007]], Ch. 4 endnotes, range lines 
 - [[manichaeism|Manichaeism]] — the dualist position Augustine wrote against.
 - [[creation-ex-nihilo]] — why created natures are good yet mutable.
 - [[nature-of-evil]] — the dispute with the Kabbalistic/Hasidic stream ([[abraham-joshua-heschel|Heschel]], the Zohar), which rejects privation and treats evil as a real, active power *sustained by a holy spark* rather than mere absence.
+
+## Related Texts
+
+- [[contra-celsus|Contra Celsus (Against Celsus)]]
+- [[on-the-incarnation|On the Incarnation (De Incarnatione Verbi Dei)]]
+- [[summa-theologica|Summa Theologica (Summa Theologiae)]]

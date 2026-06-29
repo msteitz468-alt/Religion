@@ -63,3 +63,8 @@ This suggests a democratizing impulse: any Israelite, regardless of tribe, can u
 ## Sources Ingested
 
 1. [[barry-webb|Webb, Barry G.]]. *Judges*. NICOT. Grand Rapids: Eerdmans, 2012.
+
+## Related Texts
+
+- [[judges|Judges]]
+- [[numbers|Numbers]]

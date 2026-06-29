@@ -85,3 +85,9 @@ Michaels's framing: the Gospel's Christology is a **parabola** — the Son desce
 - [[origen|Origen]] — major early Christian commentator who integrated Logos theology into a full philosophical-exegetical system
 - [[philo-of-alexandria|Philo of Alexandria]] — key Hellenistic-Jewish precursor (Logos as intermediary)
 - [[middle-platonists|Middle Platonists]] and [[alexandria|Alexandria]] — the philosophical milieu and geographical center (new groups/ and locations/ pages)
+
+## Related Texts
+
+- [[colossians|The Letter to the Colossians]]
+- [[letter-to-titus|Letter to Titus]]
+- [[on-the-incarnation|On the Incarnation (De Incarnatione Verbi Dei)]]

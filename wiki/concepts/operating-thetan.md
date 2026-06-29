@@ -49,3 +49,8 @@ The OT levels represent Scientology's **esoteric core** — the secret doctrine 
 ## See Also
 
 [[scientology|Scientology]] · [[thetan|Thetan]] · [[auditing|Auditing]] · [[l-ron-hubbard|L. Ron Hubbard]] · [[scientology-religion-or-commercial-enterprise|Religion or commercial enterprise?]] · [[urban-church-of-scientology|Urban]]
+
+## Related Texts
+
+- [[history-of-man|Scientology: A History of Man]]
+- [[scientology-8-8008|Scientology 8-8008]]

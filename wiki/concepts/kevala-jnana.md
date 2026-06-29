@@ -51,3 +51,7 @@ Kevala-jnana (enlightenment) is distinct from final *moksha*. An enlightened per
 ## Sources Ingested
 
 [[dundas-the-jains|Dundas, *The Jains*]] ch. 4 (Doctrine).
+
+## Related Texts
+
+- [[samayasara|Samayasara]]

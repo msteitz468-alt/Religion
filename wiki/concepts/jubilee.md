@@ -92,3 +92,8 @@ The Jubilee's economic ethic also resonates with liberation theology's use of Lu
 - [[servant-songs|Servant Songs]] — Isa 61 is adjacent to the Servant Songs and draws on the same vocabulary of anointing and mission
 - [[hosea|Hosea]] / [[amos|Amos]] — the 8th-century prophets whose social critique the Jubilee legislation grounds
 - [[joel-green|Joel B. Green]] — the primary source for the Jubilee reading of Luke in the wiki
+
+## Related Texts
+
+- [[hebrews|Letter to the Hebrews]]
+- [[numbers|Numbers]]

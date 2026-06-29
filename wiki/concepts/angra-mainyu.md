@@ -58,3 +58,8 @@ principle and was condemned by orthodox tradition for compromising Ahura Mazda's
 - Comparative: [[satan|Satan]], [[the-combat-myth|the combat myth]];
   [[zoroastrian-influence-on-abrahamic-eschatology|influence on Abrahamic dualism]]
 - [[boyce-zoroastrians-beliefs-and-practices|Boyce]]
+
+## Related Texts
+
+- [[avesta|The Avesta]]
+- [[gathas|The Gathas of Zarathustra]]

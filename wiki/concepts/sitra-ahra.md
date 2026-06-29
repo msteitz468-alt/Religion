@@ -108,3 +108,8 @@ The Zohar's account of the Sitra Aḥra is simultaneously a theodicy and an ethi
 - [[esau|Esau]] / [[edomites|Edomites]] — the worldly/national face of the Other Side; Samael as Prince of Esau
 - [[jacob|Jacob]] — defeats Samael at the Jabbok
 - [[tsaddiq|Tsaddiq]] / [[joseph|Joseph]] / [[tamar|Tamar]] — the right use vs. the demonic misuse of Yesod (Er and Onan)
+
+## Related Texts
+
+- [[exodus|Exodus]]
+- [[genesis|Genesis]]

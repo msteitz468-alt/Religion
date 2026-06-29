@@ -95,3 +95,9 @@ The NT treats the Twelve as authoritative Scripture, citing extensively:
 ## Sources Ingested
 
 1. [[james-nogalski|Nogalski, James D.]]. *The Books of Joel, Obadiah, and Jonah*. NICOT. Grand Rapids: Eerdmans, 2023.
+
+## Related Texts
+
+- [[micah|Micah]]
+- [[obadiah|Obadiah]]
+- [[zechariah|Zechariah]]

@@ -62,3 +62,7 @@ The House has preferred directive guidance over legislative innovation. Its guid
 - [[shoghi-effendi|Shoghi Effendi]]
 - [[covenant-bahai|Covenant]] — authority base
 - [[kitab-i-aqdas|Kitáb-i-Aqdas]] — laws it administers
+
+## Related Texts
+
+- [[will-and-testament-abdu-l-baha|Will and Testament of 'Abdu'l-Bahá]]

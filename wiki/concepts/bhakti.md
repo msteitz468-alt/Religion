@@ -365,3 +365,7 @@ of medieval Hindu history.
    Chs. 20 (read in full) — Tulsidas and shadow Sita; Rāma and the Crow; Chaitanya and Bengal
    Vaishnavism; Sahajiyas; svakīyā/parakīyā debate (1717 decision); Radhavallabhas; Tukārām's
    "God's Dog"; Kshetrayya's courtesan devotion poetry (triple register); rasa theology.
+
+## Related Texts
+
+- [[mahabharata|Mahābhārata]]

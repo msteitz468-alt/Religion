@@ -120,3 +120,11 @@ This is one of the Zohar's most daring theological moves: the human religious ac
 - [[zoharic-afterlife|The Soul and the Afterlife]] — the higher Garden of Eden = Shekhinah
 - [[rachel|Rachel]] (the lower/revealed Shekhinah, Malkhut) and [[leah|Leah]] (the upper/concealed Mother, Binah)
 - [[sarah|Sarah]], [[rebekah|Rebekah]] — matriarchs and the indwelling Presence
+
+## Related Texts
+
+- [[deuteronomy|Deuteronomy]]
+- [[exodus|Exodus]]
+- [[genesis|Genesis]]
+- [[leviticus|Leviticus]]
+- [[numbers|Numbers]]

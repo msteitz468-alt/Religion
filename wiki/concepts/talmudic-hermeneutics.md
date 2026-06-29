@@ -36,3 +36,7 @@ Beyond formal derivation from Scripture, Talmudic hermeneutics involves the inte
 - **Chiluk (Distinction):** Resolving a contradiction by showing that the two cases hinge on fundamentally different conceptual variables.
 
 This hermeneutical tradition relies heavily on the belief that the Divine text is perfect, contains no superfluous words, and encapsulates infinite depth of meaning accessible through authorized logic.
+
+## Related Texts
+
+- [[talmud-bavli|Babylonian Talmud (Talmud Bavli)]]

@@ -44,3 +44,7 @@ cousin of the Norse and Vedic pantheons.
   [[gods-and-fighting-men|Gods and Fighting Men]]; [[the-otherworld|the Otherworld]]
 - [[the-dagda|the Dagda]], [[lugh|Lugh]], [[nuada|Nuada]], [[morrigan|the Morrígan]], [[brigid|Brigid]],
   [[dian-cecht|Dian Cécht]], [[manannan|Manannán]], [[balor|Balor]]
+
+## Related Texts
+
+- [[mabinogion|The Mabinogion]]

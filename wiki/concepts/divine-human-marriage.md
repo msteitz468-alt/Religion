@@ -125,3 +125,14 @@ In medieval Jewish mysticism (Kabbalah), the marriage metaphor becomes central: 
 2. [[john-oswalt|Oswalt, John N.]]. *The Book of Isaiah: Chapters 40–66*. NICOT. Grand Rapids: Eerdmans, 1998.
 3. [[john-goldingay|Goldingay, John]]. *The Book of Jeremiah*. NICOT. Grand Rapids: Eerdmans, 2021.
 4. [[j-andrew-dearman|Dearman, J. Andrew]]. *Hosea*. NICOT. Grand Rapids: Eerdmans, ca. 2010.
+
+## Related Texts
+
+- [[ezekiel|Ezekiel]]
+- [[hosea|Hosea]]
+- [[isaiah|Isaiah]]
+- [[jeremiah|Jeremiah]]
+- [[joel|Joel]]
+- [[lamentations|Lamentations]]
+- [[micah|Micah]]
+- [[zohar|The Zohar (Sefer ha-Zohar)]]

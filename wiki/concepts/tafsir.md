@@ -111,3 +111,7 @@ Book 60 provides the most detailed intra-canonical documentation of abrogation:
 - [[al-zamakhshari|al-Zamakhshari]] (*bi'l-ra'y* exemplar) / [[ibn-arabi|Ibn Arabi]] (*batin* exemplar);
   [[allegorical-reading|ta'wil]], [[tanzih-tashbih|tanzih / tashbih]], [[tawhid|Tawhid]]
 - [[pardes|PaRDeS]], [[midrash|Midrash]], [[typology|Typology]] — comparanda in other traditions
+
+## Related Texts
+
+- [[fusus-al-hikam|Fusus al-Hikam (The Bezels / Seals of Wisdom)]]

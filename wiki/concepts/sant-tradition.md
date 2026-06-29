@@ -91,3 +91,7 @@ The Sikh-specific distinctives of Nanak's version of Sant teaching include: (1) 
 - [[akal-purakh|Akal Purakh]] — Nanak's preferred term for God
 - [[kabir|Kabir]] — major Sant figure whose hymns appear in the Adi Granth
 - [[sikhism|Sikhism]] — tradition emerging from the Sant background
+
+## Related Texts
+
+- [[janam-sakhis|Janam-sakhis]]

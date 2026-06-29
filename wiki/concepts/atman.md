@@ -67,3 +67,7 @@ an enduring self, but only Advaita identifies it with the ultimate.
 - [[adhyasa|Adhyāsa]] (how Advaita explains the *apparent* finite self), [[brahman-atman-vedanta-schools|
   The Vedanta schools on the ātman–Brahman relation]]
 - [[anatta|Anatta (non-self)]] — the Buddhist denial; the central contrast
+
+## Related Texts
+
+- [[vedas|The Vedas]]

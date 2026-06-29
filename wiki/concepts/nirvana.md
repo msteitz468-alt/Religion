@@ -104,3 +104,8 @@ with the Hindu *moksha*-as-realization-of-*ātman*.
 - [[visuddhimagga|Visuddhimagga]], [[buddhaghosa|Buddhaghosa]]
 - [[vipassana-insight-knowledges|Vipassanā Insight Knowledges]]
 - [[seven-purifications|Seven Purifications]]
+
+## Related Texts
+
+- [[scientology-8-8008|Scientology 8-8008]]
+- [[tipitaka|The Pali Canon (Tipitaka)]]

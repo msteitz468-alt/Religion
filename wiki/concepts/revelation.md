@@ -75,3 +75,7 @@ and with liberal denial of revelation alike.
 
 - [[god-in-search-of-man|*God in Search of Man*]], Part II "Revelation" (chs. 17–27),
   Heschel (1955).
+
+## Related Texts
+
+- [[fragments-of-papias|Fragments of Papias]]

@@ -114,3 +114,7 @@ Modern scholarship largely accepts the Daoist chain.
 - [[li-confucian|Li (principle)]] — the concept Zhu Xi equated with taiji
 - [[daotong|daotong]] — the lineage in which Zhou's taiji concept played a role
 - [[neo-confucianism|Neo-Confucianism / Daoxue]] — the tradition that canonized this concept
+
+## Related Texts
+
+- [[yijing|Yijing (Scripture of Change)]]

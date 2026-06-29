@@ -66,3 +66,7 @@ The *ajiva* entities (motion, rest, matter, space) alone do not explain why the 
 ## Sources Ingested
 
 [[dundas-the-jains|Dundas, *The Jains*]] ch. 4 (Doctrine).
+
+## Related Texts
+
+- [[samayasara|Samayasara]]

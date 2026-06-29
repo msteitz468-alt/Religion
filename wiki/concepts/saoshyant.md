@@ -71,3 +71,7 @@ coherent redemptive climax.
 - Comparative: [[resurrection-of-the-dead|resurrection of the dead]],
   [[zoroastrian-influence-on-abrahamic-eschatology|influence on Abrahamic eschatology]],
   [[apocalyptic-literature|apocalyptic literature]]
+
+## Related Texts
+
+- [[bundahishn|The Bundahishn ("Primal Creation")]]

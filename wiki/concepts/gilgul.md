@@ -56,3 +56,7 @@ The introduction of gilgul in the Zohar marks a major expansion of Jewish anthro
 ## Sources Ingested
 
 1. [[daniel-matt|Matt, Daniel C.]], trans. and comm. *The Zohar: Pritzker Edition, Volume Five*. Stanford University Press, 2009. The *Sava de-Mishpatim* stratum (with the maiden parable and gilgul/yibbum linkage) and its placement within the Mishpatim commentary supply the foundational Zoharic treatment. Matt’s notes and introduction situate the composition within the broader Zohar and later Kabbalah.
+
+## Related Texts
+
+- [[exodus|Exodus]]

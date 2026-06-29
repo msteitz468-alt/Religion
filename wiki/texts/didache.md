@@ -116,3 +116,7 @@ or *spurious* books in the canon-lists of Eusebius and Athanasius. It was **ulti
 the New Testament of [[catholicism|Catholicism]], [[eastern-orthodoxy|Eastern Orthodoxy]], and
 [[protestantism|Protestantism]], surviving in a single complete Greek manuscript (Codex
 Hierosolymitanus, 1056). See [[nt-canon-formation|NT canon formation]].
+
+## Related Concepts
+
+- [[eucharist|Eucharist]]

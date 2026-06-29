@@ -52,3 +52,7 @@ heart") extend the principle into daily life.
 - [[izanagi-and-izanami|Izanagi]]'s purification; [[kojiki|Kojiki]]
 - contrast the **sin/atonement** axis of the biblical traditions; cf. Levitical purity laws as a partial
   parallel
+
+## Related Texts
+
+- [[nihongi|The Nihongi (Nihon Shoki)]]

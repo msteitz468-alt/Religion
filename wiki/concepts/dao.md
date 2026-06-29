@@ -38,3 +38,7 @@ ultimates.
 
 - [[daoism|Daoism]], [[daodejing|Daodejing]], [[zhuangzi|Zhuangzi]]
 - [[wu-wei|Wu-wei]], [[ziran|Ziran]]; [[ein-sof|Ein Sof]], [[sunyata|Emptiness]], [[brahman|Brahman]]
+
+## Related Texts
+
+- [[nei-yeh|Nei-yeh (Inner Cultivation)]]

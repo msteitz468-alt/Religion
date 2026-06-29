@@ -60,3 +60,7 @@ which is the state of liberation.
 
 1. [[wendy-doniger|Wendy Doniger]], *[[doniger-the-hindus|The Hindus: An Alternative History]]* (2009),
    Ch. 8 (read in full) — the three gunas and their social/cosmological mapping.
+
+## Related Texts
+
+- [[ramayana|Rāmāyaṇa]]

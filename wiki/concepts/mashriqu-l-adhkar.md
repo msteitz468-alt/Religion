@@ -63,3 +63,7 @@ Designed by Faríboun Sahba. Foundation stone laid 17 October 1977; dedicated 24
 - [[shoghi-effendi|Shoghi Effendi]]
 - [[bahai|Bahá'í Faith]]
 - [[numbers-bahai|Numbers (Bahá'í)]]
+
+## Related Texts
+
+- [[kitab-i-aqdas|Kitáb-i-Aqdas]]

@@ -84,3 +84,7 @@ The kabbalists frequently designate either Keter or Ein Sof itself as *Ayin* (א
 - [[zohar|The Zohar]]
 - [[shekhinah|Shekhinah]] — the most "exterior" and world-facing sefirah
 - [[creation-ex-nihilo|Creation ex Nihilo]] — the classical Jewish alternative framework
+
+## Related Texts
+
+- [[genesis|Genesis]]

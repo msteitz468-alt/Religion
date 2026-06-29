@@ -85,3 +85,7 @@ For [[kundakunda|Kundakunda]], the *jiva* is "the only true and ultimate categor
 ## Sources Ingested
 
 [[dundas-the-jains|Dundas, *The Jains*]] ch. 4 (Doctrine).
+
+## Related Texts
+
+- [[samayasara|Samayasara]]

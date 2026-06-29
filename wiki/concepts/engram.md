@@ -43,3 +43,9 @@ Urban (*The Church of Scientology*, Princeton 2011) notes that Hubbard's engram 
 
 - [[scientology|Scientology]], [[dianetics|Dianetics]], [[auditing|Auditing]], [[thetan|Thetan]]
 - [[urban-church-of-scientology|Urban]]
+
+## Related Texts
+
+- [[history-of-man|Scientology: A History of Man]]
+- [[notes-on-the-lectures|Notes on the Lectures of L. Ron Hubbard]]
+- [[scientology-8-8008|Scientology 8-8008]]

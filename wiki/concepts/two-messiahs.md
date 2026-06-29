@@ -67,3 +67,10 @@ VanderKam follows Schiffman's interpretation: the regular communal meals at Qumr
 
 ## See Also
 [[community-rule]] · [[damascus-document]] · [[heavenly-prince-melchizedek]] · [[teacher-of-righteousness]] · [[essenism]] · [[dead-sea-scrolls-vermes]] · [[dead-sea-scrolls-vanderkam]] · [[melchizedek]]
+
+## Related Texts
+
+- [[florilegium|Florilegium (Midrash on Eschatology)]]
+- [[messianic-apocalypse|Messianic Apocalypse (4Q521)]]
+- [[messianic-rule|The Messianic Rule (1QSa)]]
+- [[testimonia|Testimonia (4Q175)]]

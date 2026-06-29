@@ -71,3 +71,7 @@ This material gives Kabbalah a **developed eschatology** that classical rabbinic
 - [[tsaddiq|Tsaddiq]] — the death of the righteous as cosmic shield
 - [[zohar|The Zohar]], [[genesis|Genesis]]
 - [[ein-sof|Ein Sof]] — the ultimate source from which the soul descends and to which it returns
+
+## Related Texts
+
+- [[deuteronomy|Deuteronomy]]

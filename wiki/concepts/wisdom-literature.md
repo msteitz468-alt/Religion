@@ -85,3 +85,10 @@ Wholeness]] for James's distinctive "two ways" framing of wisdom and folly.
 2. [[bruce-waltke|Waltke, Bruce K.]]. *The Book of Proverbs: Chapters 1–15*. NICOT. Grand Rapids: Eerdmans, 2004.
 3. [[tremper-longman|Longman, Tremper, III]]. *The Book of Ecclesiastes*. NICOT. Grand Rapids: Eerdmans, 1998.
 4. [[douglas-moo|Moo, Douglas J.]]. *The Letter of James*. PNTC. Grand Rapids: Eerdmans, 2000. (For the NT-wisdom / paraenesis genre debate only.)
+
+## Related Texts
+
+- [[ecclesiastes|Ecclesiastes (Qohelet)]]
+- [[proverbs|Proverbs]]
+- [[psalms|The Psalms (Psalter)]]
+- [[song-of-songs|Song of Songs (Song of Solomon / Canticles)]]

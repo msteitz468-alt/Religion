@@ -44,3 +44,8 @@ A fuller account of the gurmukh/manmukh distinction — including its explicit t
 - [[sikhism|Sikhism]] — tradition overview
 
 **Source:** W. H. McLeod, *Sikhism* (Penguin, 1997), `raw/scholarship/mcleod-sikhism.txt` (~L508–537, ~L597–600, ~L661–664) — the terms *gurmukh/manmukh* are not explicit in this slice; the conceptual framework is extracted from the wider doctrine of haumai and nam simaran.
+
+## Related Texts
+
+- [[guru-granth-sahib|Guru Granth Sahib (Ādi Granth)]]
+- [[sukhmani-sahib|Sukhmani Sahib]]

@@ -80,3 +80,8 @@ The Bauer debate has permanently reshaped scholarship:
 - [[irenaeus|Irenaeus of Lyons]] — Bauer's primary orthodox foil; used apostolic succession argument
 - [[ignatius-of-antioch|Ignatius of Antioch]] — his episcopal letters interpreted differently by Bauer vs. mainstream scholarship
 - [[nt-canon-formation|NT Canon Formation]] — the canon as independent evidence against Bauer
+
+## Related Texts
+
+- [[1-clement|First Clement]]
+- [[nag-hammadi-library|Nag Hammadi Library (Nag Hammadi Codices)]]

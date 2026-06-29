@@ -50,3 +50,7 @@ The Thirteen Middot are the most systematically formalized hermeneutical rules i
 ## Sources Ingested
 
 1. [[isaac-unterman|Unterman, Isaac]]. *The Talmud: Its Origin and Development, Methods and Systems*. New York: Bloch, 1952/1965.
+
+## Related Texts
+
+- [[talmud-bavli|Babylonian Talmud (Talmud Bavli)]]

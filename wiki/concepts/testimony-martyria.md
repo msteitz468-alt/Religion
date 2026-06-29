@@ -53,3 +53,7 @@ The testimony framework is also relevant to the Gospel's genre. Michaels (follow
 - [[paraclete-advocate|The Paraclete/Advocate]] — Spirit as guarantor of testimony
 - [[beloved-disciple-identity|The Beloved Disciple]] — the human author-witness
 - [[j-ramsey-michaels|J. Ramsey Michaels]] — primary source
+
+## Related Texts
+
+- [[letters-of-john|Letters of John (1, 2, 3 John)]]

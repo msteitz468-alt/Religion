@@ -142,3 +142,9 @@ The Christian adoption of the codex (book format, not roll) from the very beginn
 - [[nomina-sacra|Nomina Sacra]] — scribal markers on NT manuscripts
 - [[bauer-thesis|Bauer Thesis]] — the canon as independent evidence against Bauer's dominance claim
 - [[kyrios-christology-origins|Kyrios-Christology Origins]] — the Christological content of the canonical texts
+
+## Related Texts
+
+- [[epistle-to-diognetus|Epistle to Diognetus]]
+- [[matthew|Gospel of Matthew]]
+- [[nag-hammadi-library|Nag Hammadi Library (Nag Hammadi Codices)]]

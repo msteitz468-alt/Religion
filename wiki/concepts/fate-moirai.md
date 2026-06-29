@@ -48,3 +48,7 @@ and resonates with the karma/destiny ideas of the Indian traditions and Zoroastr
 
 - [[greek-religion|Greek religion]], [[roman-religion|Roman religion]], [[zeus|Zeus]], [[nyx|Nyx]] (mother of
   the Moirai in Hesiod)
+
+## Related Texts
+
+- [[hesiod-theogony|Hesiod's Theogony (and Works and Days)]]

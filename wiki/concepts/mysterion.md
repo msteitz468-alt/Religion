@@ -73,3 +73,7 @@ The *mystērion* concept reflects Paul's apocalyptic framework: God has acted de
 - [[new-perspective-on-paul|New Perspective on Paul]] — Gentile inclusion is the content of the Ephesian mystery; relevant to the NPP debate about Paul's purposes
 - [[apocalyptic-literature|Apocalyptic Literature]] — the Daniel *rāz* background of *mystērion*
 - [[daniel|Daniel]] — LXX uses *mystērion* for the *rāz* of the statue vision (Daniel 2)
+
+## Related Texts
+
+- [[1-timothy|First Letter to Timothy]]

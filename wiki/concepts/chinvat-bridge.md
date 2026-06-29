@@ -66,3 +66,7 @@ Hell in Islamic tradition is frequently compared). Recorded, without adjudicatio
 - Background: [[yama|Yama/Yima]]; [[boyce-zoroastrians-beliefs-and-practices|Boyce]]
 - Comparative: [[resurrection-of-the-dead|resurrection of the dead]],
   [[zoroastrian-influence-on-abrahamic-eschatology|influence on Abrahamic eschatology]]
+
+## Related Texts
+
+- [[bundahishn|The Bundahishn ("Primal Creation")]]

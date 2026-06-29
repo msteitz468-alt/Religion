@@ -64,3 +64,7 @@ The social and economic commandments (sabbatical, Jubilee in Behar; covenant con
 1. [[gordon-wenham|Wenham, Gordon J.]]. *Leviticus*. NICOT. Grand Rapids: Eerdmans/London: Routledge & Kegan Paul, c. 1979.
 
 2. [[daniel-matt|Matt, Daniel C.]] (trans.). *The Zohar: Pritzker Edition, Volumes VII–VIII*. Stanford University Press, 2012–2014. (Leviticus as sefirotic theurgy: sacrifices/olah = Shekhinah ascending to *zivvuga qaddisha*; Nadab/Abihu = failure to include Shekhinah; purity as balance; Qedoshim holiness ethic + timed conjugal union as participation in supernal holiness; Torah study superior to sacrifice; Jubilee as socio-cosmic release.)
+
+## Related Texts
+
+- [[numbers|Numbers]]

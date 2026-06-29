@@ -112,3 +112,10 @@ The powers framework in Ephesians serves several theological functions:
 - [[sons-of-god|Sons of God (Gen 6:1–4)]] — the OT background for cosmic powers
 - [[apocalyptic-literature|Apocalyptic Literature]] — the Jewish cosmological framework for principalities and powers
 - [[daniel|Daniel]] — the "prince of Persia" and "prince of Greece" as cosmic powers governing nations (Dan 10)
+
+## Related Texts
+
+- [[1-thessalonians|First Letter to the Thessalonians]]
+- [[1-timothy|First Letter to Timothy]]
+- [[2-thessalonians|Second Letter to the Thessalonians]]
+- [[revelation|The Revelation to John (The Apocalypse)]]

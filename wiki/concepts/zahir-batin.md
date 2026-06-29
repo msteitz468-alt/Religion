@@ -36,3 +36,8 @@ itself part of why he charges the philosophers with unbelief (*[[takfir]]*) on r
 ## Sources Ingested
 
 - [[incoherence-of-the-philosophers|al-Ghazali, *The Incoherence of the Philosophers*]], trans. Marmura.
+
+## Related Texts
+
+- [[guide-for-the-perplexed|The Guide for the Perplexed (Moreh Nevukhim / Dalalat al-Ha'irin)]]
+- [[incoherence-of-the-incoherence|The Incoherence of the Incoherence (Tahafut al-Tahafut)]]

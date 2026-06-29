@@ -164,3 +164,8 @@ universal providence.
 ## Sources Ingested
 
 1. [[guide-for-the-perplexed|M. Friedländer (trans.), *Guide for the Perplexed*]], Part III, Chs. XVI–XXV (providence, omniscience, the Job schema, nisayon, the purpose of creation). Read in full for this scope.
+
+## Related Texts
+
+- [[institutes-of-the-christian-religion|Institutes of the Christian Religion]]
+- [[summa-theologica|Summa Theologica (Summa Theologiae)]]

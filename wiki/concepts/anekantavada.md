@@ -60,3 +60,7 @@ Dundas also notes a potential philosophical limitation: the doctrine "functions 
 ## Sources Ingested
 
 - [[dundas-the-jains|Dundas, *The Jains*]], ch. 8 ("Jain relativism and relations with Hinduism and Buddhism"), read in full.
+
+## Related Texts
+
+- [[samayasara|Samayasara]]

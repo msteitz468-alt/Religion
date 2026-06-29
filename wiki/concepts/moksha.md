@@ -100,3 +100,8 @@ empties — "liberation is regarded as having validity only if its opposite cont
 - [[jiva|Jain soul]], [[kevala-jnana|Omniscience]], [[loka|Jain cosmos]], [[tirthankara|Fordmaker]] (Jainism)
 - [[hinduism|Hinduism]], [[brahman|Brahman]], [[atman|Atman]], [[maya|Maya]], [[bhagavad-gita|Gita]]
 - [[four-noble-truths|Nirvana / Four Noble Truths]] — the Buddhist parallel
+
+## Related Texts
+
+- [[brahma-sutras|The Brahma Sutras]]
+- [[yoga-sutras|The Yoga Sutras of Patanjali]]

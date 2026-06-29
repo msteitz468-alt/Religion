@@ -73,3 +73,14 @@ The covenant concept raises several unresolved inter-tradition controversies:
 4. [[darrell-bock|Bock, Darrell L.]]. *Acts*. BECNT. Grand Rapids: Baker Academic, 2007.
 5. [[james-bruckner|Bruckner, James K.]]. *Exodus*. UBCS. Grand Rapids: Baker Books, 2008/2012.
 6. [[marten-woudstra|Woudstra, Marten H.]]. *Joshua*. NICOT. Grand Rapids: Eerdmans, 1981.
+
+## Related Texts
+
+- [[book-of-joshua|Joshua]]
+- [[book-of-ruth|Ruth]]
+- [[ephesians|The Letter to the Ephesians]]
+- [[exodus|Exodus]]
+- [[galatians|The Letter to the Galatians]]
+- [[genesis|Genesis]]
+- [[judges|Judges]]
+- [[romans|Letter to the Romans]]

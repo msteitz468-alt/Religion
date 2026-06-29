@@ -163,3 +163,7 @@ Divine Names]] — Parker translation (1897), Caputs I–XIII, read in full.
 - [[peter-apostle|Simon Peter]] — the claimed author
 - [[athanasius|Athanasius]] · [[on-the-incarnation|On the Incarnation]] (§54) — the classic formula
 - [[incarnation]] · [[imago-dei]] — the Christological and anthropological ground
+
+## Related Texts
+
+- [[paedagogus|Paedagogus (The Instructor)]]

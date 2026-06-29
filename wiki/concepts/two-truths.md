@@ -81,3 +81,8 @@ build whole systems on graded versions of the distinction.
 - [[mulamadhyamakakarika|MMK]] (ch. 24), [[nagarjuna|Nāgārjuna]], [[madhyamaka|Madhyamaka]]
 - [[sunyata|Emptiness]], [[svabhava|Svabhāva]], [[abhidharma|Abhidharma]],
   [[dependent-origination|Dependent origination]], [[neyartha-nitartha|Neyārtha / Nītārtha]]
+
+## Related Texts
+
+- [[bodhicaryavatara|Bodhicaryāvatāra (A Guide to the Bodhisattva's Way of Life)]]
+- [[lamrim-chenmo|The Great Treatise on the Stages of the Path to Enlightenment (Lamrim Chenmo)]]

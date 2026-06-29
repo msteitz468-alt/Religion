@@ -191,3 +191,14 @@ prototype being the open question of [[zoroastrian-influence-on-abrahamic-eschat
 1. [[tremper-longman|Longman, Tremper, III]]. *Daniel*. NIV Application Commentary. Grand Rapids: Zondervan, 1999.
 2. [[grant-osborne|Osborne, Grant R.]]. *Revelation*. BECNT. Grand Rapids: Baker Academic, 2002.
 3. [[cohn-cosmos-chaos-and-the-world-to-come|Cohn, Norman]]. *Cosmos, Chaos and the World to Come*. 2nd ed. Yale University Press, 2001.
+
+## Related Texts
+
+- [[1-thessalonians|First Letter to the Thessalonians]]
+- [[2-thessalonians|Second Letter to the Thessalonians]]
+- [[bundahishn|The Bundahishn ("Primal Creation")]]
+- [[hebrews|Letter to the Hebrews]]
+- [[joel|Joel]]
+- [[jonah|Jonah]]
+- [[jude|The Letter of Jude]]
+- [[mark|Gospel of Mark]]

@@ -80,3 +80,8 @@ R. Warrior's Native American critique adds a further layer: the paradigm of a pe
 ## Sources Ingested
 
 1. [[marten-woudstra|Woudstra, Marten H.]]. *Joshua*. NICOT. Grand Rapids: Eerdmans, 1981.
+
+## Related Texts
+
+- [[book-of-joshua|Joshua]]
+- [[hebrews|Letter to the Hebrews]]

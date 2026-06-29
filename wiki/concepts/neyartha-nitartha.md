@@ -40,3 +40,9 @@ candidate comparison page on "how traditions rank their own scriptures."
 
 - [[buddhism|Buddhism]], [[lotus-sutra|Lotus Sutra]] (upaya), [[sunyata|Emptiness]]
 - [[pardes|PaRDeS]], [[tafsir|Tafsir]] — comparanda
+
+## Related Texts
+
+- [[bodhicaryavatara|Bodhicaryāvatāra (A Guide to the Bodhisattva's Way of Life)]]
+- [[lamrim-chenmo|The Great Treatise on the Stages of the Path to Enlightenment (Lamrim Chenmo)]]
+- [[mulamadhyamakakarika|Mūlamadhyamakakārikā (The Fundamental Verses on the Middle Way)]]

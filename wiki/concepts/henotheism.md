@@ -44,3 +44,7 @@ of how traditions move between the one and the many.
 - [[vedic-religion|Vedic Religion]], [[rig-veda|Ṛgveda]], [[prajapati|Prajāpati]], [[brahman|Brahman]]
 - [[indra|Indra]], [[agni|Agni]], [[varuna|Varuṇa]]
 - [[dasgupta-history-of-indian-philosophy|Dasgupta, *History of Indian Philosophy*]] (Vol. I, source)
+
+## Related Texts
+
+- [[vedas|The Vedas]]

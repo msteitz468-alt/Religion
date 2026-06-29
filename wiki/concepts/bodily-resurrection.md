@@ -147,3 +147,8 @@ is not found in "the oldest philosophers." Compare the controversy [[resurrectio
 Source: `raw/scholarship/ghazali_tahafut_marmura.txt` (Marmura translation)
 Scope: Discussion 20 ("On refuting their denial of bodily resurrection …") + The Book's Conclusion — read in full.
 Range: lines 7919–9913 of the cache file (E_7919_9913.txt).
+
+## Related Texts
+
+- [[incoherence-of-the-incoherence|The Incoherence of the Incoherence (Tahafut al-Tahafut)]]
+- [[on-the-incarnation|On the Incarnation (De Incarnatione Verbi Dei)]]

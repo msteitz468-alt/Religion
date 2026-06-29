@@ -50,3 +50,10 @@ The financial structure of auditing: the full Bridge reportedly costs a minimum 
 - [[scientology|Scientology]], [[dianetics|Dianetics]], [[engram|Engram]], [[thetan|Thetan]], [[operating-thetan|Operating Thetan]]
 - [[l-ron-hubbard|Hubbard]], [[fair-game|Fair Game]]
 - [[urban-church-of-scientology|Urban]]
+
+## Related Texts
+
+- [[history-of-man|Scientology: A History of Man]]
+- [[notes-on-the-lectures|Notes on the Lectures of L. Ron Hubbard]]
+- [[scientology-8-8008|Scientology 8-8008]]
+- [[scientology-fundamentals-of-thought|Scientology — The Fundamentals of Thought]]

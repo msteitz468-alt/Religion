@@ -54,3 +54,7 @@ demonstrated [[eternity-of-the-world|eternity]] — see [[divine-attributes]], [
 
 - [[incoherence-of-the-philosophers|al-Ghazali, *The Incoherence of the Philosophers*]].
 - [[guide-for-the-perplexed|Maimonides, *The Guide for the Perplexed*]] (I:71–76 — critique of the Mutakallimun).
+
+## Related Texts
+
+- [[incoherence-of-the-incoherence|The Incoherence of the Incoherence (Tahafut al-Tahafut)]]

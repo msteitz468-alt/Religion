@@ -151,3 +151,16 @@ The Servant was almost universally read Christologically from Justin Martyr onwa
 1. [[john-oswalt|Oswalt, John N.]]. *The Book of Isaiah: Chapters 1–39*. NICOT. Grand Rapids: Eerdmans, 1986.
 2. [[john-oswalt|Oswalt, John N.]]. *The Book of Isaiah: Chapters 40–66*. NICOT. Grand Rapids: Eerdmans, 1998.
 3. [[karen-jobes|Jobes, Karen H.]]. *1 Peter*. BECNT. Grand Rapids: Baker Academic, 2005. (For the NT/Petrine appropriation of Isa. 53.)
+
+## Related Texts
+
+- [[1-corinthians|The First Letter to the Corinthians]]
+- [[1-peter|The First Letter of Peter]]
+- [[2-corinthians|The Second Letter to the Corinthians]]
+- [[daniel|Daniel]]
+- [[ezekiel|Ezekiel]]
+- [[luke|Gospel of Luke]]
+- [[mark|Gospel of Mark]]
+- [[matthew|Gospel of Matthew]]
+- [[romans|Letter to the Romans]]
+- [[zechariah|Zechariah]]

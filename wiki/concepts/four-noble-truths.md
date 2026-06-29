@@ -61,3 +61,7 @@ with the Abrahamic soteriologies ([[justification|justification]], grace) and wi
   [[bhikkhu-bodhi|Bodhi anthology]]
 - [[noble-eightfold-path|Eightfold Path]], [[nirvana|Nirvana]], [[karma|Karma]],
   [[samsara|Saṃsāra]], [[anatta|Non-self]], [[sunyata|Emptiness]], [[bodhisattva|Bodhisattva]]
+
+## Related Texts
+
+- [[dhammapada|The Dhammapada]]

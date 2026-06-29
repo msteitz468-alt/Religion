@@ -64,3 +64,8 @@ The NPP represents an application of historical-critical method to the Jewish ba
 - [[covenant|Covenant]] — the covenantal context both sides operate within
 - [[thomas-schreiner|Thomas R. Schreiner]] — leading evangelical critic of NPP
 - [[oral-torah|Oral Torah]] — Second Temple Jewish context
+
+## Related Texts
+
+- [[ephesians|The Letter to the Ephesians]]
+- [[galatians|The Letter to the Galatians]]

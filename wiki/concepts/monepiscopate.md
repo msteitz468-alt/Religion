@@ -88,3 +88,7 @@ The monepiscopate's development had lasting consequences:
 - [[polycarp|Polycarp of Smyrna]] — evidence for plural elder structure in Philippi c.110; Polycarp himself is a singular bishop of Smyrna but does not deploy Ignatian episcopal theology in his own letter
 - [[rule-of-faith|Rule of Faith]] — the theological content that the monepiscopate was meant to preserve
 - [[bauer-thesis|Bauer Thesis]] — Bauer's use of Ignatius' episcopal letters as evidence of heterodox dominance
+
+## Related Texts
+
+- [[shepherd-of-hermas|Shepherd of Hermas]]

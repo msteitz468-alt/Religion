@@ -38,3 +38,7 @@ The canonical separation of Luke and Acts — Luke placed among the Gospels, Act
 ## Sources Ingested
 
 1. [[darrell-bock|Bock, Darrell L.]]. *Acts*. BECNT. Grand Rapids: Baker Academic, 2007.
+
+## Related Texts
+
+- [[luke|Gospel of Luke]]

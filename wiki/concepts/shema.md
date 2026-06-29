@@ -89,3 +89,7 @@ The mezuzah scroll (Deut 6:4–9 and 11:13–21), affixed to doorposts, and *tef
 - [[larry-hurtado|Larry W. Hurtado]] — analysis of 1 Cor 8:4-6
 - [[kyrios-christology-origins|Kyrios-Christology Origins]] — controversy over the timing of the *Shema*-expansion
 - [[paul-apostle|Paul the Apostle]] — author of 1 Cor 8:4-6
+
+## Related Texts
+
+- [[seder-zeraim|Seder Zeraim (Order of Seeds)]]

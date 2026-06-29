@@ -55,3 +55,7 @@ routinely conflated in popular usage and by some scholars.
 
 1. [[wendy-doniger|Wendy Doniger]], *[[doniger-the-hindus|The Hindus: An Alternative History]]* (2009),
    Ch. 5 (read in full) — social reading of the Puruṣa-sūkta; varna as naturalized social fact.
+
+## Related Texts
+
+- [[mahabharata|Mahābhārata]]

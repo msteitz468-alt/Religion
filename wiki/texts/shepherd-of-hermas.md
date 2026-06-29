@@ -156,3 +156,7 @@ For *Herm.* 107.3–114.5, there is no surviving Greek text — we depend entire
 - [[clement-of-alexandria|Clement of Alexandria]] — accepted *Hermas* as scripture
 - [[irenaeus|Irenaeus of Lyons]] — accepted *Hermas* as scripture
 - [[didache|The Didache]] — parallel use of the *dipsychos* concept; similar Jewish-Christian Two Ways background
+
+## Related Concepts
+
+- [[second-repentance|Second Repentance (Post-Baptismal Penance)]]

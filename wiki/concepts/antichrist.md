@@ -105,3 +105,7 @@ The Protestant Reformation applied "antichrist" to the papacy (Luther). The spec
 - Figures: [[satan|Satan / the Devil]] — the dragon who empowers the beast; the related but distinct cosmic adversary; and [[secularization-of-evil|the modern "death of Satan"]]
 - Commentators: [[i-howard-marshall|I. Howard Marshall]], [[colin-kruse|Colin G. Kruse]], [[jeffrey-weima|Jeffrey A. D. Weima]], [[grant-osborne|Grant R. Osborne]]
 - Revelation: [[revelation|The Revelation to John]] (the beast, chs. 13, 17); [[revelation-interpretive-schools|The Four Interpretive Schools]]
+
+## Related Texts
+
+- [[1-thessalonians|First Letter to the Thessalonians]]

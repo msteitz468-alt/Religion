@@ -125,3 +125,9 @@ deeper sense (the Zohar's "beautiful maiden").
 - [[origen|Origen]], [[clement-of-alexandria|Clement of Alexandria]], [[philo-of-alexandria|Philo]] — major practitioners
 - [[henri-de-lubac|Henri de Lubac]] / [[de-lubac-medieval-exegesis|Medieval Exegesis]] — the modern recovery of Christian spiritual exegesis against the Enlightenment "arbitrariness" charge
 - [[song-of-songs|Song of Songs]] — the text whose allegorical reading (the soul/Israel/Church and God) is paradigmatic across all three traditions
+
+## Related Texts
+
+- [[contra-celsus|Contra Celsus (Against Celsus)]]
+- [[on-christian-doctrine|On Christian Doctrine (De Doctrina Christiana)]]
+- [[quis-dives-salvetur|Quis Dives Salvetur (Who Is the Rich Man That Shall Be Saved?)]]

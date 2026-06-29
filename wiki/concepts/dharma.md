@@ -229,3 +229,8 @@ phenomena — is related but distinct: see [[buddhism|Buddhism]] and the Pali ca
    Ch. 12 (read in full) — āpad-dharma (escape clause); Manu as meditation not law code; shastric
    divergences (Manu/Kautilya/Kama-sutra); tritiya prakriti; fantastical miscegenation model of jati;
    the four addictions; women in Manu vs. women in the Kama-sutra; Nishadas in Manu's taxonomy.
+
+## Related Texts
+
+- [[mahabharata|Mahābhārata]]
+- [[ramayana|Rāmāyaṇa]]

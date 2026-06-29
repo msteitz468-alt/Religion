@@ -139,3 +139,9 @@ Because the human being was created *b'tselem Elohim* ("in the image of God"), t
 - [[joseph|Joseph]] / [[tsaddiq|Tsaddiq]] — corresponds to Yesod, "foundation of the world"
 - [[judah|Judah]] — kingship; the threshold of Malkhut
 - [[moses|Moses]] — uniquely reaches Tif'eret; "bridegroom of the Shekhinah"
+
+## Related Texts
+
+- [[exodus|Exodus]]
+- [[genesis|Genesis]]
+- [[leviticus|Leviticus]]

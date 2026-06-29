@@ -112,3 +112,9 @@ The thetan's full track spans **76 trillion years** organized in **spirals** —
 - [[between-lives|Between-Lives]] (the between-lives implant and Mars report stations)
 - [[atman|Atman]] / [[anatta|Anatta]] — the comparative self/no-self axis; [[gnosticism|Gnostic]] spark
 - [[urban-church-of-scientology|Urban]]
+
+## Related Texts
+
+- [[dianetics|Dianetics — The Modern Science of Mental Health]]
+- [[science-of-survival|Science of Survival]]
+- [[scientology-fundamentals-of-thought|Scientology — The Fundamentals of Thought]]

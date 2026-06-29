@@ -51,3 +51,7 @@ Within [[gurmat|Gurmat]], Akal Purakh is approached through *nam simaran* — th
 - [[sikhism|Sikhism]] — tradition overview
 
 **Source:** W. H. McLeod, *Sikhism* (Penguin, 1997), `raw/scholarship/mcleod-sikhism.txt` (~L468–965, ~L2389–2391)
+
+## Related Texts
+
+- [[japji|Japji]]

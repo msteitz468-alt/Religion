@@ -116,3 +116,7 @@ The Hands have served the Universal House of Justice since its formation. The Ho
 ## Significance
 
 The institution of the Hands of the Cause represents the primary mechanism for the global propagation and protection of the Faith in the formative period of its development. The Hands collectively navigated the most critical succession crisis in Bahá'í history following Shoghi Effendi's death, preserving institutional continuity by facilitating the election of the Universal House of Justice.
+
+## Related Texts
+
+- [[will-and-testament-abdu-l-baha|Will and Testament of 'Abdu'l-Bahá]]

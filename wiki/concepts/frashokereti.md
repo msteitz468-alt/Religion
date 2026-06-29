@@ -53,3 +53,7 @@ without overclaiming.
 - [[cohn-cosmos-chaos-and-the-world-to-come|Cohn]], [[zoroastrian-influence-on-abrahamic-eschatology|Zoroastrian
   influence on Abrahamic eschatology]], [[apocalyptic-literature|apocalyptic literature]],
   [[boyce-zoroastrians-beliefs-and-practices|Boyce]]
+
+## Related Texts
+
+- [[avesta|The Avesta]]

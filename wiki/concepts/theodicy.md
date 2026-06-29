@@ -107,3 +107,13 @@ Batra 16a), holding instead that Job's words were vindicated because he *abandon
 
 1. [[john-hartley|Hartley, John E.]]. *The Book of Job*. NICOT. Grand Rapids: Eerdmans, 1988.
 2. [[guide-for-the-perplexed|Maimonides, *The Guide for the Perplexed*]] (III:8–24).
+
+## Related Texts
+
+- [[amos|Amos]]
+- [[ecclesiastes|Ecclesiastes (Qohelet)]]
+- [[isaiah|Isaiah]]
+- [[jeremiah|Jeremiah]]
+- [[lamentations|Lamentations]]
+- [[psalms|The Psalms (Psalter)]]
+- [[song-of-songs|Song of Songs (Song of Solomon / Canticles)]]

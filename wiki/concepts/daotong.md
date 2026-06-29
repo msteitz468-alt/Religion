@@ -96,3 +96,7 @@ minimal scholarly relationship.
 - [[zhu-xi|Zhu Xi]] — the architect of the Song-era daotong claim
 - [[neo-confucianism|Neo-Confucianism / Daoxue]] — the tradition organized around this lineage
 - [[taijitu-shuo|Taijitu shuo]] — the text Zhou Dunyi's daotong role was built on
+
+## Related Texts
+
+- [[tongshu|Tongshu (Penetrating the Scripture of Change)]]

@@ -172,3 +172,8 @@ earth thrown at a dried-up wall will not stick to it" (Akalanka).
 - [[samsara|Saṃsāra]], [[nirvana|Nirvana]], [[anatta|Non-self]],
   [[dependent-origination|Dependent origination]], [[four-noble-truths|Four Noble Truths]]
 - [[buddhism|Buddhism]], [[bhikkhu-bodhi|Bodhi anthology]], [[noble-eightfold-path|Eightfold Path]]
+
+## Related Texts
+
+- [[tipitaka|The Pali Canon (Tipitaka)]]
+- [[vedas|The Vedas]]

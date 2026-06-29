@@ -53,3 +53,7 @@ Until the eighteenth century the term *dharamsala* was used for any building whe
 - [[langar|Langar]] — the communal kitchen always attached to a gurdwara
 - [[amrit-sanskar|Amrit Sanskar]] — initiation rite conducted in gurdwaras
 - [[sikhism|Sikhism]]
+
+## Related Texts
+
+- [[rahit-maryada|Sikh Rahit Maryada]]

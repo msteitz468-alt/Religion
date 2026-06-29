@@ -136,3 +136,11 @@ The "new creation" in Paul reconnects to the creation theology of Genesis 1–2.
 - [[gene-green|Gene L. Green]] — BECNT 2 Peter (2008); renewal-not-annihilation; the "found" reading of 3:10
 - [[revelation|The Revelation to John]] — Rev 21–22: new heaven and earth; New Jerusalem as Holy of Holies and final Eden
 - [[grant-osborne|Grant R. Osborne]] — BECNT Revelation (2002); renovation vs. re-creation; the consummated vision
+
+## Related Texts
+
+- [[1-thessalonians|First Letter to the Thessalonians]]
+- [[colossians|The Letter to the Colossians]]
+- [[ephesians|The Letter to the Ephesians]]
+- [[galatians|The Letter to the Galatians]]
+- [[letter-to-titus|Letter to Titus]]

@@ -63,3 +63,7 @@ ancestor-veneration into a moralized framework rather than abolishing it.
 - [[zoroastrianism|Zoroastrianism]], [[boyce-zoroastrians-beliefs-and-practices|Boyce]],
   [[rose-zoroastrianism-an-introduction|Rose]]; [[xwarenah|the fravohar / xwarenah]]
 - Background: [[yama|Yama/Yima]] and the realm of the dead
+
+## Related Texts
+
+- [[avesta|The Avesta]]

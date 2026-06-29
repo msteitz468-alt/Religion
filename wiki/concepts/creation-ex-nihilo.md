@@ -79,3 +79,7 @@ motion time depends are themselves created beings" (II:13) — so one cannot pos
 world without smuggling in an eternal substrate. He holds creation to be undemonstrated but more
 defensible than [[eternity-of-the-world|Aristotle's eternity]], and accepts it on prophetic
 authority (II:16). See [[maimonides]].
+
+## Related Texts
+
+- [[genesis|Genesis]]

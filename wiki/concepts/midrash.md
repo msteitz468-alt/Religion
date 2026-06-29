@@ -73,3 +73,7 @@ The early church's practice of reading "Christ in the OT" shares the midrashic a
 ## Sources Ingested
 
 1. [[hannah-harrington|Harrington, Hannah K.]]. *The Books of Ezra and Nehemiah*. NICOT. Grand Rapids: Eerdmans, 2022.
+
+## Related Texts
+
+- [[ezra-nehemiah|Ezra-Nehemiah]]

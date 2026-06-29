@@ -38,3 +38,8 @@ Norse cosmology arranges existence in **Nine Worlds** on three rough levels, inc
 
 - [[odin|Odin]], [[norns|the Norns]], [[ragnarok|Ragnarök]]; [[valhalla|Valhalla]], [[hel|Hel]],
   [[jormungandr|Jörmungandr]]; [[norse-religion|Norse religion]]
+
+## Related Texts
+
+- [[poetic-edda|The Poetic Edda]]
+- [[prose-edda|The Prose Edda]]
