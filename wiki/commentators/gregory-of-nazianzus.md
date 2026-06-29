@@ -5,7 +5,7 @@ dates: c. 329 – c. 390 CE
 tradition: [Christianity — Eastern, Nicene]
 affiliation: [proto-orthodox-christianity, cappadocian-fathers, eastern-orthodoxy]
 primary_texts_commented: [the Nicene Creed; Eunomian and Pneumatomachian doctrine (Theological Orations)]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-28
 tags: [commentator, christianity, cappadocian, patristic, trinity, fourth-century, ousia, hypostasis, rhetoric]
 ---
@@ -44,9 +44,27 @@ Zachhuber reads this variety not as inconsistency to be explained away but as il
 
 Honored in the East as "the Theologian" — one of only three figures so titled (with John the Evangelist and Symeon the New Theologian). His orations were enormously influential and heavily commented; Zachhuber notes that previous interpreters' concentration on the Theological Orations has shaped (and perhaps skewed) the modern picture of his thought.
 
+## Ayres on Nazianzen (Nicaea and Its Legacy)
+
+Lewis Ayres ([[nicaea-and-its-legacy|*Nicaea and Its Legacy*]], 2004) treats the five
+**Theological Orations** (summer/autumn 380, preached at the Anastasia) as "a manifesto" of
+Gregory's [[pro-nicene-theology|pro-Nicene]] mission in Constantinople. Gregory's distinctive
+move is to make the **generative divine nature** the eternal point of departure: "Monotheism…
+is what we value — not… the sovereignty of a single person… but the single rule produced by
+equality of nature (φύσεως ὁμοτιμία), harmony of will, identity of action… a one eternally
+changes to two and stops at three" (*Or.* 29.2). He develops a near-**perichoresis** — a
+"convergence towards the source" (σύννευσις, drawn from Plotinus) by which the persons "cleave
+together… not so as to coalesce" — and treats **relation** (σχέσις) as the category upholding
+"paradoxical unity in distinction": "'Father' is a name neither of substance nor of activity,
+but of relationship" (*Or.* 29.16). His running through and rejecting of analogies (*Or.* 31)
+exemplifies pro-Nicene **analogical reserve**. Ayres notes Gregory's parallel to
+[[gregory-of-nyssa|Nyssa's]] anti-tritheist argument (*Or.* 31.13–15, "structurally identical")
+— and that Gregory later openly disapproved of the council's reticent pneumatological clauses.
+
 ## Key Links
 
 - [[ousia-hypostasis-distinction|Ousia / Hypostasis (the classical theory)]] — his Origenist-inflected reception of the abstract account
+- [[pro-nicene-theology]] · [[nicaea-and-its-legacy]] · [[trinity]] · [[holy-spirit]]
 - [[cappadocian-fathers|Cappadocian Fathers]] · [[basil-of-caesarea|Basil of Caesarea]] · [[gregory-of-nyssa|Gregory of Nyssa]]
 - [[eunomius|Eunomius]] · [[apollinarius-of-laodicea|Apollinarius of Laodicea]] · [[origen|Origen]]
 - [[trinity|Trinity]] · [[nicaea|Nicaea]] · [[arianism|Arianism]]

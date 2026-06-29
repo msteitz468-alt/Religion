@@ -5,8 +5,8 @@ dates: 354–430 CE
 tradition: [Christianity]
 affiliation: [Latin patristics, proto-orthodox/Catholic Christianity, Western theology]
 primary_texts_commented: [city-of-god, on-christian-doctrine, genesis, psalms, gospel-of-john, pauline-epistles]
-sources_ingested: 4
-last_updated: 2026-06-27
+sources_ingested: 5
+last_updated: 2026-06-28
 tags: [commentator, christianity, latin-fathers, patristics]
 ---
 
@@ -113,6 +113,37 @@ made flesh and the spoken word]] (Bk. I, ch. 13).
 - **Post-apostolic miracles continue** ([[relic-veneration]]): against incipient cessationism, Augustine
   catalogues healings he personally attests at the relics of [[stephen-protomartyr|Stephen]], read as
   witnesses to the resurrection — "our martyrs are not our gods."
+
+## Trinitarian Theology and Ayres's Defence (Nicaea and Its Legacy)
+
+Lewis Ayres ([[nicaea-and-its-legacy|*Nicaea and Its Legacy*]], 2004) reads Augustine as a
+**fully [[pro-nicene-theology|pro-Nicene]]** theologian and rebuts "the modern attack on
+Augustine" (Plantinga, Lossky, et al.) — the charge that he over-stressed divine unity, founded
+the Trinity in the unitary essence (the [[filioque|filioque]] as symptom), and let an alien
+Platonism block a personal Trinitarianism. Ayres's counter-case:
+
+- **The two-stage thesis is discredited**: Augustine met the Platonic books *during* his return
+  to Christianity, after [[ambrose|Ambrose]]; Cipriani shows his early Neoplatonic borrowings run
+  through Ambrose and [[marius-victorinus|Marius Victorinus]] — "little… he could not have found
+  through close reading of Ambrose."
+- **Inseparable operation from the start**: *Ep.* 11 (389) — "the Son does not do anything which
+  the Father and the Holy Spirit do not also do" — locates his earliest theology "within the
+  Latin pro-Nicene tradition." *Sermon* 52 makes inseparable operation a "fundamental doctrinal
+  rule": "the distinction of persons, and the inseparableness of operation" (see
+  [[opera-trinitatis]]).
+- **The grammar of [[divine-simplicity|simplicity]] does not make the essence prior to the
+  persons.** In *De Trinitate* 5–7, only two categories obtain — "according to substance" and
+  "according to relation"; pressing into the Son's full reality (*essentia de essentia*; the Son
+  as "wisdom itself," not wise by participation) *yields* the unity rather than positing a
+  substance behind the persons: "we do not find the unity by focusing on something different from
+  the persons." Augustine "consistently and specifically rules out the idea that the divine
+  essence is prior to the divine persons… there is nothing but the three coeternal and
+  consubstantial persons," with the Father as personal source.
+- Ayres's irony: Augustine's Platonism plays "virtually the opposite" role to the one critics
+  assign it — it "enhance[s] the explanatory power of a fully Nicene Trinitarianism."
+
+Paired with [[gregory-of-nyssa|Gregory of Nyssa]] (Ch. 14), Augustine is Ayres's evidence that
+the [[de-regnon-paradigm|East/West (Greek/Latin) typology]] is "inadequate and misleading."
 
 ## Influence
 

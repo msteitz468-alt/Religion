@@ -103,3 +103,6 @@ Key influence:
 - [[gnostics|Gnostics]] — the primary target of *Against Heresies*
 - [[marcionites|Marcionites]] — Marcion's canon as the foil for Irenaeus' canon defense
 - [[ignatius-of-antioch|Ignatius of Antioch]] — earlier link in the episcopal tradition Irenaeus systematizes
+- [[apostolic-succession|Apostolic Succession]] — Irenaeus' classic statement: bishops with the *charisma veritatis certum* (per [[kelly-early-christian-doctrines|Kelly]])
+- [[typology|Typology]] · [[inspiration-of-scripture|Inspiration of Scripture]] — Irenaeus on OT–NT unity and Scripture as "spiritual in its entirety"
+- [[kelly-early-christian-doctrines|Kelly, Early Christian Doctrines]] — Scripture-and-tradition "coincident in content"

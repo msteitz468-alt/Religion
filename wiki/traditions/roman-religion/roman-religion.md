@@ -66,8 +66,23 @@ Foundational to the Western calendar (month and day names), law, and statecraft;
 flashpoint of Christian **martyrdom** (refusal to sacrifice to the emperor); Christianity finally displaced
 it (Theodosius, 380–392 CE). Revived in modern *Religio Romana* movements.
 
+Robert Louis Wilken's [[wilken-christians-as-romans-saw-them|*The Christians as the Romans Saw Them*]]
+recovers this tradition as a **sincere, practice-centered religiosity** (orthopraxy, *pietas*,
+*providentia*) rather than the irreligious decadence of confessional caricature. The pagan critics of
+[[christians|Christianity]] — [[pliny-the-younger|Pliny]], [[galen|Galen]], [[celsus|Celsus]],
+[[porphyry|Porphyry]], and the emperor [[julian-the-apostate|Julian]] — wrote from within this sensibility,
+and their persecution of Christians sprang from it ([[roman-persecution-piety-or-prejudice|piety, not mere
+prejudice]]). Julian represents its last imperial revival.
+
 ## Key Cross-Links
 
 - [[interpretatio-romana|Greek–Roman god equivalences]]; [[greek-religion|Greek religion]] (its source)
 - [[imperial-cult|The Imperial Cult]] and Christian [[polycarp|martyrdom]]; [[pietas|Pietas]],
   [[sacrifice|Sacrifice]], [[fate-moirai|Fate (the Parcae)]]
+
+## See also: divinization and the emperor cult
+
+For the Greco-Roman **continuum of divinity**, apotheosis of emperors and heroes, and the
+*cultus deorum* / emperor cult as background to early Christology, see
+[[apotheosis-divinization|Apotheosis and Divinization]] (drawing on [[bart-ehrman|Ehrman]]'s
+[[ehrman-how-jesus-became-god|*How Jesus Became God*]]).

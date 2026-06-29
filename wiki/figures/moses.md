@@ -5,8 +5,8 @@ tradition: cross-tradition
 textual_sources: [Exodus, Leviticus, Numbers, Deuteronomy, Hebrews, The Zohar]
 dates: 13th century BCE (traditional)
 roles: [prophet, lawgiver, leader, mediator]
-sources_ingested: 3
-last_updated: 2026-06-07
+sources_ingested: 4
+last_updated: 2026-06-28
 tags: [figure, cross-tradition, prophet, kabbalah]
 ---
 
@@ -112,3 +112,13 @@ In the Mi'raj, Moses is encountered in the sixth heaven (accounts vary on the ex
 - [[shekhinah|Shekhinah]], [[korah|Korah]] (the rebellion Moses mediates as a sefirotic conflict)
 - [[sahih-al-bukhari|Sahih al-Bukhari]] — Islamic reception (Books 55–56, Vol. 4)
 - [[isra-and-miraj|Night Journey and Ascension]] — Moses encountered in the heavens; intercedes for 50→5 prayer reduction
+
+## Moses as a Divinized Human ([[bart-ehrman|Ehrman]])
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) gathers Jewish
+traditions of Moses's **divinization** as part of the [[two-powers-in-heaven|spectrum of
+divinity in Judaism]]: Exodus 4:16 (Moses to "serve as God" for Aaron); Sirach 45 ("equal in
+glory to the holy ones"); Ezekiel the Tragedian (enthroned with a diadem, the stars bowing);
+and especially [[philo-of-alexandria|Philo]], for whom Moses was "god and king of the whole
+nation," "gradually becoming divine," even imagined as a pre-existent being "sent … as a loan to
+the earthly sphere." See [[two-powers-in-heaven]], [[apotheosis-divinization]].

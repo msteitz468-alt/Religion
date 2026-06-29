@@ -120,11 +120,18 @@ deeper sense (the Zohar's "beautiful maiden").
 - [[fourfold-sense|Fourfold Sense (Quadriga)]] — the Christian regulation of allegory into four senses
 - [[pardes|PaRDeS]] — the Jewish fourfold scheme; Remez is the allegorical level
 - [[typology|Typology]] — the historical, prefigurative reading distinguished from allegory proper
+- [[theoria|Theoria (Antiochene exegesis)]] — the Antiochene counter-method that preserves the literal sense against Alexandrian allegory
+- [[inspiration-of-scripture|Inspiration of Scripture]] — allegory defended as reading Scripture "in a manner worthy of the Holy Spirit" (Origen)
 - [[tafsir|Tafsir]] — Islamic commentary; *ta'wil* / *bāṭin* as the esoteric counterpart
 - [[midrash|Midrash]] — the homiletical (Derash) mode, adjacent to but distinct from allegory
 - [[origen|Origen]], [[clement-of-alexandria|Clement of Alexandria]], [[philo-of-alexandria|Philo]] — major practitioners
 - [[henri-de-lubac|Henri de Lubac]] / [[de-lubac-medieval-exegesis|Medieval Exegesis]] — the modern recovery of Christian spiritual exegesis against the Enlightenment "arbitrariness" charge
 - [[song-of-songs|Song of Songs]] — the text whose allegorical reading (the soul/Israel/Church and God) is paradigmatic across all three traditions
+- [[biblical-criticism-antiquity|Biblical and historical criticism in antiquity]] — the opposing hermeneutic: [[porphyry|Porphyry]] knew allegory well but **refused** to let it "explain away" the literal/historical difficulties of Scripture (against [[origen|Origen]]'s defensive allegory), dating Daniel as a Maccabean pseudepigraph. See [[wilken-christians-as-romans-saw-them|Wilken]].
+
+## Origen's Threefold Sense (Kelly)
+
+[[kelly-early-christian-doctrines|Kelly]] (ch. III) sets out [[origen]]'s formal account in *De Principiis* 4.2.4: corresponding to the Pauline trichotomy of **body/soul/spirit**, Scripture bears (1) a **bodily** sense — the straightforward historical meaning, "useful for simple people"; (2) a **psychic** sense — a moral lesson for the will; and (3) a **spiritual** sense — the mystical meaning bearing on Christ, the Church, or "the great truths of the faith." Origen does not abolish the literal sense but holds that in a number of cases it is "inacceptable" and must yield to allegory, "since it would not be proper to take literally a narrative or a command unworthy of God." His predecessor [[clement-of-alexandria|Clement]] had already anticipated the method, holding that "all the loftiest truths can only be communicated by symbols," on the Platonic premise that the lower reflects and symbolises the higher.
 
 ## Related Texts
 

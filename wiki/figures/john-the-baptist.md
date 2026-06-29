@@ -5,8 +5,8 @@ tradition: cross-tradition
 textual_sources: [Matthew, Mark, Luke, John, Josephus]
 dates: [c. 1st century BCE – c. 30 CE]
 roles: [prophet, forerunner, martyr]
-sources_ingested: 3
-last_updated: 2026-06-06
+sources_ingested: 4
+last_updated: 2026-06-28
 tags: [figure, cross-tradition, prophet]
 ---
 
@@ -37,3 +37,13 @@ His historicity is strongly attested by both the Gospels and Josephus. A controv
 - **Bock (Acts)**: References to John's baptism as the starting point of the Jesus story and the need for some to receive Christian baptism after John's (Acts 19) underscore continuity and fulfillment.
 
 John remains a bridge figure: the last OT prophet and the first NT witness, whose death prefigures the cross and whose baptism prefigures Christian initiation.
+
+## Historical Reconstruction ([[bart-ehrman|Ehrman]])
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) treats John as
+"a fiery, apocalyptic preacher proclaiming that the end of the age was coming very soon," and as
+[[jesus-of-nazareth|Jesus]]'s starting point: "Most scholars think Jesus started out as a
+disciple or follower of John." Jesus's **baptism by John** passes both independent attestation
+and dissimilarity ("Who would make up a story of the Son of God being baptized" by a baptism
+"for the forgiveness of sins"?), anchoring the "beginning" half of the argument that Jesus's own
+message was apocalyptic. See [[son-of-man]], [[apocalyptic-literature]].

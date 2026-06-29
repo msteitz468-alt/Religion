@@ -81,9 +81,31 @@ God" topos through Augustine and the conciliar tradition. He is also remembered 
 **monasticism** (his *Life of Antony*, not yet ingested) and for his **Festal Letter of 367**, an
 early witness to the 27-book New Testament canon (not yet ingested).
 
+## Ayres on Athanasius (Nicaea and Its Legacy)
+
+Lewis Ayres ([[nicaea-and-its-legacy|*Nicaea and Its Legacy*]], 2004) credits Athanasius with
+the **rhetorical creation of "Arianism."** His *Orations Against the Arians* (c. 339–345) "sold
+to his readers" the sprawling controversy "as a conspiracy by a group of 'Arians' seeking to
+perpetuate the novel theology of a condemned heretic" — a "masterpiece of rhetorical art," not
+an accurate description, lumping in theologians (e.g. Asterius) "whose theologies were distinct
+from Arius'." Ayres calls this "a great difference between an attempt to shape ecclesiastical
+affairs in the light of a theological trajectory and… an overt conspiracy to perpetuate the
+theology of Arius."
+
+Athanasius's positive contribution was the slow defence of Nicaea's language: in *De decretis*
+(c. 353–356) he reads *[[homoousion|homoousios]]* as a cipher for the Son being "from God,"
+grounded in [[divine-simplicity|divine simplicity]] and the Creator/creation boundary — though
+"he never bothers to claim this terminology as credal; such a style of reference did not yet
+exist." Ayres places him among the [[pro-nicene-theology|pro-Nicene]] forerunners (with
+[[hilary-of-poitiers|Hilary]]) who "show many of the features of these later theologies but not
+all"; his *De synodis* reached out to the [[homoiousians|Homoiousians]]. On Ayres's account,
+direct Athanasian influence on the [[cappadocian-fathers|Cappadocians]] "is difficult to prove"
+— against the older "one original Nicene theology" narrative.
+
 ## Related
 
 - [[on-the-incarnation|On the Incarnation]] — source treatise
+- [[pro-nicene-theology]] · [[nicaea-and-its-legacy]] · [[arian-controversy]] · [[homoiousians]] · [[heteroousians]]
 - [[incarnation]] · [[theosis-divine-nature]] · [[atonement]] · [[logos-christology]] · [[imago-dei]]
 - [[arianism]] · [[alexandria]] · [[gnosticism]] · [[trinity]]
 - [[jesus|Jesus Christ]]

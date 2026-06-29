@@ -5,8 +5,8 @@ tradition: Christianity — Jewish-Christian (heterodox by proto-orthodox standa
 textual_sources: [Gospel of the Ebionites (modified Matthew), Hebrew Matthew (disputed), OT Torah]
 periods_active: [c.100–400 CE; possibly survivng into 7th c. in Transjordan]
 roles_significance: [Jewish-Christian movement; law-observant; adoptionist Christology; foil for Paul's legacy]
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [group, christianity, second-century, jewish-christianity, heresy, ebionites, law]
 ---
 
@@ -90,3 +90,13 @@ The Ebionites refute any account of early Christianity as uniformly Gentile or u
 - [[bauer-thesis|Bauer Thesis]] — Ebionites cited by Bauer as evidence for diversity; rejected as evidence for heretical *dominance*
 - [[gnostics|Gnostics]] — contrasted with Ebionites: both heterodox but in opposite directions (Ebionites too Jewish; Gnostics too anti-Jewish)
 - [[marcionites|Marcionites]] — Marcion's rejection of the OT is the mirror image of the Ebionite position
+
+## Christology ([[bart-ehrman|Ehrman]])
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) classes the
+Ebionites' Christology as **[[adoptionism|adoptionist]]**: Jesus was "a man in a like sense
+with all" humanity, who by keeping the Jewish Law (as anyone might) was justified and made a
+"Christ" — "not different 'by nature' from everyone else." He notes the possible lineage from
+the Jerusalem church of [[james-the-just|James]] and remarks that, historically, this
+adoptionist view "may well have been right" about the earliest apostolic teaching (his sole
+source being the heresiologist Hippolytus). See [[adoptionism]], [[exaltation-christology]].

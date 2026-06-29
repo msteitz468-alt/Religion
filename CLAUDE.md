@@ -51,7 +51,7 @@ wiki/                       # LLM-maintained knowledge base
       sects/[sect].md       #   Sect/denomination/sub-tradition pages
   comparisons/              # Cross-text, cross-tradition comparison pages
   controversies/            # Disputed interpretations and unresolved tensions
-  timelines/                # Chronological pages
+  timelines/                # Chronological hub pages (per-tradition, the master comparative timeline, thematic hubs)
   queries/                  # Filed answers to significant questions
 ```
 
@@ -374,6 +374,44 @@ last_updated: [YYYY-MM-DD]
 tags: [controversy]
 ---
 ```
+
+### Timeline / Hub Page (`wiki/timelines/`)
+Chronological navigation hubs that link existing pages along a time axis. Three sub-types:
+- **Per-tradition timeline** (`[tradition]-timeline.md`) — one tradition's internal chronology.
+- **Master comparative timeline** (`comparative-timeline.md`) — the cross-tradition spine: a
+  top **era × family matrix** (eras as rows; Abrahamic / Indian-Dharmic / East Asian /
+  Ancient-Other as columns) for the synchronic "what was happening at once" view, then per-era
+  detail tables.
+- **Thematic hub** (e.g. `new-religious-movements-timeline.md`) — a cross-cutting cluster.
+
+```yaml
+---
+title: [Timeline of X]
+tradition: [name]            # for per-tradition timelines; OR  type: timeline-hub
+date_range: [span]
+sources_ingested: [count]
+last_updated: [YYYY-MM-DD]
+tags: [timeline, <tradition>, hub]
+---
+```
+
+Body: **era-banded sections**, densest where wiki coverage is deepest; within each era, split
+tables as *Figures / Texts–Concepts / Councils–Controversies* (adapt headers to the tradition).
+A timeline **links existing pages; it does not introduce new content** — extract-and-file new
+material on the proper page type first, then link it here.
+
+**Conventions (load-bearing):**
+- **Bracketed plain names** (`[William Miller]`, no `[[ ]]`) deliberately mark a referent that
+  lacks a page yet — *not* a red link to be "fixed."
+- **No backslash-escaped pipes in wikilinks inside tables** (`[[a\|b]]`): Obsidian renders them
+  but `lint_wiki.py` misreads the target. Use plain `[[a|b]]` (Obsidian parses it fine).
+- **Verify a slug exists before linking it** (grep the target dir / rely on lint) — never from a
+  remembered directory listing.
+
+**Wiring (required, reciprocal):** link the timeline from its tradition overview page; add it to
+the `index.md` `## Timelines` section; and when a per-tradition timeline is built, **upgrade that
+tradition's cell in the comparative matrix** to point at it. Run `lint_wiki.py` (from the repo
+root: `python Scripts/lint_wiki.py`) and resolve any red links/orphans before marking done.
 
 ---
 

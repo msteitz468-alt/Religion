@@ -2,8 +2,8 @@
 title: Rule of Faith
 domain: theology / hermeneutics / tradition
 traditions_using: [Christianity — patristic, Catholic, Protestant]
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [concept, christianity, patristics, second-century, orthodoxy, tradition]
 ---
 
@@ -81,9 +81,15 @@ The embedded creedal formulas in Paul (1 Cor 15:3-11 "received/delivered" formul
 
 The rule of faith is implicitly the centrepiece of the debate over the [[bauer-thesis|Bauer thesis]]. Bauer argued that the rule was largely an invention of the "winners" (orthodox party) and that there was no meaningful way to distinguish it from the "traditions" of other groups. Kruger responds that: (1) *all* second-century groups — including heretical ones — appealed to the apostolic kerygma as their standard; (2) the apostolic kerygma is actually accessible in the earliest sources (Paul's letters); (3) when compared against those sources, the rule of faith shows much stronger continuity than gnostic, Valentinian, Marcionite, or Ebionite teaching.
 
+## Kelly: Scripture and Tradition "Coincident in Content"
+
+[[kelly-early-christian-doctrines|J.N.D. Kelly]] (ch. II) argues — against the later "two-source" reading — that for the Fathers Scripture and tradition "ranked as complementary authorities, media different in form but coincident in content. To inquire which counted as superior or more ultimate is to pose the question in misleading and anachronistic terms." The rule of faith on this view is "simply a condensation of the message contained in [Scripture]," a "handy clue" to its interpretation. For [[irenaeus]] it is the "canon of truth" received at baptism; [[tertullian]] preferred the *regula fidei* to Scripture *as a standard in debate* with Gnostics — not because it was a separate source, but because it fixed "the intrinsic shape and pattern of the revelation itself," supplying the key to right exegesis. Kelly notes that the instances of unwritten tradition the Fathers cite without scriptural support "refer to matters of observance and practice rather than of doctrine as such." The principle issued later in [[apostolic-succession|apostolic succession]], the [[consensus-patrum|consensus of the Fathers]], and the canon of [[vincent-of-lerins|Vincent of Lérins]].
+
 ## Key Links
 
 - [[michael-kruger|Michael J. Kruger]] — primary source for this entry
+- [[kelly-early-christian-doctrines|Kelly, Early Christian Doctrines]] — the Scripture/tradition "coincidence" thesis
+- [[apostolic-succession|Apostolic Succession]] · [[consensus-patrum|Consensus Patrum]] · [[vincent-of-lerins|Vincent of Lérins]] — later developments of the tradition principle
 - [[irenaeus|Irenaeus of Lyons]] — most articulate formulator of the rule
 - [[tertullian|Tertullian]] — use of rule in *Prescription against Heretics*
 - [[ignatius-of-antioch|Ignatius of Antioch]] — incipient rule; anti-Docetic emphasis

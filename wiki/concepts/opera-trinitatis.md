@@ -40,9 +40,25 @@ Barth's three rules for valid appropriation (ll. 3846–73): (1) must be *intell
 
 In [[barth-church-dogmatics-i1-s8-12|*CD* I.1]] §10, Barth applies *opera indivisa* to the doctrine of God the Father as Creator. It follows both that (a) "not only God the Father is to be claimed as the Creator" — Son and Spirit are equally the subject of creation (l. 4763) — and that (b) the appropriation of creation especially to the Father is nonetheless "not just permitted; it is also commanded" (ll. 4882–83), because there is an affinity between the Father's intradivine relation (as the origin from whom the Son proceeds) and the Creator's relation to the creature (as the origin from which everything distinct from God exists). The axiom also rules out Patripassianism: the statement "God the Father suffered and died" is forbidden, not because the Father was absent from the Son's passion, but because such a statement would violate the particularity of the mode-of-being distinctions that the axiom protects even within their unity (ll. 4890–4921).
 
+## Fourth-Century Origins (Ayres, Nicaea and Its Legacy)
+
+Lewis Ayres ([[nicaea-and-its-legacy|*Nicaea and Its Legacy*]], 2004) makes **inseparable
+operation** one of the three defining marks of [[pro-nicene-theology|pro-Nicene theology]]:
+"whenever one of the divine persons acts, all are present, acting inseparably." It is not mere
+cooperation among three but flows from [[divine-simplicity|divine simplicity]].
+[[gregory-of-nyssa|Gregory of Nyssa's]] *Ad Ablabium* turns the principle into the decisive
+anti-tritheist argument — the one undivided activity reveals the one power, hence one nature
+(the power "issuing from the Father… brought into operation by the Son, and perfecting its grace
+by the power of the Spirit"). [[augustine|Augustine]] states the same rule (*Ep.* 11; *Sermon*
+52: "the distinction of persons, and the inseparableness of operation"), evidence for Ayres that
+the [[de-regnon-paradigm|East/West typology]] fails. **Appropriation** — attributing a common
+attribute/act to one person — is for Ayres "a common pro-Nicene principle," not a peculiarly
+Augustinian one.
+
 ## Related
 
 - [[trinity]] — the doctrine this axiom belongs to
+- [[pro-nicene-theology]] · [[divine-simplicity]] · [[gregory-of-nyssa]] · [[de-regnon-paradigm]] · [[nicaea-and-its-legacy]]
 - [[modes-of-being]] — Barth's terminology for the divine persons
 - [[perichoresis]] — the mutual indwelling that grounds *opera indivisa*
 - [[karl-barth]] · [[barth-church-dogmatics-i1-s8-12]]

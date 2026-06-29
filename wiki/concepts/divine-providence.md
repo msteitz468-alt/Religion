@@ -160,6 +160,7 @@ universal providence.
 - [[separate-intellects]] (background for the Aristotelian view Maimonides critiques)
 - [[prophecy]] (Elihu's account of God speaking through dreams)
 - [[reasons-for-the-commandments]] (adjacent discussion in Part III beginning Ch. XXVI)
+- [[pietas|Pietas]] — *providentia* as the animating principle of Roman religion (see [[wilken-christians-as-romans-saw-them|Wilken]]); [[galen|Galen]] and [[celsus|Celsus]] attacked the Christian "arbitrary God" whose creative will is unconstrained by nature (*c. Cels.* 4.8; Galen on the Mosaic cosmogony vs. Plato's *Timaeus*)
 
 ## Sources Ingested
 

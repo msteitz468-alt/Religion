@@ -36,9 +36,27 @@ Zachhuber notes the irony that **Athanasius** independently deployed the same bi
 
 Condemned as a "neo-Arian"/heteroousian; refuted at length by Basil (*Against Eunomius*, 3 books) and Gregory of Nyssa (*Against Eunomius*, 12 books), and opposed by Gregory of Nazianzus in the Theological Orations. The anomoians were among the targets of the settlement ratified at the Council of Constantinople (381). See [[arianism|Arianism]] for the broader movement.
 
+## Ayres on Eunomius (Nicaea and Its Legacy)
+
+Lewis Ayres ([[nicaea-and-its-legacy|*Nicaea and Its Legacy*]], 2004) places Eunomius (with his
+teacher [[aetius|Aetius]]) at the head of the **[[heteroousians|Heteroousian]]** trajectory and
+resists the label "neo-Arian": there are "significant differences from Arius," Eunomius makes "no
+claim on Arius' legacy," and the Cappadocians do not present him as "Arius redivivus" (the
+genealogy through Lucian of Antioch is a construction of the later Heteroousian historian
+Philostorgius). Eunomius's theology turns on a causal hierarchy — **essence → activity →
+product** — and the doctrine that the divine names (above all *agennētos*, "unbegotten") reveal
+the very essence of God; since "unbegotten" cannot apply to the begotten Son, the Son is "unlike"
+the Father in essence. He still uses the [[homoians|Homoian]] formula "like the Father according
+to the Scriptures" even while pushing beyond it. Michel Barnes finds third-century antecedents
+(Dionysius of Alexandria; [[eusebius-of-caesarea|Eusebius]]) for the essence/activity
+distinction. Eunomius's challenge provoked [[basil-of-caesarea|Basil's]] decisive
+[[ousia-hypostasis-distinction|ousia/idiomata]] and [[divine-simplicity|simplicity]] arguments —
+a foundation of [[pro-nicene-theology|pro-Nicene theology]].
+
 ## Key Links
 
 - [[ousia-hypostasis-distinction|Ousia / Hypostasis (the classical theory)]] — the system his challenge provoked
+- [[aetius|Aetius]] · [[heteroousians|Heteroousians]] · [[homoians|Homoians]] · [[pro-nicene-theology]] · [[nicaea-and-its-legacy]]
 - [[basil-of-caesarea|Basil of Caesarea]] · [[gregory-of-nyssa|Gregory of Nyssa]] · [[gregory-of-nazianzus|Gregory of Nazianzus]]
 - [[arianism|Arianism]] · [[athanasius|Athanasius]] · [[trinity|Trinity]] · [[nicaea|Nicaea]]
 - [[zachhuber-rise-of-christian-theology|Zachhuber, *The Rise of Christian Theology*]]

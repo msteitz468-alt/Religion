@@ -18,6 +18,10 @@ Jewish people, grounded in the Hebrew Bible (Tanakh) and developed through a lon
 of interpretive tradition. This page is the parent node for the Jewish sub-traditions and
 sects filed under [[judaism]] in `traditions/judaism/sects/`.
 
+**Chronology:** see the [[judaism-timeline|Timeline of Judaism]] (patriarchs → modern
+denominations), the detailed [[talmudic-period|Talmudic Period]] timeline, and the
+[[comparative-timeline|Comparative Timeline of World Religions]].
+
 ## Shared / Mainstream Canon
 
 The core scriptural canon is the **Tanakh** — Torah (Pentateuch), Nevi'im (Prophets), and

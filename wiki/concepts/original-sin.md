@@ -61,8 +61,18 @@ fault: the uncircumcised infant is cut off "not personally in their own life, bu
 common origin of the human race, [having] all broken God's covenant in that one in whom all have
 sinned" (Rom. 5:12).
 
+## The East/West Divide (Kelly) — Contradiction Protocol
+
+[[kelly-early-christian-doctrines|Kelly]] (ch. XIII) sets the Augustinian doctrine against a markedly different Greek account, recorded here without adjudication:
+
+- **Greek Fathers** ([[gregory-of-nyssa]], [[gregory-of-nazianzus]], [[john-chrysostom]], [[theodore-of-mopsuestia]], [[theodoret-of-cyrus]]): humanity inherits Adam's **mortality, concupiscence, and a bias (*rhopē*) toward sin**, but "there is hardly a hint… that mankind as a whole shares in Adam's *guilt*." Free will remains intact; newborns are sinless. Kelly calls this "the outline of a real theory of original sin," not its full Augustinian form.
+- **West**: building on [[ambrose|Ambrose]] and especially **Ambrosiaster**'s reading of Rom. 5:12 as *in quo* ("in whom all sinned" — a Latin mistranslation of *eph' hō*), [[augustine|Augustine]] taught that all humanity is a *massa damnata* sharing Adam's **guilt (*reatus*)**, transmitted by the concupiscence of physical generation.
+
+This divide is the deep background to the [[pelagian-controversy|Pelagian controversy]]; [[theodore-of-mopsuestia|Theodore]] was even branded "an Eastern Pelagius" (a charge Kelly doubts). See also [[traducianism]] (the soul-origin question that governs transmission), [[grace]], [[predestination]].
+
 ## Cross-Links
 
+- [[kelly-early-christian-doctrines|Kelly, Early Christian Doctrines]] · [[pelagian-controversy]] · [[semi-pelagianism]] · [[traducianism]] · [[pelagius]]
 - [[evil-as-privation]] — the pride that founds the fall is the "deficient" turning of the will.
 - [[two-cities]] — the two loves (*amor sui* / *amor Dei*) that the fall sets at the head of history.
 - [[adam|Adam]], [[eve|Eve]] — the first parents.

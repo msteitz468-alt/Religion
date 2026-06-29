@@ -122,3 +122,45 @@ DECLINED = user decided not to pursue
 **Suggested improvement:** When the user asks to "encode/standardize" something that was just done manually, default to (a) writing the rule in the relevant convention section AND (b) adding a corresponding check to the Lint/verification workflow — a rule without an enforcement hook tends to be ignored during creative flow (the skill's own Pre-Flight Principle). Also scan whether the specific request (texts↔concepts) is an instance of a more general latent pattern (reciprocal linking) worth generalizing.
 
 **Principle:** "Codify what we just did" requests recur in long-lived wiki/knowledge-base projects. The reliable encoding is rule + enforcement check, not rule alone; and a narrowly-phrased request is often an instance of a broader principle the doc should state generally.
+
+### Observation 9: Subagents write extraction digests, not pages, when an ingest touches many shared central pages
+
+**Date:** 2026-06-28
+**Session context:** Ingesting Ehrman, *How Jesus Became God* (16k-line monograph) into a mature wiki with extensive pre-existing Christology infrastructure (incarnation, logos-christology, trinity, bodily-resurrection, two overlapping Jesus pages, etc.).
+**Skill:** New skill candidate / project-workflow refinement (CLAUDE.md "Deployed Subagent Strategy")
+**Type:** internal
+**Phase/Area:** Ingest workflow — division of labor between subagents and main thread
+
+**Issue:** CLAUDE.md's default has subagents "own bulk extraction" and create/write pages within boundaries. But this book's content mapped onto ~20 *already-existing, densely-written* central pages plus a pre-existing duplication (two Jesus figure pages). Having 7 parallel subagents write to those shared pages would have caused write collisions and forced taxonomy decisions onto agents. Instead I had each subagent produce a faithfulness-anchored **digest note file** (claims + verbatim quotes + line loci, grouped by suggested target page) and did *all* wiki-page writing/integration on the main thread. Result: zero collisions, coherent cross-linking, lint-clean, and the delicate two-Jesus-page situation handled by judgment rather than by an agent.
+
+**Suggested improvement:** Note in the ingest workflow that when a scope maps predominantly onto *existing shared central pages* (vs. spawning many new disjoint pages), the throughput win from subagents is best taken as **parallel extraction into digest files**, with the main thread owning all integration — a clean special case of "main thread owns structure; subagents own bulk extraction."
+
+**Principle:** Parallelism should be applied to the part of the work that is genuinely partitionable (reading + faithful extraction by line-range) and withheld from the part that has shared mutable state (integration into central pages). When the shared-state surface is large, push agents one step earlier in the pipeline (notes, not edits).
+
+### Observation 10: Subagent extraction-reports (not direct page writes) for extension-heavy ingests into a mature wiki
+
+**Date:** 2026-06-28
+**Session context:** Ingesting J.N.D. Kelly's *Early Christian Doctrines* (whole book, ~20k lines) into the Religion wiki, which already had very rich patristic coverage.
+**Skill:** Religion wiki ingest workflow (CLAUDE.md "Deployed Subagent Strategy")
+**Type:** internal
+**Phase/Area:** Step 3–4 of the Deployed Subagent Strategy (subagents own bulk extraction)
+
+**Issue:** CLAUDE.md's default has Sonnet subagents *write wiki pages* within an exclusive title namespace. For this ingest the value was almost entirely in *extending existing* pages (trinity, origen, tertullian, irenaeus, eucharist, etc.) that many chunks touch simultaneously — so letting subagents write directly would have caused write collisions and uncoordinated edits to mature pages. Instead each subagent produced a structured extraction REPORT (claims organized by target wiki page, each with a verbatim grounding quote + line locus) and the main thread did all filing. This preserved faithfulness, kept all taxonomy/cross-link decisions on the main thread, and avoided collisions.
+
+**Suggested improvement:** Add an explicit branch to the ingest workflow: when a scope mostly *extends existing* pages rather than creating disjoint new ones, instruct subagents to return extraction reports (grounding-quoted, page-keyed) and have the main thread integrate, rather than writing pages directly. Reserve direct-write subagents for green-field scopes with cleanly partitionable new titles.
+
+**Principle:** Match the subagent output mode to the filing topology. Disjoint new pages → subagents write. Heavy overlap onto shared existing pages → subagents report, main thread writes. The faithfulness mandate (grounding quote + locus) is what makes report-then-integrate safe.
+
+### Observation 11: Verify page existence by tool, never by remembered directory listings
+
+**Date:** 2026-06-28
+**Session context:** Same Kelly ingest; creating ~33 new wiki pages with dense cross-links.
+**Skill:** Religion wiki ingest workflow
+**Type:** internal
+**Phase/Area:** cross-linking / lint
+
+**Issue:** I linked `[[middle-platonism]]` and `[[neoplatonism]]` as if concept pages existed, from memory of an early `ls`. In fact only a `middle-platonists` *group* page existed and `neoplatonism` did not exist at all — producing red links caught only by the final lint. Memory of a large directory listing is unreliable for exact slugs (group vs concept, singular vs plural).
+
+**Suggested improvement:** Before emitting a wiki link to a page you did not create this session, confirm the exact slug exists (grep the target dir or rely on the lint pass) rather than trusting a remembered `ls`. When the user defers linting to the end, budget for a red-link fix pass on every newly created page.
+
+**Principle:** Treat remembered file listings as hints, not facts; the cheap mechanical check (grep/lint) is the source of truth for link targets. This is the wiki analogue of the general rule "verify before asserting."

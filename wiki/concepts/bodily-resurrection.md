@@ -2,8 +2,8 @@
 title: Bodily Resurrection
 domain: theology/eschatology
 traditions_using: [Islam, Christianity, Judaism]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-06-28
 tags: [concept, islam, christianity, eschatology, aquinas]
 ---
 
@@ -96,6 +96,27 @@ against the philosophers — the resurrection is integrated into a full metaphys
   virgins, and doctors) close the work (XP Q92–Q96). The fate of the damned is treated under
   [[hell]]; that of unbaptized infants under [[limbo]].
 
+## Early Christian Models of the Resurrection Body ([[bart-ehrman|Ehrman]])
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) distinguishes
+three early Christian understandings of the resurrected body of [[jesus-of-nazareth|Jesus]]:
+
+1. **Spiritual body** ([[paul-apostle|Paul]], 1 Cor 15) — a *transformed* body, raised
+   imperishable, made of the "highly refined" stuff that ancient writers called spirit (not
+   immaterial); "flesh and blood cannot inherit the kingdom of God." Paul argues *against*
+   Corinthians who thought believers were already spiritually raised.
+2. **Spirit only / body abandoned** (Gnostic) — the divine spirit was never killed but escaped
+   the flesh; no bodily resurrection (the *Coptic Apocalypse of Peter*: the "living Jesus"
+   laughs above the cross while only the "clay vessel" is crucified). See [[docetism]] and
+   [[gnostics]].
+3. **Reanimated mortal body** (Luke/John) — Jesus has "flesh and bones," eats fish (Luke 24),
+   invites Thomas to touch his wounds (John 20) — emphasizing *physical continuity* to counter
+   spirit-only views. This became the dominant later view.
+
+Ehrman further argues it was **[[resurrection-appearances-visions|visions]], not the empty
+tomb**, that first produced resurrection belief, and that the resurrection was understood as
+Jesus's **[[exaltation-christology|exaltation]]** to heaven.
+
 ## Cross-Tradition Note
 
 The doctrine of bodily resurrection is shared across the Abrahamic traditions, though with significant variations. In Islam it is tied to the literal promises of the Qur'an regarding paradise (*janna*) and hell (*jahannam*). In Christianity, Paul's discussion in 1 Corinthians 15 of a "spiritual body" (*soma pneumatikon*) and the patristic debates over resurrection matter are comparanda. In rabbinic Judaism, *tehiyyat ha-metim* (resurrection of the dead) is among the thirteen principles of Maimonides and a subject of extensive talmudic and midrashic discussion. The philosophical tension Ghazali identifies — between allegorizing eschatology to serve elite intellectuals and insisting on literal bodily promises to honour the zahir of scripture — recurs across all three traditions. (Not in the text: the specific comparative reception awaits separate ingests.)
@@ -137,6 +158,10 @@ is not found in "the oldest philosophers." Compare the controversy [[resurrectio
 - [[soul-in-islamic-philosophy]] — Discussion 18–19 on the soul's nature and immortality
 - [[takfir]] — the charge of unbelief pronounced in the Conclusion
 - [[zahir-batin]] — the hermeneutical axis at stake in the allegorization of resurrection texts
+- [[wilken-christians-as-romans-saw-them|Wilken, *The Christians as the Romans Saw Them*]] — Greco-Roman
+  critics of bodily resurrection: [[celsus|Celsus]] judged it "contrary to reason and nature" and the
+  resurrection witnesses unreliable (*c. Cels.* 5.14, 2.55); [[porphyry|Porphyry]] pressed sharp puzzles
+  about the glorified body (would it conform to Christ's or Lazarus's? why the wounds, why eating?).
 - [[eternity-of-the-world]] — first takfir doctrine, cross-referenced in Discussion 20
 - [[gods-knowledge-of-particulars]] — second takfir doctrine
 
@@ -152,3 +177,5 @@ Range: lines 7919–9913 of the cache file (E_7919_9913.txt).
 
 - [[incoherence-of-the-incoherence|The Incoherence of the Incoherence (Tahafut al-Tahafut)]]
 - [[on-the-incarnation|On the Incarnation (De Incarnatione Verbi Dei)]]
+- [[ehrman-how-jesus-became-god|Ehrman, *How Jesus Became God*]] — early Christian models of the
+  resurrection body; [[resurrection-appearances-visions|visions]] vs. empty tomb.

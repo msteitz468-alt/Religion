@@ -5,8 +5,8 @@ tradition: Judaism / Christianity / Islam
 textual_sources: [Genesis 5, 1 Enoch, Jude, Hebrews, Quran]
 dates: Legendary / Patriarchal
 roles: [patriarch, prophet, visionary, scribe]
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [figure, judaism, christianity, islam, apocalyptic, patriarch]
 ---
 # Enoch
@@ -27,3 +27,13 @@ In Second Temple Judaism and early Christianity, Enoch functions as the archetyp
 - [[jude|The Letter of Jude]]
 - [[1-peter|The First Letter of Peter]]
 - [[noah|Noah]] — his great-grandson
+
+## Angelification and the Son of Man ([[bart-ehrman|Ehrman]])
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) uses Enoch — who
+"walked with God; then he was no more" (Gen 5:24), taken without dying — as a prime case of
+Jewish **angelification**: in 2 Enoch he is "anointed … and put into the clothes of my glory,"
+becoming "like one of his glorious ones." A later stratum of 1 Enoch (70–71) identifies the
+heavenly **[[son-of-man|Son of Man]]** with Enoch — "a man, a mere mortal … exalted to this
+supreme position next to God." Part of the [[two-powers-in-heaven|gradation of divinity in
+Judaism]] that, on Ehrman's argument, made a divine-human Jesus conceivable.

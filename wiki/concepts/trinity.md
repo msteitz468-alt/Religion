@@ -2,7 +2,7 @@
 title: The Trinity
 domain: theology
 traditions_using: [Christianity]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-28
 tags: [concept, christianity, trinitarian-theology, aquinas, barth, cappadocians, ousia, hypostasis]
 ---
@@ -101,6 +101,22 @@ In §9 Barth carries the constructive doctrinal argument through four sub-sectio
 
 **Meaning of the Doctrine**: The Trinity answers the question of the *subject* of revelation — "who" reveals Himself. It guards against Subordinationism (which denies the revealer is fully God) and Modalism (which denies God really is what He reveals Himself to be): "As Father, Son and Spirit God is, so to speak, ours in advance" (ll. 4248–49).
 
+## The pre-Nicene coinage and the road to Nicaea ([[bart-ehrman|Ehrman]])
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) traces the
+*emergence* of Trinitarian language out of third-century polemic. Against
+[[modalism|modalism]] (then apparently the majority view, held even by bishops of Rome),
+**[[tertullian|Tertullian]]** became the first Christian author to use the word **Trinity**
+(*trinitas*) — three "not in condition, but in degree … yet of one substance and of one
+condition, and of one power, inasmuch as He is one God" — while Hippolytus coined **triad**.
+Yet both still subordinated the Son to the Father, as did [[justin-martyr|Justin]], Novatian,
+and [[origen|Origen]] — positions later judged heretical. The unresolved status of the Son
+erupted in the [[arian-controversy|Arian controversy]], settled (provisionally) at Nicaea (325)
+with *homoousios* and definitively at Constantinople (381). Ehrman frames the resulting
+doctrine as the Trinitarian **[[ortho-paradoxes|ortho-paradox]]**: "three persons, all of whom
+are God, but there is only one God … distinct in number but united in essence" — reached by
+rejecting both modalism and Arian subordinationism at once.
+
 ## The Greek Patristic Apparatus: "One Ousia in Three Hypostases"
 
 The Latin formula Aquinas inherited ("one *substantia*/*essentia* in three *personae*") and Barth's modern reworking both rest on a Greek conceptual settlement fixed in the 4th century by the [[cappadocian-fathers|Cappadocian Fathers]]: **one *ousia* in three *hypostases***. Johannes Zachhuber's [[zachhuber-rise-of-christian-theology|*The Rise of Christian Theology*]] (2020) reconstructs this as a genuine philosophy — the **classical theory** — with two complementary versions: [[basil-of-caesarea|Basil]]'s **abstract account** (the common divinity as univocally shared predicates; each person marked by a particularizing property / *idiōma*) and [[gregory-of-nyssa|Gregory of Nyssa]]'s **concrete account** (a real universal nature subsisting only in its individual hypostases). The settlement answered two threats at once: [[eunomius|Eunomius]]'s anomoianism (which made the Son "unlike in substance") and Sabellian modalism (which collapsed the persons). For the full treatment — including the "why not three Gods?" problem, the abstract/concrete tension, and Zachhuber's argument that this is an *ontology of being-as-one* rather than a "turn to the person" — see [[ousia-hypostasis-distinction|Ousia / Hypostasis (the classical theory)]]. Note the translation hazard the Latin tradition negotiated: Greek *hypostasis* (lit. "substance") maps to Latin *persona*, not to *substantia*.
@@ -123,3 +139,4 @@ The Latin formula Aquinas inherited ("one *substantia*/*essentia* in three *pers
 - [[barth-church-dogmatics-i1-s8-12]] §8, lines 70–2532 (read in full)
 - [[barth-church-dogmatics-i1-s8-12]] §9, lines 2533–4264 (read in full)
 - [[zachhuber-rise-of-christian-theology|Zachhuber, *The Rise of Christian Theology*]] — Intro + Ch. 2 (the Cappadocian classical theory), read in full (Scope 1)
+- [[ehrman-how-jesus-became-god|Ehrman, *How Jesus Became God*]] — the pre-Nicene emergence of Trinitarian language (Tertullian, road to Nicaea).

@@ -2,8 +2,8 @@
 title: The Incarnation
 domain: theology / Christology
 traditions_using: [Christianity]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-06-28
 tags: [concept, christianity, christology, scholasticism, aquinas, patristics, athanasius]
 ---
 
@@ -151,6 +151,24 @@ the medium of the soul, and the parts through the whole, all simultaneously at c
   in common with men. Prophets, priests, and angels are mediators only "dispositively and
   ministerially"; the Holy Spirit, being equal to God, is no mediator. See [[christ-as-mediator]].
 
+## Historical-critical origins: exaltation vs. incarnation ([[bart-ehrman|Ehrman]])
+
+Where Aquinas and the Fathers expound the *settled* doctrine, [[bart-ehrman|Ehrman]]
+([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) reconstructs its **historical
+emergence**. He distinguishes two early Christological types: an **[[exaltation-christology|
+exaltation Christology]]** "from below" (the human Jesus elevated to divine status at the
+[[resurrection|resurrection]]) and an **incarnation Christology** "from above" (a pre-existent
+divine being who "comes in the flesh"). On his reading incarnation Christology was *not* the
+original view but developed as the moment of Jesus's divinity was pushed back from resurrection
+to baptism to conception to pre-existence — though already present in [[paul-apostle|Paul]] (the
+1 Cor 8:6 creed; Phil 2's pre-existent being; an [[angel-of-the-lord|angel Christology]],
+Gal 4:14) "before our earliest Gospel was written." Its fullest New Testament form is the
+Johannine [[logos-christology|Logos]] (John 1:1–18): "what preexisted was the Logos of God …
+It was only when the Logos became a human being that Jesus Christ came into existence." Ehrman
+sees the same incarnational language drawing on Jewish [[two-powers-in-heaven|Wisdom]] tradition
+in Col 1:15–20 and Heb 1:2–4. (A historical-critical account, complementary to but methodologically
+distinct from the conciliar/scholastic exposition above.)
+
 ## Hermeneutical and doctrinal frame
 
 Aquinas reads the conciliar tradition as binding and labels the rejected positions **heresies, not
@@ -177,3 +195,10 @@ nature/suppositum distinction.
 - [[summa-theologica]] Tertia Pars QQ1–26 (read in full, Part 4 Scopes 1a–1b).
 - [[on-the-incarnation|Athanasius, *On the Incarnation*]] §§1–57 (read in full) — the Divine Dilemma
   and patristic motive.
+- [[wilken-christians-as-romans-saw-them|Wilken, *The Christians as the Romans Saw Them*]] — pagan
+  critics of the incarnation: [[celsus|Celsus]] held God's immutability incompatible with descent into a
+  human body (*c. Cels.* 4.2, 4.14); [[porphyry|Porphyry]] and [[julian-the-apostate|Julian]] argued that
+  worshipping the man Jesus as God was the disciples' innovation, not Jesus's own teaching.
+- [[ehrman-how-jesus-became-god|Ehrman, *How Jesus Became God*]] — historical-critical origins of
+  incarnation Christology (the exaltation-vs-incarnation distinction; the "backward movement"). See
+  [[exaltation-christology]].

@@ -25,6 +25,10 @@ load-bearing here: in the 2nd century there was no single settled canon, and riv
 communities (proto-orthodox, Gnostic, Marcionite, Ebionite) held overlapping but divergent
 scriptures.
 
+**Chronology:** see the [[christianity-timeline|Timeline of Christianity]] (Apostolic Age →
+modern denominations), and the [[comparative-timeline|Comparative Timeline of World Religions]]
+for what was happening across other traditions in each era.
+
 ## Shared / Mainstream Canon
 
 The mainstream canon is the **27-book New Testament** alongside the Old Testament inherited

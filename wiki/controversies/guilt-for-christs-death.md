@@ -73,3 +73,16 @@ Messiah (so were culpable) but not explicitly as God (so 1 Cor. 2:8 stands).
 - [[jesus]] · [[atonement]] · [[thomas-aquinas]] · [[summa-theologica]]
 - [[catholicism]] · [[judaism]] · [[coercion-of-unbelievers]] — Aquinas on the treatment of Jews and
   unbelievers
+
+## The deicide charge and its aftermath ([[bart-ehrman|Ehrman]])
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) argues that once
+Jesus was confessed as God, the charge against "the Jews" escalated to **deicide**. The earliest
+instance he cites is Melito of Sardis's late-2nd-c. *Peri Pascha*: "God has been murdered … by the
+right hand of Israel." He traces the shift from persecuted minority rhetoric to majority power:
+under Christian emperors Jews were progressively marginalized (Constantine barring Jewish ownership
+of Christian slaves; Theodosius criminalizing conversion to Judaism and intermarriage; 423 CE
+banning synagogue repair), with violence (e.g. the Callinicum affair, 388, where Ambrose forced
+Theodosius to drop reparations) condoned because "these were the people who had killed God." Ehrman
+also reads the Gospels' **progressive exoneration of [[pontius-pilate|Pilate]]** as serving these
+anti-Jewish purposes. See [[christianity-apostasy-from-judaism]].

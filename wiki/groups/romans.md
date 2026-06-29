@@ -40,7 +40,11 @@ world… until the last judgment effects their separation" (Book I).
 ## Tradition-Specific Portraits
 
 **Roman / pagan self-understanding**: empire as the gift and reward of the ancestral gods, secured by
-*pietas* ([[pietas]]) toward Jupiter and the civic cult.
+*pietas* ([[pietas]]) toward Jupiter and the civic cult. Wilken's [[wilken-christians-as-romans-saw-them|*The
+Christians as the Romans Saw Them*]] stresses that this religiosity was **sincere, not cynical**: educated
+Romans like [[pliny-the-younger|Pliny]] embodied a genuine civic piety, and the persecution of
+[[christians|Christians]] flowed from it (the persecutors' own "we too are a religious people") — directly
+against Augustine's reading of Roman religion as mere statecraft. See [[roman-persecution-piety-or-prejudice]].
 
 **Augustine's Christian portrait**: the Romans achieved genuine but *merely civic* virtue, oriented to
 human glory rather than God; "they have received their reward" (Matt. 6:2). Their gods gave them neither
@@ -57,4 +61,17 @@ God that builds the heavenly one.
 
 ## Related Pages
 
-[[roman-religion]] · [[two-cities]] · [[varro]] · [[divine-providence]] · [[city-of-god]] · [[augustine]]
+[[roman-religion]] · [[two-cities]] · [[varro]] · [[divine-providence]] · [[city-of-god]] · [[augustine]] ·
+[[pietas]] · [[superstitio]] · [[christians]] · [[pliny-the-younger]] · [[roman-persecution-piety-or-prejudice]] ·
+[[wilken-christians-as-romans-saw-them]]
+
+## The Emperor Cult and "Son of God" ([[bart-ehrman|Ehrman]])
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) sets early
+Christology against the Roman **emperor cult**: the emperor was officially deified by Senate
+vote at death (good emperors only), often honored as divine while alive, and hailed *divi
+filius* ("Son of God") and "savior" bringing "good tidings" — a title-set in direct
+**competition** with the claims made for [[jesus-of-nazareth|Jesus]]. Ehrman also documents
+Roman **crucifixion practice** (bodies normally left unburied for scavengers) as grounds for
+doubting Jesus's burial (see [[burial-of-jesus]]). See [[apotheosis-divinization]],
+[[roman-religion]].

@@ -2,8 +2,8 @@
 title: NT Canon Formation
 domain: canon studies / textual history / theology
 traditions_using: [Christianity — Catholic, Orthodox, Protestant]
-sources_ingested: 2
-last_updated: 2026-06-06
+sources_ingested: 3
+last_updated: 2026-06-28
 tags: [concept, christianity, canon, second-century, textual-culture, scripture]
 ---
 
@@ -128,6 +128,7 @@ The Christian adoption of the codex (book format, not roll) from the very beginn
 - [[michael-w-holmes|Michael W. Holmes]] — editor of the Apostolic Fathers; source for Apostolic Fathers canon data
 - [[holmes-apostolic-fathers|Holmes, *The Apostolic Fathers*]] — critical edition providing primary evidence for 2nd-c. canonical awareness
 - [[irenaeus|Irenaeus of Lyons]] — first author to explicitly defend a fourfold Gospel
+- [[kelly-early-christian-doctrines|Kelly, Early Christian Doctrines]] — patristic narrative of canon-fixing (see below)
 - [[justin-martyr|Justin Martyr]] — worship evidence for Gospels as Scripture
 - [[polycarp|Polycarp of Smyrna]] — earliest explicit "scriptural formula" citation of a Pauline letter
 - [[2-clement|2 Clement]] — *2 Clem.* 2.4: earliest surviving explicit use of *graphē* applied to a NT text
@@ -142,6 +143,10 @@ The Christian adoption of the codex (book format, not roll) from the very beginn
 - [[nomina-sacra|Nomina Sacra]] — scribal markers on NT manuscripts
 - [[bauer-thesis|Bauer Thesis]] — the canon as independent evidence against Bauer's dominance claim
 - [[kyrios-christology-origins|Kyrios-Christology Origins]] — the Christological content of the canonical texts
+
+## Kelly: Montanism and Fourth-Century Closure
+
+[[kelly-early-christian-doctrines|Kelly]] (ch. III) supplies the patristic-reception complement to Kruger's functional account. He stresses that **[[montanism|Montanism]]** (from 156, in Phrygia) accelerated canon-fixing: because its prophets claimed *supplementary* revelation, the Church was pressed to settle which books counted. On the slow road to closure he notes that the Pauline epistles lagged the Gospels in achieving OT-equivalence ("none of Irenaeus's 206 quotations from them is introduced by *scriptura ait*"), that **Hebrews** was long suspect in the West, **James** absent from Western lists until the late fourth century, and **Revelation** excluded by Antiochene-influenced churches into the fifth. The first official document listing exactly the 27 NT books is **[[athanasius|Athanasius]]'s Easter Letter of 367**, though "the process was not everywhere complete until at least a century and a half later." Kelly also documents the parallel, *broader* Old Testament canon the Church inherited via the **[[septuagint|Septuagint]]** — including the deutero-canonical books — and the Eastern (Athanasius, Cyril of Jerusalem, Jerome) versus Western/Augustinian dispute over their standing.
 
 ## Related Texts
 

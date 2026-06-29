@@ -19,7 +19,7 @@ primary_texts_commented:
   - gospel-of-matthew
   - romans
   - 1-corinthians
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-28
 tags: [commentator, christianity, patristics, alexandrian, allegorical, neoplatonism]
 ---
@@ -37,7 +37,7 @@ He reportedly castrated himself, taking Matthew 19:12 literally — a biographic
 ## Major Works
 
 - **[[de-principiis|De Principiis (*Peri Archon*, On First Principles)]]** — 4 books; the first systematic Christian theology; doctrine of God, Trinity, rational souls, cosmology, Scripture; survives mostly in Rufinus's free Latin translation (Schaff/ANF text)
-- **[[contra-celsus|Contra Celsus (Against Celsus)]]** — 8 books; the most substantial early Christian apologetic, responding point-by-point to Celsus's *True Doctrine* (c. 178 CE); reason and faith, divinity of Christ, miracles, ethics
+- **[[contra-celsus|Contra Celsus (Against Celsus)]]** — 8 books (c. 248 CE); the most substantial early Christian apologetic, responding point-by-point to [[celsus|Celsus]]'s *True Doctrine* (c. 178 CE) — and the **sole vehicle through which Celsus survives**, since Origen "cited Celsus's book at length, sometimes sentence by sentence, before offering his own views" (Wilken). Reason and faith, divinity of Christ, miracles, ethics. Note Origen's still-**subordinationist** reply on worship: "we do not hold that the son is mightier than the Father, but inferior" (*c. Cels.* 8.15). See [[wilken-christians-as-romans-saw-them|Wilken]].
 - **[[commentary-on-john-origen|Commentary on the Gospel of John]]** — 32 books (Books I, II, IV–VI, X, XIII, XIX, XX, XXVIII, XXXII survive); allegorical reading of John's Prologue and Passion; the most sophisticated patristic Johannine commentary
 - **[[commentary-on-matthew-origen|Commentary on the Gospel of Matthew]]** — originally 25 books (Books X–XIV survive in Greek; Series Commentariorum in Latin); ethical and typological exegesis; marriage, celibacy, law
 - **Homilies** — on Genesis, Exodus, Leviticus, Numbers, Joshua, Judges, Kings, Psalms, Proverbs, Ecclesiastes, Isaiah, Jeremiah, Ezekiel, Song of Songs, Luke; mostly in Rufinus's/Jerome's translations
@@ -116,3 +116,14 @@ Origen and Plotinus were reportedly both students of [[ammonius-saccas|Ammonius 
 | Commentary on Matthew (Books I–II, X–XIV) | 39385–46509 | read in full (2026-06-28) |
 
 **Source**: `raw/The Complete Works of Origen (8 Books) Cross-Linked to the Bible (Origen Philip Schaff) (z-library.sk, 1lib.sk, z-lib.sk).txt` — Schaff/ANF translations (Roberts-Donaldson; Crombie; Tollinton). Lines 1–46509. KJV appendix (lines 46510–120023) excluded.
+
+## Christology in Ehrman's account
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) calls Origen "the
+greatest Christian theologian before the debates of the fourth century" and his *On First
+Principles* (c. 229) the first systematic theology. Christ is God's ever-existing
+**[[logos-christology|Wisdom and Word]]**. Origen's distinctive (later-condemned) move is the
+**pre-existence of souls**: of the many souls created to contemplate the Son, one never fell but
+clung to the Word with "absolute devotion" and became divine "like iron placed in fire" — and
+that soul became the man Jesus. Ehrman notes Origen was orthodox in his day but later faulted for
+ideas that "led to … the Arian controversy." See [[arian-controversy]], [[trinity]].

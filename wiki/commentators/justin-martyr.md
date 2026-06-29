@@ -10,7 +10,7 @@ primary_texts_commented:
   - gospel-of-mark
   - gospel-of-luke
   - gospel-of-john
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-28
 tags: [commentator, christianity, apologist, second-century, patristic]
 ---
@@ -82,3 +82,13 @@ Justin is cited by Athenagoras, Theophilus of Antioch, Tertullian, and Irenaeus 
 - [[proto-orthodox-christianity|Proto-Orthodox Christianity]]
 - [[marcion|Marcion]] — explicitly named and critiqued
 - [[simon-magus|Simon Magus]] — explicitly named and critiqued
+
+## Christology in Ehrman's account
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) presents Justin
+as the first trained philosopher of the church, combining two frameworks: Christ as the
+pre-incarnate **[[angel-of-the-lord|Angel of the Lord]]** (the OT theophanies) and Christ as the
+**[[logos-christology|Logos]]** of God made flesh — divine reason present in all humans (Socrates
+a "pre-Christian Christian") but fully incarnate in Christ. Crucially, Justin's Christ is still
+"numerically distinct from" *and* "subordinate to" the Father — a way-station, not yet the
+[[trinity|Nicene]] equality. See [[arian-controversy]].

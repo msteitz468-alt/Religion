@@ -18,6 +18,9 @@ revelation Muslims believe was delivered to the Prophet **Muhammad** (c. 570–6
 the angel Gabriel and collected as the [[quran|Qur'an]]. This page is the parent node for the
 Islamic sects filed under [[islam]] in `traditions/islam/sects/`.
 
+**Chronology:** see the [[islam-timeline|Timeline of Islam]] (the Prophetic age → modern
+reform) and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 Islam shares the Abrahamic patriarchal narrative with [[judaism|Judaism]] and
 [[christianity|Christianity]] — the figures [[abraham|Ibrahim]], [[moses|Musa]],
 [[jesus|Isa]], and others recur — but reframes it: the earlier scriptures (Tawrat, Zabur,

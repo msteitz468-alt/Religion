@@ -5,7 +5,7 @@ dates: c. 335 – c. 394 CE
 tradition: [Christianity — Eastern, Nicene]
 affiliation: [proto-orthodox-christianity, cappadocian-fathers, eastern-orthodoxy]
 primary_texts_commented: [Genesis (Hexaëmeron, creation of humanity); the Nicene Creed; Eunomius's writings]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-28
 tags: [commentator, christianity, cappadocian, patristic, trinity, fourth-century, ousia, hypostasis, cosmology, mysticism]
 ---
@@ -53,9 +53,35 @@ The so-called **Epistle 38** (*On the Difference between Ousia and Hypostasis*),
 
 Gregory's concrete theory was what made Cappadocian philosophy a comprehensive system; later Eastern writers received the *ousia*/*hypostasis* duality largely as he codified it (though they were more ambivalent about his strong realism). His unresolved tensions became the seedbed of sixth-century Chalcedonian and miaphysite philosophies (later scopes of [[zachhuber-rise-of-christian-theology|Zachhuber]]). In the East he is the "father of fathers" for mystical and apophatic theology.
 
+## Ayres on Ad Ablabium (Nicaea and Its Legacy)
+
+Lewis Ayres ([[nicaea-and-its-legacy|*Nicaea and Its Legacy*]], 2004) re-reads *Ad Ablabium*
+against the "social Trinity" / de Régnon-paradigm interpretation. He argues the treatise "does
+not centrally argue for three human persons as a useful analogy for the Trinity" — and that
+Stead (1990), "follow[ing] much modern scholarship," wrongly insists it does. The decisive
+argument is not **Argument A** (natures are indivisible, "three men" a "loose and misleading
+usage") but **Argument B**, which Gregory "thinks conclusive": divine names describe what is
+"around" (περί) the nature, not the nature itself; θεότης derives from God's act of *beholding*
+(θέα), and since the three persons are observed in one inseparable activity, the **power is
+one** while the nature stays unknown. "The divine persons… do not simply act together, they
+function inseparably to constitute any and every divine activity" — the power "issuing from the
+Father as from a spring, brought into operation by the Son, and perfecting its grace by the
+power of the Spirit." This rests on a **nature → power → activity** sequence (Barnes;
+Plotinus's *Ennead* 5.4 in the background) and on the cosmological indivisibility of natures.
+The persons' mode of individuation "remains hidden"; each holds "the fullness of the Godhead,
+there are no degrees in being God." Gregory's argument is thus a foundation of
+[[pro-nicene-theology|pro-Nicene]] grammar; Ayres takes it (with [[augustine|Augustine]]) to
+collapse the [[de-regnon-paradigm|East/West typology]]. He does concede "the priority of the
+Father as cause… is in some sense still a priority" — a residual ordering relevant to
+[[subordinationism]] (so much for Karl Holl's charge of "subtle subordination"). Ayres
+recommends the *Catechetical Oration* and *Refutation of Eunomius* as more paradigmatic than
+*Ad Ablabium*. See [[opera-trinitatis|inseparable operations]] and the
+[[tritheist-controversy|tritheism charge]].
+
 ## Key Links
 
 - [[ousia-hypostasis-distinction|Ousia / Hypostasis (the classical theory)]] — his concrete account and the synthesis
+- [[pro-nicene-theology]] · [[de-regnon-paradigm]] · [[opera-trinitatis]] · [[nicaea-and-its-legacy]]
 - [[cappadocian-fathers|Cappadocian Fathers]] · [[basil-of-caesarea|Basil of Caesarea]] · [[gregory-of-nazianzus|Gregory of Nazianzus]]
 - [[eunomius|Eunomius]] · [[apollinarius-of-laodicea|Apollinarius of Laodicea]] · [[origen|Origen]]
 - [[trinity|Trinity]] · [[nicaea|Nicaea]] · [[theosis-divine-nature|Theosis]]

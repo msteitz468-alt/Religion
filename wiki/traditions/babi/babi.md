@@ -21,6 +21,8 @@ tags: [tradition, babi]
 
 The Babi Religion (Babism) emerged in Iran in 1844, rooted in the world of mid-nineteenth-century Iranian Twelver Shi'ism and particularly in the Shaykhi movement. Its founder was Sayyid 'Ali-Muhammad, known as [[the-bab|the Báb]] ("the Gate"), who declared his mission on the evening of 22 May 1844 in Shiraz. Smith describes it as having "emerged as a movement within Shi'i Islam" (line 271), with the Babis being "almost all Iranians who had formerly been Shi'i Muslims" (lines 272–273). By 1848, through the Báb's open claim to be the Imam Mahdi and the revelation of the Bayán, it had become a new religion distinct from Islam. By 1853, following armed conflict, persecution, and the Báb's execution in 1850, the movement had effectively collapsed as an independent force, though it was subsequently transformed into the [[bahai|Bahá'í Faith]] through the activities of [[bahaullah|Bahá'u'lláh]].
 
+**Chronology:** see the [[babi-timeline|Timeline of the Bábí Faith]] and the continuing [[bahai-timeline|Baháʼí timeline]].
+
 ## Relationship to Parent Tradition (Islam / Twelver Shi'ism)
 
 Babism grew directly out of Twelver Shi'ism, particularly the Shaykhi sub-movement within it. The Báb's first disciples were all Shaykhis, and the initial missionary expansion concentrated within existing Shaykhi communities. Smith notes that the Babi movement was "effectively a sub-sect within Shaykhism" as it first developed (lines 607–608).

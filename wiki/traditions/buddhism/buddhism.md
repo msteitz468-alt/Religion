@@ -19,6 +19,8 @@ through insight into the nature of reality. Founded on the teaching (*Dharma*) o
 Gautama, the [[gautama-buddha|Buddha]]** ("the awakened one," c. 5th c. BCE, North India). This is
 the parent node for the Buddhist sects under `traditions/buddhism/sects/`.
 
+**Chronology:** see the [[buddhism-timeline|Timeline of Buddhism]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 ## A Tradition with No Single Canon
 
 Buddhism is the wiki's first test of the **multi-canon, non-ancestral** model (see CLAUDE.md). There

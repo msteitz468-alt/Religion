@@ -39,3 +39,5 @@ Chalcedon "energized philosophical debate as no previous doctrinal ruling had do
 - [[cyril-of-alexandria|Cyril of Alexandria]] · [[theodoret-of-cyrus|Theodoret of Cyrus]] · [[nestorius|Nestorius]] · [[apollinarius-of-laodicea|Apollinarius]]
 - [[oriental-orthodoxy|Oriental Orthodoxy (miaphysite)]] · [[gregory-of-nyssa|Gregory of Nyssa]]
 - [[zachhuber-rise-of-christian-theology|Zachhuber, *The Rise of Christian Theology*]] — source
+- [[kelly-early-christian-doctrines|Kelly, *Early Christian Doctrines*]] — narrative of the road to Chalcedon (chs. XI–XII): [[logos-sarx-logos-anthropos|Logos-sarx vs Logos-anthropos]], the [[theotokos]] dispute, [[eutyches]], [[leo-the-great|Leo's Tome]], the "in two natures" amendment
+- [[theotokos]] · [[logos-sarx-logos-anthropos]] · [[leo-the-great]] · [[eutyches]] · [[communicatio-idiomatum]] · [[incarnation]]

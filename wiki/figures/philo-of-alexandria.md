@@ -5,8 +5,8 @@ tradition: Judaism (Hellenistic / Diaspora); major influence on Christianity
 textual_sources: [extensive corpus of allegorical commentaries on the Pentateuch (esp. Genesis, Exodus), philosophical treatises (e.g. *On the Creation*, *On the Migration of Abraham*, *Who is the Heir?*), historical/apologetic works (*Against Flaccus*, *Embassy to Gaius*); cited or echoed in early Christian writers (Clement, Origen, Eusebius, Ambrose, etc.)]
 dates: c. 20 BCE – 50 CE (floruit under Roman prefects in Egypt; embassy to Caligula c. 40 CE)
 roles: [Hellenistic Jewish philosopher, exegete, apologist; bridge figure between Jewish Scripture and Greek philosophy; precursor to Christian Logos theology and allegorical exegesis]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [figure, judaism, hellenistic, philo, alexandria, logos, allegory, middle-platonism]
 ---
 
@@ -78,3 +78,14 @@ In the wiki he is the essential precursor for the [[logos-christology|Logos Chri
 ---
 
 **Sources ingested**: Christopher Stead, *Philosophy in Christian Antiquity* (CUP 1994), Ch. 6 and related; Harry Austryn Wolfson, *The Philosophy of the Church Fathers* (Harvard, 1956), esp. preface, Part One (allegory, presuppositions, handmaiden, faith/reason), Part Two (Logos, Holy Spirit, ideas), and related. Created 2026-06-07 as a full 6-section figure page (enhanced during Wolfson ingest). Cross-linked to new groups/, locations/, concepts/, and the Wolfson scholarship/commentator pages. No raw sources modified.
+
+
+## Philo on the Logos and the Divinization of Moses ([[bart-ehrman|Ehrman]])
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) draws on Philo as
+the key witness to a Jewish **[[logos-christology|Logos]]** theology: the Logos is "the highest
+of all beings, the image of God," God's "firstborn son," called "God" — even a "second God" (ho
+theos vs. theos) — and is identified with the [[angel-of-the-lord|Angel of the Lord]] through
+whom God appears "like a man." Philo also presents [[moses|Moses]] as "god and king of the whole
+nation," "gradually becoming divine," and (in places) a pre-existent being sent to earth — a
+prime instance of the [[two-powers-in-heaven|Jewish gradation of divinity]].

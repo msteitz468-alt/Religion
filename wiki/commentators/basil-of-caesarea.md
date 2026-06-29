@@ -5,7 +5,7 @@ dates: c. 330–378/379 CE
 tradition: [Christianity — Eastern, Nicene]
 affiliation: [proto-orthodox-christianity, cappadocian-fathers, eastern-orthodoxy]
 primary_texts_commented: [Genesis (Hexaëmeron homilies); the Nicene Creed; Eunomius's Apology]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-28
 tags: [commentator, christianity, cappadocian, patristic, trinity, fourth-century, ousia, hypostasis]
 ---
@@ -52,9 +52,37 @@ In his early correspondence (the disputed but probably authentic exchange with [
 
 Within decades, Basil's framework became a shared *koine* ("the classical theory") used across all parties of the Eastern Church, including in the Christological debates that followed. His distinction of *ousia* and *hypostasis* underwrote the Council of Constantinople (381) and remained the backbone of Byzantine Trinitarian theology, systematized later by [[cappadocian-fathers|the tradition]] down to John of Damascus.
 
+## Ayres on Basil's Development (Nicaea and Its Legacy)
+
+Lewis Ayres ([[nicaea-and-its-legacy|*Nicaea and Its Legacy*]], 2004) presents Basil as "one of
+many architects of [[pro-nicene-theology|pro-Nicene theology]]," not the sole one, and traces a
+real **development** in his thought against later hagiography. Early on (Ep. 361, c. 360–1) Basil
+preferred *"invariably like according to essence"* (ἀπαραλλάκτως ὅμοιος κατ' οὐσίαν) to
+*homoousios*, worried both that the term implied Father and Son are "one identical light"
+(Sabellian) and that it ignored the Son's particular generated character. His breakthrough in
+*Contra Eunomium* (c. 363–4) was twofold: (1) a positive use of **ἐπίνοια** (against
+[[eunomius|Eunomius]]) — the mind's reflective recognition that a seemingly simple reality is "a
+conglomeration of attributes"; and (2) the distinction of shared **ousia** from individuating
+**idiomata** ("added onto the substance like marks or forms… they do not cut the identity in
+nature"), which Ayres judges "as much epistemological as strictly ontological." *Homoousios*
+appears only once in *C. Eun.* (1.20, derived from Heb. 1:3) and "does not function as a point of
+departure." God's essence is known only as incomprehensible: "from his activities (ἐνέργειαι) we
+know our God, but his substance itself we do not profess to approach" (Ep. 234).
+
+On the **Spirit** (*On the Holy Spirit*, 375), Basil is "notoriously reticent" — granting the
+Spirit "equal worship and honour" and arguing from common activity (ἐνέργεια reveals δύναμις
+reveals substance) and from contemplation (the Spirit enables the very θεωρία by which it is
+seen, so must be God), yet stopping short of calling the Spirit God "in the same terms as Father
+and Son." Ayres reads this as "the care with which he tried to combine clarity with advances
+towards [[homoiousians|Homoiousians]]," not a failure of pro-Nicene logic. Notably, "modern
+scholarship has failed to demonstrate with certainty any detailed engagement with
+[[athanasius|Athanasius']] theology" by Basil — against the "one original Nicene theology"
+narrative.
+
 ## Key Links
 
 - [[ousia-hypostasis-distinction|Ousia / Hypostasis (the classical theory)]] — his abstract account
+- [[pro-nicene-theology]] · [[nicaea-and-its-legacy]] · [[divine-simplicity]] · [[holy-spirit]] · [[homoiousians]]
 - [[cappadocian-fathers|Cappadocian Fathers]] · [[gregory-of-nyssa|Gregory of Nyssa]] · [[gregory-of-nazianzus|Gregory of Nazianzus]]
 - [[eunomius|Eunomius]] (his chief opponent) · [[apollinarius-of-laodicea|Apollinarius of Laodicea]] · [[origen|Origen]]
 - [[trinity|Trinity]] · [[nicaea|Nicaea]] · [[arianism|Arianism]]

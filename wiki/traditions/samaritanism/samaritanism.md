@@ -20,6 +20,8 @@ tags: [tradition, samaritanism, second-temple]
 > the group page [[samaritans|Samaritans]]; for the sanctuary dispute see
 > [[gerizim-vs-jerusalem|Gerizim vs. Jerusalem]]. *(Stub — to be expanded.)*
 
+**Chronology:** see the [[samaritanism-timeline|Timeline of Samaritanism]] and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 ## Definition and Self-Understanding
 
 The religion of the Samaritans, an ancient Israelite community centered on

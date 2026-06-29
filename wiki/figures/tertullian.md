@@ -5,8 +5,8 @@ tradition: Christianity (proto-orthodox; later Montanist)
 textual_sources: [New Testament, Old Testament, Roman law and rhetoric]
 dates: c.155–220 CE
 roles: [theologian, apologist, moralist, heresiologist]
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [figure, christianity, patristics, second-century, north-africa, latin-theology, apologist]
 ---
 
@@ -96,3 +96,22 @@ Tertullian's influence is pervasive but often invisible because his vocabulary b
 - [[montanists|Montanists]] — Tertullian's later affiliation
 - [[monepiscopate|Monepiscopate]] — Tertullian's ecclesiology; the Church as custodian of apostolic tradition
 - [[nt-canon-formation|NT Canon Formation]] — Tertullian's *Against Marcion* as evidence for pre-Marcionite canon
+
+## Coining the Trinity ([[bart-ehrman|Ehrman]])
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) credits Tertullian
+as the **first Christian author to use the word [[trinity|Trinity]]** (*trinitas*), in the course
+of refuting **[[modalism|modalism]]** (*Against Praxeas*) — arguing that John 10:30 ("I and the
+Father *are* one") uses a plural verb and that one cannot be father and son to oneself. Yet his
+Trinity is graded ("the Father is greater than the Son"), a position later judged heretical: "Theology,
+in these early years … could not stand still." He also wrote the five-volume *Against Marcion*, the
+chief source on [[marcion|Marcion]]'s [[docetism|docetism]].
+
+## Tradition and the Rule of Faith (Kelly)
+
+[[kelly-early-christian-doctrines|Kelly]] (ch. II) makes Tertullian, with Irenaeus, a central witness to the patristic relation of Scripture and tradition. In the *De praescriptione haereticorum* he argued the futility of disputing Scripture with heretics who "twisted its plain meaning," and so preferred the *[[rule-of-faith|regula fidei]]* as the standard of debate — not as a separate source, but as "the intrinsic shape and pattern of the revelation itself," the key to right exegesis. He extended the word "tradition" to long-established customs (triple immersion at baptism, the sign of the cross), an innovation in usage, while insisting "no secret tradition existed" and that authentic doctrine is marked by [[apostolic-succession|apostolic foundation]] and the churches' "otherwise inexplicable unanimity."
+
+## Cross-links
+- [[rule-of-faith|Rule of Faith]] · [[apostolic-succession|Apostolic Succession]] — Tertullian's *praescriptio* and tradition
+- [[inspiration-of-scripture|Inspiration of Scripture]] — his (Montanist-period) defence of ecstatic prophecy
+- [[kelly-early-christian-doctrines|Kelly, Early Christian Doctrines]] — source for the above

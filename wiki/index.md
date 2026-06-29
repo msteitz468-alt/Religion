@@ -960,6 +960,7 @@ Master index of all pages. Updated on every ingest.
 
 ### Scholarship (Early Christianity in the Roman World)
 
+- [[wilken-christians-as-romans-saw-them|Robert Louis Wilken, *The Christians as the Romans Saw Them*]] (Yale, 2nd ed. 2003) — early Christianity seen through the eyes of its Greek and Roman critics; **read in full 2026-06-28** (5-agent deployed strategy). Revisionist thesis: Roman religion was sincere (not decadent) and the pagan critics were perceptive, forcing Christian theology to develop. New commentator pages [[pliny-the-younger|Pliny]], [[galen|Galen]], [[celsus|Celsus]], [[julian-the-apostate|Julian]] (+ figure); extended [[porphyry|Porphyry]]; new group [[christians|Christians (as the Romans saw them)]]; concepts [[superstitio]], [[biblical-criticism-antiquity]] (Porphyry on Daniel), [[pietas]] (merged); controversies [[christianity-apostasy-from-judaism]] and [[roman-persecution-piety-or-prejudice]].
 - [[michael-w-holmes|Michael W. Holmes]] — Bethel University; *The Apostolic Fathers: Greek Texts and English Translations*, 3rd ed. (Baker Academic, 2007); critical Greek text + English translation of all 10 Apostolic Fathers texts; 28 Papias fragments (most complete collection); historical-critical introductions. See also [[holmes-apostolic-fathers|source summary]].
 - [[de-lubac-medieval-exegesis|de Lubac, *Medieval Exegesis: The Four Senses of Scripture*]] (Henri de Lubac; 1959–64) — the definitive study of the Christian [[fourfold-sense|fourfold sense]]; "the doctrine of the senses *is* the doctrine of the two Testaments"; corrects the distich's authorship (Augustine of Dacia, not Nicholas of Lyra) and untangles the trichotomy/tetrachotomy duality; Vol. 2 gives the substance of each sense (permanent history-foundation, allegoria facti et dicti, mystical tropology, two-form anagogy); Vol. 3 refutes the "precursors of literalism" thesis (Spicq/Mandonnet/Smalley) for every alleged link from Berno to Hugh to the Victorines, and analyzes Joachim of Flora's Three Ages as the one genuine structural aberration; **Vols. 1–3 complete** (2026-06-09/10)
 - [[henri-de-lubac|Henri de Lubac]] (1896–1991) — Jesuit *ressourcement* theologian, Vatican II *peritus*, cardinal; the wiki's authority on the [[fourfold-sense|Quadriga]] and Christian [[allegorical-reading|allegory]]; spiritual exegesis as transformation of the reader; bridge from [[origen|Origen]] to the medieval synthesis (new 2026-06-09)
@@ -968,6 +969,7 @@ Master index of all pages. Updated on every ingest.
 - [[larry-hurtado|Larry W. Hurtado]] (1943–2019) — *Destroyer of the Gods: Early Christian Distinctiveness in the Roman World* (Baylor, 2016); *One God, One Lord* (1988); *Lord Jesus Christ* (2003). Social-historical analysis of early Christianity as a genuinely distinctive and novel movement within its Roman-world context. Five axes of distinctiveness: (1) exclusivist monotheism directed to the Roman "market"; (2) a particular "bookishness" including codex preference and *nomina sacra*; (3) a trans-ethnic identity as a new *tertium quid* (neither Jewish nor Gentile); (4) ethical rigorism, especially on sexual practice; (5) dyadic devotional pattern (God + Jesus jointly venerated). Key controversy: refutation of Bousset's *Kyrios Christos* (1913) thesis; Lord-Christology arose in Aramaic-speaking Jewish Christianity before Gentile influence was possible. See also [[hurtado-destroyer-of-the-gods|source summary]] in scholarship/.
 - [[rodney-stark|Rodney Stark]] (b. 1934) — University of Washington / Baylor; *The Rise of Christianity* (Princeton, 1996). Sociological account of early Christian growth 40–300 CE: 40%/decade growth model; Lofland-Stark network conversion model; Jewish mission as success (not failure); epidemic nursing and differential mortality; sex ratio / fertility advantage; 22-city quantitative analysis (67% of variance explained by synagogues + Romanization); Gnosticism as Christian heresy (statistical); Antioch as urban chaos case study (Ch. 7); martyrdom as rational choice (Iannaccone model); religious economy framework (exclusive vs. nonexclusive firms). See also [[stark-rise-of-christianity|source summary]] in scholarship/.
 - [[kurt-rudolph|Kurt Rudolph]] (1929–2020) — German historian of religion; *Gnosis: The Nature and History of Gnosticism* (German 1977/1980; English 1987, ed. R. McL. Wilson). Foundational phenomenological + historical synthesis treating Gnosis as a coherent late-antique religion (*spätantike Religion*) with structured mythology (Pleroma of aeons, Sophia fall, Demiurge as inferior creator often = OT God, gnosis as saving knowledge and ascent, community/cult/ethics); detailed on Nag Hammadi as revolutionary primary sources; early schools, 2nd-c. "great systems" (esp. Valentinianism), Manichaeism as developed form, Mandaeans as living relic. Complements and challenges patristic/heresiological and sociological framings (Kruger, Stark, Wolfson) by centering Gnostic self-understanding and multi-root syncretism (Jewish apocalyptic, Hellenistic, Iranian, Christian elements). See [[rudolph-gnosis-the-nature-and-history-of-gnosticism|source summary]] in scholarship/; primary beneficiary pages: [[gnostics|Gnostics]], [[valentinus|Valentinus]], new concepts (gnosis, demiurge, pleroma, sophia-gnostic), [[nag-hammadi-library|Nag Hammadi Library]].
+- [[kelly-early-christian-doctrines|J. N. D. Kelly, *Early Christian Doctrines*]] (Black, 1958; 4th ed. 1968) — standard one-volume survey of doctrinal development from the sub-apostolic age to Chalcedon, treated thematically. Four-scope plan (one per Part); **all four scopes (Parts I–IV, chs. I–XVII) read in full 2026-06-28**. Background and much doctrinal detail filed lean onto existing pages; the ingest generated ~33 new pages, including concepts [[apostolic-succession]], [[consensus-patrum]], [[inspiration-of-scripture]], [[theoria]], [[monarchianism]], [[patripassianism]], [[subordinationism]], [[oikonomia]], [[spirit-christology]], [[recapitulation]], [[homoousion]], [[theotokos]], [[logos-sarx-logos-anthropos]], [[semi-pelagianism]], [[confirmation]], [[traducianism]], [[apokatastasis]], [[neoplatonism]]; figures/commentators [[vincent-of-lerins]], [[diodore-of-tarsus]], [[theodore-of-mopsuestia]], [[john-chrysostom]], [[hippolytus]], [[novatian]], [[sabellius]], [[paul-of-samosata]], [[methodius]], [[pelagius]], [[leo-the-great]], [[eutyches]], [[cyril-of-jerusalem]], [[optatus]], [[hilary-of-poitiers]], [[marcellus-of-ancyra]], [[marius-victorinus]]; controversy [[pelagian-controversy]]; and sects [[nestorianism]], [[novatianism]]. Major hubs extended: [[rule-of-faith]], [[typology]], [[allegorical-reading]], [[nt-canon-formation]], [[arian-controversy]], [[original-sin]], [[chalcedonian-definition]], [[irenaeus]], [[tertullian]]. Key theses: Scripture and tradition "coincident in content" (vs. [[bauer-thesis]]); the East/West divide on [[original-sin|original sin]] (Contradiction Protocol). See [[kelly-early-christian-doctrines|source summary]] in scholarship/.
 
 ### Scholarship (Reformation / Reformed Tradition)
 - [[barth-church-dogmatics-i1|Karl Barth, *Church Dogmatics* I.1, §§1–7]] — Prolegomena: the Word of God as criterion of dogmatics; task of dogmatics; prolegomena; church proclamation; threefold Word; nature and knowability of the Word; dogma and dogmatics. Read in full 2026-06-27. Grounds [[dogmatics]], [[analogia-fidei]], [[analogia-entis]], [[church-proclamation]], [[threefold-word-of-god]], [[knowability-of-the-word-of-god]], [[dogma-barth]], [[dogmatics-as-science]], [[word-of-god]] concept pages; creates [[natural-theology]] and [[scripture-church-normativity-in-dogmatics]] controversy pages; extends [[karl-barth]] commentator page.
@@ -1980,7 +1982,17 @@ a `sects/` page, cross-linked.)*
 
 ## Timelines
 
-- [[talmudic-period|The Talmudic Period]] — Zugoth through Geonim; chronological overview
+- [[comparative-timeline|Comparative Timeline of World Religions]] — **master cross-tradition hub**; era × family synchronic matrix (Origins → Modern) linking every tradition's developments side by side
+- [[judaism-timeline|Timeline of Judaism]] — patriarchs and prophets through modern denominations; folds in the Talmudic-period hub
+- [[christianity-timeline|Timeline of Christianity]] — Apostolic Age through modern denominations; densest for the patristic eras (origins → Chalcedon 451)
+- [[islam-timeline|Timeline of Islam]] — the Prophetic age through classical philosophy/Sufism and modern reform
+- [[bahai-timeline|Timeline of the Baháʼí Faith]] — Bábí prelude → Baháʼuʼlláh → ʻAbduʼl-Bahá → Guardianship → Universal House of Justice
+- [[babi-timeline|Timeline of the Bábí Faith]] — the 1844–1863 messianic movement out of Shaykhī Shīʻism
+- [[samaritanism-timeline|Timeline of Samaritanism]] — the Gerizim Israelite community, schism to surviving remnant
+- [[buddhism-timeline|Timeline of Buddhism]] — the Buddha → early schools → Mahāyāna/Madhyamaka → Yogācāra → Vajrayāna & Tibetan schools → modern Buddhism
+- [[hinduism-timeline|Timeline of Hinduism]] — Vedic → Upaniṣadic → epic/classical darśanas → Vedānta schools & bhakti → modern reform
+- [[new-religious-movements-timeline|New Religious Movements (1800–present)]] — Restorationism → metaphysical/esoteric movements → Baháʼí → the postwar NRM wave (Scientology et al.)
+- [[talmudic-period|The Talmudic Period]] — Zugoth through Geonim; detailed rabbinic-era timeline (Judaism)
 
 ---
 
@@ -2085,3 +2097,38 @@ a `sects/` page, cross-linked.)*
 
 ### Controversies
 - [[rich-man-renunciation|Must the Rich Man Sell All?]] — literal vs. spiritual reading of Mark 10:21; Clement's *Quis Dives Salvetur*, monastic literalism, counsel-vs-precept
+
+## How Jesus Became God (Bart Ehrman) — Added 2026-06-28 (7 Sonnet extraction passes; main-thread integration)
+
+### Scholarship
+- [[ehrman-how-jesus-became-god|Ehrman, *How Jesus Became God* (2014)]] — historical-critical account of the development of Christology, read in full
+
+### Commentators
+- [[bart-ehrman|Bart D. Ehrman]] (b. 1955) — historical-critical NT scholar; former evangelical, now agnostic; criteria of authenticity + form criticism
+
+### Concepts
+- [[exaltation-christology|Exaltation Christology]] — earliest Christology "from below": Jesus exalted to divine status at the resurrection
+- [[apotheosis-divinization|Apotheosis and Divinization (Greco-Roman)]] — the ancient continuum of divinity; the divine pyramid; emperor/hero divinization
+- [[two-powers-in-heaven|Two Powers in Heaven / Divine Mediators in Judaism]] — gradation of divinity within Jewish monotheism (Segal)
+- [[angel-of-the-lord|The Angel of the Lord]] — the chief angel identified as God yet appearing as human; a root of Logos/angel Christology
+- [[son-of-man|Son of Man]] — Daniel 7 / 1 Enoch cosmic judge; Jesus and the Son of Man
+- [[kyrios|Kyrios (Lord)]] — the divine Lordship title escalated after the resurrection
+- [[adoptionism|Adoptionism]] — Jesus adopted to divine sonship; the Ebionite/Theodotian "dead end"
+- [[docetism|Docetism]] — Christ only "appeared" human; Marcion's "dead end"
+- [[modalism|Modalism]] — Father/Son/Spirit as modes of one God (Sabellianism); the anti-modalist road to the Trinity
+- [[ortho-paradoxes|Ortho-Paradoxes]] — Ehrman's term for orthodoxy's paradoxical affirmations
+
+### Figures
+- [[arius|Arius]] (c. 256–336) — Alexandrian presbyter; subordinationist Christology; occasion of Nicaea
+- [[joseph-of-arimathea|Joseph of Arimathea]] — entomber of Jesus; disputed historicity
+- [[pontius-pilate|Pontius Pilate]] — prefect of Judea; the historical vs. Gospel portrait
+- [[constantine|Constantine the Great]] — convener of Nicaea; politics of Christian unity
+- [[mary-magdalene|Mary Magdalene]] — first witness of the resurrection; a likely visionary
+
+### Controversies
+- [[burial-of-jesus|The Burial of Jesus]] — Joseph of Arimathea and the empty tomb; whether a decent burial occurred
+- [[resurrection-appearances-visions|The Nature of the Resurrection Appearances]] — veridical appearance vs. vision/hallucination
+- [[arian-controversy|The Arian Controversy and the Nicene Homoousios]] — coeternal Son vs. begotten subordinate divinity
+
+### Extended
+- Figures [[jesus-of-nazareth]], [[paul-apostle]], [[john-the-baptist]], [[enoch]], [[moses]], [[philo-of-alexandria]], [[tertullian]]; concepts [[incarnation]], [[logos-christology]], [[bodily-resurrection]], [[trinity]]; groups [[ebionites]], [[marcionites]], [[gnostics]], [[romans]]; commentators [[justin-martyr]], [[origen]]; [[guilt-for-christs-death]]; [[roman-religion]]

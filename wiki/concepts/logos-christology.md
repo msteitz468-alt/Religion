@@ -2,7 +2,7 @@
 title: Logos Christology
 domain: theology / Christology
 traditions_using: [Christianity]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-28
 tags: [concept, christianity, christology, johannine, patristic, philosophy]
 ---
@@ -71,6 +71,28 @@ Wolfson places heavy emphasis on Philo as the indispensable foundation and prole
 ## Relation to John's Christology
 
 Michaels's framing: the Gospel's Christology is a **parabola** — the Son descends from the Father into the world to reveal the Father, and then returns to the Father. The Logos title names the pre-existent origin point; the narrative traces the descent and return. The Logos is both divine (1:1c) and obedient/subordinate (14:28; 5:19, 30) — the tension Michaels identifies as the Gospel's central Christological contribution: Jesus as God's unique Envoy who simultaneously claims deity and submission. See [[i-am-sayings|I Am Sayings (Egō Eimi)]] and [[gospel-of-john|Gospel of John]].
+
+## Historical-critical reading ([[bart-ehrman|Ehrman]])
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) treats the
+Johannine prologue as a **pre-existing poem** the evangelist incorporated (self-contained,
+poetic "staircase" parallelism, and *Logos* occurring nowhere else in the Gospel; the
+[[john-the-baptist|Baptist]] verses 6–8, 15 are prose insertions). On his reading the poem
+says the **Logos**, not Jesus, pre-existed: "It was only when the Logos became a human being
+that Jesus Christ came into existence." He maps its ten parallels with the Jewish
+[[two-powers-in-heaven|Wisdom]] tradition (Tobin) — at the beginning, with God, agent of
+creation, giving life and light, tabernacling among people. This makes John's Logos a higher
+Christology than [[paul-apostle|Paul]]'s: where Paul's Christ is an [[angel-of-the-lord|angel]]
+later *exalted* to equality, John's Logos already *is* God before the incarnation.
+
+The Logos concept's own genealogy, per Ehrman: the **Stoic** Logos (divine reason infusing
+all things), the **Platonic** Logos (mediator between spirit and matter), and the **Jewish**
+reading of Genesis (God creates by uttering his word) — synthesized by
+[[philo-of-alexandria|Philo]], for whom the Logos is "the second God," God's "firstborn son,"
+and identical with the [[angel-of-the-lord|Angel of the Lord]]. [[justin-martyr|Justin Martyr]]
+later made the Logos divine reason fully incarnate in Christ, with pre-Christian philosophers
+(Socrates) partaking of it; [[origen|Origen]] argued Christ-as-Wisdom-and-Word never *did not*
+exist — an argument that fed the [[arian-controversy|Arian controversy]].
 
 ## Key Links
 

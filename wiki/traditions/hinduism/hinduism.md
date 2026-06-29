@@ -20,6 +20,8 @@ It is the wiki's most internally diverse tradition — at once polytheistic, hen
 (in some schools) effectively monotheistic. This page is the parent node for the Hindu sects under
 `traditions/hinduism/sects/`.
 
+**Chronology:** see the [[hinduism-timeline|Timeline of Hinduism]], the [[vedic-religion|Vedic religion]] page (its substratum), and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 ## What Counts as Hinduism? (the definition problem)
 
 That "family of related traditions" framing is itself contested. [[wendy-doniger|Wendy Doniger]]

@@ -20,6 +20,8 @@ tags: [tradition, bahai]
 
 *Populated from [[smith-short-history-bahai-faith|Smith, A Short History of the Bahá'í Faith (1995)]]. All claims are from that source unless marked otherwise.*
 
+**Chronology:** see the [[bahai-timeline|Timeline of the Baháʼí Faith]], the [[babi-timeline|Bábí timeline]] (its origin), and the [[comparative-timeline|Comparative Timeline of World Religions]].
+
 ## Definition and Self-Understanding
 
 The Bahá'í Faith is an independent world religion founded in mid-nineteenth-century Iran. Its adherents regard it as the latest in a succession of divine dispensations — encompassing Zoroastrianism, Judaism, Hinduism, Buddhism, Christianity, and Islam — and its prophet-founder, [[bahaullah|Bahá'u'lláh]] (1817–1892), as the [[manifestation-of-god|Manifestation of God]] for the present age. Smith stresses that calling the Faith "a Muslim sect" is "as inaccurate as describing second-century Christianity as a Jewish sect" (lines 279–281): while it grew from Shi'i Islam, it asserts its full independence.

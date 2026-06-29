@@ -4334,3 +4334,110 @@ adjudication.
 
 Lint: see below. Raw source `mv`'d to `raw/scholarship/` (raw/ is git-ignored, so `mv` not
 `git mv`).
+
+## [2026-06-28] ingest | The Christians as the Romans Saw Them (Robert Louis Wilken)
+
+Scope: the **whole book** (2nd ed., 2003), Introduction through Epilogue (lines ~300–7742) —
+**read in full**. Apparatus (Suggestions for Further Reading + Index, 7743–8138) deliberately not
+ingested as content. Read via the deployed-subagent strategy: 5 Sonnet agents over disjoint
+line-ranges (Intro+Pliny+Burial Society; Persecutors+Galen; Celsus; Porphyry; Julian+Epilogue),
+staggered in batches; main thread scaffolded structure, merged shared pages, and cross-linked.
+
+Created: commentators [[pliny-the-younger]], [[galen]], [[celsus]], [[julian-the-apostate]];
+figure [[julian-the-apostate|Julian]]; group [[christians]]; concepts [[superstitio]],
+[[biblical-criticism-antiquity]]; controversies [[christianity-apostasy-from-judaism]],
+[[roman-persecution-piety-or-prejudice]]; source page [[wilken-christians-as-romans-saw-them]].
+Extended: [[porphyry]] (Wilken "most learned critic" section — Daniel as Maccabean pseudepigraph,
+*Philosophy from Oracles*, Jesus the pious sage), [[origen]] (*Contra Celsum* as Celsus's sole
+vehicle), [[jesus-of-nazareth]] (Greco-Roman pagan reception), [[pietas]] (merged richer Wilken
+content; duplicate `pietas-roman-piety.md` removed), [[romans]], [[roman-religion]], and concept
+back-links on [[incarnation]], [[bodily-resurrection]], [[divine-providence]], [[allegorical-reading]].
+
+Contradiction Protocol: the piety-vs-prejudice dispute (Wilken vs. Augustine's *utilitas* reading of
+Roman religion) filed at [[roman-persecution-piety-or-prejudice]]; the apostasy-from-Judaism charge
+(Celsus/Porphyry/Julian) at [[christianity-apostasy-from-judaism]] — positions recorded, not adjudicated.
+
+Lint: clean for the new pages (no new red links; Galen's draft links repaired —
+creatio-ex-nihilo→creation-ex-nihilo, platonism→middle-platonists, marcus-aurelius de-linked).
+Raw source `mv`'d to `raw/scholarship/` (raw/ is git-ignored, so `mv` not `git mv`).
+
+## [2026-06-28] ingest | Bart D. Ehrman, *How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee* (2014)
+
+Scope: the whole monograph (Introduction, Chs. 1–9, Epilogue; lines 56–14228) — **read in full**.
+Endnotes and indices (lines 14229–16274) deliberately excluded as non-substantive apparatus.
+
+Method: Deployed-subagent strategy — seven Sonnet extraction passes over disjoint line-ranges
+(Intro+Ch1 / Ch2 / Ch3 / Ch4 / Ch5 / Ch6+7 / Ch8+9+Epilogue), each producing a faithfulness-anchored
+digest (claims + verbatim grounding quotes + line loci, grouped by target page). Structure, taxonomy,
+canon decisions, and all wiki-page writing/integration done on the main thread.
+
+New pages: [[ehrman-how-jesus-became-god]] (scholarship); [[bart-ehrman]] (commentator); concepts
+[[exaltation-christology]], [[kyrios]], [[apotheosis-divinization]], [[two-powers-in-heaven]],
+[[angel-of-the-lord]], [[son-of-man]], [[adoptionism]], [[docetism]], [[modalism]], [[ortho-paradoxes]];
+controversies [[burial-of-jesus]], [[resurrection-appearances-visions]], [[arian-controversy]]; figures
+[[arius]], [[joseph-of-arimathea]], [[pontius-pilate]], [[constantine]], [[mary-magdalene]].
+
+Extended: [[jesus-of-nazareth]] (historical-critical reconstruction), [[paul-apostle]] (incarnation/
+angel Christology — contrasted with Hurtado), [[incarnation]] (exaltation-vs-incarnation origins),
+[[logos-christology]], [[bodily-resurrection]], [[trinity]] (pre-Nicene coinage), [[john-the-baptist]],
+[[enoch]], [[moses]], [[philo-of-alexandria]], [[tertullian]], [[justin-martyr]], [[origen]],
+[[ebionites]], [[marcionites]], [[gnostics]], [[romans]], [[roman-religion]], [[guilt-for-christs-death]]
+(deicide charge and anti-Jewish aftermath).
+
+Core thesis recorded: Christology is early but *developmental* — the historical Jesus was an apocalyptic
+prophet who did not call himself God; the disciples' belief in the resurrection (grounded in visions)
+launched an [[exaltation-christology|exaltation Christology]] "from below" that was progressively pushed
+back toward [[incarnation|incarnation]] "from above," culminating at Nicaea. Contradiction Protocol:
+Ehrman's developmental, low-origin account is contrasted (not adjudicated) with Hurtado's "high
+Christology was original" on [[paul-apostle]], [[kyrios-christology-origins]], and the new controversy
+pages; confessional/critical disputes over the burial and resurrection appearances filed as controversies.
+
+Lint: clean for the new pages (no new red links, no new orphans). Raw source `mv`'d to
+`raw/scholarship/` (raw/ is git-ignored, so `mv` not `git mv`).
+
+## [2026-06-28] ingest | J. N. D. Kelly, *Early Christian Doctrines* (Scope 1)
+
+Scope: Part I (Prolegomena), chs. I–III, lines ~377–3289 — **read in full** (via three Sonnet
+subagents on disjoint line-ranges: ch. I Background 379–1360, ch. II Tradition & Scripture
+1361–2236, ch. III Holy Scriptures 2237–3289). Source: `raw/Early Christian Doctrines (John N. D.
+Kelly)…txt` (OCR'd from EPUB). Remaining scopes (II Pre-Nicene, III Nicaea–Chalcedon, IV Epilogue)
+not yet started — see ledger on [[kelly-early-christian-doctrines|source page]].
+
+Ch. I (philosophical/Gnostic background) filed lean onto existing rich pages ([[middle-platonism]],
+[[neoplatonism]], [[plotinus]], [[philo-of-alexandria]], [[gnosticism]], [[demiurge]], [[pleroma]],
+[[emanation]], [[mystery-cults]], [[manichaeism]]); no new background pages. Chs. II–III produced
+new pages: concepts [[apostolic-succession]], [[consensus-patrum]], [[inspiration-of-scripture]],
+[[theoria]]; commentators [[vincent-of-lerins]], [[diodore-of-tarsus]], [[theodore-of-mopsuestia]],
+[[john-chrysostom]]. Extended [[rule-of-faith]], [[typology]] (was a stub), [[allegorical-reading]],
+[[nt-canon-formation]], [[irenaeus]], [[tertullian]].
+
+Core thesis recorded on [[rule-of-faith]]: Kelly holds Scripture and tradition were, for the Fathers,
+"complementary authorities… coincident in content," not two separate sources. Contradiction Protocol:
+contrasted (not adjudicated) with the [[bauer-thesis|Bauer thesis]] reading of the rule of faith as a
+victors' construct.
+
+## [2026-06-28] ingest | J. N. D. Kelly, *Early Christian Doctrines* (Scopes 2–4 — work complete)
+
+Scopes 2 (Part II, Pre-Nicene Theology, chs. IV–VIII), 3 (Part III, Nicaea to Chalcedon, chs.
+IX–XVI), and 4 (Part IV, Epilogue, ch. XVII) — **all read in full** via Sonnet subagents on disjoint
+line-ranges (chs. IV–V, VI–VII, VIII; IX–X, XI–XII, XIII, XIV–XV, XVI; XVII). With Scope 1 this
+completes the whole work (chs. I–XVII, lines ~377–19271). Ledger on
+[[kelly-early-christian-doctrines|source page]] marks all four scopes "read in full."
+
+New pages (Scopes 2–4): concepts [[monarchianism]], [[patripassianism]], [[subordinationism]],
+[[oikonomia]], [[spirit-christology]], [[recapitulation]], [[homoousion]], [[theotokos]],
+[[logos-sarx-logos-anthropos]], [[semi-pelagianism]], [[confirmation]], [[traducianism]],
+[[apokatastasis]], [[neoplatonism]]; figures/commentators [[hippolytus]], [[novatian]],
+[[sabellius]], [[paul-of-samosata]], [[methodius]], [[pelagius]], [[leo-the-great]], [[eutyches]],
+[[cyril-of-jerusalem]], [[optatus]], [[hilary-of-poitiers]], [[marcellus-of-ancyra]],
+[[marius-victorinus]]; controversy [[pelagian-controversy]]; sects [[nestorianism]],
+[[novatianism]]. Extended [[trinity]], [[logos-christology]], [[modalism]], [[adoptionism]],
+[[incarnation]], [[arian-controversy]], [[original-sin]], [[chalcedonian-definition]],
+[[eucharist]], [[baptism]], [[origen]], [[tertullian]], [[irenaeus]], [[cyprian]], and others.
+
+Contradiction Protocol: the East/West divide on inherited guilt recorded on [[original-sin]] and
+[[pelagian-controversy]] (Greek *rhopē*/mortality without shared *reatus* vs. Augustine's *massa
+damnata*) — not adjudicated. Lint run after the full ingest (per request, deferred to the end):
+clean for all new/edited pages (no new red links, no new orphans; 1811 total pages). Raw source
+relocated from `raw/` root to `raw/scholarship/Early Christian Doctrines (John N. D. Kelly)…txt`
+(Step 7); references updated on the source page.

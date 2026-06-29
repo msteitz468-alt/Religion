@@ -5,8 +5,8 @@ tradition: Christianity — heterodox / cross-tradition (elements in Jewish apoc
 textual_sources: [New Testament (selected), Nag Hammadi Library, OT (selected), Hermetic texts]
 periods_active: [1st–3rd centuries CE; surviving texts into 4th c. CE]
 roles_significance: [heterodox rival to proto-orthodox Christianity; major theological foil for patristic theology]
-sources_ingested: 3
-last_updated: 2026-06-07
+sources_ingested: 4
+last_updated: 2026-06-28
 tags: [group, christianity, second-century, heresy, gnosticism, egypt, syria, rome]
 ---
 
@@ -156,3 +156,14 @@ The use of "gnostic" as a general pejorative for anti-body, anti-world, esoteric
 - [[bauer-thesis|Bauer Thesis]] — gnostics at the centre of the heresy-before-orthodoxy debate
 - [[rule-of-faith|Rule of Faith]] — directly refutes gnostic cosmology and soteriology
 - [[nt-canon-formation|NT Canon Formation]] — gnostics used NT texts and produced their own; Heracleon wrote the first NT commentary
+
+## Separationist Christology ([[bart-ehrman|Ehrman]])
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) describes the
+typical Gnostic Christology as **separationist** (distinct from [[docetism|docetism]]): "a
+human Jesus who was temporarily inhabited by a divine being," the Christ entering at the baptism
+and departing before the crucifixion (a literal reading of "why have you forsaken me"). In the
+*Coptic Apocalypse of Peter* the "living Jesus" laughs above the cross while only the "clay
+vessel" is nailed; salvation comes through saving *gnosis*, not Christ's death. This is the third
+"Christological dead end" — affirming Christ's divinity and humanity but denying he was a single
+being. See [[docetism]], [[ortho-paradoxes]], [[bodily-resurrection]].

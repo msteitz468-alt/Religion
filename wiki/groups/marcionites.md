@@ -5,8 +5,8 @@ tradition: Christianity — Marcionite (heterodox)
 textual_sources: [Marcion's Evangelikon (edited Luke), Apostolikon (10 Pauline letters), Antitheses]
 periods_active: [c.144 CE–5th/6th century CE]
 roles_significance: [major heterodox rival to proto-orthodox Christianity; most geographically widespread heterodox movement of the 2nd century]
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [group, christianity, second-century, heresy, marcionites, dualism, anti-OT, docetism]
 ---
 
@@ -104,3 +104,14 @@ The anti-Marcionite response forced the church to develop a hermeneutic for read
 - [[nt-canon-formation|NT Canon Formation]] — Marcion's canon as evidence for a pre-existing larger corpus
 - [[ebionites|Ebionites]] — mirror image of Marcionites: law-observant and OT-affirming vs. law-rejecting and OT-rejecting
 - [[paul-apostle|Paul the Apostle]] — Marcion's selective and distorting use of Paul
+
+## Christology ([[bart-ehrman|Ehrman]])
+
+[[bart-ehrman|Ehrman]] ([[ehrman-how-jesus-became-god|*How Jesus Became God*]]) presents
+[[marcion|Marcion]]'s **two-God** theology (the just creator God of the Old Testament vs. the
+God of love revealed in Jesus — *not* Gnostic, since there are only two gods and the world is
+the creator's) and his **[[docetism|docetism]]**: because Christ belongs to the higher God and
+not to creation, he "descended from heaven in the appearance of a full-grown adult, as a kind
+of phantom … He didn't really suffer and he didn't really die. How could he? He didn't have a
+real body." Known chiefly through [[tertullian|Tertullian]]'s *Against Marcion*.
+See [[docetism]], [[demiurge]].

@@ -63,8 +63,22 @@ a strict [[negative-theology|negative theology]] (affirmative essential attribut
 inadmissible), whereas Aquinas holds that perfection-terms can be affirmed of God
 **analogically** and *substantially*, though imperfectly (see [[analogy]]).
 
+## Simplicity as a "Formal Feature" in Pro-Nicene Theology (Ayres)
+
+Lewis Ayres ([[nicaea-and-its-legacy|*Nicaea and Its Legacy*]], 2004) argues that **divine
+simplicity** functions in [[pro-nicene-theology|pro-Nicene theology]] not as a comprehensible
+description of God's being but as a **formal feature** (Ayres adopts Burrell's term): it governs
+"the manner in which… properties might be attributed to God." On this account "it is in
+pro-Nicene theology that we first see simplicity functioning in" this regulative way. It grounds
+[[opera-trinitatis|inseparable operation]] and the apophatic reserve about the divine essence
+(non-composite, "no parts," admitting "no degrees" of divinity), and — for [[augustine|Augustine]]
+in *De Trinitate* 5–7 — it secures the persons' unity *without* making the essence prior to them:
+"we do not find the unity by focusing on something different from the persons." See
+[[de-regnon-paradigm]].
+
 ## Related
 
+- [[pro-nicene-theology]] · [[opera-trinitatis]] · [[nicaea-and-its-legacy]] · [[de-regnon-paradigm]]
 - [[thomas-aquinas]] · [[summa-theologica]] · [[five-ways]] · [[analogy]] · [[divine-attributes]]
 - [[negative-theology]] — the apophatic method Aquinas shares and qualifies
 - [[boethius]] — *Hebdomads*, source of the participation/being-and-goodness framework

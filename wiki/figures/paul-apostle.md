@@ -5,8 +5,8 @@ tradition: Christianity
 textual_sources: [Acts, Romans, 1-2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1-2 Thessalonians, 1-2 Timothy, Titus, Philemon, 2 Peter]
 dates: c. AD 5 – c. AD 64/67
 roles: [apostle, missionary, theologian, martyr]
-sources_ingested: 2
-last_updated: 2026-06-06
+sources_ingested: 3
+last_updated: 2026-06-28
 tags: [figure, christianity, apostle]
 ---
 # Paul the Apostle
@@ -49,6 +49,7 @@ Virtually all Christian theology is an extended commentary on Pauline thought. C
 - **Bock (Acts)**: Paul as the instrument of the risen Lord; his story shows how God works through human agents to fulfill the promise to Abraham and bring light to the Gentiles. Miracles and protection undergird his authority.
 - **Yarbrough** (Pastoral Epistles, cross-referenced in broader NT): Paul's self-understanding as servant and apostle — suffering and humiliation as part of the commission. Strong defense of the historicity of the miraculous as foundational to authority and the transmission of revelation to delegates like Timothy and Titus.
 - **Hurtado** (*Destroyer of the Gods*): Paul's letters are the earliest documentary evidence for the full [[dyadic-devotion|dyadic devotion]] pattern. In 1 Corinthians 8:4-6, Paul reformulates the [[shema|Shema]] to include Jesus as the "one Lord" alongside God as the "one Father" — the most concentrated single text for the new devotional pattern. In Philippians 2:9-11, he applies the language of Isaiah 45:23 (every knee bowing to YHWH) directly to Jesus. In Romans 10:9-13, calling on the name of the Lord (= Jesus) is salvation. These texts, written c. AD 50-55 but reflecting practices and confessions from the very beginnings of the movement (Paul had been in the Jesus-movement since c. 32-34 AD), are Hurtado's primary literary evidence that high Christology is *original*, not a late development.
+- **[[bart-ehrman|Ehrman]]** (*[[ehrman-how-jesus-became-god|How Jesus Became God]]*): reads Paul as the earliest witness whose Christology is already an **[[incarnation|incarnation]]** Christology — "higher" than the Synoptics despite being earlier — because Paul understood Christ as a pre-existent **angel** who became human ([[angel-of-the-lord|Angel of the Lord]]; Gal 4:14 *equating* Christ with an angel; 1 Cor 10:4 "the rock was Christ"; 1 Cor 15:47 "the second man is from heaven"; possibly Rom 9:5 calling Jesus "God"). The **Philippians 2:6–11 "Christ Poem"** (pre-Pauline) is a *transitional* Christology: a pre-existent divine being not yet *equal* with God, who after obedience unto death is **[[exaltation-christology|exalted]]** to that equality and given the divine name [[kyrios|Lord]] (alluding to Isa 45:23). Paul also quotes the older **resurrection-exaltation creed** of Rom 1:3–4. For visions as the ground of Paul's own faith, see [[resurrection-appearances-visions]]. (Ehrman's developmental account contrasts with Hurtado's "high Christology was original"; both recorded without adjudication — cf. [[kyrios-christology-origins]].)
 
 ## Key Links
 
