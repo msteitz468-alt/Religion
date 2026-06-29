@@ -107,3 +107,18 @@ DECLINED = user decided not to pursue
 **Suggested improvement:** Reword Step 7 to "`git mv` if the file is tracked, otherwise `mv`" (or "move the file — `git mv` when tracked"). Same applies to the OCR replacement rule. Prevents a failed first attempt every ingest where the raw file was never committed.
 
 **Principle:** Workflow instructions that hard-code a VCS-aware command should state the plain-filesystem fallback, since source assets are often untracked. Match the command to the file's actual tracking state rather than assuming it.
+
+### Observation 8: Codifying a manually-applied standard into the workflow doc
+
+**Date:** 2026-06-28
+**Session context:** User had previously asked for texts and concepts to be bilaterally cross-linked (done manually). This session: user asked to "encode that standard into the CLAUDE.md workflow."
+
+**Skill:** Project ingest/lint workflow (CLAUDE.md)
+**Type:** internal
+**Phase/Area:** Naming and Linking Conventions + Lint Workflow
+
+**Issue:** A standard was first applied as a one-off manual task (bilateral text↔concept cross-linking), then later the user wanted it promoted to a durable rule in CLAUDE.md. The promotion required two coordinated edits: stating the rule in the conventions section AND adding a matching enforcement check to the Lint Workflow, so the rule is verified rather than aspirational. The general reciprocity principle (text↔commentator, figure↔group, sect↔group) was already latent in the doc but uncodified.
+
+**Suggested improvement:** When the user asks to "encode/standardize" something that was just done manually, default to (a) writing the rule in the relevant convention section AND (b) adding a corresponding check to the Lint/verification workflow — a rule without an enforcement hook tends to be ignored during creative flow (the skill's own Pre-Flight Principle). Also scan whether the specific request (texts↔concepts) is an instance of a more general latent pattern (reciprocal linking) worth generalizing.
+
+**Principle:** "Codify what we just did" requests recur in long-lived wiki/knowledge-base projects. The reliable encoding is rule + enforcement check, not rule alone; and a narrowly-phrased request is often an instance of a broader principle the doc should state generally.

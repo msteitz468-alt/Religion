@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/beatific-vision.md",
+                "file": "wiki/texts/city-of-god.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "beatific-vision"
+              "title": "city-of-god"
             }
           }
         ]
@@ -185,20 +185,22 @@
   },
   "active": "df6fdff1ca36224d",
   "lastOpenFiles": [
-    "wiki/scholarship/sed2nIHdM",
+    "raw/Early Christian Doctrines (John N. D. Kelly) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+    "raw/How Jesus Became God The Exaltation of a Jewish Preacher From Galilee (Bart D. Ehrman) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+    "raw/Mithraism Freemasonry and the ancient mysteries (H. L. Haywood) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+    "raw/Mithraism in Ostia mystery religion and Christianity in the ancient port of Rome (Laeuchli, Samuel, Groh, Dennis) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+    "raw/Nicaea and Its Legacy An Approach to Fourth-Century Trinitarian Theology (Lewis Ayres) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+    "raw/The Christian Tradition A History of the Development of Doctrine, Vol. 2 The Spirit of Eastern Christendom (600-1700) (Volume… (Jaroslav Pelikan) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+    "raw/The Christian Tradition A History of the Development of Doctrine, Vol. 3 The Growth of Medieval Theology (600-1300) (Volume… (Jaroslav Pelikan) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+    "raw/The Christian Tradition A History of the Development of Doctrine, Vol. 4 Reformation of Church and Dogma (1300-1700) (Volume… (Jaroslav Pelikan) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+    "raw/The Christians as the Romans Saw Them (Robert Louis Wilken) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+    "CLAUDE.md.tmp.104652.76d5a0d0fa8d",
+    "CLAUDE.md.tmp.104652.78eb5bc3a3bd",
+    "wiki/texts/1-clement.md",
+    "wiki/concepts/beatific-vision.md",
     "raw/scholarship/Dionysius the Areopagite: On the Divine Names and the Mystical Theology.md",
-    "wiki/log.md.tmp.60926.f46fba10c666",
-    "wiki/index.md.tmp.60926.42a4c265c3d6",
-    "wiki/index.md.tmp.60926.38a86f519cfe",
-    "wiki/index.md.tmp.60926.58ff8959282e",
-    "wiki/concepts/evil-as-privation.md.tmp.60926.b2c539f35942",
-    "wiki/concepts/evil-as-privation.md.tmp.60926.8177eaf41f0d",
-    "wiki/concepts/emanation.md.tmp.60926.e7307cbcb4c6",
     "wiki/controversies/dionysius-christian-or-neoplatonist.md",
-    "wiki/controversies/dionysius-christian-or-neoplatonist.md.tmp.60926.f0916a213339",
-    "raw/texts/Dionysius the Areopagite Collection [4 Books] (Dionysius the Areopagite) (z-library.sk, 1lib.sk, z-lib.sk).txt",
     "wiki/commentators/john-scotus-eriugena.md",
-    "wiki/commentators/john-scotus-eriugena.md.tmp.60926.cd6ef5929cb2",
     "wiki/scholarship/rolt-dionysius.md",
     "raw/scholarship/Dionysius the Areopagite: Mysticism Theology and Letters.md",
     "wiki/controversies/tritheist-controversy.md",
@@ -218,8 +220,6 @@
     "wiki/scholarship/sharpe-mysticism.md",
     "wiki/controversies/rich-man-renunciation.md",
     "wiki/controversies/chalcedonian-definition.md",
-    "wiki/concepts/double-homoousion.md",
-    "wiki/commentators/nestorius.md",
-    "wiki/commentators/theodoret-of-cyrus.md"
+    "wiki/concepts/double-homoousion.md"
   ]
 }

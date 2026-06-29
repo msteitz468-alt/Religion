@@ -609,6 +609,9 @@ When I ask for a wiki health check, identify:
 - Text pages missing `canon_scope`, or whose `canon_scope` omits a community known to canonize/
   dispute/reject the text.
 - Concepts used repeatedly without a concept page.
+- **One-directional links that should be reciprocal** (per the bilateral cross-linking rule):
+  text→concept without the concept→text back-link (or vice versa), and the analogous
+  text↔commentator / figure↔group / sect↔group asymmetries. Flag the missing back-link.
 - Controversies described inline that should be promoted to a `controversies/` page.
 - Claims superseded by newer sources — flag for review, do not silently overwrite.
 - **Ledger gaps**: source pages lacking a coverage ledger, or whose ledger marks the *declared
@@ -638,6 +641,14 @@ When I ask for a wiki health check, identify:
 - **`canon_scope` entries are page slugs**: each item in a `canon_scope` bucket (and a sect's
   `canon_distinctives`) is the kebab-case slug of a tradition/sect page (`latter-day-saints`,
   `sethian-gnosticism`, `proto-orthodox-christianity`).
+- **Bilateral cross-linking (reciprocity required)**: a wiki link should point both ways. When
+  one page links another, the target page must link back wherever the relationship is
+  substantive. In particular, **text ↔ concept links are bidirectional**: if a text page names a
+  concept it develops/contests, the concept page must list that text under its key text-concept
+  connections, and vice versa. The same reciprocity applies to text↔commentator, figure↔group,
+  and sect↔group (the already-required `groups/`↔`sects/` cross-link) pairings. A one-directional
+  link is a defect to be closed, not left dangling — add the back-link when you create the
+  forward one.
 - Manuscript sigla, critical apparatus, and original-language terms appear in the body, not in
   file names.
 - Original-language terms: transliterate consistently (one system per language, documented in
