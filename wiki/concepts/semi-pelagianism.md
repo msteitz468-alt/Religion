@@ -23,7 +23,11 @@ Monks at Hadrumetum and in South Gaul protested that Augustine's [[predestinatio
 
 Semi-Pelagianism was worn down by Augustine's growing authority. The **Council of Orange (529)** affirmed a moderated Augustinianism: death and sin pass to all Adam's descendants; the will is so weakened it cannot even believe without prevenient grace; "in every good action the first impulse comes from God"; yet "predestination to evil is to be anathematized." Augustine's harsher theses (irresistible grace, double predestination) were quietly dropped.
 
+## Pelikan: Not Pelagianism by Halves
+
+[[pelikan-emergence-catholic-tradition|Pelikan]] (Vol. I, ch. 6) corrects the stereotype: the label "Semi-Pelagian" is a sixteenth-century coinage ("even less useful than most such designations"); in the fifth century Prosper's party called the view "the remnants of the Pelagian heresy." But for **John Cassian**, grace had "its full Augustinian meaning, an interior working of God within the soul," **not** the mere external law/preaching that grace meant for [[pelagius|Pelagius]]. Cassian's real move was the **diversity of divine operation**: sometimes grace wholly precedes the will (Paul, Matthew), sometimes the will makes the first step (Zacchaeus, the thief) — "to each according to his capacity." Faustus of Riez held there are "seeds of goodness… implanted by the Creator," yet insisted "the Author of nature is the same as the Author of grace." The settlement came at the **Council of Orange (529)**, drafted by Caesarius of Arles from Prosper of Aquitaine's dossier of Augustine: it vindicated "essential Augustinism" (grace gratuitous, the Spirit always initiating faith) while **anathematizing predestination to evil** — Augustinism shorn of double predestination. Pelikan: Western theology since is "a series of footnotes to Augustine."
+
 ## Cross-links
-- [[grace]] · [[predestination]] · [[freedom]] · [[original-sin]] · [[pelagian-controversy]]
-- [[augustine]] · [[pelagius]]
-- [[kelly-early-christian-doctrines|Kelly, Early Christian Doctrines]] — source
+- [[grace]] · [[predestination]] · [[freedom]] · [[original-sin]] · [[pelagian-controversy]] · [[donum-superadditum]]
+- [[augustine]] · [[pelagius]] · [[vincent-of-lerins]]
+- [[kelly-early-christian-doctrines|Kelly, Early Christian Doctrines]] · [[pelikan-emergence-catholic-tradition|Pelikan, Emergence of the Catholic Tradition]] — sources

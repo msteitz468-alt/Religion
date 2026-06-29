@@ -84,6 +84,11 @@ recorded here without adjudication:
 - [[augustine]] — the anti-Pelagian doctrine of grace Aquinas develops
 - [[original-sin]] — the corruption that *gratia sanans* heals
 
+## Pelikan: The Paradox of Grace (Augustine)
+
+[[pelikan-emergence-catholic-tradition|Pelikan]] (Vol. I, ch. 6) frames [[augustine|Augustine's]] achievement as holding together a **three-fold "paradox of grace"** that his successors tended to split apart — grace as **sovereign** (issuing in [[predestination]]), as **necessary** (against [[pelagius|Pelagius]]'s naturalism), and as **mediated** (through the church's sacraments, [[ex-opere-operato|*ex opere operato*]]). Each aspect, pressed alone, generated a separate controversy: the predestinarian, the Pelagian, and the [[donatism|Donatist]]. Augustine's chain: "by the law is the knowledge of sin, by faith the acquisition of grace… by grace the healing of the soul… by free will the love of righteousness… the accomplishment of the law." Grace is **prevenient** — "most clearly seen in the baptism of infants, who in receiving grace had no will, no preceding merit; for if they had, grace would no longer be grace" — and "unless grace is *gratis*, it is not grace." The [[semi-pelagianism|Semi-Pelagian]] settlement at the Council of Orange (529) ratified grace as "sovereign, necessary, and mediated — but none of these without the others," while anathematizing predestination to evil. Western theology since has, in Pelikan's phrase, oscillated as "a series of footnotes to Augustine." See also the [[donum-superadditum|natural endowment / superadded gift]] distinction.
+
 ## Sources Ingested
 
 - [[summa-theologica]] I-II, Q109–114 (read in full as part of Prima Secundae Scope 5).
+- [[pelikan-emergence-catholic-tradition|Pelikan, *Emergence of the Catholic Tradition*]], ch. 6 — the paradox of grace.

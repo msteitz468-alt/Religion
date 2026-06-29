@@ -110,7 +110,12 @@ direct Athanasian influence on the [[cappadocian-fathers|Cappadocians]] "is diff
 - [[arianism]] · [[alexandria]] · [[gnosticism]] · [[trinity]]
 - [[jesus|Jesus Christ]]
 
+## Pelikan: Deity Argued from Salvation and Worship
+
+[[pelikan-emergence-catholic-tradition|Pelikan]] (Vol. I, ch. 4) stresses that Athanasius's case for the Son's full deity was primarily **soteriological and liturgical**, not metaphysical — indeed he "made very little use of the doctrine of the Trinity in presenting his defense of the deity of the Son." Two arguments dominate: (1) **only the Creator can save and [[apotheosis-divinization|deify]]** — "God the Logos became man in order that men might become God," which requires the Logos to be "their framer himself," not a fellow creature; (2) **the church's worship of Christ** proves "his essential difference from all creatures." He extended the same logic to the Holy Spirit: "how can he deify me by baptism?" if the Spirit is a creature — the [[lex-orandi-lex-credendi|worship-grounds-doctrine]] argument. His fullest Trinitarian statement was "evoked from him in the course of arguing for the deity of the Holy Spirit."
+
 ## Sources Ingested
 
 - [[on-the-incarnation]] (*De Incarnatione Verbi Dei*), §§1–57 + C. S. Lewis introduction — read in
   full.
+- [[pelikan-emergence-catholic-tradition|Pelikan, *Emergence of the Catholic Tradition*]], ch. 4.

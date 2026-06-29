@@ -139,6 +139,8 @@ The Christian adoption of the codex (book format, not roll) from the very beginn
 - [[shepherd-of-hermas|Shepherd of Hermas]] — widely cited as scripture; Codex Sinaiticus; ultimately excluded
 - [[didache|The Didache]] — known to Clement/Origen/Athanasius but excluded; three uses of "the gospel" without citing a written text
 - [[marcion|Marcion of Sinope]] — reduced a pre-existing canon; did not create the canon question
+- [[pelikan-emergence-catholic-tradition|Pelikan, *Emergence of the Catholic Tradition*]] — "canonicity and apostolicity became almost synonymous"; against Harnack, "Marcion's canon was his answer to the Old Testament," not the origin of the catholic canon; the canon as one of the [[criteria-of-apostolic-continuity|criteria of apostolic continuity]]
+- [[criteria-of-apostolic-continuity|Criteria of Apostolic Continuity]] — canon alongside creed and episcopate
 - [[rule-of-faith|Rule of Faith]] — parallel doctrinal standard; mutually reinforcing with the canon
 - [[nomina-sacra|Nomina Sacra]] — scribal markers on NT manuscripts
 - [[bauer-thesis|Bauer Thesis]] — the canon as independent evidence against Bauer's dominance claim

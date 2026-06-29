@@ -20,6 +20,10 @@ tags: [concept, christianity, patristics, christology, mariology, fifth-century]
 
 The dispute is fundamentally Christological, not (in this period) primarily Marian: the title is a test of the unity of the divine and human in the one Christ. See [[hypostatic-union]], [[communicatio-idiomatum]].
 
+## Pelikan: A Christological Test Rooted in Devotion
+
+[[pelikan-emergence-catholic-tradition|Pelikan]] (Vol. I, ch. 5) underscores that *Theotokos* was "a way of speaking about Christ at least as much as a way of speaking about Mary": for the heirs of [[athanasius|Athanasius]] it was "an apt formula" for the [[communicatio-idiomatum|communication of properties]], such that neither birth nor crucifixion nor salvation could be attributed to one nature without the other. Crucially, its origin lay **not in polemics or speculation but in devotion** — probably an early Greek form of the Marian hymn *Sub tuum praesidium* — so that "here, too, theology had to come to terms with liturgy" (a prime case of [[lex-orandi-lex-credendi|*lex orandi, lex credendi*]]). Its liturgical entrenchment was so firm that even [[julian-the-apostate|Julian]] taunted Christians, "Why do you incessantly call Mary Theotokos?", and [[nestorius|Nestorius]] ultimately had to make peace with a title whose place in worship "was so firmly established as to be unassailable."
+
 ## Cross-links
 - [[mary]] · [[incarnation]] · [[hypostatic-union]] · [[communicatio-idiomatum]] · [[chalcedonian-definition]]
 - [[nestorius]] · [[cyril-of-alexandria]] · [[nestorianism]] · [[logos-sarx-logos-anthropos]]

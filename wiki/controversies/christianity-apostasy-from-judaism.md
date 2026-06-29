@@ -103,3 +103,9 @@ The question was live and acute for Christian apologists. Justin Martyr appealed
 - [[christians|Christians]] — the group targeted by the critique
 - [[jesus-of-nazareth|Jesus of Nazareth]] — the figure whose Jewishness and non-observance complicated Christian claims
 - [[origen|Origen]] — chief Christian respondent to Celsus's version
+
+## Pelikan: The Christian Appropriation of Israel (the "True Israel")
+
+[[pelikan-emergence-catholic-tradition|Pelikan]] (Vol. I, ch. 1) treats the *internal* counterpart to the pagan charge: how the church claimed to be **the True Israel**. He calls the shift from a Jewish to a Gentile church the event with "the most far-reaching of consequences for the entire development of Christian doctrine," and frames the struggle over the Old Testament's authority as "the earliest form of the quest for a tradition that has, in other forms, recurred throughout Christian history" — the template, he argues, for every later dispute over tradition (Athanasius vs. heretics, East vs. West, Reformers vs. Rome). Christianity's victory over Judaism came "largely by default… not the superior force of Christian exegesis… but the movement of Jewish history" after 70 CE. Pelikan tracks a paradoxical **"de-Judaization"** of doctrine (e.g. divine [[divine-impassibility|immutability]] turned from covenant faithfulness into a metaphysical axiom) alongside a later **"re-Judaization"** of vocabulary (priesthood, sacrifice, Levitical imagery) once Jews were no longer live interlocutors. The tools of appropriation were [[typology|typology]] and [[allegorical-reading|allegory]] ("the writings of Moses are the words of Christ"); the reliable index of a theologian's view of Judaism, he notes, is "the exegesis of Romans 9–11."
+
+- [[pelikan-emergence-catholic-tradition|Pelikan, The Emergence of the Catholic Tradition]] · [[typology]] · [[allegorical-reading]] · [[spoils-of-egypt]]

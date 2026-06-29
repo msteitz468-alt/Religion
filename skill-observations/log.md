@@ -178,3 +178,48 @@ DECLINED = user decided not to pursue
 **Suggested improvement:** In the Deployed Subagent Strategy, add an explicit rule to the subagent page-creation prompt: "Line/page loci are for your NOTES file and your own verification ONLY. In any finished wiki page you author, cite only real source references (work titles, book/section/letter numbers, e.g. *C. Eun.* 1.20; Ep. 234) — NEVER raw book-line or cache-line numbers (l.NNN, cache l.NNN, ~NNNN, lines NNN–NNN)." Optionally add a main-thread Step-4 grep gate: `grep -nE 'cache|\bl\.[0-9]|\(~[0-9]|lines? ~?[0-9]+[–-]' <new pages>` must return empty before bookkeeping.
 
 **Principle:** When a workflow asks subagents to *ground* their extraction with internal source coordinates, those coordinates leak into deliverables unless the prompt explicitly separates "evidence I record for verification" from "citations that belong in the finished artifact." Make the boundary explicit in the prompt and enforce it with a cheap mechanical check, rather than relying on a post-hoc strip that can corrupt adjacent real content.
+
+### Observation 13: Subagent extraction blocked by content filter — a recovery case beyond rate limits
+
+**Status:** OPEN
+**Date:** 2026-06-28
+**Session context:** Ingesting two sources on Mithraism/Freemasonry. Deployed 3 background Sonnet extraction agents over disjoint line-ranges of *Mithraism in Ostia*. The agent assigned the "Christ and Mithra" chapter (a Christianity-vs-Mithras religious comparison) returned `API Error: Output blocked by content filtering policy` and wrote no notes file; the other two succeeded normally.
+**Skill:** Religion-wiki CLAUDE.md "Deployed Subagent Strategy" (Step 3 recovery clause)
+**Type:** internal
+**Phase/Area:** Ingest workflow — subagent failure recovery
+
+**Issue:** CLAUDE.md Step 3 only anticipates *rate-limit* (429) subagent failures: "If a subagent fails (e.g. 429), the main thread recovers that range alone." This session surfaced a second failure mode — a **content-filter block** on benign comparative-religion/heresy material — with the same correct response: the main thread read the range from the pre-cut cache file and integrated it directly (labeled as main-thread recovery). The recovery worked smoothly precisely because per-range cache files had already been cut, so no re-read of the big source was needed.
+
+**Suggested improvement:** Generalize the Step 3 recovery clause from "(e.g. 429)" to "any subagent failure — rate limit, content-filter block, or crash." Add a one-line note that pre-cutting per-range cache files (already recommended) is what makes content-filter recovery cheap, since the main thread can re-read the exact slice. Comparative-religion ingests (Christianity vs. mystery cults, heresiology, polemic) are an elevated-risk category for filter blocks.
+
+**Principle:** When a workflow delegates bounded chunks to subagents, the recovery design should key off "a chunk didn't come back" rather than off any specific cause. Naming only one failure mode (rate limits) invites hesitation when a different one occurs. Pre-staged inputs (cache files) turn any single-chunk failure into a cheap main-thread recovery.
+
+### Observation 14: Re-ingested an already-ingested source because Step-1 scaffolding didn't check for an existing source page
+
+**Status:** OPEN
+**Date:** 2026-06-28
+**Session context:** Asked to ingest Pelikan, *The Christian Tradition* Vol. 1. I scaffolded by checking related patristics pages (commentators, concepts) to "file lean," then created a source page (`pelikan-christian-tradition-vol1`), deployed extraction agents over Chapter 1, and began filing — before discovering that an **earlier session had already ingested Chapters 1–2 in full** under a different slug (`pelikan-emergence-catholic-tradition`, 12 inbound links, with concept pages already built). I had created a duplicate source page and re-extracted Chapter 1 wastefully.
+
+**Skill:** Religion-wiki CLAUDE.md — Ingest Workflow, Step 1 ("Scaffold first") / Deployed Subagent Strategy
+**Type:** internal
+**Phase/Area:** Ingest scaffolding — pre-flight existence check
+
+**Issue:** Step 1 says to "create or name the key linkable pages" and survey related pages, but it does not include an explicit **"does a source page for THIS source already exist?"** check. Surveying *topic* pages (commentators/concepts) is not the same as searching for the *source's own* page — the duplicate had a non-obvious slug (`...-emergence-catholic-tradition` vs. the title-literal `...-christian-tradition-vol1`), so a topic survey missed it. The tell was only caught when an existing concept page (`divine-impassibility`) was found already citing Pelikan under the other slug.
+
+**Suggested improvement:** Add to Step 1 a mandatory pre-flight: before scaffolding a new source page, grep the wiki for the **author surname and distinctive title words** (e.g. `grep -ril "pelikan" wiki/scholarship/`) and for any page already citing the source, to detect an existing source page (possibly under a different slug) and an in-progress coverage ledger. If found, resume that ledger instead of creating a new page. This is especially important because multiple sessions (sometimes same-day/parallel) work the same wiki.
+
+**Principle:** "File lean" requires checking for the *source's own* prior footprint, not just related topic pages. In a multi-session knowledge base, the first scaffolding action for any ingest should be an existence check keyed on author+title, because duplicate-detection by slug-guessing fails when naming conventions vary between sessions. Cheap grep up front prevents wasted parallel extraction.
+
+### Observation 15: Verify the body/back-matter boundary before assigning the final scope's line-ranges
+
+**Date:** 2026-06-28
+**Session context:** Ingesting Pelikan, *The Christian Tradition* Vol. I (PDF→text), 7-scope plan by chapter.
+**Skill:** Religion wiki ingest workflow (Deployed Subagent Strategy)
+**Type:** internal
+**Phase/Area:** Step 2 (split scope by line-ranges)
+
+**Issue:** For the final chapter I set the scope end from a grep that found the "INDEX" marker at line ~26781 and assumed the chapter body ran to there. In fact the bibliography began ~24313 and the index ~25231; the true chapter body ended ~24700. The second of two subagents was handed lines 24700–26780, which were entirely bibliography + index — it returned "no extractable prose," wasting the agent. The first agent (22644–24700) happened to cover the whole real chapter.
+
+**Suggested improvement:** Before partitioning the LAST scope of a book, locate not just the index but the **start of the back matter** (bibliography / "Selected Secondary Works" / notes / "INDEX") and set the body-end to the first of those. A quick `grep -nE "bibliograph|selected (secondary|works)|^notes|^index"` over the tail, then read a few lines around the hit to confirm prose vs. apparatus.
+
+**Principle:** A book's "end" for ingest is where the *argument* ends, not where the file ends. Back matter (bibliography, index, appendices) is often 10–15% of an OCR/extracted text; mis-estimating the body-end wastes a whole subagent on apparatus. Verify the prose/apparatus boundary, don't infer it from the index marker alone.

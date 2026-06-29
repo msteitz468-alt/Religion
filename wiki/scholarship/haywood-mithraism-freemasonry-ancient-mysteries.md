@@ -13,7 +13,7 @@ tags: [scholarship, mithraism, freemasonry, mystery-cult, masonic]
 
 > **Source page.** A short **Masonic essay** by Brother H. L. Haywood examining the popular
 > thesis that modern Freemasonry descends from the ancient Mystery cults, using **Mithraism**
-> as the representative test case. Source: `raw/Mithraism Freemasonry and the ancient mysteries (H. L. Haywood) (z-library.sk, 1lib.sk, z-lib.sk).txt`
+> as the representative test case. Source: `raw/scholarship/Mithraism Freemasonry and the ancient mysteries (H. L. Haywood) (z-library.sk, 1lib.sk, z-lib.sk).txt`
 
 ## Overview
 

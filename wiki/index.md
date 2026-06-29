@@ -971,6 +971,7 @@ Master index of all pages. Updated on every ingest.
 - [[rodney-stark|Rodney Stark]] (b. 1934) — University of Washington / Baylor; *The Rise of Christianity* (Princeton, 1996). Sociological account of early Christian growth 40–300 CE: 40%/decade growth model; Lofland-Stark network conversion model; Jewish mission as success (not failure); epidemic nursing and differential mortality; sex ratio / fertility advantage; 22-city quantitative analysis (67% of variance explained by synagogues + Romanization); Gnosticism as Christian heresy (statistical); Antioch as urban chaos case study (Ch. 7); martyrdom as rational choice (Iannaccone model); religious economy framework (exclusive vs. nonexclusive firms). See also [[stark-rise-of-christianity|source summary]] in scholarship/.
 - [[kurt-rudolph|Kurt Rudolph]] (1929–2020) — German historian of religion; *Gnosis: The Nature and History of Gnosticism* (German 1977/1980; English 1987, ed. R. McL. Wilson). Foundational phenomenological + historical synthesis treating Gnosis as a coherent late-antique religion (*spätantike Religion*) with structured mythology (Pleroma of aeons, Sophia fall, Demiurge as inferior creator often = OT God, gnosis as saving knowledge and ascent, community/cult/ethics); detailed on Nag Hammadi as revolutionary primary sources; early schools, 2nd-c. "great systems" (esp. Valentinianism), Manichaeism as developed form, Mandaeans as living relic. Complements and challenges patristic/heresiological and sociological framings (Kruger, Stark, Wolfson) by centering Gnostic self-understanding and multi-root syncretism (Jewish apocalyptic, Hellenistic, Iranian, Christian elements). See [[rudolph-gnosis-the-nature-and-history-of-gnosticism|source summary]] in scholarship/; primary beneficiary pages: [[gnostics|Gnostics]], [[valentinus|Valentinus]], new concepts (gnosis, demiurge, pleroma, sophia-gnostic), [[nag-hammadi-library|Nag Hammadi Library]].
 - [[kelly-early-christian-doctrines|J. N. D. Kelly, *Early Christian Doctrines*]] (Black, 1958; 4th ed. 1968) — standard one-volume survey of doctrinal development from the sub-apostolic age to Chalcedon, treated thematically. Four-scope plan (one per Part); **all four scopes (Parts I–IV, chs. I–XVII) read in full 2026-06-28**. Background and much doctrinal detail filed lean onto existing pages; the ingest generated ~33 new pages, including concepts [[apostolic-succession]], [[consensus-patrum]], [[inspiration-of-scripture]], [[theoria]], [[monarchianism]], [[patripassianism]], [[subordinationism]], [[oikonomia]], [[spirit-christology]], [[recapitulation]], [[homoousion]], [[theotokos]], [[logos-sarx-logos-anthropos]], [[semi-pelagianism]], [[confirmation]], [[traducianism]], [[apokatastasis]], [[neoplatonism]]; figures/commentators [[vincent-of-lerins]], [[diodore-of-tarsus]], [[theodore-of-mopsuestia]], [[john-chrysostom]], [[hippolytus]], [[novatian]], [[sabellius]], [[paul-of-samosata]], [[methodius]], [[pelagius]], [[leo-the-great]], [[eutyches]], [[cyril-of-jerusalem]], [[optatus]], [[hilary-of-poitiers]], [[marcellus-of-ancyra]], [[marius-victorinus]]; controversy [[pelagian-controversy]]; and sects [[nestorianism]], [[novatianism]]. Major hubs extended: [[rule-of-faith]], [[typology]], [[allegorical-reading]], [[nt-canon-formation]], [[arian-controversy]], [[original-sin]], [[chalcedonian-definition]], [[irenaeus]], [[tertullian]]. Key theses: Scripture and tradition "coincident in content" (vs. [[bauer-thesis]]); the East/West divide on [[original-sin|original sin]] (Contradiction Protocol). See [[kelly-early-christian-doctrines|source summary]] in scholarship/.
+- [[pelikan-emergence-catholic-tradition|Jaroslav Pelikan, *The Christian Tradition* Vol. I: *The Emergence of the Catholic Tradition (100–600)*]] (1971) — the standard modern history of doctrine; "doctrine is what the church believes, teaches, and confesses." Same period as Kelly but developmental/thematic. **Vol. I (chs. 1–7) read in full 2026-06-28.** Method/author hubs: [[jaroslav-pelikan|Jaroslav Pelikan]], [[development-of-doctrine|Development of Doctrine]] (the believing–teaching–confessing triad; hellenization vs. dehellenization), [[praeparatio-evangelica|Praeparatio Evangelica]] (the threefold preparation schema). New concept/figure pages: [[hellenization-of-christianity]], [[divine-impassibility]], [[criteria-of-apostolic-continuity]], [[christus-victor]], [[descent-into-hell]], [[lex-orandi-lex-credendi]], [[theopaschism]], [[neo-chalcedonianism]], [[justinian]], [[ex-opere-operato]], [[donum-superadditum]], [[gregory-the-great]], [[tatian]], [[theophilus-of-antioch]], [[athenagoras]]; extended [[christianity-apostasy-from-judaism]], [[eusebius-of-caesarea]], [[athanasius]], [[chalcedonian-definition]], [[theotokos]], [[original-sin]], [[grace]], [[atonement]]. Filed lean as an extension of the Kelly/Ayres patristic pages. See [[pelikan-emergence-catholic-tradition|source summary]] in scholarship/.
 
 ### Scholarship (Reformation / Reformed Tradition)
 - [[barth-church-dogmatics-i1|Karl Barth, *Church Dogmatics* I.1, §§1–7]] — Prolegomena: the Word of God as criterion of dogmatics; task of dogmatics; prolegomena; church proclamation; threefold Word; nature and knowability of the Word; dogma and dogmatics. Read in full 2026-06-27. Grounds [[dogmatics]], [[analogia-fidei]], [[analogia-entis]], [[church-proclamation]], [[threefold-word-of-god]], [[knowability-of-the-word-of-god]], [[dogma-barth]], [[dogmatics-as-science]], [[word-of-god]] concept pages; creates [[natural-theology]] and [[scripture-church-normativity-in-dogmatics]] controversy pages; extends [[karl-barth]] commentator page.
@@ -2153,3 +2154,30 @@ a `sects/` page, cross-linked.)*
 
 ### Extended
 - Figures [[jesus-of-nazareth]], [[paul-apostle]], [[john-the-baptist]], [[enoch]], [[moses]], [[philo-of-alexandria]], [[tertullian]]; concepts [[incarnation]], [[logos-christology]], [[bodily-resurrection]], [[trinity]]; groups [[ebionites]], [[marcionites]], [[gnostics]], [[romans]]; commentators [[justin-martyr]], [[origen]]; [[guilt-for-christs-death]]; [[roman-religion]]
+
+## Mithraism, Freemasonry & the Ancient Mysteries — Added 2026-06-28 (3 Sonnet extraction passes + main-thread recovery/integration)
+
+### Scholarship
+- [[laeuchli-groh-mithraism-in-ostia|Laeuchli & Groh (eds.), *Mithraism in Ostia* (1967)]] — team archaeology + theology of the fourteen Ostian mithraea; read in full
+- [[haywood-mithraism-freemasonry-ancient-mysteries|Haywood, *Mithraism: Freemasonry and the Ancient Mysteries*]] — popular Masonic essay on the descent thesis; read in full
+
+### Sects (expanded)
+- [[mithraism|Mithraism (the Mysteries of Mithras)]] — stub upgraded to full sect page (grades, tauroctony, liturgy, dualism, Christian comparison)
+
+### Figures
+- [[mithras|Mithras]] — Iranian Mithra → Roman sun-god and bull-slayer
+
+### Locations
+- [[ostia|Ostia]] — the port of Rome; primary archaeological window onto Roman Mithraism
+
+### Concepts
+- [[mithraic-dualism|Mithraic Dualism]] — Laeuchli's "social rather than metaphysical" dualism
+- [[taurobolium|Taurobolium]] — the bull's-blood baptism (properly Magna Mater's, often mis-assigned to Mithras)
+- [[mystery-cults|Mystery Cults]] — extended with the "Roman condition" framing and the Mysteries' esoteric afterlife
+
+### Groups
+- [[freemasons|Freemasons]] — lean home page for the Masonic Fraternity
+
+### Controversies
+- [[christianity-mithraism-parallels|Christianity and Mithraism: Parallels, Dependence, or Common Soil?]]
+- [[freemasonry-ancient-mysteries-descent|Does Freemasonry Descend from the Ancient Mystery Cults?]]

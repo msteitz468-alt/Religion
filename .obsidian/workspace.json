@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d778cfa281d980f2",
+        "id": "2bf4ed83babaee4a",
         "type": "tabs",
         "children": [
           {
-            "id": "df6fdff1ca36224d",
+            "id": "67f94aa523da6650",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/texts/city-of-god.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "city-of-god"
+              "title": "New tab"
             }
           }
         ]
@@ -183,43 +179,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "df6fdff1ca36224d",
+  "active": "0b7ac057f05bcb66",
   "lastOpenFiles": [
-    "wiki/controversies/christianity-mithraism-parallels.md",
-    "wiki/controversies/christianity-mithraism-parallels.md.tmp.126599.8a254ca55169",
-    "CLAUDE.md.tmp.109833.7123492bd749",
-    "CLAUDE.md.tmp.109833.1a78d2833b00",
-    "wiki/concepts/mithraic-dualism.md",
-    "wiki/concepts/mithraic-dualism.md.tmp.126599.22a42aa85caa",
-    "wiki/concepts/mystery-cults.md.tmp.126599.024ad357d262",
-    "wiki/concepts/mystery-cults.md.tmp.126599.817c490c99cc",
-    "wiki/locations/ostia.md",
-    "wiki/locations/ostia.md.tmp.126599.7990cf241b47",
-    "wiki/figures/mithras.md",
-    "wiki/figures/mithras.md.tmp.126599.98889bd1f28b",
-    "wiki/traditions/roman-religion/sects/mithraism.md.tmp.126599.6021c8895e2f",
-    "wiki/concepts/two-messiahs.md.tmp.109833.ba6611504701",
-    "wiki/comparisons/messianism-and-eschatology.md",
-    "wiki/comparisons/scripture-canon-and-interpretation.md",
-    "wiki/groups/freemasons.md",
-    "wiki/controversies/freemasonry-ancient-mysteries-descent.md",
-    "wiki/comparisons/mysticism-across-traditions.md",
-    "wiki/scholarship/haywood-mithraism-freemasonry-ancient-mysteries.md",
-    "wiki/scholarship/laeuchli-groh-mithraism-in-ostia.md",
-    "wiki/timelines/yoruba-religion-timeline.md",
-    "wiki/timelines/carvaka-timeline.md",
-    "wiki/timelines/manichaeism-timeline.md",
-    "wiki/timelines/mesoamerican-religion-timeline.md",
-    "wiki/timelines/sikhism-timeline.md",
-    "wiki/timelines/shinto-timeline.md",
-    "wiki/timelines/norse-religion-timeline.md",
-    "wiki/timelines/celtic-religion-timeline.md",
-    "wiki/timelines/roman-religion-timeline.md",
-    "wiki/timelines/daoism-timeline.md",
-    "wiki/timelines/confucianism-timeline.md",
-    "wiki/timelines/jainism-timeline.md",
-    "wiki/timelines/greek-religion-timeline.md",
-    "wiki/timelines/zoroastrianism-timeline.md",
-    "wiki/timelines/chinese-folk-religion-timeline.md"
+    "wiki/scholarship/pelikan-emergence-catholic-tradition.md.tmp.109833.ac3d21679b62",
+    "wiki/concepts/semi-pelagianism.md.tmp.109833.ed34461bb544",
+    "wiki/concepts/original-sin.md.tmp.109833.4e746fc9354d",
+    "wiki/concepts/grace.md.tmp.109833.c98d9e69504d",
+    "wiki/concepts/mysticism.md",
+    "wiki/concepts/trikaya.md",
+    "wiki/concepts/ex-opere-operato.md",
+    "wiki/concepts/ex-opere-operato.md.tmp.109833.524e6ebd60b4",
+    "wiki/concepts/donum-superadditum.md.tmp.109833.60bce7805e28",
+    "wiki/texts/god-in-search-of-man.md",
+    "wiki/concepts/donum-superadditum.md",
+    "wiki/concepts/donum-superadditum.md.tmp.109833.fc5f78d00987",
+    "wiki/figures/l-ron-hubbard.md",
+    "wiki/scholarship/pelikan-emergence-catholic-tradition.md.tmp.109833.5dc1f7962096",
+    "wiki/scholarship/pelikan-emergence-catholic-tradition.md.tmp.109833.c40bfa4a7d08",
+    "wiki/concepts/theotokos.md.tmp.109833.a7bd6bd1ba68",
+    "wiki/controversies/chalcedonian-definition.md.tmp.109833.0c2a282b4168",
+    "wiki/figures/justinian.md",
+    "wiki/concepts/neo-chalcedonianism.md",
+    "wiki/concepts/theopaschism.md",
+    "wiki/concepts/lex-orandi-lex-credendi.md",
+    "wiki/concepts/descent-into-hell.md",
+    "wiki/concepts/christus-victor.md",
+    "wiki/concepts/praeparatio-evangelica.md",
+    "wiki/concepts/criteria-of-apostolic-continuity.md",
+    "wiki/concepts/development-of-doctrine.md",
+    "wiki/commentators/jaroslav-pelikan.md",
+    "wiki/scholarship/pelikan-christian-tradition-vol1.md",
+    "wiki/texts/dianetics.md",
+    "wiki/commentators/augustine.md",
+    "wiki/texts/city-of-god.md",
+    "wiki/concepts/allegorical-reading.md",
+    "wiki/commentators/athenagoras.md",
+    "wiki/commentators/theophilus-of-antioch.md",
+    "wiki/commentators/tatian.md",
+    "wiki/concepts/divine-impassibility.md"
   ]
 }

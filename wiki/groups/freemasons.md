@@ -14,7 +14,7 @@ tags: [group, freemasonry, fraternal-order, esotericism]
 
 > **Group page (lean).** A fraternal initiatic order, treated in this wiki only insofar as it
 > bears on the religious-history question of descent from the ancient
-> [[mystery-religions|Mystery cults]]. Not a religion in the wiki's sense, but a graded
+> [[mystery-cults|Mystery cults]]. Not a religion in the wiki's sense, but a graded
 > initiatic brotherhood whose self-understanding has often been narrated through the Mysteries.
 
 ## Identity and Nomenclature
@@ -27,7 +27,7 @@ one another as **"brother"** and meet in a **"lodge."**
 ## The Ancient-Mysteries Connection
 
 The order's relevance here is a **historiographical claim**, not a textual one: that Freemasonry
-descends from or continues the ancient [[mystery-religions|Mysteries]]. The Masonic writer
+descends from or continues the ancient [[mystery-cults|Mysteries]]. The Masonic writer
 **H. L. Haywood** ([[haywood-mithraism-freemasonry-ancient-mysteries|*Mithraism: Freemasonry
 and the Ancient Mysteries*]]) surveys the resemblances to [[mithraism|Mithraism]] — all-male
 membership, seven graded degrees, lodge-like meeting places, charity, the "brother" address,

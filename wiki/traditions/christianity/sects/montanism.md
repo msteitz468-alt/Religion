@@ -58,6 +58,12 @@ Famously, [[tertullian|Tertullian]] embraced the New Prophecy in his later caree
 case of a major proto-orthodox theologian crossing into a movement deemed heretical. Recorded
 without adjudication.
 
+## Pelikan: The New Prophecy and the Solidification of Doctrine
+
+[[pelikan-emergence-catholic-tradition|Pelikan]] (Vol. I, ch. 2) reads Montanism as "an effort to shape the entire life of the church in keeping with the expectation of the return of Christ," arising not from Phrygian paganism but "in an atmosphere saturated… with the apocalyptic conceptions of Judaism and Christianity." Its structural cause was the waning of the charismata: "the decline in the eschatological hope and the rise of the monarchical episcopate are closely interrelated phenomena." Montanus claimed the promised [[paraclete-advocate|Paraclete]] was uniquely fulfilled in him; the oracles ("I am the Father and the Son and the Paraclete") express, on Pelikan's reading, "the sense of passivity as an instrument or mouthpiece of the divine… not the arrogation… of the claim to deity." Tertullian insisted "the Paraclete had come to establish a new *discipline*, not a new *teaching*."
+
+Its "principal significance for the development of church doctrine was to serve as an index to the gradual solidification of the church's message." The catholic answer was to push the Spirit's decisive activity into the apostolic past — [[hippolytus|Hippolytus]] making the Apocalypse of John "the last valid prophecy" — so that Montanism became "obsolete because the church had begun to find its most trustworthy guarantees… in the threefold apostolic authority taught by [[irenaeus|Irenaeus]]" rather than in ecstatic prophecy. See [[criteria-of-apostolic-continuity]]. Pelikan notes its underground afterlife "in the experiences of monks and friars, of mystics and seers."
+
 ## Historical Development, Subdivisions, and Influence
 
 Persisted in Phrygia for centuries despite imperial suppression. Its memory shaped later debates

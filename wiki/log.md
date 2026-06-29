@@ -4477,3 +4477,112 @@ damnata*) — not adjudicated. Lint run after the full ingest (per request, defe
 clean for all new/edited pages (no new red links, no new orphans; 1811 total pages). Raw source
 relocated from `raw/` root to `raw/scholarship/Early Christian Doctrines (John N. D. Kelly)…txt`
 (Step 7); references updated on the source page.
+
+## [2026-06-28] ingest | Mithraism, Freemasonry & the Ancient Mysteries (Laeuchli & Groh 1967; Haywood)
+
+**Sources (two, both read in full):**
+- Laeuchli & Groh (eds.), *Mithraism in Ostia* (1967) — scope: entire essay collection (Preface;
+  The Project; The Ostian Mithraeum [Groh]; The Environment of Ostian Mithraism; Mithraic Dualism;
+  Reflections on the Mithraic Liturgy; Christ and Mithra [Laeuchli]; Glossary). **Read in full**
+  (index/plate-list scanned as apparatus). Read via 3 Sonnet background extraction agents over
+  disjoint line-ranges (334–1336 archaeology/environment; 1337–2462 dualism/liturgy; 2463–3441
+  Christ-and-Mithra/glossary). The third agent's result was blocked by a content filter, so range
+  C was **recovered on the main thread** and integrated directly.
+- Haywood, *Mithraism: Freemasonry and the Ancient Mysteries* (6 pp. Masonic essay) — scope: whole
+  essay, **read in full on the main thread**.
+
+**Pages:** Upgraded [[mithraism]] stub → full sect page (sources_ingested 0→2). New:
+[[mithras]] (figure), [[ostia]] (location), [[mithraic-dualism]] + [[taurobolium]] (concepts),
+[[freemasons]] (group), [[christianity-mithraism-parallels]] + [[freemasonry-ancient-mysteries-descent]]
+(controversies), and the two scholarship source pages with coverage ledgers. Extended
+[[mystery-cults]] and [[magna-mater-cybele]] with reciprocal links.
+
+**Contradiction / fidelity flags:** (1) Haywood attributes the **taurobolium** (bull's-blood
+baptism) to Mithraism; Laeuchli shows it belonged to [[magna-mater-cybele|Magna Mater]] — recorded
+as Haywood's error on [[taurobolium]] and [[mithraism]]. (2) The Christianity–Mithraism parallels
+are held open without adjudication (Contradiction Protocol), via Laeuchli's fourfold method. (3)
+Haywood's speculative Mithraism→Manichaeism→medieval-dualism→Freemasonry transmission chain
+recorded as conjecture, not fact.
+
+**Lint:** clean for all new/edited pages (the one red link, `mystery-religions`, was fixed to
+`mystery-cults`; no new orphans). **Step 7 (raw filing): done** — both `.txt` sources moved
+from `raw/` root to `raw/scholarship/` (plain `mv`; `raw/` is not git-tracked). Source-page
+path references updated.
+
+## [2026-06-28] ingest | Jaroslav Pelikan, *The Christian Tradition* Vol. I (Scope 1)
+
+Scope: Ch. 1 "Praeparatio Evangelica" (lines ~1823–5660) — **read in full** (two Sonnet subagents:
+1823–3760 True Israel + dispute with classical thought; 3760–5660 triumph of theology + expectation
+of the nations). Source: `raw/The Christian Tradition … Vol. 1 … (Pelikan)….txt` (text-layer
+extracted from PDF via pdftotext; PDF replaced by .txt per OCR/replace rule). Remaining: Scopes 2–7
+(chs. 2–7) not started — see ledger on [[pelikan-emergence-catholic-tradition|source page]].
+
+New pages: concepts [[hellenization-of-christianity]] (incl. Pelikan's "dehellenization" inversion and
+"Pyrrhic victory"), [[divine-impassibility]]; apologist commentators [[tatian]], [[theophilus-of-antioch]],
+[[athenagoras]] (all also flagged in the Kelly ingest). Extended [[christianity-apostasy-from-judaism]]
+(the "True Israel" appropriation, de-/re-Judaization) and [[eusebius-of-caesarea]] (Praeparatio/
+Demonstratio; founder of ecclesiastical history). Filed lean as extension of the Kelly-era pages.
+
+Parallel-ingest note: Pelikan Vol. I covers the same 100–600 period as Kelly and overlaps the
+in-progress Ayres *Nicaea and Its Legacy* on the Arian sections; shared pages re-read before editing.
+
+## [2026-06-28] ingest | Jaroslav Pelikan, *The Christian Tradition* Vol. I (Scope 2)
+
+Scope: Ch. 2 "Outside the Mainstream" (lines ~5661–9278) — **read in full** (two Sonnet subagents:
+Marcion + Gnosticism; Montanism + the criteria of apostolic continuity). New page
+[[criteria-of-apostolic-continuity]] (Pelikan's thesis: the heretics forced the church to define
+the apostolic canon, creed, and episcopate). Extended [[montanism]] (the New Prophecy and the
+cessation of prophecy) and [[nt-canon-formation]] (Marcion's canon as "his answer to the Old
+Testament"). Filed lean — the wiki's Marcion/Gnostic/Montanist coverage already deep; minor Gnostic
+figures left as plain-text. Remaining: Scopes 3–7.
+
+## [2026-06-28] ingest | Jaroslav Pelikan, *The Christian Tradition* Vol. I (Scope 3)
+
+Scope: Ch. 3 "The Faith of the Church Catholic" (lines ~9279–14051) — **read in full** (two Sonnet
+subagents: apocalyptic vision + supernatural order; meaning of salvation + church and means of grace).
+New concept pages [[christus-victor]] and [[descent-into-hell]]. Extended [[atonement]] (Pelikan's
+"cluster of images, not a doctrine" thesis; the three atonement themes) and [[millennialism]] (the
+already/not-yet transformation; "from cosmic drama to being, from Revelation to Nicaea"). Filed lean —
+salvation/sacraments/eschatology already deeply covered; the corpus-permixtum / holiness-of-the-church
+material left to existing ecclesiology pages. NB: a parallel session is also ingesting this volume
+(it added method hub pages jaroslav-pelikan, development-of-doctrine, praeparatio-evangelica); shared
+pages re-read before editing. Remaining: Scopes 4–7.
+
+## [2026-06-28] ingest | Jaroslav Pelikan, *The Christian Tradition* Vol. I (Scope 4)
+
+Scope: Ch. 4 "The Mystery of the Trinity" (lines ~14052–15942) — **read in full** (one Sonnet
+subagent). Heavily-covered territory (Kelly + active Ayres ingest), filed very lean. New page
+[[lex-orandi-lex-credendi]] (Pelikan's thesis that Christ's/Spirit's deity was settled on worship
+and baptismal grounds, not metaphysics). Extended [[athanasius]] (deity argued from salvation and
+worship). Memorable Pelikan formulations left to the Ayres-edited [[arian-controversy]]/[[homoousion]]
+pages to avoid collision. Remaining: Scopes 5–7.
+
+## [2026-06-28] ingest | Jaroslav Pelikan, *The Christian Tradition* Vol. I (Scope 5)
+
+Scope: Ch. 5 "The Person of the God-Man" (lines ~15943–19080) — **read in full** (two Sonnet
+subagents: presuppositions + alternative theologies; Chalcedon + post-Chalcedon). New pages
+[[theopaschism]], [[neo-chalcedonianism]] (concepts) and [[justinian]] (figure). Extended
+[[chalcedonian-definition]] (Pelikan's "mosaic"/"agreement to disagree" thesis; Chalcedon reopened
+the Trinitarian question) and [[theotokos]] (Christological test rooted in devotion → lex orandi).
+Filed lean — heavily-covered Christology; post-Chalcedonian figures already present. Remaining:
+Scopes 6–7.
+
+## [2026-06-28] ingest | Jaroslav Pelikan, *The Christian Tradition* Vol. I (Scope 6)
+
+Scope: Ch. 6 "Nature and Grace" (lines ~19081–22643) — **read in full** (two Sonnet subagents).
+New concept pages [[ex-opere-operato]] and [[donum-superadditum]]. Extended [[original-sin]] (Pelikan's
+"cult-practice" origin: virgin birth + infant baptism), [[grace]] (the three-fold paradox: sovereign/
+necessary/mediated), and [[semi-pelagianism]] (Cassian's interior grace; Council of Orange). Filed lean
+— minor Western actors (Prosper, Caesarius, Faustus, Julian of Eclanum) left as plain-text. Remaining:
+Scope 7 (final).
+
+## [2026-06-28] ingest | Jaroslav Pelikan, *The Christian Tradition* Vol. I (Scope 7 — WORK COMPLETE)
+
+Scope: Ch. 7 "The Orthodox Consensus" (body lines ~22644–24312; bibliography/index ~24313+ excluded)
+— **read in full** (one Sonnet subagent on the body; a second confirmed 24700+ was back matter). New
+figure page [[gregory-the-great]] ("last of the fathers, first of the popes"). Extended
+[[consensus-patrum]] (the Vincentian canon as the consensus charter) and [[lex-orandi-lex-credendi]]
+(grounded in Prosper of Aquitaine, the actual source of the maxim). **All seven chapters of Vol. I
+now read in full; the ingest is complete.** Filed lean throughout as an extension of the Kelly-era
+patristic pages. Parallel session contributed method/author hubs (jaroslav-pelikan,
+development-of-doctrine, praeparatio-evangelica). Raw source relocated to raw/scholarship/ (Step 7).

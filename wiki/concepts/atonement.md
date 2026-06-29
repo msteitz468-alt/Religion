@@ -120,8 +120,13 @@ the one sacrifice.
 - [[jesus]] · [[thomas-aquinas]] · [[summa-theologica]] · [[augustine]] · anselm-of-canterbury
 - [[athanasius]] · [[on-the-incarnation]] · [[theosis-divine-nature]] — the patristic exchange model
 
+## Pelikan: Early Soteriology as a Cluster of Images
+
+[[pelikan-emergence-catholic-tradition|Pelikan]] (Vol. I, ch. 3) stresses that ante-Nicene soteriology was **a cluster of images, not a doctrine**: it is impossible "to ascribe exclusive or even primary force to any one theory." He distinguishes three atonement themes — Christ as **teacher/example**, as **sacrifice/satisfaction**, and as **victor** — answering to three definitions of salvation's content: **revelation of truth, forgiveness and justification, and immortality and [[apotheosis-divinization|deification]]**. Beneath them lies an unresolved question: did Christ's work *accomplish* the reconciliation, or *disclose* one "there all along"? Pelikan argues the **[[christus-victor|Christus Victor]]** motif (with the [[ransom-to-whom|ransom to the devil]] and the [[descent-into-hell|descent into hell]]) was far more central than later Western dogmatics, focused on satisfaction, has recognized. The word "satisfaction" was introduced by [[tertullian]] (from the discipline of penance) and first applied to Christ's death by Hilary.
+
 ## Sources Ingested
 
 - [[summa-theologica]] Tertia Pars Q47–Q56 (read in full, Part 4 Scope 2c).
+- [[pelikan-emergence-catholic-tradition|Pelikan, *Emergence of the Catholic Tradition*]], ch. 3 — the cluster-of-images thesis; Christus Victor.
 - [[on-the-incarnation|Athanasius, *On the Incarnation*]] §§1–55 (read in full) — the patristic
   exchange / physical model of redemption.

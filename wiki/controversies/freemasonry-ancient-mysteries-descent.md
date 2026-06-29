@@ -16,7 +16,7 @@ tags: [controversy, freemasonry, mystery-cult, mithraism, esotericism]
 ## The Issue in Dispute
 
 A recurring claim in Masonic literature holds that **modern Freemasonry is in some sense a
-direct descendant of the ancient [[mystery-religions|Mystery cults]]** — Mithraism above all,
+direct descendant of the ancient [[mystery-cults|Mystery cults]]** — Mithraism above all,
 as the representative case. The question is whether the genuine resemblances between the
 two amount to **historical descent**, a looser **analogy**, or merely **superficial coincidence**
 of form.

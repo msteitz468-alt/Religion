@@ -33,8 +33,12 @@ citizens.
 
 Her myth centers on her consort **Attis**, who dies (self-castration/death) and is restored — a
 **death-and-rebirth** vegetation cycle. Her **galli** were **eunuch priests** who castrated themselves in
-ecstatic devotion; later the cult featured the **taurobolium**, a "baptism" in the blood of a sacrificed
-bull, understood as **rebirth**. The contrast between her honored civic status and her wild rites
+ecstatic devotion; later the cult featured the **[[taurobolium]]**, a "baptism" in the blood of a
+sacrificed bull, understood as **rebirth**. This bull-blood rite belongs properly to Magna Mater, not to
+Mithraism: at [[ostia|Ostia]] "the *tauroboliati*... were Magna Mater initiates and not Mithraic ones"
+([[laeuchli-groh-mithraism-in-ostia|Laeuchli & Groh]]) — though popular writers often mis-assign it to
+[[mithraism|Mithras]]. At Ostia the two cults were neighbors, the earliest mithraea clustering near the
+Magna Mater–Attis–Bellona temenos. The contrast between her honored civic status and her wild rites
 fascinated and disturbed the Romans.
 
 ## Significance
