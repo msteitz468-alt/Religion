@@ -356,9 +356,18 @@ title: [Comparison Description]
 entities_compared: []
 generated_from_query: [brief description]
 date: [YYYY-MM-DD]
-tags: [comparison]
+tags: [comparison, ..., hub]
 ---
 ```
+
+**Thematic comparison hubs.** A comparison page may serve as a cross-tradition *thematic
+hub* (e.g. mysticism, scripture/canon, messianism/eschatology): organized **by recurring
+structure, then tradition-by-tradition**, it *gathers and links* existing pages descriptively
+— it does not adjudicate between the traditions. Same conventions as timeline hubs (verify
+slugs before linking; bracketed-plain-names for referents lacking a page; lint clean). Wire it
+into the `index.md` `## Comparisons` section and add a reciprocal back-link from each theme's
+central concept page. **Theme-organized hubs live in `wiki/comparisons/`; only *time*-organized
+hubs go in `wiki/timelines/`.**
 
 ### Controversy Page (`wiki/controversies/`)
 Interpretive disputes cutting across commentators or traditions.
@@ -382,7 +391,9 @@ Chronological navigation hubs that link existing pages along a time axis. Three 
   top **era × family matrix** (eras as rows; Abrahamic / Indian-Dharmic / East Asian /
   Ancient-Other as columns) for the synchronic "what was happening at once" view, then per-era
   detail tables.
-- **Thematic hub** (e.g. `new-religious-movements-timeline.md`) — a cross-cutting cluster.
+- **Thematic hub** (e.g. `new-religious-movements-timeline.md`) — a *chronologically*-organized
+  cross-cutting cluster. (Theme-organized hubs that are not chronological are Comparison Pages
+  in `wiki/comparisons/` instead — see the Comparison Page section.)
 
 ```yaml
 ---

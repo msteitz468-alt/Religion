@@ -2,8 +2,8 @@
 title: Mystery Cults (Mystery Religions)
 domain: liturgy
 traditions_using: [Greek religion, Roman religion]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 2
+last_updated: 2026-06-28
 tags: [concept, greek-religion, roman-religion, mystery-cult, salvation]
 ---
 
@@ -38,6 +38,25 @@ The mysteries are the major comparandum for **early Christianity** in the Greco-
 extent of real influence vs. shared environment; the wiki records the parallels without asserting dependence
 (per the Contradiction Protocol; cf. [[mithraism|Mithraism]] and the
 [[zoroastrian-influence-on-abrahamic-eschatology|Zoroastrian-influence]] question).
+
+## The "Roman Condition" and the Social Function (Laeuchli)
+
+The Ostia team study [[laeuchli-groh-mithraism-in-ostia|*Mithraism in Ostia*]] reads the
+imperial-era mysteries against the "**religious bankruptcy of ancient Rome**": as the civic gods
+and the Augustan political theology "failed to speak," the mysteries supplied a **communal,
+non-political religious identity** in intimate house-sized sanctuaries — "the temple became
+house." On this reading the mysteries (and Christianity) answered the same "gods are dead"
+problematic, which is why parallels could arise even **without** dependence (see Laeuchli's
+fourfold method at [[christianity-mithraism-parallels|Christianity–Mithraism]]). The cult's
+dualism was often a **social** dualism — withdrawal of the initiate circle from "the world" —
+more than a metaphysical one (see [[mithraic-dualism]]).
+
+## The "Ancient Mysteries" and Later Esotericism
+
+The mysteries also generated a long afterlife as an imagined ancestor of later initiatic
+traditions. The claim that modern **[[freemasons|Freemasonry]]** descends from the ancient
+Mysteries — using [[mithraism|Mithraism]] as the test case — is filed at
+[[freemasonry-ancient-mysteries-descent|Does Freemasonry Descend from the Ancient Mysteries?]].
 
 ## Clement of Alexandria as Witness and Polemicist
 
