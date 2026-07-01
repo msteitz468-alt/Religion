@@ -42,10 +42,19 @@ Baptised*) treats it as one hypothesis and expresses hope for their salvation. *
 and the **Protestant** traditions never adopted the Latin limbo scheme. The fate of unbaptized infants
 remains a candidate `controversies/` topic.
 
+## In Dante's Inferno
+
+Dante gives Limbo memorable form as the **first circle** of [[inferno|Hell]] (Inf.
+4): the home of the unbaptized and the virtuous pagans, who suffer no torment but
+live "in desire, but hopelessly," sighing rather than weeping. [[virgil|Virgil]]
+himself dwells there, among Homer, Aristotle, Saladin, and Averroes; it is the
+deficiency of faith, not positive sin, that holds them. The recurring question of
+why such virtue must still be excluded runs through the whole poem.
+
 ## Related
 
 - [[hell]] · [[purgatory]] · [[atonement]] · [[baptism]] · [[original-sin]] · [[beatific-vision]]
-- [[thomas-aquinas]] · [[summa-theologica]]
+- [[thomas-aquinas]] · [[summa-theologica]] · [[inferno|Inferno]] · [[virgil|Virgil]]
 
 ## Sources Ingested
 

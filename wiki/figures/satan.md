@@ -183,10 +183,23 @@ dread." This is developed as a concept at
 [[secularization-of-evil|The Death of Satan / Secularization of Evil]]. Delbanco's Satan is
 thus the *absent* Satan — the figure defined by his disappearance.
 
+## In Dante's Inferno
+
+At the frozen centre of [[inferno|Hell]] (Inf. 34), Dante's Satan is a deliberate
+**anti-climax**: a vast, three-faced figure — a parody of the [[trinity|Trinity]] —
+frozen to the breast in ice, weeping from six eyes and mindlessly chewing Judas,
+Brutus, and Cassius. Far from a heroic rebel, he is impotent, capable only of
+flapping his bat-wings (which freeze the lake) and gnawing. Kirkpatrick reads him as
+"a parasitical figure, existing only as a negative image of the ultimate truth": the
+embodiment of [[evil-as-privation|evil as privation]]. Per Paradiso 19, his fall
+came not through grand rebellion but through impatient refusal to wait for light —
+he fell "acerbo," unripe. See [[divine-comedy|The Divine Comedy]].
+
 ## Sources Ingested
 
 1. [[andrew-delbanco|Delbanco, Andrew]]. *The Death of Satan: How Americans Have Lost the
    Sense of Evil*. New York: Farrar, Straus and Giroux, 1995. (raw/misc)
+2. Dante, *The Divine Comedy* (Inferno 34), trans. Robin Kirkpatrick (Penguin) — ingest 2026-06-29.
 
 ## Cross-Links
 

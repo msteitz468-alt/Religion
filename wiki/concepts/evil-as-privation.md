@@ -165,6 +165,10 @@ that he gives too little prominence "to the Cross of Christ." Rolt distinguishes
 senses of **Non-Existence** (formless Aristotelian "Matter"; evil as formless; the Super-Essence
 as beyond Existence) and notes the "dangerous, yet true" corollary — taught also by Augustine and
 Dante — that "evil is a mistaken quest for Good." See [[rolt-dionysius|Rolt's edition]].
+[[dante-alighieri|Dante]] dramatizes the doctrine in [[inferno|Inferno]] 34: his
+[[satan|Satan]] is "pure negation," a parasitic parody of the [[trinity|Trinity]],
+impotent and self-imprisoned — evil as the mere absence of the divine activity that
+alone fully exists.
 
 ## Cross-Links
 

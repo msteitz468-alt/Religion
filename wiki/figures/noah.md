@@ -22,7 +22,7 @@ Noah is the tenth and last of the pre-flood Patriarchs. According to the Genesis
 - **1 Enoch**: Expands heavily on the flood narrative, placing it in the context of the judgment of the fallen Watchers.
 
 ## Theological and Narrative Significance
-Noah functions as the ultimate archetype of rescue in the midst of cosmic judgment. In 1 and 2 Peter, he is invoked to assure suffering Christians that God is able to preserve the righteous while condemning the wicked. The flood is not merely an act of destruction but an act of cosmic cleansing, forming the typological basis for baptism in early Christian thought. As a "herald of righteousness" (2 Peter), Noah models the faithful witness to a hostile world.
+Noah functions as the ultimate archetype of rescue in the midst of cosmic judgment. In 1 and 2 Peter, he is invoked to assure suffering Christians that God is able to preserve the righteous while condemning the wicked. The flood is not merely an act of destruction but an act of cosmic cleansing, forming the typological basis for baptism in early Christian thought. As a "herald of righteousness" (2 Peter), Noah models the faithful witness to a hostile world. Whether the deluge he survived was global or regional is treated separately under [[flood-universality|the Flood's scope]].
 
 ## Tradition-Specific Reception
 **Christianity**: In addition to his role in Hebrews and the Petrine epistles, early Christian tradition read the ark as a type of the Church, within which one is saved from the waters of judgment.

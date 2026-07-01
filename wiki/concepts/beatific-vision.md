@@ -72,6 +72,22 @@ can consist in nothing else than the vision of the Divine Essence" (I-II, Q3, A8
 **speculative intellect** that no created good and no natural power can supply (I-II, Q2, A8; Q5,
 A5). See [[beatitude]].
 
+## Dante's poetic vision (Paradiso 33)
+
+[[dante-alighieri|Dante]]'s [[paradiso|Paradiso]] gives the doctrine its supreme
+**imaginative** rendering. The whole cantica is built on Aquinas's principle that
+**beatitude rests first on sight, then love** (Dante siding explicitly with the
+Dominicans over the Franciscans, Par. 28:109–11), and on the **ineffability** of a
+vision that exceeds memory and language — a topos escalating from Canto 23 to its
+climax. In the final canto, God appears as creation gathered "in a single book," then
+as the **three circles of the Trinity**, and within the second circle the **human
+image** (the Incarnation), which defeats the intellect "as some geometer" fails to
+square the circle — until "my mind was stricken through / by sudden lightning"
+(33:140–41). Consistent with Aquinas's *degrees of glory* and contented wills (cf.
+[[piccarda-donati|Piccarda]], "In His volition is the peace we have"), the poem ends
+not with sight but with the **will harmonized** "by love that moves the sun and other
+stars" (33:145).
+
 ## Related
 
-[[city-of-god]] · [[augustine]] · [[thomas-aquinas]] · [[summa-theologica]] · [[beatitude]] · [[five-ways]] · [[resurrection]] · [[supreme-good]] · [[peace]] · [[two-cities]]
+[[city-of-god]] · [[augustine]] · [[thomas-aquinas]] · [[summa-theologica]] · [[beatitude]] · [[five-ways]] · [[resurrection]] · [[supreme-good]] · [[peace]] · [[two-cities]] · [[paradiso|Paradiso]] · [[dante-alighieri|Dante]]

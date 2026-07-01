@@ -19,17 +19,17 @@ A chronological hub for the religion of the Celtic peoples — known partly from
 
 The religion of the continental and insular Celts — [Druids], sacred groves, and a pantheon known from Greco-Roman writers and archaeology.
 
-| Concepts | Sources | Themes |
-|---|---|---|
-| the [[the-otherworld|Otherworld]]; sacrifice and seasonal festival | classical authors; votive archaeology | [Druidic] priesthood; the cult of springs and heads |
+| Concepts               | Sources                                         | Themes                                |                                                       |
+| ---------------------- | ----------------------------------------------- | ------------------------------------- | ----------------------------------------------------- |
+| the [[the-otherworld]] | [[Otherworld]]; sacrifice and seasonal festival | classical authors; votive archaeology | [[Druidic]] priesthood; the cult of springs and heads |
 
 ## II. The Irish Mythological Tradition (recorded c. 700–1200 CE)
 
 The Irish cycles preserve the gods as the [[the-tuatha-de-danann|Tuatha Dé Danann]], a divine race, in narratives written down by Christian monks.
 
-| Deities | Texts | Themes |
-|---|---|---|
-| [[the-dagda]] · [[lugh]] · [[morrigan|the Mórrígan]] · [[brigid]] · [[nuada]] · [[dian-cecht]] · [[balor]] · [[manannan]] | [[gods-and-fighting-men]] | the Mythological Cycle; the battles of Mag Tuired |
+| Deities                               | Texts                                                                               | Themes                    |                                                   |
+| ------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------- |
+| [[the-dagda]] · [[lugh]] · [[morrigan | the Mórrígan]] · [[brigid]] · [[nuada]] · [[dian-cecht]] · [[balor]] · [[manannan]] | [[gods-and-fighting-men]] | the Mythological Cycle; the battles of Mag Tuired |
 
 ## III. The Welsh Tradition (recorded c. 1100–1400 CE)
 

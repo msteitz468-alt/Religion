@@ -35,9 +35,9 @@ The [[roman-state-cult|state cult]] administered by the pontiffs and augurs; Hel
 
 The [[imperial-cult|imperial cult]] and the [[apotheosis-divinization|deification]] of emperors; the flourishing of the [[mystery-cults|mystery religions]] ([[mithraism|Mithras]], [[cult-of-isis-roman|Isis]]); the literary mythography of [[ovid-metamorphoses|Ovid]].
 
-| Figures | Texts / Concepts | Cults |
-|---|---|---|
-| [[ovid-fasti|Ovid]] · [[virgil-aeneid|Virgil]] · [[apuleius]] | [[apotheosis-divinization]] · [[pietas]] | [[imperial-cult]] · [[mithraism]] · [[cult-of-isis-roman]] |
+| Figures      | Texts / Concepts         | Cults                   |                                          |                                                            |
+| ------------ | ------------------------ | ----------------------- | ---------------------------------------- | ---------------------------------------------------------- |
+| [[ovid-fasti | Ovid]] · [[virgil-aeneid | Virgil]] · [[apuleius]] | [[apotheosis-divinization]] · [[pietas]] | [[imperial-cult]] · [[mithraism]] · [[cult-of-isis-roman]] |
 
 ## IV. Late Antiquity & Christianization (c. 250–400 CE)
 

@@ -85,6 +85,10 @@ Alexandrian and later Eastern tradition (deification, apophaticism, contemplativ
 speculative tendencies (pre-existence themes; the soul "not naturally immortal" in the fragments) also
 drew later suspicion.
 
+## Hillman's Revisionist Reading (Contradiction Protocol)
+
+[[hillman-original-sin|Hillman (2012)]] reads Clement's *Exhortation to the Greeks* (*Protrepticus*) primarily as evidence of early Christianity's **political war against pagan mystery religions** — specifically the suppression of the female oracular authority associated with the cults of Aphrodite, Dionysus, and the Draco/Medusae tradition. Hillman treats Clement's sustained polemic against pagan drug use, erotic iconography, and theatrical entertainments not as theological ethics but as the literary arm of a political program designed to dismantle the oracular institutions of the Greco-Roman world. He also cites the *Rich Man's Salvation* passage describing God as "effeminate" (*thely-morpha*) as evidence that Alexandrian theology deliberately cultivated an androgynous Christology to absorb initiates from Cybele's hermaphroditic cult. This revisionist framing is not endorsed by mainstream patristics and is explicitly heterodox; see [[early-christian-sexual-ethics-pagan-critique|Early Christian Sexual Ethics and the Pagan Critique]].
+
 ## Source: Delphi Complete Works of Clement of Alexandria
 
 **Source:** `raw/texts/Delphi Complete Works of Clement of Alexandria (St. Clement of Alexandria) (z-library.sk, 1lib.sk, z-lib.sk).txt`

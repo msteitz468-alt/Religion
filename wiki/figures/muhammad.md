@@ -242,3 +242,15 @@ The most extended death narrative in Bukhari (Nos. 715–730, narrated primarily
 - [[abraham|Abraham]] — the prophet whose monotheism he restores
 - [[ibn-arabi|Ibn Arabi]] / [[al-insan-al-kamil|the Perfect Man]] — the Muhammadan Reality
 - [[robert-of-ketton|Robert of Ketton]] — the Latin "pseudo-prophet" polemic
+- [[divine-comedy|Dante]] — placed among the schismatics in [[inferno|Inferno]] 28 (see below)
+
+## Reception: Dante's *Inferno*
+
+In [[inferno|Inferno]] 28, Dante places Muhammad (with Ali) among the **sowers of
+discord and schism**, cloven and continually re-wounded. Kirkpatrick notes the
+medieval — and historically false — construal behind this placement: Muhammad was
+"thought to have been a Nestorian Christian before arriving at his own religious
+vision," and so was classified as a Christian *schismatic* rather than the founder
+of a separate religion. The wiki records this as a reception fact about the Latin
+West's polemical imagination, not as a historical claim about the Prophet; cf. the
+[[robert-of-ketton|Robert of Ketton]] "pseudo-prophet" tradition.

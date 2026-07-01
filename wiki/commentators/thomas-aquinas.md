@@ -77,6 +77,21 @@ philosophers — [[avicenna|Avicenna]], [[averroes|Averroes]] (the "Commentator"
 - **The rational soul as the single substantial form of the body** (Q76), against
   pluralist accounts.
 
+## In Dante's Paradiso
+
+Aquinas appears as a soul among the wise in the sphere of the **Sun**
+([[paradiso|Paradiso]] 10–14), the chief speaker of the first ring of twelve.
+Strikingly, the Dominican Aquinas narrates the life of **St Francis** and praises
+him, then denounces the corruption of his own Dominican order (Canto 11) — mirrored by
+the Franciscan Bonaventure praising Dominic in Canto 12. He also expounds the
+distinction between things **created** directly by God and things **generated** by
+nature, identifies the fifth light as **Solomon** and defends his *kingly* (practical)
+wisdom, and delivers a warning against rash judgment (Canto 13). Dante adopts Aquinas's
+position that **beatitude consists first in sight, then love** (Par. 28:109–11) and
+draws throughout the [[divine-comedy|*Commedia*]] on Thomist [[evil-as-privation|privation
+theology]] and Aristotelian psychology. Notably, Dante also places Aquinas's opponent
+**Siger of Brabant** in the same ring — a crux Kirkpatrick leaves unresolved.
+
 ## Influence on later tradition
 
 Thomism became the dominant Dominican theology and, through the Neo-Thomist revival

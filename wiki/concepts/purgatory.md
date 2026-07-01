@@ -60,9 +60,26 @@ Church (with prayers for the dead and indulgences), while the **Reformers reject
 scriptural warrant — a major point of canon-divergence between Catholicism and Protestantism. Augustine's
 text is cited by both sides.
 
+## Dante's Purgatorio
+
+The doctrine receives its most influential **imaginative** elaboration in
+[[dante-alighieri|Dante]]'s [[purgatorio|Purgatorio]]. Where medieval accounts
+generally pictured Purgatory as a subterranean region of pains identical to Hell's
+but temporary, Dante reinvents it as a **mountain-island** in the southern
+hemisphere (formed from the matter displaced by Satan's fall), ascended through
+**seven terraces** that purge the seven capital [[sin|vices]] in order, each marked
+by exemplars of virtue and vice and a Beatitude. Le Goff (*The Birth of Purgatory*)
+stresses the originality of this conception. Distinctive features: the souls
+**willingly** embrace their purgation; the realm is **hopeful** and subject to time
+and the senses; and the efficacy of **suffrages/prayer by the living** is dramatized
+repeatedly (Manfred, Belacqua, Forese, Provenzan). The summit holds the Earthly
+Paradise with the rivers **Lethe** (oblivion of sin) and **Eunoë** (memory of the
+good), through which [[matelda|Matelda]] leads the penitent.
+
 ## Related
 
 [[city-of-god]] · [[augustine]] · [[eternal-punishment]] · [[last-judgment]] · [[resurrection]]
+· [[purgatorio|Purgatorio]] · [[dante-alighieri|Dante]] · [[matelda|Matelda]]
 
 ## Related Texts
 

@@ -19,9 +19,9 @@ A chronological hub for the religions of pre-Columbian Mesoamerica — the share
 
 The Olmec "mother culture" establishes the enduring Mesoamerican deity complexes (the feathered serpent, the rain god, the maize god) and the ritual calendar.
 
-| Concepts | Themes |
-|---|---|
-| the [[mesoamerican-sacrifice|sacrificial]] worldview; calendar and cosmos | the feathered-serpent and rain-deity complexes |
+| Concepts                     | Themes                                       |                                                |
+| ---------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| the [[mesoamerican-sacrifice | sacrificial]] worldview; calendar and cosmos | the feathered-serpent and rain-deity complexes |
 
 ## II. The Classic Period (Maya & Teotihuacan, c. 250–900 CE)
 

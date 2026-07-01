@@ -2,6 +2,18 @@
 
 Append-only. Format: `## [YYYY-MM-DD] ingest | [Source Title]` or `## [YYYY-MM-DD] query | [Question Summary]`
 
+## [2026-06-30] ingest | David C.A. Hillman, *Original Sin: Ritual Child Rape & the Church* (Ronin Publishing, 2012)
+
+Source: `raw/scholarship/hillman-original-sin.txt`. **Scope: full work — read in full** (18 chapters + epilogue, 3,058 lines). Polemical/revisionist classical scholarship arguing that early Christian catechetical initiation rites ("fires of temptation") constituted institutionalized ritual sodomy of young boys; reads early Christian sexual ethics as political suppression of female oracular authority. Contradiction Protocol applied throughout — Hillman's readings of [[cyril-of-jerusalem]], [[clement-of-alexandria]], and [[origen]] filed alongside mainstream patristics positions without adjudication. New pages: [[hillman-original-sin]] (scholarship), [[early-christian-sexual-ethics-pagan-critique]] (controversy). Updated: [[original-sin]], [[cyril-of-jerusalem]], [[clement-of-alexandria]], [[origen]].
+
+## [2026-06-30] ingest | Technical Bulletins of Dianetics and Scientology, Vol. XIV: The O.T. Levels (Hubbard, compiled 1995)
+
+Source: `raw/texts/scientology-ot-levels.txt` (text-extracted from `raw/texts/scientology-ot-levels.pdf`, 612 pp., 22,094 lines). **Scope: full volume — read in full** via deployed-subagent strategy: 7 Sonnet agents across disjoint line-ranges (A: OT 1–2; B: OT 3; C: OT 4–5 + NOTs intro; D: NOTs middle; E: NOTs end + OT 7–8; F: L Rundowns; G: Special Rundowns + Super Power); Original OT 8 HCOB read directly on main thread to fill boundary gap. Coverage ledger on [[scientology-ot-levels]].
+
+**Textual limitation**: GPM platen pages (78–196, 198–225 of PDF) are blank — actual GPM item lists not captured. Handwritten core materials (Xenu "Data," Incident I/II platens, List of Volcanoes) referenced but not reproduced as text. L Rundowns and New OT 8 are ex-member/Free Zone reconstructions, not original LRH documents.
+
+**New pages created**: [[scientology-ot-levels]] (text), [[body-thetans]] (concept), [[goals-problems-mass]] (concept), [[clear-cognition-vs-implant-theory]] (controversy), [[scientology-god-8th-dynamic]] (controversy). **Updated**: [[operating-thetan]], [[body-thetans]], [[wiki/index|index]].
+
 ## [2026-06-28] ingest | Lewis Ayres, *Nicaea and Its Legacy* (OUP 2004)
 
 Source: `raw/scholarship/Nicaea and Its Legacy An Approach to Fourth-Century Trinitarian Theology
@@ -4586,3 +4598,19 @@ figure page [[gregory-the-great]] ("last of the fathers, first of the popes"). E
 now read in full; the ingest is complete.** Filed lean throughout as an extension of the Kelly-era
 patristic pages. Parallel session contributed method/author hubs (jaroslav-pelikan,
 development-of-doctrine, praeparatio-evangelica). Raw source relocated to raw/scholarship/ (Step 7).
+
+## [2026-06-29] maintenance | Expanded flood-universality controversy stub
+
+Expanded `wiki/controversies/flood-universality.md` from stub to full page: textual locus (Gen 7:19–23), four positions (universal/global, local/regional, mythological-literary, conservative-ANE), tradition-specific positions (Judaism/Christianity/Islam/critical), and why-it-stays-open. Wired reciprocal back-links from genesis, noah, epic-of-gilgamesh, genesis-ancient-near-east; upgraded index entry. Lint clean.
+
+## [2026-06-29] ingest | Dante, The Divine Comedy (trans. Robin Kirkpatrick, Penguin)
+Scope plan: (1) Introduction; (2) Inferno; (3) Purgatorio; (4) Paradiso — each cantica with Kirkpatrick's per-canto notes.
+- **Scope 1 (Introduction): read in full** (translator's introduction, Further Reading, Note on the Manuscript Tradition; lines ~96–1636). Created core scaffolding: divine-comedy text page, dante-alighieri (figure), dante-alighieri-poet (commentator), robin-kirkpatrick (commentator), virgil, beatrice.
+- **Scope 2 (Inferno): read in full** (cantos 1–34, poem + notes). Deployed 3 background Sonnet agents over disjoint cache slices (cantos 1–11, 12–23, 24–34). Cantos 1–11 and 24–34 extracted by subagents; cantos 12–23 **recovered on the main thread** after the assigned subagent silently hung (logged as skill Observation 17). New pages: inferno (cantica), contrapasso (concept), florence (location), guelphs-and-ghibellines (group), figure pages for francesca-da-rimini, farinata-degli-uberti, pier-della-vigna, brunetto-latini, ulysses-dante, guido-da-montefeltro, ugolino, statius. Extended satan (Inf. 34), muhammad (Inf. 28 reception), hell, limbo, evil-as-privation.
+- **In progress:** Purgatorio, Paradiso (scopes 3–4). Raw source: `raw/texts/divine-comedy-kirkpatrick.txt` (relocated from `raw/` root after full-work completion).
+
+## [2026-06-29] ingest | Dante, Divine Comedy — Purgatorio (scope 3)
+**Scope 3 (Purgatorio): read in full** (cantos 1–33, poem + Kirkpatrick notes) via 3 background Sonnet passes (cantos 1–11, 12–23, 24–33) over pre-cut cache slices, integrated on the main thread (all three completed without the hang seen in the Inferno pass). New pages: purgatorio (cantica), matelda (figure). Extended statius (Purg. 21–25), purgatory (concept). Lint clean except the expected forward link to `paradiso` (scope 4). Raw source: `raw/texts/divine-comedy-kirkpatrick.txt`.
+
+## [2026-06-29] ingest | Dante, Divine Comedy — Paradiso (scope 4) — WORK COMPLETE
+**Scope 4 (Paradiso): read in full** (cantos 1–33, poem + Kirkpatrick notes) via 3 background Sonnet passes (cantos 1–11, 12–22, 23–33) over pre-cut cache slices, integrated on the main thread (all three completed cleanly). New pages: paradiso (cantica), cacciaguida, bernard-of-clairvaux, piccarda-donati (figures). Extended justinian (Par. 6), thomas-aquinas (Par. 10–14), beatific-vision (Par. 33). **The entire Divine Comedy (Introduction + Inferno + Purgatorio + Paradiso) is now read in full.** Raw source relocated to `raw/texts/divine-comedy-kirkpatrick.txt`; all path references updated.

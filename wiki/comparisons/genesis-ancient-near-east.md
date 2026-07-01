@@ -58,6 +58,8 @@ tags: [comparison, genesis, ancient-near-east, creation, flood]
 - Gilgamesh's gods "cower like dogs," are terrified by the flood they themselves unleashed, and quarrel over Utnapishtim's sacrifice. Genesis' God is sovereign throughout
 - Noah's post-flood covenant (Gen 9) is a unilateral divine promise; Utnapishtim receives personal immortality as his reward
 
+These parallels are deployed on both sides of the dispute over [[flood-universality|the Flood's scope]] — as evidence of a shared (locally-rooted) mythic tradition, or, via the Atrahasis structural parallel, as evidence of Genesis 1–11's literary unity.
+
 ## Ugaritic El Tradition
 
 The divine name **El** and its epithets in the Ugaritic texts (14th–13th centuries BCE, from Ras Shamra/ancient Ugarit) illuminate the patriarchal "God of the Fathers" tradition:

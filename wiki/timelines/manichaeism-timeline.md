@@ -19,9 +19,9 @@ A chronological hub for Manichaeism — the dualist world religion founded by [[
 
 [[mani|Mani]], raised in a Jewish-Christian baptist sect in Babylonia, receives revelations from his heavenly "Twin" and proclaims a universal religion synthesizing Christian, [[zoroastrianism|Zoroastrian]], and Buddhist elements; he is martyred under the Sasanian shah.
 
-| Figures | Concepts | Themes |
-|---|---|---|
-| [[mani]] | radical [[asha-druj|Light–Darkness dualism]]; the [[demiurge|evil maker of matter]] | the two principles and three times; the Religion of Light |
+| Figures  | Concepts            | Themes                                       |                        |                                                           |
+| -------- | ------------------- | -------------------------------------------- | ---------------------- | --------------------------------------------------------- |
+| [[mani]] | radical [[asha-druj | [[Light–Darkness dualism]]; the [[demiurge]] | evil maker of matter]] | the two principles and three times; the Religion of Light |
 
 ## II. Rapid Spread (c. 277–600 CE)
 

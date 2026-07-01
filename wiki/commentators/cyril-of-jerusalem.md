@@ -41,11 +41,17 @@ technical *ousia* language and is wary of *hypostasis* as a non-scriptural term 
 between Sabellian confusion (he likely has [[marcellus-of-ancyra|Marcellus]] in view) and
 subordinationist over-distinction.
 
+## Hillman's Revisionist Reading (Contradiction Protocol)
+
+[[hillman-original-sin|Hillman (2012)]] reads the *Mystagogical Catechesis* — specifically the stripping of initiates, full-body anointing with "exorcised oil," blindfolding, and the "fires of temptation" — as describing a catechetical ritual that culminated in anal sodomy administered by "exorcist" priests, with the doctrinal framing (summoning then rebuking the devil) serving as theological cover. Hillman treats Cyril's strict secrecy requirement ("tell no one the details") as institutional suppression of abuse evidence rather than theological discretion. This reading is not endorsed by mainstream patristics and is vigorously disputed; see [[early-christian-sexual-ethics-pagan-critique|Early Christian Sexual Ethics and the Pagan Critique]].
+
 ## Cross-links
 - [[baptism]] · [[confirmation]] · [[eucharist]] · [[sacraments]] · [[inspiration-of-scripture]]
 - [[trinity]] · [[holy-spirit]] · [[arian-controversy]] · [[pro-nicene-theology]] · [[homoiousians]] · [[nicaea-and-its-legacy]]
+- [[early-christian-sexual-ethics-pagan-critique|Early Christian Sexual Ethics and the Pagan Critique]] — controversy on the catechetical rites
 - [[kelly-early-christian-doctrines|Kelly, Early Christian Doctrines]] — source
 
 ## Sources Ingested
 - [[kelly-early-christian-doctrines|Kelly, *Early Christian Doctrines*]], chs. IX–X, XVI.
 - [[nicaea-and-its-legacy|Ayres, *Nicaea and Its Legacy*]] — Ch. 6.
+- [[hillman-original-sin|Hillman, *Original Sin* (2012)]] — heterodox reading of catechetical rites.

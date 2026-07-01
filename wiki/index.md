@@ -256,6 +256,7 @@ Master index of all pages. Updated on every ingest.
 - [[notes-on-the-lectures|Notes on the Lectures of L. Ron Hubbard]] — compiled from the 1950 LA/Oakland lecture series; the earliest lecture form of the Tone Scale, ARC, engrams, the Dynamics (new 2026-06-09)
 - [[scientology-8-8008|Scientology 8-8008]] — Hubbard (1952/1953); the Philadelphia Doctorate Course textbook; the most systematic pre-OT doctrinal statement; Four Parts of Man, Theta-MEST Theory, Chart of Attitudes, SOP 3, SOP 8, The Factors; anti-Nirvana statement; "Gods above Gods" passage (new 2026-06-10)
 - [[history-of-man|Scientology: A History of Man]] — Hubbard (1952); the Technique 88 manual; whole track (76 trillion years); the Genetic Entity and evolutionary incident line; theta-line incidents (Halver, Fac One, Between-Lives/Mars, theta traps, Transfer doctrine); the GE vs. thetan distinction; anti-mysticism statement (new 2026-06-10)
+- [[scientology-ot-levels|Technical Bulletins Vol. XIV: The O.T. Levels]] — Hubbard (1966–1991, compiled 1995); 612 pp.; OT 1–8, L Rundowns, Super Power; the HCOBs/policy framework of the confidential OT course; handwritten core materials (Xenu narrative, Incident I/II platens) referenced but not reproduced; L Rundowns and New OT 8 are Free Zone/ex-member reconstructions; two key controversies: Clear Cognition vs. Implant Theory; God as apophatic infinity vs. auditable past-life valence (new 2026-06-30)
 
 ### Greek and Roman Religion
 
@@ -973,6 +974,9 @@ Master index of all pages. Updated on every ingest.
 - [[kelly-early-christian-doctrines|J. N. D. Kelly, *Early Christian Doctrines*]] (Black, 1958; 4th ed. 1968) — standard one-volume survey of doctrinal development from the sub-apostolic age to Chalcedon, treated thematically. Four-scope plan (one per Part); **all four scopes (Parts I–IV, chs. I–XVII) read in full 2026-06-28**. Background and much doctrinal detail filed lean onto existing pages; the ingest generated ~33 new pages, including concepts [[apostolic-succession]], [[consensus-patrum]], [[inspiration-of-scripture]], [[theoria]], [[monarchianism]], [[patripassianism]], [[subordinationism]], [[oikonomia]], [[spirit-christology]], [[recapitulation]], [[homoousion]], [[theotokos]], [[logos-sarx-logos-anthropos]], [[semi-pelagianism]], [[confirmation]], [[traducianism]], [[apokatastasis]], [[neoplatonism]]; figures/commentators [[vincent-of-lerins]], [[diodore-of-tarsus]], [[theodore-of-mopsuestia]], [[john-chrysostom]], [[hippolytus]], [[novatian]], [[sabellius]], [[paul-of-samosata]], [[methodius]], [[pelagius]], [[leo-the-great]], [[eutyches]], [[cyril-of-jerusalem]], [[optatus]], [[hilary-of-poitiers]], [[marcellus-of-ancyra]], [[marius-victorinus]]; controversy [[pelagian-controversy]]; and sects [[nestorianism]], [[novatianism]]. Major hubs extended: [[rule-of-faith]], [[typology]], [[allegorical-reading]], [[nt-canon-formation]], [[arian-controversy]], [[original-sin]], [[chalcedonian-definition]], [[irenaeus]], [[tertullian]]. Key theses: Scripture and tradition "coincident in content" (vs. [[bauer-thesis]]); the East/West divide on [[original-sin|original sin]] (Contradiction Protocol). See [[kelly-early-christian-doctrines|source summary]] in scholarship/.
 - [[pelikan-emergence-catholic-tradition|Jaroslav Pelikan, *The Christian Tradition* Vol. I: *The Emergence of the Catholic Tradition (100–600)*]] (1971) — the standard modern history of doctrine; "doctrine is what the church believes, teaches, and confesses." Same period as Kelly but developmental/thematic. **Vol. I (chs. 1–7) read in full 2026-06-28.** Method/author hubs: [[jaroslav-pelikan|Jaroslav Pelikan]], [[development-of-doctrine|Development of Doctrine]] (the believing–teaching–confessing triad; hellenization vs. dehellenization), [[praeparatio-evangelica|Praeparatio Evangelica]] (the threefold preparation schema). New concept/figure pages: [[hellenization-of-christianity]], [[divine-impassibility]], [[criteria-of-apostolic-continuity]], [[christus-victor]], [[descent-into-hell]], [[lex-orandi-lex-credendi]], [[theopaschism]], [[neo-chalcedonianism]], [[justinian]], [[ex-opere-operato]], [[donum-superadditum]], [[gregory-the-great]], [[tatian]], [[theophilus-of-antioch]], [[athenagoras]]; extended [[christianity-apostasy-from-judaism]], [[eusebius-of-caesarea]], [[athanasius]], [[chalcedonian-definition]], [[theotokos]], [[original-sin]], [[grace]], [[atonement]]. Filed lean as an extension of the Kelly/Ayres patristic pages. See [[pelikan-emergence-catholic-tradition|source summary]] in scholarship/.
 
+### Scholarship (Early Christianity — Revisionist / Polemical)
+- [[hillman-original-sin|David C.A. Hillman, *Original Sin: Ritual Child Rape & the Church*]] (Ronin Publishing, 2012) — polemical/revisionist classical scholarship arguing that the catechetical initiation rite "fires of temptation" described by [[cyril-of-jerusalem|Cyril of Jerusalem]] and others constituted institutionalized ritual sodomy of young boys by "exorcist" priests; reads early Christian sexual ethics (Tertullian, Jerome, Ambrose) as political suppression of female oracular authority; Hillman's "original sin" ≠ Augustine's doctrine (Contradiction Protocol applies; see [[original-sin|Original Sin and the Fall]] for disambiguation). Generates [[early-christian-sexual-ethics-pagan-critique|Early Christian Sexual Ethics and the Pagan Critique]] controversy. **Read in full 2026-06-30** (18 chapters + epilogue). See [[hillman-original-sin|source summary]] in scholarship/.
+
 ### Scholarship (Reformation / Reformed Tradition)
 - [[barth-church-dogmatics-i1|Karl Barth, *Church Dogmatics* I.1, §§1–7]] — Prolegomena: the Word of God as criterion of dogmatics; task of dogmatics; prolegomena; church proclamation; threefold Word; nature and knowability of the Word; dogma and dogmatics. Read in full 2026-06-27. Grounds [[dogmatics]], [[analogia-fidei]], [[analogia-entis]], [[church-proclamation]], [[threefold-word-of-god]], [[knowability-of-the-word-of-god]], [[dogma-barth]], [[dogmatics-as-science]], [[word-of-god]] concept pages; creates [[natural-theology]] and [[scripture-church-normativity-in-dogmatics]] controversy pages; extends [[karl-barth]] commentator page.
 - [[barth-church-dogmatics-i1-s8-12|Karl Barth, *Church Dogmatics* I.1, §§8–12]] — Revelation of God: the Triune God; §8 (God in His Revelation; Trinity as root of revelation); §9 (Triunity of God); §10 (God the Father); §11 (God the Son); §12 (God the Holy Spirit). §8 read in full 2026-06-27. Grounds [[revealer-revelation-revealedness]] and [[vestigium-trinitatis]] concept pages; extends [[trinity]], [[karl-barth]].
@@ -1249,7 +1253,10 @@ Master index of all pages. Updated on every ingest.
 - [[thetan|Thetan]] — the immortal spiritual being that is the true self; godlike origin, trapped in matter
 - [[engram|Engram]] — the reactive mind's recordings of pain/unconsciousness; the source of suffering
 - [[auditing|Auditing]] — the core practice (E-meter); the Bridge to Total Freedom; Clear and the OT levels
-- [[operating-thetan|Operating Thetan (OT Levels)]] — the confidential upper levels; OT III / the Xenu narrative; body thetans; legal battles over secrecy ([[urban-church-of-scientology|Urban]])
+- [[operating-thetan|Operating Thetan (OT Levels)]] — the confidential upper levels; OT III / the Xenu narrative; body thetans; OT 7 intention-projection; OT 8 "why thetans mock up"; L Rundowns; Super Power; legal battles over secrecy ([[urban-church-of-scientology|Urban]]) (updated 2026-06-30)
+- [[body-thetans|Body Thetans (BTs)]] — thetans stuck to another thetan/body; origin in Incident II; NOTs extended doctrine (auras, generational transfer, collective identity); physical illness claims (new 2026-06-30)
+- [[goals-problems-mass|Goals Problems Mass (GPMs)]] — the deep implanted structure of the reactive mind; OT 2 Clearing Course content; non-line-plot incidents (new 2026-06-30)
+- [[ot-levels-overview|OT Levels — Level-by-Level Overview]] — Clear through OT 8 plus L Rundowns and Super Power; what each level teaches, its EP, and key doctrines; summary table; hermeneutical note on verbatim application (new 2026-06-30)
 - [[fair-game|Fair Game]] — 1965 policy authorizing any means against Suppressive Persons; officially "canceled" 1968 but documented in use thereafter (Snow White, Operation Freakout, CAN takeover) ([[urban-church-of-scientology|Urban]])
 - [[tone-scale|The Tone Scale]] — the graded scale of emotional tones used to predict behavior (Science of Survival)
 - [[arc-triangle|The ARC Triangle]] — Affinity, Reality, Communication = understanding; Communication is "thousands of percent the senior" (8-8008)
@@ -1815,6 +1822,9 @@ a `sects/` page, cross-linked.)*
 
 ## Controversies
 
+### Early Christian Sexual Ethics and the Pagan Critique (2026-06-30; [[hillman-original-sin|Hillman]])
+- [[early-christian-sexual-ethics-pagan-critique|Early Christian Sexual Ethics and the Pagan Critique]] — four-position controversy: (1) mainstream patristics (catechetical rites = symbolic); (2) Hillman's revisionist reading (literal sodomy in the "fires of temptation"); (3) ancient pagan polemicists (Celsus, Porphyry, Minucius Felix); (4) feminist/critical historical (Pagels, Brown). Text loci: [[cyril-of-jerusalem|Cyril of Jerusalem]]'s *Mystagogical Catechesis*; Prudentius' *Psychomachia*; [[origen|Origen]]'s *Commentary on Song of Songs*; [[clement-of-alexandria|Clement of Alexandria]]'s *Exhortation to the Greeks*. **Open** (new 2026-06-30)
+
 ### Christian Christology / Patristic Philosophy (2026-06-28; [[zachhuber-rise-of-christian-theology|Zachhuber]])
 - [[chalcedonian-definition|The Chalcedonian Definition as a Crisis of the Classical Theory]] — Chalcedon's "two natures in one hypostasis" was philosophically unsupported by the Cappadocian [[ousia-hypostasis-distinction|classical theory]] (which lacked an account of individuation); the three resulting positions (Chalcedonian dyophysitism / Cyrilline-miaphysite *mia physis* / Antiochene-"Nestorian" two-hypostases) and the permanent ecclesial split; the engine of later patristic philosophy (new 2026-06-28)
 - [[tritheist-controversy|The Tritheist Controversy (sixth century)]] — intra-[[oriental-orthodoxy|miaphysite]] dispute over whether "particular natures" entail three substances/gods in the Trinity; John Ascoutzanges → Philoponus's "three substances, natures, and divinities" vs. Theodosius of Alexandria's anti-tritheism; the Chalcedonian charge that particularism leads "inevitably to tritheism" (new 2026-06-28)
@@ -1878,6 +1888,8 @@ a `sects/` page, cross-linked.)*
 
 ### Scientology (2026-06-09)
 - [[scientology-religion-or-commercial-enterprise|Religion, Commercial Enterprise, or Cult?]] — the contested status of Scientology; a live test of the definition of "religion"
+- [[clear-cognition-vs-implant-theory|Clear Cognition vs. Implant Theory]] — self-generated bank (Clear Cognition) vs. externally implanted bank (OT 2/GPM theory): two incompatible accounts of the reactive mind's origin within the same corpus (new 2026-06-30)
+- [[scientology-god-8th-dynamic|Scientology and the 8th Dynamic]] — God as apophatic infinity (Super Power: "cannot be defined in MEST terms") vs. God/Buddha/Devil as auditable past-life valences (L12 Character List): irreconciled within the same volume (new 2026-06-30)
 - [[lisa-mcpherson-case|Lisa McPherson Case]] — death December 5, 1995 (17 days isolation, Introspection Rundown, Fort Harrison Hotel, Clearwater); Rathbun admitted destroying evidence and neutralizing the medical examiner; criminal charges dropped; civil case settled 2004; ~$20–30M spent (Wright)
 - [[hubbard-military-records-forgery|Hubbard Military Records Forgery]] — Church's "Notice of Separation" document found to be a forgery by two St. Louis archivists (phantom signatory, font inconsistencies, nonexistent medals); official Navy record shows Hubbard not qualified for command (Wright)
 - [[armstrong-case|Armstrong Case (1982–1986)]] — Church v. Gerald Armstrong; Judge Breckenridge (June 22, 1984): Hubbard "schizophrenic and paranoid," "pathological liar"; Church "corrupt"; Armstrong's document-saving justified; settled $800,000 (new 2026-06-10)
@@ -2041,7 +2053,7 @@ a `sects/` page, cross-linked.)*
 - [[rabbenu-gershom]]
 - [[sherira-gaon]]
 - [[isaiah-job-servant-direction]]
-- [[flood-universality]]
+- [[flood-universality|Universality of the Flood]]
 - [[jephthah-vow]]
 - [[paris-trial-1240]]
 - [[women-and-worship]]
@@ -2181,3 +2193,35 @@ a `sects/` page, cross-linked.)*
 ### Controversies
 - [[christianity-mithraism-parallels|Christianity and Mithraism: Parallels, Dependence, or Common Soil?]]
 - [[freemasonry-ancient-mysteries-descent|Does Freemasonry Descend from the Ancient Mystery Cults?]]
+
+## Dante, The Divine Comedy — Added 2026-06-29 (Kirkpatrick translation; Introduction + Inferno, 3 Sonnet extraction passes + main-thread recovery)
+
+### Texts
+- [[divine-comedy|The Divine Comedy (Commedia)]] — main text page (overview, canon, themes, sources, manuscript tradition, coverage ledger)
+- [[inferno|Inferno (Cantica 1)]] — the plan of Hell, cantos and figures, contrapasso
+
+### Figures
+- [[dante-alighieri|Dante Alighieri]] (figure) · [[beatrice|Beatrice]] · [[virgil|Virgil]] · [[statius|Statius]]
+- [[francesca-da-rimini|Francesca da Rimini]] · [[farinata-degli-uberti|Farinata degli Uberti]] · [[pier-della-vigna|Pier della Vigna]] · [[brunetto-latini|Brunetto Latini]] · [[ulysses-dante|Ulysses (in Dante)]] · [[guido-da-montefeltro|Guido da Montefeltro]] · [[ugolino|Count Ugolino]]
+- Extended: [[satan|Satan]] (Inferno 34), [[muhammad|Muhammad]] (Inferno 28 reception)
+
+### Commentators
+- [[dante-alighieri-poet|Dante Alighieri (as poet-theologian)]] · [[robin-kirkpatrick|Robin Kirkpatrick]]
+
+### Concepts
+- [[contrapasso|Contrapasso]] — new; extended [[hell|Hell]], [[limbo|Limbo]], [[evil-as-privation|Evil as privation]]
+
+### Groups / Locations
+- [[guelphs-and-ghibellines|Guelphs and Ghibellines]] · [[florence|Florence]]
+
+### Purgatorio (Cantica 2) — Added 2026-06-29 (3 Sonnet extraction passes)
+- [[purgatorio|Purgatorio (Cantica 2)]] — Ante-Purgatory, the seven terraces, the Earthly Paradise
+- [[matelda|Matelda]] (figure) — guide of the Earthly Paradise
+- Extended: [[statius|Statius]] (Purg. 21–25), [[purgatory|Purgatory]] (concept), [[virgil|Virgil]]/[[beatrice|Beatrice]] (the handover at the summit)
+- Inline (cantica page): Cato, Manfred, Buonconte, Sordello, Oderisi, Sapia, Marco Lombardo (free will / two suns), Pope Adrian V, Hugh Capet, Forese Donati, Bonagiunta (dolce stil novo), Guido Guinizelli, Arnaut Daniel
+
+### Paradiso (Cantica 3) — Added 2026-06-29 (3 Sonnet extraction passes) — Divine Comedy ingest complete
+- [[paradiso|Paradiso (Cantica 3)]] — the nine spheres, the Empyrean, the final vision
+- [[cacciaguida|Cacciaguida]] · [[bernard-of-clairvaux|Bernard of Clairvaux]] · [[piccarda-donati|Piccarda Donati]] (figures)
+- Extended: [[justinian|Justinian]] (Par. 6, the Roman Eagle), [[thomas-aquinas|Aquinas]] (Par. 10–14), [[beatific-vision|Beatific Vision]] (Par. 33)
+- Inline (cantica page): Charles Martel, Cunizza, Folco, Rahab, St Francis, St Dominic, Solomon, the Eagle of justice, Trajan & Ripheus, Peter Damian, St Benedict, St Peter/James/John, Adam, the angelic orders, the Celestial Rose

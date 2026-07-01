@@ -27,9 +27,9 @@ Animistic veneration of the [[kami]] — the spirits of nature, place, and ances
 
 The court compiles the [[kojiki|Kojiki]] (712) and [[nihongi|Nihon Shoki]] (720), fixing the myth-cycle that legitimates the imperial line; encounter and fusion with [[buddhism|Buddhism]] (*shinbutsu-shūgō*).
 
-| Deities | Texts | Themes |
-|---|---|---|
-| [[amaterasu]] · [[susanoo]] · [[tsukuyomi]] · [[izanagi-and-izanami]] · [[ninigi]] · [[jimmu|Jimmu]] · [[ame-no-uzume]] · [[okuninushi]] | [[kojiki]] · [[nihongi]] | the descent of the imperial line from [[amaterasu]]; *kami*–Buddha syncretism |
+| Deities                                                                                        | Texts                                         | Themes                   |                                                                               |
+| ---------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------ | ----------------------------------------------------------------------------- |
+| [[amaterasu]] · [[susanoo]] · [[tsukuyomi]] · [[izanagi-and-izanami]] · [[ninigi]] · [[jimmu]] | [[Jimmu]] · [[ame-no-uzume]] · [[okuninushi]] | [[kojiki]] · [[nihongi]] | the descent of the imperial line from [[amaterasu]]; *kami*–Buddha syncretism |
 
 ## III. Medieval Syncretism (Kamakura–Edo, 1185–1868)
 

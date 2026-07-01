@@ -51,9 +51,9 @@ After the Temple's destruction, the rabbis at Yavneh rebuild Judaism around Tora
 
 The Palestinian and Babylonian academies produce the two Talmuds.
 
-| Texts / Concepts | Centres | Themes |
-|---|---|---|
-| [[talmud-yerushalmi|Jerusalem Talmud]] · [[talmud-bavli|Babylonian Talmud]] · [[gemara]] · [[aggadah]] | Sura, Pumbedita (Babylonia); Tiberias (Galilee) | [[talmudic-hermeneutics]] · [[halacha]] · early [[merkabah|Merkabah mysticism]] |
+| Texts / Concepts    | Centres                             | Themes                                           |                                                 |                                                            |                      |
+| ------------------- | ----------------------------------- | ------------------------------------------------ | ----------------------------------------------- | ---------------------------------------------------------- | -------------------- |
+| [[talmud-yerushalmi | Jerusalem Talmud]] · [[talmud-bavli | [[Babylonian Talmud]] · [[gemara]] · [[aggadah]] | Sura, Pumbedita (Babylonia); Tiberias (Galilee) | [[talmudic-hermeneutics]] · [[halacha]] · early [[merkabah | Merkabah mysticism]] |
 
 ## VI. The Geonim (c. 500–1000 CE)
 

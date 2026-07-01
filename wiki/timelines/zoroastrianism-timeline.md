@@ -19,17 +19,17 @@ A chronological hub for the religion of [[zarathustra|Zarathustra]] — one of t
 
 The prophet [[zarathustra|Zarathustra]] proclaims [[ahura-mazda|Ahura Mazda]] as the one wise Lord, opposed by the hostile spirit [[angra-mainyu|Angra Mainyu]] — the root of Zoroastrian [[asha-druj|dualism]]. His own words survive in the [[gathas|Gāthās]].
 
-| Figures / Concepts | Texts | Themes |
-|---|---|---|
-| [[zarathustra]] · [[ahura-mazda]] · [[angra-mainyu]] · [[amesha-spentas|Amesha Spentas]] | [[gathas]] | the cosmic struggle of [[asha-druj|aša vs. druj]] (truth vs. the lie); moral choice |
+| Figures / Concepts                                                        | Texts              | Themes     |                                    |                                                  |
+| ------------------------------------------------------------------------- | ------------------ | ---------- | ---------------------------------- | ------------------------------------------------ |
+| [[zarathustra]] · [[ahura-mazda]] · [[angra-mainyu]] · [[amesha-spentas]] | [[Amesha Spentas]] | [[gathas]] | the cosmic struggle of [[asha-druj | aša vs. druj]] (truth vs. the lie); moral choice |
 
 ## II. The Achaemenid Period (c. 550–330 BCE)
 
 Zoroastrian (or Mazdean) religion becomes the faith of the Persian Empire; the [[magi|Magi]] as priestly caste; encounter with the [[judaism|Jewish]] exiles.
 
-| Figures | Concepts | Themes |
-|---|---|---|
-| [[magi]] · [Darius] · [Cyrus] | [[fravashi|fravashis]] · [[xwarenah|khvarenah (divine glory)]] · [[anahita]] · [[mitra]] | royal patronage; possible influence on Jewish [[angels|angelology]] and eschatology |
+| Figures                       | Concepts   | Themes                   |                                                      |                                                        |                              |
+| ----------------------------- | ---------- | ------------------------ | ---------------------------------------------------- | ------------------------------------------------------ | ---------------------------- |
+| [[magi]] · [Darius] · [Cyrus] | [[fravashi | fravashis]] · [[xwarenah | khvarenah (divine glory)]] · [[anahita]] · [[mitra]] | royal patronage; possible influence on Jewish [[angels | angelology]] and eschatology |
 
 ## III. The Sasanian Codification (224–651 CE)
 

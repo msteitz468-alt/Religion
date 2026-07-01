@@ -13,7 +13,7 @@ tags: [concept, christianity, eschatology, hell, scholasticism, aquinas]
 punishment of the damned. [[thomas-aquinas|Aquinas]] treats it at the close of the
 [[summa-theologica|*ST*]] Supplement (XP Q97–Q99 and the surrounding Appendix material), where the
 *Summa* as compiled concludes. The doctrine is the dark counterpart to the [[beatific-vision|vision
-of God]] enjoyed by the blessed, and is bound up with his account of [[eternal-punishment|eternal
+of God]] enjoyed by the blessed, and is bound up with his account of [[eternal-punishment]]|[[eternal
 punishment]] and divine justice.
 
 ## The punishment of the damned (Supplement XP Q97)
@@ -55,11 +55,22 @@ associated with Origen, which Aquinas names and rejects (see also suffrages,
 which do not avail the damned). Debates over the corporeality of hell's fire and the precise nature of
 its pains continue within and across traditions.
 
+## Literary Imagination: Dante's Inferno
+
+The most influential imaginative depiction of hell in the Western tradition is
+[[dante-alighieri|Dante]]'s [[inferno|Inferno]]: a graded funnel of nine circles
+ordering sin by how deliberately it corrupts reason (intemperance → violence →
+fraud → treachery), each penalty a [[contrapasso|contrapasso]] mirroring the sin.
+Dante's hell is notable for presenting [[satan|Satan]] as an impotent
+anti-climax — the embodiment of [[evil-as-privation|evil as privation]] — rather
+than a grand rebel, and for proclaiming the whole apparatus a work of divine
+"Justice… Wisdom… and Primal Love."
+
 ## Related
 
 - [[eternal-punishment]] · [[purgatory]] · [[limbo]] · [[bodily-resurrection]] · [[last-judgment]] ·
-  [[beatific-vision]]
-- [[thomas-aquinas]] · [[summa-theologica]] · [[augustine]]
+  [[beatific-vision]] · [[contrapasso]]
+- [[thomas-aquinas]] · [[summa-theologica]] · [[augustine]] · [[inferno|Inferno]]
 
 ## Sources Ingested
 

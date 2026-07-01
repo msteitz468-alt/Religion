@@ -19,9 +19,9 @@ A chronological hub for the religion of the Germanic and Norse peoples — the w
 
 The early Germanic gods, attested by Tacitus and by interpretatio Romana; [[tyr|Týr]] and [[odin|Wodan/Óðinn]] in the early pantheon.
 
-| Deities | Sources | Themes |
-|---|---|---|
-| [[tyr]] · [[odin]] · [[thor|Þórr]] | Tacitus's *Germania*; runic inscriptions | the war-god and the sky-god; sacral kingship |
+| Deities                       | Sources  | Themes                                   |                                              |
+| ----------------------------- | -------- | ---------------------------------------- | -------------------------------------------- |
+| [[tyr]] · [[odin]] · [[thor]] | [[Þórr]] | Tacitus's *Germania*; runic inscriptions | the war-god and the sky-god; sacral kingship |
 
 ## II. The Viking Age (c. 793–1066 CE)
 

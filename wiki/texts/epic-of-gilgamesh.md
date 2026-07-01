@@ -37,7 +37,8 @@ immortal by the gods.
 great flood** (because their noise disturbed [[enlil|Enlil]]); but the god **[[enki|Ea]]** warned Utnapishtim,
 who **built a great boat**, loaded it with his family, craftsmen, and animals, and survived the deluge. When
 the waters receded he **released birds** to find land and offered **sacrifice**, and the gods (regretting the
-flood) granted him **immortality**. The parallels with Noah are striking.
+flood) granted him **immortality**. The parallels with Noah are striking, and supply the
+literary-historical case in the dispute over [[flood-universality|the Flood's scope]].
 
 **The failure.** Utnapishtim sets Gilgamesh a test — to stay awake seven days — which he fails at once,
 proving he cannot conquer even sleep, let alone death. He is told of a **plant of rejuvenation** at the

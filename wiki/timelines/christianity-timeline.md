@@ -19,17 +19,17 @@ A chronological hub for the Christian tradition, linking the figures, texts, cou
 
 The Jesus movement emerges within Second Temple Judaism and spreads across the Roman world; the earliest writings (Paul's letters, then the Gospels) take shape. See [[christianity-apostasy-from-judaism|the parting of the ways]].
 
-| Figures | Texts | Developments / Controversies |
-|---|---|---|
-| [[jesus-of-nazareth]] · [[paul-apostle]] · [[peter-apostle]] · [[john-the-baptist]] · [[james-the-just]] · [[mary-magdalene]] · [[stephen-protomartyr]] | [[romans]] · [[1-corinthians]] · [[galatians]] · [[mark]] · [[matthew]] · [[luke]] · [[gospel-of-john]] · [[acts]] | [[kyrios-christology-origins|origins of Kyrios-Christology]] · [[exaltation-christology]] · [[resurrection-appearances-visions]] · [[burial-of-jesus]] |
+| Figures                                                                                                                                                 | Texts                                                                                                              | Developments / Controversies |                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| [[jesus-of-nazareth]] · [[paul-apostle]] · [[peter-apostle]] · [[john-the-baptist]] · [[james-the-just]] · [[mary-magdalene]] · [[stephen-protomartyr]] | [[romans]] · [[1-corinthians]] · [[galatians]] · [[mark]] · [[matthew]] · [[luke]] · [[gospel-of-john]] · [[acts]] | [[kyrios-christology-origins | [[origins of Kyrios-Christology]] · [[exaltation-christology]] · [[resurrection-appearances-visions]] · [[burial-of-jesus]] |
 
 ## II. Sub-Apostolic & Apologetic Age (c. 100–180 CE)
 
 The Apostolic Fathers and Apologists; the [[logos-christology|Logos theology]] and the first defences against Rome and against rival Christianities.
 
-| Figures | Texts / Concepts | Developments / Controversies |
-|---|---|---|
-| [[ignatius-of-antioch]] · [[polycarp]] · [[clement-of-rome]] · [[papias]] · [[justin-martyr]] · [[marcion]] · [[valentinus]] · [[basilides]] | [[didache]] · [[1-clement]] · [[shepherd-of-hermas]] · [[first-apology-justin]] · [[nag-hammadi-library]] · [[logos-christology]] · [[rule-of-faith]] | [[marcionism|Marcionite crisis]] · [[gnosticism|Gnostic systems]] · [[montanism|Montanist prophecy]] · [[nt-canon-formation|canon formation begins]] |
+| Figures                                                                                                                                      | Texts / Concepts                                                                                                                                      | Developments / Controversies |                                    |                                 |                                             |                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------- | ------------------------------- | ------------------------------------------- | ------------------------ |
+| [[ignatius-of-antioch]] · [[polycarp]] · [[clement-of-rome]] · [[papias]] · [[justin-martyr]] · [[marcion]] · [[valentinus]] · [[basilides]] | [[didache]] · [[1-clement]] · [[shepherd-of-hermas]] · [[first-apology-justin]] · [[nag-hammadi-library]] · [[logos-christology]] · [[rule-of-faith]] | [[marcionism                 | Marcionite crisis]] · [[gnosticism | Gnostic systems]] · [[montanism | Montanist prophecy]] · [[nt-canon-formation | canon formation begins]] |
 
 ## III. The Old Catholic Age (c. 180–250 CE)
 

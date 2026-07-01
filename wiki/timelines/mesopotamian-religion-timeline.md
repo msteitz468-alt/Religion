@@ -19,9 +19,9 @@ A chronological hub for the religions of ancient Sumer, Akkad, Babylon, and Assy
 
 City-state religion centred on temple and ziggurat; each city the household of its patron deity. The high gods of the pantheon take shape.
 
-| Deities | Concepts / Texts | Themes |
-|---|---|---|
-| [[anu]] · [[enlil]] · [[enki]] · [[ishtar|Inanna]] · [[nanna-sin]] · [[utu-shamash]] · [[ninhursag]] · [[dumuzi]] | the temple economy; [[sacred-kingship|divine kingship]] | the gods as city patrons; the *me* (divine ordinances) |
+| Deities                                     | Concepts / Texts                                                          | Themes                                  |                     |                                                        |
+| ------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------- | ------------------- | ------------------------------------------------------ |
+| [[anu]] · [[enlil]] · [[enki]] · [[ishtar]] | [[Inanna]] · [[nanna-sin]] · [[utu-shamash]] · [[ninhursag]] · [[dumuzi]] | the temple economy; [[sacred-kingship]] | [[divine kingship]] | the gods as city patrons; the *me* (divine ordinances) |
 
 ## II. The Akkadian & Old Babylonian Period (c. 2300–1600 BCE)
 
@@ -35,9 +35,9 @@ Political unification under Akkad and Babylon; [[marduk|Marduk]] rises to head t
 
 The Assyrian state god [Aššur] ascends; astral religion, divination, and omen-reading dominate; the underworld theology matures.
 
-| Deities | Concepts | Themes |
-|---|---|---|
-| [Aššur] · [[nergal]] · [[ereshkigal]] | the [[mesopotamian-underworld|underworld (Kur/Irkalla)]]; astrology and omens | imperial cult; celestial divination |
+| Deities                                 | Concepts                        | Themes                                            |                                     |
+| --------------------------------------- | ------------------------------- | ------------------------------------------------- | ----------------------------------- |
+| [[Aššur]] · [[nergal]] · [[ereshkigal]] | the [[mesopotamian-underworld]] | [[underworld (Kur/Irkalla)]]; astrology and omens | imperial cult; celestial divination |
 
 ## IV. Persian, Hellenistic & Decline (539 BCE – c. 100 CE)
 

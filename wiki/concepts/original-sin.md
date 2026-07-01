@@ -2,8 +2,8 @@
 title: Original Sin and the Fall
 domain: theology
 traditions_using: [Christianity]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-06-30
 tags: [concept, christianity, anthropology, augustine, sin, grace]
 ---
 
@@ -74,6 +74,14 @@ sinned" (Rom. 5:12).
 
 This divide is the deep background to the [[pelagian-controversy|Pelagian controversy]]; [[theodore-of-mopsuestia|Theodore]] was even branded "an Eastern Pelagius" (a charge Kelly doubts). See also [[traducianism]] (the soul-origin question that governs transmission), [[grace]], [[predestination]].
 
+## Hillman's Revisionist Usage (Contradiction Protocol)
+
+[[hillman-original-sin|Hillman, *Original Sin: Ritual Child Rape & the Church* (2012)]] uses the phrase "original sin" in a radically different sense from Augustine — not as a doctrinal category but as a polemical label for what he argues is the **founding institutional sin of the Church**: the ritual sodomy of young boys during catechetical initiation. Hillman's "original sin" = child rape as the constitutive founding act of early Christianity.
+
+This usage has no connection to the Augustinian tradition's doctrinal definition. Hillman's argument is heterodox, non-peer-reviewed, and vigorously disputed by mainstream patristics scholars — see [[early-christian-sexual-ethics-pagan-critique|Early Christian Sexual Ethics and the Pagan Critique]] for the full controversy, including the mainstream reading of [[cyril-of-jerusalem|Cyril of Jerusalem]]'s catechetical rites that Hillman interprets as describing literal sodomy. (Contradiction Protocol applies: both readings are recorded without adjudication.)
+
+Hillman does engage the Augustinian tradition's linkage of original sin to **concupiscence and sexual shame** — arguing that the anti-sexual theology of Tertullian, Jerome, and Ambrose was itself politically motivated (to suppress female oracular authority and pagan mystery cults), and that Augustine's later doctrinal formulation inherits and systematizes this political program.
+
 ## Cross-Links
 
 - [[kelly-early-christian-doctrines|Kelly, Early Christian Doctrines]] · [[pelagian-controversy]] · [[semi-pelagianism]] · [[traducianism]] · [[pelagius]]
@@ -82,3 +90,4 @@ This divide is the deep background to the [[pelagian-controversy|Pelagian contro
 - [[adam|Adam]], [[eve|Eve]] — the first parents.
 - [[fourfold-sense]], [[typology]] — Eden read as literal history *and* figure (Augustine rejects pure
   allegorism while permitting typology).
+- [[early-christian-sexual-ethics-pagan-critique|Early Christian Sexual Ethics and the Pagan Critique]] — pagan polemic + Hillman's revisionist reading of catechetical initiation rites.
