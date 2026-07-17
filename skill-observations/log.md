@@ -223,3 +223,46 @@ DECLINED = user decided not to pursue
 **Suggested improvement:** Before partitioning the LAST scope of a book, locate not just the index but the **start of the back matter** (bibliography / "Selected Secondary Works" / notes / "INDEX") and set the body-end to the first of those. A quick `grep -nE "bibliograph|selected (secondary|works)|^notes|^index"` over the tail, then read a few lines around the hit to confirm prose vs. apparatus.
 
 **Principle:** A book's "end" for ingest is where the *argument* ends, not where the file ends. Back matter (bibliography, index, appendices) is often 10–15% of an OCR/extracted text; mis-estimating the body-end wastes a whole subagent on apparatus. Verify the prose/apparatus boundary, don't infer it from the index marker alone.
+
+### Observation 16: Obsidian table auto-format breaks aliased wikilinks in timeline matrices
+
+**Date:** 2026-06-29
+**Session context:** User reported "links not completed" in wiki/timelines; found christianity/comparative/islam timeline tables corrupted.
+**Skill:** Wiki maintenance / lint workflow (CLAUDE.md timeline conventions)
+**Type:** internal
+**Phase/Area:** Timeline hub tables; lint_wiki.py red-link detection
+
+**Issue:** Three timeline files had their tables silently mangled by an Obsidian table auto-formatter (likely the table/prettier plugin triggered on save). The formatter treated the `|` inside `[[slug|alias]]` wikilinks as table-column delimiters, splitting each aliased link into two broken halves (`[[slug` + `alias]]`) and inflating tables with bogus columns. This produced ~70 red links flagged by lint_wiki.py. The clean versions were intact in git HEAD; `git checkout HEAD --` on the three files fully resolved it.
+
+**Suggested improvement:** CLAUDE.md timeline conventions already warn about backslash-escaped pipes in wikilinks inside tables. Extend that warning: aliased pipes inside table-cell wikilinks are fragile against Obsidian's table formatter. When lint surfaces a cluster of red links whose targets are valid-slug + space/diacritic fragments all from the same timeline file, suspect table-formatter corruption and diff against HEAD before hand-fixing links. Consider disabling table auto-format for wiki/timelines, or using HTML/non-table layout for the matrix.
+
+**Principle:** A burst of red links localized to recently-modified files with split-token targets is a signature of mechanical reformatting, not authoring errors — check version control before manual repair.
+
+### Observation 17: Subagent silent-hang is a third failure mode the recovery clause should name
+
+**Date:** 2026-06-29
+**Session context:** Ingesting *The Divine Comedy*. Deployed 3 background Sonnet agents over disjoint Inferno line-ranges (cantos 1–11, 12–23, 24–34), each with a pre-cut cache file. Agents A and C completed and wrote their notes files. Agent B (cantos 12–23) read its full range, emitted the assistant message "Now I have enough material. Let me write the structured notes file." — and then never wrote the file. Its transcript mtime stopped advancing for ~18 minutes with no error, no 429, no content-filter block. The main thread detected the stall by comparing transcript mtime to wall-clock, stopped the agent, and recovered the range itself from the pre-cut cache slice (the Kirkpatrick notes file gave per-canto sin/contrapasso/figures).
+
+**Skill:** Religion-wiki CLAUDE.md "Deployed Subagent Strategy" (Step 3 recovery clause)
+**Type:** internal
+**Phase/Area:** Ingest workflow — subagent failure recovery
+
+**Issue:** Step 3 names rate-limit (429) failures; Observation 13 added content-filter blocks. This session surfaced a third mode: a **silent hang** where the agent completes its reading and announces intent to write, then stalls indefinitely with no terminal error and no output file. Unlike 429/filter failures, nothing notifies you — the agent just sits "running." Detection requires actively comparing the transcript's mtime against wall-clock (a stalled transcript = hung agent), since the completion notification never fires.
+
+**Suggested improvement:** Generalize the Step 3 recovery clause once more: "any subagent that doesn't return a usable artifact — rate limit, content-filter block, crash, OR silent hang (transcript mtime frozen while status shows 'running' and no output file appears) — is recovered by the main thread from the pre-cut cache slice." Add: when several agents are deployed and most finish quickly, treat a lone straggler whose transcript hasn't advanced in ~10+ min as hung; stop it and recover rather than waiting on a notification that won't come. This vindicates pre-cutting cache slices (Obs 13): recovery cost was one Read of the notes slice.
+
+**Principle:** A delegation-recovery design must key off "no usable artifact came back," detected by a liveness signal the main thread controls (output-file presence + transcript mtime), not off receiving an error. Some failures are silent; if recovery waits for an error event, it waits forever. Pre-staged inputs make any single-chunk recovery cheap regardless of failure cause. [[deployed-subagent-recovery]]
+
+### Observation 18: Boundary gap when OT 8 content straddles two cache ranges
+
+**Date:** 2026-06-30
+**Session context:** Ingesting Scientology OT Levels PDF (22K lines, 7 agents). Range E ended at the title of OT 8 with no body; Range F began with the Free Zone debrief. Agent E correctly flagged the gap; main thread recovered by reading lines 15590–15720 directly.
+**Skill:** Religion-wiki CLAUDE.md "Deployed Subagent Strategy" (Step 3)
+**Type:** internal
+**Phase/Area:** Ingest workflow — cache range boundary alignment
+
+**Issue:** Splitting cache files at even line numbers without checking whether a critical section starts near that boundary caused the original OT 8 HCOB body to fall in neither range E nor range F — the title was in E, the body in F, but Agent F began with the Free Zone debrief and treated OT 8 as already covered. Flagging by Agent E enabled recovery (main thread read directly), but a brief two-agent gap occurred.
+
+**Suggested improvement:** Before finalizing cache splits, grep for "theologically critical" section headers (in this corpus: HCOB titles marked SECRET) and verify that no critical section straddles a split boundary. If one does, adjust the boundary ±50 lines to include the complete section in one agent. Add to Step 2 of the Deployed Subagent Strategy: "For text with clearly demarcated high-importance sections, verify that no section header falls within 20 lines of a split point."
+
+**Principle:** Cache splits at round line numbers are convenient but theologically naive — align splits to section boundaries for high-stakes content, especially when sections are short enough that their entire body could easily straddle a boundary.
