@@ -138,11 +138,11 @@ Master index of all pages. Updated on every ingest.
 
 ### Latter-day Saint Scriptures (Restorationist)
 
-*(Added 2026-06-09 — the open Mormon canon; the headline `canon_scope` case.)*
+*(Added 2026-06-09 — the open Mormon canon; the headline `canon_scope` case. **Full primary-text reingest 2026-07-17**.)*
 
-- [[book-of-mormon|The Book of Mormon]] — "Another Testament"; `canonical_for [latter-day-saints]`, `deuterocanonical_for [community-of-christ]`, `rejected_by` historic Christianity; presents itself as continuing the biblical narrative; Gutenberg text ingested
-- [[doctrine-and-covenants|The Doctrine and Covenants]] — modern revelations; the open/additive canon; sacred-texts edition ingested
-- [[pearl-of-great-price|The Pearl of Great Price]] — Books of Moses & Abraham, Joseph Smith—History, Articles of Faith; canon for the LDS but not the Community of Christ; sacred-texts edition ingested
+- [[book-of-mormon|The Book of Mormon]] — "Another Testament"; full narrative structure (1 Nephi–Moroni), tree of life, Alma plan of salvation, 3 Nephi Christophany, Moroni 10; `canonical_for [latter-day-saints]`, `deuterocanonical_for [community-of-christ]`; Gutenberg text **reingested in full** 2026-07-17
+- [[doctrine-and-covenants|The Doctrine and Covenants]] — modern revelations §§1–138; degrees of glory (§76), Word of Wisdom (§89), temple/dead (§128), eternal/plural marriage (§132); open/additive canon; sacred-texts **reingested in full** 2026-07-17
+- [[pearl-of-great-price|The Pearl of Great Price]] — Moses (work and glory; Zion of Enoch), Abraham (Kolob; intelligences), JS-History (First Vision), Articles of Faith; LDS-only among Restoration canons; **reingested in full** 2026-07-17
 - [[science-and-health|Science and Health (Eddy)]] — the Christian Science textbook; `authoritative_for [christian-science]` (paired with the Bible as "pastor"); Gutenberg text ingested
 
 ### Islam (Qur'an and Hadith)
@@ -488,8 +488,16 @@ Master index of all pages. Updated on every ingest.
 - [[anahita|Anahita]] — the yazata of the waters, fertility, and martial sovereignty; the Artaxerxes II image-cult; Greek Anaitis (new 2026-06-09)
 - See also [[mitra|Mithra]] (Iranian yazata of contract/sun) and [[yama|Yima/Jamshid]] (first king, golden age) — extended with their Iranian material (2026-06-09)
 
-### Restorationist Christianity (2026-06-09)
+### Restorationist Christianity (2026-06-09; expanded 2026-07-17)
 - [[joseph-smith|Joseph Smith]] (1805–1844) — founder and first prophet of the Latter Day Saint movement; translator/revelator of the Book of Mormon, D&C, and Pearl of Great Price; martyred at Carthage
+- [[nephi|Nephi (son of Lehi)]] — BoM narrator; brass plates; tree-of-life vision; doctrine of Christ (new 2026-07-17)
+- [[lehi|Lehi]] — founding patriarch; tree-of-life dream; 2 Ne 2 agency/Fall discourse (new 2026-07-17)
+- [[jacob-bom|Jacob (Book of Mormon)]] — atonement sermon; olive-tree allegory; monogamy teaching (new 2026-07-17)
+- [[king-benjamin|King Benjamin]] — Mosiah 2–5 covenant speech; natural man (new 2026-07-17)
+- [[abinadi|Abinadi]] — martyr; Isaiah 53; converts Alma the Elder (new 2026-07-17)
+- [[alma-the-younger|Alma the Younger]] — conversion; faith-as-seed; infinite atonement; plan of happiness (new 2026-07-17)
+- [[mormon-historian|Mormon (historian)]] — abridger of the large plates; Cumorah; Words of Mormon (new 2026-07-17)
+- [[moroni|Moroni]] — final record-keeper; Moroni 10 promise; angel of the Restoration (new 2026-07-17)
 
 ### Scientology (2026-06-09)
 - [[l-ron-hubbard|L. Ron Hubbard]] (1911–1986) — founder of Dianetics and Scientology; "Source"; sole author of its scripture; contested biography
@@ -697,6 +705,11 @@ Master index of all pages. Updated on every ingest.
 - [[magi|The Magi (Zoroastrian Priesthood)]] — the [[zoroastrianism|Zoroastrian]] priestly class (*maguš*; rabbinic *amgusha*/*ḥabar*) as the **[[talmud-bavli|Bavli]]**'s "significant Other": reciters of the Avesta, "sorcerers"/"mumblers"/"destroying angels," occasional teachers of forbidden lore — yet mirrored against the rabbis as a rival recitation-based, internally competitive priesthood (Secunda, *The Iranian Talmud*) (new 2026-06-09)
 - [[parsis|Parsis (the Zoroastrians of India)]] — Iranian Zoroastrians who fled the Arab conquest to Gujarat (the *Qesse-ye Sanjan*; the Iran Shah fire); colonial-Bombay mercantile/philanthropic elite; the calendar, Wilson, and reform/traditionalist controversies; the patrilineal "Who is a Parsi?" question; modern global diaspora (Rose) (new 2026-06-09)
 - [[hellenized-diaspora-jews|Hellenized Diaspora Jews]] — Greek-speaking Jews living outside the land of Israel, 1st–5th c. CE; primary mission field of earliest Christianity per Stark; bridge population between Jewish and Hellenic cultures; LXX as their scriptural medium; synagogue networks as foundation of Pauline missionary activity; cultural marginality as conversion opportunity; Marcion affair as evidence of Jewish-Christian dominance into mid-2nd c. (Stark, *Rise of Christianity*, Ch. 3)
+
+### Book of Mormon Peoples (2026-07-17 reingest)
+- [[nephites|Nephites]] — primary covenant polity of the BoM; pride cycle; recipients of 3 Nephi Christophany
+- [[lamanites|Lamanites]] — foil and converts; title-page remnant; Samuel the Lamanite
+- [[jaredites|Jaredites]] — prior civilization (Ether); secret combinations; brother of Jared theophany
 
 ### Ancient Near Eastern Peoples & Empires (Hebrew Bible — Coogan ingest, 2026-06-07)
 
@@ -1112,6 +1125,26 @@ Master index of all pages. Updated on every ingest.
 ---
 
 ## Concepts
+
+### Latter-day Saint / Restorationist (2026-07-17 reingest)
+- [[degrees-of-glory|Degrees of Glory]] — celestial/terrestrial/telestial (D&C 76); three degrees within celestial (D&C 131)
+- [[exaltation-lds|Exaltation (LDS)]] — highest soteriological goal; "they are gods"; eternal increase
+- [[lds-godhead|LDS Godhead]] — three distinct personages; corporeal Father and Son (D&C 130); First Vision
+- [[premortal-existence|Premortal Existence]] — eternal intelligences; noble and great ones; first/second estate (Abr 3)
+- [[continuing-revelation|Continuing Revelation]] — open additive canon; AoF 9; living prophet
+- [[great-apostasy|Great Apostasy]] — loss of authority/plain truths; necessitates Restoration
+- [[restoration-lds|Restoration (LDS)]] — priesthood, church, scriptures restored through Joseph Smith
+- [[plan-of-salvation|Plan of Salvation]] — premortal → Fall → probation → atonement → degrees of glory
+- [[free-agency|Free Agency]] — agents unto themselves; Satan cast down for seeking to destroy agency
+- [[atonement-lds|Infinite Atonement (LDS)]] — Alma 34/42; 2 Ne 9; justice and mercy
+- [[word-of-wisdom|Word of Wisdom]] — D&C 89 health code
+- [[baptism-for-the-dead|Baptism for the Dead]] — D&C 128 welding link; temple vicarious baptism
+- [[eternal-marriage|Eternal Marriage]] — new and everlasting covenant; required for highest exaltation
+- [[plural-marriage-lds|Plural Marriage (LDS)]] — D&C 132 claims; Jacob 2 tension; OD 1 ends mainline practice
+- [[law-of-consecration|Law of Consecration]] — stewardships, storehouse, equality (D&C 42, 78, 82)
+- [[zion-lds|Zion (LDS)]] — Independence center place; Enoch's city; New Jerusalem on American continent
+- [[aaronic-priesthood|Aaronic Priesthood]] — restored 15 May 1829; angels, repentance, immersion baptism
+- [[melchizedek-priesthood|Melchizedek Priesthood]] — higher priesthood; oath and covenant (D&C 84, 107)
 
 ### Islamic (2026-06-09)
 - [[tafsir|Tafsir]] — Qur'anic exegesis; *bi'l-ma'thur* vs. *bi'l-ra'y*; *zahir/batin*; the Islamic hermeneutical-tracking framework
@@ -1577,7 +1610,7 @@ a `sects/` page, cross-linked.)*
 - [[christianity|Christianity]] — tradition overview; the 27-book NT canon, the Quadriga, map of 2nd-c. sects
   - **Sects** ([[christianity|↑]]):
     - [[proto-orthodox-christianity|Proto-orthodox Christianity]] — the stream that became catholic orthodoxy; fourfold Gospel, rule of faith, defined the canon (new stub 2026-06-09)
-    - [[gnosticism|Gnosticism]] — dualist, demiurgic, *gnosis*-soteriology family; canon includes Nag Hammadi ([[gnostics|group]]) (new stub 2026-06-09)
+    - [[gnosticism|Gnosticism]] — dualist, demiurgic, *gnosis*-soteriology family; canon includes Nag Hammadi ([[gnostics|group]]); system-level page (canon divergence, protest exegesis, doctrine, orthodoxy relations) built on Rudolph (expanded 2026-07-17)
       - [[valentinianism|Valentinianism]] — the most influential Gnostic school (new stub 2026-06-09)
       - [[sethianism|Sethianism]] — the "classic"/Sethian Gnostic system; rewrites Genesis (new stub 2026-06-09)
     - [[marcionism|Marcionism]] — two gods; subtractive canon (edited Luke + 10 Paulines); rejects the OT ([[marcionites|group]]) (new stub 2026-06-09)
@@ -1598,7 +1631,7 @@ a `sects/` page, cross-linked.)*
     - [[pentecostalism|Pentecostalism]] — Spirit-baptism, tongues, continuationism; Azusa Street; the fastest-growing stream (new 2026-06-09)
     - [[quakerism|Quakerism (Friends)]] — the Inner Light; no clergy or outward sacraments; peace testimony (new 2026-06-09)
   - **Restorationist / new religious movements**:
-    - [[latter-day-saints|The Latter-day Saints (Mormonism)]] — Joseph Smith; **open canon** (Book of Mormon, D&C, Pearl of Great Price); the `canon_scope` exemplar (new 2026-06-09)
+    - [[latter-day-saints|The Latter-day Saints (Mormonism)]] — Joseph Smith; **open canon** (Book of Mormon, D&C, Pearl of Great Price); Godhead, exaltation, temple; the `canon_scope` exemplar (expanded reingest 2026-07-17)
     - [[seventh-day-adventism|Seventh-day Adventism]] — Millerite origin; Saturday Sabbath; 1844/investigative judgment; Ellen White as "lesser light" (new 2026-06-09)
     - [[jehovahs-witnesses|Jehovah's Witnesses]] — Watch Tower; non-Trinitarian; 1914; the New World Translation (new 2026-06-09)
     - [[stone-campbell-restoration|Stone-Campbell Restoration Movement]] — "no creed but Christ, no book but the Bible"; Churches of Christ / Disciples (new 2026-06-09)
@@ -1821,6 +1854,11 @@ a `sects/` page, cross-linked.)*
 ---
 
 ## Controversies
+
+### Latter-day Saint / Restorationist (2026-07-17)
+- [[book-of-mormon-historicity|Book of Mormon Historicity]] — ancient American Israelites vs. 19th-century composition vs. inspired fiction; Moroni 10 epistemology
+- [[book-of-abraham-translation|Book of Abraham Translation Controversy]] — papyri vs. published text; Egyptology; facsimiles
+- [[mormon-christian-identity|Are Latter-day Saints Christian?]] — self-understanding vs. creedal boundary markers (canon, Trinity, exaltation)
 
 ### Early Christian Sexual Ethics and the Pagan Critique (2026-06-30; [[hillman-original-sin|Hillman]])
 - [[early-christian-sexual-ethics-pagan-critique|Early Christian Sexual Ethics and the Pagan Critique]] — four-position controversy: (1) mainstream patristics (catechetical rites = symbolic); (2) Hillman's revisionist reading (literal sodomy in the "fires of temptation"); (3) ancient pagan polemicists (Celsus, Porphyry, Minucius Felix); (4) feminist/critical historical (Pagels, Brown). Text loci: [[cyril-of-jerusalem|Cyril of Jerusalem]]'s *Mystagogical Catechesis*; Prudentius' *Psychomachia*; [[origen|Origen]]'s *Commentary on Song of Songs*; [[clement-of-alexandria|Clement of Alexandria]]'s *Exhortation to the Greeks*. **Open** (new 2026-06-30)

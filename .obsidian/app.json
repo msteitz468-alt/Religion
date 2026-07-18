@@ -1,3 +1,6 @@
 {
-  "readableLineLength": false
+  "readableLineLength": false,
+  "focusNewTab": false,
+  "defaultViewMode": "source",
+  "spellcheck": false
 }

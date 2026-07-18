@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/tawhid.md",
+                "file": "wiki/traditions/christianity/sects/latter-day-saints.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tawhid"
+              "title": "latter-day-saints"
+            }
+          },
+          {
+            "id": "bd121b8c2e8edd11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/traditions/judaism/sects/kabbalah.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kabbalah"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,43 +199,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "67f94aa523da6650",
+  "active": "bd121b8c2e8edd11",
   "lastOpenFiles": [
-    "wiki/controversies/crucifixion-in-the-quran.md",
-    "wiki/traditions/islam/islam.md",
-    "wiki/concepts/goals-problems-mass.md",
-    "wiki/concepts/ot-levels-overview.md",
+    "wiki/groups/cappadocian-fathers.md",
+    "wiki/concepts/ousia-hypostasis-distinction.md",
+    "wiki/concepts/logos-christology.md",
+    "wiki/concepts/angel-of-the-lord.md",
+    "wiki/controversies/tritheist-controversy.md",
+    "wiki/traditions/judaism/sects/kabbalah.md",
+    "wiki/traditions/carvaka/carvaka.md",
+    "wiki/traditions/celtic-religion/celtic-religion.md",
+    "wiki/traditions/christianity/sects/montanism.md",
+    "wiki/traditions/christianity/sects/arianism.md",
+    "wiki/concepts/woman-wisdom.md",
+    "wiki/traditions/christianity/sects/unitarian-universalism.md",
+    "wiki/traditions/christianity/sects/seventh-day-adventism.md",
+    "wiki/traditions/christianity/sects/valentinianism.md",
+    "wiki/traditions/christianity/sects/oriental-orthodoxy.md",
+    "wiki/texts/pearl-of-great-price.md",
+    "wiki/concepts/zion-lds.md",
+    "wiki/controversies/book-of-abraham-translation.md",
+    "wiki/texts/book-of-mormon.md",
+    "wiki/texts/doctrine-and-covenants.md",
+    "wiki/concepts/atonement-lds.md",
+    "wiki/traditions/christianity/sects/latter-day-saints.md",
+    "wiki/traditions/christianity/sects/protestantism.md",
+    "wiki/traditions/christianity/sects/presbyterianism.md",
+    "wiki/texts/doctrine-and-covenants.md.tmp.18630.d6aaab3f018a",
+    "wiki/texts/pearl-of-great-price.md.tmp.18630.4e82d1446659",
+    "wiki/traditions/christianity/sects/pentecostalism.md",
+    "wiki/traditions/christianity/sects/quakerism.md",
+    "wiki/texts/book-of-mormon.md.tmp.18380.f522fa1799ff",
+    "wiki/commentators/kurt-rudolph.md.tmp.17344.362db7b5f43c",
+    "wiki/index.md.tmp.17344.9860957f9269",
+    "wiki/traditions/christianity/sects/gnosticism.md.tmp.17344.ed572d4187fd",
     "raw/scholarship/hillman-original-sin.txt",
     "wiki/log.md.tmp.256150.6a081df7bbb4",
     "wiki/index.md.tmp.256150.ee53ee04cb98",
-    "wiki/index.md.tmp.256150.bc2a84b5ebed",
-    "wiki/commentators/origen.md.tmp.256150.89e738688cd8",
-    "wiki/commentators/clement-of-alexandria.md.tmp.256150.95e09528d2f8",
-    "wiki/concepts/operating-thetan.md",
-    "wiki/concepts/body-thetans.md",
-    "wiki/traditions/scientology/scientology.md",
-    "wiki/commentators/cyril-of-jerusalem.md.tmp.256150.8b198a12d723",
-    "wiki/texts/scientology-8-8008.md",
-    "wiki/concepts/original-sin.md.tmp.256150.c0e0728fb0ba",
-    "wiki/concepts/original-sin.md.tmp.256150.33272e569527",
-    "wiki/controversies/early-christian-sexual-ethics-pagan-critique.md",
-    "wiki/controversies/early-christian-sexual-ethics-pagan-critique.md.tmp.256150.ffb8edeab48e",
-    "wiki/scholarship/hillman-original-sin.md",
-    "wiki/concepts/thetan.md",
-    "wiki/traditions/scientology/sects/church-of-scientology.md",
-    "wiki/texts/history-of-man.md",
-    "wiki/controversies/scientology-god-8th-dynamic.md",
-    "wiki/controversies/clear-cognition-vs-implant-theory.md",
-    "wiki/texts/scientology-ot-levels.md",
-    "wiki/concepts/auditing.md",
-    "wiki/traditions/christianity/sects/arianism.md",
-    "wiki/traditions/manichaeism/manichaeism.md",
-    "wiki/traditions/egyptian-religion/sects/memphite-theology.md",
-    "wiki/traditions/egyptian-religion/sects/atenism.md",
-    "wiki/texts/nag-hammadi-library.md",
-    "wiki/figures/piccarda-donati.md",
-    "wiki/figures/bernard-of-clairvaux.md",
-    "wiki/figures/cacciaguida.md",
-    "wiki/texts/paradiso.md"
+    "wiki/index.md.tmp.256150.bc2a84b5ebed"
   ]
 }

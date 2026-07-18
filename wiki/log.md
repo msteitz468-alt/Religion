@@ -4614,3 +4614,75 @@ Scope plan: (1) Introduction; (2) Inferno; (3) Purgatorio; (4) Paradiso — each
 
 ## [2026-06-29] ingest | Dante, Divine Comedy — Paradiso (scope 4) — WORK COMPLETE
 **Scope 4 (Paradiso): read in full** (cantos 1–33, poem + Kirkpatrick notes) via 3 background Sonnet passes (cantos 1–11, 12–22, 23–33) over pre-cut cache slices, integrated on the main thread (all three completed cleanly). New pages: paradiso (cantica), cacciaguida, bernard-of-clairvaux, piccarda-donati (figures). Extended justinian (Par. 6), thomas-aquinas (Par. 10–14), beatific-vision (Par. 33). **The entire Divine Comedy (Introduction + Inferno + Purgatorio + Paradiso) is now read in full.** Raw source relocated to `raw/texts/divine-comedy-kirkpatrick.txt`; all path references updated.
+
+## [2026-07-17] reingest | Latter-day Saint standard works (Book of Mormon, D&C, Pearl of Great Price)
+
+**Scope: all three primary texts read in full** — replaces the thin 2026-06-09 stub ingest (title/`canon_scope` only). Deployed-subagent strategy: 15 background extractors over pre-cut verified cache slices (BOM A–J = 10 book-aligned ranges; D&C A–D = §§1–45 / 46–89 / 90–124 / 125–138; PGP full). Main thread owned scaffold, taxonomy, all wiki filing, and tie-together.
+
+**Sources (already filed in `raw/texts/mormonism/`; content not modified):**
+- `book-of-mormon-en.txt` (Gutenberg #17) — lines 34–31221 body
+- `doctrine-and-covenants-en.txt` (sacred-texts) — §§1–138; Official Declarations 1–2 **absent** from this edition
+- `pearl-of-great-price-en.txt` (sacred-texts) — Moses, Abraham, JS-Matthew, JS-History, Articles of Faith; facsimiles absent
+
+**Text pages rewritten (stubs → full structure):**
+- [[book-of-mormon]] — narrative arc by book, themes, hermeneutics, cruxes, coverage ledger
+- [[doctrine-and-covenants]] — section map, key doctrinal loci (§76, 89, 110, 128, 132…), coverage ledger
+- [[pearl-of-great-price]] — component-by-component; Moses 1:39; Abr 3; First Vision; AoF
+
+**Sect / figure expanded:** [[latter-day-saints]], [[joseph-smith]]
+
+**New figures:** [[nephi]], [[lehi]], [[jacob-bom]], [[king-benjamin]], [[abinadi]], [[alma-the-younger]], [[mormon-historian]], [[moroni]]
+
+**New groups:** [[nephites]], [[lamanites]], [[jaredites]]
+
+**New concepts:** [[degrees-of-glory]], [[exaltation-lds]], [[lds-godhead]], [[premortal-existence]], [[continuing-revelation]], [[great-apostasy]], [[restoration-lds]], [[plan-of-salvation]], [[free-agency]], [[atonement-lds]], [[word-of-wisdom]], [[baptism-for-the-dead]], [[eternal-marriage]], [[plural-marriage-lds]], [[law-of-consecration]], [[zion-lds]], [[aaronic-priesthood]], [[melchizedek-priesthood]]
+
+**New controversies:** [[book-of-mormon-historicity]], [[book-of-abraham-translation]], [[mormon-christian-identity]]
+
+**Also extended:** [[theosis-divine-nature]] (comparative note vs. LDS exaltation, not collapsed); `index.md` wiring.
+
+**Not created (file lean):** individual pages for every Alma war captain, every D&C section, every minor BoM figure; Official Declarations (absent from source); facsimiles.
+
+## [2026-07-17] maintenance | Gnosticism sect page rebuild
+Expanded `traditions/christianity/sects/gnosticism.md` from a `sources_ingested: 0` stub to a
+full sect page (Identity/Origins, Relationship to Parent, Canon Divergence, Doctrinal
+Distinctives, Hermeneutical Method — incl. Rudolph's "protest exegesis," Orthodoxy relations,
+Historical Development, Sources Ingested). Grounded in the already-ingested
+[[rudolph-gnosis-the-nature-and-history-of-gnosticism|Rudolph, *Gnosis*]] (targeted re-read of
+raw source for protest-exegesis, contrary-evaluation, and Marcion-as-borderline passages) and
+synthesized with the group page [[gnostics]] and concept pages. Corrected frontmatter:
+`sources_ingested` 0→1; removed Marcion from `key_figures` (Rudolph treats him as a disputed
+borderline case — now handled in "Relationship to Other Sects" with a [[marcionism]] cross-link);
+added Basilides/Simon Magus. Created new commentator page [[kurt-rudolph]] to resolve a
+red link (previously dangling from index and now from this page). Updated `index.md` sect entry.
+Lint: all links from the edited/created pages resolve; the new page is not an orphan. Pre-existing
+red links from `christianity-timeline.md` (space-padded wikilinks in its table — `gnosticism`,
+`marcionism`, `nt-canon-formation`) are unrelated to this change and left for a separate pass.
+
+## [2026-07-17] lint fix | christianity-timeline padded-pipe table repair
+Fixed two era tables in `timelines/christianity-timeline.md` whose display-text wikilinks used
+space-padded pipes (`[[marcionism                 | Marcionite crisis]]`); the internal `|` was
+parsed as a table-column delimiter, producing phantom header columns and false red links.
+Rewrote the rows to the unpadded `[[slug|Display]]` house form and restored 3-column headers.
+Cleared 5 false red links (gnosticism, marcionism, nt-canon-formation, montanism,
+kyrios-christology-origins — the last also had a stray extra `[[`). Timeline now sources zero
+red links; no orphans introduced (lint red-link total 248→243).
+
+## [2026-07-17] revision | Book of Mormon narrative arc rewritten as prose
+Reworked the "Structure and Narrative Arc" section of `texts/book-of-mormon.md` from bulleted
+locus-lists into four flowing narrative movements (exodus/founding split; kings, conversions &
+wars; prophecy & the Christophany; decline, Jaredite mirror & Moroni's seal). Added connective
+cause/effect and through-lines (Laman/Lemuel rift → Nephite/Lamanite split; Zeniff colony
+framing Abinadi/Noah/Alma; Mormon→Moroni as father/son sole survivor) verified against the raw
+text. All scriptural loci and existing wikilinks preserved; no new claims, no red links. Other
+sections (canon table, cruxes, ledger) left as reference tables by design.
+
+## [2026-07-17] revision | Pearl of Great Price & Doctrine and Covenants readability
+Same readability pass as the Book of Mormon, applied selectively by genre. PGP: rewrote the
+three narrative components (Book of Moses, Book of Abraham, Joseph Smith—History) from bullet
+locus-lists into prose; deliberately left Joseph Smith—Matthew (a one-line summary) and the
+Articles of Faith (a genuine 13-point creed) as lists, since prose would degrade them. D&C:
+converted the "Structure and Historical Arc" band table into a prose account of the church's
+story (New York→Ohio→Missouri→Nauvoo→martyrdom/succession) so the otherwise disjoint numbered
+corpus can be followed; left the thematic "Key Sections (doctrinal map)" as a reference lookup.
+No new claims; all loci and wikilinks preserved; no red links introduced.

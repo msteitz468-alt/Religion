@@ -2,9 +2,9 @@
 title: Theosis / Partakers of the Divine Nature (2 Peter 1:4)
 domain: theology / soteriology / anthropology
 traditions_using: [Christianity — Eastern Orthodox (central), Catholic, Protestant (debated)]
-sources_ingested: 3
-last_updated: 2026-06-28
-tags: [concept, christianity, soteriology, deification, theosis, eastern-orthodox, new-testament, patristics, athanasius]
+sources_ingested: 4
+last_updated: 2026-07-17
+tags: [concept, christianity, soteriology, deification, theosis, eastern-orthodox, new-testament, patristics, athanasius, mormonism]
 ---
 
 # Theosis / Partakers of the Divine Nature (2 Peter 1:4)
@@ -154,6 +154,10 @@ Sources: [[celestial-hierarchy|On the Celestial Hierarchy]]; [[ecclesiastical-hi
 Ecclesiastical Hierarchy]] — Parker translation (1897/1899), read in full; [[on-divine-names|On the
 Divine Names]] — Parker translation (1897), Caputs I–XIII, read in full.
 
+## Comparative Note (Latter-day Saint exaltation)
+
+LDS [[exaltation-lds|exaltation]] ("they are gods," D&C 76:58; 132:20) is often compared to theosis. The systems **must not be collapsed**: LDS exaltation is tied to an embodied non-Nicene [[lds-godhead|Godhead]], eternal marriage, and graded kingdoms; Eastern theosis is participation in divine energies within a creedal Trinity. Comparative only — Contradiction Protocol.
+
 ## Key Links
 
 - [[2-peter|The Second Letter of Peter]] — the text (1:3–4)
@@ -163,7 +167,9 @@ Divine Names]] — Parker translation (1897), Caputs I–XIII, read in full.
 - [[peter-apostle|Simon Peter]] — the claimed author
 - [[athanasius|Athanasius]] · [[on-the-incarnation|On the Incarnation]] (§54) — the classic formula
 - [[incarnation]] · [[imago-dei]] — the Christological and anthropological ground
+- [[exaltation-lds|Exaltation (LDS)]] — comparative (not equivalent)
 
 ## Related Texts
 
 - [[paedagogus|Paedagogus (The Instructor)]]
+- [[doctrine-and-covenants|Doctrine and Covenants]] §§76, 132 (LDS exaltation language)
