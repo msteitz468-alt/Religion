@@ -2,7 +2,7 @@
 title: New Covenant
 domain: theology / soteriology / eschatology
 traditions_using: [Judaism, Christianity]
-sources_ingested: 4
+sources_ingested: 6
 last_updated: 2026-07-18
 tags: [concept, covenant, new-covenant, jeremiah, hebrews, soteriology, forgiveness, torah, heart]
 ---
@@ -103,13 +103,34 @@ The Dead Sea Scrolls community (Qumran) applied the "new covenant" language to t
 
 The longest OT quotation in the NT, used twice in Hebrews to argue that the Levitical priesthood and its sacrificial system have been superseded by Jesus's high priesthood. Hebrews 8 quotes the full text of Jer 31:31-34 and comments: "In speaking of a new covenant, he makes the first one obsolete. And what is becoming obsolete and growing old is ready to vanish away" (8:13). Hebrews 10 quotes the final clause of the covenant ("I will remember their sins no more") as the basis for claiming that where there is forgiveness, there is no longer any offering for sin (10:18) — the argument that Christ's single sacrifice is sufficient and final.
 
+### Cockerill (NICNT) — Jer 31 in Hebrews 8 and 10 (2026-07-18)
+
+Attributed to [[gareth-lee-cockerill|Gareth Lee Cockerill]] ([[cockerill-hebrews-nicnt|Hebrews NICNT]]). Digests R7 (8:1–~9:14) and R8 (9:15–10:18).
+
+**Key pair with Ps 110:4.** For Cockerill, Ps 110:4 (Melchizedek priesthood) and Jer 31:31–34 are the key divine proclamations for first-coming/session fulfillment: the new-priest proclamation shows Aaronic ineffectiveness and Christ’s competency; the New Covenant promise shows Old Covenant insufficiency and new efficacy (R2 L1489–1491). In the “symphony” of 8:1–10:18, covenant closes each movement: 8:7–13 (breach + promise); 9:16–22 (removal of condemnation from the broken First Covenant); 10:15–18 (New blessings as fulfilled attestation) (R8).
+
+**First quotation (Heb 8:8–12).** Pastor quotes Jer 31:31–34 almost without mid-commentary: announcement of “new”; negative “not like” the Exodus covenant because the fathers “did not remain”; positive better promises — law on heart, intimate knowledge, mercy/sin-remembrance-no-more (R7 L3052–3054). Mere prophecy of a second proves the first not blameless; fault is with **them** (wilderness “fathers” of 3:7–4:11), not metaphysical inability to obey but **refusal** — New Covenant supplies resources to “remain” (R7 L3060–3066). Hebrews uses a stronger verb for establishing the New (“complete/perfect”) vs weaker “make” for the Old (R7 L3070). Three interlocking benefits postponed for full exposition until 10:15–18: willing obedience from heart-written law; intimate fellowship; removal of sin; inaugurated by the High Priest at God’s right hand “at the end of these days” (1:2) (R7 L3072).
+
+**Obsolescence (8:13).** By saying “new” God makes the first obsolete; from Jeremiah’s vantage already near vanishing; post-Christ, definitively passed **as a way of relating to God**; persists only as **type** of the New (R7 L3074). Continuity-and-fulfillment, not bare discontinuity: the Old’s own testimony shows it was never intended to be final (R2 L1521–1523). See [[typology|Typology]].
+
+**Self-offering as covenant inauguration (9:15).** On account of the effective sacrifice (9:14), Christ **is** Mediator of the New Covenant; death redeems First-Covenant transgressions so the called receive eternal inheritance; self-offering = covenant-inauguration sacrifice; High Priest and Mediator are two sides of one ministry — cleanses the heart / removes Old condemnation; New Covenant writes law on cleansed hearts (R8 L3202–). Better covenant established on better promises; he is not merely Mediator but **Guarantor** of perpetual effectiveness (7:22) (R7 L3042–3048).
+
+**Second quotation (10:15–18) from fulfillment vantage.** Closing covenant panel re-reads Jer 31 as fulfilled attestation of sacrificial sufficiency; omits breach-lines already established in ch. 8; attributes the promise to the **Holy Spirit** who “bears witness to us” — dual authority of inspired Scripture and present urgent address (R8). Substitutes “with them” for “house of Israel” (one people across eras); selects heart-laws and non-remembering as direct attestation of sin-removal; plural “laws” = loyalty/love (Deut 6; Lev 19), not a new sacrificial *nomos*; intensified moral demand, heart transformation (R8 on 10:16). Strengthens climax: adds “lawless deeds”; future indicative for non-remembering = **total abolition** of sin from divine memory (R8 on 10:17). Climax 10:18: where there is **release**, no longer any offering for sin — “release” = sanctuary cleansing + heart-law + memory-abolition, not court-only forgiveness; dual pastoral force for draw-near (10:19–25) and apostasy warning (10:26–31) (R8 on 10:18).
+
 ### Luke 22:20 / 1 Corinthians 11:25
 
 "This cup is the new covenant in my blood" — Jesus at the Last Supper explicitly invokes Jeremiah's new covenant. The Lord's Supper is constituted as the covenant meal of the new covenant.
 
-### 2 Corinthians 3:3-6
+### 2 Corinthians 3:1–18 (Seifrid PNTC)
 
-Paul contrasts "a letter on tablets of stone" (Sinai covenant) with "a letter... written on tablets of human hearts" (new covenant), and "the old covenant" (which kills) with "the new covenant" (which gives life through the Spirit). The Spirit is Paul's way of articulating how the new covenant's internalization promise is fulfilled.
+Paul contrasts a letter on tablets of stone with a letter written on tablets of human hearts by the Spirit of the living God, and the “old covenant” (unique NT designation of the Law in Paul) with the new covenant of the Spirit that makes alive. [[mark-seifrid|Seifrid]] (PNTC, 2014; [[seifrid-2-corinthians-pntc]], 2026-07-18) densifies:
+
+- **Not a Judaizing second front.** Ch. 3 addresses the Corinthians; Israel’s story is paradigmatic for **all humanity** (including Corinth). No circumcision / “works of law” polemic in the letter.
+- **Sufficiency from God (3:5–6).** Apostle is *diakonos* of a new covenant; nothing from self; Spirit makes alive only where the letter has put to death (material paradox of demand/gift, not mere allegory or salvation-historical “stage”).
+- ***Katargeō*.** Glory of Moses’ face / mission / old covenant is **abrogated** (“done away with”), not self-fading.
+- **Veil (3:12–18).** Remains “until today” on public reading of the old covenant; removed only *in Christ*; freedom of the Spirit; transformation “from glory to glory”; “the Lord is the Spirit.” Glory revealed *sub contrario*; mirror = crucified Christ.
+- **Covenant term.** Seifrid resists a single univocal overarching covenant concept; *diathēkē* is used contextually (see his covenant excursus).
+- **Link to 5:21.** 3:1–18 supplies the “grammar” of exchange (condemnation through Moses / righteousness in Christ); 5:21 fills the christological “deficit.”
 
 ### Romans 11:27
 
@@ -147,13 +168,15 @@ Record alongside Lalleman’s “summit of hope” / continuity-with-radical-new
 2. [[lalleman-jeremiah-lamentations-totc|Lalleman-de Winkel, Hetty]]. *Jeremiah and Lamentations*. TOTC 21. IVP, 2013 — full-body re-ingest 2026-07-18.
 3. [[daniel-block|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 1–24*. NICOT. Grand Rapids: Eerdmans, 1997.
 4. [[block-ezekiel-25-48-nicot|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 25–48*. NICOT. Grand Rapids: Eerdmans, 1998 — covenant of peace (34:25–30), 36:26–28 rûaḥ vs Torah, 37:26 *bĕrît ʿôlām*, 39:29 Spirit as seal, Old-Covenant Spirit-infusion excursus.
+5. [[cockerill-hebrews-nicnt|Cockerill, Gareth Lee]]. *The Epistle to the Hebrews*. NICNT. Grand Rapids: Eerdmans, 2012 — fidelity re-ingest 2026-07-18; Jer 31 in Heb 8 and 10 (R7, R8); symphony sanctuary/sacrifice/covenant.
+6. [[seifrid-2-corinthians-pntc|Seifrid, Mark A.]]. *The Second Letter to the Corinthians*. PNTC. Eerdmans, 2014 — fidelity re-ingest 2026-07-18; 2 Cor 3 letter/Spirit; covenant excursus; anti-Judaizing reading.
 
 ## Related Texts
 
 - [[1-corinthians|The First Letter to the Corinthians]]
 - [[2-corinthians|The Second Letter to the Corinthians]]
 - [[ezekiel|Ezekiel]]
-- [[hebrews|Letter to the Hebrews]]
+- [[hebrews|Letter to the Hebrews]] · [[gareth-lee-cockerill|Gareth Lee Cockerill]] · [[cockerill-hebrews-nicnt|Cockerill Hebrews NICNT]] · [[priesthood-of-christ|Priesthood of Christ]] · [[typology|Typology]]
 - [[james|The Letter of James]]
 - [[letters-of-john|Letters of John (1, 2, 3 John)]]
 - [[luke|Gospel of Luke]]

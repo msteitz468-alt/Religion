@@ -2,8 +2,8 @@
 title: Shema
 domain: theology / liturgy
 traditions_using: [Judaism — central; Christianity — cited and applied]
-sources_ingested: 3
-last_updated: 2026-06-06
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [concept, judaism, christianity, theology, liturgy, deuteronomy]
 ---
 
@@ -21,9 +21,13 @@ The Hebrew *ʾeḥad* is the crux of the verse and is interpreted differently:
 
 **"YHWH is one"** (numerical unity): YHWH is a single, unified deity — not a divine couple (YHWH and his Asherah, as in some pre-exilic popular religion) and not a deity with multiple manifestations. This reading emphasizes metaphysical monotheism.
 
-**"YHWH alone"** (exclusive uniqueness): YHWH is Israel's sole legitimate deity — not first among many but the only one for Israel. This reading emphasizes covenantal monolatry: Israel's absolute allegiance belongs to YHWH and no other. [[peter-craigie|Craigie]] leans toward this reading, connecting it to Deuteronomy's suzerain-vassal [[covenant|covenant]] structure: exclusive loyalty to the suzerain is the primary demand.
+**"YHWH alone"** (exclusive uniqueness): YHWH is Israel's sole legitimate deity — not first among many but the only one for Israel. This reading emphasizes covenantal monolatry: Israel's absolute allegiance belongs to YHWH and no other.
 
 **"YHWH is our God, YHWH alone"** (Moshe Weinfeld): A double clause — YHWH is our God; YHWH is our only God. This reading combines both senses.
+
+**Craigie (NICOT; fidelity re-ingest 2026-07-18, C-C-22):** presents multiple renderings of 6:4; *ʾeḥad* conveys **practical uniqueness** (cf. Exod 15:11 experience) and **theological unity/unicity**—YHWH is not merely head of a pantheon. Connected to Deuteronomy’s [[suzerain-vassal-treaty|suzerain-vassal]] [[covenant|covenant]] structure: exclusive loyalty to the suzerain is the primary demand.
+
+**Arnold (NICOT 1–11, 2022; [[arnold-deuteronomy-1-11-nicot]]):** reads 6:4 not as arithmetic monotheism alone but as confession of YHWH’s **unified/stable self** over against ANE fluidity of divine personhood (engaging Sommer et al.); prefers a rendering along the lines “YHWH our God, YHWH is one.” Love with heart/soul/might = whole-person loyalty; Shema pedagogy (recite, write, bind, teach children) is central to Deuteronomy’s “life of the mind.”
 
 In rabbinic tradition, the recitation of the *Shema* with full concentration (*kavvanah*) constitutes "the acceptance of the yoke of the Kingdom of Heaven" — the central act of Jewish religious devotion.
 
@@ -32,7 +36,9 @@ In rabbinic tradition, the recitation of the *Shema* with full concentration (*k
 The verse following the *Shema* is:
 > "You shall love YHWH your God with all your heart (*levavkha*), and with all your soul (*nafshekha*), and with all your might (*meodekha*)."
 
-This command to love is the Deuteronomic covenantal response to the *Shema*: the suzerain's identity and uniqueness (v. 4) demands total personal loyalty (v. 5). [[peter-craigie|Craigie]] emphasizes that "love" here is not sentiment but the covenantal disposition of loyalty, a term drawn from ancient treaty language.
+This command to love is the Deuteronomic covenantal response to the *Shema*: the suzerain's identity and uniqueness (v. 4) demands total personal loyalty (v. 5).
+
+**Craigie (C-C-23–25):** the command to love (*ʾahavah*) is **central to the whole book**; the people are called to love God with their whole beings—heart, soul, and strength—expressed in willing, joyful obedience, with the words “upon your heart” so that obedience is not formal legalism but response based on understanding. Later (10:12–13; 11), fivefold allegiance language converges on love as structural center of a “sermon on the Great Commandment.”
 
 ## NT Use
 
@@ -77,7 +83,8 @@ The mezuzah scroll (Deut 6:4–9 and 11:13–21), affixed to doorposts, and *tef
 
 ## Sources Ingested
 
-1. [[peter-craigie|Craigie, Peter C.]]. *The Book of Deuteronomy*. NICOT. Grand Rapids: Eerdmans, 1976.
+1. [[peter-craigie|Craigie, Peter C.]]. *The Book of Deuteronomy*. NICOT. Grand Rapids: Eerdmans, 1976 — [[craigie-deuteronomy-nicot]] (fidelity re-ingest 2026-07-18; Shema claims C-C-22–25, 46–48, 54–55).
+2. [[bill-arnold|Arnold, Bill T.]]. *The Book of Deuteronomy, Chapters 1–11*. NICOT. Grand Rapids: Eerdmans, 2022 — [[arnold-deuteronomy-1-11-nicot]] (ingest 2026-07-18; Shema / pedagogy / ʾeḥad claims in slice E).
 2. [[darrell-bock|Bock, Darrell L.]]. *Acts*. BECNT. Grand Rapids: Baker Academic, 2007. (Cited for NT use of monotheistic framework.)
 3. [[larry-hurtado|Hurtado, Larry W.]]. *Destroyer of the Gods: Early Christian Distinctiveness in the Roman World*. Baylor University Press, 2016. (1 Cor 8:4-6 as modified *Shema*; dyadic devotion; Hurtado's expanded analysis in *Lord Jesus Christ* [2003] also cited.)
 

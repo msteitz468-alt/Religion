@@ -2,8 +2,8 @@
 title: "Stoicheia (Elemental Forces/Spirits)"
 domain: theology / cosmology / Pauline ethics
 traditions_using: [Christianity — Pauline]
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, christianity, new-testament, pauline, cosmology]
 ---
 
@@ -30,7 +30,13 @@ The term *stoicheia* (singular: *stoicheion*) is one of the most contested in Pa
 - "So also, when we were underage, we were in slavery under the *stoicheia tou kosmou*" (4:3)
 - "But now that you know God—or rather are known by God—how is it that you are turning back to those weak and miserable *stoicheia*? Do you wish to be enslaved by them all over again?" (4:9)
 
-In Galatians, the *stoicheia* represent the pre-Christian condition of both Jews (under the law) and Gentiles (under pagan powers). Paul equates them with "guardians and trustees" (4:2) who administered human life until the fullness of time. The Galatian converts' return to "observing special days and months and seasons and years" (4:10) is a return to the *stoicheia* — suggesting the *stoicheia* include the Jewish calendar/Torah system as a form of elementary slavery.
+In Galatians, the *stoicheia* represent the pre-Christian condition of both Jews (under the law) and Gentiles (under pagan powers). Paul associates them with "guardians and trustees" (4:2) who administered human life until the fullness of time. The Galatian converts' return to "observing special days and months and seasons and years" (4:10) is a return to the *stoicheia*.
+
+### Moo on Galatians 4:3, 9 (BECNT, 2013)
+
+[[douglas-moo|Moo]]'s preferred meaning of τὰ στοιχεῖα τοῦ κόσμου is the **basic material elements of the universe** (dominant lexical sense), which the ancient worldview linked with deities/spirits — so a reference to material elements "would almost certainly include some reference to the deities or spirits" (raw L3826; [[moo-galatians-becnt|source]]). This fits the agitators' focus on circumcision, food, and calendrical observances as religious regimens tied to material realities.
+
+Critically, Moo **denies equating the law with the *stoicheia*** or treating the law as a subset of them: "Paul does not equate the law with the στοιχεῖα; nor does he even suggest that the law is a subset of the στοιχεῖα" (L3828). Rather he **associates** Jews under law and Gentiles under *stoicheia* as both under outmoded religious regimens — without denying the law's divine origin. The older wiki summary that "Paul equates them with" guardians/Torah as elementary slavery overstates the equation; Moo's reading is association of parallel slaveries, not identity of law and *stoicheia*.
 
 **Colossians 2:8, 20**:
 In the Colossian context, the *stoicheia* are associated with:
@@ -88,6 +94,8 @@ McKnight draws an explicit connection between Colossians and Galatians 4: "We ar
 
 - [[colossians|Letter to the Colossians]] — primary locus (2:8, 20)
 - [[galatians|Letter to the Galatians]] — Gal 4:3, 9; parallel use of *stoicheia*
+- [[douglas-moo|Douglas J. Moo]] · [[moo-galatians-becnt|Moo Galatians BECNT]] — material elements + spirits; associate not equate with law
 - [[principalities-powers|Principalities and Powers]] — the related cosmic-power terminology; McKnight's "polluted structures" reading
 - [[scot-mcknight|Scot McKnight]] — "powers as polluted structures" excursus; primary source for Col reading
 - [[colossian-opponents|The Colossian Opponents]] — the halakic mystics' program is connected to submission to the *stoicheia*
+- [[mcknight-colossians-nicnt|McKnight, *Colossians* (NICNT)]] — source for the *stoicheia*-as-Jewish-halakah reading

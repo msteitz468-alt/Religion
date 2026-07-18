@@ -3,12 +3,13 @@ title: Romans 7 — The Identity of the "I" (7:14–25)
 text_locus: Romans 7:14–25
 positions:
   - Pre-Christian Paul under the law — an unregenerate person (Arminian/Wesleyan; Dodd; Bultmann; Kümmel)
-  - Christian Paul — a regenerate believer struggling with indwelling sin (Cranfield; Murray; Schreiner; Reformed)
+  - Christian Paul — a regenerate believer struggling with indwelling sin (Cranfield; Murray; Reformed)
+  - The law's inability to transform, not a regenerate/unregenerate binary — the "I" is paradigmatic Paul (Seifrid; Schreiner)
   - Israel under the law — a corporate/redemptive-historical reading (Wright; some NPP scholars)
   - Any person attempting to keep the law by willpower without the Spirit (Dunn)
 traditions_involved: [Christianity]
 resolution_status: open / tradition-specific
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, pauline, soteriology]
 ---
 
@@ -44,18 +45,27 @@ John Wesley, C. H. Dodd, Rudolf Bultmann, Werner Georg Kümmel, and most Arminia
 
 ### 2. Regenerate Believer — Reformed
 
-Cranfield (ICC), John Murray, [[thomas-schreiner|Schreiner]] (BECNT Romans, 1998): the "I" is a mature Christian — specifically Paul himself — describing the ongoing tension between the Spirit-renewed mind (willing the good) and indwelling sin (the flesh). This is the experience of any believer who has been renewed but not yet glorified.
+Cranfield (ICC), John Murray: the "I" is a mature Christian — specifically Paul himself — describing the ongoing tension between the Spirit-renewed mind (willing the good) and indwelling sin (the flesh). This is the experience of any believer who has been renewed but not yet glorified.
 
 **Arguments**:
 - The intense desire to do good ("I delight in the law of God, in my inner being," 7:22) is hard to attribute to an unregenerate person; Paul's normal description of pre-Christian humanity is that they suppress the truth and do not seek God (1:18–32)
 - Augustine came to this position; it is the dominant Reformed reading (Calvin, Owen, Murray, Cranfield)
 - Romans 7:25b ("I myself serve the law of God with my mind") presupposes a genuine orientation toward the law's goodness — characteristic of a renewed mind
 - The resolution in Romans 8 does not escape the tension of chapter 7; rather, the Spirit enables believers to fulfill the "righteous requirement of the law" (8:4) while still struggling with the flesh (8:10, 13)
-- Schreiner: Paul describes the "eschatological existence" of the believer — genuinely renewed, genuinely struggling. The cry "Wretched man!" is the cry of a believer who hates their sin, not an unbeliever comfortable in it.
 
 **Difficulty**: "Sold under sin" (7:14) and "captive to the law of sin" (7:23) use strong bondage language. If believers are no longer "under sin" (6:14) and have been "freed from sin" (6:18), how can they be "sold under sin"?
 
-**Schreiner's response**: The bondage language in 7:14 describes the *situation* apart from the Spirit's deliverance described in ch. 8, not the believer's complete ontological state. The believer still contends with the flesh (8:13) even while the Spirit enables genuine obedience.
+### 2b. Not a Regenerate/Unregenerate Binary — the Law's Inability (Seifrid; Schreiner)
+
+[[thomas-schreiner|Schreiner]] (BECNT Romans, 1998), following M. Seifrid (1992: 226–44), resists the very framing that makes positions 1 and 2 exhaustive. His conclusion: *"the arguments are so finely balanced because Paul does not intend to distinguish believers from unbelievers in this text."* The subject of Romans 7:14–25 is **whether the law has the ability to transform human beings — and Paul's answer is that it does not.** "The law puts to death unbelievers who desire to keep it, since they lack the power to keep it"; but believers "are not absolutely excluded" either, since in the already/not-yet they are "keenly aware of their inherent inability to keep God's law" when they contemplate their own fleshly capacities apart from the Spirit's enablement.
+
+On the referent of the "I" (*egō*) across 7:7–25 as a whole, Schreiner holds that "the primary reference is to Paul himself" — Paul as a believer looking back retrospectively, whose experience is **paradigmatic** ("the story of all people who live under the law," recapitulating the history of Adam and Israel). He rejects:
+- **Kümmel's** view that *egō* is merely a rhetorical "everyman" that *excludes* Paul — "logically fallacious";
+- the **Bultmann/Bornkamm/Käsemann** reading that the passage attacks the *self-righteous striving* to keep the law — "Paul does not criticize legalism here but inability to keep the law";
+- the exclusively **Adamic** referent (Paul cites the tenth commandment, which Adam never received) and the exclusively **Israel-at-Sinai** referent ("I was living formerly," 7:9, cannot apply to Israel, who as heirs of Adam entered the world already dead);
+- **Stott's** OT-believer / legalistic-Christian reading and the **Fung/Wenham** "substandard Christian experience" reading as "unsatisfying."
+
+On the disputed evidence: the 26 present-tense verbs in vv. 14–25 do not decisively prove Christian experience — "the present tense stresses the *condition or state* of the person enslaved to sin" (Seifrid); and the future *rhysetai* (7:24, "he will deliver") is genuinely future — "rescue from sin will be completed only on the last day (cf. 8:23)" — without excluding present victory. Schreiner weights heavily the observation that Paul's negative *hypo* phrases ("sold *under* sin," 7:14) elsewhere always denote unbelievers and the old era, pointing toward the unaided-by-Spirit "I."
 
 ### 3. Israel under the Law — Corporate / Redemptive-Historical (Wright)
 
@@ -81,12 +91,13 @@ The interpretation of Romans 7:14–25 shapes:
 
 ## Resolution Status
 
-**Open / tradition-specific.** The Reformed tradition predominantly holds position 2 (regenerate). Arminian/Wesleyan traditions hold position 1 (pre-Christian). NPP scholars vary. All positions have been maintained by serious exegetes throughout church history.
+**Open / tradition-specific.** The Reformed tradition predominantly holds position 2 (regenerate). Arminian/Wesleyan traditions hold position 1 (pre-Christian). Schreiner, the wiki's primary source on this passage, occupies the mediating position 2b (the crux is the law's impotence, not the regenerate/unregenerate question). NPP scholars vary. All positions have been maintained by serious exegetes throughout church history.
 
 ## Key Links
 
 - [[romans|Letter to the Romans]]
-- [[thomas-schreiner|Thomas R. Schreiner]] — primary source (holds position 2)
+- [[thomas-schreiner|Thomas R. Schreiner]] — primary source (holds position 2b: the passage turns on the law's inability to transform, not on the regenerate/unregenerate binary)
+- [[schreiner-romans-becnt|Schreiner, *Romans* (BECNT)]] — source page
 - [[new-covenant|New Covenant]] — Jer 31 / Ezek 36: the Spirit writing the law on the heart
 - [[justification|Justification]] — the relationship between forensic declaration and moral transformation
 - [[johannine-determinism|Johannine Determinism]] — compare: the will and the divine initiative in John vs. Paul

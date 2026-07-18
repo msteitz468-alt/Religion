@@ -32,18 +32,26 @@ The primary loci are:
 
 ## Position 1: Divine Command Defense
 
-**Representative**: [[marten-woudstra|Woudstra]] (and conservative evangelical tradition generally)
+**Representative**: [[marten-woudstra|Woudstra]] (and conservative evangelical tradition generally). Grounded below from [[woudstra-joshua-nicot]] (fidelity re-ingest digests A, C, D; 2026-07-18).
 
 The commanded destruction is morally justified because:
-1. **Accumulated guilt**: Genesis 15:16 — the Canaanites' "iniquity was not yet full" in Abraham's time; four centuries of continued wickedness reached the point of divine judgment. Lev 18:24-25 confirms that the land "vomited out" the Canaanites for their sexual and cultic practices.
-2. **Divine sovereignty over life and death**: YHWH is the giver of life and the judge of nations. The *ḥerem* is judicial execution, not murder — the same God who brought the flood, destroyed Sodom, and later sent Assyria against Israel.
-3. **Historical particularity**: The *ḥerem* was a bounded divine command for a specific time and place — not a general mandate for warfare. "Wholesale extermination has ceased to be normative."
-4. **Revelation's normativity vs. the practice's normativity**: Even if the practice has ceased, the Scripture's record of it remains God's word about divine judgment, sin's seriousness, and YHWH's holiness.
+1. **Accumulated guilt**: Genesis 15:16 — the Canaanites' "iniquity was not yet full" in Abraham's time; four centuries of continued wickedness reached the point of divine judgment. Lev 18:24-25 confirms that the land "vomited out" the Canaanites for their sexual and cultic practices. Woudstra reasserts this horizon on Josh 9:1–2 (kings’ resistance when the “iniquity of the Amorites” is full) and on 11:19–20 (hardening for destruction amid that full iniquity).
+2. **Divine sovereignty over life and death**: YHWH is the giver of life and the judge of nations. The *ḥerem* is judicial execution, not murder — the same God who brought the flood, destroyed Sodom, and later sent Assyria against Israel. On Josh 6:17–21 Woudstra: the ban means both irrevocable consecration (Lev 27:28–29) and utter destruction (Deut 13:16); it teaches that “God the Creator may also destroy his creatures.”
+3. **Historical particularity / degrees of application**: The *ḥerem* was a bounded divine command for a specific time and place — not a general mandate for warfare. Woudstra tracks **degrees** of the curse in Joshua: Jericho most rigorous (incl. cattle); Ai milder (spoil/cattle kept); Hazor made an example by burning among northern cities otherwise left standing; Gibeon an anomalous peace exception (Josh 9; 11:19).
+4. **Revelation's normativity vs. the practice's normativity** (Introduction VI.1):
+
+   > "While certain practices, such as the wholesale extermination of enemy populations by the ḥerem, have ceased to be normative, the revelation contained in the written record regarding such practices does not cease to be normative."
+
+5. **Against “sub-Christian” labels** (Introduction VI vs Bright; Josh 6 n.): Because *ḥerem* “originates as a general rule from an order given by the Lord, one cannot correctly call it an expression of a ‘sub-Christian’ sentiment, lest he involve God in a gradual evolution from cruel to benign.” The conquest material is neither pre- nor sub-Christian but “God’s Word for the ages” within the whole canon’s interpretative context.
+6. **Hardening without exoneration** (Josh 11:19–20): The Lord hardens Canaanite hearts so that they meet Israel in battle and fall under the ban without mercy, as Moses commanded; yet “this in no way exonerates the Canaanites. The other way was open, as is shown by what the Gibeonites did.” Human measurement of divine historical action is inadequate; the presentation must not be eliminated or modified.
+7. **Eschatological prelude**: Temporal ban is “a prelude and a foreshadowing of a more final judgment… in the end of days” (on Josh 6); the kings-list (ch. 12) preludes a purified world given as inheritance (Ps 37:9; Matt 5:5).
+8. **Historicity stance** (Introduction V): Woudstra believes “there was such a thing as a conquest of Palestine,” prefers text-centered caution over Alt/Noth gradualism, grants archaeological limits (Jericho, Ai “silent where eloquence wanted”), and treats wipe-out language alongside admitted survivors and long war (11:18; 10:20) as reliable theocratic historiography, not pure epic.
 
 **Objections to this position**:
 - It requires accepting that the wholesale slaughter of children, women, and non-combatants was divinely just — a claim that strains moral intuition even for many within the tradition
 - The "accumulated guilt" defense does not easily account for infants and children
 - It leaves the door open to later actors invoking "divine command" for conquest and genocide
+- Hardening language (11:20) intensifies the theodicy problem for many modern readers even while Woudstra insists it must stand
 
 ## Position 2: Progressive/Developmental Revelation
 
@@ -173,11 +181,11 @@ above, who assume the essential historicity of the narratives.
 
 ## Current Status
 
-This controversy is **open** across all traditions. No consensus exists on how to read the *ḥerem* texts in a way that satisfies both the demands of Scripture's authority and the demands of moral reasoning. Ingested sources cover Position 1 (Woudstra: divine-command defense), Position 6 (Webb: canonical literary reading), and Position 7 (Tsumura: philological-historical obedience framework). Positions 2-5 require additional source ingestion.
+This controversy is **open** across all traditions. No consensus exists on how to read the *ḥerem* texts in a way that satisfies both the demands of Scripture's authority and the demands of moral reasoning. Ingested sources cover Position 1 (Woudstra: divine-command defense; grounded quotes from [[woudstra-joshua-nicot]] 2026-07-18 re-ingest), Position 6 (Webb: canonical literary reading), and Position 7 (Tsumura: philological-historical obedience framework). Positions 2-5 require additional source ingestion. The page does **not** adjudicate among them.
 
 ## Sources Ingested
 
-1. [[marten-woudstra|Woudstra, Marten H.]]. *Joshua*. NICOT. Grand Rapids: Eerdmans, 1981.
+1. [[marten-woudstra|Woudstra, Marten H.]]. *Joshua*. NICOT. Grand Rapids: Eerdmans, 1981. Source page: [[woudstra-joshua-nicot]] (fidelity re-ingest 2026-07-18; digests A/C/D especially).
 2. [[barry-webb|Webb, Barry G.]]. *Judges*. NICOT. Grand Rapids: Eerdmans, 2012.
 3. [[david-tsumura|Tsumura, David Toshio]]. *The First Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2006. — Fidelity re-ingest: [[tsumura-1-samuel-nicot]].
 4. [[coogan-oxford-history-biblical-world|Coogan, Michael D., ed.]]. *The Oxford History of the Biblical World*. Oxford, 1998. (Historical-critical/archaeological angle: the conquest as largely non-historical; see [[jericho]], [[hazor]], [[israelites]].)

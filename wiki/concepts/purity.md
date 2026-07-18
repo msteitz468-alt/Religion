@@ -2,9 +2,9 @@
 title: Purity
 domain: ritual
 traditions_using: [christianity, judaism]
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-07-18
-tags: [concept, judaism, christianity, ritual, law, kabbalah]
+tags: [concept, judaism, christianity, ritual, law, kabbalah, second-temple]
 ---
 
 # Purity
@@ -31,6 +31,27 @@ He observes that the issue has been latent throughout Matthew's narrative — "t
 have been constantly present for one known as a healer" — through Jesus touching a leper,
 contact with Gentiles, visiting pig-keeping territory, being touched by a woman with a
 menstrual disorder, touching a corpse, and eating with tax collectors and sinners.
+
+## Wenham (NICOT Leviticus) — uncleanness system and food laws (fidelity re-ingest 2026-07-18)
+
+*Attributed to [[gordon-wenham|Wenham]]; source [[wenham-leviticus-nicot]].*
+
+**Structure.** Leviticus 11–15 explains kinds of uncleanness and their treatment, looking back to the priestly commission of 10:10 (distinguish holy/common and unclean/clean) and **preparing for ch. 16** (Day of Atonement “because of the uncleannesses of the Israelites”). Parallel: chs. 1–7 prepare for 8–10 as 11–15 prepare for 16.
+
+| Chapter | Domain |
+|---|---|
+| 11 | Clean/unclean animals (food) |
+| 12 | Childbirth (lochial discharge, not the birth-event as such; infant not declared unclean) |
+| 13–14 | Skin and fungus “diseases” (*ṣāraʿat*—not simply modern Hansen’s disease); priest declares by symptoms |
+| 15 | Bodily discharges |
+
+**Food-law rationales Wenham rejects:** hygiene as the human authors’ primary motive; pure arbitrariness (except last resort); uncontrolled virtue-allegory; cultic/anti-Canaanite as *sole* cause.
+
+**Rationale he accepts (Douglas):** clean animals exemplify **complete locomotion types** for their sphere; the divisions teach holiness-as-wholeness and **mirror election** (Israel separated among nations). NT holiness language (Christians as “saints”; 1 Pet 1:16 quoting the Levitical motto) continues the call without reinstating the food boundary for Gentiles (Acts 10/15).
+
+**Skin disease:** often functions as living death / covenant exclusion; healing is from God, not priestly magic; full reentry (ch. 14) can require the full suite of offerings including a surprising **reparation** offering. Two birds // two goats of Yom Kippur as aggregation/elimination pair (Wenham following Davies et al.).
+
+Cross-links: [[leviticus]] · [[holiness]] · [[sacrifice]] · [[atonement]] · [[azazel-identity]]
 
 ## Handwashing Is Not Biblical Law
 
@@ -163,11 +184,35 @@ purity laws which has just been declared in vv. 11-20."
 - `parallel_in:` [[sabbath]], [[divorce]] — the other loci of France's law analysis
 - [[fulfillment]] · [[pharisees]] · [[gentiles]] · [[jerusalem]] · [[typology]]
 
+## Second Temple Origins in Ezra–Nehemiah (Harrington NICOT)
+
+*Source: [[harrington-ezra-nehemiah-nicot|Harrington, *The Books of Ezra and Nehemiah* (NICOT, 2022)]]. Full-body re-ingest 2026-07-18. All interpretive claims below are Harrington’s or scholars she names.*
+
+[[hannah-harrington|Harrington]] argues that Ezra–Nehemiah is a **turning point** for purity language in Judaism:
+
+1. **Impurity attached to types of people.** “The major innovation in the Second Temple period with regard to impurity is that it is no longer caused just by certain bodily processes or the behavior of human beings… For the first time, it is attached as an adjective to certain types of people” — gentiles and non-conforming Jews. The sinner, not only the sin, is impure.
+
+2. **Holy seed.** *zeraʿ haqqōdeš* (Ezra 9:2) makes holiness a **biological** transmission, not only covenantal status (*ʿam qādôš*). Conversion is disallowed; mixture desecrates the sanctum that Israel herself has become (*maʿal*). See [[intermarriage-ezra-nehemiah]].
+
+3. **Gentile impurity at Neh 13:9.** Contagious gentile impurity “surfaces here in Neh 13:9 for the first time in Judaism” when Nehemiah purifies Tobiah’s chamber: impurity “resides in the man himself,” not only in his actions. Harrington records:
+   - **Klawans:** no gentile-impurity concept before 1st c. CE; sanctuary exclusion = profaneness not impurity; does not discuss Neh 13:9.
+   - **Hayes:** follows Klawans; coins “genealogical pollution” for E-N; no *ritual* gentile impurity there.
+   - **Olyan:** genealogical *and* ritual-like innovation (allied with Harrington).
+   - **Harrington:** Hayes is right that 4QMMT’s primary concern is genealogical, **but ritual purity is also at stake**.
+
+4. **Semantic expansions** she tracks from Leviticus into E-N: *maʿal* from sancta-goods to desecration of Jewish persons; *ṭumʾâ* permanently labels outsiders; *bādal* separates ethnically unauthorized persons; *niddâ* used metaphorically for moral impurity; *gāʾal* intensifies disgust at priestly genealogical pollution.
+
+5. **Expansion of holy space** (Eskenazi, endorsed): purity buffer moves from temple → people → **city** (wall consecration; people “in the house of God” within walls, Neh 12:40). Ritual purification marks Passover boundary (Ezra 6:21) and wall dedication (Neh 12:30).
+
+6. **ST reception:** Jub. 22:16-17 (eating with gentiles); 4Q266 (priests defiled among gentiles); 1QS v (outsider possessions impure); 4QMMT (pollute holy seed); Temple Scroll (foreign wife barred from pure food); Josephus / Herod inscription / Court of the Gentiles; rabbinic gentile-impurity and proselyte purification (m. Pesaḥ 8:8).
+
+7. **NT reversal:** Acts 10:28 (association ban overturned); Harrington notes Klawans reads Peter as moral not ritual impurity, but counters that diaspora God-fearers and lack of Jerusalem temple agency complicate pure ritual readings.
+
+Complements France’s Matthean reevaluation of purity without collapsing ST Jewish and Christian registers. See [[ezra-nehemiah]], [[nehemiah]], [[samaritans]].
+
 ## Coverage and Gaps
 
-Coverage long rested on a single Christian commentary on a single gospel pericope. Levitical and
-priestly purity systems in their own right, Second Temple sectarian purity (Qumran), rabbinic
-*Ṭeharot* in its own voice, and Islamic *ṭahāra* remain thin outside the Zoharic densification below.
+Coverage now includes France on Matt 15, Harrington on Ezra–Nehemiah as ST purity seedbed, and Zoharic densification. Levitical purity systems in their own right, full Qumran *halakha* beyond Harrington’s citations, rabbinic *Ṭeharot* in its own voice, and Islamic *ṭahāra* remain thin.
 
 ## Zoharic / Kabbalistic Reading (Pritzker Vol. VII)
 
@@ -189,3 +234,7 @@ Complements France’s NT reevaluation of purity without collapsing Jewish and C
 
 2. [[daniel-matt|Matt, Daniel C.]] (trans.). *The Zohar: Pritzker Edition, Volume VII*. Stanford, 2012.
    **Standards reingest 2026-07-18** — [[matt-zohar-pritzker-vol7|source page]].
+
+3. [[harrington-ezra-nehemiah-nicot|Harrington, Hannah K.]]. *The Books of Ezra and Nehemiah*. NICOT.
+   Grand Rapids: Eerdmans, 2022. Full-body re-ingest 2026-07-18 — holy seed, gentile impurity
+   (Neh 13:9), Klawans/Hayes dispute, ST reception.

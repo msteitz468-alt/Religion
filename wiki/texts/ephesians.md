@@ -11,7 +11,7 @@ canon_scope:
 language_original: Greek
 date_range: c. AD 62 (if Pauline; c. AD 80–90 if pseudonymous — debated)
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [text, christianity, new-testament, pauline, epistle]
 ---
 
@@ -71,7 +71,7 @@ Paul moves from praise (chs. 1–3) to exhortation (chs. 4–6), the whole lette
 - **The new humanity** (4:17–5:2): "put off the old self, put on the new self, created after the likeness of God in true righteousness and holiness" (4:24)
 - **Light and darkness** (5:3–14): avoid sexual immorality and greed; walk as children of light
 - **The Household Code / *Haustafel*** (5:15–6:9): mutual submission (5:21); wives and husbands (5:22–33, with the husband-wife relationship interpreted through the Christ-church analogy); children and parents (6:1–4); slaves and masters (6:5–9). See [[ephesians-household-code|The Ephesians Household Code]].
-- **The Armor of God** (6:10–20): stand against "the schemes of the devil"; the enemy is not "blood and flesh but the rulers, the authorities, the cosmic powers over this present darkness, the spiritual forces of evil in the heavenly places" (6:12). Six pieces of armor: belt = truth; breastplate = righteousness; shoes = readiness of the gospel of peace; shield = faith; helmet = salvation; sword = word of God/gospel.
+- **The Armor of God** (6:10–20): stand against "the schemes of the devil"; the enemy is not "blood and flesh but the rulers, the authorities, the cosmic powers over this present darkness, the spiritual forces of evil in the heavenly places" (6:12). Six pieces of armor: belt = truth; breastplate = righteousness; shoes = readiness of the gospel of peace; shield = faith; helmet = salvation; sword = word of God/gospel. [[frank-thielman|Thielman]] derives the belt and breastplate from Isaiah 11:5 and 59:17 LXX (the divine warrior's armor now supplied to God's people rather than worn by God), reads *kosmokratores* (6:12) as its **first known occurrence in Greek literature** (later associated with the fate-controlling planets, then the emperor; cf. *Testament of Solomon*), takes "the heavenly places" as a *dimension* of existence rather than a location, and identifies the sword's "word of God" (*rhēma*) with the gospel (as in 5:26) rather than a Spirit-prompted proof-text.
 
 ## Major Themes
 
@@ -113,6 +113,9 @@ What does it mean that the church is "the fullness (*plērōma*) of him who fill
 **6. The Spirit as *Arrabōn* (Seal and Down Payment, 1:13–14)**
 The Spirit is given as "the promised Holy Spirit" and functions as a "pledge" (*arrabōn*) of the inheritance — the same commercial term ("deposit") Paul uses in 2 Cor 1:22 and 5:5. The Spirit is the first installment of the eschatological consummation, guaranteeing full future possession.
 
+**7. The Descent (4:9)**
+"He also descended into the lower parts of the earth" (*ta katōtera merē tēs gēs*). Three readings: the incarnation (Calvin's appositional "the lower regions, that is, the earth"), the giving of the Spirit at Pentecost, and a descent to the realm of the dead. [[frank-thielman|Thielman]] takes a refined Hades reading: not a descent *between* death and resurrection, but a descent-below/ascent-above **merism** (cf. Ps 139:8) forming a single triumphant post-resurrection movement expressing Christ's cosmic reach to fill all things and subdue every hostile power; he judges the variant that adds *prōton* (which would favor the incarnation reading) non-original.
+
 ## Commentators
 
 - [[frank-thielman|Frank Thielman]] — BECNT (Baker Academic, 2010); Beeson Divinity School; defends Pauline authorship, AD 62; careful text-critical and grammatical analysis; strong OT background and imperial cult setting; evangelical
@@ -125,6 +128,7 @@ The Spirit is given as "the promised Holy Spirit" and functions as a "pledge" (*
 
 ## Key Links
 
+- [[thielman-ephesians-becnt|Thielman, *Ephesians* (BECNT)]] — source page (scope plan, coverage ledger, volume synthesis)
 - [[frank-thielman|Frank Thielman]] — primary commentary source
 - [[ephesians-authorship|Ephesians: Pauline or Pseudonymous?]] — the central introduction controversy
 - [[ephesians-middle-wall|The Middle Wall in Eph 2:14]] — the most exegetically contested verse

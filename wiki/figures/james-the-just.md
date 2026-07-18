@@ -5,8 +5,8 @@ tradition: Christianity (with significance in Jewish-Christian and later Catholi
 textual_sources: [Gospel of Matthew (13:55), Gospel of Mark (6:3), John (7:5), Acts (12:17; 15:13; 21:18), 1 Corinthians (15:7), Galatians (1:19; 2:9, 12), Letter of James (1:1)]
 dates: floruit c. AD 30s–62; martyred AD 62 (Josephus)
 roles: [brother of Jesus, leader/"bishop" of the Jerusalem church, apostle (per Gal. 1:19), letter-writer, martyr]
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [figure, christianity, new-testament, apostle, jerusalem-church]
 ---
 
@@ -16,9 +16,9 @@ James the Just is the traditionally identified author of the [[james|Letter of J
 preeminent leader of the early Jerusalem church. He is one of at least four men named James
 (Greek *Iakōbos*, the OT name Jacob) in the NT, and must be distinguished from James the son of
 Zebedee (executed by Herod Agrippa I c. AD 44, Acts 12:2) and James the son of Alphaeus (an
-obscure member of the Twelve). [[douglas-moo|Moo]] (PNTC James, 2000) defends the traditional
-identification of the author with this James against the now-dominant pseudepigraphal hypothesis.
-See [[james-authorship|James: Authorship and Date]].
+obscure member of the Twelve). [[douglas-moo|Moo]] (PNTC James, 2000; [[moo-james-pntc|source page]], fidelity re-ingest 2026-07-18)
+defends the traditional identification of the author with this James against the now-dominant
+pseudepigraphal hypothesis. See [[james-authorship|James: Authorship and Date]].
 
 This is also the wiki's first **figure page** in the sense defined by the project: James is named
 in primary texts, is the subject of substantial interpretive and biographical tradition, and is
@@ -126,8 +126,35 @@ From the NT sources in this batch (Gospels + Acts): In the Gospels he is one of 
 
 **Influence from this batch**: The Gospels portray the family's initial unbelief and later presence in the community (Acts 1:14); Acts shows James as the stabilizing pillar who facilitates the church's expansion while maintaining continuity with Judaism. This complements the Letter of James (Moo) and provides the historical context for the James/Paul tension.
 
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from [[bock-acts-becnt|Bock, *Acts* (BECNT)]]. All interpretive claims are Bock's
+or those of scholars he names. Bock explicitly distinguishes this James, the Lord's brother, from
+[[james-son-of-zebedee|James son of Zebedee]], the apostle martyred at Acts 12:2 — "not the Lord's
+brother but John's brother."*
+
+In Bock's reading James, the Lord's brother, emerges as the leader of the Jerusalem church precisely
+as the apostles recede: his first important mention is at 12:17, where the freed Peter tells the
+believers to "report these things to James and the brothers." By the **Jerusalem Consultation**
+(15:13–21) James presides and delivers the decisive ruling. He speaks after Peter and Barnabas/Paul,
+calling Peter by the Jewish name **Simeon**, and grounds the Gentile mission in "the prophets" —
+above all **Amos 9:11–12** (in a form close to the LXX, supplemented from Isa. 45:21), read as
+present fulfillment: the rebuilt "booth of David" is realized in the Messiah's arrival and the
+present ingathering of the nations who "seek God." Bock notes James's conciliatory, region-wide
+sensitivity in citing the Greek text the Gentiles would recognize. James's proposal issues in the
+**four abstentions** (idol-pollution, immorality, things strangled, blood) — the *Jakobsklauseln*,
+which Bock reads as an ethos of faithfulness and table-fellowship sensitivity, "not about salvation
+but… positive fellowship." Bock (following Jervell) prefers to call the meeting a "consultation"
+rather than a technical "council," and notes that after Acts 15 the Jerusalem church, and James, largely
+recede until Acts 21, where James again voices the Jewish-Christian concern over Paul and the law and
+proposes the Nazirite/purification vow (21:18–25). Bock notes James's later martyrdom in AD 62 under
+Ananus II (Josephus, *Ant.* 20.9.1).
+
 ## Key Links
 
+- [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007]] — James's Jerusalem
+  leadership and the Council ruling
+- [[james-son-of-zebedee|James son of Zebedee]] — the distinct apostle-martyr of Acts 12:2
 - [[james|The Letter of James]] — the text traditionally attributed to him
 - [[james-authorship|James: Authorship and Date]] — the authenticity / dating controversy
 - [[james-paul-justification|James and Paul on Justification]] — his theological relationship to Paul

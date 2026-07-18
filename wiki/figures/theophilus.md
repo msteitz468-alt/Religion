@@ -5,7 +5,7 @@ tradition: Christianity
 textual_sources: [Gospel of Luke, Acts of the Apostles]
 dates: 1st century CE
 roles: [narratee, patron]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-18
 tags: [figure, christianity]
 ---
@@ -38,7 +38,29 @@ As explicit narratee, Theophilus represents Luke's intended audience: educated, 
 - **Bock (Acts)**: Reinforces the patron relationship and the unified purpose across Luke-Acts. The "first book" reference and the historical monograph genre serve readers like Theophilus who need reliable grounding in the origins of the new community.
 - Broader: Influences understandings of Luke-Acts as apologetic historiography aimed at educated readers; model for dedications in early Christian literature. Cross-tradition: highlights the conventional yet purposeful address in Greco-Roman literary culture.
 
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from [[bock-acts-becnt|Bock, *Acts* (BECNT)]]. All interpretive claims are Bock's
+or those of scholars he names.*
+
+Bock treats Theophilus as a real, high-status individual — the honorific "most excellent"
+(κράτιστε) signals equestrian or official rank — and the addressee who binds Luke and Acts into a
+single two-volume work through their paired prologues (Luke 1:1–4; Acts 1:1–5, with its back-
+reference to "the first account"). Bock repeatedly frames Acts' overall purpose in terms of
+Theophilus's need: to reassure him of the **"certainty" / assurance** (ἀσφάλεια, Luke 1:4) of what he
+has been taught. Distinctively, Bock speculates that Theophilus "may well have been a **God-fearer**"
+— a Gentile drawn to Israel's God — and quite possibly a **wavering or hesitant new Christian**
+struggling with his decision to join the Jesus movement; on this reading Luke's answer is that "God
+designed all of this," including the controversial inclusion of the Gentiles. Bock accordingly makes
+Theophilus the representative reader for whom several episodes are pointedly relevant: the conversion
+of the Ethiopian eunuch, "a significant government official… just what someone such as Theophilus…
+needs to hear," and the Cornelius breakthrough. Consistent with his "historical monograph" genre
+verdict, Bock reads the dedication as marking apologetic historiography aimed at thoughtful,
+high-status readers rather than as an allegory of "any God-lover."
+
 **Key Links**:
+- [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007]] — Theophilus as high-status
+  addressee, possible God-fearer, representative reader needing assurance
 - [[luke|Gospel of Luke]] (prologue, 1:1-4)
 - [[joel-green|Joel B. Green]] (real patron, certainty, representative audience)
 - [[acts|Acts of the Apostles]] (second prologue, unity)

@@ -7,7 +7,7 @@ positions:
   - Tradition-historical: Large blocks of tradition, not literary documents
   - Canonical conservative: Mosaic or near-Mosaic origin; composite ≠ errant
   - Literary-unified: Pentateuch displays literary unity incompatible with source fragmentation
-sources_ingested: 4
+sources_ingested: 5
 traditions_involved: [Christianity — Protestant critical and evangelical; Judaism — modern critical]
 resolution_status: open (active scholarly debate; no consensus on replacement theory)
 last_updated: 2026-07-18
@@ -115,9 +115,23 @@ This position distinguishes Bruckner from both the more unity-committed evangeli
 
 The DH remains the necessary conversation partner for any serious academic engagement with the Pentateuch.
 
+### Ashley (NICOT Numbers) — mediating final-form position
+
+[[timothy-ashley|Timothy R. Ashley]] (*The Book of Numbers*, NICOT, 1993) surveys traditional Mosaic authorship claims, classical Wellhausen JEDP, form/tradition criticism (von Rad, Noth), Rendtorff’s block-editing, and the Kaufmann/Milgrom/Weinfeld/Hurvitz stream that dates P preexilic. His own mediating stance (attributed):
+
+- Moses has a key role in the origin of **some** material (only writing notice in Numbers: 33:2 itinerary framework); full traditional Mosaic authorship of the whole is not affirmed.
+- Long transmission is undeniable; materials from ch. 22 on especially point later than the conquest.
+- Final form likely **preexilic** (possibly united monarchy)—not necessarily postexilic P.
+- Redactional histories (as in Budd) are useful summaries but **not knowable** as recoverable histories; primary job is final-form explanation for the Church.
+- Inspiration not limited to the earliest stage; Church and Synagogue confess the whole OT text.
+- When the text presents literary difficulty, seek a literary/functional solution from within the final form rather than positing an editor indifferent to logic and style.
+
+This places Ashley near Hamilton/Craigie on final-form reading and near Kaufmann/Milgrom on P dating, while remaining more open than Cole to long transmission.
+
 ## Related Pages
 
 - [[hamilton-genesis-1-17-nicot|Hamilton Genesis 1–17]] · [[hamilton-genesis-18-50-nicot|Hamilton Genesis 18–50]]
+- [[ashley-numbers-nicot|Ashley Numbers NICOT]] · [[numbers|Numbers]]
 - [[genesis-creation-accounts|Two creation accounts]] · [[flood-universality|Flood universality]] · [[genesis-ancient-near-east|Genesis and the ANE]]
 
 ## Sources Ingested
@@ -126,3 +140,4 @@ The DH remains the necessary conversation partner for any serious academic engag
 2. [[hamilton-genesis-18-50-nicot|Hamilton, Victor P.]]. *The Book of Genesis: Chapters 18–50*. NICOT. Grand Rapids: Eerdmans, 1995. (Fidelity reingest 2026-07-18 — Midianites/Ishmaelites; Joseph dual invitation; related J/E loci.)
 3. [[peter-craigie|Craigie, Peter C.]]. *The Book of Deuteronomy*. NICOT. Grand Rapids: Eerdmans, 1976.
 4. [[james-bruckner|Bruckner, James K.]]. *Exodus*. UBCS. Grand Rapids: Baker Books, 2008/2012.
+5. [[ashley-numbers-nicot|Ashley, Timothy R.]]. *The Book of Numbers*. NICOT. Grand Rapids: Eerdmans, 1993. (Full-body ingest 2026-07-18 — Intro III Authorship and Composition.)

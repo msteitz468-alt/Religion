@@ -3,7 +3,7 @@ title: The Mystery (*Mystērion*) in Paul
 domain: theology / apocalyptic / biblical theology
 traditions_using: [Christianity — Pauline; Second Temple Jewish background]
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [concept, christianity, new-testament, pauline, apocalyptic]
 ---
 
@@ -66,6 +66,7 @@ The *mystērion* concept reflects Paul's apocalyptic framework: God has acted de
 
 - [[ephesians|Letter to the Ephesians]] — eight occurrences; primary Pauline locus
 - [[frank-thielman|Frank Thielman]] — primary source
+- [[thielman-ephesians-becnt|Thielman, *Ephesians* (BECNT)]] — source page
 - [[colossians|Letter to the Colossians]] — "Christ in you, the hope of glory" as the mystery (1:26–27)
 - [[romans|Letter to the Romans]] — the Israel/Gentile mystery of 11:25
 - [[1-corinthians|First Letter to the Corinthians]] — the cross as mystery (2:7); resurrection transformation (15:51)
@@ -73,6 +74,7 @@ The *mystērion* concept reflects Paul's apocalyptic framework: God has acted de
 - [[new-perspective-on-paul|New Perspective on Paul]] — Gentile inclusion is the content of the Ephesian mystery; relevant to the NPP debate about Paul's purposes
 - [[apocalyptic-literature|Apocalyptic Literature]] — the Daniel *rāz* background of *mystērion*
 - [[daniel|Daniel]] — LXX uses *mystērion* for the *rāz* of the statue vision (Daniel 2)
+- [[mcknight-colossians-nicnt|McKnight, *Colossians* (NICNT)]] — source for the Colossian "mystery = Christ in you" reading
 
 ## Related Texts
 

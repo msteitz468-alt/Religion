@@ -5,7 +5,7 @@ tradition: Christianity (foundational across all branches; focus of Catholic pri
 textual_sources: [Gospels (Matthew, Mark, Luke, John), Acts, 1 Corinthians (1:12; 9:5; 15:5), Galatians (1:18; 2:7–14), 1 Peter, 2 Peter]
 dates: floruit c. AD 30–64/67; martyred in Rome under Nero (traditional, c. AD 64–67)
 roles: [apostle, fisherman, leader of the Twelve, missionary to the circumcised, pillar of the Jerusalem church, traditional author of 1–2 Peter, martyr]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-18
 tags: [figure, christianity, new-testament, apostle, jerusalem-church, rome]
 ---
@@ -115,6 +115,29 @@ From the NT sources in this batch:
 - **Bock (Acts)**: Peter dominates the first half (chs. 1-12) as the Spirit-filled leader at Pentecost, healer, and spokesperson at the Jerusalem Council. His speeches interpret the death and resurrection of Jesus as the fulfillment that opens salvation to all. God remains the central actor; Peter is the instrument.
 
 In **1 Peter** (Jobes) his own theology emerges: the apostle who denied under pressure now writes to suffering believers about following the rejected, vindicated Christ in patient endurance — the source of the church's identification of Jesus with the Isaiah 53 Suffering Servant.
+
+### Jobes re-ingest notes (BECNT 1 Peter, 2026-07-18)
+
+*Brief attributed append only — see [[karen-jobes|Karen H. Jobes]], [[jobes-1-peter-becnt|source
+page]], and [[1-peter-authorship|authorship controversy]] for full apparatus. Do not restructure this
+page around these notes.*
+
+- **Suffering Servant origin:** Jobes holds that only 1 Pet 2:21–25 extensively discusses Christ’s
+  passion in Isa 53 terms; the church “owes this insight to the apostle Peter alone.” Sequence follows
+  the passion, not Isaiah’s order; hermeneutic runs from Jesus’ death back into the LXX. Irony she
+  notes: the apostle who most objected to the death prediction (Mark 8:31–33) centers Christology on
+  unjust suffering. See [[servant-songs|Servant Songs]].
+- **Greek / syntax:** quantitative analysis finds Semitic interference consistent with a non-native
+  Greek author — undercuts “too good for a Galilean fisherman” without by itself proving Peter wrote
+  the letter. Acts 4:13 *agrammatos* she (via Achtemeier) takes as lack of formal *rabbinic* training,
+  not necessarily no Greek; Capernaum trade and decades of mission could raise L2 proficiency.
+- **Associates at 5:12–13:** Silvanus more likely **courier** than amanuensis on the *dia* idiom;
+  Mark = John Mark, traditional interpreter (“my son” not literal); “she in Babylon” = Christian
+  community sharing Diaspora-exile status. Lifetime windows with Mark and Silvanus: early 50s and
+  mid-60s Rome.
+- **Colonization / early Rome:** continues to revive minority early-arrival-under-Claudius readings
+  of Acts 12:17 as relevant background for displaced readers addressed as *parepidēmoi* — see
+  [[christian-exile-diaspora|Christian Exile / Diaspora Identity]].
 
 **Influence on Commentary Traditions** (added from this batch):
 - **France (Matthew/Mark)**: Peter's arc illustrates the cost of following the paradoxical Messiah; his rehabilitation models grace for failing disciples.
@@ -391,18 +414,68 @@ public failure: "even after the curse at the second cockcrow, Peter has not been
 the message implying "an assurance of forgiveness and restoration, the more impressive for
 being left unsaid."
 
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from [[bock-acts-becnt|Bock, *Acts* (BECNT)]]. All interpretive claims are
+Bock's or those of scholars he names. Bock reads Acts through grammatical-historical evangelical
+exegesis and Luke-Acts unity, and repeatedly defends the historicity of Peter's ministry against
+the skepticism of Dibelius, Haenchen, and Conzelmann.*
+
+Bock makes Peter the dominant human figure of Acts 1–12 and the model witness — though he insists
+throughout that "the key character in Acts is God," with Peter as the Spirit-empowered instrument.
+Peter leads the reconstitution of the Twelve, proposing Matthias's selection by lot as the last
+casting of lots before the Spirit comes (1:15–26); Bock reads the restored Twelve as leaders of
+"eschatological Israel." At **Pentecost** Peter preaches the first missionary speech (2:14–36),
+which Bock calls "one of the most important theological declarations in the NT": stringing Joel
+2:28–32, Ps. 16, and Ps. 110:1 by *gezerah shewa* link-words and "this-is-that" pesher form, Peter
+argues a *high* Christology — Jesus made "both Lord and Christ" (2:36) — that Bock insists is early
+and resurrection-based, **not** a late Hellenistic or adoptionist development (the resurrection
+"made evident what Jesus always was").
+
+Peter's ministry then unfolds as a series of confrontations Bock treats as escalating persecution.
+He heals the lame man at the Beautiful Gate and preaches the christologically rich temple sermon
+(3:11–26; Servant, Holy and Righteous One, Author/Prince of life, prophet-like-Moses); before the
+Sanhedrin, "filled with the Holy Spirit," he declares the exclusivity of salvation — "there is
+salvation in no one else… no other name under heaven" (4:12) — which Bock (with Witherington) reads
+as no endorsement of religious pluralism. In the **Ananias and Sapphira** episode (5:1–11) Peter
+functions as a prophet reading the heart; Bock stresses that God, not Peter, is the actor and that
+"lying to the Holy Spirit" is lying to God, so the passage is no "magical" power display. Peter's
+Sanhedrin defense (5:29–32, "we must obey God rather than men"; Jesus exalted as Leader/*archēgos*
+and Savior/*sōtēr*) and his miraculous prison escape by an angel while the church prays (12:6–17)
+round out his Jerusalem career.
+
+The **Cornelius** episode (10:1–11:18) is, for Bock, "the book's turning point": God — not any
+decision of the Twelve — directs the gospel to a Gentile household, and the sheet-vision means that
+"what God has cleansed" (food, and so table fellowship with Gentiles) is clean, so "God shows no
+partiality" (10:34). Peter's insight into the food/fellowship link is, Bock argues, the only way to
+make sense of his later "lapse" at Antioch (Gal. 2:11–14), which "he recognized when it was pointed
+out to him." At the **Jerusalem Consultation** Peter delivers the first speech (15:7–11), recounting
+Cornelius a third time and confessing salvation "through the grace of the Lord Jesus" apart from the
+"yoke" of the law — which Bock notes is **his last appearance in Acts**, after which the narrative
+turns to Paul. Against Barrett's Tübingen-flavored claim that this "sounds too Pauline" to be
+Peter's real view, Bock argues it reflects an inability the law fosters (cf. Rom. 7), not a
+repudiation of the law as law.
+
 ## Key Links
 
+- [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007]] — Peter as model witness
+  across Acts 1–15
 - [[mark|Gospel of Mark]] / [[france-mark-nigtc|France, *The Gospel of Mark* (NIGTC)]] — the
   Petrine-connection tradition and Peter's Marcan arc
 - [[synoptic-problem|The Synoptic Problem]] — France's source-critical stance, which shapes his
   handling of the Matthew-only Petrine material
 - [[1-peter|The First Letter of Peter]] — the text traditionally authored by Peter
 - [[1-peter-authorship|1 Peter: Authorship, Date, and the Colonization Theory]]
+- [[jobes-1-peter-becnt|Jobes, *1 Peter* (BECNT)]] — primary Jobes source page
 - [[karen-jobes|Karen H. Jobes]] — source commentator; defends Petrine authorship
+- [[servant-songs|Servant Songs]] — Petrine Isa 53 passion Christology (Jobes)
+- [[christian-exile-diaspora|Christian Exile / Diaspora Identity]]
+- [[silas|Silas / Silvanus]] — 5:12 courier on Jobes’s reading
+- [[john-mark|John Mark]] — 5:13 “my son”
 - [[james-the-just|James the Just]] — fellow "pillar"; the Antioch incident and Jerusalem Council
 - [[galatians|Galatians]] / [[acts|Acts]] — primary sources for Peter's apostolic career
-- [[servant-songs|Servant Songs]] — Peter's Isaiah 53 Christology
 - [[spirits-in-prison-1-peter-3|Christ and the Spirits in Prison]] — a crux in his (first) letter
 - [[2-peter|The Second Letter of Peter]] / [[2-peter-authorship|2 Peter: Authorship]] — his second letter and its disputed authenticity
+- [[green-jude-2peter-becnt|Green, *Jude and 2 Peter* (BECNT)]] — fidelity re-ingest 2026-07-18; minority Petrine authenticity defense
+- [[gene-green|Gene L. Green]] — BECNT commentator on 2 Peter
 - [[jude-brother-of-jesus|Jude, the Brother of Jesus]] — whose letter 2 Peter reuses

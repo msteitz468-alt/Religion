@@ -8,7 +8,7 @@ positions:
   - Eschatologically relativized domesticity that neither endorses nor overturns the status quo
 traditions_involved: [Christian scholarship; evangelical; mainline Protestant; feminist; Catholic]
 resolution_status: open
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, new-testament, ephesians, colossians, ethics, gender, slavery, household]
 ---
 
@@ -119,6 +119,7 @@ No consensus is in view. The debate cuts across denominational, academic, and co
 
 - [[ephesians|Letter to the Ephesians]] — primary text
 - [[frank-thielman|Frank Thielman]] — primary commentator; complementarian, Pauline authorship
+- [[thielman-ephesians-becnt|Thielman, *Ephesians* (BECNT)]] — source page
 - [[ephesians-authorship|Ephesians: Pauline or Pseudonymous?]] — the "early catholicism" reading requires pseudonymity
 - [[mysterion|The Mystery (*Mystērion*) in Paul]] — Eph 5:32's use of *mystērion* for the marriage-church typology
 - [[new-creation|New Creation]] — the new human being (4:24) as the ethical context for the household code
@@ -126,3 +127,4 @@ No consensus is in view. The debate cuts across denominational, academic, and co
 - [[scot-mcknight|Scot McKnight]] — evangelical egalitarian reading of Col 3:18–4:1; "more Aristotelian than Christian"
 - [[christoformity|Christoformity]] — McKnight's grounding for the submission instruction
 - [[galatians|Letter to the Galatians]] — Gal 3:28 as the hermeneutical counter-text
+- [[mcknight-colossians-nicnt|McKnight, *Colossians* (NICNT)]] — source for the egalitarian Col 3:18–4:1 reading

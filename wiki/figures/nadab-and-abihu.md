@@ -5,7 +5,7 @@ tradition: Judaism / Christianity
 textual_sources: [Exodus, Leviticus, Numbers]
 dates: 13th century BCE (traditional)
 roles: [priests]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-18
 tags: [figure, judaism, christianity, priest, kabbalah, zohar]
 ---
@@ -25,8 +25,10 @@ Nadab and Abihu were the two eldest sons of Aaron and Elisheba. They accompanied
 ### Jewish (rabbinic)
 Rabbinic literature heavily debates the exact nature of their sin: intoxication (Lev 10:9 immediately follows), rendering a halakhic decision before Moses, lacking proper garments, not washing hands and feet, or inappropriate zeal to draw near. Childlessness is noted as a further mark of incompleteness (Num 3:4).
 
-### Christian
-Used as a cautionary tale regarding the strictness of God's holiness, the danger of approaching God on one's own terms, and the necessity of proper reverence in worship. [[gordon-wenham|Wenham]] (NICOT Leviticus) treats the episode as the narrative hinge between inauguration joy (Lev 9) and the purity laws: the same divine fire that consumed the acceptable sacrifice consumes the disobedient priests.
+### Christian (Wenham NICOT — fidelity densification 2026-07-18)
+*Source: [[wenham-leviticus-nicot]].*
+
+[[gordon-wenham|Wenham]] treats Lev 8–10 as **history of redemption**, not a law digression: after tabernacle and sacrifice regulations, the priesthood must still be instituted. Structure is a triptych—(1) ordination day 1 (ch. 8, Moses as temporary priest); (2) day 8, Aaron’s first sacrifices accepted with glory-fire (9:24); (3) sons’ offerings rejected with judgment-fire (10:2). The precise mechanics of “strange fire” remain obscure; what is decisive is that the act was one **“which he had not commanded them.”** The same fire-formula turns from blessing to judgment. Aftermath: surviving priests must pay strict attention to command; 10:10 states the priestly essence—distinguish holy/common and unclean/clean (and teach *torah*). Alcohol ban (10:8–11) reduces risk of fatal cultic error; drunkenness is a traditional explanation for Nadab/Abihu but not proven in the narrative. Nearer approach → stricter standard (10:3; Calvin; Luke 12:48; 1 Pet 4:17; Jas 3:1).
 
 ### Kabbalistic / Zoharic (Pritzker Vol. VII — standards reingest 2026-07-18)
 

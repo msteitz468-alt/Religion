@@ -11,8 +11,8 @@ associated_peoples: [
   "Philistines (destroyed the Shiloh sanctuary c. 1050 BCE after the battle of Ebenezer)",
   "later modest reoccupation"
 ]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [location, shiloh, ephraim, israelites, sanctuary, ark, philistines, iron-age]
 ---
 
@@ -61,8 +61,21 @@ that Jerusalem would inherit. Its **destruction becomes the paradigm of divine j
 sanctuary** — Jeremiah's "go to Shiloh… and see what I did to it" makes it the standing
 counter-example to any belief that the Temple is inviolable.
 
+### Woudstra (NICOT Joshua) — brief
+
+Attributed to [[marten-woudstra|Woudstra]] ([[woudstra-joshua-nicot]]; digests A, F): tent
+of meeting first appears at Shiloh (18:1; again 19:51) as the appointed meeting place
+where the ark was kept; lots for remaining tribes cast “before the Lord” at the tent door.
+Shiloh (modern Seilûn, ~12 miles south of Shechem) chosen for central location; Woudstra
+rejects explaining cult centers only via pre-Israelite sacredness — for Shiloh, God simply
+chose to cause his name to dwell there (Deut 12:11; Jer 7:12). Setting up the tent may
+counteract disintegration tendencies (Josephite complaint); relocation possible because the
+region was “subdued,” with possible Deut 12:10 rest/sanctuary motifs. Ch. 23 assembly
+possibly at Shiloh (vs Shechem for ch. 24). See [[covenant|Covenant]], [[promised-land]].
+
 ## Key Events and Controversies
 
 Hannah and Samuel; the loss of the ark and the fall of the Elide house (c. 1050 BCE);
 Jeremiah's Shiloh sermon against Temple complacency; the Finkelstein excavations. Related:
-[[shechem]], [[jerusalem]], [[israelites]], [[philistines]], [[samuel]], [[ark-of-the-covenant]].
+[[shechem]], [[jerusalem]], [[israelites]], [[philistines]], [[samuel]], [[ark-of-the-covenant]],
+[[marten-woudstra]], [[woudstra-joshua-nicot]], [[covenant]], [[promised-land]].

@@ -3,7 +3,7 @@ title: Midrash
 domain: hermeneutics
 traditions_using: [Judaism]
 sources_ingested: 1
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [concept, hermeneutics, judaism, second-temple, rabbinic, torah-interpretation]
 ---
 
@@ -72,8 +72,8 @@ The early church's practice of reading "Christ in the OT" shares the midrashic a
 
 ## Sources Ingested
 
-1. [[hannah-harrington|Harrington, Hannah K.]]. *The Books of Ezra and Nehemiah*. NICOT. Grand Rapids: Eerdmans, 2022.
+1. [[harrington-ezra-nehemiah-nicot|Harrington, Hannah K.]]. *The Books of Ezra and Nehemiah*. NICOT. Grand Rapids: Eerdmans, 2022. (Full-body re-ingest 2026-07-18; Exc. 7 Midrash Torah; Neh 8 *məpōrāš* and Sukkot midrash.)
 
 ## Related Texts
 
-- [[ezra-nehemiah|Ezra-Nehemiah]]
+- [[ezra-nehemiah|Ezra-Nehemiah]] · [[ezra|Ezra]] · [[hannah-harrington|Hannah K. Harrington]]

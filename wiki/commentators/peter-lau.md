@@ -6,7 +6,7 @@ tradition: Christianity (evangelical, nondenominational with Reformed overtones)
 affiliation: Sydney Missionary and Bible College; formerly missionary in Southeast Asia; part-time physician
 primary_texts_commented: Ruth
 sources_ingested: 1
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [commentator, christianity, evangelical, old-testament, megilloth, ruth]
 ---
 
@@ -70,6 +70,38 @@ This is the most methodologically self-aware and contextually explicit author pr
 
 Lau is the most methodologically diverse of the NICOT commentators and the most culturally self-aware. He advances the wiki's engagement with feminist, postcolonial, and social-scientific approaches beyond anything in the other ingested sources.
 
+## Distinctive Verse-Level Readings
+
+*Added from the full re-read (2026-07-18); see [[lau-ruth-nicot|source page]]. All positions
+are Lau's.*
+
+- **Tri-fold *ḥayil* (2:1; 3:11).** Boaz is *ʾîš gibbôr ḥayil* and Ruth *ʾēšet ḥayil*; Lau
+  argues *ḥayil* here carries three of its four senses — **material** (wealth), **moral**
+  (virtue), and **social** (influence) — but *not* the military sense. Boaz and Ruth are thus a
+  "perfect match" of character, not merely of means, and the shared epithet formally pairs them.
+- **The "hostile overseer" of 2:7.** Against the majority, Lau reads the notoriously broken
+  Hebrew of 2:7 as an *anxious, hostile* overseer misrepresenting Ruth's request as presumptuous
+  ("makes the best sense"), making him a foil to Boaz — the parallel to Orpah/Ruth and the
+  nearer kinsman/Boaz foils.
+- **The *ʿzb* / *bōʿaz* "abandon" wordplay.** The consonants of Boaz (*bʿz*) invert *ʿzb*, "to
+  abandon"; Lau traces the motif across the book (Ruth does *not* abandon Naomi, 1:16; Boaz
+  "leaves"/*ʿāzab* grain for Ruth, 2:16; "he has not *abandoned* his kindness," 2:20) — Boaz is
+  defined by what he refuses to do.
+- **Deliberate ambiguity at 2:20.** On "who has not abandoned his kindness to the living and
+  the dead," Lau catalogs five reasons to read the referent as Boaz and three for YHWH, then
+  concludes it is *intentional* ambiguity: the phrase means **both**, encoding the book's
+  theology that divine kindness reaches people *through* human kindness.
+- **Rejecting the threshing-floor "seduction" reading (3:1–15).** Lau grants that *ydʿ* ("know"),
+  *škb* ("lie"), and "uncover the place of his feet" (*margәlôt*) carry a "sexually charged"
+  register, but rejects (on textual and honor-shame grounds) recent readings of the scene as
+  attempted seduction/entrapment: "the words are suggestive without making the sexual meaning
+  explicit," and 3:9's "spread your wing over your handmaid" is a **marriage proposal**, which
+  Boaz takes it to be. Boaz's restraint enhances rather than compromises the honor of both.
+- ***dbq* as loyalty, not eros (1:14).** Ruth "clung" (*dbq*) to Naomi; Lau explicitly rejects
+  readings that import erotic/sexual connotations from the Gen 2:24 intertext, reading *dbq* as
+  covenant-kinship loyalty.
+
 ## Sources Ingested
 
-1. *Ruth*. New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 2023.
+1. *Ruth*. New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 2023. —
+   full re-read under current standards 2026-07-18; see [[lau-ruth-nicot|source page]].

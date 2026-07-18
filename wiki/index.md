@@ -29,24 +29,24 @@ Master index of all pages. Updated on every ingest.
 - [[god-in-search-of-man|God in Search of Man: A Philosophy of Judaism]] — [[abraham-joshua-heschel|Heschel]]'s 1955 constructive philosophy of Judaism (companion to *Man Is Not Alone*); non-canonical modern theology; three parts (God / Revelation / Response). **Ingested in full 2026-06-27** — Part I ([[radical-amazement]], [[awe]], [[the-ineffable]], [[kavod|glory]], [[depth-theology]], [[divine-pathos]]); Part II ([[revelation]], [[religion-of-time]]); Part III ([[mitzvah]], [[kavanah]], [[halakhah]], [[freedom]], [[nature-of-evil]])
 - [[genesis|Genesis]] — Torah/Pentateuch; creation, patriarchs; Hebrew · Hamilton NICOT 2-vol fidelity re-ingest 2026-07-18 ([[hamilton-genesis-1-17-nicot]] + [[hamilton-genesis-18-50-nicot]]): *tôlĕdôt* architecture, Gen 1:1 absolute, complementary creation accounts, Gen 15/17 one covenant, Akedah as test, 50:20 double *ḥāšaḇ* · Zoharic Sod reading of Gen 1–11 (Pritzker)
 - [[exodus|Exodus]] — Torah/Pentateuch; liberation, law, tabernacle; Hebrew
-- [[leviticus|Leviticus]] — Torah/Pentateuch; sacrifice, purity, holiness; Hebrew
-- [[numbers|Numbers]] — Torah/Pentateuch; wilderness, census; Hebrew
-- [[deuteronomy|Deuteronomy]] — Torah/Pentateuch; covenant law; Hebrew
-- [[book-of-joshua|Joshua]] — Former Prophets; conquest, distribution, covenant renewal; Hebrew
-- [[judges|Judges]] — Former Prophets; twelve judges; downward spiral; Hebrew
+- [[leviticus|Leviticus]] — Torah/Pentateuch; sacrifice, purity, holiness; Hebrew · Wenham NICOT fidelity re-ingest ✅ 2026-07-18 ([[wenham-leviticus-nicot]]): holiness-as-wholeness (Douglas); graded sacrifice; *kipper* ransom/cleanse; Azazel functional conclusion; ch. 27 recapitulation
+- [[numbers|Numbers]] — Torah/Pentateuch; wilderness, census; Hebrew · Ashley NICOT full-body ✅ 2026-07-18 ([[ashley-numbers-nicot]]): final-form geographic outline; exact obedience; Orientation/Disorientation/New Orientation; Harrison on census figures; Meribah/copper serpent/Korah/Balaam/Phinehas densified · Cole NAC seven-cycle · Zoharic VIII–IX
+- [[deuteronomy|Deuteronomy]] — Torah/Pentateuch; covenant law; Hebrew · Craigie NICOT full book ✅ 2026-07-18 ([[craigie-deuteronomy-nicot]]) · Arnold NICOT chs. 1–11 ✅ 2026-07-18 ([[arnold-deuteronomy-1-11-nicot]]): literary-rhetorical; multi-stage composition; Shema *ʾeḥad*/pedagogy
+- [[book-of-joshua|Joshua]] — Former Prophets; conquest, distribution, covenant renewal; Hebrew · Woudstra NICOT fidelity re-ingest ✅ 2026-07-18 ([[woudstra-joshua-nicot]]): theocentric prophetical historiography; unity frames; *ḥerem* degrees; already/not yet; Shechem covenant
+- [[judges|Judges]] — Former Prophets; downward spiral; Canaanization; incomplete conquest; twelve judges; Samson=Israel; epilogues integral; Hebrew; Webb NICOT fidelity re-ingest ✅ 2026-07-18 ([[webb-judges-nicot]])
 - [[book-of-ruth|Ruth]] — Megilloth / Former Prophets (LXX); ḥesed; kinsman-redeemer; Davidic ancestry; Hebrew
 - [[1-samuel|1 Samuel]] — Former Prophets; Samuel, Saul, David; transition to monarchy; Hebrew · Tsumura NICOT fidelity re-ingest 2026-07-18 ([[tsumura-1-samuel-nicot]]): MT-first, four-block structure, king subject to prophet, *nḥm*/*ḥerem*/Endor loci
 - [[2-samuel|2 Samuel]] — Former Prophets; David's reign; Davidic Covenant; Absalom; Hebrew · Tsumura NICOT fidelity re-ingest 2026-07-18 ([[tsumura-2-samuel-nicot]]): ch. 7 discourse grammar, AXB Bathsheba, ABXX′B′A′ epilogues
 - [[1-2-kings|1 and 2 Kings]] — Former Prophets; one book (Provan); narrative + historiographical + didactic; Solomon prayer/lamp; Elijah–Elisha salvation-within-judgment; 2 Kgs 17; Jehoiachin hope; Hebrew — fidelity reingest Provan NIBC 2026-07-18 ([[provan-1-2-kings-nibc]])
-- [[ezra-nehemiah|Ezra-Nehemiah]] — Writings; post-exilic restoration; Persian period; Hebrew/Aramaic
+- [[ezra-nehemiah|Ezra-Nehemiah]] — Writings; post-exilic restoration; Persian period; Hebrew/Aramaic · Harrington NICOT fidelity re-ingest ✅ 2026-07-18 ([[harrington-ezra-nehemiah-nicot]]): ST seedbed; holy seed; gentile impurity; nine innovations
 - [[book-of-esther|Esther]] — Writings/Megilloth; diaspora; hidden providence; God unnamed; Purim; Hebrew
-- [[1-2-chronicles|1–2 Chronicles]] — Writings; Davidic temple; Levitical music; recapitulation typology; Cyrus as new David; Hebrew (enhanced with Leithart Brazos: doctrinal/Nicene lens, full OT retelling typology, qahal/assembly, music as priestly-royal-prophetic sacrifice, seeking (baqash/darash), Cyrus as new David + Jubilee, David's war-bloodshed pollution, "manual for church reformers")
+- [[1-2-chronicles|1–2 Chronicles]] — Writings; Davidic temple; Levitical music; recapitulation typology; Cyrus as new David; Hebrew (enhanced with Leithart Brazos: doctrinal/Nicene lens, full OT retelling typology, qahal/assembly, music as priestly-royal-prophetic sacrifice, seeking (baqash/darash), Cyrus as new David + Jubilee, David's war-bloodshed pollution, "manual for church reformers"; **full sequential re-ingest 2026-07-18** — source page [[leithart-1-2-chronicles-btcb]] + coverage ledger created, divided-kingdom detail added, figures [[cyrus]]/[[josiah]] created)
 
 *(Kings + Chronicles batch: narratives first (texts enhanced), then full-schema figures for Solomon/Elijah/Elisha; Provan + Leithart ingested per systematic Former Prophets continuation after Samuel. See log 2026-06-07.)*
 - [[book-of-job|Job]] — Writings/Wisdom literature; theodicy; innocent suffering; heavenly court; Hebrew
-- [[psalms|Psalms (Psalter)]] — Writings/Poetry; five-book narrative; lament to praise; David to Moses; Hebrew
+- [[psalms|Psalms (Psalter)]] — Writings/Poetry; five-book narrative; lament to praise; David to Moses; Hebrew · deClaissé-Walford/Jacobson/Tanner NICOT fidelity re-ingest ✅ 2026-07-18 ([[declaisse-walford-psalms-nicot]]): canonical shape as survival story; Yarchin 150-MS diversity; Ps 89 hinge; Book Four YHWH-reigns; poetry-first; hesed loanword (130/255)
 - [[proverbs|Proverbs]] — Writings/Wisdom; seven collections; fear of the LORD; Woman Wisdom; Solomon; Hebrew
-- [[ecclesiastes|Ecclesiastes (Qohelet)]] — Writings/Wisdom; two voices; *hebel*; Solomonic persona; frame narrator; Hebrew
+- [[ecclesiastes|Ecclesiastes (Qohelet)]] — Writings/Wisdom; two voices; *hebel*; Solomonic persona; frame narrator; Hebrew · Longman NICOT fidelity re-ingest 2026-07-18 ([[longman-ecclesiastes-nicot]]): framed wisdom autobiography; Qohelet as foil; carpe diem as resignation; goads/nails as harm; 12:13–14 normative
 - [[song-of-songs|Song of Songs]] — Writings/Megillot; love poetry anthology; sexuality; *tĕšûqâ* arc; divine-human marriage; Hebrew · Longman NICOT fidelity re-ingest 2026-07-18 ([[longman-song-of-songs-nicot]])
 
 ### Latter Prophets
@@ -59,37 +59,39 @@ Master index of all pages. Updated on every ingest.
 ### Book of the Twelve (Minor Prophets)
 - [[hosea|Hosea]] — Twelve/1; marriage metaphor origin; household; *da'at Elohim*; Northern Kingdom; Hebrew
 - [[joel|Joel]] — Twelve/2; Spirit on all flesh; Day of Yahweh; Pentecost; scribal prophecy; Hebrew
-- [[amos|Amos]] — Twelve/3; social justice; Day of Yahweh; theological tradition reversal; "justice roll"; Hebrew
+- [[amos|Amos]] — Twelve/3; social justice; Day of Yahweh; theological tradition reversal; "justice roll"; ʾănāk as tin; 9:11–15 eighth-century (Carroll); Hebrew · source [[carroll-amos-nicot]]
 - [[obadiah|Obadiah]] — Twelve/4; Edom; kinship betrayal; 21 verses; Jer 49 + Amos 9; poetic justice; Hebrew
 - [[jonah|Jonah]] — Twelve/5; satire; divine compassion; Nineveh; Joel counter-testimony; "sign of Jonah"; Hebrew
-- [[micah|Micah]] — Twelve/6; social justice South; Micah 6:8; Bethlehem ruler; Micah 3:12 = middle of Twelve; Hebrew
+- [[micah|Micah]] — Twelve/6; Nogalski three-phase composition; social justice South; Mic 3:12 Masoretic midpoint of Twelve; 4:1–4 // Isa 2; 6:8 *rîb* rejoinder; Bethlehem 5:2; 7:18–20 Exod 34 web; Hebrew · source [[nogalski-micah-nicot]]
+- [[haggai|Haggai]] — Twelve/10; four 520 BCE oracles; rebuild the temple; "consider your ways"; covenant curse/drought; Zerubbabel the signet ring; Hebrew · source [[verhoef-haggai-malachi]]
 - [[zechariah|Zechariah]] — Twelve/11; night visions; Branch; Passion texts; "YHWH will be king"; Hebrew
+- [[malachi|Malachi]] — Twelve/12; disputation form; "I have loved you"; pure offerings; covenant with Levi; "I hate divorce"; messenger of the covenant; Elijah before the Day; Hebrew · source [[verhoef-haggai-malachi]]
 
 ### New Testament
 - [[matthew|Gospel of Matthew]] — NT/Gospel; fulfillment theme; formula-quotations; Galilee/Jerusalem; Son of David; Greek
 - [[mark|Gospel of Mark]] — NT/Gospel; Drama in Three Acts; Petrine authorship; narrative christology; βίος; Greek; France NIGTC fidelity re-ingest 2026-07-18 ([[france-mark-nigtc]])
 - [[luke|Gospel of Luke]] — NT/Gospel; Luke-Acts vol. 1; Greco-Roman historiography; theocentric; holistic salvation; Travel Narrative; Jubilee; Greek; Green NICNT fidelity re-ingest 2026-07-18 ([[green-luke-nicnt]])
 - [[gospel-of-john|Gospel of John]] — NT/Gospel; Logos/Light; I Am sayings; testimony framework; Beloved Disciple; Paraclete; glorification; Greek **(primary text read in full — NIV, [[quest-study-bible-niv|Quest Study Bible]], 2026-07-18)**
-- [[acts|Acts of the Apostles]] — NT; Luke-Acts vol. 2; church history; Greek
-- [[romans|Letter to the Romans]] — NT/Epistle; dikaiosynē theou; justification; Israel and Gentiles; glory of God; Pauline; Greek
-- [[1-corinthians|First Letter to the Corinthians]] — NT/Epistle; wisdom/cross; flee sexual immorality + idolatry; eschatological temple; glory of God; resurrection; Pauline; Greek
-- [[2-corinthians|Second Letter to the Corinthians]] — NT/Epistle; apostolic legitimation; theologia crucis; new covenant; new creation; reconciliation; fool's speech; Pauline; Greek
-- [[galatians|Letter to the Galatians]] — NT/Epistle; justification by faith; the law; NPP debate; salvation history + apocalyptic; new creation; Pauline; Greek
-- [[letters-of-john|Letters of John (1, 2, 3 John)]] — NT/Epistles; Johannine tradition; secessionists; right belief + love; assurance of eternal life; Greek
-- [[ephesians|Letter to the Ephesians]] — NT/Epistle; cosmic Christology; *anakephalaiōsis*; Jew-Gentile new humanity; *mystērion*; principalities and powers; Haustafel; Pauline authorship debated; Greek
-- [[colossians|Letter to the Colossians]] — NT/Epistle; Christological hymn (1:15–20); fullness of deity *sōmatikōs*; defeat of powers at the cross (2:15); halakic-mystic opponents; household code (3:18–4:1); sister letter to Ephesians; Greek; McKnight NICNT ingested
+- [[acts|Acts of the Apostles]] — NT; Luke-Acts vol. 2; church history; theocentric historical monograph; Jerusalem-to-Rome mission; the speeches; Gentile inclusion; Greek; Bock BECNT fidelity re-ingest 2026-07-18 ([[bock-acts-becnt]])
+- [[romans|Letter to the Romans]] — NT/Epistle; dikaiosynē theou; justification; Israel and Gentiles; glory of God; Pauline; Greek; Schreiner BECNT fidelity re-ingest 2026-07-18 ([[schreiner-romans-becnt]])
+- [[1-corinthians|First Letter to the Corinthians]] — NT/Epistle; wisdom/cross; flee sexual immorality + idolatry; eschatological temple; glory of God; resurrection; Pauline; Greek; Ciampa–Rosner PNTC fidelity re-ingest ✅ 2026-07-18 ([[ciampa-rosner-1-corinthians-pntc]])
+- [[2-corinthians|Second Letter to the Corinthians]] — NT/Epistle; apostolic legitimation; theologia crucis; new covenant; new creation; reconciliation; fool's speech; Pauline; Greek; Seifrid PNTC fidelity re-ingest ✅ 2026-07-18 ([[seifrid-2-corinthians-pntc]])
+- [[galatians|Letter to the Galatians]] — NT/Epistle; justification by faith; the law; NPP debate; salvation history + apocalyptic; new creation; Pauline; Greek; Moo BECNT fidelity re-ingest 2026-07-18 ([[moo-galatians-becnt]])
+- [[letters-of-john|Letters of John (1, 2, 3 John)]] — NT/Epistles; Johannine tradition; secessionists; right belief + love; assurance of eternal life; Greek; Kruse PNTC ([[kruse-letters-of-john|source page]]) + Marshall NICNT ([[marshall-epistles-of-john-nicnt|source page]]) fidelity re-ingests 2026-07-18
+- [[ephesians|Letter to the Ephesians]] — NT/Epistle; cosmic Christology; *anakephalaiōsis*; Jew-Gentile new humanity; *mystērion*; principalities and powers; Haustafel; Pauline authorship debated; Greek; Thielman BECNT fidelity re-ingest 2026-07-18 ([[thielman-ephesians-becnt]])
+- [[colossians|Letter to the Colossians]] — NT/Epistle; Christological hymn (1:15–20); fullness of deity *sōmatikōs*; defeat of powers at the cross (2:15); halakic-mystic opponents; household code (3:18–4:1); sister letter to Ephesians; Greek; McKnight NICNT fidelity re-ingest 2026-07-18 ([[mcknight-colossians-nicnt]])
 - [[philemon|Letter to Philemon]] — NT/Epistle; appeal for runaway slave Onesimus; reconciliation and brotherhood in Christ; test case for gospel and slavery; McKnight NICNT ingested
-- [[philippians|Letter to the Philippians]] — NT/Epistle; partnership in the gospel; Christ hymn (2:6-11); joy in suffering; live worthy of the gospel; Hansen PNTC ingested
-- [[1-thessalonians|First Letter to the Thessalonians]] — NT/Epistle; earliest Pauline letter; parousia; apantēsis; anti-imperial polemic; workshop evangelism; Pauline; Greek; Weima BECNT ingested
-- [[2-thessalonians|Second Letter to the Thessalonians]] — NT/Epistle; man of lawlessness; the restrainer; eschatological sequence; rebellious idlers; authorship disputed; Pauline/pseudonymous; Greek; Weima BECNT ingested
+- [[philippians|Letter to the Philippians]] — NT/Epistle; partnership (*koinōnia*); [[christ-hymn|Christ hymn]] (2:6–11); dual [[citizenship|citizenship]]; joy; live worthy of the gospel — Hansen PNTC fidelity re-ingest ✅ 2026-07-18 ([[hansen-philippians-pntc]])
+- [[1-thessalonians|First Letter to the Thessalonians]] — NT/Epistle; earliest Pauline letter; parousia; apantēsis; anti-imperial polemic; workshop evangelism; Pauline; Greek; Weima BECNT fidelity re-ingest 2026-07-18 ([[weima-1-2-thessalonians-becnt]])
+- [[2-thessalonians|Second Letter to the Thessalonians]] — NT/Epistle; man of lawlessness; the restrainer; eschatological sequence; rebellious idlers; authorship disputed; Pauline/pseudonymous; Greek; Weima BECNT fidelity re-ingest 2026-07-18 ([[weima-1-2-thessalonians-becnt]])
 - [[1-timothy|First Letter to Timothy]] — NT/Epistle/PE; church order; overseer qualifications; women and teaching; sound doctrine; Pastoral Epistle; authorship disputed; Greek; Yarbrough PNTC ingested
 - [[2-timothy|Second Letter to Timothy]] — NT/Epistle/PE; final letter; God-breathed Scripture; faithful saying; Paul's death; authorship disputed; Greek; Yarbrough PNTC ingested
 - [[letter-to-titus|Letter to Titus]] — NT/Epistle/PE; two epiphanies; Titus 2:13 Christ-as-God; Spirit regeneration; Crete; authorship disputed; Greek; Yarbrough PNTC ingested
-- [[hebrews|Letter to the Hebrews]] — NT/General Epistle; Christ as High Priest; Melchizedek; once-for-all sacrifice; New Covenant; perseverance; warning passages; Greek; Cockerill NICNT ingested
-- [[james|The Letter of James]] — NT/General Epistle; faith and works; "justified by works" (2:24); spiritual wholeness vs. double-mindedness; the tongue; wisdom from above; anointing the sick; intensely practical; Greek; Moo PNTC ingested
-- [[1-peter|The First Letter of Peter]] — NT/General Epistle; Diaspora letter; "foreigners and resident aliens"; suffering for the name; Christ as Suffering Servant; spirits in prison (3:18–22); household code; Roman colonization theory; Greek; Jobes BECNT ingested
-- [[2-peter|The Second Letter of Peter]] — NT/General Epistle; warning against false teachers; denial of the parousia and the scoffers' "delay"; partakers of the divine nature (1:4); inspiration of prophecy (1:20–21); new heavens and new earth (3:13); reuses Jude; authorship most disputed in NT; Greek; G. Green BECNT ingested
-- [[jude|The Letter of Jude]] — NT/General Epistle; "contend for the faith" (v. 3); antinomian intruders; quotes 1 Enoch (14–15) and the Assumption of Moses (9); midrashic/pesher exegesis; doxology (24–25); brother of James/Jesus; Greek; G. Green BECNT ingested
+- [[hebrews|Letter to the Hebrews]] — NT/General Epistle; Christ as High Priest; Melchizedek; once-for-all sacrifice; New Covenant; perseverance; warning passages; Greek; Cockerill NICNT fidelity re-ingest 2026-07-18 ([[cockerill-hebrews-nicnt]])
+- [[james|The Letter of James]] — NT/General Epistle; faith and works; "justified by works" (2:24); spiritual wholeness vs. double-mindedness; the tongue; wisdom from above; anointing the sick; intensely practical; Greek; Moo PNTC fidelity re-ingest 2026-07-18 ([[moo-james-pntc]])
+- [[1-peter|The First Letter of Peter]] — NT/General Epistle; Diaspora letter; "foreigners and resident aliens"; suffering for the name; Christ as Suffering Servant; spirits in prison (3:18–22); household code; Roman colonization theory; Greek; Jobes BECNT fidelity re-ingest 2026-07-18 ([[jobes-1-peter-becnt]])
+- [[2-peter|The Second Letter of Peter]] — NT/General Epistle; warning against false teachers; denial of the parousia and the scoffers' "delay"; partakers of the divine nature (1:4); inspiration of prophecy (1:20–21); new heavens and new earth (3:13); reuses Jude; authorship most disputed in NT; Greek; G. Green BECNT fidelity re-ingest 2026-07-18 ([[green-jude-2peter-becnt]])
+- [[jude|The Letter of Jude]] — NT/General Epistle; "contend for the faith" (v. 3); antinomian intruders; quotes 1 Enoch (14–15) and the Assumption of Moses (9); midrashic/pesher exegesis; doxology (24–25); brother of James/Jesus; Greek; G. Green BECNT fidelity re-ingest 2026-07-18 ([[green-jude-2peter-becnt]])
 - [[revelation|The Revelation to John]] — NT/Apocalypse; apocalyptic + prophecy + letter; the seven churches; throne room and the Lamb; seals/trumpets/bowls; the beast and 666; Babylon; the millennium (ch. 20); New Jerusalem; symbolic numbers; pervasive OT allusion; Greek; Osborne BECNT fidelity re-ingest 2026-07-18 ([[osborne-revelation-becnt]])
 
 ### Apostolic Fathers (non-canonical early Christian texts)
@@ -581,6 +583,8 @@ Master index of all pages. Updated on every ingest.
 - [[saul|Saul]] — First king (Benjaminite, tall); anointed by Samuel; early promise (Ammonites, Michmash); two rejections for disobedience (*ḥerem* failure, offering without waiting); pursues David; dies on Gilboa with Jonathan; tragic foil to David (new from Tsumura)
 - [[david|David]] — Shepherd anointed by Samuel; defeats Goliath; anointed king of Judah (Hebron) then all Israel (Jerusalem); receives eternal Davidic covenant (2 Sam 7); sins with Bathsheba/Uriah, weathers Absalom revolt; psalmist, temple planner; "man after God's own heart" despite failure; ancestor of Messiah (multi-source from Tsumura + prior)
 - [[solomon|Solomon]] — Son of David; wisdom request, temple builder (sapiential Joshua per Leithart), wealth, foreign wives/apostasy, kingdom divided (Provan hinge of wisdom vs. fidelity); multi-trad (Jewish Temple builder/wise judge with aggadah, Christian type of Messianic peace "greater than Solomon", Islamic Sulayman prophet-king over jinn) (enhanced Kings + Chronicles batch)
+- [[agur|Agur son of Jakeh]] — otherwise-unknown sage of Proverbs 30 (Collection VI); probable Gentile proselyte; claims prophetic inspiration; agnosticism-then-revelation epistemology; the only prayer in Proverbs (new 2026-07-18, Waltke Proverbs Vol. 2)
+- [[lemuel|King Lemuel]] — probably non-Israelite king of Proverbs 31 (Collection VII); transmits his mother's royal instruction; disputed author of the valiant-wife acrostic (new 2026-07-18, Waltke Proverbs Vol. 2)
 - **David-narrative court figures** (Alter, *The David Story*, 2026-06-09):
   - [[jonathan|Jonathan]] — Eldest son of Saul, heir who yields to David; covenant of love ("surpassing the love of women"); battlefield faith (Michmash); dies at Gilboa; David's elegy
   - [[abner|Abner]] — Saul's army commander; kingmaker of Ish-bosheth; kills Asahel; defects to David and is treacherously murdered by Joab at Hebron's gate
@@ -628,7 +632,8 @@ Master index of all pages. Updated on every ingest.
 - [[timothy|Timothy]] — Paul's most trusted delegate; joined on second journey; co-sender of letters; recipient of Pastorals; model of faithful risky service (enhanced with Bock on Acts and Yarbrough cross-reference)
 - [[titus|Titus]] — uncircumcised Greek co-worker; test case at Jerusalem (Gal. 2); emissary to Corinth; delegate to Crete (enhanced with Bock on Acts and Yarbrough cross-reference)
 - [[onesimus|Onesimus]] — runaway slave of Philemon; converted under Paul; central figure and "test case" in the letter to Philemon for gospel brotherhood transcending slavery (full from McKnight)
-- [[epaphroditus|Epaphroditus]] — Philippian messenger and minister to Paul in prison; nearly died; model of risky, self-sacrificing gospel partnership (full from Hansen)
+- [[epaphroditus|Epaphroditus]] — Philippian messenger and minister to Paul in prison; nearly died; model of risky, self-sacrificing gospel partnership (Hansen PNTC densified 2026-07-18)
+- [[euodia-and-syntyche|Euodia and Syntyche]] — Philippian co-workers urged to one mind (Phil 4:2–3); Hansen PNTC
 - [[tychicus|Tychicus]] — Paul's trusted envoy and letter carrier (Ephesians, Colossians); model of the apostolic messenger
 - [[philemon-figure|Philemon]] — Wealthy Colossian house-church host and master of Onesimus; test case for Christian brotherhood
 
@@ -637,7 +642,8 @@ Master index of all pages. Updated on every ingest.
 - [[moses|Moses]] — The great lawgiver and leader of Israel; faithful servant in God's house
 - [[abraham|Abraham]] — Foundational patriarch; exemplar of living by faith as an alien and stranger
 - [[miriam|Miriam]] — Prophetess, sister of Moses and Aaron; led women's song at the sea (Exod 15); challenged Mosaic authority and suffered leprosy (Num 12); died at Kadesh (Num 20); one of the three leaders sent by God (Mic 6:4)
-- [[balaam|Balaam]] — Pagan diviner hired by Balak to curse Israel but delivers oracles of blessing (Num 22–24); donkey episode; later counsel to Midian (Num 31); archetype of false prophet for gain (2 Pet 2; Jude 11; Rev 2:14)
+- [[balaam|Balaam]] — Pagan diviner hired by Balak to curse Israel but delivers oracles of blessing (Num 22–24); donkey episode; later counsel to Midian (Num 31); archetype of false prophet for gain (2 Pet 2; Jude 11; Rev 2:14); Ashley NICOT densification (Deir ʿAllā; neutral portrait in cycle; star/scepter reception)
+- [[phinehas|Phinehas]] — Priest who stops Baal-Peor plague (Num 25); covenant of peace / everlasting high-priestly line; zeal pattern (Ashley NICOT; Maccabean reception)
 - [[phinehas|Phinehas]] — Grandson of Aaron; acts with zeal in Baal Peor crisis (Num 25), stops plague, granted "covenant of peace" and perpetual priesthood; model of covenant fidelity and intercession
 - [[caleb|Caleb]] — Judahite spy (Num 13–14); faithful report with Joshua, promised inheritance; claims Hebron (Josh 14); model of wholehearted following of YHWH and perseverance
 - [[joshua|Joshua]] — Successor to Moses (Num 27; Deut 31, 34); military leader of conquest (Josh 1–12); divides the land (Josh 13–21); covenant renewal at Shechem (Josh 24); "be strong and courageous" (Josh 1:6–9; Deut 31:7)
@@ -647,7 +653,7 @@ Master index of all pages. Updated on every ingest.
 - [[enoch|Enoch]] — Seventh from Adam; assumed into heaven; apocalyptic visionary and proclaimer of doom (quoted in Jude)
 - [[michael-archangel|Michael the Archangel]] — Chief prince of Israel; disputes with the devil over Moses' body (Jude); eschatological warrior
 - [[cain|Cain]] — Firstborn of Adam; murderer of Abel; archetype of murderous jealousy and rebellion (Jude)
-- [[korah|Korah]] — Levite who led a rebellion against Moses and Aaron; archetype of antiauthoritarian schism (Jude)
+- [[korah|Korah]] — Levite who led a rebellion against Moses and Aaron; archetype of antiauthoritarian schism (Jude); Ashley NICOT: dual rebellion + Aaronic *kipper* aftermath chain
 - [[satan|Satan / the Devil]] — the cross-tradition personification of evil, a composite figure assembled over a millennium: *ha-satan* the heavenly Accuser (Job, Zech) → Second Temple cosmic rebel (Mastema, Belial) → NT/patristic fallen-angel Devil (Augustine, Milton; the dragon of Revelation) → Islamic Iblis/Shaytan → Kabbalistic Samael ([[sitra-ahra|Sitra Aḥra]]); subordinated to God (vs. Zoroastrian Ahriman); his modern "death" per Delbanco (new 2026-06-09)
 
 ### Jainism (2026-06-27; [[dundas-the-jains|Dundas]])
@@ -1000,6 +1006,9 @@ Master index of all pages. Updated on every ingest.
 - [[dead-sea-scrolls-vanderkam|VanderKam, *The Dead Sea Scrolls Today* (rev. ed., Eerdmans, 2010)]] — introductory scholarly overview by a Cave 4 editorial team member; Magness revision of de Vaux archaeology (no Phase Ia; short gap between phases); solar+schematic-lunar coordinated calendar (corrects "solar-only" accounts); 4Q521 divine agent correction; Cave 4 Community Rule variants (4Q259 lacks Two Spirits section and 9.11 Two Messiahs formula); Groningen Hypothesis discussion; Book of Giants as possible Similitudes substitute; Jubilees quasi-canonical argument; full publication controversy history; **read in full** (lines 1–2968). See [[dead-sea-scrolls-vanderkam|source summary]] in scholarship/.
 
 ### Scholarship (Hebrew Bible & Ancient Near East)
+- [[ashley-numbers-nicot|Ashley, *The Book of Numbers* (NICOT, 1993)]] — full-body ingest 2026-07-18; Preface + Intro I–VI + Num 1:1–36:13; ~977 grounded claims; final-form geographic outline; exact obedience; Orientation/Disorientation/New Orientation
+- [[craigie-deuteronomy-nicot|Craigie, *The Book of Deuteronomy* (NICOT, 1976)]] — fidelity re-ingest 2026-07-18; whole-book suzerain-vassal form; Mosaic-era lean (treaties support, do not prove); Shema love-center; ~381 grounded claims (full body Preface + Intro + Apps + Deut 1:1–34:12)
+- [[arnold-deuteronomy-1-11-nicot|Arnold, *The Book of Deuteronomy, Chapters 1–11* (NICOT, 2022)]] — ingest 2026-07-18; chs. 1–11 only; literary-rhetorical; multi-stage composition; Shema/pedagogy/*ḥerem*; ~428 grounded claims
 - [[coogan-oxford-history-biblical-world|The Oxford History of the Biblical World]] (Michael D. Coogan, ed.; Oxford, 1998) — multi-author historical-critical and archaeological survey of the biblical world from the Bronze Age through the Roman period. Ingested (2026-06-07) specifically to enrich **groups/** and **locations/**: Bronze Age peoples (Canaanites, Amorites, Hurrians, Hyksos, Apiru), the emergence of Israel and the Philistines/Sea Peoples, and the imperial powers (Assyria, Babylon, Persia) and their cities (Jerusalem, Samaria, Babylon, Ugarit, Hazor, Megiddo, Shechem, Byblos, Ashkelon, Ekron, Lachish, Jericho, Nineveh). Treats the Bible as a dependent variable weighed against archaeology; key tensions: Exodus historicity, the failure of the literal conquest model, Midianite/Kenite origin of Yahwism, Samarian Yahwism. Chapter authors include Pitard, Redmount, Stager, M. Cogan, and Leith.
 - [[robert-alter|Robert Alter]] (b. 1935) — Berkeley professor of Hebrew & comparative literature; founder of the [[literary-reading-of-the-bible|literary reading of the Bible]] (*The Art of Biblical Narrative*, 1981). Read here through *[[alter-the-david-story|The David Story]]* (1999), his translation + commentary on [[1-samuel|1]]–[[2-samuel|2 Samuel]]: David as "the first full-length portrait of a Machiavellian prince," the [[deuteronomistic-history|Deuteronomist]] as a light-handed editor, history "imagined" Shakespeare-fashion; foil to Polzin. Grounds the David-narrative court-figure cluster (new 2026-06-09)
 - [[alter-the-david-story|Alter, *The David Story*]] (1999) — source summary: literary unity over source atomization; the 1 Kings 2 deathbed seam as the showcase of light Deuteronomistic editing; readings of Samuel, Saul, and David (new 2026-06-09)
@@ -1050,7 +1059,9 @@ Master index of all pages. Updated on every ingest.
 - [[hillel|Hillel the Elder]] — Sage, Nasi, and founder of Beit Hillel; paradigm of patient leniency
 - [[isaiah-prophet|Isaiah (prophet)]] — Isaiah ben Amoz (act. 739–701 BCE+); call vision (Isa 6); counselor to Ahaz and Hezekiah; sign-acts and sign-named children; "pro-God, not pro- or anti-Assyrian" (Oswalt) (new 2026-07-18)
 - [[hezekiah|Hezekiah]] — reforming king of Judah; the trust "post-test" of Isa 36–39; 701 deliverance; illness and Babylonian envoys; "not the Messiah" (Oswalt) (new 2026-07-18)
-- [[ahaz|Ahaz]] — king of Judah; Syro-Ephraimite crisis; refused the sign (Isa 7); pro-Assyrian covenant and its gods; the failed "pre-test" (new 2026-07-18)
+- [[ahaz|Ahaz]] — king of Judah; Syro-Ephraimite crisis; refused the sign (Isa 7); pro-Assyrian covenant and its gods; the failed "pre-test" (new 2026-07-18; +Leithart Chronicles "another Saul"/"without Yah" 2026-07-18)
+- [[josiah|Josiah]] — last ideal Davidic reforming king; found law-book, great Passover; dies by archers at Megiddo refusing Neco's word (Saul-echo/"reverse Passover" per Leithart); "really the last king of Judah" (new 2026-07-18, Leithart Chronicles)
+- [[cyrus|Cyrus the Great]] — Persian king, conqueror of Babylon; the decree of return (2 Chr 36:22–23 = Ezra 1); the only Gentile "anointed" (*māšîaḥ*, Isa 45:1); Leithart's "Cyrus as new David"/Jubilee decree/covenant-transfer; closes the Hebrew canon (new 2026-07-18, Leithart Chronicles)
 - [[sennacherib|Sennacherib]] — Assyrian king (705–681); 701 campaign, Lachish reliefs, army's destruction (Isa 37:36) and its historicity debate; murdered 681 (new 2026-07-18)
 - [[shamai|Shamai]] — Sage, Av Beit Din, and founder of Beit Shamai; strict counterpart to Hillel
 - [[akiba|Rabbi Akiba]] — Tanna and martyr; systemized the Oral Law; key leader post-destruction
@@ -1071,46 +1082,50 @@ Master index of all pages. Updated on every ingest.
 ### Christian Tradition (Evangelical Protestant)
 - [[victor-hamilton|Victor P. Hamilton]] — NICOT Genesis (2 vols., 1990/1995); canonical evangelical; composite ≠ errant · sources [[hamilton-genesis-1-17-nicot]] + [[hamilton-genesis-18-50-nicot]] (both fidelity re-ingest 2026-07-18)
 - [[james-bruckner|James K. Bruckner]] — UBCS Exodus (2008); "believing criticism"; creational theology
-- [[peter-craigie|Peter C. Craigie]] (1938–1985) — NICOT Deuteronomy (1976); suzerain-vassal argument
-- [[gordon-wenham|Gordon J. Wenham]] (b. 1943) — NICOT Leviticus (c. 1979); holiness-as-wholeness
-- [[marten-woudstra|Marten H. Woudstra]] — NICOT Joshua (1981); theocentric historiography; Reformed
-- [[barry-webb|Barry G. Webb]] — NICOT Judges (2012); narrative criticism + canonical criticism; Anglican evangelical
-- [[peter-lau|Peter H. W. Lau]] — NICOT Ruth (2023); honor-shame analysis; missions theology; ethnic Chinese evangelical
+- [[peter-craigie|Peter C. Craigie]] (1938–1985) — NICOT Deuteronomy (1976); suzerain-vassal argument; fidelity re-ingest [[craigie-deuteronomy-nicot|2026-07-18]]
+- [[bill-arnold|Bill T. Arnold]] — NICOT Deuteronomy 1–11 (2022); Asbury; series editor; [[arnold-deuteronomy-1-11-nicot]]
+- [[gordon-wenham|Gordon J. Wenham]] (b. 1943) — NICOT Leviticus (c. 1979; fidelity re-ingest 2026-07-18, [[wenham-leviticus-nicot]]); holiness-as-wholeness; classic Protestant + Douglas
+- [[timothy-ashley|Timothy R. Ashley]] (b. 1947) — NICOT Numbers (1993; full-body ingest 2026-07-18, [[ashley-numbers-nicot]]); final-form geographic outline; exact obedience; Harrison on census figures
+- [[marten-woudstra|Marten H. Woudstra]] — NICOT Joshua (1981; fidelity re-ingest 2026-07-18, [[woudstra-joshua-nicot|source page]]); theocentric historiography; Reformed
+- [[barry-webb|Barry G. Webb]] — NICOT Judges (2012; fidelity re-ingest 2026-07-18, [[webb-judges-nicot|source page]]); narrative + canonical; Moore College Sydney
+- [[peter-lau|Peter H. W. Lau]] — NICOT Ruth (2023; fidelity re-ingest 2026-07-18, [[lau-ruth-nicot|source page]]); honor-shame analysis; missions theology; social-identity theory; ethnic Chinese evangelical
 - [[david-tsumura|David Toshio Tsumura]] — NICOT 1 Samuel (2006) + 2 Samuel (2019); Semitic philology; MT-first text criticism; Japanese evangelical · sources [[tsumura-1-samuel-nicot]] + [[tsumura-2-samuel-nicot]] (both fidelity re-ingest 2026-07-18)
 - [[iain-provan|Iain W. Provan]] — NIBC 1 & 2 Kings (1995); literary-canonical; unified narrative; believing criticism; Edinburgh/Regent — source [[provan-1-2-kings-nibc]] (fidelity reingest 2026-07-18)
-- [[hannah-harrington|Hannah K. Harrington]] — NICOT Ezra-Nehemiah (2022); Second Temple specialist; ritual purity; social-scientific method
+- [[hannah-harrington|Hannah K. Harrington]] — NICOT Ezra-Nehemiah (2022; fidelity re-ingest 2026-07-18, [[harrington-ezra-nehemiah-nicot|source page]]); Second Temple specialist; ritual purity; ST comparative + cautious social science
 - [[mervin-breneman|Mervin Breneman]] — NAC Ezra-Nehemiah-Esther (1993); traditional evangelical exposition; Southern Baptist
 - [[peter-leithart|Peter J. Leithart]] — BTC 1–2 Chronicles (2019); post-critical doctrinal; typological-figural; Reformed
 - [[john-hartley|John E. Hartley]] — NICOT Job (1988); evangelical; message-focused; Wesleyan; ANE parallels
-- [[declaisse-walford-jacobson-tanner|deClaissé-Walford / Jacobson / Tanner]] — NICOT Psalms (2014); canonical shape; three co-authors; poetry-first
+- [[declaisse-walford-jacobson-tanner|deClaissé-Walford / Jacobson / Tanner]] — NICOT Psalms (2014; fidelity re-ingest 2026-07-18, [[declaisse-walford-psalms-nicot|source page]]); canonical shape; poetry-first; signature-verified three-author division
 - [[bruce-waltke|Bruce K. Waltke]] — NICOT Proverbs (2 vols., 2004/2005); grammatico-historical; Woman Wisdom as type; Reformed
-- [[tremper-longman|Tremper Longman III]] — NICOT Ecclesiastes + Song of Songs; NIVAC Daniel (1998/1999/2001); *hebel*; love poetry; apocalyptic · Song source [[longman-song-of-songs-nicot]] (fidelity re-ingest 2026-07-18)
+- [[tremper-longman|Tremper Longman III]] — NICOT Ecclesiastes + Song of Songs; NIVAC Daniel (1998/1999/2001); *hebel*; love poetry; apocalyptic · Ecclesiastes source [[longman-ecclesiastes-nicot]] + Song source [[longman-song-of-songs-nicot]] (both fidelity re-ingest 2026-07-18)
 - [[john-oswalt|John N. Oswalt]] — NICOT Isaiah (2 vols., 1986/1998); single authorship; Holy One of Israel; servanthood; Wesleyan
 - [[john-goldingay|John Goldingay]] — NICOT Jeremiah + Lamentations (2021/2022); Gospels analogy; both-and theology; Anglican · source [[goldingay-jeremiah-nicot]] (Jer fidelity re-ingest 2026-07-18)
 - [[hetty-lalleman|Hetty Lalleman-de Winkel]] — TOTC Jeremiah + Lamentations; *šûb* analysis; 604 BCE turning point; Dutch Reformed · source [[lalleman-jeremiah-lamentations-totc|Lalleman TOTC 21]] (full-body re-ingest 2026-07-18)
 - [[daniel-block|Daniel I. Block]] — NICOT Ezekiel (2 vols., 1997/1998); four pillars; *kābôd* narrative; Baptist; Wheaton
-- [[j-andrew-dearman|J. Andrew Dearman]] — NICOT Hosea (ca. 2010); household root metaphor; marriage metaphor origins; Austin Presbyterian
-- [[m-daniel-carroll|M. Daniel Carroll R.]] — NICOT Amos (2020); social justice; synchronic; Latin American perspective; Denver Seminary
-- [[james-nogalski|James D. Nogalski]] — NICOT Joel/Obadiah/Jonah (2023) + Micah (2024); Book of the Twelve; scribal prophecy; Baylor
-- [[dennis-cole|Dennis R. Cole]] — NAC Numbers (2000); seven-cycle structure
+- [[j-andrew-dearman|J. Andrew Dearman]] — NICOT Hosea (2010; full fidelity re-ingest, [[dearman-hosea-nicot|source page]]); household root metaphor; final-form + cognitive-metaphor method; Austin Presbyterian
+- [[m-daniel-carroll|M. Daniel Carroll R.]] — NICOT Amos (2020); social justice; synchronic; Latin American perspective; Denver Seminary / Wheaton · source [[carroll-amos-nicot]]
+- [[james-nogalski|James D. Nogalski]] — NICOT Joel/Obadiah/Jonah (2023) + Micah (2024); Book of the Twelve; scribal prophecy; Baylor · sources [[nogalski-joel-obadiah-jonah-nicot]] + [[nogalski-micah-nicot]]
+- [[pieter-verhoef|Pieter A. Verhoef]] — NICOT Haggai & Malachi (1987); grammatical-historical; MT-conservative text criticism; redemptive-historical telescoping; Reformed / Stellenbosch · source [[verhoef-haggai-malachi]]
+- [[dennis-cole|Dennis R. Cole]] — NAC Numbers (2000); seven-cycle structure · contrast with Ashley NICOT geographic outline
 - [[darrell-bock|Darrell L. Bock]] (b. 1953) — BECNT Acts (2007); Luke-Acts unity; historical reliability
 - [[mark-boda|Mark J. Boda]] — NICOT Zechariah (2016); night visions; inner-biblical allusion; Branch; McMaster
 - [[rt-france|R. T. France]] — NICNT Matthew (2007) + NIGTC Mark (2002); fulfillment; narrative christology; Galilee/Jerusalem; Messianic Secret; Wycliffe Hall Oxford · source [[france-mark-nigtc]] (fidelity re-ingest 2026-07-18)
 - [[joel-green|Joel B. Green]] — NICNT Luke (1997); discourse analysis; theocentric narrative; Jubilee; holistic salvation; Wesleyan; Asbury · source [[green-luke-nicnt]] (fidelity re-ingest 2026-07-18)
-- [[i-howard-marshall|I. Howard Marshall]] (b. 1934) — NICNT Epistles of John (1978); evangelical; apostolic authorship; Cerinthian/Docetic opponents; propitiation; Aberdeen
-- [[colin-kruse|Colin G. Kruse]] — PNTC Letters of John (2000; 2nd ed. 2020); evangelical; scenario-based reconstruction; 24 excursuses; Melbourne School of Theology
+- [[i-howard-marshall|I. Howard Marshall]] (b. 1934) — NICNT Epistles of John (1978; fidelity re-ingest 2026-07-18, [[marshall-epistles-of-john-nicnt|source page]]); evangelical; authorship left open (apostle or elder-disciple); Cerinthian/Docetic opponents; propitiation; eschatological sinlessness; Aberdeen
+- [[colin-kruse|Colin G. Kruse]] — PNTC Letters of John (2000; 2nd ed. 2020; fidelity re-ingest 2026-07-18, [[kruse-letters-of-john|source page]]); evangelical; scenario-based reconstruction; 24 excursuses; Melbourne School of Theology
 - [[j-ramsey-michaels|J. Ramsey Michaels]] — NICNT Gospel of John (2010); synchronic close reading; "light" not "Logos" as dominant image; Johannine determinism; American Baptist; Gordon-Conwell/Missouri State
-- [[thomas-schreiner|Thomas R. Schreiner]] — BECNT Romans (1998); glory of God as central theme; anti-NPP; unconditional election; forensic + transformative righteousness; Reformed Baptist; SBTS
-- [[roy-ciampa-brian-rosner|Roy E. Ciampa and Brian S. Rosner]] — PNTC 1 Corinthians (2010); biblical-theological/OT approach; social values thesis; Deuteronomy/Isaiah as templates; glory of God; eschatological temple; co-authored
-- [[mark-seifrid|Mark A. Seifrid]] — PNTC 2 Corinthians (2014); theologia crucis; apostolic legitimation; new creation; justification specialist; Lutheran-evangelical; SBTS
-- [[douglas-moo|Douglas J. Moo]] — BECNT Galatians (2013) + PNTC James (2000); NPP dialogue; South Galatian; objective genitive *pistis Christou*; future-oriented justification; James/Paul two-senses resolution; Wheaton/TEDS; evangelical
-- [[frank-thielman|Frank Thielman]] — BECNT Ephesians (2010); Pauline authorship defense; middle wall = Mosaic law (Letter of Aristeas); imperial cult; *berakah* structure of 1:3–14; Beeson Divinity School
-- [[scot-mcknight|Scot McKnight]] — NICNT Colossians (2018); Pauline authorship (Ephesian imprisonment); halakic-mystic opponents; Christoformity; egalitarian household code; "known-to-unknown" methodology critique; Northern Seminary
-- [[jeffrey-weima|Jeffrey A. D. Weima]] — BECNT 1–2 Thessalonians (2014); epistolary-literary method; Pauline authorship of 2 Thess; apantēsis ≠ rapture; restrainer = archangel Michael; anti-imperial exegesis; Calvin Theological Seminary
+- [[thomas-schreiner|Thomas R. Schreiner]] — BECNT Romans (1998; fidelity re-ingest 2026-07-18, [[schreiner-romans-becnt|source page]]); glory of God as central theme; anti-NPP; unconditional election; forensic + transformative righteousness; Reformed Baptist; SBTS
+- [[roy-ciampa-brian-rosner|Roy E. Ciampa and Brian S. Rosner]] — PNTC 1 Corinthians (2010; fidelity re-ingest 2026-07-18, [[ciampa-rosner-1-corinthians-pntc|source page]]); biblical-theological/OT approach; social values thesis; Deuteronomy/Isaiah as templates; glory of God; eschatological temple; co-authored
+- [[mark-seifrid|Mark A. Seifrid]] — PNTC 2 Corinthians (2014; fidelity re-ingest 2026-07-18, [[seifrid-2-corinthians-pntc|source page]]); theologia crucis; apostolic legitimation; new creation; justification specialist; Lutheran-evangelical; SBTS
+- [[douglas-moo|Douglas J. Moo]] — BECNT Galatians (2013; fidelity re-ingest 2026-07-18, [[moo-galatians-becnt|source page]]) + PNTC James (2000; fidelity re-ingest 2026-07-18, [[moo-james-pntc|source page]]); NPP dialogue; South Galatian; objective genitive *pistis Christou*; future-oriented justification; James/Paul two-senses resolution; Wheaton/TEDS; evangelical
+- [[frank-thielman|Frank Thielman]] — BECNT Ephesians (2010; fidelity re-ingest 2026-07-18, [[thielman-ephesians-becnt|source page]]); Pauline authorship defense; middle wall = Mosaic law (Letter of Aristeas); imperial cult; *berakah* structure of 1:3–14; Beeson Divinity School
+- [[g-walter-hansen|G. Walter Hansen]] — PNTC Philippians (2009; fidelity re-ingest 2026-07-18, [[hansen-philippians-pntc|source page]]); friendship-letter + dual citizenship; Christ hymn kenosis/exaltation; *koinōnia*; Fuller NT emeritus
+- [[scot-mcknight|Scot McKnight]] — NICNT Colossians (2018; fidelity re-ingest 2026-07-18, [[mcknight-colossians-nicnt|source page]]); Pauline authorship (Ephesian imprisonment); halakic-mystic opponents; Christoformity; egalitarian household code; "known-to-unknown" methodology critique; Northern Seminary
+- [[jeffrey-weima|Jeffrey A. D. Weima]] — BECNT 1–2 Thessalonians (2014); epistolary-literary method; Pauline authorship of 2 Thess; apantēsis ≠ rapture; restrainer = archangel Michael; anti-imperial exegesis; Calvin Theological Seminary · source [[weima-1-2-thessalonians-becnt]] (fidelity re-ingest 2026-07-18)
 - [[robert-yarbrough|Robert W. Yarbrough]] — PNTC 1–2 Timothy and Titus (2018); Pauline authorship defense; Schlatter; global Christianity hermeneutic; complementarian; God-breathed Scripture; Covenant Theological Seminary
-- [[gareth-lee-cockerill|Gareth Lee Cockerill]] — NICNT Hebrews (2012); chiastic structure analysis; anti-neo-Platonic (apocalyptic worldview); Wesleyan-Arminian warning passage reading; Wesley Biblical Seminary
-- [[karen-jobes|Karen H. Jobes]] — BECNT 1 Peter (2005); Septuagint specialist; Roman colonization theory; syntax criticism / bilingual interference; Petrine authorship; ascension-victory reading of 3:18–22; Westmont/Wheaton; first solo woman commentator in the wiki
-- [[gene-green|Gene L. Green]] — BECNT Jude and 2 Peter (2008); cultural-contextual + social (honor) reading; defends authenticity of both; Jude's authoritative use of 1 Enoch; against the testament-genre argument; 2 Peter depends on Jude (*imitatio*); Majority World theology; Wheaton (distinct from Joel B. Green)
+- [[gareth-lee-cockerill|Gareth Lee Cockerill]] — NICNT Hebrews (2012); chiastic structure analysis; anti-neo-Platonic (apocalyptic worldview); constructive reading of warning passages (Wesleyan-Arminian reception); Wesley Biblical Seminary · source [[cockerill-hebrews-nicnt]] (fidelity re-ingest 2026-07-18)
+- [[karen-jobes|Karen H. Jobes]] — BECNT 1 Peter (2005; fidelity re-ingest 2026-07-18, [[jobes-1-peter-becnt|source page]]); Septuagint specialist; Roman colonization theory; syntax criticism / bilingual interference (S-number 0.28); Petrine authorship reopened; ascension-victory reading of 3:18–22; Westmont/Wheaton; first solo woman commentator in the wiki
+- [[gene-green|Gene L. Green]] — BECNT Jude and 2 Peter (2008; fidelity re-ingest 2026-07-18, [[green-jude-2peter-becnt|source page]]); cultural-contextual + social (honor) reading; defends authenticity of both; Jude's authoritative use of 1 Enoch; against the testament-genre argument; 2 Peter depends on Jude (*imitatio*); Majority World theology; Wheaton (distinct from Joel B. Green)
 - [[grant-osborne|Grant R. Osborne]] (1942–2018) — BECNT Revelation (2002); *The Hermeneutical Spiral*; Johannine authorship; Domitianic date; eclectic-futurist method; historic premillennial; mission theology; classical Arminian; TEDS; doctoral student of I. H. Marshall · source [[osborne-revelation-becnt]] (fidelity re-ingest 2026-07-18)
 
 ### Scholarship (Daoism — 2026-06-10)
@@ -1464,7 +1479,8 @@ Master index of all pages. Updated on every ingest.
 - [[ark-of-the-covenant|Ark of the Covenant]] — gold chest holding the Decalogue tablets; throne/footstool of YHWH and war-palladium; Shiloh → captured by the Philistines (Dagon at Ashdod) → David/Jerusalem → Holy of Holies → lost in 586; type of Christ/Mary (NT), the *Tabut* (Islam); multi-tradition (Coogan batch-2 forward-link)
 - [[herem|The ḥerem (Devoted Thing)]] — The ban; devoted destruction; OT warfare theology
 - [[promised-land|The Promised Land (Naḥalâ)]] — Land theology; eschatological extension; "rest" typology
-- [[nazarite|Nazirite]] — Vow of consecration; uncut hair; Samson; Numbers 6; NT connections
+- [[nazarite|Nazirite]] — Vow of consecration; uncut hair; Samson; Numbers 6; Ashley NICOT holiness/separation densification; NT connections
+- [[cities-of-refuge|Cities of Refuge]] — Num 35 / Deut 19 / Josh 20 asylum for unintentional manslayer; bloodguilt and land pollution (Ashley NICOT); not Buddhist [[refuge]]
 - [[hesed|ḥesed (Covenant Kindness)]] — Divine-human kindness cycle; governing virtue of Ruth; Exod 34:6-7
 - [[kinsman-redeemer|The Kinsman-Redeemer (Gōʾēl)]] — Redemption law; Boaz as type of Christ; kinship-incarnation parallel
 - [[kingship-in-israel|Kingship in Israel (Mĕlûkâ)]] — Human king as YHWH's vice-regent; conditional/unconditional covenants; Davidic trajectory
@@ -1474,8 +1490,10 @@ Master index of all pages. Updated on every ingest.
 - [[secularization-of-evil|The Death of Satan / Secularization of Evil]] — Delbanco's thesis: modern (esp. American) culture's loss of a shared language for evil as the personified Devil "died"; banality of evil, the age of blame, belief vs. irony; the modern phase succeeding classical theodicy (new 2026-06-09)
 - [[resurrection-of-the-dead|Resurrection of the Dead (Tehiyyat ha-Metim)]] — bodily, communal, end-time raising of the dead; vs. immortality of the soul; Mishnah Sanhedrin 10:1 + the Amidah's *Gevurot*; Daniel 12 / Isaiah 26; the Canaanite Divine-Warrior root and Levenson's qualification of the Zoroastrian-influence thesis (new 2026-06-09)
 - [[sheol|Sheol]] — the biblical netherworld; the Pit; Levenson's fortunate/unfortunate-death distinction and the non-universality / non-irreversibility that "gesture toward" resurrection; cf. the Mesopotamian underworld (new 2026-06-09)
+- [[fear-of-the-lord|Fear of the LORD]] — *yir'at YHWH* as wisdom's epistemological foundation (Prov 1:7; Job 28:28); Waltke's compound expression; fear-of-the-LORD vs. fear-of-God; the anti–natural-theology premise (new 2026-07-18)
 - [[wisdom-literature|Wisdom Literature]] — Job, Proverbs, Ecclesiastes; genre; fear of YHWH; creation theology; ANE parallels
 - [[woman-wisdom|Woman Wisdom (Personified Wisdom)]] — Proverbs 8; hypostasis vs. type of Christ; Arian controversy; Christology
+- [[valiant-woman|The Valiant Woman (ʾēšet ḥayil)]] — Proverbs 31:10–31 acrostic; heroic-poetry genre (Wolters); allegory-vs-real-wife crux; fear-of-the-LORD climax; the book's feminine frame with Woman Wisdom (new 2026-07-18, Waltke Proverbs Vol. 2)
 - [[hebel|*Hebel* (Vanity/Meaninglessness)]] — Ecclesiastes' governing term; vapor/breath; death and inaccessible time; Romans 8 allusion
 - [[divine-human-marriage|Divine-Human Marriage Metaphor]] — Hosea to Revelation; *tĕšûqâ* arc; Song of Songs as illuminating analogy; eschatological consummation
 - [[servant-songs|Servant Songs / Suffering Servant]] — Isaiah 42, 49, 50, 52-53; identity debate; substitutionary atonement; Christological fulfillment
@@ -1510,6 +1528,10 @@ Master index of all pages. Updated on every ingest.
 
 ### NT/Early Christianity
 - [[dyadic-devotion|Dyadic Devotion]] — Hurtado's term for the early Christian devotional pattern of jointly venerating God (Father) and Jesus as co-recipients of corporate worship; six ritual forms; the Shema reformulation in 1 Cor 8:4-6; no adequate Jewish precedent; the mutation that distinguishes Christianity from Second Temple Judaism
+- [[christ-hymn|Christ Hymn (Philippians 2:6–11)]] — preexistence, kenosis, cross, exaltation; Hansen PNTC densification (2026-07-18)
+- [[citizenship|Citizenship in Heaven]] — Phil 1:27 *politeuesthe* / 3:20 *politeuma*; dual citizenship vs Roman colony (Hansen)
+- [[partnership|Partnership (*koinōnia*)]] — multi-nuanced gospel partnership in Philippians (Hansen)
+- [[joy|Joy (in Philippians)]] — fourteen joy notes; confidence in God who completes *koinōnia* (Hansen)
 - [[nomina-sacra|Nomina Sacra]] — Early Christian scribal convention: contraction + horizontal overline for key divine names (Iēsous, Christos, kyrios, theos); purely visual; earliest recoverable evidence of distinctly Christian visual culture; codex connection; copy centres; reader's aids; Hurtado + Kruger
 - [[religious-economy|Religious Economy]] — Stark-Bainbridge-Iannaccone framework: religious groups as firms in a market; exclusive vs. nonexclusive firms; free-rider problem solved by sacrifice and stigma; paganism declining before Constantine (supply-side model); compensators; Christianity's organizational superiority (Stark, *Rise of Christianity*, Ch. 9)
 - [[network-conversion|Network Conversion (Lofland-Stark Model)]] — Lofland and Stark (1965): conversion follows pre-existing social ties, not ideological persuasion; fieldwork on American Moonies; seven stages; applied to early Christianity in Stark Ch. 1: Christianity grew by maintaining open social networks; household conversion as structural norm; ideology as post-hoc rationalization
@@ -1866,6 +1888,9 @@ a `sects/` page, cross-linked.)*
 
 ## Controversies
 
+### Leviticus / Pentateuch (2026-07-18; [[wenham-leviticus-nicot|Wenham NICOT]])
+- [[azazel-identity|Identity of Azazel (Lev 16)]] — wilderness demon vs “complete destruction” vs rocky precipice; Wenham’s functional conclusion (sin exterminated from Israel). **Open**
+
 ### Isaiah (2026-07-18; [[oswalt-isaiah-1-39-nicot|Oswalt NICOT Vol. 1]])
 - [[isaiah-authorship|Authorship and Unity of Isaiah]] — single essential authorship (Oswalt) vs. Deutero/Trito-Isaiah (Döderlein, Eichhorn, Duhm) vs. redactional continuum / Isaiah school vs. Childs's canonical final form; Radday stylometrics; the predictive-prophecy premise. **Open**
 
@@ -1962,7 +1987,7 @@ a `sects/` page, cross-linked.)*
 
 ### Pentateuchal Scholarship
 - [[documentary-hypothesis|The Documentary Hypothesis]] — JEDP debate; Pentateuchal composition
-- [[deuteronomy-authorship|Deuteronomy: Authorship and Date]] — Mosaic vs. Josianic
+- [[deuteronomy-authorship|Deuteronomy: Authorship and Date]] — Mosaic vs. Josianic; Craigie fidelity densified 2026-07-18 (treaty form; Shechem/centralization; contingent curses)
 - [[genesis-creation-accounts|Genesis: The Two Creation Accounts]] — Gen 1 vs. Gen 2-3; source or complement?
 - [[sons-of-god|Sons of God (Gen 6:1-4)]] — Divine beings, Sethites, or rulers?
 - [[akedah-interpretation|The Akedah]] — Gen 22; faith, typology, ethics
@@ -1991,7 +2016,7 @@ a `sects/` page, cross-linked.)*
 ### NT/Pauline (Romans)
 - [[righteousness-of-god|The Righteousness of God (Rom 1:17)]] — forensic gift vs. divine saving power vs. covenant faithfulness vs. both; open
 - [[all-israel-saved|"All Israel Will Be Saved" (Rom 11:26)]] — ethnic Israel future conversion / elect remnant / church / national restoration; open
-- [[romans-7-identity|Romans 7 — The Identity of the "I"]] — regenerate believer (Reformed) vs. pre-Christian (Arminian) vs. Israel under law (NPP); open / tradition-specific
+- [[romans-7-identity|Romans 7 — The Identity of the "I"]] — regenerate believer (Reformed) vs. pre-Christian (Arminian) vs. Israel under law (NPP) vs. Seifrid/Schreiner (the law's inability, not the regenerate/unregenerate binary); open / tradition-specific
 
 ### NT/Pauline (1 Corinthians)
 - [[food-offered-to-idols|Food Offered to Idols (1 Cor 8–10)]] — strong vs. weak; cultic participation vs. market meat; unity of argument; open
@@ -2023,8 +2048,8 @@ a `sects/` page, cross-linked.)*
 - [[parousia-1-thess-4|Parousia and the Fate of the Deceased (1 Thessalonians 4:13–18)]] — *apantēsis* as Hellenistic formal reception (Weima, mainstream) vs. secret pretribulation rapture (dispensationalist); *harpazō*; three positions; open
 
 ### NT/Hebrews
-- [[hebrews-warning-passages|Warning Passages in Hebrews (6:4–8; 10:26–31)]] — genuine believers vs. hypothetical warning vs. never truly saved; Arminian/Calvinist divide; "impossible" renewal; five participles; open
-- [[hebrews-worldview-platonic-vs-apocalyptic|Worldview of Hebrews: Apocalyptic or Neo-Platonic?]] — Spicq/Thompson (Platonic) vs. Williamson/Hurst/Cockerill (apocalyptic); heavenly sanctuary; the "rest"; Eisele's extreme; open
+- [[hebrews-warning-passages|Warning Passages in Hebrews (6:4–8; 10:26–31)]] — genuine believers vs. hypothetical warning vs. never truly saved; Cockerill constructive reading densified 2026-07-18; five participles; open · source [[cockerill-hebrews-nicnt]]
+- [[hebrews-worldview-platonic-vs-apocalyptic|Worldview of Hebrews: Apocalyptic or Neo-Platonic?]] — Spicq/Thompson (Platonic) vs. Williamson/Hurst/Cockerill (apocalyptic); heavenly sanctuary; the "rest"; Eisele's extreme; densified 2026-07-18 · source [[cockerill-hebrews-nicnt]]
 
 ### NT/General Epistles (James)
 - [[james-paul-justification|James and Paul on Justification (Jas 2:24 vs. Rom 3:28)]] — irreconcilable / misunderstood-Paulinism / two-senses-of-"justify" (Moo) / two-justifications (Catholic) / demonstration-only; open
@@ -2113,7 +2138,7 @@ a `sects/` page, cross-linked.)*
 - [[flood-universality|Universality of the Flood]]
 - [[jephthah-vow]]
 - [[paris-trial-1240]]
-- [[women-and-worship]]
+- [[women-and-worship|Women and Worship (1 Cor 11/14)]] — head coverings; 14:34–35 situational silence (C&R); interpolation debate; open
 
 ## Bahá'í / Babi — Added 2026-06-28 (Smith Concise Encyclopedia, Subagent E)
 
@@ -2336,3 +2361,176 @@ a `sects/` page, cross-linked.)*
 - [[job-19-25-redeemer|Job 19:25 — Who Is the Redeemer?]] — God himself; vindication before death; resurrection reading rejected as "reading back of the NT into the OT"
 - Extended: [[job-42-6|Job 42:6]] — **Hartley's position corrected**; he reads *niḥam* as resolute redirection without remorse, and what Job recants is his avowal of innocence
 - [[isaiah-job-servant-direction|Job and Isaiah's Suffering Servant]] — promoted from stub; four positions on the direction of influence
+
+## Weima, 1–2 Thessalonians (BECNT) — Full fidelity re-ingest 2026-07-18 (10 extraction passes; exclusive-page integration)
+
+**Source page:** [[weima-1-2-thessalonians-becnt|Weima, *1–2 Thessalonians* (BECNT, 2014)]] — full body re-read (prefaces + Introduction + 1–2 Thess exposition + Excursuses 1–3 + Notes) with coverage ledger; supersedes the 2026-06-06 bookkeeping, which produced no source page.
+
+### Texts
+- [[1-thessalonians|1 Thessalonians]] · [[2-thessalonians|2 Thessalonians]] — required sections densified; Weima epistolary outlines and pastoral frame
+
+### Commentator
+- [[jeffrey-weima|Jeffrey A. D. Weima]] — method triad; characteristic positions; Sources Ingested
+
+### Controversies
+- [[2-thessalonians-authorship|2 Thessalonians authorship]] — Foster survey; four Trilling arguments + temple; 3:17 authority
+- [[restrainer-2-thess-2|The Restrainer]] — seven proposals; Michael preferred (whisper)
+- [[parousia-1-thess-4|Parousia 1 Thess 4]] — *apantēsis* vs secret rapture; 5:1–11 peace-and-security
+
+### Figures / concepts extended
+- [[paul-apostle]], [[silas]], [[timothy]]
+- [[principalities-powers]], [[apocalyptic-literature]], [[eschatological-temple]]
+
+## Bock, Acts (BECNT) — Full fidelity re-ingest 2026-07-18 (8 body + 1 endnotes extraction passes + 4 seam-recovery passes; 6 exclusive-page integrators)
+
+**Source page:** [[bock-acts-becnt|Bock, *Acts* (BECNT, 2007)]] — full commentary body re-read (Introduction + Acts 1:1–28:31 exposition + Additional Notes + endnotes) with coverage ledger; supersedes the 2026-06-04 bookkeeping, which produced no source page. 30 pages created, 26 extended.
+
+### Text / commentator / controversy
+- [[acts|Acts of the Apostles]] — Textual/Manuscript Tradition, Canon and Reception, Scholarship and Historiography added; theology and cruxes densified
+- [[darrell-bock|Darrell L. Bock]] — exegetical method (OT-in-Acts: typological-prophetic, gezerah shewa, "this-is-that" pesher; text-criticism; characterization)
+- [[acts-paul-tensions|Acts and Paul's Letters]] — Vielhauer's four inconsistencies + Bock's replies; Timothy/Titus circumcision contrast
+
+### Figures created
+- [[stephen|Stephen]] · [[gamaliel|Gamaliel]] · [[ananias-and-sapphira|Ananias & Sapphira]] · [[cornelius|Cornelius]] · [[philip-the-evangelist|Philip the Evangelist]] · [[ethiopian-eunuch|Ethiopian eunuch]] · [[agabus|Agabus]] · [[herod-agrippa-i|Herod Agrippa I]] · [[james-son-of-zebedee|James son of Zebedee]] · [[john-mark|John Mark]] · [[apollos|Apollos]] · [[lydia|Lydia]] · [[felix|Felix]] · [[festus|Festus]] · [[herod-agrippa-ii|Herod Agrippa II]]
+
+### Locations created
+- [[damascus|Damascus]] · [[caesarea|Caesarea Maritima]] · [[pisidian-antioch|Pisidian Antioch]] · [[ephesus|Ephesus]] · [[athens|Athens]] · [[corinth|Corinth]] · [[philippi|Philippi]]
+
+### Concepts / groups created
+- [[pentecost|Pentecost]] · [[glossolalia|Tongues]] · [[god-fearers|God-fearers]] · [[jerusalem-council|Jerusalem Council]] · [[the-way|The Way]] · [[speeches-in-acts|Speeches in Acts]] · [[hellenists|Hellenists]] · [[sanhedrin|Sanhedrin]]
+
+### Extended
+- *Figures:* [[peter-apostle]], [[paul-apostle]], [[barnabas]], [[silas]], [[timothy]], [[titus]], [[james-the-just]], [[theophilus]], [[simon-magus]]
+- *Locations:* [[jerusalem]], [[antioch]], [[rome]], [[samaria]]
+- *Concepts:* [[holy-spirit]], [[resurrection]], [[circumcision]], [[justification]], [[natural-theology]], [[luke-acts-unity]]
+- *Groups:* [[pharisees]], [[sadducees]], [[samaritans]], [[gentiles]]
+
+## Cockerill, Hebrews (NICNT) — Full fidelity re-ingest 2026-07-18 (13 extraction passes; exclusive-page integration)
+
+**Source page:** [[cockerill-hebrews-nicnt|Cockerill, *The Epistle to the Hebrews* (NICNT, 2012)]] — full body re-read (Fee + Author prefaces + Introduction Parts I–II + Text/Exposition §§I–IV on Heb 1:1–13:25) with coverage ledger; supersedes the 2026-06-06 bookkeeping, which produced no source page. 1 page created, 12 extended. 505 grounded claims.
+
+### Text / commentator
+- [[hebrews|Letter to the Hebrews]] — Textual/Manuscript Tradition, Scholarship and Historiography, Fidelity re-ingest, Sources Ingested; structure, OT use, supersessionism denial densified
+- [[gareth-lee-cockerill|Gareth Lee Cockerill]] — method table with loci; characteristic positions; Sources Ingested
+
+### Controversies densified
+- [[hebrews-warning-passages|Warning Passages in Hebrews]] — 2:1–4; 3–4; 6:4–8; 10:26–31; 12:25–29 with Cockerill constructive reading loci
+- [[hebrews-worldview-platonic-vs-apocalyptic|Worldview of Hebrews]] — apocalyptic case (rest, sanctuary, skia/eikōn, removal) densified; Spicq/Thompson kept
+
+### Figures / concepts extended
+- [[melchizedek]], [[esau]], [[timothy]], [[rahab]]
+- [[priesthood-of-christ]], [[new-covenant]], [[tabernacle]], [[typology]]
+
+## Moo, James (PNTC) — Full fidelity re-ingest 2026-07-18 (7 extraction passes; main-thread integration)
+
+**Source page:** [[moo-james-pntc|Moo, *The Letter of James* (PNTC, 2000)]] — full commentary body re-read (prefaces + Introduction + Jas 1:1–5:20) with coverage ledger; supersedes the 2026-06-06 bookkeeping, which produced no source page. 1 page created, 9 extended. ~345 grounded claims. Zero range recoveries.
+
+### Text / commentator / figure
+- [[james|The Letter of James]] — source link; Sources Ingested; fidelity stamp
+- [[douglas-moo|Douglas J. Moo]] — James section densified with source-page link and crux map
+- [[james-the-just|James the Just]] — source link
+
+### Controversies / concepts densified
+- [[james-authorship]] · [[james-paul-justification]] · [[anointing-healing-james-5]] — source links; re-ingest stamps
+- [[double-mindedness]] · [[covenantal-nomism]] · [[justification]] — source links; Moo loci
+
+## Moo, Galatians (BECNT) — Full fidelity re-ingest 2026-07-18 (8 extraction passes; main-thread integration)
+
+**Source page:** [[moo-galatians-becnt|Moo, *Galatians* (BECNT, 2013)]] — full commentary body re-read (prefaces + Introduction + Gal 1:1–6:18 + Notes) with coverage ledger; supersedes the 2026-06-06 bookkeeping, which produced no source page. 1 page created, 8 extended. ~348 grounded claims. Zero range recoveries.
+
+### Text / commentator
+- [[galatians|Letter to the Galatians]] — destination/date, Gal 2//Acts, law of Christ, Israel of God densified with loci; Textual/Manuscript Tradition, Scholarship and Historiography, Sources Ingested
+- [[douglas-moo|Douglas J. Moo]] — locus-anchored positions table; Sources Ingested
+
+### Controversies / concepts densified
+- [[new-perspective-on-paul-controversy|NPP]] — *erga nomou* loci; synecdoche for works; 4QMMT
+- [[pistis-christou|*Pistis Christou*]] — objective genitive L2589
+- [[justification|Justification]] — future tenses; works/final salvation; union
+- [[stoicheia|*Stoicheia*]] — **mild fidelity correction**: associate not equate with law (L3828)
+- [[new-creation|New Creation]] — Gal 6:15 cosmic/apocalyptic closing center
+
+## Jobes, 1 Peter (BECNT) — Full fidelity re-ingest 2026-07-18 (8 extraction passes; 3 exclusive-page integrators)
+
+**Source page:** [[jobes-1-peter-becnt|Jobes, *1 Peter* (BECNT, 2005)]] — full commentary body re-read (prefaces + Introduction + Units I–V + Syntax excursus) with coverage ledger; supersedes the 2026-06-06 bookkeeping, which produced no source page. 1 page created, 10 extended.
+
+### Text / commentator
+- [[1-peter|The First Letter of Peter]] — required sections filled; cruxes upgraded (pure milk 2:2; 3:18–22; 4:6; Silvanus courier; household code)
+- [[karen-jobes|Karen H. Jobes]] — three contributions densified; syntax S-number method and limits; Sources Ingested
+
+### Controversies densified
+- [[1-peter-authorship|Authorship, Date, and the Colonization Theory]] — Claudian colony list; S-number non-claims; Silvanus courier; elders dating
+- [[spirits-in-prison-1-peter-3|Christ and the Spirits in Prison]] — Dalton–Selwyn full; *eperōtēma* pledge; 4:6 severed
+- [[1-peter-christ-and-culture|Christ and Culture]] — Volf differentiated engagement; slaves as paradigm; verbal vs physical abuse
+
+### Concepts / figures extended
+- [[christian-exile-diaspora]], [[servant-songs]]
+- [[peter-apostle]], [[silas]], [[john-mark]]
+
+
+## Green, Jude and 2 Peter (BECNT) — Full fidelity re-ingest 2026-07-18 (8 extraction passes; main-thread integration)
+
+**Source page:** [[green-jude-2peter-becnt|Green, *Jude and 2 Peter* (BECNT, 2008)]] — full commentary body re-read (Series/Author prefaces + Intro Jude + Jude 1–25 + Intro 2 Peter + 2 Pet 1:1–3:18) with coverage ledger; supersedes the 2026-06-06 bookkeeping, which produced no source page. 1 page created, 11 extended. ~528 grounded claims. Zero range recoveries.
+
+### Text / commentator / figure
+- [[jude|The Letter of Jude]] — required sections filled; Enoch crux densified with R3 loci; Hermeneutical Frameworks, Textual/Manuscript Tradition, Scholarship, Sources Ingested
+- [[2-peter|The Second Letter of Peter]] — authorship/testament, opponents, 1:4, 3:10–13 densified; required sections; Sources Ingested
+- [[gene-green|Gene L. Green]] — method + positions with loci; Sources Ingested; name disambiguation vs Joel Green
+- [[jude-brother-of-jesus|Jude (the Brother of Jesus)]] — Helvidian preference loci; source link
+
+### Controversies densified
+- [[2-peter-authorship|2 Peter: Authorship and the Testament Genre]] — testament-section body quote; source link
+- [[jude-1-enoch-canon|Jude's Use of 1 Enoch and the Canon Question]] — equal-authority formulations; rejects Charles/Moo opponents-only; special-pleading on pre-flood tradition
+- [[2-peter-jude-relationship|The Relationship between 2 Peter and Jude]] — flood not from Jude; Michael dropped; *imitatio* retained
+
+### Concepts densified
+- [[theosis-divine-nature|Theosis / Partakers of the Divine Nature]] — moral-transformation reading with R5 loci
+- [[new-creation|New Creation]] — εὑρεθήσεται; linear three-world cosmology; renewal not annihilation (R7–R8)
+
+
+
+## Kruse, The Letters of John (PNTC) — Full fidelity re-ingest 2026-07-18 (4 extraction passes; main-thread integration)
+
+**Source page:** [[kruse-letters-of-john|Kruse, *The Letters of John* (PNTC, 2nd ed. 2020)]] — full commentary body re-read (Introduction + verse-by-verse 1–3 John + all 24 excursuses) with coverage ledger; supersedes the 2026-06-05 batch bookkeeping, which produced no source page. 1 page created, 4 extended.
+
+### Text / commentator
+- [[letters-of-john|Letters of John (1, 2, 3 John)]] — cruxes densified (water/blood = baptizing ministry; epideictic/amplification rhetoric; sin unto death = secessionists); source link
+- [[colin-kruse|Colin G. Kruse]] — new Excursus Conclusions section (hilasmos God-initiated propitiation; monogenēs = "one and only"; anomia ≠ law-breaking; God's seed / chrisma = Spirit; ekklektē kyria = church); source link
+
+### Controversy / concept densified
+- [[johannine-secessionists|The Johannine Secessionist Crisis]] — Kruse's cautious no-exact-identification position; source link
+- [[antichrist|Antichrist]] — Kruse's five points; term coined by the author; antichrists as former community members; source link
+
+## Marshall, The Epistles of John (NICNT, 1978) — Full fidelity re-ingest 2026-07-18 (5 extraction passes; main-thread integration)
+
+**Source page:** [[marshall-epistles-of-john-nicnt|Marshall, *The Epistles of John* (NICNT, 1978)]] — full Introduction §§1–8 + verse-by-verse commentary on 2, 3, and 1 John re-read sequentially with coverage ledger; the original 2026-06-05 batch produced content pages but no source page. 3 pages created (source + [[diotrephes]], [[gaius]]), 6 extended.
+
+### Text / commentator
+- [[i-howard-marshall|I. Howard Marshall]] — sinlessness paradox corrected to eschatological ("become what you are"), not habitual; authorship nuanced (left open); 2 John 7 present-continuous; Denney *hilasmos*; Johannine Comma verdict; source link
+- [[letters-of-john|Letters of John (1, 2, 3 John)]] — crux #1 now distinguishes Marshall (eschatological) from Kruse (habitual); authorship line nuanced; figure/source links
+
+### Figures created
+- [[diotrephes|Diotrephes]] · [[gaius|Gaius]] — the corporate actors of 3 John
+
+### Controversy / concept densified
+- [[johannine-secessionists|The Johannine Secessionist Crisis]] — present-continuous / separationist christology (2 John 7)
+- [[antichrist|Antichrist]] — rejection of "demythologizing"; "deceiver par excellence"; *chrisma*/*antichristos* wordplay
+- [[atonement|Atonement]] — Johannine *hilasmos* section (2:2; 4:10); Denney; God provides the propitiation
+- [[testimony-martyria|Testimony/Witness (Martyria)]] — Spirit-water-blood witness (5:6–12); Johannine Comma
+
+
+## Webb, Judges (NICOT) — Full fidelity re-ingest 2026-07-18 (7 extraction passes; main-thread integration)
+
+**Source page:** [[webb-judges-nicot|Webb, *The Book of Judges* (NICOT, 2012)]] — full commentary body re-read (preface + Introduction + Judg 1:1–21:25) with coverage ledger; supersedes the 2026-06-05/07 bookkeeping, which produced no source page. 1 page created, 5+ extended. ~427 grounded claims. Zero range recoveries. **Fidelity correction:** Jephthah’s vow = literal sacrifice (prior summary wrongly said Webb left death vs virginity open).
+
+## Seifrid, 2 Corinthians (PNTC) — Full fidelity re-ingest 2026-07-18 (7 extraction passes; main-thread integration)
+
+**Source page:** [[seifrid-2-corinthians-pntc|Seifrid, *The Second Letter to the Corinthians* (PNTC, 2014)]] — full commentary body re-read (prefaces + Introduction + 2 Cor 1:1–13:14 prose) with coverage ledger; supersedes the 2026-06-06 bookkeeping, which produced no source page. 1 page created, 9 extended. ~453 grounded claims. Zero range recoveries. Fidelity corrections: “written large”; *haplotēs* = simplicity; 13:4 *ex astheneias*; 5:21 ontological exchange.
+
+
+## Lau, Ruth (NICOT) — Full fidelity re-ingest 2026-07-18 (4 extraction passes; main-thread integration)
+
+**Source page:** [[lau-ruth-nicot|Lau, *Ruth* (NICOT, 2023)]] — full commentary body re-read (Introduction + Acts 1–4, Ruth 1:1–4:22) with coverage ledger; supersedes the 2026-06-05 bookkeeping, which produced no source page. 1 page created, 4 extended ([[book-of-ruth]], [[peter-lau]], [[hesed]], [[kinsman-redeemer]]). Added the text page's missing **Scholarship and Historiography** (genre/date/authorship/purpose as positions) and **Textual and Manuscript Tradition** sections; added Lau's distinctive verse-level readings to the commentator page (tri-fold *ḥayil*; "hostile overseer" of 2:7; *ʿzb*/*bōʿaz* wordplay; deliberate ambiguity at 2:20; rejection of the threshing-floor "seduction" reading). Confirmed the Heb 2:10–17 / Rev 19–22 redemption typology is genuinely Lau's (Introduction), not interpolation.
+
+## Harrington, Ezra–Nehemiah (NICOT) — Full fidelity re-ingest 2026-07-18 (8 extraction passes; main-thread integration)
+
+**Source page:** [[harrington-ezra-nehemiah-nicot|Harrington, *The Books of Ezra and Nehemiah* (NICOT, 2022)]] — full commentary body re-read (Intro I–VIII + Ezra 1–10 + Neh 1–13 + Exc 1–23) with coverage ledger; supersedes the 2026-06-05 bookkeeping, which produced no source page. 1 page created, 8 extended ([[ezra-nehemiah]], [[hannah-harrington]], [[intermarriage-ezra-nehemiah]], [[ezra]], [[nehemiah]], [[midrash]], [[purity]], [[samaritans]]). **Fidelity corrections:** removed misquote “drastic but understandable” (actual: “understandable” minority-survival language); Douglas/Turner framed as Janzen/Moffat survey, not Harrington’s sole preferred lens for Exc. 9 (priestly *maʿal*/holy seed is).

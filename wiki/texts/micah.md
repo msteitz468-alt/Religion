@@ -9,118 +9,131 @@ canon_scope:
   disputed_by: []
   rejected_by: []
 language_original: Hebrew
-date_range: 8th-century core (ca. 735-700 BCE); exilic update (6th-5th c.); postexilic reframing (5th-4th c.)
+date_range: 8th-century core (ca. 722–701 BCE horizon); exilic/postexilic updates (6th–5th c.); postexilic reframing of chs. 4–5 (5th–4th c. range for many units)
 sources_ingested: 1
-last_updated: 2026-06-05
-tags: [text, old-testament, prophets, minor-prophets, twelve, micah, social-justice, micah-6-8, bethlehem, swords-into-plowshares, zion]
+last_updated: 2026-07-18
+tags: [text, old-testament, prophets, minor-prophets, twelve, micah, social-justice, micah-6-8, bethlehem, swords-into-plowshares, zion, book-of-the-four]
 ---
 
-Micah is the sixth book of the Minor Prophets (the Twelve) and the third and final 8th-century prophet among them (after Hosea and Amos). A Judean from Moresheth (a village in the Shephelah, southwest of Jerusalem), Micah was a contemporary of Isaiah, Hosea, and Amos, and brings the social justice critique of prophetic ethics to the Southern Kingdom with the same intensity that Amos brought to the North.
+## Textual Overview
 
-The book is the canonical middle of the Twelve — Micah 3:12 (Jerusalem's destruction) is marked by the Masoretes as the exact middle by verse count — and Micah 4:1 immediately follows with the most hopeful passage in the Twelve. The structural juxtaposition is stunning and deliberate: the judgment of Jerusalem's destruction is literally the midpoint, from which the arc bends immediately toward universal hope.
+Micah is the sixth book of the Minor Prophets (the Twelve) in the MT/English order and the third superscription-dated eighth-century collection among them (after Hosea and Amos). The superscription (1:1) names **Micah the Moreshtite** and three Judean kings (Jotham, Ahaz, Hezekiah); the name *Micah* (*mî kāyhû*) means “Who is like Yahweh?” — a wordplay the book’s closing hymn exploits (7:18).
 
-## Structure and Compositional History
+In the reading of [[james-nogalski|James D. Nogalski]] (*The Book of Micah*, NICOT 2024), the book is a **thoughtfully arranged multi-phase collection**, not a single speech-stream from one eighth-century prophet. Nogalski’s headline compositional model has three phases spanning centuries:
 
-Nogalski identifies three phases in Micah's composition, spanning three centuries:
+| Phase | Material | Horizon (Nogalski) |
+|---|---|---|
+| **1. Early core** | Primarily chs. 1–3 (with later explanatory notes in ch. 1) | Fall of [[samaria|Samaria]] (722) and [[sennacherib|Sennacherib]]’s siege of [[jerusalem|Jerusalem]] (701) under [[hezekiah|Hezekiah]] |
+| **2. Exilic / early postexilic updates** | Chs. 6–7 (lawsuit, lament, liturgy); insertions explaining 587 in ch. 1 | Blame for Jerusalem’s destruction; salvific ending 7:8–20 |
+| **3. Postexilic reframing** | Chs. 4–5 as evolving anthology | Distant-future Zion restoration; nations; Davidic hope; cultic purification |
 
-### Phase 1: The 8th-Century Core (Chs. 1-3)
+Canonical placement is load-bearing for Nogalski: in the MT order Micah is the **linchpin between [[jonah|Jonah]] (Nineveh spared) and Nahum (Nineveh doomed)**; Hosea–Amos–Micah–Zephaniah form a relative-order stable **Book of the Four**; and **Mic 3:12 is the Masoretic midpoint of the Twelve by verse count** (verse 525 of 1050 in Codex Leningrad’s count), immediately followed by the hope oracle of 4:1.
 
-The historical prophet Micah addresses two events:
-1. **Samaria's fall (722 BCE)**: Used as a warning to Jerusalem (1:5-7) — if the Northern Kingdom fell for its sins, Judah faces the same threat
-2. **Sennacherib's siege (701 BCE)**: Reflected in the lament for the Shephelah villages (1:8-16); these cities will be devastated on Sennacherib's march to Jerusalem
+## Major Themes / Narrative Summary
 
-The core material (especially chs. 2-3) delivers the most sustained social justice critique in the Southern prophets:
-- The wealthy scheme to take fields and houses from the poor (2:1-2)
-- Political leaders act as cannibals toward their own people: "who eat the flesh of my people, and flay their skin from off them" (3:2-3)
-- Priests teach for money (3:11), prophets divine for payment (3:11), rulers make judgments for bribes (3:11)
-- Culmination: **Micah 3:12** — "Therefore because of you, Zion shall be plowed as a field, Jerusalem shall become a heap of ruins, and the mountain of the house a wooded height" — the climactic verdict; Jerusalem itself will be destroyed
+### I. Judgment on Samaria and Jerusalem (1:1–16)
 
-This verse (3:12) is quoted in Jeremiah 26:18 as a precedent for prophetic free speech: the elders cite Micah's prediction of Jerusalem's destruction as justification for not executing Jeremiah.
+Three units cohere around the fate of Samaria and Jerusalem: superscription (1:1); judgment oracle / theophany (1:2–7); prophetic lament over the Shephelah (1:8–16).
 
-### Phase 2: Exilic Update (Chs. 6-7, plus additions to ch. 1)
+- **1:1.** Word-event formula; prophet’s hometown; three kings; theme “concerning Samaria and Jerusalem.” Nogalski prefers reading the king list and Samaria theme as **exilic redactional framing** that chronologically bonds Micah to Hosea and Amos (and later Zephaniah), noting that datable early material clusters under Hezekiah rather than Jotham/Ahaz.
+- **1:2–7.** Call to the peoples; theophany melting mountains; Samaria’s destruction as **rhetorical warning** to Judah/Jerusalem; idolatry language that Nogalski links to Hosea’s harlotry metaphor ([[divine-human-marriage|divine-human marriage]]). He treats 1:6’s ruin/field language as drawing on 3:12, creating an inclusio for a written Mic 1–3 collection.
+- **1:8–16.** Prophet’s naked/barefoot lament; wordplay warnings to Shephelah villages on the Assyrian approach route (incl. Lachish; Moresheth-Gath as “parting gift”); exile/shaving imagery. Nogalski associates the military horizon with Sennacherib 701 and notes later editorial notes that can re-point the threat toward 587.
 
-Post-587 BCE editors added chapters 6-7 to explain *why* Jerusalem was destroyed:
-- The trial speech (6:1-7) — Yahweh brings a covenant lawsuit against his people
-- Specific accusations (6:10-16): unethical business practices, violence, following the wicked policies of Omri and Ahab
-- The famous ethical summary: **Micah 6:8**
-- The prophetic complaint (7:1-7): the disappearance of the faithful from society
-- The liturgical response (7:8-20): confession, confidence in YHWH's ultimate deliverance, and the climactic doxology
+**Hometown.** Nogalski reports the common identification of Moresheth / Moresheth-Gath with Tell-el-Judeideh (~20+ miles SW of Jerusalem) and notes the 2023 Lipschits–Wöhrle argument reopening an Azekah identification.
 
-### Phase 3: Postexilic Reframing (Chs. 4-5)
+### II–III. Social injustice and leadership (2:1–3:12)
 
-Chapters 4-5 were inserted to reconstitute Zion theology for the returned exiles. They address:
-- Universal peace vision: **4:1-4 = Isaiah 2:2-4** (see below)
-- Restoration of Davidic reign (5:1-3)
-- Protection from Assyrian aggression (5:4-6)
-- Purification of cultic improprieties (5:9-14)
-- The eschatological day formulas signal this material addresses the distant future
+- **2:1–5.** Woe against powerful land-seizers who plot by night and seize fields, houses, and inheritance (*naḥălâ*); Decalogue root *ḥmd* (“covet”). Nogalski situates this against late-eighth-century centralization/fortification pressures under Hezekiah and reads “this family” (2:3) as alluding to the royal house.
+- **2:6–11.** Prophetic dispute with opponents who try to silence the message; critique of prophets who would preach wine and strong drink.
+- **2:12–13.** Hope of gathering, breaker, and king/YHWH procession. Nogalski accepts the scholarly consensus that this unit is a **post-587 secondary addition**, part of the book’s structural judgment–hope vacillation.
+- **3:1–4.** Leaders who “eat the flesh” of the people — cannibalistic imagery for elite exploitation.
+- **3:5–8.** False prophets who cry peace for pay and war against those who do not feed them; Micah claims to be filled with power, justice, and might by the spirit of YHWH.
+- **3:9–11.** Rulers judge for bribes; priests teach for a price; prophets divine for money — yet lean on YHWH saying “Is not YHWH in our midst?”
+- **3:12.** Climactic verdict: “Zion shall be plowed as a field; Jerusalem shall become heaps of rubble; the mountain of the house a wooded height.” Nogalski treats this as the culmination of the early core, inclusio with 1:6, and the verse the Masoretes marked as the **midpoint of the Twelve**. [[jeremiah|Jeremiah]] 26:18–19 cites it as legal precedent: elders argue Hezekiah did not execute Micah, and repentance averted the disaster in that generation.
 
-## The Structural Drama: The Middle of the Twelve
+### IV. Future for Judah and the nations (4:1–5:15)
 
-The Masoretes marked **Micah 3:12** as the exact middle of the Book of the Twelve by verse count. This is immediately followed by **Micah 4:1**.
+Nogalski reads chs. 4–5 as a **deliberate postexilic compilation** structured by four formula groups: (1) eschatological day sayings (4:1–7); (2) “you” / “now” sayings (4:8–5:4); (3) *wəhāyâ* futures (5:5–9); (4) “I will cut off” refrain (5:10–15). Surface cohesion coexists with tensions (Babylon in 4:10 vs. Assyria in 5:5–6; peace vision vs. later hostility).
 
-| Verse | Content |
+- **4:1–5.** Distant-future elevation of Zion; nations stream for *tôrâ* and the word of YHWH; YHWH judges between peoples; swords beaten into plowshares (reversing [[joel|Joel]] 3[4]:10); vine and fig; 4:5 qualifies full conversion of the nations (“each in the name of its god”) while affirming Israel’s walk with YHWH — so that 3:12’s judgment is **time-bounded**.
+- **Mic 4:1–3 // Isa 2:2–4.** Virtually identical peace oracle. Nogalski judges **priority insoluble** (Micah from Isaiah / Isaiah from Micah / common source; recent models often treat both as postexilic additions). His method: do not settle origin; read **divergent continuations** — Isaiah pivots to present critique of Jacob (2:5–6); Micah extends future peace while qualifying the nations’ religious submission (4:4–5).
+- **4:6–7.** Same “day”: YHWH gathers the lame and banished (Nogalski: survivors left behind vs. Babylon exiles) into a remnant / mighty nation; YHWH reigns on Zion.
+- **4:8–5:1.** Dominion restored; birth-pangs and exile to Babylon; nations gathered against Zion then threshed; siege and cheek-strike imagery multivalent for 701 / 587 / later readers.
+- **5:2–4.** Bethlehem Ephrathah: a ruler goes forth “from you for me”; origins “from of old.” Nogalski’s OT-context reading: **Davidic dynastic continuity** (2 Sam 7), not metaphysical preexistence; hope for restoration of Davidic/Solomonic kingdom, often dated sixth–fourth century as composition; human ruler downplayed relative to YHWH’s kingship and name. He carefully distinguishes NT messianic use (Matt 2:5–6; Luke 2:15; John 7:40–42) from original intent.
+- **5:5–9.** Assyria; seven shepherds / eight princes (Nogalski reports readings tying the count to kings from Hezekiah to Zedekiah); remnant of Jacob as dew among peoples and as lion among flocks.
+- **5:10–15.** YHWH cuts off horses, chariots, cities, sorcery, idols, Asherim; Nogalski reports the common view that a core against **Yahweh’s own people** was reframed in final form as judgment on the nations.
+
+### V. Lawsuit, verdict, and hope (6:1–7:20)
+
+Nogalski treats Mic 6–7 as **exilic/postexilic addition to the 1–3 core before 4–5 entered**, heavily intertextual with Deuteronomistic History, Torah, Hosea, and Amos.
+
+- **6:1–5.** Covenant lawsuit (*rîb*): mountains/hills as witnesses; YHWH’s saving history (Egypt, Moses, Aaron, Miriam, Shittim–Gilgal).
+- **6:6–8.** Defendant interrupts with hyperbolic questions escalating to human sacrifice; the **prophet** (not YHWH) answers 6:8: do justice (*mišpāṭ*), love kindness (*ḥesed*), walk modestly (*ṣnʿ*) with God. Nogalski’s definitions: justice sets right (threat to oppressors, hope for oppressed); *ḥesed* is multi-valent fidelity/reciprocity/covenant loyalty, not mere “kindness”; “modestly” is rare, discreet non-presumption (cf. Prov 11:2; Qumran extends to interpersonal conduct). In context 6:8 **indicts** the leaders already condemned in chs. 2–3; the best intertextual answer to “where has he told you?” is [[hosea|Hos]] 12:6(7) in another *rîb*.
+- **6:9–16.** Dishonest commerce (lean ephah, rigged scales — // Amos 8:5); violence of the wealthy summarizing Mic 2; infertility-curse verdict (Deut 28 typology); summary equating Judah’s statutes with **Omri and Ahab** (worst Northern kings; Baal cipher; scribal knowledge of Kings).
+- **7:1–7.** Prophetic complaint: no cluster to glean; the *ḥāsîd* has perished (reverse of 6:8’s *ḥesed*); public bribery and private household enemies (// NT echo Matt 10:35–36); affirmation “I will wait for the God of my salvation” — phrase that returns at Hab 3:18, framing the Assyria–Babylon arc in the Twelve.
+- **7:8–20.** “Liturgy” of changing speakers: Lady Zion vs. enemy (Lady Nineveh); prophet to Zion; intercession and YHWH’s brief promise; people’s response; closing hymn.
+- **7:18–20.** “Who is a God like you…?” — paronomasia on Micah’s name; forgiveness for the remnant; Exod 34:6–7 vocabulary; casting sins into the depths of the sea — Nogalski argues a **citation of Jonah 2:3(4)** likely added when Jonah entered the Twelve; *ʾemet* to Jacob and *ḥesed* to Abraham as dual address to divine fidelity and hoped human reciprocity. One of five Exod 34:6–7 deployments in the Twelve (Joel 2:13; 4:21; Jonah 4:2; Mic 7:18–19; Nah 1:3), redistributed along people-compassion vs. nations-judgment axes.
+
+## Textual and Manuscript Tradition
+
+Nogalski judges Micah’s Hebrew transmission **relatively stable** compared with Jeremiah or Ezekiel: no large pluses/minuses among MT, LXX, Qumran, and Judean Desert witnesses; difficulties are mostly comprehension of unpointed poetry. At least four partial Hebrew copies cover nearly every verse cumulatively; by ~150 BCE the unpointed text was quite stable. The Greek Twelve MS **8Ḥev 1** (Naḥal Ḥever) confirms Mic 5:4 and shows LXX vs. 8Ḥev 1 differences as alternative translations of one Hebrew base (e.g. paleo-Hebrew YHWH vs. *kyrios*). Selective examples: Achzib pun (1:14) missed in Greek; *hʾš* at 6:10 as “Is there?” (MT) vs. “fire” (LXX); LXX softens 4:5 henotheistic implications.
+
+Print/reception note: Mic 3:12 is explicitly cited in Jer 26:18; Mic 5:2 is a major Gospel source text; Mic 6:8 is cited at Qumran (1QS 4:5–6; allusion 1QS 8:2).
+
+## Hermeneutical Frameworks
+
+| Reader / community | Framework (as tracked on this page) |
 |---|---|
-| **Micah 3:12** | "Therefore because of you, Zion shall be plowed as a field, Jerusalem shall become a heap of ruins..." — **the judgment** |
-| **Micah 4:1** | "In the last days the mountain of the LORD's temple will be established as the highest of the mountains... and all nations will stream to it" — **the hope** |
+| **Nogalski (NICOT 2024)** | Historical-critical + redaction criticism + Book-of-the-Twelve canonical reading; final-form literary analysis of formula structures (esp. 4–5); intertextual method for Mic // Isa (function via continuations, not priority); social-ethical focus on elite abuse |
+| **Book of the Four / Twelve redaction critics** (Schart, Wöhrle, etc., as reported) | Multi-stage corpora (D-corpus; foreign-nations layers; grace layer); infertility-curse chains Hosea–Amos–Micah–Zephaniah |
+| **Rabbinic reception** | Ethical compression tradition (b. Makkot 23b–24a reduces commandments toward Micah’s triad / Amos’s “seek”) — reception fact, not Nogalski’s own argument |
+| **Christian (patristic–modern)** | Quadriga and later messianic reading of 5:2; NT citations (Matt 2; 10:35–36; Luke 1:72–73 resonance with 7:20). Nogalski insists original OT context precede Christian application |
+| **Modern critical consensus (reported)** | Chs. 1–3 largely eighth-century; 4–7 largely exilic/postexilic; 4:1–3 // Isa 2:2–4 debated |
 
-The deliberate juxtaposition: the judgment of Jerusalem (3:12) is the literal midpoint of the Twelve. From that midpoint, the arc bends immediately toward universal hope. The structural message: Zion's destruction is not the final word; the final word is peace.
+## Canon and Reception
 
-## Micah 4:1-4 = Isaiah 2:2-4
+- **Jewish and Christian canons:** Fully canonical within the Twelve / Minor Prophets for rabbinic Judaism and all major Christian traditions (`canon_scope` above).
+- **Sirach 49:10:** Early external witness treating “the Twelve Prophets” as a unit alongside Isaiah, Jeremiah, and Ezekiel; Nogalski uses this against MS-only objections to Twelve coherence.
+- **Jer 26:** Civic-legal reception of Mic 3:12 as prophetic free-speech precedent under Hezekiah.
+- **NT:** Bethlehem ruler (Matt 2:5–6; Luke 2:15; John 7:40–42); household enemies (Matt 10:35–36 // Mic 7:6); mercy/covenant language resonating with 7:20 (Luke 1:72–73).
+- **Masoretic scribal reception:** Midpoint mark at 3:12 encodes reading the Twelve as one scroll.
 
-The most striking intertextual relationship in the Hebrew Bible: the same passage appears virtually verbatim in both Isaiah 2:2-4 and Micah 4:1-4.
+## Scholarship and Historiography
 
-> "In the last days the mountain of the house of the LORD shall be established as the highest of the mountains, and shall be raised above the hills; and all the nations shall stream to it. Many peoples shall come and say, 'Come, let us go up to the mountain of the LORD, to the house of the God of Jacob, that he may teach us his ways and that we may walk in his paths.' For out of Zion shall go forth instruction, and the word of the LORD from Jerusalem. He shall judge between the nations, and shall arbitrate for many peoples; they shall beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war any more."
+Positions (not adjudicated):
 
-Both books preserve this identical text — the most expansively hopeful vision of universal peace in the OT. Neither book is the obvious "original" (scholars debate which came first); both canonical placements are significant. In Isaiah, it appears early (ch. 2) as the positive counterpoint to the opening judgment (ch. 1). In Micah, it appears immediately after Jerusalem's destruction (3:12) as the pivot from judgment to hope. The first and sixth books of the four prophetic scrolls (Isaiah and the Twelve) speak with the same voice at their most hopeful.
+1. **Traditional:** Micah of Moresheth prophesied under Jotham–Hezekiah; much of the book from him.
+2. **Classic critical (20th c. onward):** Eighth-century core largely limited to chs. 1–3; 4–7 secondary.
+3. **Nogalski (2024):** Three-phase model above; 6–7 before 4–5 in the growth sequence; Book of the Four and full Twelve shaping; scribal prophecy responsible for later layers; Mic 4–5 asks the reader to project from an eighth-century vantage even when units are postexilic.
+4. **Priority of Mic 4 // Isa 2:** Three classic options + postexilic dual-addition models; Nogalski: insoluble; read continuations.
+5. **5:2:** NT messianic prognostication vs. OT Davidic-restoration hope (Nogalski’s explicit distinction).
 
-## Key Passages
+Historical controls Nogalski emphasizes: four divergent accounts of 701 (2 Kgs 18–19; 2 Chr 32; Isa 36–37; Sennacherib’s annals); biblical telescoping of Sennacherib’s death vs. ~20 further years of rule; 587 collapse of Zion theology’s three pillars (Davidide, city, temple) and their adaptation rather than death.
 
-### Micah 3:12 — The Verdict
+## Key interpretive cruxes
 
-> "Therefore because of you, Zion shall be plowed as a field, Jerusalem shall become a heap of ruins, and the mountain of the house a wooded height."
+1. **How much is “Micah” vs. later scribes?** — Nogalski’s three phases; early core social critique vs. later theodicy and hope.
+2. **3:12 and the middle of the Twelve** — literary, Masoretic, and redactional significance of the judgment→hope hinge.
+3. **Mic 4:1–5 // Isa 2:2–4** — priority insoluble; function differs by continuation; Joel plowshares inversion.
+4. **5:2 Bethlehem** — dynastic continuity vs. preexistence; OT restoration vs. NT messianism.
+5. **6:8** — free-floating slogan vs. lawsuit indictment tied to Mic 2–3 and Hos 12:6; translation “modestly” vs. traditional “humbly.”
+6. **7:18–20 and the Twelve** — Exod 34:6–7 web; Jonah 2:3 sea-depths link; Lady Nineveh and the Jonah–Nahum frame.
+7. **2:12–13** — secondary hope or original? (Nogalski: secondary post-587.)
 
-The culmination of the social justice critique. Jerusalem's corruption — of its rulers, priests, prophets, and wealthy — brings the very city down. Quoted in Jer 26:18 as prophetic precedent.
+## Links
 
-### Micah 5:1-3 — The Bethlehem Ruler
+### Texts and concepts
+- [[book-of-the-twelve|Book of the Twelve]] · [[hosea|Hosea]] · [[amos|Amos]] · [[joel|Joel]] · [[jonah|Jonah]] · [[isaiah|Isaiah]] · [[jeremiah|Jeremiah]]
+- [[hesed|Ḥesed]] · [[day-of-the-lord|Day of the LORD]] · [[remnant|Remnant]] · [[covenant|Covenant]] · [[divine-human-marriage|Divine-Human Marriage Metaphor]]
+- [[david|David]] (Davidic hope in 5:2)
 
-> "But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days."
-
-In its OT context: a Davidic deliverer who will shepherd Israel through the current crisis and restore the exiled remnant (5:3). The reference to the ruler's "ancient days" (*qedem*) emphasizes dynastic continuity from David, not supernatural pre-existence.
-
-NT application: Matthew 2:5-6 (magi addressing Herod), Luke 2:15 (shepherds), John 7:40-42 (crowd discussion about Jesus) — all reference this verse in their respective accounts of the Messiah's origin. Each applies it typologically to Jesus as the fulfillment of Davidic messianic expectation.
-
-### Micah 6:8 — The Ethical Mandate
-
-> "He has told you, O mortal, what is good; and what does the LORD require of you but to do justice (*mišpāṭ*), and to love kindness (*ḥesed*), and to walk humbly with your God?"
-
-The OT's most compact ethical mandate. Three requirements:
-1. **Do justice (*mišpāṭ*)**: Execute right and equitable social order; protect the vulnerable; resist systemic abuse
-2. **Love kindness (*ḥesed*)**: The covenantal loyalty-love that binds relationships; not just performing acts but *loving* (internalizing) the quality itself
-3. **Walk humbly with your God**: The foundational disposition from which justice and kindness flow — humble dependence on YHWH rather than self-sufficient arrogance
-
-Rabbinic tradition (b. Makkot 23b-24a) memorably notes that while Moses gave 613 commandments and David reduced them to 11 (Ps 15), Isaiah to 6 (Isa 33:15-16), and Isaiah again to 2 (Isa 56:1), Micah reduced them to one: "Do justice and love kindness and walk humbly" — or even more compressed, to *seek* (*drš*): "Amos reduced the fundamental requirements to one: 'Seek (*drš*) me and live'" (Amos 5:4).
-
-### Micah 7:18-20 — The Doxology
-
-> "Who is a God like you, pardoning iniquity and passing over transgression for the remnant of his inheritance? He does not retain his anger forever, because he delights in steadfast love (*ḥesed*). He will again have compassion on us; he will tread our iniquities under foot. You will cast all our sins into the depths of the sea. You will show faithfulness to Jacob and steadfast love to Abraham, as you have sworn to our fathers from the days of old."
-
-The name *Micah* means "who is like Yahweh?" (*mî kāyhwh*) — the book ends with the question the name poses, answered by this doxology. Yahweh's forgiveness is the defining act of his character; his anger is temporary, his *ḥesed* is eternal. This connects to the divine self-declaration of Exod 34:6-7 running through the Twelve (Joel 2:13; Jonah 4:2; Mic 7:18-20; Nah 1:3).
-
-## NT Connections
-
-- **Matt 2:5-6; Luke 2:15; John 7:40-42**: Micah 5:2 (Bethlehem ruler) applied to Jesus's birth/identity
-- **Matt 10:35-36**: "A man's enemies will be the members of his own household" — echoes Micah 7:6 ("son treats father with contempt, daughter rises against mother...")
-- **Luke 1:72-73** (Zechariah's Benedictus): "To show mercy (*ḥesed*) to our fathers, and to remember his holy covenant..." resonates with Micah 7:20
-
-## Connections to the Wiki
-
-- **[[amos|Amos]]**: Parallel social justice critique for Israel; the shared 8th-century context; Micah appears as Amos's Judean counterpart
-- **[[hosea|Hosea]]**: Micah 1 draws on Hosea's marriage metaphor for idolatry; *ḥesed* appears in both
-- **[[isaiah|Isaiah]]**: Isaiah 2:2-4 = Micah 4:1-4 verbatim — the canonical bridge between the first Latter Prophet and the Twelve
-- **[[book-of-the-twelve|Book of the Twelve]]**: Micah 3:12 is the exact middle; the hinge between judgment and hope
-- **[[divine-human-marriage|Divine-Human Marriage Metaphor]]**: Micah 1 uses harlotry language from Hosea for Jerusalem's idolatry
+### Figures, places, commentator, source
+- [[hezekiah|Hezekiah]] · [[sennacherib|Sennacherib]]
+- [[samaria|Samaria]] · [[jerusalem|Jerusalem]] · [[nineveh|Nineveh]]
+- [[james-nogalski|James D. Nogalski]]
+- [[nogalski-micah-nicot|Nogalski, *The Book of Micah* (NICOT 2024)]]
+- [[nogalski-joel-obadiah-jonah-nicot|Nogalski, Joel/Obadiah/Jonah (NICOT 2023)]]
 
 ## Sources Ingested
 
-1. [[james-nogalski|Nogalski, James D.]]. *The Book of Micah*. NICOT. Grand Rapids: Eerdmans, 2024.
+1. [[nogalski-micah-nicot|Nogalski, James D.]]. *The Book of Micah*. NICOT. Grand Rapids: Eerdmans, 2024. — Full body re-ingest 2026-07-18 (Introduction + Mic 1:1–7:20); prior 2026-06-05 batch page upgraded for Scope & Fidelity.

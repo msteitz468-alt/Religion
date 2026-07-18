@@ -6,7 +6,7 @@ tradition: Christianity (evangelical Protestant)
 affiliation: Wheaton College (Wheaton, IL); previously Seminario ESEPA / theological education in Latin America (Costa Rica)
 primary_texts_commented: Jude, 2 Peter, 1–2 Thessalonians
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [commentator, christianity, new-testament, evangelical, general-epistles, majority-world]
 ---
 
@@ -14,38 +14,31 @@ tags: [commentator, christianity, new-testament, evangelical, general-epistles, 
 
 Gene L. Green (Ph.D., University of Aberdeen) is an American evangelical New Testament scholar, for
 many years professor of New Testament at Wheaton College (Wheaton, IL). Before Wheaton he taught for
-years in **Latin America** (Costa Rica), and he is well known as an advocate for **Majority World /
+years in **Latin America** (Costa Rica; Seminario ESEPA), and he is well known as an advocate for **Majority World /
 global theology**, editing volumes that bring non-Western voices into biblical and theological
 scholarship. His major exegetical works are the Pillar commentary on *The Letters to the
-Thessalonians* (2002) and the BECNT *Jude and 2 Peter* (2008), the source for this ingest.
+Thessalonians* (2002) and the BECNT *Jude and 2 Peter* (2008), the latter the object of the 2026-07-18 fidelity re-ingest ([[green-jude-2peter-becnt|source page]]). Spanish-language commentaries (*1 Pedro y 2 Pedro*; *1 y 2 Tesalonicenses*) and coauthorship of *The New Testament in Antiquity* also appear in his profile (About the Author paratext).
 
 **Note on name:** Gene L. Green is *not* the same person as [[joel-green|Joel B. Green]] (the
 Wesleyan author of the NICNT Luke). The two are distinct scholars who happen to share a surname.
 
 ## Hermeneutical Method
 
-**Grammatical-historical with intensive cultural-contextual reconstruction.** Green's stated concern
-is to read Jude and 2 Peter "within their cultural and historical contexts" — the "web of Jewish and
-Hellenistic culture in which they are embedded." He reads the letters as a dialogue with both the
+**Grammatical-historical with intensive cultural-contextual reconstruction.** Green's Author’s Preface states the concern to read Jude and 2 Peter "within their cultural and historical contexts" — the "web of Jewish and Hellenistic culture in which they are embedded" (L175). He reads the letters as a dialogue with both the
 Jewish heritage (apocalyptic, midrash/pesher, the Enochic and Mosaic pseudepigrapha) and the wider
-Greco-Roman philosophical and social world (Epicurean theodicy, *vituperatio*, honor-shame dynamics,
-the conventions of *imitatio*, secretarial composition).
+Greco-Roman philosophical and social world (Epicurean-flavored theodicy, *vituperatio*, honor-shame,
+*imitatio*, secretarial composition).
 
-**Sociology of the early church.** Green repeatedly frames exegetical questions in terms of ancient
-social structures — especially **honor and authority**. His explanation of why 2 Peter would borrow
-from the lesser-known Jude (an apparent reversal of status) turns on Jude's honor as a member of the
-**family of Jesus**; his reading of the opponents' rhetoric attends to ancient conventions of
-vilification (*vituperatio*).
+**Sociology of the early church.** Green frames exegesis in terms of **honor and authority**. Why 2 Peter would borrow from the lesser-known Jude turns on Jude's honor as a member of the
+**family of Jesus** (*desposynoi*); opponent rhetoric is read through ancient *vituperatio*.
 
-**Evangelical-critical; willing to defend minority positions.** Like the BECNT series, Green engages
-critical scholarship seriously without treating its consensus as binding. He defends the **authentic
-apostolic authorship** of both Jude and 2 Peter — the latter being a distinctly minority position in
-the academy — by arguing that the standard arguments for pseudonymity are inconclusive.
+**Evangelical-critical; minority authenticity for 2 Peter.** BECNT series frame (Yarbrough/Stein L147–L155): informed evangelical thought, pastors as primary audience, tradition not sacrosanct. Green defends authentic authorship of both letters — 2 Peter a minority academic position — by arguing standard pseudonymity arguments are inconclusive.
 
-**Theology and history together.** He insists theology "can be and should be discussed together" with
-contextual-historical analysis, "not bifurcated into discrete domains."
+**Theology and history together.** “Theology and history can be and should be discussed together… not bifurcated into discrete domains” (L175–L177).
 
 ## Characteristic Positions (Jude and 2 Peter, BECNT 2008)
+
+*Loci from 2026-07-18 digests; all positions attributed to Green.*
 
 **1. Jude is authentic.** Written by **Jude, the brother of James and of Jesus** (one of the
 "brothers of the Lord"), likely with secretarial assistance (answering the "good Greek" objection).
@@ -113,8 +106,13 @@ reading of 3:10 ("the earth and the works in it will be **found**/laid bare" bef
 - Co-editor, *Global Theology* / Majority World theology series (e.g., with K. K. Yeo, S. T.
   Pardue)
 
+## Sources Ingested
+
+1. [[green-jude-2peter-becnt|Green, *Jude and 2 Peter* (BECNT, 2008)]] — full body re-extract 2026-07-18 (eight digests, ~528 grounded claims). Prior 2026-06-06 page built without source ledger.
+
 ## Key Links
 
+- [[green-jude-2peter-becnt|Green BECNT source page]]
 - [[jude|The Letter of Jude]] — primary text
 - [[2-peter|The Second Letter of Peter]] — primary text
 - [[jude-brother-of-jesus|Jude, the Brother of Jesus]] — figure page
@@ -122,4 +120,6 @@ reading of 3:10 ("the earth and the works in it will be **found**/laid bare" bef
 - [[jude-1-enoch-canon|Jude's Use of 1 Enoch and the Canon Question]]
 - [[2-peter-jude-relationship|The Relationship between 2 Peter and Jude]]
 - [[theosis-divine-nature|Theosis / Partakers of the Divine Nature]]
+- [[new-creation|New Creation]]
 - [[peter-apostle|Simon Peter]] — traditional author of 2 Peter
+- [[joel-green|Joel B. Green]] — distinct scholar (NICNT Luke)

@@ -11,7 +11,7 @@ canon_scope:
 language_original: Hebrew
 date_range: Probably 5th century BCE (Persian period); may combine sources of different dates
 sources_ingested: 1
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [text, old-testament, prophets, minor-prophets, twelve, obadiah, edom, kinship, day-of-yahweh, betrayal]
 ---
 
@@ -78,6 +78,22 @@ The NT does not cite Obadiah directly. However:
 
 **Hope through restoration**: Despite the judgment tone, the book ends with a vision of restored territory and Yahweh's kingdom — a glimpse of the repopulated land that the exiled community longed for.
 
+## The Vetitives (vv. 11–14) — Nogalski's Grammatical Argument
+
+A signature feature of [Nogalski]'s reading: verses 12–14 contain eight occurrences of the negative particle *ʾal* + imperfect verb, which are **vetitives** (negative commands, "do not…"), not past-tense indictments ("you should not have…"). He observes that vetitives occur over 550 times in the Hebrew Bible and "none of these use the vetitive to report or condemn events that have already occurred" — the forms "assume a perspective prior to the event," so the standard English renderings (e.g., NRSV) mistranslate the tense. He resolves the resulting puzzle (why warn Edom against acts that 587 BCE shows already happened?) through **canonical placement**: because Obadiah sits among the eighth-century prophets in the Twelve (after Amos, before Micah), it "should be read as an early prophet," and the vetitives are genuine future-oriented warnings that *also* function as accusations for a reader who knows the outcome — a *vaticinium ex eventu* with didactic and theological purpose. Malachi 1:2–5 then presupposes Edom's punishment has already begun. The three vetitive triads move Edom spatially and chronologically deeper into the crime: *seeing/rejoicing/boasting* (v. 12) → *entering the gate/looking/looting* (v. 13) → *cutting down fugitives/surrendering survivors* (v. 14). The wordplay *ʾêd* ("disaster") / *ʾĕdôm* ("Edom") runs through the passage.
+
+## Textual and Manuscript Tradition
+
+[Nogalski] describes "a very stable Hebrew text." LXX deviations, he argues, do not indicate a different Hebrew *Vorlage* but fall into three types, all presupposing the same consonants: different **vocalization** (v. 20 *haḥēl* — MT "rampart/fortress," LXX *archē* "beginning," both spellable from the same unpointed *ḥyl*); **smoothing** of hard Hebrew (v. 1, MT plural "We have heard" vs. the singular of the Jer 49:14 parallel, which the LXX harmonizes); and **interpretive translation** of a difficult text (v. 7, "they placed your bread as a trap" → LXX "they set an ambush," dropping "bread"). Notable philological loci: *Sepharad* (v. 20), which [Nogalski] identifies with **Sardis** in Asia Minor (not Spain), the place of Jerusalemite exile; and "**the mountain of Esau**" (vv. 8, 9, 19, 21), a phrase unique to Obadiah.
+
+## Hermeneutical Frameworks
+
+[Nogalski] reads Obadiah as an **Oracle against the Nations** that is nonetheless not "purely nationalistic," resting on two theological pillars: **kinship language** (Edom = Esau, Judah = Jacob; "brother," vv. 10, 12 — invoking both Genesis sibling rivalry and ancient treaty vocabulary, where parties call each other "brother") and an **eschatological day-of-Yahweh paradigm**. His overarching interpretive category is again **scribal prophecy**: Obadiah is "one of the … scribal prophets" whose book is an exegetical reworking of prior scripture, not a cult prophet's oracle. He stresses **poetic justice** (Edom's allies turn on Edom just as Edom turned on Judah, vv. 7, 15b — reformulating the *lex talionis* of Lev 24:19) and the **reinterpretation of the Zion tradition**: the three pre-587 pillars (Davidic throne, Yahweh's choice of Jerusalem, Yahweh's protection) "fell like a house of cards," and Obadiah retains Zion's centrality and Yahweh's protection while transforming the Davidic-king element into the exclusive kingship of Yahweh (v. 21, "the kingdom will belong to Yahweh"). [Nogalski] cautions modern readers against equating ancient Edom with any modern state or people; Edom is condemned "not … merely because it is a foreign country" but for "arrogance and betrayal."
+
+## Scholarship and Historiography
+
+[Nogalski] surveys the compositional debate as positions before stating his own. **Wellhausen** and **Barton** already divided the book into two source units (vv. 1–14+15b and 15a+16–21); **Fohrer** found six form-critical units; **Lescow** posited building blocks from four periods; **Sweeney** read three parts (1–7, 8–18, 19–21); **Jeremias** treated the whole book as an exegetical interpretation of Jer 49:7–16; **Bliese** proposed a six-poem chiasm, which [Nogalski] rejects. [Nogalski]'s own verdict: Obadiah "consists of two existing units, artfully woven together" by a scribal prophet — a model he prefers to "numerous redactional layers." On **date**, theories run from an early-sixth-century eyewitness (Raabe) to the early Hellenistic period (Wöhrle); [Nogalski] argues on five grounds (the Babylon–Edom betrayal language; reliance on Jeremiah; the vetitives as *vaticinium ex eventu*; the Mal 1:2–5 / Joel 2:32 relative-dating chain; the later eschatological horizon of vv. 16–21) that Obadiah "makes more sense as a fifth-century composition," its two parts "likely combined in the second half of the fifth century BCE, prior to the composition of the final form of Joel." The **Bartlett–Glazier-McDonald** debate over whether Edom actively participated in 587 is recorded; [Nogalski] sides with Glazier-McDonald against Bartlett's minimizing thesis.
+
 ## Connections to the Wiki
 
 - **[[amos|Amos]]**: Amos 9 is the structural mirror for Obadiah; Obad mirrors Amos 9's promise of possessing the remnant of Edom
@@ -87,4 +103,4 @@ The NT does not cite Obadiah directly. However:
 
 ## Sources Ingested
 
-1. [[james-nogalski|Nogalski, James D.]]. *The Books of Joel, Obadiah, and Jonah*. NICOT. Grand Rapids: Eerdmans, 2023.
+1. [[nogalski-joel-obadiah-jonah-nicot|Nogalski, James D. *The Books of Joel, Obadiah, and Jonah* (NICOT, 2023)]] — full Obadiah unit read (Introduction §§I–VIII + Text and Commentary on all 21 verses); fidelity re-ingest 2026-07-18.

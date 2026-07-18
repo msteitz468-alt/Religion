@@ -6,7 +6,7 @@ tradition: Christianity — Protestant Evangelical (post-conservative)
 affiliation: Northern Seminary (Lombard, IL); previously North Park Theological Seminary
 primary_texts_commented: [Colossians, James, The Sermon on the Mount, Kingdom of God theology, Luke]
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [commentator, christianity, new-testament, pauline, evangelical]
 ---
 
@@ -88,3 +88,7 @@ McKnight favors Ephesian rather than Roman origin for Colossians (~52–57 CE): 
 - [[frank-thielman|Frank Thielman]] — contrasting evangelical on authorship and household code
 - [[stoicheia|Stoicheia (Elemental Forces)]] — Col 2:8, 20; McKnight's reading
 - [[mysterion|The Mystery (*Mystērion*) in Paul]] — Col 1:26–27; McKnight's Christological focus
+
+## Sources Ingested
+
+- [[mcknight-colossians-nicnt|*The Letter to the Colossians*]] (NICNT, Eerdmans, 2018) — read in full (Introduction essays + verse-by-verse commentary on 1:1–4:18) in the 2026-07-18 fidelity re-ingest. This is the sole McKnight work ingested; all attributed positions on this page derive from it.

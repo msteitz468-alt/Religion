@@ -70,7 +70,7 @@ See [[esther-canonicity|Esther: Canonical Disputes and the Hidden God]].
 | Feature | Breneman (NAC, 1993) | Harrington (NICOT, 2022) |
 |---|---|---|
 | Ezra-Nehemiah method | Traditional evangelical exposition | Social-scientific (Douglas, Turner) + Second Temple comparative |
-| Intermarriage decrees | Defended as necessary for covenant survival | Explained sociologically; "drastic but understandable" |
+| Intermarriage decrees | Defended as necessary for covenant survival | Explained via priestly *maʿal*/holy seed; minority survival “understandable” (not full endorsement) |
 | Torah renewal | Protestant Reformation analogy | Midrashic method; synagogue embryo |
 | Esther | Full commentary | Not covered |
 | Critical engagement | Moderate; apologetic | Substantial; accepts some critical results |

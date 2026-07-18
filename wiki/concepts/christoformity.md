@@ -3,7 +3,7 @@ title: Christoformity
 domain: theology / ethics / formation
 traditions_using: [Christianity — Protestant Evangelical (post-conservative)]
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [concept, christianity, new-testament, pauline, formation, ethics]
 ---
 
@@ -60,3 +60,4 @@ Formation (Christoformity) belongs primarily in the second category: it is the s
 - [[new-creation|New Creation]] — the cosmic context for Christoformity
 - [[heis-kainos-anthropos|The One New Human Being (*Heis Kainos Anthrōpos*)]] — Christoformity as corporate ecclesiological reality
 - [[theology-of-the-cross|Theology of the Cross (Theologia Crucis)]] — the partially overlapping concept McKnight corrects
+- [[mcknight-colossians-nicnt|McKnight, *Colossians* (NICNT)]] — source page where the term is coined and developed

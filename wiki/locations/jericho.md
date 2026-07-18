@@ -11,8 +11,8 @@ associated_peoples: [
   "Israelites (Iron Age settlement; the Joshua conquest narrative)",
   "Hasmonean and Herodian builders (winter-palace Jericho at Tulul Abu el-Alayiq, the NT-era city)"
 ]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [location, jericho, tell-es-sultan, conquest, jordan-valley, neolithic, archaeology]
 ---
 
@@ -60,9 +60,23 @@ land by miracle rather than by Israelite might (the walls fall at a shout). It i
 precisely this theological weight that makes the archaeological silence so significant
 for the conquest debate.
 
+### Woudstra (NICOT Joshua) — brief
+
+Attributed to [[marten-woudstra|Woudstra]] ([[woudstra-joshua-nicot]]; digests A, C): ch. 6
+celebrates the outstanding instance of God’s “giving” the land; historical narrative **and**
+theological presentation, not a mere product of Israel’s faith. March is not magical
+circumambulation (command from the Lord; ark present). Most rigorous *ḥerem* “by way of
+example”; metals to the Lord’s treasury explain Achan (ch. 7); Rahab’s rescue is singular
+goodness under the ban. On archaeology: usually Tell eṣ-Ṣultan; identification questions
+remain; miracle does not rule out natural causes, but the story is silent and means to
+celebrate God’s act; archaeology has limited role (“does not answer all questions”).
+Conquest-date stalemate: Kenyon challenges Garstang; for Woudstra Jericho (and Ai) are
+“silent where eloquence wanted.” See [[herem|Ḥerem]], [[herem-canaanite-conquest]].
+
 ## Key Events and Controversies
 
 Rahab and the fall of the walls; the **conquest-historicity controversy** (Jericho/Ai
 unoccupied vs. the Joshua narrative); Elijah/Elisha; the NT Jericho-road stories.
 Related: [[hazor]], [[shechem]], [[jerusalem]], [[israelites]], [[canaanites]],
-[[joshua]], [[herem-canaanite-conquest]], [[rahab]].
+[[joshua]], [[herem-canaanite-conquest]], [[rahab]], [[marten-woudstra]],
+[[woudstra-joshua-nicot]], [[herem]], [[promised-land]].

@@ -9,67 +9,132 @@ canon_scope:
   disputed_by: []
   rejected_by: []
 language_original: Hebrew
-date_range: composition debated — traditional: Mosaic (c. 1400 BCE); critical: 7th century BCE (Josianic); scholarly consensus: multiple stages with Mosaic core
-sources_ingested: 4
+date_range: composition debated — traditional/Craigie: Mosaic era (13th c. BCE frame); critical: 7th century BCE (Josianic); Noth DH: exilic matrix
+sources_ingested: 5
 last_updated: 2026-07-18
 tags: [text, judaism, christianity, torah, pentateuch, kabbalah, mysticism]
 ---
 
-Deuteronomy is the fifth book of the Torah/Pentateuch, presented as Moses' farewell address to Israel on the plains of Moab before the conquest of Canaan. Its Hebrew title *Devarim* ("words") is the book's first distinctive word; the English name derives from the Greek *deuteronomion* (second law), reflecting the LXX's rendering of 17:18 and the book's character as a re-presentation of the Sinai covenant.
+Deuteronomy is the fifth book of the Torah/Pentateuch, presented as Moses' farewell addresses to Israel on the plains of Moab before the conquest of Canaan. Its Hebrew title *Devarim* / *ʾēlleh hadde ārîm* ("these are the words") is the book's opening; the English name derives from Greek *deuteronomion* ("second law"), reflecting the LXX’s reading of 17:18. [[peter-craigie|Craigie]] (NICOT 1976; fidelity re-ingest [[craigie-deuteronomy-nicot|2026-07-18]]) holds that the Greek title is misleading if taken to mean a second, distinct law: the book re-presents Sinai legislation in hortatory covenant form.
+
+## Textual Overview
+
+Self-description: a literary record of **spoken words** (Moses to “all Israel”) cast as a **covenant document** with ANE vassal-treaty antecedents. Occasion (Craigie): (1) succession—Joshua appointed before Moses’ death; (2) imminent conquest—renewal because victory depends on God and wholehearted commitment. Secondary horizon: Shechem renewal under Joshua (Josh 8:30–35; anticipated in 11:29–30; 27).
 
 ## Structure
 
-Deuteronomy displays the formal structure of a **[[suzerain-vassal-treaty|Hittite suzerain-vassal treaty]]**, an observation made by G. E. Mendenhall and M. G. Kline and used by conservative scholars as evidence of Mosaic-era composition:
+[[peter-craigie|Craigie]] maps the finished book onto classical **[[suzerain-vassal-treaty|suzerain-vassal treaty]]** form (Mendenhall/Kline/Kitchen line; Weinfeld pursues treaty form with opposite dating):
 
-1. **Preamble** (1:1–5): Identification of the sovereign (YHWH through Moses)
-2. **Historical Prologue** (1:6–3:29): Recounting God's past acts toward Israel
-3. **General Stipulations** (4:1–11:32): The Decalogue, the [[shema|Shema]] (6:4), the love commandment
-4. **Specific Stipulations** (12:1–26:19): The Deuteronomic law code
-5. **Blessings and Curses** (27:1–28:68): Consequences of covenant loyalty or betrayal
-6. **Succession Arrangement** (29:1–34:12): Covenant renewal, Moses' death, Joshua's commissioning
+1. **Preamble** (1:1–5): “These are the words which Moses addressed…”
+2. **Historical Prologue** (1:6–4:49): Horeb to Beth-peor; instructional expansion of the past
+3. **General Stipulations** (chs. 5–11): Decalog; [[shema|Shema]] and love; allegiance paraenesis
+4. **Specific Stipulations** (chs. 12–26): sanctuary, kingship, prophecy, war, family, social law; conclusion 26:16–19
+5. **Blessings and Curses** (chs. 27–28; broader 27–30 with exhortation)
+6. **Witnesses / continuity** (30:19; 31; Song 32; deposition; Joshua; 33–34 may be integral)
 
-[[peter-craigie|Peter C. Craigie]] (NICOT) provides a detailed analysis of the treaty form, noting parallels to 2nd-millennium Hittite treaties (historical prologue, stipulations, blessings/curses, succession) rather than 1st-millennium Assyrian ones. He sees the structure as evidence for an early date, with the book functioning as a covenant renewal document on the plains of Moab. The historical prologue (chs. 1–3) recaps the wilderness journey from Horeb to Moab, emphasizing God's faithfulness despite Israel's failures. The central law code (chs. 12–26) is framed as application of the Decalogue to the new situation in the land. Blessings and curses (ch. 28) are extensive and mirror the covenant's conditional nature. The book closes with Moses' song, blessing, and death, transitioning leadership to Joshua. Craigie stresses that the treaty form is not merely literary but theological: Israel is in a vassal relationship with YHWH as suzerain, with love ('ahavah) as the relational bond rather than mere legalism.
-
-A second source, Bill T. Arnold's commentary on Deuteronomy (raw file noted), reinforces the treaty structure and adds emphasis on the book's rhetorical and homiletical character as Moses' final addresses, with detailed treatment of the law code's ethical and social vision (e.g., care for the vulnerable, limits on kingship, central sanctuary). Arnold engages modern critical debates on dating while defending the book's theological unity and its role in shaping Israel's identity as a covenant people.
+Treaty form is theological as well as literary: liberation from Egyptian vassaldom transposed into exclusive vassaldom under YHWH; love (*ʾahavah*) is the relational bond.
 
 ## Major Themes
 
-**Covenant as relationship of love**: Craigie emphasizes that the law of Deuteronomy is embedded in a relationship of love (*ʾahavah*) — God loves Israel (7:8) and Israel is commanded to love God (6:5). Law expresses the covenant's relational character, not a system of merit.
+**Covenant as relationship of love** (Craigie Intro VIII; 6:4–5): God moves first in love; Israel must respond in love. Law expresses and maintains the relationship—not a system for *acquiring* it.
 
-**Exclusive allegiance (monolatry)**: Deuteronomy's central demand is total loyalty to YHWH alone, expressed paradigmatically in the [[shema|Shema]] (6:4). The prohibition of other gods is not abstract monotheism but covenantal fidelity.
+**Exclusive allegiance**: Total loyalty to YHWH alone, paradigmatically in the [[shema|Shema]] (6:4). Craigie reads *ʾeḥad* as practical uniqueness and theological unicity (not head of a pantheon).
 
-**Memory and re-presentation**: Deuteronomy constantly invokes the Exodus as the foundation for present obedience. The phrase "this day" (*hayyôm hazzeh*) recurs as a device connecting past covenant acts to present responsibility.
+**Memory and “this day”**: Exodus/Sinai background and recurring *hayyôm* bind past acts to present decision (esp. chs. 5, 26, 29–30).
 
-**The warrior God and holy war**: Chapters 7 and 20 develop the theology of *herem* (devoted destruction), grounding Israel's conquest in divine command. This is among the most ethically contested aspects of Deuteronomy in modern scholarship.
+**Warrior God and *ḥerem***: Chs. 7 and 20—devoted destruction and war policy as protection of covenant exclusivity and judgment on abominable cult (incl. child sacrifice). Ethically contested; see [[herem]] · [[herem-canaanite-conquest]].
 
-**Land as gift and responsibility**: The land of Canaan is YHWH's gift, not Israel's achievement. Its retention depends on covenant faithfulness; the blessings and curses of chs. 27–28 are structured accordingly.
+**Land as gift and responsibility**: Land is YHWH’s gift; retention contingent on faithfulness; blessings/curses (27–28) and life/death choice (30:15–20) structure that contingency.
+
+**Prophetic continuity**: Torah deposited as witness; Joshua succeeds; “prophet like Moses” (18:15–18; 34:10–12).
+
+## Arnold NICOT chs. 1–11 (2026-07-18)
+
+Source page: [[arnold-deuteronomy-1-11-nicot]] · commentator: [[bill-arnold]]. Volume stops at **11:32** (paraenesis end); denser literary-rhetorical and text-critical apparatus than Craigie.
+
+| Locus | Arnold’s move (attributed) |
+|---|---|
+| Intro | *Urdeuteronomium* from Book of the Covenant; northern refugees → Hezekiah–Josiah path; Mosaic authorization + scribal *traditio* |
+| Intro | Rejects Noth’s isolation of Deut 1–3 as only DtrH intro; 1–4 *relecture* toward Torah at 4:44–49 |
+| Intro | Treaties background (Neo-Hittite/EST); covenant transforms political form into bilateral relationship |
+| 1:1–5 | “These are the words”; Moses as law teacher; Transjordan/Beth-peor |
+| 1–3 | Rebellion vs obedience prototypes; Sihon/Og; first *ḥerem*; Moses’ refused entry |
+| 4 | Sermonic paraenesis; Horeb “only a voice”; idolatry narrow+broad; exile threat; YHWH’s incomparability |
+| 4:44–11 | Torah as Mosaic Moab speech; paraenesis (5–11) vs later instructions (12–26) |
+| 5 | Decalogue as fundamental code; name as “divine identity theft”; love–fear |
+| 6:4–9 | Shema *ʾeḥad* = unified/stable self vs ANE fluidity; whole-person love; pedagogy |
+| 7 | Seven nations / *ḥerem*; election by love not merit |
+| 8 | Desert testing; manna; pride “my power” |
+| 9–10 | Not for righteousness; calf; intercession; circumcise heart; love orphan/widow/stranger |
+| 11 | New generation; rain/Baal polemic; blessing/curse; Gerizim–Ebal → frame to 12:1 |
+
+**Craigie vs Arnold (not adjudicated):** Craigie leans harder on second-millennium Hittite form for early dating; Arnold favors multi-stage formation and first-millennium treaty transmission while still speaking of Mosaic voice. Both treat love-covenant and treaty-shaped structure as load-bearing.
+
+## Craigie NICOT — fidelity anchors (2026-07-18)
+
+Source page: [[craigie-deuteronomy-nicot]]. Selected attributed moves with digest IDs:
+
+| Locus | Craigie’s move | Digest |
+|---|---|---|
+| Whole book | Treaty map; Moab covenant-renewal unity | C-A-14–15 |
+| Date | Second-millennium form supports Mosaic era; **does not prove** it | C-A-21–22 |
+| Josiah | Rediscovery / *terminus ad quem*; centralization not purpose; Shechem problem | C-A-45 |
+| 1:1–5 | Preamble “these are the words”; hortatory speech → covenant document | C-B-01–08 |
+| 4 | Unique YHWH; monotheizing paraenesis | C-B-48, 53–54 |
+| 6:4–5 | Shema *ʾeḥad*; love with heart/soul/strength as book-center | C-C-22–25 |
+| 7 | *Ḥerem*; no *berît* with Canaanites; *segullāh* | C-C-29–33 |
+| 8 | Wilderness testing; man lives by every utterance of the Lord | C-C-35 |
+| 10:16 | Circumcise the heart (human act) vs 30:6 (God’s act) | C-C-48; C-F-39 |
+| 12 | Place YHWH chooses; anti-Canaanite cult close | C-D-04–10 |
+| 17 | Law of the king; Torah copy | C-D-41–44 |
+| 18:15–18 | Prophetic succession primary; Acts christology secondary | C-D-47–51 |
+| 20 | War exemptions; near vs distant *ḥerem* | C-E-11–16 |
+| 21:23 / Gal 3 | Hanged man curse; NT application | C-E-22; C-A-40 |
+| 26:5–9 | Firstfruits creed (“Aramean father”) | C-E-52–53 |
+| 27–28 | Ebal/Gerizim; curses; VTE direct-borrowing rejected | C-F-07–19 |
+| 28–30 | Exile as contingent warning, not inevitable prophecy | C-F-43 |
+| 30:11–20 | Commandment not too hard; life/good vs death/evil; heaven & earth witnesses | C-F-40–41 |
+| 31–32 | Torah & Song as witnesses; Joshua appointment | C-G-04–14 |
+| 34:5–12 | Unknown grave; no prophet like Moses; Christian pointer to Christ (Heb 3) | C-G-35–38 |
 
 ## Key Interpretive Cruxes
 
-**The Shema (6:4)**: "Hear, O Israel: YHWH is our God, YHWH alone (or: YHWH is one)." The Hebrew *ʾeḥad* is debated: does it assert divine unity (monotheism), divine uniqueness (only YHWH, no others), or exclusive covenantal loyalty (Israel's God and no other's)? See [[shema|Shema]].
+**The Shema (6:4)**: *ʾeḥad* — unity, uniqueness, or exclusive loyalty? Craigie: uniqueness + unicity in covenant frame. See [[shema|Shema]].
 
-**The Deuteronomic law code (chs. 12–26) and its relationship to the Covenant Code (Exod 20–23)**: Deuteronomy substantially overlaps with and expands the Covenant Code. Source critics treat Deuteronomy as a later revision of an earlier collection; traditional scholarship sees it as Moses reapplying the Sinai law to the conquest generation. The direction of dependence (D dependent on CC, or CC on D, or shared tradition) remains contested.
+**Law code (12–26) vs Covenant Code (Exod 20–23)**: Overlap and expansion; dependence direction contested (critical revision vs Mosaic reapplication). Craigie: legal content compatible with Mosaic-age ANE parallels (Additional Note).
 
-**The "prophet like Moses" (18:15–18)**: Moses predicts that God will raise up "a prophet like me from among your own brothers." In Acts 3:22–23, Peter applies this to Jesus. Craigie adopts the christological reading explicitly. Jewish interpretation typically reads this as a series of prophets, not a single messianic figure. See the controversy entry for this passage.
+**Prophet like Moses (18:15–18)**: Series of prophets vs single figure; NT christological application (Acts 3). Craigie holds both levels carefully.
 
-**Authorship and the Josianic reform**: The critical consensus since Wellhausen associates Deuteronomy with the "book of the law" found in the Temple under Josiah (2 Kgs 22–23, c. 621 BCE), treating the book as a 7th-century composition that motivated the reform. Conservative scholars (Craigie, Kline, Kitchen) argue this was a rediscovery of a genuinely ancient document. See [[deuteronomy-authorship|Deuteronomy: Authorship and Date]].
+**Authorship / Josianic reform**: Critical consensus ~620 BCE composition; Craigie/Kline/Kitchen rediscovery of ancient document. See [[deuteronomy-authorship]].
 
-**The curses (ch. 28) and Israel's history**: The catalogue of curses in ch. 28 maps strikingly onto the Assyrian exile (722 BCE) and Babylonian exile (586 BCE). Critics read this as *vaticinium ex eventu* (prophecy after the fact). Conservative readers treat the curses as genuine prophecy.
+**Curses (ch. 28) and exile**: *Vaticinium ex eventu* (critical) vs contingent prophetic warning (Craigie).
 
 ## Hermeneutical Frameworks
 
-Deuteronomy is the primary locus of the **D source** in the [[documentary-hypothesis|Documentary Hypothesis]], dated c. 620 BCE. It is also identified as the theological matrix of the Deuteronomistic History (Joshua–Kings), a view originating with Martin Noth.
+- **D source / [[documentary-hypothesis|Documentary Hypothesis]]** (~620 BCE in classical form)
+- **[[deuteronomistic-history|Deuteronomistic History]]** (Noth): Deuteronomy as theological matrix of Joshua–Kings
+- **[[suzerain-vassal-treaty|Suzerain-vassal treaty]]** form: structural description + dating argument (Craigie/Kline vs Weinfeld)
+- **Jewish**: PaRDeS; legal midrash; Shema liturgy
+- **Christian**: Quadriga historically; modern evangelical grammatico-historical + christological reception (Craigie)
+- **Kabbalistic / Zoharic**: Sod/theurgy (Matt Pritzker IX–X below)
 
-The **suzerain-vassal treaty** framework, when applied to Deuteronomy, functions as both a structural description and a dating argument. The presence of a historical prologue (absent in 1st-millennium Assyrian treaty forms but present in 2nd-millennium Hittite treaties) is the key evidence for Craigie and Kline. Weinfeld's counterargument — that the Esarhaddon loyalty oaths (7th century BCE) show sufficient parallels — has not displaced the conservative position entirely.
+## Textual and Manuscript Tradition
+
+Hebrew title from incipit; LXX title from 17:18. Craigie notes Qumran evidence for Deuteronomy (Appendix III heading; concordance table missing in this conversion) and argues that classical orthography of the prose does not refute early substance (living-tradition updating; archaic features in chs. 32–33).
+
+## Scholarship and Historiography
+
+Positions (not adjudicated): traditional Mosaic; Wellhausen Josianic D; moderate critical nucleus + growth; Noth exilic DH; Craigie essentially Mosaic with transmission updating. Treaty debate: Kline/Kitchen second millennium vs Weinfeld Assyrian VTE. See [[deuteronomy-authorship]] · [[documentary-hypothesis]].
 
 ## NT Use
 
-Deuteronomy is the most quoted OT book in the NT. Jesus quotes the Shema (Mark 12:29), the love commandments (Matt 22:37; Deut 6:5), and the three wilderness-temptation responses all come from Deuteronomy (Matt 4:4, 7, 10; Deut 8:3; 6:16; 6:13). Paul uses Deuteronomy extensively in Galatians and Romans to address law and curse.
+Deuteronomy is heavily quoted in the NT. Jesus: Shema (Mark 12:29–30); wilderness temptations (Matt 4 // Deut 8:3; 6:16; 6:13). Paul: curse of the law (Gal 3:10–13 // Deut 27:26; 21:23). Craigie explicitly develops christological reception at 18:15–18 and 34:10–12.
 
 ## Key Commentators
 
-- [[peter-craigie|Peter C. Craigie]] — *Deuteronomy* (NICOT, 1976): conservative evangelical; suzerain-vastel dating argument
-- Moshe Weinfeld — *Deuteronomy and the Deuteronomic School* (1972): critical; Assyrian treaty parallels
+- [[peter-craigie|Peter C. Craigie]] — *Deuteronomy* (NICOT, 1976): evangelical; treaty-form dating; love-covenant theology — [[craigie-deuteronomy-nicot]]
+- [[bill-arnold|Bill T. Arnold]] — *Deuteronomy 1–11* (NICOT, 2022): literary-rhetorical; multi-stage composition; Shema/pedagogy/*ḥerem* — [[arnold-deuteronomy-1-11-nicot]]
+- Moshe Weinfeld — *Deuteronomy and the Deuteronomic School* (1972): critical; Assyrian treaty parallels (engaged via Craigie/Arnold, not ingested as primary source)
 
 ## Kabbalistic / Zoharic Reading of Deuteronomy (Daniel C. Matt, Pritzker Edition Volume IX)
 
@@ -109,12 +174,7 @@ Concept pages developed from this text:
 
 ## Sources Ingested
 
-1. [[peter-craigie|Craigie, Peter C.]]. *The Book of Deuteronomy*. NICOT. Grand Rapids: Eerdmans, 1976.
-2. Bill T. Arnold — *Deuteronomy* (raw source; evangelical commentary contributing to treaty analysis, ethical vision, and rhetorical structure).
-
-Craigie's NICOT commentary is a conservative evangelical work that defends an early (Mosaic) date for the core of Deuteronomy based on its treaty structure, while engaging critically with source theories. His key contributions include the detailed suzerain-vassal treaty analysis (drawing on Hittite parallels for the historical prologue and blessings/curses), emphasis on the book's unity as a covenant renewal document, and theological focus on love as the heart of the law (the Shema as the "great commandment"). He treats the historical prologue (chs. 1–3) as a genuine recital of God's acts, the law code as practical application of the covenant to life in the land, and the blessings/curses as realistic warnings tied to Israel's history. Craigie also discusses the "prophet like Moses" (18:15–18) christologically and connects the book to the broader Deuteronomic theology of the land as gift and responsibility. This shapes the wiki's understanding of Deuteronomy as the theological center of the Pentateuch, bridging law and narrative, with strong attention to ANE context and covenantal love.
-
-Arnold's commentary reinforces the treaty framework and adds emphasis on the book's homiletical character as Moses' final addresses, with detailed treatment of the law code's ethical and social vision (e.g., care for the vulnerable, limits on kingship, central sanctuary). He engages modern critical debates on dating while defending the book's theological unity and its role in shaping Israel's identity as a covenant people. Sources now reflect both for comprehensive narrative enhancement.
-
+1. [[peter-craigie|Craigie, Peter C.]]. *The Book of Deuteronomy*. NICOT. Grand Rapids: Eerdmans, 1976. **Fidelity re-ingest 2026-07-18** — [[craigie-deuteronomy-nicot|source page]]; full body Preface + Intro + Apps + Deut 1:1–34:12; ~381 grounded claims.
+2. [[bill-arnold|Arnold, Bill T.]]. *The Book of Deuteronomy, Chapters 1–11*. NICOT. Grand Rapids: Eerdmans, 2022. **Ingested 2026-07-18** — [[arnold-deuteronomy-1-11-nicot|source page]]; Prefaces + Intro I–IX + commentary **1:1–11:32 only** (~428 grounded claims). Chs. 12–34 not in this volume.
 3. [[daniel-matt|Matt, Daniel C.]] (trans.). *The Zohar: Pritzker Edition, Volume IX*. Stanford University Press, 2016. **Standards reingest 2026-07-18** — [[matt-zohar-pritzker-vol9|source page]]; Va-Etḥannan Shema; Va-Yelekh song; Ha’azinu/*Idra Zuta*.
 4. [[nathan-wolski|Wolski, Nathan]] (trans. and annot.). *The Zohar: Pritzker Edition, Volume Ten: Midrash ha-Ne’lam*. Stanford University Press, 2016. **Standards reingest 2026-07-18** — [[wolski-zohar-pritzker-vol10|source page]]; Ki Tetse reincarnation/levirate; Addenda (Shema cools Hell; path of life; Nephilim).

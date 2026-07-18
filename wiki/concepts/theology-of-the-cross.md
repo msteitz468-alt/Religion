@@ -3,7 +3,7 @@ title: Theology of the Cross (Theologia Crucis)
 domain: theology / soteriology / hermeneutics
 traditions_using: [Christianity — Lutheran; also Pauline scholarship broadly; Reformation tradition]
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [concept, christianity, new-testament, pauline, lutheran, soteriology, hermeneutics]
 ---
 
@@ -34,13 +34,17 @@ Key Pauline texts that articulate the *sub contrario* pattern:
 
 ## Seifrid's Reading of 2 Corinthians
 
-[[mark-seifrid|Mark Seifrid]] (PNTC, 2014) treats the *theologia crucis* as the organizing hermeneutical principle of 2 Corinthians as a whole. The dispute between Paul and the Corinthians is ultimately about the form God's saving work takes: the Corinthians expect visible power, impressive rhetoric, and charismatic presence; Paul offers weakness, suffering, and a pitiful *parousia*. His argument is not merely apologetic but theological — he is teaching the Corinthians what salvation actually looks like.
+[[mark-seifrid|Mark Seifrid]] (PNTC, 2014; fidelity re-ingest 2026-07-18, [[seifrid-2-corinthians-pntc]]) treats the *theologia crucis* as the organizing hermeneutical principle of 2 Corinthians as a whole. The dispute is about the form God's saving work takes: the Corinthians expect visible power, rhetoric, and charismatic presence; Paul offers weakness, suffering, and a pitiful *parousia*. Motto: *Verbum crucis, virtus Dei*.
 
-**The apostolic existence as the pattern of Christian existence**: "The apostle is Christian existence in large-screen display" (Seifrid). The Corinthians intuitively recognize this, which is precisely why they find Paul's weakness so troubling. To accept the weak apostle is to accept that their own lives will take the same form — through affliction toward comfort (1:3–7), through dying toward life (4:10–12).
+**Apostolic existence as Christian existence written large.** Seifrid’s wording (corrected from earlier “large-screen display” paraphrase): “the life and existence of an apostle is merely Christian existence written large” (also “believing existence written large” at 4:8–9). To accept the weak apostle is to accept that form of life — affliction → comfort (1:3–7); dying → life (4:10–12).
 
-**Salvation remains *outside* the believer**: One of Seifrid's characteristic Lutheran emphases: salvation is never a possession the believer controls or accumulates. It remains an abiding *communication* between the God who saves and the human being who receives. "Our salvation remains abidingly outside of us." This corresponds to Luther's *extra nos* — righteousness is always *alien* righteousness, received and not achieved. The Corinthians' error is to seek salvation as an *inner* possession (of ecstatic experience, wisdom, spiritual gifts) rather than as an ongoing gift received through the word.
+**Salvation *extra nos* / communicative.** Salvation is never a possession controlled or accumulated; it remains abiding communication between the God who saves and the human who receives. The Corinthians’ error is to seek salvation as an *inner* possession (ecstasy, gifts, competence) rather than ongoing gift through the word. Sufficiency is from God alone (3:5).
 
-**The hermeneutical dimension**: The *theologia crucis* has a hermeneutical corollary. The fundamental question of interpretation is whether the human being interprets Scripture, or whether Scripture interprets the human being. The veil of Moses (2 Cor 3) — which prevents "the sons of Israel" from seeing the glory of the Lord — is the permanent condition of human hearts turned in upon themselves. It is removed only "in Christ" through the word of the cross. "It is the question as to whether we are to master Scripture, or whether Scripture is to master us." The *theologia crucis* establishes the direction of interpretation: we are interpreted before we interpret.
+**Letter/Spirit grammar of *sub contrario*.** In Seifrid’s body intro to 3:1–18, saving work takes place under its opposite: life only through death, righteousness only through condemnation, glory only through dishonor. The Spirit makes alive only where the letter has put to death. Glory of 3:18 is revealed *sub contrario*; the mirror is the crucified Christ — “presently we see only through our ears.”
+
+**13:4 — crucified *ex astheneias*.** Against major English versions (“in weakness”), Seifrid reads “**out of** weakness”: weakness had become inherent to Christ; God’s power is present and operative only **within** weakness and overcomes it without removing it — true of the crucified-risen Christ and of the weak apostle (12:9).
+
+**Hermeneutical corollary.** The veil of Moses (2 Cor 3) is the condition of hearts turned in on themselves; removed only “in Christ.” The question is whether we master Scripture or Scripture masters us.
 
 ## The "Great Exchange" (*Mirifica Commutatio*)
 
@@ -78,9 +82,12 @@ Seifrid's response: the *sub contrario* pattern is explicit in Paul's language, 
 
 - [[2-corinthians|Second Letter to the Corinthians]] — primary NT locus
 - [[mark-seifrid|Mark A. Seifrid]] — primary source for this reading of 2 Corinthians
+- [[seifrid-2-corinthians-pntc|Seifrid, 2 Corinthians (PNTC)]] — coverage ledger / re-ingest 2026-07-18
 - [[1-corinthians|First Letter to the Corinthians]] — 1 Cor 1:18–25 as the foundational text
 - [[new-creation|New Creation]] — the positive eschatological outcome of the *theologia crucis*
-- [[justification|Justification]] — the *great exchange* (5:21) as the compressed heart of forensic justification
+- [[reconciliation|Reconciliation]] — 5:18–21 exchange and ambassadors
+- [[justification|Justification]] — the *great exchange* (5:21)
+- [[pauls-opponents-2-corinthians|Paul's Opponents in 2 Corinthians]] — practical *theologia gloriae*
 - [[divine-human-marriage|Divine-Human Marriage Metaphor]] — Luther's marriage analogy for the great exchange
-- [[servant-songs|Servant Songs (Isaiah 52–53)]] — the Suffering Servant as OT background to the *sub contrario* pattern
-- [[imago-dei|Imago Dei]] — the great exchange as restoration of the broken image through the crucified and risen Christ
+- [[servant-songs|Servant Songs (Isaiah 52–53)]] — Suffering Servant background
+- [[imago-dei|Imago Dei]] — exchange as restoration of the broken image

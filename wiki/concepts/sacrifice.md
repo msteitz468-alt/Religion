@@ -2,7 +2,7 @@
 title: Sacrifice
 domain: theology
 traditions_using: [Judaism, Christianity, Roman religion]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-18
 tags: [concept, theology, worship, christianity, judaism, kabbalah]
 ---
@@ -55,6 +55,28 @@ Attributed to [[james-bruckner|Bruckner]]; source page [[bruckner-exodus-ubcs|Br
 Commenting on the consecration sacrifices, Bruckner offers a four-fact account: God created shalom; sin shatters relationships ("People experienced this brokenness as anxiety and alienation"); restoration is costly ("Forgiving another, forgiving oneself, or seeking the forgiveness of another is costly. In sacrifice for sin, the lifeblood and the economic cost of the best animal... visibly and physically represented that cost"); and the animal fittingly represents that cost — "the people saw the alienation (the sin); absorbed the personal cost (sacrifice); and experienced the reality of the struggle for life against death (blood)." Sacrifice's gifts extend beyond atonement (protection, cleansing, fellowship meals, worship): "The elaborate sacrificial system was a means of conversing and living with a holy God." The daily *tamid* is "the foundation of the whole sacrificial system," yet "the lambs did not consecrate or hallow the place—God's own glory did that... God's grace both initiated the relationship and provided for its maintenance." Hand-laying means different things by offering type (transfer of sin; willing participation; dedication to service). He distinguishes Israel's practice from ANE feeding of gods ("The people did not feed God as in pagan sacrifices, rather God fed the people") and — in Christian register — draws the Hebrews trajectory ("In Christ, God became the perfect sacrifice") while noting that "the persistence of faithful Judaism beyond the destruction of two temples... makes clear the temporary nature of the sacrificial system, even for Israel."
 
 Cross-links: [[exodus|Exodus]] · [[aaron|Aaron]] · [[tabernacle|Tabernacle]] · [[passover|Passover]]
+
+## Wenham (NICOT Leviticus) — graded sacrificial models (fidelity re-ingest 2026-07-18)
+
+*Attributed to [[gordon-wenham|Wenham]]; source [[wenham-leviticus-nicot]].*
+
+Wenham refuses a single generic “sin sacrifice.” Leviticus assigns **distinct relational aims** to different offerings, all under the grammar that sacrifice responds to God’s call, requires correct priestly performance, and still depends on **God’s grant** of forgiveness:
+
+| Offering | Hebrew | Distinctive aim (Wenham) | Key rite notes |
+|---|---|---|---|
+| Burnt | *ʿōlâ* | General atonement / propitiation; *kipper* as **ransom**; makes fellowship with a holy God possible | Whole animal burned; hand pressed on head; blood splashed on altar sides |
+| Cereal | *minḥah* | Covenant **tribute**/dedication after atonement | Memorial handful + incense; remainder most-holy priest food; **salt of the covenant** |
+| Peace | *šĕlāmîm* | *Shalom* = salvation/well-being; joyful optional meal | Fat/kidneys to God; worshipper eats remainder |
+| Purification | *ḥaṭṭāʾt* | **Sanctuary cleansing** from pollution of sin—not bare “sin offering” | Graded blood loci (veil/incense altar vs outer altar) by status of sinner |
+| Reparation | *ʾāšām* | Trespass (*maʿal*) against holy things or God’s name; **debt** + ram | Restitution +20%; Isa 53 uses *ʾāšām* for the servant |
+
+**Blood theology (Lev 17:11):** blood is life (*nepeš*); *kipper* ransoms at the price of life. Blood regularly cleanses and sanctifies (ordination, “leper” reaggregation, Day of Atonement climax).
+
+**Deliberate vs inadvertent:** unintentional sin—remorse + sacrifice may suffice; “high-handed” sin requires reparation and public confession as prerequisites (cf. Num 15:27–30).
+
+**ANE contrast:** biblical sacrifices are not feeding the deity; order and obedience matter more than volume (Wenham on priestly instructions, chs. 6–7).
+
+Cross-links: [[leviticus]] · [[atonement]] · [[purity]] · [[holiness]] · [[aaron]] · [[azazel-identity]]
 
 ## Zoharic / Kabbalistic Reading (Pritzker Vol. VII)
 

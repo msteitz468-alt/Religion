@@ -8,7 +8,7 @@ positions:
   - Universal resurrection of all humanity, saved and unsaved (majority Christian tradition; debated in scope)
 traditions_involved: [Christianity]
 resolution_status: open on nature of the resurrection body; historically resolved on fact of resurrection (ecumenical consensus)
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, pauline, eschatology, resurrection]
 ---
 
@@ -36,7 +36,9 @@ The nature of the Corinthian position being addressed is itself debated. Possibl
 
 **3. Christ as firstfruits (15:20–28)**: Christ's resurrection is the "firstfruits" (*aparchē*) of the resurrection harvest — guaranteeing and inaugurating the resurrection of all who belong to him. The death-resurrection sequence follows an Adamic typology: as death came through Adam, resurrection comes through Christ (15:21–22). The end-state is that "when all things are subjected to him, then the Son himself will also be subjected to him who put all things in subjection under him, that God may be all in all" (15:28). The resurrection climaxes in divine glory.
 
-**4. Practical arguments (15:29–34)**: The practice of "baptism for the dead" (15:29 — notoriously obscure) is cited as implicit evidence that even the Corinthians act as if resurrection matters. Paul's own willingness to die daily (15:31) and face beasts at Ephesus makes no sense if there is no resurrection.
+**4. Practical arguments (15:29–34)**: The practice of "baptism for the dead" (15:29 — notoriously obscure; forty-plus interpretations) is cited as implicit evidence that even the Corinthians act as if resurrection matters. Paul's own willingness to die daily (15:31) and face beasts at Ephesus makes no sense if there is no resurrection.
+
+**Ciampa & Rosner on baptism for the dead (attributed, PNTC 2010 re-read):** They **reject vicarious proxy baptism** (living baptized *in place of* the unbaptized dead). Preferred sense: people are baptized **on account of** the righteous dead — motivated by the hope of joining them in glorious resurrection; the rite in view is ordinary conversion baptism as an act of faith. The argumentative force does not require reconstructing every sociological detail of the practice.
 
 **5. The seed analogy (15:35–49)**: In response to "with what kind of body do they come?" Paul uses the analogy of a seed: the seed sown in the ground is not the body that emerges (15:37), yet there is continuity between what is sown and what grows. The resurrection body is:
 - Imperishable (vs. perishable)
@@ -57,7 +59,8 @@ The resurrection body is a physical body — the *same* body that died, now tran
 - Paul says "this perishable body *must* put on imperishability, and this mortal body *must* put on immortality" (15:53) — *this* (same) body.
 - The seed analogy asserts both discontinuity (the seed is not the plant) and continuity (each seed gives rise to its own body; 15:38). The resurrection body is not a wholly different entity but a transformation of what died.
 - *Sōma pneumatikon* ("spiritual body") does not mean "non-material spirit" but a body animated and glorified by the Spirit — contrasted with *sōma psychikon* ("natural body"), a body animated by the *psychē* (soul/natural life). Both have *sōma* (body); the difference is the animating principle.
-- The resurrection of Christ is the prototype: Christ was raised bodily (the tomb was empty), yet his resurrection body could pass through locked doors (John 20:19) and was not always immediately recognized (Luke 24:13–35) — suggesting transformation, not mere resuscitation.
+- **Ciampa & Rosner densification (PNTC 2010):** modern material/immaterial readings of "natural/spiritual" are anachronistic. The adjectives describe **what animates**, not composition — N. T. Wright's analogy (as they deploy it): not "ship of steel vs wood" but "driven by steam vs wind." *Psychikos* ties to Gen 2:7 "living being"; *pneumatikon* is the result of the Spirit's work and a vessel fit for Spirit-life. Continuity with difference ("identity with difference," Murray Harris); model = Christ's risen body known from Scripture and encounter. Four antitheses (perishable/imperishable, dishonor/glory, weakness/power, natural/spiritual) all reflect knowledge of Christ's resurrection body.
+- The resurrection of Christ is the prototype: continuity and transformation, not mere resuscitation.
 
 ### Spiritual / Non-Material Resurrection
 
@@ -93,11 +96,16 @@ matrix, resurrection and membership in the covenant people were inseparable, so 
 to Gentiles-in-Christ was precisely what required argument. See
 [[resurrection-of-the-dead|Resurrection of the Dead]].
 
+## Philippians 3:20–21 (Hansen PNTC, 2026-07-18)
+
+Attributed to [[g-walter-hansen|Hansen]] ([[hansen-philippians-pntc]]). Complements the 1 Cor 15 dossier: the Savior from heaven will **transform** the body of humiliation to be like his glorious body by the power that subjects all things. Hansen insists on **somatic continuity** (body changed, not discarded; redemption *of* creation, not from it; seed–plant “identity with a difference” via 1 Cor 15). He refuses Gnostic contempt for the body. He records the **tension** with Phil 1:23 (“depart and be with Christ”) without adopting soul-sleep, pure intermediate disembodied soul (which he says radically conflicts with somatic continuity), instantaneous resurrection at death, or intermediate body as settled doctrine — an “unsolved mystery” that does not diminish either hope. Links the body of humiliation to the [[christ-hymn|Christ hymn]]’s self-humbling and to imperial power over bodies (Caesar’s chains vs Christ’s subjection of all things). See [[citizenship]].
+
 ## Key Links
 
-- [[1-corinthians|The First Letter to the Corinthians]]
+- [[1-corinthians|The First Letter to the Corinthians]] · [[philippians|Philippians]] · [[citizenship]]
 - [[resurrection-of-the-dead|Resurrection of the Dead]]; [[jon-d-levenson|Jon D. Levenson]]; [[sheol|Sheol]]
-- [[roy-ciampa-brian-rosner|Roy E. Ciampa and Brian S. Rosner]] — primary source
+- [[roy-ciampa-brian-rosner|Roy E. Ciampa and Brian S. Rosner]] — primary source (1 Cor 15)
+- [[g-walter-hansen|G. Walter Hansen]] · [[hansen-philippians-pntc]] — Phil 3:20–21 densification
 - [[eschatological-temple|Eschatological Temple]] — the body as God's dwelling; resurrection vindicates bodily significance
 - [[divine-glory-kabod|Divine Glory (*Kābôd*)]] — resurrection as the consummation of divine glory (15:28, 43)
 - [[new-covenant|New Covenant]] — the Spirit as first-fruits of the eschatological age; resurrection as the final installment

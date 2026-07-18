@@ -4,7 +4,7 @@ text_locus: James 1:1 ("James, a servant of God and of the Lord Jesus Christ")
 positions: [James-of-Jerusalem-early-date (Moo), pseudepigraphal-late, amanuensis, redacted-homilies (Davids), other-James]
 traditions_involved: [traditional/confessional evangelical, modern historical-critical]
 resolution_status: open
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, authorship, pseudepigraphy, dating]
 ---
 
@@ -14,9 +14,9 @@ Who wrote the [[james|Letter of James]], and when? For seventeen centuries the c
 universally attributed it to [[james-the-just|James the Lord's brother]], leader of the Jerusalem
 church (d. AD 62). Over the last two centuries the **pseudepigraphal hypothesis** — that an unknown
 later Christian wrote in James's name — has become the dominant critical position.
-[[douglas-moo|Moo]] (PNTC, 2000) defends the traditional view and argues for a strikingly **early
-date (the middle 40s)**, possibly making James the earliest NT document. This page records the
-debate.
+[[douglas-moo|Moo]] (PNTC, 2000; [[moo-james-pntc|source page]], fidelity re-ingest 2026-07-18)
+defends the traditional view and argues for a strikingly **early date (the middle 40s)**, possibly
+making James the earliest NT document. This page records the debate.
 
 Moo notes the stakes are not merely antiquarian: 1:1 makes an authorship *claim*, so the
 truthfulness of the letter and its place in the canon are implicated — *if* one concludes it is a

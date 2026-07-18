@@ -9,95 +9,138 @@ canon_scope:
   disputed_by: []
   rejected_by: []
 language_original: Hebrew
-date_range: composition debated — traditional: Mosaic (c. 1400 BCE); critical: Priestly (P) source, c. 550–450 BCE; mediating: preexilic but post-Mosaic
+date_range: composition debated — traditional Mosaic (c. 1400 BCE); critical Priestly (P) postexilic c. 550–450 BCE; mediating preexilic but post-Mosaic (Kaufmann stream)
 sources_ingested: 3
 last_updated: 2026-07-18
 tags: [text, judaism, christianity, torah, pentateuch, kabbalah, mysticism]
 ---
 
-Leviticus is the third book of the Torah/Pentateuch. Its Hebrew title *Vayikra* ("and he called") reflects its first word; the English name derives from the Greek *Leuitikon* ("the Levitical book"), reflecting its dominant concern with the Levitical priesthood, sacrificial worship, and ritual purity. It is the least narratively active book of the Torah and the most densely legislative.
+# Leviticus
 
-## Structure
+Leviticus is the third book of the Torah/Pentateuch. Its Hebrew title *wayyiqraʾ* (“and he called”) is its first word; the English name derives from Latin/Septuagint *Leuitikon* (“the Levitical book”). It is the least narratively active book of the Torah and the most densely legislative—yet, on [[gordon-wenham|Wenham]]’s reading, still fundamentally **history of redemption** into which law is set, not a free-standing priestly manual.
 
-Leviticus can be divided into two major sections:
+## Textual Overview
 
-**The Laws of the Priestly Offerings and Purity** (chs. 1–16):
-- The five sacrificial offerings (chs. 1–7): burnt offering, grain offering, peace/fellowship offering, sin offering, reparation/guilt offering
-- Priestly ordination (chs. 8–10): Aaron and his sons; Nadab and Abihu's death
-- Clean and unclean animals: food laws (ch. 11)
-- Purity laws: childbirth, skin diseases, bodily discharges (chs. 12–15)
-- The Day of Atonement (*Yom Kippur*): the scapegoat and Azazel (ch. 16)
+[[gordon-wenham|Wenham]] (NICOT; source [[wenham-leviticus-nicot]]) outlines four major blocks:
 
-**The Holiness Code** (chs. 17–26):
-- Blood prohibition; sexual ethics; cult practices (chs. 17–20)
-- Priestly holiness requirements (chs. 21–22)
-- Festivals and sacred times (ch. 23)
-- Sabbatical and Jubilee years (ch. 25)
-- Covenant blessings and curses (ch. 26)
+| Block | Chapters | Content |
+|---|---|---|
+| I. Laws on Sacrifice | 1:1–7:38 | Laity instructions (1–5) then priestly instructions (6–7) |
+| II. Institution of the Priesthood | 8:1–10:20 | Ordination; Aaron’s first sacrifices; Nadab and Abihu |
+| III. Uncleanness and its Treatment | 11:1–16:34 | Food, childbirth, skin/fungus disease, discharges; Day of Atonement |
+| IV. Prescriptions for Practical Holiness | 17:1–27:34 | Blood/sex/neighbor ethics; priestly rules; festivals; Jubilee; blessings/curses; vows |
 
-Chapter 27 (vows and dedications) is a supplement.
+**Logic of chs. 1–16 (Wenham):** sacrifices explained first (presupposed later); priesthood second; occasions for sacrifice third—uncleanness and moral failure pollute the tabernacle; if the sanctuary is polluted, Israel’s holy redeemer can no longer dwell among them, so the section ends with the Day of Atonement purging. Chs. 1–16 focus priestly vocation and access; chs. 17–27 demand **national** holiness (“Be holy, for I the Lord your God am holy”).
 
-[[gordon-wenham|Gordon J. Wenham]] (NICOT) provides a detailed four-part outline of the book's logic, emphasizing its narrative framework ("The Lord spoke to Moses") and historical setting in the wilderness (preparing for Canaan entry). The laws are not abstract but tied to specific problems: sacrifices presupposed in ordination (chs. 8–10), which require purity laws (chs. 11–16) to maintain tabernacle access. The first 16 chapters focus on priestly responsibilities for purity and presence; chs. 17–27 demand national holiness ("Be holy, for I the Lord your God am holy," 19:2 and parallels). Wenham notes the arrangement follows the Pentateuch's plot (post-Exodus tabernacle erection in Exod 40), with ch. 27 as an appendix on vows. The recurring "This is..." formulas link sections (e.g., chs. 6–17). He challenges standard source criticism (whole as P with earlier collections; questions independent H source for 17–26 and ch. 17's placement), arguing for integration within the covenant structure and the book's essential unity despite stylistic variations.
+Wenham stresses the book is **lay-oriented** as much as priestly: most laws address all Israel; only sections such as chs. 21–22 specifically concern priests alone; ch. 23’s sabbath-rest emphasis contrasts with Num 28–29 as a more priestly festival calendar.
 
-## Narrative Context
+Chapter 27 (vows) is not a mere stray appendix: Wenham treats it as **thematic recapitulation** of the book’s holiness themes (persons, animals, land → priesthood, sacrifice, Jubilee) after the covenant blessings/curses of ch. 26 (see Key interpretive cruxes).
 
-Leviticus is firmly embedded within the Pentateuchal narrative, connecting the construction of the tabernacle in Exodus to the wilderness wanderings of Numbers. The central narrative event of the book occurs in chapters 8–10: the ordination of Aaron and his sons as priests. This joyous inauguration of the cultic system is immediately followed by tragedy when Aaron's sons, Nadab and Abihu, offer "unauthorized fire" before YHWH and are consumed by divine fire (Lev 10). According to [[gordon-wenham|Wenham]], this narrative hinge starkly defines the boundaries of holiness. The same divine presence that blesses acceptable worship poses lethal danger to those who approach God presumptuously. This establishes the absolute necessity of the subsequent purity laws and the Day of Atonement rituals to safely maintain God's dwelling among a sinful people.
+## Major Themes / Narrative Summary
 
-## Major Themes
+**Narrative hinge (chs. 8–10).** The central narrative is the ordination of Aaron and his sons and the first public sacrifices, immediately followed by the death of [[nadab-and-abihu|Nadab and Abihu]] for offering fire “which [the Lord] had not commanded.” For Wenham the same divine fire that blesses acceptable worship (9:24) becomes judgment fire (10:2). Moses acts as temporary priest in ch. 8 until Aaron is installed in ch. 9. The episode establishes that nearer approach to God requires stricter obedience (cf. 10:3; Luke 12:48; Jas 3:1).
 
-**Holiness as completeness**: The book's central demand — "Be holy, for I am YHWH your God" (11:44-45; 19:2; 20:26) — is grounded in divine character. [[gordon-wenham|Wenham]], following Mary Douglas, defines *qāḏôš* (holiness) as **wholeness or completeness**: conformity to categories, integrity of form, absence of mixture. Holiness is not merely separateness but positive completeness.
+**Holiness as wholeness.** Following Mary Douglas, Wenham defines *qāḏôš* not only as separateness but as **wholeness/completeness**: categorical integrity, unblemished specimens, absence of mixture. This unifies food laws, priestly blemish rules, sacrificial animals, and mixing prohibitions. See [[holiness]].
 
-**Sacrifice as covenant maintenance**: The sacrificial system does not earn favor but maintains the covenant relationship already established at Sinai. Blood efficacy (*kapper*, "to make atonement") operates through divine graciousness, not priestly magic. Different sacrifices address different relational ruptures.
+**Sacrifice as graded covenant maintenance.** Different offerings embody different relational models (not one generic “sin sacrifice”):
+- **Burnt offering** — general atonement/propitiation; *kipper* as ransom; whole animal to God
+- **Cereal (*minḥah*)** — covenant tribute/dedication after atonement; salt of the covenant
+- **Peace offering** — *shalom*/well-being; worshipper’s meal with God
+- **Purification (*ḥaṭṭāʾt*)** — sanctuary cleansing from pollution of sin (not bare “sin offering”)
+- **Reparation (*ʾāšām*)** — debt/trespass against holy things or God’s name; Isa 53 uses *ʾāšām* language
 
-**Purity and access**: The world is structured into three zones — holy, clean, unclean — with the tabernacle as the holy center. Movement between zones requires mediation (sacrifice, washing, time). The purity system regulates access to God's presence.
+Sacrificial efficacy depends on divine grace, not priestly magic. See [[sacrifice]], [[atonement]].
 
-**Israel's election embodied**: The food laws, sexual ethics, and festival calendar are embodiments of Israel's distinctiveness as a covenant people. As YHWH has separated Israel from the nations, Israel separates clean from unclean animals.
+**Purity and access.** World structured holy / clean-common / unclean; tabernacle as holy center. Chs. 11–15 define uncleanness so that ch. 16’s purge is intelligible (// structure of 1–7 preparing 8–10). See [[purity]].
 
-## Key Interpretive Cruxes
+**Election embodied.** Food laws, sexual ethics, and festival calendar enact Israel’s distinctiveness: as YHWH separated Israel from the nations, Israel separates clean from unclean.
 
-**The sacrificial system's logic**: What do the sacrifices *mean*? Multiple models coexist: (a) *substitutionary*: the animal dies in place of the worshiper; (b) *gift*: the offering is a gift to the deity; (c) *purification*: the blood cleanses the sanctuary from pollution generated by human sin; (d) *communion*: the peace offering establishes table fellowship with YHWH. [[gordon-wenham|Wenham]] argues the different offerings embody different relational models — the burnt offering is personal substitution/ransom; the sin offering is sanctuary purification; the reparation offering is debt-payment.
+**Blood as life / ransom (17:11).** Wenham reads sacrificial blood as life (*nepeš*) given so that life may be ransomed (*kipper*).
 
-**The food laws (ch. 11)**: Why are some animals clean and others unclean? Four major explanations have been proposed: (a) *hygienic* (unclean animals carry disease — discredited as the primary rationale); (b) *symbolic of virtue* (Philo, some rabbinic interpreters); (c) *cultic/anti-Canaanite* (avoidance of animals used in pagan ritual); (d) *structural/categorical* ([[gordon-wenham|Wenham]], endorsing Douglas): clean animals exemplify "complete" specimens of their locomotion category — fish have fins and scales, ruminants have split hooves and chew cud, "creeping things" that swarm violate categorical expectations. The food laws teach Israel to maintain boundaries, embodying the principle of holiness-as-wholeness.
+## Textual and Manuscript Tradition
 
-**The Day of Atonement and Azazel (ch. 16)**: On *Yom Kippur*, the High Priest performs the most solemn annual rite: two goats are presented. One is sacrificed as a sin offering; the other (the "scapegoat") has Aaron lay his hands on it, confessing Israel's sins, and is then sent into the wilderness "to Azazel." The identity of **Azazel** is debated: (a) a demon or supernatural being in the wilderness (Second Temple and some modern readings); (b) the goat "for complete removal" (*ʾăzāzʾel* = "complete destruction," a compound word); (c) a rocky precipice (Rashi, S. R. Driver). [[gordon-wenham|Wenham]] concludes the meaning is clear even if the etymology is not: Israel's sin is removed from the community entirely.
+Wenham’s brief treatment of the Hebrew text (Introduction §V) notes the relative stability of the Leviticus MT, engagement with Samaritan Pentateuch and Qumran (including discussion of Leviticus material then available), and that his commentary works from a fresh English rendering of the Hebrew rather than a single modern version as base text. Fuller critical-edition work on Leviticus (e.g. later Qumran publications, BHQ) lies outside this source’s scope; record Wenham’s stance only as of c. 1979.
 
-**The Holiness Code (chs. 17–26)**: The relationship between the Holiness Code and the rest of Leviticus — whether it is a separate source (*H*) later incorporated — is debated. [[gordon-wenham|Wenham]] acknowledges source discussions but emphasizes the code's integration within Leviticus' covenant structure, culminating in the blessings and curses of ch. 26.
+## Hermeneutical Frameworks
 
-## Relationship to NT
+| Framework | How Leviticus is read in this wiki’s sources |
+|---|---|
+| **Classic Protestant / final-form (Wenham)** | Plain original meaning + abiding theological value; ANE comparison; literary structure (triads, refrains); social anthropology (Douglas); source criticism confined to Introduction; each unit closed with “Leviticus N and the NT” |
+| **Historical-critical (engaged, not adopted as organizing method)** | P as bulk of the book; debated independent Holiness Code (H) for 17–26; Wellhausen postexilic vs Kaufmann preexilic; Wenham finds postexilic P “difficult to maintain” (Ezekiel’s use; non-late P Hebrew) |
+| **Sod / theosophical (Zohar, Pritzker VII–VIII)** | Sacrifices and purity as theurgy of sefirotic union and Shekhinah’s dwelling; Nadab/Abihu as multi-cause caution; Holiness Code as ethical theurgy |
+| **Canonical / NT** | Hebrews 9–10 reads Day of Atonement and priesthood as shadow of Christ’s once-for-all high priesthood; Acts 10/15 on food laws; Lev 19:18 as love command |
 
-Leviticus is deeply embedded in the NT, especially in Hebrews:
-- Hebrews 9–10 reads Leviticus' entire sacrificial system as a shadow of Christ's superior high priesthood and once-for-all sacrifice
-- The abolition of food laws (Acts 10; 15) is a defining marker of the new covenant's Gentile inclusion
-- Paul's statement "Christ our Passover has been sacrificed" (1 Cor 5:7) draws on Leviticus' typological logic
-- Leviticus 19:18 ("love your neighbor as yourself") is cited by Jesus as the second greatest commandment (Mark 12:31) and by Paul as the law's fulfillment (Gal 5:14; Rom 13:9)
+## Canon and Reception
+
+**Canon scope:** Torah for [[rabbinic-judaism|Rabbinic Judaism]] and [[samaritanism|Samaritanism]]; OT for Catholic, Eastern Orthodox, and Protestant canons (see frontmatter `canon_scope`).
+
+**Reception contrast (Wenham):** Leviticus was traditionally the first book Jewish children studied in the synagogue; in the modern Church it tends to be the last part of the Bible anyone looks at seriously—treated in practice (not theory) as if outside the functional canon. Two extremes Wenham rejects: reducing it to a stage in religious evolution without permanent value, and allegorizing every detail as prefiguration of Christ without plain sense.
+
+## Scholarship and Historiography
+
+Positions as positions (Wenham Introduction §§III–IV):
+
+1. **Traditional Mosaic authorship** — laws given at Sinai/wilderness under Moses.
+2. **Wellhausen stream** — bulk as postexilic Priestly (P) document; Holiness Code (H) often treated as a distinct earlier collection incorporated into P.
+3. **Kaufmann / mediating preexilic** — P (or priestly tradition) substantially preexilic though not necessarily Mosaic; Wenham finds postexilic dating hard to maintain given Ezekiel’s dependence on Levitical material and linguistic arguments that P is not late biblical Hebrew.
+
+Wenham does **not** treat Mosaic authorship as a theological necessity; he deliberately keeps source reconstruction out of the verse-by-verse commentary so that plain meaning and theology dominate.
+
+On **ch. 17 and H:** modern critics often place ch. 17 inside the Holiness Code; Wenham prefers reading it as a **hinge** between official cult (1–16) and practical/national holiness (18–26), synthesizing blood/sacrifice themes rather than simply as H’s first chapter.
+
+## Key interpretive cruxes
+
+**Sacrificial logic.** Multiple models coexist across offerings (propitiation/ransom; gift/tribute; purification of sanctuary; communion meal; reparation/debt). Wenham refuses collapsing all into a single “sin offering.” *Kipper* may connect to Akkadian “wipe/cleanse” *or* Hebrew *koper* “ransom price”—both fit different ritual loci.
+
+**Food laws (ch. 11).** Wenham **rejects** hygiene as primary human motive, pure arbitrariness (except last resort), and uncontrolled allegory; **accepts** Douglas: clean animals exemplify complete locomotion types; the system teaches holiness-as-wholeness and mirrors election. See [[purity]], [[holiness]].
+
+**Day of Atonement and Azazel (ch. 16).** Two goats: one for YHWH (blood into the holy of holies), one for Azazel (sin-bearing into the wilderness). Azazel etymology disputed—demon in the wilderness; “complete destruction”; “rocky precipice” (Rashi, Driver). Wenham concludes the ceremony’s total sense is that **sin is exterminated from Israel**, even if philology stays open. Full positions: [[azazel-identity]].
+
+**Holiness Code (chs. 17–26).** Integrated covenant ethics culminating in ch. 26 blessings and curses (ANE/biblical legal-close pattern). Love of neighbor (19:18) is rhetorical climax of ch. 19’s neighborliness laws and the NT’s most-cited Leviticus verse.
+
+**Chapter 27 placement.** Why after the natural close of ch. 26? Wenham rejects pure “next revealed” or “late appendix” explanations as insufficient: (1) association of ideas—God’s vows/promises (26) prompt human vows (27); (2) **book-level recapitulation**—vows/dedications of persons, animals, and land restate priesthood, sacrifice, and Jubilee under the motto of total consecration: “Be holy, for I the Lord your God am holy.”
+
+**Nadab and Abihu’s offense.** Precise mechanics of “strange fire” remain obscure; decisive for Wenham is that the act was **not commanded**. Nearer access → stricter standard. Contrast Zoharic multi-cause reading on [[nadab-and-abihu]].
+
+## Relationship to NT (Wenham’s running frame)
+
+Wenham ends each major unit with Christian application. Load-bearing trajectories:
+- Hebrews 9–10: Yom Kippur and Aaronic priesthood as shadow; Christ superior on four points (sinless; once-for-all; heavenly sanctuary; permanent forgiveness); Good Friday as definitive Day of Atonement
+- Scapegoat typology is **post-NT** Christian tradition (from *Barnabas*); the NT itself is largely silent on the wilderness goat
+- Acts 10/15 and Mark 7: food-law boundary renegotiated for Gentile inclusion without abolishing the moral call to holiness (1 Pet 1:16 quotes the Levitical motto)
+- Lev 19:18 as second great commandment / law’s fulfillment
+- Isa 53’s *ʾāšām* language as earliest interpretive bridge from reparation offering to suffering servant / Christ
 
 ## Ancient Near Eastern Parallels
 
-Sacrificial systems were universal in the ancient Near East. Ugaritic texts use terminology parallel to Hebrew *šelamim* (peace offering). Hittite ritual texts provide structural parallels. The Levitical code's relative severity on bodily integrity and property rights differs from the Code of Hammurabi (harsher on bodily injury, lighter on property). Mary Douglas's comparative anthropological work on purity systems (*Purity and Danger*, 1966) provides the analytical framework [[gordon-wenham|Wenham]] adopts.
+Wenham regularly compares Ugaritic sacrifice terminology, Hittite ritual, and Mesopotamian law. Distinctives he stresses: biblical law prioritizes life, family, and religion over property (no death penalty for ordinary property crime, unlike Hammurabi); abolition of substitutionary punishment of a builder’s son for a householder’s son (vs LH 230); five purposes of punishment (desert, purge guilt from the land, deterrence, social reintegration, restitution to the victim—not state fines).
 
 ## Major Figures
 
-- [[moses|Moses]] — the mediator who receives and relays the divine instructions from the tent of meeting.
-- [[aaron|Aaron]] — ordained as the first high priest, bearing the responsibility for cultic mediation and the Day of Atonement.
-- [[nadab-and-abihu|Nadab and Abihu]] — Aaron's eldest sons, whose death by divine fire illustrates the extreme danger of approaching God's holiness incorrectly.
+- [[moses|Moses]] — mediator; temporary priest at ordination (ch. 8)
+- [[aaron|Aaron]] — first high priest; Day of Atonement officiant
+- [[nadab-and-abihu|Nadab and Abihu]] — unauthorized fire; boundary of the holy
 
 ## Key Commentators
 
-- [[gordon-wenham|Gordon J. Wenham]] — *Leviticus* (NICOT, c. 1979): conservative evangelical; holiness-as-wholeness framework; extensive Douglas engagement
-- Jacob Milgrom — *Leviticus* (AB, 3 vols., 1991–2001): comprehensive; defends priestly material's antiquity
-
+- [[gordon-wenham|Gordon J. Wenham]] — *Leviticus* (NICOT, c. 1979): classic Protestant; Douglas; graded sacrifice; source [[wenham-leviticus-nicot]]
+- Jacob Milgrom — *Leviticus* (AB, 3 vols.; not yet ingested as full source page)
 
 ## Concepts
 
-Concept pages developed from this text:
+[[holiness]] · [[sacrifice]] · [[purity]] · [[atonement]] · [[jubilee]] · [[tabernacle]] · [[covenant]]
 
-[[holiness]] · [[jubilee]] · [[tabernacle]]
+## Controversies
+
+[[azazel-identity]] · [[documentary-hypothesis]] (P/H dating as engaged by Wenham)
 
 ## Sources Ingested
 
-1. [[gordon-wenham|Wenham, Gordon J.]]. *Leviticus*. NICOT. Grand Rapids: Eerdmans/London: Routledge & Kegan Paul, c. 1979.
+1. **[[wenham-leviticus-nicot|Wenham, Gordon J. *Leviticus*. NICOT, c. 1979]]** — full-body fidelity re-ingest 2026-07-18 (Preface + Intro I–VII + commentary Lev 1–27). Supersedes 2026-06-04 bookkeeping-only pass. Eight extraction digests; ~519 grounded claims.
 
-Wenham's NICOT commentary is a conservative evangelical treatment that adopts Mary Douglas's anthropological framework for holiness (wholeness/completeness, categorical integrity) while engaging critically with source theories. He stresses the book's covenantal and historical context (wilderness laws preparing for Canaan), the integration of law and narrative ("The Lord spoke to Moses" framework), and the theological progression from priestly purity (chs. 1–16) to national holiness (chs. 17–27). Key contributions include detailed analysis of sacrificial logic (different offerings as relational models: substitution, gift, purification, communion), the structural chiastic arrangement around the Day of Atonement, and the Holiness Code's ethical and social vision (e.g., Jubilee as release, love command in 19:18). Wenham resists overly late datings and allegorical readings, focusing on the text's plain meaning for Israel's distinctiveness as a holy nation. This shapes the wiki's emphasis on Leviticus as the "constitution" for God's dwelling with a sinful people and the embodiment of election through purity and ethics.
+2. [[daniel-matt|Matt, Daniel C.]] (trans.). *The Zohar: Pritzker Edition, Volume VII*. Stanford, 2012. **Standards reingest 2026-07-18** — [[matt-zohar-pritzker-vol7|source page]]; body ~3:3b–80a.
+
+3. [[daniel-matt|Matt, Daniel C.]] (trans.). *The Zohar: Pritzker Edition, Volume VIII*. Stanford, 2014. **Standards reingest 2026-07-18** — [[matt-zohar-pritzker-vol8|source page]]; Qedoshim–Behuqqotai.
 
 ## Kabbalistic / Zoharic Reading of Leviticus (Daniel C. Matt, Pritzker Edition Volumes VII–VIII)
 
@@ -112,13 +155,3 @@ The first sustained Jewish-mystical (Sod-level) interpretation of Leviticus in t
 **Holiness Code as ethical and social theurgy (Qedoshim–Behuqqotai, Vol. VIII; standards reingest 2026-07-18 — [[matt-zohar-pritzker-vol8|source page]])**: Body ~3:80b–117a for Leviticus close. “You shall be holy” as generation and participation; adjacency to sexual licentiousness generates holiness. **Midnight conjugal theurgy** (laity from midnight; sages midnight Torah + Sabbath-eve coupling). **Torah tears up decrees** when studied for her own sake (Qedoshim body locus). Emor: quiet *emor*; **ushpizin** guests of faith (Abraham + five + David; poor as guests’ portion); four species; festival calendar. Be-Har/Be-Ḥuqqotai: Jubilee / *sheva* as higher *he*; *tsedaqah*; exile as *mashkona* (pledge) of Shekhinah; “I Myself” into exile for the Bride.
 
 **Hermeneutical character**: This reading operates entirely at the **Sod** level of the PaRDeS system—symbolic, theosophical, and theurgical. It complements (without replacing) Wenham’s canonical/structural reading of holiness as wholeness (Douglas) and the sacrificial system as graded covenant maintenance. The Zohar adds an explicitly mythic, gendered, erotic, and cosmic dimension: the rituals and ethics of Leviticus are the practical means by which Israel affects the inner life of God and sustains the divine presence in the world. Cross-references: [[zohar|The Zohar]], [[shekhinah|Shekhinah]], [[tabernacle|Tabernacle]], [[aaron|Aaron]], [[holiness|Holiness]], [[sefirot|Ten Sefirot]].
-
-## Sources Ingested
-
-1. [[gordon-wenham|Wenham, Gordon J.]]. *Leviticus*. NICOT. Grand Rapids: Eerdmans/London: Routledge & Kegan Paul, c. 1979.
-
-Wenham's NICOT commentary is a conservative evangelical treatment that adopts Mary Douglas's anthropological framework for holiness (wholeness/completeness, categorical integrity) while engaging critically with source theories. He stresses the book's covenantal and historical context (wilderness laws preparing for Canaan), the integration of law and narrative ("The Lord spoke to Moses" framework), and the theological progression from priestly purity (chs. 1–16) to national holiness (chs. 17–27). Key contributions include detailed analysis of sacrificial logic (different offerings as relational models: substitution, gift, purification, communion), the structural chiastic arrangement around the Day of Atonement, and the Holiness Code's ethical and social vision (e.g., Jubilee as release, love command in 19:18). Wenham resists overly late datings and allegorical readings, focusing on the text's plain meaning for Israel's distinctiveness as a holy nation. This shapes the wiki's emphasis on Leviticus as the "constitution" for God's dwelling with a sinful people and the embodiment of election through purity and ethics.
-
-2. [[daniel-matt|Matt, Daniel C.]] (trans.). *The Zohar: Pritzker Edition, Volume VII*. Stanford University Press, 2012. **Standards reingest 2026-07-18** — [[matt-zohar-pritzker-vol7|source page]]; body ~3:3b–80a; *qorban*/married *adam*; Nadab–Abihu multi-cause dossier; YK goats + golden cord (3:67a); three rungs (3:73a).
-
-3. [[daniel-matt|Matt, Daniel C.]] (trans.). *The Zohar: Pritzker Edition, Volume VIII*. Stanford University Press, 2014. **Standards reingest 2026-07-18** — [[matt-zohar-pritzker-vol8|source page]]; Qedoshim–Behuqqotai + open Numbers; ushpizin; Jubilee/exile pledge; *Idra Rabba*.

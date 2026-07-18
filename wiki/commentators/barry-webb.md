@@ -4,9 +4,10 @@ full_name: Barry G. Webb
 dates: fl. late 20th–early 21st century (commentary published 2012)
 tradition: Christianity (Reformed evangelical / Anglican)
 affiliation: Moore Theological College, Sydney, Australia
-primary_texts_commented: Judges
+primary_texts_commented: [judges]
+hermeneutical_method: [narrative-criticism, canonical-criticism, modified-deuteronomistic-history, final-form]
 sources_ingested: 1
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [commentator, christianity, reformed, evangelical, old-testament, former-prophets]
 ---
 
@@ -51,7 +52,7 @@ This is more theologically engaged than Woudstra's apologetic defense and more c
 
 **On Gideon**: Starts as Moses (diffident, obedient, radically dependent on YHWH), ends as Aaron (making an ephod/idol from the people's gold). The name Jerubbaal ("let Baal contend") turns ironic — Baal does take up his own cause in Gideon's own lifetime. "The man who started by being a Moses ends here by being an Aaron."
 
-**On Jephthah's vow**: The vow is an instance of Jephthah's characteristic move: turning religion into politics. "He has tried to conduct his relationship with God in the same way he has conducted his relationships with men." The theme of the Jephthah narrative is "the tendency of people to turn religion into negotiation with God instead of submission to him." Webb does not adjudicate whether the daughter was killed or consecrated to lifelong virginity.
+**On Jephthah's vow** (**fidelity correction 2026-07-18**): The vow is a shrewd **bribe**, continuous with Jephthah’s negotiation style — not impulsive. Theme: “the tendency of people to turn religion into negotiation with God instead of submission to him.” Webb does **not** leave fulfillment open: the narrator intends **literal burnt-offering sacrifice**; virginity is what the daughter mourns, not an alternative fulfillment. Wrong to make the vow and wrong to keep it as human sacrifice (Excursus 6). Earlier wiki summary wrongly said he withholds adjudication. See [[jephthah-vow]].
 
 **On Samson as Israel**: The controlling interpretive key: "His personal story is also the story of Israel as a whole in the judges period. As Israel had been set apart from other nations by God's covenant with her, so Samson is set apart from other men by his calling as a Nazirite. As Israel went after foreign gods, Samson goes after foreign women."
 
@@ -77,4 +78,12 @@ Webb is the most literarily sophisticated of the three ingested Former Prophets 
 
 ## Sources Ingested
 
-1. *Judges*. New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 2012. (PhD monograph basis: *The Book of Judges: An Integrated Reading*. Sheffield: JSOT Press, 1987; rev. ed. 2008.)
+1. **Barry G. Webb, *The Book of Judges*, NICOT (Eerdmans, 2012)** — fidelity re-ingest 2026-07-18; full commentary body (preface + Introduction I–IX + Judg 1:1–21:25); [[webb-judges-nicot|source page]] with coverage ledger. ~427 grounded claims across 7 extraction passes. Bibliography and indexes as apparatus. PhD monograph basis: *The Book of Judges: An Integrated Reading* (Sheffield, 1987; rev. 2008).
+
+## Key Links
+
+- [[judges|Judges]] · [[webb-judges-nicot|Webb, *Judges* (NICOT)]]
+- Figures: [[deborah]] · [[gideon]] · [[abimelech]] · [[jephthah]] · [[samson]] · [[barak]] · [[jael]] · [[caleb]]
+- Concepts: [[nazarite]] · [[herem]] · [[covenant]] · [[deuteronomistic-history]]
+- Controversies: [[jephthah-vow]] · [[herem-canaanite-conquest]]
+- Related: [[marten-woudstra|Woudstra (Joshua)]] · [[joshua]] · [[1-samuel]]

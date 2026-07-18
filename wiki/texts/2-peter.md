@@ -11,7 +11,7 @@ canon_scope:
 language_original: Greek
 date_range: c. AD 60s before Peter's death (Green); alternatively c. AD 80–150 if pseudonymous
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [text, christianity, new-testament, general-epistle, petrine, eschatology]
 ---
 
@@ -23,39 +23,35 @@ scoffing at its apparent delay (3:3–4). Presented as the apostle Peter's secon
 testamentary last word (1:12–15), it answers eschatological skepticism with the certainty of God's
 past judgments, the transfiguration eyewitness, the reliability of prophecy, and the promise of "new
 heavens and a new earth in which righteousness dwells" (3:13). [[gene-green|Gene L. Green]]'s BECNT
-commentary (2008) defends authentic Petrine authorship — a minority position — and reads it as a
-genuine first-century letter that reuses [[jude|Jude]].
+commentary (2008; fidelity re-ingest [[green-jude-2peter-becnt|source page]], 2026-07-18) defends authentic Petrine authorship — a minority position — and reads it as a
+genuine first-century letter that reuses [[jude|Jude]]. Line loci refer to that ebook conversion.
+
+## Textual Overview
+
+Three-chapter letter. Greeting (1:1–2); body opening God’s call to glory and virtue (1:3–11); body middle apostolic testimony vs false teachers (1:12–2:22); body closing call to holiness (3:1–18a); brief doxology (3:18b). Green treats it as a **genuine Hellenistic letter** that *includes* testamentary material (1:12–15), not as a full “testament” genre piece (see Authorship).
 
 ## Authorship — The Central Question
 
 2 Peter claims to be from "Simeon Peter, slave and apostle of Jesus Christ" (1:1) and alludes to
-Peter's life: the **transfiguration** as eyewitness (1:16–18), a prophecy of his imminent death
-(1:14), a "first letter" (3:1, = 1 Peter), and companionship with Paul (3:15–16). Yet "the
+Peter's life: the **transfiguration** as eyewitness (1:16–18); a prophecy of his imminent death
+(1:14); a "first letter" (3:1, = [[1-peter|1 Peter]]); and companionship with Paul (3:15–16). Yet "the
 pseudepigraphical character of the work [has] come to be almost universally recognized" in the
 academy (Bauckham). Green dissents and defends authenticity. The major arguments, with Green's
-replies:
+replies (Intro 2 Peter, digest R4; testamentary section R5):
 
 - **Hellenistic Greek and style; difference from 1 Peter.** *Reply*: explicable by a **different
-  secretary** (Jerome already explained the 1/2 Peter differences this way); the small Petrine corpus
-  is too slim to fix what Peter "could" write; "Hellenistic" terms were also at home in Judaism.
+  secretary** (Jerome); the small Petrine corpus is too slim to fix what Peter "could" write; "Hellenistic" terms were also at home in Judaism.
 - **The testament genre implies pseudonymity** (Bauckham's mainstay). *Reply*: 2 Peter is *not* a
-  "testament" — it lacks the genre's hallmarks (deathbed scene, burial notice, dreams/visions,
-  blessings/curses) and merely includes a testamentary *section* (1:12–15), as do non-testamentary
-  works (Acts 20; 2 Tim. 4). See [[2-peter-authorship|2 Peter: Authorship and the Testament Genre]].
+  "testament" — it lacks deathbed scene, burial notice, dreams/visions, blessings/curses — and merely includes a testamentary *section* (1:12–15), as do non-testamentary works (Acts 20; 2 Tim. 4). In the body, Green stresses: “Although this section is surely testamentary… we should not thereby conclude that this letter can be classified as a ‘testament’” (≈L2705). See [[2-peter-authorship|2 Peter: Authorship and the Testament Genre]].
 - **The opponents are second-century gnostics.** *Reply*: they are not — no dualism, no
-  salvation-by-*gnōsis*, no denial of bodily resurrection (see Opponents, below).
+  salvation-by-*gnōsis*, no denial of bodily resurrection (see Opponents).
 - **"Early Catholicism"** (Käsemann). *Reply*: 2 Peter does not exalt the bishop's office against
-  heresy, and the parousia-delay problem is itself first-century (Matt. 25; Luke 12; Heb. 10; James 5).
+  heresy; parousia-delay problem is first-century (Matt. 25; Luke 12; Heb. 10; James 5).
 - **Historical anachronisms** ("since the fathers fell asleep," 3:4; "your apostles," 3:2; Paul's
-  letters as "Scripture," 3:16). *Reply*: "the fathers" = OT ancestors; "your apostles" = those who
-  evangelized the readers; collecting/Scripturalizing apostolic letters is plausibly first-century.
+  letters as "Scripture," 3:16). *Reply*: "the fathers" = long-past ancestors (not the first Christian generation); "your apostles" = those who evangelized the readers; apostolic letters as Scripture is plausibly first-century (3:16).
 
 Green adds that **"Simeon Peter" (1:1)** — a Semitic form found elsewhere only in Acts 15:14 — argues
-*for* authenticity (a forger would write the familiar "Simon Peter"). Date: if authentic, the **mid-
-60s**, before Peter's Neronian martyrdom. The early church received it slowly and last of all the
-catholic epistles (Eusebius classed it *antilegomenon*); Jerome named the *stylistic* difference from
-1 Peter as the reason for ancient doubt. Green's verdict: authenticity should not be a test of
-orthodoxy, but the case against it is not compelling.
+*for* authenticity. Date if authentic: **mid-60s**, before Peter's Neronian martyrdom. Early church received it slowly (*antilegomenon*); Jerome named stylistic difference from 1 Peter as the reason for ancient doubt. Green: authenticity should not be a test of orthodoxy, but the case against it is not compelling.
 
 ## Relationship to Jude
 
@@ -64,7 +60,7 @@ majority, that **2 Peter used Jude** (not the reverse, and not a common source),
 borrowing as honorable ancient ***imitatio*** (creative re-use), not plagiarism. This implies Jude
 held the *higher* honor status — explained by Jude's place in the family of Jesus. 2 Peter adapts
 Jude to a different opponent and notably **drops Jude's explicit apocryphal citations** (no 1 Enoch
-quotation; the Michael–Moses dispute softened in 2:10–11). See [[2-peter-jude-relationship|The
+quotation; Michael–Moses dispute dropped; “glories” slander retained with “they show no fear,” 2:10b). Flood generation (2:5) is **not from Jude** (Jude omits it); Green also sees 2:5 handling 1 Pet 3:19–20 material similarly to how Peter adopts Jude (digest R6). See [[2-peter-jude-relationship|The
 Relationship between 2 Peter and Jude]].
 
 ## The Opponents
@@ -72,20 +68,13 @@ Relationship between 2 Peter and Jude]].
 False teachers *within* the churches (sharing its banquets, 2:13), who:
 - **Deny the parousia and final judgment**, arguing from its delay: "Where is the promise of his
   coming? Since the fathers fell asleep, all things continue as they were from the beginning of
-  creation" (3:3–4) — an empiricist appeal to the apparent stability of the world.
-- **Disparage prophecy** (claiming prophets "interpreted their own visions," countered in 1:20–21).
-- **Promise "freedom"** (2:19) while being morally libertine (sexual immorality, greed, 2:2–3, 14).
-- **Twist Paul's letters** to their own destruction (3:16).
-- Are **apostates** — they "deny the Master who bought them" (2:1), having known and then forsaken
-  "the way of righteousness" (2:20–22).
+  creation" (3:3–4).
+- **Disparage prophecy** (1:16 “sophistic myths”; countered by transfiguration + 1:20–21).
+- **Promise "freedom"** (2:19) while enslaved to moral φθορά; sexual bait of recent converts (2:18).
+- **Twist Paul's letters** to their own destruction (3:16) — problem is the twisters, not Paul.
+- Are **apostates** — “deny the Master who bought them” (2:1); last state worse than first (2:20–22; dog/sow maxims).
 
-Green rejects the **gnostic** identification (no dualism; the libertinism is rooted in
-eschatological skepticism, not in a spirit/matter split) and resists a strict **Epicurean** label,
-though Epicurean-flavored skepticism about providence, divination/prophecy, and judgment is present.
-He concludes they were eclectic "seed-pickers" combining several currents — skepticism about
-predictive prophecy, the **immutability of the world** (denying its dissolution/judgment), the
-philosophical promise of freedom, and libertine ethics — but **above all apostates** who deny Christ's
-moral lordship.
+Green rejects **gnostic** ID and a strict **Epicurean** label (Epicurean-flavored skepticism about providence/prophecy/judgment is present but opponents are an **eclectic amalgam**). Situations in Jude and 2 Peter are **similar yet distinct** (Jude: outside infiltrators perverting grace; 2 Peter: insider teachers denying parousia/judgment; Jude dream-inspiration vs 2 Peter anti-prophecy; L2212 in Intro).
 
 ## Structure (Green)
 
@@ -110,26 +99,26 @@ Like Jude, 2 Peter anchors its arguments in specific historical and narrative ty
 
 ## Key Theological Cruxes
 
-**1. "Partakers of the divine nature" (1:4).** Green reads *theias koinōnoi physeōs* as **moral
-transformation** — participation in God's *virtuous character* (using the language of Hellenistic
-honorific decrees) — *not* ontological divinization/deification, and not merely "immortality"
-(against Bauckham). A key text for the Eastern doctrine of *theōsis*. See
-[[theosis-divine-nature|Theosis / Partakers of the Divine Nature]].
+**1. "Partakers of the divine nature" (1:4).** On the 2026-07-18 re-read, Green’s exposition (digest R5 ≈L2548–2586) reads *theias koinōnoi physeōs* as **moral transformation** into God-like virtue — participation in the Benefactor’s moral attributes — *not* ontological divinization and **not principally** Bauckham’s “immortal and incorruptible.” φθορά is moral corruption escaped via lust; the virtue sorites (1:5–7) and “confirm your calling and election” (1:10) seal the ethical frame. Hellenistic honorific/decree language and discussions of divine vs human nature (Plato, Dio, Philo, Aristeas) supply the background. See [[theosis-divine-nature|Theosis / Partakers of the Divine Nature]].
 
-**2. Scripture and prophecy (1:19–21; 3:16).** "No prophecy of Scripture comes from one's own
-interpretation… [the prophets] spoke from God as they were **carried along by the Holy Spirit**"
-(1:20–21) — a foundational NT text on inspiration. And 3:15–16 treats Paul's letters as "Scripture,"
-an early witness to a developing apostolic canon.
+**2. Scripture and prophecy (1:19–21; 3:16).** Green reads 1:20 as about the **origin/inspiration** of prophecy (not “private interpretation” by readers): prophets spoke as **carried along by the Holy Spirit** (1:21). Transfiguration is eyewitness guarantee against “sophistic myths” (1:16). 3:15–16: Paul is “beloved brother,” writes with given wisdom; some things hard to understand; the unstable twist them “as they also do the **other Scriptures**” — Green: Paul’s letters are classed with Scripture; the problem is the twisters (digest R8).
 
-**3. The delay of the parousia and the day of the Lord (3:1–13).** Green's answers to the scoffers:
-God's word, not natural continuity, governs history (the flood proves the world is not immutable,
-3:5–7); "with the Lord one day is as a thousand years" (3:8); the delay is God's patience for
-repentance (3:9). The "day of the Lord" brings cosmic judgment by fire — "the heavens will pass away
-with a roar, the elements will be dissolved by burning, and the earth and the works in it will be
-**found** [laid bare]" (3:10, Green accepting the difficult reading *heurethēsetai*). The hope is
-**renewal, not annihilation**: "new heavens and a new earth in which righteousness dwells" (3:13;
-Isa. 65:17), within a *linear* (not Stoic cyclical) cosmology of three worlds. See
-[[new-creation|New Creation]].
+**3. The delay of the parousia and the day of the Lord (3:1–13).** Answers to the scoffers: creation and flood by God’s **word** refute immutability (3:5–7); present cosmos **reserved for fire** (linear three-world scheme, not Stoic ἐκπύρωσις; L3425); Ps 90:4 / “one day as a thousand years” (3:8) is divine vs human time, not a millennial key; delay = **patience toward repentance** (3:9), not Epicurean non-judgment. 3:10: elements (*stoicheia*) as material cosmos; Green accepts difficult **εὑρεθήσεται** (“will be found”) as judicial discovery of works. Hope: **renewal, not annihilation** — “new heavens and a new earth in which righteousness dwells” (3:13; Isa 65:17/66:22). Ethics follows eschatology (3:11–14). See [[new-creation|New Creation]].
+
+## Hermeneutical Frameworks
+
+- Grammatical-historical + cultural-contextual (Jewish apocalyptic catalogs; Greco-Roman honorific decrees; Epicurean-flavored popular skepticism).
+- Epistolary structure (body opening / middle / closing; White) with limited rhetorical analysis (Watson deliberative frame engaged, not totalizing).
+- *Imitatio* as ethical-literary category for Jude reuse.
+- Evangelical-critical: minority authenticity defense with full engagement of Bauckham, Fornberg, Neyrey, Käsemann.
+
+## Textual and Manuscript Tradition
+
+Green’s Additional Notes treat key variants (e.g. 2:4 Tartarus/chains; 3:10 εὑρεθήσεται vs burned-up readings; 3:18 ἀμήν). Early reception slow: *antilegomenon* (Eusebius); absent from Syriac Peshitta; 4th-c. consolidation (Athanasius). Pseudo-Petrine literature and Apocalypse of Peter’s use of 2 Peter factor in Green’s dating ceiling (Intro).
+
+## Scholarship and Historiography
+
+Near-universal critical pseudonymity since the 19th/20th c.; Bauckham 1983 as watershed “testament” thesis; Green 2008 as sustained evangelical counter. Positions remain open — see [[2-peter-authorship|authorship controversy]].
 
 ## Theology and Significance
 
@@ -162,9 +151,14 @@ prophetic inspiration (1:21) and the apostolic letter-canon (3:16).
 - Douglas J. Moo (NIVAC, 1996); Thomas R. Schreiner (NAC, 2003) — fellow evangelical defenders of
   authenticity
 
+## Sources Ingested
+
+1. [[green-jude-2peter-becnt|Green, *Jude and 2 Peter* (BECNT, 2008)]] — full commentary body (Intro 2 Peter + 1:1–3:18); fidelity re-ingest 2026-07-18. Prior 2026-06-06 pass lacked source page/ledger.
+
 ## Key Links
 
-- [[gene-green|Gene L. Green]] — primary commentary source (BECNT, 2008)
+- [[green-jude-2peter-becnt|Green BECNT source page]]
+- [[gene-green|Gene L. Green]] — primary commentator
 - [[peter-apostle|Simon Peter]] — the claimed author
 - [[2-peter-authorship|2 Peter: Authorship and the Testament Genre]] — the central controversy
 - [[2-peter-jude-relationship|The Relationship between 2 Peter and Jude]]
@@ -172,7 +166,7 @@ prophetic inspiration (1:21) and the apostolic letter-canon (3:16).
 - [[new-creation|New Creation]] — 3:13 new heavens and new earth
 - [[jude|The Letter of Jude]] — its source
 - [[1-peter|The First Letter of Peter]] — the "first letter" (3:1)
-
+- [[noah|Noah]] · [[lot|Lot]] · [[balaam|Balaam]] · [[paul-apostle|Paul]]
 
 ## Canon and Reception
 

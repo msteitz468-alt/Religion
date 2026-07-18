@@ -2,66 +2,78 @@
 title: deClaissé-Walford, Jacobson, and Tanner
 full_name: Nancy deClaissé-Walford; Rolf A. Jacobson; Beth LaNeel Tanner
 dates: deClaissé-Walford b. 1954; Jacobson and Tanner contemporary
-tradition: Evangelical Protestant; broadly ecumenical
-affiliation: McAfee School of Theology (deClaissé-Walford); Luther Seminary (Jacobson); New Brunswick Theological Seminary (Tanner)
-primary_texts_commented: [Psalms]
+tradition: [Evangelical Protestant; broadly ecumenical]
+affiliation: [McAfee School of Theology / Mercer (deClaissé-Walford); Luther Seminary (Jacobson; earlier Augsburg College); New Brunswick Theological Seminary (Tanner)]
+primary_texts_commented: [psalms]
+hermeneutical_method: [canonical-criticism, poetry-first, form-criticism-background, theological]
 sources_ingested: 1
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [commentator, nicot, psalms, canonical-criticism, three-authors, poetry]
 ---
 
-The NICOT Psalms (2014) is the only co-authored commentary in the wiki and among the most recent NICOT volumes. The three co-authors — Nancy deClaissé-Walford, Rolf A. Jacobson, and Beth LaNeel Tanner — dedicated the volume to their teachers William Bellinger, Patrick Miller, and J.J.M. Roberts, three of the most significant Psalms scholars of the late 20th century.
+# deClaissé-Walford, Jacobson, and Tanner
 
-## Division of Labor
+The NICOT *Book of Psalms* (2014) is the wiki’s only co-authored NICOT volume among current OT fidelity re-ingests. The three dedicated the work to their teachers William H. Bellinger, Jr., Patrick D. Miller, and J. J. M. Roberts.
 
-- **Rolf A. Jacobson** (Luther Seminary): Wrote Introduction sections I-III (title/text/translation, authorship/superscriptions, form criticism and historical approaches) and V-VIII (poetry, themes and theology, analysis of contents, bibliography)
-- **Nancy deClaissé-Walford** (McAfee School of Theology): Wrote Introduction section IV ("The Canonical Shape of the Psalter"), the commentary's most original and distinctive contribution; also portions of the psalm commentary
-- **Beth LaNeel Tanner** (New Brunswick Theological Seminary): Portions of the psalm commentary; specializes in intertextuality in the Psalter
+**Source page:** [[declaisse-walford-psalms-nicot]] · **Primary text:** [[psalms]]
 
-## Hermeneutical Method
+## Origin of the volume (Acknowledgments)
 
-### 1. Canonical Shape as Primary Lens
+On a snowy night at the 2001 SBL Annual Meeting in Denver, Robert Hubbard and Allen Myers invited three relatively young psalm scholars to co-author the NICOT Psalms: Nancy deClaissé-Walford (McAfee), Rolf Jacobson (then Augsburg; later Luther Seminary), and Beth LaNeel Tanner (New Brunswick). They divided translation, notes, and commentary across self-assigned portions over years of work. Tanner names mentor Katharine Sakenfeld and explicitly brings feminist and anti-racist commitments to her scholarship; deClaissé-Walford completed her portion on a 2007 sabbatical; Jacobson acknowledges Wabash Center support and research assistants.
 
-DeClaissé-Walford's foundational contribution, building on Gerald Wilson's landmark 1985 work (*The Editing of the Hebrew Psalter*). Wilson demonstrated that the Psalter was not a random anthology but was editorially shaped — the five-book divisions are purposeful; the doxologies are coordinated editorial additions; the psalm sequences tell a story.
+## Division of labor (verified by author signatures in the body)
 
-DeClaissé-Walford extends Wilson's thesis into a full narrative reading: the five books narrate Israel's history from the Davidic monarchy (Books 1-2) through the destruction and exile (Book 3) to the exile's theological crisis (Book 4) and the restoration (Book 5). This makes the *sequence* of psalms hermeneutically significant — not just each psalm individually but the editorial arrangement that surrounds it.
+Signatures in the ebook body (ALL-CAPS name at unit end) map approximately as:
 
-This is the most radical canonical-critical method in the wiki. [[barry-webb|Webb's]] Judges uses canonical criticism to read the book's overall shape; [[peter-leithart|Leithart's]] Chronicles uses typological recapitulation. DeClaissé-Walford's canonical shape reading goes further: the *order* of the 150 psalms has been editorially shaped to tell a story, and that story is the primary context for interpreting individual psalms.
+| Author | Signature blocks in body | Typical units |
+|---|---|---|
+| **Rolf A. Jacobson** | Book One majority; Book Four close (≈Pss 100–106); Introduction §§I–III, V–VII | Pss 1–21 (most), 23–24, 27–30, 33–34, 36, 39–41; 100–106; Intro title/text, authorship, form criticism, poetry, themes, contents |
+| **Beth LaNeel Tanner** | Book One select; Book Two majority after Ps 51; **all of Book Three**; Book Four open through ≈Ps 99 | Pss 22, 25–26, 31–32, 35, 37–38; 52–89; 90–99; Book Three & Four intros in her span |
+| **Nancy deClaissé-Walford** | Book Two open (Korah/Elohistic); **all of Book Five**; Introduction §IV | Pss 42–51; 107–150; Canonical Shape of the Psalter |
 
-### 2. Poetry-First Hermeneutic
+Units overlap books; always prefer the signature on the individual psalm.
 
-Jacobson and Tanner advance the strongest methodological claim for poetry in the wiki: "The meaning of the psalms exists *in, with, and under* the poetic language." Not the aesthetic shell around a theological kernel, but the form in which the theological meaning exists. Meaning cannot be extracted from metaphor, imagery, and parallelism without damaging the meaning.
+## Hermeneutical method
 
-The key technical categories: **parallelism** (the defining feature of Hebrew poetry; no meter, no rhyme — but the juxtaposition of cola that are "parallel" but never merely synonymous); **twin psalms** (paired psalms that function as literary units); **acrostic psalms** (alphabetic structure as a theological statement about completeness); **evocative language** (metaphor, simile, hyperbole as the medium of theological truth).
+### 1. Canonical shape as primary lens (deClaissé-Walford)
 
-### 3. Historical-Contextual Awareness
+Building on Gerald Wilson’s *The Editing of the Hebrew Psalter* (1985) and McCann’s shape-and-shaping program: the Psalter is not a random anthology; five-book divisions and doxologies are purposeful; the **sequence** narrates Israel from Davidic monarchy through exile to restoration under Yahweh’s kingship. She names this “the story of the shaping of survival” — a constitutive document for postexilic identity when temple/worship replaced king/court as focal point.
 
-The commentary does not ignore form criticism (Gunkel, Mowinckel) or historical approaches, but treats them as background rather than primary method. The life settings of individual psalm types illuminate their language; the canonical sequence in which they now appear determines their primary meaning. The "Sitz im Leben" (life setting) that matters most is the exilic/postexilic community of faith that shaped the final Psalter.
+### 2. Poetry-first (Jacobson / Tanner)
 
-### 4. Lament as Theologically Necessary
+“The meaning of the psalms exists *in, with, and under* the poetic language.” Parallelism (not meter/rhyme) is the defining feature; multi-level (within colon, between cola, stanzas, twin psalms). Form is not shell around a theological kernel.
 
-The commentary treats the lament psalms not as failures of faith but as legitimate, necessary, and even exemplary forms of prayer. Psalm 88 (ending in unrelieved darkness) is not a theological problem to be explained away but a model of radical honesty with God. The Psalter's movement from lament to praise requires the lament to be genuine — a faith that bypasses suffering for immediate doxology is not the faith the Psalter models.
+### 3. Form criticism as background, not master key (Jacobson)
 
-## Key Theological Positions
+Surveys Gunkel / Mowinckel / Gerstenberger (cult-setting stream) and Westermann / Brueggemann (theological stream). The volume shares more with the second but resists reducing each psalm to a type; each is a unique prayer within the Psalter’s canonical story.
 
-**The five-book narrative structure**: Books 1-2 (David/Solomon), Book 3 (exile's crisis), Book 4 (Moses/"YHWH reigns"), Book 5 (restoration). The Psalter is a survival document for postexilic Israel — a new constitution for post-national identity.
+### 4. Lament as theologically necessary
 
-**Psalm 89 as the hinge**: The Psalter's editorial climax in the moment of crisis — the Davidic covenant apparently broken (89:38-44). Book Four's response is not to restore David but to proclaim YHWH as king directly, returning to Mosaic/pre-monarchic foundations.
+Prayers for help, including unrelieved complaint (Ps 88) and imprecation (69, 109, 137), are legitimate sacred speech — not failures of faith. Tanner: a God who does not condemn honest painful conversation may better represent divine love than “nicer” texts.
 
-**The theological center debate**: The commentary engages all major proposals without adjudicating: Brueggemann (dialectical: God's incommensurability + mutuality), Mays ("YHWH reigns"), Creach ("refuge"), Wilson (sovereignty), McCann (justice + *ḥesed*), Jacobson ("YHWH is faithful"). The commentary itself implicitly favors a synthesis centered on divine faithfulness (*ḥesed*) exercised through sovereign kingship.
+### 5. Translation policy (Jacobson)
 
-**Lament as paradigmatic faith**: The psalms of complaint, accusation, and even despair are not lapses but models. The Psalter's movement from candor to gratitude, from complaint to praise, is the authorized shape of Israel's faith — and by extension, the authorized shape of Christian prayer.
+BHS base; traditional English versification; *ḥeseḏ* left as loanword **hesed** (130/255 OT uses in the Psalter). Inclusive language for humanity where poetry allows.
 
-## Comparison with Other Ingested Commentators
+## Characteristic positions (attributed)
 
-| Feature | deClaissé-Walford et al. (NICOT Psalms) | Hartley (NICOT Job) | Leithart (BTC Chronicles) | Webb (NICOT Judges) |
-|---|---|---|---|---|
-| Primary method | Canonical shape (editorial sequence as narrative) | Message-focused; literary unity | Typological-figural; post-critical doctrinal | Narrative-canonical |
-| Technical apparatus | Full (parallelism, form criticism, text-critical) | Moderate | None | Substantial (literary) |
-| Canon as hermeneutical key | Yes — the sequence of 150 psalms is the unit | No — book level is the unit | Yes — canonical recapitulation | Yes — canonical literary |
-| Lament as positive category | Central — lament is paradigmatic faith | Central — Job's lawsuit is legitimate | Peripheral | Central (Judges as lament) |
-| ANE comparison | Moderate (cultic setting; poetry parallels) | Extensive (parallel literature) | None | Minimal |
+- **Five-book narrative** (deClaissé-Walford): Book 1 David; Book 2 Solomon; Book 3 crisis/destruction; Book 4 Moses / YHWH reigns; Book 5 return and praise.
+- **Ps 89 as hinge** (Tanner): covenant *hesed* praised then accused; 89:49 unanswered; pairs with Ps 88 as darkest place in the Psalter.
+- **Book Four answer** (Tanner): YHWH as worldwide king; no human king/David/Jerusalem at the enthronement center (93–99); Moses envelope (90 / 106:23).
+- **Superscriptions** (Jacobson): editorial; *ledāwiḏ* not original King-David authorship; historical superscriptions = early interpretation; practical anonymity of all psalms.
+- **Yarchin 150-division** (Jacobson reporting): only ~21% of medieval MT MSS match BHS 150; volume honors 150 with caveat.
+- **Royal psalms as seedbed of messianic hope** (Jacobson): retained after end of monarchy.
+- **Imprecation** (Nancy / Tanner): not omitted; 109 densest individual imprecation; 137:9 quoted; justice-for-victims and non-violent-speech receptions recorded, not used to erase the text.
+
+## Comparison with other ingested commentators
+
+| Feature | deClaissé-Walford et al. (NICOT Psalms) | Hartley (NICOT Job) | Webb (NICOT Judges) |
+|---|---|---|---|
+| Primary method | Canonical shape (editorial sequence as narrative) | Message-focused; literary unity | Narrative-canonical |
+| Poetry | Central (“in, with, and under”) | Moderate | Literary but prose narrative |
+| Lament as positive | Central (incl. Ps 88) | Central (Job’s lawsuit) | Central (book as lament) |
+| ANE / form criticism | Moderate background | Extensive ANE parallels | Minimal |
 
 ## Sources Ingested
 
-1. [[declaisse-walford-jacobson-tanner|deClaissé-Walford, Nancy; Jacobson, Rolf A.; Tanner, Beth LaNeel]]. *The Book of Psalms*. NICOT. Grand Rapids: Eerdmans, 2014.
+1. [[declaisse-walford-psalms-nicot|deClaissé-Walford, Nancy; Jacobson, Rolf A.; Tanner, Beth LaNeel]]. *The Book of Psalms*. NICOT. Grand Rapids: Eerdmans, 2014. — fidelity re-ingest 2026-07-18.

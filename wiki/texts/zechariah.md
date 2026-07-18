@@ -15,7 +15,7 @@ last_updated: 2026-07-18
 tags: [text, old-testament, prophets, minor-prophets, twelve, zechariah, night-visions, branch, messiah, passion-narrative, post-exilic]
 ---
 
-Zechariah is the eleventh book of the Minor Prophets (the Twelve) and the longest of them. A priest-prophet active in the post-exilic restoration community under Zerubbabel (governor) and Joshua (high priest), Zechariah shares the date 520 BCE with Haggai and joins him as one of the prophets who drove the completion of the Second Temple (Ezra 5:1-2; 6:14). The book is also the OT's single richest source for NT Passion narrative quotations — more of its language appears verbatim in the Passion accounts than almost any other OT book.
+Zechariah is the eleventh book of the Minor Prophets (the Twelve) and the longest of them. A priest-prophet active in the post-exilic restoration community under [[zerubbabel|Zerubbabel]] (governor) and [[joshua-son-of-jehozadak|Joshua]] (high priest), Zechariah shares the date 520 BCE with [[haggai|Haggai]] and joins him as one of the prophets who drove the completion of the Second Temple (Ezra 5:1-2; 6:14). The book is also the OT's single richest source for NT Passion narrative quotations — more of its language appears verbatim in the Passion accounts than almost any other OT book.
 
 ## Historical Background
 

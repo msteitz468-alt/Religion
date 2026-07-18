@@ -1,12 +1,12 @@
 ---
 title: The *Pistis Christou* Debate — Faith IN Christ or Faithfulness OF Christ?
-text_locus: Galatians 2:16 (×2); 2:20; 3:22; Romans 3:22, 26; Ephesians 3:12; Philippians 3:9
+text_locus: Galatians 2:16 (×2); 2:20; 3:22; Romans 3:22, 26; Ephesians 3:12; Philippians 3:9 (Hansen PNTC: objective genitive preferred)
 positions:
   - Objective genitive — "faith in [Jesus] Christ": human believing directed toward Christ (traditional; most English translations; Moo, Schreiner, Seifrid, Dunn late)
   - Subjective genitive — "faithfulness of [Jesus] Christ": Christ's own faith/fidelity (Hays, R. Longenecker, D. Campbell, Hooker)
 traditions_involved: [Christianity — NT scholarship broadly]
 resolution_status: open
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, pauline, greek, christology, justification]
 ---
 
@@ -41,7 +41,7 @@ The following constructions are typically grouped together:
 
 **Verbal parallel**: The verb *pisteuō* never has Christ as subject (with the meaning "believe") in the NT. All 200 NT instances of *pisteuō* have humans (or a group) as subject, with God/Christ as the object (toward whom faith is directed). If *pisteuō* consistently expresses human faith *toward* Christ, the nominalized form *pistis* should follow the same pattern.
 
-**Contextual argument (Moo's strongest)**: In Galatians 3:6–9, Paul's central argument revolves around Abraham's human faith — "He believed God, and it was credited to him as righteousness." This human faith is the model for the blessing that comes to "those who believe" (3:9). The "faith" in 3:22 (just a few verses later) must be continuous with this human faith in Abraham's pattern. Moreover, 2:16 pairs *pistis Iēsou Christou* with the verb *episteusamen* ("we believed in Christ Jesus") — the explicit verbal parallel confirms human believing, not Christ's faithfulness, is in view.
+**Contextual argument (Moo's strongest)**: In Galatians 3:6–9, Paul's central argument revolves around Abraham's human faith — "He believed God, and it was credited to him as righteousness." This human faith is the model for the blessing that comes to "those who believe" (3:9). The "faith" in 3:22 (just a few verses later) must be continuous with this human faith in Abraham's pattern. Moreover, 2:16 pairs *pistis Iēsou Christou* with the verb *episteusamen* ("we believed in Christ Jesus") — the explicit verbal parallel confirms human believing, not Christ's faithfulness, is in view. Fidelity re-ingest loci: Moo prefers objective genitive because "(1) it matches Paul's invariable custom of using the cognate verb to refer to human believing" and because *eis Christon Iēsoun episteusamen* "must be roughly equivalent to πίστις Ἰησοῦ Χριστοῦ" (raw L2589; [[moo-galatians-becnt|source]]). Notes add that early Greek interpreters took the genitive as objective (L15709).
 
 **Prepositional parallels**: When Paul makes the object of faith explicit through a preposition (rather than a genitive), he uses *eis* ("faith into/toward Christ," Acts 20:21; 24:24; 26:18; Col. 2:5) — never Christ as the agent of faith. This makes an objective genitive the natural reading.
 
@@ -70,8 +70,9 @@ The debate also intersects with:
 
 - [[galatians|Letter to the Galatians]] — primary locus (Gal. 2:16 ×2; 2:20; 3:22)
 - [[romans|Letter to the Romans]] — secondary locus (Rom. 3:22, 26)
-- [[douglas-moo|Douglas J. Moo]] — defends objective genitive throughout
+- [[douglas-moo|Douglas J. Moo]] · [[moo-galatians-becnt|Moo Galatians BECNT]] — defends objective genitive throughout (L2589; Notes L15709)
 - [[thomas-schreiner|Thomas R. Schreiner]] — defends objective genitive on Romans
+- [[g-walter-hansen|G. Walter Hansen]] · [[hansen-philippians-pntc]] — Phil 3:9 *pisteōs Christou* as faith **in** Christ (objective)
 - [[justification|Justification]] — the theological stakes of the debate
 - [[new-perspective-on-paul|New Perspective on Paul]] — related debate; participatory readings often combine with subjective genitive
 - [[theology-of-the-cross|Theology of the Cross]] — Seifrid's participatory emphasis connects with, but does not require, the subjective genitive reading

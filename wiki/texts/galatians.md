@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Greek
 date_range: c. AD 48–57 (destination and date disputed; possibly earliest surviving Pauline letter)
-sources_ingested: 2
-last_updated: 2026-06-06
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [text, christianity, new-testament, pauline, epistle]
 ---
 
@@ -27,13 +27,13 @@ Pauline authorship is universally accepted. The remaining questions — destinat
 - **South Galatian (provincial)**: the cities of the first missionary journey (Pisidian Antioch, Lystra, Iconium, Derbe; Acts 13–14). This allows a date as early as c. AD 48 — possibly even before the Jerusalem Council (Acts 15).
 - **North Galatian (ethnic/regional)**: the Celtic heartland in north-central Asia Minor, possibly evangelized during the second or third missionary journey (Acts 16:6; 18:23). This requires a date of at least AD 50–54.
 
-[[douglas-moo|Moo]] (BECNT, 2013) slightly favors the South Galatian view: Paul generally uses provincial names; evidence for a Pauline mission in North Galatia is uncertain; and the Roman road network reached the south much earlier. The evidence is nevertheless genuinely balanced. The significance of the destination question lies primarily in the date: a South Galatian, pre-Jerusalem Council Galatians would be the earliest surviving Pauline letter, predating 1–2 Thessalonians.
+[[douglas-moo|Moo]] (BECNT, 2013; [[moo-galatians-becnt|source page]]) **slightly prefers** the South Galatian view: evidence for a Pauline mission in South Galatia is "explicit and unquestioned," while North Galatia is "uncertain"; major Roman roads into ethnic North Galatia arrive only in the 70s–80s; Acts 16:6 / 18:23 are finely balanced but, with Paul's movements, tilt south (raw L928–L930). He stresses that South Galatia does **not** lock one into an early date (L906). Lexical "Galatia/Galatians" is inconclusive (L918).
 
-**Correlating Galatians 2:1–10 with Acts**: Paul's second Jerusalem visit (Gal. 2:1–10), in which he consulted the "pillars" (James, Peter, John) over the gospel, may match either:
-- Acts 11:27–30 (the famine relief visit, c. AD 46): this would allow Galatians to be written before the Jerusalem Council, making the absence of any appeal to the Council's decision intelligible
-- Acts 15:1–29 (the Apostolic Council, c. AD 48–49): which produced a formal ruling on the very issue at stake in Galatia
+**Correlating Galatians 2:1–10 with Acts**: Paul's second Jerusalem visit may match either:
+- Acts 11:27–30 (famine-relief visit): Moo **weakly prefers** this — he reads Gal. 2:2 as a **private** meeting (not the public Acts 15 Council); prefers ~AD 45–47 for the consultation; counts "fourteen years" from conversion (~12+ years inclusively); holds Paul would not omit a Jerusalem visit under polemical pressure (L1156–L1158; L2321–L2343)
+- Acts 15:1–29 (Apostolic Council): the majority alternative; produced a formal ruling on the very issue at stake in Galatia
 
-If Gal. 2 = Acts 11, Galatians is pre-Council; if Gal. 2 = Acts 15, Galatians was written to churches already aware of the Council's existence.
+If Gal. 2 = Acts 11, Galatians is pre-Council and possibly the earliest surviving Pauline letter (~AD 48 on Moo's South + early package); if Gal. 2 = Acts 15, Galatians was written with knowledge of the Council (which Paul never cites — an argument Moo and others use for the pre-Council identification). Chronological notices alone do not settle the issue (three variables: event dates; whether fourteen years runs from conversion or first visit; inclusive vs exclusive counting — L1160).
 
 ## The Situation: The Agitators and the Galatians
 
@@ -116,13 +116,15 @@ The NPP (Dunn) restricts "works of the law" to Jewish identity markers (circumci
 Whether *pistis Iēsou Christou* in 2:16 (×2), 2:20, and 3:22 is an objective genitive ("faith in Jesus Christ") or a subjective genitive ("faithfulness/faith of Jesus Christ") has become one of the major debates in Pauline studies. Moo defends the objective genitive reading against Hays, Campbell, et al. See [[pistis-christou|*Pistis Christou* — Faith of Christ Debate]].
 
 **5. The Law of Christ (6:2)**
-Does "the law of Christ" (6:2) mean (a) the OT law as interpreted and fulfilled in Christ, or (b) the new covenant's own ethical authority — Christ's teaching and the apostles, which is the new standard for believers? Moo argues (b), making a sharper break between the Mosaic covenant and the new covenant than many interpreters allow.
+Does "the law of Christ" (6:2) mean (a) the OT law as interpreted and fulfilled in Christ, or (b) the new covenant's own ethical authority — Christ's teaching and the apostles? [[douglas-moo|Moo]] argues **(b)**: genitive "belonging to/stemming from" Christ (// 1 Cor 9:20–21 *ennomos Christou*); Lightfoot paraphrase: "If you must observe a law, let it be the law of Christ" (L5003). Constructive definition: "prescriptive principles stemming from the heart of the gospel (usually embodied in the example and teachings of Jesus), which are meant to be applied to specific situations by the direction and enablement of the Holy Spirit, being always motivated and conditioned by love" (L5011). Burden-bearing (broader than but including restoring sinners) is how believers "fulfill" it (L4977). Makes a sharper break between Mosaic covenant and new-covenant ethics than many interpreters allow, while still connecting 5:14's love-fulfillment of "the law."
 
 **6. Gal. 3:24 — The Paidagōgos**
 Is the law a "tutor" that taught Israel about Christ, or a "guardian/supervisor" that restrained Israel until Christ came? Most modern translations favor "guardian" — the law's role was custodial, not pedagogical. Moo accepts this but notes the law also serves as a "pointer" to Christ as the climax of salvation history.
 
 **7. "The Israel of God" (6:16)**
-Does "the Israel of God" refer to (a) Jewish believers specifically, or (b) the whole church (Jews and Gentiles) as the new Israel? One of the few clear NT texts on the church's relationship to "Israel." The question is exegetically contested and theologically fraught.
+Syntactical options for the καί that joins "peace… and mercy" to "the Israel of God" yield three main readings: (1a) epexegetic — Israel of God = those who follow the new-creation "rule"; (1b) conjunctive — a distinct/overlapping group; (2) peace on rule-followers, mercy also on Israel of God (L5175–L5191). Option 1a yields "new-covenant people" (the most common interpretation: Chrysostom, Calvin, Luther, Lightfoot, Barclay, Martyn, Schreiner, Hays, R. Longenecker, et al.). Options 1b/2 suggest ethnic Israel, Jewish Christians, Rom 11:26 Israel, or combinations.
+
+[[douglas-moo|Moo]] decides for **1a**: Galatians' sustained dismantling of Jew/Gentile barriers (3:7–29; 3:28; 4:28) makes it "inconceivable" that Paul would reerect ethnic blessing on an Israel distinct from Christian believers; "Israel of God" is "another way of referring to 'all who follow this rule'" (L5207–L5209). He notes the phrase tacitly recognizes ethnic/national Israel while insisting the Israel that counts before God is constituted on different grounds. Notes record alternatives (de Boer: law-observant Jewish believers; possible Shemoneh Esreh 19 adaptation — L16497). Contested and theologically fraught; recorded as positions, not adjudicated.
 
 ## Hermeneutical Framework Tracking
 
@@ -143,8 +145,48 @@ This text is subject to multiple overlapping and sometimes conflicting interpret
 - John M. G. Barclay — important studies on grace as "unconditioned gift"; Beyond the New Perspective trajectory
 - N. T. Wright — NPP; "membership in God's people" as the meaning of justification; Moo's primary dialogue partner on justification
 
+## Textual and Manuscript Tradition
+
+Galatians is among the best-attested NT letters in the early papyri and uncials; no major authenticity dispute attaches to the letter as a whole. [[douglas-moo|Moo]] (BECNT) treats text-critical issues unit-by-unit in Additional Notes rather than as a freestanding introduction chapter. Load-bearing mechanical authorship note: 6:11 ("large letters… with my own hand") probably covers only the closing, not the whole letter; if an amanuensis wrote the bulk, the letter's personal force argues for near word-for-word dictation rather than free composition by a confidant (L886). Register discipline: author's translation (form-reflecting, "far from being good translations"), NIV 2011 for other Scripture, and Additional Notes are three evidence classes (L218).
+
+## Scholarship and Historiography
+
+Major modern commentaries Moo cites regularly for excellence or distinctive views: Lightfoot, Burton, Betz, Bruce, Mussner, R. Longenecker, Dunn, Martyn, de Boer (L214). Historiographical axes:
+- **Destination/date** — South (Ramsay, Bruce; Moo slight preference) vs North (Lightfoot; still common, esp. German scholarship)
+- **Gal 2 // Acts** — famine visit (Moo weak preference) vs Acts 15 Council
+- **Rhetorical analysis** — Betz's forensic-rhetoric proposal remains influential on genre even where his full scheme is not followed
+- **Apocalyptic vs salvation-historical** — Martyn's "apocalyptic antinomies" vs readings (including Moo) that combine epochal rupture with Abrahamic continuity
+- **NPP and beyond** — Sanders → Dunn/Wright → Barclay "unconditioned gift"; evangelical responses in Moo, Schreiner, Westerholm, Seifrid
+
+Collection coverage: full-body fidelity re-ingest of Moo BECNT 2013 ([[moo-galatians-becnt]], 2026-07-18); earlier summary pass 2026-06-06. Other major Galatians commentaries (Martyn AB; Longenecker NIGTC; de Boer NTL) are interlocutors in Moo, not independently ingested.
+
+## Sources Ingested
+
+1. [[moo-galatians-becnt|Moo, *Galatians* (BECNT, 2013)]] — full commentary body + Notes (fidelity re-ingest 2026-07-18; first pass 2026-06-06)
+2. Cross-references from other Pauline ingests (Schreiner Romans; Weima Thessalonians; etc.) as secondary dialogue
+
+## Concepts
+
+Concept pages developed from or substantially extended by this text:
+
+- [[stoicheia|*Stoicheia*]] — Gal 4:3, 9 (Moo: material elements + associated spirits; associate not equate with law)
+- [[justification|Justification]] — forensic + future-oriented in Galatians (Moo)
+- [[new-creation|New Creation]] — Gal 6:15 cosmic/apocalyptic inauguration (Moo)
+- [[circumcision|Circumcision]] — agitators' demand; 5:2–4; 6:12–15
+- [[new-perspective-on-paul|New Perspective on Paul]] · [[covenantal-nomism|Covenantal Nomism]]
+- [[holy-spirit|Holy Spirit]] — received by faith (3:2–5); walk/fruit (5:16–25)
+- [[covenant|Covenant]] · [[new-covenant|New Covenant]] — Abrahamic priority over temporary Mosaic phase
+
+## Controversies
+
+- [[new-perspective-on-paul-controversy|New Perspective on Paul]] — primary battleground
+- [[pistis-christou|*Pistis Christou*]] — Gal 2:16; 2:20; 3:22
+- [[acts-paul-tensions|Acts–Paul Tensions]] — Gal 2 // Acts 11 vs 15; Antioch
+- [[james-paul-justification|James and Paul on Justification]] — related *dikaioō* debate
+
 ## Key Links
 
+- [[moo-galatians-becnt|Moo Galatians BECNT — source page]]
 - [[douglas-moo|Douglas J. Moo]] — primary commentary source
 - [[justification|Justification]] — the central theological concept of the letter
 - [[new-perspective-on-paul|New Perspective on Paul]] — the major interpretive debate that Galatians generates
@@ -155,9 +197,5 @@ This text is subject to multiple overlapping and sometimes conflicting interpret
 - [[1-corinthians|First Letter to the Corinthians]] — "the world has been crucified to me" (Gal. 6:14) echoes 1 Cor. 1:18–25
 - [[abraham|Abraham]] — the central OT figure in the argument of chapters 3–4
 - [[covenant|Covenant]] — the distinction between Abrahamic and Mosaic covenants is foundational to the letter's argument
-
-## Concepts
-
-Concept pages developed from this text:
-
-[[stoicheia]]
+- [[paul-apostle|Paul]] · [[peter-apostle|Peter]] · [[james-the-just|James]] · [[barnabas|Barnabas]] · [[titus|Titus]]
+- [[antioch|Antioch]] — Incident at Antioch (2:11–14)

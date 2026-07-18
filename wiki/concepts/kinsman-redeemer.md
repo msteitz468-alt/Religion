@@ -157,7 +157,7 @@ come to his aid."
 
 ## Sources Ingested
 
-1. [[peter-lau|Lau, Peter H. W.]]. *Ruth*. NICOT. Grand Rapids: Eerdmans, 2023.
+1. [[peter-lau|Lau, Peter H. W.]]. *Ruth*. NICOT. Grand Rapids: Eerdmans, 2023. — see [[lau-ruth-nicot|source page]] (full re-read 2026-07-18).
 2. [[john-hartley|Hartley, John E.]] *The Book of Job*. NICOT. Grand Rapids: Eerdmans, 1988 —
    see [[hartley-job-nicot|source page]]. Ingested 2026-07-18.
 

@@ -4,7 +4,7 @@ text_locus: 2 Peter 2 (≈ Jude 4–18); parallels also in 2 Peter 1 and 3
 positions: [2-Peter-used-Jude (Green, majority), Jude-used-2-Peter (Bigg, Moo), common-source, same-author (Robinson)]
 traditions_involved: [modern NT scholarship]
 resolution_status: open (majority for Jude's priority)
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, literary-dependence, imitatio, source-criticism]
 ---
 
@@ -14,8 +14,8 @@ A large portion of the [[jude|Letter of Jude]] reappears, in roughly the same or
 [[2-peter|2 Peter]] — the overlap concentrated in **2 Peter 2 ≈ Jude 4–18**, with further parallels
 in 2 Peter 1 and 3. The literary relationship is undeniable; its *direction* is one of the classic
 source-critical puzzles of the catholic epistles, and it bears directly on the dating and authorship
-of both letters. [[gene-green|Gene L. Green]] (BECNT, 2008) adopts the majority view — **2 Peter used
-Jude** — and frames the borrowing through the ancient literary category of *imitatio*.
+of both letters. [[gene-green|Gene L. Green]] (BECNT, 2008; [[green-jude-2peter-becnt|source page]], fidelity re-ingest 2026-07-18) adopts the majority view — **2 Peter used
+Jude** — and frames the borrowing through the ancient literary category of *imitatio*. Body digests R6–R7 supply concrete adaptation notes (Jude 4/5–8/11–13 reworked; flood added from other tradition; Michael legend dropped; Balaam expanded).
 
 ## The Four Options
 
@@ -40,11 +40,12 @@ Green (with the majority) judges 2 Peter the borrower:
 - **2 Peter is longer and more elaborate**; the early-church tendency was toward *expansion*, not
   abridgment (Kelly).
 - **2 Peter suppresses Jude's apocryphal citations** — the 1 Enoch quotation (Jude 14–15) disappears,
-  and the Michael–Moses dispute (Jude 9) is softened (2 Pet. 2:10–11) — most naturally read as Peter
+  and the Michael–Moses dispute (Jude 9) is dropped while “glories” slander is retained with “they show no fear” (2:10b) — most naturally read as Peter
   editing *out* material he found awkward. See [[jude-1-enoch-canon|Jude's Use of 1 Enoch]].
+- **Flood generation (2:5) is not from Jude** (Jude’s catalog omits it); Green places 2:4–8 in the broader Jewish tradition linking Watchers, flood, and Sodom, and notes conceptual handling similar to 1 Pet 3:19–20 (digest R6).
 - Against a **common source**: the differences are adequately explained by Peter's adaptation, so
-  Ockham's razor favors direct dependence; the *shared ordering* of material is the strongest
-  positive evidence for literary (not common-source) dependence.
+  Ockham's razor favors direct dependence (intro L2298); the *shared ordering* of material is the strongest
+  positive evidence for literary (not common-source) dependence. Same-author (Robinson) is least likely given vocabulary/style differences.
 
 Green concedes (with Neyrey) that the case is strong but "by no means proven."
 

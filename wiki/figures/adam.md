@@ -5,7 +5,7 @@ tradition: cross-tradition (Judaism, Christianity, Islam)
 textual_sources: [Genesis 1–5; 1 Chronicles 1:1; Hosea 6:7; Romans 5; 1 Corinthians 15; Qur'an (Adam); The Zohar; Ibn Arabi, Fusus al-Hikam]
 dates: legendary / primordial
 roles: [first human, progenitor of humankind, first sinner, type/antitype, microcosm]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-18
 tags: [figure, cross-tradition, judaism, christianity, islam, kabbalah, sufism, primordial]
 ---
@@ -119,6 +119,12 @@ Attributed to [[victor-hamilton|Victor P. Hamilton]] ([[hamilton-genesis-1-17-ni
 - **Genealogy:** linear Adam→Noah (Gen 5) vs segmented Noah’s sons; cannot simply add ages for age of mankind (West Semitic ten-generation archetypes).
 
 See [[fall-of-man|the Fall]], [[original-sin|Original Sin]] if present; [[paul-apostle|Paul]].
+
+---
+
+## Schreiner (BECNT Romans) on Romans 5:12–21 (2026-07-18)
+
+Attributed to [[thomas-schreiner|Schreiner]] ([[schreiner-romans-becnt|Romans, BECNT]], 1998), who calls 5:12–21 "one of the most difficult and controversial passages… in all of Pauline literature." His reading of the *eph' hō* clause (5:12) is "upon the basis of which": on the basis of death entering the world through Adam, "all people sinned" — each human being *personally* (rejecting the Augustinian *in quo*, "in whom [Adam] all sinned," on linguistic grounds). Yet this is "not Pelagian": all sin *because* they "enter the world alienated from God and spiritually dead by virtue of Adam's sin." His striking summary: **"original death is more prominent than 'original sin' in this text."** On the *mechanism*, he adopts **representative/federal headship plus the imputation of Adam's sin** (rejecting the "realistic/seminal" view — "how can we say that people really sinned in Adam when they had no consciousness of such sin?"), together with an inherited corrupt nature; only the doctrine of original sin, he holds, "satisfactorily explains why sin is a universal experience." Adam is historical, and *katastathēsontai* (5:19) means people "actually become sinners and righteous." He rejects a **universalist** reading of the "all" affected by Christ (5:15–19): those are "all without distinction" (Jew and Gentile), not "all without exception" (note *hoi lambanontes*, "those who receive," 5:17).
 
 ---
 

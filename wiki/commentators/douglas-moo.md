@@ -5,8 +5,8 @@ dates: b. 1950 (est.)
 tradition: Christianity (evangelical Protestant; Reformed-evangelical)
 affiliation: Wheaton College Graduate School (Wheaton, IL); previously Trinity Evangelical Divinity School (Deerfield, IL)
 primary_texts_commented: Galatians, Romans, Colossians/Philemon, James, 2 Peter/Jude
-sources_ingested: 3
-last_updated: 2026-06-06
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [commentator, christianity, new-testament, evangelical, pauline, reformed, general-epistles]
 ---
 
@@ -56,39 +56,55 @@ His long tenure at TEDS (now Trinity Evangelical Divinity School, part of Trinit
 
 ## The Letter of James (PNTC, 2000)
 
+**Source page:** [[moo-james-pntc|Moo, *The Letter of James* (PNTC, 2000)]] — fidelity re-ingest
+2026-07-18 (full body: prefaces + Introduction + Jas 1:1–5:20; ~345 grounded claims; zero recoveries).
+Supersedes the 2026-06-06 bookkeeping, which produced no source page or coverage ledger.
+
 Moo's *The Letter of James* (Pillar New Testament Commentary, Eerdmans, 2000) is a substantial
-revision and near-doubling of his earlier Tyndale (TNTC) commentary (1985). It shows the same
-grammatical-historical method applied to a very different kind of book, and demonstrates Moo's range
-beyond the Pauline corpus into the General Epistles. D. A. Carson (series editor) praises its
-"deceptive simplicity" and "gentle tone of thoughtful application." Characteristic positions:
+revision and near-doubling of his earlier Tyndale (TNTC) commentary (1985). Carson (series preface)
+calls it "more than an enlargement" of the TNTC volume — a "fresh and detailed work" with "deceptive
+simplicity" and a "gentle tone of thoughtful application." In the author's preface Moo states he
+remains convinced that "the heart of the letter is a call to wholehearted commitment to Christ."
+Characteristic positions (all attributed; densified under the re-ingest):
 
 **1. Traditional authorship, early date.** Moo defends [[james-the-just|James the Lord's brother]]
 as the author and argues for a date in the *middle 40s* — possibly the earliest NT document,
-predating the Apostolic Council. He answers the four standard critical objections and presses a
-counter-objection: ancient pseudepigraphal letters were not accepted as authoritative when known to
-be forged, so canonical reception presumes belief in genuine authorship. See
+predating the Apostolic Council (Acts 15). He answers the four standard critical objections
+(kinship-silence; good Greek; "liberal" Torah; the Paul relationship) and presses a counter-objection:
+ancient pseudepigraphal letters were not accepted as authoritative when known to be forged, so
+canonical reception presumes belief in genuine authorship. Early neglect is distinguished from
+rejection (Origen first names James; Eusebius *antilegomena*; Jerome/Augustine secure the West). See
 [[james-authorship|James: Authorship and Date]].
 
 **2. Spiritual wholeness as the central concern.** Against Dibelius's "chaotic paraenesis" reading
 and over-structured rhetorical schemes alike, Moo finds the letter's unifying concern in the call to
-undivided commitment to God — *teleios* (wholeness) against *dipsychos* (double-mindedness) and
-"friendship with the world" (4:4). The emotional climax (4:4–10, "you adulteresses") is its heart.
-See [[double-mindedness|Double-Mindedness and Spiritual Wholeness]].
+undivided commitment to God — *teleios* (wholeness/maturity, 1:4) against *dipsychos*
+(double-mindedness, 1:8; 4:8; possibly coined by James) and "friendship with the world" (4:4).
+Preferred genre label: **sermon/homily put into letter form** (not pure wisdom book). The emotional
+climax (4:4–10, "you adulterous people") is its heart. See
+[[double-mindedness|Double-Mindedness and Spiritual Wholeness]].
 
-**3. The James/Paul justification resolution.** Moo's signature contribution. *dikaioō* means
-different things in the two authors: for Paul, the initial forensic declaration at conversion; for
-James, the ultimate *vindication at the final judgment*, which takes works into account. James's
-"faith alone" denotes the *bogus*, word-only faith he attacks (cf. the demons, 2:19), not Pauline
-faith. He rejects both the "demonstrate/show-to-be-righteous" escape (the popular evangelical move)
-and the "two justifications" model, integrating James's apparent synergism into Pauline monergism by
-treating works as Spirit-produced fruit. See [[james-paul-justification|James and Paul on
+**3. The James/Paul justification resolution.** Moo's signature contribution on 2:14–26 (ring
+structure with v. 24 at the center). *dikaioō* means different things in the two authors: for Paul,
+the initial forensic declaration at conversion; for James, the ultimate *vindication at the final
+judgment*, which takes works into account. James's "faith alone" denotes the *bogus*, word-only faith
+he attacks (cf. the demons, 2:19; anaphoric "such faith" in 2:14), not Pauline faith. He rejects both
+the "demonstrate/show-to-be-righteous" escape (the popular evangelical move) and non-eschatological
+soft readings of *sōzō*, integrating James's apparent synergism into Pauline monergism by treating
+works as fruit of the **implanted word** (1:21). See [[james-paul-justification|James and Paul on
 Justification]] and [[covenantal-nomism|Covenantal Nomism]].
 
-**4. Exegetical decisions.** Divine jealousy (not human envy) in 4:5; anointing as a *consecration
-symbol* (not medicinal, sacramental, or exorcistic) in 5:14; physical (not spiritual) illness and a
-non-mechanical "prayer of faith" in 5:14–16 (with a sharp critique of "enough faith" healing
-theology); the voluntary-oath (not legal-oath) reading of 5:12. See
-[[anointing-healing-james-5|Anointing and Healing of the Sick]].
+**4. Exegetical decisions densified 2026-07-18.**
+- **4:5:** divine jealousy preferred (grammar + spiritual-adultery context decide; *phthonos*
+  lexical data favor human envy but do not win) — "God yearns jealously over the spirit he made to
+  dwell in us."
+- **5:14–16:** physical illness (not spiritual weakness); anointing as *physical act symbolizing
+  consecration* (against medicinal, pastoral-only, sacramental extreme unction, and apostolic-age-only
+  restrictions); healing through the elders' "prayer of faith," with sharp critique of "enough faith"
+  theology that burdens the sufferer.
+- **5:12:** voluntary-oath (not Anabaptist total ban on legal/courtroom oaths); "above all" primarily
+  an epistolary conclusion marker with residual integrity emphasis.
+See [[anointing-healing-james-5|Anointing and Healing of the Sick]].
 
 This volume shows Moo applying his Pauline expertise *ecumenically across the canon*: rather than
 forcing James into a Pauline mold, he lets James's distinct voice stand while seeking underlying
@@ -113,15 +129,50 @@ heard."
 - Moo, "The Law of Christ as the Fulfillment of the Law of Moses: A Modified Lutheran View," in *The Law, the Gospel, and the Modern Christian*, ed. Strickland (Grand Rapids: Zondervan, 1993)
 - Chair, Committee on Bible Translation, NIV 2011
 
+## Sources Ingested
+
+1. [[moo-galatians-becnt|Moo, *Galatians* (BECNT, 2013)]] — full-body fidelity re-ingest 2026-07-18 (first pass 2026-06-06); primary basis for Galatians positions above
+2. [[moo-james-pntc|Moo, *The Letter of James* (PNTC, 2000)]] — full-body fidelity re-ingest 2026-07-18 (first pass 2026-06-06); James/Paul resolution; spiritual wholeness; anointing
+3. Cross-dialogue from [[schreiner-romans-becnt|Schreiner Romans BECNT]] and other Pauline pages
+
+## Galatians BECNT (2013) — Locus-Anchored Positions (fidelity re-ingest)
+
+From the 2026-07-18 re-read of the full commentary body + Notes ([[moo-galatians-becnt]]):
+
+| Position | Moo's stance (attributed) | Key loci |
+|---|---|---|
+| Destination | Slight South Galatian preference; evidence "finely balanced" | L928–L930 |
+| Gal 2 // Acts | Weak preference for Acts 11 famine-relief (private meeting) over Acts 15 | L1156–L1158; L2321–L2343 |
+| Date package | South + early (~AD 48) possible; earliest Paul letter if package holds | Intro; L906 |
+| *Erga nomou* | "Doing what the law requires"; NPP boundary-marker denotation inadequate; Reformers right to treat as synecdoche for "works" | L2577; L2593 |
+| Three-level logic | Salvation-historical + ethnic/social + **anthropological** (inability; Gal 3:10 syllogism) | Intro; L2594+ |
+| *Pistis Christou* | Objective genitive ("faith in Christ"); // *episteusamen*; Abraham 3:6 | L2589 |
+| Justification | Forensic; future/ultimate vindication prominent in Galatians; always by faith not works | L2599+; 5:5 |
+| Union with Christ | More fundamental than justification; forensic + transformation as double gift of union | 2:19–20; Intro |
+| *Paidagōgos* | Child-supervisor with temporal limits (not schoolmaster who "leads to Christ") | L3:24 material |
+| *Stoicheia* | Basic material elements (+ associated spirits); **associate not equate** with law | L3826–L3828 |
+| Law of Christ (6:2) | New-covenant ethical demand (Jesus/apostles + Spirit + love), **not** Mosaic law reinterpreted | L5003; L5011 |
+| Israel of God (6:16) | Epexegetic = all who follow the new-creation rule / new-covenant people | L5207–L5209 |
+| New creation (6:15) | Cosmic/apocalyptic new state of affairs inaugurated by cross/resurrection | L5155–L5161 |
+| Closing structure | Concentric; eschatological bookends with 1:4; omits polite formulas | L5121–L5127 |
+
+**Fidelity note:** the 2026-06-06 summary pass already captured Moo's main theses accurately; the re-ingest supplies verbatim loci, densifies definitions (*stoicheia*, law of Christ, Israel of God), and creates the missing source page / coverage ledger. No major position inversion found (contrast Schreiner Rom 7 correction).
+
 ## Key Links
 
+- [[moo-galatians-becnt|Moo Galatians BECNT — source page]]
+- [[moo-james-pntc|Moo James PNTC — source page]]
 - [[galatians|Letter to the Galatians]] — primary text
-- [[justification|Justification]] — the central theological concept; Moo's contribution to the forensic + future-oriented reading
-- [[new-perspective-on-paul|New Perspective on Paul]] — Moo's most sustained dialogue partner; he accepts the NPP's salvation-historical and ethnic insights while arguing for the anthropological dimension
-- [[pistis-christou|*Pistis Christou* Debate]] — Moo defends the objective genitive
-- [[thomas-schreiner|Thomas R. Schreiner]] — fellow BECNT contributor; shared anti-NPP evangelical justification project
-- [[mark-seifrid|Mark A. Seifrid]] — anti-NPP from a complementary Lutheran-evangelical angle
-- [[romans|Letter to the Romans]] — Moo's other major BECNT commentary; the fuller treatment of justification themes
-- [[james|The Letter of James]] — Moo's PNTC commentary (2000); spiritual wholeness; the James/Paul resolution
-- [[james-paul-justification|James and Paul on Justification]] — Moo's two-senses-of-*dikaioō* solution
-- [[james-authorship|James: Authorship and Date]] — Moo defends traditional authorship and an early date
+- [[james|The Letter of James]] — PNTC 2000 (fidelity re-ingest 2026-07-18)
+- [[justification|Justification]] — forensic + future-oriented reading
+- [[new-perspective-on-paul|New Perspective on Paul]] · [[new-perspective-on-paul-controversy|NPP controversy]]
+- [[pistis-christou|*Pistis Christou* Debate]] — objective genitive
+- [[stoicheia|*Stoicheia*]] · [[new-creation|New Creation]]
+- [[double-mindedness|Double-Mindedness and Spiritual Wholeness]]
+- [[covenantal-nomism|Covenantal Nomism]]
+- [[thomas-schreiner|Thomas R. Schreiner]] — fellow BECNT; shared anti-NPP project
+- [[mark-seifrid|Mark A. Seifrid]] — anti-NPP from Lutheran-evangelical angle
+- [[romans|Letter to the Romans]] — Moo's other major BECNT
+- [[james-paul-justification|James and Paul on Justification]]
+- [[james-authorship|James: Authorship and Date]]
+- [[anointing-healing-james-5|Anointing and Healing of the Sick]]

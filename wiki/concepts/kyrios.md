@@ -2,8 +2,8 @@
 title: Kyrios (Lord)
 domain: theology / Christology
 traditions_using: [Christianity]
-sources_ingested: 1
-last_updated: 2026-06-28
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, christianity, christology, title, greek]
 ---
 
@@ -26,6 +26,10 @@ acclamation to the exalted Jesus is, for Ehrman, the point at which "Jesus has b
 granted the status and honor and glory of the One Almighty God himself." See the
 disputed origins of the title in [[kyrios-christology-origins|Kyrios Christology Origins]].
 
+### Hansen (PNTC) on Phil 2:9–11 and 3:20 (2026-07-18)
+
+Attributed to [[g-walter-hansen|Hansen]] ([[hansen-philippians-pntc]], [[christ-hymn]]). The name given at exaltation is **Lord**, not the earthly name Jesus; *kyrios* carries the LXX/YHWH register via Isa 45. In Roman [[philippi|Philippi]] the acclamation “Jesus Christ is Lord” **reflects and subverts** imperial “Caesar is Lord,” while the *meaning* of the titles remains Jewish monotheistic. At 3:20–21 the same double register applies to **Savior** and Lord: Caesar as “savior of the world” vs the Savior from heaven. Hansen’s “christological monotheism”: worship of Jesus is extension of the worship of the one God, to the glory of the Father (2:11). Positions sit alongside Ehrman/Hurtado without adjudication — see [[kyrios-christology-origins]].
+
 ## Related
 
-[[exaltation-christology]] · [[incarnation]] · [[son-of-man]] · [[kyrios-christology-origins]] · [[philippians]]
+[[exaltation-christology]] · [[incarnation]] · [[son-of-man]] · [[kyrios-christology-origins]] · [[philippians]] · [[christ-hymn]] · [[citizenship]] · [[dyadic-devotion]]

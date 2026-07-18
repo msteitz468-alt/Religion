@@ -2,7 +2,7 @@
 title: The Davidic Covenant (2 Sam 7)
 domain: theology / covenant
 traditions_using: [Judaism, Christianity]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-07-18
 tags: [concept, theology, covenant, old-testament, samuel, davidic, messianic]
 ---
@@ -160,12 +160,25 @@ Provan’s didactic summary of Kings places **promise** at the heart of the LORD
 
 As Kings progresses, accumulated sin (Ahaz, Manasseh) seems to let the conditional view prevail; Judah falls as thoroughly as Israel. Yet **Jehoiachin lives** (2 Kgs 25:27–30)—for Provan a Joash-like reappearance holding open the hope that grace may triumph over law and that 2 Sam 7:15–16 still holds. Parallel: Abrahamic promise (2 Kgs 13:23; 1 Kgs 8:22–53 exile prayer). Division under Solomon is **“not forever”** (1 Kgs 11:39). Recorded as Provan’s narrative-theological reading of the Kings plot, not an adjudication against other covenant models.
 
+## NICOT Psalms — Ps 89 hinge and Book Four answer (2026-07-18)
+
+*Attributed to [[declaisse-walford-jacobson-tanner|Beth Tanner]] and [[declaisse-walford-jacobson-tanner|Nancy deClaissé-Walford]] in [[declaisse-walford-psalms-nicot|*The Book of Psalms* (NICOT, 2014)]].*
+
+**Ps 89 as Psalter hinge (Tanner).** With Ps 88, Psalm 89 is “the darkest place in the whole book of Psalms.” Structure is prayer-for-help in reverse: vv. 1–37 praise God and recite the Davidic claim (linking Exod 34:6 *hesed*/faithfulness to 2 Sam 7 covenant-speech; oracle language that, per Tanner/McCann, goes beyond 2 Samuel 7 so God has “no room to change God’s mind”); vv. 38–51 are the heart — God has rejected, renounced the covenant, defiled the crown (eighteenfold “you” makes God the *cause* of shattered dreams); v. 52 is editorial Book-Three close. The chilling question **89:49** — “Where is your hesed of old… which by your faithfulness you swore to David?” — receives **no answer** in the psalm. Tanner places shaping in the 587 crisis without locking the text to one moment; with Ps 88 it puts theodicy front and center.
+
+**Book Four’s answer (Tanner / deClaissé-Walford).** Books 90–106 answer “of sorts” by shifting focus from Davidic kingship to **YHWH as king of the world** wherever the people are located; Moses envelope (only Mosaic psalm, Ps 90; Moses also at 106:23); enthronement center (93–99) does **not** refer to human king, David, or Jerusalem. deClaissé-Walford’s five-book narrative frames Book Three as destruction/crisis and Book Four as exile struggle for identity, Book Five as return with God as sovereign and David reappearing as leader of praise (not restored political monarch).
+
+**Ps 132 in the Ascents (Nancy).** Royal psalm near the end of Songs of Ascents: dual vows (David’s dwelling for the Lord / God’s vow of offspring and Zion); temple and court as postexilic identity markers — hope that God still dwells among the pilgrims.
+
+Recorded as the NICOT Psalms authors’ canonical-shape and psalm-level readings; not an adjudication against Tsumura’s 2 Sam 7 discourse grammar or Provan’s Kings paradox.
+
 ## Sources Ingested
 
 1. [[david-tsumura|Tsumura, David Toshio]]. *The Second Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2019. — Fidelity re-ingest: [[tsumura-2-samuel-nicot]].
-2. [[peter-leithart|Leithart, Peter J.]]. *1 & 2 Chronicles*. BTC. Grand Rapids: Brazos Press, 2019.
+2. [[leithart-1-2-chronicles-btcb|Leithart, Peter J.]] *1 & 2 Chronicles*. BTC. Grand Rapids: Brazos Press, 2019 — full sequential re-ingest 2026-07-18.
 3. [[block-ezekiel-25-48-nicot|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 25–48*. NICOT. Grand Rapids: Eerdmans, 1998 — Ezek 34:23–24; 37:22–25; the nāśîʾ of chs. 40–48.
 4. [[provan-1-2-kings-nibc|Provan, Iain W.]]. *1 and 2 Kings*. NIBC. 1995 — fidelity reingest 2026-07-18.
+5. [[declaisse-walford-psalms-nicot|deClaissé-Walford, Jacobson & Tanner]]. *The Book of Psalms*. NICOT. 2014 — fidelity re-ingest 2026-07-18 (Ps 89 hinge; Book Four answer; Ps 132).
 
 ## Related Texts
 

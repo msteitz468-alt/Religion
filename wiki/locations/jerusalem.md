@@ -13,7 +13,7 @@ associated_peoples: [
   "Returned Judean exiles under Persian rule (small Second Temple community in Yehud)",
   "Hellenistic, Hasmonean, Herodian Jews; Romans (Aelia Capitolina, 135 CE); Byzantine Christians; Muslims (from 638 CE); Crusaders; Ottomans; modern Israelis and Palestinians"
 ]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-18
 tags: [location, jerusalem, zion, judah, temple, jebusite, exile, second-temple]
 ---
@@ -171,3 +171,42 @@ see [[france-mark-nigtc]] — in which Jerusalem functions as one pole of Mark's
 
 See [[mark|Gospel of Mark]] · [[france-mark-nigtc]] · [[rt-france|R. T. France]] ·
 [[galilee|Galilee]].
+
+## In Acts, per Bock (BECNT)
+
+From the ingest of [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic,
+2007]] (see [[darrell-bock|Darrell Bock]]). In [[acts|Acts]] Jerusalem is the **mother
+church and narrative origin point** to which the story keeps returning. All interpretive
+claims below are Bock's or those of scholars he names.
+
+- **Pentecost and the earliest community.** Jerusalem is the setting of the Spirit's
+  outpouring and of the temple-centered life of the first believers. Bock reads the
+  "all things in common" summary (4:32–37) as **voluntary generosity, not communism** —
+  a "hyperbolic litotes," since 5:4 shows sale proceeds remained at the owner's disposal —
+  and contrasts it with the *required* surrender of property at Qumran. The apostles
+  gather at **Solomon's Portico** in the temple (5:12).
+- **The temple as preaching ground and flashpoint.** The apostles teach daily in the
+  temple; arrests by the **[[sadducees|Sadducees]]** and the high-priestly party escalate
+  from warning (Acts 4) to beating (Acts 5), with **[[gamaliel|Gamaliel]]** — "the only
+  rabbi named in Acts" — counseling restraint before the **[[sanhedrin|Sanhedrin]]**.
+  Bock notes the recurring detail that the leaders act cautiously "for they were afraid of
+  being stoned," the populace being sympathetic.
+- **Growth summaries.** Bock structures the Jerusalem section by Luke's growth-refrains
+  (e.g. 6:7, where "a great crowd of priests" becomes obedient), which he counts among six
+  such summaries across Acts.
+- **The Jerusalem Council (Acts 15).** Bock treats the Council as deciding **how**, not
+  **whether**, Gentiles are included — issuing the four prohibitions (idol-food, blood,
+  strangled meat, unchastity) without requiring circumcision. He reads it as the church
+  "hammering out an understanding" in transition, and connects it to the later
+  Nazirite-vow episode (21:17–26), where **[[james-the-just|James]]** leads the community
+  and Paul purifies himself to answer the rumor that he teaches Jews "to forsake Moses."
+- **Paul's arrest.** The temple riot (21:27–36) — sparked by the false supposition that
+  Paul brought a Gentile past the barrier warning Gentiles on pain of death — leads to his
+  seizure by the Roman tribune (later named Claudius Lysias), the Sanhedrin hearing that
+  splits Pharisees and Sadducees over the **resurrection** (23:6–8), and the plot of "more
+  than forty" men, after which Paul is sent under heavy escort to
+  [[caesarea|Caesarea]]. Bock reads the crowd's "Away with him!" as Jerusalem's "final,
+  key rejection of the gospel," even as the narrative pushes on toward [[rome|Rome]].
+
+See [[acts|Acts of the Apostles]] · [[bock-acts-becnt|Bock, *Acts* (BECNT)]] ·
+[[paul-apostle|Paul the Apostle]] · [[peter-apostle|Peter]] · [[caesarea|Caesarea]].

@@ -19,7 +19,7 @@ The monepiscopate became the standard form of church government in the Catholic,
 
 The NT writings show a pattern of *plural* elders (*presbyteroi*) or bishops (*episkopoi*) governing local churches:
 - Acts 14:23; 20:17 — Paul appoints plural elders in churches he plants
-- Phil 1:1 — Paul greets "bishops and deacons" (plural)
+- Phil 1:1 — Paul greets "overseers and deacons" (plural). [[g-walter-hansen|Hansen]] (PNTC): only joint mention outside the Pastorals; **plurality** of shared leadership; leaders addressed as *together with* the church, not over it — part of the church and especially called to the humility of 2:3–4; greeted partly as those who administered the gift via Epaphroditus and who must help resolve disunity (e.g. Euodia/Syntyche). See [[philippians]], [[hansen-philippians-pntc]].
 - Titus 1:5 — "appoint elders in every town"
 - Acts 20:28 — the same group is called both *presbyterous* and *episkopous*, implying the terms are synonymous
 

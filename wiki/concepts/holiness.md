@@ -2,7 +2,7 @@
 title: Holiness (Qadosh)
 domain: theology
 traditions_using: [Judaism, Christianity]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-18
 tags: [concept, theology, leviticus, holiness, kabbalah]
 ---
@@ -23,15 +23,20 @@ The tabernacle/Temple is structured according to these zones: the Holy of Holies
 
 ## Holiness as Wholeness (Douglas/Wenham)
 
-The influential anthropological reading of [[gordon-wenham|Gordon Wenham]], following **Mary Douglas** (*Purity and Danger*, 1966), interprets holiness not primarily as separateness but as **completeness or wholeness**: conformity to one's proper category, integrity of form, absence of mixture or anomaly.
+*Source: [[wenham-leviticus-nicot|Wenham, Leviticus (NICOT)]] — full-body fidelity re-ingest 2026-07-18. Attributed to Wenham following Mary Douglas (*Purity and Danger*, 1966).*
 
-Evidence for this reading:
-- **Priestly physical requirements** (Lev 21:17-23): A priest with any physical blemish is prohibited from officiating — not because his blemish is morally significant but because he does not exemplify the wholeness (completeness) required of one who represents the holy
-- **Sacrificial animal requirements**: "Without blemish" (*tāmîm*) — a complete specimen of its type
-- **Food laws** (Lev 11): Clean animals are "complete" specimens of their locomotion category; swarmers and mixed-category creatures violate categorical wholeness
-- **Sexual and agricultural mixing laws** (Lev 19:19): Not mixing kinds (seeds, cloth, animals) — holiness = categorical integrity
+Wenham adopts Douglas’s claim that holy means **more than separation** to divine service: it means **wholeness and completeness**. Physical perfection is required of offerings and of persons who approach; hybrids and confusions are abominated (bestiality as *tebhel* “mixing/confusion”; mixed breeding/seed/cloth in Lev 19:19). Holiness requires that individuals conform to the class to which they belong, and that different classes of things shall not be confused. Sexual morality and straight-dealing uphold order against confusion and dissembling.
 
-This framework provides a coherent account of why diverse purity laws belong together as a system, rather than treating them as arbitrary accumulations.
+**Grid with purity.** Cleanness is purity/normality as ground state; holiness is divine call plus human obedience and ritual. Unclean must not contact holy—contact without mediation risks death (Lev 10; cf. [[nadab-and-abihu]]).
+
+Evidence Wenham/Douglas use:
+- **Priestly physical requirements** (Lev 21:17–23): a blemished priest may not officiate—not because the blemish is moral guilt but because he does not exemplify the wholeness required of one who represents the holy (// unblemished animals in ch. 22)
+- **Sacrificial animals**: “without blemish” (*tāmîm*) — complete specimen of its type
+- **Food laws** (Lev 11): clean animals are complete specimens of their locomotion category; swarmers and mixed-category creatures violate categorical wholeness; the system **mirrors election** (as YHWH separated Israel, Israel separates animals)
+- **Mixing laws** (Lev 19:19): seeds, cloth, animals — holiness as categorical integrity
+- **Motto of the book** (11:44–45; 19:2; 20:26): “Be holy, for I am holy” — imitation of God in everyday order, not withdrawal from the world (Wenham on ch. 19)
+
+Ch. 27, on Wenham’s reading, **recapitulates** holiness as total consecration of persons, family, animals, and property after the covenant close of ch. 26. See [[jubilee]], [[leviticus]].
 
 ## Holiness and the Imitation of God
 

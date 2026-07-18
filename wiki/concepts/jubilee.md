@@ -2,7 +2,7 @@
 title: The Jubilee / Year of the Lord's Favor
 domain: theology / law / eschatology
 traditions_using: [Judaism, Christianity]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-18
 tags: [concept, jubilee, leviticus, isaiah, luke, eschatology, release, poor, social-ethics, kingdom-of-god]
 ---
@@ -21,6 +21,12 @@ The Jubilee is grounded in a theological claim: "the land is mine; with me you a
 **Deuteronomy 15** provides the parallel sabbatical year tradition: every seventh year, all debts are cancelled ("you shall remit it," 15:2) and all Israelite slaves are freed. This is a more accessible annual rhythm with the same structural logic.
 
 Whether the full Jubilee as prescribed was ever systematically implemented in Israel is historically uncertain. Its theological and prophetic significance, however, is enormous — it becomes the standard by which the prophets measure the failure of Israel's economic life (Amos 2:6; Isa 5:8; Ezek 7:12–13).
+
+### Wenham (NICOT Leviticus) densification — fidelity re-ingest 2026-07-18
+
+*Attributed to [[gordon-wenham|Wenham]]; source [[wenham-leviticus-nicot]].*
+
+Wenham stresses the **anti-ruin** purpose of sabbatical and Jubilee legislation: nested sevens (7 × 7 + 1) embody the same holiness-as-order logic as the rest of Leviticus. Controlling theological claim: **“the land is mine”** (25:23)—Israelites are resident aliens and tenants, so perpetual alienation of ancestral land and permanent Israelite slavery are forbidden. Foreign slaves are treated under a different rule than debt-slaves from Israel. Exile is interpreted in ch. 26 as the land finally enjoying its missed sabbaths. Messianic *dĕrôr* (liberty) language flows from this complex into later prophecy and Luke 4. After the blessings/curses of ch. 26, ch. 27’s votive valuations of persons, animals, and land **recapitulate** Jubilee and sacrifice themes under total consecration.
 
 ## Prophetic Development: Isaiah 61
 

@@ -11,8 +11,8 @@ associated_peoples: [
   "Samaritans (the adjacent Mount Gerizim becomes the Samaritan temple site and holy mountain)",
   "Romans (nearby Flavia Neapolis, modern Nablus)"
 ]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [location, shechem, nablus, gerizim, canaan, covenant, samaritans, central-highlands]
 ---
 
@@ -60,9 +60,21 @@ allegiance to Yahweh (Joshua 24) — and, later, the religious heartland of the
 **Samaritans**, whose temple on Mount Gerizim rivals Jerusalem's. It thus embodies both
 the unity (covenant assembly) and the division (north/south, Samaritan/Jew) of Israel.
 
+### Woudstra (NICOT Joshua) — brief
+
+Attributed to [[marten-woudstra|Woudstra]] ([[woudstra-joshua-nicot]]; digests C, G): Josh
+8:30–35 (Ebal/Gerizim; Shechem not named there) ties land possession to covenant claims;
+blessing and curse as covenant poles. Ch. 24 is a formal covenant ceremony (“stationed
+themselves before God”); site chosen for patriarchal associations (Abraham; Jacob Gen
+33:18–20); documentation by book of the law and stone under the oak as *ʾēd*; three graves
+(Joshua, Joseph, Eleazar) close the book with remains laid in the land promised to the
+fathers — Joseph’s bones in Jacob’s purchased plot at Shechem mark the step from a bought
+parcel to the whole land as inheritance. See [[covenant|Covenant]], [[promised-land]].
+
 ## Key Events and Controversies
 
 Labayu's Amarna expansion; the Joshua 24 covenant; Abimelech's kingship; the northern
 secession (1 Kings 12); the Gerizim/Jerusalem cultic rivalry (John 4). Related:
 [[samaritans]], [[samaria]], [[jerusalem]], [[canaanites]], [[israelites]],
-[[abraham]], [[joshua]], [[judges]].
+[[abraham]], [[joshua]], [[judges]], [[marten-woudstra]], [[woudstra-joshua-nicot]],
+[[covenant]], [[promised-land]].

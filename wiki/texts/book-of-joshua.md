@@ -3,107 +3,183 @@ title: Joshua
 tradition: Judaism / Christianity
 canon_status: canonical
 canon_scope:
-  canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
-  deuterocanonical_for: []
-  authoritative_for: []
-  disputed_by: []
-  rejected_by: []
+ canonical_for: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
+ deuterocanonical_for: []
+ authoritative_for: []
+ disputed_by: []
+ rejected_by: []
 language_original: Hebrew
-date_range: Events traditionally dated c. 1400–1350 BCE (early date) or c. 1250–1200 BCE (late date); composition debated; Woudstra suggests a date shortly after Joshua's time, possibly early monarchy
-sources_ingested: 2
-last_updated: 2026-06-07
+date_range: Events traditionally dated c. 1400–1350 BCE (early date) or c. 1250–1200 BCE (late date); composition debated; Woudstra prefers a date shortly after Joshua’s time, possibly among officers who outlived him (Judges period / early monarchy range among conservatives he surveys)
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [text, former-prophets, deuteronomistic-history, judaism, christianity, old-testament]
 ---
 
-Joshua is the first book of the Former Prophets in the Hebrew canon (*Nevi'im*), following the Torah. It narrates the Israelite conquest and distribution of Canaan under Joshua son of Nun, successor to Moses. The book is a foundational text for understanding Israelite settlement history, covenant theology, and the development of the Deuteronomistic History (Joshua–2 Kings). It is also the site of the OT's most acute ethical controversy — the divinely commanded destruction (*ḥerem*) of Canaanite populations.
+Joshua is the first book of the Former Prophets in the Hebrew canon (*Neviʾim*), following the Torah. It narrates the Israelite conquest and distribution of Canaan under [[joshua|Joshua]] son of Nun, successor to [[moses|Moses]]. The book is a foundational text for Israelite settlement history, [[covenant|covenant]] theology, and the critical debate over the Deuteronomistic History (Joshua–2 Kings). It is also the site of the OT’s most acute ethical controversy — the divinely commanded destruction (*ḥerem*) of Canaanite populations. Primary commentary source for this page’s densest layer is [[marten-woudstra|Marten H. Woudstra]], *The Book of Joshua* (NICOT, 1981); see source page [[woudstra-joshua-nicot]].
 
-## Structure
+## Textual Overview / Structure
 
-[[marten-woudstra|Woudstra]] divides the book into three major sections:
+In the Hebrew canon Joshua heads the “Former Prophets.” [[marten-woudstra|Woudstra]] treats that placement as intentional: with the other historical books it presents **interpretative (prophetical) history** of God’s covenant dealings from Moses’ death to the Babylonian captivity — divine revelation illuminating the true meaning of events, not national chronicle for its own sake (Intro. I).
+
+[[marten-woudstra|Woudstra]] divides the book into three major sections (Intro. IX):
 
 | Section | Chapters | Theme |
 |---|---|---|
-| I. The Promised Land Conquered | 1–12 | Crossing the Jordan; Jericho; Ai; southern and northern campaigns |
-| II. The Promised Land Distributed | 13–22 | Tribal allotments; cities of asylum; Levitical cities |
-| III. The Promised Land to Be Kept in Covenant Obedience | 23–24 | Joshua's farewell; covenant renewal at Shechem |
+| I. The Promised Land Conquered | 1–12 | Crossing the Jordan; Jericho; Ai; southern and northern campaigns; kings list |
+| II. The Promised Land Distributed | 13–22 | Tribal allotments; cities of asylum; Levitical cities; rest formula; eastern altar |
+| III. The Promised Land to Be Kept in Covenant Obedience | 23–24 | Joshua’s farewell; covenant renewal at Shechem; three graves |
 
-The book displays structural symmetry: ch. 1 (hortatory introduction) and chs. 23–24 (hortatory conclusion) frame the narrative. The Achan episode (ch. 7) and the eastern altar controversy (ch. 22) both use the same word for covenant trespass (*maʿal*), framing the conquest and settlement respectively with warnings of covenant violation.
+**Structural design (Woudstra).** Woudstra argues for basic **unity of composition** of the book as it now stands — not excluding sources, but subordinating them to deliberate design supporting the total message (Preface; Intro. III). Key frames he identifies:
+
+- Ch. 1 (hortatory introduction) and chs. 23–24 (hortatory conclusion) frame the narrative.
+- Achan’s covenant trespass (ch. 7, *maʿal*) frames the Conquest while the eastern altar controversy (ch. 22) frames settlement with the same term.
+- Anakim fear (Num 13:33) to expulsion (11:21–22).
+- Caleb materials open Judah’s allotment (14:6–15); Joshua’s inheritance closes the allotment survey (19:49–50) — the two good-report spies bookend “the book of the land”.
+- Burials of Joshua, Joseph, and Eleazar at the conclusion underscore fulfilment of promise (contrast Abraham’s purchase, Gen 23).
+- Southern campaign frame 9:1–2 // 10:40–43; promise 1:3, 6 // 11:16ff.; Transjordan charge 1:12–18 // farewell 22:1–6.
+
+Hebrew narrative, for Woudstra, is episodic, uses prolepsis and thematic (not purely chronological) arrangement; apparent “rough spots,” duplicates, and interruptions often reflect that style rather than composite seams.
 
 ## Major Themes
 
-**1. YHWH gives the land — the repeated formula.** The land is never said to be *taken* by Israel; it is *given* by God. "The LORD your God is giving you this land" (1:2-3) recurs throughout. Israel's military activity is the means; God's sovereignty is the cause. This is not passive — Joshua's generalship is explicit — but the theological emphasis is on divine gift.
+**1. YHWH gives the land — the repeated formula.** The land is never said to be *taken* by Israel as ultimate cause; it is *given* by God. “The LORD your God is giving you this land” (1:2–3) recurs throughout. Israel’s military activity is the means; God’s sovereignty is the cause. [[marten-woudstra|Woudstra]] stresses that Joshua’s generalship is explicit (e.g. 10:9–10; 11:7) yet the emphasis lies chiefly on God’s “giving” (Intro. V).
 
-**2. Theocentric, not anthropocentric, historiography.** [[marten-woudstra|Woudstra]]'s controlling hermeneutical principle: Joshua is not a book of moral heroes and villains but a record of God's redemptive acts. The prophetic survey of history in ch. 24:2-13 illustrates this — the entire survey is in the first person (YHWH speaking), with every major event attributed to divine action. This determines how Joshua's characters are to be read: not as moral paradigms, but as agents within a divine drama. Woudstra emphasizes "prophetical" historiography: the narrator listens to what the text says, eliciting meaning already present; ultimately the "great Someone Else" speaks. History is presented as dynamic movement toward a goal ("already/not yet" pattern), not primarily example-model. God gives the land yet Israel acts as moral agent; he hardens Canaanite hearts (11:20) yet notes their resolve to resist; he spares Rahab for her kindness (6:17) and punishes Achan's house for maʿal (ch. 7). The God of Joshua is Lord of all the earth (3:11), recognized even by a non-covenant woman (2:11: "The LORD your God is God in heaven above and on the earth beneath").
+**2. Theocentric, not anthropocentric, historiography.** [[marten-woudstra|Woudstra]]’s controlling hermeneutical principle: Joshua is not a book of moral heroes and villains but a record of God’s redemptive acts. The prophetic survey of history in 24:2–13 is in the first person (YHWH speaking), with every major event attributed to divine action. Woudstra frames “prophetical” historiography as listening to what the text says and ultimately to “the great Someone Else”; history is presented as dynamic movement toward a goal (“already/not yet”), not primarily example-model (Preface; Intro. I). God gives the land yet Israel acts as moral agent; he hardens Canaanite hearts (11:20) yet notes some who made peace (v. 19); he spares [[rahab|Rahab]] for her kindness (6:17) and punishes Achan’s house for *maʿal* (ch. 7). The God of Joshua is Lord of all the earth (3:11), recognized even by a non-covenant woman (2:11).
 
-**Woudstra on structure and design (unity of composition).** Woudstra discovered substantial evidence of deliberate arrangement supporting the book's total message, arguing for basic unity of composition (not excluding sources, but subordinating them to theme). Key frames: ch. 1 (hortatory) and chs. 23–24 (hortatory conclusion); Achan's covenant trespass (ch. 7, maʿal) frames the Conquest while the eastern altar controversy (ch. 22) frames settlement with the same term; Anakim fear (Num 13:33) to expulsion (11:21–22); Caleb materials frame Judah's allotment (14:6–15 opening faith vs. 15:63 failure at Jebus; paralleled with Joshua's inheritance at end, 19:49–50); burials of Joshua, Joseph, Eleazar at conclusion underscore fulfillment of promise (contrast Abraham's purchase in Gen 23). Hebrew narrative is episodic, uses prolepsis and thematic shaping; "rough spots" often reflect this style rather than composite seams. The holy land must be inhabited by holy people — hence extensive treatment of Achan at the outset of settlement narrative.
+**3. The *ḥerem* (the ban/devoted thing).** The destruction of Canaanite populations is presented as divine command, carried out as judgment for sin accumulated over centuries (Gen 15:16; cf. Lev 18:24–25; Deut 9:1–6). [[marten-woudstra|Woudstra]] holds that *ḥerem* means absolute, irrevocable consecration (Lev 27:28–29) and sentence to utter destruction (Deut 13:16), applied in degrees (Jericho most rigorous; Ai and non-Hazor northern cities less strict on spoil/cattle; Hazor burned as northern example). He frames both divine behest and Canaanite resolve to resist (9:1–2; 11:1–5; 11:20) so human responsibility is not erased. The practice raises acute ethical questions; see [[herem|The ḥerem (Devoted Thing)]]; [[herem-canaanite-conquest|Controversy: The ḥerem and Canaanite Conquest]].
 
-**Cultus and covenant occasion.** Woudstra notes prominent cultic concern: mass circumcision and first Passover in the land (5:1–12), altar and blessings/curses on Ebal/Gerizim (8:30–35), the altar controversy (ch. 22) testing proper worship, casting lots for land at Shiloh with the tent of meeting (18:1–10; 19:51, Eleazar the priest participates). The occasion of the book is the covenant: to keep alive the memory of YHWH's acts so future generations trust and obey; memorials (ch. 4) serve this end. Eschatological extension: the land as inheritance anticipates the meek inheriting the earth (Ps 37:9; Matt 5:5).
+**4. The “already/not yet” of the conquest.** The land is declared fully given (11:23; 21:43–45: “the LORD gave them rest on every side; not one of all their enemies withstood them”) while simultaneously unfinished work is acknowledged (13:1; 15:63; 16:10; 17:12; 23:4–5). [[marten-woudstra|Woudstra]] treats both emphases as theologically complementary and equally valid in context — not a late contradiction to be harmonized away by source dissection. He reads the tension as the structural pattern of eschatological promise; rest can be enjoyed in principle yet deepened (2 Sam 7; 1 Kgs 5:4; Heb 4).
 
-**3. The *ḥerem* (the ban/devoted thing).** The destruction of Canaanite populations is presented as divine command, carried out as judgment for sin accumulated over centuries (Gen 15:16). The practice raises acute ethical questions that the OT itself does not resolve. See [[herem|The ḥerem (Devoted Thing)]]; [[herem-canaanite-conquest|Controversy: The ḥerem and Canaanite Conquest]].
+**5. Land theology.** The promised land is YHWH’s own inheritance (*naḥalâ*), in which Israel dwells as tenant-guest (Lev 25:23; Josh 22:19). [[marten-woudstra|Woudstra]] holds that the land promise should not be carried into the modern era as a territorial claim of the ancient-covenant people; possession may be forfeited (23:16). The land promise carries an eschatological extension: Psalm 37:9, 11 → Matthew 5:5 (the meek inherit the *earth*); NT “inheritance” language (1 Pet 1:4; Heb 11:13; Rom 8:17) inherits this OT category without mere spiritualization — the OT idea is already spiritual to the core (Ps 16:5–6). See [[promised-land|The Promised Land (Naḥalâ)]].
 
-**3. The *ḥerem* (the ban/devoted thing).** The destruction of Canaanite populations is presented as divine command, carried out as judgment for sin accumulated over centuries (Gen 15:16). The practice raises acute ethical questions that the OT itself does not resolve. See [[herem|The ḥerem (Devoted Thing)]]; [[herem-canaanite-conquest|Controversy: The ḥerem and Canaanite Conquest]].
+**6. Covenant obedience as condition of possession.** The land can be forfeited through covenant violation (23:12–16). [[marten-woudstra|Woudstra]] insists the condition is not contrary to gratuitous gift, yet remains a real condition; Torah is gracious provision for covenant fellowship, not work-righteousness. The book ends on a positive note (Israel served the LORD all the days of Joshua and the elders who outlived him, 24:31) — yet the reader of Judges knows how quickly this dissolves.
 
-**4. The "already/not yet" of the conquest.** The land is declared fully given (21:43-45: "the LORD gave them rest on every side; not one of all their enemies withstood them") while simultaneously being acknowledged as not fully possessed (13:1: "very much of the land remains to be possessed"; 15:63; 16:10; 17:12). Woudstra reads this tension as the structural pattern of eschatological promise — the NT's "already/not yet" is anticipated here.
-
-**5. Land theology.** The promised land is YHWH's own inheritance (*naḥalâ*), in which Israel dwells as tenant-guest (Lev 25:23). The land promise carries an eschatological extension: Psalm 37:9 → Matthew 5:5 (the meek inherit the *earth*). The NT's language of "inheritance" (1 Pet 1:4; Heb 11:13; Rom 8:17) inherits this OT category. See [[promised-land|The Promised Land (Naḥalâ)]].
-
-**6. Covenant obedience as condition of possession.** The land can be forfeited through covenant violation (23:16). The book ends on a positive note (Israel served the LORD all the days of Joshua and the elders who outlived him, 24:31) — yet the reader of Judges knows how quickly this dissolves.
+**7. Cultus and covenant occasion.** [[marten-woudstra|Woudstra]] notes prominent cultic concern: mass circumcision and first Passover in the land (5:1–12); altar and blessings/curses on Ebal/Gerizim (8:30–35); the altar controversy (ch. 22) testing pure worship and unity; casting lots for land at [[shiloh|Shiloh]] with the tent of meeting (18:1–10; 19:51, Eleazar the priest participates). Occasion of the book, for Woudstra: the covenant — to keep alive memory of YHWH’s acts so future generations trust and obey; memorials (ch. 4) serve this end.
 
 ## Key Episodes
 
-**Rahab (ch. 2).** A Canaanite prostitute in Jericho hides the Israelite spies and confesses: "The LORD your God is God in heaven above and on the earth beneath" (2:11) — the most explicit theological statement by a non-Israelite in the Former Prophets. Her *ḥesed* to the spies is repaid with her preservation through the *ḥerem* of Jericho. Rahab appears in the NT genealogy of Jesus (Matt 1:5), in the faith hall-of-fame (Heb 11:31), and as an example of justification by works (Jas 2:25).
+**Charge and “all Israel” (ch. 1).** [[marten-woudstra|Woudstra]] reads ch. 1 as thematic introduction: succession of Moses, Jordan crossing, conquest, “all Israel,” covenant obedience, allotment, and land as gift are planted for later development. Joshua remains “Moses’ aide” until 24:29, when he receives Moses’ honorific “servant of the LORD”. Boundaries of 1:4 are programmatic (widest extent; only approximated under David/Solomon). Transjordan tribes must help until all Israel obtains rest (1:12–15).
 
-**The crossing of the Jordan (chs. 3-4).** The ark of the covenant leads Israel across; the Jordan's flow is cut off. Twelve stones are erected as a memorial. Woudstra draws the parallel with the Red Sea crossing: Joshua parallels Moses (Josh 3:7; 4:14), the crossing parallels the exodus. This is not merely typological — the continuity of divine leadership is the narrative's explicit claim.
+**Rahab (ch. 2).** A Canaanite prostitute in Jericho hides the Israelite spies and confesses: “The LORD your God is God in heaven above and on the earth beneath” (2:11) — the most explicit theological statement by a non-Israelite in the Former Prophets. [[marten-woudstra|Woudstra]] holds that the substance of her confession is truly Rahab’s (not pure redactional fabrication), while acknowledging possible Israelite summary and that she is still emerging from a pagan environment. Her *ḥesed* to the spies is repaid with preservation through the *ḥerem* of Jericho; family/clan solidarity and unselfishness are stressed. Spies’ sending is general’s foresight, not unbelief or a rival conquest tradition vs ch. 6. Rahab appears in the NT genealogy of Jesus (Matt 1:5), in the faith hall-of-fame (Heb 11:31), and as an example of justification by works (Jas 2:25).
 
-**The fall of Jericho (ch. 6).** The city is taken by liturgical procession and trumpet blast — no conventional siege or assault. The *ḥerem* is applied to the city and its inhabitants (except Rahab's household). Woudstra's note on the archaeology: the identification of Jericho with Tell eṣ-Ṣultan is unresolved; Kenyon's excavations found no walls from the relevant period, but Woudstra resists making archaeological silence determinative.
+**The crossing of the Jordan (chs. 3–4).** The ark of the covenant leads Israel across; the Jordan’s flow is cut off; twelve stones are erected as memorial. [[marten-woudstra|Woudstra]] treats chs. 3–4 as a literary-theological whole (leading words “to cross” ×22; “to stand” ×5), not a patched composite. He draws the parallel with the Red Sea: Joshua//Moses (3:7; 4:14 // Exod 14:31); language of waters in a heap // Exod 15:8. Continuity of divine leadership is the narrative’s explicit claim; the ark presents the Lord as entering Canaan ahead of Israel. Stones are a *sign*/*zikkārôn* of covenant fidelity, not bare miracle-recall; “to this day” confirms veracity rather than marking mere etiology. Crossing on the 10th of the first month ties entry to Passover calendar.
 
-**Achan's sin and the defeat at Ai (chs. 7-8).** The *ḥerem* violation — Achan took goods devoted to YHWH — causes Israel's defeat at Ai. The sin is communal (the whole people are implicated), individually located (Achan), and punished communally (Achan and his household). This is the book's central lesson about covenant faithfulness as prerequisite for covenant blessing.
+**Covenant sign and meal at Gilgal (5:1–12).** Mass circumcision and first Passover in the land end the desert period: Egypt’s “shame” rolled away (*gālal* // Gilgal), manna ceases, Canaan’s produce eaten. [[marten-woudstra|Woudstra]] frames both rites as covenant-related even without the word “covenant” in the pericope (Gen 17; Exod 12).
 
-**The Gibeonite deception (ch. 9).** The Gibeonites deceive Israel into a peace treaty by pretending to be from a distant land. Joshua honors the treaty even after the deception is discovered — because it was sworn in YHWH's name. This creates a permanent obligation that later haunts Saul (2 Sam 21).
+**Captain of the LORD’s army (5:13–15).** Before Jericho, Joshua meets a man with drawn sword who identifies himself as captain (*śār*) of the LORD’s army. [[marten-woudstra|Woudstra]] holds the pericope is self-contained (against reading 6:2–5 as its missing continuation) and deliberately parallel to Moses at the burning bush: shoes off, holy ground (// Exod 3:5). He takes the visitor as angelic / Angel of the Lord; the drawn sword signals combat readiness against Israel’s enemies, not a sanctuary-etiology remnant tale against Israel.
 
-**Covenant renewal at Shechem (ch. 24).** The book's climactic scene: Joshua convenes all Israel at Shechem, presents a prophetic survey of redemptive history (YHWH speaking in the first person), and challenges the people to choose whom they will serve. When Joshua warns "you cannot serve the LORD, for he is a holy God" (24:19), the people insist they will. The book's final note: "Israel served the LORD all the days of Joshua and the elders who outlived him" (24:31). See [[covenant|Covenant]].
+**The fall of Jericho (ch. 6).** The city is taken by liturgical procession and trumpet blast — no conventional siege. [[marten-woudstra|Woudstra]] reads it as the outstanding instance of God’s “giving” the land: historical narrative as well as theological presentation, not mere product of Israel’s faith; march is not magical circumambulation because command comes from the Lord and the ark is central. *Ḥerem* applied most rigorously by way of example; metals to the LORD’s treasury; Rahab’s household spared for kindness/oath. Joshua’s curse on rebuilding as fortified city (6:26) is later reported fulfilled (1 Kgs 16:34). On archaeology, Woudstra notes usual identification with Tell eṣ-Ṣultan remains contested; Kenyon’s results leave silence where eloquence is wanted; he resists making archaeological silence determinative while acknowledging limits.
 
-## Composition and Critical Questions
+**Achan’s sin and the defeat at Ai (chs. 7–8).** *Maʿal* (breach of trust) against the *ḥerem* causes defeat; corporate solidarity and individual responsibility go hand in hand. [[marten-woudstra|Woudstra]] rejects unravelling Ai and Achan into independent Judahite/Benjaminite tales. Ai’s *ḥerem* is present in idea though milder on spoil than Jericho; ambush under the Lord’s “generalship” (cf. 5:13–15); javelin // Moses’ staff. Ai/et-Tell archaeological silence treated with the same caution as Jericho.
 
-**The Hexateuch vs. the Deuteronomistic History**: Source critics extending J/E/P into Joshua propose a Hexateuch (Gen–Josh) as the primary unit. The tradition-historical school (Noth) proposes a Deuteronomistic History (Deut–2 Kings) composed in the 6th century as the primary unit, using Joshua sources. Woudstra rejects both, arguing for the book's basic unity of composition and an early date.
+**Ebal and Gerizim (8:30–35).** Altar of unhewn stones, copy of the law, and reading of blessings and curses before the whole *qāhāl* (women, little ones, sojourners included). [[marten-woudstra|Woudstra]] (citing Gelin) treats the scene as near the summit of the book’s message: right of possessing the land is tied to proclamation of and subjection to God’s covenant claims; altar // patriarchal claim-altars and Sinai offerings; blessing and curse as the two poles of covenant history. He maintains an actual event; chronological placement relative to the Ai campaign is debated, but he finds no strong objection to a chronological reading.
 
-**Authorship and date**: The Talmud assigns the book to Joshua himself (with Eleazar recording Joshua's death). Woudstra argues for a date shortly after Joshua's time — possibly a younger contemporary of Joshua — based on internal evidence: the vividness of the narrative, the early-date indicator of no mention of Tyre (13:6), and the "until this day" formula implying the writer is not far removed from the events.
+**The Gibeonite deception and southern campaign (chs. 9–10).** The Gibeonites (Hivites) deceive Israel into a peace treaty by claiming distant origin. [[marten-woudstra|Woudstra]] stresses the narrator’s explicit criticism — “they did not ask the LORD’s counsel” (9:14) — yet the oath sworn by the LORD is kept lest wrath fall for oath-breaking; life-guarantee is the narrative’s chief concern. Gibeonites become hewers of wood and drawers of water for the house of God — spared from *ḥerem* yet living as a “monument” of required separateness and of Israel’s fault in not seeking counsel. The five Amorite kings’ assault on Gibeon tests both the LORD’s faithfulness (1:3, 5) and Israel’s treaty loyalty. Battle alternates human night-march and divine panic/hailstones; the long day (Book of Jashar) is framed as extraordinary answer to prayer and “the LORD fought for Israel” — Woudstra declines positivist rationalization and allows a rather literal reading under biblical creation theology. Southern city-by-city *ḥerem* (10:28–43) is fulfilment of 1:3 more than bare chronicle; variations mark reliability for Woudstra.
 
-**Judg. 1 vs. Josh. 2-11**: Judges 1 appears to present a piecemeal, incomplete conquest by individual tribes; Joshua presents a unified conquest under Joshua. Critics treat this as contradictory accounts from different sources. Woudstra: Judg. 1 describes events *after* Joshua's death (Judg 1:1), so the two texts describe different phases, not competing versions.
+**Northern campaign and summary (chs. 11–12).** Jabin of [[hazor|Hazor]] heads a last comprehensive coalition with horses and chariots. [[marten-woudstra|Woudstra]] stresses formal parallel to the southern campaign; hamstringing horses/burning chariots as theocratic (rely on the LORD) rather than mere technological unfamiliarity; Hazor burned as exception among mound-cities; degrees of *ḥerem* again. Command chain: as the LORD commanded Moses, so Moses Joshua, so Joshua acted (11:15). 11:19–20: only Gibeon made peace; the LORD hardened Canaanite hearts for destruction without mercy as commanded Moses — Gibeon shows “the other way was open”; Woudstra refuses to eliminate or modify this presentation. Anakim expulsion (11:21–22) closes the desert-fear sequence; inheritance and rest (11:23) climax the Conquest from the standpoint of patriarchal promise. Ch. 12’s king lists (east then west; thirty-one kings) are, for Woudstra, a song of praise to the LORD’s victory and a Moses//Joshua parallel stressing all-Israel unity.
 
-**The *ḥerem* and archaeology**: Jericho and Ai (identified with et-Tell) show no evidence of destruction at the traditional conquest date. Woudstra acknowledges this without resolving it, noting the limitations of archaeological identification.
+**Allotment, Caleb, Shiloh, incomplete possession (chs. 13–19).** Part II opens with land still to be occupied *and* completed Conquest — complementary emphases. Eleazar the priest takes priority over Joshua in distribution (14:1). [[caleb|Caleb]]’s Hebron claim paradigmatically shows what faith can do with “land that remains”; Anakim at allotment’s start answer 13:6. Judah’s lot begins with Caleb’s faith and ends with failure at Jebus (15:63) — warning within prophetical historiography. Joseph’s complaint (17:14–18) formally resembles Caleb’s request but contrasts in spirit (fear of chariots vs faith). At [[shiloh|Shiloh]] the tent of meeting is set up; seven tribes’ slackness in taking possession is ingratitude toward the gift. Joshua’s inheritance (19:49–51) frames allotment with Caleb.
 
-## Reception History
+**Cities of asylum and Levitical cities (chs. 20–21).** [[marten-woudstra|Woudstra]] titles ch. 20 “God’s justice in God’s country”: land is the LORD’s (Lev 25:23); unjust bloodshed would blot the gifted land; asylum introduces intent-distinction into *gōʾēl* retribution; six cities for accessibility, including sojourners. Levitical cities implement Moses’ word; Levites show Caleb-like initiative of faith; the LORD is their inheritance; lists’ non-schematic character and cities not yet fully Israelite argue (for Woudstra) against late utopian fiction and for faith-expectation of further conquest.
 
-**Jewish**: Joshua heads the Former Prophets in the Hebrew canon. Its conquest narrative undergirds later land theology and is central to debates about the relationship between divine promise and territorial possession. Rabbinic tradition treats Joshua as a righteous leader; Achan's deathbed confession earns him a share in the world to come (some rabbinic opinions).
+**Rest formula (21:43–45).** [[marten-woudstra|Woudstra]] treats this as one of the **key sections of the entire book**: revelational purpose is to cast full light on the faithfulness of the covenant God who keeps his word to the forefathers. V. 43 primarily reflects distribution (chs. 13–21); v. 44 the Conquest stories (chs. 1–12); v. 45 places the whole book under God’s faithfulness. Completes the cycle of 1:2–6; rest has expanding horizons into David, Solomon, and Heb 4. Measured against patriarchs who owned only a grave or two, fulfilment appears rich — foreshadowing the three graves of 24:29–33.
 
-**Christian patristic**: Origen's homilies on Joshua (c. 240 CE) allegorize the conquest systematically — Joshua = Jesus leading the soul to conquer its vices; Jericho = the fallen world. Woudstra critiques this as excess while affirming the *ḥerem*-typology of Heb 4:8 and the Rahab-typology in Matt 1:5.
+**Transjordan farewell and eastern altar (ch. 22).** Dismissal of the 2½ tribes closes the unity cycle of 1:12–18 under the rest of 21:44. The altar near the Jordan is feared as *maʿal* (same term as Achan) — potential corporate trespass after settlement as Achan was after the first city. Investigation by Phinehas and ten princes; Transjordanites explain the altar as *witness* (*ʾēd*), not for sacrifice, that they have a share in the LORD. Reconciliation: “Today we know that the LORD is among us”; altar named as witness that the LORD is God. [[marten-woudstra|Woudstra]] reads the story as warning against unauthorized cult and loss of unity; he argues Deut 12 targets arbitrary, non-authorized sites more than an absolute single sanctuary before Josiah.
 
-**Liberation theology**: The exodus-to-conquest narrative has been paradigmatic for oppressed communities, but R. Warrior's Native American critique applies forcefully to Joshua: the liberated become the dispossessors. Woudstra is hostile to the example-method underlying liberation readings. See [[marten-woudstra|Woudstra]] vs. [[james-bruckner|Bruckner]] for the intra-evangelical tension.
+**Farewell and Shechem covenant (chs. 23–24).** Ch. 23: three calls to covenant obedience; completed and unfinished conquest side by side; land forfeiture if Israel clings to remnant nations. Ch. 24 at [[shechem|Shechem]]: formal covenant ceremony; prophetic survey (YHWH first person) centering divine monergism — land/cities/vineyards not earned. “You cannot serve the LORD” confronts seriousness (holy and jealous God) without absolute impossibility — Israel does serve all Joshua’s days (24:19 // 24:31). Covenant documented in the book of the law of God; stone as witness that has “heard” the LORD’s redemptive acts.
 
-**Modern land theology debates**: Woudstra's explicit position is that the OT land promise should not be carried into the modern era as a territorial claim.
+**Three graves (24:29–33).** [[marten-woudstra|Woudstra]] reads the closing burials as thematic/symbolic fulfilment, not mere appendix: remains of Joshua (instrument of obtaining the land; now “servant of the LORD”; buried in his own inheritance Timnath-serah), Joseph (bones from Egypt; faith of Gen 50 rewarded — God’s faithfulness uppermost; Jacob’s purchased plot now inheritance, no need to buy a parcel), and Eleazar (Aaron’s role to Moses // Eleazar to Joshua; buried in Gibeah of Phinehas) laid to rest in the land promised to the fathers. He rejects etiological dismissal of historical value at the close of a deliberately composed book.
 
-## The Joshua-Jesus Typological Connection
+## Textual and Manuscript Tradition
 
-The Hebrew name *Yehoshua* ("the LORD is salvation") was rendered *Iēsous* in the LXX — the same form as "Jesus" in the NT. Hebrews 4:8 draws the explicit parallel: "If Joshua had given them rest, God would not have spoken later about another day." The "rest" (*mĕnûḥâ*) Joshua gave Israel in the land is real but partial; the eschatological Sabbath rest (Heb 4:9-11) is its fulfillment. See [[promised-land|The Promised Land]].
+[[marten-woudstra|Woudstra]] (Intro. VII): the Hebrew MT of Joshua is generally in good condition; emendations are seldom required; his commentary is based on the MT with occasional LXX, Vulgate, and Peshitta. Opinion divides on LXX quality (Wellhausen, Steuernagel, Holmes favor superiority; Holzinger, G. A. Smith inferior). Orlinsky stresses LXX translator fidelity; some MT phrases may be absent from the Hebrew *Vorlage* (e.g. “Moses the servant of the LORD” ×17 MT, lacking ×4 in LXX). DSS raised regard for LXX as independent Hebrew tradition without establishing general preference over MT — case-by-case. Codex Vaticanus represents an independent tradition; Lucianic was corrected toward Palestinian Hebrew; two Qumran Vaticanus-related MSS were not used by Woudstra for lack of adequate study at the time of writing.
+
+## Hermeneutical Frameworks
+
+**Woudstra / confessional evangelical (this page’s densest layer).** Three inseparable components of exegesis: grammatical-literary, historical, and theological — theology is integral because the literature purports to be God’s word (Intro. VI). Prophetical historiography; theocentric recounting; “already/not yet” of promise; typology only where symbolism is already present for ancient Israelites (Joshua–Jesus under “rest,” Heb 4:8) and with caution against patristic excess. Rejects moral-example / “Bible story” method and Liberation theology’s Exodus-as-physical-deliverance paradigm. Against calling Joshua “pre-Christian” or “sub-Christian” (Bright): the *ḥerem* practices cease to be normative as practice, but the revelation in the written record does not cease to be normative. Text integrity is prime historical datum; dualism of faith-picture vs scientific reconstruction is refused.
+
+**Jewish.** Joshua heads the Former Prophets; conquest undergirds later land theology. Rabbinic tradition treats Joshua as righteous leader; some opinions grant Achan a share in the world to come after confession.
+
+**Christian patristic.** Origen’s *Homilies on Joshua* (c. 240 CE) allegorize conquest systematically (Joshua = Jesus leading the soul against vices; Jericho = fallen world). [[marten-woudstra|Woudstra]] critiques excess while affirming Heb 4:8 and Matt 1:5 typologies.
+
+**Modern critical.** Hexateuch (J/E/P into Joshua) and Deuteronomistic History (Noth et al.) — see Scholarship below. Historical-critical, form, and archaeological schools frame conquest as gradual infiltration, peasant revolt, or multi-wave settlement more often than as the book’s concerted campaign.
+
+**Liberation and postcolonial.** Exodus-to-conquest as paradigm for the oppressed; R. Warrior’s Native American critique: the liberated become the dispossessors. [[marten-woudstra|Woudstra]] is hostile to the example-method underlying such readings. Intra-evangelical tension: see [[marten-woudstra|Woudstra]] vs. [[james-bruckner|Bruckner]].
+
+## Canon and Reception
+
+**Canon (Woudstra’s frame).** Canonicity, for [[marten-woudstra|Woudstra]], follows divine inspiration as inherent datum; the Church recognizes rather than creates it. Jewish tradition counts Joshua first of the Former Prophets, not with the Pentateuch; Samaritans accept only the Pentateuch — together, he argues, a convincing argument against an alleged Hexateuch (Intro. VIII). Christian reception accepted Joshua with the rest of the OT as God’s word (Heb 1:1). Formal canonicity has not meant easy use: Eichhorn called Joshua “impious”; Bright reports wishes it were not in the Bible — difficulties of miracles, commanded slaughter, and sovereignty/freedom.
+
+**`canon_scope` on this page.** Canonical for rabbinic Judaism and the major historic Christian communions (Catholic, Eastern Orthodox, Protestant). No deuterocanonical or disputed status within those streams; rejected only outside communities that do not receive the Former Prophets / OT historical books.
+
+**Jewish reception.** Heads the Former Prophets; central to land-promise and conquest memory; rabbinic evaluation of Joshua generally positive.
+
+**Christian reception.** Typological Joshua–Jesus line (LXX *Iēsous*); Hebrews 4 on partial rest; patristic allegory; modern land-theology debates. [[marten-woudstra|Woudstra]]’s explicit position: do not carry the OT land promise into the modern era as territorial claim.
+
+## Scholarship and Historiography
+
+Positions only — no adjudication in wiki voice.
+
+**Hexateuch (documentary sources into Joshua).** Following Wellhausen, some treat Gen–Josh as a six-book unit detecting J, E, D, and P in Joshua without consensus on division; chs. 2–11 often linked to E (vs Judg 1 as J); chs. 13–22 often to P; present form widely attributed to Deuteronomistic redaction. [[marten-woudstra|Woudstra]] reports that final D rather than P in Joshua is, for him, an embarrassment to the documentary hypothesis (in the Pentateuch P is foundational). He is “unable to accept” the hypothesis; if Deuteronomy may be Mosaic (citing Craigie), its foundation is removed.
+
+**Deuteronomistic History (traditio-historical).** Noth: continuing history-work from Deuteronomy through 2 Kings; for Josh 2–12, etiological legends (2–9) plus hero legends (10; 11:1–9), originally Benjaminite/Gilgal, later nationalized; collector ~900 BCE. [[marten-woudstra|Woudstra]] reports Kaiser’s critiques (Gilgal transmission site; how a fictional all-Israel conquest could arise if Judg 1 was known) and treats Noth as modification of, not radical break with, documentary criticism.
+
+**Boundary/city lists.** Alt/Noth: higher antiquity (tribal boundaries; Judah list of Josiah’s time). Mowinckel: postexilic P; some details reflecting Samaritan schism. Most grant a “strongly theoretical stamp.” [[marten-woudstra|Woudstra]]: more natural to take lists as allotment when Israel had entered and conquered “at least in principle,” with unfinished subjugation noted — arguing for dating in Joshua’s time.
+
+**Authorship and date.** Talmud: Joshua wrote his own book (Eleazar/Phinehas for death notices). Rashi and Kimchi: mostly Joshua’s time with later hands. Abrabanel: probably Samuel. Modern conservatives Woudstra surveys: Harrison (early monarchy ~1045 BCE); Aalders (Judges period); Goslinga (younger contemporary among officers of 1:10 etc.); Kroeze (origin unknown; final form God’s gift). [[marten-woudstra|Woudstra]] prefers relatively early composition — possibly the days when Israel “served the LORD” (24:31) — citing inter alia no Tyre at 13:6, Canaanites still in Gezer (16:10), Jebus unconquered (15:63), narrative vividness, and non-decisive character of “until this day” and the Book of Jashar.
+
+**Judg 1 vs Josh 2–11.** Critics treat piecemeal tribal conquest vs unified campaign as rival sources. [[marten-woudstra|Woudstra]]: Judg 1:1 purports events after Joshua’s death; if subsequent, both can be true; Joshua itself already holds complete and incomplete together.
+
+**Archaeology and conquest date.** Early ~1400 BCE vs late ~1250 BCE; face-value 1 Kgs 6:1 / Judg 11:26 favor early for Woudstra; late-date symbolic 480-year readings unconvincing to him. Jericho and Ai (et-Tell) yield silence or non-fit at traditional dates; 13th-c. burn layers at Lachish, Debir, Hazor cannot prove Israelite agency. Habiru/Amarna and Glueck Transjordan arguments also problematic. [[marten-woudstra|Woudstra]]: stalemate; chronology archaeology is an inadequate guide; he believes there was a military conquest (contra Alt/Noth gradualism) yet finds archaeological evidence hard to regard as fully satisfying; preference for closer concentration on biblical texts (“German” school) without German negation of Joshua traditions’ veracity.
+
+**Woudstra’s own historical claim.** The book’s picture of concerted onslaught is true and reliable as prophetical historiography — real events for exhortation, warning, and encouragement, with selection and summary.
+
+## Key Interpretive Cruxes
+
+1. **Ḥerem and ethics** — divine command, judgment of Amorite iniquity, hardening (11:20), and modern moral rejection. See [[herem-canaanite-conquest]].
+2. **Complete vs incomplete conquest** — 11:23; 21:43–45 vs 13:1; 15:63; 16:10; 17:12; 23:4–5. Source-conflict readings vs [[marten-woudstra|Woudstra]]’s complementary “already/not yet.”
+3. **Judg 1 vs Joshua** — rival conquest accounts vs sequential phases after Joshua’s death.
+4. **Hexateuch vs Deuteronomistic History vs early unity** — three major scholarly frames for composition.
+5. **Jericho/Ai archaeology** — identification, destruction layers, and weight of silence.
+6. **Gibeonite oath** — deception vs sanctity of oath sworn by YHWH; later Saul/2 Sam 21.
+7. **Long day (10:12–14)** — miracle, Book of Jashar quotation extent, scientific reconstruction.
+8. **Ch. 22 altar** — schism risk vs legitimate witness; scope of Deut 12.
+9. **Land promise and modern politics** — [[marten-woudstra|Woudstra]] refuses modern territorial carry-over.
+10. **Joshua–Jesus typology** — name (*Yehoshua* / LXX *Iēsous*); Heb 4:8 partial rest; limits of allegory.
+
+## The Joshua–Jesus Typological Connection
+
+The Hebrew name *Yehoshua* (“the LORD is salvation”) was rendered *Iēsous* in the LXX — the same form as “Jesus” in the NT ([[marten-woudstra|Woudstra]], Intro. I). Hebrews 4:8 draws the explicit parallel: “If Joshua had given them rest, God would not have spoken later about another day.” The “rest” (*mĕnûḥâ*) Joshua gave Israel in the land is real but partial; the eschatological Sabbath rest (Heb 4:9–11) is its fulfilment. [[marten-woudstra|Woudstra]] requires typology to rest on symbolism already present for ancient Israelites and treats it as only one among links between Testaments. See [[promised-land|The Promised Land]].
 
 ## Related Pages
 
-- [[marten-woudstra|Woudstra, Marten H.]] — primary commentary source
-- [[herem|The ḥerem (Devoted Thing)]] — the ban and its theological logic
-- [[herem-canaanite-conquest|Controversy: The ḥerem and Canaanite Conquest]] — the ethical dispute
-- [[promised-land|The Promised Land (Naḥalâ)]] — land theology and its eschatological extension
-- [[covenant|Covenant]] — the Shechem renewal and covenant obedience
-- [[documentary-hypothesis|Documentary Hypothesis]] — the Hexateuch vs. DH debate
+- [[woudstra-joshua-nicot|Woudstra, Joshua (NICOT) — source page]]
+- [[marten-woudstra|Woudstra, Marten H.]] — commentator
+- [[joshua|Joshua son of Nun]] — figure
+- [[moses|Moses]] — predecessor; command chain
+- [[rahab|Rahab]] — Jericho; *ḥesed*; spared from *ḥerem*
+- [[caleb|Caleb]] — Hebron; allotment frame
+- [[herem|The ḥerem (Devoted Thing)]]
+- [[herem-canaanite-conquest|Controversy: The ḥerem and Canaanite Conquest]]
+- [[promised-land|The Promised Land (Naḥalâ)]]
+- [[covenant|Covenant]] — Shechem renewal; condition of possession
+- [[shiloh|Shiloh]] — tent of meeting; lots
+- [[shechem|Shechem]] — Ebal/Gerizim region; ch. 24 assembly
+- [[hazor|Hazor]] — northern campaign
+- [[deuteronomistic-history|Deuteronomistic History]]
+- [[documentary-hypothesis|Documentary Hypothesis]] — Hexateuch debate
 - [[deuteronomy|Deuteronomy]] — the book Joshua most directly continues
-
+- [[typology|Typology]] — Joshua–Jesus; rest
 
 ## Concepts
 
-Concept pages developed from this text:
+Concept pages closely developed from this text:
 
-[[deuteronomistic-history]]
+- [[deuteronomistic-history]]
+- [[herem]]
+- [[promised-land]]
+- [[covenant]]
 
 ## Sources Ingested
 
-1. [[marten-woudstra|Woudstra, Marten H.]]. *Joshua*. New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 1981.
+1. [[marten-woudstra|Woudstra, Marten H.]]. *The Book of Joshua*. New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 1981. Source page: [[woudstra-joshua-nicot]]. Fidelity reingest of full NICOT body + intro (2026-07-18) grounds the structural, thematic, episode, text-critical, and historiographical material attributed to Woudstra on this page.

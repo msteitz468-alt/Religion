@@ -89,7 +89,7 @@ exists this side of heaven.
 
 **Tensions (not adjudicated):** Longman vs remaining popular allegory; vs Delitzsch/Provan
 drama; vs free-love modernist readings (LaCocque). Companion NICOT Ecclesiastes volume
-(same author, different genre method) remains a separate prior ingest.
+(same author, different genre method): fidelity re-ingest 2026-07-18 — [[longman-ecclesiastes-nicot]].
 
 ## Key links
 

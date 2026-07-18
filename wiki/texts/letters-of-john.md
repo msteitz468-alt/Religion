@@ -11,7 +11,7 @@ canon_scope:
 language_original: Greek
 date_range: c. 85–100 CE (consensus); possibly 60s–90s CE (Robinson)
 sources_ingested: 2
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [text, christianity, new-testament, johannine, epistle]
 ---
 
@@ -39,7 +39,7 @@ Three positions on authorship:
 
 3. **Johannine school**: the letters emerged from a circle of writers sharing a common tradition rooted ultimately in the apostle's authority. Adopted by Brown, Schnackenburg in his later work, and others unwilling to assign direct authorship to the apostle.
 
-Both ingested commentaries favor the apostolic identification or at minimum accept the eyewitness language at face value. [[i-howard-marshall|Marshall]] (NICNT, 1978): probably John the apostle known as "the elder," or a close associate; the Revelation was written by a different John. [[colin-kruse|Kruse]] (PNTC, 2020): apostolic authorship is the fairest reading of the internal evidence; the Papias problem is real but not decisive.
+Both ingested commentaries favor the apostolic identification or at minimum accept the eyewitness language at face value. [[i-howard-marshall|Marshall]] (NICNT, 1978) deliberately leaves the identification open — the Epistles are "either by John the apostle, who was known as 'the elder,' or by a follower of the apostle who was known as 'the elder'" — while holding common authorship of all three Epistles as "overwhelmingly probable" and Gospel + Epistles as by the same or very close authors; the Revelation was written by a different John. [[colin-kruse|Kruse]] (PNTC, 2020): apostolic authorship is the fairest reading of the internal evidence; the Papias problem is real but not decisive.
 
 **Relation to the Gospel of John**: strikingly close in vocabulary and theology. Both Kruse and Marshall favor common authorship or at least very close proximity. Kruse's working hypothesis: the Gospel existed in early form before the Epistles; the secession prompted 1 John, followed by 2 and 3 John. The Epistles often apply Johannine Gospel concepts differently — notably *paraklētos* (in the Gospel = the Holy Spirit; in 1 John 2:1 = Jesus as heavenly advocate) — requiring care in cross-referencing.
 
@@ -75,13 +75,15 @@ Summary of secessionist teaching as reconstructed from the author's rebuttals:
 
 ## Key Interpretive Cruxes
 
-**1. The sinlessness paradox**: 1:8, 10 say "if we claim to be without sin, we deceive ourselves" and "if we claim we have not sinned, we make him out to be a liar." But 3:6, 9 say "no one who lives in him keeps on sinning" and "no one who is born of God will continue to sin." These passages appear to contradict each other. Resolution: the 1:8/10 texts address false claims of sinlessness (directed against the secessionists); the 3:6/9 texts describe the fundamental directional reorientation of the person born of God — habitual, characterizing sin is incompatible with being born of God, but individual acts of sin remain possible (hence 2:1–2: "if anybody does sin, we have an advocate with the Father"). Marshall and Kruse both hold this reading.
+**1. The sinlessness paradox**: 1:8, 10 say "if we claim to be without sin, we deceive ourselves" and "if we claim we have not sinned, we make him out to be a liar." But 3:6, 9 say "no one who lives in him keeps on sinning" and "no one who is born of God will continue to sin." These passages appear to contradict each other. The 1:8/10 texts address false claims of sinlessness (directed against the secessionists). On 3:6/9 the two ingested commentators **diverge**:
+- [[colin-kruse|Kruse]] reads 3:6, 9 as the **habitual/directional** orientation of the person born of God — characterizing, deliberate sin is incompatible with the new birth, though individual acts of sin remain possible (hence 2:1–2: "if anybody does sin, we have an advocate with the Father").
+- [[i-howard-marshall|Marshall]] **rejects** the habitual reading as resting on "a grammatical subtlety" (noting 5:16 uses the present tense of a believer's sin). He takes 3:6, 9 as an **eschatological ideal**: they state "the eschatological reality brought about by the coming of Jesus" — the sinlessness of the Age to Come (Ezek. 36:27) proper to those born of God, realized by the Christian who lives "between the times." The indicative "he cannot sin" is "logically an imperative": *"'Become what you are,' is John's message."*
 
-**2. Water and blood (5:6)**: "He did not come by water only, but by water and blood." The secessionists (on a Cerinthian-type reading) held that Christ came "by water" = the baptism of Jesus, when divine power descended on him; but denied that Christ was present in the crucifixion. John insists on "water *and* blood" — both the baptism and the atoning death — as the moments of Christ's coming. This verse is among the most anti-Docetic in the entire NT.
+**2. Water and blood (5:6)**: "He did not come by water only, but by water and blood." The secessionists (on a Cerinthian-type reading) held that Christ came "by water" = the baptism of Jesus, when divine power descended on him; but denied that Christ was present in the crucifixion. John insists on "water *and* blood" — both the baptism and the atoning death — as the moments of Christ's coming. This verse is among the most anti-Docetic in the entire NT. [[colin-kruse|Kruse]] refines the "water" reference: he reads "by water" as **Jesus's baptizing ministry** (the *en hydati* language of John 1:26, 31, 33; 3:22–4:1), not merely his own baptism, and "by blood" as the atoning death whose reality and saving necessity the secessionists denied — a baptizing-ministry-only Christology. Kruse treats a precise Cerinthian identification as attractive but not exact.
 
-**3. The structure of 1 John**: No consensus exists. Major proposals (Law's "spiral," Brooke's two-thesis scheme, Dodd's broad sections, Schnackenburg's three sections, Feuillet's parallel structure) all face objections. Marshall resolves: the letter is "a series of connected paragraphs whose relation to one another is governed by association of ideas rather than by a logical plan" — not illogical, but not susceptible to large-scale outline. Kruse structures around the secessionists' claims being successively tested.
+**3. The structure of 1 John**: No consensus exists. Major proposals (Law's "spiral," Brooke's two-thesis scheme, Dodd's broad sections, Schnackenburg's three sections, Feuillet's parallel structure) all face objections. Marshall resolves: the letter is "a series of connected paragraphs whose relation to one another is governed by association of ideas rather than by a logical plan" — not illogical, but not susceptible to large-scale outline. Kruse structures around the secessionists' claims being successively tested. Following **Watson**, Kruse also holds that 1 John is **epideictic** rhetoric — it reinforces adherence to already-held truths through *amplification* (repetition, refinement, accumulation) rather than proving a thesis; on this view the search for a linear-argument outline is misconceived, and the letter's "spiraling," repetitive character is a rhetorical feature, not a defect. (He classes 2 John as deliberative and 3 John as epideictic.)
 
-**4. Sin unto death (5:16–17)**: "There is a sin that leads to death. I am not saying that you should pray about that." The "sin unto death" is debated: apostasy? denial of Christ? the secessionists' specific heresy? deliberate, final rejection of God? Marshall is cautious and leaves multiple readings open.
+**4. Sin unto death (5:16–17)**: "There is a sin that leads to death. I am not saying that you should pray about that." The "sin unto death" is debated: apostasy? denial of Christ? the secessionists' specific heresy? deliberate, final rejection of God? Marshall is cautious and leaves multiple readings open. [[colin-kruse|Kruse]] decides the question by asking *who* commits each sin: since the "brother or sister" commits the sin that does *not* lead to death, the sin that *does* lead to death is the **unbeliever's** — specifically the secessionists' denial that Jesus is the Christ come in the flesh whose death was salvifically necessary. On Kruse's reading believers cannot commit it, and the author "does not contemplate apostasy" by true believers (contrast Hebrews).
 
 **5. Diotrephes (3 John 9–10)**: A local leader who "loves to be first," has refused the elder's authority, rejected his letter, and will not receive traveling preachers — even excommunicating those who do. Is he a heretic or merely a power-seeker? Marshall (followed by Kruse): the ecclesiastical reading is correct — no doctrinal issue is raised against Diotrephes; he is not a secessionist but a leader resisting outside authority. Kasemann's reversal (Diotrephes is the orthodox defender, the elder is the Gnostic) is rejected by both.
 
@@ -115,8 +117,8 @@ Summary of secessionist teaching as reconstructed from the author's rebuttals:
 
 ## Commentators and Sources
 
-- [[i-howard-marshall|I. Howard Marshall]], *The Epistles of John*, NICNT, Eerdmans, 1978
-- [[colin-kruse|Colin G. Kruse]], *The Letters of John*, PNTC, Eerdmans/Apollos, 2000 (2nd ed. 2020)
+- [[i-howard-marshall|I. Howard Marshall]], *The Epistles of John*, NICNT, Eerdmans, 1978 — [[marshall-epistles-of-john-nicnt|source page]]
+- [[colin-kruse|Colin G. Kruse]], *The Letters of John*, PNTC, Eerdmans/Apollos, 2000 (2nd ed. 2020) — [[kruse-letters-of-john|source page]]
 
 ## Key Links
 
@@ -124,6 +126,7 @@ Summary of secessionist teaching as reconstructed from the author's rebuttals:
 - Controversy: [[johannine-secessionists|The Johannine Secessionist Crisis]]
 - Controversy: [[beloved-disciple-identity|The Beloved Disciple]] — authorship question connects Gospel and Epistles
 - Concept: [[antichrist|Antichrist]]
+- Figures: [[diotrephes|Diotrephes]] · [[gaius|Gaius]] (3 John)
 - Concept: [[paraclete-advocate|The Paraclete/Advocate]] — *paraklētos* used differently in Gospel (Spirit) vs. 1 John 2:1 (Jesus)
 - Concept: [[testimony-martyria|Testimony/Witness (Martyria)]] — shared Johannine epistemic framework
 - Concept: [[new-covenant|New Covenant]] (Jer 31:31–34 and its NT development)

@@ -5,8 +5,9 @@ dates: fl. 1990s–2010s
 tradition: Christianity (evangelical Protestant; Lutheran-evangelical synthesis)
 affiliation: Southern Baptist Theological Seminary (Louisville, KY); also Concordia Theological Seminary (St. Louis, MO)
 primary_texts_commented: 2 Corinthians
+hermeneutical_method: [theologia-crucis, grammatico-historical, anti-partition, minimalist-mirror-reading]
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [commentator, christianity, new-testament, evangelical, pauline, lutheran]
 ---
 
@@ -26,33 +27,45 @@ D. A. Carson (series editor) describes Seifrid as making "himself a remarkably c
 
 ## Hermeneutical Method
 
-**Primary framework: Theologia crucis (Theology of the Cross) as hermeneutical key.** Seifrid reads 2 Corinthians through Luther's insight that God's saving work operates *sub contrario* — under its opposite. Power is hidden in weakness; life in death; wisdom in foolishness; glory in shame. This is not a biographical accident of Paul's career but a material theological claim about the form God's saving work takes in the world. The pattern of Christ's cross — death → resurrection — repeats in the apostle (4:10–12) and must repeat in every Christian (1:7). The theology of the cross is not a stage in Paul's theology; it is its permanent structural feature.
+| Method | How Seifrid uses it (PNTC 2 Cor) |
+|---|---|
+| **Theologia crucis** | Organizing key: God’s saving work *sub contrario*; power perfected in weakness (12:9); Christ crucified *ex astheneias* (“out of” weakness, 13:4) |
+| **Grammatico-historical** | Greek, LXX, Corinthian history; ESV base; dialogue with Bultmann, Furnish, Harris, Hafemann, Käsemann |
+| **Anti-partition** | Whole letter as one rhetorical-theological argument; 6:14–7:1 original; chs 8–9 and 10–13 not later fragments |
+| **Minimalist mirror-reading** | Opponents lack a unified theological program; practical *theologia gloriae* of visible success |
+| **Lutheran-evangelical synthesis** | *Extra nos* / communicative salvation; justification as ontological exchange *in Christ*; SBTS + Concordia seminars |
 
-**Against the search for a developed opponents' theology.** One of Seifrid's methodological distinctives is his resistance to speculative "mirror-reading" of 2 Corinthians. Earlier scholarship (Dieter Georgi, Richard Reitzenstein) attempted to reconstruct the theology of Paul's opponents from the letter's implicit polemic — identifying them as Gnostic "divine men," enthusiasts, or Judaizers. Seifrid argues this approach tells us more about the interpreters than about Paul: the opponents show no developed theological program. What they share is a practical theology that measures apostolic authority by outward success, rhetorical skill, and ecstatic experience.
+**Primary framework: Theologia crucis.** Seifrid reads 2 Corinthians through Luther's insight that God's saving work operates *sub contrario*. The pattern of Christ's cross — death → resurrection — repeats in the apostle (4:10–12) and in every Christian (1:7). Motto: *Verbum crucis, virtus Dei*.
 
-**Defense of the letter's unity.** Seifrid argues against partition theories throughout. His method: attend to the coherent rhetorical and theological argument across the whole letter, rather than slicing the text by stylistic or tonal differences.
+**Against developed opponents' theology.** Speculative mirror-reading (Georgi divine-men; Tübingen Judaizers) over-determines limited evidence. Opponents are Jewish (11:22), claim apostolic status and signs/visions, accept support — but share only a practical theology of outward success. The real drama is the Corinthians’ wayward heart.
 
-**Historical-critical engagement.** Seifrid interacts with the technical scholarship — Greek grammar, LXX allusions, historical background — at a high level, though the PNTC format keeps most of this in footnotes. He engages Rudolf Bultmann as a close-reading partner: he takes Bultmann's exegetical observations seriously while rejecting his demythologizing program.
+**Defense of letter unity.** Coherent theme of apostolic legitimacy from 1:1 to 13:14; collection and fool’s speech are extensions of intended effect, not bolted-on fragments.
 
-**Evangelical-critical.** Like other PNTC contributors, Seifrid reads 2 Corinthians as Scripture with authority for the contemporary church, while engaging critical scholarship on historical and literary questions without bracketing their results in advance.
+**Historical-critical engagement.** High-level Greek/LXX/history; footnotes (ebook dumps) carry secondary debate. Bultmann as close-reading partner without demythologizing.
+
+**Evangelical-critical.** Scripture for the church; critical reconstructions engaged as positions.
 
 ## Characteristic Positions
 
 **1. The central question is apostolic legitimation, not Judaizing.** The purpose of 2 Corinthians is the legitimation of Paul's apostolic authority against rival claimants. The opponents are Jewish (11:22) but are NOT Judaizers; they make no demand for circumcision or Torah observance. Their error is a practical one: they legitimate apostolic ministry by outward marks of power — rhetorical skill, personal charisma, ecstatic visions, signs and wonders. This is "practical heresy" — "the Gospel may be lost not merely by bad doctrine but by bad living." The Corinthians' preference for impressive apostles is, in effect, the embrace of a false Jesus.
 
-**2. The apostle is Christian existence in large-screen display.** The form of apostolic life — suffering, weakness, dying-and-rising — is the form of Christian life. "Our hope for you is confirmed, knowing that as you are partakers of sufferings, so also you are partakers of salvation" (1:7). The Corinthians resist Paul because, at some level, they know this truth and are unwilling to accept it. Their rejection of the weak apostle is a rejection of the theology of the cross.
+**2. The apostle is Christian existence written large.** Seifrid’s phrase (not “large-screen display”): “the life and existence of an apostle is merely Christian existence written large” (also “believing existence written large” at 4:8–9). The form of apostolic life — suffering, weakness, dying-and-rising — is the form of Christian life (1:7; 4:10–12). Rejection of the weak apostle is rejection of the theology of the cross.
 
 **3. 2 Corinthians 3 is addressed to the Corinthians, not opponents.** Paul's Moses/new covenant contrast (letter vs. Spirit; old vs. new; fading glory vs. surpassing glory) is not a response to Judaizing. Paul uses Moses to expose a universal human condition: the veil on the hearts of "the sons of Israel" is the veil on all human hearts. The Corinthians are "figured out" within the story of Moses — their inability to see Christ's presence in the apostle's weakness is the same blindness that prevented Israel from seeing the permanent glory behind the fading glory of Moses' face.
 
 **4. Salvation is passive before it is active.** "Growth is nothing other than growth in the faith that grasps Christ and his saving work again and again in the ever-changing circumstances of life." Sanctification is not self-improvement or a "purpose-driven life" but a "God-driven life." The apostle's sufficiency is never his own but always "from God" (3:5). Even the apostle is first a recipient of God's work before he is its agent. The Corinthians' fatal error is the presupposition that they themselves have the capacity to judge the apostle and the Gospel.
 
-**5. The great exchange (5:21) is the compressed heart of justification.** "He made him who knew no sin to be sin for us, so that in him we might become the righteousness of God" — Seifrid reads this as the most concentrated formulation of substitutionary atonement and forensic justification in the NT. Christ's bearing of sin and believers' receiving of righteousness are an exclusive and inclusive "place-taking": Christ took the place of humanity in death; humanity is included in his taking of their place. This connects 2 Corinthians to Seifrid's broader project on Pauline justification.
+**5. The great exchange (5:21) is irreducibly ontological.** Exclusive + inclusive place-taking; Christ the “sinless sinner”; forensic event + extrinsic location *in Christ* + new creation — not bare imputation as “money in the bank,” nor infusion. “We remain Christ’s sin… Christ remains our righteousness.” Connects 2 Corinthians to Seifrid’s justification project (*Justification by Faith*; *Christ, Our Righteousness*).
 
-**6. New creation is both personal and cosmic (5:17).** "If anyone is in Christ, [there is] a new creation" — the re-creation of the human being in Christ necessarily implies the re-creation of all things (cf. Rom 8:18–27). The new creation is localized ("in Christ") but its scope is universal. The eschaton has broken into the world; the present experience of the Spirit is the down payment (*arrabōn*) of the final resurrection.
+**6. New creation is personal and cosmic, localized in Christ (5:17).** Re-creation of the person implies re-creation of all things; not a general new historical era but new creation intersecting the fallen world. Spirit as *arrabōn* = new creation present within the fallen world (1:22; 5:5).
 
-**7. Anti-partition, pro-unity of the letter.** The integrity of 2 Corinthians against partition theories: 6:14–7:1 is not an interpolation but echoes the previous letter and anticipates chapters 10–13; chapters 8 and 9 are not duplicate sources; chapters 10–13 are not a separate letter but the necessary theological climax of the argument begun in chapters 1–7.
+**7. Anti-partition, pro-unity.** 6:14–7:1 original and aimed at opponents; chs 8–9 unified; 10–13 original climax (Titus aorists do not force a later letter).
 
-**8. Power in weakness is the theological climax.** The "thorn in the flesh" passage (12:7–10) and Christ's word — "My grace is sufficient for you, for my power is made perfect in weakness" — constitute the letter's theological center. Paul's defense of his apostleship does not rest in a list of credentials but in his catalog of sufferings and in the divine declaration that those sufferings are the medium of Christ's power.
+**8. Power in weakness is the theological climax.** Thorn (identity open; angel of Satan); 12:9 grace sufficient; **13:4** crucified *ex astheneias* (“out of” not “in” weakness) — power operates within weakness without removing it.
+
+**9. *Haplotēs* as simplicity.** Collection chapters: *haplotēs* = “simplicity” of giving/receiving (not English “generosity”); letter-theme with 1:12 and 11:3.
+
+**10. Closing aim.** Healing of relation; recognition of Paul as apostle; edification not self-defense; Gospel as communicative relation with the Giver (not possession of gifts); 13:14 grace of Christ / love of God / fellowship of Spirit as economic, incipiently trinitarian unity.
 
 ## Relationship to Other Commentaries
 
@@ -76,12 +89,20 @@ Seifrid engages most closely with:
 - Seifrid, *Christ, Our Righteousness: Paul's Theology of Justification* (New Studies in Biblical Theology; Downers Grove: IVP, 2000)
 - Seifrid, "In What Sense Is Justification a Declaration?" in *Justification: What's at Stake in the Current Debates*, ed. Husbands and Treier (IVP, 2004) — engagement with the NPP debate
 
+## Sources Ingested
+
+1. **Mark A. Seifrid, *The Second Letter to the Corinthians*, PNTC (Eerdmans, 2014)** — fidelity re-ingest 2026-07-18; full commentary body (prefaces + Introduction + 1:1–13:14 prose); [[seifrid-2-corinthians-pntc|source page]] with coverage ledger. ~453 grounded claims across 7 extraction passes. Footnote dumps treated as apparatus (selective).
+
 ## Key Links
 
 - [[2-corinthians|The Second Letter to the Corinthians]] — primary text
+- [[seifrid-2-corinthians-pntc|Seifrid, 2 Corinthians (PNTC)]] — source page
 - [[theology-of-the-cross|Theology of the Cross]] — the *theologia crucis* as Seifrid's hermeneutical key
 - [[new-creation|New Creation (Kainē Ktisis)]] — 2 Cor 5:17
+- [[reconciliation|Reconciliation]] — 5:18–21
 - [[pauls-opponents-2-corinthians|Paul's Opponents in 2 Corinthians]] — Seifrid's "practical theology" thesis
 - [[new-covenant|New Covenant]] — 2 Cor 3 as the new covenant ministry
 - [[justification|Justification]] — Seifrid's broader scholarly project
-- [[thomas-schreiner|Thomas R. Schreiner]] — fellow evangelical Pauline scholar; shared justification project
+- [[thomas-schreiner|Thomas R. Schreiner]] — fellow evangelical Pauline scholar; shared justification project; Rom 7 via Seifrid
+- [[douglas-moo|Douglas J. Moo]] — anti-NPP dialogue partner (different angle)
+- [[ciampa-rosner-1-corinthians-pntc|Ciampa & Rosner, 1 Corinthians (PNTC)]] — paired Corinthian letter

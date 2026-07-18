@@ -7,7 +7,7 @@ positions:
   - Pseudonymous (Pauline disciple after Paul's death; c. 70–90 CE)
 traditions_involved: [Protestant — evangelical, Protestant — critical-historical, Catholic]
 resolution_status: open
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, pauline, authorship]
 ---
 
@@ -90,3 +90,4 @@ The relationship is not simple copying; [[frank-thielman|Thielman]]'s "mind satu
 - [[frank-thielman|Frank Thielman]] — Pauline; Ephesians/Colossians together
 - [[ephesians-authorship|Ephesians: Pauline or Pseudonymous?]] — the parallel (and more contested) question
 - [[colossian-opponents|The Colossian Opponents]] — the letter's anti-heretical purpose
+- [[mcknight-colossians-nicnt|McKnight, *Colossians* (NICNT)]] — source for the "known-to-unknown" critique

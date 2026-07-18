@@ -1,0 +1,1171 @@
+145|Series Preface
+146|
+147|The chief concern of the Baker Exegetical Commentary on the New Testament (BECNT) is to provide, within the framework of informed evangelical thought, commentaries that blend scholarly depth with readability, exegetical detail with sensitivity to the whole, and attention to critical problems with theological awareness. We hope thereby to attract the interest of a fairly wide audience, from the scholar who is looking for a thoughtful and independent examination of the text to the motivated lay Christian who craves a solid but accessible exposition.
+148|
+149|Nevertheless, a major purpose is to address the needs of pastors and others involved in the preaching and exposition of the Scriptures as the uniquely inspired Word of God. This consideration directly affects the parameters of the series. For example, serious biblical expositors cannot afford to depend on a superficial treatment that avoids the difficult questions, but neither are they interested in encyclopedic commentaries that seek to cover every conceivable issue that may arise. Our aim, therefore, is to focus on those problems that have a direct bearing on the meaning of the text (although selected technical details are treated in the additional notes).
+150|
+151|Similarly, a special effort is made to avoid treating exegetical questions for their own sake, that is, in relative isolation from the thrust of the argument as a whole. This effort may involve (at the discretion of the individual contributors) abandoning the verse-by-verse approach in favor of an exposition that focuses on the paragraph as the main unit of thought. In all cases, however, the commentaries will stress the development of the argument and explicitly relate each passage to what precedes and follows it so as to identify its function in context as clearly as possible.
+152|
+153|We believe, moreover, that a responsible exegetical commentary must take fully into account the latest scholarly research, regardless of its source. The attempt to do this in the context of a conservative theological tradition presents certain challenges, and in the past the results have not always been commendable. In some cases, evangelicals appear to make use of critical scholarship not for the purpose of genuine interaction but only to dismiss it. In other cases, the interaction glides over into assimilation, theological distinctives are ignored or suppressed, and the end product cannot be differentiated from works that arise from a fundamentally different starting point.
+154|
+155|The contributors to this series attempt to avoid these pitfalls. On the one hand, they do not consider traditional opinions to be sacrosanct, and they are certainly committed to do justice to the biblical text whether or not it supports such opinions. On the other hand, they will not quickly abandon a long-standing view, if there is persuasive evidence in its favor, for the sake of fashionable theories. What is more important, the contributors share a belief in the trustworthiness and essential unity of Scripture. They also consider that the historic formulations of Christian doctrine, such as the ecumenical creeds and many of the documents originating in the sixteenth-century Reformation, arose from a legitimate reading of Scripture, thus providing a proper framework for its further interpretation. No doubt, the use of such a starting point sometimes results in the imposition of a foreign construct on the text, but we deny that it must necessarily do so or that the writers who claim to approach the text without prejudices are invulnerable to the same danger.
+156|
+157|Accordingly, we do not consider theological assumptions—from which, in any case, no commentator is free—to be obstacles to biblical interpretation. On the contrary, an exegete who hopes to understand the apostle Paul in a theological vacuum might just as easily try to interpret Aristotle without regard for the philosophical framework of his whole work or without having recourse to those subsequent philosophical categories that make possible a meaningful contextualization of his thought. It must be emphasized, however, that the contributors to the present series come from a variety of theological traditions and that they do not all have identical views with regard to the proper implementation of these general principles. In the end, all that really matters is whether the series succeeds in representing the original text accurately, clearly, and meaningfully to the contemporary reader.
+158|
+159|Shading has been used to assist the reader in locating the introductory comments for each section. Textual variants in the Greek text are signaled in the author’s translation by means of half-brackets around the relevant word or phrase (e.g., ⌜Gerasenes⌝), thereby alerting the reader to turn to the additional notes at the end of each exegetical unit for a discussion of the textual problem. The documentation uses the author-date method, in which the basic reference consists of author’s surname + year + page number(s): Fitzmyer 1992: 58. The only exceptions to this system are well-known reference works (e.g., BDAG, LSJ, TDNT). Full publication data and a complete set of indexes can be found at the end of the volume.
+160|
+161|Robert Yarbrough
+162|
+163|Robert H. Stein
+164|
+165|
+166|
+167|
+168|
+169|Author’s Preface
+170|
+171|The Baker Exegetical Commentary on the New Testament is a series designed to engage scholars as well as pastors and others who preach and exposit Scripture. It also invites lay Christians to join in the discussion about the books of the New Testament. Given these goals, writing on Jude and 2 Peter is a daunting task indeed. Among scholars, Jude and 2 Peter have lived on the margins. The critical issues of authorship, audience and environment swirl around any academic discussion of these letters. Jude has been tagged the “Most Neglected” of New Testament books (Rowston 1975). Jack Elliott once called 1 Peter an “Exegetical Stepchild” (J. H. Elliott 1976), leaving us wondering about the family status of 2 Peter. A colleague once commented that these epistles are hardly in the center of the canon. The situation in the church has not been much better. We often hear Jude’s doxology (vv. 24–25), and appeals are made to 2 Peter 1:21 in discussions about inspiration. But few sermons locate their foundations in these books and church curricula rarely include discussion of them. Lay Christians may know something about how Jude and 2 Peter are related, but few take them up as texts for a Bible study or reading. These epistles are difficult to interpret and present unique challenges, such as Jude’s quotation of 1 Enoch and the predominance of severe language about judgment throughout.
+172|
+173|Yet interest in these books is on the rise, and their study is experiencing a revival. A number of commentaries have been published since Bauckham’s monumental work (Bauckham 1983),[1] and more are currently in production. At the Annual Meeting of the Society of Biblical Literature, a new consultation was formed called “Methodological Reassessments of the Letters of James, Peter, and Jude.” The 2007 meeting focused on 2 Peter and Jude. Moreover, these books by the “Jerusalem Pillars” are moving from the margins toward the center as their canonical significance undergoes reexamination (Nienhuis 2007). This commentary is part of this movement to reassess the message of these books in the hope that they will find a more central place in the life of the church. Their value is much greater than their neglect would suggest. Moving beyond the negative assessments they have received and into a more positive, complete, and nuanced understanding of their message will help us understand more clearly the shape of early Christian faith and our own. The things that are “hard to understand” (2 Pet. 3:15) are not limited to Paul’s writings, but these letters’ difficulties do not diminish their value.
+174|
+175|The particular concern of this commentary is to read these letters within their cultural and historical contexts. Contextual concerns are not secondary to any communication, whether oral or written. Misunderstanding the appropriate contextual information can distort our understanding of the message being communicated. This task is difficult enough when people live in the same era in a common culture, but when we seek to cross the bridge of time, space, and culture to listen to an ancient author, the task becomes supremely daunting. Reading the letters of Jude and 2 Peter within their contexts is especially problematic due to the difficulty of locating both the authors and the readers. The analysis of Jude and 2 Peter in this commentary seeks to take into account the web of Jewish and Hellenistic culture in which they are embedded. They represent a dialogue with the Jewish heritage as well as the wider philosophical and social realities of life around the eastern Mediterranean. Moreover, this exposition attempts to read the whole of the story and each part in light of the whole. The analysis is detailed, yet the whole situation of the readers is kept in view and the overall thrust of the message remains clearly in sight.
+176|
+177|The commentary also addresses difficult interpretive issues in an attempt to move the discussion forward. Questions of authorship, the nature of the relationship between the letters, and the use of pseudepigraphical literature are all given due attention, though without any illusion that all readers will be satisfied with my conclusions. Finally, the theological concerns of the letters are woven together with the contextual and historical discussions. Theology and history can be and should be discussed together and not bifurcated into discrete domains.
+178|
+179|As with any work of this type, a cadre of people have contributed to its production in very significant ways. My wife, Deborah, and daughter, Christiana, once again traveled with me to Cambridge, England, where I wrote the major portion of the commentary. Deborah worked as a midwife for the National Health Service and kept our financial foundation firm during our sojourn as well as acting as an ever-constant encourager. Christiana was willing to be uprooted from high school to attend The Leys and embraced her new educational environment with great relish and success. This work never would have been accomplished without the help and sacrifice of these wonderful women.
+180|
+181|I must also thank all the staff at Tyndale House in Cambridge who provided great logistic support. Bruce Winter, the former Warden; Elizabeth Magba, the librarian; as well as David Instone-Brewer, David Baker, Tania Raiola, and Fiona Craig labored together to create an environment ideal for research. The final work on this commentary was completed at Wheaton College’s Buswell Memorial Library. Thanks go to Lisa Richmond, the librarian, and especially to Greg Morrison for attending to my needs while spending long summer days at Buswell. Wheaton College provided sabbatical leave, and an Alumni Association Grant helped finance this research effort. Without such generosity this project would not have seen the light of day.
+182|
+183|There are a number of people who worked directly with me on the production of this volume, and I owe them many thanks. My assistant, Christopher Hays, labored tirelessly in hunting down literature, checking all the references in the book, doing the first edit, and dialoguing with me about the contents. Out of that work came his first published article (Hays 2004), the promise of good things to come from an excellent scholar. When this project was first under way, Peter Spychalla did a journeyman’s job in gathering bibliographic information. I am also very grateful for the editorial labors of Bob Yarbrough, one of the general editors of this series, and Wells Turner of Baker Academic. Their careful eyes, discerning questions, and wise suggestions greatly improved the quality of the book.
+184|
+185|While writing this commentary, I had the opportunity to teach a course at Wheaton College on the Petrine Epistles and Jude. Running a bit of a risk, I encouraged the students in their writing for the course by stating that I would include something from the best essay in the commentary. The quality of the essays was quite good, though a bit uneven. However, one stood out head and shoulders above the rest, that of Rachel Griego. Rachel was a psychology major at the college, who loved life and friends and also played the flute quite well. Her essay is a brilliant and insightful piece of research, showing that she was a careful reader of texts, a critical thinker, and a creative writer. As promised, her essay is included in this volume. Most sadly, she did not survive to see the publication of this book. Rachel was killed in an automobile accident in 2005. She is sorely missed by family, friends, and teachers, but her voice and her example live on. Rachel was one of the many students I have seen over the years who come to class with a longing to learn the message of Scripture. She was a model young interpreter who took seriously the careful and sometimes laborious study of the New Testament. She excelled, and serves still as a model of the type of engagement all students of Scripture can and should have. Rachel was quiet in class, but her mind was alive with the texts we read together. This commentary is dedicated to Rachel, a faithful and exemplary student of Scripture.
+186|
+187|
+188|
+189|
+190|
+191|Abbreviations
+192|
+193|Bibliographic and General
+194|
+195|ABD The Anchor Bible Dictionary, edited by D. N. Freedman et al., 6 vols. (New York: Doubleday, 1992)
+196|
+197|AD anno Domini, in the year of our Lord
+198|
+199|ANF The Ante-Nicene Fathers, edited by A. Roberts and J. Donaldson, 10 vols. (1885–87; reprinted, Peabody, MA: Hendrickson, 1994)
+200|
+201|BC before Christ
+202|
+203|BCE before the common era
+204|
+205|BDAG A Greek-English Lexicon of the New Testament and Other Early Christian Literature, by W. Bauer, F. W. Danker, W. F. Arndt, and F. W. Gingrich, 3rd ed. (Chicago: University of Chicago Press, 2000)
+206|
+207|BDF A Greek Grammar of the New Testament and Other Early Christian Literature, by F. Blass and A. Debrunner, translated and revised by R. W. Funk (Chicago: University of Chicago Press, 1961)
+208|
+209|ca. circa, approximately
+210|
+211|CE common era
+212|
+213|cent. century
+214|
+215|cf. confer, compare
+216|
+217|e.g. exempli gratia, for example
+218|
+219|Eng. English
+220|
+221|Ep. Epistle(s)
+222|
+223|frg(s). fragment(s)
+224|
+225|Gk. Greek
+226|
+227|IDBSup Interpreter’s Dictionary of the Bible: Supplementary Volume, edited by K. Crim (Nashville: Abingdon, 1976)
+228|
+229|intro. introduction
+230|
+231|KJV King James Version
+232|
+233|l(l). line(s)
+234|
+235|lit. literally
+236|
+237|LSJ A Greek-English Lexicon, by H. G. Liddell, R. Scott, and H. S. Jones, 9th ed. (Oxford: Clarendon, 1968)
+238|
+239|LXX Septuagint; LXX S, Sinaiticus manuscript of LXX
+240|
+241|𝔐 the reading of the majority of the Byzantine textual witnesses
+242|
+243|MM The Vocabulary of the Greek Testament, by J. H. Moulton and G. Milligan (London: Hodder & Stoughton, 1930; reprinted, Peabody, MA: Hendrickson, 1997)
+244|
+245|MS(S) manuscript(s)
+246|
+247|NA27 Novum Testamentum Graece, edited by [E. and E. Nestle,] B. Aland et al., 27th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1993)
+248|
+249|NASB New American Standard Bible
+250|
+251|NewDocs New Documents Illustrating Early Christianity, edited by G. H. R. Horsley and S. R. Llewelyn (North Ryde, NSW: Ancient History Documentary Research Centre, Macquarie University, 1981–)
+252|
+253|NIDNTT New International Dictionary of New Testament Theology, edited by C. Brown, 4 vols. (Grand Rapids: Zondervan, 1975–85)
+254|
+255|NIDOTTE New International Dictionary of Old Testament Theology and Exegesis, edited by W. A. VanGemeren, 5 vols. (Grand Rapids: Zondervan, 1997)
+256|
+257|NIV New International Version
+258|
+259|NJB New Jerusalem Bible
+260|
+261|NKJV New King James Version
+262|
+263|NLT New Living Translation
+264|
+265|NRSV New Revised Standard Version
+266|
+267|NT New Testament
+268|
+269|OCD The Oxford Classical Dictionary, edited by S. Hornblower and A. Spawforth, 3rd ed. (Oxford: Oxford University Press, 1996)
+270|
+271|ODCC The Oxford Dictionary of the Christian Church, edited by F. L. Cross and E. A. Livingstone, 3rd ed. (Oxford: Oxford University Press, 1997)
+272|
+273|OG Old Greek
+274|
+275|OT Old Testament
+276|
+277|OTP The Old Testament Pseudepigrapha, edited by J. H. Charlesworth, 2 vols. (Garden City, NY: Doubleday, 1983–85)
+278|
+279|par. parallel(s)
+280|
+281|PGL Patristic Greek Lexicon, edited by G. W. H. Lampe (Oxford: Clarendon, 1968)
+282|
+283|RSV Revised Standard Version
+284|
+285|Str-B Kommentar zum Neuen Testament aus Talmud und Midrasch, by H. L. Strack and P. Billerbeck, 6 vols. (Munich: Beck, 1922–61)
+286|
+287|TDNT Theological Dictionary of the New Testament, edited by G. Kittel and G. Friedrich, translated and edited by G. W. Bromiley, 10 vols. (Grand Rapids: Eerdmans, 1964–76)
+288|
+289|Theod. Theodotion’s Greek recension/translation of the Hebrew Bible
+290|
+291|TLNT Theological Lexicon of the New Testament, by C. Spicq, translated and edited by J. D. Ernest, 3 vols. (Peabody, MA: Hendrickson, 1994)
+292|
+293|TNIV Today’s New International Version
+294|
+295|UBS4 The Greek New Testament, edited by B. Aland et al., 4th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft and United Bible Societies, 1994)
+296|
+297|v.l. varia lectio, variant reading
+298|
+299|Hebrew Bible
+300|
+301|Gen. Genesis
+302|
+303|Exod. Exodus
+304|
+305|Lev. Leviticus
+306|
+307|Num. Numbers
+308|
+309|Deut. Deuteronomy
+310|
+311|Josh. Joshua
+312|
+313|Judg. Judges
+314|
+315|Ruth Ruth
+316|
+317|1 Sam. 1 Samuel
+318|
+319|2 Sam. 2 Samuel
+320|
+321|1 Kings 1 Kings
+322|
+323|2 Kings 2 Kings
+324|
+325|1 Chron. 1 Chronicles
+326|
+327|2 Chron. 2 Chronicles
+328|
+329|Ezra Ezra
+330|
+331|Neh. Nehemiah
+332|
+333|Esth. Esther
+334|
+335|Job Job
+336|
+337|Ps(s). Psalms
+338|
+339|Prov. Proverbs
+340|
+341|Eccles. Ecclesiastes
+342|
+343|Song Song of Songs
+344|
+345|Isa. Isaiah
+346|
+347|Jer. Jeremiah
+348|
+349|Lam. Lamentations
+350|
+351|Ezek. Ezekiel
+352|
+353|Dan. Daniel
+354|
+355|Hos. Hosea
+356|
+357|Joel Joel
+358|
+359|Amos Amos
+360|
+361|Obad. Obadiah
+362|
+363|Jon. Jonah
+364|
+365|Mic. Micah
+366|
+367|Nah. Nahum
+368|
+369|Hab. Habbakuk
+370|
+371|Zeph. Zephaniah
+372|
+373|Hag. Haggai
+374|
+375|Zech. Zechariah
+376|
+377|Mal. Malachi
+378|
+379|Greek Testament
+380|
+381|Matt. Matthew
+382|
+383|Mark Mark
+384|
+385|Luke Luke
+386|
+387|John John
+388|
+389|Acts Acts
+390|
+391|Rom. Romans
+392|
+393|1 Cor. 1 Corinthians
+394|
+395|2 Cor. 2 Corinthians
+396|
+397|Gal. Galatians
+398|
+399|Eph. Ephesians
+400|
+401|Phil. Philippians
+402|
+403|Col. Colossians
+404|
+405|1 Thess. 1 Thessalonians
+406|
+407|2 Thess. 2 Thessalonians
+408|
+409|1 Tim. 1 Timothy
+410|
+411|2 Tim. 2 Timothy
+412|
+413|Titus Titus
+414|
+415|Philem. Philemon
+416|
+417|Heb. Hebrews
+418|
+419|James James
+420|
+421|1 Pet. 1 Peter
+422|
+423|2 Pet. 2 Peter
+424|
+425|1 John 1 John
+426|
+427|2 John 2 John
+428|
+429|3 John 3 John
+430|
+431|Jude Jude
+432|
+433|Rev. Revelation
+434|
+435|Other Jewish and Christian Writings
+436|
+437|Acts Pet. Acts of Peter
+438|
+439|Add. Esth. Additions to Esther
+440|
+441|Apoc. Ab. Apocalypse of Abraham
+442|
+443|Apoc. El. Apocalypse of Elijah
+444|
+445|Apoc. Pet. Apocalypse of Peter
+446|
+447|As. Mos. Assumption of Moses
+448|
+449|Ascen. Isa. Martyrdom and Ascension of Isaiah
+450|
+451|Bar. Baruch
+452|
+453|2 Bar. 2 Baruch (Syriac Apocalypse)
+454|
+455|4 Bar. 4 Baruch (Paraleipomena Jeremiou)
+456|
+457|Barn. Barnabas
+458|
+459|1–2 Clem. 1–2 Clement
+460|
+461|Did. Didache
+462|
+463|Diogn. Diognetus
+464|
+465|Div. Inst. Lactantius, The Divine Institutes
+466|
+467|Eccl. Hist. Eusebius, Ecclesiastical History
+468|
+469|1 En. 1 Enoch (Ethiopic Apocalypse)
+470|
+471|2 En. 2 Enoch (Slavonic Apocalypse)
+472|
+473|3 En. 3 Enoch (Hebrew Apocalypse)
+474|
+475|1 Esd. 1 Esdras
+476|
+477|2 Esd. 2 Esdras (4 Ezra)
+478|
+479|Haer. Augustine, Heresies; Hippolytus, Refutation of All Heresies; or Irenaeus, Against Heresies
+480|
+481|Herm. Mand. Shepherd of Hermas, Mandate
+482|
+483|Herm. Sim. Shepherd of Hermas, Similitude
+484|
+485|Ign. Eph. Ignatius, Letter to the Ephesians
+486|
+487|Ign. Trall. Ignatius, Letter to the Trallians
+488|
+489|Jdt. Judith
+490|
+491|Jos. Asen. Joseph and Aseneth
+492|
+493|Jub. Jubilees
+494|
+495|L.A.B. Pseudo-Philo, Liber antiquitatum biblicarum
+496|
+497|L.A.E. Life of Adam and Eve
+498|
+499|Let. Aris. Letter of Aristeas
+500|
+501|Let. Jer. Letter of Jeremiah
+502|
+503|1–4 Macc. 1–4 Maccabees
+504|
+505|Mart. Pol. Martyrdom of Polycarp
+506|
+507|Odes Sol. Odes of Solomon
+508|
+509|Pan. Epiphanius, Panarion (Refutation of All Heresies)
+510|
+511|Pol. Phil. Polycarp, Letter to the Philippians
+512|
+513|Pr. Azar. Prayer of Azariah
+514|
+515|Ps. Sol. Psalms of Solomon
+516|
+517|Rab. Rabbah
+518|
+519|Sib. Or. Sibylline Oracles
+520|
+521|Sir. Sirach (Ecclesiasticus)
+522|
+523|Strom. Clement of Alexandria, Stromata (Miscellanies)
+524|
+525|Sus. Susanna
+526|
+527|T. Ab. Testament of Abraham
+528|
+529|T. Ash. Testament of Asher
+530|
+531|T. Benj. Testament of Benjamin
+532|
+533|T. Dan. Testament of Dan
+534|
+535|T. Iss. Testament of Issachar
+536|
+537|T. Job Testament of Job
+538|
+539|T. Jos. Testament of Joseph
+540|
+541|T. Jud. Testament of Judah
+542|
+543|T. Levi Testament of Levi
+544|
+545|T. Mos. Testament of Moses
+546|
+547|T. Naph. Testament of Naphtali
+548|
+549|T. Reu. Testament of Reuben
+550|
+551|T. Sol. Testament of Solomon
+552|
+553|T. Zeb. Testament of Zebulun
+554|
+555|Tob. Tobit
+556|
+557|Wis. Wisdom of Solomon
+558|
+559|Josephus
+560|
+561|Ag. Ap. Against Apion
+562|
+563|Ant. Jewish Antiquities
+564|
+565|J.W. Jewish War
+566|
+567|Life The Life
+568|
+569|Philo
+570|
+571|Abraham On the Life of Abraham
+572|
+573|Agriculture On Agriculture
+574|
+575|Alleg. Interp. Allegorical Interpretation
+576|
+577|Cherubim On the Cherubim
+578|
+579|Confusion On the Confusion of Tongues
+580|
+581|Decalogue On the Decalogue
+582|
+583|Dreams On Dreams
+584|
+585|Drunkenness On Drunkenness
+586|
+587|Embassy On the Embassy to Gaius
+588|
+589|Eternity On the Eternity of the World
+590|
+591|Giants On Giants
+592|
+593|Good Person That Every Good Person Is Free
+594|
+595|Heir Who Is the Heir?
+596|
+597|Joseph On the Life of Joseph
+598|
+599|Migr. On the Migration of Abraham
+600|
+601|Moses On the Life of Moses
+602|
+603|Names On the Change of Names
+604|
+605|Planting On Planting
+606|
+607|Posterity On the Posterity of Cain
+608|
+609|QG Questions and Answers on Genesis
+610|
+611|Rewards On Rewards and Punishments
+612|
+613|Sacrifices On the Sacrifices of Cain and Abel
+614|
+615|Sobriety On Sobriety
+616|
+617|Spec. Laws On the Special Laws
+618|
+619|Unchangeable That God Is Unchangeable
+620|
+621|Virtues On the Virtues
+622|
+623|Worse That the Worse Attacks the Better
+624|
+625|Rabbinic Tractates
+626|
+627|The abbreviations below are used for the names of the tractates in the Mishnah (indicated by a prefixed m.), Tosefta (t.), Babylonian Talmud (b.), and Jerusalem/Palestinian Talmud (y.).
+628|
+629|B. Bat. Baba Batra
+630|
+631|B. Meṣiʿa Baba Meṣiʿa
+632|
+633|Ber. Berakot
+634|
+635|Sanh. Sanhedrin
+636|
+637|Targums
+638|
+639|Tg. Isa. Targum Isaiah
+640|
+641|Tg. Jon. Targum Jonathan
+642|
+643|Tg. Neof. Targum Neofiti
+644|
+645|Tg. Onq. Targum Onqelos
+646|
+647|Tg. Ps.-J. Targum Pseudo-Jonathan
+648|
+649|Qumran / Dead Sea Scrolls
+650|
+651|CD Damascus Document
+652|
+653|1QapGen Genesis Apocryphon
+654|
+655|1QH Thanksgiving Hymns/Psalms (Hodayot)
+656|
+657|1QM War Scroll (Milḥamah)
+658|
+659|1QpHab Commentary on Habakkuk
+660|
+661|1QS Rule of the Community (Serek Hayaḥad)
+662|
+663|1QSa Rule of the Congregation (1Q28a)
+664|
+665|4QʿAmram Visions of Amram (4Q543–548)
+666|
+667|4QAstronomical Enoch 4Q208–211
+668|
+669|4QEnoch 4Q201–202, 204–207, 212
+670|
+671|4QFlor Florilegium (4Q174)
+672|
+673|4QPrayer of Enoch/Enosh 4Q369
+674|
+675|4QpsJub Pseudo-Jubilees (4Q227)
+676|
+677|11QpsZion Pseudo-Zion (11Q5)
+678|
+679|Greek Papyri and Inscriptions
+680|
+681|BGU Aegyptische Urkunden aus den Königlichen/Staatlichen Museen zu Berlin, Griechische Urkunden (Berlin, 1895–)
+682|
+683|CPJ Corpus papyrorum judaicarum, edited by V. Tcherikover, 3 vols. (Cambridge, 1957–64)
+684|
+685|CPR Corpus papyrorum Raineri archeducis Austriae (Vienna, 1895–)
+686|
+687|IT Inscriptiones graecae Epiri, Macedoniae, Thraciae, Scythiae, part 2: Inscriptiones Macedoniae, fascicle 1: Inscriptiones Thessalonicae et viciniae, edited by Charles Edson (Berlin: de Gruyter, 1972)
+688|
+689|P.Amh. The Amherst Papyri, Being an Account of the Greek Papyri in the Collection of the Right Hon. Lord Amherst of Hackney, F.S.A. at Didlington Hall, Norfolk, edited by B. P. Grenfell and A. S. Hunt, 2 vols. (London, 1900–1901)
+690|
+691|P.Berlin Berlin papyrus 7927, in Fritz Krebs, Hermes 30 (1895): 144–50; and in Herwig Maehler, Zeitschrift für Papyrologie und Epigraphik 23 (1976): 1–20; cf. BGU
+692|
+693|P.Cair.Zen. Zenon Papyri, Catalogue général des antiquités égyptiennes du Musée du Caire, edited by C. C. Edgar, 5 vols. (Cairo, 1925–40)
+694|
+695|P.Dura The Excavations at Dura-Europos Conducted by Yale University and the French Academy of Inscriptions and Letters, final report 5.1: The Parchments and Papyri, edited by C. B. Welles, R. O. Fink, and J. F. Gilliam (New Haven: Yale University Press, 1959)
+696|
+697|P.Fay. Fayûm Towns and Their Papyri, edited by B. P. Grenfell, A. S. Hunt, D. G. Hogarth, and J. G. Milne (London: Egypt Exploration Fund, 1900)
+698|
+699|P.Oxy. The Oxyrhynchus Papyri, edited by B. P. Grenfell et al., 66 vols. (London: Egypt Exploration Society, 1898–1999)
+700|
+701|P.Ryl. Catalogue of the Greek and Latin Papyri in the John Rylands Library, Manchester, edited by A. S. Hunt et al., 4 vols. (Manchester, 1911–52)
+702|
+703|P.Stras. Griechische Papyrus der Kaiserlichen Universitäts- und Landesbibliothek zu Strassburg, edited by F. Preisigke, 9 vols. (Leipzig, 1912–89)
+704|
+705|P.Tebt. The Tebtunis Papyri, edited by B. P. Grenfell et al., 4 vols. (London: Egypt Exploration Society, 1902–76)
+706|
+707|SIG Sylloge inscriptionum graecarum, edited by W. Dittenberger, 3rd ed., 4 vols. (Leipzig: Hirzelium, 1915–24)
+708|
+709|Classical Writers
+710|
+711|Ag. Cleom. Plutarch, Agis and Cleomenes
+712|
+713|All. Heraclitus, Homeric Allegories
+714|
+715|Anab. Arrian, Anabasis; or Xenophon, Anabasis
+716|
+717|Ann. Tacitus, Annals
+718|
+719|Ant. rom. Dionysius of Halicarnassus, Roman Antiquities
+720|
+721|Art Horace, Art of Poetry
+722|
+723|Athenaeus Deipnosophistae
+724|
+725|Att. Cicero, Epistulae ad Atticum
+726|
+727|Bell. civ. Appian, Civil Wars
+728|
+729|Cyr. Xenophon, Cyropaedia (The Education of Cyrus)
+730|
+731|Demon. Isocrates, Ad Demonicum
+732|
+733|Dio Cassius Roman History
+734|
+735|Diodorus Siculus Historical Library
+736|
+737|Disc. Epictetus, Discourses
+738|
+739|Div. Cicero, On Divination
+740|
+741|Eloc. Demetrius, De elocutione
+742|
+743|Ench. Epictetus, Enchiridion (Handbook)
+744|
+745|Ep. Men. Epicurus, Letter to Menoeceus
+746|
+747|Ep. mor. Seneca, Epistulae morales
+748|
+749|Eth. Nic. Aristotle, Nicomachean Ethics
+750|
+751|Fam. Cicero, Epistulae ad familiares
+752|
+753|Fat. Cicero, On Fate
+754|
+755|Hell. Xenophon, Hellenica
+756|
+757|Hercules Euripedes, Madness of Hercules
+758|
+759|Herodotus Histories
+760|
+761|Hipp. Euripedes, Hippolytus
+762|
+763|Hist. Tacitus, Historiae (Histories)
+764|
+765|Hist. an. Aristotle, History of Animals
+766|
+767|Il. Homer, Iliad
+768|
+769|Inst. Quintilian, Institutio oratoria
+770|
+771|Inv. Cicero, De inventione rhetorica
+772|
+773|Juvenal Satires
+774|
+775|Lives Diogenes Laertius, Lives and Opinions of Eminent Philosophers
+776|
+777|Lucretius De rerum natura (On the Nature of Things)
+778|
+779|Marcus Aurelius Meditations
+780|
+781|Mem. Xenophon, Memorabilia
+782|
+783|Mete. Aristotle, Meteorology
+784|
+785|Mor. Plutarch, Moralia
+786|
+787|Nat. Pliny the Elder, Natural History
+788|
+789|Nat. d. Cicero, On the Nature of the Gods
+790|
+791|Od. Homer, Odyssey
+792|
+793|Or. Oration(s), various writers
+794|
+795|Pausanius Description of Greece
+796|
+797|Pers. Aeschylus, Persians
+798|
+799|Pol. Aristotle, Politics
+800|
+801|Polybius Universal History
+802|
+803|Quintus Smyrnaeus Posthomerica
+804|
+805|Res gestae Augustus, Res gestae divi Augusti (The Deeds of the Divine Augustus)
+806|
+807|Sera Plutarch, De sera numinis vindicta
+808|
+809|Strabo Geography
+810|
+811|Thucydides History of the Peloponnesian War
+812|
+813|
+814|
+815|
+816|
+817|Transliteration
+818|
+819|Greek
+820|
+821|α a
+822|
+823|β b
+824|
+825|γ g/n
+826|
+827|δ d
+828|
+829|ε e
+830|
+831|ζ z
+832|
+833|η ē
+834|
+835|θ th
+836|
+837|ι i
+838|
+839|κ k
+840|
+841|λ l
+842|
+843|µ m
+844|
+845|ν n
+846|
+847|ξ x
+848|
+849|ο o
+850|
+851|π p
+852|
+853|ρ r
+854|
+855|σ/ς s
+856|
+857|τ t
+858|
+859|υ y/u
+860|
+861|φ ph
+862|
+863|χ ch
+864|
+865|ψ ps
+866|
+867|ω ō
+868|
+869|̔ h
+870|
+871|Notes on the Transliteration of Greek
+872|
+873|Accents, lenis (smooth breathing), and iota subscript are not shown in transliteration.
+874|
+875|The transliteration of asper (rough breathing) precedes a vowel or diphthong (e.g., ἁ = ha; αἱ = hai) and follows ρ (i.e., ῥ = rh).
+876|
+877|Gamma is transliterated n only when it precedes γ, κ, ξ, or χ.
+878|
+879|Upsilon is transliterated u only when it is part of a diphthong (i.e., αυ, ευ, ου, υι).
+880|
+881|
+882|
+883|Hebrew
+884|
+885|א ʾ
+886|
+887|ב b
+888|
+889|ג g
+890|
+891|ד d
+892|
+893|ה h
+894|
+895|ו w
+896|
+897|ז z
+898|
+899|ח ḥ
+900|
+901|ט ṭ
+902|
+903|י y
+904|
+905|כ/ך k
+906|
+907|ל l
+908|
+909|מ/ם m
+910|
+911|נ/ן n
+912|
+913|ס s
+914|
+915|ע ʿ
+916|
+917|פ/ף p
+918|
+919|צ/ץ ṣ
+920|
+921|ק q
+922|
+923|ר r
+924|
+925|שׂ ś
+926|
+927|שׁ š
+928|
+929|ת t
+930|
+931|בָ ā qāmeṣ
+932|
+933|בַ a pataḥ
+934|
+935|חַ a furtive pataḥ
+936|
+937|בֶ e sĕgôl
+938|
+939|בֵ ē ṣērê
+940|
+941|בִ i short ḥîreq
+942|
+943|בִ ī long ḥîreq written defectively
+944|
+945|בָ o qāmeṣ ḥāṭûp
+946|
+947|בוֹ ô ḥôlem written fully
+948|
+949|בׂ ō ḥôlem written defectively
+950|
+951|בוּ û šûreq
+952|
+953|בֻ u short qibbûṣ
+954|
+955|בֻ ū long qibbûṣ written defectively
+956|
+957|בָה â final qāmeṣ hēʾ (בָהּ = āh)
+958|
+959|בֶי ê sĕgôl yôd (בֶיּ = êy)
+960|
+961|בֵי ê ṣērê yôd (בֵיּ = êy)
+962|
+963|בִי î ḥîreq yôd (בִיּ = îy)
+964|
+965|בֲ ă ḥāṭēp pataḥ
+966|
+967|בֱ ě ḥāṭēp sĕgôl
+968|
+969|בֳ ŏ ḥāṭēp qāmeṣ
+970|
+971|בְ ĕ vocal šĕwāʾ
+972|
+973|Notes on the Transliteration of Hebrew
+974|
+975|Accents are not shown in transliteration.
+976|
+977|Silent šĕwāʾ is not indicated in transliteration.
+978|
+979|The spirant forms ת פ כ ד ג ב are usually not specially indicated in transliteration.
+980|
+981|Dāgeš forte is indicated by doubling the consonant. Euphonic dāgeš and dāgeš lene are not indicated in transliteration.
+982|
+983|Maqqēp is represented by a hyphen.
+984|
+985|
+986|
+987|
+988|
+989|Introduction to Jude
+990|
+991|Authorship of Jude
+992|
+993|According to the normal conventions of ancient Greco-Roman and Semitic letter writing, the Epistle of Jude begins by naming the author “Jude” (Ἰούδας, Ioudas).[1] The first line of the letter also includes qualifiers that allowed the readers of the letter to identify him more precisely. He calls himself “a slave of Jesus Christ and brother of James” (Ἰησοῦ Χριστοῦ δοῦλος, ἀδελφὸς δὲ Ἰακώβου, Iēsou Christou doulos, adelphos de Iakōbou). The first reason the author would need to include such additional identification would be to distinguish himself from the many others who went by the name “Jude.” In her catalog of names known to us from Palestine, Ilan (2002: 112–25) records 179 occurrences of the name יְהוּדָה (Yĕhûdâ, Judah), which is transliterated into Greek as Ἰούδας.[2] “Jude” was a very common Hebrew name because of its patriarchal (Matt. 1:2–3) and tribal (Matt. 2:6) roots. The author is Jewish since in ancient literature and inscriptions “Jude” never appears as the name of a gentile. Ἰούδας is variously rendered as Jude, Judas, Judah, and Judea (Luke 1:39), a point that occasionally surprises readers of the English Bible.
+994|
+995|In the NT, the name Ἰούδας appears forty-five times, occasionally as the tribal name Judah (Matt. 2:6; Heb. 7:14; 8:8; Rev. 5:5; 7:5) or the region Judea (Luke 1:39 uses it imprecisely referring to all Palestine, including Galilee). The individuals who bear the name include the patriarch Judah, son of Jacob and father of Perez and Zerah, who appears in the Jesus genealogies (Matt. 1:2–3; Luke 3:33–34) along with Judah the son of Joseph and father of Simeon (Luke 3:30). The most famous ᾽Ιούδας in the NT is Judas Iscariot (Matt. 10:4; 26:14, 25, 47; 27:3; Mark 3:19; 14:10, 43; Luke 6:16; 22:3, 47, 48; John 6:71; 12:4; 13:2, 26, 29; 18:2–3, 5; Acts 1:16, 25). The others are the revolutionary Judas the Galilean (Acts 5:37; Josephus, J.W. 2.17.8 §433; Ant. 18.1.1 §§1–10; 18.1.6 §23); Judas of Damascus, in whose house Saul lodged (Acts 9:11); and Judas called Barsabbas, a Jerusalemite prophet in the early church (Acts 15:22, 27, 32). Only these last two are possible candidates for authorship, but it is unlikely that either of them penned the book since the author designates himself as “the brother of James.” Another of the Twelve is also named Jude, “son of James” (Luke 6:16; John 14:22; Acts 1:13). But this apostle could not be the author of the book since he was a son of someone called James and not his brother.
+996|
+997|“Jude . . . the brother of James” is most likely the same person who is named, along with James, as one of the siblings of Jesus (Matt. 13:55; Mark 6:3). The fact that Jude is named at the very end of the list of Jesus’s brothers, along with Simon, may indicate that he was the youngest or the next to the youngest male in the family (Jesus’s sisters are also mentioned in Mark 6:3, without any indication of their number or names). At various points in the Gospels and Acts, reference is made to Jesus’s siblings (Mark 3:32, as his “brothers and sisters”; John 7:3, 5, 10, with a note that they did not believe in Jesus during his ministry; Acts 1:14, gathered with the disciples before Pentecost). Occasionally these family members are said to be in the company of Mary (Matt. 12:46; Acts 1:14), suggesting an earlier death of their father, Joseph. The “brothers of the Lord” were known widely in the early church, alongside the apostles, and appear to have engaged in missionary activity (1 Cor. 9:5).
+998|
+999|Since Jude mentions James with no further qualification, we should likely identify this James with “the Lord’s brother” who was one of the “pillars” of the Jerusalem church (Gal. 2:9; and see Bauckham 1995a). He was a witness of the resurrection, according to Paul (1 Cor. 15:7), and became the principal leader of the Jerusalem church after Peter “went to another place” (Acts 12:17).[3] James appears as the head of the church both at the time of the Jerusalem Council (Acts 15:13; and see Gal. 2:12) and when Paul returned to Jerusalem after his missionary journeys (Acts 21:18). James had become so prominent a figure in the early church that in the epistle that bears his name he is simply identified as “James, a slave of God and of the Lord Jesus Christ” (James 1:1). Given the prominence of James, the lesser-known Jude could easily secure his own identification by styling himself as the “brother of James.” Since honor in the Mediterranean world is shared among members of a family (Neyrey 1993: 3–7; Bartchy 1999; Malina 2001: 37–38), the honor ascribed to James as the leader of the Jerusalem church would enhance the status of Jude in the eyes of his readers. In other words, by identifying himself as the “brother of James,” Jude makes a claim to authority that parallels Paul’s affirmations of his apostleship (Gal. 1:1), although Jude’s familial honor and authority are not identical with apostleship.
+1000|
+1001|Some confusion existed in the early church regarding the identification of Jude. While a number of the fathers understood him to be the brother of the Lord, others also identified him with Jude the apostle. The opinion also circulated that he was the apostle otherwise called Thaddeus (Matt. 10:3; Mark 3:18). Still others said Jude was one of the other names of Thomas. In his Comments on the Epistle of Jude (1–4), Clement of Alexandria not only states that Jude is the Lord’s brother, but also comments on the author’s reluctance to identify himself as such: “Jude, who wrote the Catholic Epistle, the brother of the sons of Joseph, and very religious, whilst knowing the near relationship of the Lord, yet did not say that he himself was His brother. But what said he? ‘Jude, a servant of Jesus Christ,’—of Him as Lord; but ‘the brother of James.’ For this is true; he was His brother, (the son) of Joseph.” Jerome (Lives of Illustrious Men 4) likewise comments that the person who wrote the book is “Jude, the brother of James.”
+1002|
+1003|In his discussion of Jesus’s siblings, Origen confirms this identification (Commentary on Matthew 10.17). On the other hand, Jude is sometimes called “the apostle Jude” (Tertullian, The Apparel of Women 1.3; Origen, On Opposing Powers 3.2; Augustine, City of God 15.23; 18.38). In the Western church, this member of the Twelve (Luke 6:16) was considered to be the same person as the brother of the Lord called by that name (ODCC 907). Bede (Hurst 1985: 241), on the other hand, stated that “the apostle Jude, whom Matthew and Mark in their Gospels call Thaddeus, writes against the same perverters of the faith whom both Peter and John condemn in their Letters.” The Syrian church forwarded another possibility by occasionally conflating the tradition about Jude with that of Thomas, the supposed author of the Gospel of Thomas. This work begins: “These are the secret sayings that the living Jesus spoke and Didymos Judas Thomas recorded.” Eusebius (Eccl. Hist. 1.13.10) is aware of this tradition and states, “To these epistles there was added the following account in the Syriac language. ‘After the ascension of Jesus, Judas, who was also called Thomas, sent to him Thaddeus, an apostle, one of the Seventy.’”
+1004|
+1005|The name Jude also appears in the lists of bishops of Jerusalem enumerated by Eusebius (Eccl. Hist. 4.5.3) and Epiphanius (Pan. 66.20.1–2).[4] Epiphanius identifies Jude as the third bishop of Jerusalem, after James and Simeon. The Apostolic Constitutions (7.46) concurs with this identification: “Now concerning those bishops which have been ordained in our lifetime, we let you know that they are these: James the bishop of Jerusalem, the brother of our Lord; upon whose death the second was Simeon the son of Cleopas; after whom the third was Judas the son of James.” Eusebius, on the other hand, says the third bishop was Justus, although he concurs that the first two were James and Simeon.
+1006|
+1007|Which of these identifications of the third bishop is accurate is difficult to assess. The names of James, Simon, and Jude are familiar to us as members of the sibling circle of Jesus. But the Apostolic Constitutions’ identification of Jude as the “son of James” appears to associate him with James, one of the Twelve (Luke 6:16; Acts 1:13), and Simeon is named as the son of Cleopas. However, since the confusion between Jude the member of the Twelve and Jude the brother of Jesus was common in the early church, we may still assume that the names refer to Jesus’s relatives. Moreover, under the Hieronymian (Jerome’s) view of Jesus’s family (see below), Simeon was known as the son of Cleopas and the cousin of Jesus. In other words, despite the respective identifications in the bishop list of the Apostolic Constitutions, James, Simeon, and Jude may still be identified by the unknown author of this work as Jesus’s relatives. Both Epiphanius and Eusebius agree in naming yet another Jude as the last of fifteen Jewish bishops in the city. It is sheer speculation that the fifteenth and final Jewish bishop of Jerusalem was the author of the epistle since no biblical or early church evidence points to such an association. However, the naming of James, Simeon, and Jude as the first bishops of the city is another indication of the way the early church recognized the family of Jesus.
+1008|
+1009|Whichever way the evidence is understood, we cannot draw from it any conclusions regarding the authorship of the epistle. The internal evidence from the NT, however, favors identifying Jude as the brother of Jesus and James, known to us from the Gospels (Matt. 13:55; Mark 6:3).
+1010|
+1011|There was considerable discussion in the early church about the siblings of Jesus and whether they were a product of the union of Joseph and Mary or whether their family line was different. Bauckham (1990: 19–32) summarizes the three views that have found voice in the church, each “known by the names of fourth-century proponents of each, as the Helvidian view (sons of Joseph and Mary), the Epiphanian view (sons of Joseph by his first marriage) and the Hieronymian view (cousins).” In the Hieronymian view, James and Judas should be identified with “James the younger and of Joses,” sons of Mary (Mark 15:40), who is “Mary the wife of Clopas” (John 19:25 NRSV), the sister (or more likely, the sister-in-law) of Mary, mother of Jesus. This view also identified Clopas with Alphaeus, father of James, one of the Twelve (Matt. 10:3; Mark 3:18). However, since James and Jude are mentioned in the circle of nuclear family relationships (Matt. 13:55—father/son, mother/son, brothers/sisters), the most accessible reading would be that they were children of this union, and as such half brothers of Jesus. Origen (Commentary on Matthew 10.17) mentions the position that came to be known as Epiphanian and explains, “But some say, basing it on a tradition in the Gospel according to Peter, as it is entitled, or ‘The Book of James,’ that the brethren of Jesus were sons of Joseph by a former wife, whom he married before Mary. Now those who say so wish to preserve the honour of Mary in virginity to the end” (cf. Infancy Gospel of James 9.8). While this view is more likely than the Hieronymian, it is less probable than the Helvidian. At best we can say that it is possible but not probable. But Origen’s claim that those who held it did so “to preserve the honour of Mary” should be given full weight. This view is distinctly theological.
+1012|
+1013|The other question that has occupied both ancient and modern commentators is whether Jude is an authentic or pseudepigraphic work. Writing under the name of another was well known and practiced in the ancient world for a variety of reasons, including the desire to gain financial profit, to discredit the opinions of an opponent, to augment the authority of a writing by an unknown author, or to show love for a teacher under whose name one writes (Baum 2001: 42–48). Should Jude be classified as a pseudepigraphic letter?
+1014|
+1015|Serious questions about the book’s authenticity were raised in the ancient church. While the letter was accepted widely in the West and in Alexandria, the Syrian churches were slow to acknowledge its canonicity. This is in line with the general tendency of the Alexandrian and Syrian churches. While Alexandria took a “maximalist” approach, allowing a wider variety of books at the beginning and then culling the list, Syria adopted a “minimalist” approach, which meant accepting those twenty-two books that were secure and slowly admitting others (Metzger 1987: 284). The ancient fourth- or fifth-century Syriac version of the NT, known as the Peshitta (or Peshito), excluded Jude along with 2 Peter, 2 and 3 John, and Revelation (Murdock 1851: 495–96). But eventually it was included in the early sixth-century edition of Philoxenus (AD 507/508). Eusebius commented that Jude was one of the “disputed” books (Eccl. Hist. 2.23.25; 3.25.3; 6.13.6; 6.14.1), although he recognized that it was read publicly in many churches. Origen (Commentary on John 19.6) mentions that doubts existed about the authenticity of Jude, but apparently he did not share them since in his Commentary on Romans (3.6) he quotes Jude 6 and classifies the text as “Holy Scripture.” He comments that Jude “wrote a letter of few lines, it is true, but filled with the powerful words of heavenly grace” (Commentary on Matthew 10.17).
+1016|
+1017|What doubts did arise about the authenticity of Jude can be traced primarily to the epistle’s use of 1 Enoch (Jude 14–15). Jerome (Lives of Illustrious Men 4), who accepts the book as authentic, says, “Jude, the brother of James, left a short epistle which is reckoned among the seven catholic epistles, and because in it he quotes from the apocryphal book of Enoch it is rejected by many. Nevertheless by age and use it has gained authority and is reckoned among the Holy Scriptures.” Didymus of Alexandria (fourth century) likewise accepted Jude despite the sources it used. Over against Jerome’s comment about those who rejected Jude, the citation was also read as a confirmation that 1 Enoch should be regarded as Scripture since the canonical book of Jude quotes it. Tertullian interjects a rather lengthy discussion of 1 Enoch in his On the Apparel of Women, concluding his argument in favor of its acceptance in the church by saying, “To these considerations is added the fact that Enoch possesses a testimony in the Apostle Jude” (The Apparel of Women 1.3). Augustine, on the other hand, later admitted that while Jude is canonical, Enoch should not be accepted by the church. He asks, “Does not the canonical epistle of the Apostle Jude declare that he prophesied?” (City of God 18.38). Yet he concludes of Enoch, “But the purity of the canon has not admitted these writings, not because the authority of these men who pleased God is rejected, but because they are not believed to be theirs” (see also 15.23). Whatever doubts were entertained about the authenticity of Jude did not appear to have any other root cause apart from its use of apocryphal sources. Jerome’s comment about its antiquity and apparently wide use was enough to secure its authoritative place in the church. No clear voice was raised in antiquity about the possibility that Jude did not write the book, although some confusion did exist about the identity of this Jude.
+1018|
+1019|On the positive side of the ledger, Jude was known and read early in the church and was accepted in the second-century[5] Muratorian Canon and that of Athanasius in the mid-fourth century. The comment in the Muratorian Canon frames Jude over against those books, such as the Epistle to the Laodiceans, “which cannot be received into the catholic church, for it is not fitting that gall be mixed with honey” (66–67). Jude along with two Epistles of John were accepted because they were used in the catholic church (68–69). Clement of Alexandria esteemed Jude highly enough to write a commentary on it, explaining to his gentile audience the meaning of this letter, which exudes the strong flavors of Palestinian Judaism (see below on Jude’s place of writing).
+1020|
+1021|Jerome’s testimony of the book’s early use in the church may possibly be supplemented with the allusions to Jude in other fathers. Bigg and Chaine (Bigg 1901: 306–8; Chaine 1939: 261–62) have assembled lists of references or echoes of Jude in the writings of the fathers, including the second-century Theophilus of Antioch, Athenagoras, Polycarp, and Clement, as well as the Martyrdom of Polycarp, the Didache, Hermas, and the Epistle of Barnabas. The parallels produced are not compelling (Chaine even calls them “vague,” and Bigg counts the evidence as “scanty and shadowy”). Many of them could derive from the common liturgical language of the church rather than being evidence of the use of Jude in the church.[6] At best we could say that Jude fits neatly into the conceptual and linguistic frame of the fathers, but this is hardly compelling reason to affirm the book’s authenticity.
+1022|
+1023|However, the earliest and strongest testimony of Jude’s acceptance comes from 2 Peter. The second chapter of 2 Peter reproduces much of Jude, a phenomenon that can be adequately explained only if we suppose that Peter used Jude (see the introduction on the sources of 2 Peter). The weight of this evidence will vary depending on one’s view of the authorship and date of 2 Peter. If Peter truly wrote that book, then we have solid testimony of the early date and use of Jude. But even if we suppose that 2 Peter is an early second-century document, we would still have strong evidence concerning Jude’s early date and use. While the arguments concerning Jude’s date and use are not decisive in determining authenticity, they demonstrate that within a significant sector of the church few doubts were entertained about Jude’s provenance. Those that did arise can be accounted for by reference to Jude’s use of apocryphal literature and the Syrian church’s cautious approach to questions of canon.
+1024|
+1025|The contemporary debate about the authorship of Jude revolves around the issues of the Greek style of the epistle, the traces in the letter of a subapostolic outlook, and the identification of the heretics whose position the epistle counters. The Greek of Jude’s Epistle shows clear evidences of mastery of the language, raising the question of whether a person reared in Galilee could attain this level of linguistic ability in a language that is not his mother tongue, especially if he were not part of the social elite. Oleson (1979: 495) comments that “the relative purity of the Greek prose style of Jude suggests both careful composition and deep Hellenization—although not necessarily Greek racial origin,” while Kelly (1969: 233) concludes that “while a Galilean like Jude must have spoken Greek fluently, it is not easy to imagine him handling the language with such art.” In his extensive treatment of Jude’s literary strategy, J. Charles (1993: 37) says that “Jude shows a normal use of the Greek idiom with bits of artistic flair” and speaks glowingly, along with other commentators, of Jude’s “use of very good literary Greek, whether in writing flair or vocabulary.” This contemporary assessment agrees with Origen’s comment that the book was filled with “powerful words of heavenly grace” (Commentary on Matthew 10.17). Jude’s composition is replete with vocabulary found nowhere else in the NT (Neyrey 1993: 27; Bauckham 1983: 6), and his style is quite refined.
+1026|
+1027|Over against this assessment of the epistle’s style is the enduring question of the linguistic skills of Galileans. Horsley’s (1996: 154–75) study of Greek and Hellenization in Galilee leads him to conclude that, as in the rest of the empire, “literacy in Judea and Galilee was concentrated among the political-cultural elite. . . . It seems highly unlikely that many villagers were literate” (158). While we expect Greek to be the common tongue in the gentile city of Sepphoris, “there is much less of an indication that Greek was an everyday language in the rest of Lower Galilee. Pidgin Greek may have been common, but a bilingual situation seems unlikely given evidence now available” (171). Though Nazareth was located near Sepphoris, “we cannot conclude, on the basis of their supposed contact with Sepphoris, that most Galileans had become accustomed to speaking Greek in the first century C.E.” (Horsley 1995: 247). Linguistic ability was tied closely to a person’s social status. Those of the social elite were the ones adept in Greek. If Horsley’s conclusions are correct,[7] then the fine Greek style that J. Charles celebrates becomes distinctly problematic if we argue in favor of authenticity.
+1028|
+1029|In the case of Jude, however, two factors mitigate this negative assessment. First, we know that Jude, along with the other brothers of Jesus, engaged in itinerant ministry, which presupposes that they either had or acquired fluency in Greek (they hardly traveled with a phrase book, as a modern tourist might do). How they acquired this skill we can only surmise, but that they had gained some mastery of the tongue is hard to deny on historical grounds. Moreover, insufficient weight has been given to the role of secretaries in the composition of letters (see E. Richards 1991; 2004). At times the name of a secretary appears at the end of NT letters (Rom. 16:22; 1 Pet. 5:12), and in other cases we become aware of their presence as Paul steps out to include a final greeting in his own hand (1 Cor. 16:21; Gal. 6:11; Col. 4:18; 2 Thess. 3:17; Philem. 19). But numerous surviving ancient papyri letters show a change in penmanship at the end, indicating that the author took the pen from the secretary and added a final note, with no remark placed in the text of the letter that the pen had changed hands (Weima 1994: 119; Stowers 1986: 60–61; Deissmann 1911: 170–73, 179–80).
+1030|
+1031|Jude, as others during his period, most likely made use of the services of a secretary when he composed the letter. People who did not possess a high degree of literacy “paid professional scribes to draft communication on their behalf. The practice passes undetected in private correspondence” (White 1986: 216). Only in official or legal correspondence was the inclusion of the name of the scribe required. So common was the custom of engaging scribes that such paperwork was done in the streets. In fact, the number of standardized phrases and clichés that fill ancient correspondence, including NT letters, gives evidence of the industry (White 1986: 219, index of conventions on 237). Jude should not be rejected on stylistic grounds since we have no idea how much help he would have received from either a fellow believer or professional scribe. Scribes could take dictation but in other cases would be invested with greater literary responsibilities.
+1032|
+1033|Another objection commonly raised to the authenticity of Jude is the author’s reference to the apostolic company as a group in the past. In verses 17–18 Jude calls his readers to “remember the words previously spoken by the apostles of our Lord Jesus Christ.” Jude not only implies that he is not a member of the apostolic company but also seems to invest them with a prophetic insight characteristic of those now deceased (cf. 2 Pet. 3:2–3, which is dependent on Jude 17–18). Vielhauer and Strecker (1992: 572) observe: “Only in the post-apostolic generation do ‘the apostles of the Lord’ become the bearers and the guarantors of apocalyptic tradition” (Jude 17; cf. 5, 18). But Jude hardly relegates the apostles to a previous generation since, in verse 18, he reminds the readers that “they said to you that. . . .” The readers themselves lived in the apostles’ days, and the apostolic prophecy was for them. Verse 18 implies that the readers heard the apostles’ predictions. In these verses, Jude simply wants his readers to recall what they had previously heard and knew, which included the testimony of Scripture (vv. 5–7), the Enoch prophecy (vv. 14–15), and the apostolic predictions (vv. 17–18, and comments on the passage).
+1034|
+1035|Perhaps the more vexing question is the identification of the heretics that Jude seeks to combat. Were these second-century gnostics of some variety, or does the error fit within the frame of problems the church encountered in the first century? If the opponents can be securely identified with some group that was active during the early second century AD, then the case for the authenticity of Jude would be damaged beyond repair. The issue of the heretics’ identification will be taken up below, however, and here we simply observe that the type of heresy the epistle addresses fits neatly into the history of the first-century church. The errorists apparently perverted the doctrine of grace as taught by Paul and others and turned it into an excuse for moral license (Jude 4). Paul defended the gospel he preached against this type of perversion of grace (Rom. 6:1, 15). The way that Jude speaks of the faith as sacred tradition that must be held fast and defended (Jude 3) is not unlike Paul’s attempt to arrest a heresy in the Thessalonian church by appeal to the received tradition (2 Thess. 2:15 and comments in G. Green 2002: 329–30; 1 Cor. 15:1–8). The deep concern Jude has about the sexual immorality of these heretics (Jude 7–8, 16, 18) and his affirmation that they have denied the Lord by their libertine lifestyle (v. 4) echoes the critique of and warnings against (gentile) lusts, a common topos in the early church (Rom. 1:24; 6:12; 13:13; 2 Cor. 12:21; Eph. 4:3, 19; Titus 1:15; James 1:15; 1 Pet. 1:14; 4:2–3; 1 John 2:16–17). There is, on the other hand, no hint in this epistle of later gnostic cosmology and anthropology, based on the dualism between spirit and matter, nor of its offer of salvation through esoteric knowledge. Jude’s perspective is apocalyptic and not gnostic. Given this, his writing fits within the theological matrix of the early church.
+1036|
+1037|The authenticity of Jude will undoubtedly continue to be a subject of debate, but in light of the absence of any compelling arguments to the contrary, we should accept that the letter is a genuine composition written by Jude, albeit likely with some scribal assistance. The issues raised and responses given in Jude stand within the milieu of first-century Christianity, and the weight of early church tradition and internal evidence stand in favor of its authenticity. Where doubts were raised, the concern was with the letter’s use of apocryphal literature and not any other consideration.[8] Jude is a representative of non-Pauline Christianity and gives us valuable insight into the character of the early church, most likely within the confines of Palestine.
+1038|
+1039|Jude and His Circle
+1040|
+1041|Jude’s letter is devoid of any precise indication of either the identity of its first readers or of his readers’ whereabouts. How, then, do we locate this book within the matrix of early Christian history? Fuchs and Raymond (1988: 151–52) recognize the difficulties inherent in trying to answer this question and conclude that the best we can do is discuss the cultural milieu of the author and readers. To be sure, localizing the book will depend on the conclusions reached regarding authorship and the heresy he combats. So, for example, if we reckon that the letter was not written by Jude and that the heretics are gnostics, then we may possibly understand the book as part of the matrix of early second-century Christianity in Alexandria, where the gnostic sect of the Carpocratians was becoming established. On the other hand, if we acknowledge that Jude was written by the brother of the Lord himself and that it does not attack a gnostic threat, we may be able to locate it within the matrix of early Jewish Christianity in Palestine. Our reading strategy for this epistle will, in the end, be determined by our answer to this question. Yet at the same time, our reading of the book will be the starting point for placing this piece into the larger puzzle of early Christianity. Whatever hypothesis we construct regarding the social location of Jude and his readers will be modified as we continue to read the epistle within the context of the cultural and theological currents of those early years of the Christian faith.
+1042|
+1043|This species of historical investigation is more than guesswork. Reese (2000: 7) argues that it is essentially no more than that, noting how scholars have variously identified the provenance of the book as anywhere from Antioch to Alexandria and the audience as Jews or gentiles or a mixture of both. According to Reese (2000: 8), the question is of no importance since “even if one could ascertain who the real, original readers of the epistle were, it would still be quite impossible to enter into their minds.” For Reese, such endeavors are quixotic. The end result is nothing more than an author and first readers who are merely the contemporary reader’s construct. Therefore, “in the case of the epistle of Jude the search for the original readers has been hampered by the lack of available information, but even if real, original readers were to be found, they would be constructs of the commentator rather than real people into whose minds and responses one could enter” (Reese 2000: 8). The role of contemporary readers vis-à-vis texts, authors, and original readers is a hermeneutical issue that goes beyond the scope of this commentary. At this point, I suggest only that the reader-oriented approach that Reese adopts leads, in the end, to historical nihilism and, ultimately, to the breakdown of communication and the possibility of knowing. While we cannot claim certainty in our endeavor to hear faithfully as would a first reader, we are able to work out interpretations to the best possible explanation. This is the case for all human communication, real time or otherwise, yet we are able to carry on speaking/writing and understanding satisfactorily.[9]
+1044|
+1045|Jude has occasionally been located within the sphere of Syrian Christianity, likely around the city of Antioch. Bigg (1901: 321) tentatively sees Jude in these environs, stating, “We may say that no better conjecture can be proposed: but even this is far from certain.” His level of uncertainty is reflected in his remark that, in fact, “Jude may have been addressed to almost any community in which Greek was spoken.” Grundmann (1974: 19–20) follows a modification of this line, stating that the letter was written for Jewish Christian communities somewhere between Jerusalem and Antioch. Kelly (1969: 234) and Schelkle (1980: 178) are likewise open to either a Syrian or Palestinian origin. M. Green (1987: 56) is somewhat more positive in his conclusion, accepting “somewhere like Antioch as a probable destination,” an assessment with which H. Koester (1982: 2.247) concurs. The reasons for this identification vary.
+1046|
+1047|M. Green (1987: 56), on the one hand, observes that the author’s knowledge of Pauline teaching argues for this identification as does the mention of the apostles in verse 17, some of whom carried out ministry there. H. Koester (1982: 2.247), on the other hand, opts for a Syrian origin because of the conflation of the traditions about Thomas and Jude. The Gospel of Thomas, as noted above, was ascribed to Didymos Judas Thomas, and Eusebius (Eccl. Hist. 1.13.10) mentions an account that came down to him in the Syriac language that speaks of “Jude, who was also called Thomas.” H. Koester (1982: 2.247) sees gnostic claims to spirituality behind the critique in Jude 19 and recalls that Thomas was hailed as an authority among gnostics. But any understanding of Jude that traces its roots back to Syria falls hard on the historical evidence that the epistle was excluded from the Syrian canon until the sixth-century edition of Philoxenus. The epistle was not widely used in the region, despite the confused identification of Jude with Thomas.
+1048|
+1049|A more likely location for Jude is within Egyptian or, more precisely, Alexandrian Christianity. The letter was well known in that area, and Clement of Alexandria even penned a commentary on the epistle. Origen, also from Alexandria, knew and accepted the book. Moreover, not a few commentators have identified the heresy that Jude battles as the gnostic teaching of the Carpocratians, who were located in Alexandria. Clement critiques their libertine sexual practices and concludes his diatribe against them by quoting Jude 8 and 16 (Strom. 3.2.11).
+1050|
+1051|Gunther (1984) makes an impressive case for an Alexandrian origin and joins ranks with numerous other scholars (Neyrey 1993: 29; Moffatt 1928: 224; Chaine 1939: 288; Paulsen 1992: 45). In Gunther’s (1984: 550) view, “Egypt is the most likely land where such errorists would flourish and where the authority of Jesus’s brothers would be esteemed at the same time among converts from its huge Alexandrian Jewish population.” His argument not only links the heretics with Alexandria but also finds within Jude’s letter local allusions to the coastal city of Alexandria, where one could see the “wild waves of the sea that toss up their . . . foam” as they crash on the rocky harbor (Jude 13) and experience the arid climate suggested by Jude’s reference to the heretics as “clouds without rain” (v. 12). The reference to the judgment that befell the Israelites who were liberated from Egypt (v. 5) would not be lost on Alexandrian readers (Gunther 1984: 551–52). Jude’s penchant for apocryphal literature (vv. 9, 14–15) suggests Alexandria since the city’s library was a center of collecting and copying books. Enoch became especially popular among Alexandrian churches. Gunther (1984: 552) also comments on the points of contact between Jude and Egyptian writings, such as the Preaching of Peter, and suggests that the epistle presupposes the teaching and terminology of the Gospel and Letters of John, which were “arguably composed in Alexandria.”
+1052|
+1053|While Gunther’s case appears strong, the sole argument of weight is the possibility that the epistle counters the Carpocratian error. As we have seen in the section on the heretics Jude opposes (see above on the heresy), this identification is not as certain as would appear from a first reading of ancient commentators on the sect. Clement of Alexandria does indeed bring Jude’s teaching to bear in his polemics against them (Strom. 3.2.11; and see Clement’s Letter to Theodorus 1.3, 7), yet Clement himself relegated Jude to a previous time and comments that “of these and other similar sects Jude, I think, spoke prophetically in his letter.” Since Clement wrote a commentary on Jude, his quotation of it (likely from memory) in the Letter to Theodorus comes as no surprise.
+1054|
+1055|The other strands of Gunther’s argument are not strong enough to support his thesis. Allusions to waves and weather need not be read as local references and, even if they did refer to phenomena in the immediate world of the readers, they would fit in any number of places around the Mediterranean. Jewish apocryphal literature was well known elsewhere and can hardly be a marker for Egypt. The exodus story was part of the fabric of Jewish history and significant not only for Jews who lived in Egypt. Moreover, Jude and James were much better known figures in Palestine than in Egypt. The fact that Origen and Clement knew and used the book is simple testimony of the wide circulation of the book, and we can well understand its importance in an area where heresy was rife. The connection between Jude and the Johannine literature is tenuous, and even if such a connection could be established, a stronger case could be made for localizing them and Jude in Asia Minor.[10] There is no compelling reason to locate Jude within the matrix of early second-century Christianity in Alexandria.
+1056|
+1057|A third suggestion is that the epistle finds its roots within the world of Palestinian Christianity of the first century. The weight of the historical evidence in favor of this reading is impressive (Bauckham 1990: 131–33; Gerdmar 2001: 340; J. Charles 1993: 65–81).[11] The simple, unqualified reference to James (v. 1) is most understandable if we suppose that the author wrote to communities where James was well known and recognized. James had become the leader of the Jerusalem church, and his influence there was considerable (see above on the authorship of Jude). Wherever the relatives of Jesus are mentioned in the NT they are associated with Palestine, save for 1 Cor. 9:5. While Jude is likely to have engaged in traveling ministry (1 Cor. 9:5), Hegesippus, quoted by Eusebius (Eccl. Hist. 3.19.1–3.20.8; 3.32.5–6), relates a story of Domitian’s persecution of Jude’s grandsons, who were landed peasants apparently within Palestine. They held leadership positions among the churches, a role that began with James (Eccl. Hist. 3.20.8). Eusebius (Eccl. Hist. 1.7.14)[12] even notes that the later relatives of Jesus were located in Nazareth and the nearby village of Kokhaba.[13] The family had land holdings in Palestine and continued to be known in the region through the passing of generations. The Jerusalem bishop list may well contain the names of Jesus’s brothers, depending on our identification of the “Judes” therein (Bauckham 1990: 77). It appears that Jesus’s relatives were very important figures “in the mission and leadership of the churches of Palestine in the first century after the death and resurrection of Jesus” (Bauckham 1990: 131).
+1058|
+1059|Jude’s midrashic exegesis of the OT also locates the epistle squarely within the sphere of Palestinian Judaism (J. Charles 1993: 71–81; Bauckham 1990: 179–234). Bauckham (1990: 233) notes that “the letter of Jude contains probably the most elaborate passage of formal exegesis in the manner of the Qumran pesharim to be found in the New Testament. . . . Such exegesis must have flourished especially in the early Palestinian church.” Likewise, Jude’s use of the Testament of Moses (v. 9 and comments) assumes that the readers understood the allusion. This writing was “best known in the Palestinian Jewish Christian circles” (Bauckham 1990: 280), although the same could be said for mixed Jewish and gentile Christian communities in the region. Moreover, if the influences that the epistle combats are not gnostic, then the possibility of locating Jude within the Palestinian sphere is all the more likely. Bauckham also suggests that 2 Peter’s use of Jude (see the introduction to 2 Peter) points to a Palestinian origin given “the debt which all early Christian thought owed to the Palestinian Jewish Christianity of the first two decades” (Bauckham 1990: 178).
+1060|
+1061|The argument in favor of understanding Jude as a product of early Palestinian Christianity is, however, difficult to sustain due to the simple fact that the book was written in Greek. The debate about the extent of Greek usage within Palestine is tied, in the first instance, to authorship (see above on authorship). Could a Galilean produce Greek of this caliber? But the related question, and perhaps the more difficult, is whether Palestinian Jewish believers would have been best served by a letter written in Greek rather than in Aramaic. If Horsley (1996: 154–75) is correct in his assertion that Greek was the tongue of the social elite in Galilee[14] as well as elsewhere within Palestine, should we assume that Jude was penned for those who were part of the social elite? This conclusion would not square with what we know of the sociology of early Christianity anywhere in the empire, although some members of the social elite did become Christians both in Palestine and elsewhere (Mark 2:13–17; Luke 8:3; Acts 4:36–37; 5:1; 12:12–17 [Mary]; 13:1 [Manaen]; Fiensy 1995: 226–30; and see Theissen 1982). However, within Palestine we also encounter a sizable population of Hellenistic Jews who had been raised in the Diaspora and whose mother tongue was Greek (see Acts 2:5–11; 6:1, 9; and Moule 1958–59; Fiensy 1995: 234–36).
+1062|
+1063|However, if we assume that Jude’s audience was Palestinian Jewish Christians, we are also confronted with the question of whether the heresy he combats would have found inroads among this populace. The heretics promoted a libertine lifestyle with a highly charged sexuality (vv. 4, 6–8, 16). They corrupted the agapē meal of the church, treating it like a typical gentile banquet (v. 12). The appeal of the errorists would seemingly have been stronger among a gentile than a Palestinian Jewish population reared on the strict moral codes of Torah and Judaism. But while sexual immorality was not as rife among the Jewish population as among gentiles, it was hardly unknown. Warnings about sexuality outside the bounds of marriage are abundant (see especially Satlow 1995: 119–83; Ilan 1996: 214–21). Although Tacitus stated that Jewish men “are singularly prone to lust, they abstain from intercourse with foreign women; among themselves nothing is unlawful” (Hist. 5.5), prostitution was well known, and the snares of temptation were amply discussed. Sirach 9:2–9 warns:
+1064|
+1065|Do not give yourself to a woman and let her trample down your strength. Do not go near a loose woman, or you will fall into her snares. Do not dally with a singing girl, or you will be caught by her tricks. Do not look intently at a virgin, or you may stumble and incur penalties for her. Do not give yourself to prostitutes, or you may lose your inheritance. Do not look around in the streets of a city, or wander about in its deserted sections. Turn away your eyes from a shapely woman, and do not gaze at beauty belonging to another; many have been seduced by a woman’s beauty, and by it passion is kindled like a fire. Never dine with another man’s wife, or revel with her at wine; or your heart may turn aside to her, and in blood you may be plunged into destruction. (NRSV)
+1066|
+1067|The communal gathering of the church around the meal threw men and women into a proximity that would be a source of temptation. Osiek and Balch (1997: 59) comment that in the East “women did not ordinarily attend either public or formal domestic dinners with men,” although Jewish men and women did gather for a meal during Passover, with the woman always reclining at her husband’s side (Corley 1993: 69, 181). Ben Sirah’s warning should be viewed in light of this practice. The kind of temptations the recipients of Jude faced were not foreign to Palestine.
+1068|
+1069|The type of moral error promoted by the heretics could also find root in the soil of Palestinian society since not everyone who lived there was Jewish. Cities with significant gentile populations dotted the landscape, such as Caesarea Maritima, Dor, Ptolemais, Caesarea Philippi, Sepphoris, and Sebaste, not to mention the Greek cities of the Decapolis. Tiberias was likewise a seat of Roman power.[15] Given that the extant evidence for Greek usage in these cities is much higher than elsewhere and that the gentile population in these centers was significant, the converts to whom Jude writes likely included a considerable number of gentiles[16] who lived in Palestine and came within the hearing of the gospel (Cornelius and his family and friends represent this group, as we know from Acts 10). Even if the principal adherents to the faith from among the gentiles had been God-fearers, we should not assume that their embrace of the moral, let alone theological, tenets of Scripture was strong. God-fearers were still considered gentiles and acted as such (Levinskaya 1996: 117–26). Some members of the Jewish social elite may well have been among the members of the church that Jude addresses, given their linguistic facilities. Some members of the Hellenistic Jewish populace who had become Messianists may have been part of the group as well.
+1070|
+1071|Jude, James, and other members of Jesus’s family were a recognizable and important group within early Palestinian Christianity. They exercised a leadership role within the church and held an authoritative position that paralleled that of the apostolate. Their authority is suggested by Paul’s reference to them alongside the apostles who engaged in Christian mission (1 Cor. 9:5). The most well known of Jesus’s brothers, James, became the leader of the Jerusalem church, and other brothers may have been appointed as bishops within that church. Paul singles out James as one of the witnesses of the resurrection of Christ (1 Cor. 15:7). The descendants of Jude held both property and a position of leadership among the churches, both in Galilee and beyond (Eusebius, Eccl. Hist. 3.20.8). According to Eusebius (Eccl. Hist. 3.11), after James was martyred, the apostles, disciples, and “those who were, humanly speaking, of the family of the Lord” came together to choose James’s successor. They selected “Simeon the son of Clopas, . . . a cousin of the Savior.”
+1072|
+1073|We should not, however, think of James, Jude, and the others as holding dynastic leadership (Bauckham 1990: 125–30). James identifies himself as a “slave of Jesus Christ” (1:1) as does Jude (v. 1). Eusebius calls Jude the brother of the Lord “according to the flesh” (κατὰ σάρκα, kata sarka; Eccl. Hist. 3.20.1; and see 1.7.11; 3.11.1). Jesus’s relatives are never viewed in Christian history as any more than this, even though the grandsons of Jude were recognized as being of Davidic descent (Eusebius, Eccl. Hist. 3.19.1–3.20.1). They made no claims to royalty, even in the face of Domitian’s intent to destroy those of the Davidic line. Despite the deference to the family of Jesus, the family maintained a humble socioeconomic status. There was no large estate or inheritance that Jude passed on to his descendants. Eusebius (3.20.5–6) states that when Jude’s grandsons were brought in for interrogation before Domitian, “he asked them how much property they had, or how much money they controlled, and they said that all they possessed was nine thousand denarii between them, the half belonging to each, and they stated that they did not possess this in money but that it was the valuation of only thirty-nine plethra of ground on which they paid taxes and lived on it by their own work. They then showed him their hands, adducing as testimony of their labour the hardness of their bodies, and the tough skin which had been embossed on their hands from their incessant work.” Domitian recognized them as nothing more than “simple folk” (3.20.7). Evidently the family of Jesus did not find or seek economic or social advancement due to this significant relationship, thus leaving a fine example for generations of leaders to come.
+1074|
+1075|The Epistle of Jude, therefore, brings us into contact with early Palestinian Christianity that was in the process of opening up to the gentile mission. The approach to Scripture that Jude employs provides insight into the hermeneutic of early Christians within Palestine. The moral issues that the epistle addresses help us understand that concerns for proper conduct, especially sexual morality, were not limited to such places as Corinth and Thessalonica. We also have in this letter, along with James, a representative sampling of the role that the family of Jesus played in the church in Palestine down through the first century. Jude’s circle includes not only James but Paul as well, insofar as his teaching had been misappropriated for immoral ends. The use of Jude by 2 Peter alerts us to the way that another representative of Palestinian Christianity was part of the same sphere (see the introduction to 2 Peter).
+1076|
+1077|Date of Writing
+1078|
+1079|The date we ascribe to Jude’s letter depends on a number of conclusions reached concerning the origin of the letter. First, is this a genuine or pseudepigraphic document? Second, was the heresy that the letter addresses a second- or first-century phenomenon? Third, was the error a product of a misinterpretation of Pauline teaching? Fourth, was the epistle used by the author of 2 Peter or did Jude use 2 Peter when he composed his letter? Related to this interpretive problem is the question of the authenticity of 2 Peter. Fifth, does the letter reflect the situation of the postapostolic church that recalled the memory of the apostles (v. 17)? Sixth, does the theological character of this letter fit within early Palestinian Christianity, or with its appeal to tradition (v. 3) is it a product of the early catholic period of the second century? Since the answers to these questions have varied significantly among commentators, the range of dates attached to the epistle is a century wide, with the earliest being the mid-50s and the latest in the mid-second century.[17]
+1080|
+1081|The position taken in this commentary (see the respective sections) is that Jude is an authentic composition of the brother of Jesus and that the heresy against which he warns is not second-century gnosticism but antinomianism, which found its theological base in a misinterpretation of the doctrine of grace as taught by Paul and others. The letter appears to have been used by the author of 2 Peter, which is another indicator of its early date, regardless of the conclusions that might be reached regarding that epistle’s authenticity. Moreover, the letter does not regard the apostolic era as being in the distant past since the readers heard the apostles themselves (v. 18a and comments). The theological perspectives reflected in the book are precisely those that were current in the first-century church and appear to reflect a Palestinian milieu. Given these conclusions, a date in the middle of the first century appears likely.
+1082|
+1083|The epistle was written after the conversion of Jude and Paul[18] and late enough for the doctrine of grace to be widely circulated and misinterpreted. These factors yield a terminus a quo of approximately the late 40s. We may also take into consideration Jude’s age. If he was the youngest or the next to the youngest of Mary and Joseph’s children, his birth could have been as late as AD 10. We have no way of knowing when he died, but he may have survived to the early 70s. There appears to be no consciousness of the turmoil surrounding the first revolt and the destruction of Jerusalem (AD 66–70). This factor, in addition to Jude’s age, would give us a terminus ad quem of around the mid-60s. If 2 Peter is regarded as authentic, then Peter’s martyrdom (AD 64/65) would further support this terminal date. The antinomian situation that Jude addresses is similar, though not identical, to the tendencies that Paul corrected in 1 Corinthians (6:12; 10:23; ca. AD 54/55) and the critiques of the gospel of grace that he endured are echoed in Romans (3:8; 6:1; ca. AD 55–58). The errorists’ reading of the doctrine of grace was current during the period. These factors all suggest a date for the epistle sometime in the latter part of the 50s or the first half of the 60s of the first century.
+1084|
+1085|Occasion of Writing
+1086|
+1087|Jude did not write the letter he originally intended. Apparently he had been eager to compose a letter to a church or churches in Palestine in which he was going to reflect on the “common salvation” (v. 3) that he and they held. But Jude found himself constrained to change his tack because he some way or another had heard that there was trouble among the believers. Some teachers whose conduct was ungodly and whose doctrine was a perversion of the teaching on grace had come in from the outside (v. 4). In fact, they had brought in a theological novelty that was not in agreement with the faith that had been handed down to them as a sacred, divine tradition (v. 3b). The false teachers had transformed the teaching on grace into an excuse for licentious or indecent behavior and, in doing that, were effectively denying the only Master and Lord, Jesus Christ.
+1088|
+1089|The error had both a theological and moral component. Jude’s Epistle is an impassioned plea for the believers to engage in battle against the incursion of the error, that is, “to contend for the faith that was once and for all handed down to the saints” (v. 3). This letter exhorts the believers facing the error to be built up and stand firm in the faith (vv. 20–21). But the troublers of the church were persuasive in their appeal and some in the church were being swayed by them. Jude, therefore, calls the church to action. On the one hand, they are to show mercy on those who are wavering (v. 22—see the commentary on the textual problems related to this and the following verse). On the other hand, they must also engage in a rescue operation toward those who have succumbed to the temptation: “Snatch some from the fire” (v. 23). Yet in this operation, Jude is quite concerned that the rescuers themselves not become ensnared by the temptation that the heresy presents. Jude’s primary focus, therefore, is on the gospel and the community.
+1090|
+1091|The identification of the heretics is a question that has occupied commentators from ancient times. Clement of Alexandria, for example, believed that Jude spoke prophetically of the Carpocratians, a second-century gnostic sect that promoted unrestrained sexual indulgence (Strom. 3.2). Our investigation into their identification must begin with the infiltrators’ profile as presented in the epistle. But we should also be aware of Jude’s rhetorical strategy as he denounces the heretics. Does he present a topos, or standard treatment of the errorists, employing vilifying language that was commonly used to denounce one’s opponents or enemies? Since we know these heretics only through Jude’s letter, we need to ask whether his representation of them is faithful to the reality of the situation or whether he exaggerates the problem in an attempt to distance the believers from these interlopers. This question has become part of the critical discussion on the errorists, and anyone who teaches or preaches using this text must grapple with the question of Jude’s strategy before using it in a contemporary rhetorical context. If, on the other hand, we can truly outline the contours of the heresy from the evidence in the epistle, is it then possible to identify the error promoted by examining sources outside Jude? That is, can we triangulate on their persons or teachings by using other extant evidence from Scripture and the ancient world? Are they the same heretics who had caused problems in the church to which 2 Peter is addressed? Were they gnostics, perhaps even the Carpocratians themselves whom Clement and Irenaeus denounced?
+1092|
+1093|Jude indicates that these heretics had put a new spin on the doctrine of grace by promoting the theology that grace freed a person from moral constraint (v. 4). They knew Christian teaching and were perhaps influenced by Pauline doctrine. The fact that they feasted with the believers in the agape meal indicates that they were recognized by the church as being disciples (v. 12). Jude states that they had denied the Lord (v. 4) but does not indicate, as does 2 Peter, that they had previously been genuine disciples (see the introduction to 2 Peter and comments on 2 Pet. 2:1). Jude does not develop the idea that they held a defective Christology, which suggests that the denial of which Jude speaks is practical. Their conduct was, in effect, a denial of his lordship. In fact, these errorists appear to have rejected any form of authority over their conduct (v. 8a) and were especially bombastic in their rejection of “glories” (v. 8b), a reference to angels. While the mention of these beings may appear strange to contemporary readers who view angels as nothing more than benign supernatural auxiliary workers (or part of ancient myth), Jewish theology understood them to be mediators of divine law (see comments on v. 8 and Acts 7:53; Gal. 3:19). This may be precisely the reason these heretics railed against them. Jude’s call to hold to the tradition (v. 4) and to remember the apostolic prophecy (v. 17) may imply that they rejected apostolic authority as well, but this is less certain. For their part, the heretics claimed that their teaching was divinely inspired since it came to them in dreams (v. 8), which were, at that time, a universally recognized form of divine communication. New, inspired revelation was set over against apostolic tradition.
+1094|
+1095|Not a few authors have broadly characterized the error as “antinomianism.”[19] Jude portrays the heretics as being not only in error (v. 11b, 13) but also corrupt. Special attention is given to their unbridled sexuality (vv. 4–8, 12, 16, 18). Jude demonstrates a deep concern for those who have been drawn in by the sexual license of these people and gives cautionary instruction to those who would help snatch them from the error (v. 23) lest they too become entangled by the same corrupt practices. The errorists are motivated by avarice (v. 11) and are characterized by prideful verbal excess as they blaspheme angels, slander, grumble, speak arrogantly, and mock (vv. 8–10, 15–16, 18). These people engage in immoral behavior without the slightest shame and act without any self-control (v. 13). They are truly ungodly (vv. 4, 15, 18). What moves them is not the Spirit (v. 19), the source of Christian virtue; instead, they are driven by nothing more than base, animal instincts (v. 10). They are soulish, not spiritual (v. 19), even devoid of rationality in their actions and beset by ignorance (v. 10). At the same time the heretics are intent on persuading others to join with them. By stealth they have infiltrated the members of the church and are likely itinerant preachers, teachers, or prophets (v. 4). They act like friends but are nothing more than flatterers seeking their own advantage as they “shepherd themselves” (v. 12). They came to be recognized as leaders and, like Cain, Balaam, and Korah, were actively influencing others for ill (v. 11). While enjoying the love feast among the believers, they show no fear of God. They are effective in persuading members of the church to follow their ways, though not all who were tempted have fully embraced their error (vv. 22–23). Their persuasive efforts have caused divisions among the believers (v. 19), likely generated by their common struggle about the heretics’ case.
+1096|
+1097|Jude is particularly keen not only to unmask the behavior and character of the heretics but also to inform his readers/hearers that destruction awaits such people, as was predicted long ago (v. 4). Their presence, in effect, is a sign that the last times have arrived (v. 18). On the other hand, Jude is confident that God is able to keep the disciples from falling into the heretics’ trap and sin (v. 24). They must avail themselves of God’s resources of faith and love (vv. 20–21) and mercifully come to the aid of those who are becoming or have been ensnared (vv. 22–23). Yet Jude’s confidence in this situation rests in God (vv. 24–25).
+1098|
+1099|The details of the heretics’ error will be discussed in greater detail and precision in the body of the commentary. At the outset, however, we need to ask how best to read Jude’s polemic against these intruders. The cadences of the denunciation sharply contrast the heretics and the disciples. The repeated introduction of the heretics’ error with the expression “these are” or simply “these” (οὗτοί εἰσιν, houtoi eisin, or οὗτοι, houtoi in vv. 8, 10, 12, 16, 19) may be pejorative, yet even if not, it serves to differentiate clearly between “them” and “us.” Jude heightens the contrast by prefacing his call to the believers with “but you” (δέ ὑμᾶς, de hymas or ὑμεῖς δέ, hymeis de in vv. 5, 17, 20). In his polemic, Jude’s strategy is to draw the line as sharply as possible between the heretics and the believers in an attempt to minimize the heretics’ influence on the church and maximize the disciples’ adherence to the received faith.
+1100|
+1101|We can recognize in Jude’s rhetorical strategy the use of techniques common to vituperatio, the “rhetoric of slander” (Johnson 1989: 420), which was the counterpoint to laudatio, the praise of noble character and deeds. As du Toit (1994: 403) observes, “Vilifying your opponent, like praising your addressees, has through the centuries been a useful persuasive weapon from the arsenal of a skilled speaker or writer.” Vituperatio was a recognized skill that was even taught to students of rhetoric. As Quintilian noted, “From this our pupil will begin to proceed to more important themes, such as the praise of famous men and the denunciation of the wicked” (Inst. 2.4.20). Quintilian commented that the purpose of both laudatio and vituperatio was to “mould the character by the contemplation of virtue and vice.” Jude’s rhetorical strategy is clearly formative as well. He wants the readers to continue in Christian virtue and avoid the vice of the heretics. He does not intend to persuade the heretics.
+1102|
+1103|In vituperatio, a person would employ well-known topoi in the denunciation of others. Johnson (1989: 431) comments on these topoi, saying, “Certain things are conventionally said of all opponents. Their teaching was self-contradictory, or trivial, or it led to bad morals. Their behavior could be criticized in several ways. Either they preached but did not practice (in which case they were hypocrites), or they lived as they taught and their corrupt lives showed how bad their doctrine was (like the Epicureans). Certain standard categories of vice were automatically attributed to any opponent. They were all lovers of pleasure, lovers of money, and lovers of glory”[20] (cf. Jude’s categories above). These themes were so well used that they even became part of the syllabus of rhetoric. Jewish rhetoric likewise employed vilification for similar ends. “Since Judaism considered itself to be and was perceived as a form of philosophy,” Johnson notes (1989: 434), “it is not surprising to find such polemic well attested in the Jewish literature of the first century.” The categories used in Jewish rhetoric were quite similar to the gentile counterparts,[21] even among Palestinian Jews (Johnson 1989: 434–41).
+1104|
+1105|In light of ancient techniques of vilification, how should we read Jude’s denunciation of his opponents? Analyzing Jude along with 2 Peter in the light of speech act theory, du Toit (1994: 403) states, “For many a long day the performative dimension of language has been neglected in favour of the propositional. This is also true for NT studies. We have too long neglected the fact that in one way or another each of these writings seeks to persuade its readers/audience in a certain direction. To ask what a NT text is doing is at least as important as asking what it is saying.” He concludes, “Ideological literature works with contrasts; it does not seek the neutral middle-field. It creates heroes and villains,” and so “in those instances where the vilificatory language has become stereotyped, however, . . . the historical element has disappeared” (du Toit 1994: 411). But du Toit neglects ancient reflection on the issue of moving from standard denunciations to specific accusations. Quintilian, for example, discussed the use of commonplaces in the denunciation of vices “such as adultery, gambling or profligacy,” but notes that when a name is attached to them, they “amount to actual accusations” (Inst. 2.4.22). He adds, “As a rule, however, the general character of a commonplace is usually given a special turn: for instance we make our adulterer blind, our gambler poor and our profligate far advanced in years” (2.4.22). So while standard denunciations were employed in vituperatio, they could become specific when directed at a particular case.
+1106|
+1107|This is precisely what happens in Jude. He does, for example, denounce the heretics for their sexual indulgence, using a commonplace in vituperatio, but the specificity is striking. He not only denounces them in general terms for their indecent behavior (vv. 4, 8, 16, 18); he also assembles three ancient texts to support his perspective (vv. 5–7), shows how their seduction was at work in the agape meal of the church (v. 12), and calls the congregation to rescue those who had succumbed to their temptation while “hating even the tunic stained by the flesh” (v. 23). The charge of flattery (v. 16), itself a commonplace in ancient discussions on vice and virtue (see Plutarch, How to Tell a Flatterer from a Friend), is woven into the fabric of Jude’s denunciation of the heretics as those who are actively persuading the members of the church to follow their cause. Jude points out to the church that these who feast with them are “shepherding themselves” (v. 12) as well as “flattering for their own gain” (v. 16). Given Jude’s response, we see that flattery has been an effective mechanism in persuasion (vv. 21–22). The commonplace of denouncing one’s opponents for boasting (vv. 16, 18) becomes a concrete accusation as the heretics are charged as those who “slander glories” (vv. 8–10). Jude employs these conventional charges in ways specific to the situation his readers faced.
+1108|
+1109|In the quest to identify the heretics who beset the church, a common assumption is that they were the same people who troubled the church or churches addressed in 2 Peter. Second Peter appears to have been written after Jude, and the second chapter of the epistle lifts many texts dealing with the error straight out of Jude (see the introduction to 2 Peter). This association has led to the conclusion that the heretics denounced in both epistles held the same teachings. While recognizing the differences between 2 Peter and Jude, Kelly (1969: 229) remarks that “the deviations from traditional Christianity attacked in the two pamphlets seem broadly the same, with significant differences of emphasis.” Desjardins (1987: 89–90) engages in a joint analysis of the dissidents reflected in 2 Peter and Jude and states, “It is difficult not to conclude that they are addressing, if not the same problem in the same community, then at least remarkably similar tendencies in different communities.”
+1110|
+1111|However, the conclusion that both epistles address the same problem because of the clear literary dependency between them is no more warranted than the view that the Synoptic Gospels were addressed to the same audience and responded to the same issues because they drew from common sources. If Mark was used by Matthew and Luke, the authors redacted the material to address particular needs and advance distinct, yet complementary, theological perspectives on the life of Christ. Moreover, Fornberg (1977: 33–59) has underscored the striking differences in the issues that the respective authors of 2 Peter and Jude addressed. While Jude highlights the sexual immorality of the heretics, 2 Peter takes on a group that displayed a defective eschatology (see, e.g., 2 Pet. 3:1–10). Neyrey and Bauckham have both argued strongly that the heretics that Peter refutes are people who had come under the sway of Epicurean teaching that denied both providence and prophecy (see the introduction to 2 Peter; Neyrey 1980b; 1993: 122–28; Bauckham 1983: 154–57). These concerns are not evident in Jude. While the opponents addressed in both epistles have embraced antinomianism (2 Pet. 2:19; Jude 4), the heretics Peter warns against do not claim divine inspiration for their views as do Jude’s opponents (Jude 8). Both the foundations and the results of the error are distinct in these two cases. Peter, however, found much useful material in Jude that he skillfully employed in his polemic against the libertine tendencies of his heretics.
+1112|
+1113|Can we identify Jude’s opponents with any known sect in early Christianity? In his survey of the critical literature on Jude, Knight (1995: 29) arrives at the sensible conclusion that “healthy pessimism should be maintained about the possibility of being able to identify Jude’s opponents with confidence.” Not all have been this cautious, however, and some have labeled them “gnostics,” likely even the infamous Carpocratian sect. Sidebottom (1967: 75) describes the error as “incipient gnosticism which denied the goodness of the created order and the necessity for observance of the moral law.” Kelly (1969: 231) likewise suggests their gnostic outlook since they are “recipients of esoteric revelations (8) and regard themselves as pneumatics (19).” Kelly treats the heresy here as part of the same fabric found in 2 Peter’s opponents and so adds their emphasis on true “gnōsis (knowledge)” (2 Pet. 1:3, 8, 16) to his reading of Jude. Jude’s opponents have a libertine lifestyle like that of later gnostics who, in their disparagement of the body, considered “any actions performed with it as morally indifferent” (1969: 231). Yet Kelly admits that the error is only “incipient” gnosticism, not the full-blown heresy of the second century with its “hierarchies of aeons.” They appear to have separated humanity into the natural and spiritual people (v. 19) as did some second-century gnostics (Kelly 1969: 284). Jude 4 might be read as an indicator that the heretics have a defective Christology, while their slandering “glories” (v. 8) could be related in some way to the gnostic view that the world was created through the agency of angels, despite Kelly’s disclaimer on this point. Of the gnostic sects known to us, the Carpocratians appear to be the most likely group to be identified with Jude’s opponents.
+1114|
+1115|The Carpocratians were a group of heretics discussed frequently in the fathers from the second century onward.[22] Carpocrates, the founder of the sect, lived in Alexandria during the first part of the second century AD and held to a gnostic theology with a decidedly licentious bent. According to Irenaeus, Carpocrates taught that the world was not created directly by God but rather by angels who were inferior to the Father. Jesus, no more than the son of Joseph, had received his soul from God and remembered all the things he had seen concerning the divine. Others could obtain the same stature and likewise “despise those rulers who were the creators of the world” (Haer. 1.25.2). The Carpocratians engaged in magic and consulted with “familiar spirits and dream-sending demons” (1.25.3). Their lifestyle was licentious in the extreme; they believed that they had power over all things and had the liberty to do whatever they desired. Clement of Alexandria (Strom. 3.2) reveals their belief that the righteousness of God was given to all humans alike and that they preached a radical doctrine of equality with its corollary that no distinction existed between “mine” and “yours.” Community use extended even to wives, who were considered common property. This was given expression in their agape feasts, for after eating their fill, they would extinguish the lamps and an orgy would ensue. Clement concludes his exposure of the sect’s practices by quoting Jude: “Of these and other similar sects Jude, I think, spoke prophetically in his letter—‘In the same way also these dreamers’ (for they do not seek to find the truth in the light of day) as far as the words ‘and their mouth speaks arrogant things’” (Jude 6, 16). Followers of Carpocrates were identifiable by a brand on the back of the right earlobe.
+1116|
+1117|The points of contact between the error Jude warns against and the Carpocratians are striking, from the denunciation of angels, their appeal to dreams, their participation in the agape meal, to their licentious behavior. The fact that Clement quotes Jude in his critique underscores that ancient opinion likewise saw the connection between the epistle and the error. In the Clementine Letter (text and translation in M. Smith 1973), Clement accuses the Carpocratians of being “wandering stars” (Jude 13): “boasting they are free, they have become slaves of servile desires.” In doing this, they cast themselves into “the nether world of the darkness” (Jude 13). The interweaving of Jude in the denunciations led Bruce to comment, “It was evidently the predecessors of the Carpocrateans, if not the Carpocrateans themselves, whom Jude denounced so unsparingly for following the precedent of the disobedient angels and the men of Sodom” (Bruce 1974: 18; see Gunther 1984: 554–55).
+1118|
+1119|Although there are similarities between the Carpocratians and Jude’s opponents, the striking differences should not be ignored. First, Clement portrays the Carpocratians as a separatist sect who have their own feasts, gathering together with “other enthusiasts for the same wickedness” (Strom. 3.2.10). Jude’s opponents, however, are making inroads into a church that has adhered to apostolic tradition (Jude 4, 12). While Clement used Jude in his critique of the Carpocratians, he does not say that Jude wrote specifically to address them but states, “Of these and other similar sects Jude, I think, spoke prophetically in his letter” (Strom. 3.2.11). Clement appears to be quoting from memory and is not completely certain if he gets the source of his quotation correct. In any case, he recognizes the book as a received text from another time which, if anything, speaks prophetically of the Carpocratians.
+1120|
+1121|Moreover, the Carpocratians were a gnostic sect, yet Jude evidences no concern about the incursion of the doctrine of dualism between matter and spirit, a characteristic feature of gnosticism. Furthermore, there is no indication that the cosmology of Jude’s heretics included the idea of a world created by angels. The fact that they “slandered glories” (v. 8) does not compel us to conclude that they were opposed to world-creating angels. The antinomian character of the heretics is linked with a misreading of the doctrine of grace (Jude 4) and not, as in the Carpocratian heresy, based on notions of equality and common property. While sexual immorality is one of the features of the errorists Jude opposes, we find no traces in the epistle of the type of extreme sexual license so well known among the Carpocratians. The Carpocratian tenet that any disciple could be like Jesus is not echoed in Jude’s critique, nor do we find in the epistle a counterpoint to the Carpocratian embrace of magic. It is highly unlikely that Jude addresses this or any other gnostic sect. The distinct features of gnosticism are not under discussion in the epistle (Desjardins 1987), and the texts used to bolster the case for the gnostic background “are scarcely necessary interpretations” (Bauckham 1990: 164). As Bauckham aptly comments, “It seems unlikely that Jude should oppose such extensive deviations from common Christian belief with such obscure hints of disapproval.” If Jude is truly a first-century document written by Jude, the brother of James and the brother of the Lord, then the epistle could not have been written to combat the Carpocratians or any other gnostics.
+1122|
+1123|The Carpocratian error does remind us, however, that confusing opinions abounded concerning the nature of the divine, the world, and the human. We would do well not to tame these ancient aberrations just as we should be cautious about taming Jesus, morphing him into a more culturally acceptable figure for twenty-first-century Western palates. He was an itinerant miracle worker who challenged both religious and political powers, claimed divinity and royalty, and was crucified, then resurrected. He is a shocking figure in any generation. Likewise, what heresies were afoot often appear quite exotic by modern standards, and the moral practices that went with them could be outrageous, as a reading of the works by Irenaeus and Clement of Alexandria show us. Following Jude as he refutes the heretics and seeks to rescue the church from their influence will take us into a world of ideas and morality that is strange indeed. But at the same time, the themes that emerge from that ancient milieu are surprisingly familiar and linger with us today as the church seeks to live out its faith in a postmodern world, which has lost all sense of absolutes and embraces hedonism in the extreme. The commentary proper will explore the contours of the heresy sketched above and Jude’s response, in detail and on their own terms, ever with the hope of seeing how this message speaks to our confused world and oft-errant church today.
+1124|
+1125|The identity of the errorists cannot be fixed with any precision. Our best hope is to be able to locate them within the fabric of the trends current around the midpoint of the first century. The fundamental tenets of their belief, insofar as these can be deduced from Jude, will receive fuller treatment in the commentary. The heretics were people who had made their way into the church and had received a hearing for their perspectives based on their claims of inspiration and their persuasive power. Their inspired approach to Christianity was set over against the received faith, the apostolic tradition. These people were covetous, arrogant, and dismissive of any form of authority that would place moral restraint on them. Their theological conviction was that grace, as taught by Paul and others, allowed them to indulge their sexuality without restraint. As they gave full play to their baser instincts, they had no place for law.
+1126|
+1127|Jude now calls the church to fight for the traditional faith, to be built up in it, and to come to the aid of those in the community who were being swayed or had fallen into the error. The church had become divided over the heretics, but Jude makes no attempt to negotiate and find a common ground between the established faith and this theological/moral novelty. The finality of the faith that was handed down as sacred tradition was at stake. Jude calls his readers to defend it against those who would warp it beyond recognition.
+1128|
+1129|Jude and Pseudepigraphic Literature
+1130|
+1131|Woven into the fabric of Jude are a number of references taken from Jewish literature that did not become part of the Jewish or Christian canon. In verse 6 Jude refers to an angelic fall, which was an interpretive tradition based on Gen. 6:1–4 and elaborated extensively in 1 En. 6–12 among other Jewish texts (see comments on Jude 6). In verse 9, Jude brings into his discussion the dispute over the body of Moses between Michael, the archangel, and the devil. This story is not found in the OT but was drawn from a book known as the Assumption, or Testament, of Moses (see comments on Jude 9). The most striking use of extrabiblical literature appears in verses 14–15, where Jude quotes 1 En. 1.9 (see comments on vv. 14–15). That Jude knows, echoes, and even quotes this literature is beyond dispute. The question that all readers of this epistle must ponder is why he makes use of these texts that were not finally received into the canon of Scripture.
+1132|
+1133|A number of interpretive options have been explored through the centuries. One of the earliest was to invest 1 Enoch with canonical authority precisely because Jude used the book. This was the position adopted at the start of the third century AD by Tertullian and Clement of Alexandria, among others. Tertullian’s take on the issue appears in The Apparel of Women 1.3, where he comments on the general rejection of the book: “I am aware that the Scripture of Enoch, which has assigned this order (of action) to angels, is not received by some, because it is not admitted into the Jewish canon either. I suppose they did not think that, having been published before the deluge, it could have safely survived that world-wide calamity, the abolisher of all things.” But Tertullian counters by saying that Noah was the grandson of Enoch and could have preserved the work or even “renewed it, under the Spirit’s inspiration, after it had been destroyed by the violence of the deluge” (1.3). Tertullian likewise argues that Enoch spoke about the Lord and that whatever “pertains to us” should not be rejected by us. He then concludes, “To these considerations is added the fact that Enoch possesses a testimony in the apostle Jude” (ibid.). Tertullian also affirms the angelic fall as presented in 1 En. 6–12 and referred to in Jude 6 (The Veiling of Virgins 7; The Apparel of Women 1.2). He again quotes Enoch, saying that he “predicted” and condemned idolatry (Idolatry 4, citing 1 En. 99.6).
+1134|
+1135|Clement of Alexandria takes a similar line when he comments on Jude’s use of the Assumption (Testament) of Moses in verse 9: “Here he confirms the Assumption of Moses” (Fragments from Cassiodorus, “Comments on the Epistle of Jude”). In the same way, he views Jude’s quotation of 1 Enoch as investing that book with authority: “‘Enoch also, the seventh from Adam,’ he says, ‘prophesied of these.’ In these words he verifies the prophecy.” Clement also refers to the arts that fallen angels taught to humans in Selections from the Prophets 53.4, where he makes use of 1 En. 7.1–8.3 (VanderKam and Adler 1996: 45–46). Both Tertullian and Clement considered that if these books were good enough for Jude, then they were good enough for them.
+1136|
+1137|Tertullian and Clement of Alexandria did not stand alone in their positive assessment of these books, which did not become part of either the Jewish or Christian canons. Nickelsburg (2001: 71) traces the reception history of 1 Enoch and, while noting that it was not accepted into the Hebrew canon, observes that “a careful sifting of Jewish writings from the previous centuries attests a substantial and dynamic use of the Enochic corpus.” Although the sections that came to comprise 1 Enoch were written between the third century BC and the beginning of the Christian era,[23] the book of Jubilees (mid-second century BC) integrates material from 1 En. 1–36, the Book of the Watchers, and invests it with great authority (Jub. 4.15; 5.1–13; 7.20–39; 8.1–4; 10.1–14). Nickelsburg (2001: 75–76) comments, “What is striking about the Jubilees passages is their definition of Enoch’s writings as ‘testimony,’ their statement that Enoch was the first to write a testimony (or testament), and their description of the universal import of this testimony. Enoch is a patriarch whose writings affect all humanity. . . . Moses wrote the law and testimony for Israel, but Enoch’s commands and predictions are relevant for all.” Likewise at Qumran, Cave 4 has yielded eleven MSS that preserve various sections of 1 Enoch. The book was extensively quoted, and nine MSS of the Enochic Book of Giants were also found in the caves (Nickelsburg 2001: 76–78). Moreover, Sir. 16:7 refers to the Enochic story of the giants, and the books of Wisdom, 4 Ezra, Baruch, and the Apocalypse of Abraham all draw from it, as do 2 and 3 Enoch (R. Charles 1913: 2.177–80; Nickelsburg 2001: 68–82). Jude’s esteem of 1 Enoch was not out of harmony with the honor ascribed to the book by some circles within Judaism, even though 1 Enoch was not accepted widely.
+1138|
+1139|Although the attestation for the Assumption (Testament) of Moses (see v. 9 and comments) is not as wide as 1 Enoch, this first-century-AD work was known widely enough that Jude merely had to refer to an incident in the book to make his point. He assumed that his readers were well familiar with the story. However, since this book comes from early in the first century AD (Tromp 1993: 116), we should not expect to find a wide witness to its contents much earlier than Jude. The story it records, however, was well known to Jude’s readers and beyond (see v. 9 and comments).
+1140|
+1141|Jude’s use of 1 Enoch is not unique among NT authors. The book forms the basis of Peter’s account of Christ’s proclamation to the Spirits (1 Pet. 3:18–22; Dalton 1989), and some have argued that the merger of the Son of Man terminology with the servant theology found in the NT finds its source in 1 Enoch (Nickelsburg 2001: 83–86; R. Charles 1913: 2.180–81). First Enoch also enjoyed considerable acceptance in the early church. The Epistle of Barnabas 16.5 paraphrases parts of 1 En. 89 and prefaces the citation saying, “For the Scripture says” (λέγει γὰρ ἡ γραφή, legei gar hē graphē), while the mid-third-century Ad Novatianum quotes 1 En. 1.8, introducing the verse with the words “as it is written” (Nickelsburg 2001: 89–90). Moreover, Papias, the Apocalypse of Peter, the Gospel of Peter, Justin Martyr, and Athenagoras all refer to Enoch’s story of the Watchers (R. Charles 1913: 2.182; VanderKam and Adler 1996: 36–42, 63–66; Nickelsburg 2001: 87–88). At the end of the second century, Irenaeus (Haer. 4.16.2) knows not only the Watchers story but also Enoch’s mission to pronounce judgment on them (1 En. 12.4–5; 13.4–7; 15.2; VanderKam and Adler 1996: 42–43, 66; Nickelsburg 2001: 88). Tertullian and Clement of Alexandria’s acceptance of 1 Enoch as an authoritative and inspired work was hardly unique during their times.
+1142|
+1143|Yet in the contemporary church, this book is not considered to be authoritative except by the Ethiopian Church and the Church of Jesus Christ of Latter-day Saints, the Mormons. The late date of 1 Enoch makes Tertullian’s suggestion that it is an authentic work preserved via Noah more than unlikely. A variation of Tertullian’s perspective stated also that the Spirit was capable of renewing Enoch’s prophecy, which had been destroyed in the flood. In this case, the book known as 1 Enoch did not come directly from Enoch himself but does reflect what Enoch had previously written. Though one could not trace the true historical line, the contents of the book remained those of Enoch, as now mediated through the Spirit. But on the basis of this ancient theory, the appearance of the book just a few centuries before the Christian era is difficult to explain.
+1144|
+1145|A second interpretive option is to bring the Epistle of Jude into question precisely because it made use of the Assumption (Testament) of Moses and 1 Enoch. Should Jude be considered authoritative if it bases part of its argument on literature that was widely regarded as pseudepigraphic and noncanonical? The rabbinic denunciation of those who interpreted Gen. 6:1–4 in the way 1 Enoch does was severe (see vv. 14–15 and comments), and some within the early church followed this line of attack. Didymus (In epistula judae enarratio) in the fourth century noted that the canonicity of Jude had come into doubt because of the quotation of apocryphal material (Mayor 1907: 35; M. Green 1987: 48–49), although he himself defended the book. At the end of the fourth century, Jerome (Lives of Illustrious Men 4) likewise notes that many rejected Jude for this same reason.[24] His opinion of Enoch is that “the book is very explicit and is counted among the Apocrypha. The ancient interpreters have sometime spoken of it. We mention it, however, not as authoritative, but to call it to your attention. . . . I have read about this apocryphal book in the book of a certain person, who used it to confirm his heresy” (Homily 45, Brevium in Ps. 132:3, cited in Nickelsburg 2001: 94). Jerome did, however, accept Jude due to the book’s antiquity. First Enoch was likewise tagged as apocryphal in the late fourth century in the Apostolic Constitutions, which calls this, among other such books, “pernicious and repugnant to the truth” (6.16.3). However, the Apostolic Constitutions does not comment on the meaning of this assessment regarding Jude.
+1146|
+1147|Within the contemporary church, the canonical status of Jude has not been shaken by its use of apocryphal works. As we have already observed, the authorship of Jude is often questioned (see “Authorship of Jude” in the introduction), but not on these grounds. Jude has, however, been slighted in the contemporary church and has even gained the distinction of being identified as the most neglected book in the NT (Rowston 1975). Apart from the doxology (vv. 24–25), Jude is rarely heard from the pulpit, and most Christians have never been engaged in any serious study of the book. If Jude becomes a topic of conversation or discussion, the issue raised is invariably that of its relationship to pseudepigraphic literature. Although the opinion of many during the days of Didymus and Jerome is not echoed in the church, there is a practical marginalization of Jude since it is viewed as a problem more than a source of faith. The neglect is sometimes more than benign.[25]
+1148|
+1149|A third interpretive option, one that came to dominate reflection on Jude’s use of apocryphal books, states that although Jude uses this literature, we will accept Jude but not count the sources from which he drew as authoritative. If 2 Peter was written using Jude, 2 Peter could possibly be the earliest witness of this approach. Although Peter (see the discussion of authorship in the introduction to 2 Peter) used Jude extensively, wherever Jude made explicit use of apocryphal literature, Peter left that material to one side. Augustine held a similar, though not identical, position and reflected rather extensively on the issue in the City of God 15.23. His judicious comments are well worth repeating in full:
+1150|
+1151|We may, however, leave aside the stories contained in those Scriptures which are called “Apocrypha” because their origin is hidden and was not clear to the fathers from whom the authority of the true Scriptures has come down to us by a most certain and known succession. There is, indeed, some truth to be found in these apocryphal Scriptures; but they have no canonical authority because of the many untruths which they contain. We cannot, of course, deny that Enoch, the seventh in descent from Adam, wrote a number of things by divine inspiration, since the apostle Jude says so in a canonical epistle. But it was not for nothing that even these were excluded from the canon of the Scriptures which was preserved in the temple of the Hebrew people by the diligence of the priestly succession. For the accuracy of these books was judged to be suspect by reason of their antiquity; and it was not possible to discover whether they were indeed what Enoch had written, for those who put them forward were not thought to have preserved them with due rigour through a clear succession. Hence, prudent men have rightly decided that we should not believe Enoch to be the author of the works attributed to him, containing tales of giants who did not have human fathers. In the same way, many other works have been put forward by heretics under the names of other prophets, and, more recently, under the names of apostles. But all these have been excluded from canonical authority after diligent examination, and are called Apocrypha. (Dyson 1998: 684)
+1152|
+1153|Augustine also discussed 1 Enoch in The City of God 18.38, in which he asks, “Again, is not Enoch, the seventh in descent from Adam, proclaimed as a prophet in the canonical epistle of the apostle Jude?” While not accepting the book of Enoch, he comments, “For some writings are indeed put forward as genuine works of those authors by certain persons who, according to their own inclination, indiscriminately believe whatever they like. But the purity of the canon has not admitted these works, not because the authority of these men, who pleased God, has been rejected, but because the writings in question are believed not to be theirs.” To resolve the issue of true things being found in books that are not genuine, Augustine makes a distinction between what is written under the Holy Spirit’s inspiration and what is mere human composition.
+1154|
+1155|Augustine, in the end, will not admit Enoch since he does not believe it to be genuine and since it contains material contrary to the gospel (Dyson 1998: 876–77). Augustine’s position has held the day through the centuries. He did not fully answer the question at hand, but does affirm that the part of Enoch that Jude quoted is true. Augustine appears to attribute this to the fact that there is some truth in these apocryphal writings and that Enoch left some divine writings. He also wants to affirm divine inspiration and, therefore, religious authority for the parts Jude quotes. So, again, a distinction is made between the question of the origin of the Enochic literature and the authority of certain parts of it. Jude’s use of parts acknowledges the authority of those parts.
+1156|
+1157|A popular version of Augustine’s view regarding Jude’s source says that 1 Enoch may well preserve some authentic tradition from the historic Enoch. The logic runs that the authentic tradition is precisely what Jude quotes. So while the book itself is not considered authentic, the prophecy in 1 En. 1.9 was truly uttered by Enoch. At times this perspective appears as nothing more than special pleading designed to defend Jude’s use of 1 En. 1.9. But neither this nor Augustine’s view account for Jude’s appeal to the Assumption (Testament) of Moses in verse 9. The possibility of the survival of a tradition from before the time of Noah until the compilation of 1 Enoch is remote indeed, even given the care with which ancients preserved ancestral memory. If one appeals to Jude to defend the perspective, the reasoning becomes circular.
+1158|
+1159|In light of the problems left us by Augustine, some variants of his position have been forwarded in recent times. The first takes the perspective that “all truth is God’s truth” and affirms that where 1 Enoch speaks something true, we should not be concerned if Jude quotes it. Paul also quotes literature that is noncanonical, and when he does so there is no intent to invest the whole of those authors’ writings with any form of authority (Epimenides and Aratus in Acts 17:28; Menander in 1 Cor. 15:33; Epimenides in Titus 1:12). As Chaine (1939: 279) comments, revelation can coexist with the ideas and human conceptions that are not contrary to revelation yet are dependent on the culture and milieu of the author (so also M. Green 1987: 58; J. Charles 1991a: 144; Moo 1996: 273). J. Charles minimizes Jude’s statement that Enoch “prophesied” (v. 14), saying, “And if, by way of illustration, a Cretan is to the apostle Paul a ‘prophet’ (Tit. 1.12), then Enoch, in Jude 14, can ‘prophesy’” (1991b: 144).
+1160|
+1161|But the way that Jude introduces the quotation from Enoch is identical to the way prophecies from the OT are presented (see v. 14 and comments). While Titus 1:12 speaks about “one of them, their very own prophet” when quoting Epimenides, Jude invests Enoch with authority that is equal to that of the OT prophets. Enoch’s authority is underscored by Jude’s identification of him as the “seventh from Adam.” Moreover, Enoch and the apostles are the only ones whose words Jude records, preferring to simply summarize the content of his other texts. Words from these two sources are forwarded as authoritative and in both cases give voice to the thematic affirmation that heads up Jude’s denunciation of those “who from long ago were marked out for this judgment” (v. 4). As will be argued in the comments on Jude 14–15, Jude places the testimony of 1 Enoch alongside that of the Torah (vv. 5–6, 11)—in addition to the traditions that emerged surrounding the burial of Moses that were rooted in the Torah (v. 9)—and that of the apostles (vv. 17–18). For Jude, these sources are lined up as the authorities that speak of both the sin and the judgment of the heretics. Jude’s use of 1 Enoch, and the Assumption (Testament) of Moses for that matter, is different from Paul’s occasional appeal to Greek authors. Jude evokes 1 Enoch as predictive and authoritative revelation.
+1162|
+1163|Despite the weakness of this approach, it does suggest a line of reflection that maintains the authority of what is affirmed in the Enoch quote, the allusion to the contention over Moses’s body and the angelic fall, while at the same time not endorsing all that the sources for such material wish to endorse. Jude’s use of pseudepigraphic literature is quite judicious, as will be seen in the commentary on the relevant verses (vv. 6, 9, 14–15, among others). That is, Jude eschews the more fanciful aspects of these books and focuses on key canonical themes, using pseudepigraphic literature to underscore his point. In the case of the sin of the angels and the devil’s contention over the body of Moses (vv. 6, 9, and comments), Jude highlights the way these figures transgressed proper order. In his quotation from 1 Enoch in vv. 14–15, Jude underscores the canonical affirmation of the judgment of the unrighteous. The lessons learned from the sections of the apocryphal texts from which Jude draws are precisely those that find support elsewhere in texts that were received as canonical.
+1164|
+1165|Moreover, in each case, the incident recorded is tied intimately with some set canonical text. The angelic fall (v. 6) became a very common interpretation of Gen. 6:1–4, and the dispute over the body of Moses (v. 9) was an interpretive tradition that developed due to the rather obscure reference to Moses’s death in Deut. 34:5–6, which concludes “but no one knows his burial place to this day” (NRSV). Jude’s reference is to the Assumption (Testament) of Moses, but it also evokes the words of Zech. 3:1–2. The quotation of 1 En. 1.9 in vv. 14–15 draws on Deut. 33:2, which was considered prophetic of the day of the Lord: “The LORD came from Sinai. . . . With him were myriads of holy ones; at his right, a host of his own” (NRSV). Jude makes judicious and limited use of references to apocryphal literature and evokes only sources that tie into the canonical text and interpretive traditions surrounding it. Jude’s use of apocryphal texts is closer to canonical bedrock than is sometimes acknowledged. Although these observations do not constitute a full solution, they do demonstrate that Jude’s practice is not outlandish.
+1166|
+1167|Another contemporary approach to this conundrum has been argued forcefully by J. Charles (1991a: 139–44) and supported by others (M. Green 1987: 57, 192–93; Hillyer 1992: 257; Moo 1996: 272–74): Jude quotes Enoch because his opponents hold the book in high regard. J. Charles (1991a: 144) paraphrases verse 14a in the following way: “For even (your own) Enoch, the seventh from Adam, prophesied of these, saying . . .”; Charles concludes, “Seen as such, vv. 14–15 would be not so much a citation of 1 Enoch due to Jude’s elevation of the work, as it would be an allusion adapted for Jude’s theological and literary end, an allusion which bears authority due to others’ high regard for Enoch.” Yet even J. Charles (1991b: 144n70) admits that while this option is grammatically possible, it remains a conjecture: “While pressing this argument would border on mere conjecture, it is sustained grammatically by the text and allows for a unity of argument throughout the epistle. Furthermore, it does not compromise Jude’s view of an authoritative OT canon (e.g., vv. 5, 7, 11) or authoritative apostolic teaching (i.e., the ‘received’ traditions of vv. 3 and 17).”
+1168|
+1169|But as noted above, the way Jude quotes 1 Enoch marks it as an authoritative work for him since he places it alongside and on a level with canonical and apostolic texts. His preface to the quotation underscores the authority of this particular text. There is no hint that Jude merely regards this text as authoritative for his opponents. Moreover, the letter is directed to the church, not to the opponents themselves. J. Charles’s suggestion that καί (kai) in verse 14 be translated “even” leads us to believe that only the opponents viewed this book as authoritative. This is a conjecture driven, as he notes, by the concern not to “compromise Jude’s view of an authoritative OT canon.” J. Charles’s conclusion is more theological than historical/exegetical. But this is precisely the tension that has existed from the beginning, because at this point a theological understanding of the entailments of inspiration meet some difficult questions that emerge from historical investigation. One may take the side of historical investigation and simply conclude that Jude was wrong about his source. Or one may take the side of Jude’s inspiration and authority, as did Augustine, and work the historical details through as best one can. But even Augustine confessed his lack of full understanding in pondering this issue, speaking of what was “hidden from me” (City of God 18.38). We can come only to limited conclusions with the evidence we have. Perhaps we have still not gone beyond Augustine’s marvelous wisdom.
+1170|
+1171|Genre and Structure
+1172|
+1173|Our understanding of the structure of Jude is intertwined with the question of literary genre. Jude comes to us in the form of a Hellenistic letter, complete with the common epistolary opening, which includes the name of the author and an identification of the recipients and is followed by an opening greeting (vv. 1–2). After the body of the letter, Jude inserts a closing doxology (vv. 24–25). The presence of the doxology at the very end is curious since Hellenistic letter closings normally included features such as “a farewell wish, a health wish, secondary greetings, an autograph, an illiteracy formula, the date, and a postscript” (Weima 1994: 55; and see Doty 1973: 14; White 1986: 198–202). Semitic letter closings were somewhat briefer but would likewise contain “a farewell wish and often a signature of the letter sender” (Weima 1994: 76). While variations on these formats were used, Jude opts not to follow any of the normal Hellenistic or Semitic conventions of letter closings. Compare, for example, the way Paul ends his correspondence to Philemon (Philem. 23–25) or the final salutation of the following letter from the mid-first century AD:
+1174|
+1175|Charitous to her brother Pompeius greeting. I want you to know that I attended to the matter about which you wrote to me. I went to Zoilas, the son of Argaios, and he went to the office of the basiliko-grammateus and he inquired and did not find your name written on the roll. At last, then, come up very quickly to your home. Salute the children of Herennia and Pompeis and Syrion and Thaisous and her children and husband and all my friends. Good-bye.[26]
+1176|
+1177|Numerous authors have observed that Jude’s doxology appears to be more suited to a liturgical setting and have therefore suggested that the letter was really an oral discourse that was given an epistolary opening. Was this document originally an early Christian sermon that was styled according to the canons of oral rhetoric? And if the letter was intended for oral address, does its structure follow the contours of ancient rhetoric as taught in the schools?
+1178|
+1179|Duane Watson has argued in favor of a rhetorical approach to understanding Jude. One of the pioneers of this field was George Kennedy, under whose supervision Watson wrote his doctoral dissertation (Kennedy 1984; Watson 1988; and see Neyrey 1993: 23–27).[27] From the time of Alexander the Great’s conquests, schools of rhetoric appeared throughout the ancient world. Aristotle, Alexander’s teacher, defined “rhetoric” as “the faculty of discovering the possible means of persuading in reference to any subject whatever” (Rhetoric 1.2.1). Quintilian, who wrote an extensive handbook on rhetoric during the first century AD, surveyed the various definitions of “rhetoric” known in his day. After some discussion, he sets forth his own definition, which states simply that rhetoric is “the science of speaking well. For this definition includes all the virtues of oratory and the character of the orator as well, since no man can speak well who is not good himself” (Inst. 2.15.34). Those trained in rhetoric could present public lectures, hold public office, act as legal counsels, and engage in other forms of public service. Anyone who belonged to the social elite was expected to have gained some mastery of rhetoric. Kennedy points out that “grammar and rhetoric furnish local inhabitants with an entry into the new civic life and access to the law courts. A system of formal education came into existence in which young people began the study of Greek grammar around the age of seven; a significant number of boys then entered a rhetorical school at the age of twelve to fourteen. They learned some theory from lectures by their teacher and practiced exercises in declamation in imitation of his examples” (Kennedy 1997: 18–19).
+1180|
+1181|Ancient authors who commented on rhetoric paid considerable attention to the classification and arrangement of oral discourse. Aristotle divided rhetoric into three categories: deliberative, judicial, and epideictic (Rhetoric 1.4–10). Deliberative rhetoric was used in discourses oriented toward the future, whose purpose was to exhort or dissuade. Judicial rhetoric, the rhetoric of the court, was oriented to the past, and its goal was to accuse or defend. Epideictic rhetoric was oriented to the present and sought to praise or blame (1.3.3–4). Aristotle noted that epideictic rhetoric was best suited for written compositions, followed by the forensic style (3.12.6). The fundamental structural elements of oral discourse as discussed in the handbooks included the exordium, the narratio, the partitio, the probatio, the refutatio, and the peroratio (see Watson 1988: 20–21). The exordium is the prologue of the discourse, whose purpose “is to prepare our audience in such a way that they will be disposed to lend a ready ear to the rest of our speech” (Quintilian, Inst. 4.1.5). The narratio is “the nature of the subject on which he [the judge] will have to give judgment: that is the statement of the facts” (Inst. 4.2.1). The partitio presents the problem, or in Quintilian’s words, it is “the enumeration in order of our own propositions, those of our adversary or both” (4.5.1). The probatio is the proof and, therefore, the most important part of the rhetorical discourse. While other parts may be dispensed with, Quintilian notes that “there can be no suit in which the proof is not absolutely necessary” (5.Pr.5). While the proof tries to construct the argument, “the refutatio is destructive” (Inst. 3.9.5) because it is designed to weaken the opponent’s arguments. The peroratio becomes the finale of the discourse, of which there are two kinds, “for it may deal either with facts or with the emotional aspect of the case” (Inst. 6.1.1).
+1182|
+1183|Watson (1988: 77–78) applies this common schemata for forensic rhetoric to his analysis of Jude and presents the following outline of the epistle (here in abbreviated form):
+1184|
+1185|
+1186|
+1187|I. Epistolary Prescript (Quasi-Exordium; 1–2)
+1188|
+1189|II. Exordium (3)
+1190|
+1191|III. Narratio (4)
+1192|
+1193|IV. Probatio (5–16)
+1194|
+1195|A. First Proof (5–10)
+1196|
+1197|B. Second Proof (11–13)
+1198|
+1199|C. Third Proof (14–16)
+1200|
+1201|V. Peroratio (17–23)
+1202|
+1203|VI. Doxology (Quasi-Peroratio; 24–25)
+1204|
+1205|
+1206|
+1207|Despite the fact that the taxonomy that Watson employs to analyze Jude is specifically associated with judicial rhetoric, Watson understands the letter as an example of “deliberative rhetoric which relies heavily upon epideictic in its efforts to advise and dissuade” (Watson 1988: 33). Neyrey, on the other hand, argues that the epistle is a true representative of forensic rhetoric (Neyrey 1993: 27).
+1208|
+1209|According to Watson (1988: 25), Jude represents an example of the “middle style” of rhetorical discourse, which Quintilian designates as “intermediate” as opposed to the “plain” or “grand and robust” types (Inst. 12.10.58). In Cicero’s view, this style “is fuller and somewhat more robust . . . , but plainer than the grandest style. . . . In this style there is perhaps a minimum of vigour, and a maximum of charm. For it is richer than the unadorned style, but plainer than the ornate and opulent style” (Orator 26.91; and 6.21). He comments that this style is marked by “transferred” words or metaphor, “words transferred by resemblance from another thing in order to produce a pleasing effect” (26.92).
+1210|
+1211|Following the rhetorical approach to Jude, J. Charles identifies the letter as a “word of exhortation,” a genre that finds its roots in the setting of the synagogue. The “word of exhortation” was a species of synagogue homily that owed aspects of its structure and style to the canons of Greco-Roman rhetoric (J. Charles 1993: 25–30; 1991a: 119).[28] Charles observes that “the ‘word of exhortation’ as a classification is predicated on a homiletical pattern observable in Hellenistic Jewish and early Christian works. The setting of Acts 13, in which Paul, present in the synagogue at Pisidian Antioch, is invited by the rulers to offer a logos paraklēseōs (v. 15), affords an illustration of this type of discourse” (J. Charles 1993: 23; for a summary see J. Charles 1991a).[29] Jude, along with Hebrews and 1 and 2 Peter, should be classified as a “word of exhortation” due to its sermonic character. Charles comments, “The body of Jude (vv. 5–23) is strongly hortatory, as if prepared as a sermon. Furthermore, the doxological conclusion would appear to be more fitting in a sermon. Yet with a formal opening and specific audience addressed, Jude conforms to the ancient epistolary genre” (J. Charles 1993: 20). While he underscores that Jude is a genuine letter, J. Charles (1991a: 115) collapses the distinction between oral address and written communication since an author “could publicly address a congregation when not physically present. If the possibility of a personal visit was precluded, the epistle was in essence the apostle’s preaching. Thus it is possible to take note of both the epistolary as well as homiletical character which Jude possesses.” While not affirming that Jude can be identified as a “word of exhortation,” Bauckham (1983: 3) classifies Jude as an “epistolary sermon.” Neyrey (1993: 23–27) and Perkins (1995: 145) both stress the epistolary character of Jude yet assert that in the body of the letter the author employs conventions drawn from rhetoric as identified by Watson.
+1212|
+1213|Should we envision an oral setting for the Epistle of Jude? While contemporary commentators acknowledge that Jude is a genuine letter, the question remains whether the epistle should be analyzed in light of the canons of ancient rhetoric. J. Charles is certainly correct when he states, “To the Greeks, reading was to be done aloud, i.e., it was to be heard” (J. Charles 1993: 26). Letters such as that of the Jerusalem Council, 1 Thessalonians, and Colossians were read aloud to the gathered believers (Acts 15:30–31; 1 Thess. 5:27; Col. 4:16), in accordance with common practice in the Greco-Roman world (Stirewalt 2003: 14–18; and see Plato, Letters 323C;[30] Xenophon, Hell. 7.1.39; Diodorus Siculus 15.10.2; 2 Bar. 86; 2 Clem. 19.1; P.Oxy. 2787, 14–15). However, the practice of reading letters orally did not convert these documents into something other than what they were—letters!
+1214|
+1215|Despite the oral conventions surrounding letter reception, ancient writers on epistolary theory distinguished between rhetorical discourse and letters. Seneca (Ep. mor. 75.1), for example, wanted his letters to be like conversations: “I prefer that my letters should be just what my conversation would be if you and I were sitting in one another’s company or taking walks together—spontaneous and easy.” Writing sometime around the beginning of the Christian era, Demetrius quotes Artemon, the editor of Aristotle’s letters, as saying, “A letter ought to be written in the same manner as a dialogue, a letter being regarded by him as one of the two sides of a dialogue” (Eloc. 223, cited in Malherbe 1988: 17). Cicero likewise compared his letters to conversations (Att. 8.14.1; 9.10.1; 12.53). Nonetheless, Demetrius drew a sharp line between the conversational nature of letters and oratory (Eloc. 226). Aristotle likewise distinguished between the style of letters and public discourse: “But we must not lose sight of the fact that a different style is suitable to each kind of rhetoric. That of written compositions is not the same as that of debate; nor, in the latter, is that of public speaking the same as that of the law courts” (Rhetoric 3.12.1). Since letters were to be more like conversations than formal discourse, analyzing Jude according to the structures of public discourse as outlined in the handbooks on rhetoric appears to be a misguided effort. Demetrius appealed for “a certain degree of freedom in the structure of a letter” and instructed that a letter should not become a treatise couched in an epistolary form (Eloc. 228, 229, 231, 234; in Malherbe 1988: 19).
+1216|
+1217|Jude composed a genuine letter and not an oral discourse (see Gerdmar 2001: 92–115). Jude states that his original intention was to write to his readers but now finds it necessary to write as he exhorts them (v. 3). This is not an oral “word of exhortation” now placed in letter format but rather a “letter of exhortation.” As noted above, Jude begins his composition with a common letter opening, signaling to his readers how they are to receive and understand this document. The letter itself contains a strongly hortatory tone as Jude warns his readers against the incursions of the heretics and exhorts them to come to the aid of those who have been taken in by the errorists (vv. 20–23). While this kind of exhortation is not common in contemporary letters, Pseudo-Demetrius, along with Pseudo-Libanius, classified letters into various types, which, among many others, included the “advisory type” and the “vituperative type.” Pseudo-Demetrius explains these types, saying:
+1218|
+1219|It is the advisory type when, by offering our own judgment, we exhort (someone to) something or dissuade (him) from something.
+1220|
+1221|It is the vituperative type when we bring to light the badness of someone’s character or the offensiveness of (his) action against someone. (Malherbe 1988: 36–37)
+1222|
+1223|
+1224|
+1225|Pseudo-Libanius similarly spoke of the “paraenetic style,” which was used “to exhort someone by urging him to pursue something or to avoid something” (Malherbe 1988: 69). Letters of exhortation were all too common (Stowers 1986: 91–152). Moreover, Jude salts his correspondence with endearing terminology in the vocative voice (“beloved” in vv. 3, 17, 20), using a convention typical of friendly letters.[31] Exhortation was commonly carried out in the context of friendship. As Stowers (1986: 95) notes, “Paraenesis required some type of positive relationship, e.g., that of parent and child, or friendship. . . . Friends were supposed to care for each other’s character development.”
+1226|
+1227|The body of Jude’s letter begins with a typical epistolary disclosure formula that indicates his purpose for writing (vv. 3–4), although such disclosures normally appeared at the end of a correspondence.[32] At the very end of the body of the letter, Jude urges the readers to adopt responsible behavior, a common epistolary convention of the era (vv. 20–23; for a summary of such expressions, see White 1986: 205). Jude’s Epistle fits well within the ancient classification scheme for letters, exhibiting standard letter conventions, so we need not resort to rhetorical theory to explain its contents and structure. In fact, the ancients who wrote on the contours of rhetoric did not appear to see any need for giving detailed instruction about letter structure as they did for oral presentations.[33]
+1228|
+1229|The closing doxology, which for some is a primary marker of the sermonic character of the document, is not outside the normal practice in Christian letters. While final doxologies were not a part of either Greco-Roman or Semitic letters, various NT and early Christian letters include a closing doxology (Rom. 16:25–27;[34] 2 Pet. 3:18; 1 Clem. 65.2; Mart. Pol. 22.3; Diogn. 12.9). The inclusion of the final doxology is a distinctly Christian development within epistolography. Doxologies, along with prayers for the communities addressed, were normally used to bring a major division of a letter to a close (Rom. 11:36; Gal. 1:5; Eph. 3:20–21; Phil. 4:20; 1 Tim. 1:17; 2 Tim. 4:18; 1 Pet. 5:10–11).[35]
+1230|
+1231|How, then, should we analyze the structure of Jude? The basic components of a Greco-Roman letter are (1) an introduction, which can contain the author’s name, the name of the recipient(s), a greeting (normally χαίρειν, chairein, hail!), and occasionally additional greetings or a wish/prayer for the recipient’s good health; (2) the body, which begins with some formula; and (3) the conclusion, which can include, as noted previously, “a farewell wish, a health wish, secondary greetings, an autograph, an illiteracy formula, the date, and a postscript” (Weima 1994: 55). We do not have an abundant collection of Semitic letters; those that have survived follow the same three-part structure but with less elaboration (Weima 1994: 63–64). The letter opening would contain the sender’s name, the recipient’s name, and a greeting. This greeting was commonly שָׁלוֹם (šālôm, peace), which functioned as the Greek χαίρειν, or the verbal בָּרַךְ (bārak, bless). The greeting could be followed by an extended prayer for the well-being of the recipient. Additional greetings to others might be included in the opening, the body, or as part of the final matter of the letter. Following the body of the correspondence, the letter would close with an additional desire for peace (such as “Be at peace!” or “I have sent this letter for your peace [of mind]”), and occasionally a notation about the scribe who penned the letter and/or the date (Fitzmyer 1974b).
+1232|
+1233|Jude’s letter begins with the name and identification of the author, a designation of the addressees, and an elaborate opening greeting in which the author invokes God to multiply mercy, peace, and love for the readers (vv. 1–2). The letter body follows, opening with a vocative address “Beloved” and a disclosure formula indicating the author’s purpose in writing (vv. 3–4). After the body of the letter, Jude inserts a doxology (vv. 24–25), which picks up the principal theme of the central exhortation of the letter (vv. 20–23). The praise to God includes the assurance that he is the one who is able to keep them from stumbling and to firmly establish them blameless, over against the incursion and persuasion of the heretics (v. 4). Weima (1994: 55–56, 237–39) has demonstrated that Paul’s letter closings, as well as those in Greco-Roman letters, rehearse the themes of the correspondence, and the same can be said of Jude’s closing doxology. While the form of Jude’s closing is different from common letter closings of the era, its function is the same.
+1234|
+1235|The body of Jude’s correspondence is punctuated by a series of rhetorical markers that identify both the readers and the opponents to the gospel. The readers are the “beloved” (ἀγαπητοί, agapētoi) whom Jude addresses directly in verses 3, 17, 20. In these last two verses Jude contrasts them with the heretics (vv. 16–17 and 19–20, “These are. . . . But you, beloved”). Jude vilifies the heretics[36] in a series of denunciations that begin with οὗτοι (houtoi, these) or οὗτοί εἰσιν (houtoi eisin, these are) in verses 8, 10, 12, 16, and 19 (see Cantinat 1973: 1–2; Busto Saiz 1981: 85–87).[37] Each of these denunciations follows a reference to the OT (vv. 5–7, 11), the OT Pseudepigrapha (vv. 9, 14), or an apostolic prophecy (vv. 17–18). Ellis (1978: 225) notes that the denunciations of the heretics are commentaries on these texts, each “marked by a shift in tense,” and have a “midrashic character” (followed closely by Bauckham 1983: 4–5; 1990: 150–51; J. Charles 1993: 31–33). Ellis (1978: 226) classifies Jude as “a midrash on the theme of Judgment for which the letter-form provides a convenient dress” and says that in this “the midrash is similar not only to other New Testament commentary on Scripture but also to biblical exposition at Qumran.” “Midrash” in this case is understood simply as “an exegesis of Scripture which applies it to the contemporary situation, not with the implication that Jude’s midrash bears any close resemblance to the forms of later rabbinic midrashim” (Bauckham 1983: 4; 1990: 150).
+1236|
+1237|Ellis notes that Jude’s midrash shares with the Qumran midrashim the belief that the present is the time of eschatological fulfillment. As in the Qumran pesher, which emphasizes the present fulfillment of prophetic hopes, Jude alternates the scriptural quotation with a commentary introduced with the formula “this is” (as 4QFlor), modifies the OT quotation to demonstrate more clearly its application, and refers both to biblical and noncanonical literature (Ellis 1978: 226, and see 159–61). Bauckham notes the differences, however, between Jude’s hermeneutic and the Qumran pesharim: “His use of various substitutes for Old Testament texts as citations, and his interpretation of Old Testament material as typology” (Bauckham 1990: 151; 1983: 5). Jude certainly shares with the early church and Qumran the vision that the present is the era of eschatological fulfillment (cf. Luke 4:21; Acts 2:16), but the notion of fulfillment is closely linked with Jude’s typological understanding of both the OT and pseudepigraphic literature (vv. 8, 10, 12). On the other hand, he sees the presence of the heretics as a direct fulfillment of both apostolic prophecy (vv. 17–19) and the Enoch prophecy (vv. 14–16).
+1238|
+1239|Ellis’s use of the categories of midrash and pesher interpretation are useful but not, in themselves, adequate to explain the way Jude interprets canonical and noncanonical literature. The definition of midrash that Ellis offers, along with Bauckham, is the broadest possible.[38] It does, however, underscore Jude’s quest to contemporize ancient texts for his readers. The eschatological nature of his exegesis shares features with the Qumran pesharim, but the inclusion of the Enoch and apostolic prophecies as constituents of the prophetic tradition now fulfilled is unique. What these studies on Jude’s midrash point out, however, is that the body of the letter is primarily structured around a series of authoritative “texts” and their application to the present realities that Jude addresses. The rhetorical impact of the alternation between “text” and comment highlights that the heretics were entities known by God, who had predicted beforehand both their coming and their doom.
+1240|
+1241|The structure of Jude’s Epistle follows the tripartite format of Greco-Roman letters, beginning with an opening greeting (vv. 1–2) and ending with a doxology functioning as the letter closing (vv. 24–25). The body of the letter (vv. 3–23) begins and ends with a call for the recipients to stand firm in the faith that they have received. Jude first presents the call in the disclosure of his purpose (vv. 3–4) and again in the exhortation to keep themselves in the love of God and to come to the aid of those who are in danger of being swept away by the heretics’ error (vv. 20–23). Framed within these exhortations are a series of “texts” drawn from the OT, pseudepigraphic literature, and the apostles that either typologically or directly predict the coming and the doom of the heretics (vv. 5–7, 9, 11, 14–15, 17–18). After each authoritative “text,” Jude inserts an exposition of the text that highlights its application to and fulfillment in the heretics. Each of these comments is introduced with “these” or “these are” (vv. 8, 10, 12–13, 16, 19). Jude brackets this central section of the body of the letter (vv. 5–19) by introducing the first and the final “texts” with calls to the elect to remember what they already knew about these matters (vv. 5, 17). In light of the forgoing considerations, we may outline Jude in the following manner:
+1242|
+1243|
+1244|
+1245|I. Epistolary greeting (1–2)
+1246|
+1247|A. Author: Jude (1a)
+1248|
+1249|B. Recipients: The called (1b)
+1250|
+1251|C. Wish-prayer for mercy, peace, and love (2)
+1252|
+1253|II. Letter body: An exhortation to contend for the faith (3–23)
+1254|
+1255|A. Disclosure of Jude’s purpose for writing: An exhortation to the beloved (3–4)
+1256|
+1257|1. Original purpose: To write about their common security (3a)
+1258|
+1259|2. New purpose: To exhort them to contend for the faith (3b)
+1260|
+1261|3. Reason for the change: The infiltration of godless people (4)
+1262|
+1263|B. A call to remember: Predictions about the heretics and fulfillment (5–19)
+1264|
+1265|1. “I want you to remember”: Text and comment (5–8)
+1266|
+1267|a. Text: Exodus, angels, and Sodom and Gomorrah (5–7)
+1268|
+1269|b. Comment: These are dreamers who defile the flesh, reject authority, and slander glorious ones (8)
+1270|
+1271|2. Second text and comment (9–10)
+1272|
+1273|a. Text: Michael did not blaspheme the devil (9)
+1274|
+1275|b. Comment: These blaspheme what they do not understand (10)
+1276|
+1277|3. Third text and comment (11–13)
+1278|
+1279|a. Text: The way of Cain, the deception of Balaam, the rebellion of Korah (11)
+1280|
+1281|b. Comment: These are stains in the community meals, clouds without rain, trees without fruit, wild waves of the sea, and wandering stars (12–13)
+1282|
+1283|4. Fourth text and comment (14–16)
+1284|
+1285|a. Text: The prophecy of Enoch (14–15)
+1286|
+1287|b. Comment: These are grumblers, complainers, and boastful flatterers (16)
+1288|
+1289|5. “Remember”: Text and comment (17–19)
+1290|
+1291|a. Text: The apostolic prophecy (17–18)
+1292|
+1293|b. Comment: These are people who cause divisions (19)
+1294|
+1295|C. Exhortations to the beloved (20–23)
+1296|
+1297|1. Keep yourselves in the love of God (20–21)
+1298|
+1299|2. Snatch some from the fire; have mercy on others who dispute (22–23)
+1300|
+1301|III. Closing doxology (24–25)
+1302|
+1303|
+1304|
+1305|
+1306|
+1307|I. Epistolary Greeting (1–2)
+1308|
+1309|II. Letter Body: An Exhortation to Contend for the Faith (3–23)
+1310|
+1311|III. Closing Doxology (24–25)
+1312|
+1313|
+1314|
+1315|

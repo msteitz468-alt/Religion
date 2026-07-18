@@ -9,114 +9,158 @@ canon_scope:
   disputed_by: []
   rejected_by: []
 language_original: Hebrew
-date_range: Ministry ca. 760 BCE (between 765 and 750 BCE); during the reign of Jeroboam II of Israel
+date_range: Ministry ca. 760 BCE (Carroll: more broadly 765–750 BCE); during the overlapping reigns of Jeroboam II of Israel and Uzziah of Judah
 sources_ingested: 1
-last_updated: 2026-06-05
-tags: [text, old-testament, prophets, minor-prophets, twelve, amos, social-justice, day-of-yahweh, oracles-against-nations]
+last_updated: 2026-07-18
+tags: [text, old-testament, prophets, minor-prophets, twelve, amos, social-justice, day-of-yahweh, oracles-against-nations, synchronic]
 ---
 
-Amos is the third book of the Minor Prophets (after Hosea and Joel). A Judean shepherd/businessman from Tekoa who was called to prophesy to the Northern Kingdom of Israel at the height of its 8th-century prosperity, Amos delivers the OT's most sustained critique of social injustice, and contains the first extended treatment of the "Day of Yahweh" concept. His most famous verse — "Let justice roll on like a river, righteousness like a never-failing stream" (5:24) — was made world-famous by Martin Luther King Jr. at the March on Washington (1963).
+Amos is the third book of the Minor Prophets (after Hosea and Joel in the MT order of the Twelve). A Judean from Tekoa commissioned to prophesy against the Northern Kingdom of Israel in the second quarter of the eighth century BCE, the book delivers a sustained critique of social injustice, national ideology, and cult without ethic — and contains what is often treated as the first extended prophetic treatment of the [[day-of-the-lord|Day of Yahweh]]. Its most famous ethical demand — “Let justice roll down like waters, and righteousness like an ever-flowing stream” (5:24) — was made world-famous by Martin Luther King Jr. at the March on Washington (1963).
+
+Primary ingested commentary: [[m-daniel-carroll|M. Daniel Carroll R.]], *The Book of Amos* (NICOT, 2020); see source page [[carroll-amos-nicot]].
+
+## Textual Overview
+
+Carroll subdivides the book into **four primary sections** (not three only):
+
+| Section | Chapters | Content (Carroll) |
+|---|---|---|
+| Preface | 1:1–2 | Superscription + summary oracle (thematic key for the whole book) |
+| Oracles against the Nations | 1:3–2:16 | Seven foreign nations + Judah + climax against Israel |
+| Words of God and the Prophet | 3:1–6:14 | Guilt exposure (3:1–4:13); three interrelated chiasms (5:1–17; 5:18–27; 6:1–14) |
+| Visions of Israel’s Future | 7:1–9:15 | Five visions with expansions; Amaziah narrative; restoration 9:11–15 |
+
+Within 3–6 Carroll further names four principal parts: “Divine Exposure of Israel’s Guilt” (3:1–4:13), “What’s in a Name?” (5:1–17), “The Delusion of Religion” (5:18–27), and “The Delusion of Power” (6:1–14). He rejects a single mega-chiasm for 3–6 while accepting nested chiasms, heptads/pentads, and intersecting patterns; no one scheme explains the book “without remainder.”
 
 ## Historical Background
 
-Amos prophesied "two years before the earthquake" (1:1) during the reigns of Jeroboam II of Israel and Uzziah of Judah — conventionally dated ca. 760 BCE. The earthquake, confirmed archaeologically at several sites (most notably Hazor, stratum VI), was a major seismic event of magnitude 7.8-8.4, remembered by Zechariah over two centuries later (Zech 14:5).
+**Date.** Carroll holds the traditional date **ca. 760**, or more broadly **765–750**, as “both reasonable and plausible.” Superscription ties the ministry to the overlapping reigns of Uzziah of Judah and Jeroboam II of Israel; “two years before the earthquake” (1:1) is often linked to Hazor stratum VI (~760). Eclipse imagery at 8:9 may echo the 15 June 763 eclipse. Carroll sets a terminus ad quem around 750: the book does **not** name Assyria; the enemy is anonymous (3:11; 6:14); exile language is not Tiglath-pileser III’s full deportation policy; silence about Assyria contrasts with other eighth-century prophets who know the empire.
 
-The context: Jeroboam II's reign saw unprecedented prosperity for the Northern Kingdom. Assyria was temporarily weakened; Damascus was in decline; Israel expanded its territory (2 Kgs 14:25-28). Luxury goods, elaborate architecture, trade networks — the archaeological record confirms the book's descriptions of elite excess. But this prosperity was built on systemic exploitation of the peasant majority, and the complacency it generated was theological as well as social: YHWH was obviously blessing Israel; the nation was untouchable; the Day of Yahweh would bring even greater triumph.
+**International setting.** Assyrian weakness after Adad-nirari III, Urartu pressure, and Damascus’s decline created a vacuum that enabled Jeroboam II’s expansion early–mid reign. By **765–755**, Carroll argues, “the days of assured victory for Israel had passed… They were witnessing the beginning of the end” — hollow victories (6:13), elite luxury amid deterioration.
 
-Amos dismantles all of this.
+**Socioeconomics.** “Unparalleled prosperity” under Jeroboam II is, for Carroll, “true only in part” (Dickens: best/worst of times). Text and archaeology show inequality (ivories, *marzēaḥ*, house size), trade, and bureaucracy, but he rejects tidy models (simple Canaanization, pure “rent capitalism,” Gottwald’s sharp tributary center–periphery). Working hypothesis: limited tributary features + local/regional markets + patronage. Prophets give **moral-theological** snapshots, not sociological systems.
 
 ## Amos the Person
 
-Carroll argues carefully against the traditional image of Amos as a poor shepherd:
-- *nōqēd* (1:1) appears elsewhere only of the king of Moab (2 Kgs 3:4) — probably a property-holder/rancher, not a day laborer
-- *bōqēr* (7:14) = herdsman of cattle and sheep — suggests ownership of herds
-- *bôlēs šiqmîm* (7:14) = caretaker of sycamore trees, which require a warmer climate than Tekoa's highlands — implies property or leases in the lowlands
+Outside the book there is no independent Hebrew-Bible biography. **Tekoa** = Judean Khirbet Tequʿa (~10 miles south of Jerusalem). Carroll’s profile:
 
-Amos was probably a prosperous merchant-farmer, well-traveled (explaining his awareness of international politics in chs. 1-2), literate, and rhetorically sophisticated. He was not professionally a prophet (7:14: "I was not a prophet, nor a prophet's son") but was directly called by Yahweh to deliver this specific message to the North.
+- ***nōqēd*** (1:1) — elsewhere only of Mesha king of Moab (2 Kgs 3:4); not the common *rōʿeh* “lonely shepherd”
+- ***bôqēr*** and ***bôlēs šiqmîm*** (7:14) — herdsman of cattle/sheep and caretaker of sycamore figs (which need a warmer climate than Tekoa) → ownership or leases beyond the highlands
 
-## Structure
+Carroll: “It is better… to envision the prophet as a person of some means” — possibly commercial travel, political awareness, literary craft — not a poor champion-of-his-class. Prophecy is not his defining profession but a **limited-time call** (7:14–15, present tense preferred). Biographical impulse is secondary: incidents are preserved for God’s message to Israel (Gowan, cited with approval).
 
-Three major sections, plus the restoration promise:
+## Major Themes / Narrative Summary
 
-| Section | Chapters | Content |
+### Oracles against the Nations (1:3–2:16)
+
+Formula: “For three transgressions of X and for four, I will not revoke…” At series level Carroll sees a **seven–eight pattern** (Judah seventh; Israel eighth and ultimate climax). Theological foundation: a **comprehensive moral universe** under Yahweh as Creator/Ruler; nations judged for war crimes and crimes against humanity; Israel’s guilt is **greater** because of revelation, prophets, and Nazirites. Israel and Judah are **not** criticized for war crimes in the OAN — their oracles turn to covenant/tôrâ and social sins.
+
+**Against pure “rhetoric of entrapment”:** in the received text the OAN follow the superscription and motto that already name Israel (1:1–2). For the reader of the completed work, “Israel is not ensnared by poetic technique; it is morally embroiled in the ways of the world.” *Lex talionis*: what Yahweh decries in war cruelty, he decrees as military defeat.
+
+### Reversal of Theological Traditions
+
+Carroll’s signature theological reading: the book “consistently turns [cherished traditions] on their head. Traditions serve to indict Israel.”
+
+| Tradition | Reversal (Carroll) |
+|---|---|
+| **Exodus / election** | “You only have I known… therefore I will punish” (3:2); 9:7 relativizes uniqueness (Philistines from Caphtor, Aram from Kir) |
+| **Cult** | YHWH’s own worship becomes target when it authorizes injustice (4:4–5; 5:21–24; 9:1); judgment begins at Bethel’s altar |
+| **Day of Yahweh** | Popular hope of victory → darkness, gloom, exile (5:18–20, 26–27) |
+| **Divine Warrior from Zion** | 1:2: roar from Jerusalem not to deliver but to judge; Northern sanctuaries discredited |
+
+### Social Justice and Cult as World-Authorization
+
+Amos’s social critique is the most systematic among the writing prophets. Carroll uses **interpretive anthropology (Geertz)** rather than simple class analysis: religion clothes the social construction of reality with divine authorization (functionally a “sacred canopy”). To announce destruction of cultic centers is to announce destruction of that social imaginary; hence judgment **must begin at the altar** (3:14; 8:3; 9:1).
+
+Key loci (Carroll’s exposition):
+- **2:6–16** — debt slavery, sexual abuse of the vulnerable, distraints + cultic drinking, silenced prophets/Nazirites
+- **4:1** — “cows of Bashan”: elite Samaria wives; socioeconomic satire, not patriarchal sexism as primary frame
+- **5:7, 10–12, 15, 24; 6:12** — *mišpāṭ* / *ṣĕdāqâ*; justice at the gate; bribes
+- **5:24** — **jussive of human justice**, center of the 5:18–27 chiasm (not future divine judgment as primary sense)
+- **6:4–7** — *marzēaḥ* / ivory beds / best oils; “first of the nations” → first of the exiles
+- **8:4–6** — merchants who cannot wait for new moon/sabbath to cheat with false ephah/shekel
+
+**5:21–23** targets primarily the **Yahweh cult** (ceremonies celebrating Israel’s God), not foreign deities; **5:26** expands with other gods (Carroll: Sakkut/Ninurta + Kiyyun/Saturn carried into exile).
+
+### The Five Visions (7:1–9:15)
+
+| # | Text | Carroll’s stress |
 |---|---|---|
-| Oracles Against the Nations | 1-2 | Seven foreign nations + Israel; climactic accusation against God's own people |
-| Words of God and Prophet to Israel | 3-6 | Confrontation, warnings, woe oracles; climactic critique of cult |
-| Visions of Israel's Future | 7-9 | Five visions; Amaziah confrontation; restoration promise |
+| 1 | Locusts (7:1–3) | Divine *yṣr*; intercession “forgive” = reduce rigor, not cancel guilt; YHWH relents without forgiving Israel |
+| 2 | Fire (7:4–6) | Cosmic fire; “please stop” — forgiveness now impossible |
+| 3 | *ʾănāk* (7:7–9) | **Tin**, not medieval “plumb line”: soft metal = fragile fortresses; “I will not pass by him again”; no intercession |
+| 4 | Summer fruit (8:1–3) | *qayiṣ* → *qēṣ* wordplay: “the end has come” |
+| 5 | Lord at the altar (9:1–4) | Distinct form; Bethel context; no escape (Sheol–heavens merisms) |
 
-## The Oracles Against the Nations (Chs. 1-2)
+Intercession ends at 7:8 as the **prophet’s decision** (not a Jeremiah-style ban). Visions 3–5 are less totalizing than 1–2 but more explicit about guilt and inescapability (*dramatischer Fortschritt*). **Amaziah (7:10–17)** between visions 3–4 validates judgment; historicity granted benefit of the doubt; likely ultimate source Amos, penned by another; not primarily biographical.
 
-The book opens with a rhetorical trap. The prophet pronounces judgment on seven surrounding nations — Damascus, Gaza, Tyre, Edom, Ammon, Moab — using a formula ("For three transgressions of X and for four, I will not revoke the punishment...") that would have had the Israelite audience nodding with satisfaction. Then the hammer falls: the eighth oracle is against Israel itself, using the same formula but with the most detailed list of crimes (2:6-16).
+### Restoration (9:11–15)
 
-The strategy: the audience's own moral instincts — roused by the foreign nations' atrocities — are turned against themselves. They cannot argue that the standard of justice Amos applies to Damascus or Gaza is unfair, because they just agreed with it.
+After relentless doom, “In that day I will raise up the booth of David that is fallen…”. Carroll **defends eighth-century authenticity** against Wellhausen’s “roses and lavender instead of blood and iron” late-appendix consensus: hope is extension of the prophet’s reversal message; “fallen” can mark the 931 division of monarchy, not only 586; vague/hyperbolic style fits pre-Assyrian setting. **Booth of David** = frail Davidic kingdom/dynasty (not primarily the Second Temple or a named messiah); Southern-rooted hope for Northern “my people Israel.” **9:12** (“nations upon whom my name is called”) = inclusion, not coercive subjugation — the reading Acts 15 later develops via the LXX.
 
-The nations are judged for violations of basic human morality — what Carroll calls universal moral standards embedded in creation. They are not judged for failing to keep Yahweh's specific covenant with Israel. This establishes Yahweh's claim as universal sovereign, not merely Israel's tribal patron.
+## Textual and Manuscript Tradition
 
-## The Reversal of Theological Traditions
+Attributed to Carroll (§VII The Text and running notes):
 
-Amos's most distinctive theological move: **every cherished Israelite theological tradition is turned against Israel**.
+- **MT** generally well preserved; notable cruxes include 3:12e (*dəmešeq* → “piece of a leg” of a couch, after Rabinowitz), 4:2–3 exile imagery, and **ʾănāk** as tin not plumbline (7:7–8).
+- **LXX** close to a proto-MT Vorlage with mechanical + Tendenz differences (e.g. anti-Samaritan color at 6:1; Gentile hope shaping 9:12).
+- **Qumran** (4QXIIc, g; 5QXII; Mur88): mostly orthographic/plene; Amos well represented.
+- **Targum Jonathan**, Peshitta, Vulgate: Tg expansions (Memra/Torah/prayer); Peshitta near MT; Vulg. follows MT.
+- **DSS reception** of Amos 5:26–27 and 9:11 (CD; 4QFlor) is reception history, not a rival Hebrew text form.
 
-**Exodus**: Normally Israel's charter of divine election and protection. Amos uses it to indict: "You only have I known of all the families of the earth; therefore I will punish you for all your iniquities" (3:2). And: "Did I not bring Israel up from Egypt, and the Philistines from Caphtor and the Syrians from Kir?" (9:7) — YHWH was as much behind the Philistines' migration as Israel's exodus.
+## Hermeneutical Frameworks
 
-**Covenant**: Normally a guarantee of divine protection. Amos turns it: "Seek Yahweh and live; or he will break out against the house of Joseph like fire" (5:6).
+| Framework | How it reads Amos (in this wiki’s sources) |
+|---|---|
+| **Carroll (NICOT)** | Principled **synchronic / final-form / canonical** reading against an eighth-century backdrop; minimal early additions; poetics + rhetorical criticism/speech-act; Geertzian interpretive anthropology for cult; Latin American / Two-Thirds World ethical resonance without collapsing into liberation theology |
+| **Classical form/redaction criticism** | Wolff six-stage production; Jeremias four editions; multi-century accretion; 9:11–15 often late |
+| **Persian Yehud literati models** | Book as postexilic scribal product (Davies, Ben Zvi milieu, etc.) — Carroll records and rejects for historical mismatch |
+| **Jewish midrash / rabbinic** | High esteem (e.g. Mak. 23b–24a reducing commandments to “Seek God and live,” 5:4); haggadic expansion of biography |
+| **NT / Christian** | Acts 7 // 5:25–27 (Stephen); Acts 15 // 9:11–12 (James / Gentile inclusion); patristic apologetic use (esp. 4:13; 9:11) |
+| **Modern social ethics** | MLK 5:24; liberation theologies; “concerned evangelical” streams (Carroll’s own) |
 
-**The Day of Yahweh**: Israel anticipated this as the day of triumphant divine intervention on their behalf. Amos turns it: "Woe to you who desire the day of Yahweh! Why would you have the day of Yahweh? It is darkness, and not light, as if a man fled from a lion, and a bear met him" (5:18-19). This is the **first OT passage to address the Day of Yahweh**, and it is already a critique.
+## Canon and Reception
 
-**The cult**: YHWH's own appointed worship becomes the target: "I hate, I despise your feasts, and I take no delight in your solemn assemblies. Even though you offer me your burnt offerings and grain offerings, I will not accept them... But let justice roll down like waters, and righteousness like an ever-flowing stream" (5:21-24).
+- **Jewish canon:** one of the Twelve; continuous prophetic authority in rabbinic Judaism.
+- **Christian OT:** canonical in all major churches; NT citation concentrates on the same two loci Qumran also highlighted (5:25–27; 9:11–12).
+- **Modern activism:** 5:24 as civil-rights and social-justice slogan; also appropriated by Savonarola (1496 Florence), Reformers, and Latin American interpreters.
 
-## Social Justice and the Socioeconomic Critique
+## Scholarship and Historiography
 
-Amos's social critique is the most systematic in any OT prophetic book. Carroll approaches it through **interpretive anthropology** (drawing on Clifford Geertz's cultural theory): the cult was not simply religious but the "sacred canopy" — the cultural institution that gave divine sanction to the entire social order. To condemn the cult was to attack the ideological foundation of Israelite society.
+Positions **as positions** (Carroll’s map + his own):
 
-Key texts:
-- **2:6-7**: "They sell the righteous for silver, and the needy for a pair of sandals; they trample the head of the poor into the dust of the earth"
-- **4:1**: "Hear this word, you cows of Bashan... who oppress the poor, who crush the needy, who say to your husbands, 'Bring wine that we may drink!'"
-- **5:10-12**: "They hate him who reproves in the gate... they trample on the poor and exact taxes of grain from him... they take a bribe and turn aside the needy in the gate"
-- **6:4-6**: The *marzēaḥ* feast — the wealthy lying on beds of ivory, eating the finest lambs, singing impromptu songs, drinking wine by the bowlful, anointing themselves with the finest oils — "but they are not grieved over the ruin of Joseph"
-- **8:4-6**: Merchants who can't wait for Sabbath to be over so they can cheat the poor with dishonest weights
+| Issue | Carroll’s lean | Major alternatives he records |
+|---|---|---|
+| Date of ministry | 765–750 / ~760 | Morgenstern ultra-precise New Year; Hayes festival 750; Coote under TP III |
+| Authorship of the book | Largely Amos as authorial voice; minimal early additions | Centuries of redaction (Wolff, Jeremias, Schart); Persian literati origin |
+| OAN authenticity (Tyre, Edom, Judah) | Defendable via concatenous literary pattern (Paul) | Secondary insertions |
+| Day of YHWH origin | Prefers **theophany** umbrella | Mowinckel New Year; von Rad holy war |
+| ʾănāk (7:7–8) | **Tin** (soft fortresses) | Traditional “plumb line” |
+| Amaziah narrative | Benefit of the doubt historically; crafted for present location | Prophetic legend; displaced unit |
+| 9:11–15 | **Eighth-century authentic** | Late “roses and lavender” appendix (Wellhausen tradition) |
+| Booth of David | Davidic kingdom/dynasty (frail) | Temple, Jerusalem, Christological only, Succoth town |
 
-**Yahweh of Hosts** (*yhwh ṣĕbāʾôt*, 8 times) — the Creator who is sovereign over nature, history, and nations. The three "doxologies" (4:13; 5:8-9; 9:5-6) each climax with "Yahweh is his name" — his identity is bound up with his creative power and universal sovereignty. Because he created the moral order of the cosmos, violations of that order are violations of the Creator himself.
+## Key interpretive cruxes
 
-**Justice (*mišpāṭ*) and righteousness (*ṣĕdāqâ*)**: These are not abstract ideals but the relational-covenantal realities through which life with YHWH is sustained. Their absence makes the whole social-religious fabric illegitimate. "Let justice roll on like a river..." (5:24).
+1. **Election as ground of judgment (3:2)** — *ydʿ* / “only you” = covenantal intimacy; grace + election require full accountability (Mays’s “righteousness history,” cited).
+2. **Rhetoric of entrapment vs moral embroilment** — Carroll rejects pure entrapment for the completed book after 1:1–2.
+3. **5:24 human justice jussive** — center of 5:18–27 chiasm; redefines relationship with YHWH vs ritual reduction.
+4. **Doom vs “seek and live” / “perhaps” (5:4–6, 14–15)** — speech-act theory: unconditional judgment can *function* as warning; remnant hope after judgment launches 9:11–15.
+5. **ʾănāk = tin** — fortresses as soft metal, not a wall-testing plumb line.
+6. **9:7 Cushites** — distance at the edge of the known world; Carroll condemns racist “despised black slave-people” readings (Wellhausen, Harper, etc.).
+7. **Sieve (9:9)** — corporate house of Israel in exile; 9:10 targets boastful sinners by sword; comprehensive ≠ blind.
+8. **Acts 15 // Amos 9:11–12** — James midrashic use of LXX-leaning text for Gentile inclusion under exalted Davidic Messiah (Carroll: not classic dispensational “after this” rebuild as primary sense).
 
-## The Five Visions (Chs. 7-9)
+## Links
 
-Five visions bracket the book's second half:
-1. **Locusts** (7:1-3): Yahweh shows Amos a swarm of locusts; Amos intercedes; Yahweh relents
-2. **Fire** (7:4-6): Yahweh shows Amos cosmic fire; Amos intercedes; Yahweh relents
-3. **Plumb line** (7:7-9): Yahweh holds a plumb line against Israel; Amos does not intercede; Israel is measured and found wanting
-4. **Summer fruit** (8:1-3): A basket of *qayiṣ* (summer fruit) → *qēṣ* (the end); the pun announces Israel's end
-5. **The Lord at the altar** (9:1-4): Yahweh standing at the altar commanding destruction — no escape
+**Commentators:** [[m-daniel-carroll|M. Daniel Carroll R.]] · Source: [[carroll-amos-nicot]]
 
-The turn from intercession (visions 1-2) to non-intercession (visions 3-5) marks the definitive announcement of judgment. Between the third and fourth visions, the confrontation with Amaziah (7:10-17) — the high priest interpreting Amos's words as political conspiracy — illustrates how thoroughly the religious establishment was implicated in the social order Amos condemned.
+**Related texts:** [[hosea|Hosea]] · [[joel|Joel]] · [[obadiah|Obadiah]] · [[isaiah|Isaiah]] · [[book-of-the-twelve|Book of the Twelve]]
 
-## The Restoration Promise (9:11-15)
+**Concepts:** [[day-of-the-lord|Day of the LORD]] · [[remnant|Remnant]] · [[covenant|Covenant]]
 
-After the relentless announcement of doom, the book closes with a vision of restoration:
-> "In that day I will raise up the booth of David that is fallen... I will restore the fortunes of my people Israel, and they shall rebuild the ruined cities and inhabit them; they shall plant vineyards and drink their wine, and they shall make gardens and eat their fruit."
-
-Many scholars have questioned whether this represents Amos's own words or a later editorial addition. Carroll: the announcement of doom is not the final word; hope remains open for those who respond. The "perhaps" of 5:15 ("perhaps Yahweh will be gracious to the remnant of Joseph") keeps open the possibility even as the overall national fate is sealed.
-
-## NT Connections
-
-- **Acts 7:42-43**: Stephen quotes Amos 5:25-27 in his rehearsal of Israel's history of rebellion before the Sanhedrin
-- **Acts 15:16-17**: James quotes Amos 9:11-12 ("I will rebuild the fallen booth of David") at the Jerusalem Council — the Gentile mission as the messianic restoration of the Davidic reign in its universal form
-- **"Let justice roll on like a river"** (5:24) — arguably the most quoted OT verse in modern social activism, made iconic by Martin Luther King Jr.
-
-## Connections to the Wiki
-
-- **[[hosea|Hosea]]**: Contemporary 8th-century prophet; both address the Northern Kingdom; Carroll documents how each prophet's traditions influenced the other
-- **[[isaiah|Isaiah]]**: Another 8th-century prophet; the shared context of Assyrian threat
-- **[[book-of-the-twelve|Book of the Twelve]]**: Amos follows Joel and precedes Obadiah in the canonical collection; Joel 3:16 and 3:18 quote Amos 1:2 and 9:13 respectively, connecting the two books
-- **[[theodicy|Theodicy]]**: Amos's challenge about YHWH's justice (why does Israel suffer if they have worshipped YHWH?) extends the theodicy question
-
-
-## Concepts
-
-Concept pages developed from this text:
-
-[[book-of-the-twelve]] · [[jubilee]]
+**Locations / groups:** [[bethel|Bethel]] · [[philistines|Philistines]] · [[arameans|Arameans]] · [[edomites|Edomites]] · [[ammonites|Ammonites]] · [[moabites|Moabites]] · [[assyrians|Assyrians]]
 
 ## Sources Ingested
 
-1. [[m-daniel-carroll|Carroll R., M. Daniel]]. *The Book of Amos*. NICOT. Grand Rapids: Eerdmans, 2020.
+1. [[carroll-amos-nicot|Carroll R., M. Daniel. *The Book of Amos*. NICOT]]. Grand Rapids: Eerdmans, 2020. — Fidelity re-ingest 2026-07-18 (full volume: Author’s Preface, Introduction I–VI, Text & Commentary 1:1–9:15).

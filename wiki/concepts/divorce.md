@@ -2,7 +2,7 @@
 title: Divorce
 domain: law
 traditions_using: [christianity, judaism]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-18
 tags: [concept, judaism, christianity, law, ethics]
 ---
@@ -36,6 +36,34 @@ though at 19:7 Jesus' questioners take Moses to have *commanded* both. See [[old
 Divorce was a male prerogative requiring no legal hearing, merely the husband's decision;
 France reports (citing Josephus, *Ant.* 15.259) that "Jewish law made no provision for a woman
 to initiate divorce," and that a whole Mishnah tractate, *Giṭṭin*, covers the valid certificate.
+
+### Malachi 2:16 — "I hate divorce" (Verhoef, NICOT)
+
+*Added 2026-07-18 from [[pieter-verhoef|Verhoef]], [[verhoef-haggai-malachi|*The Books of
+Haggai and Malachi* (NICOT)]], on [[malachi|Mal.]] 2:10–16 — the OT's most explicit
+condemnation of divorce.*
+
+Verhoef calls 2:10–16 "the most difficult pericope in the book," with v. 15a
+"grammatically and syntactically incomplete." His key readings:
+
+- **Marriage as a covenant witnessed by God** (2:14). God "acted as witness between you
+  and the wife of your youth"; the marriage is a "covenant of God," with God as witness,
+  guarantor, and — for the faithless — prosecutor.
+- **2:16 — God as subject.** Against the MT's third-person pointing ("he hated") and
+  against the LXX/Targum conditional reading ("if one divorces out of hate," which for
+  Verhoef "undermines all that the prophet is seeking to convey"), Verhoef (with Rudolph)
+  repoints to a **participle with suppressed pronoun: "I hate, I am hating"** — God the
+  continual, habitual hater of divorce (*šallaḥ*, "sending away").
+- **The elevated view of marriage.** "Nowhere else in the OT is there such an elevated
+  view of marriage as in Mal. 2:10–16; nowhere else is divorce condemned in such explicit
+  terms." The OT elsewhere *permitted* divorce (Deut. 24:1–4); Malachi provides "the
+  ultimate in the OT revelation." Verhoef (citing Koole) notes that in [[matthew|Matt.]]
+  19 Christ appealed to Gen. 2:24, but "Christ's answer is already stated in Mal. 2:14–16:
+  I hate divorce" — anticipating the NT position (with the exceptions of 1 Cor. 7:15 and
+  Matt. 19:9).
+- **The v. 15 crux.** Verhoef reads "residue of spirit" as intelligence/sound judgment:
+  the person seeking "godly offspring" for the kingdom of God has spiritual insight and
+  will not violate marriage as a divine institution.
 
 ## The Rabbinic Dispute: Grounds, Not Legitimacy
 
@@ -139,7 +167,8 @@ nothing in Jesus' words in Matthew, Mark, or Luke suggesting he meant to create 
 
 ## Coverage and Gaps
 
-Coverage rests on a single Christian commentary. Patristic, canon-law, Reformation, and modern
+Coverage rests on two Christian commentaries (France on Matthew; Verhoef on Malachi's OT
+condemnation of divorce). Patristic, canon-law, Reformation, and modern
 denominational treatments of divorce and remarriage are unrepresented, as is Jewish *gittin*
 law in its own voice and Islamic *ṭalāq*.
 
@@ -148,3 +177,6 @@ law in its own voice and Islamic *ṭalāq*.
 1. [[rt-france|France, R. T.]] *The Gospel of Matthew*. NICNT. Grand Rapids: Eerdmans, 2007 —
    on Matt 5:31-32 (France's main divorce discussion; cf. 19:3-12). Digest C, claims 189,
    192-193, 218-239.
+2. [[pieter-verhoef|Verhoef, Pieter A.]] *The Books of Haggai and Malachi*. NICOT. Grand
+   Rapids: Eerdmans, 1987 — on Mal 2:10–16 ("I hate divorce"). Source page:
+   [[verhoef-haggai-malachi]].

@@ -4,7 +4,7 @@ text_locus: James 5:14–16 ("Is anyone among you sick? Let him call the elders.
 positions: [consecration-symbol (Moo), medicinal, pastoral-encouragement, sacramental/extreme-unction, exorcistic]
 traditions_involved: [Roman Catholic, Eastern Orthodox, Protestant, Pentecostal/charismatic, Anabaptist]
 resolution_status: tradition-specific
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, healing, sacrament, prayer]
 ---
 
@@ -14,8 +14,9 @@ James 5:14–16 is the NT's principal text on the church's ministry to the sick,
 for the Roman Catholic sacrament now called the Anointing of the Sick (historically *extreme
 unction*). Its details generate several interpretive disputes: (1) Is the "sickness" physical or
 spiritual? (2) What does the anointing with oil *signify*? (3) Is the promise of healing
-unconditional, and what is "the prayer offered in faith"? [[douglas-moo|Moo]] (PNTC James, 2000)
-takes positions on each.
+unconditional, and what is "the prayer offered in faith"? [[douglas-moo|Moo]] (PNTC James, 2000; [[moo-james-pntc|source page]], fidelity re-ingest 2026-07-18,
+dense claims on oil options, *astheneō*, prayer of faith, "enough faith" critique) takes positions
+on each.
 
 ## Is the Sickness Physical or Spiritual?
 
@@ -96,6 +97,7 @@ into the text.
 ## Key Links
 
 - [[james|The Letter of James]] — the text page (5:13–18)
+- [[moo-james-pntc|Moo James PNTC source page]] — coverage ledger; R6 densification of 5:12–20
 - [[douglas-moo|Douglas J. Moo]] — the source commentator
 - [[james-the-just|James the Just]] — the author
 - [[james-paul-justification|James and Paul on Justification]] — the other major James crux

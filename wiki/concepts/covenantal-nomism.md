@@ -3,7 +3,7 @@ title: Covenantal Nomism
 domain: theology / soteriology / Second Temple Judaism
 traditions_using: [modern NT scholarship, Judaism (as object of description)]
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [concept, christianity, judaism, soteriology, second-temple, new-perspective]
 ---
 
@@ -64,11 +64,18 @@ Paul's critique runs deeper than ethnocentrism — to the law's inability to del
 and to human inability (the *anthropological* argument). See
 [[new-perspective-on-paul|New Perspective on Paul]] and [[justification|Justification]].
 
+## Sources Ingested
+
+- [[moo-james-pntc|Moo, *The Letter of James* (PNTC, 2000)]] — fidelity re-ingest 2026-07-18; Intro §
+  Faith, Works, and Justification supplies Moo's two qualifications of Sanders and the James 2
+  intersection (get-in by new birth/faith; final vindication with works as Spirit-produced fruit).
+
 ## Key Links
 
 - [[new-perspective-on-paul|New Perspective on Paul]] — the movement built on this category
 - [[james-paul-justification|James and Paul on Justification]] — covenantal nomism as Moo's framework
 - [[james|The Letter of James]] — James 2 as new-covenant covenantal nomism
+- [[moo-james-pntc|Moo James PNTC source page]] — coverage ledger
 - [[justification|Justification]] — the soteriological stakes
 - [[covenant|Covenant]] — the grounding biblical-theological category
 - [[douglas-moo|Douglas J. Moo]] — source; qualifies Sanders on diversity and final judgment

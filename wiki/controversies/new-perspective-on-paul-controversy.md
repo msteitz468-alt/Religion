@@ -7,7 +7,7 @@ positions:
   - Beyond the New Perspective — grace as "unconditioned gift" that rules out all conditional worth-systems, not just Torah (Barclay, Watson)
 traditions_involved: [Christianity]
 resolution_status: open
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, pauline, justification, historical]
 ---
 
@@ -65,10 +65,11 @@ More recently, John Barclay (*Paul and the Gift*, 2015) and Francis Watson (*Pau
 ## Implications for the Wiki
 
 The NPP debate has touched multiple texts already ingested:
-- **Galatians** (Moo, BECNT): The primary battleground. Moo's three-level argument (salvation-historical + ethnic + anthropological) is the wiki's most thorough evangelical anti-NPP statement.
+- **Galatians** ([[moo-galatians-becnt|Moo, BECNT]], fidelity re-ingest 2026-07-18): The primary battleground. Moo's three-level argument (salvation-historical + ethnic + anthropological) is the wiki's most thorough evangelical anti-NPP statement. Locus anchors: *erga nomou* = "doing what the law requires" (L2577); NPP boundary-marker denotation inadequate; Reformers "entirely justified" in viewing the phrase as synecdoche for "works" generally (L2593); 4QMMT parallel "unclear" as boundary-marker evidence (L2599); contrast is finally "two means of accessing God's grace… 'doing the law'… and believing (in Christ)" (L2688–L2692); agitators as "nomists" (faith + law for ultimate salvation), not pure legalists (R2).
 - **Romans** ([[thomas-schreiner|Schreiner]], BECNT): Schreiner's commentary defends the traditional reading throughout chapters 3–4.
 - **2 Corinthians** ([[mark-seifrid|Seifrid]], PNTC): Seifrid is a leading Pauline justification specialist and anti-NPP from the Lutheran angle.
 - **1 Corinthians** ([[roy-ciampa-brian-rosner|Ciampa-Rosner]], PNTC): Less directly engaged with the NPP, but their "glory of God" and "OT-primary" method operates independently of the NPP framework.
+- **Philippians** ([[g-walter-hansen|Hansen]], PNTC; [[hansen-philippians-pntc]], fidelity re-ingest 2026-07-18): Carson flags ch. 3 as NPP battleground. Hansen engages Sanders/Dunn/Wright on 3:2–11: he can grant that opponents promote circumcision/identity markers (“dogs… mutilators”) and that “blameless” under law (3:6) is not “sinless,” but he **refuses** reducing “my own righteousness from the law” (3:9) to ethnic boundary alone; *pisteōs Christou* read as **objective** genitive (faith in Christ). Distinct from 3:18–19 enemies of the cross (ethical libertines).
 
 The NPP debate is the most significant single ongoing controversy that spans multiple ingested sources.
 
@@ -82,5 +83,6 @@ The NPP debate is the most significant single ongoing controversy that spans mul
 - [[douglas-moo|Douglas J. Moo]] — primary wiki source for the evangelical anti-NPP case
 - [[thomas-schreiner|Thomas R. Schreiner]] — anti-NPP on Romans
 - [[mark-seifrid|Mark A. Seifrid]] — anti-NPP; justification specialist
+- [[g-walter-hansen|G. Walter Hansen]] · [[philippians]] · [[hansen-philippians-pntc]] — Phil 3:2–11 densification
 - [[covenant|Covenant]] — the concept that Wright makes central to justification; in dispute
 - [[abraham|Abraham]] — the key figure in Gal. 3 and Rom. 4; his faith is the model for justification

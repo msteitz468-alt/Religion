@@ -2,8 +2,8 @@
 title: Woman Wisdom (Personified Wisdom)
 domain: theology / Christology / hermeneutics
 traditions_using: [Judaism, Christianity]
-sources_ingested: 1
-last_updated: 2026-06-05
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, wisdom-literature, proverbs, christology, personification, woman-wisdom]
 ---
 
@@ -18,6 +18,8 @@ Her rival and literary counterpart, **Woman Folly** (also called "the unchaste w
 
 The interpretation of Woman Wisdom is one of the most contested questions in OT theology and has had decisive consequences for both the Arian controversy (4th century CE) and for contemporary feminist theology.
 
+**The ch. 7 / ch. 8 diptych (Waltke).** Waltke reads Proverbs 7 (the seductive strange woman) and Proverbs 8 (Woman Wisdom's self-praise) as a deliberately "hinged" pair operating in contrasting registers (citing Newsom): "The unchaste wife moves covertly at dusk and speaks falsely; Wisdom moves publicly and speaks direct and authoritative truth... The foreign wife inhabits the earthly and mundane; Wisdom soars in heaven above space and time." This diptych is completed in the epilogue (ch. 9), where the two rival banquets — Wisdom's built house of seven pillars (9:1–6) versus Woman Folly's slovenly, foodless imposture (9:13–18) — bring the prologue's antithesis to its apex, and where Wisdom's "built house / prepared banquet" doubles as a janus to Collection II (the finished house = the prologue; the banquet about to begin = the proverbs of Solomon).
+
 ## The Key Text: Proverbs 8:22-31
 
 The most theologically significant passage in Proverbs:
@@ -27,10 +29,14 @@ The most theologically significant passage in Proverbs:
 The four major interpretive cruxes:
 
 **1. *qānânî* (8:22) — "created" or "possessed"?**  
-The Arians read *qānānî* as "created" — God created Wisdom as the first of his creatures; the Son (identified with Wisdom) is therefore a creature, not co-eternal with God. Athanasius responded with two strategies: the "creation" refers to the incarnation; or the "creation" refers to Wisdom's image being imprinted on creatures. Waltke: both the Arian use and Athanasius's responses are exegetically driven by theological agendas, not by the text itself.
+The Arians read *qānânî* as "created" — God created Wisdom as the first of his creatures; the Son (identified with Wisdom) is therefore a creature, not co-eternal with God. Athanasius responded with two strategies: the "creation" refers to the incarnation; or the "creation" refers to Wisdom's image being imprinted on creatures. Waltke: both the Arian use and Athanasius's responses are exegetically driven by theological agendas, not by the text itself.
+
+Waltke's own philological preference (following Irwin) is a **third** option, "**to beget / bring forth**," over both "acquire/possess" (Aquila, Symmachus, Vulgate; the normal Proverbs sense) and "create" (LXX, Targum, Syriac). His grounds: the parallel verbs "I was formed" (8:23) and "I was brought forth" (8:24–25, *ḥôlaltî*, from *ḥîl* "to writhe in childbirth") unambiguously carry a birth metaphor; and Ugaritic *qnyt 'lm* ("procreatress of the gods") and Deut 32:6 (the begetting Father) support it. Crucially, Waltke insists the metaphor is guarded against polytheism ("a literal, polytheistic interpretation involving the LORD with a sexual partner... is unthinkable in this book"): "brought me forth" signifies that "Solomon's inspired wisdom comes from God's essential being... a revelation that has an organic connection with God's very nature and being, unlike the rest of creation that came into existence outside of him."
 
 **2. *'āmôn* (8:30) — "master workman" or "little child"?**  
 If "master workman" (craftsworker/artisan): Wisdom actively participated in creation. If "little child" (nursling, darling): Wisdom was present with God as a companion-observer, not an agent. The two readings yield different degrees of Wisdom's role.
+
+Waltke rejects *both* the majority "artisan/craftsman" reading (no lexical support without circular argument; a poor parallel to "delighting/playing"; and it would be "unique... for Woman Wisdom to describe herself by a male image") and the "nursling/ward" reading (which would require a feminine form and would make Wisdom's claim to grave authority "not very credible" if she were merely a rejoicing little child). His own choice is a fourth option: a Qal infinitive absolute of the root I *'mn* ("to be firm, faithful") → "**constantly / faithfully**" (with Symmachus, Theodotion, Targum), which best matches the adverbs "daily" (*yôm yôm*) and "always" in the immediate context. Waltke further argues (against Fox and the LXX, who make God the one delighting) that in 8:30b–31 **Wisdom herself is the actor** — the one "delighting" and "celebrating/playing" before the LORD and rejoicing in his inhabited world, a cultic act of joyful vitality (cf. 2 Sam 6; Job 38:7).
 
 **3. The identity question: Is she a hypostasis?**  
 A hypostasis is a concrete heavenly being who represents or stands for God, semi-independent from him. Classical Christian reading: yes. Waltke's reading: no — she is a literary personification of Solomon's revealed wisdom.
@@ -143,13 +149,28 @@ None of these provide a direct trajectory to NT Christology; each modifies Prov 
 - **Heb 1:3**: "The radiance of God's glory and the exact imprint of his nature" — alludes to Wis 7:26 but in a way that makes Christ superior to Wisdom, not equivalent to her
 - **Matt 11:19; 12:42**: Jesus identifies himself with Wisdom and asserts his superiority to Solomon
 
+## The Book's Feminine Frame: Woman Wisdom and the Valiant Wife
+
+Waltke's second volume reads Woman Wisdom (Prologue) and the [[valiant-woman|valiant wife]]
+(epilogue, 31:10–31) as the intentional **frame** of Proverbs — "no coincidence but … the book's
+frame." The load-bearing distinction is that they are *different kinds* of figure: Woman Wisdom is
+"purely symbolic," a personification of Solomon's revealed wisdom, whereas Waltke reads the valiant
+wife as a **historical** exemplar who *incarnates* wisdom's ideals "without removing her from the
+historical realm." McCreesh and (with leanings) Whybray read the valiant wife too as an allegory of
+Wisdom; Waltke resists this, noting *ʾēšet ḥayil* "denotes a real woman in its other occurrence
+(12:4)" and in Ruth 3:11, and that Woman Wisdom (unlike the wife) "is never clearly pictured as a
+wife or a mother." The two pages are reciprocal: see [[valiant-woman|the Valiant Woman]] for the
+full allegory-vs-real controversy.
+
 ## Related Entries
 
 - [[proverbs|Proverbs]] — primary text
+- [[valiant-woman|The Valiant Woman]] — the book's other feminine frame-figure (bilateral)
 - [[bruce-waltke|Bruce K. Waltke]] — commentary source
 - [[wisdom-literature|Wisdom Literature]] — genre context
 - [[theodicy|Theodicy]] — Job 28 parallels Woman Wisdom in Proverbs as wisdom's hiddenness
 
 ## Sources Ingested
 
-1. [[bruce-waltke|Waltke, Bruce K.]]. *The Book of Proverbs: Chapters 1–15*. NICOT. Grand Rapids: Eerdmans, 2004.
+1. [[waltke-proverbs-nicot|Waltke, Bruce K. *The Book of Proverbs: Chapters 1–15*. NICOT]]. Grand Rapids: Eerdmans, 2004.
+2. [[waltke-proverbs-15-31-nicot|Waltke, Bruce K. *The Book of Proverbs: Chapters 15:30–31:31*. NICOT]]. Grand Rapids: Eerdmans, 2005. (Fidelity re-ingest 2026-07-18; the valiant-wife frame.)

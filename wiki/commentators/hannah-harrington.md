@@ -2,86 +2,81 @@
 title: Hannah K. Harrington
 full_name: Hannah K. Harrington
 dates: fl. late 20th–early 21st century
-tradition: Evangelical Protestant (broadly ecumenical in methodology)
-affiliation: Patten University, Oakland, California
-primary_texts_commented: [Ezra-Nehemiah, Psalms (secondary)]
+tradition: [Evangelical Protestant (broadly ecumenical in methodology)]
+affiliation: [Patten University, Oakland, California]
+primary_texts_commented: [Ezra-Nehemiah]
+hermeneutical_method: [social-scientific (surveyed), second-temple-comparative, literary-critical, historical-critical, priestly-cultic lexicon]
 sources_ingested: 1
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [commentator, evangelical, old-testament, second-temple, ritual-purity, social-science]
 ---
 
-Hannah K. Harrington is an OT scholar specializing in **ritual purity in Second Temple Judaism**, with particular expertise in the Dead Sea Scrolls, Qumran halakha, and postexilic biblical texts. She has published *The Purity Texts* (Companion to the Qumran Scrolls 5, T&T Clark, 2004) and *The Purity and Sanctuary of the Body in Second Temple Judaism* (JAJSup, 2019), as well as numerous articles on intermarriage in Qumran literature and the legacy of Ezra-Nehemiah in Second Temple texts. Her NICOT commentary on Ezra-Nehemiah (2022) is the most recent full volume in the series and brings this secondary-literature expertise directly to bear on the primary text.
+Hannah K. Harrington is an OT scholar specializing in **ritual purity in Second Temple Judaism**, with particular expertise in the Dead Sea Scrolls, Qumran *halakha*, and postexilic biblical texts. She has published *The Purity Texts* (Companion to the Qumran Scrolls 5, T&T Clark, 2004) and *The Purity and Sanctuary of the Body in Second Temple Judaism* (JAJSup, 2019), as well as articles on intermarriage in Qumran literature and the legacy of Ezra–Nehemiah in Second Temple texts. Her NICOT commentary on Ezra–Nehemiah (2022) is the volume ingested here; it brings that secondary-literature expertise directly to bear on the primary text.
 
 ## Background and Tradition
 
-Harrington works within the NICOT's broadly evangelical framework but exhibits a substantially more ecumenical and academically pluralistic methodology than earlier NICOT volumes. Her preface explicitly acknowledges that the text contains "discrepancies" reflecting "human transmission" of sacred tradition ("faithful readers of Ezra-Nehemiah do not need to despair over discrepancies... This work was considered sacred by the Jews not because it was perfect... but because it was believed to carry divinely inspired traditions that could sustain the faith and life of their community"). This is a more open posture than Woudstra, Tsumura, or Craigie, though still within confessional bounds.
+Harrington works within the NICOT’s broadly evangelical framework but exhibits a more ecumenical and academically pluralistic methodology than earlier NICOT volumes (Woudstra, Tsumura, Craigie). In the preface she acknowledges that the text contains “discrepancies” reflecting “human transmission” of sacred tradition: “faithful readers of Ezra-Nehemiah do not need to despair over discrepancies… This work was considered sacred by the Jews not because it was perfect… but because it was believed to carry divinely inspired traditions that could sustain the faith and life of their community.” Confessional bounds remain; critical tools are welcomed.
 
 ## Hermeneutical Method
 
-Harrington employs a **multi-method synthesis** that distinguishes her from all other ingested NICOT commentators:
+Harrington employs a **multi-method synthesis** documented across the Introduction and commentary:
 
-### 1. Social-Scientific Analysis
+### 1. Social-scientific analysis (surveyed, not sole lens)
 
-Her primary analytical lens for the sociology of Ezra-Nehemiah draws on two social anthropologists:
+In Intro §IV.D she reviews social-anthropological tools as bridging “the gap between the modern interpreter and the text”:
 
-**Mary Douglas** (group/grid model): Douglas's fieldwork on tribal communities identified two axes — "group" (the strength of external boundaries a community erects against outsiders) and "grid" (the level of internal regulation). Harrington characterizes the returnee community of Ezra-Nehemiah as **"high group"** (strong external boundary — hence the stringent intermarriage prohibitions, wall-building, exclusion of "the peoples of the land") with shifting internal grid. The purity rhetoric of the book functions as **boundary maintenance**: impurity labels are accusatory tools that mark outsiders, not primarily moral categories.
+- **Mary Douglas (group/grid)** via **D. Janzen**: “group” = external barriers; “grid” = internal regulation. Janzen characterizes Ezra–Nehemiah edicts as **high group / weak grid** and the expulsion of foreign women as a community “witchhunt.” **D. Moffat** also uses Douglas but labels the community **mid group / strong grid**, and regards the women as **truly outsiders** “resistant to Yahwism and affiliated outside the community,” not insiders retroactively labeled.
+- **Victor Turner (social drama)** via Moffat: breach → mounting crisis → redressive action → reintegration, applied to Ezra 9–10 (intermarriage → Ezra’s public mourning/prayer → assembly evaluation + guilt offering → recommitment).
 
-**Victor Turner** (social drama model): Turner's four-phase model (breach → mounting crisis → redressive action → reintegration) is applied to the intermarriage crisis of Ezra 9-10. The breach (intermarriage with outsiders) → crisis (Ezra's mourning, public prayer, liminal state) → redress (assembly evaluates each case; guilt offering) → reintegration (recommitment ceremony). [[hannah-harrington|Harrington]] endorses this framework cautiously: social science paradigms are "hypothetical models rather than a substitute for textual data."
+In the **intermarriage Excursus itself** (Exc. 9), Harrington’s own preferred analysis is **priestly terminology** internal to the text — *zeraʿ qōdeš* (“holy seed”) and *maʿal* (“sacrilege”) — not Douglas/Turner as primary theory. She grants socioeconomic models (land, Athenian citizenship parallels, imperial stability) “supply value” but centers cultic purity rhetoric.
 
-### 2. Second Temple Comparative Method
+### 2. Second Temple comparative method
 
-Harrington's strongest secondary contribution is situating Ezra-Nehemiah within its reception history in Second Temple Judaism. For nearly every significant text in Ezra-Nehemiah, she identifies parallels in:
-- Dead Sea Scrolls (4QMMT, Damascus Document, Community Rule, 4QFlorilegium, Aramaic Levi Document)
-- Pseudepigrapha (Jubilees, Aramaic Levi)
-- Josephus (Antiquities, Against Apion)
-- Early rabbinic literature (Mishnah, Tosefta, Talmud)
-- Elephantine papyri and Wadi Daliyeh papyri
+Nearly every significant locus is paired with DSS (4QMMT, Damascus Document, Community Rule, Temple Scroll, 4QFlorilegium), pseudepigrapha (Jubilees, Aramaic Levi), Josephus, early rabbinic literature, Elephantine and Wadi Daliyeh papyri. Ezra–Nehemiah is treated as **starting point** of trajectories — sometimes more stringent, sometimes more lenient — running into intertestamental literature and rabbinic Judaism, not as the terminus of OT legal development.
 
-This allows her to show that Ezra-Nehemiah is not the terminus of OT legal development but the **starting point** of a trajectory — sometimes more stringent, sometimes more lenient — that runs through intertestamental literature into rabbinic Judaism.
+### 3. Literary criticism
 
-### 3. Literary Criticism
+Follows Eskenazi (*In an Age of Prose*) and Throntveit: concentricity/chiasm at every level; **resumptive repetition** (Talmon) explaining Ezra 4’s Artaxerxes material as thematic framing, not chronological error; prayers as structural markers (esp. Nehemiah’s “Remember” prayers); lists as integral structure. Three parallel returns (Zerubbabel / Ezra / Nehemiah). Full-text focus: **Torah and community**, not wall alone.
 
-Harrington follows Eskenazi (*In an Age of Prose*, 1988) and Throntveit on the literary architecture of Ezra-Nehemiah:
-- **Concentricity** (chiastic structure at every level — verse, chapter, block)
-- **Resumptive repetition** (Talmon's term: a phrase repeated at the beginning and end of a section, framing inserted material — e.g., Ezra 4:5b // 4:24b)
-- **Prayers as structural markers** (Neh 5; 6; 13:14, 22, 29, 31)
-- **Lists** (genealogies, returnee rosters, builders) as integral to structure, not secondary insertions
+### 4. Historical-critical engagement
 
-### 4. Historical-Critical Engagement
+Uses Persepolis Fortification Tablets, Cyrus Cylinder, Nabonidus Chronicle, Behistun, Elephantine, and Persian-period Yehud archaeology — with caution about “proving” the text from meager material culture. Persian policy of supporting local cults is imperial tool, not special Jewish favor.
 
-Harrington uses the Persepolis Fortification Tablets (PFT), Cyrus Cylinder, Nabonidus Chronicle, Behistun Inscription, and archaeological data from Persian-period Yehud to illuminate the historical setting — but is appropriately cautious about using archaeology to "prove" the text. She notes that the Persian-period material record is meager; much depends on interpretation of seals, bullae, and coin impressions.
+### 5. Canonical authorship positions (as she adopts them)
 
-### 5. Canonical Authorship Position
-
-Harrington treats Ezra and Nehemiah as **one compiled work**, separate from Chronicles (following Japhet and Williamson). She takes **Ezra and Nehemiah as contemporaries** under Artaxerxes I — the simplest reading of the text. Final compilation: no earlier than 430 BCE, no later than death of Artaxerxes (424 BCE) for the core; with later editing that could push the final form into the early Hellenistic period (possible reference to Darius III or Alexander the Great in Neh 12).
+- **One compiled work**, separate from Chronicles (Japhet/Williamson).
+- **Ezra and Nehemiah contemporaries** under Artaxerxes I (458 / 445).
+- **Leaves Neh 8 in place** (against relocating it into the Ezra Memoir).
+- Early combination ~430–424 BCE; final form not before Darius III (Neh 12 lists).
 
 ## Characteristic Positions
 
-**On intermarriage (Ezra 9–10)**: Harrington explains Ezra's expulsion of foreign wives and children through the social-scientific lens (high-group boundary maintenance) and describes it as "drastic but understandable" given the community's threatened minority status. She explicitly notes that Ezra-Nehemiah provides the **earliest source for matrilineal descent** in Jewish law ("the ethnicity of a child is based on the race of its mother"). She does not adjudicate whether Ezra was right; she engages Janzen (witch-hunt reading), Moffat (women as genuine outsiders), and Douglas sympathetically but critically. See [[intermarriage-ezra-nehemiah|The Intermarriage Controversy]].
+**On intermarriage (Ezra 9–10; Neh 13):** Analyzed as *maʿal* against Israel-as-sanctum (“holy seed”). Unusually strict interpretation forbidding all non-Jewish intermarriage and dissolving existing unions; **no conversion option**; children of mixed marriages treated as invalid members. Reception: Jubilees, ALD, 4QMMT intensify the trajectory. She calls the measures **understandable** as survival of ethno-religious identity for a minority without autonomy; nearest “drastic” language is “drastic action” / “extreme measure” — **not** the wiki’s earlier misquote “drastic but understandable.” Engages Janzen (witch-hunt), Moffat (true outsiders), Hayes, Olyan, Milgrom. See [[intermarriage-ezra-nehemiah]].
 
-**On "holy seed" (Ezra 9:2)**: This phrase is an **innovation over the Pentateuch** — making holiness biological rather than covenantal. The Torah's "holy people" (*ʿam qādôš*, Deut 7:6) required covenant faithfulness; Ezra-Nehemiah's "holy seed" (*zeraʿ haqqōdeš*) requires biological continuity. Harrington traces this into Jubilees and Qumran and notes that this is precisely the move Paul *reverses* in Galatians ("neither Jew nor Greek... you are all one in Christ Jesus," Gal 3:28).
+**On “holy seed” (Ezra 9:2):** Innovation over Pentateuchal “holy people” (*ʿam qādôš*): holiness as **biological transmission**, not only covenantal fidelity. Disallows conversion. Traced into Jubilees and Qumran; Paul *reverses* the ethnic form (Gal 3:28) while 2 Cor 6:14 retains a religious concern.
 
-**On gentile impurity**: The attachment of ritual impurity to *persons by ethnicity* — not just to bodily processes or sinful actions — is **an innovation without precedent in the Pentateuch**. Leviticus's purity system is about conditions and actions; Ezra-Nehemiah extends it to persons. This is the social function Harrington identifies: impurity labels are boundary markers. She traces this innovation through the Dead Sea Scrolls (4Q266; 1QS v; CD x) to Acts 10:28 (which the Cornelius vision explicitly reverses).
+**On gentile impurity:** Contagious gentile impurity **first surfaces at Neh 13:9** (Tobiah’s chamber purified); first Jewish text labeling foreigner **and property** impure. Disputes **Klawans** (no gentile impurity before 1st c. CE; does not discuss Neh 13:9) and **Hayes** (“genealogical pollution” only in E-N): Harrington agrees genealogical purity is primary at 4QMMT but insists **ritual purity is also at stake**. See [[purity]].
 
-**On Ezra as second Moses**: The second-exodus and second-Moses themes are **literary, not strictly typological** in Harrington's reading — the author structures the narrative on the Exodus archetype, not as a claim that Ezra fulfills Moses's role in the same theological sense as a Christian typologist would say.
+**On midrash (Ezra 7:10):** *dāraš* of Torah as structured study–do–teach; embryo of midrashic method (passage by passage; Fishbane “axial”). Milgrom: Ezra “spun a midrash” between Deut “holy people” and Jer 2:3. See [[midrash]].
 
-**On midrash (Ezra 7:10)**: The root *dāraš* ("to seek/study [the Torah]") appears at Ezra 7:10 in the earliest sense of Torah study as a method of inquiry. Harrington identifies this as the embryo of the **midrashic method** — interpreting one passage of Torah in light of another — that will become the dominant form of rabbinic exegesis. See [[midrash|Midrash]].
+**On synagogue practice (Neh 8):** Nine elements of later synagogue practice first clustered together: assembly; request for Torah; standing for open scroll; blessing; Amen; sermon instruction; reading; oral explanation (*məpōrāš*); fellowship meal. Williamson: elements preexisted and do not prove an institution called “synagogue”; Harrington still stresses the early extra-Temple cluster.
 
-**On synagogue practice (Neh 8)**: Nine elements of what will become synagogue worship appear together for the first time in Neh 8:4-7. Harrington is explicit: this is the earliest attestation of the assembly/Torah-reading/explanation pattern that underlies both Jewish synagogue worship and Christian ecclesial practice.
+**On expansion of holy space (Eskenazi, endorsed):** Holiness expands temple (Ezra 1–6) → holy seed/people (Ezra 7–10) → city of Jerusalem (Nehemiah). People find themselves “in the house of God” merely within city walls (Neh 12:40).
 
-**On the expansion of holy space**: She endorses Eskenazi's thesis — holiness in Ezra-Nehemiah expands progressively from the temple (Ezra 1-6) to all Israel ("holy seed," Ezra 7-10) to the city of Jerusalem (Nehemiah). This anticipates the NT ecclesiology in which the community itself becomes the temple (1 Cor 6:19; Eph 2:20-22).
+**On Samarians vs Samaritans:** **Samarians** = northern territorial population of Nehemiah’s day (often syncretistic; Sanballat’s circle); **NT Samaritans** = monotheistic Pentateuch-only sect, probably after ~110 BCE — **not the same religious persuasion**. Conflict with Nehemiah is **clearly political** as well as religious. See [[samaritans]].
+
+**On Neh 5 economic reform:** Kinship over wealth; communal ransom beyond clan; debt + land return beyond strict Sabbatical → Jubilee or Blenkinsopp’s **“emergency Jubilee.”** Ethics from fear of God beyond legal minimum.
 
 ## Comparison with Other Ingested Commentators
 
-| Feature | Harrington | Lau (Ruth) | Tsumura (Samuel) | Woudstra (Joshua) |
+| Feature | Harrington | Breneman (NAC 1993) | Lau (Ruth NICOT) | Tsumura (Samuel) |
 |---|---|---|---|---|
-| Primary method | Social science + Second Temple comparative | Honor-shame + missions theology + narrative | Semitic philology + discourse grammar | Theocentric historiography + Reformed typology |
-| Text-critical stance | Accepts discrepancies; cautiously critical | Follows NICOT standard | MT-first; strongly defends against LXX emendation | Conservative |
-| DH/source criticism | Engages; pragmatic | Not primary concern | Strongly skeptical | Rejected |
-| Extra-biblical parallels | Dead Sea Scrolls, Josephus, Jubilees, Mishnah | ANE honor-shame literature | Ugaritic, Akkadian, ANE historiography | Selective ANE parallels |
-| Political hermeneutic | Social-scientific (Douglas, Turner) | Missions theology | Historical apologetics (maximalist) | Redemptive-historical |
-| Confessional posture | Broadly evangelical; open on textual errors | Strongly evangelical | Strongly evangelical | Reformed evangelical |
+| Primary method | ST comparative + literary + cautious social science | Traditional evangelical exposition | Honor-shame + missions | Semitic philology + discourse |
+| Text-critical stance | Accepts discrepancies; cautiously critical | Conservative | NICOT standard | MT-first |
+| Extra-biblical parallels | DSS, Josephus, Jubilees, Mishnah, Elephantine | Selective | ANE honor-shame | Ugaritic, Akkadian |
+| Intermarriage | Explains via *maʿal*/holy seed; understandable survival; no conversion | Defends as justified covenant purity | N/A (Ruth as inclusion counter-text) | N/A |
+| Confessional posture | Broadly evangelical; open on textual errors | Baptist/evangelical, more apologetic | Strongly evangelical | Strongly evangelical |
 
 ## Sources Ingested
 
-1. [[hannah-harrington|Harrington, Hannah K.]]. *The Books of Ezra and Nehemiah*. NICOT. Grand Rapids: Eerdmans, 2022.
+1. [[harrington-ezra-nehemiah-nicot|Harrington, Hannah K.]]. *The Books of Ezra and Nehemiah*. NICOT. Grand Rapids: Eerdmans, 2022. (Full-body re-ingest 2026-07-18.)

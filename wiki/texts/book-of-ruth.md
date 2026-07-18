@@ -125,6 +125,64 @@ The LXX canonical placement between Judges and 1 Samuel is theologically precise
 
 **The gōʾēl typology**: Boaz's willingness to pay the full cost of redemption, including marriage to a foreign widow, anticipates the incarnation — "Jesus had to be incarnated as a human to redeem humanity" (Heb 2:10-17). As Boaz became kin to redeem, so Christ became human to redeem. Boaz's redemption is material and temporary; Christ's is spiritual and eternal. The closing marriage of Ruth and Boaz points toward the marriage of the Lamb (Rev 19-22). See [[kinsman-redeemer|The Kinsman-Redeemer (Gōʾēl)]].
 
+## Textual and Manuscript Tradition
+
+*Source for this section: [[peter-lau|Lau]] (NICOT, 2023), Introduction §"The Hebrew Text".*
+
+[[peter-lau|Lau]] translates from the **Leningrad Codex** (EBP I B 19a / MTL; AD 1008, the
+earliest complete Hebrew Bible, Ben Asher tradition) as presented in *Biblia Hebraica Quinta*.
+He judges the text "well preserved," follows the MTL *ketiv* (occasionally *qere*), and departs
+from MTL toward other versions at only two points (4:4, 4:20). **Four Qumran manuscripts**
+(2QRuth\-a, 2QRuth\-b, 4QRuth\-a, 4QRuth\-b; 1st c. BCE–1st c. CE) differ from MTL only minorly.
+Among the versions Lau characterizes: the **LXX** (ca. 2nd c. BCE) as a literal Greek rendering
+whose short pluses "give insight into early interpretation"; the **Peshitta** (Syriac, ca. 2nd
+c. CE) as faithful but roughly double the length, adding that the kinsman refuses "because of a
+lack of faith" (4:5) and smoothing propriety hints; the **Old Latin** (3rd c.); the **Vulgate**
+(Jerome, 4th c.) as a generally reliable MTL witness; and the **Ruth Targum** (12th-c. MS) as an
+Aramaic rendering with midrashic expansions.
+
+## Scholarship and Historiography
+
+*Positions below are recorded as positions (Voice and Attribution Protocol); the framing and
+adjudications are [[peter-lau|Lau]]'s, drawn from his NICOT Introduction. Lau surveys the
+debate and states his own leanings without claiming consensus.*
+
+**Genre.** Lau categorizes Ruth as a **short story** — one situation, few characters, unusually
+high proportion of direct speech ("Direct speech is found in fifty-nine of eighty-five verses"),
+and a genealogy that *concludes* rather than introduces. He reports and weighs [Hermann Gunkel]'s
+"novella"/"idyll" (implying fictionality), [Jack Sasson]'s "folkloristic" reading (which
+"minimizes the religious importance"), and [Edward Campbell]'s category of "Hebrew historical
+short story." Lau holds the book **historiographical** — "intentionally referential," attempting
+to represent the past — noting "it seems unlikely that the writer would have invented the idea
+that David descended from a Moabite."
+
+**Authorship.** The book is anonymous. Lau reports the Talmudic attribution to Samuel
+("unlikely since he was dead by the time David became king") and proposals of Nathan or a female
+author, concluding there is "not enough evidence to name an author."
+
+**Date (no consensus).** Lau lays out five argument-sets (historical-chronological,
+theological-ideological, literary-stylistic, social-scientific, linguistic-philological) and the
+full spread of positions: **postexilic** — the current majority (5th–4th c. BCE; [Robert Gordis]
+between the reforms and Alexander; [Erich Zenger] as late as the 2nd c. BCE); **monarchic** — a
+"sizable minority" ([Campbell] ~950–700; [Robert Hubbard] Solomonic; [Daniel Block] and
+[Sasson] Josianic; [Moshe Weinfeld] northern, time of Elisha). On the linguistic argument, Lau
+rejects [Frederic Bush]'s influential SBH/LBH dating as "methodologically unsound" — the
+supposedly "Late" features are attested in "Early" texts and are "highly unstable in textual
+transmission," more useful for **distinguishing characters than for determining the date**.
+Lau's own verdict: dating is impossible with certainty, but "an evaluation of the evidence
+**marginally favors a monarchic date**."
+
+**Purpose (contested).** Lau reviews four proposed purposes — promoting kindness (reported:
+[Rabbi Zeira], *Ruth Rabbah*; Bush); encouraging observance of levirate/redemption law (reported:
+[Donald Leggett]); justifying David's right to rule; and, "the current view of the majority,"
+a **polemic against the Ezra–Nehemiah intermarriage bans**. He gives four reasons for doubting
+the anti-Ezra/Nehemiah reading (the ban targeted non-believing foreign women, whereas Ruth
+commits to YHWH; the narrative can be read *critically* of intermarriage; Naomi not Ruth drives
+the plot; the "gentle tone… lacks a disputatious edge"). His own proposal: the **primary
+purpose is the providential preservation of the family that produced King David**, inseparable
+from an ethical purpose — a combined statement: *"God's unceasing providence and kindness
+encourage his people to follow a lifestyle of kindness."*
+
 ## Zoharic reception — Midrash ha-Ne’lam on Ruth (Pritzker Vol. XI)
 
 *Source: [[hecker-zohar-pritzker-vol11|Hecker Pritzker Vol XI]] (standards reingest 2026-07-18). Body of *Midrash ha-Ne’lam al Rut* — largest unit in Vol. XI. Register: Zoharic concealed midrash (mostly Aramaic; diverse rabbis; soul/afterlife densest), not Lau’s narrative-critical *ḥesed* frame.*
@@ -150,5 +208,5 @@ Do not collapse this register into Lau’s honor-shame / missional *ḥesed* rea
 
 ## Sources Ingested
 
-1. [[peter-lau|Lau, Peter H. W.]]. *Ruth*. New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 2023.
+1. [[peter-lau|Lau, Peter H. W.]]. *Ruth*. New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 2023. — see [[lau-ruth-nicot|source page]] (full re-read 2026-07-18).
 2. Hecker, Joel (trans.). *The Zohar: Pritzker Edition*, Vol. XI — *Midrash ha-Ne’lam on Ruth*. Standards reingest 2026-07-18: [[hecker-zohar-pritzker-vol11]].

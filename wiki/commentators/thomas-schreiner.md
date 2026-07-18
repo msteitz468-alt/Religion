@@ -6,7 +6,7 @@ tradition: Christianity (Evangelical Protestant — Reformed Baptist / New Calvi
 affiliation: Southern Baptist Theological Seminary (Louisville, KY); formerly Bethel Theological Seminary
 primary_texts_commented: Romans; also New Testament Theology; Paul
 sources_ingested: 1
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [commentator, christianity, evangelical, reformed, baptist, new-testament, pauline]
 ---
 
@@ -38,11 +38,21 @@ Student and colleague tradition: closely aligned with John Piper (Desiring God, 
 
 **4. Future mass conversion of ethnic Israel (Romans 11:26).** "All Israel will be saved" refers to the future large-scale salvation of ethnic Israel, probably near the second coming. The hardening of Israel is temporary; God's covenantal faithfulness to ethnic Israel requires a future fulfillment beyond the present-day remnant. This is distinct from the amillennialist "Israel = church" reading and the "elect remnant only" reading. See [[all-israel-saved|"All Israel Will Be Saved" (Rom 11:26)]].
 
-**5. Romans 7:14–25 as regenerate Christian experience.** The "wretched man" who cannot do the good he wants describes the ongoing conflict of a regenerate believer who has the Spirit but still contends with indwelling sin ("the flesh"). This is the mainstream Reformed reading (Cranfield, Murray) against the Wesleyan reading (unregenerate) and against some modern advocates of a pre-Christian "I" (older Bultmann, Kümmel). See [[romans-7-identity|Romans 7 — The Identity of the "I"]].
+**5. Romans 7:14–25 — the law's inability, not the regenerate/unregenerate question.** Contrary to a common shorthand that files Schreiner with the Reformed "regenerate believer" reading (Cranfield, Murray), his actual position (following M. Seifrid) is that "Paul does not intend to distinguish believers from unbelievers in this text." The passage is about *whether the law can transform* — it cannot. The "I" refers primarily to Paul himself, retrospectively and **paradigmatically** (recapitulating Adam and Israel). He rejects Kümmel's rhetorical-*egō* reading, the Bultmann/Käsemann "self-righteous striving" reading, and the exclusively-Adamic and exclusively-Israel referents alike. See [[romans-7-identity|Romans 7 — The Identity of the "I"]].
 
 **6. Moral law still binding on believers.** Schreiner distinguishes between ceremonial/civil law (food, Sabbath, circumcision — no longer literally binding) and moral norms of the Mosaic law (still applicable to believers, now empowered by the Spirit). Romans 13:8–10 (love as fulfillment of the law) and 8:4 (the Spirit enabling the "righteous requirement of the law") are the key texts. This is a "third use of the law" position (law as rule of life for believers, Reformed) as opposed to Lutheran "law and gospel" antithesis.
 
-**7. Glory of God as ultimate purpose.** The salvation of Jew and Gentile, justification, the mission to Spain, the reconciliation of weak and strong — all are ultimately "from him and through him and to him" (11:36). Schreiner's inductive argument is that Paul's final and deepest motive in Romans is always God's glory, not merely human benefit.
+**7. Glory of God as ultimate purpose.** The salvation of Jew and Gentile, justification, the mission to Spain, the reconciliation of weak and strong — all are ultimately "from him and through him and to him" (11:36). Schreiner's inductive argument is that Paul's final and deepest motive in Romans is always God's glory, not merely human benefit. He treats the two doxologies as an *inclusio* (1:1–7 ↔ 16:25–27, "soli deo gloria") and reads the "root sin" of both Gentiles (1:21) and Jews (2:24) as the failure to glorify God.
+
+**8. *Hilastērion* (3:25) = propitiation (with expiation), not expiation alone.** Against C. H. Dodd's expiation-only reading, Schreiner follows Morris and Hill: the *hilaskesthai* word-group "cannot be separated from God's wrath." Strikingly, "God himself took the initiative to satisfy and appease his own wrath" — God both propitiates and is propitiated. The background is the mercy seat (Lev 16), with the martyrological sense (4 Macc) not excluded; both propitiation and expiation are present. See [[atonement|Atonement]].
+
+**9. Romans 5:12 — "original death" and federal headship.** On *eph' hō*, Schreiner reads "upon the basis of which": on the basis of death entering through Adam, all *personally* sinned. Sin's universality is explained by the **imputation of Adam's sin through representative/federal headship** plus an inherited corrupt nature — he affirms original sin, but says "original death is more prominent than 'original sin' in this text." Adam is historical. See [[adam|Adam]].
+
+**10. Romans 9:5 — Christ is called "God."** After weighing the doxology-to-the-Father alternative, Schreiner concludes Paul here departs from his usual practice and ascribes deity to Christ ("who is over all, God blessed forever"), heightening the pathos of Israel's unbelief.
+
+**11. Romans 10:4 — Christ the "end" (not "goal") of the law, qualified experientially.** *Telos nomou* = "end," but "Christ is the end of *using the law to establish one's own righteousness* for everyone who believes" — an anthropological/experiential claim, not a global law-gospel abolition statement.
+
+**12. Romans 13:1–7 — submission as a general norm, not an absolute.** Civil (not angelic) authorities are God-ordained; "bear the sword" endorses capital punishment (grounded on Gen 9:6). But the command is "a general exhortation that delineates what is usually the case," qualified by Acts 5:29 — the state may become the beast of Revelation 13, and believers must obey God rather than rulers who command against his will.
 
 ## Major Works Cited
 
@@ -56,6 +66,7 @@ In rough order of engagement: Cranfield (ICC — most frequently cited; primary 
 
 ## Key Links
 
+- Source page: [[schreiner-romans-becnt|Schreiner, *Romans* (BECNT, 1998)]]
 - Text: [[romans|Letter to the Romans]]
 - [[justification|Justification]] — central doctrine
 - [[righteousness-of-god|The Righteousness of God]] — core controversy

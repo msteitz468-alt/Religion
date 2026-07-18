@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Hebrew
 date_range: Events c. 1326–1092 BCE (Webb's early-date chronology); composition debated; final form likely exilic or early post-exilic
-sources_ingested: 2
-last_updated: 2026-06-07
+sources_ingested: 1
+last_updated: 2026-07-18
 tags: [text, former-prophets, deuteronomistic-history, judaism, christianity, old-testament]
 ---
 
@@ -42,7 +42,7 @@ The standard characterization of Judges as a "sin cycle" (apostasy → oppressio
 
 This progressive deterioration is the book's central literary and theological argument: without covenant faithfulness, the covenant people dissolves into the surrounding culture.
 
-[[barry-webb|Webb]]'s approach combines narrative criticism (attention to literary craftsmanship, irony, surprise, framing, episodic style, the "downward spiral" as progressive rather than flat cycle) with canonical criticism (final form as Scripture, read in the context of the whole canon, especially as bridge from Exodus–Joshua to the monarchy in Samuel–Kings and as prophetic warning/hope). This commentary updates his 1987 thesis; he works through Judges "as both literature and Scripture." He engages Block's "Canaanization of Israel" as the central theme (Israel does not transform its environment; the environment transforms Israel) and notes the prophetic character of the book within Joshua–2 Kings: it interprets the eventual loss of the land theologically and calls every generation to covenant faithfulness (worship of God alone + justice/righteousness/peace). The epilogues (chs. 17–21) are integral — religious chaos then moral chaos — framed by the two "who will go up against the Canaanites first?" inquiries (1:1 Judah with hope; 20:18 Judah amid catastrophe). The humor and satire (Ehud, the mother of Sisera, Abimelech's millstone death) sharpen the theological edge rather than undermine it.
+[[barry-webb|Webb]] (NICOT, 2012; fidelity re-ingest 2026-07-18, [[webb-judges-nicot|source page]]) reads Judges **as both literature and Scripture**: New Literary Criticism (irony, framing, spiral design, episodic craft) + Canonical Criticism (final form; Former Prophets bridge Exodus–Joshua → Samuel–Kings). He updates his 1987 Sheffield monograph; tone is “emotionally warm rather than cool.” He engages Block’s **“Canaanization of Israel”** (Israel does not transform its environment; the environment transforms Israel) and treats the book as prophetic narrative theology within Joshua–2 Kings. Epilogues (chs. 17–21) are **integral** — religious chaos then moral chaos — framed by “Who will go up…?” (1:1 / 20:18). Humor and satire (Ehud, Sisera’s mother, millstone death) sharpen rather than undercut the theology.
 
 ## Major Themes
 
@@ -79,11 +79,11 @@ This progressive deterioration is the book's central literary and theological ar
 
 **Ehud (3:12-30)**: A left-handed Benjaminite assassin who kills the obese Moabite king Eglon with a concealed sword in a private audience. The narrative uses coarse humor to make the point: tyrants are ridiculous, and YHWH can work through subversive means. The fat absorbs the sword; the servants wait in embarrassed confusion outside a locked bathroom.
 
-**Deborah and Barak (4–5)**: Deborah is simultaneously prophet, judge, and military strategist. Barak's hesitation ("I will go if you go with me") transfers the glory of the victory to a woman — first Deborah, then Jael. Jael drives a tent peg through the sleeping Sisera's skull, fulfilling Deborah's prophecy. The Song of Deborah (ch. 5) is among the oldest extant Hebrew poetry; it celebrates the victory with brutal gusto and with a devastating closing image: Sisera's mother waiting at the window, rationalizing her son's non-return.
+**Deborah and Barak (4–5)**: Deborah is prophet and judge; Barak’s hesitation transfers the glory of victory to a woman — ultimately **Jael** (Webb: glory to Jael more than Deborah). Jael’s tent peg fulfills Deborah’s prophecy. The Song (ch. 5) celebrates Yahweh’s righteous deeds, willing vs unwilling tribes (Meroz cursed), and Sisera’s mother at the window. (Prior wiki called Judg 5 “among the oldest extant Hebrew poetry”; that dating verdict is **not** Webb’s load-bearing claim in the re-read and should not be attributed to him without another source.)
 
 **Gideon and Abimelech (6–9)**: The longest narrative arc in the book and its theological turning point. Gideon begins as a Moses figure — diffident, doubting, radically dependent on YHWH (the fleece, the reduction of the army from 32,000 to 300). He ends as an Aaron figure: making an ephod from the people's gold that becomes an idol and a "snare to Gideon and his household." His name Jerubbaal ("let Baal contend") turns ironic — Baal takes up his own cause through Gideon's apostasy. His son Abimelech kills seventy brothers on a stone, buys kingship with temple money, and is eventually killed by a woman dropping a millstone on his skull — a grotesque parody of everything his father might have been.
 
-**Jephthah (10:6–12:7)**: A capable negotiator, a brilliant diplomat, a man who raises himself from illegitimate outcast to head of Gilead by force of personality. His fatal flaw is treating his relationship with YHWH the same way he treats everything else — as negotiation. His vow ("whatever comes out of my doors to meet me first... shall be YHWH's") is an attempt to bribe God before a battle. His only child comes out to meet him with dancing. The text withholds divine commentary on whether he kept the vow literally (death) or as lifelong virginity. See [[jephthah-vow|Controversy: Jephthah's Vow]] (page pending).
+**Jephthah (10:6–12:7)**: Outcast → head by negotiation; brilliant diplomat with Ammon; declares “YHWH, the Judge” (11:27). Fatal move: treats relationship with YHWH as **negotiation/politics**. His vow is, for Webb, a shrewd **bribe** (not impulsive) — “as the elders once offered inducement to Jephthah, so Jephthah now offers inducement to Yahweh.” **Fidelity correction (2026-07-18):** Webb does **not** leave fulfillment open between death and lifelong virginity; he holds that the narrator intends **literal burnt-offering sacrifice** of the daughter (virginity is what she mourns, not a substitute fulfillment). See [[jephthah-vow|Jephthah's Vow]].
 
 **Samson (13–16)**: The last and most complex judge. His birth narrative (a barren woman, a divine messenger, a destiny announced in advance) places him in the company of Isaac, Samuel, and John the Baptist. He is a Nazirite from birth — set apart to YHWH — whose separation is embodied in his uncut hair. See [[nazarite|Nazirite]]. Webb's controlling reading: Samson's personal story *is* Israel's national story. As Israel was set apart from the nations yet chased their gods, Samson is set apart as a Nazirite yet chases Philistine women. He is a one-man embodiment of Israel's spiritual schizophrenia. His final act — bringing down the temple of Dagon at the cost of his own life, killing more Philistines in his death than in his life — is simultaneously Israel's greatest victory and its most complete humiliation: a blind, broken man, ground down by his enemies, achieving in death what he could never manage in life.
 
@@ -110,17 +110,46 @@ Webb: the judges have both an *illustrative* function (models of faith, however 
 
 Judges features an unusually large number of women — named and unnamed — who are both impacted by and impact the male-dominated plot. Susan Ackerman's summary (quoted by Webb): "neither a handbook of patriarchy nor a celebration of matriarchy... a book not of 'either/or' but of 'both/and.'" Female heroes equal or outperform men (Deborah, Jael, the woman of Thebez who kills Abimelech); female victims embody the moral collapse of the period (Jephthah's daughter, the Levite's concubine, the daughters of Shiloh). The abuse of women escalates as the book progresses — a literary-moral gauge of Israel's deterioration.
 
+## Hermeneutical Frameworks
+
+| Framework | Application in this wiki’s sources (Webb NICOT) |
+|---|---|
+| **Narrative criticism** | Framing, irony, spiral design, episodic “did evil” structure, humor/satire |
+| **Canonical criticism** | Final form; Former Prophets context; NT reception (Heb 11; Luke 1) |
+| **Modified DH** | Redaction layers acknowledged; epilogue integral; end-text primary |
+| **Feminist dialogue** | Ackerman both/and; women as heroes and victims gauge deterioration |
+| **Violence taxonomy** | Authorized liberation vs private vendetta / civil war; conquest *ḥerem* engaged canonically |
+
+## Textual and Manuscript Tradition
+
+Hebrew MT is Webb’s base; he notes LXX A/B diversity on Judges and translates with attention to large-number / *ʾelep* problems and the divine name (Yahweh). Literary integrity of 1–21 as a crafted whole is his primary claim; partition of 17–21 as secondary is rejected.
+
+## Scholarship and Historiography
+
+Positions engaged (as positions): Noth/Smend-school Dtr layers; Cross dual redaction; Boling/Auld; Gross; Block Canaanization; feminist (Bal, Exum, Trible, Ackerman); liberation (Hamlin); ideological (Brettler, Yee). Chronology: Webb favors early-date exodus lean (~1446) with judges period c. 1326–1092 BCE as a working early chronology, while reporting late-date alternatives. Historicity: basic period defended against minimalists (Provan/Long/Longman cited in intro).
+
+## Key Interpretive Cruxes
+
+1. **Downward spiral vs flat cycle** — Webb: progressive deterioration; no “rest” after Gideon; no cry by Samson’s era.
+2. **Joshua vs Judges 1** — sequential (after Joshua’s death), not competing conquest accounts.
+3. **Jephthah’s vow** — literal sacrifice (Webb) vs perpetual virginity (other readers); see [[jephthah-vow]].
+4. **Kingship refrain** — need for kingship *and* its dangers (Abimelech); neither simple pro- nor anti-monarchy.
+5. **Samson = Israel** — controlling identification; “right in my eyes” → epilogue chaos.
+6. **Epilogue integrity** — integral dual chaos, not incoherent appendix (vs Noth).
+7. **Violence / *ḥerem*** — see [[herem-canaanite-conquest]].
+
 ## Related Pages
 
 - [[barry-webb|Webb, Barry G.]] — primary commentary source
-- [[marten-woudstra|Woudstra, Marten H.]] — Joshua; the Former Prophets precedent
-- [[herem|The ḥerem (Devoted Thing)]] — the ban in conquest context
-- [[herem-canaanite-conquest|Controversy: The ḥerem and Canaanite Conquest]] — the ethical dispute
-- [[nazarite|Nazirite]] — Samson's consecration; Numbers 6
-- [[covenant|Covenant]] — the covenant faithfulness the book measures
-- [[book-of-joshua|Joshua]] — the preceding Former Prophet
-- [[documentary-hypothesis|Documentary Hypothesis]] — the DH debate
+- [[webb-judges-nicot|Webb, *Judges* (NICOT)]] — source page / coverage ledger
+- [[marten-woudstra|Woudstra, Marten H.]] — Joshua; Former Prophets precedent
+- [[herem|The ḥerem (Devoted Thing)]] · [[herem-canaanite-conquest|ḥerem and Canaanite Conquest]]
+- [[nazarite|Nazirite]] — Samson’s consecration
+- [[covenant|Covenant]] · [[deuteronomistic-history|Deuteronomistic History]]
+- [[joshua|Joshua]] · [[1-samuel|1 Samuel]] · [[book-of-ruth|Ruth]]
+- Figures: [[deborah]] · [[gideon]] · [[abimelech]] · [[jephthah]] · [[samson]] · [[barak]] · [[jael]] · [[caleb]]
+- Controversies: [[jephthah-vow]]
 
 ## Sources Ingested
 
-1. [[barry-webb|Webb, Barry G.]]. *Judges*. New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 2012.
+1. [[webb-judges-nicot|Webb, Barry G.]]. *The Book of Judges*. NICOT. Grand Rapids: Eerdmans, 2012 — fidelity re-ingest 2026-07-18 (full body; ~427 grounded claims).

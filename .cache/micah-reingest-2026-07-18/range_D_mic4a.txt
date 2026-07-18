@@ -1,0 +1,407 @@
+IV. THE FUTURE FOR JUDAH AND THE NATIONS (4:1–5:15[14])
+
+
+Several signals suggest that chapters 4–5 have been compiled together intentionally to serve a larger rhetorical purpose, specifically to announce both Yahweh’s judgment and restoration of Judah, both of which will take place in the future as seen from the vantage point of the prophet’s lifetime at the end of the eighth century BCE. A majority of scholars treat the compilation as consisting of later materials deriving largely from the Persian period.1 Indeed, in recent years, a number of scholars have concluded that these chapters did not all enter Micah at the same time, but instead represent an evolving compilation intended to follow Mic 1–3.2 To understand these chapters fully, it will be necessary to address both the reasons for grouping them together and the shifting theological emphases that raise the question of how they have come to be combined into a larger unit within Micah.
+
+The unifying components of Mic 4–5 come clearly into view when one takes note of the repeating elements that characterize the subunits of the larger collection. These repeating formulas and phrases divide themselves into four recognizable groups: (1) the first group (4:1–7) contains two future-oriented sections (4:1–5, 6–7) that each begin with an eschatological day formula (and it will be in the latter days, on that day), the combination of which (and it will be on that day) also concludes the third and opens the fourth group in Mic 5:10(9); (2) the second group (4:8–5:4[3]) is organized by sound and a change of chronological orientation to the present generation because five of the sayings either begin with (and) you ([wə]ʾattâ in 4:8; 5:2[1]) or with (and) now ([wə]ʿattâ in 4:9, 11; 5:1 [4:14]), two words that sound very similar in Hebrew though they have slightly different spellings; this second group addresses the “current” generation of readers (literarily speaking); (3) the third group (5:5–9[4–8]) returns the reader to the future with its repeating use of the word wəhāyâ, which means and it will be (5:5[4], 7[6], 8[7], 10[9]); (4) the final group (5:10–15[9–14]) is characterized by the refrain (and I will cut off) that appears in 5:10(9), 11(10), 12(11), 13(12).
+
+The purposeful impression of unity created by these recurring elements nevertheless only camouflages the distinctive nature of the individual sayings, both in comparison to the other major sections of Micah (chs. 1–3 and 6–7), and within the individual passages. For example, 4:10 mentions the exile to Babylon in a way that causes most commentators to recognize that it presupposes the destruction of Jerusalem in 587 BCE. By contrast, the enemy highlighted in 5:5–6(4–5) is the Assyrian kingdom whose capital Nineveh was destroyed in 612 BCE. Additionally, the opening section of this larger block anticipates a time of peace between Judah and the nations, while much of the material that follows anticipates hostile relationships between these entities. Understanding how to account for both the unifying elements and the different messages of the subunits within Mic 4–5 requires that the reader search for literary cues from the text, but also recognize that these chapters have a broader literary horizon than simply the book of Micah.3
+
+
+
+
+
+A. ESCHATOLOGICAL DAY SAYINGS (4:1–7)
+
+
+1And it will happen in the end of the days, that the mountain of the housea of Yahweh
+
+will be establishedb as the head of the mountains,
+
+and it will be raised above the hills.
+
+And peoples will stream over it.c
+
+2And many nationsd will march, and they will say,
+
+“Come, and let us ascend to the mountain of Yahweh and to the house of the God of Jacob, so that he will teach us his ways and that we may walk in his paths,”
+
+because instruction goes forth from Zion,
+
+and the word of Yahweh goes forth from Jerusalem.
+
+3And he will judge between many peoples,e
+
+and he will mediate for mighty nationsf far away,g
+
+and they will beat the swordsh into plow blades,
+
+and their spears into pruning knives.
+
+Nation will not lift sword against nation,
+
+and they will no longeri learn war.
+
+4But each onej will sit under his own vine, his own fig-tree, and no one will terrify them, fork the mouth of Yahweh Sabaothl has spoken.
+
+5Indeed, all the peoples will walk each one in the name of its own god,m but we will walk in the name of Yahweh, our God, into perpetuity and beyond.
+
+6And it will happen on that day, says Yahweh, that I will gather the lame, and collect the one banished, and anyone whom I have afflicted.n
+
+7And I will make the lameo into a remnant and the cast off p into a mighty nation.
+
+And Yahweh will reign over themq on Mount Zion from now into perpetuity.
+
+a. House is not present in the LXX. Lacunae in Mur 88, 4Q82, and 8Ḥev 1 do not provide absolute verification, but the fact that Isa 2:2 has the same phrase in the Hebrew text suggests the MT is original. The Greek text there is also missing house, suggesting that the LXX translator of both Isa 2:2 and Mic 2:2 abbreviated the text for aesthetic reasons.
+
+b. The verb appears after “days” in Isa 2:2.
+
+c. In Micah, the phrase is peoples will stream over it, but Isa 2:2 reads “all the nations will stream to it.” This variation reflects a deliberate change. The shift of prepositions has a subtle effect on conceptualizing the presence of the foreigners on the holy mountain more or less dramatically. In Micah, they do not merely arrive (stream to the city); rather, their presence looks like a river of people.
+
+d. Isaiah 2:3 has “peoples” rather than nations. See the previous note.
+
+e. Instead of many peoples, Isa 2:4 has “the nations,” so this difference reverses the order of Mic 4:3aβ. See the next note. Likely, this difference resulted from what David Carr labels a memory variant.4
+
+f. Instead of mighty nations Isa 2:4 has “many peoples.” See the previous note.
+
+g. The phrase far away does not appear in Isa 2:4.
+
+h. The LXX of Mic 4:3 uses slightly different phrasing than the LXX to express the idea of beating the swords: katakopsousin tas romphaias (Mic 4:3) and sunkopsousin tas machairas (Isa 2:4). The word makhaira in Isa 2:4 LXX refers to a short dagger that is used for cutting meat and close combat while the verb there (sunkoptō) frequently conveys the idea of “break up” or “cut up” into small pieces. The word used in Mic 4:3 LXX (romphaia) refers to a large sword, and the verb there (katakoptō) can mean “cut up,” but it has a more generic connotation as well (“to break into pieces”). It can be used to describe smashing stones into pieces (Isa 27:9). The version of Mic 4:3 in 8Ḥev 1 agrees with the LXX of Isa 2:4. This variation could mean that 8Ḥev 1 knew the parallel in Isaiah and chose to follow it (perhaps for aesthetic reasons). Perhaps LXX Micah changes the verb to better reflect the action of transforming two different sword types and sizes in order to conform more naturally to the transformed elements (pruning knives and plows) and/or the translator of 8Ḥev 1 decided to harmonize the two texts.
+
+i. The LXX has ouketi while 8Ḥev 1 has mē … eti. There is no real difference in meaning, but it suggests a different Greek version existed.
+
+j. The LXX uses anapausetai hekastos (“everyone will rest”) while 8Ḥev 1 reflects a more literal translation of the same text as MT and uses kathisontai anēr (“a man will sit”). These differences do not reflect a different Hebrew text.
+
+k. A few minor variations exist between 8Ḥev 1 and LXX, such as dioti in the LXX rather than hoti in 8Ḥev 1.
+
+l. 8Ḥev 1 translates Yahweh Sabaoth as yhwh (in ancient Hebrew script) tōn dynameōn (“Yahweh the powerful”) while the LXX has kyriou pantokratoros (“Lord creator of the universe”).
+
+m. The LXX changes this verse to avoid any implications of henotheism. Where the MT has all the peoples will walk, each in the name of its own god, the LXX changes it to “all the peoples will walk, each in its own way.” 8Ḥev 1 agrees with MT at this point. The fact that the change in the LXX eliminates the idea that other gods exist among foreign peoples suggests that the change was motivated by theological concerns related to monotheism. In other words, the LXX removes any doubt that other gods could exist.
+
+n. The LXX here changes MT (from the root rʿʿ) from I have afflicted to “I have rejected” (apōsamēn), which would likely presume the verb mʾs. 8Ḥev 1 confirms MT with the likely verb form ekakōsa (meaning I have afflicted as with MT). As in 4:5 (see previous note), the motivation appears to be theological since the LXX reading softens the idea that God causes evil. In so doing, the LXX uses the same verb as in 4:7, thus tying the two verses more closely to one another.
+
+o. The LXX interprets the lame as “the one crushed” from a verbal root (syntribō) that normally translates the verb “shatter” (šbr) rather than “to be lame” (ṣlʿ). BHQ labels this deviation as an exegetical variant. The verb only appears in three passages (Gen 32:31; Zeph 3:19) and one of those (Zeph 3:19) actually cites Mic 4:6–7, but the LXX uses a different Greek word there, one that is a synonym with oppressor, used as a parallel term in Zeph 3:19. Hence, the translator appears to be making contextual sense of the unusual word. The use of the feminine participle probably anticipates the address of Lady Zion that begins in 4:8.
+
+p. Instead of banished, the LXX uses the verb “rejected” (apōtheōmai), as in 4:6. The reading in 8Ḥev 1 ([ekpepiesme]nēn) again likely confirms the MT (whose form is a hapax legomenon). Because only the last three letters of 8Ḥev 1 are visible, one must be cautious but clearly the text differs from LXX and could fit MT.
+
+q. MT has a third-person masculine plural suffix implying the lame and the outcast together while 8Ḥev 1 has a third-person masculine singular to refer back to nation.
+
+Group 1 consists of two parts (4:1–5, 6–7), both of which begin with an eschatological introduction, and each depicts a scenario of peace among the nations, though from different vantage points. Micah 4:1–5 begins with an eye toward the distant future (in the end of the days). It does not, however, imply some final, apocalyptic last judgment scene. It depicts the elevation of Zion’s significance so that foreigners will come there to seek Yahweh’s instruction (tōrâ) and to submit to Yahweh’s justice that will do away with war. The second part of group 1 (4:6–7) conveys a promise to gather the afflicted of Yahweh’s own people and turn them into a mighty nation.
+
+
+
+
+
+1. Peace at the End of the Days (4:1–5)
+
+
+Micah 4:1–5 represents an independent unit that has been selected for inclusion in Mic 4–5 to introduce the themes of these chapters in the book. The unit separates itself from Mic 1–3 with an eschatological formula that signals to the reader that what follows concerns the distant future. Micah 4:1–5 focuses thematically upon judgment against the nations. The fact that 4:6 contains a second, but different, eschatological formula that introduces a promise of restoration suggests that a new topic starts with 4:6. In addition, both 4:1–5 and 4:6–7 offer strong intertextual connections to other texts in the prophetic corpus that correlate with this thematic change. Micah 4:1–3 contains a close parallel to Isa 2:2–4 (a text near the beginning of Isaiah, which is often considered the first scroll in the sequence of the Latter Prophets). Both texts also reverse the message of Joel 3(4):10. Micah 4:4–5 comments upon 4:1–3, so 4:1–5 should not be separated from one another (even though the Micah version of this parallel offers a different ending than the parallel in Isa 2). Relatedly, Mic 4:6–7 anticipates Zeph 3:18–20 with strong allusions to the remnant as the lame and afflicted mentioned in the two passages that plays a significant role in the Book of the Twelve (the last scroll of the prophetic corpus). As a whole, then, 4:1–5 and 6–7 point the reader outside the book of Micah by recalling texts from the prophetic corpus.
+
+1 Micah 4:1 marks a dramatic shift in time that in some ways continues for the rest of the book. The opening formula looks forward to the distant future when it begins with the statement, And it will happen in the end of the days. Prior to this point, the prophetic material has been directed toward Yahweh’s response to the events in the lifetime of the prophet Micah. The perspective now takes the reader far beyond the eighth-century setting. The phrase literally refers to the “hind part of the years,” using the same root consonants of the preposition “after” in Hebrew. The word can refer to the backside of something (Amos 4:2; cf. Ps 139:9). Most of the time, however, it appears in chronological statements such as the “end of the year” (Deut 11:12) or the end of one’s life (e.g., Num 23:10; 24:20). Not infrequently, it represents the polar opposite of the “head” of the year (an image that refers to the beginning, as in the name of the Jewish New Year, Rosh Hashannah). See reference to the beginning of the year (Ezek 40:1) or month (Num 10:10; 28:11). In prophetic texts, this chronological sense “backside” formula appears in eschatological contexts (e.g., see Jer 23:20; 30:24; Ezek 38:8; Dan 2:28; 10:14; Hos 3:5).
+
+After signaling the distant future, the remainder of the verse also takes a dramatic turn from chapters 1–3 as the message changes from judgment to promise. The verse promises two things, though they are closely intertwined. First, 4:1 promises the elevation of Zion and second, Zion will become a destination for foreigners. The phrase mountain of the house of Yahweh refers to Mount Zion (where the temple is located), and the verse presumes that this hill should be considered Yahweh’s most sacred space, since it houses Yahweh’s temple. Physically, that is not the case, however, since Zion is not even the tallest elevation point among the surrounding hillsides. Hence, when 4:1 claims that Zion will be raised above all the surrounding hills and be established as the head of the mountains, it is essentially referring to Zion’s political and spiritual significance. The verb established refers to something that is well grounded, ordered, and durable. Zion will take its place as the home of Yahweh because of the temple. At the same time, the fact that the promise will not occur until the distant future suggests an awareness on the part of the author that Zion does not yet carry such importance.
+
+Micah 4:1 manifests a nearly identical parallel to Isa 2:2 (see text notes), but Micah’s version contains two subtle differences compared with the Isaiah passage, which together accentuate the peaceful situation implied by the description. First, Mic 4:1 designates the foreigners as peoples, perhaps preferring to emphasize the relational aspects of foreigners rather than the more politically oriented term “nations” that appears in the Isaiah parallel. One should not, however, overinterpret this variation since Mic 4:2 substitutes nations where the Isaiah parallel (2:3) has “peoples.” Consequently, both Isa 2:2–4 and Mic 4:1–3 utilize peoples and nations, just in reverse order. Second, the changing of the preposition following the verb stream portrays the journey of the foreigners as like a river of peoples streaming over the mountain in Mic 4:1 while the Isaiah parallel merely states that they stream to the mountain. It is possible that the Isaiah text could have had similar intentions, but the fluid movement of the peoples on the mountain comes across more clearly in Mic 4:1. Jerusalem will be teeming with foreigners who have come to learn Yahweh’s tōrâ and submit to Yahweh’s courtroom decisions (see Mic 4:3).
+
+EXCURSUS: THE RELATIONSHIP OF MICAH 4:1–3 AND ISAIAH 2:2–4
+
+A great deal of attention has been devoted to the study of the virtually identical texts of Mic 4:1–3 and Isa 2:2–4. Much of this attention has focused on the insoluble question of priority, with scholars making sustained arguments for one of three solutions: (1) Micah draws upon Isaiah as its source; (2) Isaiah draws upon Micah as its source; or (3) both draw upon an independent source.5 Lately, these arguments have been complicated further by the fact that more and more scholars posit that both passages are postexilic additions to the collections in which they appear, making it less likely that either the prophet Micah or Isaiah can be definitively claimed as the author of these texts, while at the same time raising new questions about how these parallels should be read in relationship to one another. Apart from a few minor variations in the order, the two texts display no significant differences of meaning between the two passages. Given that both passages appear at the beginning of new redactional units that change the theme from judgment to promise, neither passage can be said to be clearly more at home in its respective literary context.6 A close reading of the two passages can, however, demonstrate, despite their similar statements, that the passages diverge significantly from one another in the ways in which the parallel texts continue in their respective contexts. Careful attention will thus be paid to the different endings associated with the parallel verses (Isa 2:4; Mic 4:5) in the discussion of Mic 4:4–5.
+
+2 Micah 4:2 continues the eschatological promise by delineating the reason why the nations are coming to Jerusalem. Specifically, this verse not only depicts their trek to Jerusalem as voluntary; it also portrays the nations articulating their desire to submit themselves completely to Yahweh, the God of Jacob. The scene is remarkable for its anticipation of both aspects of this movement. The verse begins with a description of the advance of foreign nations toward Jerusalem as it announces many nations will march. The verb “to go” (hālak) used to describe the journey of foreign entities into a city would typically signal a military invasion to those listening, but the phrasing of this verse implies a different kind of pilgrimage. As they march (hālak), they invite others along using the same verb: and they will say, “Come [an imperative of hālak], and let us ascend to the mountain of Yahweh and to the house of the God of Jacob.”
+
+The parallelism of the second half of this verse expresses the reason for the journey by drawing upon three different aspects of religious life to express both the purpose and the source of the instruction. They intend to make their way up to the Temple Mount in order to learn more fully what life as a follower of Yahweh entails ethically, cultically, and prophetically. They anticipate that Yahweh will teach them his ways with the consequence that they will walk in his paths. The order is significant: Yahweh will teach them, and they will put that teaching into effect. The imagery of the way/path concerns lifestyle. The path of one’s life can be described as the path of righteousness or wickedness, though the path of Yahweh relates only to the former.
+
+The rationale at the end of 4:2 explains both their reason for going to Jerusalem and the character of the instruction they anticipate receiving. They go to Jerusalem because it is the source of both instruction (tôrâ) and the word of Yahweh, and they want to be as close as possible to it. The characterization of what they will be taught as instruction and the word of Yahweh is not accidental. The word of Yahweh is associated with prophetic activity while the word instruction (tôrâ) is the word used for the first five books of the Bible, but more importantly, instruction refers to the content of the covenant commitments. Hence, the rationale expressed by the nations for making their way to Zion/Jerusalem presumes they recognize that it is the source of the Torah and the Prophets. It is not clear that this articulation of the Torah and the Prophets already presupposes an awareness of a developing canon, though that may be possible.7 It is clear, however, that 4:2 presumes that the knowledge that allows one to follow the way of Yahweh derives from teaching and prophecy associated with the temple in Jerusalem.
+
+3 Micah 4:3 adds yet another dimension to the portrayal of the relationship between Yahweh and the nations, specifically Yahweh’s role as just judge. This verse depicts Yahweh as the divine mediator of international disputes whose decisions will eliminate the need for war. The verse assumes Yahweh is a fair judge and accentuates Yahweh’s power by describing the foreigners in terms of their numerical strength and power, by referring to many peoples and mighty nations. Their voluntary submission to Yahweh’s judgment means that they recognize Yahweh as a God of justice who has the power to execute his verdicts. This portrait has some clear affinities with the picture of Yahweh as judge to the nations in Joel 3(4), except that the judicial activity of Yahweh in Joel 3(4) also requires Yahweh’s military intervention with the heavenly host, while the portrait in Mic 4:3 (= Isa 2:4) assumes the nations have voluntarily submitted to Yahweh’s decisions. Additionally, their desire to learn Yahweh’s ways and to walk in them provides the nations with the means of avoiding having to appear before the judge because they have conformed their behavior to Yahweh’s expectations. This willingness to submit to Yahweh is not typical of the way prophetic texts usually portray the nations. Nowhere does this difference manifest itself more clearly than in the reversal of the peaceful promise depicted in Joel 3(4):10:
+
+Mic 4:3:
+
+Joel 3(4):10
+
+
+
+And he will judge between many peoples,
+
+
+
+
+
+and he will mediate for mighty nations far away,
+
+
+
+
+
+and they will beat the swords into plow blades,
+
+Beat your plow blades into swords
+
+
+
+and their spears into pruning knives.
+
+and your pruning knives into spears.
+
+
+
+Nation will not lift sword against nation, and they will no longer learn war.
+
+And the weak one will say, I am a mighty man.
+
+
+
+The message of Mic 4:3 (= Isa 2:4) presupposes the peaceful attitude of the nations from 4:1–2, while Joel 3(4):10 (and its larger context) anticipates that Yahweh’s judgment will be implemented by means of futile military measures in which the armies of nations who have acted against Judah mistakenly attempt to battle the forces of Yahweh. Joel 3(4):10, by contrast, presumes a hostile relationship, especially as manifest in the actions of the nations toward Judah (see 3(4):4–8, 19). Nevertheless, the purpose of Yahweh’s judgment in Joel 3(4):10 is to teach them who has power over creation.
+
+4–5 Micah 4:4–5 offers a distinct extension of the message of 4:1–3, especially when compared to the parallel passage in Isa 2:2–4. While the parallel passages hardly differ with one another for three verses, their continuations in their respective contexts take very different tracks:
+
+Mic 4:3–5 (NRSV)
+
+Isa 2:4–6 (NRSV)
+
+
+
+3He shall judge between many peoples, and shall arbitrate between strong nations far away; they shall beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war anymore;
+
+4but they shall all sit under their own vines and under their own fig trees, and no one shall make them afraid; for the mouth of the Lord of hosts has spoken.
+
+5For all the peoples walk, each in the name of its god, but we will walk in the name of the Lord our God forever and ever.
+
+4He shall judge between the nations, and shall arbitrate for many peoples; they shall beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war anymore.
+
+5O house of Jacob, come, let us walk in the light of the LORD!
+
+6For you have forsaken the ways of your people, O house of Jacob. Indeed, they are full of diviners from the east and of soothsayers like the Philistines, and they clasp hands with foreigners.
+
+
+
+The Isaiah text (2:5–6) that follows the parallel (2:1–4) takes a decidedly more negative tone than Mic 4:5 as the conclusion of Mic 4:1–4. Isaiah 2:5–6 admonish Jacob (i.e., Judah) to walk in the light of Yahweh rather than what they have been doing: forsaking that path to follow the divinatory practices of the nations in the present. In other words, the idyllic future described in Isa 2:2–4, where the nations will seek Yahweh in Jerusalem, serves as the launching pad for a critique against Yahweh’s own people. By contrast, the continuation of the parallel in Micah (4:4–5) maintains the focus on the future as a time of peace for both Judah and the nations, even though it steps back from the idea of the nations’ radical submission to Yahweh as depicted in Mic 4:1–3.
+
+Micah 4:4–5 comments upon Mic 4:1–3 by extending the description of peace for the nations and for Judah. Nevertheless, 4:5 qualifies the religious implications of the preceding promise rather dramatically by acknowledging that the nations’ submission to Yahweh and sojourn to Jerusalem described in 4:1–3 do not mean that the nations will themselves become followers of Yahweh. Micah 4:4 picks up traditional language about the fertility of the land to portray the time of Yahweh’s peace (4:3) as both a time when the land will produce its fruit and when the inhabitants can enjoy that produce without fear of enemy attack. The traditional nature of this promise can be seen in similar formulations elsewhere.8 Such formulations present a hope for the future that implies an orderly existence. A person owns land; the land produces enough to survive; the land is not threatened. Hence, 4:4 alludes to the vines and fig trees, with the assumption that they are producing normally. Simultaneously, the fact that the inhabitants can sit under these elements reinforces the image of tranquility expressed with the phrase no one will terrify them. The fact that Mic 4:4 intentionally draws upon traditional language is further confirmed because it ends with a citation formula: for the mouth of Yahweh Sabaoth has spoken.
+
+What remains unclear in 4:4 is whether these events are assumed to occur only in Jerusalem and Judah, or whether the reader should assume that this time of peace extends into the broader regions. In the logic of 4:2–3 the nations come to Jerusalem and submit to Yahweh’s judgment, and taken in isolation, 4:4 could be interpreted as a promise for the fertility of Judah, which now contains both Yahweh’s people and the nations. In some ways, the citation formula at the end of Mic 4:4 could be taken as a formulaic end of the unit, but 4:5 begins with a connective particle (kî) that presupposes 4:4. This cumbersome syntax has been taken by a number of scholars as a sign that 4:5 should be interpreted as a secondary gloss commenting upon the religious dimensions of 4:1–4.9 Whether or not 4:5 represents a secondary comment upon 4:1–4 or represents the redactional transition to the second part of group 1 (4:6–7), one thing seems clear: Micah 4:5 claims emphatically that the nations who have come to Jerusalem will not become religious converts as 4:2 would suggest. Rather, the nations will worship their own deities (i.e., all the peoples will walk in the name of their own god). Conversely, 4:5 states just as emphatically that the relationship between Yahweh and the people has changed in the future (4:1, 6) from what was described in Mic 1–3. While chapters 1–3 anticipate a coming judgment against Judah and Jerusalem, Mic 4:1–5 anticipates a time of peace in the distant future (cf. the end of days in 4:1) when the nations voluntarily submit to Yahweh’s judgment and leave the land in peace. In so doing, 4:1–5 interprets the coming judgment announced in 3:12 as a period of punishment that has an end.
+
+
+
+
+
+2. Gathering the Remnant on That Day (4:6–7)
+
+
+Micah 4:6–7 constitutes the second of two units within group 1, both of which provide an eschatological orientation to the material that follows.10 The eschatological formula in 4:6 (on that day) frequently introduces a new prophetic saying about the future, especially within Isaiah and the Book of the Twelve.11 While this function of the formula has often been noted by commentators, the chronological implications of this formula have not always been so clearly delineated. Specifically, the formula presumes an antecedent reference to a coming time. Logically, the phrase on that day places the action that follows in the same time as that which has preceded. In the case of Mic 4:6, this formula means that the action described in 4:6–7 occurs at the same time as the material in 4:1–5 (at least for the redactor who has brought this material together). As a result, one can ask what 4:6–7 adds to the scene depicted in 4:1–5 that would have caused someone to include it here. Seen in this light, 4:6–7 highlights the treatment of those in Judah who had suffered as the result of Jerusalem’s destruction. While 4:1–5 focuses on the relationship of Yahweh’s people to the nations and the peace that would result from the people’s renewed commitment to Yahweh, 4:6–7 addresses a gap in the larger context. Micah 1–3 culminates in the pronouncement of Jerusalem’s destruction, but Mic 4:1–5 does not address the fate of those who experience that judgment. Micah 4:6–7 addresses this missing piece with a divine speech announcing Yahweh’s decision to gather the remnant back in Jerusalem into perpetuity.12 These verses utilize several metaphors (the lame, those expelled, the afflicted, and those who were cast off) in referring to those who had experienced the judgment of Judah and Jerusalem. In these verses, Yahweh announces his intention to act in the future in a manner that will make them a strong nation (4:7), with Yahweh serving as king in Zion.
+
+6 These verses assume that Yahweh has afflicted punishment upon Jerusalem since the divine speech states I will gather the lame and … anyone I have afflicted (4:6), as in Mic 1–3. This assumption has significant implications for understanding the relationship of chapters 4–5 to chapters 1–3.
+
+This statement of restoration after punishment combines the judgment against Jerusalem in 3:12 with the restoration assumed in 4:4–5 because the view of restoration in 4:6–7 assumes that the population has been decimated and/or sent away. The promise is delivered to those who have suffered, but the divine speaker promises to restore the power of the kingdom, though with Yahweh reigning as king in Jerusalem.13 Nevertheless, the wording of Mic 4:6 indicates that the restoration (like the judgment against the nations in 4:1–5) will take place in the distant future. By having Yahweh state that it will happen on that day, the reader associates the coming action with the eschatological future, but one should not think of this as single final judgment at the end of time. Rather, the formula on that day refers to a time in the future when Yahweh will intervene in human history.14
+
+Micah 4:6 uses three first-person singular verbs, two of which are synonyms, and two feminine singular direct objects to describe the action of the restoration. Yahweh says, I will gather (from the root ʾsp) and I will collect (from the root qbṣ) to create two parallel statements. The two feminine singular direct objects, however, function differently in these parallel statements because they refer to two distinct groups. The feminine singular noun “the lame” and the feminine singular participle “the one banished” imply one group that will be wounded and another group that will be expelled (from Jerusalem). The feminine singular forms here function as collective nouns. They refer to a group, not a specific individual. Since chapters 4–5 as a whole anticipate the destruction of Jerusalem in 587, identifying these two distinct groups likely means these words function as poetic metaphors for those left behind after Jerusalem’s destruction (the lame) and those who were exiled to Babylon (the one banished).
+
+The final clause in 4:6 (anyone I have afflicted) functions adjectively to refer to both groups already mentioned (the lame and banished). The clause is introduced by the relative pronoun ʿešer that functions as the indirect object of the hiphil perfect first-person singular verb from the root rʿʿ (“to do evil”). The verb thus means “I caused evil” or “I afflicted.” Since Yahweh is the speaker, Yahweh thus claims credit for the coming judgment on Jerusalem, and the relative pronoun refers back to both the lame and the banished as the recipients of divine judgment.
+
+7 Micah 4:7 extends the description of Yahweh’s restoration actions from 4:6, again distinguishing two groups. In 4:7, the descriptions of the groups change slightly. The feminine singular participle for the lame is the same as in 4:6, but the verb changes to śûm instead of ʾsp. Yahweh remains the speaker, but when the verb śûm is combined with the lamed preposition on the word for remnant, this construction connotes the idea that Yahweh will make the lame into a remnant. The result is a two-step process: I will gather the lame (4:6) and make (them) into a remnant. The name for the group whom Yahweh banished in 4:6 changes, since 4:7 calls them the cast off using a niphal participle from the root hlʿ (whose basic meaning is “to remove”). The verb from the first clause (along with the lamed preposition on the word nation) continues to govern the action of the second part of the parallel statement, leading to the understanding that Yahweh means I will make the cast off into a nation. The attributive adjective mighty modifies nation. Hence this part of the verse shows the same two-step process as the first part, since Yahweh will first gather (4:6) those who have been expelled and (then) make them into … a mighty nation.
+
+
+
+
+
+B. YOU AND NOW (4:8–5:4[3])
+
+
+8And you,a tower of the flock, hill of Ladyb Zion, itc will come to you.
+
+The former dominion will come,d and a kingdom to Lady Jerusalem.
+
+9Now, why do youe shout so loudly?
+
+Is there no king with you,
+
+or has your counselor perished,
+
+that writhing has grasped hold of youf like the one giving birth?
+
+10Writhe, and burst forth, Lady Zion, like the one giving birth,
+
+but now you will go forth from a village
+
+and you will dwell in a field,
+
+and you will go to Babylon.
+
+There you will be delivered.
+
+And there Yahwehg will redeem you from the hand of your enemy.
+
+11But now many nations will be gathered against you, saying,
+
+“Let her be defiled, and let our eyes gaze on Zion.”
+
+12But they do not know the plans of Yahweh,
+
+and they do not discern his counsel,
+
+for he collects them like fallen grain on the threshing floor.
+
+13Arise and stomp, Lady Zion, for I will make your horn into iron
+
+and turn your hooves into copper,
+
+and you will crush many peoples,
+
+and I will devote them to Yahweh for profit and their wealth to the Lord of the entire earth.
+
+5:1Now, musterh yourself, Lady Muster.
+
+They have placed a siege against us.
+
+With a staff they strike the judge of Israel on the cheek.
+
+2And you, Bethlehem of Ephrathah,i the smallestj to be among the tribes of Judah.
+
+He went forth from you for mek to be a ruler in Israel,
+
+and his goings forth happened long ago, inl the distant past.
+
+3Therefore, he will give them up until the time that the one bearing a child has given birth,
+
+and the rest of his brothers will return to the sons of Israel.
+
+4And he will stand and shepherdm in the strength of Yahweh,
+
+in the priden of the name of Yahweh his God,
+
+and thus they will dwello
+
+for now, he will be magnified to the endsp of the earth.
+
+a. The second-person masculine singular suffixes technically refer to tower as the antecedent. Mount Zion and Lady Zion are here distinguished syntactically.
+
+b. Literally, the term bat ṣiyyôn means “Daughter Zion” or “Daughter of Zion,” but in prophetic literature, this term is a title that plays off Western Semitic traditions of personified cities. The term Lady Zion thus communicates this titular function.15
+
+c. The pronouns of this verse refer to three different entities (the remnant nation, Lady Zion, and the kingdom). The remnant nation is addressed in second-person masculine singular. Lady Zion/Jerusalem is a feminine entity who is spoken about. The two verbal roots meaning “to come” both require feminine nouns, but the subject of the first verb (ʾth) is understood proleptically to be the feminine noun kingdom which is also the subject of the second verb meaning “to come” (bwʾ).
+
+d. The LXX has the additional phrase out of Babylon. Most commentators recognize the LXX as a later interpolation, but it does indicate that 4:8 was already considered as a reference to Jerusalem’s destruction.
+
+e. The second-person feminine singular verbs and suffixes in 4:9 must refer back to Lady Zion; indeed, these second-person feminine singular references remain consistent through 5:1 (4:14).
+
+f. 4Q168 appears to have a third-person feminine singular suffix rather than the second-person feminine singular address in MT. However, given that this word is only attested in the very fragmentary text, too many possibilities could account for the variation to suggest that MT be changed here based exclusively upon this text.
+
+g. LXX has “Yahweh your God.” This verse (or the part containing Yahweh) is not fully extant in 8Ḥev 1, 4Q168, and Mur 88 due to lacunae in the fragments. It is thus not possible to verify with absolute certainty whether the longer title represents an expansion or an abbreviation of the MT in the LXX or its Vorlage. Nevertheless, the LXX translator may have been influenced by Mic 4:5, which refers to “Yahweh our God,” and expanded the title here. The phrase “Yahweh … God” is quite common in the Hexateuch where it appears more than five hundred times, and it also appears seven times elsewhere in Micah (1:2; 4:2, 5; 5:4; 6:1; 7:10, 17).
+
+h. The verb here, gdd, can be derived from two different etymological paths, either of which could function within this context. The root gdd I derives from a Hebrew root that means “to cut” (Deut 14:1; 1 Kgs 18:28; Jer 16:6; 41:5; 47:5), but the more appropriate meaning of the word for this context probably intends gdd II, which derives from an Arabic root meaning “to band together” (Ps 94:21). The nominal form of this root can be used in military contexts to refer to the mustering of troops or to the troops themselves (1 Sam 30:8, 15, 23; 2 Sam 3:22; 2 Kgs 6:23; 13:20–21; Jer 18:22; Hos 7:1; Job 29:25; 2 Chr 25:9, 10, 13).
+
+i. The LXX translates MT Bethlehem of Ephrathah as “you, Bethlehem, house of Ephrathah,” rather than just “you, Bethlehem, Ephrathah.” 8Ḥev 1 probably agrees with the LXX, but lacunae in the text do not allow absolute certainty. It has “you, house of Ephratha”: su oiko[s_e]fratha.” Thus “Bethlehem” is missing in this Greek manuscript. A small gap may appear, but there is not enough space for Bethlehem.16 Thus, the Greek traditions attest “house of Ephrathah” but not the MT. Matthew 2:6 omits Ephrathah entirely and interprets the whole as “land of Judah” rather than Ephrathah, but this phrase appears nowhere in the Old Testament. The simplest solution to the Greek translations may, in fact, be to recognize “house of Ephrathah” as a translation error (i.e., a partial translation). Since Bethlehem means “house of bread,” and is immediately followed by Ephrathah in MT, it seems plausible that the translators started to translate Bethlehem as “house of bread” but skipped “bread” and went straight to the next word, Ephrathah. Text critically, the reading in 8Ḥev 1 could simply be a case of an error where the translator’s eye went back to the wrong word resulting in the bēt in bēt-leḥem being translated literally as “house of …” and then following with Ephrathah.
+
+j. BHS suggests rearranging the consonants from ʾeprātâ ṣāʿîr (“small”) to ʾeprāt haṣṣāʿîr (“the smallest”) as a probable reading. The LXX translates MT, making it the oldest attested reading.
+
+k. According to DJD XV, a fragment of Micah from Qumran (which Russell Fuller labels fragment 5) has enough text visible to indicate that instead of “to me” (ly) in MT, the text of 4Q168 here has “not” (lʾ) after “went forth.”17 Andersen and Freedman agree, but they treat Fuller’s fragment 5 as part of Micah.18 Fuller does not, however, include fragment 5 with 4Q168 as Andersen and Freedman do, because Fuller maintains that the fragment is too small to align with one of the other manuscripts of the Twelve. LXX and 8Ḥev 1 confirm MT. Smith-Christopher cautiously suggests that the otherwise unattested reading fits the ideological profile of other anti-Jerusalemite textual changes in Qumran manuscripts.19
+
+l. 8Ḥev 1 has a different preposition than the LXX, with 8Ḥev 1 representing a more literal rendering by mirroring the double use of the min preposition in the Hebrew with two uses of apo, while the LXX uses ex as the second preposition. The meaning does not change, but the LXX represents a smoothing of the phrase for a Greek-speaking audience while 8Ḥev 1 mirrors the Hebrew more closely when selecting Greek equivalents.
+
+m. The LXX translates will stand and shepherd with an additional verb and conjunction (kai opsetai), and it adds the phrase “his flock” (to poimnion autou) as the direct object of the third verb: “and he will stand and see and shepherd his flock.” The extra verb in the LXX assumes the Hebrew rʿh meaning “to see,” which sounds very similar to the MT rʿh (from rʿh I, “to tend the flock”), which follows in MT. The LXX thus reads “stand and see and feed his flock.” The text of 8Ḥev 1 agrees with MT. It is possible that the extra verb existed in the Hebrew Vorlage used by the Septuagint translator, but it is more likely that the translator translated the single verb with two Hebrew homonyms: rāʾâ (with an aleph) and rāʿâ (with an ayin). The former means “to see” and the latter means “to pasture” (a flock). The LXX has both opsetai (“he shall see”) and poimanei (“he shall pasture”), but the Hebrew words would sound extremely similar despite the variation in spelling. The LXX also adds “his flock” (which fits the verbal idea), but this word is not present in 8Ḥev 1.
+
+n. LXX has “glory” (doxē) rather than pride, but doxē can connote “magnificence” or “splendor,” especially when describing inanimate objects, so it does not translate a different Hebrew text.
+
+o. For the phrase and thus they will dwell, the LXX has “to exist because” (hyparxousin dioti) but 8Ḥev 1 has epistraphēsontai hoti (“to turn back because”). The LXX agrees with MT since epistraphēsontai (“they exist”) translates MT’s plural perfect form (wyšbw) from the root yšb. The Greek manuscript, 8Ḥev 1, presumes an infinitive verb form that also comes from šwb, but the unpointed Hebrew would presume a different consonantal text (wšwb or wšb). The syntax of 5:4(3) is cumbersome, since the MT points the verb as a vav-consecutive perfect to accentuate the conviction that the promise to dwell securely in the land is a consequence of Yahweh’s activity in Mic 5:4a. MT should be maintained. See the fuller discussion of this verse in “The Text of Micah” in the introduction to the text of Micah in this commentary.
+
+p. The LXX has akrōn while 8Ḥev 1 has peratōn. The two are synonyms, “extremity” or “end.”
+
+The second group of texts in Mic 4–5 consists of a series of five sayings in 4:8–5:4(3).20 These five units are: 4:8, 9–10, 11–13; 5:1 (4:14); and 5:2–4(1–3). These sayings are introduced by either and you (wəʾattâ in 4:8; 5:2[1]) or now (ʿattâ in 4:9, 5:1 [4:14] and wəʿattâ in 4:11). Additionally, the phrase but now (kîʿattâ) appears in 4:10b (as the opening phrase of the line that concludes the saying of 4:9–10). Even though spelled differently, you and now sound similar in Hebrew. This unit of five sayings then coheres around the sound of the opening words of each saying. The you sayings occupy the outer part of the frame by speaking directly to the reader/hearer of these texts, while the triple use of now in the internal portions of this group emphatically creates a sense of urgency. The interrelationship of these five sayings deserves comment. The arrangement, if not the composition of the verses, creates a certain progression as it explores the fate of Judah and Zion.21 The specific parameters of the sayings remain debated because the overlapping content does not always have a clear beginning or end.
+
+
+
+
+
+1. “You” Will See the Former Dominion (4:8)
+
+
+8 Micah 4:8 begins with a comparative and you (wəʾattâ), which either presupposes or creates a connection to the preceding verses. Syntactically, 4:8 addresses a masculine-singular entity directly, but the metaphorical language combined with an appositional phrase equating tower of the flock and the hill of Lady Zion technically means that Mount Zion constitutes the most likely conceptual entity addressed by this verse. Moreover, the parallelism creates an intricate web of promises within the four versets:
+
+And you [2ms], tower [ms] of the flock [ms], hill [ms] of Lady Zion,
+
+it will come [3fs of ʾth] to you [2ms].
+
+The former dominion [fs] will come [3fs of bwʾ]
+
+and a kingdom [fs] to Lady Jerusalem.
+
+The second-person masculine singular pronoun (2ms) in the first line has two formal identities (tower and hill, both masculine singular [ms]) that are syntactically equated with one another, but the fact that the Hebrew word wəʾattâ (and you) precedes both terms is significant. Both appear in appositional phrases, so they both must be the “you” of the pronoun as well. It causes the reader to encounter a new character in the text, the mountain of Zion, who is now addressed while the references to Lady Jerusalem refer to her in the third person. The vav on the front of the pronoun means that the pronoun opening the unit thus has two proleptic antecedents. The second-person masculine singular suffix with the preposition at the end of line 2 refers back to the tower/flock of the first line. Simultaneously, the verb come at the end of the second line switches to a third-person feminine singular (3fs) form deriving from the relatively rare root ʾth, which has the same three consonants as the pronoun you. The third-person feminine singular verbal form in line 2 requires a change of subject, and this change mirrors the opening line in that the subject of the feminine singular verb is both proleptic and articulated with two nouns in versets 3 and 4 (dominion and kingdom, both feminine singular [fs]). Finally, versets 3 and 4 share a single verb and thus connect closely by their synonymous parallelism. Whereas the first two versets form a promise to Mount Zion, in the next two versets Lady Zion receives the promise of a return to her former dominion and a kingdom. The intricate construction of parallelism thus utilizes syntax, assonance, and imagery to combine the poetic lines.
+
+It was noted above that the opening Hebrew word (wəʾattâ) in 4:8 means and you. It also implies a comparison to that which has gone before. So, how does 4:8 relate to the preceding verses? First, the artful, emphatic address (and you) of 4:8 metaphorically conceptualizes Mount Zion as the addressee, and it is hardly an accident since 4:1 articulates a promise to the mountain of the house of Yahweh. Second, the end of 4:1–7 promises to make the oppressed in Judah into a mighty nation in which Yahweh will reign on Mount Zion. Thus, 4:8 picks up both the addressee of Mount Zion (4:1, 2, 7) and the theme of the restoration of the kingdom (4:7) from the preceding unit, making it highly likely that someone composed 4:8 for its context as an artistically constructed bridge to the three now sayings that follow (4:9–10, 11–13, 14) where the dominant addressee is again the feminine entity Lady Zion.
+
+The phrase tower of the flock has created interpretive difficulties since the phrase in Hebrew is also associated with something near Bethlehem in the Jacob story (Gen 35:19–21):
+
+19So Rachel died, and she was buried on the way to Ephrath (that is, Bethlehem), 20and Jacob set up a pillar at her grave; it is the pillar of Rachel’s tomb, which is there to this day. 21Israel journeyed on and pitched his tent beyond the tower of Eder. 22While Israel lived in that land, Reuben went and lay with Bilhah his father’s concubine; and Israel heard of it. Now the sons of Jacob were twelve. (Gen 35:19–22 NRSV, emphasis added)
+
+It has been debated whether this term reflects the name of a town or an actual tower. Already in the nineteenth century, listing the problems with all the attempts to locate a town by this name took considerable space.22 Debates existed already in the fourth century, as noted in the writings of Eusebius and Jerome. Ernst Wilhelm Hengstenberg discusses two groups of nineteenth-century interpreters: those who understood the term as a “metalepsis” to Bethlehem itself as a metaphor for the “Davidic race,” or those who saw it as the name of a gate in Jerusalem. He lays out numerous problems for both ideas. His own interpretation focuses upon the work of Josephus, who believed it refers to the larger of two hills upon which Jerusalem was built (Akra and Zion), with Zion being considerably taller than Akra. Hengstenberg notes that the king’s palace was built at the top of this hill, and that it had a tower above it. He notes that this tower is compared to the neck of a woman, but the tower is called the tower of David (Song of Solomon 4:4). The recognition of this language as metaphorical makes far better sense of the phrase, even if it is also a play on words to place-names associated with Bethlehem. The parallel of the mountain and the hill refers to the entire elevated portion of Jerusalem. This portion of Jerusalem included the king’s house and the temple.
+
+The promise in this verse concerns the reestablishment of dominion and a kingdom as in days long past. Most critical commentators who recognize 4:8 in conjunction with 4:9–10 recognize that the latter refers to the events surrounding Jerusalem’s destruction.23 The fact that the LXX includes the phrase “from Babylon” shows that either the translator or the source text saw this verse as a prophecy of Jerusalem’s destruction in 587 BCE. Critical scholarship that sees Mic 4–5 as a postexilic composition sees this statement as part of the redaction of Micah when the idea of a restoration of the Davidic kingdom might still have been envisioned. In Hag 2:20–23, Yahweh seems to express similar ideas concerning Zerubbabel, the grandson of Jehoiachin. Yahweh announces that he will soon overthrow the kingdoms and make Zerubbabel a signet ring (2:23). This statement about Zerubbabel reverses the oracle in Jer 22:24–30 where Jeremiah rejects Jehoiachin as king and announces the end of Davidic line. The prophet tells him in 22:24, “As I live, says the LORD, even if King Coniah son of Jehoiakim of Judah were the signet ring on my right hand, even from there I would tear you off” (NRSV).
+
+
+
+
+
+2. “Now,” Why Do You Shout? (4:9–10)
+
+
+9 Two markers in this verse signal a shift to a new saying: the use of wəʿattâ (and now) at the beginning of 4:9, and the change of the form of direct address to second-person feminine singular, which in this context can only refer to Lady Zion, the personified city of Jerusalem.24 Lady Zion is the subject of the concluding promise in 4:8, but in 4:9 the prophetic voice addresses her directly. Micah 4:9 begins a series of three small units (4:9–10, 11–13, 5:1 [4:14]) that all begin with now (ʿattâ) or and now (wəʿattâ) and that all address Lady Zion. These three units form the middle section of the second group of sayings in Mic 4–5 mentioned above, in which the opening word of the outer section (wəʾattâ, and you in 4:8; 5:2[1]) is pronounced very similarly to the opening word in 4:9, 11; 5:1 (4:14), (ʿattâ or wəʿattâ, meaning now or and now). You is spelled with an aleph while ʿattâ in 4:9, 11; 5:1 (4:14) is spelled with an ayin and means now. While the similar sounds create a sense of cohesion within this group, it remains a difficult task to follow the dramatic and thematic development of these verses, both because of their changing geographic perspectives and because their chronological implications stand out from the immediate and extended context.25
+
+Immediately after the attention grabbing now that begins 4:9, the prophetic speaker addresses Lady Zion with a rhetorical question that presumes she is in distress: Why do you shout so loudly? This question requires a dramatic shift in perspective from the reader given that Lady Zion has been the object of a promise to restore the dominion of old in the previous verse. With the opening “Now,” readers are asked to shift gears and recognize that something currently threatens Lady Zion (in contrast to the preceding material), though the nature of that threat is not explicitly stated. Rather, one must deduce the nature of the threat from the second question (Is there no king with you?), but here ambiguity enters the picture because of the polyvalence of the imagery and the perspective that the reader must assume with these questions.
+
+The imagery, syntax, and context of the first rhetorical question must be assessed carefully before one can make sense of the second rhetorical question. Parts of the imagery are clear. The change to a second-person feminine singular address implies that the speaker addresses the question to Lady Zion who represents Jerusalem personified. The difficulties begin, however, when trying to identify the king/counselor mentioned in the two parallel parts of the question: Is there no king with you, or has your counselor perished? The polyvalence arises because one must decide whether the king/counselor refers to a human king on the throne in Jerusalem or to Yahweh. With this identification, one must then decide whether the rhetorical question should be answered in the affirmative or the negative. Finally, given the dramatic shift to now, one must decide whether to conceptualize Lady Zion’s distress as a question posed from the perspective of an eighth-century prophet alluding to the siege against Jerusalem by Sennacherib, the eighth-century king of Assyria, or to the siege against Jerusalem more than a century later by Nebuchadnezzar, king of Babylon.
+
+The last of these decisions represents the easiest place to begin, contextually, since 4:9 leads directly into 4:10, and 4:10 refers explicitly to the events of 587 and Jerusalem’s exile: you will go to Babylon. Clearly, 4:10 forces the reader to recognize that the now in 4:9 refers to the deportation and/or destruction of Jerusalem at the beginning of the sixth century BCE. The siege led by Sennacherib at the end of the eighth century BCE did not destroy Jerusalem completely, though in the aftermath of Hezekiah’s revolt against Assyria, Judah lost control of a great deal of its territory. Much of Mic 1–3 anticipated this siege. In this sense, the specific reference to exile in Babylon in 4:10 strikes many readers as surprising, but it becomes less so when one realizes that chapters 4–5 begin with eschatological promises that have already pushed the reader into the distant future from the perspective of chapters 1–3.26 This perspective of the Babylonian exile differs, however, from the Assyrian orientation of other sections of Mic 4–5 (see 4:14).
+
+10 The recognition of the close connection between 4:9 and 4:10 provides grounds for answering the question of whether the king mentioned in 4:9 refers to a Davidic king or to Yahweh. The action in 4:10 alludes to Jerusalem’s exile in Babylon, but it also refers to Yahweh’s deliverance of Zion from her Babylonian enemy. Twice, 4:10 specifically uses there to connect Babylon with the location of Yahweh’s salvific action of deliverance and redemption from the enemy (there you will be delivered; And there Yahweh will redeem you). When one returns to the questions that began 4:9, Zion’s plea for release from her distress receives a dual response. On the one hand, the reason for Zion’s distress is affirmed: she will be exiled to Babylon. On the other hand, the affirmation that she will be delivered and redeemed from there can only be understood as the work of a powerful warrior and king. Thus, the question in 4:9 of whether Zion’s king is still with her or whether her counselor has perished must be read in the light of the affirmations of 4:10.27 Her king is still with her, and her counselor has not perished. She will endure punishment, but she will be redeemed by Yahweh. Jerusalem does not need a human king because Yahweh functions as king.
+
+The two commands in 4:10 address Lady Zion directly. The verbs appear in the second-person feminine singular (2fs) as do the verbs in 4:10b:
+
+Writhe [2fs], and burst forth [2fs], Lady Zion …
+
+For now, you [2fs] will go forth from a village,
+
+And you [2fs] will dwell in a field.
+
+Here, 4:10 addresses Jerusalem personified (see translation note), but also speaks metaphorically.
+
+Translators often translate the Hebrew phrase bat șîōn literally as “Daughter of Zion,” but this translation potentially miscommunicates the concept of bat when used with cities in West Semitic contexts. Outside of Judah, the national gods were male, but these male deities may have been conceptualized as having multiple wives. In a string of texts and archaeological finds (mostly coins) cities were perceived as the domain controlled by the consort of the male deity.28 In these texts, the city is often personified as a consort of Assur or some other deity. These texts use some version of the word bat in ways that consider her to be a real entity who lives in the heavens. At other times, the text personifies the city but assumes her to be a consort deity. Since these other texts come from polytheistic contexts, this title has many nuances. In some ways the deity (bat) functions as a queen, a wife (who has sexual encounters with a deity), a mother (of another set of gods), and the wife of the lord of the manor. When biblical writers borrow the term, some of these connotations are theologically taboo, since YHWH is the only deity recognized. Nevertheless, when Zion is personified as Jerusalem, she and her children (the inhabitants of Jerusalem) have a special relationship with Yahweh. For example, note Isa 43:5–6, where Yahweh promises Lady Zion he will bring her children home (43:5) and refers to those children as “my sons and my daughters” (43:6). Similarly, in Isa 49, this personified city complains that Yahweh has abandoned and forgotten her (49:14), but Yahweh denies he could forget her and promises to rebuild and repopulate her (49:15–19). Yahweh promises that the nations will return all her children by bringing them to her (49:22). She is, of course, not a deity in these biblical texts, but she is larger than life.
+
+
+
+
+
+3. “Now” the Nations Will Be Punished (4:11–13)
+
+
+11 The second now saying introduces a three-verse unit (4:11–13) and builds upon the first now saying (4:9–10). The second-person verbs and pronouns in this unit continue to address Lady Zion, but the action anticipates a scenario where many nations will seek to take advantage of Jerusalem’s punishment. These unnamed nations presumably refer to the surrounding territories who will take advantage of Jerusalem’s defeat. The speech they are quoted as saying (Let her be defiled, and let our eyes gaze on Zion) draws upon language that typifies poetic descriptions of the city’s destruction. The imagery carries subtle but clear sexual overtones in that Lady Zion is defiled while the nations watch, especially in light of prophetic texts associating the idolatry of Lady Zion (or another personified city) with harlotry.29 The scene characterizes the nations as taunting Zion and enjoying her fate.
+
+12 Micah 4:12 contrasts the nations’ enjoyment of Zion’s distress (4:11) with an ominous statement regarding the fate of the nations that leads directly into 4:13. The verse opens with a statement that could well be an allusion to Jer 29:11, part of a very powerful promise in Jer 29:10–14 of a return to Judah after a seventy-year period of exile:
+
+10 For thus says the LORD: Only when Babylon’s seventy years are completed will I visit you, and I will fulfill to you my promise and bring you back to this place. 11 For surely I know the plans I have for you, says the LORD, plans for your welfare and not for harm, to give you a future with hope. 12 Then when you call upon me and come and pray to me, I will hear you. 13 When you search for me, you will find me; if you seek me with all your heart, 14 I will let you find me, says the LORD, and I will restore your fortunes and gather you from all the nations and all the places where I have driven you, says the LORD, and I will bring you back to the place from which I sent you into exile. (NRSV, emphasis added)
+
+This passage from Jeremiah contains many of the same thematic elements present in the Micah passage. Both passages presuppose an exile to Babylon (Jer 29:10; Mic 4:10), which has allowed the nations to further the calamity (Jer 29:14; Mic 4:11). Yet both passages also presuppose that these events represent only one piece of larger plans of (maḥăšābôt) restoration that Yahweh intends (Jer 29:11; Mic 4:12). Nevertheless, these two passages are not identical in their portrayals of what these plans entail, and the differences are instructive. The Jeremiah text presupposes the need for the people to demonstrate repentance by seeking Yahweh, and the restoration described in the passage speaks primarily about a return to the land, which makes sense in Jeremiah since this passage is depicted as part of a letter sent by Jeremiah to the exiles of the first deportation (Jer 29:1–2). By contrast, Mic 4:11–13 delivers a promise to Lady Zion, representing the fate of the city, who will be defiled and taunted at the hands of the nations (Mic 4:11). The plans of Yahweh in the Micah context do not focus upon the return of the inhabitants. Rather, they focus upon the punishment of those nations who have taken advantage of Zion’s calamity. In this sense, the Jeremiah text presupposes the first deportation but does not yet assume the utter destruction of the city, while the promise of Mic 4:12b–13 presupposes that Zion has been defiled while the nations watched (4:11).
+
+In response, Yahweh will gather those nations like grain from the threshing floor (4:12) where they will be stomped by a rampaging Lady Zion and her copper hooves and iron horn (4:13). Thus, restoration in Mic 4:12 does not address an audience who must wait patiently in Babylon for seventy years. Rather, this portrait of restoration implies aggressive action (4:13) on the part of Lady Zion that involves retribution against those nations who took advantage of her distress. The threshing floor functions as a metaphor for the place of judgment, since the actions associated with threshing the grain involve violent acts: beating the husks, winnowing the grain to separate the husks from the kernels, and ultimately crushing the grain into meal. When speaking of kernels of grain, this activity represents hard work with a productive outcome, but when the grain represents the nations, the same activity represents dire consequences for those being judged.30
+
+13 The commands in Mic 4:13 continue the direct address (second-person feminine singular) from the prophetic speaker to Lady Zion. However, the message no longer focuses upon her distress, but upon her role in Yahweh’s retaliation against the nations who taunted her (4:11) and whom Yahweh had gathered to the threshing floor (4:12). The guiding metaphor of the verse depicts Lady Zion as a rampaging bull, designed for war with metal horns and feet.31 These unnatural implements provide her with tools to defeat her foes and are designed to show her power. The imagery of a warrior goddess has a lengthy history in the ancient Near East, but the imagery here differs in at least two respects. First, Lady Zion is not a goddess, though much of the Lady Zion material in prophetic literature has adapted the language of the city goddess traditions for the purposes of speaking about the fate of Jerusalem and to depict the intimate relationship between Yahweh and Jerusalem. Second, within the Lady Zion tradition, this text has no parallels, since she is not typically portrayed as a fierce figure. Micah 4:13 presents Lady Zion as an aggressive, powerful warrior whose actions will crush the nations and fill the coffers of Yahweh, and that image differs from the imagery as it more typically appears, where the city personified is condemned as a harlot (e.g., Jer 2:20; Ezek 16:15–17, 29), portrayed as a grieving mother (Isa 49:18–21) and aggrieved spouse (Isa 49:14; 50:1), or as the more or less passive recipient of Yahweh’s actions of returning her children, her buildings, and her wealth (Isa 49:22–26; 52:1–10; Zeph 3:14–20). In Mic 4:13, by contrast, Yahweh acts toward Zion so that she crushes the nations with her metal hooves. The booty from the battle and the defeat of the nations will benefit Lady Zion and Yahweh. This articulation of the Lady Zion tradition does not deem Jerusalem as the recipient of peace, but as the one who helps Yahweh establish peace by bringing the nations under control.
+
+Within the broader context of 4:11–13, this second section of now sayings warns Jerusalem that the nations looked forward to Jerusalem’s devastation (4:11) without realizing that Yahweh’s plans for Zion did not anticipate a complete annihilation of the city or the people (4:12). These plans are conveyed to Zion in a way that shows that the nations will be gathered to the threshing floor (4:12b) where Lady Zion will exact vengeance and tribute from them (4:13).
+
+
+
+
+
+4. “Now,” Nations Gather Against You (5:1 [4:14])
+
+
+5:1 (4:14) The fourth saying also begins with now (as in 4:9, 11) but forces the reader to revert to an earlier time, one that presupposes a siege against the city. Which siege it has in mind, however, depends upon how one understands the composition history of the book, as well as the nature of the prophetic material that it contains. Does the siege intend to call to mind the siege of Sennacherib (701 BCE), Babylon (597 BCE/587 BCE), or some unexplained future event? Earlier models of prophetic literature usually assumed that the sources incorporated by later editors were compositions created by anonymous prophets and then attached to existing collections. More recently, models have arisen that assume (to varying degrees) that the expansions of the scrolls involved compositions that were created specifically for the literary contexts where they now reside.
+
+This saying (5:1 [4:14]) begins with a feminine singular imperative delivered to Lady Zion that serves as an exhortation. The exhortation calls for her to muster herself, which assumes both that a military threat looms before her and that she can endure what comes. The word for muster typically implies the rallying of troops for battle.32 In order to emphasize the point, the title by which Lady Zion is addressed changes in 5:1 (4:14) to Lady Muster, using a nominal form as a vocative of the same verbal root as the imperative that opens the admonition. This word play is difficult to mimic in English. The double use of this verbal root stresses the concept of mobilizing troops. Yet, the nature of the battle assumed by this saying differs from the previous saying, where Lady Zion was portrayed as the aggressive instrument of Yahweh’s plan. In 5:1 (4:14), she is exhorted (5:1aα) to rally her troops because a siege is about to begin against us (5:1aβ). The consequence of this siege is also articulated in that the attackers strike the judge of Israel on the cheek (5:1b).
+
+The meaning of this final line of 5:1 (4:14) can be interpreted in various ways depending upon the context one assumes and depending upon how one interprets the rather ambiguous phrases within the verse. To wit: does the judge of Israel refer to the king of Judah, and if so which one? Also, what is the meaning of the phrase to strike the judge of Israel on the cheek? Does this phrase refer to a slap to the face to convey humiliation or does the phrase connote a mortal wound from which the judge will not recover? Given that the context assumes a group of attackers (and probably assumes those attackers are the nations/peoples mentioned in 4:11, 13), it seems probable that the judge of Israel refers figuratively to the king of Judah.33 That said, the severity of the blow (strike … the cheek of someone) need not imply that the king dies from the blow. The verbal root “to strike” frequently serves as a synonym for killing someone, but the phrase strike … the cheek is used elsewhere to mean the act of slapping someone to humiliate that person (so 1 Kgs 22:24; 2 Chr 18:23; Job 16:10), not to kill them.34 Most, therefore, treat the blow as nonlethal.
+
+Commentators are split, however, on the question of the identity of the king delivering the blow (and receiving it). Some commentators believe that the “slap” alludes to Sennacherib’s attack of Hezekiah in the siege of 701, the result of which required Hezekiah to pay tribute to Sennacherib.35 Other commentators see 5:1 (4:14) as a reference to the events of 587 BCE because the evidence suggests chapters 4–5 were added to Micah after Jerusalem’s destruction in 587 BCE.36 The poetic nature of the text could also have deliberately created a parallel between the two threats to Jerusalem. The theme of royal humiliation works in either case because it is paradigmatic of how far Judah had fallen in the eyes of the prophet. The image need not be formulated to refer exclusively to Jerusalem’s destruction in 587 BCE or to the events of 701 BCE, because one thing is sure: both events resulted in a dramatic change in the power structure of Judah and Jerusalem that reduced the power of the Judean monarch.
+
+The siege of Sennacherib happened after Hezekiah began a series of reforms, both religious and political, designed to strengthen the central role of Jerusalem over the kingdom of Judah. As part of this effort, Hezekiah appears to have imprisoned a Philistine king named Padi, who was also an ally of Sennacherib. Consequently, Sennacherib laid siege to Jerusalem and Hezekiah was forced to defend the city from a very weakened position. The biblical account (2 Kgs 18–20) and Sennacherib’s own account differ on precisely how the siege ended. In the biblical account, 2 Kgs 19:35–37 describes a miraculous ending when the angel of Yahweh struck down 185,000 Assyrians so that Sennacherib left to return to Assyria where he was (shortly) thereafter murdered by his sons. By contrast, the Annals of Sennacherib paint a different picture, one in which Sennacherib went home victorious, reinstated Padi, took territory away from Hezekiah, and accepted tribute from Judah. Sennacherib also lived for another twenty years after the siege was completed. The Kings’ account refers to tribute given to Sennacherib (2 Kgs 18:14–16), but these events precede the miraculous departure narrative (19:35–37).37 One could read the metaphor of the “slap on the cheek” as a reference to the treatment of Hezekiah by Sennacherib and the promise to Zion as a statement of deliverance from the Assyrians. Hezekiah remained on the throne, but the actions described by Sennacherib are designed to weaken and humble Judah’s king. By contrast, the treatment of Judah’s kings by Babylon appears more brutal (Zedekiah) or more politically disempowering (Jehoiachin) than Assyria’s treatment of Hezekiah. Jehoiachin ruled in Jerusalem only three months in 597 BCE after the death of his father, Jehoiakim, who had rebelled against Babylon. Jehoiachin was taken to Babylon and kept as a prisoner there for more than thirty-seven years (2 Kgs 25:27–30). There is some evidence that he retained a position of prestige among the exiles, yet clearly in a very diminished capacity that one could interpret as a kind of humiliation for the royal line of David. In place of Jehoiachin, Nebuchadnezzar appointed Zedekiah as king in 597, but Nebuchadnezzar also imposed punitive taxes on Judah that Zedekiah had difficulty paying. These financial strains created economic problems that would prove devastating. Within four years Zedekiah attempted to recruit other kings to form a unified resistance to Babylonian rule. Ultimately, Zedekiah stopped paying tribute to Babylon, and Nebuchadnezzar laid siege to Jerusalem before destroying the city. Zedekiah tried to flee, but he was captured and forced to watch as the Babylonians killed his sons before blinding him (2 Kgs 25:5–7). He was then bound in chains and taken to Babylon as a humiliated prisoner. Literally, the punishment was designed so that the last thing Zedekiah ever saw was the death of his own descendants. This image seems much harsher than a slap on the cheek.
+
+The difficulty of isolating a single king also remains because of the broader literary context. Reading this passage as a comment on Assyrian treatment of Hezekiah makes sense of the reference to Assyria that follows in 5:5–6(4–5), but the previous reference to exile to Babylon (4:10) causes readers to imagine the aftermath of Jerusalem’s destruction in 587. This multivalent interpretation presupposes that the now statements can refer to the “now” of the literary setting in the time of Hezekiah (cf. Mic 1:1). Recognizing this multivalence, however, means that these now statements can also force the original readers to consider their own time in relation to these statements (which for most scholars would be sometime during the Persian period). In other words, the reference to now asks the original readers to hear the text in the time of the prophet as a testimony to the enduring resistance of Judah’s kings to Assyrian rule, even while considering their own situation after Babylon has destroyed Jerusalem. In so doing, the readers experience these promises as both promise and judgment. On the positive side, hundreds of years later the people in Judah still bear testimony that Yahweh’s people live on. Yet, those same readers know that they no longer live under the leadership of a Judean king. Judah served foreign kings from the time of Jerusalem’s destruction (587 BCE) until the time of the Maccabees (165–67 BCE) when a group of priests managed to kick out the foreign rulers. In this sense, those readers would have felt a sense of shame and loss because of the longevity of the consequences of Judah’s revolt against Assyria and Babylon.
+

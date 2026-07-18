@@ -23,22 +23,43 @@ The land promise is central to the Abrahamic covenant from its first statement (
 
 Critically, the promise precedes any conditions of obedience — it is given before Israel exists as a people and before the covenant law is given. The land is a grace-promise. See [[covenant|Covenant]] for the Abrahamic covenant's unconditional character.
 
+## The Land as Gift (*nāṯan*) and Inheritance (*naḥalâ*)
+
+Attributed to [[marten-woudstra|Woudstra]] ([[woudstra-joshua-nicot]]; digests A, E, F, G):
+
+- **Divine monergism / gratuitous gift.** Narrative emphasis lies chiefly on God’s “giving” the land (Introduction V; e.g. 1:3; city-by-city “the Lord gave”). At Shechem (24:13) Woudstra stresses: “the book’s main emphasis lies on the gratuitous nature of the gift God gave to his people in granting them the land… ‘So I gave you a land on which you had not expended any effort.’”
+- **Naḥalâ as concrete covenant shape.** Lengthy tribal boundaries are not mere geography: “these boundaries give concrete shape to the promises of God. The promise of the land was one of the recurring features of the covenant undertakings given to the patriarchs” (on chs. 18–19). Solemn allotment summaries (e.g. 19:51) match “the crucial role which the possession of the promised land played within the covenant dealings between the Lord and Israel.”
+- **Gift with condition, not works-righteousness.** Possession (present and future) is conditional on covenant obedience (23:1–8), yet “this condition should not be seen as contrary to the principle of gratuitous giving… Nevertheless, it is a condition just the same.” On 13:1–6: Israel may rest in the covenant Lord’s work yet look forward to greater dimensions of rest — “This latter emphasis should not be turned into one of works-righteousness. Of that the OT is as devoid as the NT. The land is and remains a land of promise, ‘given’ to the patriarchs within the context of a covenant of grace.”
+- **Faith must take possession.** Slackness of the seven tribes (18:2–3) is “ingratitude” toward a gracious gift; Joseph’s complaint (17) shows that possession requires tribal activity undeterred by Canaan’s military force. Caleb’s Hebron claim is paradigmatic of faith receiving what is already given.
+- **Programmatic / ideal boundaries.** Boundaries of land still remaining (13:2–6) are ideal and thus a program of action with the Lord’s help (“I myself will drive them out,” 13:6); Higher Critics who ignore the programmatic stamp misread the lists. Possession and covenant favor “went hand in hand, but they were not automatically connected.”
+
 ## The Land as "Rest" (Mĕnûḥâ)
 
-A distinctive OT designation for the land-promise is **rest** (Hebrew: *mĕnûḥâ*, *nûaḥ*). The concept pervades Deuteronomy: "You have not yet come to the rest and the inheritance which the LORD your God is giving you" (Deut 12:9; cf. 25:19). Joshua gives Israel this "rest": "The LORD gave them rest on every side" (Josh 21:44; 23:1).
+A distinctive OT designation for the land-promise is **rest** (Hebrew: *mĕnûḥâ*, *nûaḥ*). The concept pervades Deuteronomy: "You have not yet come to the rest and the inheritance which the LORD your God is giving you" (Deut 12:9; cf. 25:19). Joshua gives Israel this "rest": "The LORD gave them rest on every side" (Josh 21:44; 23:1; also 1:13, 15; 11:23; 14:15; 22:4).
 
-[[marten-woudstra|Woudstra]] identifies "rest" as one of the book's key theological terms. Its significance: the conquest is not primarily about military victory or territorial control but about the cessation of the wilderness wandering and the establishment of a settled relationship between YHWH and his people in the land he has prepared.
+[[marten-woudstra|Woudstra]] identifies "rest" as one of the book's key theological terms. Its significance: the conquest is not primarily about military victory or territorial control but about the cessation of the wilderness wandering and the establishment of a settled relationship between YHWH and his people in the land he has prepared. On 21:43–45 (a “key section of the entire book”), rest is reintroduced as a notion with **expanding horizons** — Pentateuch and Joshua → David/Solomon (2 Sam 7; 1 K 5:4) → NT/eschatological in Heb 4. Rest from enemies is “a foretaste of the Messianic kingdom” (on 23:1). Inheritance and rest are theologically loaded interpretative historiography (on 11:23).
+
+### Already / not yet (compatible dual viewpoint)
+
+Woudstra’s structural claim (Introduction; chs. 11, 13, 21, 23): **completeness and incompleteness of conquest are two legitimate, complementary viewpoints**, not a contradiction to resolve by source criticism.
+
+- Completeness stressed: 11:23; 12:7–8; 21:43–45; 23:1, 14 (// 21:45).
+- Incompleteness: 13:1–7; 14:12; 15:63; 16:10; 17:12–18; 18:2–3; 23:5, 7, 12–13.
+- Both appear **side by side** in 23:4–5: rest from enemies (v. 1) and nations still to be driven out (v. 5) are “two compatible ways of viewing the same events.”
+
+Primary pastoral emphasis for an insecure age: God’s everlasting faithfulness (21:43–45 completes the cycle of 1:2–6), not only incompletion.
 
 This "rest" concept becomes the primary vehicle for the Joshua-Christ typology in Hebrews. See below.
 
 ## The Land's "Essentially Spiritual" Character
 
-Woudstra's key exegetical move: the land promise was **"essentially spiritual to the core"** from the beginning, even in its OT form. The covenant, of which the land promise is a component, is not a material contract with a later spiritual refinement — it is intrinsically a relationship between YHWH and his people that has a material, spatial dimension.
+Woudstra's key exegetical move (Introduction VI; allotment chs.): the land promise was **"essentially spiritual to the core"** from the beginning, even in its OT form. The covenant, of which the land promise is a component, is not a material contract with a later spiritual refinement — it is intrinsically a relationship between YHWH and his people that has a material, spatial dimension. Allotment is “essentially a deeply spiritual occurrence for believing Israelites (cf. Ps. 16:6),” even while OT-covenant happiness attached itself to material goods — land, trees, houses, vineyards.
 
 Evidence from the OT itself:
-- Psalm 16:5-6 uses land-distribution terminology (*ḥebeḷ*, *naḥalâ*) to describe the height of covenant fellowship with God: "The LORD is my chosen portion and my cup; you hold my lot. The lines have fallen for me in pleasant places; indeed, I have a beautiful inheritance."
+- Psalm 16:5-6 uses land-distribution terminology (*ḥebeḷ*, *naḥalâ*) to describe the height of covenant fellowship with God: "The LORD is my chosen portion and my cup; you hold my lot. The lines have fallen for me in pleasant places; indeed, I have a beautiful inheritance." (Woudstra repeatedly cites this for the “essentially spiritual nature of the ‘lot.’”)
 - Psalm 37:9-11 anticipates that the meek will "inherit the land" in a context that is clearly about more than geographical possession.
 - The prophetic promises of return from exile (Isa 40-55; Ezek 36-37) describe the restoration in terms of the land but frame it in terms of spiritual renewal (new covenant, new heart, Spirit poured out).
+- Land possession is blessing **only if** the people observe the covenant statutes of the Lord whose land it is (Lev 25:23) — Phinehas’s verdict after the eastern-altar scare (22:31–34 commentary).
 
 ## The NT Extension: From Canaan to the Earth
 
@@ -91,15 +112,17 @@ distinctive reading of the land theme in Ezekiel 25–48:
 
 ## Modern Territorial Applications
 
-Woudstra states clearly: **"Due care should be taken not to carry over the promise of the land into the modern era, as if somehow today the possession of the land is still part of what the people of the ancient covenant may claim."**
+Woudstra states clearly (Introduction VI land theology; [[woudstra-joshua-nicot]]):
 
-His reasoning:
-1. In the OT, land possession and covenant blessing go together — but land possession can be forfeited (23:16).
+> "Due care should be taken not to carry over the promise of the land into the modern era, as if somehow today the possession of the land is still part of what the people of the ancient covenant may claim."
+
+His reasoning (as he sets it out):
+1. In the OT, land possession and covenant blessing go together — but land possession can be forfeited (23:16; third call of ch. 23: good things fulfilled → evil things come when the covenant is transgressed).
 2. The Latter Prophets contain promises of *return* to the land after exile.
 3. The NT, "while holding out some promise of ultimate restoration to the people of the ancient covenant (Rom 11:25-26), does not combine this promise with a repossession of the land of the fathers."
-4. The NT's land-language has been extended to the whole earth and to an eschatological inheritance — to redirect it back to geographical Canaan is to reverse the direction of fulfillment.
+4. The NT's land-language has been extended to the whole earth and to an eschatological inheritance (Ps 37:11 // Matt 5:5; Rev 21:7) — to redirect it back to geographical Canaan is to reverse the direction of fulfillment he traces from Canaan → whole earth → new creation.
 
-This is a principled theological position (not political), derived from the hermeneutical trajectory of the OT-to-NT extension.
+This is a principled theological position (not political), derived from the hermeneutical trajectory of the OT-to-NT extension. It is recorded here as **Woudstra’s position**, not as wiki-voice adjudication of modern territorial claims.
 
 ## Liberation Theology and the Land
 
@@ -109,10 +132,11 @@ R. Warrior's Native American critique adds a further layer: the paradigm of a pe
 
 ## Sources Ingested
 
-1. [[marten-woudstra|Woudstra, Marten H.]]. *Joshua*. NICOT. Grand Rapids: Eerdmans, 1981.
+1. [[marten-woudstra|Woudstra, Marten H.]]. *Joshua*. NICOT. Grand Rapids: Eerdmans, 1981. Source page: [[woudstra-joshua-nicot]] (fidelity re-ingest 2026-07-18).
 2. [[block-ezekiel-25-48-nicot|Block, Daniel I. *The Book of Ezekiel: Chapters 25–48*. NICOT, 1998.]]
 
 ## Related Texts
 
 - [[book-of-joshua|Joshua]]
 - [[hebrews|Letter to the Hebrews]]
+- [[covenant|Covenant]] · [[herem|Ḥerem]] · [[typology|Typology]]

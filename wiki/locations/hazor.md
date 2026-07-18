@@ -10,8 +10,8 @@ associated_peoples: [
   "Israelites (after the Late Bronze destruction; Solomonic and later Iron Age Israelite city)",
   "Assyrians (conquered by Tiglath-pileser III, 732 BCE)"
 ]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [location, hazor, canaan, galilee, conquest, bronze-age, iron-age]
 ---
 
@@ -59,9 +59,21 @@ where the burning fits the Joshua narrative, even as most others (Jericho, Ai) d
 It thus sits at the center of the tension between the Deuteronomic conquest account and
 the ruralization model of Israel's emergence.
 
+### Woudstra (NICOT Joshua) — brief
+
+Attributed to [[marten-woudstra|Woudstra]] ([[woudstra-joshua-nicot]]; digest D): Hazor is
+“the head of all these kingdoms” (11:10); Jabin heads a last comprehensive northern
+coalition. Woudstra rejects collapsing Josh 11 with Deborah/Barak (Judg 4) — two distinct
+events; Jabin may be a hereditary title; the city may have been rebuilt. Burning is the
+**exception** among mound-cities Israel did not burn (11:13); *ḥerem* on inhabitants makes
+Hazor an example among degrees of the ban (stricter than other northern cities; no rebuild
+curse as on Jericho). 13th-c. burn layers can support a late conquest date but cannot
+prove Israelite agency alone (Introduction V). See [[herem|Ḥerem]].
+
 ## Key Events and Controversies
 
 Joshua's burning of Hazor; the Deborah/Sisera war; the Solomonic gate; the Assyrian
 destruction (732). Its evidence is repeatedly cited in the **conquest-historicity
 controversy** ([[herem-canaanite-conquest]]). Related: [[megiddo]], [[jericho]],
-[[shechem]], [[canaanites]], [[israelites]], [[assyrians]], [[joshua]], [[judges]].
+[[shechem]], [[canaanites]], [[israelites]], [[assyrians]], [[joshua]], [[judges]],
+[[marten-woudstra]], [[woudstra-joshua-nicot]], [[herem]].

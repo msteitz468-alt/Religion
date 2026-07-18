@@ -1,75 +1,73 @@
 ---
 title: Roy E. Ciampa and Brian S. Rosner
-full_name: Roy E. Ciampa (b. 1965 est.) and Brian S. Rosner (b. 1961 est.)
-dates: Ciampa: Gordon-Conwell Theological Seminary; Rosner: various Australian institutions (Moore College, Ridley Melbourne)
-tradition: Christianity (evangelical Protestant)
-affiliation: Evangelical; PNTC series (Pillar New Testament Commentary)
-primary_texts_commented: 1 Corinthians
+full_name: Roy E. Ciampa (b. 1958) and Brian S. Rosner
+dates: Ciampa fl. late 20th–21st c. (Gordon-Conwell); Rosner fl. late 20th–21st c. (Moore, Aberdeen, Ridley Melbourne)
+tradition: [Christianity (evangelical Protestant)]
+affiliation: [PNTC series (Eerdmans; ed. D. A. Carson); Gordon-Conwell Theological Seminary; Moore Theological College; Ridley College Melbourne]
+primary_texts_commented: [1-corinthians]
+hermeneutical_method: [biblical-theological, grammatico-historical, salvation-historical, evangelical-critical]
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [commentator, christianity, new-testament, evangelical, pauline]
 ---
 
 # Roy E. Ciampa and Brian S. Rosner
 
-Ciampa and Rosner co-authored the Pillar New Testament Commentary (PNTC) on *The First Letter to the Corinthians* (Eerdmans, 2010), one of the few major NT commentaries to bear two names as co-equal authors. The commentary is distinguished by its thoroughgoing biblical-theological approach — reading 1 Corinthians primarily through the lens of the OT and Second Temple Judaism rather than through Greco-Roman rhetoric or sociological models.
+Ciampa and Rosner co-authored *The First Letter to the Corinthians* in the Pillar New Testament Commentary (Eerdmans / Apollos, 2010) — one of the few major NT commentaries to bear two names as co-equal authors. Their friendship dates to doctoral work at the University of Aberdeen; simultaneous study leave in 2004 began the writing in earnest. D. A. Carson (editor's preface) praises the work as careful, sometimes innovative, rooted in first-century Corinth without domesticating the text by arbitrarily chosen "parallels," and alert to biblical theology and contemporary relevance.
 
 ## Biographical Context
 
-**Roy E. Ciampa** is Professor of New Testament at Gordon-Conwell Theological Seminary (South Hamilton, MA), where he has taught since the early 2000s. His scholarly focus is on the OT background to Pauline letters, with particular attention to how Paul reads and deploys the Scriptures of Israel.
+**Roy E. Ciampa** (b. 1958 per the volume's cataloging data) is Professor of New Testament at Gordon-Conwell Theological Seminary (South Hamilton, MA). Scholarly focus: OT background to Pauline letters.
 
-**Brian S. Rosner** is an Australian NT scholar and ethicist who has held appointments at Moore Theological College (Sydney), the University of Aberdeen, and Ridley College (Melbourne). His published work spans Pauline ethics, biblical theology, and the theology of Scripture. His book *Paul, Scripture, and Ethics* (1994) established his reputation for rigorous OT-background work in Pauline contexts.
+**Brian S. Rosner** is an Australian NT scholar and ethicist who has held appointments at Moore Theological College (Sydney), the University of Aberdeen, and Ridley College (Melbourne). *Paul, Scripture, and Ethics* (1994; repr. Baker 1999) established his reputation for OT-background work on 1 Corinthians 5–7.
 
-Both are within the mainstream evangelical academic world; both work within the Pillar NT Commentary series edited by D. A. Carson (Eerdmans), a series committed to "rigorous historical scholarship... in the service of the church." Their commentary on 1 Corinthians was preceded by a jointly authored article in *New Testament Studies* (2006), "The Structure and Argument of 1 Corinthians: A Biblical/Jewish Approach," which previewed the commentary's core thesis.
+Both work within mainstream evangelical academic institutions and the PNTC series' commitment to rigorous historical scholarship in service of the church. A jointly authored *NTS* article (2006), "The Structure and Argument of 1 Corinthians: A Biblical/Jewish Approach," previewed the commentary's core thesis.
 
 ## Hermeneutical Method
 
-**Primary framework: Biblical-theological / salvation-historical.** Ciampa and Rosner read 1 Corinthians primarily as a letter saturated in Scripture — its structure, argument, and specific exhortations all drawing on the OT rather than on Greco-Roman rhetoric. The OT provides the primary interpretive lens; the Greco-Roman world provides the context for application, not the framework for interpretation. Their approach is *synchronic* (attentive to the letter's internal logic as a literary whole) and *salvation-historical* (attentive to where Paul and the Corinthians stand on the map of redemptive history).
+**Primary framework: biblical-theological / salvation-historical.** They read 1 Corinthians as saturated in Scripture — structure, argument, and exhortations drawn from the OT and Second Temple Jewish moral tradition for Gentile converts. Greco-Roman social history supplies context for *application*, not the primary interpretive framework.
 
-**Against classical rhetoric as primary framework.** Ciampa and Rosner explicitly resist the influential thesis (Margaret Mitchell, Ben Witherington) that 1 Corinthians is deliberative Greco-Roman rhetoric aimed primarily at producing unity. Their critique is threefold: (1) ancient rhetorical handbooks concern oral speech, not letters; (2) Paul's Greek reflects Semitic and LXX influence, not rhetorical Greek; (3) ancient interpreters from the Fathers onward did not find formal rhetoric in Paul. The biblical/Jewish framework better accounts for both the letter's structure and its argument.
+**Against classical rhetoric as primary frame.** They resist Margaret Mitchell and Ben Witherington's deliberative-rhetoric thesis that the letter is mainly an argument for unity. Critique (Introduction): (1) ancient rhetorical handbooks concern oral speech, not letters; (2) Paul's Greek reflects Semitic and LXX influence; (3) ancient interpreters from the Fathers onward did not find formal rhetoric as the key. Unity is real but not the letter's deepest telos — the glory of God is.
 
-**Grammatico-historical exegesis with attention to verbal aspect.** The commentary demonstrates familiarity with debates about Greek verbal aspect (Campbell, Porter, Fanning) and explicitly avoids naïve claims about the significance of aorist vs. present imperatives or the punctiliar/continuous distinction.
+**Grammatico-historical with verbal-aspect awareness.** Familiarity with Campbell/Porter/Fanning debates; avoid naïve aorist/present imperative theology.
 
-**Evangelical-critical.** The commentary is written explicitly as Christian Scripture to be appropriated theologically, not merely as a first-century historical document. Ciampa and Rosner follow Dietrich Bonhoeffer's principle that "one cannot speak the ultimate word before the penultimate" — the OT must be heard before the NT's message can be properly received. They see contemporary significance as within the commentator's remit.
+**Evangelical-critical appropriation.** Christian Scripture for the church. They cite Bonhoeffer's insistence that one cannot speak the ultimate word before the penultimate — the OT must be heard before the NT's message is properly received.
 
-## Characteristic Positions
+## Characteristic Positions (from the PNTC, attributed)
 
-**1. The social-values thesis.** The root cause of every Corinthian problem is the infiltration of Roman Corinthian social values into the church. The Corinthians are *sarkikoi* — "worldly" (3:3) — not theologically deviant (Gnostics, overrealized eschatologists) but culturally conformist. Sexual ethics, factionalism, lawsuits, idol feasts, charismatic one-upmanship: all are explained by Corinthian status-consciousness, not by any coherent theological error. This is Ciampa-Rosner's most consistently applied interpretive principle.
+**1. Social-values thesis.** Root cause of Corinthian problems = infiltration of Roman Corinthian social values (status, litigation culture, sexual license, idol-table sociality, disdain for bodily resurrection), not a single coherent heresy (proto-Gnosticism, overrealized eschatology). They claim to apply this diagnosis more consistently than peers, including through chapter 7.
 
-**2. Sexual immorality and idolatry as the letter's organizing structure.** Drawing on Jewish sources (Sibylline Oracles, early Christian vice lists, the Decalogue tradition), Ciampa and Rosner argue that Paul's structure mirrors the Jewish moral framework applied to Gentile converts: flee the two defining Gentile vices (sexual immorality, chapters 5–7; idolatry, chapters 8–14), and do so to the glory of God. Greed is a tertiary member of the triad (5:10–11; 6:10). The same pattern appears in Romans 1:21–28, 1 Thessalonians 1:9–10, Romans 15:5–16, Ephesians, Colossians, and Titus.
+**2. Panel structure: flee *porneia* / flee idolatry.** After wisdom/factionalism (1:10–4:17), ethics organize around two Gentile vices: sexual immorality (4:18–7:40) and idolatry (8:1–14:40), each with negative then positive treatment ("Flee X / Glorify God in Y"). Greed is tertiary (lawsuits; vice lists).
 
-**3. Deuteronomy and Isaiah as primary OT templates.** Deuteronomy provides the canonical analogue: Paul as a new Moses spelling out the ethical consequences of the new exodus for a newly redeemed community. The specific concern for purity against idolatry and sexual immorality, the appointment of judges (1 Cor 6 / Deut 1), the Passover imagery (5:6–8 / Deut 16), and the awareness of the Corinthians as those on whom "the fulfillment of the ages has come" (10:11) all reflect Deuteronomy's canonical horizon. Isaiah provides the key to chapters 1–4: Paul's two-wisdom contrast (human vs. divine wisdom; 1:18–2:16) follows Isaiah's Servant-Messiah trajectory; Paul's self-understanding as an eschatological herald draws on Isaiah's suffering servant (Isa 52–53) and the eschatological gathering of the nations (Isa 66:18–24). Malachi 1:11 echoes in 1 Corinthians 1:2 ("who call on the name of our Lord Jesus Christ in every place").
+**3. Deuteronomy and Isaiah as primary OT templates.** Deuteronomy: new-exodus ethics, purity, judges, Passover, community holiness. Isaiah: two-wisdom contrast; Paul as eschatological herald (Isa 40:9; 52:7; 61:1); Suffering Servant + Davidic Messiah in one Christ; nations gathered (Isa 66:18–24). **Malachi 1:11** echoes in 1:2 ("in every place") as worldwide Gentile worship.
 
-**4. The glory of God as ultimate goal.** The letter's ultimate purpose is that God be glorified "in every place" — the fulfillment of Malachi 1:11's eschatological vision of worldwide Gentile worship. Paul's pastoral and ethical directives are in service of this missiological goal. The climax in 15:28 ("God may be all in all") names the end toward which all of history and all of Paul's instruction is oriented. "Do everything to the glory of God" (10:31) is the letter's summary ethical principle.
+**4. Glory of God as ultimate goal.** More fundamental than unity; climaxes in 15:28 ("God all in all") and the ethical summary 10:31.
 
-**5. The church as eschatological temple.** The identification of the church as God's temple (3:16; 6:19; cf. 2 Cor 6:16) is load-bearing for nearly every ethical argument in the letter. Because the Corinthians are the dwelling place of God's Spirit, purity is required. Idol feasting defiles the temple. Sexual immorality defiles the body-temple. Disorder in worship dishonors the temple. Paul is, in this reading, functioning as a priestly steward of God's holy dwelling. See [[eschatological-temple|Eschatological Temple]].
+**5. Eschatological temple.** Church as Spirit-indwelt temple (3:16–17; 6:19) load-bearing for purity, anti-idolatry, and worship order. See [[eschatological-temple]].
 
-**6. Paul as eschatological herald.** Paul's primary self-understanding (after Paul the Jew) is as an eschatological herald sent to the Gentiles in fulfillment of Isaiah's vision. Suffering — apparent weakness, rejection, poverty — is not incidental to his ministry but revelatory of it: the cross-pattern (weakness → power; foolishness → wisdom) structures his own apostolic existence.
+**6. Paul as eschatological herald.** After "Paul the Jew," primary self-understanding is Isaianic end-time messenger; suffering is the appropriate vehicle of the cross-shaped message.
 
-**7. Bodily resurrection as non-negotiable.** Chapter 15 is the theological climax of the letter. Ciampa and Rosner defend the physical bodily resurrection as the ground of Christian ethics (15:58), the consummation of God's redemptive plan, and the transformation of creation. The "spiritual body" (*sōma pneumatikon*, 15:44) is not a non-material entity but a physical body animated and glorified by the Spirit — "this perishable body must put on imperishability" (15:53).
+**7. Bodily resurrection non-negotiable.** Ch. 15 climax; *sōma pneumatikon* = Spirit-animated body, not immaterial entity; "identity with difference" (Harris). Baptism for the dead (15:29): not vicarious proxy baptism but baptism *on account of* the righteous dead (hope of joining their resurrection).
 
-## Relationship to Other Commentaries
+**8. Women and worship.** 11:2–16 assumes women pray/prophesy with decorum; 14:34–35 authentic, situational silence for disruptive/shameful questioning — does not cancel ch. 11. See [[women-and-worship]].
 
-Ciampa and Rosner engage most closely with:
-- **Gordon Fee** (NICNT, 1987) — the previous major evangelical commentary; C&R frequently interacts with Fee's decisions on spiritual gifts, women, and the letter's structure
-- **Anthony Thiselton** (NIGTC, 2000) — rich but verbose; C&R are more streamlined and more OT-focused; Thiselton's speech-act theory and postmodern engagement are acknowledged
-- **Richard Hays** (Interpretation, 1997) — appreciated for sensitivity to OT; C&R build on Hays's OT awareness but go further in making it structural rather than incidental
-
-Their approach represents a departure from the sociological emphasis of scholars like Gerd Theissen and Dale Martin, and from the rhetorical emphasis of Mitchell and Witherington, toward a more textually grounded biblical-theological method.
+**9. Food offered to idols.** Literary unity of chs. 8–10; modified Shema at 8:4–6; market meat free; cultic table forbidden. See [[food-offered-to-idols]].
 
 ## Major Works
 
-- Roy E. Ciampa and Brian S. Rosner, *The First Letter to the Corinthians*, PNTC (Grand Rapids: Eerdmans, 2010)
-- Ciampa and Rosner, "The Structure and Argument of 1 Corinthians: A Biblical/Jewish Approach," *NTS* 52 (2006), 205–18
+- Roy E. Ciampa and Brian S. Rosner, *The First Letter to the Corinthians*, PNTC (Grand Rapids: Eerdmans, 2010) — [[ciampa-rosner-1-corinthians-pntc]]
+- Ciampa and Rosner, "The Structure and Argument of 1 Corinthians: A Biblical/Jewish Approach," *NTS* 52 (2006): 205–18
 - Brian S. Rosner, *Paul, Scripture, and Ethics: A Study of 1 Corinthians 5–7* (AGJU; Leiden: Brill, 1994; repr. Baker, 1999)
+
+## Sources Ingested
+
+1. [[ciampa-rosner-1-corinthians-pntc|PNTC 1 Corinthians (2010)]] — full body fidelity re-ingest 2026-07-18
 
 ## Key Links
 
-- [[1-corinthians|The First Letter to the Corinthians]] — primary text
-- [[eschatological-temple|Eschatological Temple]] — the church as God's dwelling place; central to the commentary's ethics
-- [[food-offered-to-idols|Food Offered to Idols (1 Cor 8–10)]]
-- [[resurrection-body|The Resurrection Body (1 Cor 15)]]
-- [[servant-songs|Servant Songs (Isaiah 52–53)]] — Paul's eschatological herald identity
-- [[isaiah|Isaiah]] — primary OT background for 1 Cor 1–4
-- [[deuteronomy|Deuteronomy]] — primary OT analogue for the letter's structure
-- [[thomas-schreiner|Thomas R. Schreiner]] — fellow evangelical Pauline scholar; shares biblical-theological method and Reformed commitments
+- [[1-corinthians|The First Letter to the Corinthians]]
+- [[eschatological-temple]] · [[food-offered-to-idols]] · [[resurrection-body]] · [[women-and-worship]]
+- [[theology-of-the-cross]] · [[dyadic-devotion]] · [[shema]]
+- [[isaiah]] · [[deuteronomy]] · [[corinth]]
+- [[mark-seifrid|Mark A. Seifrid]] — PNTC 2 Corinthians companion
+- [[thomas-schreiner|Thomas R. Schreiner]] — fellow evangelical Pauline biblical-theological approach

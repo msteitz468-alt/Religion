@@ -11,7 +11,7 @@ canon_scope:
 language_original: Hebrew (late/unusual dialect)
 date_range: Non-Solomonic; probably late Persian or early Hellenistic period (ca. 4th–3rd century BCE); final framing possibly later
 sources_ingested: 2
-last_updated: 2026-06-07
+last_updated: 2026-07-18
 tags: [text, old-testament, writings, wisdom-literature, ecclesiastes, qohelet, skepticism, mortality]
 ---
 
@@ -53,9 +53,11 @@ This generic identification yields the book's formal structure:
 - Qohelet's "autobiography" (1:12-12:7): First-person narration of quest for meaning (1:13-2:26; 3:1-6:9) then wise advice (6:10-12:7)
 - Epilogue (12:8-14): Frame Narrator's evaluation and correction
 
-## Qohelet's Theology and Longman's Contribution (NICOT/NIVAC)
+## Qohelet's Theology and Longman's Contribution (NICOT)
 
-Longman (Ecclesiastes NICOT and related works) identifies the book as a *framed wisdom autobiography* modeled on ancient Near Eastern fictional autobiographies (e.g., Cuthaean Legend of Naram-Sin). The Solomonic persona is literary fiction to argue *reductio ad absurdum*: even the wisest, richest king found life *hebel*. The Frame Narrator's epilogue (12:13-14) provides the normative correction: fear God and keep commandments, for God will judge every deed. This two-voice structure parallels Job (problematic human speeches corrected by divine/normative voice). *Hebel* is not simple "meaningless" but "vapor/breath" — insubstantial, fleeting, ungraspable; the quest for lasting profit (*yitron*) under the sun fails because of death, injustice, and divine hiddenness. Yet the book affirms joy in the gift of daily life (eating, drinking, work) as from God's hand, while warning against over-interpreting or trying to master what only God controls. The epilogue reins in Qohelet's radical skepticism without erasing the honest struggle.
+Longman (*The Book of Ecclesiastes*, NICOT 1998; source page [[longman-ecclesiastes-nicot]]) identifies the book as a **framed wisdom autobiography** modeled on Akkadian fictional autobiographies (esp. Cuthaean Legend of Naram-Sin, Sin of Sargon, Adad-guppi). The Solomonic persona is literary fiction to argue *reductio ad absurdum*: if even the wisest, richest king found life *hebel*, no one can. The Frame Narrator’s epilogue (12:13–14) supplies the **normative** correction: fear God, keep commandments, for God will judge every deed (wisdom + law + prophets compressed). Two-voice structure parallels Job (problematic human speeches corrected by a final normative voice).
+
+Longman prefers English **“meaningless”** for *hebel* (etymological vapor/breath remains in the background; he rejects KJV “vanity” as now meaning self-pride). The quest for lasting profit (*yitrôn*) under the sun fails because of death, injustice, and divine hiddenness. The six *carpe diem* passages (eat, drink, work) are **resignation**, not affirmation of gift-theology: “nothing better” concedes a minimum under meaninglessness; pleasure can function as anodyne (Fox, endorsed in the wealth unit). The epilogue reins in Qohelet’s skepticism without denying his diagnosis of life under the curse.
 
 ## Qohelet's Theology
 
@@ -143,15 +145,51 @@ Christ redeems from the *hebel* world by:
 
 In this reading, Ecclesiastes functions as the NT's diagnostic foil: it describes what the world is like *without* the resurrection gospel, so that the resurrection's significance is fully felt.
 
+## Textual and Manuscript Tradition
+
+Attributed to Longman (NICOT Intro §IX): the Hebrew text of Ecclesiastes is **without major transmission problems**; difficulties are language, genre, and message. Qumran fragments (5:14–17; 6:3–6; 7:7–9) essentially agree with the MT and are early witnesses. The Greek tradition is surprisingly literal (Aquila-like, even *ʾet* → *syn*); Longman usually judges LXX departures as mistranslation but occasionally accepts LXX-supported variants. Targum is orthodoxizing paraphrase (like Gregory Thaumaturgos), not a simple translation. Schoors’s Ketib/Qere preference: Qere except 5:10 ET 5:11 and 10:20.
+
+## Hermeneutical Frameworks
+
+| Framework | How it reads Ecclesiastes in this wiki’s sources |
+|---|---|
+| **Two-voice / framed quotation** (Longman, after Fox) | Body 1:12–12:7 = Qohelet (virtual quotation, foil); prologue 1:1–11 + epilogue 12:8–14 = Frame Narrator (normative author of the finished book) |
+| **Genre: framed wisdom autobiography** (Longman) | Akkadian fictional autobiography analogy; Solomonic persona for the search (chs. 1–3), then dropped; formal not material parallel |
+| **Skeptical Qohelet = book message** (e.g. Crenshaw) | Identifies Qohelet’s skepticism with the book’s theology — Longman accepts Crenshaw on Qohelet, rejects equating him with the book |
+| **Positive / orthodox Qohelet** (Kaiser, Whybray “preacher of joy,” Targum, Gregory) | Softens *hebel*, carpe diem, and fear-of-God; Longman rejects as ignoring structure and flattening tensions |
+| **Rabbinic canonicity debate** | “Hands unclean” / “store away” controversies; secured by beginning and end as “words of the Law” |
+| **NT / Christian canonical** (Longman Final Word) | Rom 8:20 *mataiotes* = LXX *hebel*; Christ enters and redeems cursed vanity |
+
+## Scholarship and Historiography
+
+1. **Longman (NICOT 1998):** Two voices; framed wisdom autobiography; *hebel* = “meaningless”; carpe diem as resignation; goads/nails as harmful (Fox); 12:13–14 normative; language not a secure date barometer; non-Solomonic persona. Source: [[longman-ecclesiastes-nicot]].
+2. **Fox:** Frame-narrative composition; third-person intrusion at 7:27; goads/nails sting — Longman follows closely on frame and epilogue evaluation.
+3. **Crenshaw:** Qohelet as prime Israelite skeptic; late date (ca. 250–225 BCE) — Longman close on Qohelet, diverges on book-message and date certainty.
+4. **Fredericks / Schoors:** Language and dating — Fredericks challenges late-language arguments; Schoors still favors Late Biblical Hebrew; Longman: language is not a certain barometer.
+5. **Traditional Solomonic / repentant-Solomon:** Targum, Gregory; residual evangelical defense — Longman rejects for internal and genre reasons (with Delitzsch, Young, Kidner, etc.).
+
 ## Key Interpretive Cruxes
 
-**1. *Hebel* — translation and scope**: Is the word best translated "meaningless," "vanity," "futility," "vapor," or "absurdity"? And does it describe life as *objectively* worthless or as *subjectively* felt as purposeless? Longman reads it as Qohelet's own assessment, not God's — the Frame Narrator's silence on the word in the epilogue is significant.
+**1. *Hebel* — translation and scope**: Longman prefers **“meaningless”** (not KJV “vanity”); superlative *hăbēl hăbālîm* at 1:2/12:8. Is it Qohelet’s assessment of life under the sun, or the Frame Narrator’s verdict on the cosmos? Longman: the frame *quotes* Qohelet’s refrain at 1:2 and 12:8 as Qohelet’s basic conclusion; correction in 12:13–14 reorients rather than refuting *hebel* word-for-word.
 
-**2. The *carpe diem* passages**: Are they genuine affirmations of joy under God's sovereignty, or resignation bordering on despair? The "positive" reading (Eaton, Kaiser) makes Qohelet more orthodox; Longman's "resigned" reading preserves the integrity of the Frame Narrator's correction.
+**2. The *carpe diem* passages**: Affirmation (Eaton, Kaiser, Whybray) vs resignation (Longman, Fox). Longman: “nothing better” formula and context (esp. after 8:14; ch. 9 death) demand **resignation/urgency**, not rising orthodoxy; pleasure as anodyne (5:19 ET 5:20).
 
-**3. 3:11 — "eternity in their hearts"**: One of the most discussed verses. Does YHWH place an intuition of eternity in human beings (positive), or does he give them a vague sense of the eternal without the ability to grasp it, making it a source of additional frustration (negative)? Longman reads it the latter way: God's inscrutable sovereignty becomes the source of Qohelet's anguish.
+**3. 3:11 — “eternity in their hearts”**: Positive rest in God (Kaiser) vs frustration (Longman). Longman: God makes everything *yāpeh* in its time and places *ʿôlām* in the heart, **yet** humans cannot discover God’s work from beginning to end — the sense of eternity intensifies anguish.
 
-**4. The Frame Narrator's evaluation of Qohelet (12:9-12)**: Is the epilogue's assessment of Qohelet's work *positive* (he was a faithful wisdom teacher; his words are like reliable goads) or *critical* (the Frame Narrator warns his son away from Qohelet's approach; the goads are harmful)? Longman follows Fox in reading it as predominantly critical.
+**4. The Frame Narrator’s evaluation of Qohelet (12:9–12)**: Positive goads (traditional) vs critical (Fox/Longman). Longman: reserved praise → *sought to find* implies failure → goads/nails **sting** → “of these, my son, be warned” **includes** Qohelet’s writings; many books weary the body.
+
+**5. Fear of God**: Qohelet’s *yirʾat ʾĕlōhîm* as fright before distant power (Longman on 3:14; 5:6; 7:18) vs Frame’s covenantal fear at 12:13 (= Prov 1:7 trajectory). Mid-unit orthodox lines at 8:12b–13 read as traditional voice Qohelet quotes, not his empirical conclusion.
+
+## Fidelity Reingest Anchors (Longman NICOT 1998, 2026-07-18)
+
+Grounded in digests R0–R5 (raw loci; see [[longman-ecclesiastes-nicot]]):
+
+- **Title / speaker** (Intro §I): *Qohelet* = occupational nickname “assembler” (*qhl*); “Preacher”/“Teacher” misleading; distinguish Qohelet (speaker) from Ecclesiastes (book).
+- **Authorship** (Intro §II): Solomonic **persona**, not identity; 1:12 past tense; 1:16 awkward; persona limited to chs. 1–3; later king-passages as protest literature.
+- **Genre** (Intro §VI): framed wisdom autobiography // Akkadian fictional autobiography (15 texts; wisdom-ending subgenre).
+- **Canon** (Intro §X): hands unclean / store away; secured by beginning and end as words of the Law; Melito first clear Christian witness; early church undoubting.
+- **Theology** (Intro §§XI–XIV): Qohelet foil; Crenshaw right on Qohelet wrong on book; 12:13–14 wisdom+law+prophets; Rom 8 *mataiotes*; Christ redeems vanity by entering it.
+- **Commentary peaks:** 1:2 *hebel* superlative; 2:24–26 first carpe diem as resignation; 3:11 eternity as frustration; 4:1–3 better never born; 5:1–7 God in heaven / few words; 7:15–18 moderate righteousness; 8:10–15 retribution failure; 9:1–10 one fate; 11:1–6 risk under uncertainty; 12:1–7 three image clusters; 12:8–14 frame evaluation + normative close; **A Final Word** (Christ / Rom 8 / Gal 3).
 
 ## Connections to the Wiki
 
@@ -171,4 +209,4 @@ Concept pages developed from this text:
 
 ## Sources Ingested
 
-1. [[tremper-longman|Longman, Tremper, III]]. *The Book of Ecclesiastes*. NICOT. Grand Rapids: Eerdmans, 1998.
+1. [[longman-ecclesiastes-nicot|Longman, Tremper, III. *The Book of Ecclesiastes*. NICOT. Eerdmans, 1998]] — fidelity re-ingest 2026-07-18 (Intro I–XIV + Text and Commentary 1:1–12:14 + Final Word). Commentator: [[tremper-longman]].

@@ -11,7 +11,7 @@ canon_scope:
 language_original: Hebrew (with significant late/Aramaic linguistic features)
 date_range: Late Persian or early Hellenistic period (probably 4th century BCE); fictionally set in the 8th century during the reign of Jeroboam II
 sources_ingested: 1
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [text, old-testament, prophets, minor-prophets, twelve, jonah, satire, comedy, divine-compassion, nineveh, universalism]
 ---
 
@@ -87,6 +87,26 @@ Jonah provides "counter-testimony" (Brueggemann) within the canon — a minority
 
 The final question — the most important unanswered question in the Hebrew Bible — is not a theological proposition. It is an invitation to examine one's own limits on divine grace.
 
+## Genre and the Comedy — Nogalski's Defense of Satire
+
+[Nogalski] surveys and rejects the competing genre labels — novella, midrash, legend, prophetic narrative, didactic narrative/parable — on the grounds that each "miss[es] … a clear explanation for the humorous elements." His verdict: the humor "comes in the form of satire, but also inversions of typical topoi," satire being "the use of humorous elements to criticize another person or group." Crucially, he argues (following **Aaron Schart**) that the book's much-discussed "disjunctures" are "not … the sign of subsequent editorial hand(s), but deliberate points of deviation because they represent the author's satirical humor"; reading Jonah without reckoning with its comedy turns the humor into "signs of sloppy editing." Comedic devices he catalogues include: the inverted prophetic call (1:2–3); the locative on "Tarshish" (the ship reaches Tarshish, Jonah does not); the *Leitwort* "descend" (*yrd*: Joppa → boat → hull → the depths); pagan sailors modelling piety while the prophet is punished; the king's fasting edict extended even to the animals (3:7–8), issued *after* Nineveh has already repented; the tiny worm that fells the great plant (4:7); Jonah's twin death-wishes (4:3, 8); the keyword "appoint" (*mnh*: fish, plant, worm, wind); and the keyword *nepeš* ("life"), which Yahweh saves but Jonah twice tries to surrender. [Nogalski] insists "Jonah's theology is not the point of the book"; the target of the satire is a theology of exclusion, and — again following Schart — "the book of Jonah pokes fun at the theology of Joel," so that "without a good knowledge of Joel, much of the ironic potential of Jonah is missed."
+
+## The Psalm of Chapter 2 — Nogalski's Insertion Argument
+
+[Nogalski] holds that the thanksgiving psalm of 2:2–9 [2:3–10] is the one genuine insertion in the book (an existing song added "to explain why Yahweh delivered Jonah"), while treating the other "disjunctures" as deliberate satire. His four grounds: (1) unlike every other scene, Jonah does not suffer here — the prayer "portrays Jonah's piety positively for the only time in the book"; (2) it follows a standard individual-thanksgiving pattern (Gunkel); (3) Yahweh's response is exactly what a pious prayer would expect; and (4) "the psalm's focus on the temple (2:4, 7) … makes little sense for the narrative of a northern prophet." The masculine/feminine variation in the word for the fish (*dāg* / *dāgâ*) is, on his account, best explained as syntactical (a specific fish) *plus* redactional (the feminine form entering with the psalm). He notes the psalm "softens the character of Jonah, even if only briefly," subverting the late-Persian/Hellenistic convention (Watts) by which such inserted songs make characters "models of piety."
+
+## Textual and Manuscript Tradition
+
+[Nogalski] describes the text as "relatively stable." Hebrew witnesses: **4Q76, 4Q81 (4QXIIf), 4Q82, Mur 88**; Greek: **8Ḥev 1** and the LXX; variants are "for the most part … minor (orthographic and corrective)." Two loci of note: **1:3**, where the locative *-he* on "Tarshish" (which he defends as original by *lectio difficilior*) carries the joke that the ship, not Jonah, reaches its destination; and **1:9**, where the MT "I am a **Hebrew**" (*ʿbry*) is preferable to the LXX "servant of the Lord" (*ʿbdyh*), a *dalet/resh* confusion.
+
+## Hermeneutical Frameworks
+
+[Nogalski]'s reading is governed by three frames. **Satire** (above) is the genre key. The **Book-of-the-Twelve** frame makes Joel the deliberate foil (Jonah 4:2 cites Joel's citation of Exod 34:6–7; the king's proclamation in 3:9 echoes Joel 2:14) and pairs Jonah with **Nahum** so that, with Jonah's late inclusion, "both halves of Jer 18:7–10 … are now mirrored in the Twelve" — divine relenting toward the repentant (Jonah) and divine justice against the persistently violent (Nahum). Third, [Nogalski] reads the whole book as a **prophetic sign-act / parable** on the order of Hosea's marriage or Ezekiel's brick, cautioning that "the portrait of God in Jonah should not be taken literally" — the storm-God of chapter 1 is "a theological construct," not a doctrine of an angry God, and the real theological crux is 4:2 (Yahweh's compassion). He warns against reading the book to support "a xenophobic theology" or "a mission of exclusion … [that] derives from fear."
+
+## Scholarship and Historiography
+
+Older source-critical models (Böhme's two Pentateuch-like sources; Hans Schmidt's redactor) are, [Nogalski] notes, effectively dead (Allen cites Gunkel's 1929 article as their "obituary"); recent work (**Krüger, Weimar, Wöhrle**) uses "a rolling-corpus model rather than a source-critical model," with broad agreement that the psalm and 3:6–10 are secondary. [Nogalski], via Schart, resists most of these divisions as misread comedy. On **date**, he reports a "fairly broad consensus … late Persian or early Hellenistic period" and states his own preference for "the Hellenistic period (toward the end of the fourth century BCE)," argued primarily from citation (Jonah draws on Joel, which he dates mid-fourth century) and reinforced by a cumulative pattern of Aramaisms and late lexemes. He treats the frequent claim that Jonah is "the most universal" prophetic text as a "question of degree" (cf. Isa 44–45; 56), and adopts **Brueggemann**'s category of Jonah as canonical "counter testimony" — a minority voice within the Twelve, on which "Nahum still has the last word."
+
 ## Connections to the Wiki
 
 - **[[joel|Joel]]**: Jonah satirizes Joel; Jonah 4:2 extends Joel's mercy formula beyond Israel
@@ -104,4 +124,4 @@ Concept pages developed from this text:
 
 ## Sources Ingested
 
-1. [[james-nogalski|Nogalski, James D.]]. *The Books of Joel, Obadiah, and Jonah*. NICOT. Grand Rapids: Eerdmans, 2023.
+1. [[nogalski-joel-obadiah-jonah-nicot|Nogalski, James D. *The Books of Joel, Obadiah, and Jonah* (NICOT, 2023)]] — full Jonah unit read (Introduction §§I–VII + Text and Commentary on chs. 1–4); fidelity re-ingest 2026-07-18.

@@ -3,7 +3,7 @@ title: Hebel (Vanity/Meaninglessness/Vapor)
 domain: theology / philosophy / wisdom literature
 traditions_using: [Judaism, Christianity]
 sources_ingested: 1
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [concept, wisdom-literature, ecclesiastes, qohelet, meaninglessness, mortality, hebel]
 ---
 
@@ -23,13 +23,13 @@ The word occurs elsewhere in the OT: Abel's name (*Hevel*, Gen 4:2) is the same 
 ## Translation Issues
 
 The standard English translations:
-- **"Vanity"** (KJV, ESV): From Latin *vanitas* — captures the notion of worthlessness and pretension, but can be misread as *pride/conceit* rather than *insubstantiality*
-- **"Meaningless"** (NIV): Captures Qohelet's evaluative judgment well but loses the concrete metaphor; *hebel* is not abstract
-- **"Futility"** (NRSV, LXX *mataiotes*): Emphasizes the frustration of purpose without achieving it
-- **"Absurdity"** (Fox): Highlights the irrational disproportion between effort and outcome
-- **"Vapor"** or **"breath"**: Preserves the concrete metaphor but may seem too weak
+- **"Vanity"** (KJV, ESV): From Latin *vanitas* — captures worthlessness and pretension, but can be misread as *pride/conceit*. **Longman (NICOT) explicitly rejects** KJV “vanity” because modern English hears self-pride rather than insubstantiality.
+- **"Meaningless"** (NIV; **Longman’s preferred rendering**): Captures Qohelet’s evaluative judgment. Etymological vapor/breath remains background metaphor; Longman does not soft-pedal to “temporary” alone.
+- **"Futility"** (NRSV, LXX *mataiotes*): Emphasizes frustration of purpose; *mataiotes* is the LXX bridge to Romans 8:20.
+- **"Absurdity"** (Fox): Irrational disproportion between effort and outcome.
+- **"Vapor"** or **"breath"**: Preserves the concrete metaphor but may seem too weak for Qohelet’s totalizing verdict.
 
-The most theologically significant translation question: does *hebel* mean the world *is* objectively without value, or that it *appears* valueless from Qohelet's limited "under the sun" perspective? Longman argues the latter: it is Qohelet's assessment, and the Frame Narrator neither endorses nor denies it directly — the correction in 12:13-14 comes from a different angle (reorienting to covenantal obedience) rather than from a direct rebuttal of Qohelet's *hebel* verdict.
+**Longman (fidelity re-ingest 2026-07-18, [[longman-ecclesiastes-nicot]]):** *Hebel* in “well over thirty” passages; the Frame Narrator introduces and concludes Qohelet’s teaching with the refrain (1:2 and 12:8) “as if to say this is Qohelet’s basic conclusion.” Construct superlative *hăbēl hăbālîm* (“meaningless of meaningless things”) + “Everything is meaningless.” Scope is later qualified by Qohelet with “under the sun,” but the frame presents the judgment as Qohelet’s comprehensive motto. The Frame Narrator does not rebut *hebel* with a competing slogan; 12:13–14 **reorients** (fear God, commandments, judgment) rather than arguing the world is not-*hebel*.
 
 ## What Qohelet Declares *Hebel*
 
@@ -45,7 +45,7 @@ Qohelet's *hebel* verdicts cover virtually every domain of human striving:
 | Youth | 11:10 | Childhood and the vigor of youth are *hebel* |
 | Life itself | 9:9; 6:12 | "Your meaningless days" — the whole of human existence |
 
-The comprehensive reach is signaled by the opening formula: **"Vanity of vanities! All is vanity!"** (1:2) — a superlative construction ("hebel of hebelim") meaning "the most hebel of all possible things."
+The comprehensive reach is signaled by the opening formula (Longman: **"Meaningless, meaningless! Everything is meaningless!"** / traditional **"Vanity of vanities! All is vanity!"**) at 1:2 — a superlative construction (*hăbēl hăbālîm*) meaning the utmost *hebel*.
 
 ## The Root Cause: Death and Inaccessible Time
 
@@ -88,4 +88,4 @@ Paul's addition is "in hope" — the dimension Qohelet did not possess. The libe
 
 ## Sources Ingested
 
-1. [[tremper-longman|Longman, Tremper, III]]. *The Book of Ecclesiastes*. NICOT. Grand Rapids: Eerdmans, 1998.
+1. [[longman-ecclesiastes-nicot|Longman, Tremper, III. *The Book of Ecclesiastes*. NICOT. Eerdmans, 1998]] — fidelity re-ingest 2026-07-18. Commentator: [[tremper-longman]].

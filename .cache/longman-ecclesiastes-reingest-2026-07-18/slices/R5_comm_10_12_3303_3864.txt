@@ -1,0 +1,562 @@
+L3303|
+L3304|In ch. 9, Qohelet gives advice in the context of statements of deep skepticism. Indeed, this chapter might be judged the most depressing of the entire book.
+L3305|
+L3306|Qohelet begins the chapter with a powerful evaluation of life (9:1-10). He states that it does not matter who one is or what one does, death renders everything meaningless. After all, death is the end of everything for an individual (vv. 6, 10). From this basic, though sad, truth, Qohelet advises his readers to seize the joy of the day.
+L3307|
+L3308|The next unit (9:11-12) continues the depressing thoughts of the previous one by asserting that time and chance rule the lives and the deaths of all people. Qohelet once again puts an emphasis on death - that is, no one knows when the end is going to come. There is absolutely nothing that anyone can do to prevent or predict one's death.
+L3309|
+L3310|This appropriately leads to two further units that question the effectiveness of wisdom. First, wisdom has its limits (vv. 13-16). A wise man may save a city, but he will not be remembered. Second, wisdom has power and is, on a surface level, to be preferred to foolishness, but it does not take much to spoil the good that it might produce (vv. 1-18).
+L3311|
+L3312|14. Miscellaneous Proverbs on Wisdom and Folly (10:1-4)
+L3313|
+L3314|Chapter 10 opens with additional proverbs on the subject of wisdom. Indeed, 10:1 continues the thought of 9: 18, and perhaps the unit should be defined to include 9: 17-10:4. The principle is that a little of a bad thing like folly spoils much of a good thing like wisdom. The next two verses (vv. 2-3) also deal with the themes of wisdom and folly. The fourth verse departs from the pattern of proverbs on wisdom. However, it does have a proverbial form and imparts wisdom to the reader. Verse 5 begins another example story and thus is the introduction to the next unit.
+L3315|
+L3316|
+L3317|
+L3318|1. Numerous issues surround the translation of dead pies (zebube mawet). First, the Hebrew most naturally means "flies of death," indicating either "poisonous flies" (and is taken as such by the Septuagint; Targum; Delitzsch, Proverbs, Ecclesiastes, Song of Solomon, p. 371; and Wright, The Book of Koheleth, p. 417) or perhaps "doomed flies" (2 Sam. 12:5 is suggested as support for this interpretation by Fox [Qohelet and His Contradictions, p. 264]). But, as Fox points out, these translations make no sense in the context, which demands "dead flies." It is possible to suggest emendations to this effect (thus Fox, who suggests an emendation to zbwb ymwt), but these are just guesses. Perhaps it is best simply to take the construct as attributing death to the flies.
+L3319|
+L3320|Second, there is the lack of number concord between the verbs (make stink and ferment) and dead flies. This is often cited as evidence for the need for emendation, but number discord is not so rare as to always necessitate a textual change (Ogden [Qoheleth, p. 164] mentions Eccles. 1: 16 and 2:7 as two of a number of examples of such discord in Ecclesiastes).
+L3321|
+L3322|2. See 1 Sam. 8:13 and Neh. 3:8. Some English versions simply drop this in their translation (see NIV; contrast NRSV). The Septuagint mistakenly translated "sweetened oil" (elaiou hedysmatos).
+L3323|
+L3324|3. Many commentators note that this is a verbal asyndeton. Most versions add a conjunction between the two. Indeed, some believe that the second verb is an intrusive gloss or the result of a textual error. The most thorough case for the latter is presented by Fox (Qohelet and His Contradictions, p. 264), who argues that the verbal root nb` "to bubble" makes no sense here and then suggests that the Septuagint and, in particular, the Peshitta give evidence that Hebrew gabia` "vessel" stood there originally. Thus, his translation of the colon as: "A fly dies and spoils a chalice of precious perfumer's ointment." However, it seems as reasonable a hypothesis to argue that "ferment" is an appropriate extension of the verb's basic meaning, making sense in the context.
+L3325|
+L3326|4. Controversy surrounds the meaning of this word (yagar). Its more typical meaning in biblical Hebrew is "precious" or "rare," whereas either "heavy" or "weighty" is more appropriate to the context. The latter meanings are known in Aramaic and have been used to argue for a late date of the book. Fredericks (Qoheleth's Language, p. 227), though, marshals evidence to conclude that "both meanings are viable and probably EBH [Early Biblical Hebrew]."
+L3327|
+L3328|Jerome understands the word as "precious," translating "precious above wisdom and glory is a little folly" (quoted by Ginsburg, The Song of Songs and Coheleth, p. 424). However, to accept such a translation necessitates understanding Qohelet to be speaking with a sarcastic tone or, like Jerome, to understand wisdom here in the sense of crafty. See also Lauha (Kohelet, p. 181): "The word yqr `precious' in 10:1 b must here be understood as ironic," that is, "Das Wort yqr ` wortvoll' in 10:l b muss hier ironisch verstanden werden."
+L3329|
+L3330|5. A nominal asyndeton, the conjunction being added to make the English less awkward.
+L3331|
+L3332|
+L3333|
+L3334|6. No verb appears in the verse. It is possible that a simple copula is appropriate: "A wise heart is to the right, a foolish heart is to the left," but this seems awkward. In the light of the following verse, with which it is closely connected, I understand the verb "goes" and add it for smoothness of translation.
+L3335|
+L3336|3Even when the fooh walks on the road he lacks sense and says to everyone he is a fool.
+L3337|
+L3338|4If the leader's anger falls8 on you, do not leave your place! For gentleness appeases9 great offenses.
+L3339|
+L3340|1 Though this verse is filled with textual and philological issues (see footnotes), its basic meaning is clear. It takes only a little of something bad to spoil something good. Qohelet moves from the mundane, dead flies making perfume stink, to the more serious, a bit of foolishness spoiling wisdom and glory.
+L3341|
+L3342|Qohelet constructs this proverb by setting two cola in parallel to one another, thus creating an analogy between them. Some translations make this explicit (NIV) by adding "as" to the first colon and "so" to the second. Even without this aid to understanding, though, it is obvious that the mundane illustration in the first colon serves to concretize the more abstract truth in the second. We can envision how a small fly can wreak such havoc and spoil so much good when it flies into something as sweet smelling and precious as perfumed oil. It takes only a little bit to spoil something worthwhile, which is exactly the point of the second colon. wisdom and glory are wonderful and highly valued, but it just takes a touch of folly to spoil them.
+L3343|
+L3344|2 This verse has a typical proverbial form; it is an antithetic proverb that looks at the same truth from two different perspectives. The basic truth is that wisdom and folly go in two different directions. The wise go to the right and fools to the left.
+L3345|
+L3346|Even apart from any special significance to right and left, there is no doubt that this verse prizes wisdom and demeans folly. However, it is likely true but not provable that these two directions carry connotations of good and bad. John Jarick states that these connotations are "universal."10 More to the point is the idea that the right is the locus of "power and strength"11 and the left is apparently devoid of these.
+L3347|
+L3348|3 The preceding verse described the different directions that the wise and the fool take. Now Qohelet furthers the image by evoking the picture of the fool walking on a road. While it may well be true that the road here is an actual road and not a metaphor for life, the two are intimately connected. The verse does not specify the precise behavior of the fool on the road, but the point is clearly that when one sees him one will know he is a fool. Specifically, the verse says that the fool lacks sense (for which see Prov. 6:32, 7:7).12
+L3349|
+L3350|My translation attempts to capture the ambiguity inherent in the last phrase,13 he says to everyone he is a fool. It is unclear in the original whether lakkol should be taken as "to all," in the sense that he is proclaiming his folly to everyone who sees him, or as "concerning all," in the sense that he thinks everyone he sees is a fool.14 In either case it is an uncomplimentary view of the fool. The fact that a fool cannot conceal his folly but exposes it every time he speaks and acts is found also in Proverbs (12:23; 13:16).
+L3351|
+L3352|4 This verse is not closely connected with the first three verses of the chapter. It has a weak word link with 9:17, which contains the only other occurrence of leader (mosel). It also has links with the next three verses in which Qohelet talks also about civil authorities (though the Hebrew term is sallit).
+L3353|
+L3354|Qohelet here gives advice to his reader about how to deal with an irate superior. In that it imparts advice on how to deal with a ruler, this verse is similar to court wisdom found in Proverbs and other wisdom literature. Qohelet advises those who serve the king to counter the king's anger with gentleness. In this way, the problem will be smoothed over.
+L3355|
+L3356|At first sight, Qohelet seems to contradict the advice that he gave in 8:2-9, where he advises those who serve the king to get out of the king's way, but the present verse is dealing with a specific situation: what to do when the king is angry with you.
+L3357|
+L3358|The second half of the verse gives the motive for the first half. The courtier is not to leave because his calm demeanor will soothe the king. Apparently, if he left the scene, the king could suspect him even more, and his anger would increase. The word gentleness (marpe') has been debated in terms of its etymology. Some argue that its form is the result of a confusion of roots: It looks like it is from rp' "to heal," while its contextual meaning is closer to rph "to relax." Thus, Charles Whitley among others argues that this confusion between lamed-he and lamed-aleph verbs is a sign of lateness.15 Daniel Fredericks,16 though, has a quick and persuasive rejoinder to this when he says, "the judgment of BDB 951 is more appropriate, where the semantic relationship of physical health and mental/spiritual health (composure) is subsumed under mrp'."
+L3359|
+L3360|Pietistic interpreters (see the Targum and Gregory Thaumaturgos) spiritualize the verse by interpreting the raah of the ruler here as an evil spirit.17 The verse thus becomes an exhortation to fight a spiritual battle.
+L3361|
+L3362|15. An Example Story: The World Upside Down (10:5-7)
+L3363|
+L3364|Qohelet offers another example story with the purpose of illustrating again the fact that it takes only a small problem to wreak havoc in the world. An incidental error results in the placement of fools in positions of authority and power, thus resulting in a topsy-turvy society. Other wisdom texts (Prov. 19:10; 30:21-22; the Admonitions of Ipu-Wer and apocalyptic texts (Isa. 24:2; the Marduk Prophecy; and the Sulgi Prophecy)18 give similar descriptions of a world gone awry.
+L3365|
+L3366|5There is an evil that I have observed under the sun, an error indeed'9 that originates20 from the ruler.
+L3367|
+L3368|6The fool2' is placed in important positions,22 while the rich sit in low places.
+L3369|
+L3370|71 observed slaves on horses and nobles walking on foot23 like slaves.
+L3371|
+L3372|5 Qohelet introduces yet another illustrative anecdote with the characteristic there is (yes; see the discussion at 2:21). The situation he narrates is described ahead of time as an example of something evil in the world (see 5:12 [English 5:13]).
+L3373|
+L3374|The evil arises from an error. The Hebrew word here normally designates a mistake that comes about through negligence, forgetfulness, or by accident. This error, however, has very serious repercussions. After all, it is an error committed by someone in authority, namely, a ruler. While there is an idiosyncratic view that understands the ruler to be God,24 it is much more likely that the ruler in this verse is the "leader" in the previous one. The ruler's error will be specified in the next two verses.
+L3375|
+L3376|6 In this and the next verse, Qohelet now tells his hearer/reader what the "error" of the ruler is. He turns the world upside down by placing the wrong people in the wrong positions. The fool, who should be given no responsibility and avoided at all costs, is given positions of authority and responsibility. The rich are placed in subordinate positions. It is interesting to note the contrast between the fool and the rich in this verse, the latter standing in a place where we normally find the wise. It does indeed appear that Qohelet favors the privileged classes of Israel. It grates on him that people so blessed do not have their rightful positions in society.
+L3377|
+L3378|7 This thought continues as he presents us with a vivid picture of societal upheaval. Usually, the most important and privileged individuals are those who ride horses (see 2 Chron. 25:28; Esth. 6:8, 9), while slaves or servants walk alongside to tend to their masters' needs. Here, however, we have the exact opposite, and the ruler's simple error of judgment results in a totally chaotic society.
+L3379|
+L3380|16. The Disastrous `Accidents" of Life (10:8-11)
+L3381|
+L3382|Qohelet may indeed believe in divine providence, but it is no source of comfort to him as he faces the unpredictable chaos of life (9:1). Much effort has been expended in order to find a strong connection between this pericope and those around it, but it seems that these verses are collected here more as different lines of evidence to demonstrate the difficulty and lack of fairness in life.
+L3383|
+L3384|
+L3385|
+L3386|25. Whitley (Kohelet, p. 86) calls gammas an "Aramaic word," and even Hengstenberg (A Commentary on Ecclesiastes, p. 227) refers to it as "a pure Aramaic word." However, Fredericks (Qoheleth's Language, pp. 188-89) attempts to bring evidence to argue that this does not indicate late language.
+L3387|
+L3388|26. The use of the perfect twice in this verse and twice in the next indicates potentiality here (see GKC § 107r; cf. Lauha, Kohelet, p. 186; Delitzsch, Proverbs, Ecclesiastes, Song of Solomon, p. 378). To translate these verbs as simple futures makes no sense of experience.
+L3389|
+L3390|
+L3391|
+L3392|27. This is the only use of the niphal of skn in the Hebrew Bible. Whitley (Koheleth, p. 86) once again argues that its use in this stem in the Mishnah and the Targum indicates that it is a late word, but Fredericks (Qoheleth's Language, pp. 1 88-89) disputes this interpretation of the evidence, citing the work of E.Lipinski ("Skn and sgn dans le semitique occidental du nord," UF 5 [1973]: 191-203) in support. Note too the arguments of I.Kottsieper ("Die Bedeutung der Wz. `sb and skn in Koh 10,9," UF 18 [1986]: 213-22) that the verb means "cut" (schneiden) here.
+L3393|
+L3394|10If the axe is blunt28 and the edge29 is not30 sharp, then he must increase his efforts. But the advantage of wisdom is success.
+L3395|
+L3396|IIIf the snake bites without a charm,31 there is no advantage to having a charmer.32
+L3397|
+L3398|8 In this verse, Qohelet warns that people might fall into a pit that they dug or get bitten by a snake as they tear down a wall. The thought, though not the motivation, is similar to Psalm 7:16 (English 15):
+L3399|
+L3400|
+L3401|
+L3402|The context of the Psalm is clearly one of just retribution. The enemy tries unjustly to trap an innocent person, but ends up in his own trap. Qohelet's use of this image is the opposite. Here an innocent person is simply engaged in his occupation, and he is accidentally injured. This is the first of four illustrations of people who are simply doing their jobs and who fall prey to the dangers that are inherent in their occupations. Their injuries are simply accidental. They are not punishments for bad behavior,33 and they are not mentioned so that the wise person can avoid them; they are unavoidable accidents. No matter how careful people are they may fall into the pit they dug, and they might be surprised by a snake on the other side of the wall they are demolishing.
+L3403|
+L3404|9 Two more occupations are listed here, the stonecutter and the logger. Qohelet does not feel it necessary to say how the stonecutter will be injured by the stones or how the logger will be endangered by the wood that he is cutting. The point once again is that life is prey to accidents even in the midst of our common, everyday experiences.
+L3405|
+L3406|10 Though it has been over a century since he made this judgment, Charles Wright is certainly correct when he states, "this, linguistically speaking, is confessedly the most difficult passage in the Book of Koheleth."34 The problems are ancient, as the translations of the various ancient versions attest.35 Some of these issues are treated in the footnotes, and some will be treated here, with as much resolution as they permit. Though it may sound somewhat overly optimistic, it is my feeling that we can come away from this verse with the general idea that it intends to convey.
+L3407|
+L3408|The protasis and apodosis of the verse are fairly certain in their translation and state the simple truth that if an axe is not sharp then the person wielding it has to exert himself a lot more to make it effective.
+L3409|
+L3410|It is the last three words that are difficult to understand, and by their position they seem to draw the moral of the truism just stated. Semantically, there is little problem with the phrase. The first word (yitron, advantage) is common in Ecclesiastes (see 1:3), and the third word (hokma, wisdom) is common throughout the OT. It is the middle word and the syntax that frustrate interpreters. The middle word has a common Semitic root ksr, which normally means "to succeed," though some want to argue that the root has a late meaning "to keep prepared, to be fit."36 Anthony Frendo37 presents a persuasive argument that we have here an example of a "broken construct chain," thus yielding the above translation.
+L3411|
+L3412|If my translation is correct, then the meaning of the verse is that success is the fruit of wisdom, and the inference must be that a wise person would have sharpened the axe in the first place, saving himself a lot of wear and tear. Thus, as Roland Murphy argued, we are dealing with a "saying about the wise use of one's abilities."38
+L3413|
+L3414|11 Once again Qohelet describes the limits of wisdom by means of a striking example. Snake charming was a mysterious occupation that needed a special and esoteric expertise, but the skill was of no use after the snake bit someone. It was too late then to charm the snake; the damage had been done.
+L3415|
+L3416|At first reading, the verse appears to urge the wise to apply their wisdom or else it will be of no use. According to James Crenshaw, the verse's moral is "unused skill is wasted,"39 while Murphy summarizes the verse with "even the experts fail if they do not apply their skill."40
+L3417|
+L3418|However, the verse is not about unused skill; it is about wisdom that is useless in practical situations. In order to prevent snakebite, the charmer needs to work his wisdom before the bite takes place; afterward is too late since he is not able to reverse the effect of the poison. Yet in most situations a snake bites without warning, as for instance in v. 8, when the worker is going about his occupation and accidentally disturbs a snake. Basically, the skill of a snake charmer is good for shows but not for practical everyday living, where snakebites are a matter of life and death.
+L3419|
+L3420|17. Fools (10:12-15)
+L3421|
+L3422|This section has no obvious connection with the previous one. It is a collection of proverbs that denigrate folly. Qohelet elsewhere has stated his belief in the relative superiority of wisdom over folly, though such sentiments are usually accompanied by an indication that wisdom itself is not ultimately to be prized. Such qualifications are not found here; these proverbs are remarkably similar to those found in the book of Proverbs (10:8, 21; 15:2; 18:7).
+L3423|
+L3424|
+L3425|
+L3426|
+L3427|
+L3428|41. For the lack of number concord between the singular verb and its plural subject, see Whitley, Koheleth, p. 86. For the meaning of the verb, consult A.Guillaume, "A Note on b1," JTS 13 (1962): 320-22.
+L3429|
+L3430|42. The words in parentheses are not in the Hebrew, but are understood by ellipsis, and the English makes no sense without them.
+L3431|
+L3432|43. The Septuagint, Symmachus, and the Peshitta read the past (mah-sehayd) here rather than the future. In other words, they thought this colon denied knowledge of the past, while the next colon denied knowledge of the future. However, it is likely that these early versions simply tried to erase what they thought was a redundancy in the translation.
+L3433|
+L3434|44. The syntax of this verse is anomalous and has led to a number of explanations and attempts at emendation. The verb (piel of yg`) is feminine singular with a masculine singular pronominal suffix, but the subject is masculine and the antecedent to the suffix is plural.
+L3435|
+L3436|More than one explanation is available for both of these grammatical anomalies. For the feminine/masculine problem, other cases of a lack of gender concord are available in biblical Hebrew, as are the more systematic occurrences in Ugaritic (Whitley, Koheleth, p. 87). For the lack of number concord, it may be that we have a case of the distributive singular here (Whybray, Ecclesiastes, NCB, p. 156), or that the mem on the end of the plural noun could originally have been an enclitic mem misunderstood as a plural by the Masoretes. Then, of course, we can always appeal to the fact that Ecclesiastes as a book is full of anomalous grammatical and syntactical forms (see "Language" in the introduction).
+L3437|
+L3438|Nonetheless, some scholars are not convinced (e.g., Fox, Qohelet and His Contradictions, pp. 269-70) and suggest a textual solution. BHS preserves a suggestion of Hertzberg (Der Prediger pp. 193, 196) that the first part of the verse originally read haksil mdtay yeyagge `ennu "the toil of the fool - when will it weary him." Yet it is inappropriate to press the textual issue with a book that has such a well-know propensity to depart from what we consider normative biblical Hebrew.
+L3439|
+L3440|45. Taking the '°ser as a causative, though it is difficult to rule out a simple relative or a purpose clause.
+L3441|
+L3442|12 Qohelet begins his section on fools by comparing their speech to that of the wise. While the latter brings favor, the former brings harm.
+L3443|
+L3444|My rather literal translation of the verse intends to show some of Qohelet's wordplays. Besides the obvious contrast between the wise person and the fool, there is also the focused contrast between the former's mouth and the latter's lips. This contrast is often obscured by translations. A more idiomatic translation might be:
+L3445|
+L3446|
+L3447|
+L3448|In the Hebrew original it is not obvious whether Qohelet means that the words of the mouth of the wise (dibre pi-hakam) dispense favor or effect favor for the wise person. It may be that both are meant, but the parallel with the second colon, in which the fool's words harm him, shows that the latter sense is definitely intended. Thus, that meaning is reflected in the translation.
+L3449|
+L3450|The second colon is masterful in its imagery. While the words of the wise result in positive effects, the fool's speech culminates in destruction. The verb chosen to convey this thought (swallow: bl`) is perfect in that it is the fool's own lips that engulf him. In this verse, Qohelet does not question the relative advantage of wisdom over folly as he does elsewhere (e.g., 2:12-16).
+L3451|
+L3452|13 The verse is linked by the pronominal suffix (his mouth: pihu) to v. 12b. In other words, v. 13 focuses in on the speech of the fool, who is contrasted with the wise in v. 12. This verse also is constructed by antonyms, though here the subject remains the fool. Beginning (tehillat) mirrors end ('aharit), not providing a merism, but rather describing a process. While the fool's speech might seem inane or silly to start, the end result is insanity.
+L3453|
+L3454|14 There is the possibility that v. 14a is the conclusion to a tricolon that begins in v. 13 (see NIV), and there are verbal links with words and fool (both words occur in vv. 13a and 14a). It is more likely, however, that v. 14a is an introduction to the next two cola, v. 14b46
+L3455|
+L3456|In other words, the fool is going on and on about something for which he has no information and about which he can gain no knowledge: the future. The fool multiplies words, more idiomatically "the fool talks a lot" (hassakal yarbeh debarim) about what is going to happen in the future, a subject about which Qohelet has already told us there is no knowledge (6:12; 7:14; 8:7). Thus, Qohelet adds another stroke to his caricature of the fool: he talks incessantly about subjects that he knows nothing about.
+L3457|
+L3458|15 This verse continues the fool bashing of the previous ones. It is somewhat different than those that immediately precede it since it speaks of the fool's actions and not his speech. Apparently the fool is so stupid that he loses his way back to the city. Graham Ogden47 attempts to stretch a contextual argument in his effort to understand the fool's toil as that of talking too much.
+L3459|
+L3460|The exact force of the verse eludes us because the idiom of the second part is foreign to us. Literally it should be translated "they do not know to go to the city" (lo'-yada` laleket 'el-7r). It has been argued, since it is the best that we can do with it, that it must refer to some action that points out the stupidity of the fool. Thus, the verse is like 10:3 in pointing to the truth that the fool demonstrates his folly by his public, silly actions. It is likely that the verse says that the reason why fools are so tired after a long day's work is that they are so stupid that they get lost and walk a longer distance than necessary to return to their homes in the evening.
+L3461|
+L3462|18. The King: Blessing or Curse? (10:16-17)
+L3463|
+L3464|Some commentators48 argue that these verses should be combined with 10:1820, as if all the verses concern the king. Close study, however, shows that the royal theme is found in vv. 16-17 and 20, but not vv. 18-19; thus, I treat these verses under three rubrics.
+L3465|
+L3466|Verses 16-17 first present a dirge over a land whose king is immature, and they follow this with a blessing upon a land whose king is responsible and fit for rule.
+L3467|
+L3468|
+L3469|
+L3470|49. The verse begins with a shortened form of the word woe ('1). The common biblical form is either 'or or My. For more, see n. 41 to 4:10.
+L3471|
+L3472|50. The Septuagint has "city" (polis) for "land" here, but this is likely an attempt to specify the political boundary of the vague term land by an association with it in 10:15. Note that the Targum not unexpectedly specifies the land as the "land of Israel." It further concretizes what it takes to be historical references by naming Jeroboam (I) as the wicked king in v. 16 and Hezekiah as the good king in v. 17.
+L3473|
+L3474|
+L3475|
+L3476|51. Literally, ben-horim is "a son of nobles." Gordis (Koheleth, pp. 326-27) identifies the phrase as an Aramaism, but it occurs a number of times in biblical Hebrew (cf. 1 Kings 21:8, 11; Neh. 2:16; 5:7).
+L3477|
+L3478|16 The new section begins with a dirge52 directed to a land that is ruled by an immature (na ar) ruler. Such a land is in deep trouble. The Hebrew word na `ar is a relative term designating youth and/or subservience. The designation can refer to a "servant" (so NW and NRSV) on the basis of the parallel with noble, and if that is the case, then the thought is similar to that in 10:7 (where `abadim is used). Yet the expression probably means "youth," and in more than a chronological sense (cf. 4:13-16, where Qohelet preferred a wise, youthful [yeled] king to an old foolish one). Thus, I opt for the translation immature.
+L3479|
+L3480|It is not only the king who lets the nation down, however, it is also the secondary leaders (tar). The text says literally that they "eat in the morning" (babboger yo'kela). However, the context, which includes the parallel with v. 17b, leads me to believe that this eating is inappropriate for the time of day, and thus most translations understand that this is excessive, riotous eating (so the translation feast; cf. Isa. 5:11-13; 21:5 for the denigration of early morning indulgence).
+L3481|
+L3482|17 The first two cola of the verse parallel v. 16, but instead of a woe oracle the verse begins with a beatitude on the land whose king is a noble. Such a land, in Qohelet's opinion, is blessed. This verse supports the view that Qohelet is somewhat of an elitist (see also 10:6) since he prizes and trusts the upper classes of his society.53
+L3483|
+L3484|In contrast to the gluttonous leaders in v. 16, this blessed king's officials eat at the right time and for the right reasons. The verb eat is the same as that translated feast (from the root 'kl) in the previous verse, and thus the contrast is quite intentional. I have varied the translation in English to eliminate awkwardness.
+L3485|
+L3486|The most difficult part of the verse is the third colon, which seems added because it is not parallel to anything in v. 16. However, since we frequently get such intensifying additions in poetic parallelism, it is better to treat the colon as original.
+L3487|
+L3488|The colon has its difficulties, though. The dictionary meaning of the word gebara is strength, and I understand its meaning in this context to be that they eat to sustain them through the day. Some, though, take their key from the related word gibbor "manly," with the result that they "eat like men."
+L3489|
+L3490|Further, this happy land's rulers avoid drunkenness. The MT has a noun from the root "to drink" (sth). It should be noted that the Septuagint took the word as a form of the root bos "to be ashamed."
+L3491|
+L3492|19. Miscellaneous Wisdom (10:18-19)
+L3493|
+L3494|No obvious connections link these two verses with the preceding. Some54 argue on the basis of context that the neglected house of v. 18 is the "land" of vv. 16-17. Specifically, the immature king and drunken leaders ignore their responsibilities and the kingdom disintegrates.55 Michael Fox believes that v. 19 "applies to the banqueters most recently mentioned (v. 17) as well as to the dissolute nobles of v. 16."56 In agreement with R. N. Whybray,57 I observe nothing within vv. 18-19 that lends support to such a connection.
+L3495|
+L3496|There is the further question of the verses' relationship to each other. Once again, there is nothing obvious. In the analysis to follow we will see that v. 18 denigrates laziness in good wisdom fashion, and that v. 19 extols a life of material enjoyment. The relationship between the lines depends on the tone of the second. Is Qohelet serious in his promotion of a materialistic lifestyle? On the one hand, support could be garnered from the carpe diem passages throughout the book. On the other hand, Qohelet has criticized a lifestyle of excessive and blind enjoyment (in the case of national leaders as recently as 10:16; note also 2:2). Qohelet throughout has been an inconsistent thinker, particularly on the topic of enjoyment.
+L3497|
+L3498|
+L3499|
+L3500|58. Laziness (`Osaltayim) is a dual form of the adjective used as a substantive (GKC §88b). The dual nature of the word has perplexed scholars for years. Some take as an intensive dual; the reference is to extreme laziness. Others adopt a text critical solution, believing that the final ym are a dittography of the first two consonants of the following verb. A less likely explanation is that the dual here is anticipating the dual hands in the second colon. Thus, there are explanations for the dual form, but none is so persuasive that I can settle on it to the exclusion of others.
+L3501|
+L3502|59. roof (megareh) is a hapax, though there is little doubt about its translation. The more common expression is gord "beams of a house."
+L3503|
+L3504|60. An idiomatic translation of siplut yadayim ("lowering of hands").
+L3505|
+L3506|61. M.J.Dahood ("Three Parallel Pairs in Ecclesiastes 10:18," JQR 62 [1971-72]: 84-87) argued that there were three parallel pairs in this verse similar to the pairs found in Ugaritic. However, with the exception of the first (mkk//dlp), the pairs are either mistakenly identified (Hebrew megareh "roof" with Ugaritic qiyt "city") or based on a syntactical construction (causal beth), which presupposes no special relationship with Ugaritic. In terms of the first parallel, the root dip may have a different meaning in Ugaritic than it does in Hebrew.
+L3507|
+L3508|
+L3509|
+L3510|62. makes (`osim) is a participle, used without a subject. This is a classic way of expressing an impersonal subject.
+L3511|
+L3512|63. Literally, "bread," a synecdoche for "food" or excessive food = a feast. A comparable expression to Qohelet's makes a feast may be found in the Aramaic expression abad lehem (Dan. 5:1).
+L3513|
+L3514|18 In good practical wisdom fashion Qohelet warns against laziness by pointing out its consequences. People who sit around doing nothing will end up with a disaster on their hands. Specifically, if they do not attend to the regular upkeep of their houses because of laziness, then after a time the houses will begin to fall apart. The book of Proverbs considers such sluggards at least implicitly to be fools (Prov. 6:6; 26:16; see also 10:4; 12:27; 26:15).
+L3515|
+L3516|19 If v. 18 gives the impression that the reader should go out and work diligently, the next verse, at least on the surface, seems to encourage a sensual lifestyle of eating, drinking, and the use of money to satisfy one's needs and luxuries. We have seen above that the relationship between these two verses is ambiguous, in part because Qohelet's tone is uncertain. However, the most natural reading of the words in the verse would understand Qohelet to be sincere in his praise of feasting, laughter, wine, and money.
+L3517|
+L3518|The last clause presents the most difficult problems in translation. Most vexing is the meaning of the verb ('and). The difficulty is that 'and could derive from several roots with many possible meanings in Hebrew: specifically for this verse, "answer, obey, submit, hear, testify, afflict." We can add to this list "to occupy, to provide for."64 Some manuscripts of the Septuagint and Vulgate take the verb from `ana "to obey, submit." The Peshitta differs with its translation "to afflict, humble." The Targum, according to Levine's translation, renders "will proclaim," being thus closest to "answer." We can therefore see that the confusion entered early in the history of interpretation.65
+L3519|
+L3520|I cannot be dogmatic about my translation, but it makes sense in the context. The idea is that money is necessary to buy the food and the wine and other enjoyments of this world.
+L3521|
+L3522|20. Advice Concerning the King - Once Again (10:20)
+L3523|
+L3524|This verse returns (see vv. 16-17) to advice concerning the king and other powerful figures. The wise person is to take extraordinary precautions in dealing with such people.
+L3525|
+L3526|
+L3527|
+L3528|66. The Hebrew is plural, though a singular room is surely meant. Some Hebrew manuscripts, supported by the Syriac, Targum and Vulgate, attest the singular.
+L3529|
+L3530|67. Literally, "lord of wings." The compound use of ba`al is similar to Akkadian belu, which occurs in compound with a variety of words (age, kakki, etc.). According to CAD (vol. 2B, p. 198b) it can be used in compounds to signify "holder of, responsible for, entitled to." The MT attests a definite article prefixed to "wings" (the Ketib), but the Masoretes did not point it and thus did not want it read (Qere). Gordis (Koheleth, p. 329) notes that the Qere was "not a correction but a variant reading."
+L3531|
+L3532|20 The chapter concludes with Qohelet's advice that his reader/student not even think about cursing the king (melek) or the rich (`asir). The danger is too great; the repercussions too grave. After all, the king is sovereign (8:2-4).
+L3533|
+L3534|Unlike much of the book, this verse is in poetic parallelism. This has led some scholars to question the translation of your thoughts (madda aka), arguing that this provides a poor parallel for sleeping chamber (miskabeka). There have been many alternative suggestions, the most frequently cited being (1) "in your night lodging" (emendation to bemassa aka);68 (2) "in your bedroom" (based on the verbal root yd` in its sexual meaning);69 (3) "in your repose" (based on the meaning "to rest, to be still" of yd` in Hebrew and Arabic);70 (4) "in the presence of your messenger" (based on an Ugaritic word mnd`);7' and (5) "with your friends" (based on an Akkadian word found at Ugarit).72
+L3535|
+L3536|In the final analysis, however, all of these suggestions are quite unnecessary and are based on a faulty understanding of parallelism. In the first place, the word's meaning as "knowledge" and thus "thought" is not disputed, though it is attested in late biblical texts (2 Chron. 1:10, 11, 12; and Dan. 1:4, 17).73 In the second place, all the major ancient versions translate in this semantic range (Targum, Septuagint, and Vulgate).
+L3537|
+L3538|The parallelism is indeed more powerful when efforts are not made to make the two cola strictly synonymous. The first colon speaks of the king, and Qohelet warns his hearers not to speak ill against him even in the secret recesses of the mind. Qohelet then goes on to advise against cursing the rich, who are powerful but not quite as dangerous, in the secret recesses of the house.
+L3539|
+L3540|The motive clause follows in the last two clauses of the verse, which are also parallel to one another. As has been frequently pointed out, this is analogous to our own saying that "the walls have ears." Perhaps stirred by the expression "bird of heaven" (`op hassamayim), the Targum had a spiritual understanding of the verse and believed that this bird was in actuality the angel Raziel.
+L3541|
+L3542|
+L3543|SUMMARY OF CHAPTER 10
+L3544|
+L3545|Chapter 10 is difficult to summarize in a connected fashion because the units seem relatively isolated from one another, only occasionally and briefly interacting with their context. However, they are united by form and general topic. There are a number of proverbs in this chapter (see vv. 1-4, for instance), and certainly a lot of advice (vv. 18-20) as well as insight into how the world does and should work (vv. 8-9, 15-17). Also, the topics of wisdom and foolishness (vv. 1-3, 12-15), as well as the king (vv. 16-17, 20), seem to be in the forefront. Qohelet continues to raise some of the same deep issues that he has before, most notably the lack of human ability to know the future.
+L3546|
+L3547|21. Risk and Uncertainty (11:1-6)
+L3548|
+L3549|This section contains some of the more difficult, though provocative, verses in the book. The first verse, debated in meaning, is yet well known even in popular idiom. All six verses question the possibility of certainty in one's endeavors. Indeed, Roland Murphy identifies the unit as composed of "sayings about the uncertainty of human industry."I Nonetheless, Qohelet urges action, not inactivity.
+L3550|
+L3551|1Send2 your bread upon the surface of the waters, for after many days you may find3 it.
+L3552|
+L3553|2Give a portion4 to seven, even to eight, for you do not know what evil mays occur in the land.
+L3554|
+L3555|3If the clouds are full, they will empty rain on the earth; and whether a tree falls south or north, the place where the tree falls, there it is.6
+L3556|
+L3557|4Those who watch the wind do not sow, and those who observe the clouds do not harvest.
+L3558|
+L3559|5In the same way that you do not know what is the way of the wind or how the bones7 are formed in the mother's womb, sob you do not know the work of God, who does all things.
+L3560|
+L3561|6In9 the morning plant your seed and do not let your hand rest On evening. For you do not know which" will succeed, whether this or that, or whether both will do equally well.
+L3562|
+L3563|1 The translation of this verse is simple from a philological perspective, but its proverbial and metaphorical nature makes it difficult to understand. What does it mean to send your bread upon the waters? Even if one could find it after many days, what value would waterlogged bread be anyway? In spite of its uncertain interpretation, the image finds use even in twentieth-century American language, registering a kind of vague hope for a risky investment.
+L3564|
+L3565|A popular interpretation understands the verse to refer to charity, a view that has been espoused from antiquity to modern times.12 The Targum, for instance, reads "Give your nourishing bread to the poor who go in ships upon the surface of the water, for after a period of many days you will find its reward in the world-to-come."13 In support, modern scholars cite other ancient texts like "The Instructions of 'Onkhsheshonqy" (19:10)14 and the Arabic proverb: "Do good, throw your bread on the waters, and one day you will be rewarded." However, there is nothing in the verse itself that hints that Qohelet had charity in mind. The Arabic proverb could be influenced by the early charitable interpretation of Ecclesiastes.
+L3566|
+L3567|A similar structure associates v. 1 with v. 2, which, though it has its own difficulties, seems to be concerned with business transactions. Such a connection is the strongest argument in favor of those who understand v. 1 to refer to the calculated risks of business. In other words, it is saying that, in spite of the risks of loss involved, one should go ahead and engage in maritime trade. This view seems most likely in the context. bread (lehem), thus, stands for any kind of commodity of trade. The idea of the verse, then, is that, as people engage in trade, profits may flow back to them. Risk is involved, but reward may come. This view is widely held.'5
+L3568|
+L3569|Even if we are unable to come to a definitive understanding of the verse, Podechard is certainly correct that this verse fits in with the teaching of 3:11, 8:17, and 9:11 that, according to Qohelet, the future is uncertain.16
+L3570|
+L3571|2 The theme of uncertainty about the future continues in this verse, which is also associated with the first verse by virtue of its close syntactical structure (initial imperative and concluding motive clause [marked by initial ki]). As with the preceding verse, Qohelet's statement is somewhat elliptical to a modern reader. We are left with questions about the nature of the portion (heleq) that is to be given to seven or eight. It is surely to be connected with "bread" in the preceding verse, but there is disagreement over what that word means in context. Further, Qohelet does not explicitly tell the reader to whom to give the portion.
+L3572|
+L3573|Thus, those commentators who understand v. 1 to refer to charitable giving continue that theme into the present verse. Distribute your charity to many people. However, I prefer to understand the verses as referring to business activities. Thus, the force of the advice is to diversify one's financial risks. If one or two go under, there are other investments that will come through.
+L3574|
+L3575|In terms of the message of the book as a whole, Qohelet has consistently maintained the uncertainty of life in the present world. No one can know what will happen. Furthermore, given Qohelet's jaundiced view of the world, it is fitting that he would suggest that the result will be evil, that is, tragic.
+L3576|
+L3577|The use of the x/x+l pattern (here seven, even to eight) is well known in Hebrew literature (see, for instance, Prov. 30:15, 18, 21, 29; Amos 1:3, 6, 9, 11, 13; 2:4; Mic. 5:4) as well as in the literature of the ancient Near East. Wolfgang Roth identifies two functions: (1) when the second number is the number intended, and (2) when the intention is to give the impression of a large number of cases.17 The second is operative here.
+L3578|
+L3579|3 This verse is most closely connected with the following verse. By means of two conditional sentences, it describes two events of nature. The first sentence simply states that when clouds are full of water, it will rain; the second reports that when a tree falls, it stays where it falls no matter what direction it took.
+L3580|
+L3581|R.N.Whybray is surely correct when he identifies the point of the first illustration as that of "inevitability" and the second as "randomness."18 From both illustrations, Qohelet makes the point that humans do not control what is happening around them. The implications of this observation will become clearer in the next verse. In terms of the second illustration, Michael Fox makes the apt observation that north and south serve as a merism meaning "whatever direction" it falls.19
+L3582|
+L3583|4 The previous verse illustrated the truth that some things are beyond human control. The present verse gives two more illustrations from nature, while implicitly warning against the paralysis that often develops from this realization.
+L3584|
+L3585|The illustrations of this verse are agricultural. Humans can control neither the wind nor the rain. Thus, farmers who wait for the perfect weather conditions will never get anywhere because they will be afraid to plant for fear that the seed will be blown away, and they will be afraid to harvest for fear that rain will come before the crops are in.
+L3586|
+L3587|The verse's structure and content have a proverbial ring to them. However, since there is no introduction, it is impossible to tell whether Qohelet created or quoted the proverb. Nonetheless, since he agrees with it, there is no difference in our understanding whether it was created or quoted.2°
+L3588|
+L3589|5 The verse begins by reaffirming human ignorance (see 11:2). There is much that people do not know, and Qohelet cites two more examples: the direction of the wind and the formation of an embryo.
+L3590|
+L3591|Qohelet's readers would readily assent to their ignorance in these areas, and thus he goes on to make a theological point: No one can know God's plans. It is true that we feel the effect of the wind, and we see the result of fetal development. And it is true that we see God working in the world. But how and why he is doing what he is doing is beyond us.
+L3592|
+L3593|Some translations understand the last clause of the verse (the work of God who does all things [ma 'eh ha',lohim '°ser ya `°seh 'et-hakkol]) to refer to God's creative activity (NIV), but it is much more likely that this generic phrase refers simply to what God is doing in the world. James Crenshaw rightly points out that Ecclesiastes 3: 11, 8: 17, and 9: 12 have anticipated Qohelet's statement about human inability to know of God's activity on earth.21
+L3594|
+L3595|6 On the basis of the uncertainty of human endeavor (note the repetition in this verse of you do not know, 'eneka yode ; the other occurrences are found in 11:2, 5), Qohelet now gives his advice, and, as we might expect after 11:4, he tells his readers to go ahead and act anyway. Though he uses agrarian language here (plant your seed), he likely intends this to stand for all human activity. Since we do not know whether the seed we planted in the morning will germinate and produce the food that we need, we had better plant twice with the hope that one, or with good luck that both, will come to fruition. Qohelet thus once again expresses a skeptical attitude toward life, though not a skepticism that leads to inactivity.
+L3596|
+L3597|The Targum understood the verse to refer to the seed of sexual intercourse, perhaps under the influence of v. 5: "In the days of your youth take a wife to beget children, and in the time of your old age do not leave the wife of your lot so as not to bear children, for you do not know which of them is destined to be good, one or the other, or whether both will be good."22
+L3598|
+L3599|22. Youth, Old Age, and Death (11 :7-10)
+L3600|
+L3601|Qohelet concludes his teaching with a reflection and instructions on youth, old age, and death. Indeed, death may be the theme that unites this section since youth is ultimately seen from the perspective of old age, from the threshold of death.
+L3602|
+L3603|Some discussion attends the beginning of this final section, since a few scholars argue that 11:7-8 actually concludes the preceding section. Though I cannot be dogmatic, the verses read more smoothly as the introduction to a section that extols the joys of youth, while living under the shadow of old age and death.
+L3604|
+L3605|7Truly,23 sweet is the light, and it is pleasant for the eyes to see the sun.
+L3606|
+L3607|8Indeed,24 if someone lives many years, let him enjoy all of them.25 But he should remember the days of darkness, for they will be many. All that which is coming is meaningless.
+L3608|
+L3609|9Rejoice, young man, while26 you are young. Let your heart be merry in days of your youth.27 Follow the ways of your heart and the sight28 of your eyes. But29 know that God will bring you into judgment concerning all these things.
+L3610|
+L3611|10Put away anger from your heart and turn away evil from your body, for youth and vitality30 are meaningless.
+L3612|
+L3613|7 The last section of Qohelet's speech begins with an exclamation that extols life. Qohelet says that consciousness, indeed life itself, is sweet. This attitude seems at variance with that expressed in 4:2 and elsewhere that life is not worth living and death is preferable. However, the contrast may be between the attitude of a youth (11:9) versus an older person who has experienced disappointment and tragedy in the fallen world. It is true that Qohelet prizes life over death elsewhere in the book (9:4-6), but this verse is the most optimistic. As we will see, Qohelet's enthusiasm will once again be tempered by his awareness of death.
+L3614|
+L3615|Graham Ogden31 betrays his literary insensitivity when he argues that sweet (matoq) is an awkward attribute of light ('or). Indeed, it is a powerful metaphor, highly estimating the value of life itself.
+L3616|
+L3617|8 Qohelet begins with the advice to enjoy life as long as one lives. He does this by encouraging his pupils to make the most of all the days of their life. However, he immediately notes the impossibility of his own counsel. People will remember that the light of life (11:7) will be followed by the darkness (hahosek) of old age and death. Furthermore, the dark days of one's life are many. Thus, Qohelet concludes with his characteristic view of the value of life: it is meaningless.
+L3618|
+L3619|Many commentators and translations argue that the verb here translated he will remember (weyizkor) is a second jussive, "let him remember," and thus continues Qohelet's advice. From a morphological point of view this is possible, but it really does not make sense in the context, for Qohelet would then be giving contradictory advice that his reader should both enjoy life but also remember that he is going to die.
+L3620|
+L3621|It is interesting to note the approach of Gregory Thaumaturgos, who represents an early Christian pietistic interpretation. This verse worries him because he reads passages like 1 Corinthians 15:55, which indicates that death is not a problem for the Christian. They are not dark days, but days of joy and celebration. Thus, he puts the thoughts of vv. 7 and 8 in the mind of the non-Christian.32
+L3622|
+L3623|R.N.Whybray, in order to support his claim that Qohelet is a preacher of joy, unjustifiably reverses his thought when he argues that "Qoheleth's intention here is not to introduce a note of gloom to negate or qualify the cheerful note struck in v. 7, but to use the backdrop of inevitable death to highlight the positive opportunities for joy in this life."33
+L3624|
+L3625|9 Verses 7 and 8 have established a pattern repeated here. First, we had a call to enjoy life (vv. 7-8a), then the warning about darker days ahead (v. 8b). In verse 9 Qohelet begins with encouragement to enjoy life in the first two parts. He first encourages the young to rejoice, and then advises them to enjoy themselves while they are young. After this positive advice, however, he imparts a somber reminder of the coming judgment. Specifically, he will judge them for their youthful enjoyment!
+L3626|
+L3627|Indeed, the contrast is so great that some commentators treat v. 9c as a redactional gloss added by a later pious reader to tone down Qohelet's harsh rhetoric.34 Yet there are other ways to deal with the apparent contradiction. Pious interpreters have prized v. 9c to the denigration of vv. 9a and b. Gregory Thaumaturgos, for instance, felt that the first part of the verse was the viewpoint of another whom Qohelet critiques in v. 9c.35
+L3628|
+L3629|The tension between the two parts of the verse is also compounded by the apparent tension between v. 9ab and other parts of the OT. Since the earliest time, Qohelet's canonicity (see "Canon" in the introduction) has been contested on the basis of the contrast between 11:9 and Numbers 15:39 ("you may obey them and not prostitute yourselves by going after the lusts of your own hearts and eyes").
+L3630|
+L3631|Early attempts at smoothing the tension may also be seen in the rendition of Codex Vaticanus of the Septuagint, which adds two words to produce the following rendition: "walk in the ways of your heart blameless, and not in the sight of your eyes."36 More recently it has been argued that, though the same words are used, Qohelet and Numbers are really talking about "two different kinds of desire."37
+L3632|
+L3633|However, all of these attempts are based on the supposition that Qohelet is offering a single coherent point of view. It has been the contention of this commentary that it is better to understand Qohelet as a confused, skeptical wise man who vacillates between the traditional doctrine in which he was trained and the harsh realities of life (see the introduction). Thus, these tensions do not surprise us.
+L3634|
+L3635|In sum, his advice to the young is to pursue whatever they want to do, not to wait or it will be too late. He specifically mentions the heart and the eyes because these are the "organs of desire."38
+L3636|
+L3637|At the end Qohelet remembers the judgment (miipat), but is this remembrance any more than a theological reflex? He has already denied that there is equity in earthly judgments (3:16), and he leaves no room for a heavenly, eschatological judgment since he denies the existence of an afterlife.
+L3638|
+L3639|10 This verse's structure parallels that of the previous verse. It begins with admonitions to live a joyful and apparently carefree life, but then concludes with an observation that deflates enthusiasm.
+L3640|
+L3641|Qohelet admonishes his reader to live a happy life by using two verbs of removal (put away [baser, a hiphil of sur] and turn away [ha "ber, the hiphil of `br). From the heart, which is the seat of the emotions as well as the intellect, Qohelet calls on his reader to put away anger (ka'as), which can also be translated "frustration" in certain contexts (see earlier in 1:18; 2:23; 5:16 [English 5:17]; 7:3). From the body (briar, literally "flesh") Qohelet advises the removal of ra`a, which literally means "evil" but in this context likely means pain, a kind of evil that afflicts the body.
+L3642|
+L3643|The basis for Qohelet's advice is that youth and vitality are meaningless: that is, anger (frustration) and pain are characteristics more frequently found among the aged. Thus, enjoy a life relatively free of these traits while you can. I have rendered hebel as meaningless, as has been the case throughout the book. Qohelet, from his vantage point of old age, observes the meaninglessness of youth. This may, however, be the one verse where the temporal aspect of the root is emphasized. In other words, the verse may be saying: "for youth and vitality are transient."
+L3644|
+L3645|
+L3646|SUMMARY OF CHAPTER 11
+L3647|
+L3648|Chapter 11 is the shortest chapter in the book and contains two sections. The first deals again with uncertainty and emphasizes the risk involved in an ambiguous future (vv. 1-6). Some of the most memorable imagery comes from this section of the book (e.g., the bread returning on the water [v. 1]).
+L3649|
+L3650|The second unit (vv. 7-10) begins the transition into the last topic that Qohelet will address in the book: youth, old age, and death. In the four verses that end this chapter, Qohelet tells his young audience to enjoy their youth. However, he reminds them that the future hangs like a dark cloud over their heads.
+L3651|
+L3652|23. Approaching Old Age and Death (12:1-7)
+L3653|
+L3654|The chapter division obscures the integrity of the larger unit that begins in 11:7. In other words, 12:1-7 is a subunit of the larger pericope of 11:7-12:7 that deals with youth and old age. The section 11:7-8 dealt with the joy of youth, but already in 11:9-10 there was the spectre that something horrifying was on the horizon. "Youth is fleeting," and what follows is now made clear by 12:1-7 - death. Thus, as Roland Murphy points out, 12:1-7 flows naturally from the preceding unit.' Furthermore, there is continuity of genre between the sections since 11:7-10 and 12:1-7 are both instructions, though 12:1-7 also has elements of a reflection on death.2
+L3655|
+L3656|Nonetheless, 12:1-7 is a subunit and as such has its own integrity. The cohesiveness of this unit is marked by the repetitive before (`ad '°ser, vv. lb, 2a, 6) that follows the initial imperative, remember (zekor, v. 1 a).
+L3657|
+L3658|Much discussion attends the proper understanding of the images (the storm [v. 2], the house and its inhabitants [vv. 3-5], and the precious utensils [v. 6]) presented in these verses. The oldest attested interpretations3 take an allegorical approach that is still popular in some forms today. This approach takes as its departure point apparent connections between the image of the house and its inhabitants and specific body parts. As one illustration (more will be drawn in the commentary to follow), Qohelet notes that the grinders (female servants in the household) cease because they are few. The connection with the deterioration and loss of teeth during old age is too close to overlook, and I will argue that such connections are not impossible. The problem with this type of allegorical interpretation of the passage is the arbitrariness of many of the associations that are made and the fact that there are often multiple possibilities for association. The whole approach is thus extremely subjective and, therefore, suspicious.
+L3659|
+L3660|Nonetheless, a less arbitrary symbolic understanding of the poem is invited by the strange collocations of the poem itself. For instance, why did Qohelet describe the inhabitants of the house as being composed of four classes of people? Michael Fox and John Sawyer provide helpful guidelines to the proper interpretation of these verses.
+L3661|
+L3662|Fox's approach4 takes account of three levels of meaning: literal, figurative, and symbolic. He followed the literal approach of C. Taylor,5 who argued that the poem as a whole describes a funeral. However, the connection with 12:2 makes me think that the reaction to follow in vv. 3-6 finds its setting in the onset of a powerful and destructive storm. This understanding will be explained in the commentary to follow.
+L3663|
+L3664|Sawyer calls Fox's second level of meaning metaphoric. He notes, for instance, that the descriptions of the house and its inhabitants in v. 3 are strange when understood literally.6 Sawyer points out that this verse operates as a metaphor. The house and its inhabitants represent the body; the decline of the house in the midst of the encroaching storm7 communicates the body's physical decline during advancing old age.
+L3665|
+L3666|Then lastly, as Sawyer also argues, there is an allegorical level of meaning intended by Qohelet.8 This level is signaled by one or two obvious connections. Who but the most hardened exegetes can resist the association between the "grinders" and teeth? This is hard to make sense of on the literal level; the difficulty drives us to the allegorical interpretation. The allegory reminds us that old age is often accompanied (especially in the days before extensive dental care) with the loss of teeth.
+L3667|
+L3668|The problem with the allegorical approach is extent. Is the whole an allegory? If only a few verses of the poem are allegorical, then where do we stop making connections? The fact that the answer to the first question is likely negative and the answer to the second is not clear lead many to shy away from an allegorical understanding of any part of the passage. I will identify those parts of the poem that I believe make allegorical associations in the commentary below, but I readily admit that I may be either over - or underextending the allegory. This is not a matter of scientific precision.
+L3669|
+L3670|1Remember9 your creators0 in the days of your youth before the evil days come and the years approach when you will say, "I have no delight in them,"
+L3671|
+L3672|2before the sun and the light and the moon and the stars grow dark, and the clouds return after the rain,
+L3673|
+L3674|3on the day when'' the house guards'2 tremble13 and the landowners14 bend, and the women grinders cease15 because they are few, and those women who look through the window grow dim;
+L3675|
+L3676|4the doors in the street16 are shut» when'8 the sound of the mill decreases, and one rises19 at the sound of a bird, and all the daughters of song are brought low.
+L3677|
+L3678|5Moreover,2° they are afraid2' of heights and the terrors22 in the path. The almond tree blossoms23 and the grasshopper24 drags itself along25 and the caperberry is useless.26 For humans go to their eternal home27 and mourners walk about in the street,
+L3679|
+L3680|628before the silver thread is snapped,29 and the golden bowl is crushed, and the jar is broken30 by the well,31 and the wheel32 is crushed at the cistern,
+L3681|
+L3682|7and the dust returns33 to the earth as it was, and the spirit returns to God, who gave it.
+L3683|
+L3684|1 Once again we have a contrast between youth and old age. Youth is a time of life, enjoyment, and the possibility of connection with God (11:7-10). Old age faces death, does not have the possibility of enjoyment (I have no delight in them), and is a time when it is not propitious to establish a relationship with God. Old age is characterized as evil days. We find out why as we read the next few verses.
+L3685|
+L3686|Some scholars (see James Crenshaw below) have questioned what is, to them, the abrupt appearance of God as creator in the verse. Their concerns are heightened by what seems to be an anomalous plural form (see n. 10). Thus, they present alternatives to the MT. Some argue that we should read boreka "your pit," a reference to the grave. Thus, once again Qohelet calls on his readers to meditate on death in the time of youth (11:9). Others (most recently Crenshaw)34 prefer be'ereka, literally "your well," but metaphorically "your wife." Lastly, others repoint the Hebrew text to either bera'eyka or borye'aka "your health." Such changes, while appealing in that they too fit in with Qohelet's message, are not necessary since the Hebrew text makes perfectly good sense as it stands. It is also not necessary to excise v. la as the contribution of a pious redactor.35 We have already witnessed Qohelet's ambivalent attitude toward God (most recently in 11:7-10). Michael Fox appropriately points out that if this clause is removed, the remaining Hebrew is extremely difficult syntactically.36
+L3687|
+L3688|That these alternatives are attested in antiquity is shown by a quote from Rabbi Aqiba, who synthesizes all the possibilities into a single statement that the verse is understood well by the following paraphrase, "know whence you came [b'rk, your source], whither you are going [bwrk, your grave], and before whom you are destined to give an accounting [bwr'yk, your Creator]."37
+L3689|
+L3690|These alternatives are attractive because Qohelet's reference to God as creator seems odd, and even forced, as he draws his teaching to a close, especially since he has just finished telling his hearers to enjoy their youth. This awkwardness is intensified by the fact that his remaining few verses go on to describe death as the end of it all - God does not have a prize waiting for those who remember him at the end of their lives. However, it is too easy to do away with the problem by the tour de force of emendation. I understand the reference as a pious, but fairly empty, impersonal, and objective reference to God as he introduces the real subject of his concluding section - God.
+L3691|
+L3692|2 Verse 2 continues the long sentence that began in 12:1. The main clause is found there, "Remember your creator in the days of your youth...." Here we get the second of the temporal clauses that begin with before (`ad '°ser 10').38 The description that follows is metaphoric.
+L3693|
+L3694|The first half of the verse describes the time when the heavenly lights become obscured. Four are mentioned, three of which are quickly understood: the sun, the moon, and the stars. The other, which appears second in the list, is more difficult: the light. It has commonly been understood as forming a hendiadys with the following words: "and the light of the moon and the stars."39 Fox, however, points out that this would be the only instance of this type of three-member hendiadys.40 He also notes, along with many others,41 that Genesis 1:3-5 describes a light that existed independently of the sun. However, the view that this light is independent of the sun is tenuous, depending as it does on the supposition that Genesis 1 gives a chronological description of creation. Also it presupposes that "the light" was an entity that continued to function or exist after the creation of the sun. In any case, it would be surprising that only Genesis 1 and Ecclesiastes would mention this astral phenomenon. Though we cannot be certain exactly what is meant in this context by the light, our lack of knowledge does not interfere with our interpretation of the passage.
+L3695|
+L3696|The second half of the verse is relatively easy to translate with one possible exception. The preposition 'ahar is normally translated "after," but this is difficult from the standpoint of weather patterns. Why does Qohelet describe the clouds as coming after the rains? One argument42 is that Ruth 1: 15-16 and Ugaritic support the idea that the idiom means that clouds come along with the rain. However, from a psychological viewpoint, the idea that clouds are coming after rain evokes even more pathos. It is, after all, the darkness created by the clouds that make a rainy day so depressing. Thus, I stay with by far the most common translation of the preposition.
+L3697|
+L3698|One centuries-old interpretive approach understands the various elements of the verse in an allegorical fashion, though there is nothing in the verse itself to encourage such an understanding. The Targum translates as follows:
+L3699|
+L3700|Before the glorious brightness which is like the sun be changed, and before the light of thy eyes be darkened, and before the beauty of your cheeks becomes black, and before the centers of your eyes, which are like stars, be dim, your eyelids drip tears like clouds after rain.43
+L3701|
+L3702|Franz Delitzsch finds himself in continuity with the allegorical interpreters of the past,44 when, among other connections, he associates the sun with the male spirit, the moon with the soul, and the stars with the five senses.
+L3703|
+L3704|Such an approach is much too eisegetical and arbitrary. The metaphors of the darkening of the cosmic lights and the encroaching rain clouds are understood readily enough on a psychological plane as communicating Qohelet's belief that old age is a catastrophe that engenders sorrow. As one grows old, one grows weak, having less control over body and mind. Finally, death comes, and, in Qohelet's thinking, that is the end of the story. Ernst Hengstenberg understood that "in Old Testament delineations of adversity we so often read of the destruction of the heavenly lights," and "dark clouds are often used as an image of troubles."45 In sum, the passage presents images evoking dread and sorrow in the light of encroaching old age and impending death.
+L3705|
+L3706|3 The focus now shifts to the inhabitants of a house. The four classes of people mentioned indicate that we are to think of a rather elaborate structure, perhaps a palace, though it really makes little difference to the metaphoric story.
+L3707|
+L3708|The four groups are carefully chosen. The first two are male and the second two are female. The first and the third are lower-class servants; the second and the fourth are upper class. I will discuss them in order. The first group, the house guards (somere habbayit), are male servants. As the storm approaches (see n. 28, which describes the relationship between vv. 2 and 3), they react in fear; they tremble. The second group is male and upper class, the landowners ('anse hehayil). They are said to bend. It is hard from the context to be specific about the significance of this action, and the choice of the verb may have more to do with its figurative meaning (see below) than its literal sense. The bending may be out of fear or consternation. The third group is lower class and female, the women grinders (hattohanot). They are the women who do the daily grinding of the grain and provide the household with flour for food.46 Once again, problems arise in understanding the line on a literal level, for it is hard to see why their numerical decrease would require their idleness; if anything, their labors would increase. One might speculate that it indicates their despair; they just give up. Once again, however, it is likely that this difficulty is presented to us because of Qohelet's interest in the figurative meaning, to be explained below. The last and fourth group is female, but upper class, women who look through the window (haro'ot ba'arubbot). These are the women of leisure. They are not grinding or doing any other toil; rather they look out of the window, perhaps at the approaching storm described in v. 2.
+L3709|
+L3710|The verse speaks of a deteriorating household facing a devastating storm. On a symbolic level, Qohelet thus describes the deterioration of old age. Everything falls apart.
+L3711|
+L3712|It is hard to resist the next step. Whether we call it allegorical or figurative, there is a strong likelihood that the author intended his readers to think of specific body functions. The main signals are the difficulties presented by a straight literal reading of the verse. For instance, what is the logic behind the decreasing number of grinders? If we understand the grinders to represent teeth, then it is clear that their diminution is the result of loss of teeth, a frequent occurrence in old age particularly in antiquity. Why are the women who look through the window said to grow dim? This is an allegorical reference to the loss of eyesight in old age.
+L3713|
+L3714|Such an interpretation of the verse is often resisted on the basis of the apparent arbitrariness of the associations. However, it must be pointed out that there has been no variation in these two identifications. Both ancient (Targum) and modern (Delitzsch)47 interpreters go in this direction. It must be admitted, though, that the first two groups (i.e., the house guards and landowners) are not as universally identified. Robert Gordis indicates some of the variation when he points out that the house guards have been identified as knees or ribs or legs or arms, while the landowners have been associated with arms or thighs.48 Though a precise identification cannot be made, there is no doubt that trembling and bending are actions that characterize the elderly. Such a figurative approach cannot be denied.
+L3715|
+L3716|4 The description of the household threatened by storm (v. 2) continues at least in the first half of the verse. In anticipation of the storm the doors are closed. Also, the daily grinding operation stops (as seen above in v. 3).
+L3717|
+L3718|There is more than one suggestion for v. 4a by advocates of an allegorical/figurative approach to the poem. The closing of the doors cannot help but suggest the blocking or disability of all or some bodily orifices. After all, the doors provide entrance to and exit from the house (the body) from the street (the outside world). Significantly, doors is in the dual (delatayim), encouraging an identification with some body part that has two parts. While some (e.g., Ibn Ezra) have argued that the doors are the lips, the remainder of the verse points strongly to the ears.
+L3719|
+L3720|The lowering of the grinding sound could simply describe the effect of hearing loss or possibly, but less probably, refer back to the loss of teeth (v. 3). The next two clauses confirm the former understanding, though, since they both concern hearing.
+L3721|
+L3722|There is a surface contradiction with the next clause (one rises at the sound of a bird), since it indicates that the elderly hear too well, so well that a bird disturbs their sleep (cf. Targum). However, hearing loss and restlessness are both characteristics of old age.
+L3723|
+L3724|The phrase daughters of song (bent hassir) is unusual to modern ears. Interestingly, it is strikingly similar to a phrase (but hil) used to describe the ktrt, female singers, in Ugaritic literature. Thus, some understand Qohelet to refer to female singers or possibly songs.49 It could also conceivably be a poetic description of the birds. The best guess is that the clause once again remarks on loss of hearing.
+L3725|
+L3726|5 As Charles Whitley has remarked, "obscure allegory and textual uncertainty combine to make this line one of the most difficult in Qoheleth."5o Much of the difficulty is philological and textual and is dealt with in the footnotes that accompany the translation. The uncertainty of translation compounds the difficulty of determining when and if Qohelet speaks allegorically/figuratively as well as literally.
+L3727|
+L3728|Qohelet speaks very straightforwardly about the fears of old age in the first sentence, they are afraid of heights and terrors in the path. Due to decreased physical abilities, the elderly fear to venture out in public. Michael Fox questions whether the fear of heights is a typical characteristic of old age,51 but his question is beside the point since Qohelet is painting an extreme picture of the mental and physical deterioration that comes with advanced years.
+L3729|
+L3730|It is in the next sentence that most of the difficulty is registered. I have presented my best educated guess along with alternatives in the footnotes, so I will here simply concentrate on the possible meaning. My philological choices demonstrate that I am moving in the direction of a figurative understanding of the verse.
+L3731|
+L3732|There are three parts. Before treating them individually I should point out that all three describe events outside the house (vv. 3 and 4). The almond tree, the caperberry, and the grasshopper go on as if the deterioration of the house is not taking place. Perhaps this signifies the indifference of the surrounding world to the decline and eventual death of the individual.52 Furthermore, the possible allegorical/figurative associations continue. First, the white blossoms of the almond tree may represent the white hair of the aged. Second, the verb used to describe the movement of the grasshopper, which has lost its spring (yistabbel), could conceivably (though this is much more tenuous) describe the painful and labored movement of old age. In the third part, the focus is on the well-known qualities of the caperberry as an aphrodisiac. Later Jewish literature made this connection explicit.53 If this is true, then the uselessness of the caperberry highlights the loss of sexual potency.
+L3733|
+L3734|If 12:1-5b describes old age,54 then v. 5c climaxes the section by talking about death. Eventually, everyone goes to their eternal home, the grave.
+L3735|
+L3736|6 In this verse, Qohelet presents us with four more metaphors. Here there is no doubt that their referent is death and not old age, on which vv. 1-5 focus. In this way vv. 6 and 7 climax the poem begun in v. 1.
+L3737|
+L3738|The first metaphor is the silver thread that is snapped; the second describes the golden bowl that is crushed. In both cases we have an object of significant value, and in both cases the object is destroyed, rendered useless. Qohelet makes an implicit comparison with human life. Indeed, it is something of value, but it is rendered valueless at the time of death.
+L3739|
+L3740|It is possible, though difficult to be certain, that these two images are connected. The word bowl (gullat) occurs in Zechariah 4:2-3, where it is the bowl that holds the wicks of candles. Thus, some commentators argue that the silver cord holds the golden bowl, and when the cord is severed, then the bowl containing the lamp is smashed with the result, in the words of Christian Ginsburg, that the "light of the lamp is gone."55 This lamp is the light that symbolizes life.
+L3741|
+L3742|The third metaphor is a broken jar; the fourth is a wheel. Both of these are associated with a well or cistern. There is a dispute over the meaning of wheel, but with few exceptions56 it is thought that it refers to the pulley that would lift a jar out of a well. If so, then the second two images go together as well. The jar and the pulley connected with a well are destroyed, with the result that "the water of the well is unavailable."57 Water, absolutely essential to sustaining life, symbolizes life. Thus, the verse describes death as the cessation of light and water.
+L3743|
+L3744|7 In conclusion to his meditation on death Qohelet makes allusion to Genesis 2:7 and 3:19, particularly the former. God created Adam, the forefather of all human beings, by forming his body from the dust of the ground and endowing it with his spirit. Genesis 3:19, in the context of the judgment that is the result of the fall, describes death as the return of the body to the dust to the ground. Thus, what Qohelet describes is a reversal of creation, the dissolution of human creation. This is true as well of the last part of the verse, which states that the spirit returns to God who gave it. This is not an optimistic allusion to some kind of consciousness after death, but simply a return to a prelife situation. God temporarily united body and spirit, and now the process is undone. We have in this verse no affirmation of immortality. According to Qohelet, death is the end.
+L3745|
+L3746|We might ask whether there is a contradiction here with Ecclesiastes 3:21 ("Who knows whether the breath of humans goes up above and the breath of animals goes down to the depths of the earth"). That is, in ch. 3 Qohelet raises a question about life after death, about which he is unsure, and now in 12:7 he dogmatically states what happens.
+L3747|
+L3748|As has already been stated, Qohelet, being a confused wise man, is not above tensions and contradictions. However, whether this is a true tension or not (the rhetorical question in 3:21 may serve the purpose of dogmatic denial), the important point to bear in mind is that in neither context is there an affirmation of the afterlife.58
+L3749|
+L3750|III. FRAME NARRATIVE: EPILOGUE (12:8-14)
+L3751|
+L3752|A.THE EVALUATION OF THE FRAME NARRATOR (12:8-12)
+L3753|
+L3754|A change of narrative voice signals the change from Qohelet's meditation to the epilogue; we move from first-person speech by Qohelet (in v. 7) to thirdperson speech about Qohelet (in v. 8). Early tradition concerning Solomonic authorship has obscured this rather dramatic shift. It saw not a change of speaker but a change in the speaker's perspective, the epilogue representing an aged, repentant Solomon, who comments on the speech of the young, confused Solomon.59 However, as already discussed in the introduction, nothing in the book of Ecclesiastes or in the historical books of the Bible lends support to the idea that Solomon repented.
+L3755|
+L3756|The NIV and NRSV use a rubric to divide vv. 8 and 9, but it is clear from the shift in narrative voice that vv. 8-14 must be treated as the final unit of the book. The most natural reading of this shift from first-person to thirdperson speech, I believe, is to recognize an actual shift in speaker. A second person is now commenting on Qohelet's speech. Further, I see no indication in the text that there is more than one hand involved in the writing of vv. 8-14. In this, I disagree with historical-critical analyses of the epilogue.
+L3757|
+L3758|James Crenshaw represents a typical historical-critical assessment of the epilogue.60 He recognizes two hands in it, both to be distinguished from the words of Qohelet. The division within the epilogue is signaled by weyoter, which begins vv. 9 and 12. The first epilogue (vv. 9-11) is sympathetic to Qohelet and probably was written by a disciple. The second epilogue (vv. 12-14) is critical and written by someone who wants to question and undermine Qohelet's perspective. My own view notes that the epilogist both affirms and critiques Qohelet's views, and it does not resort to the more complicated hypothesis of two glossators. Unlike the shift of narrative voice that indicated a shift in speaker between the body of the book and the epilogue, no shift of narrative voice appears within the epilogue itself.
+L3759|
+L3760|Within this section we encounter some of the most significant disputes concerning translation and interpretation of the text.
+L3761|
+L3762|8"Completely meaningless, "Qohelet said. "Everything is meaningless."
+L3763|
+L3764|9Furthermore, Qohelet was a wise man. He also61 taught the people knowledge. He heard,62 investigated, and put in good order63 many proverbs.64
+L3765|
+L3766|10Qohelet sought to find words of delight and to write65 honestly66 words of truth.
+L3767|
+L3768|11The words of the wise are like goads, and like firmly implanted nails are the masters of collections.67 They are given by a shepherd.
+L3769|
+L3770|12Furthermore,68 of these, my son, be warned! There is no end to the making of many books, and much study69 wearies70 the body.
+L3771|
+L3772|8 This verse mirrors 1:2 (see comments). Together they form an inclusio around Qohelet's speech, and in this way the frame narrator indicates that he understands this typically Qohelethine expression to be a proper summary of his message. That message is: there is no ultimate meaning in this world. Once all is said and done, Qohelet's conclusion is that everything is meaningless.
+L3773|
+L3774|Two deviations from 1:2 are worthy of mention but do not significantly change the meaning of the verse. 12:8 is actually a shorter form of 1:2 since the earlier reference repeats completely meaningless a second time. Also, here Qohelet is prefixed by the definite article. From this, we understand that Qohelet is a type of professional designation since proper names do not appear with the article - proper names are inherently definite. The appearance of the definite article also reminds us of the rather irregular use of the definite article in the book of Ecclesiastes, and it is also rather arbitrary as to when the article appears with Qohelet and when it does not.
+L3775|
+L3776|9 After summarizing Qohelet's teaching in v. 8, the frame narrator begins his evaluation. He starts with a description of Qohelet's work that is somewhat complimentary but very reserved. He refers to him as a wise man, to be sure, and one that has worked hard at his task. By piling up the verbs (taught, heard, investigated, put in good order), the frame narrator describes an industrious person. Nontheless, this description of Qohelet's task lacks any honorifics or terms of respect. It reminds me of student recommendations to a highly competitive academic program in which the recommending professor writes, "Mr. X is industrious; he works hard." When accompanied by mediocre grades, this is the "kiss of death"; the student is usually rejected.
+L3777|
+L3778|There is an important disagreement concerning the translation of the opening word complex (weyoter sehaya gohelet, which I translate Furthermore, Qohelet was). The NIV and NRSV mistake yoter as an adverb and translate: "Besides being wise, the Teacher also taught..." (NRSV) and "Not only was the teacher wise, but also he imparted knowledge..." (NIV). Th NIV translation ignores the Masoretic punctuation (disjunctive zaqeph gadol), but more importantly misunderstood weyoter sehaya for weyoter missehaya. voter must be understood here in its nominal, not adverbial, sense,71 literally "and this is remaining...." I understand it as a conjunction, "and furthermore."72
+L3779|
+L3780|The frame narrator reminds us that Qohelet was a wise man. We must be careful not to read moral overtones into this expression. It is true that in the book of Proverbs wisdom is inextricably bound with righteousness and godliness (e.g., Prov. 8:12-21), but this is not true throughout the canon. In this usage it is clear that the frame narrator simply identifies Qohelet's profession. There are, as Michael Fox73 reminds us, good sages as well as evil ones (Jonadab [2 Sam. 13:3]; Ahithophel [2 Sam. 16:15-17:29]).
+L3781|
+L3782|The frame narrator in rather neutral terms expands upon the description of Qohelet's legacy by saying that he taught the people knowledge. As mentioned in n. 61, it is impossible to say whether Qohelet is going above and beyond the call of duty in instructing the masses, or whether this is once again simply a description of his role as wisdom teacher.
+L3783|
+L3784|The last sentence of the verse lists three activities that Qohelet performed during his career, and there is some disagreement over the precise nature of these actions (see footnotes). However, it appears that he studied proverbs and did not invent new ones. This coincides with what we encounter in 1:12-12:7. He occasionally quoted proverbs, but it is at best disputable that he actually created proverbs.
+L3785|
+L3786|10 In the previous verse the frame narrator commented respectfully on Qohelet's diligence; here he begins his evalation of his conclusions. In doing so, he chooses words that cast doubt on Qohelet's success.
+L3787|
+L3788|The evaluation begins with rather lukewarm comments, and then in the following verses it becomes more openly negative. In this verse the frame narrator acknowledges that Qohelet's intention was to discover the truth. In the following words, he will cast doubt on his success.
+L3789|
+L3790|The key to understanding this verse comes in the phrase sought... to find (bigges limso), already encountered a number of times in Qohelet's section. Many times Qohelet seeks something, but he never finds what he is after (7:24-29; 8:17). Those things he does claim to find are undesirable, for instance, the "bitterness of women" (7:26). Qohelet's entire life was spent seeking for meaning in life but coming up empty.
+L3791|
+L3792|Indeed, this verse subtly calls Qohelet a double failure. After all, what did Qohelet seek to find? In the first place, words of delight. The word delight always refers to something pleasing or pleasant. This expression, therefore, likely refers to artful expression, that is, words that elicit delight when read. If so, though there are some nice turns of phrase, the book is better characterized as difficult and problematic. Though admittedly a subjective judgment, I would argue that Qohelet's speech is not one of the most literary books in the canon. If the expression is understood as words that evoke delight, the problem is even more obvious. His words are troublesome, not pleasant or delightful. In the second place, the frame narrator says that Qohelet sought to write words of truth. Is the frame narrator ready to admit this? I think not. Qohelet truly describes the world as it really is under covenant curse, but is this the ultimate perspective from which life should be viewed? Not from a normative OT perspective, it isn't. That Qohelet's perspective is considered inadequate by the second wisdom speaker is indicated by the fact that he turns his son's attention away from Qohelet at the end by directing it toward the foundational truths of his faith (12:13-14). By using the expression sought ... to find, then, the frame narrator falls far short of commending either Qohelet's literary skills or his truthfulness.
+L3793|
+L3794|11 The frame narrator proceeds from his description of Qohelet's intentions to his characterization of the writings of wisdom teachers generally. Though he may be quoting a well-known proverb in the first part of the verse,74 he certainly intends it to apply to Qohelet's writings as well.
+L3795|
+L3796|In brief, the frame narrator likens wisdom teaching to the goads that prod cattle into line and nails that are firmly fixed in their place. He also names their source as coming from a shepherd. In other words, the frame narrator uses figurative language to describe the origin and effects of wisdom teaching. One of the major tasks for the interpreter of this verse is to unpack the meaning of the images.
+L3797|
+L3798|In my translation I have tried to capture the chiastic relationship between v. 11 a and b, though the resultant English syntax is a little odd. The chiasm is formed by the occurrence of the images (goads and firmly implanted nails) in the middle while the objects of comparison (words and masters) are found first and last.
+L3799|
+L3800|The imagery, which began with the mention of goads and nails in the first part of the verse, is continued in the third part of the verse (given by a shepherd), which I treat as an independent sentence (there is no relative). There is much confusion about the identity of the shepherd. In the first place, the word 'ehad occurs before shepherd. This has led many to understand the word to be a metaphoric reference to God; thus the NIV and the NKJV capitalize the word. It is true that the Bible refers to God as a shepherd on occasion (Ps. 23:1 is the most notable), but this would be a unique reference in the wisdom literature and a startling affirmation of the divine origin of wisdom.75 It also seems to put stress on the oneness of God, which seems totally out of place since this issue has not been raised in the book.76
+L3801|
+L3802|The proposed identification between the shepherd and God misleads some commentators,77 who assert that all of Qohelet's observations and advice are positive and optimistic, if not downright orthodox.78 This results in extremely strained exegesis in order to harmonize what Qohelet actually says with this evaluation.
+L3803|
+L3804|The history of interpretation has presented alternatives to the divine identification. Moses, Solomon, and Qohelet himself have all been proposed. The best understanding is to see the reference as part of the metaphor of the verse. A goad, which is a long rod with one or more points on the end of it and is used to stir cattle into motion, has already been mentioned. This is part of the shepherd's trade. The best interpretation of the verse is to understand the shepherd as a reference to wisdom teachers in general, the numeral 'ehad being a late form of the indefinite; thus, I translate a shepherd.79
+L3805|
+L3806|In order to understand the nature of the frame narrator's evaluation of wisdom teachers, we must unpack the images of goad and firmly implanted nails.80 At least as early as the Targum to the book it has been suggested that the images are positive: "The words of the wise are like inciting goads and forks, which incite those who are destitute of knowledge to learn wisdom as the goad teaches the ox." The paraphrase of Gregory Thaumaturgos states: "I know that the mind is roused and spurred by the instructions of wise people just as much as the body is by an ox-goad being applied or a nail being driven into it."81 Thus, the goad prods to greater wisdom and the nail refers to the firm establishment of good teaching. Christian Ginsburg calls this a statement of "liberal" and "conservative" tendencies 182
+L3807|
+L3808|Michael Fox, though, has recently and rightly pointed out that the images are united in one regard - they both "sting" when applied.83 If the frame narrator wanted to focus on the positive aspects of the shepherd's function, he would have more likely written of the rod and staff (Ps. 23:4). Thus, I believe that the frame narrator uses the image of the shepherd and his tools to emphasize the dangerous and painful aspects of wisdom teaching, a very appropriate image after presenting the skeptical and pessimistic teaching of the wise man Qohelet.
+L3809|
+L3810|12 The frame narrator makes the recipient of his teaching (the book as a whole) explicit for the first time, my son (beni). The father-son dialogue is common in ancient Near Eastern wisdom, as the book of Proverbs abundantly attests (cf. Prov. 2:1; 3:1; 4:1, etc.). Nonetheless, it remains unclear whether the "son" is a biological or a vocational designation84 - that is, rather than one's literal son, a disciple or student might be meant. The same uncertainty attends its occurrence here at the end of the book of Ecclesiastes.
+L3811|
+L3812|The frame narrator issues a warning to his son. He warns the student of these (mehemma), the context making it difficult to determine the exact reference of the demonstrative pronoun. Perhaps the proper interpretation of the verse understands the warning to exclude Qohelet's speech since, according to this interpretation, the "words of the wise" (v. 11) include Qohelet's. The Targum, which takes the view that Qohelet is optimistic and orthodox, solves the difficulty in another way by translating: "And more than these, my son, take care to make many books of wisdom without end; to study much the words of the Law, and consider the weariness of the body."85 Thus, the Targum reverses the meaning of the Hebrew text. Rather than a warning of the danger of books, it gives an exhortation to produce more of them!
+L3813|
+L3814|I think the Hebrew text of the first part of the verse (weyoter mehemmd beni hizzaher) should be rendered Furthermore, of these, my son, be warned! The opening yoter is taken as a conjunction as in v. 9, and the point of the sentence is that the frame narrator intends to include Qohelet as worthy of warning. these would comprise all the wisdom writings, including Qohelet's. In essence, he says to his son, "Qohelet's thinking is dangerous materialbe careful."
+L3815|
+L3816|For those in academics, the second part of the verse (There is no end to the making of many books, and much study wearies the body) needs little explanation. There are too many books, and people exhaust themselves by trying to keep up with them. The sentence certainly presents a jaundiced view, but we understand the statement as appropriate after reading the strange and challenging words of Qohelet.
+L3817|
+L3818|B.THE CONCLUSION: FEAR GOD (12:13-14)
+L3819|
+L3820|The last two verses are a continuation of the words of the frame narrator, but here he turns from a critique of writings like those of Qohelet to what he believes the reader of his book (the book of Ecclesiastes) should learn. The second wise man turns to his son and concludes with a series of commands with their accompanying motivations.86
+L3821|
+L3822|13The end of the matter. All has been heard. Fear God and keep his commandments, for this is the whole duty of humanity.
+L3823|
+L3824|14For God will bring every deed into judgment including87 every hidden thing, whether good or evil.88
+L3825|
+L3826|13 The last two verses comprise the ultimate conclusion to the book of Ecclesiastes. They are composed of a declaration and a motive clause.
+L3827|
+L3828|The Hebrew of the declaration is brief, even abrupt, and thus emphatic (sop dabar). I have tried to capture this by translating the sentence without a verb (The end of the matter). Some translations try to incorporate what I have taken as two sentences into one sentence, "Let us hear the conclusion of the whole matter" (NKJV), but this obscures the emphatic nature of the verse.89
+L3829|
+L3830|The abruptness of the first sentence perhaps reflects the impatience of the frame narrator. The effect may be: "Enough of Qohelet, let's get on with what is really important."
+L3831|
+L3832|In any case, we are left in no doubt as to what is of greatest significance for the frame narrator. His statement is brief and to the point, utilizing key words in order to invoke major concepts and also the three different parts of the canon.
+L3833|
+L3834|First, the frame narrator's son must Fear God. It is true that Qohelet has stated the same words (3:14; 5:6 [English 5:7]; 7:18; 8:12), but with doubtful conviction (see the commentary at those places). Here there is no doubt that the intention of the speaker/writer is to lead his listener/reader to a right relationship with God, one in which he is properly subservient to the deity. To fear God in this sense means to respect, honor, and worship the Lord. The motto "fear God" also invokes the book of Proverbs (1:7 in particular), a book which has received implicit criticism throughout Qohelet's writings.
+L3835|
+L3836|Second, the frame narrator exhorts his son to keep his [God's] commandments. Qohelet never so admonished his students, and the juxtaposition of the command to fear God and to keep his commandments is one of the major contextual items that signals that the frame narrator advocates orthodox worship, that is, worship in keeping with the normative teachings of the rest of the OT. With his call to obey God's commandments, we see the frame narrator's interest not only that his son establish a right relationship with God, but that he maintain it in the proper way. Also, this language evokes the legal material of the OT canon, which is made up of numerous commandments (miswot).
+L3837|
+L3838|The verse ends with the first of two motive clauses: for this is the whole duty of humanity. Literally, the Hebrew (ki zeh kol-ha'adam) reads "for this is the whole of humanity," which may be an idiom in Hebrew, but it does not communicate well in English. The difficulty was felt early in the history of exegesis since even the Talmud (Berakot 6a) raises the question of its interpretation. Rabbi Eleazar answers the question and asserts that the phrase meant that the commands to fear and obey God were the most important things in life. Robert Gordis believes that it is a "pregnant" saying that implies one's "whole duty."90 The general meaning of the statement is fairly clear: fearing God and obeying his commands is the most important thing a man or a woman can do.
+L3839|
+L3840|14 The section, and the book, concludes with a second motive clause. Why fear and obey God? Because God will judge you. Qohelet talked about God's judgment earlier (most recently in 11:9), but it was never linked with his law. Indeed, it is hard to know exactly how Qohelet thought God's judgment would work in practice since he never admits to justice in the present or to the possibility of judgment in the future (see the discussion in connection with 3:16-22). Qohelet looked for a time when God would give the righteous their reward and the wicked their just punishment, but he did not discover evidence that God would make things right. For Qohelet, the righteous suffered and the wicked prospered (7:15-18; 9:1-12), but here the second wise man asserts his understanding that God will indeed make things right through judgment.
+L3841|
+L3842|The frame narrator anticipates a judgment that will take place in the future rather than the present, and one that includes hidden, or "secret," acts. Thus, it is likely that he had an eschatological judgment in mind.91
+L3843|
+L3844|The book thus ends on a strong orthodox note, one that is in keeping with the dominant teaching of the rest of the OT, and one that is positive, at least for the faithful. It is thus correct to characterize the book as positive and orthodox, while maintaining the dubious nature of Qohelet's own thinking.
+L3845|
+L3846|
+L3847|SUMMARY OF CHAPTER 12
+L3848|
+L3849|Qohelet's speech ends with a section that calls for people to remember God. The bulk of this concluding unit meditates on the aging process, which ultimately culminates in death. The tone is depressing, not uplifting.
+L3850|
+L3851|Qohelet uses three metaphor clusters to describe the aging process. First (v. 2), he likens the aging process to a coming storm. Second (vv. 3-5), he compares the aging body to a house with four types of inhabitants, each of which is flagging in energy and strength. The idea is that as people grow old, they slowly deteriorate like a neglected building. Third (vv. 6 and 7), life is compared to precious objects, which at death are smashed and rendered useless.
+L3852|
+L3853|On this depressing note, Qohelet's speech ends and the unnamed frame narrator speaks up. His voice has not been heard since the prologue in 1:1-11.92 In the prologue the frame narrator simply set the mood and introduced Qohelet's speech. Here he concludes and evaluates what has been heard. He also points the hearer in what he considers to be the proper direction.
+L3854|
+L3855|In this section the frame narrator addresses his son (v. 12) and begins by summarizing Qohelet's conclusion, which he does by simply citing Qohelet's most common refrain, "Everything is meaningless."
+L3856|
+L3857|Nonetheless, as the frame narrator goes on, he respectfully commends Qohelet, a professional wise man who worked hard and had good intentions. The narrator also afffirms that Qohelet sought to find truth, although nowhere does he ever clearly state that Qohelet found truth. What truth Qohelet found was truth "under the sun." Indeed, apart from God, which is one of the meanings I believe this phrase has, there is no meaning, no reason to do more than to pursue the simple pleasures of life (eat, drink, and enjoy work).
+L3858|
+L3859|However, the frame narrator is unhappy with this ultimate conclusion. In vv. 11-12, he becomes more openly critical, warning his son of the dangers inherent in a writing like the one they just looked at together. Finally, in the last two verses of the book, he turns his son toward the central truths of revealed religion: the fear of God, obedience to his commandments, and an awareness of the coming judgment.
+L3860|
+L3861|
+L3862|A FINAL WORD
+L3863|
+L3864|The book of Ecclesiastes must in the final analysis be understood by the modern reader in the light of the full context of the canon. For the Christian that context includes the NT. For this reason, now that we have looked through the book as a whole, I commend the rereading of the introduction, particularly the sections that concern the theological message of the book. The idea is presented there that Jesus Christ is the ultimate answer to Qohelet's conclusion of meaninglessness under the sun. Jesus emptied himself of his divine prerogatives to subject himself to the world "under the sun" in order to free us of the chaos to which God subjected the world after the fall into sin (see Gal. 3:3 and Rom. 8:18-27).

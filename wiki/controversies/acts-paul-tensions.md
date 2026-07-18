@@ -7,7 +7,7 @@ positions:
   - Bock's minority position: Acts 11 (not Acts 15) = Galatians 2; Galatians predates the Jerusalem Council
 traditions_involved: [Christianity — NT scholarship]
 resolution_status: open
-last_updated: 2026-06-04
+last_updated: 2026-07-18
 tags: [controversy, new-testament, acts, paul, christianity]
 ---
 
@@ -43,6 +43,21 @@ If correct, this resolves the tension between Galatians 2 and Acts 15 by separat
 **Timothy's circumcision**: Paul circumcised Timothy (whose mother was Jewish) for missionary strategy — "to the Jews I became a Jew" (1 Cor 9:20). This does not contradict the principle of Galatians because Timothy's circumcision was not coerced and was not undertaken as a requirement for salvation but for missional effectiveness. Cruelty to the principle would be demanding circumcision as necessary for justification — which Paul never countenanced.
 
 **Temple participation**: Paul's 1 Corinthians 9:19-23 principle ("all things to all people") explains his willingness to participate in Temple practices when in Jewish contexts.
+
+## Vielhauer's Four Inconsistencies (and Bock's Replies)
+
+The sharpest form of the "two Pauls" argument is Philipp Vielhauer's (1966) claim of four theological inconsistencies between the Paul of Acts and the Paul of the letters. [[darrell-bock|Bock]] treats each as a position and rebuts it (siding with Ellis, Bruce, and Fitzmyer, who calls the thesis "clearly exaggerated"):
+
+1. **Natural theology** — Acts 17 (the Areopagus, a positive appeal to pagan religiosity) vs. Romans 1 (pagan idolatry under judgment). Bock: the difference is one of *contextualization*, not contradiction; both affirm creation-knowledge and its inadequacy apart from Christ (see [[natural-theology|natural theology]]).
+2. **The Jewish law** — Bock argues "what is explicit in Paul is implicit in Acts": Acts 13:39 ("freed from what the law of Moses could not free you from") already voices a critique of the law's power to justify. He reads Paul's **Pisidian-Antioch statement (13:38–39)** as compressed but genuine [[justification|justification]] language, and answers the Luke-vs-Paul objection with what he calls **Lukan telescoping** — Luke summarizes rather than contradicts.
+3. **Christology** — against the charge that Acts is "adoptionist," Bock (with Moule) holds Lukan Christology is "high," Jesus being *shown to be* rather than *becoming* Lord (Rom. 1:2–4).
+4. **Eschatology** — Luke does retain end-time expectation (Acts 1:11; 3:18–22; 10:40–42; 17:30–31), so the alleged loss of imminence is overstated.
+
+Behind all four stands the older **Tübingen / F. C. Baur** reconstruction of a Peter–Paul conflict with Luke as a second-century harmonizer — the framework Bock rejects as the root of the skeptical reading.
+
+## Timothy's Circumcision — Bock's Fuller Treatment
+
+On the Timothy problem (Acts 16:3), Bock stresses that Timothy had a **Jewish mother**, so his circumcision regularizes an already-Jewish status for missionary access to synagogues — a matter of strategy ("to the Jews I became a Jew," 1 Cor. 9:20), not of principle. He contrasts this directly with **Titus**, the Greek whom Paul pointedly refused to circumcise (Gal. 2:3): the test case for principle was a Gentile, not a Jew, so the two episodes do not collide. The matrilineal-descent question (Cohen vs. Witherington) is noted as unsettled for the first century.
 
 ## Stakes of the Debate
 

@@ -2,14 +2,14 @@
 title: Remnant
 domain: theology
 traditions_using: [judaism, christianity]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-18
-tags: [concept, isaiah, judgment, restoration]
+tags: [concept, isaiah, amos, judgment, restoration]
 ---
 
 The remnant (*šĕʾār / šĕʾērît*) — the survivors of judgment who carry the covenant people's
 future. Documented here primarily from the book of [[isaiah|Isaiah]] via Oswalt (NICOT,
-chs. 1–39).
+chs. 1–39), with a supplementary Amos note from Carroll (NICOT, 2020).
 
 ## Definition and Origin (as documented)
 
@@ -45,12 +45,25 @@ Oswalt cites Hasel: remnant language in Assyrian conquest rhetoric is "wholly ne
 (what is left after devastation); Isaiah inverts the conquerors' term — "even a remnant, in
 God's hand, is more enduring than all Assyria's might."
 
+## Amos — “Perhaps… the Remnant of Joseph” (attributed to Carroll)
+
+At Amos 5:15 Carroll stresses the **conditional “perhaps” (*ʾûlay*)**: seeking good and
+establishing justice at the gate is a genuine religious-moral imperative, but survival of the
+coming judgment depends solely on the mercy of Yahweh God of Hosts — not a firm assurance of
+escape. Remnant language coheres with pitiable leftovers (3:12 lion’s scraps; 6:6) and with
+9:8–10: judgment is national/comprehensive but **not exhaustive**; the sieve (9:9) moves the
+house of Israel corporately into exile while 9:10 targets boastful sinners by the sword.
+Carroll’s load-bearing claim: “It is with the remnant after the judgment that Yahweh launches
+the restoration of 9:11–15.” Doom and hope are not mutually exclusive (speech-act). See
+[[amos|Amos]] · [[carroll-amos-nicot|Carroll NICOT]].
+
 ## Cross-Links
 
-[[isaiah|Isaiah]] · [[isaiah-prophet|Isaiah (prophet)]] (Shear-jashub) · [[ahaz|Ahaz]] ·
+[[isaiah|Isaiah]] · [[amos|Amos]] · [[isaiah-prophet|Isaiah (prophet)]] (Shear-jashub) · [[ahaz|Ahaz]] ·
 [[holy-one-of-israel|Holy One of Israel]] · [[assyrians|Assyrians]] ·
 [[servant-songs|Servant Songs]] (shoot/stump imagery, 6:13 → 11:1 → 53:2)
 
 ## Sources Ingested
 
 1. [[oswalt-isaiah-1-39-nicot|Oswalt, *The Book of Isaiah, Chapters 1–39* (NICOT, 1986)]]
+2. [[carroll-amos-nicot|Carroll R., *The Book of Amos* (NICOT, 2020)]]

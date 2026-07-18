@@ -12,8 +12,8 @@ associated_peoples: [
   "Persian-period Samarians under the Sanballat governors (Wadi ed-Daliyeh papyri: largely Yahwistic elite)",
   "Hellenistic settlers; Herodian builders (Sebaste); later Samaritan community; Roman and Byzantine inhabitants; modern Palestinian village of Sebastia"
 ]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [location, samaria, israel, northern-kingdom, assyria, samaritans, persian-period]
 ---
 
@@ -73,3 +73,36 @@ Yahwism — see [[samaritans]]); the Samaria–Jerusalem rivalry of the restorat
 NT, "Samaria/Samaritan" carries the charge of the old schism (John 4; Luke 10).
 Related: [[samaritans]], [[jerusalem]], [[shechem]], [[assyrians]], [[persians]],
 [[israelites]], [[ezra-nehemiah]].
+
+## In Acts, per Bock (BECNT)
+
+From the ingest of [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic,
+2007]] (see [[darrell-bock|Darrell Bock]]). In [[acts|Acts]] Samaria is **the second stage
+of the Acts 1:8 program** ("Jerusalem… Judea and Samaria… the end of the earth"), and the
+scene of [[philip-the-evangelist|Philip's]] mission (8:5–25). All interpretive claims are
+Bock's or those of scholars he names.
+
+- **A "halfway" status.** Bock frames Philip's Samaritan mission as fulfilling Jesus'
+  commission and setting "a bridge" to the Gentile mission. Among three options for the
+  Samaritans' standing he favors reading them as **halfway between Jews and Gentiles**:
+  they "cannot be seen as Jewish," yet the Cornelius episode ([[caesarea|Caesarea]],
+  Acts 10) remains the "epochal" Gentile breakthrough, so Samaria "is not yet that." He
+  notes their distinctive **messianism** — expecting not a Davidic Messiah but a "prophet
+  like Moses," the **Taheb** — and their rival worship at **[[mount-gerizim|Mt. Gerizim]]**.
+  Bock judges **[[shechem|Shechem]]** "the best candidate" for the unnamed Samaritan city.
+- **The Spirit-delay (8:14–17).** Peter and John are sent to lay hands on the Samaritan
+  believers, who receive the Spirit only then. Bock reads this as a **special, non-normative
+  case**: "these are special circumstances that make a break in the pattern to underscore a
+  fresh move of God" (a "special legitimization," Jervell, given the controversy of
+  Samaritan inclusion). His governing thesis: "There is no set pattern to dispensing the
+  Spirit in Acts"; the constant across the exceptional laying-on-of-hands scenes (8:17;
+  9:17; 19:6) is "the presence of an apostle." He rejects the idea that the apostles were
+  needed to "control the Spirit" or that their visit "minimizes" Philip.
+- **Simon Magus (8:9–24).** Bock treats the Samaria episode as also the setting of Simon's
+  attempt to **buy** the Spirit — the origin of the term "simony" — and argues that, against
+  later patristic tradition, Luke does **not** portray Simon as a Gnostic (see
+  [[simon-magus|Simon Magus]]).
+
+See [[acts|Acts of the Apostles]] · [[bock-acts-becnt|Bock, *Acts* (BECNT)]] ·
+[[philip-the-evangelist|Philip the evangelist]] · [[samaritans|Samaritans]] ·
+[[holy-spirit|Holy Spirit]].

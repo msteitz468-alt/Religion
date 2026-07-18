@@ -8,7 +8,7 @@ positions:
   - Both forensic and transformative (Schreiner; mediating evangelical position)
 traditions_involved: [Christianity]
 resolution_status: open / tradition-specific
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, pauline, soteriology]
 ---
 
@@ -60,6 +60,8 @@ Schreiner's formulation: the forensic is the *basis* for the transformative; God
 
 The specific nuance of *dikaiosynē theou* in each context determines whether the forensic or transformative dimension predominates.
 
+**Saving *and* judging righteousness (3:21–26).** A further Schreiner emphasis: God's righteousness in Romans has *two dimensions* — a **saving** righteousness (1:17; 3:21–22, "manifested apart from the law") and a **judging** righteousness (3:5; 3:25–26). Both meet in the cross: "in the death of Jesus both the saving and judging righteousness of God have been realized." On this basis Schreiner defends the traditional (Anselmic) reading of 3:25–26 against W. G. Kümmel, who confined *dikaiosynē* there to God's saving activity: "the presence of *dikaion* [3:26] proves that the righteousness of God that concerns Paul cannot be confined to his saving righteousness." *Paresis* (3:25) means God's "passing over" former sins (not ignoring them, and not simple "forgiveness," pace Kümmel), and *endeixis* means God publicly *demonstrates* his righteousness — so that he is "just even in justifying the one who has faith in Jesus" (3:26). Paul's real question, on this reading, is "How can God justly forgive anyone?" (with Piper).
+
 **On covenant faithfulness**: Schreiner agrees that God's righteousness *involves* covenant faithfulness (it is the fulfillment of OT saving promises) but denies that it can be *defined* as covenant faithfulness. The ultimate foundation is not the covenant but God's name and glory — *for the sake of his name* (Ps 143:1, 11; Dan 9:17–19; Isa 48:9–11; Ezek 36:22). God's righteousness roots in his desire to glorify his name.
 
 ## Significance
@@ -81,4 +83,4 @@ The definition of *dikaiosynē theou* determines:
 - [[new-perspective-on-paul|The New Perspective on Paul]]
 - [[covenant|Covenant]]
 - [[divine-glory-kabod|Divine Glory (*Kābôd*)]] — God's glory as the ultimate ground of his righteousness
-- [[thomas-schreiner|Thomas R. Schreiner]] — primary source
+- [[thomas-schreiner|Thomas R. Schreiner]] — primary source; [[schreiner-romans-becnt|source page]]

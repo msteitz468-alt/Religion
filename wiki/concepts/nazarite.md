@@ -2,8 +2,8 @@
 title: Nazirite
 domain: law / ritual
 traditions_using: [Judaism, Christianity]
-sources_ingested: 1
-last_updated: 2026-06-05
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, law, ritual, old-testament, judges, numbers]
 ---
 
@@ -23,6 +23,16 @@ Numbers 6:1-21 provides the standard procedure:
 **Termination**: At the end of the vow period, the Nazirite presents burnt offerings, sin offerings, and peace offerings, then shaves the consecrated hair and places it in the fire of the peace offering. The priest performs additional rites, and the Nazirite is formally released. The shaving transfers the consecration back to YHWH in a symbolic final act.
 
 The combination of these abstentions creates a form of purity analogous to (though distinct from) priestly purity. The long hair is the most visible sign — the external marker of the internal consecration.
+
+### Ashley (NICOT Numbers) densification
+
+[[timothy-ashley|Ashley]] places Num 6 within Sinai **preparation** legislation (5:1–6:27) under camp holiness:
+
+- Most important positive characteristic: the Nazirite is **holy/separated to Yahweh** (vv. 5, 8)—special relationship marked for Yahweh’s service.
+- Three distinctives mark the separation; grape ban may involve rejection of Canaanite life-pattern (interlocutors noted).
+- Assumes the vow is **normally temporary and voluntary** (not Samson’s lifelong type as the default).
+- Exit rites return the person to ordinary status; hair disposal in the peace-offering fire completes consecration transfer.
+- Literary neighbor: the **Aaronic blessing** (6:22–27) caps the people/camp section (chs. 1–6) as divine name put on Israel—grace and peace crescendo (Ashley); later Christian “grace and peace” epistolary greetings noted as reception resonance, not authorial intent of Numbers.
 
 ## Samson: Nazirite from Birth
 

@@ -5,7 +5,7 @@ tradition: cross-tradition
 textual_sources: [1 Kings, 2 Kings, Malachi, Matthew, Mark, Luke, The Zohar]
 dates: [9th century BCE]
 roles: [prophet, miracle worker]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-07-18
 tags: [figure, cross-tradition, prophet, kabbalah]
 ---
@@ -96,6 +96,38 @@ Provan (NIBC) gives dedicated excursuses on Elijah (and Elisha) "in Canonical Co
 - [[zohar|The Zohar]], [[kabbalah|Kabbalah]] — Elijah at every circumcision; the chair of Elijah
 - [[sefirot|Ten Sefirot]] (Yesod, the covenant), [[shekhinah|Shekhinah]]
 - [[provan-1-2-kings-nibc|Provan NIBC 1–2 Kings]] (fidelity reingest 2026-07-18)
+
+## Elijah as Forerunner in Malachi (Verhoef, NICOT — 2026-07-18)
+
+*Attributed to [[pieter-verhoef|Verhoef]], [[verhoef-haggai-malachi|*The Books of Haggai
+and Malachi* (NICOT)]], on Mal. 3:22–24 [Eng. 4:4–6].*
+
+Malachi's appendix promises: "Behold, I will send you the prophet Elijah before the
+great and terrible [[day-of-the-lord|day of the Lord]] comes" (3:23). Verhoef's readings:
+
+- **Elijah = the "messenger" of 3:1.** With the majority of ancient and modern
+  Protestant interpreters, Verhoef identifies the Elijah of 3:23 with the forerunner /
+  [[messenger-of-the-covenant|messenger]] of 3:1 — an appellative ("my messenger") plus a
+  proper name ("Elijah"), paralleling the naming of Cyrus (Isa. 44:28) and "David" for
+  the Messiah. Some (RC scholars; Jewish exegetes Kimchi, Ibn Ezra) instead
+  distinguished the two figures.
+- **Not a personal return.** Against the expectation (held by Jews of Jesus' day, Matt.
+  17:10) of the historical Elijah's literal reappearance after his ascension (2 Kgs 2),
+  Verhoef holds it "not necessary to expect his personal return" — Elijah is introduced as
+  a **typical representative of the OT prophets**; the promised figure goes before the
+  Lord "in the spirit and power of Elijah" (Luke 1:17). The NT applies the role to
+  [[john-the-baptist|John the Baptist]] (Matt. 11:14; 17:10–13; Mark 9:11–13).
+- **"Turn the hearts of the fathers to the children"** (3:24). Verhoef prefers reading
+  this within the **covenant relationship** (Elijah restoring apostate posterity to the
+  "fathers" with whom God covenanted at Horeb) rather than merely mending the family
+  quarrels of the mixed-marriage crisis (2:10–16). "Or else" the Lord will strike the land
+  with the *ḥērem* (ban) — his coming certain, his striking conditional.
+- **Later Jewish reception.** Verhoef notes traditions making Elijah a **high priest**
+  (linking Mal. 3:23 → the messenger of the covenant, 3:1 → the covenant with
+  [[levites|Levi]], 2:4), the identification of **Elijah with Phinehas** (via the covenant
+  of peace, Num. 25:11–13), and the Qumran expectation of a high-priestly Messiah — the
+  latter possibly explaining John the Baptist's denial that he is Elijah (John 1:21).
+  Church fathers saw Elijah as one of the two witnesses of Rev. 11.
 
 ## Provan NIBC reingest (2026-07-18)
 

@@ -2,8 +2,8 @@
 title: Rulers and Authorities in the Heavenly Places (Principalities and Powers)
 domain: theology / cosmology / spiritual warfare
 traditions_using: [Christianity — especially Pauline; Second Temple Jewish background]
-sources_ingested: 2
-last_updated: 2026-06-06
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [concept, christianity, new-testament, pauline, cosmology, eschatology]
 ---
 
@@ -26,6 +26,8 @@ One of the most theologically distinctive features of Ephesians and Colossians i
 The lists are not fixed; different letters use different subsets. The variety suggests Paul is gesturing at a class of beings rather than naming distinct ontological categories.
 
 **Jewish background**: Second Temple Jewish cosmology increasingly populated the space between God and humanity with hierarchies of heavenly beings — both loyal angels and rebellious powers. The "watchers" of 1 Enoch, the "sons of God" who took wives from humanity (Gen 6:1–4), the cosmic rulers of Daniel's visions (the "prince of Persia," the "prince of Greece," Dan 10:13, 20) — all contribute to a cosmological framework in which created spiritual beings govern nations, control natural forces, and resist God's purposes. The Dead Sea Scrolls (especially the War Scroll, 1QM, and the Community Rule, 1QS) describe a cosmic dualism between the "sons of light" and the "sons of darkness" under a "prince of darkness" (*sar hachoshek*). This literature shows that Ephesians' cosmological categories are not alien imports from Hellenistic gnosticism but are rooted in Palestinian Jewish soil.
+
+**Michael as restrainer (Weima on 2 Thess 2).** The same Danielic angelic-agency frame is where [[jeffrey-weima|Weima]] (*[[weima-1-2-thessalonians-becnt|1–2 Thessalonians, BECNT]]*) locates the *to katechon* / *ho katechōn* of 2 Thess 2:6–7: neuter = restraining *activity* of the archangel Michael; masculine = Michael as person (Dan 10–12 schema: current restraint → "stand aside" / out of the way → unequaled distress → deliverance). God remains sovereign agent; Michael is angelic instrument. Weima still insists the identification be "whispered," not shouted. Reciprocal detail: [[restrainer-2-thess-2|The Restrainer of 2 Thessalonians 2:6–7]]; man of lawlessness on [[antichrist|Antichrist]].
 
 **Greco-Roman context (Ephesus)**: In Ephesus, the population's intense interest in spiritual powers — the Artemis cult, magical practices, planetary deities, and the imperial cult — forms the specific cultural background. [[frank-thielman|Thielman]] argues that the *kosmokratores* in Eph 6:12 reflect a world in which planets, gods, and fate-controlling beings were thought to govern human destiny. The term *kosmokratōr* appears in later texts to describe planets (as fate-controlling deities), Zeus, Sarapis, and Helios, as well as the emperor. When Paul tells believers they are not fighting against "blood and flesh" but against these beings, he is placing the church's struggle within the full cosmological register of its cultural environment.
 
@@ -76,7 +78,7 @@ The armor is drawn primarily from Isaiah (11:5; 59:17; cf. Wis 5:16–23), where
 
 ## The Powers as "Polluted Structures" (McKnight / Colossians)
 
-[[scot-mcknight|McKnight]] (NICNT Colossians, 2018) adds an important interpretive dimension to the powers in Colossians specifically. His excursus on "The Powers as Polluted Structures" (at Col 1:16; 2:15) resists the traditional reading of the powers as a celestial hierarchy of supernatural beings (the Pseudo-Dionysius/Aquinas tradition of nine angelic orders). Instead, McKnight reads them as *earthly, systemic manifestations of (perhaps fallen) angelic powers* — the sociopolitical-institutional structures through which cosmic/angelic rebellion against God takes concrete, material form.
+[[scot-mcknight|McKnight]] (NICNT Colossians, 2018) adds an important interpretive dimension to the powers in Colossians specifically. His excursus on "The Powers as Polluted Structures" (at Col 1:16; 2:15) resists the traditional reading of the powers as a celestial hierarchy of supernatural beings (the Pseudo-Dionysius/Aquinas tradition of nine angelic orders). His own view is a deliberate **both-and**, not a reduction of beings to structures: surveying Berkhof, Wink, Yoder, Caird, Lincoln, and Longman & Reid, McKnight concludes "the third view, with emphasis on **supernatural beings more than structures**, is best supported." The powers are structures *created by Christ* (1:16) that have become "polluted, distorted, and destructive because they are aligned with Satan and empowered by his minions" — real demonic beings operative *within and behind* earthly, sociopolitical-institutional structures, "created, fallen, and already defeated and struggling with mighty gasps in the interim period of inaugurated eschatology." He explicitly faults Wink for reducing the powers to an "inner reality" and Yoder for failing "to see the supernatural-being element." "Thrones" and "dominions" (1:16) he takes as heavenly, invisible potentates; "rulers" and "authorities" as their earthly, visible servants.
 
 The terminological distinction: "thrones" (*thronoi*) and "dominions" (*kyriotētes*) are heavenly, invisible potentates; "rulers" (*archai*) and "authorities" (*exousiai*) are more likely their earthly, visible servants (cf. 1 Cor 15:24; Eph 1:21). The cross's defeat is therefore not simply of spiritual beings but of the *systems* — "the sociopolitical manifestations of cosmic/angelic rebellion against God."
 
@@ -102,6 +104,7 @@ The powers framework in Ephesians serves several theological functions:
 
 - [[ephesians|Letter to the Ephesians]] — primary locus
 - [[frank-thielman|Frank Thielman]] — primary source
+- [[thielman-ephesians-becnt|Thielman, *Ephesians* (BECNT)]] — source page
 - [[mysterion|The Mystery (*Mystērion*) in Paul]] — Eph 3:10 connects the mystery's disclosure to the powers
 - [[colossians|Letter to the Colossians]] — Col 1:16; 2:15; "disarmed the rulers and authorities"
 - [[scot-mcknight|Scot McKnight]] — "powers as polluted structures" reading (Col perspective)
@@ -111,7 +114,9 @@ The powers framework in Ephesians serves several theological functions:
 - [[eschatological-temple|Eschatological Temple]] — the church as a cosmic entity vis-à-vis the powers
 - [[sons-of-god|Sons of God (Gen 6:1–4)]] — the OT background for cosmic powers
 - [[apocalyptic-literature|Apocalyptic Literature]] — the Jewish cosmological framework for principalities and powers
-- [[daniel|Daniel]] — the "prince of Persia" and "prince of Greece" as cosmic powers governing nations (Dan 10)
+- [[daniel|Daniel]] — the "prince of Persia" and "prince of Greece" as cosmic powers governing nations (Dan 10); Michael schema for Weima's restrainer reading
+- [[restrainer-2-thess-2|The Restrainer of 2 Thessalonians 2:6–7]] — Weima: Michael's restraining activity/person
+- [[jeffrey-weima|Jeffrey A. D. Weima]] / [[weima-1-2-thessalonians-becnt|Weima, *1–2 Thessalonians* (BECNT)]]
 
 ## Related Texts
 

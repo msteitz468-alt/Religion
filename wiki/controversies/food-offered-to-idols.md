@@ -7,8 +7,9 @@ positions:
   - Knowledge-based permission, limited by love for the weak (Paul; most evangelical commentators)
   - Unity of chs. 8–10 disputed — possibly three originally separate sources (partition theories)
 traditions_involved: [Christianity]
-resolution_status: open / tradition-specific
-last_updated: 2026-06-06
+resolution_status: open
+dispute_type: interpretive
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, pauline, ethics, idolatry]
 ---
 
@@ -59,6 +60,12 @@ Ciampa and Rosner treat the food-offered-to-idols section as part of their macro
 
 Israel's wilderness generation is the typological warning (10:1–13): they ate and drank spiritually in the wilderness (the rock that followed them was Christ, 10:4) and yet committed idolatry and sexual immorality and fell. The Corinthians must not presume on their sacramental participation (baptism, Lord's Supper) any more than Israel presumed on the manna and the rock.
 
+### Modified Shema (8:4–6) — densification 2026-07-18
+
+C&R read the Corinthian slogans ("an idol is nothing…"; "there is no God but one") as inferences from the [[shema|Shema]] (Deut 6:4) that the strong weaponized into freedom at the idol table. Paul's response keeps creational monotheism but **christologically modifies** the Shema: key words *Lord / God / one* from Deut 6:4; God = Father (from whom all things; we for him) and Lord = Jesus Christ (through whom all things; we through him). The modification is meant to fulfill the Shema's dual role — theological affirmation **and** sociological rally around exclusive worship. This is a primary Pauline locus also tracked under [[dyadic-devotion|dyadic devotion]] (Hurtado). Love of God in the dispute echoes Deut 6:4–5: to love/know/be known by God excludes other gods.
+
+**C&R vs Romans 14:** 1 Cor 8–10 is not the same problem as Rom 14 kashrut indifference; idol food is of far greater concern to Paul.
+
 ## Resolution Status
 
 **Open.** The practical rules Paul develops are broadly accepted in evangelical interpretation: market meat permissible; cultic participation at idol temples forbidden. But the question of whether the "weak conscience" principle extends to contemporary analogues (alcohol, cultural practices, entertainment) is actively debated. The literary unity of chapters 8–10 is now largely affirmed but not universal.
@@ -66,6 +73,7 @@ Israel's wilderness generation is the typological warning (10:1–13): they ate 
 ## Key Links
 
 - [[1-corinthians|The First Letter to the Corinthians]]
-- [[roy-ciampa-brian-rosner|Roy E. Ciampa and Brian S. Rosner]] — primary source
+- [[roy-ciampa-brian-rosner|Roy E. Ciampa and Brian S. Rosner]] · [[ciampa-rosner-1-corinthians-pntc]]
 - [[eschatological-temple|Eschatological Temple]] — idol feasting vs. Lord's table as competing temple loyalties
+- [[shema]] · [[dyadic-devotion]] — 8:4–6 modified monotheism
 - [[passover|Passover]] — 1 Cor 10:1–13 uses Israel's exodus and wilderness typology as warning

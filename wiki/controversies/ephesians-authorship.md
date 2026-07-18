@@ -7,7 +7,7 @@ positions:
   - Pauline with heavy amanuensis
 traditions_involved: [Christian scholarship; evangelical; mainline Protestant; Catholic]
 resolution_status: open
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, new-testament, pauline, introduction]
 ---
 
@@ -62,4 +62,5 @@ Some scholars (Erasmus raised it; later T. K. Abbott) propose that Pauline thoug
 
 - [[ephesians|Letter to the Ephesians]] — the primary text
 - [[frank-thielman|Frank Thielman]] — primary commentator; defends Pauline authorship
+- [[thielman-ephesians-becnt|Thielman, *Ephesians* (BECNT)]] — source page
 - [[colossians|Letter to the Colossians]] — the sister letter; central to the pseudonymity case

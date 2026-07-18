@@ -11,7 +11,7 @@ canon_scope:
 language_original: Greek
 date_range: c. AD 55–58 (Corinth, winter before Paul's final Jerusalem visit)
 sources_ingested: 1
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [text, christianity, new-testament, pauline, epistle]
 ---
 
@@ -50,6 +50,22 @@ Schreiner's eight-part outline organized around the *dikaiosynē theou* (righteo
 7. **Extension of God's Righteousness through the Pauline Mission** (15:14–16:23)
 8. **Final Summary** (16:25–27) — doxology; framing bookend with 1:1–7
 
+## Textual and Manuscript Tradition
+
+Three text-critical questions dominate the transmission of Romans, all treated at length by [[thomas-schreiner|Schreiner]] (BECNT):
+
+**(1) The address "in Rome" (1:7, 1:15).** A few witnesses (G, 1739mg, Origen) omit *en Rhōmē*; Schreiner judges the evidence "meager" and the Roman address certainly original. The omission was likely a deliberate generalization of the letter for wider church use.
+
+**(2) The integrity of chapter 16.** T. W. Manson and others argued that ch. 16 (26 persons greeted; Prisca and Aquila; Epaenetus "firstfruits of Asia"; the sharp warning of 16:17–20) was originally a separate note to Ephesus. Schreiner rejects this: there is no manuscript evidence for the letter ever circulating without ch. 16 attached to ch. 15, a bare 15:33 peace-wish would be an anomalous ending, and greetings functioned to commend Paul's ministry to a church he had not founded (P. Lampe; Gamble). Schemes dividing Romans into two or three letters (Schmithals, Kinoshita, O'Neill) he dismisses with Hays: "such theories belong in a museum of exegetical curiosities."
+
+**(3) The fourteen-chapter (Marcionite) recension and the doxology (16:25–27).** Strong evidence shows a **fourteen-chapter** Romans once circulated: the doxology follows 14:23 in Ψ, the Majority text, and others; Codex Amiatinus's capitula omit 15:1–16:23; Tertullian called Rom 14 "the conclusion of the letter" and never cites chs. 15–16; Origen reports that Marcion "cut away" (*dissecuit*) everything after 14:23. Schreiner concludes the external evidence "falls far short" of making the fourteen-chapter version original — the sixteen-chapter text is original, and the truncated edition is "certainly secondary," most probably the product of **Marcion's** editing. A *fifteen*-chapter form is attested only by 𝔓46 (doxology after ch. 15), but even there ch. 16 still follows. On the doxology's authenticity and placement, Schreiner surveys the full manuscript map — omitted in a few Western witnesses (F, G); after 14:23 (Ψ, Majority); only after 15:33 (𝔓46); after both 14:23 and 16:23 (A, P, 33); and only at the letter's end (𝔓61, א, B, C, D, 1739, latt) — and prefers the end-placement, treating 16:25–27 as authentically Pauline and as the intended conclusion, forming an *inclusio* with 1:1–7. The 16:24 grace-benediction (absent from the best texts) he regards as a secondary scribal addition (modeled on 2 Thess 3:18) supplied where the doxology was missing.
+
+**Amanuensis and dictation.** Tertius names himself as the scribe (16:22). Schreiner concludes Romans is "the product of Paul's dictation to Tertius" (the ever-present *gar* suggesting a dictated text, per Fitzmyer), leaving open shorthand versus longhand while judging free composition by Tertius least likely.
+
+## Hermeneutical Frameworks
+
+Romans has been the central battleground of Western Christian **literal / grammatico-historical** exegesis. [[thomas-schreiner|Schreiner]]'s BECNT reading is grammatico-historical in method — paragraph-by-paragraph tracing of the "flow of thought," close Greek analysis, and sustained dialogue with critical scholarship — married to explicit Reformed theological synthesis (the "third use of the law"; unconditional election; justification by faith alone). The modern interpretive fault line runs between this traditional Protestant reading and the **New Perspective on Paul** (Sanders, Dunn, Wright), which recasts "works of the law" and "the righteousness of God" against a covenantal-nomism background; Schreiner is a leading evangelical critic of the NPP (see [[new-perspective-on-paul|The New Perspective on Paul]]). Patristic and medieval readers (Augustine, Aquinas, Luther, Calvin) each found in Romans the decisive text for their doctrines of sin, grace, and justification — Schreiner explicitly locates his own reading in the Augustine → Luther → Calvin line.
+
 ## Major Themes
 
 **The righteousness of God** (*dikaiosynē theou*, 1:17). The controlling concept of the letter; both forensic (a gift — the believer's righteous status before God's court) and transformative (a divine saving power). The two cannot be separated: "God's forensic declaration is effective, so that those who are pronounced righteous are also transformed by God's grace." For the full debate, see [[righteousness-of-god|The Righteousness of God]].
@@ -76,7 +92,9 @@ Schreiner's eight-part outline organized around the *dikaiosynē theou* (righteo
 2. **Romans 1:17 — Hab 2:4 citation**: Does *ek pisteōs* modify "righteous" ("the righteous-by-faith shall live") or "live" ("the righteous shall live by faith")? Schreiner: latter, but both describe the same reality.
 3. **Romans 3:25 — *hilastērion***: Propitiation (turning away divine wrath) or expiation (cleansing sin)? Schreiner: propitiation.
 4. **Romans 5:12 — "death spread to all because all sinned"**: Did all humanity sin *in* Adam (federal headship) or *because of* Adam's sin (natural transmission)? Schreiner follows Cranfield and Moo in the federal reading.
-5. **Romans 7:14–25**: Regenerate or unregenerate? See [[romans-7-identity|Romans 7 — The Identity of the "I"]].
+5. **Romans 7:14–25**: Regenerate or unregenerate? Schreiner reframes the question — the crux is the law's inability to transform, and the "I" is paradigmatic Paul, not a straightforward regenerate/unregenerate choice. See [[romans-7-identity|Romans 7 — The Identity of the "I"]].
+9. **Romans 9:5**: Is Christ called "God" (*theos*)? Schreiner: yes — "who is over all, God blessed forever."
+10. **Romans 10:4 — *telos nomou***: Christ the "end" or "goal" of the law? Schreiner: "end," but specifically the end of using the law to establish one's own righteousness.
 6. **Romans 9 — election**: Does Paul teach unconditional individual election to salvation, or corporate/historical election? Schreiner: unconditional individual election.
 7. **Romans 11:26 — "all Israel"**: Ethnic Israel in a future mass conversion, the elect remnant throughout history, or the whole people of God (church + Israel)? See [[all-israel-saved|"All Israel Will Be Saved" (Rom 11:26)]].
 8. **Romans 13:1–7**: Does Paul's call to submission forbid civil disobedience in any circumstance? Schreiner: No — this is a general norm qualified by Acts 5:29.
@@ -87,7 +105,7 @@ Schreiner operates from the assumption that all 13 Pauline letters are authentic
 
 ## Commentators and Sources
 
-- [[thomas-schreiner|Thomas R. Schreiner]], *Romans*, BECNT, Baker Academic, 1998
+- [[thomas-schreiner|Thomas R. Schreiner]], *Romans*, BECNT, Baker Academic, 1998 — source page: [[schreiner-romans-becnt|Schreiner, *Romans* (BECNT)]]
 
 **Key interlocutors** (Schreiner's primary dialogue partners): Cranfield (ICC), Dunn (WBC), Fitzmyer (Anchor Bible), Moo (NICNT), Barrett, Käsemann, Wilckens, Murray, Calvin
 

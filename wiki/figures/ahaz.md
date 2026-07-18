@@ -2,10 +2,10 @@
 title: Ahaz
 also_known_as: [Jehoahaz I of Judah]
 tradition: cross-tradition (Judaism, Christianity)
-textual_sources: [isaiah, 2-kings, 2-chronicles]
+textual_sources: [isaiah, 1-2-kings, 1-2-chronicles]
 dates: "accession 735 BCE (possibly co-regent with Jotham until 731, per Thiele as cited by Oswalt); death disputed (727 vs 716/15)"
 roles: [king of Judah]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-18
 tags: [figure, judaism, king, davidic-dynasty]
 ---
@@ -66,6 +66,25 @@ The Ahaz–Hezekiah contrast structures much later commentary on Isa 7–39 (so 
 following the book's own design). Cross-links: [[isaiah-prophet|Isaiah (prophet)]],
 [[hezekiah|Hezekiah]], [[assyrians|Assyrians]].
 
+## Leithart on Ahaz (Chronicles frame, 2026-07-18)
+
+*Attributed to [[peter-leithart|Peter J. Leithart]], [[leithart-1-2-chronicles-btcb|*1 & 2 Chronicles* (BTCB)]]. Complements the Oswalt/Isaiah portrait above.*
+
+In [[1-2-chronicles|2 Chronicles 28]] Leithart reads Ahaz as the **anti-Davidic nadir** of the
+whole book: "Alone among the kings of Judah, Ahaz merits the entirely negative judgment 'he did
+not do right in the eyes of Yahweh.'" He is "another Saul, whose unfaithfulness… endangers not
+only himself but his dynasty"; his name lacks the "-yah" suffix, so "he is without Yah." He
+sacrifices sons in the fire in the Valley of Ben-hinnom, makes molten idols, and finally "the
+temple shuts down and falls silent, and the lamps go dark — a sign of things to come." In
+Leithart's larger scheme Ahaz is the low point of the "Judah Becomes Israel" declension: under
+the poison of the house of Ahab (transmitted through Athaliah), Judah is remade "into the image
+of Israel." Against this, Leithart highlights the **Oded episode** (28:8–15) as the inversion's
+hinge: the northern prophet Oded rebukes the victorious Israelite army, which then clothes, feeds,
+and returns its Judahite captives — "for a brief moment, Israel is what Judah is supposed to be" —
+and Leithart connects it forward to [[cyrus|Cyrus]]: "the God who sent Oded… will also stir the
+heart of Cyrus to let God's people go."
+
 ## Sources Ingested
 
 1. [[oswalt-isaiah-1-39-nicot|Oswalt, *The Book of Isaiah, Chapters 1–39* (NICOT, 1986)]]
+2. [[leithart-1-2-chronicles-btcb|Leithart, *1 & 2 Chronicles* (BTCB, 2019)]] — re-ingest 2026-07-18

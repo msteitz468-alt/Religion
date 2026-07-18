@@ -2,7 +2,7 @@
 title: Divine Glory (*Kābôd*)
 domain: theology / theophany / divine presence
 traditions_using: [Judaism, Christianity]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-18
 tags: [concept, glory, kabod, divine-presence, theophany, ezekiel, tabernacle, john, revelation, incarnation]
 ---
@@ -99,6 +99,10 @@ In John's Gospel, Jesus's death is paradoxically his "glorification" (*doxazō*)
 
 The eschatological climax: the *kābôd* that had departed from Jerusalem's temple, returned to Ezekiel's new temple, and tabernacled in the Incarnation now permanently illuminates the new creation. There is no separate temple building — YHWH himself is the temple. The river of life flowing from the throne (Rev 22:1-2) recalls Ezekiel 47. The city named "YHWH is there" (Ezek 48:35) finds its ultimate fulfillment.
 
+### 5. Paul: the Glory of God as the Goal of Salvation (Romans)
+
+[[thomas-schreiner|Schreiner]] ([[schreiner-romans-becnt|Romans, BECNT]], 1998) argues *inductively* that the glory of God is the **central, letter-permeating theme** of Romans — the claim on which, he says, his whole exegesis "stands or falls." On his reading God's saving righteousness "is rooted in his desire to glorify his name," grounded in an OT chain where appeals for deliverance rest ultimately on God's *name* (Ps 143:11; Dan 9:15–19) and God acts "for my own sake… my glory I will not give to another" (Isa 48:9–11; cf. Isa 43:7; Ezek 36:20–32). Correspondingly the **root sin** of both Gentiles (they "did not glorify him as God," 1:21) and Jews ("the name of God is blasphemed among the Gentiles because of you," 2:24) is the failure to honor God's name; and "all have sinned and fall short of the *glory of God*" (3:23) is read against Adam's forfeited glory. The argument climaxes in the two doxologies that frame the letter (11:33–36; 16:25–27, "*soli deo gloria*") and in 15:7–13, where Jews and Gentiles worshiping together is the point at which "the honor and praise of God's name reaches its fulfillment." For Schreiner the salvation of Jew and Gentile is *penultimate*; what is ultimate is that "from him and through him and to him are all things" (11:36) — God so arranges redemptive history as to maximize his own glory.
+
 ## The Pattern: Departure and Return
 
 A recurring pattern structures the *kābôd* narrative across both Testaments:
@@ -123,6 +127,7 @@ A recurring pattern structures the *kābôd* narrative across both Testaments:
 
 1. [[daniel-block|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 1–24*. NICOT. Grand Rapids: Eerdmans, 1997.
 2. [[block-ezekiel-25-48-nicot|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 25–48*. NICOT. Grand Rapids: Eerdmans, 1998 — the return of the glory (43:1–9), akītu polemic, *nikbadtî* (28:22), Hag 2:3–9 non-return, closed east gate.
+3. [[schreiner-romans-becnt|Schreiner, Thomas R.]] *Romans*. BECNT. Baker Academic, 1998 — the glory of God as the central inductive theme of Romans (root sin as failure to glorify God; the framing doxologies).
 
 ## Related Texts
 

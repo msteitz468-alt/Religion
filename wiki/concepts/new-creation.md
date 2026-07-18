@@ -2,8 +2,8 @@
 title: New Creation (Kainē Ktisis)
 domain: eschatology / soteriology / biblical theology
 traditions_using: [Christianity — especially Pauline; also Jewish apocalyptic background]
-sources_ingested: 3
-last_updated: 2026-06-06
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [concept, christianity, new-testament, pauline, petrine, johannine, eschatology, creation]
 ---
 
@@ -29,6 +29,12 @@ In Second Temple Judaism, "new creation" language appears in texts like 4 Ezra, 
 
 **Galatians 6:15**: "For neither circumcision counts for anything, nor uncircumcision, but a new creation" (*kainē ktisis*). Here "new creation" is the eschatological reality that renders Jewish ethnic markers irrelevant. The social and ethnic distinctions of the old order have been overtaken.
 
+### Moo on Galatians 6:15 (BECNT, 2013)
+
+[[douglas-moo|Moo]] titles the letter closing "Cross and New Creation" and treats 6:14–15 as the theological center of a concentric ending that bookends 1:4's rescue from the "present evil age" (raw L5121–L5127; [[moo-galatians-becnt|source]]). Verse 15 (γάρ) rephrases v. 14: the negative half elaborates "world"; "new creation" describes what replaces it. "Neither circumcision nor uncircumcision is anything" echoes a Pauline slogan (Gal 5:6; 1 Cor 7:19); Paul associates even old-covenant circumcision with the worldly system judged by Christ's death/resurrection, and adding uncircumcision broadens the dismissal to all purely worldly valuations (// 3:28; L5155–L5161).
+
+On the phrase itself: only other Pauline use is 2 Cor 5:17. Moo surveys individual-renewal, community, and cosmic readings; **most interpreters** (Vos, Stuhlmacher, Dunn, Hays, et al.) take "new creation" as the new state of affairs Christ's death and resurrection inaugurated — and Moo sides with this cosmic/apocalyptic sense against a purely individualist reading (L5161+). Background: Jewish apocalyptic technical term (Jubilees, 1 Enoch, 1QS, 2 Baruch); Isaiah 40–55 / 65–66 "new heavens and earth." At 5:6 Moo already anticipates the point: a new creation "so radically new that all human claims and status cease to have significance" (L4566).
+
 **Romans 8:18–25**: The fullest cosmological development. "The creation waits with eager longing for the revealing of the sons of God. For the creation was subjected to futility, not willingly, but because of him who subjected it, in hope that the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God." Present creation groans together; believers groan as they wait for "the redemption of the body" (8:23). The new creation is partially present in the Spirit (*arrabōn*, down payment) but fully awaited in the resurrection.
 
 **Ephesians 2:10**: Believers are "his workmanship, created in Christ Jesus for good works" — using the creation vocabulary for the new covenant community.
@@ -39,37 +45,33 @@ In Second Temple Judaism, "new creation" language appears in texts like 4 Ezra, 
 
 ## Seifrid's Reading (2 Corinthians 5:17)
 
-[[mark-seifrid|Seifrid]] (PNTC, 2014) identifies several distinctive features of Paul's statement:
+[[mark-seifrid|Seifrid]] (PNTC, 2014; fidelity re-ingest 2026-07-18, [[seifrid-2-corinthians-pntc]]) identifies several distinctive features of Paul's statement:
 
 **The abrupt brevity is deliberate.** "If anyone is in Christ, a new creation" — Paul omits the verb, intensifying the declaration. The abruptness marks "the unqualified and undiminished entrance of the eschaton into the present world."
 
 **The localization is theologically essential.** The new creation is found only "in Christ" — in the sphere of the crucified and risen Lord and the apostolic proclamation that communicates him. This is not a cosmological claim about the general renewal of creation (yet); it is the claim that the new creation is concretely present wherever the Gospel creates faith. Seifrid: "It is not found everywhere in the world. It is found in Christ, the crucified and risen Lord alone."
 
+**Not a general new historical era.** On 3:14 and related contexts, Seifrid insists: it is not that a new era has dawned within human history; rather, **in Christ the new creation has intersected the fallen world**. The “old covenant” (unique NT designation of the Law in Paul) is named from that contrast.
+
 **The personal does not exclude the cosmic.** The re-creation of the human being necessarily implies the re-creation of all things. Paul's "jarring juxtaposition of 'person' and 'creation'" signals that human renewal is not an isolated individual event — it is the first installment of the cosmic renewal of which Romans 8 speaks.
 
-**The connection to Isaiah is explicit.** Paul's "the old has passed away; behold, the new has come" almost certainly alludes to Isaiah 43:18–19 and 65:17. In Christ, Isaiah's "new thing" has arrived. The eschatological promises of the OT prophets are fulfilled — but in a form that is hidden under the cross, not yet openly manifest in cosmic transformation.
+**Spirit as *arrabōn*.** At 1:22 and 5:5 the Spirit as down payment is “nothing other than the new creation as it is present within the fallen world,” with eschatological reserve (mortality still to be swallowed up by life, 5:4).
+
+**Tied to 5:21.** Forensic exchange and ontological renewal are one act of God, not two successive stages; righteousness of God is located *in Christ* (extrinsic transfer), not as bare declaration or infusion.
+
+**The connection to Isaiah is explicit.** Paul's "the old has passed away; behold, the new has come" almost certainly alludes to Isaiah 43:18–19 and 65:17. In Christ, Isaiah's "new thing" has arrived — hidden under the cross, not yet openly manifest in cosmic transformation.
 
 ## New Heavens and New Earth in 2 Peter 3 (Green)
 
 Outside the Pauline corpus, the major NT "new creation" text is **2 Peter 3:10–13**, which (with
 Revelation 21) supplies the explicit "new heavens and a new earth" language drawn from Isaiah 65:17;
-66:22. [[gene-green|Gene L. Green]] (BECNT, 2008) reads it against the false teachers' denial of the
+66:22. [[gene-green|Gene L. Green]] (BECNT, 2008; [[green-jude-2peter-becnt|source page]], digests R7–R8, 2026-07-18) reads it against the false teachers' denial of the
 parousia and their claim that "all things continue as they were from the beginning of creation"
 (3:4). Peter's answer:
-- The present world is **not immutable**: as the pre-flood world perished by water, the present
-  heavens and earth are "stored up for fire" until the day of judgment (3:5–7). Green sets this in a
-  **linear** cosmology of *three worlds* (past, present, future), explicitly *against* the Stoic
-  *cyclical* conflagration (*ekpyrōsis*) and rebirth.
-- On the "day of the Lord," "the heavens will pass away with a roar, the **elements** (*stoicheia*,
-  the material constituents of the world) will be dissolved by burning, and the earth and the works
-  in it will be **found**" (3:10). Green accepts the difficult, best-attested reading
-  *heurethēsetai* ("will be found / laid bare / exposed" before God's judgment) over the smoother
-  scribal variants ("burned up").
-- The hope is **renovation, not annihilation**: "we await **new heavens and a new earth in which
-  righteousness dwells**" (3:13; Isa. 65:17). As with Paul, destruction gives way to renewal; the
-  new order is moral as well as material (only righteousness dwells there).
-- The structure is ethical-eschatological: "since all these things are to be dissolved, what sort of
-  people ought you to be in holiness and godliness?" (3:11). Eschatology grounds ethics.
+- The present world is **not immutable**: creation and flood by God’s **word** (3:5–6); present heavens and earth **reserved for fire** by the same word (3:7). Green: **linear** three-world cosmology (past / present / future), transcendent Creator, *against* Stoic cyclical *ekpyrōsis* (≈L3425).
+- Delay: Ps 90:4 / one day as a thousand years (3:8) = divine vs human time (not a millennial timetable key); delay = **patience** toward repentance (3:9), not Epicurean non-judgment.
+- Day of the Lord (3:10): elements (*stoicheia*) as material cosmos (biblical frame, not Stoic physics); Green accepts difficult **εὑρεθήσεται** (“will be found”) as **judicial discovery** of earth and works over smoother “burned up” variants.
+- Hope is **renovation, not annihilation**: “new heavens and a new earth in which righteousness dwells” (3:13; Isa 65:17/66:22). Ethics follows (3:11–14: what sort of people… diligence to be found blameless).
 
 This places 2 Peter alongside Romans 8 and Revelation 21 as a witness that the cosmic new creation is
 *renewal* of the present order, not its replacement by a wholly other reality — though 2 Peter's
@@ -128,6 +130,7 @@ The "new creation" in Paul reconnects to the creation theology of Genesis 1–2.
 
 - [[2-corinthians|Second Letter to the Corinthians]] — primary locus (5:17)
 - [[mark-seifrid|Mark A. Seifrid]] — primary source
+- [[seifrid-2-corinthians-pntc|Seifrid, 2 Corinthians (PNTC)]] — fidelity re-ingest 2026-07-18
 - [[1-corinthians|First Letter to the Corinthians]] — 1 Cor 15:35–57 develops the resurrection body as the new-creation transformation
 - [[romans|Letter to the Romans]] — Rom 8:18–25 as the cosmic development of new creation
 - [[theology-of-the-cross|Theology of the Cross]] — the new creation is present but hidden under the cross
@@ -137,6 +140,7 @@ The "new creation" in Paul reconnects to the creation theology of Genesis 1–2.
 - [[eschatological-temple|Eschatological Temple]] — the church as the new-creation dwelling place of God; 2 Cor 6:16
 - [[2-peter|The Second Letter of Peter]] — 2 Pet 3:10–13: new heavens and new earth after judgment by fire
 - [[gene-green|Gene L. Green]] — BECNT 2 Peter (2008); renewal-not-annihilation; the "found" reading of 3:10
+- [[green-jude-2peter-becnt|Green, *Jude and 2 Peter* (BECNT)]] — fidelity re-ingest 2026-07-18
 - [[revelation|The Revelation to John]] — Rev 21–22: new heaven and earth; New Jerusalem as Holy of Holies and final Eden
 - [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest; primarily **replacement** of the old cosmos (with continuity inside the wholly new order), not mere renovation
 - [[grant-osborne|Grant R. Osborne]] — BECNT Revelation (2002); renovation vs. re-creation; the consummated vision
@@ -146,5 +150,6 @@ The "new creation" in Paul reconnects to the creation theology of Genesis 1–2.
 - [[1-thessalonians|First Letter to the Thessalonians]]
 - [[colossians|The Letter to the Colossians]]
 - [[ephesians|The Letter to the Ephesians]]
-- [[galatians|The Letter to the Galatians]]
+- [[galatians|The Letter to the Galatians]] — Gal 6:15 (Moo BECNT: cosmic inauguration; closing center)
+- [[moo-galatians-becnt|Moo, *Galatians* (BECNT)]] · [[douglas-moo|Douglas J. Moo]]
 - [[letter-to-titus|Letter to Titus]]

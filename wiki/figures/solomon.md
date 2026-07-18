@@ -5,7 +5,7 @@ tradition: cross-tradition
 textual_sources: [1 Kings, 2 Chronicles, Proverbs, Ecclesiastes, Song of Songs]
 dates: [c. 970 – 931 BCE]
 roles: [king, builder, wise man]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-18
 tags: [figure, cross-tradition, king]
 ---
@@ -85,3 +85,28 @@ Provan (NIBC) reads Solomon's reign as the hinge that reveals the book's didacti
 - **Prayer as heart (§13):** Dual register—conditional dynasty (8:23–26) and universal sin → forgiveness (8:31–51); major petition = exile/restoration; “grace always underpins law.”
 - **Apostasy and lamp (§16–17):** Foreign wives, high places, deferred judgment; one tribe for David’s lamp; division **“not forever”** (11:39)—fatherly discipline (2 Sam 7:14), not Saul-like eternal rejection.
 - **§18 Canonical excursus:** Blessing exceeds virtue; messianic type (greater than Solomon; Wisdom of God); anti-anxiety foil of “splendor”; temple superseded yet load-bearing for heavenly-temple theology (Heb./Rev.).
+
+## Solomon as author of Proverbs (Waltke, 2026-07-18)
+
+*Attributed to [[bruce-waltke|Bruce K. Waltke]], [[waltke-proverbs-15-31-nicot|*Proverbs
+15:30–31:31* (NICOT, 2005)]].*
+
+Waltke's second Proverbs volume treats Solomon as the historically credible author-editor of the
+Solomonic collections. On 24:23 and 25:1 he distinguishes Solomon as "author-editor" of the first
+collections from the later "men of Hezekiah" (see [[hezekiah|Hezekiah]]) who compiled a selection
+of his 3,000 proverbs (1 Kgs 4:32) as an appendix (chs 25–29). He reads the "men of Hezekiah"
+notice as "first rate historical evidence that as early as 700 b.c. Israel associated Solomon with
+proverbs." At the same time, Solomon appears within the book as a **negative exemplum**: the
+"swaying righteous" who "takes away the life of both" himself and his community (25:26; 1 Kgs
+11:1–8); the king who "strayed when he ceased listening to his own proverbs" (19:27); and, in
+[[lemuel|Lemuel]]'s mother's warning against women and wine (31:3–4), an implicit cautionary case.
+The two closing collections — [[agur|Agur]] (ch 30) and [[lemuel|Lemuel]] (ch 31) — are, on
+Waltke's reading, genuinely **non-Solomonic** authors whose work the "inspired editor" added to a
+"developing canon," against the LXX's rearrangement of Prov 30–31 to preserve Solomonic authorship
+of the whole book.
+
+**Added key links**: [[proverbs|Proverbs]] · [[agur|Agur]] · [[lemuel|Lemuel]] · [[bruce-waltke|Bruce K. Waltke]]
+
+## Sources Ingested (supplementary)
+
+- [[waltke-proverbs-15-31-nicot|Waltke, *The Book of Proverbs: Chapters 15:30–31:31* (NICOT, 2005)]] — fidelity re-ingest 2026-07-18 (Solomonic authorship; Solomon as negative exemplum in Proverbs).

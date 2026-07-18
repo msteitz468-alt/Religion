@@ -4,7 +4,7 @@ text_locus: Jude 14–15 (quoting 1 Enoch 1.9); Jude 9 (the Assumption/Testament
 positions: [Jude-treats-Enoch-as-authoritative (Green), 1-Enoch-is-canonical (Tertullian/Clement), Jude-is-suspect (some ancients), all-truth-is-Gods-truth, opponents-held-Enoch (J. Charles), authentic-pre-flood-tradition]
 traditions_involved: [early church, Roman Catholic, Protestant, Ethiopian Orthodox (canonizes 1 Enoch)]
 resolution_status: open
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, canon, pseudepigrapha, 1-enoch, inspiration]
 ---
 
@@ -17,7 +17,7 @@ Michael disputing with the devil over Moses' body); and Jude 6 draws on the Enoc
 tradition (1 Enoch 6–12). This was the *sole* basis of ancient doubts about Jude's canonicity, and it
 raises a sharp question for any doctrine of inspiration: what does it mean that an inspired,
 canonical book treats an *un*-canonical book as authoritative revelation? [[gene-green|Gene L.
-Green]] (BECNT, 2008) surveys the options and stakes out a position.
+Green]] (BECNT, 2008; [[green-jude-2peter-becnt|source page]], fidelity re-ingest 2026-07-18) surveys the options and stakes out a position. Re-extract densifies vv. 14–15 (digest R3) and the intro “Jude and Pseudepigraphic Literature” (digest R1).
 
 ## The Data
 
@@ -59,25 +59,20 @@ from Adam," and lines Enoch up *alongside Torah (vv. 5–7, 11) and apostolic pr
 authoritative testimony to the heretics' sin and doom. Enoch and the apostles are the only sources
 Jude *quotes* (the rest he summarizes). So this is stronger than a Pauline incidental citation.
 
-**5. Jude quotes Enoch because his *opponents* esteemed it (J. Daryl Charles).** On this reading,
-"even *your* Enoch" condemns the false teachers on their own authority. *Green's objection*: Jude
-writes to *the church*, not to the opponents, and gives no hint the authority is merely *ad hominem*;
-Charles himself concedes the reading is conjectural and is driven by the theological worry of
-"compromising Jude's view of an authoritative OT canon."
+**5. Jude quotes Enoch because his *opponents* esteemed it (J. Daryl Charles; also Moo 1996: 273).** On this reading,
+"even *your* Enoch" condemns the false teachers on their own authority. *Green's objection* (R3): “There is no indication here that he simply quotes 1 Enoch because his opponents considered it to be authoritative.” Jude
+writes to *the church*; “also” does not mark opponents’ high regard; Charles’s reading is “more theological than historical/exegetical” (intro L1167–L1169).
 
 **6. 1 Enoch preserves an authentic pre-flood tradition.** A popular version of Augustine: the
 specific prophecy Jude quotes really goes back to the historical Enoch, even if the book as a whole
-does not. *Green's objection*: the survival of a genuine antediluvian oracle to the Hellenistic-era
-compilation is historically remote, it does not account for the Assumption of Moses (v. 9), and
-defending it by appeal to Jude is circular.
+does not. *Green's objection*: often “special pleading”; fails for Assumption of Moses v. 9; pre-Noah survival remote; circular if defended only from Jude (L1157). Green also denies historical Enochic authorship of the composite book (R3).
 
 ## Green's Position
 
 Green argues, against the apologetic moves (4–6), that **Jude genuinely treats 1 Enoch (and the
-Assumption of Moses) as authoritative, predictive revelation** — the most natural reading of his
-quotation formula. But he stresses two mitigating points:
+Assumption of Moses) as authoritative, predictive revelation**. Load-bearing R3 formulations: Jude does “not treat this ‘text’ as any less authoritative than the previous ones”; “Nothing in his language or in the context… suggests that he viewed this ‘text’ as anything other than authoritative”; the use is **unlike** Paul’s incidental classical citations. Christological reworking: “Lord” = Jesus’ parousia with holy myriads. But he stresses mitigating points:
 1. Jude's use is **judicious and limited**: he eschews the fanciful material and draws only what is
-   tied to **canonical bedrock** — the angelic fall to Gen. 6:1–4; the Enoch oracle to Deut. 33:2
+   tied to **canonical bedrock** — the angelic fall to Gen. 6:1–4; the Enoch oracle to Deut. 33:2; 1 En. 1’s motifs themselves rely on and interpret scriptural sources
    (the Lord coming with myriads of holy ones); the Moses-body dispute to the obscure burial notice
    of Deut. 34:5–6 and the rebuke-formula of Zech. 3:1–2. "Jude's use of apocryphal texts is closer
    to canonical bedrock than is sometimes acknowledged."

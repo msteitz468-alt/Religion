@@ -1,0 +1,789 @@
+V. LAWSUIT, VERDICT, AND HOPE (6:1–7:20)
+
+
+A. SPEECH OF THE PROSECUTOR (6:1–5)
+
+
+6:1Listen to thata which Yahweh says:
+
+Arise. Plead your case with the mountains,
+
+and let the hills hear your voice.
+
+2Hear, mountains, the lawsuit of Yahweh,
+
+and the everlastingb foundations of the earth,
+
+for Yahweh has a lawsuit with his people,
+
+and he contends with Israel.
+
+3My people, what have I done to you?c
+
+How have I wearied you?
+
+Answer me!
+
+4For I brought you up from the land of Egypt
+
+and I ransomed you from the house of slaves.
+
+And I sent Moses, Aaron, and Miriam before you.
+
+5My people,d remember what Balak, king of Moab,e counseled
+
+and what Balaam, son of Beor,f responded to him;
+
+and what happened from Shittim to Gilead in order to know the just deeds of Yahweh.g
+
+a. Translating the MT. The LXX reads: “Listen to the word of the Lord. The Lord said.” This translation retroverted back into Hebrew would mean that two words (dəbar yhwh) do not appear in the MT between the sign of the direct object and the relative pronoun ʾăšer. It is not possible to ascertain priority with absolute certainty since none of the Judean Desert manuscripts has 6:1 extant, including 8Ḥev 1. Nevertheless, it is more probable that dəbar yhwh fell out of the Hebrew text. The primary evidence is the awkward syntax where the direct object marker appears right before the relative pronoun governed by the verb šmʿ, but even this construction is not unique (see Josh 9:3; 1 Kgs 5:22).
+
+b. BHS suggests emending MT (hāʾētānîm) to a hiphil imperative from the root ʿzn (reading haʾăzînû, meaning “to give ear to.” The suggestion is dubious since it involves multiple consonantal changes without textual attestation.
+
+c. LXX has another verb here in addition to the two in MT. The extra verbal clause (ē ti elypēsa se; “How did I grieve you?”) could reflect several different Hebrew words, but none provides a clear explanation for why the phrase would have dropped out of MT.
+
+d. BHS suggests MT should be changed from my people (ʿammî) to “with him” (ʿimmô) and joined to “with him” to the end of the previous verse. This emendation has no textual support, and it would require a change of the consonantal text.
+
+e. BHS suggests the phrase king of Moab was added, but again there is no textual evidence for this suggestion.
+
+f. BHS suggests son of Beor is a later addition. No textual evidence supports this suggestion.
+
+g. BHS proposes that the phrase the just deeds of Yahweh should be emended to “my just deeds.” This suggestion smoothes the literary tension of the third-person reference to Yahweh, but it has no textual support. LXX reads the same as MT.
+
+Modern scholars have generally treated Mic 6–7 as exilic and/or postexilic additions to the collection of Micah.1 At least two primary reasons for this opinion have emerged. First, the message of these chapters appears to presume the destruction of Jerusalem and tailors the message to the community after the destruction. Second, the extent of intertextual allusions to the Deuteronomistic History—itself a work of the exilic period—suggests that the compiler of these chapters was well-versed in the contents of the Torah (see 6:3–5), traditions about Ahab and Omri (6:16), and information concerning the time of Hezekiah (7:8–20), demonstrating a relatively advanced stage of scribal prophecy. Scholars who see these chapters as later additions have frequently noted that the material makes the best sense when seen as a response to Mic 1–3, but that it has little interest in the language and themes found in Mic 4–5.2 Those working in the Book of the Twelve typically associate the bulk of chapters 6–7 with the combined editing of Hosea and Amos as well (see 6:10–14).3 For this reason, it makes sense to treat Mic 6–7 as an addition to the core collection of Mic 1–3 before the inclusion of Mic 4–5. Since the bulk of chapter 6 concerns Judah’s guilt, it seems likely that much of this supplementary material entered with the material in Mic 1 that had a similar focus.4
+
+The first of three subunits in chapter 6, Mic 6:1–5 coheres around the divine speaker and the formal confrontational style within the genre of a lawsuit speech, also known as a rîb, a genre whose constituent parts continue to play out through the entire chapter. The trial speech consists of five parts: (1) the introduction that announces a hearing by referring to cosmic elements (6:1–2); (2) the questioning of witnesses, often with a statement of the accusation (6:3, 9–12); (3) the prosecutor’s address, typically comparing Yahweh’s grace with the defendant’s defiance (6:4–5); (4) a reference to the impossibility of cultic compensation (6:6–8); and (5) a declaration of guilt, often including a pronouncement of the verdict (6:13–16).5 These elements provide the rhetorical logic of the chapter.
+
+1 Micah 6:1–5 functions within the lawsuit as the speech of Yahweh, the prosecutor, who calls the trial to order. Yahweh calls upon the cosmic entities (the mountains and hills in 6:1, and the foundations of the earth in 6:2) to witness the events, before confronting the people directly (6:3–5).6 Micah 6:1a serves as an editorial transition that announces a new unit. Its plural addressee differs from the second-person masculine singular of much of the remainder of 6:1b–5. This formal difference suggests that the speech (6:1b–5) existed in written form before its inclusion into Micah. Functionally, the prophet serves as the speaker of 6:1a because this opening line mentions Yahweh in the third person and addresses the people as a plural entity. Micah 6:1a demands the audience’s attention (listen) to hear Yahweh’s prosecutorial speech.
+
+Schart ties this introduction to the editing of Hosea, Amos, and Micah because it mirrors similar calls to attention in Hosea and Amos, especially Mic 6:2, which was formulated with an eye toward Hos 4:1.7 In this respect, Schart and Wöhrle also follow Wolff in relating this redactional introduction to a Deuteronomistic editing of Micah.8
+
+Beginning with 6:1b, Yahweh speaks to the people, but one must pay careful attention to the changing addressees through the end of 6:5. In 6:2, Yahweh addresses the mountains as witnesses called to hear Yahweh’s lawsuit, and he speaks about the people using third-person masculine singular language. At the same time, the speaker refers to Yahweh in the third person in 6:2, but this style probably reflects the formality of the court drama’s call to the cosmic witnesses (the mountains and the hills) rather than a different formal speaker. In 6:3, Yahweh turns again to the people to confront them directly with two rhetorical questions and a command (all using second-person masculine singular forms). Micah 6:4–5 continues the direct singular address to the people but talks to them about Yahweh’s own salvific acts in the past. Specifically, Yahweh recalls the events recounted in the wilderness story of Exodus and Numbers. The subunit ends with 6:5 because Yahweh is not the speaker in 6:6–8.
+
+While the style of 6:1–5 changes addressees regularly, as though enacting a courtroom drama, the rhetorical flow is easy to follow. Following the call to attention delivered to both the defendants and the witnesses (6:1b–2), Yahweh combatively questions the witness (6:3) and then answers his own question (6:4–5).
+
+2 Micah 6:2 repeats the trial spectators’ call to attention. The address to the mountains and the foundations of the earth connotes the seriousness of the proceedings. It is not unusual to address these, or similar, cosmic entities at times of great drama.9 In addition to the call to attention, Yahweh also names the defendant: his people, Israel.
+
+3 With 6:3, the accusations begin with two rhetorical questions and a command. The point of the confrontation is to establish the guilt of the defendant and the salvific acts of the past that Yahweh has performed. Whereas the call to attention in 6:2 referred to Yahweh’s people in the third person as the targets of the lawsuit, the first word of this speech begins with the Hebrew word ʿāmî (my people), juxtaposing the content of the accusation with a term of endearment. Two questions follow quickly. Rhetorical questions are generally not neutral in the argumentation of a specific context. Rather, they expect a particular response. The rhetorical questions in 6:3 imply that the reader knows the answer: What have I done to you? and How have I wearied you? The answer to the first question is presumed to be “nothing.” The answer to the second question is equally negative (“you have done nothing to weary us”). The tone and the setting of these questions as part of a lawsuit, as well as the speaker’s identity (Yahweh as prosecutor), imply that Yahweh has done no wrong to Israel. These questions not only establish Yahweh’s innocence, but they imply that Yahweh’s people are at fault. Rhetorically, the change to direct address makes the accusations more personal. The verse ends with a command (Answer me!), also in singular, that underscores the confrontational nature of the speech, while at the same time increasing the sense of urgency. Despite the command to speak, however, Yahweh does not pause to allow the accused to respond. Rather, Yahweh begins by recounting his own salvific acts toward Israel in the wilderness in 6:4–5, thereby rebutting any potential counterclaims from the people before they can even articulate them.
+
+4 Micah 6:4–5 narrates a series of Yahweh’s acts as proof of Yahweh’s power and salvific intentions toward Israel. These acts come from the distant past, from the time of Moses and Joshua. The statements poetically summarize events from the exodus out of Egypt to the entry into the land. As such, they presuppose knowledge of traditions found in Exodus–Joshua. Yahweh reminds the people how they came to possess the land. These reminders focus on the liberation, leadership, and power that Yahweh provided according to the story of the Torah. The reference to liberation from slavery in Egypt refers to the exodus events as Yahweh’s action. The naming of Moses, Aaron, and Miriam refers to the leaders of Israel during the wilderness period. Aaron and Miriam were not just siblings of Moses; they were the priest and prophet for the people. These events are far removed chronologically from the time of Micah or the time of the exile when many scholars believe they were penned.10 Placed in the mouth of Yahweh, these lines claim that Israel owes its existence to Yahweh and that Yahweh’s redemptive commitment to Israel runs deep and long.
+
+The first two lines of 6:4 offer a classic example of synonymous parallelism in which each syntactical element of the first line has a corresponding element in the second line, though the Hebrew word order inverts the components (A B C; CˊAˊ Bˊ):
+
+For
+
+I brought you
+
+from the land of Egypt
+
+
+
+and
+
+from the house of slaves
+
+I ransomed you.
+
+
+
+The two lines, when read in tandem, convey several important claims that are central to the logic of the legal disputation. First, the opening of the first parallel line begins with kî (“for,” “because”), and connects to 6:3. These first two lines provide the evidence that Yahweh has Israel’s best intentions in mind. Second, from a syntactical point of view one could hardly accentuate the role of proactive divine initiative more emphatically. Spoken by Yahweh, the two perfect first-person singular verb forms use a second-person masculine singular suffix attached as the direct object (assuming Israel as the antecedent): I bought/ransomed you. Third, the parallelism in 6:4a evokes the exodus events in poetic imagery but accentuates those events as liberation from slavery.
+
+In terms of content, one must make choices on how to translate these two lines that comprise 6:4a. The land of Egypt is clear enough. The phrase land of Egypt appears over two hundred times in the Old Testament, almost exclusively in the Torah, the Former Prophets, and the Latter Prophets. Only three verses in Chronicles and Psalms, as well as two in Daniel deviate from this distribution. The phrase “house of slaves,” however, could also be translated as “the house of slavery.” The more concrete translation has been selected here because the pharaoh’s increasingly brutal slave labor that he inflicted upon Israel lies at the heart of the exodus narrative (see Exod 3:16; 4:22–23; and esp. 5:1–11).
+
+The word ransom (pādāh) has a juridical background in a number of specific contexts.11 The basic meaning refers to redemption by a third party from a legal obligation. For example, the Covenant Code has two examples (Exod 21:8, 30). The former concerns a slave woman whom a master has taken as a wife. When she displeases him, he must allow her to be redeemed (hiphil pdh) and is not allowed to sell her to foreigners. In the latter, if an ox gores a person and restitution (kôper) must be paid, then the owner will pay a ransom (pidyôn) for the life of the dead person. This idea becomes theologized in the context of the exodus and the covenant obligations that follow in both Priestly and nonpriestly texts (see Exod 24; Num 3:45–51). The Levites are accepted by Yahweh as the ransom price for Israel’s firstborn, and they will belong to Yahweh (Num 3:45).
+
+Micah 6:4b shifts topics as Yahweh also establishes his selection of leaders: Moses, Aaron, and Miriam. These names are unusual in prophetic literature.12 Aaron, of course, represents priestly leadership, while Miriam appears in the role of prophet. Moses performs both tasks. In his confrontation with Pharaoh, unusually, Yahweh tells Moses he has made him a god to Pharaoh and that Aaron will be a prophet for Moses (Exod 7:1). In this sense, the word prophet means spokesperson for a deity. Nevertheless, Aaron’s primary role in the narrative is that of chief priest. The assessment of Moses as the greatest prophet looms large in his legacy, as prominently stated near the end of the Pentateuch following his transfer of authority to Joshua (Deut 34:9) and after the report of his death in Moab (34:5–8): “And a prophet has yet to arise in Israel like Moses, whom Yahweh knew face to face” (Deut 34:10). This verse associates the role of Moses as leader with his close relationship with Yahweh. Moses plays a military role at Baal-zephon (Exod 14), functions as priest (Exod 24:5–8), and serves most prominently as lawgiver (Exod 20–23; Deut 11:31–12:1; and the book of Leviticus).
+
+5 The reference in 6:5 to Balak and Balaam refers to the story recorded in Num 22–24, but its significance here derives from the interaction between a foreign prophet and a foreign king. The latter tried to thwart the plans of Yahweh. While those chapters record a number of episodes, the primary story line concerns Balak and Balaam. The story begins with Balak, the king of Moab, sending the king’s request for Balaam to curse Israel (for which Balak would pay handsomely). Balaam refused twice because God had told him that Israel was blessed by him. When the king sent word the third time, Balaam—with God’s permission—agreed to go, but said he would not say more than God permitted (Num 22:1–21; 36–40). After his arrival, Balaam continued to tell Balak that he would only utter what God told him. Three times Balak asks Balaam to curse Israel, and four times Balaam pronounces a blessing instead (Num 24:1–25). Balak does not succeed against Yahweh’s people. Likewise, the territory of Gilead was taken from Sihon because Sihon did not allow Israel to pass through his territory (Deut 2:30–36). These two traditions share one common theme: Yahweh protects his people from foreign powers.
+
+The confrontation of Israel thus begins with Yahweh’s speech condemning their ingratitude and reminding them of Yahweh’s righteous acts on their behalf. For Israel to take the land, Yahweh stood with Israel against the mightier armies of the nations beyond the Jordan. The speech of Yahweh that confronts Israel in Mic 6:3–5 is long on recollection but short on specific accusations. In fact, before Yahweh the prosecutor continues the trial speech, the defendant interrupts the speech with a combative string of rhetorical questions of his own, followed by a prophetic statement that is perhaps the best-known text in Micah (6:6–8).
+
+
+
+
+
+B. THE DEFENDANT’S INTERRUPTION (6:6–8)
+
+
+6With what shall I meet Yahweh
+
+and bow down to the God on high?
+
+Should I meet him with whole offerings of year-old cattle?
+
+7Does Yahweh desire thousands of rams or ten thousand streams of oil?
+
+Should I give my first-born for my sins?
+
+The fruit of my belly for the sins of my soul?
+
+8He has told you, human, what is good and what Yahweh seeks from you:
+
+indeed, to do justice, to love kindness, and to walk modestly with your God.
+
+The second subunit (Mic 6:6–8) of Mic 6 changes speakers from the preceding Yahweh speech. Based upon the content, the speakers can only be the defendant—Israel—in 6:6–7 and the prophet, in 6:8, who responds with an admonishment to the rhetorical questions of 6:6–7. Micah 6:9 begins with a new narrated introduction that more fully delineates the accusations from 6:1–5. In the rhetorical drama of Mic 6, this abrupt interruption of Yahweh’s speech creates a vivid impression, especially given the satirical tone and hyperbole uttered by the defendant through a series of five rhetorical questions.
+
+6 The opening question signals a change of speaker even though the first-person common singular verb form continues. The verb refers to Yahweh in the third person, but Yahweh had been speaking in 6:5, so the reader realizes that someone else is speaking. The first two questions begin in a manner that could be seen as attempts to obtain a response to a genuine question. One senses that such is not the case, however, beginning with the unusual nature of the third question. The speaker first asks how to approach Yahweh, the God on high. The second question asks a more technical question of whether whole offerings of year-old cattle would be appropriate. A whole offering is a sacrifice in which the entire animal is offered up and burned whole in an effort to please Yahweh. Whole offerings can be sacrificed for a number of reasons, including: Noah’s offering at the end of the flood (Gen 8:20), presumably of thanksgiving for having survived the flood; the sealing of a solemn covenant (Exod 24:5), a festival to Yahweh following the making of the golden calf (Exod 32:6), reminders of Yahweh’s salvific action (Num 10:10; 29:39; Deut 12:11); and deliverance before battles (Judg 20:26; 21:4; 1 Sam 7:9; etc.). Commentators are divided over how to interpret the context of these rhetorical questions. Most frequently, scholars interpret them as the desperate response of the plaintiff.13 Others treat the responses as a caricature to articulate the true meaning of cultic sacrifice.14 One could perhaps even make a case that the plaintiff’s response is satirical. In so doing, the defendant’s speech becomes rather confrontational because it interrupts Yahweh’s speech with a challenge to the idea that there is anything the defendant can do to make things right.
+
+7 The questions in 6:7 point to an increasing absurdity on the speaker’s part as they challenge whether Yahweh can ever be satisfied. They do so in two pairs of double questions. The sense of hyperbole is clear: How much sacrifice is enough? The third question asks what Yahweh desires, thousands of rams to offer up as sacrifices, or ten thousand streams of oil? Oil would have been used for any number of cultic and domestic functions. No one would offer this many animals or this much oil. The next two questions are really one question expressed using synonymous parallelism. They ask whether Yahweh expects human sacrifice. Of course, this hyperbole has a point. No one would expect this level of sacrifice in a normal cultic act. Seen within the lawsuit scene, the defendant has essentially challenged the validity of the court.
+
+8 In Mic 6:8, one of the more famous prophetic sayings in the Old Testament, a third speaker, the prophetic figure, challenges the speaker of 6:6–7 with a reminder expressed as a rejoinder:15 He has told you, O human, what is good and what Yahweh seeks from you; indeed, to do justice, love kindness, and to walk modestly with your God. Two questions arise from this statement. First, what do these terms mean, and second, where has anyone told the defendant what Yahweh seeks? Regarding the question of the meaning, the terms justice, kindness, and walking modestly work together to express the idea that Yahweh considers one’s life and actions more important than the quantity of offerings. To do justice means to keep or to set things right.16 The nature of justice depends upon the situation. For those who have committed acts contrary to the right order of life, justice is a threat. For the powerful who oppress the poor, justice means loss of power. For those who have suffered at the hands of others for things they did not do, justice offers hope that events will be corrected. For the oppressed, justice means deliverance from oppression.
+
+The word translated as kindness (ḥesed) cannot be adequately translated with one English word. Kindness is certainly one aspect of ḥesed (see Gen 19:19), but ḥesed connotes several other things as well. It implies a sense of fidelity and reciprocity of actions.17 In covenantal terms ḥesed means fidelity to covenant obligations. In other words, it means remaining true to what one has agreed to do. The word modestly is rare in the Old Testament, but the word is well substantiated in later Hebrew and the targumim.18 These three words not only paint a picture of humble obedience as the goal for pleasing Yahweh, but also essentially function as an accusation in the broader context of Micah. The charges leveled against the leaders in chapters 2–3 can easily be classified as injustice and the breaking of covenant fidelity. The speeches in those chapters directed toward Yahweh’s prophets are the opposite of a modest attitude toward their God. In short, the reader of Mic 1–3 knows that the leaders of Judah and Israel have failed to live up to any of these three expectations.
+
+Concerning the second question (Where has God told them what is good and what Yahweh seeks from them?), the response is difficult to find in Micah. If one asks where this declaration has been delivered, one is hard pressed to find a better possibility than Hos 12:6(7), in another trial speech (rîb):
+
+2The LORD has an indictment [rîb] against Judah, and will punish Jacob according to his ways, and repay him according to his deeds. 3In the womb he tried to supplant his brother, and in his manhood he strove with God. 4He strove with the angel and prevailed, he wept and sought his favor; he met him at Bethel, and there he spoke with him. 5The LORD the God of hosts, the LORD is his name! 6But as for you, return to your God, hold fast to love [ḥesed] and justice, and wait continually for your God. (Hos 12:2–6 NRSV)
+
+While the language is not an exact quote, the presence of ḥesed, “justice,” and waiting for God contains two of the three terms, and the third phrase is quite similar (waiting for God, walking modestly with God). The fact that these terms are listed as expectations for Judah and Jacob in Hos 12:6(7) makes it quite plausible to see the three terms in Mic 6:8 as an allusion to the expectations that Yahweh has regarding how Judah and Israel should live. This link is one of several that have been noted suggesting that the book of Micah has been intended to be read with Hosea, Amos, and Zephaniah.19 The indictment language of Mic 6:8 essentially restates the admonition of Hos 12:6(7) and assumes that the hearer should know those expectations.
+
+
+
+
+
+C. THE CHARGES AND THE VERDICT (6:9–16)
+
+
+9The voice of Yahweh calls to the city and sound wisdom fearsa your name.
+
+Listen, tribe, and who will arrange it?b
+
+10Are therec yetd storehouses of wickedness in the house of wickedness,
+
+or is an ephah of leanness cursed?e
+
+11Should I acquit the scales of wickedness,f
+
+or a bag of treacherous stones?
+
+12Its wealthy ones are filled with violence
+
+and its inhabitants speak deception
+
+and their tongues are slack in their mouths.
+
+13Moreover, I will make you sick,g striking you, destroying
+
+because of your sins.
+
+14You shall eat but not be satisfied.
+
+And your filthh will be in your midst.
+
+And you will push asidei but not be delivered.
+
+And anyone you deliver I will give over to the sword.
+
+15You will sow seed, but you will not harvest.
+
+And you will tread the olive but not anoint with oil,
+
+And you will tread new wine, but you will not drink the wine.
+
+16And youj have kept the statutes of Omrik and all the deeds of the house of Ahab.
+
+And you walk in their counsels,
+
+so that I will give you over to destruction
+
+and her inhabitants to an object of hissing and you will bear the reproach of myl people.
+
+a. MT is quite difficult as pointed: “And sound wisdom he sees your name.” The LXX translates “and he shall save those that fear his name.” The retroverted text of the LXX (wəhôšîʿa yirʾê šəmô) represents a significant difference from MT (wətûšîyâ yirʾeh šəmekā). The MT is difficult because it derives the verb from rʾh (“to see”), while the LXX (“fear”) derives a noun from yrʾ (“fear”). The noun, however, would need to be in the construct state (yrʾt, “the fear of”), but the consonantal text would infer the absolute state. The LXX verb sōzō might have been used to translate yšʿ, but a simpler explanation would be that LXX simply tries to smooth over a difficult text. The translation here assumes that the consonants in MT are correct, yrʾh, but it would have been a third-person feminine singular perfect (yārəʾā) with sound wisdom as the feminine subject.
+
+b. Following MT for the phrase and who will arrange it. The difficulty of the MT causes many commentators to repoint the text and divide the words differently. Along with “still” (the first word in 6:10), the last two words of 6:9 are translated differently in the LXX (kai tis kosmēsei polin; “and who will govern/adorn the city?”) than the text in MT (and who will arrange it?). The Greek kosmēsei can mean “adorn” or “govern.” The verb kosmēsei can translate the Hebrew verb ʿdh that would have the same consonants in the imperfect as MT (yʿdh), but “city” does not appear twice in MT as it does in the LXX. Hence, while the meaning of the LXX is quite different, retroversion back into Hebrew reveals the LXX is likely translating the same consonants but smoothing the translation for clarity by adding “city” as the antecedent to “it.” The antecedent of the third-person feminine singular suffix on yʿdh does refer back to “the city,” so the clarification is contextually accurate. See the commentary to 6:9 below for a more thorough explanation of the implications of emending MT.
+
+c. MT has a question, “Are there [haʾiš] still storehouses of wickedness in the house of wickedness?” The word order is convoluted. Literally, MT reads, “Yet, are there (in the) house of wickedness storehouses of wickedness?” The LXX translates the same consonants as “Are there?” (haʿiš) but with different vowels (haʿēš) meaning “Is a fire?” but also assumes a negative particle and a vav conjunction not present in the MT. Again, the LXX seems to reflect something approaching the MT, but it has modified the sentence to help it make sense. The MT does not convey a clear sentence without interpreting something that is not present in the text.
+
+d. Some suggest translating “yet” with the last phrase of 6:9, “Who will appoint it still?” The word, while cumbersome, belongs better with 6:10.
+
+e. The LXX (“and with the pride of unrighteousness”) translates the text very differently compared to the MT (“or is an ephah of leanness cursed?”). That being said, the LXX does not reflect a different text. At first glance, the word ephah appears to be missing in the LXX until one realizes that the translator translated ephah (ʾêpâ) as ʾêpôh, a word that marks an indirect question (see Gen 37:16; Jer 36:19), but which has the same consonants as ephah in the absolute form (though MT has the construct form of the noun ʿêpat). The Greek word hubris translates the Hebrew word zādôn in Jer 50:32; Ezek 7:10; Prov 11:2; and 13:10. The Greek word adikia is only used here to translate zʿmh, but adikia is used dozens of times to translate words like pešʿa (“rebellion”), ʿavôn (“guilt”), and ʿrr (“curse”) which certainly falls within the range of meanings for zʿmh. The use of adikia thus strongly suggests zʿmh was present and that the LXX translated virtually the same consonantal text as MT (with the exception of the construct form of ʾêpat).
+
+f. This verse appears to be paraphrased in the LXX.
+
+g. Following MT (heḥĕlêtî). BHS suggests emending to haḥillôtî, meaning “I will begin” and is based upon the LXX (arxomai). This emendation requires only a vav replacing a yod in the consonantal text. Nevertheless, remaining with MT (thus translating the hiphil verb from ḥlh “to make sick),” fits the starkness of the punishment.
+
+h. Following MT. The LXX treats yešaḥ as a verb from the root ḥšk, trying to make sense of the unusual phrasing: “and it will grow dark in your midst.” Nevertheless, the LXX represents a deliberate change by the translator, not the original reading.
+
+i. The meaning of MT is difficult here but the idea of turning appears to be included in the verb.
+
+j. The LXX (ephylaxas) reads a second-person masculine singular verb rather than a third-person masculine singular verb, implying the yod in MT should be a tav. Statutes and deeds are both plural, but the third-person masculine singular verb in MT (“he has kept the statutes”) does not fit the context. More likely, a simple copyist error accidentally changed the second-person masculine singular verb to a third-person masculine singular verb by erroneously copying a tav instead of a yod.
+
+k. Several Greek manuscripts are missing the phrase “And you have kept the statutes of Omri.” However, since their counsels appears in the LXX (implying that the plural suffix assumes both Omri and Ahab as the antecedent), the omission was probably a simple oversight on the part of the translator or the copyist of the Hebrew Vorlage.
+
+l. The first-person common singular suffix is missing in the LXX.
+
+The third and final subunit of Mic 6 comes in 6:9–16. Following an introduction of Yahweh as speaker, the remainder of the chapter is held together stylistically by the divine speaker, as evident from the introduction and in the first-person common singular speech in 6:11, 13, 14, 16. The verses address you in several different ways: a second-person masculine plural address to an unnamed group (6:9, 16); a second-person masculine singular address to Yahweh (6:9); and a second-person masculine singular address to the defendant (6:13–16). These variations make the classification of the larger unit difficult. Additionally, other entities are referenced in the third person: the city (third-person feminine singular; 6:9, 12), the voice of Yahweh (third-person masculine singular; 6:9), and the wealthy inhabitants (third-person masculine plural; 6:12). It is possible that the variations could derive from originally independent units, but more likely one unit has been expanded with an eye toward a larger literary horizon.
+
+EXCURSUS: SOURCES IN MICAH 6:9–16
+
+Drawing upon an observation by Schart, Rainer Kessler suggests that the blending of two sources can account for the differences by seeing one source addressed to the city (6:9a, 12, 13, 14b) and the other to the tribe (6:9b, 10–11, 14a, 15).20
+
+Kessler’s Text A
+
+Kessler’s Text B
+
+
+
+9a. The voice of Yahweh calls to the city and the fear of your name is sound wisdom.
+
+12. Its wealthy ones are filled with violence and its inhabitants speak deception and their tongues are slack in their mouths.
+
+13. Moreover, I have made you weak, striking you, destroying because of your sins.
+
+14b. And you will be displaced but not be delivered. And anyone you deliver I will give over to the sword.
+
+9b. Hear, tribe, and who will arrange it?
+
+10. Are there yet storehouses of wickedness in the house of wickedness or is a scant measure accursed?
+
+11. Should I acquit one of the scales of wickedness or a bag of treacherous stones?
+
+14a. You shall eat but not be satisfied. And your filth is in your midst.
+
+15. You will sow seed, but you will not harvest. And you will tread the olive but not pour out oil or fresh wine. You will not drink wine.
+
+
+
+While Kessler’s division into two sources makes sense of some of the diverse references, and while the diverse references do suggest that more than one hand could have played a role in the formulation of 6:9–16, the supposition of two sources fails to account adequately for a number of issues.21 First, the division breaks up the parallelism of 6:9, and second, the opening line of text B contains a pronoun whose antecedent appears in 6:9a, meaning that 6:9b is not independent of 6:9aβ.22 Third, while Kessler agrees with Schart that text B contains several phrases related to the Book of the Four (Hosea, Amos, Micah, and Zephaniah), he does not ask whether these recurring phrases could be expansions to the core text of Mic 6:9–16 as a means of evoking the message of Amos in Micah and tying the four writings together with the so-called infertility curse running through these four writings. Kessler comes very close to making this point when he argues that a tradent group who combined the two sources (and who also incorporated the introduction in 1:2–7) added 6:16.23 Schart’s observations go further in that he observes that a significant number of lexical echoes from Hosea and Amos appear in Mic 6:9–16. These include references to the scales and a bag (Mic 6:11; Amos 8:5); the storehouses of wickedness (Mic 6:10) comes quite close to the phrase “those storing up violence” in Amos 3:10 (note that violence also appears in 6:12); and reference to the false scales (Mic 6:11; Hos 12:7). Finally, the infertility curse echoes material from Deuteronomy (28:30, 31, 38–41) as well as texts in Amos 5:11; Hos 4:10; and Zeph 1:13. Schart suggests, then, that Mic 6:13–15 depends upon D-Korpus texts added to Hosea and Amos and that it reflects the redactional emphasis of the social critique at compositionally important locations in Hosea, Amos, and Micah.24
+
+9 The unit begins with a double introduction from a narrator (the prophet), by articulating a call to attention addressed to the city (6:9aα) and the tribe (6:9b). In between, 6:9aβ conveys a parenthetical admonition to recognize the prudent course of action: to fear the name of Yahweh. In Micah, the city must be Jerusalem and the tribe refers to Judah. The call comes from the mouth of Yahweh, as the opening note of 6:9 signals, though the information is conveyed through the prophetic narrator. The continuing first-person common singular verbs and pronouns in 6:11, 13, 14, and 16 means that Yahweh continues speaking throughout 6:9–16.
+
+The three sentences comprising this verse convey an ominous threat:
+
+6:9aα
+
+The voice of Yahweh calls to the city
+
+
+
+6:9aβ
+
+(and sound wisdom fears your name).
+
+
+
+6:9b
+
+Listen, tribe, and who will arrange it?
+
+
+
+The first and third lines are united by action: Yahweh calls to Jerusalem and the tribe of Judah is admonished to listen and prepare accordingly. The middle line raises the stakes with a parenthetical admonition for prudent action (i.e., to fear the name of Yahweh). The question at the end of the third line uses the verb yʿd with a third-person feminine singular suffix that designates the city as the direct object.
+
+The MT in 6:9b has ûmî yəʿādâ (“and who will arrange it?”), but many commentators emend the text to mōʿēd hāʿîr (“assembly of the city”) or ūmî yiwwāʿāʿad hāʿîr (“whoever assembles in the city”). This emendation was first suggested by Wellhausen and is followed by several English translations (RSV, NET, NRSV).25 In so doing, they follow the LXX by including ʿôd (the first word of 6:10) with the end of 6:9. They also assume the MT has been corrupted and change the dalet to a resh, thereby changing ʿōd (“still”) to ʿîr (“city”). The advantage of the emendation is that it provides a second vocative (combining “tribe” and “the assembly of the city”) and a more understandable text. Still, the LXX represents a pattern of loose translations of difficult texts. Sweeney, by contrast, argues that the MT makes sense and should be kept because it underscores the point that Yahweh is the one who has sent the Assyrians.26
+
+The meaning of yʿd should be understood in the context of Yahweh’s call to the city. The verb conveys a presumption that the city should respond to Yahweh’s call. The verb yʿd, however, has a number of related meanings that accentuate different aspects of the action. In the qal, the verb can mean “to set a deadline” (2 Sam 20:5) or “to assign a mission” (Jer 47:7). In the first instance, Amasa was given three days by David to gather all of Judah together in order to pursue those who supported Absalom. In Jer 47:7, the sword of Yahweh cannot be sheathed because Yahweh has appointed the sword to execute judgment against Ashkelon. Scholars often fail to mention that the verb has this military nuance, but that is precisely the sense in which it makes the most sense in Mic 6:9: Who will summon the city to respond to Yahweh’s call? This statement leads directly to a lengthy series of accusations in 6:10–16 wherein the prophet conveys the depth of the problem. All of those who would be in a position to turn the city back to Yahweh are deeply enmeshed in creating the problem. Businesses cheat their customers (6:10) and the wealthy use violence to accomplish their desires (6:12). Political leaders have taken their cue from the northern kings Omri and Ahab. Omri moved the capital of Israel to Samaria and followed the sins of Jeroboam in not recognizing Yahweh’s choice of Jerusalem for his temple. Omri’s son Ahab is highlighted for his wickedness, especially for his worship of Baal. According to 1 Kgs 16:31–32, when Ahab married Jezebel he built a temple for Baal in Samaria and worshiped there. Both kings receive special notes of condemnation for their kingships (see 1 Kgs 16:25 for Omri, and 16:30 for Ahab). These accusations leave no room for Jerusalem to claim innocence.
+
+10 The wording in 6:10, as Schart and Kessler have noted, picks up phrases from Amos and Hosea (see excursus above). In addition, the phrase the house of wickedness comes quite close to Hosea’s expression for Bethel as the “house of iniquity.” Given that Mic 6:10 has a Jerusalemite setting, however, reference to the storehouses of wickedness in the house of wickedness refers to policies of centralization in Jerusalem. Historically, at the end of the eighth century BCE, Hezekiah sought to centralize royal power. In part, he anticipated attacks from Assyria, and that certainly happened in 701 BCE when Sennacherib laid siege to Jerusalem.27 The stockpiling of supplies involved increased taxation and strategies for an infrastructure to supply the military at various fortifications in Judah. The comparison of Jerusalem to the Northern Kingdom is no accident. This theological motif plays a major role in Mic 1:5–7, 9, 12 as well as the editorial links between Hosea, Amos, Micah, and Zephaniah.28
+
+Reference to the storehouses of wickedness and the house of wickedness reflect a critique of the royal consolidation of power by Hezekiah. Hosea designates the king’s city, Bethel, with a similar epithet, calling it the “house of iniquity” (Beth-aven in 4:15; 5:8; 10:5). The critique of Bethel in these Hosea texts relates to cultic practices, whereas reference to Jerusalem’s storehouses of wickedness condemns royal policies more than cultic abuse.
+
+The reference to the ephah of leanness refers to the measurement of grain in business transactions. An ephah is approximately two-thirds of a bushel. The lean bushel means one that is not full. The question essentially asks whether anyone curses the practice (or the practitioner) of shorting the measuring of grain that is sold. This practice was condemned by Amos for the Northern Kingdom (Amos 8:5), but Mic 6:10 assumes that the same thing is going on in Jerusalem. The social and ethical critiques of Mic 6 thus make a strong case, especially when combined with Mic 1, that Judah and Jerusalem had sunk to the same level as the Northern Kingdom. The fact that Samaria was destroyed in 722 BCE creates a harbinger of impending doom for Jerusalem by drawing upon these parallels.
+
+11 The issue of unethical practice by rigging the measurements for the sale of grain or other commodities continues into 6:11. To weigh such commodities required a scale and accurate stones used as weights that had been created especially for the purpose. When grain was placed on one side of the scale and stones were placed on the other side of the scale, one determined the weight of the grain by the number and size of stones needed to balance the scale. Such transactions are built upon the trust of these instruments. If the scale is rigged or the stones do not correspond to the correct weight, then the customer would be cheated. Official stones would have been kept for measuring purposes, but dishonest traders could fix the transactions to come out in their favor. In this verse, Yahweh asks whether he should look the other way while these rigged transactions are happening. The verb used here, zkh, means to be clear of guilt or morally pure. When Yahweh poses the rhetorical question, the reader instinctively knows that Yahweh cannot countenance such behavior. Yahweh will not stand by while such practices continue. This concern for social ethics coincides with similar concerns in Mic 2. These concerns become even more pronounced in 6:12.
+
+12 The accusations climax with charges against the wealthy and the city’s general population in a way that resonates with chapter 2. First, this verse characterizes the wealthy as full of violence (6:12aα). The word violence (ḥāmās) includes, but is not limited to, the infliction of physical pain. It also includes any action that unjustly seeks to accomplish improper goals, including swearing false oaths (Exod 23:1; Deut 19:16) or arranging for witnesses to come forward with false testimony (Ps 35:11). And, of course, the word also includes physical violence that leads to stealing and destruction. This confrontation essentially summarizes those charges leveled in Mic 2, where wealthy persons schemed to seize land from its rightful owners merely because the wealthy had the power to do so (2:1–2, 9).
+
+The second and third lines (6:12aβ, 12b) concern the inhabitants of the city. They deceive by their speech, another motif that is prominent in Mic 2 (2:8, 11). They lie (literally, they speak falsehood), or they run their mouths incessantly since their tongue spews deceit. The word rəmîyâ also appears in the context of those who scheme to advance their own agendas (e.g., Pss 52:2; 101:7).
+
+Hence, the accusations in 6:10–12, in the mouth of Yahweh, provide an important piece of the lawsuit. They finish laying out the charges that began in 6:1–5 before the defendant’s speech (6:6–8) interrupts Yahweh. These charges accuse the city’s wealthy and its general population, and they coincide with the accusations of Mic 2. They include lexical echoes of charges from Amos and Hosea. Beginning with 6:13, the pronouncement of the verdict takes center stage, and the third-person references to the city give way to direct address using second-person masculine singular references.
+
+13 Yahweh delivers the verdict, announcing that punishment will fall upon Judah. He pronounces judgment because of the sins committed (6:13). The punishment is characterized by the curse language of Deut 28, the so-called infertility curse.29 The land will not produce enough to meet the needs of the people and military campaigns will lead to population displacement (6:14). People will plant crops, but they will not be around to harvest them. They will harvest olives and grapes, but the fruit from those harvests will not meet the need. These verses paint a picture of Yahweh’s judgment as societal disruption that results from the aftermath of war.
+
+The details of the punishment are severe. The pronouncement begins with the doubly emphatic and moreover I (wəgāmʾanî) so that Yahweh leaves no doubt who is issuing the punishment. A hiphil perfect first-person common singular verb from the root ḥlh follows, which means I will cause sickness. Two infinitives follow: smiting you and making desolate before stipulating this punishment comes about because of the sins of the people.
+
+These formulations are phrased broadly enough that the punishment has been interpreted both as reference to the events of Sennacherib’s siege (701 BCE) and to the events of 587, which also involved an extended siege against the city.30 A siege creates severe distress for those living within the walls of the city. Food becomes increasingly scarce, and disease soon follows since getting clean drinking water and removing sewage affect the inhabitants. Given the linguistic connections to Deuteronomy, as well as traditions found in Kings, Hosea, and Amos, the chapter probably stems from a time after the middle of the sixth century BCE, but its literary location makes its applicability to the siege of Sennacherib equally understandable. In the mind of the compiler of Mic 6, had Judah changed its course following the time of Hezekiah, it could have seen a different outcome, but it did not. The problems depicted in Mic 6 are essentially the same problems described by the book of Habakkuk (1:2–4). In response, Yahweh sends Babylon to punish Jerusalem in much the same way that Yahweh used Assyria to punish Judah in the previous century. Since Hab 1:2–4 is the next passage in the Book of the Twelve after Micah that addresses the state of the people of Judah and Jerusalem, this charge sets up a point of comparison. For those reading the Book of the Twelve, nothing changes in the people’s behavior from Mic 6 to Habakkuk, even though the book of Nahum speaks about the downfall of Assyria and implies that a significant time gap has taken place in the chronology of the Twelve.31
+
+14 The description of the devastation continues. Hunger will become a fact of life: you will eat but not be satisfied. In a siege, the city does not have access to its entire food supply system. Disease follows since the city is not able to remove its waste properly, as is euphemestically expressed in the second sentence: your filth will be in your midst. The population remains caught in place without relief. The verb sûg implies some will try to escape the siege, but they will not succeed: you will displace but you will not escape safely. This line creates an impression of pushing aside material to flee through the wall. Not only does Yahweh announce that escape will not succeed, but he announces he will also prevent anyone from escaping: whomever you save I will put to the sword. In other words, Yahweh will actively participate in hunting down potential refugees. The city’s population has nowhere to turn.
+
+15 Even the future holds little hope for improvement. Agricultural staples will not be available in sufficient quantity to feed the people, but the threat of deportation also appears in this verse: you will sow seed but you will not harvest. This clause refers to the planting and harvesting of grain. The following clause implies that the olive crop will also fail to deliver: you will tread the olive, but you will not anoint yourself with oil. Anointing with oil represents a practice of hospitality and comfort. Traveling in the ancient world meant long journeys on foot to get to one’s destination. Good hosts tended to their guests by providing them with olive oil to rub on their body. This practice allows the guest to cool themselves more efficiently (see Ps 23:5). With the shortage of oil, conveniences like this type of anointing would, of necessity, be curtailed. The same transitory fate appears in the final clause. The verbal idea of treading carries over (one treads olives and grapes to obtain the juice of the fruit). The punishment uses two different words for wine to convey an impending change. The first is fresh wine (tîrōš) while the second is the common word for wine that is fully fermented (yayin). The fresh wine was often drunk at harvest festivals in the fall of the year to celebrate the new crop. It would have only begun to ferment and still tasted sweet. The completion of the fermentation process would have taken weeks or months to age fully. As such, the subsistence production of oil and wine serves as an omen that life will not return to normal. Instead, the threat of deportation lies veiled within these statements.
+
+16 The concluding verse of chapter 6 offers a summary of the whole that includes both accusation and punishment. The accusations compare the behavior of Judah to the laws and deeds of two kings from the Northern Kingdom, Omri (879–869 BCE) and his son Ahab (868–854 BCE).
+
+EXCURSUS: OMRI AND AHAB
+
+We know very little about Omri from the book of Kings, but his renown apparently went far beyond his borders in his own time. The Black Obelisk, an Assyrian monument depicting the arrival of foreign kings to honor Shalmaneser III (858–824 BCE) depicts Israel’s King Jehu (841–814 BCE) as being a son of Omri because Omri was such a well-known king of Israel.32 According to Kings, however, Jehu was not a descendant of Ahab or Omri but usurped the throne from Joram (850–840 BCE). Despite his renown, Omri receives very little treatment in the book of Kings. He comes to power after the death of Zimri, who ruled for seven days after assassinating Elah (1 Kgs 16:8–10, 15–20). Omri led the Israelite troops that laid siege to Tirzah (the capital of Israel at the time) in retaliation for Zimri having murdered Elah. Zimri committed suicide by setting fire to his own royal house while he was inside. Very soon thereafter, Omri became king and moved the capital to Samaria in the second half of his twelve-year reign (1 Kgs 16:21–28). There is no mention in the Kings account about the statutes of Omri, but he is associated with the idolatry (the sins of Jeroboam) ascribed to the Northern Kingdom by the Southern Kingdom writer of Kings (who considered Jerusalem as the only true worship center). Omri’s granddaughter, Athaliah, married the Judean king Ahaziah who was king for only one year (840 BCE). She took control of Judah for six years after Ahaziah’s death. Purportedly, her attempt to purge the royal family of heirs was thwarted by one daughter saving a son of Ahaziah who later took the throne from Athaliah with the help of Jehoiada the Yahwistic priest (2 Kgs 11). In the aftermath of the restoration, Jehoiada restored the covenant with Yahweh, and the people of the land destroyed the house of Baal in Jerusalem. Construction of a temple of Baal in Jerusalem is not recounted, so most commentators consider this an implicit condemnation of the work of Queen Athaliah, who was the granddaughter of Omri (according to 2 Kgs 8:26).
+
+The book of Kings narrates quite a few more episodes about King Ahab. His reign and the reign of his sons cover more space than any other king in the book of Kings. Events from Ahab’s reign are recounted in 1 Kgs 16:28–2 Kgs 3:5, but the story of the prophets he persecuted, the nations who rebelled as a result of his reign, and the reigns of his sons Jehoram and Ahaziah continue until 2 Kgs 10. Ahab is condemned for the extent to which he encouraged the worship of Baal (1 Kgs 16:29–33).
+
+Given the stories of Elijah and Jezebel, it seems likely that the combination of Omri and Ahab intends to convey a dependence upon Baal (although Ahab is the one specifically mentioned for erecting altars to Baal [1 Kgs 16:30–33; see also 2 Kgs 21:3]). Reference to the “house of Ahab” appears in Kings where several texts recount Ahab’s descendants’ involvement in the affairs of Judah or with the worship of Baal in Judah (2 Kgs 8:18, 27; 21:13).
+
+First Kings 16:30 designates Ahab as the worst king of the Northern Kingdom, following a similar statement concerning Omri only five verses earlier (1 Kgs 16:25). The double punch of the two worst kings of Israel following back-to-back upon one another conveys an ideology that the Omride dynasty played a powerful, but destructive, role in both Israel and Judah for much of the ninth century BCE. Micah 6:16 can hardly be considered different in this respect. Even though Mic 6:16 does not mention specific events associated with the two kings, it is likely that readers were expected to fill in the negative aspects about Omri and Ahab from their knowledge of Kings. Hence, the scribal compilers of Mic 6:1–16 exhibit educational training that reflects knowledge of Deuteronomy and Kings, as well as Hosea and Amos.
+
+In sum, the composition of Mic 6:1–16 reflects the outline of a lawsuit brought by Yahweh as the prosecuting attorney against Judah. The opening speech by Yahweh (6:1–5) is interrupted by the defendant (6:6–7) and the prophet (6:8), before the accusations are presented (6:9–12) and judgment delivered (6:13–15). Just as at the beginning of Micah (1:5–7, 9, 12), the final summary (6:16) associates Judah’s sin with the two worst kings of Israel according to the book of Kings. Yahweh’s lawsuit thus puts Judah in the crosshairs for judgment because of its ethical behavior and its abandonment of the worship of Yahweh.
+
+
+
+
+
+D. THE PROPHET’S LAMENT (7:1–7)
+
+
+7:1Alas for me, for I have become like gatherings of summer fruit,a like the gleanings in the grape harvest. There is no cluster to eat, nor a first fig that my soul desires.b
+
+2The faithful one has perished from the land, and no one who is upright among humanity. They all lie in waitc for bloodshed. Each one hunts his brother with a net.
+
+3Concerning evil, two hands do it well. The officer and the judge ask for a bribe. And the noble speaks the desire of his soul, and they twist it.
+
+4Their best is like a briar,d and the upright a thorn bush. The day of your watchers; your punishment has come. Their confusione happens now.
+
+5Do not believe your friend. Do not trust your old friend. Guard the doors of your mouth from the woman lying by your side.
+
+6For a son considers his father a fool. A daughter rises against her mother; a bride against her mother-in-law. The enemies of a man are the men of his own household.
+
+7But I will watch for Yahweh. I will wait for the God of my salvation.f My God will hear me.
+
+a. Instead of summer fruit, the LXX reads “straw” (kalamēn), a term that typically translates the Hebrew qaš, while MT has a similar sounding word to the word meaning summer fruit (qayiṣ). MT takes preference because the Greek has translated the entire phrase somewhat loosely, making the noun gatherings into a singular participle (“the one who gathers straw”). This change by the LXX appears to be smoothing out an odd syntactical construction. Still, the consonantal text could also be a qal passive plural participle (see Joüon §150c, n. 4 for the relatively common defective spelling), or more likely a qal active participle, “those gathering.” The dual similes, however, suggest that the word is referring to the harvested fruit (like the gatherings of summer fruit, like the gleanings of the harvest), not the ones harvesting.33
+
+b. The LXX has oimoi (“alas”) instead of desire, treating the word ʾiwwətâ (“desire”) as coming from ʾôy.
+
+c. The LXX has the verb “quarrel” (dikazontai) rather than lie in wait in the MT (from the root ʾrb). The Greek dikazontai otherwise never translates ʾrb, but it does translate the Hebrew word rîb (Judg 6:31; Pss 43:1; 74:22; Hos 4:4; Jer 15:10), which means that an aleph would be missing (or ignored by the translator) if one retroverted the Greek back to Hebrew. The basic idea of rîb is to quarrel.34 Most likely, the translator is simply trying to make sense of the word with something close to the Hebrew. MT is preferred.
+
+d. The LXX has “devouring moth” (sēs ektrōgōn) rather than briar (ḥēdeq) in the MT. The LXX again makes an interpretive translation representing only a slight variation from MT. The word moth is not present, but the Hebrew equivalent of “grinder” or “devourer” (ḥōrēq) is similar to briar (ḥēdeq)—especially in the consonantal text since resh and dalet look quite similar (ḥdq in the MT versus ḥrq translated by the LXX).
+
+e. The LXX has “their weeping” (klauthmoi), in all likelihood because the translator chose to read the MT (məbûkātām) from the root bkh (“to weep”) rather than from the root bûk (“to confound, confuse”). The noun pattern does not fit a lamed he verb particularly well. MT is preferred.
+
+f. The LXX reads the MT consonants as “my savior,” in apposition with “my God,” rather than in the construct the God of my salvation. The consonants need not change to extrapolate this reading in Greek. The LXX translator does the same thing with the same phrase in Hab 3:18.
+
+Micah 7 contains two compositional units, the prophetic complaint in Mic 7:1–7 and the liturgical response in Mic 7:8–20. Micah 7:1–7 takes the form of a prophetic complaint. It begins with a statement of lament (7:1), moves to a description of the societal situation that instigates the complaint (7:2–6), and concludes with a hopeful statement of confidence in Yahweh (7:7). In the first and last verse of the unit the speaker—usually interpreted as the prophet—speaks in the first person, while 7:2–6 reports about the problems using descriptive language. The first-person speaker in 7:8–10 changes to Lady Zion, which means that 7:1–7 functions as a distinct speech compared to 7:8–20.35 The relationship of 7:1–7 to the preceding chapter is difficult to discern because it likely represents an independent written unit, but its placement here seems designed to evoke the sense that 7:1–7 should be read as a response to the judgment expounded in 6:13–15.
+
+The first two words of the new unit (ʾallay lî) signal the presence of a complaint, a form more at home in the Psalter than in prophetic texts. This complaint has a peculiar form as well since it contains no petition, and it is more passive than most complaints.36 Its opening lines bemoan the lack of food, while 7:2–6 describes the pervasive guilt of the people. No one in the land lives as God would have them: civil authorities exchange bribes to pervert justice, and one’s closest relatives pose great danger. The final verse (7:7) concludes the complaint with an affirmation of confidence in Yahweh’s power to deliver that is common for this genre. In 7:2–6 the speaker holds the people and leaders accountable for the situation of divine punishment, a perspective that fits better with 6:3–16 than with chapters 2–3, which focus more consistently on leaders. This complaint lacks some of the more urgent and emotive elements that can appear with this genre. There is no appellative (i.e., calling on Yahweh by name) in the opening line. The complaint describes the problems that exist in society, but it does not contain a confession of sin or a protestation of innocence that appears in many complaints (e.g., Pss 26:4–6 or 51:5–7). Rather, the descriptive assessment of Mic 7:2–6 implies that Yahweh’s punishment is deserved. There is no vow or acknowledgment of a divine response (e.g., Pss 6:10; 7:18), only an assumption that Yahweh will act at some point in the future. The lack of an explicit request, as already noted, is also atypical for complaints.
+
+The majority of scholars treat 7:1–7 as a response to the exilic composition of Mic 6 and/or the broader context of Micah.37 The complaint of Mic 7:1–7 functions well in this respect, even though some have argued that these verses constitute an independent composition that has been placed here to serve this function.38 It does not relate directly to the charges described in 6:9–15, but does describe a general malaise that lines up in broad strokes with the charges in Mic 2:1–9 and 6:9–15.39 In this respect, the prophet appears to accept the verdict announced in 6:14–15.
+
+There has been some debate in the history of interpretation regarding the identity of the speaker in 7:1–7. The most prominent proposal has generally, and correctly, been that the prophet is the speaker. A few have suggested that Lady Zion could be the speaker since she is the speaker in 7:8–10, but the motifs of 7:1–7 seem better suited to the prophet than to the personified city.
+
+1 The similes in 7:1 are significant. The LXX (followed in part by the NRSV) interprets the simile as a participle (“I am like the one gathering,” rather than I have become like gatherings). The prophetic speaker compares himself to a person who can find no food after the harvest. The speech creates a picture that suggests a time of famine, but its use of simile should make one cautious about reading these poetic lines too literally. The prophet compares himself to the poorest of the land who are allowed to pick for fruit after the main harvest, but when he does there is no fruit to be found.40 In this sense, the expression comes very close to Jer 8:13 (NRSV): “When I wanted to gather them, says the LORD, there are no grapes on the vine, nor figs on the fig tree; even the leaves are withered, and what I gave them has passed away from them.” The comparative language of the simile is not, however, so much about famine as the lack of produce. The gleanings that the poor are allowed to pick do not represent the best fruit, which is the point of the last two lines of the verse.
+
+There is no cluster to eat,
+
+No first fig that my soul desires.
+
+The gleanings of fruit, instead, would represent individual grapes that had fallen away from the clusters of grapes on the vine. This fruit falls into the dirt where it gets bruised if not broken open. It likely gets trampled upon. One picks the gleanings one piece of damaged fruit at a time. The simile evokes a situation of subsistence. In this sense, Mic 7:1 introduces Mic 7:2, which describes the disappearance of the faithful and the upright from the land.
+
+2 Micah 7:2 begins the description of the societal problems that the prophet recognizes and that form the core of the complaint in 7:2–6. The initial description begins with a poetic line comprising two synonymously parallel versets.
+
+The faithful has perished from the land,
+
+And the upright among humanity.
+
+In many respects, these two versets represent the opposite of Yahweh’s desire according to 6:8: Yahweh desires kindness/fidelity (ḥesed), but there is no one who is kind/faithful (ḥāsîd) in the land. These two words come from the same verbal root. Yahweh desires justice, but there is not one person who is upright among humanity. Upright is a synonym for “just” (see Deut 32:4; Pss 94:15; 119:137; Mic 3:9). At this point, one intuits how the meaning of the similes from 7:1 relate to 7:2. Those who follow Yahweh should manifest lives of fidelity and propriety. Metaphorically, the population of Yahweh’s people should mean that the land would be teeming with people whose lives reflect fidelity and justice, but such is not the case. Reaching back to 7:1, the harvest should yield clusters of grapes but the prophet searches in vain for the faithful and the upright among the fallen fruit.
+
+The second two lines in 7:2 express violence done by the people. They set ambushes that result in bloodshed, and they hunt fellow citizens with a net.
+
+They all lie in wait for bloodshed.
+
+Each one hunts his brother with a net.
+
+One image implies that they wait for people to come to them (using the verb ʾrb, “to lie in wait”), while the other portrays the active pursuit of others for nefarious purposes. The second line even describes the violence as endemic to families: each one or “every man” (ʾîš) hunts his own brother. Brother is a familial term that can mean an actual sibling or a fellow countryman, but the choice of this term implies that a kinship relationship that should exist is abandoned for the sake of violence. The verb ṣwd is used to hunt game using a bow and arrow (Gen 27:3; Lev 17:13), but it also appears in metaphorical contexts such as Job accusing Yahweh of hunting him like a lion (Job 10:16) or evil hunting a man of violence to exact retribution (Ps 140:11). The translation of “net” (ḥêrem) presumes that the word derives from ḥrm (II), though a few argue that the word should derive from ḥrm (I) and should be understood as destruction. Wolff, for example, argues that all the ancient translations presuppose some form of destruction and that the verb ṣûd never appears with an instrumental accusative.41 Instead, Wolff translates the line as “One brother hunts the other to death.” The majority of scholars have rejected the derivation because ḥrm (I) has cultic connotations and does not simply refer to death. Rather, ḥêrem (I) refers to that which was set aside as the deity’s portion of the booty. It is not simply a synonym for killing something. Instead, the derivation from ḥrm (II) refers to nets used in contexts of both fishing and hunting. The use of nets in such contexts makes the most sense here. See the oracle against Tyre in Ezek 26:5 where the destroyed coastal city will become merely a place for casting nets to fish. Psalm 10:8–9 condemns those who hunt down the poor with nets. The context of Mic 7:2 anticipates hunting on dry land where the use of nets would allow the hunter to trap the prey, presumably to sell those they catch into slavery or turn them over to captors. Mays observes that the time of Hezekiah would not make a good candidate for dating this oracle. He claims one would have to look to the time of Manasseh since 7:2 presumes an invasion has succeeded in gaining control of Jerusalem.42 The situation in 7:2 reiterates the charge against the leadership of the city in Mic 3:10 where the prophet condemns their actions (3:1, 9) because they pervert justice to gain economic advantage.
+
+3–4 Whereas Mic 7:2 begins the complaint with a description of who is missing from the land (the pious) and describes the violent acts of brother hunting brother, Mic 7:3–4 turns to the leadership of the country who perform their tasks in order to line their own pockets. The leaders are busy doing evil. The officer and the judge request payments for rendering verdicts, and implicitly, those verdicts go to the highest bidder. The word for bribe (šillûm) can also mean “compensation,” and the selection of this word provides insight into the problem. They do not ask explicitly for a bribe, but the most prominent in society need only speak their desire, and the king’s official and the judge work out the details. The word used for their complicity (ʿbt) connotes the idea of twisting strands together. The powerful (literally, “the great one”) need not be bothered with the details since the civil bureaucrats will develop plans to implement his desire. The result, of course, twists justice and perverts the expectations of Yahweh.
+
+In 7:4a, the prophet continues this thought of the intertwining of word and deed when he compares the best of them to a briar and a hedge of thorns. These plants are twisted and tangled, and they prick anyone who comes near. The images in these verses convey the prophet’s conviction that the civil leadership is thoroughly corrupt. The civil leadership was mentioned briefly in Mic 3:11 (see also 3:1, 9), with different words (rulers of the house of Jacob and chiefs of the house of Israel) in combination with the priests and prophets who also charge money for doing their work. Micah 7:1–7 alludes to the situation in Mic 2–3 and underscores the punishment of the entire society whose behavior the previous passage critiqued.43
+
+The prophet warns of what is to come in 7:4b. The word your watchers (məṣapêkā) refers to the sentinels guarding the city, but the same root also appears in several texts as a metaphor for prophets (Isa 52:8; 56:10; Jer 6:17; Ezek 3:17; 33:6–7; see also Hos 9:8). In Mic 7:4b the participial form functions within a construct chain, the day of your watchers, that is syntactically disconnected from the remainder of the verse.44 Immediately after this construct chain, a more definitive statement appears: your punishment has come. Both the noun punishment and the verb come are feminine singular, making punishment the subject of this short sentence. Yet, the word day is masculine, meaning it is not the controlling noun of the verb. Its purpose, therefore, must be poetic and evocative of imminent danger. The phrase the day of your sentinels stands alone syntactically and serves as a threat. Simultaneously, this phrase evokes images of a military threat and the day of Yahweh tradition.45 The meaning is thus clear: the day of your sentinels is at hand. Your time of punishment has come. The word watchers makes sense here in its military connotation to convey images of those patrolling the gates of the city for signs of danger.
+
+5 Whereas 7:2–4 lamented the problems in society at large, 7:5–6 points to the depth of the problems in the private sphere. The prophetic speaker portrays friends (7:5) and family (7:6), one’s closest circles, as a threat to one’s own existence. Micah 7:5 warns against trusting friends and lovers (outside the immediate family). The first two lines of the verse reflect synonymous parallelism, while the third line warns against speaking to the woman with whom one sleeps.
+
+Do not believe your friend.
+
+Do not trust your old friend.
+
+Guard the doors of your mouth from the woman lying by your side.
+
+The word “friend” comes from the root rʿh, which means “to tend” or “to feed.” The word translated as old friend (ʾalûp) can be roughly synonymous with friend, but it also appears in contexts that suggest the friend of one’s youth, thus implying a friend who has known you for a lengthy period of time (cf. Jer 3:4; Prov 2:17) or a very close companion (Jer 13:21; Prov 16:28; 17:9). Even the most intimate of relationships, a lover, cannot be trusted to remain silent about conversations. The third line is formulated in such a way that it may or may not apply to a man’s wife. The situation implied in this verse presents a devastating scenario in which no trust exists with anyone.
+
+6 In 7:6 the focus shifts to familial relationships that display enmity and disappointment. The son considers his father a fool, implying that the father is a nonentity.46 The younger family member thus disrespects the older. The women of the household battle one another, but the emphasis also lies on the condemnation of the younger women who do not recognize their place in the family. These images work on both the level of gender and age. Younger males insult their fathers, while younger females antagonize the matron of the household. Micah 7:6 attributes this hostility to both the daughter and the daughter-in-law directed against the mother(-in-law). The imagery inverts the cultural expectations for family in Judean households (often labeled as the “house of the father”). Normally, the eldest male and his wife would have pride of place, while the children (including those who are married) remain under the authority of the head of the household so long as they remain in close proximity. The final line summarizes the problem: The enemies of a man are the men of his own household. Micah 7:6 describes intergenerational conflict that threatens familial structures that the prophet considers sacrosanct.
+
+The combined portrait in 7:1–6 describes a cultural matrix in complete disarray, both in the public (7:2–4) and in the private (7:5–6) spheres. The common denominator in these accusations is the abuse of trust. One expects the civic leadership to take their responsibilities seriously in order to work for the betterment of society in implementing systems of justice and fairness. When those leaders, instead, use their positions to satisfy their own lust for power and their own greed, society cannot function properly because justice is subverted. When one’s closest friends and family turn upon one another, no security exists, even in one’s own home.
+
+7 The prophet’s complaint concludes, as many do, with an affirmation of confidence. The confidence does not describe some kind of Hollywood happy ending; nor does it express a vision of utopia. Rather, the prophet expects God to respond redemptively to the situation at hand, without prescribing what that action entails. The verbs stand out as instructive in this regard: The prophet will watch and wait because he is convinced Yahweh will hear his plea. The prevalence of affirmations of hope and trust in Yahweh represents one of the characteristic enigmas of Hebrew complaint psalms. The positive tenor of such endings runs counter to the primary focus of the content of the complaints, which presume the speaker is facing a crisis. Yet, these positive endings eliminate the possibility of treating this idea as an afterthought. Rather, by ending with an affirmation, complaints of this type implicitly suggest the psalmist’s need to articulate that Yahweh’s power accomplishes what Yahweh wills. Further, it underscores the conviction that Yahweh desires to act salvificly, to set right what is wrong.
+
+From the context of the Book of the Twelve, this affirmation plays an important role as one reads through the corpus. Micah 7:7 concludes the prophetic complaint of 7:1–7 and the prophet announces I will wait for the God of my salvation. A number of commentators have suggested that this passage be read against the backdrop of the siege of Sennacherib and the concomitant threat that the siege posed to Jerusalem.47 Historically and theologically, the siege marked a turning point in Judah’s relationship to Assyria. Narratives concerning the events of the siege are recounted in three places in the Old Testament (2 Kgs 18–20; 2 Chr 29–32; and Isa 36–38). Each of these accounts varies slightly but they all tell the story with the theological slant that involves Yahweh’s decision to spare Jerusalem in the face of overwhelming Assyrian military superiority. These narratives involve the prophet Isaiah convincing King Hezekiah to place his trust in Yahweh. When the Assyrians are miraculously forced to leave, Jerusalem is spared. Historically, events surrounding Jerusalem’s deliverance were more complicated. While the Kings account implies that Sennacherib was murdered by his sons close to the time of his return to Assyria (2 Kgs 19:37; 2 Chr 32:21), such was not the case. Rather, we possess Sennacherib’s own version of the events of 701 BCE in which he claims that Hezekiah paid him tribute to depart. Additionally, Sennacherib lived another twenty years after the siege of Jerusalem. When scholars attempt to reconstruct the events, most give more credence to the account in Sennacherib’s version since it was roughly contemporary with the events while the account in Kings comes from nearly a century later and has a strong theological slant. Additionally, the earliest biblical account, the one in Kings, refers to Hezekiah paying Sennacherib with all the silver and gold upon which he could lay his hands, including stripping the gold from the door of the temple (2 Kgs 18:15–16). Both the Isaiah and Chronicles accounts eliminate this statement.48
+
+In the Book of the Twelve, the position of this lament marks the beginning of the section of the corpus in which the writings anticipate the downfall of Assyria (Nahum) as well as the rise and fall of Babylon (Habakkuk). At the very end of this section, the phrase “God of my salvation” appears again (Hab 3:18), the only other time outside the book of Psalms in which this phrase appears.49 The phrase in Habakkuk appears within the prophetic response (3:17–19) to the theophany (3:3–15) which poetically describes the enemy’s (Babylon) ultimate defeat after Yahweh has used the enemy to punish Judah.50 Hence, at the beginning and end of this section of the Book of the Twelve anticipating the rise and fall of Assyria followed by Babylon, the prophet first announces he will wait for the God of my salvation who is to come and then proclaims he will “exult in the God of my salvation” who will ultimately defeat the enemy who has attacked Judah. Such literary cross-references appear with relative frequency in the Book of the Twelve and help the reader associate passages that various editors have sought to highlight. Echoes of the Hezekiah tradition continue to appear in the final extended unit of Micah, the series of speeches and responses that appear in 7:8–20.
+
+
+
+
+
+E. ZION’S AFFIRMATION AND YAHWEH’S PROMISE (7:8–20)
+
+
+8Do not be glad about me, my enemy.a Though I have fallen, I will rise. Though I dwell in darkness, Yahweh is my light.
+
+9I will bear the indignationb of Yahweh because I sinned against him, until the time when he takes up my case and executes my justice. Then he will bring me forth into the light. I will see his righteous act.
+
+10And you, my enemy, will see. And shame will cover her, the one saying to me, “Where is Yahweh, your God?” My eyes will look upon her. Now she will become a trampled place, like mud in the street.
+
+11A day for building your walls.c On that day, he will extendd the allotted space.e
+
+12On that day, it will be thatf he will come to you from Assyria and from the cities of Egypt.g And from Tyreh to the River, from sea to sea, and from mountain to mountain.
+
+13And the land will become a desolate place because of its inhabitants, from the fruit of their deeds.
+
+14Shepherd your people with your staff, the flock of your possession, the one dwelling alone, a forest in the midst of Carmel. Let Bashan and Gilead feed as in the days of old.
+
+15Like the days you went forth from the land of Egypt.i
+
+I will showj him signs.
+
+16The nations will see and be ashamed of their might. They will put their hand over their mouth. Their ears will go deaf.
+
+17They will lick dust like the snake, like a crawling thing of the earth. They will come shaking from their strongholds. They will come in dread to Yahweh our God so that they fear you.
+
+18Who is a God like you, forgiving iniquity and passing over rebellion for the remnant of his possession? He will not strengthen his anger forever,k for he desires loving-kindness.
+
+19He will again have compassion on us. He will subjugatel our iniquities. And you will cast all their sins into the depths of the sea.
+
+20And you will give truth to Jacob, loving-kindness to Abraham, that which you swore to our ancestors from days of long ago.
+
+a. The LXX uses the phrase “my enmity” (using echthra) rather than enemy (ekthros). The consonantal text would be identical, but my enemy offers the expected vocative.
+
+b. The LXX uses wrath (orgēn) here and in Isa 30:30 for the uncommon word zʿp.
+
+c. Building your walls is not attested in the LXX and cannot be easily reconstructed from “plastering your brick.” It could refer to the painting of a brick wall as an idiomatic translation. Graphically, the MT and LXX can be explained by the fact that brick (ləbēnâ) is quite similar to MT “to build” (libnôt) in terms of the consonants (lbnh vs. lbnt).
+
+d. The LXX has “reject” or “annihilate” (apotribō) rather than extend in MT. The Greek is used elsewhere to translate mḥq while MT has the verb rḥq.
+
+e. The basic meaning of ḥōq is something “prescribed.” The precise meaning of ḥōq must, however, be deduced from the context. The common meaning of “statute” hardly fits here. The prescribed limits of days can be articulated with ḥōq (see Job 14:5, 13; Zeph 2:2). The same word can denote the prescribed limits of territory (Job 26:10; 38:10; Ps 148:6; Prov 8:29; Jer 5:22). See the discussion of the verse in the commentary below.
+
+f. The Hebrew syntax is quite labored here. Literally, the verse begins: “That day and unto you he will come.” The Greek reads “your cities will be leveled.” The word for your cities (ʿārêk) would look the same as “unto you” (ʿādêkā), except it would have a resh rather than a dalet. These two letters are quite similar in Hebrew and are often confused. Nevertheless, the LXX is probably translating loosely to make sense of the text. It has “cities” a second time later in the verse where it is unattested in MT.
+
+g. The word used twice for Egypt in 7:12 appears only four times elsewhere (Isa 19:6; 37:25 [=2 Kgs 19:24]; Ezek 27:8). LXX may have correctly picked up on a double entendre here in that the same consonants (mṣwr) could be “from Tyre” or “Egypt.”
+
+h. The consonantal form of māṣôr could mean “Egypt” or from Tyre. The LXX translates the second example as “from Tyre to the River,” but this does not require a different consonantal text. “From Tyre to the River” (i.e., the Euphrates) actually makes better sense than the repetition of Egypt, and only requires a different vowel in the consonantal text (miṣôr rather than māṣôr).
+
+i. It is not clear whether this opening line of 7:15 concludes the preceding verse or opens the next line.
+
+j. The LXX has opsesthe which has a second-person masculine plural subject (“you will see”) rather than MT (I will show him). BHQ correctly labels this variant as a loose translation, probably done for stylistic reasons. BHK and BHS emend the text, substituting a he for the aleph so that the text does not change speakers (“show us marvelous things”), but such an emendation has no textual support. The NRSV follows this suggestion. The translation follows MT as a divine response to the petition in 7:14–15a.
+
+k. While quite different, the LXX (eis martyrion) translates as “unto a witness,” but the LXX is not reading a different text. It simply translates lʿd with different vowels. The LXX reads lʿd as ləʿēd (“unto a witness”) rather than lāʿad (“into perpetuity”).
+
+l. The LXX translates idiomatically again, based on contextual parallelism. Since the next line references the casting of iniquity into the depths of the sea, the LXX translates the unusual verb subjugate (kbš) as “cause to sink” (katadysei).
+
+Since the appearance of Hermann Gunkel’s influential article, a significant majority of critical scholars have treated Mic 7:8–20 as a postexilic addition to the book.51 For decades, this majority opinion acknowledged the thrust of Gunkel’s three main arguments: (1) this text was composed in the postexilic period; (2) the alternating speakers and the addressees of 7:8–20 are best explained by treating this passage as a prophetic liturgy; and (3) the passage was written independently of Micah, complicating the interpretation of the passage (esp. in identifying the enemy of 7:8–10). All three claims have been disputed in recent years, with several scholars now seeing a closer relationship between the liturgical composition and the book of Micah as a whole.52 Others have questioned whether the change of speakers occurs as frequently as the MT suggests, and reject the label of liturgy altogether, and seek to place it in the eighth century.53
+
+The “liturgical” nature of the extended passage has more to do with the changing speakers that extend through this larger unit than it does with the connotation that the passage mirrors an actual worship setting. The combination of the speaker and addressee changes too frequently to be accidental:
+
+7:8–10:
+
+Lady Zion addresses an unnamed enemy, here interpreted as Lady Nineveh
+
+
+
+7:11–13:
+
+The prophet addresses Lady Zion
+
+
+
+7:14–15a:
+
+The prophet intercedes for the people to Yahweh
+
+
+
+7:15b:
+
+Yahweh responds to the prophet’s intercession
+
+
+
+7:16–17:
+
+The people respond to Yahweh’s response
+
+
+
+7:18–20:
+
+The prophet addresses the community while speaking to and about Yahweh
+
+
+
+Each of the changes in speakers and addressees must be deduced from the context, since they contain no introductory notes to the reader, but crucial syntactical information allows one to infer these changes.
+
+
+
+
+
+1. Lady Zion Addresses Lady Nineveh (7:8–10)
+
+
+8 Only reading 7:8–10 in English gives rise to the temptation to assume that the I who speaks these verses simply continues the speech from 7:7, where the prophetic I affirms his confidence in Yahweh’s salvific intentions. If one reads the Hebrew text, however, treating these verses as the speech of the prophet becomes problematic when the speaker quotes the enemy’s speech back to her in 7:10: Where is Yahweh your [second-person feminine singular] God? With this question, the enemy addresses a feminine entity, which cannot be understood as the prophet speaking in 7:1–7.54 Since 7:8–10 coheres tightly, the first-person speech is directed to an unnamed enemy who is also addressed in second-person feminine singular. Hence, in these verses, one woman speaks to another woman, and the first speaker should be understood as Lady Zion.55
+
+Having identified the speaker of 7:8–10 as Lady Zion, the rhetoric of these verses is easy enough to follow, though the identity of the enemy has generated no small number of suggestions. Micah 7:8 begins the speech of Lady Zion directed to a feminine entity who is ambiguously named my enemy. Because of the wide acceptance of the view that 7:8–20 constitutes a postexilic text, those who have presumed that 7:8–20 arose independently from its current location at the end of Micah have generally sought to identify the enemy based upon these assumptions. Both Babylon and Edom have thus been named as possible enemies in this postexilic context.56 If this text were created independently, however, it simply does not provide enough substantive detail to arrive at a persuasive conclusion. Such assumptions, however, require the question as to why this passage appears here at the end of Micah. As noted both with chapters 4–5 and with chapter 6, there are good reasons to suggest that the expansively edited material in chapters 4–7 reflects a hermeneutic in which the material should be read as a literary construction that anticipates the future from the perspective of an eighth-century prophet. This same hermeneutic can also explain 7:8–20.57 Consequently, when read as the personified city’s response to the siege of Sennacherib, as well as a response to the punishment anticipated in 6:1–7:7, the assumption of Assyria as the enemy in 7:8–10 makes sense contextually and materially.
+
+Micah 7:8 expresses Lady Zion’s affirmation of confidence in Yahweh’s ability to address her plight. The verse assumes Zion’s current situation reflects some kind of distress (I have fallen; I dwell in darkness). Logically, this distress is the result of the enemy’s actions, and the affirmation of confidence in this verse essentially parallels the prophet’s affirmation in 7:7. In this respect, it makes more sense to understand 7:8–10 as Zion’s response to the punishment assumed in the prophetic complaint in 7:1–7 (esp. 7:1, 4b). This suggestion also accounts for the reason why Lady Zion speaks. The charges leveled against the people and the leaders in 6:1–7:7 clearly have Jerusalem in view, so it makes sense that personified Jerusalem addresses the situation.
+
+9 Micah 7:9 also makes sense contextually as a response to the preceding trial speech and lament in 6:1–7:7. The speaker, Jerusalem personified, uses juridical language and accepts the verdict (I will bear the indignation of Yahweh). Further, Lady Zion’s speech includes a confession of sins, one of the typical elements found in complaints that was noticeably lacking in both the trial speech (6:1–16) and the prophet’s complaint (7:1–7). This confession of sin equates her sin with the cause of the punishment and suggests a lengthy punishment will ensue (until the time when he takes up my case and he executes my justice), or at least acknowledges the indeterminate length of her punishment. Yet, as with 7:8, Mic 7:9 ends by affirming her confidence in Yahweh’s future salvific acts. The indignation to which Zion refers summarizes the plight of Jerusalem and Judah from the end of the eighth through the seventh centuries BCE.
+
+The history of Judah in the seventh century in the biblical narrative unfolds as a long degeneration of the relationship between the kingdom and Yahweh. To be sure, Jerusalem was delivered from the siege of Sennacherib, but it lost territory and autonomy as a consequence of continued Assyrian dominance of the region throughout most of the seventh century. While Judah maintained a Davidic king on the throne, it nevertheless became a vassal state to the king of Assyria and remained so until the reign of Josiah, who—for a time—was able to expand his territorial control in the wake of the decline of Assyrian influence. When the Babylonians destroyed Nineveh in 612 BCE, the yoke of Assyrian oppression was broken. It would soon be replaced by Egypt and Babylon as they fought for control of the Levant. Pharaoh Neco killed Josiah in 609 BCE (2 Kgs 23:28–30). Josiah’s son Jehoahaz replaced him, but only briefly until Neco took him to Egypt and placed another of Josiah’s sons on the throne, Jehoiakim. In 605 BCE Babylon defeated Egypt at the Battle of Carchemish and forced Egypt to return inside its borders. Jehoiakim continued to rule in Jerusalem, but he revolted against Babylon in 598 BCE, causing Nebuchadnezzar to lay siege to Jerusalem. During the lengthy siege Jehoiakim died and was replaced by his son Jehoiachin, who promptly arranged a surrender to Babylon. Jehoiachin, along with much of the leadership of Judah, was taken into exile in Babylon and Nebuchadnezzar placed a new king, Zedekiah, on the throne. A decade later Zedekiah also revolted against Babylon, leading to the destruction of Jerusalem and further exile of its people in 587 BCE.
+
+Lady Zion acknowledges that she will suffer indignation until such a point as Yahweh takes up her case again. At that point she anticipates a different outcome (my justice, his righteous act). With this affirmation she turns once again to a denunciation of her enemy, Lady Nineveh.
+
+10 Lady Zion tells her enemy that she will see the day when Lady Zion’s own fate changes. Micah 7:10 provides several further pieces of evidence that Lady Nineveh is the enemy in this passage. First, Lady Zion addresses her enemy using second-person feminine singular language, and this feature fits the pattern of addressing cities, especially capital cities, in feminine forms.58 Second, this feminine entity is a place. Third, the phrase like mud in the street is used in Nahum to refer to the downfall of Assyria (3:14; note also the similar phrase “pile in the street” is used for Assyria’s downfall in Isa 10:6). Fourth, the fact that the enemy taunts Lady Zion about the presumed importance of Zion’s God fits well with the assumption of Assyria imposing its will upon Jerusalem in various ways. Finally, as a vaticinium ex eventu (“prophecy from the event”), the prediction that Jerusalem will live to see her enemy’s destruction makes good sense considering Assyrian power in the Levant had waned for over a decade before Nineveh’s overthrow in 612 BCE. This prediction also serves a didactic function in the Book of the Twelve, connecting the warning of Micah to the warning of Nahum. At the time of Nineveh’s destruction, Josiah’s reforms were about a decade old, during which time he had expanded his territory into the former Northern Kingdom region of Samaria (specifically, Bethel).59 Lady Zion anticipates being around to see the fall of Nineveh: My eyes will look upon her. Now she will become a trampled place. In a real sense, then, Mic 7:10 literarily anticipates the themes of the book of Nahum.60
+
+
+
+
+
+2. The Prophet Addresses Lady Zion about Reprieve and Punishment (7:11–13)
+
+
+11 Micah 7:11–13 coheres through speaker, addressee, and chronology. The speaker of this passage must be the prophet (see below). As indicated by the second-person feminine singular suffixes in 7:11–12, the speaker addresses Lady Zion. All three verses predict events in the future. Despite these stylistic elements pointing toward homogeneity, the content of the verses creates real difficulty, as typically interpreted, in understanding them as the work of a single hand. Micah 7:11 sounds very much like a promise of weal: building the walls of Zion and extending the space apportioned for it. By contrast, the only possible interpretation of 7:13 is as a prediction of judgment: desolation of the land because of its action. In between, 7:12 can be interpreted positively as a pronouncement of restoration of those in the diaspora, a position that reflects the majority opinion.61 Micah 7:12, however, can also be interpreted as a message of judgment: An enemy will attack from every direction. The idiom of the verb bôʾ with the preposition ʿad can mean come to or it can be used in military contexts to mean “come against.” This latter interpretation of the verse makes better sense than does the majority opinion of 7:12 as a continuation of the promise given that Mic 7:8–20 is not an independent liturgy, but rather a composition designed to be read as though taking place in the time of Hezekiah.
+
+The specific nature of the promise in 7:11 deserves careful note. The verse addresses Lady Zion, the personified city who represents the city’s fate. The prophet must be the speaker because the speaker refers to activity that only Yahweh can do: “he will extend the allotted space.” The word ḥôq refers to something prescribed or delimited. Most commonly, this word appears as a plural when referring to the prescribed statutes that Israel must follow, but in this verse, the singular form must refer to something else.62 In this instance, the most likely meaning is the prescribed, or allotted, space that Yahweh has provided to something. The promise of 7:11, therefore, announces to Zion that she will have time to build walls and extend her allotted space. Such a promise certainly makes sense in the aftermath of the destruction of Jerusalem in 587 BCE, and similar expressions of hope appear in Zech 1:16; 2:1–4 in conjunction with the rebuilding of the temple and the city.63 Yet, the promise can also be understood against the backdrop of the reign of Hezekiah, and in the larger context of 7:11–13 this setting makes sense of the three verses together. Lady Zion has already acknowledged to Lady Nineveh that she will bear the indignation of Yahweh (7:9). The astute reader of 7:8–20 hears echoes of the anti-Assyrian polemic of Isa 10 throughout the final chapter of Micah.64 The superscription of Mic 1:1 associates the prophet with three kings, but Hezekiah undoubtedly plays the dominant role in the book. Certainly, the citation of the pronouncement of judgment from Mic 3:12 in Jer 26:12 assumes that Micah spoke those words during the reign of Hezekiah. As will also become clear, the ambiguity of 7:12 stems from a double entendre whose literary function becomes clearest when read against the backdrop of the events precipitating the siege of Sennacherib. Clearly, Hezekiah anticipated the possibility of Assyrian reprisal. In the biblical tradition, Hezekiah receives credit for building the tunnel that provided a source of water without having to go beyond the city walls.65 Just as significantly, however, Hezekiah also receives credit for extending the area within the walled city by building a second wall.66
+
+12 Micah 7:12 can be read in two ways, as a promise or as a threat. The majority of commentators treat this verse as a promise for a return of exiled populations.67 When read as a continuation of 7:11, this verse makes sense as a promise to Zion to restore her population. In this scenario, the “he” who will come refers to an individuated member of the diaspora population, with the individual representing the whole. The you addressed in this verse is still the second-person feminine singular, and thus Lady Zion. In this light, the promise envisions a return from every direction: Assyria lies north and east; Egypt lies to the south; Tyre (if intended, see text note) sits on the Mediterranean coast north and west of Judah; the River refers to the Euphrates to the east; from sea to sea denotes the distant boundaries of the known world, or perhaps the ideal boundary of Israel to the east and the west; and mountain to mountain does the same for north and south. Further, if one assumes Mic 7:8–20 arose independently of the book as part of a worship liturgy for the postexilic community, then such an interpretation has much to offer. The problem with this interpretation, however, lies in the fact that it offers no explanation for 7:13 and the utter desolation it describes.
+
+When one reads 7:12 closely, however, the lack of clarity regarding the identity of he means that one must determine the motivation for this journey. The particular phrase come to (bôʾ + ʿad in Hebrew) can be used in the context of a military attack.68 The meaning of the phrase thus depends upon who is coming and why. When one reads 7:12 with 7:13, the reason for the arrival becomes clear (at least for the final form of the text). He comes not in some glorious return, but he will come to bring desolation to the land. This he refers not to former exiles returning from the diaspora, but to foreign kings and their armies who come to attack Jerusalem.
+
+13 Micah 7:13 unequivocally announces the future desolation of the land. For those interpreting 7:11–12 as an unadulterated promise, the jarring character of this verse poses problems. Consequently, many commentators ignore its interpretive significance or simply classify it as an isolated gloss.69 This rationale fails, however, to provide an adequate explanation of the verse’s content.70 A more satisfying interpretation of 7:13 comes from understanding 7:12 as a warning of the danger of foreign attack. The promise in 7:11 allows Lady Zion a reprieve, time to extend her walls before attacks from outside powers will come (7:12). The long-term effects of those attacks will result in desolation of the land (7:13a), and the rationale for sending this destruction rests with the consequences of the people’s actions (7:13b). The sequence of 7:11, 12, 13 poetically and prophetically describes what will happen to Jerusalem from the end of the eighth century to the beginning of the sixth century BCE. Jerusalem endures the siege of Sennacherib, but the autonomy of the Judean king becomes greatly restricted because the Assyrians destroy most of the cities in the Shephelah. Hezekiah’s successor, Manasseh, manages to stabilize the situation and rules for fifty-five years, though his political and religious accommodationist policies toward Assyria cause him to be condemned by the historian recounting the events of the seventh century BCE (2 Kgs 21). Manasseh’s grandson, Josiah, institutes theological and political reform that seeks to extend the power of Jerusalem’s monarch, but Egypt’s pharaoh kills him. Soon thereafter, Babylon defeats Egypt and gains control of the region, which leads to two unsuccessful rebellions by the Judean monarchs Jehoiakim and Zedekiah. The former was punished by the removal of a significant percentage of the leadership from Judah in 597, while the latter caused the destruction of the city and its temple in 587 BCE In the aftermath of that destruction, the surrounding kingdoms (including Tyre) took advantage of Judah’s weakened state and captured Judeans to sell as slaves. The postexilic author of 7:11–13 anticipates these events as though he were writing in the time of Micah. They describe long-term punishment, but not total annihilation for Zion and her people.
+
+
+
+
+
+3. The Prophet’s Intercession and Yahweh’s Response (7:14–15)
+
+
+The third subunit of 7:8–20 appears in the petition and response of 7:14–15. Whereas in the previous verses the prophet addressed Lady Zion with second-person feminine singular pronouns, the prophet petitions Yahweh in 7:14–15a using second-person masculine singular pronouns and verbs. A number of commentators emend 7:15b, but emendation hardly seems necessary if one can provide a satisfactory account for this statement.71 Treating 7:15b as Yahweh’s brief response to the prophet’s petition makes sense of the text as it stands.
+
+14 Micah 7:14 begins with a second-person masculine singular imperative, spoken by the prophet to Yahweh on behalf of Yahweh’s people. The motive for the petition comes from the pronouncement in 7:13 regarding the desolation of the land for their actions. In this sense, 7:13 hardly seems like an outlier. The petition assumes the metaphor of Yahweh as shepherd and the people as the flock. The ambiguity of 7:12 returns in 7:14 with this metaphor. As previously noted, Mic 7:8–20 contains an inordinately high number of lexical clusters that evoke images from Isa 10. One of those connections comes with the use of the word staff (šēbeṭ). The word appears in Isa 10:5 in a divine speech in which Yahweh announces he will use Assyria as the rod of his anger to punish Yahweh’s people. The shepherd’s staff has both defensive and offensive purposes. To be sure, the shepherd may use the staff to ward off predators, but the shepherd also uses the staff to prod wayward sheep back onto the path where the shepherd would have them go. Upon the first reading of this petition, it is not immediately clear how the prophet intends Yahweh’s staff to be used: as a corrective rod or as a defensive weapon. This double entendre recedes quickly into the background with the remainder of 7:14–15a, which equates the action that the prophet desires with Yahweh’s act bringing the people out of Egypt. Nevertheless, the threat of Yahweh’s corrective action does not completely disappear, since reference to the exodus event centers around a forty-year wandering in the wilderness necessitated, according to the narrative account of Num 14, by the disobedience and fear of the people. Postexilic readers would have understood the parallel between the wilderness wanderings and the Babylonian exile.
+
+15a The remainder of the petition offers an unusual scenario by describing the home of the flock with the terms Carmel, Bashan, and Gilead. Several things stand out about this unusual combination. First, all of these regions belong to the Northern Kingdom. Second, they all evoke connotations of lush, fertile land. Third, these regions all point to areas lost to Assyrian territorial expansions of the eighth century BCE.72 This understanding is articulated in Neh 9:32 where Ezra’s prayer petitions Yahweh to remove the punishment that has continued into the fifth century:
+
+Now therefore, our God—the great and mighty and awesome God, keeping covenant and steadfast love—do not treat lightly all the hardship that has come upon us, upon our kings, our officials, our priests, our prophets, our ancestors, and all your people, since the time of the kings of Assyria until today. (NRSV, emphasis added)
+
+Too often, modern scholarship assumes that the return from exile represented a dramatic shift in terms of the people coming home. In reality, changes were gradual and uneven. Sometimes, expectations were high that the community was on the verge of dramatic change (see Hag 2:20–23; Zech 1:15–17), but other texts indicate that restoration efforts would take place on a much smaller scale than many had hoped (see Ezra 3:10–13).
+
+15b Perhaps the most significant element in this unit appears in Mic 7:15b where, following the prophet’s intercession, Yahweh responds with a brief, yet powerful affirmation of his salvific intentions. I will show him signs. While a number of commentators and English versions opt to emend the text at this point due to the change of speaker, the rationale for doing so appears insufficient in light of the fact that changing speakers are characteristic of this text (which is why it is frequently called a prophetic liturgy).73 The word for signs refers often to miraculous deeds performed by God (e.g., Exod 3:20; 34:10; Josh 3:5; Jer 2:12; Pss 40:6; 72:18; 78:4; 86:10; 98:1; 106:22; 136:4; Job 5:9; 9:10).
+
+
+
+
+
+4. The People Respond to Yahweh (7:16–17)
+
+
+16 In Mic 7:16–17, the people’s speech responds to and interprets the divine response of 7:15b as judgment against the nations. Just as the nations showed great fear at Yahweh’s actions during the story of Israel’s taking of the land, so too will the nations cower in fear at the sight of Yahweh’s marvelous deeds here.74 The descriptions that follow in the remainder of 7:16–17 portray the nations with a number of images of terror and submission. First, the nations will see (Yahweh) and be ashamed of their own power, presumably because it pales in comparison to that of Yahweh. Next, the universal gesture of covering the mouth at the sight of something indicates great shock and fear. The statement that they will go deaf implies, perhaps, a loud sound accompanying the arrival of Yahweh.
+
+17 The images of 7:17 portray the utter submission of the nations to Yahweh’s power. To crawl on the ground like snakes and serpents extends a typical metaphor that portrays submission to a powerful conqueror. Rather than merely bowing in obeisance or even licking the dust (see Ps 72:9; Isa 49:23), the nations will essentially slither to face their conqueror. Additionally, Yahweh will take the battle to them. Rather than Judah responding to a war of aggression, 7:17 assumes that the nations are in their strongholds when Yahweh comes to them. They do not offer resistance but throw themselves upon the mercy of Yahweh.
+
+
+
+
+
+5. The People’s Hymn about Yahweh (7:18–20)
+
+
+The final unit, 7:18–20, constitutes a hymn wherein the theme changes from the overpowering of the nations (7:16–17) to the forgiveness of the people (7:18–20). The people remain the speaker in 7:19–20, as indicated by the first-person plural suffixes. One should thus assume they speak in 7:18 as well. The unit is not independent, but functions as a continuation of 7:16–17. The unit speaks to and about Yahweh, but the vacillation need not be a sign of multiple hands. The rhetorical question that begins the unit represents a response to the promise of Yahweh’s divine response: Who is a God like you, forgiving iniquity and passing over rebellion for the remnant of his possession? The message that continues the rhetorical question artistically takes up the language of Exod 34:6–7, another case of prophetic intercession in the Pentateuch and a text that expresses Yahweh’s compassionate and just nature. The artistic character of this passage includes evidence of scribal contemplation combined with the use of allusions and word plays in this last unit. It was likely composed to conclude the book of Micah in the postexilic period.
+
+In addition to the change of topic, these verses contain several allusions to other texts. At least three different foci for these allusions provide this subunit with a literary texture that brings the end of Micah into play with Exodus (specifically 34:6–7), Jonah (4:2), and the ancestral stories of Genesis. Micah 7:18 represents one of five texts that make use of Exod 34:6–7 in the Book of the Twelve (Joel 2:13; 4:21; Jonah 4:2; Mic 7:18–19; and Nah 1:3).75 Among these passages, Joel 2:13 and Mic 7:18–19 focus upon Yahweh’s compassion toward Yahweh’s people, while Joel 4:21 and Nah 1:3 emphasize Yahweh’s punishment of the guilty in Exod 34:7 and interpret the guilty as the nations who have taken advantage of Judah. Jonah 4:2 cites Yahweh’s predilection for mercy in Exod 34:6–7 as the reason why Jonah fled toward Tarshish. He could not bear the thought of Yahweh showing compassion to Assyria.
+
+18 The artistic nature of the conclusion to Micah extends beyond the use of allusions. Micah 7:18 begins with paronomasia on the name of the prophet. The rhetorical question (Who is a God like you?) constitutes a word play on Micah (which means, “Who is like Yahweh?”). The question is answered in the remainder of Mic 7:18, since the allusions to Exod 34:6–7 evoke the first self-declaration of Yahweh about the character of Yahweh in the Old Testament and continue the exodus analogy of Mic 7:15b, 16–17. In Exod 34:6–7, Yahweh describes his own character as a God of inexhaustible compassion and ultimate justice. Micah 7:18–20 draws upon the vocabulary of Exod 34:6 to describe Yahweh’s compassion.
+
+Mic 7:18–20
+
+Exod 34:6–7
+
+
+
+18Who is a God like you, forgiving iniquity and passing over rebellion for the remnant of his possession? He will not strengthen his anger forever, for he desires loving-kindness. 19He will again have compassion on us. He will subjugate our iniquities. And you will cast all their sins into the depths of the sea. 20And you will give truth to Jacob, loving-kindness to Abraham, that which you swore to our fathers from days of long ago.
+
+6The LORD passed before him, and proclaimed, The LORD, the LORD, a God compassionate and gracious, slow to anger, and abounding in loving-kindness and truth, 7keeping loving-kindness for the thousandth generation, forgiving iniquity and rebellion and sin, yet by no means clearing the guilty, but visiting the iniquity of the fathers upon the children and the children’s children, to the third and the fourth generation.
+
+
+
+The selection of Exod 34:6–7 is not random. This text represents the point in the Exodus narrative when Yahweh forgives and punishes the people after they have worshiped the golden calf. In the context of Micah, the parallels are clear. The prophet intercedes for the people (7:14–15a), and Yahweh responds (7:15b) with a promise of miraculous wonders, a word used most often in association with the liberation from Egypt. The fear of Yahweh’s power by the nations (7:16–17) also evokes exodus motifs. The allusion to Exod 34:6–7 highlights Yahweh’s compassion at the very point where the Israelites had reached their lowest—their abandonment of Yahweh to worship the golden calf while Moses was on Sinai. In the context of Micah, the last phrase of Mic 7:18 (he desires loving-kindness) echoes one of the three expectations of Yahweh articulated in Mic 6:8 (to love loving-kindness), helping 7:18–20 conclude Micah in the process. Functionally, these allusions underscore the compassionate character of Yahweh even while subtly reminding the people of Yahweh’s expectations of their own behavior.
+
+19 The two halves of 7:19 reiterate the message of 7:18, but in two different ways: by continuing the allusion to Exod 34:6–7 and by evoking Jonah 2:3(4). Micah 7:19a continues the speech of the people and alludes to Exod 34:6–7, while Mic 7:19b cites the language of Jonah’s thanksgiving hymn. The two lines of 7:19a speak of Yahweh’s restoration of the people. He will execute compassion and subjugate the iniquity of the people. The affirmation that Yahweh will restore the people again does two things simultaneously. First, it reflects the people’s reaction to the response of Yahweh in 7:15b as a reversal of the current situation. For Yahweh to show compassion again implies that the current situation does not reflect Yahweh’s compassion. In this sense, the phrase shows that the people have experienced, or perhaps better, accepted Yahweh’s pronouncement of judgment in the book. Second, again underscores Yahweh’s compassionate nature because it implies he has exercised his compassion previously. This line of thought continues with the final verse of the book where 7:20 references Yahweh’s compassion to Abraham and Jacob in the days of long ago. Yahweh’s compassion to the ancestors of the people precedes their delivery from bondage in Egypt.
+
+Micah 7:19b adds to the expression of Yahweh’s compassion by citing Jonah 2:3(4). A few commentators have classified portions of Mic 7:19 as secondary or see all of 7:18–20 as a late addition to the liturgy, but most of these arguments are too formalistic.76 At the same time, the location of 7:18–20 fits quite well as the hymnic conclusion to Micah.77 One suspicious element appears with the similarity of the language of Mic 7:19b to Jonah 2:3(4).78 In the broader context of the Book of the Twelve, the citation of Jonah 2:3(4) creates a link back to Jonah’s prayer and deliverance (2:2[3]) in the belly of the fish. This citation creates an analogy to what is happening in Mic 7:18–20 where the people respond to the deliverance announced by the prophet and Yahweh (7:16–17, 14–15 respectively). In all likelihood, this allusion was added to Mic 7:19 at the point that Jonah was incorporated into the Book of the Twelve.79 The focus on the punishment of the foreign nations in Mic 7:16–17 may have elicited this citation in Mic 7:19. Jonah portrays Yahweh’s compassion on foreigners, with Jonah 4:2 citing Exod 34:6–7 as proof of Yahweh’s compassion on the nations. Those tradents who added Jonah could well have been influenced by the theme of forgiveness and the connection with Exod 34:6–7 in Mic 7:18–20. They likely added this link back to Jonah’s profession of deliverance.80
+
+20 As noted above, 7:18–19 draws upon other texts to undergird the message of Yahweh’s compassion. Micah 7:20 extends this allusive character to include two of the main characters from Genesis: Jacob and Abraham. Micah 7:20 cites these two ancestors in reverse order of their arrangement in the canonical traditions. Unlike the allusions in 7:18–19, the references to Jacob and Abraham do not appear to allude to specific texts. Rather, by evoking the names Jacob and Abraham, a unique pairing in the Old Testament, this allusion operates on two levels. First, it refers to the ancestor traditions in Genesis as a whole, with these stories repeatedly narrating episodes that emphasize Yahweh’s own faithfulness and loving-kindness. At every turn in these stories, Yahweh’s hand protects these characters. Second, Jacob and Abraham serve as a cipher for all of Yahweh’s people. The stories of Jacob center around Bethel and the central part of the Northern Kingdom while the Abraham stories generally have a more southern orientation. The covenant between Yahweh and Yahweh’s people began with Abraham as he three times receives the covenant promise of land, progeny, and blessing to the nations (Gen 12; 15; 17), but only with Jacob’s fathering of twelve sons does the threat to Abraham’s progeny recede.
+
+In addition to the parallel of Jacob and Abraham, the gifts that Yahweh bestows to the people in Mic 7:20 also represent parallel concepts. Both ʾemet and ḥesed connote a sense of continuing fidelity. While some English translations (NASB, KJV, NKJV, CJB) translate ʾĕmet as “truth,” most use language related to faithfulness to avoid the connotation that this affirmation concerns dogma. The parallel usage of these two terms emphasizes their relational aspect; they portray consistent, true, kind, compassionate, and loving behavior. In this respect, the affirmation cuts two ways: as a reference to Yahweh’s ongoing fidelity and as a hope that Yahweh’s people will reciprocate. The allusions to the exodus and the ancestor narratives in the latter half of this chapter consistently evoke accounts of Yahweh’s compassion and fidelity toward Yahweh’s people. The prophetic confrontation of Yahweh’s people’s shortcomings throughout Micah has more than demonstrated their lack of ʾemet and ḥesed. Micah 7:8–20 assumes a people in desperate need of a reaffirmation of Yahweh’s continued benevolence. Yahweh has shown ʾemet and ḥesed, and 7:20 affirms he will continue to provide ʾemet and ḥesed to Jacob and Abraham’s descendants. At the same time, the verse pleads with Yahweh’s people to practice ʾemet and ḥesed, characteristics that have been in short supply for the people of Yahweh in Micah.
+
+The final phrase of Micah (that which you swore to our ancestors from days of long ago) reiterates the long-standing relationship of Yahweh to Yahweh’s people, but it also causes the attentive reader to recall the specific recurring promise given by Yahweh to Abraham, Isaac, and Jacob. This tradition of the promise of land for the descendants of Abraham extends across the generations of the ancestors. In addition to the three covenant promises in Gen 12, 15, 17, Yahweh’s oath to provide land for the descendants is recounted for Abraham (Gen 24:7), Isaac (Gen 26:3), Jacob (Gen 28:2–3), and Joseph (Gen 50:24). Additionally, it even serves as a motivating factor for Yahweh to respond to the Israelites in captivity in Egypt (Exod 2:24).
+
+EXCURSUS: MICAH 7 AND ITS EXTENDED CONTEXT
+
+These poetic images provide a powerful ending to Micah, but they do not end Micah’s role in the Book of the Twelve. When one reads Mic 7:8–20 in the context of the reign of Hezekiah, one encounters a dichotomy of the literary and the historical that is not easily resolved by reading Micah on its own.81 Literarily, whether reading Mic 7:8–20 against the backdrop of the siege of Sennacherib or reading the other accounts of this siege (2 Kgs 18–20; 2 Chr 32; Isa 36–39), one thing is clear: These literary accounts do not provide the full picture of the aftermath of the siege. To be sure, Jerusalem was spared, and Hezekiah remained on the throne, but the territory he controlled was greatly diminished.82 Hezekiah’s successor, Manasseh, ruled the country for fifty-five years with a very different political philosophy, one of accommodation to Assyrian hegemony, so that for much of the first three quarters of the seventh century BCE, there is little doubt that Judah functioned as a de facto vassal state to the Assyrian king. If read merely in isolation, the theological narratives and the hopeful conclusion to Micah leave a different impression. In the Book of the Twelve, however, Micah does not conclude the corpus. Rather, a series of connections invite the reader of the Twelve to see a close relationship between the sequence of Micah, Nahum, Habakkuk, and Zephaniah. Nahum celebrates the eventual downfall of Assyria in 612 BCE, but its opening theophanic hymn contains a number of catchwords back to Mic 7, and the core of the hymn provides a companion allusion to Exod 34:6–7 in Nah 1:3. Nahum’s allusion, however, focuses upon the message of 34:7 rather than 34:6. Exodus 34:7 affirms that while Yahweh’s compassion is long-suffering, Yahweh’s just character ultimately demands the punishment of the guilty. This idea opens Nah 1 before Nah 2–3 recounts Assyria’s punishment in graphic terms. The beginning of Habakkuk, however, complicates the story for Yahweh’s people. The situation at the beginning of Habakkuk (1:2–4) mirrors the same ethical problems that affected the country in Mic 6–7. In short, while the words of the people at the end of Mic 7 imply an expectation of changed behavior, nothing has changed when the focus shifts back to them in Hab 1:2–4. By the end of Habakkuk, the prophetic voice trembles (3:16) with the knowledge that punishment is indeed coming, this time from the Babylonians (Hab 1:5–12). Habakkuk 3:18 affirms that a remnant will survive, and even uses the language of Mic 7:7 to express this hopeful conviction: “I will wait for/exult in the God of my salvation.” The message of Zephaniah affirms that Jerusalem and Judah must be destroyed before a remnant can be gathered. The final promise of Zeph 3:19–20 reaches back to Mic 4:6–7 to establish the prediction and fulfilment motif for this remnant.83 In a very real sense, the message of Micah continues to play out in the Book of the Twelve.
+
+
+
+
+
+1. Nogalski, Literary Precursors, 141–44; Jeremias, 191–92; Kessler, 276–77. Other scholars date at least portions of 6:1–8, 9–15 as stemming from the time of the siege of Sennacherib (Weiser, 279, 283; Sweeney, 2:400).
+
+2. Jeremias, 196–99.
+
+3. Jeremias, 132, 211; Wöhrle, Die frühen Sammlungen, 171–77; Schart, Die Entstehung, 199, 218.
+
+4. See the discussion of the growth of the book of Micah in the introduction.
+
+5. March, “Prophecy,” 166; Mays, 129.
+
+6. Wöhrle goes against the grain at this point by treating 6:1 (along with 5:15[14]) not as an introduction, but as the conclusion to Mic 1–5. He sees the use of ʿēt as definitively marking the one against whom the trial is set to begin. He treats the mountains and the hills as a means of referring to the nations (Wöhrle, Die frühen Sammlungen, 171–72). Creative though it may be, this interpretation seems to rest more upon the need to separate 6:1 from 6:2 than upon clear literary decisions. The Höraufruf (“call to attention”) is generally an introductory formula, not a concluding formula, and the assignation of mountains and hills as a means of referring to the nations is not convincing.
+
+7. Schart, Die Entstehung, 186–88.
+
+8. Schart, Die Entstehung, 191; Wöhrle, Die frühen Sammlungen, 174–77; see Wolff, 167, 171. Wolff astutely refers to the larger unit having the characteristics of Deuteronomistic paranesis. Wolff actually limits his remarks to 6:1–8, but they readily fit 6:9–16 as well.
+
+9. In addition to the lawsuit, cosmic entities may also be addressed in vassal treaties (e.g., Deut 30:19), recountings of deliverance (e.g., Isa 44:23; 49:13), and theophanies (e.g., Mic 1:2–3; Nah 1:5; Hab 3:6). Their primary purpose is to provide a solemn witness to the importance of the proceedings.
+
+10. Concerning the exilic date for Mic 6:1–16, see the discussion of 6:1 above.
+
+11. See Henri Cazelles, “פִּדיוֹן‎, ‏פְּדוּת‎, פָּדָה,” TDOT 11:483–90.
+
+12. Neither Aaron nor Miriam appears frequently outside the Pentateuch. Aaron and Miriam appear only here in the Latter Prophets. Aaron appears outside the Pentateuch more than forty times, overwhelmingly in Psalms, Chronicles, Ezra, and Nehemiah. Miriam appears in only three places outside the Pentateuch, here and in two genealogical texts in Chronicles (1 Chr 4:17; 6:3).
+
+13. Mays, 139; Wolff, 177–79; Sweeney, 2:399. The plaintiff, as Wolff notes, becomes increasingly desperate.
+
+14. Kessler, 266–67. By the end of the final question in 6:7 even Wolff (178) notes that, in spite of the priestly terminology he uses, it “raises the issue here whether the teacher who formulates the question in this way intends to make a caricature of what is becoming more and more nonsensical.”
+
+15. Hyman interprets the prophet’s role in the lawsuit as that of the judge. Ronald T. Hyman, “Questions and Response in Micah 6:6–8,” JBQ 33 (2005): 161–62. While possible, Yahweh usually takes the role of judge and prosecutor in lawsuits.
+
+16. Justice in this text means to act in harmony with Yahweh’s expectations for world order. See Johnson, “‏מִשׁפָט‎,” 86–98. The word derives from the root meaning “to judge” and has a wide range of meanings that can connote the action of justice/judgment, the place where the act is conducted, the result of the action, and the means by which the action is controlled. As such, different English words can be used: a legal statute, a verdict, justice, judgment, custom.
+
+17. See Hans-Jürgen Zobel, “חֶסֶד,” TDOT 5:44–64, esp. 51–54.
+
+18. See Helmer Ringgren, “צנע,” TDOT 12:420–21. Based upon the context of Prov 11:2, Ringgren suggests the meaning of discreet, cautious behavior toward Yahweh in order to avoid the appearance of presumption toward God. At Qumran, texts citing Mic 6:8 extend this same behavior to the realm of human-to-human interactions (see the citation in 1QS 4:5–6 and the allusion to Mic 6:8 in 1QS 8:2).
+
+19. See Schart, Die Entstehung, 177–200. Schart lays out several points of contact, and his treatment of Mic 6:2–8 (191–97) includes connections to Mic 3:1, 8, 9; Hos 6:6; 12:6; as well as Amos 5:7, 24; 6:12. Schart concludes that Mic 6:8 is formulated to express the prophetic summation of Yahweh’s expectations for Hosea, Amos, and Micah. Werse evaluates 6:8 differently, arguing that the thematics of the verse reflect broad concerns found in too many Hebrew Bible texts to claim a redactional relationship elicited the formulation (Werse, Reconsidering the Book of the Four, 243–49). At the same time, Werse strengthens the arguments that the next unit of Mic 6:9–16 creates a more meaningful bridge to Zeph 1:1–2:3, which at the very least makes the placement of Mic 6:6–8 at this juncture in the book meaningful as a summary of Yahweh’s expectation and a transition to further accusations.
+
+20. Kessler, 276; cf. Schart, Die Entstehung, 218.
+
+21. Wöhrle also deals with multiple hands in ch. 6, but he sees 6:2–4a and 6:9–14 as the core while 6:4b–5, 15 and 6:6–8 represent isolated additions (Wöhrle, Die frühen Sammlungen, 174–75, 177).
+
+22. The third-person feminine singular suffix—unless emended—on the end of yəʿādāh must either refer back to the feminine noun sound wisdom or city, but both are part of 6:9a. The LXX interprets the suffix as a reference to city, which probably makes the best sense of the verb.
+
+23. Kessler, 79.
+
+24. For Schart the compositionally important passages are critical. Micah 6:9–16 at one point concluded Micah; Amos 8:4–8 appears just after the fourth vision announces the end is near; and Hos 12 appears at the end of the Deuteronomistic editing of the Hosea corpus (Schart, Die Entstehung, 199).
+
+25. See, e.g., the scholarly discussions in Mays, 143; Smith, 53; Allen, 375; Jeremias, 205.
+
+26. Sweeney, 2:401.
+
+27. See Albertz, History of Israelite Religion, 180–86.
+
+28. The significance of these verses does not mean that scholars have agreed on common terminology or on the means by which they entered the text. Still, these verses stand out for their particularity. See Schart, Die Entstehung, 177–83, 201–4; Wöhrle, Die frühen Sammlungen, 139–46; Nogalski, Literary Precursors, 137–44; Werse, Reconsidering the Book of the Four, 175–220.
+
+29. Specifically, the language comes closest to that of Deut 28:30–31, 38–41. This curse appears in a series of texts in the Twelve, specifically within the Book of the Four: Amos 5:11; Hos 4:10; Mic 6:14–15; and Zeph 1:13.
+
+30. E.g., Sweeney (2:402–3) treats ch. 6 as the product of Micah who was a refugee in Jerusalem, fleeing from the attacks of Sennacherib, while others treat the verses as words to the exilic community following 587 (e.g., Mays, 145).
+
+31. Assuming that Mic 6–7 was intended to be read as though from the time of Hezekiah’s reign, and anticipating the siege of Sennacherib in 701 BCE, Nahum’s focus upon the downfall of Nineveh in 612 BCE creates a chronological gap of almost ninety years.
+
+32. Miller and Hayes, History of Ancient Israel and Judah, 284–97. The obelisk commemorates victories of the Assyrian king from as late as 838, while Omri died at least three decades earlier (Miller and Hayes, 292).
+
+33. See Wolff, 201.
+
+34. Michael DeRoche, “The Reversal of Creation in Hosea,” VT 31 (1981): 408–9, DOI: 10.1163/156853381X00316. DeRoche argues that rîb refers to a quarrel between two parties that they can choose to resolve on their own or a more formal complaint that is taken to a judge.
+
+35. Contra Johannes C. de Moor, “Micah 7:1–13: The Lament of a Disillusioned Prophet,” in Studies in Scriptural Unit Division, ed. Marjo Korpel and Josef M. Oesch, Pericope 3 (Assen: Van Gorcum, 2000), 166–71. De Moor attempts to extend the prophetic speaker all the way to 7:13. See the rationale for rejecting these arguments in the discussion of 7:8 below.
+
+36. The typical pattern of the complaint (German, Klage) includes a plea for divine action in some form. See Eberhard S. Gerstenberger, “Psalms,” in Hayes, Old Testament Form Criticism, 200.
+
+37. While most recognize a relationship of some type, they express the type of relationship quite differently. Cf. Mays, 150; Rudolph, 123; Bo Reicke, “Liturgical Traditions in Micah 7,” HTR 60 (1967): 352, 354, 366; John T. Willis, “The Structure of the Book of Micah,” SEÅ 34 (1969): 29, 35–36; Jeremias, 213–14; Wolff, 203; Wöhrle, Die frühen Sammlungen, 177–80. E.g., Jeremias (213) makes the case that 7:1–7 relates closely to Mic 3:1–12 as an actualizing exposition of that chapter. Willis, by contrast, argues that these verses stem from the prophet himself. Wöhrle takes a different stance, associating the first-person singular style of the prophetic speaker in 7:1–7 with similar speeches in Mic 1–3. For him Mic 7:1–7 belongs to the early core of the Micah collection, predating the rest of the material in chs. 4–7.
+
+38. Hermann Gunkel, “Der Micha-Schluss: Zur Einführung in die literaturgeschichtliche Arbeit am AT,” ZS 2 (1924): 145–78; Reicke, “Liturgical Traditions in Micah 7,” 349–67. Several others argue that a core composition was expanded so that 7:8–20 comes from more than one hand. Wolff (215), e.g., argues that only 7:11–13 comes from a later hand. By contrast, Wöhrle sees 7:8–20 as the result of five redactional layers (Wöhrle, Die frühen Sammlungen, 180–88; see also his summary chart, 197). These suggestions problematically assume too quickly that the variations in expression require separate compositional hands. The approach taken here treats the changes in speaker as responses to the preceding issues, without imposing such fine theological distinctions in this instance.
+
+39. See discussion in Jeremias, 215; Wolff, 203; Mays, 151; Rudolph, 123.
+
+40. See Wolff, 204–5.
+
+41. So, e.g., Wolff, 201.
+
+42. See Mays, 150.
+
+43. See Kessler, 287–90.
+
+44. A number of commentators have suggested that 7:4b, or portions thereof, represents a later, isolated gloss, because it changes topics so abruptly from the preceding. See Wolff, 202; Jeremias, 216.
+
+45. The day of Yahweh is a recurring theme in the Book of the Twelve, and it can be elicited without specifying the name Yahweh. See Rolf Rendtorff, “How to Read the Book of the Twelve as a Theological Unity,” in Nogalski and Sweeney, Reading and Hearing the Book of the Twelve, 75–87; and Nogalski, “The Day(s) of YHWH,” 192–213; Nogalski, “Recurring Themes in the Book of the Twelve,” 125–36.
+
+46. Gillis Gerleman, “Der Nicht-Mensch: Erwägungen zur Hebräischen Wurzel NBL,” VT 24 (1974): 149–50, DOI: 10.1163/156853374X00044.
+
+47. James D. Nogalski, “Micah 7:8–20,” in The Bible as a Human Witness to Divine Revelation: Hearing the Word of God through Historically Dissimilar Traditions, ed. Randall Heskett and Brian P. Irwin, LHBOTS 469 (New York: T&T Clark, 2010), 125–42.
+
+48. Of course, reference to Hezekiah’s payment comes closer to the beginning of the Kings account than to the end of the story, which leaves open the possibility of when such payment was made. Nevertheless, assuming that Hezekiah did pay tribute to Sennacherib, it also makes sense that this payment would not have been publicly acknowledged by Hezekiah, so that if the payment was indeed made to procure Sennacherib’s departure, to the majority of the population the retreat of the Assyrian army would have indeed seemed miraculous. See the discussion in Miller and Hayes, History of Israel and Judah, 400–403; and Albertz, History of Israelite Religion, 162.
+
+49. The precise phrase ʾlōhê yišʿî elsewhere appears only in Pss 18:46; 25:5; 27:9 (see also the similar phrases in 51:14 and 81:1).
+
+50. For a more thorough treatment of the narrative arc running from the end of Micah through Habakkuk, see James D. Nogalski, “One Book and Twelve Books: The Nature of the Redactional Work and the Implications of Cultic Source Material in the Book of the Twelve,” in Ben Zvi, Nogalski, and Römer, Two Sides of the Coin, 30–39.
+
+51. Gunkel, “Der Micha-Schluss,” 145–78. See also Reicke, “Liturgical Traditions in Micah 7,” 349–67.
+
+52. Nogalski, “Micah 7:8–20,” 125–42; Sweeney, 2:408–9. In a different way, Jeremias (219, 221) treats 7:8–20 with regard to the book of Micah’s thematic blocks but sees the audience as the postexilic community. Regardless of whether one considers 7:8–20 to have been compiled for the end of Micah originally, or whether one believes an independent liturgy was simply placed at the end of the book, one almost certainly has to conclude that the enemy in 7:8–10 should be interpreted as Assyria (or more specifically, Lady Nineveh). If 7:8–20 existed prior to being attached to Micah, the editor who appended it likely considered it appropriate to conclude the collection named for Micah, a prophet at the end of the eighth century.
+
+53. De Moor, “Micah 7:1–13,” 149–96.
+
+54. De Moor attempts to read 7:8–13 as a continuation of the prophetic speaker (de Moor, “Micah 7:1–13,” 167–69). He is followed by Wöhrle, Die frühen Sammlungen, 181–82. The majority of his evidence hinges upon treating instances of reception history as evidence for a primary reading. He finds more than thirty medieval manuscripts that interpret the feminine singular suffix in 7:10 as masculine singular. Naturally, in unpointed texts, the two would look identical, and one could treat the changing speakers more simply if the pronoun was masculine rather than feminine. The problem comes when trying to explain how the feminine pointing would have arisen. He essentially assigns the change to a first-century CE misogynistic interpreter who considered it better to change the prophet’s gender here than to have the prophet speak a prediction that did not come to pass. Such reasoning is difficult to comprehend. More likely, the more difficult feminine pointing represents the original reading.
+
+55. One must infer the identity of the woman speaking to her enemy from the context and from the constellation of available speakers in prophetic texts in general. The next subunit (7:11–13) addresses the woman who speaks in 7:8–10, meaning the speaker has changed beginning with 7:11. The use of various motifs in 7:11 (esp. the building of your [second-person feminine singular] walls) make clear contextually that the woman being addressed is Jerusalem personified, or Lady Zion (see the treatment of Lady Zion in the commentary to Mic 4:8–13).
+
+56. See the discussion in Nogalski, “Micah 7:8–20,” 126–29.
+
+57. Nogalski, “One Book and Twelve Books,” 30–39.
+
+58. See esp. Fitzgerald, “Mythological Background,” 403–16. Fitzgerald demonstrates how this imagery conveys royal connotations as the queen who is responsible for her city.
+
+59. See the discussions in Miller and Hayes, History of Israel and Judah, 202–3, 454–60; Albertz, History of Israelite Religion, 203; and Knoppers, Jews and Samaritans, 62–64, 67–69.
+
+60. See Nogalski, “One Book and Twelve Books,” 30–39.
+
+61. Wolff, 224–25; Jeremias, 225–26; Mays, 162. Andersen and Freedman (587) are a bit more cautious, opting to keep open the option of a diaspora migration (as in Mic 4:8) or a “messianic hero” (based upon Mic 5:3b).
+
+62. See translation note.
+
+63. See the discussion of related issues in Nogalski, Book of the Twelve, 738–39.
+
+64. Nogalski, Literary Precursors, 155–65.
+
+65. Second Chronicles 32:30; Sir 48:17. See Miller and Hayes, History of Israel and Judah, 408–9 (including the text of the Siloam Inscription), 412.
+
+66. See 2 Chr 32:5. See the discussion in Nogalski, Literary Precursors, 166–67. For discussions about the extension of the wall, see Miller and Hayes, History of Israel and Judah, 412.
+
+67. Wolff, 224–25; Jeremias, 225–26; Mays, 162; Rudolph, 132–33. By way of contrast, see Wöhrle, Die frühen Sammlungen, 131–33. Wöhrle correctly sees the phrase as an enemy attack, but he thinks that the second-person feminine singular suffixes in 7:11–12 are directed against the enemy addressed in 7:8–10.
+
+68. See Judg 9:52. Note also that Samson “comes to” Lehi and then proceeds to kill one thousand Philistines (Judg 15:14).
+
+69. See Wolff, 225; Mays; Jeremias, 131. If it does represent an isolated gloss, it suggests that someone read 7:12 as a threat rather than a promise.
+
+70. Wolff (225) sees the verse as a juxtaposition, inserted to expand the enemy in 7:8, 10, perhaps in light of Isa 24:1–6. Andersen and Freedman (588) treat the verse as “transitional” and an “interlude.” They recognize, however, that the verse “does not seem to fit either the triumphal tone of vv 11–12 or the reconstructive tone of vv 14–17.” It is not clear, however, how 7:13 functions as a transition when it lacks a clear connection to that which precedes or follows it. See Wöhrle, Die frühen Sammlungen, 181–86; and Utzschneider, 165. Wöhrle correctly interprets 7:11–13 as a threat from the foreign nations, though his insistence on assigning 7:10b–13 to a separate redactional layer (one of five in this passage) rather than the surrounding verses is not convincing. Utzschneider also argues that 7:13 refers to the enemy in 7:8–10, and that this statement is not about universal destruction but actually fits with the general theme of Micah, as evidenced by the condemnation of Samaria (1:7) and the city (6:13) with similar language.
+
+71. See the text notes; Mays, 163.
+
+72. Nogalski, Literary Precursors, 158–64.
+
+73. See discussion in text note.
+
+74. The fear of the nations motif plays a recurring role in the story of the lead-up to the entry into the land. See Exod 9:30; Num 22:3; Deut 2:25; 3:2, 22; 31:6; Josh 2:9, 24; 4:24.
+
+75. See Nogalski, Books of Joel, Obadiah, and Jonah, 122–24, 178, 380–84. Read the commentary to Joel 2:13; 4:21; and Jonah 4:2 regarding the importance of Exod 34:6–7 for the Book of the Twelve.
+
+76. According to Wolff (216–17), Bernhard Stade, Wilhelm Nowack, and Karl Marti represent classic examples from the nineteenth and early twentieth centuries of those isolating multiple sources, as they separate the stylistic changes of the second- and third-person references to Yahweh. Wolff (217) himself agrees with those who believe that such vacillation typifies liturgical forms.
+
+77. See Wolff, 230–31; Rudolph, 135–36.
+
+78. Ironically, both Wolff (230) and Rudolph (135) consider 7:19 the most original portion of the hymn, since traditional idioms comprise most of 7:18–19. Others have noted that the language of Mic 7:19b and Jonah 2:3(4) are quite similar to one another, which could explain 7:19b as an insertion. See Nogalski, Literary Precursors, 153; Nogalski, Book of the Twelve, 592. See also Wöhrle, Die frühen Sammlungen, 187–88, 196–97. He sees the entire hymnic conclusion (7:18–20) as a later addition associated with his so-called grace layer (see the introduction to the Book of the Twelve in this commentary).
+
+79. The linking of adjacent writings in the Book of the Twelve through the use of citations is not unique. A similar phenomenon occurs between Joel and Amos, where Joel 4:16 cites Amos 1:2 and Joel 4:18 cites Amos 9:13. These two citations mean that Joel 4:16–18 essentially alludes to the beginning and end of Amos (1:2; 9:13). Genetically, Amos 9:13 was probably added to cement the link back to Joel 4:18 because the Joel language in Amos 9:13 is literarily suspect compared to its context (Nogalski, Literary Precursors, 116–21).
+
+80. See Jeremias, 230.
+
+81. For a more extensive description of the following literary dynamics see Nogalski, Literary Precursors, 155–70; Nogalski, An Introduction to the Hebrew Prophets (Nashville: Abingdon, 2018), 121–29; and the introduction to the unity of Micah in the present commentary, pp. 12–18 above.
+
+82. Miller and Hayes, History of Israel and Judah, 410–21.
+
+83. See Nogalski, Literary Precursors, 209–11; Nogalski, Book of the Twelve, 519, 558, 703–4.
+
+
+
+
+

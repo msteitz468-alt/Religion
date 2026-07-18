@@ -4,7 +4,7 @@ text_locus: 2 Peter 1:1 ("Simeon Peter"); 1:12–18 (testamentary section; trans
 positions: [authentic-petrine (Green, Moo, Schreiner), pseudonymous-testament (Bauckham), pseudonymous-early-catholicism (Käsemann), amanuensis/secretary]
 traditions_involved: [traditional/confessional evangelical, modern historical-critical]
 resolution_status: open
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, authorship, pseudonymity, testament-genre]
 ---
 
@@ -14,7 +14,7 @@ Of all the New Testament writings, 2 Peter's authenticity is the most widely rej
 As Bauckham put it, "the pseudepigraphical character of the work [has] come to be almost universally
 recognized." The letter claims to be the apostle Peter's (1:1) and his testamentary last word
 (1:12–15), but most critical scholars date it pseudonymously to c. AD 80–150. [[gene-green|Gene L.
-Green]] (BECNT, 2008) defends authentic **Petrine authorship** — a minority view he shares with Moo,
+Green]] (BECNT, 2008; [[green-jude-2peter-becnt|source page]], fidelity re-ingest 2026-07-18) defends authentic **Petrine authorship** — a minority view he shares with Moo,
 Schreiner, and others — arguing that none of the standard arguments for pseudonymity is decisive.
 This page records the debate; Green's position is one among several.
 
@@ -44,8 +44,7 @@ authentic personal allusions woven into the argument.
    features — no deathbed scene, no account of death/burial, no apocalyptic dreams/visions, no
    blessings and curses. It merely *includes* a testamentary **section** (1:12–15), exactly as
    non-testamentary works do (Paul's farewell in Acts 20:17–38; 2 Tim. 4:1–18; Tob. 14; 1 En. 91).
-   The inclusion of a farewell passage does not convert a letter into a "testament," so this
-   linchpin argument against authenticity fails.
+   Body exposition (≈L2705): “Although this section is surely testamentary since it predicts the forthcoming death of the author and gives moral instruction in light of his demise, we should not thereby conclude that this letter can be classified as a ‘testament’… Major elements of the testamentary genre are lacking while the document before us has all the salient features of an ancient letter.” So the linchpin argument against authenticity fails.
 
 3. **The opponents are second-century gnostics.** This pillar (Käsemann, Kümmel) required a late date.
    *Green's reply*: the opponents are *not* gnostic — no spirit/matter dualism, no salvation-by-*gnōsis*,

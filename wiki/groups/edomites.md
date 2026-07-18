@@ -5,7 +5,7 @@ tradition: Judaism (ANE); kinship-and-enmity motif with Israel
 textual_sources: [Genesis (Esau), Numbers, Obadiah, Lamentations 4, Ezekiel 25/35, Psalm 137; Assyrian and Babylonian records; Ezra-Nehemiah (Idumea)]
 periods_active: Iron Age (settled Edom from c. 13th–12th c. BCE) through the Persian period; Idumea into Greco-Roman times
 roles_significance: [Transjordanian/Negeb neighbor and "brother-enemy" of Judah; betrayer at Jerusalem's fall (586 BCE); later Idumea south of Judah; ancestral home of Herod]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-18
 tags: [group, ancient-near-east, iron-age, transjordan, edom, idumea, judah, kabbalah]
 ---
@@ -93,6 +93,31 @@ Other Side. This is the mystical culmination of the "Edom = oppressive empire" t
 Related: [[israelites]], [[idumeans]], [[herod-the-great]], [[midianites]], [[obadiah]],
 [[lamentations]], [[jacob]], [[esau]], [[isaac]], [[sitra-ahra]], [[zohar]],
 [[babylonians]], [[jerusalem]].
+
+## Malachi 1:2–5: Edom's Ruin as the Demonstration of God's Love (Verhoef, NICOT — 2026-07-18)
+
+*Attributed to [[pieter-verhoef|Verhoef]], [[verhoef-haggai-malachi|*The Books of Haggai and
+Malachi* (NICOT)]].*
+
+[[malachi|Malachi]] opens by demonstrating God's covenant love for [[israelites|Israel]]
+through the contrasting fate of Edom: "Jacob I loved, but Esau I hated... I have turned his
+mountains into a wasteland" (1:2–3). Verhoef's readings:
+
+- **"Esau I hated" is not eternal reprobation.** Verhoef **rejects the predestinarian
+  reading** (against Calvin); the love/hate contrast is defined by the history of salvation,
+  not eternal destinies. "Hate" means "differentiation and disavowal" — [[esau|Esau]]/Edom
+  drawn to the fringe rather than into the holy lineage — and Edom remains within the scope
+  of redemptive purpose (Gen. 12:1–3). Paul cites the text at Rom. 9:13.
+- **Edom's ruin — the Nabatean invasion.** Among three historical options (Chaldean
+  subjugation after 587; Persian–Egyptian wars; Nabatean invasion), Verhoef **prefers the
+  Nabatean occupation**, under which the Edomites gradually vacated their territory from the
+  5th century on. He stresses (with Obad. 10–16; Ezek. 25:12; Ps. 137:7; Lam. 4:21) that
+  Edom was *not* co-devastated with Judah in 587 but rather gloated over Jerusalem's fall
+  and expanded northward.
+- **"The Wicked Country."** Edom is named "the Wicked Country, A People Always under the
+  Wrath of the Lord" (1:4) — a permanent enemy alongside Moab, Babel, and Egypt; Verhoef
+  notes that in later Jewish literature (1QM) **Edom = symbol of the enemy of God**,
+  anticipating the "Edom = Rome/oppressive empire" trope developed above.
 
 ## Isaiah 34 (Oswalt, NICOT — 2026-07-18 ingest)
 

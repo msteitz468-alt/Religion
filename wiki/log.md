@@ -5294,3 +5294,529 @@ Pages created: 1 (sources/france-mark-nigtc). Pages updated: 31 — mark, mark-e
 **Validation:** `python3 Scripts/lint_wiki.py` — 241 broken links before and after; **0 new**. All 10 new pages carry inbound links (4–12 each); no orphans. Raw file already filed at `raw/commentaries/biblical/old-testament/`; no relocation needed.
 
 **Hub decision:** a `hubs/texts/` page for Job was considered and deliberately not built — two sources on Job, and the load is carried by the text page plus four controversy pages without strain. Recorded on the source page.
+
+## 2026-07-18 reingest | Weima, Jeffrey A. D. *1–2 Thessalonians*. BECNT. Baker Academic, 2014
+
+**Type:** standards reingest (fidelity) of evangelical commentary first-pass ingested 2026-06-06 under pre–Scope-and-Fidelity standards (**no source page**, no coverage ledger). Explicit user request to re-ingest 1–2 Thessalonians.
+
+**Source:** `raw/commentaries/biblical/new-testament/1-2 Thessalonians (BECNT) - Jeffrey A. D. Weima.txt` (20,694 lines / ~387k words total; body ~347k words in scoped ranges).
+
+**Declared scope:** Series + Author Prefaces; Introduction; full verse-by-verse exposition of 1–2 Thessalonians including Excursuses 1–3; collected Notes. Excluded: Abbreviations tables; Works Cited; Indexes of Subjects/Authors/Greek Words/Scripture (lines 6555–19548).
+
+**Integrity:** word density healthy for a ~700pp BECNT volume; body exposition continuous 1130–6554; no conversion truncation detected.
+
+**Extraction:** ten digests R0–R9 (~394 grounded claims). Parallel extractors (digests only; two-stage). Zero range recoveries. Cache: `.cache/weima-thessalonians-reingest-2026-07-18/`.
+
+**Integration:** exclusive-page integrators for texts (1 Thess; 2 Thess), commentator, three controversies, and light reciprocal figures/concepts; main-thread source page + bookkeeping.
+
+**Pages created (1):** [[weima-1-2-thessalonians-becnt]]
+
+**Pages extended (12):** [[1-thessalonians]], [[2-thessalonians]], [[jeffrey-weima]], [[2-thessalonians-authorship]], [[restrainer-2-thess-2]], [[parousia-1-thess-4]], [[paul-apostle]], [[silas]], [[timothy]], [[principalities-powers]], [[apocalyptic-literature]], [[eschatological-temple]]
+
+**Key densifications:** Weima epistolary-literary method; city/imperial/Cabirus background; 1 Thess 2:13–16 interpolation four arguments; *apantēsis* formal reception vs secret rapture; “peace and security” imperial slogan; 2 Thess authorship (Foster 63/13/35; temple pre-70; 3:17 authority); restrainer = Michael (Daniel 10–12) whispered; *ataktoi* discipline.
+
+**Validation:** lint red-link count checked vs pre-ingest baseline (248).
+
+**Bookkeeping:** index + sources-ingested ✅; raw already under `raw/commentaries/biblical/new-testament/`. Digests: `.cache/weima-thessalonians-reingest-2026-07-18/`.
+
+## 2026-07-18 ingest | Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007. — full fidelity re-ingest
+
+**Scope:** the complete commentary body — Introduction to Acts + verse-by-verse exposition of Acts 1:1–28:31 + Additional Notes + the collected endnotes (raw lines 991–8036 and 30079–30906). Works Cited and the four indexes (8037–~30078) excluded as apparatus. Read in full. Supersedes the thin 2026-06-04 pass, which created no source page and no coverage ledger.
+
+**Method:** 8 disjoint body extractors + 1 endnotes extractor writing verbatim-anchored digests; 4 seam-recovery extractors for pericopes orphaned at slice boundaries where the dense body (long unwrapped paragraphs) and the ebook's repeated outline headers shifted content into unextracted slice tails — recovered ranges: Acts 3:1–4:31 (lame man / Portico sermon / Sanhedrin / believers' prayer), the Stephen cycle 6:8–8:1a, the first journey 13:1–14:28, the second journey 15:36–18:23. Integration by 6 page-owning integrators + main thread (hub pages, source page, taxonomy, canon).
+
+**Source page:** [[bock-acts-becnt]] (with Section Plan, coverage ledger, volume synthesis).
+
+**Pages created (30):** figures [[stephen]], [[gamaliel]], [[ananias-and-sapphira]], [[cornelius]], [[philip-the-evangelist]], [[ethiopian-eunuch]], [[agabus]], [[herod-agrippa-i]], [[james-son-of-zebedee]], [[john-mark]], [[apollos]], [[lydia]], [[felix]], [[festus]], [[herod-agrippa-ii]]; locations [[damascus]], [[caesarea]], [[pisidian-antioch]], [[ephesus]], [[athens]], [[corinth]], [[philippi]]; concepts [[pentecost]], [[glossolalia]], [[god-fearers]], [[jerusalem-council]], [[the-way]], [[speeches-in-acts]]; groups [[hellenists]], [[sanhedrin]].
+
+**Pages extended (26):** [[acts]] (added Textual/Manuscript Tradition, Canon and Reception, Scholarship and Historiography), [[darrell-bock]], [[acts-paul-tensions]] (Vielhauer's four inconsistencies; Timothy/Titus); concepts [[holy-spirit]], [[resurrection]], [[circumcision]], [[justification]], [[natural-theology]], [[luke-acts-unity]]; locations [[jerusalem]], [[antioch]], [[rome]], [[samaria]]; figures [[peter-apostle]], [[paul-apostle]], [[barnabas]], [[silas]], [[timothy]], [[titus]], [[james-the-just]], [[theophilus]], [[simon-magus]]; groups [[pharisees]], [[sadducees]], [[samaritans]], [[gentiles]].
+
+**Validation:** lint clean — 0 new broken links vs pre-ingest baseline (271 broken-link bullets / 276 target slugs); net count decreased (263 / 268) as new pages resolved previously-dangling links. Raw already filed under `raw/commentaries/biblical/new-testament/`.
+
+## [2026-07-18] ingest | Schreiner, Thomas R. *Romans*. BECNT. Baker Academic, 1998 (fidelity re-ingest)
+
+**Scope:** the full commentary body — Introduction to Romans + all eight sections (Rom 1:1–16:27), raw lines 994–7282 (~320k words). Read in order via eight disjoint line-range extractors (two-stage: digests → main-thread integration). Works Cited, the four indexes, and the endnote block (raw 7283–24594) excluded as apparatus. Read in full.
+
+**Why re-ingest:** the original 2026-06-05 ingest created text/commentator/concept/controversy pages but **no source page**, no coverage ledger, and read as summary-level (pre–Scope-and-Fidelity). Per Step 0 that is a fidelity defect warranting a genuine re-read. Confirmed a real content error: the earlier ingest filed Schreiner flatly with the Reformed "regenerate believer" reading of Rom 7:14–25, whereas he follows Seifrid in denying the passage turns on the regenerate/unregenerate question (the crux is the law's inability to transform; the "I" is paradigmatic Paul). Corrected.
+
+**Pages created (1):** [[schreiner-romans-becnt]] (source page, with scope plan + coverage ledger + volume synthesis).
+
+**Pages extended (10):** [[romans]] (new Textual/Manuscript Tradition + Hermeneutical Frameworks sections; fourteen-chapter Marcionite recension; doxology placement; cruxes 9:5 and 10:4; Rom 7 crux fixed), [[thomas-schreiner]] (Rom 7 correction + positions 8–12), [[romans-7-identity]] (position 2b Seifrid/Schreiner; reclassified), [[righteousness-of-god]] (saving/judging righteousness; Kümmel–Anselmic 3:25–26 debate), [[all-israel-saved]] (end-time-generation / "life from the dead" resurrection; olive-tree ≠ ethnic Israel; anti-Sonderweg), [[new-perspective-on-paul]] (Qumran/4QMMT erga nomou; legalism concession; Rom 4 polemic), [[atonement]] (Pauline propitiation / hilastērion 3:25; Dodd vs Morris), [[predestination]] (Pauline Rom 8–11 substratum; double predestination; effectual calling; compatibilism), [[adam]] (Rom 5:12–21 eph' hō / federal headship / original death), [[divine-glory-kabod]] (glory of God as Romans' central theme).
+
+**Validation:** lint clean — 0 new broken links vs pre-ingest baseline (241 red-link bullets before and after). Raw already filed under `raw/commentaries/biblical/new-testament/` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed ad-hoc re-ingest); `sources-ingested.md` ledger marked ✅.
+
+## 2026-07-18 ingest | Cockerill, Gareth Lee. *The Epistle to the Hebrews*. NICNT. Eerdmans, 2012 (fidelity re-ingest)
+
+**Type:** standards reingest (fidelity) of commentary first-pass ingested 2026-06-06 under pre–coverage-ledger / Scope-and-Fidelity standards (**no prior source page**). Explicit user request to re-ingest Hebrews (Cockerill NICNT is the wiki’s Hebrews commentary source).
+
+**Scope:** full commentary body — Editor’s Preface (Fee) + Author’s Preface + Introduction Parts I–II + Text/Exposition §§I–IV (Heb 1:1–13:25). Raw lines 235–259 + 1305–4374 (~221k words). Excluded as apparatus: TOC (1–234), Abbreviations + Bibliography (265–1304), NOTES endnote dump (4376–10367). Read in full.
+
+**Integrity:** plain-text conversion of Eerdmans NICNT 2012; body section headers verified in-file (not TOC); ~738 page-equivalents at 300 wpp matches ~742-page print volume; NOTES boundary at 4376 confirmed.
+
+**Method:** thirteen disjoint ranges (R0 main-thread prefaces; R1–R12 parallel extractors) writing verbatim-anchored digests only (two-stage). Zero range recoveries. Integration by exclusive-page integrators (core text/commentator/controversies; concept/figure set) + main-thread source page + bookkeeping. Cache: `.cache/cockerill-hebrews-reingest-2026-07-18/`.
+
+**Extraction:** 505 grounded claims (R0–R12).
+
+**Pages created (1):** [[cockerill-hebrews-nicnt]]
+
+**Pages extended (12):** [[hebrews]], [[gareth-lee-cockerill]], [[hebrews-warning-passages]], [[hebrews-worldview-platonic-vs-apocalyptic]], [[melchizedek]], [[priesthood-of-christ]], [[new-covenant]], [[tabernacle]], [[typology]], [[esau]], [[timothy]], [[rahab]]
+
+**Key densifications:** Pastor designation and authorship agnosticism (Apollos preferred unconfirmable; Paul ruled out); East/West canonicity; Christian synagogue homily; chiastic I || III with high-priesthood center; 28 OT passages / 32 quotes; Aaron as type / Melchizedek as pattern (human, not angel/pre-incarnate); continuity-and-fulfillment; anti-neo-Platonic apocalyptic worldview; constructive reading of warnings (6:4–8 five participles; 10:26–31; 12:25–29); symphony sanctuary/sacrifice/covenant; Roman destination + AD 50–90 certainty band; supersessionism denial with sole-sufficiency of Christ.
+
+**Validation:** lint clean — 0 new broken links vs pre-ingest baseline (241 red-link bullets before and after). Raw already filed under `raw/commentaries/biblical/new-testament/`. Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` ledger marked ✅.
+
+## 2026-07-18 ingest | Moo, Douglas J. *Galatians*. BECNT. Baker Academic, 2013 (fidelity re-ingest)
+
+**Type:** standards reingest (fidelity) of evangelical commentary first-pass ingested 2026-06-06 under pre–Scope-and-Fidelity standards (**no source page**, no coverage ledger). Explicit user request to re-ingest Galatians.
+
+**Why re-ingest:** Step 0 audit found prior footprint without source page / ledger — a fidelity defect under current standards, not merely wiring. Intake integrity healthy (257,951 words / 16,502 lines). Prior summary pass was largely accurate on Moo's theses; re-ingest densifies with verbatim loci and corrects a mild *stoicheia*/law equation overstatement.
+
+**Declared scope:** full commentary body — Series/Author Prefaces + Introduction + Gal 1:1–6:18 exposition + collected Notes. Apparatus excluded (Abbreviations/Transliteration; Works Cited; four indexes).
+
+**Extraction:** eight digests R0–R7 (~348 grounded claims). Parallel extractors (digests only; two-stage). Zero range recoveries. Cache: `.cache/moo-galatians-reingest-2026-07-18/`.
+
+**Pages created (1):** [[moo-galatians-becnt]]
+
+**Pages extended (8):** [[galatians]] (required sections + Moo loci); [[douglas-moo]] (positions table); [[justification]]; [[pistis-christou]]; [[new-perspective-on-paul-controversy]]; [[stoicheia]] (mild correction); [[new-creation]]; index wiring.
+
+**Key densifications:** three-level anti-Torah logic with *erga nomou* loci; Gal 2 = Acts 11 (weak preference); objective genitive *pistis Christou* (L2589); *stoicheia* material elements + spirits, associate not equate with law; *paidagōgos* temporal supervisor; law of Christ = new-covenant ethics; Israel of God epexegetic (1a); new creation cosmic inauguration at closing center; works necessary for final salvation as Spirit-produced fruit of faith.
+
+**Validation:** pre-ingest baseline 241 red-link bullets; post-ingest 242. The sole new red link is `mark-evangelist` (from concurrent/other page `jobes-1-peter-becnt`), **not** introduced by this Galatians change set → **0 new broken links from this re-ingest**.
+
+**Bookkeeping:** index + sources-ingested ✅; raw already under `raw/commentaries/biblical/new-testament/`. Not on `outstanding sources.md` roadmap (user-directed ad-hoc re-ingest). Digests: `.cache/moo-galatians-reingest-2026-07-18/digests/`.
+
+## 2026-07-18 ingest | Jobes, Karen H. *1 Peter*. BECNT. Baker Academic, 2005 (fidelity re-ingest)
+
+**Type:** standards reingest (fidelity) of evangelical commentary first-pass ingested 2026-06-06 under pre–Scope-and-Fidelity standards (**no source page**, no coverage ledger). Explicit user request to re-ingest 1 Peter.
+
+**Why re-ingest:** Step 0 audit found prior footprint (text, commentator, three controversies, exile-diaspora concept, peter-apostle) without source page / ledger — a fidelity defect under current standards. Prior summary was largely accurate on Jobes’s theses; re-ingest densifies with verbatim loci and fills required text-page sections.
+
+**Declared scope:** full commentary body — Series/Author Prefaces + Abbreviations + Introduction + Units I–V (1 Pet 1:1–5:14) + Excursus “The Syntax of 1 Peter.” Apparatus excluded (Works Cited, lines 4063–5192). Raw: `raw/commentaries/biblical/new-testament/1 Peter (BECNT) - Karen H. Jobes.txt` (~161k words / 5192 lines; body ~155k words).
+
+**Integrity:** ebook conversion; long unwrapped paragraphs (~30–50 w/line); body boundaries verified in-file (Intro L525; Unit I L1013; II L1231; III L2343; IV L3537; V L3863; Excursus L3938; Works Cited L4063). No separate endnotes block (Additional Notes sit per unit).
+
+**Extraction:** eight digests R1–R8 at verified section headers (two-stage; digests only). Zero range recoveries. Cache: `.cache/jobes-1peter-reingest-2026-07-18/`. Integration by 3 exclusive-page integrators + main thread.
+
+**Pages created (1):** [[jobes-1-peter-becnt]]
+
+**Pages extended (10):** [[1-peter]], [[karen-jobes]], [[1-peter-authorship]], [[spirits-in-prison-1-peter-3]], [[1-peter-christ-and-culture]], [[christian-exile-diaspora]], [[servant-songs]], [[peter-apostle]], [[silas]], [[john-mark]]
+
+**Key densifications:** Roman colonization theory (Claudius colonies in all five 1:1 regions; Chrestus expulsion; *peregrinus*/*parepidēmos*); syntax criticism S-number **0.28** with explicit non-claims (does not prove Petrine authorship); LXX-matrix method (Isa 53 passion-ordered; Ps 33 *paroikia*; stone complex); pure spiritual milk (2:2) = Lord/life of God not merely “word”; 3:18–22 Dalton–Selwyn ascension victory over Watchers; baptism as *eperōtēma* pledge; 4:6 severed from 3:19 (no postmortem second chance); Volf differentiated Christ-and-culture; household code (slaves as paradigm; wives = verbal abuse / status loss, not physical); Silvanus preferred as **courier**; Babylon = Rome as Diaspora *inclusio*.
+
+**Validation:** pre-ingest baseline 242 red-link bullets; post-ingest 241 (fixed new `mark-evangelist` → [[john-mark]]). **0 new broken links** from this change set (net −1).
+
+**Bookkeeping:** index + sources-ingested ✅; raw already under `raw/commentaries/biblical/new-testament/`. Not on `outstanding sources.md` roadmap (user-directed ad-hoc re-ingest).
+
+## 2026-07-18 ingest | McKnight, Scot. *The Letter to the Colossians*. NICNT. Eerdmans, 2018.
+
+**Fidelity re-ingest** (user-requested "re-ingest The letter to the Colossians"). Pre-flight found the original 2026-06-06 ingest had created rich topic pages but **no source page and no coverage ledger** — a fidelity-layer defect (both mandatory), warranting a fresh full read under current Scope & Fidelity standards rather than wiring-only repair.
+
+Declared scope: the whole commentary body — the four/five Introduction essays (Authorship "known-to-unknown"; Opponents "halakic mystics"; Date/Imprisonment; Paul's Theology; Structure) + the complete verse-by-verse exposition of Colossians 1:1–4:18. Raw body lines 2181–10229 (of 16,694; intake integrity confirmed complete). Excluded as apparatus: bibliography (553–2180) and back-matter indices (10230–16694). **Read in full** via 6 disjoint line-range extractors (sized by cumulative word count — ~13–35K words each — and cut at verified in-body section headers, per the 2026-07-18 partition-boundary observation from the Bock ingest). All 6 slices returned clean; zero range recoveries.
+
+Pages: **1 created** — `sources/mcknight-colossians-nicnt` (source page with scope plan, coverage ledger, hermeneutical frame, and volume synthesis). **10 verified against the fresh read and extended** — texts/colossians (added 1:24 "filling up Christ's afflictions" crux + source link; date field), commentators/scot-mcknight (added required Sources Ingested section), controversies/colossians-authorship, controversies/colossian-opponents, controversies/ephesians-household-code, concepts/christoformity, concepts/stoicheia, concepts/mysterion, concepts/principalities-powers (fidelity correction: McKnight's "polluted structures" is a both-and affirming real supernatural beings *within* the structures, not structures-instead-of-beings), plus source-page reciprocal links throughout. Index, sources-ingested, and this log updated. Existing topic-page content confirmed faithful to the source on re-read. Lint: 0 new broken links (241 baseline held). Raw already filed under raw/commentaries/biblical/new-testament/.
+
+## 2026-07-18 ingest | Thielman, Frank. *Ephesians*. BECNT. Baker Academic, 2010 (fidelity re-ingest)
+
+**Type:** standards reingest (fidelity) of the commentary first-pass ingested 2026-06-06 under pre–coverage-ledger / Scope-and-Fidelity standards (**no prior source page**). Explicit user request to re-ingest Ephesians (Thielman BECNT is the wiki's Ephesians commentary source). Pre-flight (Obs-19) confirmed: content of the 2026-06-06 pages was already strong and grounded; the defects were structural — a missing source page and coverage ledger — plus opportunistic densification.
+
+**Scope:** full commentary body — Introduction + Text/Exposition §§I–XIII (Eph 1:1–6:24). Raw lines 1243–6009 (~203k words). Excluded as apparatus: front matter (1–1242), Works Cited (6010–8493), indexes (8494–19963), and the relocated footnote/endnote block (19964–21601, keyed by section; consulted selectively). Read in full.
+
+**Integrity:** plain-text ebook conversion (Baker Academic 2013 ebook); body section headers verified in-file (not TOC); body/back-matter boundary confirmed (exposition ends 6009, "Works Cited" 6010). No internal duplication (the second header run at 19964 is the endnote block).
+
+**Method:** eight disjoint line-range extractors (two-stage) writing verbatim-anchored digests only; seams briefed to over-cover past nominal verse endpoints and flag. Applied Obs-24/#18: dense long-line commentary (~42 w/line) sliced by word-count weighting with boundaries at verified exposition openings. Two main-thread recoveries from slice tails: §XII armor of God (6:10–17: *kosmokratores* first-occurrence; Isa 11:5/59:17 armor source-analysis; sword=word=gospel) and §IX.A old/new-*anthrōpos* (4:17–24). Cache: `.cache/thielman-ephesians-reingest-2026-07-18/`.
+
+**Pages created (1):** [[thielman-ephesians-becnt]] (source page — scope plan, coverage ledger, hermeneutical frame, volume synthesis).
+
+**Pages extended (9):** [[ephesians]] (armor Isaiah source-analysis + *kosmokratores*; descent-4:9 Hades-merism crux; source link), [[frank-thielman]] (descent 4:9; armor-from-Isaiah; *en aphtharsia* 6:24 crux; Sources Ingested), [[heis-kainos-anthropos]] (4:22–24 clothing-metaphor as ethical formation, not baptismal disrobing; Gen 1:26 LXX), [[eschatological-temple]] (*akrogōniaios* as "topmost foundation stone" — Mayer, resolving keystone-vs-foundation), [[principalities-powers]] (source link; *kosmokratores*/dimension already covered), [[mysterion]] (source link), [[ephesians-middle-wall]], [[ephesians-authorship]], [[ephesians-household-code]] (source links).
+
+**Validation:** lint clean — 0 new broken links attributable to changed pages vs pre-ingest baseline (241 red-link bullets); all added link targets resolve. Raw already filed under `raw/commentaries/biblical/new-testament/` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` ledger marked ✅.
+
+## 2026-07-18 ingest | Green, Gene L. *Jude and 2 Peter*. BECNT. Baker Academic, 2008 (fidelity re-ingest)
+
+**Type:** standards reingest (fidelity) of commentary first-pass ingested 2026-06-06 under pre–coverage-ledger / Scope-and-Fidelity standards (**no prior source page**). Explicit user request to re-ingest Jude and 2 Peter (BECNT).
+
+**Declared scope:** full commentary body — Series Preface, Author’s Preface, Abbreviations, Transliteration, Introduction to Jude, Jude 1–25 exposition, Introduction to 2 Peter, 2 Peter 1:1–3:18 exposition (raw lines 145–3606; ~179K words). Excluded: Works Cited (L3607–~6500), indexes (L6501–19874), collected Notes (L19875–20176).
+
+**Extraction:** eight digests R1–R8 (~528 grounded claims). Parallel extractors (digests only; no live wiki writes). Zero range recoveries. Cache: `.cache/green-jude-2peter-reingest-2026-07-18/`.
+
+**Pages created (1):** [[green-jude-2peter-becnt]]
+
+**Pages extended (11):** [[jude]], [[2-peter]], [[gene-green]], [[jude-brother-of-jesus]], [[peter-apostle]], [[2-peter-authorship]], [[jude-1-enoch-canon]], [[2-peter-jude-relationship]], [[theosis-divine-nature]], [[new-creation]], [[index]] (wiring)
+
+**Fidelity note:** 2026-06-06 pass already captured Green’s main positions accurately; re-ingest adds source page, coverage ledger, verbatim line-loci, required text-page sections (Hermeneutical Frameworks, Textual/Manuscript Tradition, Scholarship and Historiography, Sources Ingested), and densifies Enoch-authority, testament-genre, 1:4 moral reading, and 3:10–13 renewal formulations. No inversion-of-source defects found (Obs 23 audit).
+
+**Raw:** already filed at `raw/commentaries/biblical/new-testament/Jude and 2 Peter (BECNT) - Gene Green.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` ledger marked ✅.
+
+## 2026-07-18 ingest | Hansen, G. Walter. *The Letter to the Philippians*. PNTC. Eerdmans, 2009 (fidelity re-ingest)
+
+**Type:** standards reingest (fidelity) of commentary first-pass ingested 2026-06-06/07 under pre–coverage-ledger / Scope-and-Fidelity standards (**no prior source page**). Explicit user request to re-ingest the Letter to the Philippians. Pre-flight (Obs-19): existing `texts/philippians` + `commentators/g-walter-hansen` + `figures/epaphroditus` were summary-level; fidelity defects (no source page, no ledger, red links for christ-hymn/citizenship/euodia/partnership/joy) warranted full re-extraction, not wiring-only repair.
+
+**Scope:** full commentary body — Carson series preface + Hansen author preface + Introduction (historical setting, nature of letter, occasion, two themes) + Text/Exposition §§I–IX (Phil 1:1–4:23). Raw lines 123–155 + 813–2777 (~137k words). Excluded as apparatus: TOC, Select Bibliography (156–812), endnote dump (~2783–5595; fused in-body markers only). Read in full.
+
+**Integrity:** plain-text ebook; body headers verified in-file (not TOC); body ends ~2777 before endnotes; fused footnote digits without bodies (Obs 22 recorded in reliability_notes). Intake: 182,406 words whole file; body candidate ~137k.
+
+**Method:** seven disjoint line-range extractors (two-stage) writing verbatim-anchored digests only (~507 claims). Word-count-weighted cuts at verified body headers (Obs 1/24). Zero range recoveries. Cache: `.cache/hansen-philippians-reingest-2026-07-18/`.
+
+**Pages created (6):** [[hansen-philippians-pntc]] · [[christ-hymn]] · [[citizenship]] · [[partnership]] · [[joy]] · [[euodia-and-syntyche]]
+
+**Pages extended (12):** [[philippians]] (full schema rewrite; crux table; imprisonment locus nuanced) · [[g-walter-hansen]] · [[epaphroditus]] (**mild fidelity correction**: gambling etymology for “risking his life” not load-bearing for Hansen) · [[philippi]] · [[timothy]] · [[kyrios]] · [[exaltation-christology]] · [[monepiscopate]] · [[resurrection-body]] · [[new-perspective-on-paul-controversy]] · [[pistis-christou]] · index/ledgers
+
+**Validation:** lint to prove 0 new broken links vs pre-ingest baseline (241 red-link bullets; cluster reds christ-hymn/citizenship/euodia/partnership/joy resolved). Raw already filed under `raw/commentaries/biblical/new-testament/` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` ledger marked ✅.
+
+## 2026-07-18 ingest | Kruse, Colin G. *The Letters of John*. PNTC (2nd ed.). Eerdmans, 2020 — fidelity re-ingest
+Declared scope: full commentary body — Introduction + verse-by-verse commentary on 1, 2, 3 John + all 24 excursuses (raw lines 766–3575). Read in full via 4 disjoint line-range extractors (Introduction / 1 John 1:1–3:10 + Exc. 1–12 / 1 John 3:11–5:21 + Exc. 13–22 / 2–3 John + Exc. 23–24); digests integrated on the main thread. Endnotes (6259–7139) treated as apparatus; Scripture/author indexes + ancient-parallels appendix (~3576–6258) excluded with reason.
+Re-ingest rationale: the 2026-06-05 batch (with Marshall NICNT) produced faithful content pages but **no dedicated source page and no coverage ledger** — a bookkeeping/fidelity-standards defect. This pass repairs it with a genuine sequential read and densifies excursus-level detail.
+Pages created: sources/kruse-letters-of-john (new, with scope plan + coverage ledger + hermeneutical frame + volume synthesis). Pages updated (4): commentators/colin-kruse (new Excursus Conclusions section), texts/letters-of-john (cruxes densified: water/blood, epideictic rhetoric, sin unto death), controversies/johannine-secessionists, concepts/antichrist. Reciprocal source-page links wired on all four. Index, sources-ingested updated. Raw already filed under raw/commentaries/biblical/new-testament/. Lint: 0 new broken links vs baseline (240 pre-existing).
+
+## 2026-07-18 ingest | Moo, Douglas J. *The Letter of James*. PNTC. Eerdmans, 2000 (fidelity re-ingest)
+
+**Type:** standards reingest (fidelity) of commentary first-pass ingested 2026-06-06 under pre–coverage-ledger / Scope-and-Fidelity standards (**no prior source page**). Explicit user request to re-ingest the Letter of James (PNTC).
+
+**Declared scope:** full commentary body — Carson Series Preface + Moo Author's Preface + Introduction + verse-by-verse commentary on James 1:1–5:20 (raw lines 135–155 + 275–1635; ~112k body words). Excluded: Select Bibliography (L161–269) and collected endnotes (L1641–2450) as apparatus.
+
+**Extraction:** seven digests R0–R6 (~345 grounded claims). Parallel extractors (digests only; no live wiki writes). Zero range recoveries. Cache: `.cache/moo-james-reingest-2026-07-18/`.
+
+**Pages created (1):** [[moo-james-pntc]]
+
+**Pages extended (9):** [[james]], [[douglas-moo]], [[james-the-just]], [[double-mindedness]], [[covenantal-nomism]], [[justification]], [[james-authorship]], [[james-paul-justification]], [[anointing-healing-james-5]]
+
+**Fidelity note:** 2026-06-06 pass already captured Moo’s main positions accurately (spiritual wholeness; traditional authorship + middle 40s; two-senses *dikaioō*; covenantal nomism qualifications; 4:5 divine jealousy; 5:14 consecration-symbol anointing; voluntary oaths). Re-ingest adds source page, coverage ledger, verbatim-anchored digests, and densifies 2:14–26 ring structure, implanted-word monergism, oil-option map, and “enough faith” critique. No major position inversions found.
+
+**Validation:** lint to prove 0 new broken links vs pre-ingest baseline. Raw already filed under `raw/commentaries/biblical/new-testament/The Letter of James (PNTC) - Douglas J. Moo.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` ledger marked ✅.
+
+## [2026-07-18] ingest | Marshall, *The Epistles of John* (NICNT, 1978) — fidelity re-ingest
+
+**Source page:** [[marshall-epistles-of-john-nicnt]] (created; the original 2026-06-05 batch produced content pages but no source page or coverage ledger).
+
+**Declared scope — read in full:** Introduction §§1–8 (raw lines 245–731) + verse-by-verse commentary on 2 John (732–848), 3 John (849–963), and 1 John (964–1746). Front matter/TOC (1–184), Abbreviations (185–244), and Indexes (1747–1772) excluded as apparatus. Read sequentially via 5 disjoint extraction ranges (R1–R5), each confirmed complete; embedded footnotes read with the body.
+
+**Pages created (3):** [[marshall-epistles-of-john-nicnt]] (source), [[diotrephes]], [[gaius]] (figures — the corporate actors of 3 John).
+
+**Pages extended (6):** [[i-howard-marshall]], [[letters-of-john]], [[johannine-secessionists]], [[antichrist]], [[atonement]], [[testimony-martyria]].
+
+**Fidelity correction:** the 2026-06-05 batch attributed to Marshall the *habitual/present-continuous* resolution of the sinlessness paradox (1 John 3:6, 9). The sequential re-read shows Marshall explicitly **rejects** that reading ("a grammatical subtlety") and adopts an **eschatological** construal ("'Become what you are'"); corrected on the commentator and text pages, with the habitual reading reassigned to Kruse (a genuine Marshall–Kruse divergence). Also folded in: Marshall's present-continuous reading of 2 John 7 (separationist christology), his propitiation reading of *hilasmos* with the Denney line, and his verdict that the Johannine Comma (5:7–8) is a scribal gloss.
+
+**Flagged gap:** [Cerinthus] — heresiarch mentioned across ~36 pages, still no dedicated page; warrants a figure/heresy page built from patristic sources beyond Marshall.
+
+**Validation:** lint clean — 0 new broken links vs pre-ingest baseline (236 red-link lines, unchanged). Raw already filed under `raw/commentaries/biblical/new-testament/The Epistles of John (The New Internationa - I. Howard Marshall.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` ledger marked ✅.
+
+## 2026-07-18 ingest | Ciampa, Roy E., and Brian S. Rosner. *The First Letter to the Corinthians*. PNTC. Eerdmans, 2010 (fidelity re-ingest)
+
+**Type:** standards reingest (fidelity) of commentary first-pass ingested 2026-06-06 under pre–coverage-ledger / Scope-and-Fidelity standards (**no prior source page**). Explicit user request to re-ingest the first letter to the Corinthians. Pre-flight (Obs-19): existing `texts/1-corinthians` + `commentators/roy-ciampa-brian-rosner` + temple/food/resurrection pages were summary-level; fidelity defects (no source page, no ledger, women-and-worship stub, unread 14:34–35 position) warranted full re-extraction, not wiring-only repair.
+
+**Declared scope:** full commentary body — Editor's Preface + Authors' Preface + Introduction + verse-by-verse 1 Cor 1:1–16:24 (raw lines 886–924 + 2668–10842). Abbreviations, bibliography, and four indexes excluded as apparatus.
+
+**Method:** ten disjoint line-range extractors (two-stage) writing verbatim-anchored digests only (~1,381 claims). Word-count-weighted cuts at verified body headers (Obs 1/24). Zero range recoveries. Cache: `.cache/ciampa-rosner-1cor-reingest-2026-07-18/`.
+
+**Pages:** 1 created (source page); 7 extended (`1-corinthians` full rewrite with required sections; `roy-ciampa-brian-rosner`; `women-and-worship` stub→full; `food-offered-to-idols` Shema densification; `resurrection-body` baptism-for-the-dead + *sōma pneumatikon*; `eschatological-temple` four unifiers; `corinth` C&R social/cultic profile).
+
+**Fidelity note:** 2026-06-06 pass already captured C&R's main theses (social values; panel structure; temple; OT templates) accurately; re-ingest adds source page, coverage ledger, verbatim line-loci, required text-page sections, and fills the explicit 14:34–35 gap. No inversion-of-source defects found on prior main theses (Obs 23 audit).
+
+**Raw:** already filed at `raw/commentaries/biblical/new-testament/The First Letter to the Corinthians (Pilla - Roy E. Ciampa.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` ledger marked ✅.
+
+## [2026-07-18] ingest | Seifrid, Mark A. *The Second Letter to the Corinthians*. PNTC. Eerdmans, 2014 — fidelity re-ingest
+
+**Source page:** [[seifrid-2-corinthians-pntc]] (created; the original 2026-06-06 batch produced content pages but no source page or coverage ledger).
+
+**Declared scope — read in full:** Editor’s Preface + Author’s Preface + Introduction prose + verse-by-verse commentary on 2 Cor 1:1–13:14 (raw L289–322, L745–790, L901–1535, L2224–3656, L5063–6393). TOC, Abbreviations, Bibliography, per-section footnote dumps (after `* * *`), and indexes excluded as apparatus. Read sequentially via 7 disjoint extraction ranges (A–G); zero range recoveries.
+
+**Pages created (1):** [[seifrid-2-corinthians-pntc]] (source).
+
+**Pages extended (9):** [[2-corinthians]], [[mark-seifrid]], [[theology-of-the-cross]], [[new-creation]], [[reconciliation]], [[new-covenant]], [[pauls-opponents-2-corinthians]], [[justification]], index/ledgers.
+
+**~453 grounded claims.** Load-bearing fidelity corrections: “Christian existence **written large**” (not “large-screen display”); *haplotēs* = **simplicity** not English “generosity”; 13:4 crucified ***ex astheneias*** (“out of” not “in” weakness); 5:21 irreducibly ontological exchange vs bare imputation; Asia crisis not primarily illness; offender ≠ 1 Cor 5 man; 6:14–7:1 original and opponents-directed.
+
+**Validation:** lint checked for 0 new broken links vs pre-ingest baseline. Raw already filed at `raw/commentaries/biblical/new-testament/2 Corinthians (PNTC) - Mark A. Seifrid.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` ledger marked ✅.
+
+## 2026-07-18 ingest | Dearman, J. Andrew. *Hosea*. NICOT. Eerdmans, 2010 (fidelity re-ingest)
+
+Declared scope: whole volume — Introduction §§I–IV (Origins & Transmission; Literary Features & Composition; Historical Background; Hosea's Theology) + Text and Commentary on all 14 chapters (Superscription 1:1 through the wisdom epilogue 14:9). **Read in full** via 4 disjoint-range background extractors (raw lines 128–602, 1107–1622, 1623–2939, 2940–5528); Bibliography (603–1106) deliberately excluded as apparatus. Raw intake verified complete (5528 lines / ~178k words).
+
+Re-ingest rationale (Step 0): the 2026-06-05 batch produced usable `texts/hosea.md` + `commentators/j-andrew-dearman.md` but **never created the required source page**, carried no coverage ledger, and was introduction-heavy — a fidelity gap. Under current standards: created the missing source page and re-extracted the full scope, upgrading (not duplicating) the existing pages.
+
+Pages created/updated: **created** `sources/dearman-hosea-nicot.md` (source page + coverage ledger + hermeneutical frame + volume synthesis); **updated** `texts/hosea.md` (new Textual/Manuscript Tradition, Scholarship & Historiography, and Key Interpretive Cruxes sections; enriched 11:8–9 divine-pathos reading; source link), `commentators/j-andrew-dearman.md` (new Hermeneutical Method + Characteristic Positions sections; source link).
+
+Key attributed, locus-anchored contributions folded in: household root metaphor (*bayit* / *bêt ʾāb*) subsuming marriage; "house of YHWH" = Israel-as-household not temple (8:1; 9:4; 9:15); cognitive-metaphor + "base texts"/narrative-typology method (Van Leeuwen); Gomer as actual-marriage sign-act following Rowley (one woman, history left irrecoverable); "David their king" (3:5) as probable Judean/Hezekian editing, not David redivivus; Northern origin / Judean transmission; final-form reading resisting late-dating of covenant (*bĕrît* 6:7, 8:1 defended as Hosean); 6:2 "third day" (healing + resurrection, Tertullian first Christian citation); 13:14 as **threat not promise** (LXX/​Paul divergence); Jacob (ch. 12) as dual mirror; 11:8–9 divine freedom / "chastened hope"; unlike Amos, Hosea does not present YHWH as creator; Jeremiah as "Hosea's heir."
+
+Validation: `python Scripts/lint_wiki.py` — 236 broken-link lines, **0 new** vs pre-ingest baseline (236); new source slug `dearman-hosea-nicot` resolves. Bookkeeping: `sources-ingested.md` ✅; not on `outstanding sources.md` roadmap (user-directed re-ingest). Raw already filed at `raw/commentaries/biblical/old-testament/Hosea (NICOT) - J. Andrew Dearman.txt` (Step 7 satisfied).
+
+## [2026-07-18] ingest | Webb, Barry G. *The Book of Judges*. NICOT. Eerdmans, 2012 — fidelity re-ingest
+
+**Source page:** [[webb-judges-nicot]] (created; original 2026-06-05/07 passes produced content pages but no source page or coverage ledger).
+
+**Declared scope — read in full:** Author’s Preface + Introduction I–IX + Text and Commentary Judg 1:1–21:25 (raw L785–850, L991–1512, L1981–6934). Abbreviations, Select Bibliography, and Indexes (from L6935) excluded as apparatus. Seven disjoint extractors (A–G); zero range recoveries; ~427 grounded claims.
+
+**Pages created (1):** [[webb-judges-nicot]] (source).
+
+**Pages extended:** [[judges]] (herm. frameworks; cruxes; source link), [[barry-webb]] (vow correction; Sources Ingested), [[jephthah-vow]] (stub → full controversy), [[jephthah]] (vow fulfillment), index/ledgers.
+
+**Fidelity correction:** prior summary said Webb leaves Jephthah’s vow open between death and lifelong virginity; sequential re-read shows Webb holds **literal burnt-offering sacrifice** (vow as shrewd bribe; virginity = mourning content only). Also: do not attribute “oldest Hebrew poetry” for Judg 5 to Webb without a separate locus.
+
+**Validation:** lint for 0 new broken links vs baseline. Raw already filed at `raw/commentaries/biblical/old-testament/Judges (NICOT) - Barry G. Webb.txt`. Not on `outstanding sources.md` (user-directed); `sources-ingested.md` marked ✅.
+
+## [2026-07-18] ingest | Woudstra, Marten H. *The Book of Joshua*. NICOT. Eerdmans, 1981 — fidelity re-ingest
+
+**Source page:** [[woudstra-joshua-nicot]] (created; original 2026-06-05/07 passes produced content pages but no source page or coverage ledger).
+
+**Declared scope — read in full:** Author’s Preface (raw L65–99) + Introduction I–IX (L394–906) + Text and Commentary Josh 1:1–24:33 (L1531–6973). CONTENTS/abbreviations/maps outline (L100–393) and Select Bibliography (L907–1530) excluded as apparatus. No end indexes in this conversion. Seven disjoint extractors (A–G); zero range recoveries; ~310 grounded claims.
+
+**Pages created (1):** [[woudstra-joshua-nicot]] (source).
+
+**Pages extended:** [[book-of-joshua]] (structure; herm. frameworks; textual/MS tradition; scholarship as positions; key episodes incl. captain, Ebal, Gibeon, north/Hazor, 21:43–45 rest, altar *maʿal*, three graves); [[marten-woudstra]] (method; positions; comparator table); [[joshua]], [[rahab]], [[caleb]]; [[herem]], [[promised-land]], [[covenant]], [[typology]], [[deuteronomistic-history]]; [[herem-canaanite-conquest]]; locations [[jericho]], [[shechem]], [[hazor]], [[shiloh]]; index/ledgers.
+
+**Load-bearing attributed moves:** theocentric prophetical historiography vs example-method/liberation; basic unity of composition with design frames; *ḥerem* degrees + Gen 15:16 judicial frame + anti–“sub-Christian”; already/not yet complete+incomplete possession; land gift + no modern territorial claim; Rahab *ḥesed*/confession; Shechem covenant and three graves as fulfilment.
+
+**Validation:** lint for 0 new broken links vs baseline (236 missing-page lines; escaped-pipe table links repaired). Raw already filed at `raw/commentaries/biblical/old-testament/Joshua (NICOT) - Marten H. Woudstra.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` marked ✅.
+
+---
+
+## 2026-07-18 re-ingest | Lau, Peter H. W. *Ruth*. NICOT. Eerdmans, 2023.
+
+Full fidelity re-ingest under current Scope & Fidelity standards. The original 2026-06-05 ingest produced content pages but **no source page and no coverage ledger** (pre-standards); this pass reads the whole commentary body and creates the source page.
+
+**Scope read in full:** Introduction + Text and Commentary Acts 1–4 (Ruth 1:1–4:22), raw lines 1638–6829. Excluded as apparatus (sampled for framing): Series Editor's Preface, front matter, List of Abbreviations, Bibliography (raw lines 1–1637). Read via 4 disjoint-range background extractors (Intro / Act 1 / Acts 2–3 / Act 4) → digests + main-thread integration. Zero range recoveries.
+
+**Pages created (1):** [[lau-ruth-nicot]] (source page; Section Plan + coverage ledger + volume synthesis).
+
+**Pages extended (4):** [[book-of-ruth]] (added required **Textual and Manuscript Tradition** and **Scholarship and Historiography** sections — genre/date/authorship/purpose as positions, all Lau's Introduction); [[peter-lau]] (added distinctive verse-level readings; refreshed frontmatter); [[hesed]], [[kinsman-redeemer]] (verified against full read — no fidelity defect; source-page links added).
+
+**Load-bearing attributed moves (Lau):** Naomi = *central* character / Ruth = *main* character; four-act chiasm with double pivot (2:20; 3:1–5); U-shaped honor→shame→higher-honor plot; *ḥesed* "virtuous feedback loop" (only 1:8; 2:20; 3:10) with *deliberate* ambiguity of the 2:20 antecedent (Boaz + YHWH); hidden providence (only two explicit divine acts, both fertility — 1:6, 4:13); expansive/spirit-over-letter application of law (Boaz exceeds gleaning + combines Lev 25 redemption with Deut 25 levirate); Deut 23 & Deut 7 do not bar Ruth on their underlying principles; social-identity "assimilation without erasure" ("Ruth the Moabite" ×7); missional/centripetal reading; Boaz→Christ redemption typology incl. Heb 2:10–17 kinship + Rev 19–22 (Introduction); genre = historiographical short story; **date marginally monarchic** against majority postexilic; rejects the anti-Ezra/Nehemiah polemic as primary purpose. Distinctive minority readings recorded: tri-fold *ḥayil*; "hostile overseer" of 2:7; *ʿzb*/*bōʿaz* wordplay; rejection of threshing-floor "seduction" reading; *dbq* as loyalty not eros.
+
+**Validation:** lint 0 new broken links vs baseline (236 missing-page lines). Raw already filed at `raw/commentaries/biblical/old-testament/The Book of Ruth - Peter H. W. Lau_.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` marked ✅.
+
+---
+
+## 2026-07-18 re-ingest | Harrington, Hannah K. *The Books of Ezra and Nehemiah*. NICOT. Eerdmans, 2022.
+
+Full fidelity re-ingest under current Scope & Fidelity standards. The original 2026-06-05 ingest produced content pages but **no source page and no coverage ledger** (pre-standards); this pass reads the whole commentary body and creates the source page.
+
+**Scope read in full:** Introduction §§I–VIII (raw L1472–3604) + Text and Commentary Ezra 1:1–10:44 and Neh 1:1–13:31 including Excursuses 1–23 (L3605–9223). Excluded as apparatus: front matter, TOC, and pre-body Bibliography (L1–1471). File ends in Exc 23 footnotes (no separate indexes in this extract). Read via 8 disjoint-range background extractors → digests + main-thread integration. Zero range recoveries.
+
+**Pages created (1):** [[harrington-ezra-nehemiah-nicot]] (source page; Section Plan + coverage ledger + volume synthesis).
+
+**Pages extended (8):** [[ezra-nehemiah]] (full densification: structure, four pillars, nine innovations, herm. frameworks, scholarship positions); [[hannah-harrington]] (method fidelity: ST comparative + cautious social science; characteristic positions); [[intermarriage-ezra-nehemiah]] (priestly *maʿal*/holy-seed center; Janzen/Moffat as surveyed; **fidelity correction** of misquote “drastic but understandable”); [[ezra]], [[nehemiah]] (figures densified); [[midrash]] (source link); [[purity]] (new ST section: gentile impurity Neh 13:9; Klawans/Hayes dispute); [[samaritans]] (Harrington Samarian≠Samaritan periodization).
+
+**Load-bearing attributed moves (Harrington):** unitary E-N separate from Chronicles; Ezra + Nehemiah under Artaxerxes I; leave Neh 8 in place; compilation ~430–424 then final not before Darius III; ~70% lists/archives; three parallel returns; resumptive repetition explains Ezra 4; Eskenazi holiness expansion house→seed→city; four STJ pillars; nine legal/religious innovations (intermarriage/matrilineality, holy seed, gentile impurity, Sabbath trade ban, midrash Torah, synagogue cluster, communal ransom, rotating shifts, genealogical priesthood); intermarriage as *maʿal* against Israel-as-sanctum with **no conversion path**; measures “understandable” as minority survival (not “drastic but understandable”); Douglas/Turner via Janzen (high group/weak grid, witch-hunt) and Moffat (mid group/strong grid, true outsiders) — surveyed, not sole preferred lens for Exc. 9; Neh 13:9 first contagious gentile impurity (vs Klawans/Hayes); Samarian (syncretistic, political conflict) ≠ NT Samaritan (post-~110 BCE monotheistic SP sect); Neh 5 “emergency Jubilee” (Blenkinsopp); Nehemiah full-text focus Torah/community over wall alone.
+
+**Validation:** lint missing-page count ~233 (prior session baseline ~236; 0 new broken links attributable to this ingest). Digests staged under `wiki/.cache/` then removed in cleanup. Raw already filed at `raw/commentaries/biblical/old-testament/The Books of Ezra and Nehemiah - Hannah K. Harrington_.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` marked ✅.
+
+
+## 2026-07-18 ingest | Leithart, Peter J. *1 & 2 Chronicles*. Brazos Theological Commentary on the Bible. Brazos Press, 2019. (full sequential fidelity re-ingest)
+
+**Scope:** Full commentary body — Introduction + Leithart's fourteen thematically-titled chapters covering 1 Chr 1 – 2 Chr 36 (raw `raw/commentaries/biblical/old-testament/1 & 2 Chronicles - Peter J. Leithart.txt`, body lines 375–4385). Bibliography, Scripture Index, Subject Index, and the ebook-duplicated front-matter/TOC block (lines 4386–end) excluded as apparatus. **Read in full** via 5 parallel disjoint-range extractors (E1 375–977, E2 978–1935, E3 1936–2723, E4 2724–3477, E5 3478–4385) + main-thread integration.
+
+**Why re-ingest:** Prior 2026-06-05/06-07 batches folded rich, faithful Leithart content into topic pages but created **no source page and no coverage ledger** (fidelity/bookkeeping defect per CLAUDE.md Step 0 decision table). This pass verifies the existing content against a full sequential read and creates the missing source page + ledger.
+
+**Pages created (2):** [[cyrus]] (figure — cross-tradition: Isaiah's *māšîaḥ*, Ezra decree, Persian king, Leithart's "new David"/Jubilee/covenant-transfer; 35 files referenced it unlinked), [[josiah]] (figure — last ideal Davidic king; reverse-Passover Saul-echo death; refusal of Neco's word). Source page: [[leithart-1-2-chronicles-btcb]].
+
+**Pages updated (5):** [[1-2-chronicles]] (new "Divided Kingdom in Detail" section: seek/find–forsake retribution engine, *maʿal*/*maʿalah* pun, liturgical warfare 2 Chr 20, "Judah Becomes Israel"/"Israel Becomes Judah" inversion + Oded episode, Manasseh's unique repentance, prototemple theology/divine aseity; related-figures block; source-page link); [[hezekiah]] (Leithart Chronicles section — only "kippuring" in Chronicles, great Passover/tribal reunion, worship-as-warfare vs Sennacherib; sources 2→3); [[ahaz]] (Leithart "anti-Davidic nadir"/Oded reversal; sources 1→2); [[davidic-covenant]] (source-page link on existing covenant-transfer section); [[peter-leithart]] (method notes: "vindication of bureaucracy"; Jeduthun≠Ethan caution).
+
+**Voice:** All typological/theological claims attributed to Leithart (or scholars he cites — Johnstone, Japhet, Boda, Murray, James B. Jordan); only brute textual facts in wiki voice.
+
+**Validation:** Ran `python Scripts/lint_wiki.py`; 233 red-links total (all pre-existing baseline noise); **0 new broken links** attributable to this ingest — all new/edited link targets confirmed on disk. Coverage ledger recorded on the source page. Raw already filed under `raw/commentaries/biblical/old-testament/` (Step 7 satisfied). Session cache slices/digests under scratchpad (session-local; not in repo). Trackers: `sources-ingested.md` marked ✅; not on `outstanding sources.md` roadmap (already-ingested source, user-directed re-ingest).
+
+---
+
+## 2026-07-18 re-ingest | deClaissé-Walford, Jacobson & Tanner. *The Book of Psalms*. NICOT. Eerdmans, 2014.
+
+Full fidelity re-ingest under current Scope & Fidelity standards. Original 2026-06-05 / batch 2026-06-07 produced [[psalms]] and [[declaisse-walford-jacobson-tanner]] but **no source page and no coverage ledger** (pre-standards).
+
+**Scope read in full:** General Editor’s Preface + Acknowledgments (main thread, raw L471–543) + Introduction §§I–VII (L745–1832) + Text and Commentary Psalms 1–150 Books One–Five (L2038–26254). Excluded as apparatus: Principal Abbreviations (L544–744); Intro §VIII Select Bibliography (L1833–2037); collected Notes (L26255–33279); Indexes (L33280–end); front-matter TOC. Read via 10 disjoint-range background extractors (word-balanced, psalm-boundary aligned) → digests + main-thread integration. Zero range recoveries. **~376 grounded claims.**
+
+**Pages created (1):** [[declaisse-walford-psalms-nicot]] (source page; Section Plan + coverage ledger + volume synthesis).
+
+**Pages extended (5):** [[psalms]] (full required-section upgrade: textual/MS incl. Yarchin 143–154, herm. frameworks, scholarship positions, 14 cruxes); [[declaisse-walford-jacobson-tanner]] (signature-verified division of labor; method); [[hesed]] (130/255 density; loanword policy; Ps 89/136); [[davidic-covenant]] (Ps 89 hinge + Book Four YHWH-reigns answer + Ps 132); [[theodicy]] (Psalter lament path vs Job lawsuit).
+
+**Load-bearing attributed moves:** five-book narrative as postexilic “shaping of survival” (deClaissé-Walford); poetry meaning *in, with, and under* language (Jacobson/Tanner); *ledāwiḏ* not original King-David authorship; historical superscriptions as early interpretation (Jacobson); Ps 88 unrelieved darkness + Ps 89 unanswered *hesed* question as darkest place (Tanner); Book Four Moses/YHWH-king answer without restoring human king; imprecation (69, 109, 137:9) extracted without softener; *hesed* untranslated loanword (130/255).
+
+**Validation:** lint missing-page baseline 233; post-ingest re-check for 0 new broken links. Raw already filed at `raw/commentaries/biblical/old-testament/The Book of Psalms (NICOT) - Nancy Declaisse-Walford.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` marked ✅.
+
+
+## 2026-07-18 reingest | Longman, Tremper, III. *The Book of Ecclesiastes*. NICOT. Eerdmans, 1998
+
+**Why re-ingest:** Prior 2026-06-05 / 2026-06-07 passes under pre–Scope-and-Fidelity standards produced [[ecclesiastes]], [[tremper-longman]], and [[hebel]] but **no source page and no coverage ledger**.
+
+**Source path:** `raw/commentaries/biblical/old-testament/The Book of Ecclesiastes (New Internationa - Tremper Longman.txt` (6,083 lines; 131,118 words full file; **98,407 body words** / 3,066 body lines). Body: Prefaces (169–209) + Introduction I–XIV (214–626) + Text and Commentary through Final Word (1253–3864). Excluded: TOC; XV. Bibliography (~627–1248); endnotes from ~3870; indexes.
+
+**Read in full** via main-thread R0 + 5 parallel extractors (R1–R5) → digests (~258 grounded claims) + main-thread integration. Zero range recoveries.
+
+**Pages created (1):** [[longman-ecclesiastes-nicot|Longman Ecclesiastes NICOT source page]].
+
+**Pages extended (4):** [[ecclesiastes]] (Textual/MS Tradition; Hermeneutical Frameworks; Scholarship; cruxes densified; reingest anchors with loci); [[tremper-longman]] (Ecclesiastes fidelity reingest section); [[hebel]] (Longman “meaningless” preference + frame/inclusio anchors); [[wisdom-literature]] (framed autobiography / foil note + source link).
+
+**Key takeaways (body, attributed to Longman):** Genre = framed wisdom autobiography // Akkadian fictional autobiography; two voices (Qohelet foil + Frame Narrator normative); Solomonic persona chs. 1–3 only; *hebel* = “meaningless”; carpe diem as resignation/anodyne; goads/nails sting (Fox); 12:13–14 fear God + commandments + judgment (wisdom+law+prophets); Rom 8 *mataiotes*; Final Word — Christ redeems vanity under the sun.
+
+**Validation:** lint missing-page baseline 233; post-ingest check for 0 new broken links. Raw already under `raw/commentaries/biblical/old-testament/`. Digests: `.cache/longman-ecclesiastes-reingest-2026-07-18/`. Trackers: `sources-ingested.md` ✅; not on `outstanding sources.md` roadmap (user-directed re-ingest of already-ingested source).
+
+
+## [2026-07-18] ingest | Carroll R., M. Daniel. *The Book of Amos*. NICOT. Eerdmans, 2020 — fidelity re-ingest
+
+**Source page:** [[carroll-amos-nicot]] (created; original 2026-06-05 batch produced `texts/amos` + `commentators/m-daniel-carroll` but no source page or coverage ledger).
+
+**Declared scope — read in full:** Author’s Preface (raw L237–251) + Introduction I–VI (L990–2535, with §VII MS notes sampled) + Text and Commentary Amos 1:1–9:15 (L2540–9115). Abbreviations (252–702) and Select Bibliography (703–989) excluded as apparatus. Five disjoint extractors (A–E); zero range recoveries; ~300 grounded claims.
+
+**Pages created (1):** [[carroll-amos-nicot]] (source).
+
+**Pages extended (4):** [[amos]] (full required-section rebuild; fidelity corrections), [[m-daniel-carroll]] (method + positions + preface biography), [[day-of-the-lord]] (Amos 5:18–20 section), [[remnant]] (5:15 / 9:8–15 note).
+
+**Load-bearing attributed moves:** principled synchronic/final-form vs Wolff–Jeremias–Persian scribes; Geertzian cult-as-world-authorization; tradition-reversal; nōqēd person of means; **ʾănāk = tin not plumb line**; 5:24 human-justice jussive as chiasm center; OAN not pure entrapment after 1:1–2; **9:11–15 eighth-century authentic**; booth of David = frail Davidic kingdom/dynasty; sieve corporate + 9:10 targeted; Cush = distance (racist readings condemned); Acts 15 // 9:11–12 Gentile inclusion; MLK 5:24 / Latin American horizon.
+
+**Validation:** lint for 0 new broken links vs baseline (233 missing-page lines). Raw already filed at `raw/commentaries/biblical/old-testament/The Book of Amos - M Daniel Carroll R.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` marked ✅.
+
+## 2026-07-18 ingest | Nogalski, James D. *The Books of Joel, Obadiah, and Jonah* (NICOT, Eerdmans 2023) — full-scale fidelity re-ingest
+
+**Scope:** whole volume, read in full (body raw lines 1710–7014): Introduction to the Book of the Twelve (§§I–IV); Joel Introduction (§§I–IX) + Text and Commentary (1:1–3:21 [4:21]); Obadiah Introduction (§§I–VIII) + Text and Commentary (vv. 1–21); Jonah Introduction (§§I–VII) + Text and Commentary (chs. 1–4). Front matter (1–1709: editor's preface, abbreviations, bibliography) excluded as reference/apparatus.
+
+**Why re-ingest:** the 2026-06-05 batch produced text pages (joel, obadiah, jonah) but **no source page and no coverage ledger**, and left several of Nogalski's redaction-critical theses in bare wiki voice. This is a fidelity re-ingest under current Scope & Fidelity standards (same pattern as today's Dearman Hosea and Carroll Amos re-ingests). Read via 5 disjoint-range background extractors (digests only) + main-thread integration.
+
+**Pages created:** `wiki/sources/nogalski-joel-obadiah-jonah-nicot.md` (source page with scope plan, coverage ledger, hermeneutical frame, volume synthesis).
+
+**Pages extended:** texts/joel (added Textual & Manuscript Tradition, Hermeneutical Frameworks [scribal prophecy; Hos 14 hinge; day-of-Yahweh as historical intervention], Scholarship & Historiography [Duhm/Jeremias/Barton/Wöhrle unity debate; six-observation postexilic dating]); texts/obadiah (added Vetitives grammatical argument [vv.11–14 as future warnings, *vaticinium ex eventu*], Textual & Manuscript Tradition [Sepharad = Sardis], Hermeneutical Frameworks, Scholarship & Historiography [two-source thesis; 5th-c. dating; Bartlett–Glazier-McDonald]); texts/jonah (added Genre/Satire defense [Schart; disjunctures as comedy], Ch.2 psalm as insertion, Textual & Manuscript Tradition, Hermeneutical Frameworks [Joel-as-foil; Nahum pairing; sign-act], Scholarship & Historiography [late-4th-c. Hellenistic date; Brueggemann counter-testimony]); commentators/james-nogalski (added Hermeneutical Method: redaction/canonical criticism, citation analysis, Amos-9 mirror + vetitive demonstrations); concepts/book-of-the-twelve (added Ancient Attestation [Sirach 49:10, Baba Bathra, Mic 3:12 midpoint] + Chronological Backbone).
+
+**Load-bearing attributed moves:** Joel as scribal-prophecy "literary anchor" of the Twelve; three days of Yahweh (Judah / purified remnant / nations); Exod 34:6–7 used twice in Joel (2:13 compassion / 3:21 judgment); Obadiah reworks Jer 49 while mirroring Amos 9 (five *ʾim* clauses; "from there I will pull you down"; *yrš* link to Amos 9:12 explaining canonical placement); Obadiah vetitives; Zion-tradition reinterpretation (Yahweh's exclusive kingship, v.21); Jonah as satire on the theology of Joel; Jonah 4:2 cites Joel citing Exod 34:6; ch.2 psalm insertion; late-Hellenistic Jonah date. All redaction/dating theses recorded as Nogalski's attributed positions.
+
+**Validation:** lint clean — 0 new broken links vs baseline (233 missing-page lines). Raw already filed at `raw/commentaries/biblical/old-testament/The Books of Joel, Obadiah, and Jonah - James D. Nogalski_.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` marked ✅.
+
+## [2026-07-18] ingest | Nogalski, James D. *The Book of Micah*. NICOT. Eerdmans, 2024 — fidelity re-ingest
+
+**Source page:** [[nogalski-micah-nicot]] (created; original 2026-06-05 batch produced `texts/micah` + `commentators/james-nogalski` but no source page or coverage ledger).
+
+**Declared scope — read in full:** Introduction I–VII (raw L974–1609) + Text and Commentary Mic 1:1–7:20 (L1610–4432). Front matter 1–973 (TOC, General Editor’s Preface, abbreviations, bibliography) excluded as apparatus. Six disjoint extractors (A–F); zero range recoveries; 258 grounded claims.
+
+**Pages created (1):** [[nogalski-micah-nicot]] (source).
+
+**Pages extended (4):** [[micah]] (full required-section rebuild; fidelity corrections), [[james-nogalski]] (Micah three-phase + sources link), [[book-of-the-twelve]] (Micah midpoint / Four / Jonah–Nahum / Exod 34 web), [[hesed]] (Mic 6:8; 7:2; 7:18–20).
+
+**Load-bearing attributed moves:** three-phase composition (1–3 core; 6–7 before 4–5; 4–5 postexilic anthology); Mic 3:12 Masoretic midpoint of Twelve (v. 525/1050) + Jer 26:18 precedent; Mic 4 // Isa 2 priority **insoluble**, read divergent continuations; 5:2 Davidic dynastic continuity not preexistence; 6:8 prophet’s *rîb* rejoinder + Hos 12:6 intertext + “walk modestly”; Omri/Ahab cipher; 7:18–20 name-play + Exod 34:6–7 web + proposed Jonah 2:3(4) citation; Lady Zion vs Lady Nineveh.
+
+**Defects corrected vs 2026-06-05:** bare-wiki-voice redactional theses → attributed; 6:8 slogan → lawsuit indictment; “humbly” → Nogalski’s “modestly”; Isa//Mic method; Jonah 2:3 link; growth order 6–7 before 4–5.
+
+**Validation:** lint for 0 new broken links vs baseline (233 missing-page lines). Raw already filed at `raw/commentaries/biblical/old-testament/The Book of Micah - James D. Nogalski_.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` marked ✅. Digests: `.cache/micah-reingest-2026-07-18/digests/`.
+
+## 2026-07-18 ingest | Waltke, Bruce K. *The Book of Proverbs: Chapters 1–15*. NICOT. Eerdmans, 2004 (Vol. 1 fidelity re-ingest)
+
+**Scope:** Vol. 1 only (chs. 1–15). Read in full: Introduction §§I–VII (Title; Text & Versions; Structure; ANE Wisdom Literature; Authorship; Forms/Poetics; Theology) and Text and Commentary on Collection I (1:1–9:18, prologue's ten lectures + two Woman Wisdom interludes + epilogue) and Collection IIA (10:1–15:29, antithetic righteous-vs-wicked aphorisms). Raw lines 423–2368 + 4111–9355 (~219k words). Bibliography (§VIII), Indexes, and the endnote/footnote apparatus deliberately excluded. **Vol. 2 (15:29–31:31) not re-ingested.**
+
+**Why re-ingest:** the 2026-06 first pass filed Waltke only on the commentator and text pages with no source page and no coverage ledger (a fidelity/bookkeeping defect under current standards). Read via 6 background extractors partitioned by disjoint line-range → digests → main-thread integration.
+
+**Pages created (2):** sources/waltke-proverbs-nicot (source page + scope plan + coverage ledger + volume synthesis); concepts/fear-of-the-lord (*yir'at YHWH* as wisdom's epistemological foundation; the compound expression; fear-of-the-LORD vs. fear-of-God; the anti–natural-theology premise).
+
+**Pages extended (5):** texts/proverbs (poetics-before-hermeneutics, democratization & verbal-inspiration theses; strange wife as paradigm of apostasy; immortality of the righteous); commentators/bruce-waltke (text-critical base — Leningrad Codex, cautious LXX, Washington's "Solomonic fiction"); concepts/woman-wisdom (sharpened the 8:22 *qānânî* = "beget/bring forth" and 8:30 *'āmôn* = "constantly/faithfully" cruxes to Waltke's own preferences; Wisdom as delighter; ch.7/ch.8 diptych + rival banquets); concepts/doctrine-of-retribution (second-source Waltke section: personal divine retribution vs. Koch's deed-destiny nexus; deferred justice; immortality resolution); concepts/wisdom-literature (Waltke's "unique inspiration" counter-position recorded via Contradiction Protocol, not adjudicated).
+
+**Load-bearing attributed moves:** poetics prior to hermeneutics (Berlin); Collection I as hermeneutical key; the "no third way" antithesis in two registers (historical vs. heavenly); democratization thesis (no named royal addressee); verbal inspiration of the sage's words (2:6, vs. Fox); personal divine retribution (vs. Koch/von Rad/ma'at); Woman Wisdom as personification of *revealed* wisdom and a type (not hypostasis) of Christ; immortality (not resurrection) of the righteous (12:28 *'al-māwet*); Sheol/Mot/*repā'îm* as "broken mythology"; Solomonic authorship defended on Kitchen's structural grounds. All recorded in Waltke's attributed voice.
+
+**Validation:** lint clean — 0 new broken links vs baseline (233 missing-page lines). Raw already filed at `raw/commentaries/biblical/old-testament/The Book of Proverbs_ Chapters 1-15 - Bruce K. Waltke.txt` (Step 7 satisfied). `sources-ingested.md` marked ⚠️ (Vol. 1 done, Vol. 2 pending); not on `outstanding sources.md` roadmap (user-directed re-ingest).
+
+## 2026-07-18 re-ingest | Craigie, Peter C. *The Book of Deuteronomy*. NICOT. Eerdmans, 1976.
+
+**Why re-ingest:** Prior 2026-06-04 ingest produced `texts/deuteronomy`, `commentators/peter-craigie`, concepts (`suzerain-vassal-treaty`, `shema`, `covenant`), and `controversies/deuteronomy-authorship` but **no source page and no coverage ledger** (pre–Scope-and-Fidelity bookkeeping defect).
+
+**Declared scope — read in full:** Author's Preface (raw L89–106) + Introduction I–IX + Additional Note (L561–813; L857–1013) + Appendices I–III (L1320–1425) + Text and Commentary Deut 1:1–34:12 (L1426–6273). Excluded as apparatus: front matter/TOC/abbreviations L1–88, L107–560; select bibliographies L814–856, L1153–1319; Analysis of Contents outline L1014–1152; endnote dump L6274–8185.
+
+**Method:** 7 disjoint-range background extractors (digests only) + main-thread integration. Cache: `.cache/craigie-deuteronomy-nicot-reingest-2026-07-18/`. ~381 grounded claims (A68 B56 C60 D55 E57 F43 G42).
+
+**Pages created (1):** [[craigie-deuteronomy-nicot]] (source page + scope plan + coverage ledger + volume synthesis).
+
+**Pages extended (~7):** [[deuteronomy]] (required sections densified; Craigie fidelity-anchor table; Arnold marked not-yet-fidelity-ingested); [[peter-craigie]] (full rewrite under current commentator schema); [[suzerain-vassal-treaty]]; [[shema]]; [[deuteronomy-authorship]]; index + sources-ingested.
+
+**Load-bearing attributed moves (Craigie):** whole-book treaty map; treaties support but do not prove Mosaic date; Josiah = rediscovery / *terminus ad quem*; centralization not purpose + Shechem/Ebal problem; Shema *ʾeḥad* + *ʾahavah* as book-center; *ḥerem* as covenant-protection; prophet like Moses (succession + Acts christology); VTE direct-borrowing rejected; exile curses contingent; ch. 34 Christian pointer to Jesus (Heb 3).
+
+**Validation:** lint for 0 new broken links vs baseline (233 missing-page lines). Raw already filed at `raw/commentaries/biblical/old-testament/Deuteronomy (NICOT) - Peter C. Craigie.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest of already-listed source); `sources-ingested.md` marked ✅.
+
+
+## 2026-07-18 re-ingest | Wenham, Gordon J. *The Book of Leviticus*. NICOT. Eerdmans / Routledge & Kegan Paul, c. 1979.
+
+**Why re-ingest:** Prior 2026-06-04 ingest produced `texts/leviticus`, `commentators/gordon-wenham`, and `concepts/holiness` but **no source page and no coverage ledger** (pre–Scope-and-Fidelity bookkeeping defect).
+
+**Declared scope — read in full:** Author's Preface (raw L42–58) + Introduction I–VII (L114–514) + Text and Commentary Lev 1:1–27:34 (L973–6634). Excluded as apparatus: TOC/Abbreviations L59–113; Select Bibliography L515–972; Indexes L6635–end.
+
+**Method:** 8 disjoint-range background extractors (digests only) + main-thread integration. Cache: `.cache/wenham-leviticus-nicot-reingest-2026-07-18/`. ~519 grounded claims (A72 B62 C68 D60 E70 F60 G57 H70). Zero range recoveries. Seam: ch. 20 NT body + Excursuses I–II fall in slice H after heading at L5174.
+
+**Pages created (2):** [[wenham-leviticus-nicot]] (source page + scope plan + coverage ledger + volume synthesis); [[azazel-identity]] (demon / complete destruction / rocky precipice + Wenham functional conclusion; Barnabas typology caveat).
+
+**Pages extended (~10):** [[leviticus]] (required sections; Wenham densification; Zohar section preserved); [[gordon-wenham]] (full method/positions rewrite); [[holiness]]; [[sacrifice]] (graded offerings table); [[purity]]; [[atonement]] (OT *kipper* subsection); [[jubilee]]; [[nadab-and-abihu]]; [[aaron]]; index + sources-ingested + log.
+
+**Load-bearing attributed moves (Wenham):** classic Protestant plain sense + NT applications; Douglas holiness-as-wholeness; graded sacrifice (burnt ransom; purification sanctuary; reparation debt; peace communion; cereal tribute); *kipper* cleanse/ransom; food laws Douglas not hygiene; Azazel etymology open / sin exterminated; ch. 17 hinge not simple H-open; ch. 27 association-of-ideas **and** book-level recapitulation; Nadab/Abihu “not commanded”; postexilic P difficult (Ezekiel + language) without dogmatic Mosaic necessity.
+
+**Tensions preserved:** Zoharic Sod/theurgical Leviticus (Pritzker VII–VIII) vs Wenham Douglas/canonical layer — not flattened.
+
+**Validation:** lint for 0 new broken links vs baseline. Raw already filed at `raw/commentaries/biblical/old-testament/Leviticus (NICOT) - Gordon J. Wenham.txt` (Step 7 satisfied). Not on `outstanding sources.md` roadmap (user-directed re-ingest); `sources-ingested.md` marked ✅.
+
+## 2026-07-18 ingest | Arnold, Bill T. *The Book of Deuteronomy, Chapters 1–11*. NICOT. Eerdmans, 2022.
+
+**Why:** User-directed first full fidelity ingest. Prior thin Arnold summary on [[deuteronomy]] was unverified; no source page. Complements [[craigie-deuteronomy-nicot]] (full book, 1976).
+
+**Declared scope — read in full:** Series Editor’s + Author’s Prefaces (raw L259–310) + Introduction I–IX through Analysis outline (L2576–3277) + Text/Commentary **Deut 1:1–11:32** (L4026–9154). Excluded: abbreviations L311–2575; intro endnotes L3282–4021; text endnotes L9160–end. **Chs. 12–34 not in this volume.**
+
+**Method:** 8 disjoint-range extractors (digests only) + main-thread integration. Cache: `.cache/arnold-deuteronomy-1-11-nicot-2026-07-18/`. ~428 grounded claims.
+
+**Pages created (2):** [[arnold-deuteronomy-1-11-nicot]] (source); [[bill-arnold]] (commentator).
+
+**Pages extended:** [[deuteronomy]] (Arnold section + sources); [[shema]]; [[suzerain-vassal-treaty]]; [[deuteronomy-authorship]]; [[herem]]; index + sources-ingested + log.
+
+**Load-bearing attributed moves (Arnold):** Torah as Mosaic Moab speech (paraenesis 5–11 vs instructions 12–26); *Urdeuteronomium* / multi-stage path; rejects Noth isolation of 1–3; Neo-Hittite/EST treaty background with covenant-as-transformation; Shema *ʾeḥad* vs ANE fluidity; love–fear pedagogy; *ḥerem* + election by love; ch. 4 voice/idolatry/exile/incomparability; circumcise heart + stranger-love; Gerizim–Ebal frame to 12:1.
+
+**Validation:** lint for 0 new broken links vs pre-ingest baseline. Raw already filed at `raw/commentaries/biblical/old-testament/The Book of Deuteronomy, Chapters 111 - Bill T. Arnold_.txt` (Step 7). Not on `outstanding sources.md` roadmap; `sources-ingested.md` marked ✅.
+
+
+## [2026-07-18] ingest | Waltke, The Book of Proverbs: Chapters 15:30–31:31 (NICOT, Vol. 2)
+
+**Scope:** Fidelity re-ingest completing the Waltke/Proverbs footprint. Declared scope = the whole
+of Vol. 2 (commentary only; the whole-book Introduction is in Vol. 1): Text and Commentary on
+Collection IIB (15:30–22:16), III (22:17–24:22), IV (24:23–34), V/Solomon II (25:1–29:27), VI/Agur
+(30:1–33), VII/Lemuel (31:1–9), and the valiant-wife acrostic (31:10–31). **Read in full** (raw body
+L1224–15222); abbreviations, bibliography, indexes, and the endnote pool excluded as apparatus.
+
+**Method:** 9 disjoint line-range extractors (background) by collection, digests only; main-thread
+integration, taxonomy, and cross-links. The 27:23–27 flocks-poem exposition sat at the s4b/s5
+boundary and was captured in s5's overflow head (no gap).
+
+**Pages created (3):** [[agur|Agur son of Jakeh]] (figure) · [[lemuel|King Lemuel]] (figure) ·
+[[valiant-woman|The Valiant Woman (ʾēšet ḥayil)]] (concept).
+
+**Pages extended (8):** [[proverbs|Proverbs]] (second-half deep-read block: LORD-and-His-King,
+speech ethics, Amenemope case, men-of-Hezekiah composition history, character-types & just
+rulership, Agur/Lemuel/Valiant Wife) · [[bruce-waltke|Bruce K. Waltke]] · [[wisdom-literature|Wisdom
+Literature]] (Amenemope adaptation model) · [[fear-of-the-lord|Fear of the LORD]] (book-frame +
+fear-of-man) · [[doctrine-of-retribution|Doctrine of Retribution]] (reciprocity/deferral/common
+grace) · [[woman-wisdom|Woman Wisdom]] (feminine frame, bilateral) · [[solomon|Solomon]] · [[hezekiah|Hezekiah]].
+
+**Source page:** [[waltke-proverbs-15-31-nicot]] (created; scope plan, coverage ledger, hermeneutical
+frame, volume synthesis).
+
+**Validation:** lint clean — 0 new broken links vs baseline (232 pre-existing red-link lines
+unchanged; all new link targets resolve; `temple`/`wisdom` red links in Solomon are pre-existing,
+in untouched sections). Raw already filed at `raw/commentaries/biblical/old-testament/The Book of
+Proverbs_ Chapters 15-31 - Bruce K. Waltke.txt` (Step 7). Not on `outstanding sources.md` roadmap;
+`sources-ingested.md` marked ✅ (both Waltke volumes now complete).
+
+## [2026-07-18] ingest | Pieter A. Verhoef, *The Books of Haggai and Malachi* (NICOT, Eerdmans 1987)
+
+Source: `raw/commentaries/biblical/old-testament/The Books of Haggai and Malachi (New International Commentary on the Old Testament  NICOT) (Verhoef, Pieter A.) (z-library.sk, 1lib.sk, z-lib.sk).epub`. Source page: [[verhoef-haggai-malachi]]. **Scope: both books, read in full** (~186k words). Grammatical-historical, Reformed evangelical commentary; MT-conservative text criticism; redemptive-historical christological telescoping (recorded as attributed). Read via six disjoint line-range extractors + main-thread recovery of Malachi Introduction §§VII–X (Style/*Streitreden*, Text, Canonicity, Structural Analysis).
+
+**Intake note:** the epub converts with the Malachi 3:6–4:6 commentary (sections VII–IX) DUPLICATED — once misplaced inside the Haggai section and once in proper position; extracted once, from the proper Malachi location (noted in `reliability_notes`).
+
+**Pages created (6):** [[malachi]] (text), [[pieter-verhoef]] (commentator), [[zerubbabel]] (figure), [[joshua-son-of-jehozadak]] (figure — distinct from [[joshua]] son of Nun), [[messenger-of-the-covenant]] (concept), [[levites]] (group).
+**Pages extended (7):** [[haggai]] (stub → full text page), [[day-of-the-lord]], [[covenant]], [[divorce]] (Mal 2:16 "I hate divorce"), [[elijah]] (Mal 4:5–6 forerunner), [[edomites]] (Mal 1:2–5 Nabatean-invasion reading), [[book-of-the-twelve]].
+
+**Validation:** lint self-check — all wikilink targets in the 6 new pages resolve; no broken links originate from any new or edited page (checked against `Scripts/lint_wiki.py`; the ~232 pre-existing red-link lines are unchanged baseline). Bookkeeping: `index.md` (added Haggai & Malachi to the Twelve; Verhoef to Commentators), `sources-ingested.md` ✅. Not on `outstanding sources.md` roadmap. Raw already filed under `raw/commentaries/biblical/old-testament/` (Step 7 — no move needed).
+
+## [2026-07-18] ingest | Timothy R. Ashley, *The Book of Numbers* (NICOT, 1993)
+
+**Source**: `raw/commentaries/biblical/old-testament/The Books of Numbers (New International Commentary on the Old Testament  NICOT) (Timothy R. Ashley) (z-library.sk, 1lib.sk, z-lib.sk).epub` + plain-text conversion `raw/commentaries/biblical/old-testament/ashley-numbers-nicot.txt` (~34,549 lines / ~301,903 words). Already filed under `raw/commentaries/biblical/old-testament/` (Step 7 — no further move).
+
+**Declared scope**: full commentary body — Author's Preface (L209–300) + Introduction I–VI (L601–1240) + Text and Commentary Num 1:1–36:13 (L3051–34549). Excluded as apparatus: TOC; Abbreviations (L301–600); Select Bibliography (L1241–3050). Ebook omits print end indexes.
+
+**Method**: 12 disjoint extractors (digests-only Stage 1) → main-thread Stage 2 integration. Cache: `.cache/ashley-numbers-nicot-2026-07-18/`. ~977 grounded claims. Zero range recoveries.
+
+**Pages created (4):**
+- `wiki/sources/ashley-numbers-nicot.md` — source page + coverage ledger + volume synthesis
+- `wiki/commentators/timothy-ashley.md` — final-form method; characteristic positions
+- `wiki/figures/phinehas.md` — Baal-Peor zeal; covenant of peace
+- `wiki/concepts/cities-of-refuge.md` — Num 35 (distinct from Buddhist refuge)
+
+**Pages extended (9+):** [[numbers]] (Ashley structure, cruxes, hermeneutical frameworks, scholarship, source #4); [[balaam]]; [[korah]]; [[moses]]; [[nazarite]]; [[dennis-cole]] (structural contrast); [[documentary-hypothesis]] (Ashley mediating composition); [[index]]; [[overview]].
+
+**Key takeaways (grounded):** exact-obedience thesis + new torah amid failure; geographic five-part outline vs Cole 2-3-2 and Olson two-census; Orientation/Disorientation/New Orientation; preexilic final form (possibly united monarchy) without full Mosaic authorship; Harrison on census figures as least-worst; Meribah multi-factor *lack of trust*; copper serpent as obedience-looking; Korah dual-rebellion final-form unity; Balaam relatively neutral in cycle + Deir ʿAllā + star/scepter reception; Phinehas covenant of peace; Midian *ḥērem* unsoftened.
+
+**Bookkeeping:** index, overview, sources-ingested ✅; outstanding sources — not on roadmap (no ✅ required). Lint: 0 new broken links vs baseline.

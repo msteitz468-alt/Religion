@@ -4,7 +4,7 @@ text_locus: James 2:14–26 (esp. 2:21, 24); Romans 3:28; 4:1–8; Galatians 2:1
 positions: [contradiction-irreconcilable, misunderstood-Paulinism, two-senses-of-justify (Moo), two-justifications (Catholic), demonstration-only (popular-evangelical)]
 traditions_involved: [Lutheran, Reformed, Roman Catholic, Arminian/Wesleyan, modern-critical]
 resolution_status: open (tradition-specific resolutions)
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, soteriology, justification, reformation]
 ---
 
@@ -20,8 +20,10 @@ doubts about the [[james|Letter of James]]:
 Both writers appeal to the *same* OT verse — Genesis 15:6 ("Abraham believed God, and it was
 credited to him as righteousness") — and the *same* exemplar (Abraham), yet draw apparently
 opposite conclusions. The dispute is the reason Luther called James "an epistle of straw." This
-page records the positions; [[douglas-moo|Moo]]'s (PNTC James, 2000) own resolution is presented as
-one position among several, not as adjudication.
+page records the positions; [[douglas-moo|Moo]]'s (PNTC James, 2000; [[moo-james-pntc|source page]],
+fidelity re-ingest 2026-07-18, dense claims on 2:14–26 ring structure, *sōzō*/*dikaioō*, objector
+punctuation, Abraham/Rahab) own resolution is presented as one position among several, not as
+adjudication.
 
 ## The Sharpening of the Tension
 
@@ -122,10 +124,12 @@ needs to be heard."
 ## Key Links
 
 - [[james|The Letter of James]] — the text page (2:14–26 crux)
+- [[moo-james-pntc|Moo James PNTC source page]] — coverage ledger; R3 densification of 2:14–26
 - [[justification|Justification]] — the doctrine and the *dikaioō* word group
 - [[james-authorship|James: Authorship and Date]] — the dating implications of the Paul relationship
 - [[covenantal-nomism|Covenantal Nomism]] — Moo's framework for the integration
 - [[romans|Romans]] / [[galatians|Galatians]] — Paul's justification material
+- [[moo-galatians-becnt|Moo Galatians BECNT]] — related Pauline positions (future justification; works as Spirit fruit)
 - [[new-perspective-on-paul|New Perspective on Paul]] — "works of the law" debate
 - [[james-the-just|James the Just]] — the author
 - [[douglas-moo|Douglas J. Moo]] — the source commentator

@@ -3,7 +3,7 @@ title: Deuteronomistic History
 also_known_as: [DtrH, the Deuteronomistic History, the Former Prophets as edited corpus]
 domain: [biblical studies / historical criticism]
 traditions_using: [modern academic biblical studies]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-18
 tags: [concept, historical-critical, deuteronomist, former-prophets, redaction]
 ---
@@ -60,6 +60,12 @@ These positions are recorded side by side per the Contradiction Protocol.
 
 Provan acknowledges obvious theological links between Deuteronomy and Kings and the usefulness of the DtrH label for that affinity. He warns, however, that **“Deuteronomic/Deuteronomistic theology” is as much an abstraction** as “Deuteronomistic History”—a construct about putative corporate authors rather than the theology of any particular book in final form. Final-form books (including Kings) display greater subtlety and complexity than the construct; the label can lead final-form readers astray when they contrast “straight deuteronomistic ideology” with material that allegedly undermines it. His own program privileges **reading Kings as a unified narrative** (story that “works”) over reconstructing layers. This is recorded alongside Noth/Polzin/Alter positions without adjudicating composition history.
 
+## Woudstra on Joshua and the DtrH hypothesis
+
+*Attributed to [[marten-woudstra|Woudstra]], [[woudstra-joshua-nicot|*Joshua* (NICOT)]]; digests A. Recorded as confessional-evangelical counter-position, not adjudication.*
+
+Woudstra reports Noth’s continuing history-work from Deuteronomy through 2 Kings (Deuteronomist) as an important modification of the documentary hypothesis that “does not break radically with it.” He is “unable to accept” the documentary hypothesis (citing Craigie’s Mosaic-age Deuteronomy); treats Joshua’s present form as having **basic unity of composition** with design features (hortatory frame; *maʿal* Achan//eastern altar; Caleb//Joshua allotment brackets) rather than late Deuteronomistic fabrication of an unhistorical unified conquest. He reads Judg 1 as subsequent to Joshua, not as a rival true portrait. Against reducing a book’s “theology” to a secondary deuteronomistic school’s intention: that reduces biblical theology to “human theology of second degree / history of doctrine,” leaving out inspiration and revelation. He prefers taking the book’s presentation as more true to fact, possibly composed in the days when Israel “served the Lord” (24:31). See [[book-of-joshua|Joshua]], [[documentary-hypothesis|Documentary Hypothesis]].
+
 ## Relation to Other Concepts
 
 The DtrH is one of the foundational hypotheses of the **historical-critical** approach,
@@ -67,4 +73,5 @@ alongside the [[documentary-hypothesis|Documentary Hypothesis]] (which concerns 
 Pentateuch). It stands in methodological tension with the
 [[literary-reading-of-the-bible|literary reading]] of these same books. See also
 [[deuteronomy|Deuteronomy]] and [[deuteronomy-authorship|Deuteronomy: Authorship and Date]] ·
-[[1-2-kings|1 and 2 Kings]] · [[provan-1-2-kings-nibc|Provan NIBC]].
+[[1-2-kings|1 and 2 Kings]] · [[provan-1-2-kings-nibc|Provan NIBC]] ·
+[[marten-woudstra|Woudstra]] · [[woudstra-joshua-nicot|Woudstra Joshua NICOT]] · [[book-of-joshua|Joshua]].

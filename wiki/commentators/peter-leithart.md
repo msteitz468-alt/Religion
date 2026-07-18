@@ -6,7 +6,7 @@ tradition: Reformed Protestant (broadly "Reformed Catholic"; paleo-orthodox)
 affiliation: Theopolis Institute, Birmingham, Alabama
 primary_texts_commented: [1–2 Chronicles, 1–2 Samuel (Canon Press), 1–2 Kings (Brazos Press)]
 sources_ingested: 1
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [commentator, reformed, evangelical, old-testament, typology, post-critical, brazos]
 ---
 
@@ -74,4 +74,4 @@ Leithart develops a distinctive reading of the genealogies' orientation. Biblica
 
 ## Sources Ingested
 
-1. [[peter-leithart|Leithart, Peter J.]]. *1 & 2 Chronicles*. Brazos Theological Commentary on the Bible. Grand Rapids: Brazos Press, 2019.
+1. [[leithart-1-2-chronicles-btcb|Leithart, Peter J.]] *1 & 2 Chronicles*. Brazos Theological Commentary on the Bible. Grand Rapids: Brazos Press, 2019. — Full sequential re-ingest 2026-07-18 (source page + coverage ledger). Method notes from the full read: Leithart's "vindication of bureaucracy" (gatekeepers, accountants, and duty rosters as spiritual renewal) is a recurring theme; and in 1 Chr 25:1 he names the singer **Jeduthun** (not Ethan) alongside Asaph and Heman — the Jeduthun/[[ethan|Ethan]] identification is traditional but should not be silently assumed.

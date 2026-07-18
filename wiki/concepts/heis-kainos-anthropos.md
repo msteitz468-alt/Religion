@@ -3,7 +3,7 @@ title: The One New Human Being (*Heis Kainos Anthrōpos*)
 domain: ecclesiology / soteriology / anthropology
 traditions_using: [Christianity — Pauline]
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [concept, christianity, new-testament, pauline, ecclesiology, new-creation]
 ---
 
@@ -56,6 +56,8 @@ Who is the *heis kainos anthrōpos*? Contextually, the immediately following ver
 
 The *heis kainos anthrōpos* is simultaneously a *declared* reality (it was created in Christ's death, 2:15) and an *unfolding* reality (it is being renewed, 4:23–24; Col 3:10). The already/not-yet structure of eschatology applies to the new humanity.
 
+[[frank-thielman|Thielman]] reads the "put off … put on" clothing metaphor of 4:22–24 as ethical formation, not liturgy: he **rejects** the proposal (Meeks, Dahl, Kim) that the language reflects an early-Christian baptismal ritual of disrobing before and re-dressing after baptism — Paul does not mention baptism here, and no clear evidence for such a rite exists before the third century (and even then it involves the *same* garments, not old-for-new). The new *anthrōpos* of 4:24, *ton kata theon ktisthenta* ("created after the pattern of God," echoing Gen 1:26 LXX and Col 3:10), is the individual outworking of the corporate new creation already announced at 2:10, 15.
+
 ## Significance
 
 This concept is central to Ephesians' distinctive ecclesiological contribution. In Galatians, Paul declares "there is neither Jew nor Greek" (3:28) but does not elaborate what that new entity *is*. In Romans, Jew-Gentile unity is extensive but still largely framed as Gentiles being grafted into Israel (11:17–24). Ephesians is distinctive: the church is not a reformed or expanded Israel but a qualitatively new corporate humanity, created at the cross, that transcends the old categories without destroying the particulars (Paul remains a Jew; Gentiles remain Gentiles) while genuinely superseding the Jew/Gentile binary as a fundamental division. This is why [[frank-thielman|Thielman]] insists that the church's unity is a *cosmic proclamation* to the powers (3:10): it demonstrates the defeat of the division that the powers sustain.
@@ -64,6 +66,7 @@ This concept is central to Ephesians' distinctive ecclesiological contribution. 
 
 - [[ephesians|Letter to the Ephesians]] — the primary locus (2:15; 4:24)
 - [[frank-thielman|Frank Thielman]] — primary source
+- [[thielman-ephesians-becnt|Thielman, *Ephesians* (BECNT)]] — source page
 - [[ephesians-middle-wall|The Middle Wall in Eph 2:14]] — the barrier whose demolition makes the new humanity possible; the *mesotoichon* is the same passage
 - [[new-creation|New Creation]] — the *heis kainos anthrōpos* is the corporate ecclesiological form of new-creation soteriology
 - [[imago-dei|Imago Dei]] — Eph 4:24's "created after the likeness of God" explicitly reconnects to Genesis 1

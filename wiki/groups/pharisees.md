@@ -5,7 +5,7 @@ tradition: cross-tradition (Judaism primarily; also Christianity — NT polemica
 textual_sources: [Matthew, Mark, Luke, Acts, Romans, Galatians, Philippians, Josephus (Jewish Antiquities, Jewish War), Mishna]
 periods_active: c. 160 BC–70 AD (as a distinct party); legacy continues in Rabbinic Judaism post-70
 roles_significance: [Jewish religious party; legal rigorists; Torah observance advocates; Paul's pre-conversion identity; NT antagonists; forebears of Rabbinic Judaism]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-18
 tags: [group, judaism, christianity, second-temple, pharisees]
 ---
@@ -321,8 +321,34 @@ above; both registers are preserved.
 > independent historical claims about the Pharisees, and are not offered as evidence against
 > that consensus. No contradiction is asserted; the two registers are kept separate.
 
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from [[bock-acts-becnt|Bock, *Acts* (BECNT)]]. All interpretive claims are Bock's
+or those of scholars he names.*
+
+Bock stresses that Luke treats the Pharisees **more positively** in Acts than the Gospel
+confrontations might lead one to expect — a function of the Pharisaic belief in **resurrection**,
+which aligns them at key points with the Christian message. The **resurrection** conviction is
+load-bearing: it makes the Pharisees the apostles' natural allies against the [[sadducees|Sadducees]]
+(who "say that there is no resurrection, or angel, or spirit," 23:8), and Paul exploits exactly this
+fault line before the Sanhedrin, declaring "I am a Pharisee, a son of Pharisees; concerning the hope
+and the resurrection of the dead I am on trial" (23:6) — splitting the council, with some Pharisees
+protesting "we find nothing wrong in this man" (23:9). The paradigm Pharisee in Acts is **Gamaliel**
+(5:34–39), whom Bock calls the only named rabbi in Acts, a student of Hillel and Paul's own teacher
+(22:3); his cautious counsel — "if this plan is of God, you will not be able to overthrow it" — Bock
+reads as a valid principle (eschatologically understood) voiced by a seeming opponent who, like other
+Pharisees, sees the truth but will not join. Bock also notes the "**party of the Pharisees**" who had
+believed and yet pressed at the Jerusalem Consultation that Gentiles must be circumcised and keep the
+law (15:5), driving the debate; he insists the word for their "sect" (*hairesis*) is here descriptive,
+not "heresy," used the same way of Sadducees and Christians — part of Luke's presentation of the
+Jesus movement as a natural extension of Judaism. On the Sanhedrin's makeup Bock notes the scribes
+were "mostly Pharisees," and he registers the Sanders-vs-Deines/Hengel debate over how much popular
+influence the Pharisees actually held.
+
 ## Key Links
 
+- [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007]] — the more positive Lukan
+  treatment; Gamaliel; the 23:6–9 split; the believing "party of the Pharisees" (15:5)
 - [[rt-france|R. T. France]] — commentator; see his readings of 5:20, purity, and the sign demand above
 - [[matthew|Gospel of Matthew]] · [[mark|Gospel of Mark]] · [[france-mark-nigtc|France, Mark (NIGTC)]] · [[synoptic-problem|The Synoptic Problem]]
 - [[paul-apostle|Paul the Apostle]] — former Pharisee; his pre-conversion persecution of the church

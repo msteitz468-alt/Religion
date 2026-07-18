@@ -77,6 +77,18 @@ Waltke and Longman were colleagues at Westminster and share a Reformed evangelic
 
 This tension is precisely the tension between Proverbs and Ecclesiastes *within the Wisdom canon itself* — the Frame Narrator's epilogue resolves it by reasserting Prov 1:7 (12:13) as the corrective to Qohelet's despair.
 
+## Ecclesiastes (NICOT 1998) — Fidelity Reingest (2026-07-18)
+
+Source page: [[longman-ecclesiastes-nicot]]. Prefaces + Intro I–XIV + Text and Commentary 1:1–12:14 + Final Word re-read with line loci (~258 grounded claims).
+
+**Method (Ecclesiastes-specific, confirmed on body):** Genre = **framed wisdom autobiography**; body 1:12–12:7 // Akkadian fictional autobiography (Cuthaean Legend of Naram-Sin et al.). Two voices: Qohelet = virtual quotation and **foil**; Frame Narrator = author of the finished book and normative theology. Solomonic **persona** for the search (chs. 1–3 only), not historical Solomonic authorship. Language unusual but not a secure date barometer (Fredericks; Zimmermann/Dahood rejected). MT largely stable; Aquila-like LXX often secondary.
+
+**Theology (load-bearing loci):** *Hebel* = Longman’s preferred “**meaningless**” (30+ times; 1:2 // 12:8 inclusio). Twin sources of anguish: **death** and inability to know the **right time** (time and chance, 9:11). God = distant *Elohim*, never *YHWH*; Qohelet’s “fear God” = fright. Six *carpe diem* passages = **resignation** / anodyne, not Kaiser–Whybray affirmation. Epilogue 12:9–12: reserved praise → *sought to find* failure → goads/nails as **sting/harm** (Fox) → warn son including Qohelet’s books. Normative close 12:13–14: fear God + keep commandments + eschatological judgment (wisdom + law + prophets). **A Final Word:** Christ redeems from vanity under the sun (Rom 8:18–21 *mataiotes*; Gal 3:13; self-emptying entry into the cursed world).
+
+**Commentary structural outline (Longman):** I. Frame prologue 1:1–11; II. Qohelet 1:12–12:7 (intro; “Solomon’s” quest 1:13–2:26; quest continues 3:1–6:9; wise advice 6:10–12:7 ending in death meditation); III. Frame epilogue 12:8–14.
+
+See [[ecclesiastes]] and [[hebel]].
+
 ## Song of Songs (NICOT 2001) — Fidelity Reingest (2026-07-18)
 
 Source page: [[longman-song-of-songs-nicot]]. Preface + Intro I–XII + Poems 1–23 re-read with line loci.
@@ -91,6 +103,6 @@ See [[song-of-songs]] and [[divine-human-marriage]].
 
 ## Sources Ingested
 
-1. *The Book of Ecclesiastes*. NICOT. Grand Rapids: Eerdmans, 1998.
+1. *The Book of Ecclesiastes*. NICOT. Grand Rapids: Eerdmans, 1998. — Fidelity re-ingest 2026-07-18: [[longman-ecclesiastes-nicot]].
 2. *Song of Songs*. NICOT. Grand Rapids: Eerdmans, 2001. — Fidelity re-ingest 2026-07-18: [[longman-song-of-songs-nicot]].
 3. *Daniel*. NIV Application Commentary. Grand Rapids: Zondervan, 1999.

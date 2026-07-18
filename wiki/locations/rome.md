@@ -2,12 +2,12 @@
 title: Rome
 also_known_as: [Roma, the Eternal City, Urbs]
 tradition: [cross-tradition (Roman religion; Christianity)]
-textual_sources: [city-of-god]
+textual_sources: [city-of-god, acts]
 periods_inhabited: [traditional founding 753 BCE; Kingdom, Republic, Empire; sacked by Alaric 410 CE; Western imperial capital until 476 CE; continuous habitation to present]
 modern_geography: Rome (Roma), capital of Italy; on the Tiber in the Lazio region; 41.90°N 12.50°E
 associated_peoples: [Romans (Latins) from the founding; later a cosmopolitan imperial population]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [location, christianity, roman-religion, late-antiquity]
 ---
 
@@ -56,7 +56,37 @@ Rome (Roma), capital of modern Italy, on the Tiber. The relevant ancient topogra
 the basilicas of St. Peter and the martyr-shrines that served as sanctuaries in 410 — remains the core
 of the historic city and of Latin (Roman Catholic) Christianity.
 
+## In Acts, per Bock (BECNT)
+
+From the ingest of [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic,
+2007]] (see [[darrell-bock|Darrell Bock]]). In [[acts|Acts]] Rome is **the goal** toward
+which the whole second half of the narrative moves. All interpretive claims are Bock's or
+those of scholars he names.
+
+- **The announced destination.** Bock traces a chain of statements fixing Rome as the
+  divinely necessary end: Paul "resolved in the Spirit" to see Rome (19:21), the Lord's
+  assurance "so you must bear witness also at Rome" (23:11), and the angel's word in the
+  storm, "you must (*dei*) stand before Caesar" (27:24). Bock notes Rome felt "like the end
+  of the earth" from Judea and that reaching it fulfills the program of Acts 1:8.
+- **Arrival and the open ending (28:16–31).** Paul reaches Rome after the appeal to
+  **Caesar** (Nero, in his early reign) and the shipwreck voyage, finding believers already
+  there — Bock stresses Paul is "not… the founder of these Christian communities." He lodges
+  in his own rented quarters under light guard and, after a final divided response among
+  the Roman Jews (to which he applies Isa. 6:9–10), preaches "quite openly and
+  **unhindered**" (*akōlytōs*, a NT hapax that Bock says "concludes the book on an emphatic
+  note").
+- **A deliberately open ending.** Bock argues the abrupt close is "by authorial design, not
+  because Luke ran out of material or died." His conclusion: "Luke chose to end his book
+  here because his point was the arrival of the word to the highest levels of Rome," the
+  gospel reaching "the empire's center" and going out "unhindered" — "His imprisonment
+  cannot chain the word of God." Bock rejects (with reasons) the theories that a third
+  volume, an acquittal, or a narrated martyrdom is presupposed; on early tradition
+  (1 Clement 5; Eusebius) Paul was released and martyred later.
+
+See [[acts|Acts of the Apostles]] · [[bock-acts-becnt|Bock, *Acts* (BECNT)]] ·
+[[paul-apostle|Paul the Apostle]] · [[caesarea|Caesarea]] (from which Paul sailed).
+
 ## Related Pages
 
 [[romans]] · [[roman-religion]] · [[two-cities]] · [[city-of-god]] · [[babylon]] (the prior great
-empire, Assyria/Babylon, against which Augustine measures Rome)
+empire, Assyria/Babylon, against which Augustine measures Rome) · [[acts]] · [[bock-acts-becnt]]

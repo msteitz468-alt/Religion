@@ -2,9 +2,9 @@
 title: Reconciliation
 domain: theology
 traditions_using: [Christianity — broadly; Barth's usage is specific and structural]
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [concept, christianity, soteriology, trinity]
+sources_ingested: 2
+last_updated: 2026-07-18
+tags: [concept, christianity, soteriology, trinity, pauline]
 ---
 
 # Reconciliation
@@ -31,6 +31,17 @@ The distinction between creation and reconciliation is not quantitative but qual
 
 **Why reconciliation requires the Son's full deity**: A "superhuman or semi-divine" reconciler would not match the seriousness of the problem. "Who can reveal God except God Himself? ... If He reveals God, then irrespective of His creaturehood He Himself has to be God. And since this is a case of either/or, He has to be full and true God without reduction or limitation" (*CD* I.1, lines 5309–5317). The same argument applies to reconciliation: if the Reconciler were not fully God, the enmity between God and man would not be genuinely overcome.
 
+## Seifrid on 2 Corinthians 5:18–21 (Pauline primary locus)
+
+[[mark-seifrid|Seifrid]] (PNTC, 2014; [[seifrid-2-corinthians-pntc|source page]], 2026-07-18) treats 5:18–21 as the ministry of reconciliation that “translates” the new-covenant *diakonia* of ch. 3 into ambassadorial service:
+
+- **Direction of *katallassō***: Seifrid reads the active object as overcoming **human** enmity against God (including the apostle’s own), not primarily God’s enmity against humanity.
+- **Forensic event**: “not reckoning trespasses” makes reconciliation the final judgment entered present in Christ — judgment that yields reconciliation, not condemnation.
+- **Universal scope ≠ universal salvation**: the world without exclusion is the object of reconciling work; yet “Paul does not imagine that all the world is saved” (interruption remains).
+- **Ambassadors (5:20)**: “Be reconciled to God!” is the message to the world; explicit turn to the Corinthians comes at 6:1. The word communicates what is already accomplished.
+- **5:21 great exchange**: irreducibly **ontological** exclusive + inclusive place-taking (Christ the “sinless sinner”); forensic and extrinsic *in Christ*; not bare imputation nor infusion. See [[justification]] · [[theology-of-the-cross]] · [[new-creation]].
+- **Pastoral bond**: to receive reconciliation with God requires reconciliation with the suffering apostle (6:1–7:16); godly grief works repentance (7:8–13).
+
 ## Reception and Cross-Tradition Perspectives
 
 - **Anselm (satisfaction theory)**: Reconciliation requires a satisfaction for sin offered by one who is both human (to represent humanity) and divine (to offer a satisfaction of infinite worth). Barth's structural use of "reconciliation" as the Son's appropriated work is compatible with Anselm's framework, though Barth does not develop atonement theory in CD I.1.
@@ -40,10 +51,12 @@ The distinction between creation and reconciliation is not quantitative but qual
 
 ## Relation to Other Concepts
 
-- [[trinity|Trinity]] — reconciliation is the economic act appropriated to the Son (second mode of being)
-- [[eternal-son|Eternal Son]] — the "antecedently in Himself" grounding of the Son's reconciling work
-- [[redemption|Redemption]] — the Spirit's future/eschatological counterpart to reconciliation
+- [[trinity|Trinity]] — reconciliation is the economic act appropriated to the Son (second mode of being) in Barth; Seifrid’s 13:14 is economic/incipiently trinitarian as christology
+- [[eternal-son|Eternal Son]] — the "antecedently in Himself" grounding of the Son's reconciling work (Barth)
+- [[redemption|Redemption]] — the Spirit's future/eschatological counterpart to reconciliation (Barth)
 - [[atonement]] — the specific mechanism of reconciliation; see atonement page for cross-tradition models
+- [[2-corinthians]] · [[mark-seifrid]] · [[seifrid-2-corinthians-pntc]] — Pauline primary text and PNTC densification
+- [[justification]] · [[new-creation]] · [[theology-of-the-cross]] · [[new-covenant]]
 
 ---
 *See also*: [[karl-barth]], [[barth-church-dogmatics-i1-s8-12]], [[trinity]], [[eternal-son]], [[redemption]], [[atonement]]

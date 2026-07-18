@@ -5,8 +5,8 @@ tradition: Christianity
 textual_sources: [Acts, Galatians, 1 Corinthians, Colossians]
 dates: floruit c. AD 30–61
 roles: [apostle, missionary, companion of Paul]
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [figure, christianity, missionary, apostle]
 ---
 
@@ -33,7 +33,37 @@ Commentators like [[douglas-moo|Moo]] note the significance of Barnabas's presen
 **Influence on Commentary Traditions**:
 Bock (Acts) presents Barnabas as the generous advocate who introduces Paul, models the encouraging character of the Spirit-led mission, and demonstrates that God uses human agents (with their disagreements) to advance the gospel. His story reinforces the theocentric historiography of Acts.
 
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from [[bock-acts-becnt|Bock, *Acts* (BECNT)]]. All interpretive claims are Bock's
+or those of scholars he names.*
+
+Bock calls Barnabas "one of Luke's heroes" and a rounded literary character modeling servant
+leadership. He is first introduced at Acts 4:36–37 — Joseph, a **Levite** and native of **Cyprus**,
+surnamed **Barnabas** ("son of encouragement") — voluntarily selling a field and laying the proceeds
+at the apostles' feet, set as the deliberate positive foil to Ananias and Sapphira. Bock reviews the
+etymology debate (rejecting Conzelmann's "son of Nebo" on the grounds that a Levite would not bear a
+Babylonian god's name) and notes Barnabas is named twenty-three times in Acts. He is the one who
+takes the newly converted Saul "under his wing" and vouches for him to the fearful Jerusalem church
+(9:27), a reconciler working for the community's unity.
+
+Jerusalem sends Barnabas to investigate the mixed Hellenistic-Jewish church at **Antioch** (11:22),
+where Bock notes he is called "a good man, full of the Holy Spirit and of faith" — "No one else is
+called 'good' in Acts" (Marshall). He fetches Saul from Tarsus (11:25–26) and the two teach a year
+in the church where believers were first called "Christians," then carry the **famine relief** to
+the Jerusalem elders (11:29–30). Commissioned by the Spirit at Antioch (13:1–3), Barnabas co-leads
+the **first missionary journey**; at Lystra the crowd hails him as **Zeus** (Bock: because he is
+taken for the elder/chief god) while Paul is Hermes the speaker (14:12), and he tears his garments at
+the blasphemy (14:14). Bock notes Barnabas is named *before* Paul at 15:12 and 15:25, a possible
+Antioch-source marker. After the **Jerusalem Consultation**, Barnabas and Paul **split** over John
+Mark (15:37–39): Bock reads the *paroxysmos* ("sharp disagreement") as a genuine, humanly honest
+rupture producing two missions rather than one — explicitly **not** a theological schism between a
+Jewish-Christian and a law-free party (he attributes that reading to the Tübingen school / F. C.
+Baur, "dying a very slow death"). Barnabas takes his cousin Mark to Cyprus; Philemon 24 and 1 Cor.
+9:6 show Paul held no lasting grudge.
+
 **Key Links**:
+- [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007]] — "one of Luke's heroes"
 - [[acts|Acts of the Apostles]] (Bock)
 - [[darrell-bock|Darrell L. Bock]]
 - [[paul-apostle|Paul the Apostle]]

@@ -8,7 +8,7 @@ positions:
   - Metaphorical social separation with no single referent
 traditions_involved: [Christian scholarship; evangelical; mainline Protestant; patristic; gnostic interpretation]
 resolution_status: open
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, new-testament, ephesians, jew-gentile, mosaic-law, temple]
 ---
 
@@ -78,6 +78,7 @@ The image draws on [[new-creation|New Creation]] language: the new human being i
 
 - [[ephesians|Letter to the Ephesians]] — the primary text
 - [[frank-thielman|Frank Thielman]] — primary commentator; defends Position 3
+- [[thielman-ephesians-becnt|Thielman, *Ephesians* (BECNT)]] — source page
 - [[new-creation|New Creation]] — the theological background for 2:15's *heis kainos anthrōpos*
 - [[mysterion|The Mystery (*Mystērion*) in Paul]] — the Gentile inclusion that the wall's demolition enables
 - [[ephesians-authorship|Ephesians: Pauline or Pseudonymous?]] — the dating question affects the historical context of the wall's referent

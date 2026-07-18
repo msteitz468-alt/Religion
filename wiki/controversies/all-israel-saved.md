@@ -8,7 +8,7 @@ positions:
   - National Israel restored to covenant through national repentance (dispensational premillennialism)
 traditions_involved: [Christianity]
 resolution_status: open / tradition-specific
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, pauline, eschatology, israel]
 ---
 
@@ -43,7 +43,14 @@ Key arguments:
 - *Kai houtōs* ("and in this way") marks the *manner* of Israel's salvation, not merely the *timing* — through the provocation to jealousy mechanism described in 11:11–24.
 - The OT citations (Isa 59:20–21; 27:9) speak of a coming Deliverer and a covenant of forgiveness — language pointing toward a decisive eschatological event.
 
-Schreiner: "God will turn ungodliness from Jacob and promises that at the end of history, probably near the second coming, 'all Israel will be saved.'" This does not require every single Israelite to be saved, but a large-scale, climactic turning of the Jewish people to Christ.
+Schreiner: "God will turn ungodliness from Jacob and promises that at the end of history, probably near the second coming, 'all Israel will be saved.'" This does not require every single Israelite to be saved, but a large-scale, climactic turning of the Jewish people to Christ — specifically the **end-time generation** of ethnic Israel alive at the parousia.
+
+Three refinements from the BECNT re-reading sharpen his position:
+- **Timing tied to resurrection.** "Their acceptance" is "life from the dead" (11:15), which Schreiner reads as **physical resurrection / the climax of this age** — Israel's salvation *follows* the fullness of the Gentiles (11:25) and immediately precedes the general resurrection.
+- **No hope for those who die in unbelief.** Crucially, "no hope… is held out to Israelites who die without acknowledging Jesus as their Messiah." Those hardened who "died in their hardening will face judgment"; the promise concerns the future generation, not a retroactive salvation of all Israelites throughout history.
+- **The olive tree is *not* ethnic Israel.** In 11:17–24 the cultivated olive tree = the **people of God (Jews and Gentiles together)**, not ethnic Israel — since unbelieving Jewish branches are broken off and believing Gentile branches grafted in. The root/firstfruits (11:16) = the **patriarchs**. This keeps Schreiner's future-ethnic-Israel reading distinct from any "Israel = the tree" identification.
+
+He explicitly rejects the two-covenant / *Sonderweg* implication: Israel's future salvation is by the **same gospel of Christ** (11:26's Deliverer removing ungodliness from Jacob), not a separate covenant path.
 
 ### 2. The Elect Remnant Throughout Church History (Some Reformed Amillennialists)
 
@@ -84,7 +91,8 @@ Dispensational interpreters read "all Israel" as the national restoration of the
 ## Key Links
 
 - [[romans|Letter to the Romans]]
-- [[thomas-schreiner|Thomas R. Schreiner]] — primary source
+- [[thomas-schreiner|Thomas R. Schreiner]] — primary source; [[schreiner-romans-becnt|source page]]
+- [[predestination|Predestination]] — Schreiner's "double predestination" reading of Rom 9 that frames the ch. 9–11 argument
 - [[covenant|Covenant]] — God's covenant faithfulness to Israel as the stake
 - [[righteousness-of-god|The Righteousness of God]] — divine faithfulness as the background of Romans 9–11
 - [[new-covenant|New Covenant]] — Jer 31:31–34 as the covenantal basis for Israel's future

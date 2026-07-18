@@ -3,7 +3,7 @@ title: Double-Mindedness and Spiritual Wholeness (Dipsychos / Teleios)
 domain: theology / ethics / spirituality
 traditions_using: [Christianity — esp. as developed in the Letter of James; later spiritual theology]
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [concept, christianity, new-testament, ethics, wisdom]
 ---
 
@@ -59,9 +59,16 @@ a *goal*, recognizing that believers still sin (3:2).
   (whose *Mandates* are strikingly close to James) — among the earliest evidence for the letter's
   use.
 
+## Sources Ingested
+
+- [[moo-james-pntc|Moo, *The Letter of James* (PNTC, 2000)]] — fidelity re-ingest 2026-07-18; primary
+  source for Moo's *teleios* / *dipsychos* organizing-concern reading (Intro structure; 1:4–8; 3:9–12;
+  4:4–8).
+
 ## Key Links
 
 - [[james|The Letter of James]] — the text in which the concept is developed
+- [[moo-james-pntc|Moo James PNTC source page]] — coverage ledger
 - [[douglas-moo|Douglas J. Moo]] — source; "spiritual wholeness" as the letter's central concern
 - [[james-the-just|James the Just]] — the author
 - [[wisdom-literature|Wisdom Literature]] — the "two ways" and wisdom/folly framing

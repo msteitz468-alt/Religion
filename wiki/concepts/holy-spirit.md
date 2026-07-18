@@ -2,7 +2,7 @@
 title: Holy Spirit
 domain: theology
 traditions_using: [Christianity — broadly]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-18
 tags: [concept, christianity, trinity, pneumatology]
 ---
@@ -115,6 +115,36 @@ compares to Λόγος in John's prologue. His claims:
   reading into the scene any reference to the Holy Spirit"; he rejects the suggestion of a
   Spirit-blast tearing the temple curtain.
 
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from the ingest of [[darrell-bock|Bock's]] BECNT [[acts|Acts]]. All interpretive
+claims are [[darrell-bock|Darrell Bock]]'s.*
+
+Bock reads the Holy Spirit as **the driving agent of Acts** — endorsing Chrysostom's designation of
+the book as **"the gospel of the Holy Spirit."** On his account the Spirit is **promised by the
+Father** (1:4) and **poured out by the exalted Jesus** (2:33), who mediates the Father's promise;
+Pentecost (see [[pentecost|Pentecost]]) is thus "a visible indication that the new era of the
+Messiah had arrived." The Spirit is, "in a real sense, the 'gift'" (2:38–39), and the two key gifts
+of salvation for Luke are "forgiveness and the Spirit."
+
+- **Empowerment for witness.** Bock characterizes the Spirit chiefly as **empowering for
+  proclamation and mission** — the "Spirit of witness and testimony," equipping the community to
+  carry the word from Jerusalem to Rome (Acts 1:8). He qualifies Turner's and Menzies's narrower
+  "Spirit of prophecy" thesis as too restrictive: the Spirit's work also includes salvation
+  (2:38–39), transformed lives (2:42–47), and an ethical dimension.
+- **"No set pattern" of Spirit-bestowal.** A load-bearing claim for Bock is that **"there is no
+  pattern in how the Spirit comes in Acts."** The Spirit falls at varied points relative to
+  baptism and the laying on of hands: a **delay at Samaria** (Acts 8), the Spirit falling on
+  [[cornelius|Cornelius]] and his household **before baptism** (10:44), and the Spirit coming when
+  Paul lays hands on the **disciples of John at Ephesus** (19:1–7, "the final mention of tongues in
+  Acts"). Bock draws the corollary that tongues are not a required "evidence" of Spirit-baptism
+  (see [[glossolalia|glossolalia]]).
+- **Community emphasis.** Bock holds that **"Luke emphasizes what the Spirit does for the community
+  more than ... in each believer"** — the Spirit's work is corporate, oriented to the church's
+  common life and mission. He also speaks of the "Spirit of Christ" (16:7) as the mediation of the
+  Spirit from Jesus, and notes the Spirit as co-witness with the apostles (5:32) and as the speaker
+  of Scripture "through Isaiah" (28:25).
+
 ## Relation to Other Concepts
 
 - [[pro-nicene-theology]] · [[opera-trinitatis]] · [[nicaea-and-its-legacy]]
@@ -125,4 +155,6 @@ compares to Λόγος in John's prologue. His claims:
 - [[revelation]] — the Spirit constitutes the "subjective side" of revelation (*Revealedness*)
 
 ---
-*See also*: [[karl-barth]], [[barth-church-dogmatics-i1-s8-12]], [[trinity]], [[filioque]], [[redemption]], [[reconciliation]], [[rt-france]], [[france-mark-nigtc]], [[mark]]
+*See also*: [[karl-barth]], [[barth-church-dogmatics-i1-s8-12]], [[trinity]], [[filioque]], [[redemption]], [[reconciliation]], [[rt-france]], [[france-mark-nigtc]], [[mark]], [[pentecost]], [[glossolalia]], [[acts]], [[darrell-bock]]
+
+*Sources include*: [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007]]

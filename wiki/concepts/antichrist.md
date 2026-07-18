@@ -3,7 +3,7 @@ title: Antichrist (ἀντίχριστος)
 domain: theology / eschatology / Christology
 traditions_using: [Christianity — Johannine; Pauline; later Christian eschatology broadly]
 sources_ingested: 4
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [concept, christianity, new-testament, johannine, pauline, eschatology, christology, revelation]
 ---
 
@@ -20,6 +20,8 @@ The term was developed but not invented by John; 1 John 2:18 assumes the readers
 ### Singular: The Eschatological Antichrist
 
 "As you have heard that the antichrist is coming..." (2:18a). This refers to an expected end-time figure of opposition to Christ — an idea present in Jewish and Christian eschatological thinking, though not under this specific name in earlier sources. The author acknowledges the tradition but does not develop it; his interest is in the plural sense.
+
+[[colin-kruse|Kruse]] (PNTC) locates the background specifically in **Jewish apocalyptic** writings and holds that, while the *concept* of an end-time God-opposing figure is inherited, **the author of 1 John probably coined the actual term** *antichristos*. He distills five points across the NT witnesses (2 Thess 2; Matt 24 // Mark 13; 1–2 John; Rev 12–13): (1) a powerful antichrist figure belonged to early Christian teaching; (2) a distinction was drawn between the great final antichrist and lesser antichrists already active; (3) their function is to **deceive**; (4) in every source *except* 1–2 John the antichrist figures attack **from without**; and (5) **only in 1 John are the antichrists identified as former members of a Christian community** (2:19). Kruse resists Brown's call to "demythologize" the term into merely "the evil of schism": schism should indeed make Christians slow to brand others "antichrists," yet "there are times when erroneous teaching… has to be named."
 
 ### Plural: The Secessionists as Antichrists
 
@@ -43,7 +45,9 @@ The criterion for identifying the spirit of antichrist is explicitly Christologi
 
 **"Spirit of antichrist" (4:3)**: The false prophets are not merely wrong individuals; they are inhabited or moved by a spiritual power opposed to God. The author is not merely offering an epistemological criterion but making a statement about the spiritual reality at stake.
 
-**The expected singular vs. present plural**: Marshall notes this is not contradiction: the many present antichrists are forerunners and manifestations of the expected singular opponent; their appearance is itself a sign of the eschatological hour.
+**The expected singular vs. present plural**: [[i-howard-marshall|Marshall]] notes this is not contradiction: the many present antichrists are forerunners and manifestations of the expected singular opponent; their appearance is itself a sign of the eschatological hour. Marshall **explicitly rejects the "demythologizing" reading** (that John dissolved the future Antichrist into the present many): "He has not demythologized the figure of the antichrist, nor does he deny the future coming of the antichrist" — the present false teachers are merely "possessed by the spirit of the antichrist, whose own coming still lay in the future." For Marshall the antichrist of 2 John 7 is "the deceiver par excellence" (as one might call a supremely evil person "the very devil"), and the term characterizes purely negative *deniers* — people whose whole stance is "the denial that Jesus is the Christ," unlike the false-Christs-and-prophets of Mark 13:22.
+
+**Wordplay — *chrisma* / *antichristos*.** Marshall observes that the "anointing" (*chrisma*, 2:20, 27) which the true believers possess puns on *antichristos*: both derive from *chriō*, "to anoint." The antichrists lack the very anointing whose name their title parodies; the true believers' anointing (the Word received through the Spirit) is precisely the antidote to their teaching.
 
 ## The Man of Lawlessness (2 Thessalonians 2:3–12)
 
@@ -108,6 +112,7 @@ The Protestant Reformation applied "antichrist" to the papacy (Luther). The spec
 - Concepts: [[apocalyptic-literature|Apocalyptic Literature]] (eschatological context); [[daniel|Daniel]] (OT background, Dan 10–12)
 - Figures: [[satan|Satan / the Devil]] — the dragon who empowers the beast; the related but distinct cosmic adversary; and [[secularization-of-evil|the modern "death of Satan"]]
 - Commentators: [[i-howard-marshall|I. Howard Marshall]], [[colin-kruse|Colin G. Kruse]], [[jeffrey-weima|Jeffrey A. D. Weima]], [[grant-osborne|Grant R. Osborne]]
+- Sources: [[marshall-epistles-of-john-nicnt|Marshall, The Epistles of John (NICNT)]] · [[kruse-letters-of-john|Kruse, The Letters of John (PNTC)]]
 - Revelation: [[revelation|The Revelation to John]] (the beast, chs. 13, 17); [[osborne-revelation-becnt|Osborne BECNT]] (Antichrist excursus + chs. 13, 17); [[revelation-interpretive-schools|The Four Interpretive Schools]]
 
 ## Related Texts

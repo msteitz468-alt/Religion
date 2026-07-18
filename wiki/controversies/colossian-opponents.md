@@ -9,7 +9,7 @@ positions:
   - Platonic-Pythagorean mysticism
 traditions_involved: [Christianity — Protestant, Christianity — Catholic]
 resolution_status: open
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, pauline, colossians]
 ---
 
@@ -89,3 +89,4 @@ The identification of the opponents determines how Paul's response is read:
 - [[colossians-authorship|Colossians: Pauline or Deutero-Pauline?]] — authorship question shaped partly by interpretation of opponents
 - [[ephesians-authorship|Ephesians: Pauline or Pseudonymous?]] — comparison letter for the related authorship debate
 - [[new-perspective-on-paul|The New Perspective on Paul]] — the Jewish character of the opponents connects to NPP discussions of "works of the law"
+- [[mcknight-colossians-nicnt|McKnight, *Colossians* (NICNT)]] — source for the halakic-mystics reconstruction

@@ -2,7 +2,7 @@
 title: Doctrine of Retribution
 domain: theology
 traditions_using: [judaism, christianity]
-sources_ingested: 1
+sources_ingested: 3
 last_updated: 2026-07-18
 tags: [concept]
 ---
@@ -17,9 +17,10 @@ the wicked experience untold hardship, leading to premature death" (Hartley, *Jo
 pp. 48–49). The doubling is the point: the doctrine makes two symmetrical claims, one about
 the righteous and one about the wicked, and both are put under pressure by Job's case.
 
-Everything on this page below the definition derives from a single ingested source
-([[hartley-job-nicot|Hartley, *The Book of Job*, NICOT]]) and is stated in attributed
-voice accordingly.
+The Job material on this page derives from [[hartley-job-nicot|Hartley, *The Book of Job*,
+NICOT]] and the Proverbs material from [[waltke-proverbs-nicot|Waltke, *Proverbs 1–15*, NICOT]];
+both are stated in attributed voice, and neither source's framing is promoted to bare wiki
+voice.
 
 ## Origin and Ancient Setting
 
@@ -167,6 +168,73 @@ observations. Both are recorded here without adjudication; see
 [[elihu-speeches-authenticity|the Elihu speeches controversy]] for the related source-critical
 dispute.
 
+## Retribution in Proverbs — Waltke's "personal divine retribution"
+
+A second ingested source, [[bruce-waltke|Bruce K. Waltke]]'s NICOT commentary on
+[[proverbs|Proverbs]], treats retribution from the wisdom tradition's constructive side rather
+than through Job's interrogation of it. Everything in this section is stated in Waltke's
+attributed voice.
+
+Waltke's central polemic is against **K. Koch**'s "deed-destiny nexus" (*synthetische
+Lebensauffassung*) — the thesis that acts carry their own consequences within an impersonal,
+self-executing order (analogized to Egyptian *ma'at*), with God reduced "to a first cause
+within a deistic view of reality," a "midwife or a chemical catalyst" (Huwiler). Against this
+Waltke reformulates the connection as a **"character > conduct > consequence"** relation —
+"what you are determines what you will become" — and insists it is upheld by **the LORD's
+personal agency**, not by an autonomous mechanism. His conclusion: "it is more appropriate to
+speak of personal divine retribution in Proverbs than of an impersonal world order."
+
+His textual arguments:
+- **Editorial structure guards against fatalism.** "World-order sayings" are deliberately
+  interleaved with **Yahweh-sayings** placed at the beginnings and ends of units (e.g. the
+  blessing-saying 10:22 protecting 10:24–25 from a works-autonomy misreading; 10:27; 11:1;
+  15:8–9, 25, 29), and the whole is keyed by [[fear-of-the-lord|the fear of the LORD]] as the
+  prologue's "hermeneutical key."
+- **Deferred, not tidy.** Like Hartley on Job, Waltke denies any "tidy calculus": 10:2 "clearly
+  implies that there is no tidy calculus between virtue and its rewards"; the wicked's
+  frustration and the righteous's satisfaction "occur in the indefinite future, not necessarily
+  in the present," so "until the time of justice the righteous may suffer hunger." He builds in
+  deliberate correctives — 13:23 (tyranny sweeps away the diligent poor's food) is "a healthy
+  corrective to a simplistic understanding... of the principle of retribution" — and grants a
+  "topsy-turvy," "morally upside-down" world for a season (14:19; 15:16). Delitzsch, quoted
+  approvingly: "the divine justice manifests itself in this world only as a prelude, but not
+  perfectly and finally."
+- **Retribution pushed beyond death.** Because justice is often not settled in this life,
+  Waltke reads Proverbs as projecting vindication into a future that "may lie beyond clinical
+  death," and finds in the book an implied **immortality of the righteous** (12:28's *'al-māwet*;
+  14:32; 15:24) — a hope the innocent murdered traveler of 1:10–19 requires. (Contrast
+  Hartley's Job, where [[sheol|Sheol]] tends to *foreclose* post-mortem settlement; the two
+  wisdom books press the same problem toward different resolutions — recorded as positions, not
+  adjudicated.)
+
+**Convergence with Hartley on Job.** Both sources, read together, resist the popular "obey and
+prosper" reduction: Hartley's Job corrects "misguided applications" of retribution from the
+side of the suffering righteous, while Waltke's Proverbs re-anchors the doctrine in God's
+personal justice from the side of the sages' constructive teaching. Neither treats earthly
+retribution as, in Hartley's phrase, "the backbone of divine justice."
+
+### Reciprocity, deferral, and common grace (Waltke, Vol. 2)
+
+The second Proverbs volume (Collections IIB–VII) reinforces the "personal divine retribution"
+reading with a **doctrine of reciprocity**: "the way the Lord treats mortals depends on the way
+they treat their neighbors." Representative loci Waltke develops: the one who increases wealth by
+interest from the poor "gathers it for one gracious to the poor," because "in his secret Providence
+the compassionate God … gives back to them the wealth unjustly taken" (28:8); turning the ear from
+instruction makes even one's prayer detestable — "if a man … is deaf to instruction, then God … is
+deaf to prayer" (28:9); the generous "do not lack" and the stingy incur "abounding curses" (28:27).
+
+Two qualifications keep this from collapsing into mechanism. First, **deferral**: "the Lord may
+allow the wicked to enjoy morally ill-gotten gain before he executes his justice" (16:8), and "the
+question of when this will happen is left in the hands of God" (16:4b); "for a while the impious …
+abound, but in the end the righteous will survive and see God's moral order worked out — not due to
+some inexorable destiny but to the Lord's intervention" (29:16). Second, **common grace**: at 29:13
+("the LORD gives light to the eyes of both" oppressed and oppressor) Waltke names "common grace …
+[that] transcends a simple calculus of rewarding good and punishing evil (Matt 5:44–45)." Private
+vengeance is forbidden to the disciple throughout ("Do not say 'I will repay evil'! Look
+expectantly to the Lord and he will avenge you," 20:22; cf. 24:29), the just king serving as God's
+appointed agent of public justice. This is the same personal-but-deferred structure the
+[[proverbs|Proverbs]] page and [[fear-of-the-lord|fear of the LORD]] anchor in special revelation.
+
 ## Key Text–Concept Connections
 
 - [[book-of-job|Job]] — the primary locus; the doctrine is the dialogue's contested premise.
@@ -185,6 +253,11 @@ dispute.
 
 1. [[hartley-job-nicot|Hartley, John E. *The Book of Job*. NICOT. Grand Rapids: Eerdmans,
    1988]] — ingested 2026-07-18.
+2. [[waltke-proverbs-nicot|Waltke, Bruce K. *The Book of Proverbs: Chapters 1–15*. NICOT.
+   Grand Rapids: Eerdmans, 2004]] — ingested 2026-07-18.
+3. [[waltke-proverbs-15-31-nicot|Waltke, Bruce K. *The Book of Proverbs: Chapters 15:30–31:31*.
+   NICOT. Grand Rapids: Eerdmans, 2005]] — fidelity re-ingest 2026-07-18 (reciprocity, deferral,
+   common grace).
 
 ## Cross-Links
 

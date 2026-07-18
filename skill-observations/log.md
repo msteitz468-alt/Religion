@@ -357,3 +357,33 @@ DECLINED = user decided not to pursue
 **Suggested improvement:** Add to CLAUDE.md Step 2 (Deployed Subagent Strategy): for prose-dense commentary where lines are long/unwrapped, size and place cuts by a **word-count cumulative** map, not line count, and locate each boundary at a verified **exposition opening in the body** (the prose paragraph after the section header + translation), never at a header/outline-stub line — because works with a detailed-outline front block and per-unit recaps repeat every header 2–3×. Concretely: before spawning, grep the body for section headers, then confirm each intended boundary sits at real exposition by checking local line-length/rich-line density (a stub cluster is short lines; exposition is ~250+ char lines). Also brief each extractor with its exact VERSE range (not just line range) and instruct: "your slice may contain material past your briefed verses — extract to the end of the slice's real exposition and flag overflow, rather than stopping at your briefed endpoint." That converts silent tail-drops into logged overflow the integrator can dedupe.
 
 **Principle:** When work is partitioned for parallel extraction, the failure mode is not bad extraction but bad boundaries. A boundary defined by a structural marker (a header line) can be far from the content that marker names when the source repeats its outline; and a boundary sized by line count mis-estimates coverage when line density is non-uniform. Partition by the quantity you actually care about (words/content), verify boundaries against real content, and make "extract past your nominal endpoint" the default so slice seams over-cover rather than under-cover.
+
+### Observation 25: Parallel extractor silently under-read its assigned slice; caught only by a sibling slice's absence-flag
+
+**Date:** 2026-07-18
+**Session context:** Fidelity re-ingest of Thielman, *Ephesians* (BECNT). Eight disjoint line-range extractors over ~203k words of dense long-line commentary. Slice 7 (household code, 5:15–6:9, raw lines 4914–5721 = 808 local lines) was briefed to read its full slice and to overflow past its nominal verse endpoint (6:9). It reported reading "lines 1–531 in full" plus "lines 533–623 overflow," i.e. it stopped ~185 lines short of the end of its OWN assigned 808-line slice — silently under-covering the §XII armor-of-God exposition (6:10–17: *kosmokratores* first-occurrence, Isa 11:5/59:17 source-analysis) that sat in its slice tail. The gap surfaced only because slice 8 (starting at the 6:18 sub-section boundary) explicitly flagged "no body text for 6:10–17 here." Main thread then recovered raw lines 5450–5721 directly.
+**Skill:** Religion-wiki CLAUDE.md "Deployed Subagent Strategy" (Step 3 recovery; Step 4 integration)
+**Type:** internal
+**Phase/Area:** Ingest workflow — extractor coverage verification
+
+**Issue:** The overflow instruction (Obs-24) converts *seam* under-coverage into logged overflow, but it does not catch an extractor that under-reads the *interior/tail of its own assigned range* and still self-reports success ("read in full"). Here two things compounded: (a) a section header (§XII at raw 5722) whose real exposition began ~270 lines earlier (recap-header repetition), so the "6:10–20" material lived in the previous slice's tail; and (b) the previous extractor quitting before its slice end. The safety net that actually worked was the *next* slice's faithfulness-mandate flag ("expected 6:10–17 not present here"), i.e. cross-slice absence-flagging, not the overflow rule.
+
+**Suggested improvement:** Add a lightweight main-thread coverage check between Step 3 and Step 4: for each returned digest, confirm the extractor's reported end-locus reaches its assigned slice's last line (compare the digest's stated coverage against the slice's `wc -l`), and treat any shortfall as a recovery trigger for the unread tail — do not rely solely on a sibling slice happening to flag the absence. Cheap implementation: brief each extractor to end its digest with the LAST line number / verse it actually reached, and have the integrator diff that against the slice boundary. Keep the cross-slice absence-flag as a second, independent check.
+
+**Principle:** With parallel extraction, "extract past your endpoint" guards the *seams* but not the *interior*; an agent can under-read its own range and still claim completion. Coverage must be verified against the assigned boundary mechanically (reported end-locus vs. slice end), not inferred from the agent's self-report or from whether a neighbor happened to notice the hole.
+
+### Observation 26: Prior-pass soft edges on Longman Ecclesiastes need reingest correction not only wiring
+
+**Date:** 2026-07-18
+**Session context:** Fidelity re-ingest of Longman NICOT Ecclesiastes (parallel to Song same day)
+**Skill:** CLAUDE.md Ingest Workflow — Step 0 re-ingest decision table / Scope & Fidelity
+**Type:** internal
+**Phase/Area:** Re-ingest fidelity audit vs wiring-only repair
+
+**Issue:** The 2026-06-05/07 Ecclesiastes pages already had the right high-level architecture (two voices, Akkadian autobiography, foil). Fidelity defects were soft edges: *hebel* framed primarily as vapor with “meaningless” secondary, while Longman prefers English “meaningless” and rejects KJV “vanity”; *carpe diem* mixed as “gift of daily life” affirmation rather than Longman’s consistent resignation/anodyne reading. These are content/fidelity issues, not link wiring — Step 0 correctly required re-extraction.
+
+**Suggested improvement:** When auditing a pre-standards wisdom commentary re-ingest, check translation-term preferences and evaluative valence (resignation vs affirmation; positive vs critical epilogue) against the body, not only structural slogans that already match the commentator.
+
+**Principle:** Structural agreement with a prior pass does not prove fidelity; evaluative valence and preferred technical translations are high-signal places where textbook paraphrase softens the source.
+
+**Status:** OPEN

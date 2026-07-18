@@ -2,7 +2,7 @@
 title: Circumcision (Brit Milah)
 domain: ritual / theology / law / mysticism
 traditions_using: [Judaism (rabbinic and Kabbalistic), Christianity (as superseded sign), Islam]
-sources_ingested: 6
+sources_ingested: 7
 last_updated: 2026-07-18
 tags: [concept, judaism, christianity, islam, kabbalah, covenant, ritual]
 ---
@@ -197,8 +197,45 @@ The three traditions' divergent valuations of one rite map their deeper differen
 
 ---
 
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from the ingest of [[darrell-bock|Bock's]] BECNT [[acts|Acts]]. All interpretive
+claims are [[darrell-bock|Darrell Bock]]'s.*
+
+Bock treats circumcision as the fault-line of the church's first great controversy, resolved at the
+[[jerusalem-council|Jerusalem consultation]] (Acts 15). There the demand that Gentiles be
+circumcised and keep the law is, on Bock's reading, **"emphatically refuted"** as a requirement for
+salvation: Peter calls it "testing God" and a **"yoke" (*zygos*)** that "no one, not even Jews," has
+been able to bear (15:10), and James rules that the church should stop troubling the Gentiles
+(15:19). Bock reads the "yoke" not as a critique of the law itself but as "an inability that the law
+fosters" (cf. Rom. 7). The upshot: **Gentiles are included uncircumcised** — already dramatized when
+the Spirit falls on the uncircumcised [[cornelius|Cornelius]] (10:44–48; cf. the objection at 11:3,
+"you ... ate with" uncircumcised men).
+
+Bock reads Paul's own practice as consistent with this, turning on the distinction between
+**strategy and principle**:
+
+- **[[timothy|Timothy]] circumcised (strategy).** Paul circumcises Timothy (16:3) "out of
+  sensitivity to the Jews," because Timothy has a Jewish mother and a Greek father; the issue "is
+  mixed ancestry, not Gentile inclusion" — a matter of removing needless offense in a mixed
+  community (1 Cor. 9:19–23), not of requiring the rite. Bock: "Paul is not standing up for the law
+  ... but is affirming Jewish heritage alongside Gentile heritage."
+- **[[titus|Titus]] not circumcised (principle).** Titus, a Gentile of unmixed ancestry, is "a
+  different case and principle. He is not to be circumcised" (Gal. 2:3–5) — where the principle of
+  Gentile freedom is at stake, Paul refuses. Bock: knowing "which principles are worth standing up
+  for and which ... are not worth elevating ... is a sign of discernment."
+
+The later rumor that Paul teaches diaspora Jews "to forsake Moses ... not to circumcise their
+children" (21:21) Bock judges false: "the likelihood is that Paul does not teach nonobservance, but
+neither does he insist on observance where Gentiles are involved." The relation of this reading to
+the Paul of the epistles is recorded on [[acts-paul-tensions|Acts and the Paul of the Epistles]].
+
 ## Cross-Links
 
+- [[jerusalem-council|Jerusalem Council]] — where the circumcision demand is "emphatically refuted" (Bock)
+- [[gentiles|Gentiles]] · [[god-fearers|God-fearers]] · [[cornelius|Cornelius]] — Gentiles included uncircumcised
+- [[timothy|Timothy]] (circumcised, strategy) · [[titus|Titus]] (uncircumcised, principle)
+- [[acts|Acts of the Apostles]] · [[darrell-bock|Darrell Bock]] · [[acts-paul-tensions|Acts and the Paul of the Epistles]]
 - [[abraham|Abraham]] — the first to be circumcised (Gen 17); Ḥesed
 - [[tsaddiq|Tsaddiq]] / [[sefirot|Yesod]] — the sefirah of the covenant
 - [[joseph|Joseph]] — the guardian of the covenant (sexual holiness)
@@ -214,3 +251,4 @@ The three traditions' divergent valuations of one rite map their deeper differen
 - [[moses|Moses]] — born circumcised; withheld *peri’ah* at Exodus for haste
 - [[amalekites|Amalekites]] — cut incomplete covenant sign; war of covenant vengeance
 - [[shekhinah|Shekhinah]] — bond of Shekhinah via *brit*; matstsot as deficient moon until uncovering
+- [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007]] — Acts 15 / Timothy vs. Titus

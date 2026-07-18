@@ -2,7 +2,7 @@
 title: The Eschatological Temple (The Church as God's Dwelling Place)
 domain: theology / ecclesiology / eschatology
 traditions_using: [Christianity — especially Pauline and Johannine; Second Temple Jewish background; Judaism]
-sources_ingested: 4
+sources_ingested: 6
 last_updated: 2026-07-18
 tags: [concept, christianity, new-testament, pauline, johannine, ecclesiology, eschatology, temple]
 ---
@@ -57,7 +57,7 @@ Here *sōma* (body) of the individual believer is the temple. Sexual union with 
 Ephesians develops the temple concept most extensively within a sustained argument about Jew-Gentile reconciliation. The passage follows immediately from the "middle wall" text (2:14–15): once the Mosaic law as social barrier is abolished and the "one new human being" created (2:15), the new humanity is constituted as a single household and temple:
 
 - **2:19**: Former Gentile aliens (*xenoi*, *paroikoi*) are now "members of the household of God" (*oikeioi tou theou*) — the household metaphor introduces what becomes a building/temple image.
-- **2:20**: The foundation is "the apostles and prophets" (NT; genitive of authorship — the revelation they received, not the OT prophets), with Christ Jesus himself as the "cornerstone" (*akrogōniaios*). The cornerstone — the stone that determines the orientation of the entire structure — is Christ. The Greek *akrogōniaios* could also mean "capstone" (the final stone crowning the structure), but *akrogōniaios* in LXX Isa 28:16 (which Paul has already cited in Rom 9:33 and 1 Pet 2:6–7) means the foundation cornerstone, and the sense "in whom the whole structure is joined together" (2:21) confirms the foundation/cornerstone reading.
+- **2:20**: The foundation is "the apostles and prophets" (NT; genitive of authorship — the revelation they received, not the OT prophets), with Christ Jesus himself as the "cornerstone" (*akrogōniaios*). The cornerstone — the stone that determines the orientation of the entire structure — is Christ. The Greek *akrogōniaios* could also mean "capstone" (the final stone crowning the structure), but *akrogōniaios* in LXX Isa 28:16 (which Paul has already cited in Rom 9:33 and 1 Pet 2:6–7) means the foundation cornerstone, and the sense "in whom the whole structure is joined together" (2:21) confirms the foundation/cornerstone reading. [[frank-thielman|Thielman]] treats the foundation-vs-keystone debate (which Best judged "insoluble") as a false either/or: following Mayer, Christ is both *fundamentum fundamentorum* and *finis finium* — the "topmost foundation stone" that anchors the building and governs its orientation, so the stone that is laid first is also the stone toward which the whole grows.
 - **2:21**: "In him the whole structure, being joined together (*synarmologoumenē*), grows into a holy temple in the Lord." *Synarmologoumenē* — joint-fitting, dovetailing — describes precise masonry. The temple is under construction; it grows (*auxei*). This is an unusual combination of building and growth metaphors: the temple is organic (a growing body) and architectural (a structure being fitted together).
 - **2:22**: "In him you also are being built together (*synoikodomeisthe*) into a dwelling place (*katoikētērion*) for God by the Spirit." *Synoikodomeisthe* — "built together" — uses the *syn-* prefix again (cf. 3:6's *syn-* compounds in the mystery definition). The Gentile addressees are being built *together with* Jewish believers into a single structure. The telos: a *katoikētērion* (a permanent dwelling, not merely a *paroikia* / temporary lodging) for God by the Spirit.
 
@@ -78,6 +78,8 @@ Believers as "living stones" being built into "a spiritual house" (*oikos pneuma
 - **Resurrection and the body (ch. 15)**: The resurrection vindicates the body as permanently significant — God will raise and glorify the same bodies that now constitute his temple.
 
 The temple concept also links individual ethics to community ethics: what I do with my body affects God's corporate dwelling; what we do in worship either honors or dishonors the indwelling Spirit.
+
+**Four unifiers (C&R Introduction, re-read 2026-07-18).** Alongside lordship of Christ, worldwide worship (Mal 1:11 / "every place"), and the glory of God, the eschatological temple is one of four themes C&R name as giving the letter theological unity. Paul's priestly self-understanding (cf. Rom 15:16 and Isa 66:18–21 as they read it) presents Gentile converts as an offering; the local church is the Spirit-filled house that must not be defiled by factional "destroyers" (3:17), sexual immorality (6:19), or the table of demons (10:21).
 
 ## Eschatological Dimension
 
@@ -100,10 +102,15 @@ See [[new-creation|New Creation]] and [[lamb-of-god|The Lamb of God]].
 
 The NT temple-church concept does not simply replace the Jerusalem temple without remainder. In Acts, Paul's own practice involves the temple and temple vows (Acts 21:26). The tension between the stone temple and the community-as-temple reflects Second Temple debates about the sufficiency of the existing temple structure. After the temple's destruction in AD 70, the church-as-temple concept became even more theologically central — especially in the Johannine tradition (John 2:19–22: Jesus's body as the new temple). The rabbinic tradition developed a parallel concept of the synagogue and Torah study as the locus of divine presence (the *Shekhinah*) after the temple's fall. See [[tabernacle|Tabernacle and Sanctuary Theology]].
 
+### 2 Thessalonians 2:4 — not the church-as-temple (Weima)
+
+At 2 Thess 2:4 the man of lawlessness "takes his seat in the temple of God (*naos*), proclaiming himself to be God." [[jeffrey-weima|Weima]] (*[[weima-1-2-thessalonians-becnt|1–2 Thessalonians, BECNT]]*) **rejects** reading this *naos* as the church (Chrysostom; Reformers vs. papacy; Giblin; Beale) or as a heavenly temple. He prefers the **historic Jerusalem sanctuary** used **metaphorically/typologically**: a desecration motif (Ezekiel/Daniel; Antiochus–Pompey–Caligula pattern) that portrays the lawless one's character more than a required future rebuild site for predictive fulfillment. Caligula's AD 40 near-desecration, roughly a decade before 2 Thessalonians in Weima's chronology, keeps the motif historically vivid while the temple still stood. This is thus a Pauline temple text that, on Weima's reading, does *not* instantiate the community-as-temple theme of 1 Cor 3/6 and Eph 2. See [[antichrist|Antichrist (man of lawlessness)]], [[2-thessalonians|2 Thessalonians]], [[2-thessalonians-authorship|2 Thessalonians Authorship]].
+
 ## Key Links
 
 - [[ephesians|Letter to the Ephesians]] — 2:19–22; the most extended cosmic/universal development
 - [[frank-thielman|Frank Thielman]] — source for Eph 2:19–22 treatment; *oikonomia* threading through chs. 1–3
+- [[thielman-ephesians-becnt|Thielman, *Ephesians* (BECNT)]] — source page
 - [[ephesians-middle-wall|The Middle Wall in Eph 2:14]] — the barrier whose demolition enables Gentile incorporation into the temple
 - [[1-corinthians|The First Letter to the Corinthians]] — primary locus for community-as-temple
 - [[roy-ciampa-brian-rosner|Roy E. Ciampa and Brian S. Rosner]] — primary source for 1 Cor temple theme
@@ -119,6 +126,8 @@ The NT temple-church concept does not simply replace the Jerusalem temple withou
 - [[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]] — source for Ezekiel 40–48: ideational reading, graded holiness, river of life, Temple Scroll and Rev 21–22 reception
 - [[ezekiel|Ezekiel]] — the temple vision (chs. 40–48)
 - [[temple-scroll|Temple Scroll]] — Qumran's Ezekiel-connected temple blueprint
+- [[jeffrey-weima|Jeffrey A. D. Weima]] / [[weima-1-2-thessalonians-becnt|Weima, *1–2 Thessalonians* (BECNT)]] — 2 Thess 2:4 as Jerusalem *naos* (metaphorical/typological), not church-as-temple
+- [[antichrist|Antichrist]] — man of lawlessness and temple self-deification
 
 ## Related Texts
 

@@ -2,10 +2,10 @@
 title: Hezekiah
 also_known_as: [Ḥizqiyyahu, Ezekias]
 tradition: cross-tradition (Judaism, Christianity)
-textual_sources: [isaiah, 2-kings, 2-chronicles]
+textual_sources: [isaiah, 1-2-kings, 1-2-chronicles]
 dates: "reigned ca. 727/26–697/96 BCE (Oswalt; accession-date disputed: 727 vs 716/15); born ca. 741 BCE"
 roles: [king of Judah, reformer]
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-07-18
 tags: [figure, judaism, king, davidic-dynasty]
 ---
@@ -93,7 +93,63 @@ Isa 38–39, as the negative foil that pushes messianic expectation forward. See
 - **Babylon hint:** Illness, sign, and Merodach-baladan embassy already point toward exile.
 - **§57 with Josiah:** Good kings in bad times; apostasy can outlast reform within Kings’ plot; messianic and discipleship modeling (trust, reform, costly obedience without immediate reward). Contrast Oswalt: Provan’s load-bearing frame is Kings’ didactic arc to Jehoiachin; Oswalt’s is Isaiah’s structure and messianic non-identification.
 
+## Leithart on Hezekiah (Chronicles frame, 2026-07-18)
+
+*Attributed to [[peter-leithart|Peter J. Leithart]], [[leithart-1-2-chronicles-btcb|*1 & 2 Chronicles* (BTCB)]]. Complements the Oswalt/Isaiah and Provan/Kings portraits above; positions not collapsed.*
+
+In Leithart's reading of [[1-2-chronicles|2 Chronicles 29–32]] ("Rebuilding"), Hezekiah must be
+"a David and a Solomon" reopening the temple [[ahaz|Ahaz]] had shut. His reform radiates "out
+from the temple to the city to the nations" — cleansing (29), Passover (30), holy gifts (31),
+deliverance from Sennacherib (32):
+
+- **The only "kippuring" in Chronicles**: the first-month temple cleansing is the one place in
+  the book where a purification offering (*khaṭṭāʾt*) is described and "the only time we see the
+  people offering sacrifice" — a new-creation, new-year purgation in which "song has become
+  sacrifice."
+- **Great Passover and the reunion of the tribes**: Hezekiah invites the northern remnant "from
+  Dan to Beersheba," framing the invitation as a call to repentance turning on *shuv* ("if they
+  turn, Yahweh will turn"). "The renewal of David's kingdom will not be complete unless all
+  Israel assembles in the chosen city." The unclean northerners eat "otherwise than written";
+  Hezekiah **prays** rather than performing atonement, and YHWH "heals" them — for Leithart "a
+  step toward worship in the new-covenant mode, where prayer and praise are the fulfilled forms
+  of sacrifice" (though not a spiritualization). Its "great joy" is, "ominously… the last outburst
+  of joy in Chronicles."
+- **Worship as warfare vs. Sennacherib**: "Worship and prayer are Judah's chief tactics of
+  warfare"; Sennacherib, who "treats the Elohim of Israel as another of the Elohim of the
+  nations," has "a mere 'arm of flesh,'" and the angel destroys his army in a single verse.
+- **The one flaw**: pride after his healing, then humbling (32:25–26) — "even the greatest of
+  kings sin and rouse the Lord's anger." Leithart shares with Provan the "grace even for the best"
+  note but frames the reign through Davidic-Solomonic typology and the *seek/find* engine rather
+  than Kings' didactic arc.
+
+## "The Men of Hezekiah" and the Book of Proverbs (Waltke, 2026-07-18)
+
+*Attributed to [[bruce-waltke|Bruce K. Waltke]], [[waltke-proverbs-15-31-nicot|*Proverbs
+15:30–31:31* (NICOT, 2005)]].*
+
+Beyond the Kings/Isaiah/Chronicles portraits above, Hezekiah figures in the composition history of
+[[proverbs|Proverbs]] through the superscription of Collection V: "These also are proverbs of
+Solomon, which the men of Hezekiah copied and collected" (Prov 25:1). Waltke reads "the men of
+Hezekiah" (*ʾanšê Ḥizqiyyâ*) as a "godly, wise and literate" scribal body "in close association
+with" the king (cf. "David's men"), who "moved" — transmitted and arranged — a selection of
+Solomon's 3,000 proverbs (1 Kgs 4:32) into an appendix (chs 25–29) to the first Solomonic
+collection. He treats this as more than a colophon: on his reading the Hezekian editors actively
+shaped the material, profiling chiasms (26:1–12; 27:1–22) and organizing the "just rulership"
+manual of chs 28–29 by placing "righteous"/"wicked" couplets — noting that 28:28's picture of the
+righteous thriving when the wicked perish "was the case during the reign of Hezekiah."
+
+Waltke's **historical-reliability argument** ties this to the dating of Proverbs: "since no
+tendentious purpose can be suspected in the mentioning of the otherwise unknown 'men of
+Hezekiah,' this is first rate historical evidence that as early as 700 b.c. Israel associated
+Solomon with proverbs." He buttresses it with R.B.Y. Scott's Solomon–Hezekiah parallels (both
+sole rulers over all Israel, both associated with peace, wealth, and Jerusalem-centered worship),
+adding that Hezekiah "brought out of obscurity both David's psalms (2 Chron 29:30) … and Solomon's
+proverbs." This makes Hezekiah's court a hinge in the wiki's account of how the wisdom canon was
+transmitted. See [[solomon|Solomon]].
+
 ## Sources Ingested
 
 1. [[oswalt-isaiah-1-39-nicot|Oswalt, *The Book of Isaiah, Chapters 1–39* (NICOT, 1986)]]
 2. [[provan-1-2-kings-nibc|Provan, *1 and 2 Kings* (NIBC, 1995)]] — fidelity reingest 2026-07-18
+3. [[leithart-1-2-chronicles-btcb|Leithart, *1 & 2 Chronicles* (BTCB, 2019)]] — re-ingest 2026-07-18
+4. [[waltke-proverbs-15-31-nicot|Waltke, *The Book of Proverbs: Chapters 15:30–31:31* (NICOT, 2005)]] — fidelity re-ingest 2026-07-18 (the "men of Hezekiah" and Prov 25:1)

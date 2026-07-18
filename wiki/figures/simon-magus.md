@@ -5,8 +5,8 @@ tradition: cross-tradition (Samaritan religion, proto-Gnostic)
 textual_sources: [acts, first-apology-justin, second-apology-justin]
 dates: 1st century CE (fl. under Claudius, c. 41–54 CE)
 roles: [magician, heresiarch, proto-Gnostic founder]
-sources_ingested: 2
-last_updated: 2026-06-28
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [figure, christianity, gnosticism, heresy, samaritan, second-century]
 ---
 
@@ -73,8 +73,34 @@ Simon's function in early Christian thought:
 - **The Acts figure**: Historical question whether the Acts narrative reflects a real encounter or is a literary construction to illustrate apostolic authority over magic.
 - **Helena**: Entirely unattested outside Simonian sources. May be legendary accretion to the Simon myth.
 
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from [[bock-acts-becnt|Bock, *Acts* (BECNT)]]. All interpretive claims are Bock's
+or those of scholars he names.*
+
+Bock reads Acts 8:9–24 on its own terms and pointedly **resists importing the patristic
+Gnostic-founder portrait** back into Luke's text. Simon is a Samaritan practitioner of magic
+(*mageia*) who "amazed" the city, claiming to be "somebody great," and whom the people acclaim as
+"the great power" — for Bock likely a claim to be an incarnation of the highest God (Jervell),
+attested in Samaritan usage of "the great power" as a divine designation, but "not explicitly
+gnostic" (with Witherington and Barrett, against Haenchen, who charged that Luke "downgraded Simon
+from Gnostic to magician"). When Philip preaches, Simon "believed and was baptized," yet Bock notes
+his belief has "no explicit object," unlike the Samaritans who believe Philip's message, and the
+verb for his continuing with Philip is "not the normal way of describing discipleship." Seeing the
+Spirit conferred through the apostles' hands, Simon offers money for the authority — the episode from
+which the term **simony** derives; Bock reads him as "thinking in his old and more Gentile ways."
+Peter's rebuke ("May your silver go with you into destruction") is a wish that is also a warning; the
+present optative and the call to repentance leave the door open, unlike the immediate judgment on
+Ananias and Sapphira. Bock surveys the debate over the **genuineness of Simon's faith** (Barrett: no
+less sincere than others; Bruce: "sincere, superficial, and inadequate"; Stählin: not true faith)
+and judges the overall impression "primarily negative" — Simon's request that Peter pray for him
+reads as dismissive ("Peter can pray, but Simon will not"). For Bock the scene's point is theological:
+"the Spirit cannot be bought… Christianity has nothing to do with magic."
+
 ## Key Links
 
+- [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007]] — the Acts episode; Bock's
+  resistance to the Gnostic-founder reception
 - [[acts|Acts of the Apostles]] — primary source appearance
 - [[first-apology-justin|First Apology of Justin Martyr]] — Chs XXVI, LVI
 - [[second-apology-justin|Second Apology of Justin Martyr]] — Ch. XV

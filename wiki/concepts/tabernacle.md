@@ -2,9 +2,9 @@
 title: Tabernacle (Mishkan)
 domain: theology / liturgy
 traditions_using: [Judaism, Christianity]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-07-18
-tags: [concept, theology, liturgy, exodus, tabernacle, temple, kabbalah, mysticism]
+tags: [concept, theology, liturgy, exodus, tabernacle, temple, kabbalah, mysticism, hebrews]
 ---
 
 The **tabernacle** (Hebrew: *mishkan*, "dwelling place"; also *ʾohel moʿed*, "tent of meeting") is the portable sanctuary God commanded Israel to construct in the Sinai wilderness (Exod 25–31; 35–40), designed as the locus of YHWH's visible presence in the midst of the camp. It occupied the center of the Israelite encampment (Numbers) and served as Israel's primary worship space until the construction of Solomon's temple (c. 960 BCE). It is the theological resolution of the book of Exodus: the answer to whether and how God will dwell with a sinful people.
@@ -40,11 +40,27 @@ Bruckner draws a sustained connection between the Exodus tabernacle texts and th
 
 **John 1:14b — "full of grace and truth"**: In Greek, *kharis kai alētheia*, the equivalent of Hebrew *khesed wʾemet* (Exod 34:6). John 1:14 is a compressed citation of the fullest divine name proclamation. See [[divine-name|The Divine Name]].
 
-**Hebrews 8–10**: The Levitical tabernacle as a shadow or copy of the "true tabernacle" in heaven; Christ's high priesthood enacts the definitive entry into the holy of holies with his own blood.
+**Hebrews 8–10**: The Levitical tabernacle as a shadow or copy of the "true tabernacle" in heaven; Christ's high priesthood enacts the definitive entry into the holy of holies with his own blood. Cockerill densification below.
 
 **Revelation 7:15; 21:3**: God "will tent" over the redeemed people; "the tabernacle of God is with humans."
 
 The theological trajectory — Sinai tabernacle → Solomon's temple → exilic hope → incarnation → heavenly sanctuary — traces a single movement of divine descent to dwell with humanity.
+
+### Cockerill (NICNT) — heavenly Tent vs earthly; Exod 25:40; anti-Platonic (2026-07-18)
+
+Attributed to [[gareth-lee-cockerill|Gareth Lee Cockerill]] ([[cockerill-hebrews-nicnt|Hebrews NICNT]]). Digests R2 (message/intro), R7–R8 (symphony 8–10).
+
+**Interlocking typology.** For Cockerill, three Pentateuch images — Sinai, Promised Land, and the wilderness **Tent** — structure Hebrews: daily access to the true Most Holy Place through the Son’s high priesthood (4:14–10:18); heavenly homeland and true Most Holy Place are the same reality — the true dwelling of God (R2 L1499).
+
+**Main point: minister of Sanctuary and true Tent (8:1–2).** From heavenly session follows ministry in “the Sanctuary and the true Tent that the Lord, and not any human being, has pitched” (R7 L3002–3004). “Sanctuary” = close-up of holy presence entered; “Tent” = wide-angle contrast with Mosaic shrine. “True” does **not** brand the Mosaic Tent as “false,” nor identify the heavenly Tent with Philo’s invisible sanctuary of ideas — true because it is where salvation brings eternal fellowship with God (R7 L3012–3016).
+
+**Against Philo / Platonism.** Philo develops the earthly–heavenly pair as sensible copy of noetic pattern (physical universe as sanctuary). Cockerill: Hebrews has little in common with Philo. The Sanctuary of Hebrews is the **place of God’s presence** already entered by the incarnate and exalted Son, open by faith/obedience; Hebrews never uses Tent imagery for the physical cosmos (R7 L3004–3006). “Pattern and shadow” (8:5) are derivative and **anticipatory** of the ministry inaugurated by the Son’s exaltation — not a pattern of eternal ideas or a timeless heavenly cult always ongoing (R7 L3030–3034).
+
+**Exod 25:40.** Moses was “solemnly instructed” to make **all** according to the copy given on the mountain. For Cockerill this authorizes reading the Mosaic Tent as rough reminiscence training Israel for the heavenly reality; Philo uses the same verse without antiquating rituals; Hebrews: prefiguration + self-revealed inadequacy; continued participation in the old Tent’s services would deny Christ’s sufficiency (R7 L3036–3040).
+
+**One heavenly Most Holy Place = heaven itself.** Against two-part heavenly temple readings of “Sanctuary” + “Tent”: same heavenly reality — heaven itself as Most Holy Place only; no purpose for a heavenly Holy Place anterior to a heavenly Most Holy Place once the Son has entered God’s presence (R7 L3008–3010). Linguistic asymmetry: heavenly Tent needs qualifiers (“true,” “greater and more perfect”); earthly Sanctuary always qualified (“earthly,” “made by hand”) (R7 L3090–3092).
+
+**9:1–10: Spirit’s parable.** Earthly sanctuary structure (First/Second “Tents”) demonstrates impossibility of approach under the old and anticipates the “new and living way” (10:20). While the First Tent (Holy Place) had validity, the way into the (heavenly) Sanctuary was not revealed; Old = Holy-Place religion; New has only Most Holy Place = “heaven itself” (9:24) (R7 L3124–3128). Christ arrives as High Priest of “good things that have come” through the greater and more perfect Tent not made with hands, not of this creation (= 8:2 true Tent); rejects intermediate-heaven and body-as-Tent readings of 9:11 (R7 L3156–3170). Entered once for all by own blood into the Sanctuary; appears “to the face of God on our behalf” in “heaven itself” (R7–R8). Heavenly “cleansing” is not a Platonic dualist problem: sin of the people polluted access; Christ removes an objective barrier, not a mere interior metaphor (R8).
 
 ## The Tabernacle and the Golden Calf (Exod 32–34)
 
@@ -140,8 +156,10 @@ Cross-references: [[zohar|The Zohar]] · [[matt-zohar-pritzker-vol5|Matt Pritzke
 
 5. [[block-ezekiel-25-48-nicot|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 25–48*. NICOT. Grand Rapids: Eerdmans, 1998 — Exod 25–40 parallels and discrepancies with Ezekiel 40–48; the second-Moses motif; the kābôd-entry pattern.
 
+6. [[cockerill-hebrews-nicnt|Cockerill, Gareth Lee]]. *The Epistle to the Hebrews*. NICNT. Eerdmans, 2012 — fidelity re-ingest 2026-07-18; heavenly Tent vs earthly; Exod 25:40; anti-Platonic reading (R2, R7, R8).
+
 ## Related Texts
 
 - [[ezekiel|Ezekiel]]
 - [[gospel-of-john|Gospel of John]]
-- [[hebrews|Letter to the Hebrews]]
+- [[hebrews|Letter to the Hebrews]] · [[gareth-lee-cockerill|Gareth Lee Cockerill]] · [[cockerill-hebrews-nicnt|Cockerill Hebrews NICNT]] · [[priesthood-of-christ|Priesthood of Christ]] · [[typology|Typology]]

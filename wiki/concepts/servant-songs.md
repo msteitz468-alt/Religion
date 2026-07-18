@@ -135,19 +135,59 @@ Isaiah 53 is quoted or clearly alluded to more than any other OT passage in the 
 
 ### 1 Peter and the Origin of the Servant Christology (Jobes)
 
-[[karen-jobes|Jobes]] (BECNT 1 Peter, 2005) argues that **1 Peter is the source of the familiar
-Christian identification of Jesus with the Isaiah 53 Suffering Servant**. Although Isa. 53 is alluded
-to across the NT, only Peter develops the identification at length (1 Pet. 2:21–25, weaving in 53:4,
-5, 6, 9, 12; cf. the programmatic 1:10–12). Decisively, Jobes (with Achtemeier and Goppelt) notes
-that Peter **exegetes Jesus' death in light of Isa. 53, not vice versa** — the sequence of 2:21–25
-follows the *passion narrative* of Jesus rather than the order of Isaiah 53, showing that the
-historical death of Jesus is primary and Isaiah is the interpretive lens. (The Servant identification
-is *implied* in Acts 8:32–35 but not developed there.) This is part of what Jobes calls Peter's
-"early and creative" Christology — emphases close to the crucifixion that "quickly dropped out" of
-later Christian thought (R. P. Martin) — and it rests on Peter's distinctive hermeneutic that the
-"Spirit of Christ" was already present and speaking to Israel's prophets (1:10–12). The Servant
-Christology thus enters the wiki not only as Isaiah's revelation (Oswalt) but as Peter's apostolic
-appropriation.
+*Deepened 2026-07-18 from the fidelity re-ingest of [[jobes-1-peter-becnt|Jobes, *1 Peter*
+(BECNT)]]. All interpretive claims below are [[karen-jobes|Jobes]]’s (or scholars she reports).*
+
+[[karen-jobes|Jobes]] argues that **1 Peter is the source of the familiar Christian identification of
+Jesus with the Isaiah 53 Suffering Servant**, and that 2:21–25 “forms the heart of 1 Peter’s
+Christology.” On her reading the church “owes this insight to the apostle Peter alone, for it is only
+here in the NT that Christ’s passion is discussed in terms of Isaiah’s prophecy of the Suffering
+Servant.”
+
+**NT distribution (Jobes’s map).** Six NT quotations of Isa 53; only a few touch Jesus at all, and
+none do what Peter does: Matt 8:17 (healing, not the cross); Luke 22:37 (numbered with transgressors
+/ swords); John 12:38 (unbelief); Paul Rom 10:15–16 / 15:21 for his own ministry. Acts 8:32–35
+(Philip and the Ethiopian) is closest but **implies** the identification without exposing elements of
+the passion. Peter’s *pais*-of-God language in Acts 3:13, 26 and the Jerusalem church’s under Peter
+(Acts 4:27, 30) coheres with a Petrine origin. If 1 Peter sources a tradition Luke already assumes
+(~60–62), Jobes allows a letter date in the **50s or earlier**. Preexisting Christ-hymn theories for
+2:21–25 she treats as largely abandoned; direct use of **Isa 53 LXX** is sufficient.
+
+**Creative LXX interweave, ordered by the passion — not proof-text.** Jobes stresses “notably
+**creative** use of OT material”: passion elements are interwoven with Isa 53 LXX language rather
+than cited as bare proof-texts. Hooker (via Jobes): beyond simple appeal to “what is written” to
+**explanation of its significance**. Mapping she offers:
+
+| 1 Pet | Isa 53 LXX / related |
+|---|---|
+| 2:22 | 53:9 (no sin / no deceit) |
+| 2:23 | 53:7c–d (no retaliation/threats); trust ← 53:6c, 12; judges justly ← 53:8a |
+| 2:24 | 53:4a, 12 (bore sins) + body/tree; wounds heal ← 53:5d |
+| 2:25 | 53:6a (wandering sheep) → Shepherd and Overseer |
+
+Decisively (with Achtemeier), the **sequence of 2:21–25 follows the passion narrative** of Jesus
+(trial → crucifixion), not the order of Isaiah 53. Hermeneutical direction: Peter **does not start
+with Isa 53 and find Jesus**; he starts with Jesus’ suffering and death and searches the OT (cf. Luke
+24). Reciprocal sense-making: Jesus’ suffering makes new sense of Isa 53; the Spirit of Christ
+already revealed the sufferings to the prophets (1:10–12). Crucifixion as a **slave’s death**
+corroborates Servant/*pais* identity and links the Christology to household slaves addressed first in
+2:18 (*oiketai*; cf. Isa 53:11 LXX *douleuō* with *pais* at 52:13).
+
+**Not derivative of Paul; early and creative.** Jobes lists the Servant identification among 1 Peter’s
+unique NT contributions (with 3:18–22 spirits/Noah and the living-stones image). Emphases “close to
+the crucifixion” that “quickly dropped out” of later Christian thought (R. P. Martin); Schlatter:
+beside Paul, Peter’s statements are “antiquated.” *Hypogrammon* (“pattern for tracing”) = closest of
+copies: Christ is **the paradigm**, footsteps “to the cross, through the grave, and onward to glory.”
+
+**Corporate Servant after individual Servant.** After identifying Jesus as the individual Servant of
+52:13–53:12, Peter identifies Christians with corporate Servant language (Isa 41:8–11): unjust
+suffering becomes evidence of being chosen, not forsaken — “total appropriation of the language of
+Israel” for Christians (Achtemeier via Jobes), distinct from Hebrews prefiguration, Pauline typology,
+or Matthean proof-texts.
+
+The Servant Christology thus enters the wiki not only as Isaiah’s revelation (Oswalt) and Mark’s
+creative combination of messianic strands (France) but as Peter’s extensive apostolic appropriation
+of the **Fourth Song** to the passion.
 
 ### The Servant in Mark (France, NIGTC Mark, 2002)
 
@@ -191,6 +231,11 @@ The Servant was almost universally read Christologically from Justin Martyr onwa
 
 - **[[isaiah|Isaiah]]** — primary text
 - **[[john-oswalt|John N. Oswalt]]** — commentary source
+- **[[karen-jobes|Karen H. Jobes]]** / [[jobes-1-peter-becnt|BECNT 1 Peter]] — Petrine passion-Servant
+  identification at 2:21–25
+- **[[1-peter|1 Peter]]** — only NT extended passion-in-Isa-53 terms (Jobes)
+- **[[christian-exile-diaspora|Christian Exile / Diaspora Identity]]** — corporate Servant / unjust
+  suffering as chosenness (Jobes)
 - **[[john-hartley|John E. Hartley]] / [[book-of-job|Job]]**: Hartley proposed that Job is the *source* for Isaiah's Servant theology (direction of influence controversy); Oswalt treats the Servant Songs as Isaiah's own revelation
 - **[[theodicy|Theodicy]]**: Isaiah 53 provides the deepest OT answer to the theodicy question — innocent suffering is not merely permitted; it is the divinely chosen means of atonement
 - **[[divine-human-marriage|Divine-Human Marriage Metaphor]]**: Isaiah 54 immediately follows ch. 53 — the covenant of peace (54:10) is only possible after the Servant's atonement; the restored marriage follows the atoning sacrifice
@@ -200,7 +245,11 @@ The Servant was almost universally read Christologically from Justin Martyr onwa
 
 1. [[john-oswalt|Oswalt, John N.]]. *The Book of Isaiah: Chapters 1–39*. NICOT. Grand Rapids: Eerdmans, 1986.
 2. [[john-oswalt|Oswalt, John N.]]. *The Book of Isaiah: Chapters 40–66*. NICOT. Grand Rapids: Eerdmans, 1998.
-3. [[karen-jobes|Jobes, Karen H.]]. *1 Peter*. BECNT. Grand Rapids: Baker Academic, 2005. (For the NT/Petrine appropriation of Isa. 53.)
+3. [[karen-jobes|Jobes, Karen H.]]. *1 Peter*. BECNT. Grand Rapids: Baker Academic, 2005 — see
+   [[jobes-1-peter-becnt|source page]]. (For the NT/Petrine appropriation of Isa. 53 at 2:21–25:
+   only extensive passion-Servant exposition; creative LXX interweave ordered by passion, not
+   proof-text; corporate Servant of Isa 41 after individual Servant of 53. Fidelity re-ingest
+   2026-07-18.)
 4. [[rt-france|France, R. T.]]. *The Gospel of Mark*. NIGTC. Eerdmans, 2002 — see
    [[france-mark-nigtc|source page]]. (For the Marcan appropriation: 1:11; 8:31; 10:45; 14:24.)
    Ingested 2026-07-18.

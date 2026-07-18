@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Hebrew
 date_range: Core attributed to Solomon (950 BCE); Collection V edited by "men of Hezekiah" (715–689 BCE); final editor probably Persian period (540–332 BCE) or Hellenistic era
-sources_ingested: 2
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [text, old-testament, writings, wisdom-literature, proverbs, poetry, ethics]
 ---
 
@@ -148,13 +148,180 @@ A **final editor** (probably Persian period) appended Collections V–VII and co
 - **[[wisdom-literature|Wisdom Literature]]**: Proverbs is the foundational, "confident" Wisdom text; Job and Ecclesiastes qualify and test its claims from the edges
 
 
+## Structure and Poetics as Prerequisite to Meaning (Waltke, Vol. 1)
+
+Waltke's fidelity re-read (chs. 1–15) stresses that the book is edited, not merely collected —
+"enough transparency to prejudice viewing the editors of Proverbs as authors, not merely
+collectors." Several load-bearing points from his Introduction and commentary:
+
+- **Poetics precede hermeneutics.** Following Berlin, Waltke insists "we must first know *how* a
+  text means before... *what* it means." The interpreter works up a hierarchy —
+  sounds → words → versets → verses → proverb pairs → units → sections → collections — using
+  devices (Leitwort, catchword, janus, inclusio, and alternating / concentric / chiastic
+  patterning) to mark unit boundaries. His single-line "rearing/educative" proverbs (10:1; 12:1;
+  13:1; 15:20) function as heuristic markers for the *beginnings* of units, and may explain the
+  medieval chapter divisions.
+- **Two registers, one antithesis.** In the prologue the father, the wicked men, and the
+  unchaste wife move in the "historical register of real experience," while [[woman-wisdom|Woman
+  Wisdom]] is "obviously a heavenly figure." The whole prologue dramatizes a single either/or —
+  "of Wisdom/Folly, Good/Pseudo-Good, Life/Death... there is no third way" — carried by two
+  ways (1:10–19; 4:10–19) and two houses (9:1–6, 13–18).
+- **The "democratization" thesis.** Unlike its ANE analogues, the title (1:1) names no royal
+  addressee (no "Rehoboam"); Waltke argues Solomon and/or the final editor thereby "democratizes"
+  the instruction "to shape the national character of Israel," and the final editor "intended to
+  democratize the book for the entire covenant community."
+- **Verbal inspiration of the sage's words.** On 2:6 (against Fox) Waltke deduces "that the
+  father's words come from the mouth of God; that is, they are verbally inspired"; the sages
+  "spoke as the oracles of God," calling their sayings *tôrâ* and *miṣwôt* (1:8; 3:1) — the same
+  terms as the Mosaic law. This is the ground of Proverbs' authority as revelation rather than
+  distilled human tradition ("one must clearly distinguish between inspiration and tradition").
+
+## The Strange/Unchaste Wife as Paradigm of Apostasy (Waltke, Vol. 1)
+
+The ~65 verses on the "unchaste wife" (*'iššâ zārâ* / *nokrîyâ*) of chs. 5–7 receive, in
+Murphy's count, "more attention... than to any other figure, even to Lady Wisdom." Waltke
+identifies her not as a foreign goddess or cult prostitute but as **an apostate Israelite wife**
+"who abandoned the companion of her youth" (*'allûp ne'ûreyhā*, her faithful husband as her
+teacher) and "forgot the covenant with her God" (*berît 'elōheyhā*, 2:17) — following Hugenberger
+that the marriage covenant with the God of Israel (not a pagan deity) is in view. On the
+symbolic register her sexual infidelity "functions as a paradigm for spiritual infidelity to
+the LORD," validated by her personification as Woman Folly in the epilogue (9:13–18); but Waltke
+insists "the literal intention... must not be minimized." Her seduction (ch. 7) climaxes in
+Garrett's stark reading — "her vagina is the gate of Sheol... her womb, death itself" — with
+imagery Waltke links to the Babylonian Ishtar and Sumerian Inanna as goddesses of both love and
+war. Though God is unnamed in ch. 7, "Solomon assumes that God is the ultimate Agent who
+sentences the gullible to his death" (5:21–23).
+
+## Life, Death, and the Immortality of the Righteous (Waltke, Vol. 1)
+
+Waltke reads "life" (*ḥayyîm*) in Proverbs as overwhelmingly "an abundant life... in fellowship
+with God" that "is never said to be tarnished by death," and the wicked as "already dead because
+they have no relationship with the living God." Explicit afterlife texts — 12:28 (*'al-māwet*,
+which in Ugaritic and post-biblical Hebrew "is the ordinary word for 'immortality'"; Waltke
+argues later scribes and moderns emended it away "not for exegetical reasons"), 14:32 ("even in
+death the righteous seek refuge"), and 15:24 (the path of life "leads upward... from the grave
+below") — lead him to conclude that **"Proverbs teaches immortality, not resurrection."** Sheol,
+Mot, the Pit, and *repā'îm* are treated as "broken mythology": "no theology of the afterlife can
+be built on biblical metaphors from broken myths," though the figures do transform the grave
+"from a six-foot pit to a metaphorical and transcendent realm." See
+[[doctrine-of-retribution|Doctrine of Retribution]] for how this hope resolves the deferral of
+justice.
+
+## The Second Half of the Book (Waltke, Vol. 2: 15:30–31:31)
+
+Waltke's second NICOT volume covers Collections IIB through VII and the concluding acrostic. Its
+governing insight is that the later collections are **edited, not merely collected** — arranged
+by catchword, janus verse, inclusio, and chiasm into units whose sequence carries meaning.
+Several load-bearing results of the Vol. 2 read:
+
+- **The LORD and His King (Collection IIB, 15:30–22:16).** The block opens with a "Prologue: the
+  dance between humanity, the Lord and his king" (15:30–16:15), pairing the Lord's sovereign rule
+  (16:1–9) with rule through his king (16:10–15). Waltke's memorable formulation of divine
+  sovereignty and human responsibility: "The human beings form, the Lord performs; they devise,
+  he verifies." The king is God's **surrogate/vice-regent** — "the Lord could be inserted wherever
+  'king' is found" — whose "inspired verdict" (*qesem*, 16:10) images the Spirit's gifting and
+  who "anticipates the Messiah." Its later royal proverbs (20:8, 26) find fulfillment "in the
+  Messianic kingdom of the eschaton … the King of kings alone can make this separation complete."
+- **Speech ethics as a tracked theme.** Waltke reads an editorially arranged, expanding catalogue
+  of malevolent speakers (trouble-maker, perverse, slanderer, violent, briber, liar, mocker)
+  across 16:27–18:8, climaxing in the merism "**death and life are in the power of the tongue**"
+  (18:21). Gossip (*nirgān*) is "so highly contagious because the human heart has no resistance to
+  it" (18:8 = 26:22).
+- **Righteousness and justice over sacrifice (21:3).** "To do righteousness and justice is more
+  desirable to the Lord than sacrifice." Waltke traces the ethics-over-cult priority through
+  Moses, the prophets, and Jesus, escalated at 21:27 ("the sacrifice of the wicked" is an
+  abomination). The Lord's sovereignty even over the king's heart (21:1: "a channel of water")
+  and his omniscient evaluation of hearts (21:2) frame the unit.
+- **The "contentious wife" as an editorial device.** A refrain about the quarrelsome wife (21:9,
+  19; cf. 19:13; 25:24; 27:15) recurrently marks unit boundaries in Collection II — "a reference
+  to the wife functions as an organizing principle." Waltke reads "train up a child" (22:6) as
+  "**dedicate** a youth" (emphasizing inauguration/consecration, not mere training) and endorses
+  Whybray's phrase "the doctrine of 'original folly'" for 22:15.
+
+### Collection III and the Instruction of Amenemope (22:17–24:22)
+
+This is the wiki's most fully documented case of Israelite adaptation of an ANE source, deepened
+by Vol. 2. Waltke: "The external evidence of the Egyptian Instruction of Amenemope (ca. 1186–1069
+b.c.) confirms the internal evidence that the Thirty Sayings of the Wise is a distinct anthology."
+The "thirty sayings" model derives from Amenemope's own colophon (27:6, "Look to these thirty
+chapters"), and Waltke accepts (with Erman and the majority) the **emendation of 22:20 to
+*šelôšîm*, "thirty,"** as "most plausible" partly on the strength of the Amenemope affinities.
+
+Crucially, he limits and theologically controls the borrowing:
+- **Material dependence extends only to the first eleven sayings (22:16–23:11)** and "disappears"
+  precisely at 23:11. Beyond that, the collection draws on the Aramaic **Ahiqar** (23:12–13),
+  Aramaic/Akkadian surety traditions, and Egyptian (non-Amenemope) sources for the drunkenness
+  lampoon (23:29–35).
+- **Theological control:** the center line of the prologue "adjusts the adopted sayings of the
+  wise to faith in Israel's covenant-keeping God"; trust in the LORD (22:19) is "what distinguishes
+  Solomon's sayings from those of his peers in the ancient Near East." At the boundary-stone saying
+  the contrast is explicit — "in Prov 23:10–11 Israel's covenant-keeping God protects the
+  boundaries, but in Amenemope the moon god Thoth does." (Waltke's ANE method is carried on the
+  [[wisdom-literature|Wisdom Literature]] page.)
+
+### Composition history: Solomon II and "the men of Hezekiah" (25:1)
+
+The superscription of Collection V — "These also are proverbs of Solomon, which the men of
+Hezekiah copied and collected" (25:1) — anchors Waltke's case for the book's composition history.
+He reads "the men of Hezekiah" as a "godly, wise and literate" scribal body "in close association
+with" King [[hezekiah|Hezekiah]] (reigned c.715–686 BCE), who "moved" (transmitted and arranged) a
+selection of Solomon's 3,000 proverbs (1 Kgs 4:32) into an appendix to the first Solomonic
+collection. His **historical-reliability argument** is load-bearing for the dating debate: "since
+no tendentious purpose can be suspected in the mentioning of the otherwise unknown 'men of
+Hezekiah,' this is first rate historical evidence that as early as 700 b.c. Israel associated
+Solomon with proverbs" — buttressed by R.B.Y. Scott's Solomon–Hezekiah parallels. The Hezekian
+editors, on Waltke's reading, actively shaped the material — profiling chiasms (26:1–12; 27:1–22)
+and organizing chs 28–29 by the placement of "righteous"/"wicked" couplets.
+
+### Solomon II: character-types and just rulership (25:1–29:27)
+
+- **Seven perverted types of humanity (25:28–26:28).** The undisciplined, the fool, the sluggard,
+  the busybody/mischief-maker, the slanderer, and the personal enemy — framed by a "breached wall"
+  inclusio. Waltke resolves the famous 26:4–5 juxtaposition (answer / do not answer a fool) by
+  reading both as **absolutes** applicable at once, disambiguated by *ke* ("according to"): always
+  answer a fool so as not to become like him, yet so that he not become "wise in his own eyes."
+- **A "manual on friendship" (27:1–22).** The 22-verse ("alphabetic") unit gives the wiki its
+  fullest wisdom treatment of friendship: open rebuke better than hidden love (27:5), the
+  "faithful wounds of a friend" (27:6), and "iron sharpens iron" (27:17) — the true friend
+  "persists and does not shy away from critical, constructive criticism."
+- **Just rulership (chs 28–29, "Solomon IID").** Waltke (with Malchow) reads chs 28–29 as a
+  "Manual for Future Monarchs," structured by "righteous"/"wicked" framing couplets with **29:1
+  as the center verse**. Its spine is the contrast between righteous and wicked rule and their
+  effects on the people (28:28; 29:2, 16). Notable cruxes: 29:18 ("where there is no *ḥāzôn* the
+  people fall into anarchy") — Waltke, following Janzen, reads *ḥāzôn* as "the sage's inspired
+  revelation of wisdom," not prophetic vision, parallel to *qesem* (16:10) and *maśśāʾ* (30:1;
+  31:1); and 29:13 as a statement of **common grace** ("the Lord gives light to the eyes of both"
+  oppressed and oppressor). This unit is the fullest just-rulership material in the wiki.
+
+### Collections VI and VII: Agur, Lemuel, and the Valiant Wife (30–31)
+
+The two closing collections are attributed to named non-Solomonic authors, each treated on its
+own page:
+
+- **[[agur|Agur son of Jakeh]] (Collection VI, 30:1–33).** An "otherwise unknown" sage (Waltke:
+  probably a Gentile proselyte) whose autobiographical confession claims prophetic inspiration
+  (*maśśāʾ*, *neʾûm haggeber*) and resolves the sage's agnosticism (30:2–4) by special revelation
+  (30:5–6) — the same anti–natural-theology epistemology that grounds the whole book. Contains the
+  only prayer in Proverbs (30:7–9, "give me neither poverty nor riches") and the numerical
+  (*x, x+1*) sayings.
+- **[[lemuel|King Lemuel]] and the [[valiant-woman|Valiant Woman]] (Collection VII, 31:1–31).**
+  Lemuel (probably a non-Israelite proselyte) transmits his mother's royal instruction (31:2–9) —
+  the only extended maternal royal instruction in the corpus — urging restraint with women and
+  wine and the defense of the poor and voiceless. On Waltke's authorship view Lemuel is also "the
+  ordering mind behind" the concluding acrostic on the valiant wife (31:10–31), which he reads as
+  **heroic poetry** (Wolters) and as a **historical**, not allegorical, portrait — the book's
+  epilogue framing it, together with the Prologue's Woman Wisdom, around the fear of the LORD
+  (31:30).
+
 ## Concepts
 
-Concept pages developed from this text:
+Concept pages developed from or extended by this text:
 
-[[hebel]] · [[woman-wisdom]]
+[[hebel]] · [[woman-wisdom]] · [[valiant-woman]] · [[fear-of-the-lord]] · [[wisdom-literature]] · [[doctrine-of-retribution]]
+
+Figures: [[agur]] · [[lemuel]] · [[solomon]] · [[hezekiah]]
 
 ## Sources Ingested
 
-1. [[bruce-waltke|Waltke, Bruce K.]]. *The Book of Proverbs: Chapters 1–15*. NICOT. Grand Rapids: Eerdmans, 2004.
-2. [[bruce-waltke|Waltke, Bruce K.]]. *The Book of Proverbs: Chapters 15–31*. NICOT. Grand Rapids: Eerdmans, 2005.
+1. [[waltke-proverbs-nicot|Waltke, Bruce K. *The Book of Proverbs: Chapters 1–15*. NICOT]]. Grand Rapids: Eerdmans, 2004.
+2. [[waltke-proverbs-15-31-nicot|Waltke, Bruce K. *The Book of Proverbs: Chapters 15:30–31:31*. NICOT]]. Grand Rapids: Eerdmans, 2005. (Vol. 2 — fidelity re-ingest 2026-07-18; Collections IIB–VII, see source page for coverage ledger.)

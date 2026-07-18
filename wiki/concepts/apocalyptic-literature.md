@@ -2,7 +2,7 @@
 title: Apocalyptic Literature
 domain: hermeneutics / biblical genre / eschatology
 traditions_using: [Judaism, Christianity]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-07-18
 tags: [concept, apocalyptic, genre, daniel, revelation, eschatology, son-of-man, symbolic-imagery, prophecy]
 ---
@@ -178,6 +178,10 @@ view the apocalyptic of [[daniel|Daniel]], [[1-enoch|1 Enoch]], and [[jubilees|J
 older static order (*mishpat, tsedeq, shalom*) gives way under exile and empire — its relation to the Persian
 prototype being the open question of [[zoroastrian-influence-on-abrahamic-eschatology|the influence page]].
 
+## Pauline Thessalonian material (Weima)
+
+[[jeffrey-weima|Weima]] (*[[weima-1-2-thessalonians-becnt|1–2 Thessalonians, BECNT]]*) applies the same non-blueprint discipline to Pauline eschatology. On **1 Thess 4:16–17** he treats the descent/shout/archangel/trumpet/*harpazō* sequence as **apocalyptic poetry** whose primary aim is comfort (4:18), not a predictive timetable, and rejects secret-rapture readings of *harpazō*. On **2 Thess 2:1–17** he affirms apocalyptic *images and themes* in vv. 3–12 (apostasy, man of lawlessness, restrainer, Danielic background) but **resists** calling the whole unit full-blown apocalypse; Paul's purpose is pastoral proof that the day of the Lord has *not* come. See [[1-thessalonians|1 Thessalonians]], [[2-thessalonians|2 Thessalonians]], [[parousia-1-thess-4|Parousia in 1 Thess 4]], [[restrainer-2-thess-2|Restrainer of 2 Thess 2]].
+
 ## Related Entries
 
 - [[daniel|Daniel]] — primary OT apocalyptic text
@@ -186,6 +190,8 @@ prototype being the open question of [[zoroastrian-influence-on-abrahamic-eschat
 - [[revelation-interpretive-schools|The Four Interpretive Schools of Revelation]]
 - [[lamb-of-god|The Lamb of God]] — the past-victory that distinguishes Revelation from typical apocalyptic
 - [[tremper-longman|Tremper Longman III]] — commentary source
+- [[jeffrey-weima|Jeffrey A. D. Weima]] — restrained apocalyptic reading of 1–2 Thessalonians
+- [[weima-1-2-thessalonians-becnt|Weima, *1–2 Thessalonians* (BECNT)]]
 - [[divine-glory-kabod|Divine Glory (*Kābôd*)]] — throne-room imagery connects Ezek 1, Dan 7, and Rev 4-5
 - [[servant-songs|Servant Songs]] — Isaiah 52-53 + Daniel 7:13-14 together provide the OT foundation for NT Christology
 - [[new-covenant|New Covenant]] — Jeremiah 31/Ezekiel 36 are the prophetic parallels to Daniel's eschatological hope
@@ -196,6 +202,7 @@ prototype being the open question of [[zoroastrian-influence-on-abrahamic-eschat
 2. [[grant-osborne|Osborne, Grant R.]]. *Revelation*. BECNT. Grand Rapids: Baker Academic, 2002.
 3. [[cohn-cosmos-chaos-and-the-world-to-come|Cohn, Norman]]. *Cosmos, Chaos and the World to Come*. 2nd ed. Yale University Press, 2001.
 4. [[block-ezekiel-25-48-nicot|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 25–48*. NICOT. Grand Rapids: Eerdmans, 1998 — Block's case against the apocalyptic classification of the Gog oracle (Ezek 38–39).
+5. [[jeffrey-weima|Weima, Jeffrey A. D.]]. *1–2 Thessalonians*. BECNT. Grand Rapids: Baker Academic, 2014 — pastoral non-blueprint use of apocalyptic imagery in 1 Thess 4 and 2 Thess 2.
 
 ## Related Texts
 

@@ -5,7 +5,7 @@ tradition: Judaism (Second Temple period)
 textual_sources: [Matthew, Mark, Luke, Acts, Josephus (Jewish Antiquities, Jewish War), Mishna]
 periods_active: c. 2nd c. BCE–70 CE
 roles_significance: [Jewish aristocratic-priestly party; opponents of Oral Torah; allies of the Temple establishment; foils to Pharisaic Judaism]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-18
 tags: [group, judaism, second-temple, sadducees]
 ---
@@ -123,8 +123,32 @@ The Sadducees ceased to exist as a distinct party after the Temple's destruction
 movement (8th c. CE) is sometimes seen as a partial revival of the Sadducean principle
 (Written Torah only), though this identification is disputed.
 
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from [[bock-acts-becnt|Bock, *Acts* (BECNT)]]. All interpretive claims are Bock's
+or those of scholars he names.*
+
+In Bock's reading the Sadducees are the apostles' **principal opponents** in Acts 4–5. He
+characterizes them as the priestly aristocracy — tracing their name to Zadok, Solomon's high priest
+— a "very materialistic" lay-nobility class that controlled the Sanhedrin and cooperated with Rome,
+"denied the resurrection… believing that the soul died with the body," rejected the oral law, and
+emphasized the Torah within the OT. It is precisely the apostolic proclamation of **resurrection**
+"in Jesus" that provokes them: they are "annoyed" that the apostles teach the people and proclaim in
+Jesus the resurrection of the dead (4:1–2), and Bock notes "the one resurrection of Jesus is the
+irritant" — a singular resurrection within history being a new idea. The high priest and "those with
+him, the party (*hairesis*) of the Sadducees," act again in 5:17, "filled with jealousy"; Bock reads
+their reaction as a matter of both theology and "power politics," since the Sadducees "have more to
+lose," sharing power with Rome. The doctrinal divide surfaces most sharply at 23:6–8, where Paul sets
+Pharisee against Sadducee: Bock surveys six scholarly explanations of the report that the Sadducees
+deny "resurrection, or angel, or spirit" (given that the Pentateuch affirms angels), leaning toward
+the view that they reject angels/spirits as agents of God's sovereignty. He also notes that
+[[herod-agrippa-i|Herod Agrippa I]] courted "the ruling Sadducean party," which may explain his
+hostility to the new movement.
+
 ## Cross-Links
 
+- [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007]] — Sadducees as the
+  priestly opponents of Acts 4–5 and the 23:6–8 resurrection split
 - [[pharisees|Pharisees]] — principal rivals
 - [[essenes|Essenes]] — third major Second Temple party
 - [[talmud-bavli|Babylonian Talmud]] — the Pharisaic tradition that superseded them

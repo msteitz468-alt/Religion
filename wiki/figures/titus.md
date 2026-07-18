@@ -5,8 +5,8 @@ tradition: Christianity
 textual_sources: [Galatians, 2 Corinthians, Titus, 2 Timothy]
 dates: 1st century AD
 roles: [apostolic delegate, coworker, emissary]
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [figure, christianity, coworker]
 ---
 
@@ -31,7 +31,25 @@ Titus represents the success and fidelity of the uncircumcised Gentile believer 
 ## Influence on Commentary Traditions
 Commentators like Robert W. Yarbrough emphasize Titus's extensive experience—nearly two decades of ministry by the time he received the Pastoral Epistle bearing his name. This explains the demanding, shorthand nature of the Epistle to Titus; Paul was not writing to a novice, but to a seasoned veteran with whom he shared a Hellenistic Greek background and a long history of confronting false teachers. From Bock (this batch): Titus illustrates the collaborative team (including uncircumcised Gentiles) through whom God advances the gospel.
 
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from [[bock-acts-becnt|Bock, *Acts* (BECNT)]]. All interpretive claims are Bock's
+or those of scholars he names.*
+
+Titus is **absent from Acts itself**; Bock discusses him only in the Galatians 2 chronology material
+that surrounds his exposition of the [[jerusalem-council|Jerusalem Consultation]] (Acts 15) and the
+circumcision of [[timothy|Timothy]] (Acts 16:1–3). There Bock makes Titus the load-bearing
+**contrast case**: whereas Paul circumcises Timothy (a mixed-ancestry Jew) out of missionary
+sensitivity, "Titus, who is Gentile, is a different case and principle. He is not to be circumcised
+(Gal. 2:3–5)… there is no mixed-ancestry question, so there is no circumcision." For Bock the two
+figures together fix the principle underlying Acts 15 — unmixed Gentiles need not be circumcised —
+and answer Barrett's difficulty in reconciling Timothy's circumcision with Galatians. Bock also notes
+Williams's use of "the Titus problem" as an objection to equating Acts 11:30 with the Galatians 2
+visit, part of Bock's larger discussion of the [[acts-paul-tensions|Acts–Paul relationship]].
+
 **Key Links**:
+- [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007]] — the uncircumcised-Greek
+  contrast with Timothy
 - [[galatians|Galatians]] (Jerusalem test case)
 - [[2-corinthians|2 Corinthians]] (emissary role)
 - [[letter-to-titus|Titus]] (Pastoral Epistle)

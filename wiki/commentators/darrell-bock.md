@@ -6,7 +6,7 @@ tradition: Christianity (evangelical Protestant)
 affiliation: Dallas Theological Seminary (Research Professor of New Testament)
 primary_texts_commented: Luke; Acts; Luke-Acts as unified narrative
 sources_ingested: 1
-last_updated: 2026-06-04
+last_updated: 2026-07-18
 tags: [commentator, christianity, evangelical, new-testament]
 ---
 
@@ -34,10 +34,18 @@ He explicitly defends Acts' **historical reliability** against the skeptical sch
 
 **Pentecost and tongues**: Tongues at Pentecost demonstrate the Spirit's "revelatory, declarative role" inaugurating the new messianic age. Bock does not engage the cessationist/continuationist debate explicitly but frames tongues as evidence of the Spirit's empowering rather than as a permanent requirement for all believers.
 
+## Exegetical Method in the Acts Commentary
+
+Across the BECNT *Acts*, Bock's procedure is consistent. Each pericope moves from an author's translation, through an "Additional Notes" section applying reasoned-eclectic text-criticism (he holds the **Alexandrian text** likeliest closest to the original, assessing Western/Byzantine variants "one at a time"), to a verse-by-verse exegesis attentive to Greek grammar and Greco-Roman/Jewish background, closing with an "In sum" section that carries the application.
+
+His handling of the **Old Testament in Acts** is a signature. Bock reads the speeches' OT citations as **typological-prophetic** (a text about an individual "in a way that extends beyond that individual"), identifies first-century interpretive techniques — **gezerah shewa** (linking texts by shared catchwords, e.g. the chain across Peter's Pentecost sermon) and the **"this-is-that" (*touto estin*) pesher** form familiar from Qumran — and insists the christological readings do not require a late Hellenistic or LXX-only setting (a recurring rebuttal to Haenchen and Conzelmann). He argues Peter's Pentecost use of Joel 2, Psalm 16, and Psalm 110 yields a "high" Christology grounded only in belief in the resurrection-ascension, explicitly **not adoptionist**: "the resurrection made evident what Jesus always was."
+
+Bock also foregrounds **narrative characterization** (following Gaventa and Brawley): the most important characters are God, Jesus, and the Spirit, and human figures are sorted into witnesses (Peter, Stephen, Philip, Barnabas, Paul), foils (Gamaliel, Sergius Paulus, Festus, Agrippa), God-fearers (the Ethiopian eunuch, Cornelius, Lydia), and opposers. On soteriology he frames Luke's emphasis as **forgiveness and the Spirit** rather than Pauline justification language, though he reads Paul's Pisidian-Antioch statement (13:38–39) as a genuine, if compressed, critique of the law's inability to justify.
+
 ## Key Scholars Engaged
 
 Bock interacts most extensively with (by citation frequency): C. K. Barrett (primary dialogue partner), F. F. Bruce (foundational historical work), Joseph Fitzmyer (moderate-critical; Bock often respectfully disagrees), Ben Witherington III (strong ally on historicity and Acts 11/Gal 2 dating), Luke Timothy Johnson (narrative analysis), I. Howard Marshall (theological themes), Jacob Jervell (Luke-Acts theology), Ernst Haenchen (primary critical foil — represents maximalist skepticism).
 
 ## Sources Ingested
 
-1. *Acts*. BECNT. Grand Rapids: Baker Academic, 2007.
+1. [[bock-acts-becnt|*Acts*. BECNT. Grand Rapids: Baker Academic, 2007]] — full commentary body re-ingested 2026-07-18.

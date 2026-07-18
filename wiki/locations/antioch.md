@@ -17,8 +17,8 @@ associated_peoples:
   - Crusaders (County of Antioch 1098–1268 CE)
   - Mamluks (destroyed the city 1268 CE)
   - Ottomans (rebuilt from the 14th century)
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [location, christianity, early-christianity, roman-empire, syria, apostolic-fathers, second-century]
 ---
 
@@ -140,8 +140,49 @@ Per Wallace's (1956) revitalization movement model, adopted by Stark: when a soc
 
 **The Chalcedonian schism**: The Antiochene theological tradition was fractured by the Council of Chalcedon (451 CE). The Syrian church ("Church of the East") ultimately diverged from the Byzantine church over Christology. This produced the Syriac-tradition churches (Assyrian Church of the East, Syrian Orthodox Church) which have historically claimed Antioch as their apostolic seat.
 
+## In Acts, per Bock (BECNT)
+
+From the ingest of [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic,
+2007]] (see [[darrell-bock|Darrell Bock]]). This is **Syrian Antioch on the Orontes** —
+Bock confirms the identification (distinct from [[pisidian-antioch|Pisidian Antioch]]). In
+[[acts|Acts]] it is the **base of the Gentile mission**. All interpretive claims are
+Bock's or those of scholars he names.
+
+- **A Hellenistic-Jewish church (11:19–21).** Believers scattered by the persecution of
+  Acts 8 reach Antioch; Bock (with Fitzmyer and Bruce) reads the better-attested text at
+  11:20 as recording preaching to **"Greeks"** (Gentiles). He describes Antioch as the
+  "third largest city in the Greco-Roman world" (up to ~600,000 inhabitants, ~25,000
+  Jews), a "cosmopolitan city full of gods." Against "pan-Antiochenism," Bock cites Hengel
+  and Schwemer that exaltation Christology "has its roots in Jerusalem… by AD 36."
+- **Barnabas and Saul (11:22–26).** Jerusalem sends **[[barnabas|Barnabas]]** — "a good
+  man, full of the Holy Spirit and of faith," of whom Bock notes "no one else is called
+  'good' in Acts" — who fetches Saul from Tarsus; they teach for a year.
+- **"Christians" first named (11:26).** Bock notes the name *Christianoi* appears only 3×
+  in the NT and was likely coined "from those outside the community," possibly "derisive";
+  its significance is that "a separate identity is emerging for this group" identified with
+  Jesus as the Christ.
+- **Agabus and famine relief (11:27–30).** The prophet **[[agabus|Agabus]]** foretells "a
+  great famine," which Bock dates in "the days of Claudius"; the Antiochene church sends
+  relief to the Jerusalem elders — Bock: "The famine relief indicates a complete
+  reconciliation."
+- **The sending church of the journeys (13:1–3; 14:26–28).** The Antioch congregation,
+  worshiping and fasting, commissions Barnabas and Saul for the first journey — for Bock
+  "the end of spontaneous ministry to Gentiles," now "planned and directed by God" — and
+  it is to Antioch that they return to report "all God had done in opening a door to the
+  Gentiles."
+- **The Antioch incident (context).** Bock repeatedly ties the food/table-fellowship
+  theme of Acts 10–11 to the later confrontation of **Gal. 2:11–14**, reading Peter's
+  "lapse" there as a matter of "hypocrisy" that Peter "recognized when it was pointed out,"
+  not an abiding theological schism — a reading he attributes (and opposes) to the Tübingen
+  school of F. C. Baur.
+
+See [[acts|Acts of the Apostles]] · [[bock-acts-becnt|Bock, *Acts* (BECNT)]] ·
+[[paul-apostle|Paul the Apostle]] · [[barnabas|Barnabas]] ·
+[[pisidian-antioch|Pisidian Antioch]] (distinct city).
+
 ## Key Links
 
+- [[bock-acts-becnt|Bock, *Acts* (BECNT)]] — Syrian Antioch as base of the Gentile mission
 - [[ignatius-of-antioch|Ignatius of Antioch]] — bishop of Antioch; letters written during journey to Rome
 - [[rodney-stark|Rodney Stark]] — Ch. 7 of *Rise of Christianity* devoted to Antioch
 - [[stark-rise-of-christianity|Stark, *The Rise of Christianity*]] — primary source for this entry

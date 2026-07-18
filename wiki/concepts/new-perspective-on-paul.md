@@ -3,7 +3,7 @@ title: The New Perspective on Paul (NPP)
 domain: hermeneutics / NT scholarship / soteriology
 traditions_using: [Christianity (NT scholarship broadly)]
 sources_ingested: 1
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [concept, christianity, hermeneutics, pauline, new-testament, modern-critical]
 ---
 
@@ -35,7 +35,11 @@ The "New Perspective on Paul" is a school of NT Pauline interpretation that emer
 
 **On Sanders**: Even granting covenantal nomism, Paul's critique is not merely that the law fails to extend the covenant to Gentiles. His critique is that the law as a system — even a graciously entered covenant — cannot produce the righteousness God demands, because sin uses the law to provoke more sin (Romans 7:7–11). The problem is not merely ethnic exclusivism but the incapacity of human beings under the law to achieve what God requires.
 
-**On Dunn's "works of the law" as boundary markers**: Schreiner argues this is too narrow. Paul uses *erga nomou* in contexts that go beyond circumcision/food/Sabbath to encompass moral law-keeping generally (Romans 2:14–15; Galatians 3:10–12). The indictment of Romans 1:18–3:20 is not merely that Jews have excluded Gentiles from the covenant, but that all humanity — Jew and Gentile — has failed to obey God morally. To confine the indictment to ethnic boundary markers does not adequately account for the scope of the argument.
+**On Dunn's "works of the law" as boundary markers**: Schreiner argues this is too narrow. Paul uses *erga nomou* in contexts that go beyond circumcision/food/Sabbath to encompass moral law-keeping generally (Romans 2:14–15; Galatians 3:10–12). The indictment of Romans 1:18–3:20 is not merely that Jews have excluded Gentiles from the covenant, but that all humanity — Jew and Gentile — has failed to obey God morally. To confine the indictment to ethnic boundary markers does not adequately account for the scope of the argument. He adds a **lexical/Qumran** argument: *erga nomou* denotes "the actions or deeds required by the Mosaic law" — the whole law — and the Qumran evidence (4QFlor 1.7; 1QS 5.21; 6.18; and especially 4QMMT, via Fitzmyer) confirms the broad sense; "Dunn's claim… that the Qumran material supports his more limited and focused understanding of the term is unpersuasive."
+
+**On legalism (a nuanced concession)**: Schreiner grants that E. P. Sanders "rightly criticizes the caricature of Jewish legalism" and has "demolished the idea" that Judaism was uniformly a religion of merit — "but he goes too far to the other extreme." His measured claim: "We need not conclude that all Jews were legalistic, only that some strains of Judaism were inclined toward works righteousness," and "a theology that enshrines God's grace theologically may still fall prone to legalism in practice." He also distinguishes his own reading from the **Bultmann school** (Käsemann, Hübner, G. Klein), who held that "the very desire and attempt to keep the law is idolatrous" — Schreiner rejects this too: "It is misleading to say that the very attempt to keep the law is sin." The real reason works of the law cannot justify is simpler — "no one can observe all that the law says."
+
+**On Romans 4 (Abraham)**: against Sanders, Dunn, Wright, and B. Longenecker, Schreiner insists that Romans 4 mounts a genuine polemic against works-righteousness, not merely against Jewish nationalism/boundary markers — "Paul does not even use the word *nomos* in verses 1–8"; the attack there is fundamentally on *works* (*erga*). Yet the polemic against works and the inclusion of Gentiles "belong indissolubly together" — he refuses to make either alone the whole point.
 
 **On Wright's righteousness of God as covenant faithfulness**: Schreiner agrees that God's righteousness *involves* covenant faithfulness but insists it cannot be *defined* as covenant faithfulness. The forensic dimension (declaration of the believer's righteous status) is irreducible. Key text: Philippians 3:9, where Paul contrasts "my own righteousness from the law" with "the righteousness from God on the basis of faith" — the second is a *gift given to Paul*, not merely a description of God's own attribute.
 
@@ -62,7 +66,7 @@ The NPP represents an application of historical-critical method to the Jewish ba
 - [[justification|Justification]] — the central disputed doctrine
 - [[righteousness-of-god|The Righteousness of God]] — the *dikaiosynē theou* controversy
 - [[covenant|Covenant]] — the covenantal context both sides operate within
-- [[thomas-schreiner|Thomas R. Schreiner]] — leading evangelical critic of NPP
+- [[thomas-schreiner|Thomas R. Schreiner]] — leading evangelical critic of NPP; [[schreiner-romans-becnt|source page]]
 - [[oral-torah|Oral Torah]] — Second Temple Jewish context
 
 ## Related Texts

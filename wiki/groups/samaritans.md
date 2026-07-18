@@ -5,8 +5,8 @@ tradition: cross-tradition (a branch of Yahwism/Israelite religion; later distin
 textual_sources: [2 Kings 17; Ezra-Nehemiah; 2 Chronicles 30/34; Jeremiah 41; the Samaria papyri (Wadi ed-Daliyeh); Elephantine papyri; Josephus]
 periods_active: Assyrian province (Samerina) after 720 BCE → Persian-period Samaria → emergent Samaritan community of the Hellenistic/Roman period
 roles_significance: [the Yahweh-worshiping population of the former northern kingdom; rivals of Jerusalem's restoration; ancestors of the Samaritans; a test case for "who counts as Israel"]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [group, ancient-near-east, second-temple, samaria, yahwism, israel, persian-period]
 ---
 
@@ -46,6 +46,32 @@ the Samarians were **another group of Yahwists with a variant understanding**, n
 pagans — and Samaritanism shows "**more derivation than deviation** from Judaism of the
 Second Temple period" (Leith).
 
+### Harrington (NICOT Ezra–Nehemiah) — Samarian ≠ Samaritan periodization
+
+*Source: [[harrington-ezra-nehemiah-nicot|Harrington NICOT]] Exc. 12. Claims are Harrington’s.*
+
+[[hannah-harrington|Harrington]] draws a load-bearing **periodization** the wiki must not collapse:
+
+- **“Samarians”** = population of the northern Israelite territory (esp. around Samaria) in
+  the Persian period — Sanballat’s circle and related officials.
+- **NT “Samaritans”** = a monotheistic, Pentateuch-only sect **probably originating after
+  ~110 BCE**, “not of the same religious persuasion as their ancestors, the Samarians.”
+
+On Harrington’s reading, **ancient Samarians were syncretistic** (Yahweh + other gods;
+2 Kgs 17:26-33) — “most likely the main reason that Zerubbabel rejected their offer to
+join” the temple rebuild (Ezra 4). Sanballat’s own name is from Sin, while sons bear
+Yahwist names; Wadi Daliyeh and Elephantine show mixed pictures and possible recognition
+of Samarians as Yahwists (Elephantine petitions to Jerusalem **and** Samaria). The
+conflict with Nehemiah is **“clearly political”** (Neh 2:19; 6:6-7) as well as
+religious: Babylonian-authorized Jewish leaders threatened local governance. Later
+hostility continues (Sir 50:25-26; John 4; Good Samaritan parable) but under a different
+sectarian identity.
+
+This does **not** adjudicate Coogan/Leith’s softer portrait of Persian-period Yahwism;
+it records Harrington’s stricter syncretism-and-periodization frame alongside it as a
+[CONTRADICTION]-adjacent interpretive tension about how “pagan” or “Yahwist” Sanballat’s
+people were.
+
 ## Historical Context
 
 The province of Samerina, administered by the **Sanballat family**, remained populous
@@ -72,4 +98,27 @@ The Jewish–Samaritan estrangement underlies the NT's charged use of "Samaritan
 know"; "Jews have no dealings with Samaritans"). The community survives to the
 present. Related: [[samaria]], [[shechem]], [[mount-gerizim]], [[persians]],
 [[babylonians]], [[assyrians]], [[israelites]], [[ezra-nehemiah]],
-[[intermarriage-ezra-nehemiah]], [[gerizim-vs-jerusalem]], [[pharisees]].
+[[intermarriage-ezra-nehemiah]], [[gerizim-vs-jerusalem]], [[pharisees]],
+[[harrington-ezra-nehemiah-nicot|Harrington NICOT]] (Exc. 12 Samarian≠Samaritan).
+
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from [[bock-acts-becnt|Bock, *Acts* (BECNT)]]. All interpretive claims are Bock's
+or those of scholars he names.*
+
+In Bock's reading the Samaritans mark the **second stage** of the programmatic geography of Acts 1:8
+("Jerusalem… Judea and Samaria… the end of the earth"). Philip's mission to a Samaritan city (8:5–25)
+is the gospel's first move beyond Judaism proper; Bock frames the Samaritans as occupying a
+**"halfway" position** between Jews and Gentiles — they "cannot be seen as Jewish," yet their
+inclusion is not yet the epochal Gentile breakthrough that comes with Cornelius (Acts 10). He notes
+their distinctive religion: they worshiped at rival **Mount Gerizim** and expected not the Davidic
+Messiah but a **prophet like Moses**, the **Taheb** (from Deut. 18:15–18), to restore the law and
+renew worship — background Bock also invokes when Peter cites the "prophet like Moses" of Deut. 18 at
+Acts 3:22. The unidentified "city of Samaria" Bock judges most likely **Shechem**. The episode's
+crux is the **Spirit-reception delay** (8:14–17): the Samaritans believe and are baptized, but the
+Spirit comes only when Peter and John lay hands on them. Bock argues this two-stage sequence is
+**not normative** — "there is no set pattern to dispensing the Spirit in Acts" — but a special
+"legitimization" (Jervell) appropriate to the fresh and potentially controversial inclusion of the
+Samaritans, with an apostle present as the constant. Cross-refs: [[bock-acts-becnt|Bock, *Acts*
+(BECNT)]], [[acts|Acts]], [[philip-the-evangelist|Philip the evangelist]], [[peter-apostle|Peter]],
+[[holy-spirit|Holy Spirit]], [[mount-gerizim|Mount Gerizim]].

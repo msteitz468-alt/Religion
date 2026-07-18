@@ -11,7 +11,7 @@ canon_scope:
 language_original: Greek
 date_range: c. AD 40s (Moo) — alternatively late 1st century if pseudepigraphal; disputed
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [text, christianity, new-testament, general-epistle, wisdom, epistle]
 ---
 
@@ -32,7 +32,9 @@ Moo's PNTC volume is a substantial revision and near-doubling of his earlier Tyn
 commentary (1985). It is sympathetic, theologically integrative, and committed to the
 traditional authorship and an early date — positions that put it at odds with the dominant
 critical consensus. See [[james-the-just|James the Just]] (the author as figure) and
-[[james-authorship|James: Authorship and Date]].
+[[james-authorship|James: Authorship and Date]]. **Source page (fidelity re-ingest 2026-07-18):**
+[[moo-james-pntc|Moo, *The Letter of James* (PNTC, 2000)]] — full body re-read with coverage ledger
+(~345 grounded claims); no major position inversions vs the 2026-06-06 summary.
 
 ## Why James Was Controversial
 
@@ -219,8 +221,13 @@ that a Christian's plain "yes/no" should need no reinforcement.
 - J. B. Mayor (1913); J. H. Ropes (ICC, 1916); F. Mussner (Herder) — classic critical commentaries
 - John Calvin — full apostolic authority; harmonization with Paul (the standard later view)
 
+## Sources Ingested
+
+- [[moo-james-pntc|Moo, *The Letter of James* (PNTC, 2000)]] — fidelity re-ingest 2026-07-18 (full commentary body: prefaces + Introduction + Jas 1:1–5:20; bibliography and endnotes excluded as apparatus). Primary source for the positions attributed to Moo on this page.
+
 ## Key Links
 
+- [[moo-james-pntc|Moo James PNTC source page]] — coverage ledger and volume synthesis
 - [[douglas-moo|Douglas J. Moo]] — primary commentary source (PNTC, 2000)
 - [[james-the-just|James the Just]] — the author as a figure (brother of the Lord, Jerusalem leader)
 - [[james-authorship|James: Authorship and Date]] — the pseudepigraphy / early-date controversy

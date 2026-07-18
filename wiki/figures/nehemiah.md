@@ -5,8 +5,8 @@ tradition: Judaism / Christianity
 textual_sources: [Nehemiah 1–13; Ezra 2:2; 12 (lists)]
 dates: [missions to Jerusalem 445 BCE and later; floruit mid-5th cent. BCE]
 roles: [cupbearer, governor, wall-builder, reformer, prayerful leader, lay reformer]
-sources_ingested: 2
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [figure, judaism, christianity, writings, nehemiah, governor, wall, reform, post-exilic]
 ---
 
@@ -14,7 +14,7 @@ Nehemiah is the Jewish cupbearer to Artaxerxes who receives permission to rebuil
 
 ## Biographical Overview
 
-Son of Hacaliah, cupbearer (a high and trusted position) to King Artaxerxes. In the twentieth year, while in Susa, he hears from his brother Hanani that the wall of Jerusalem is broken down and its gates burned. He weeps, fasts, and prays a classic penitential prayer (Neh 1:5-11) that confesses the people's sin, recalls God's promises to Moses, and asks for favor before the king. Granted leave and letters, he travels to Jerusalem (with military escort), inspects the walls by night, rallies the people ("Let us rise up and build"), and organizes the work by families and districts despite opposition from Sanballat, Tobiah, and Geshem. The wall is completed in fifty-two days (6:15). He serves as governor (with or after Ezra), addresses economic oppression (debt slavery, usury), confronts those who married foreign women (including a grandson of the high priest), restores temple support and Levitical portions, and enforces Sabbath observance. He participates in the reading of the law (Neh 8) and the covenant sealing (Neh 9–10). The wall is dedicated with processions, singing, and great joy (Neh 12). His "memoirs" (first-person sections) are among the most vivid autobiographical material in the OT.
+Son of Hacaliah; name means “YHWH comforts.” Cupbearer to Artaxerxes I in Susa (fortress), not necessarily a eunuch ([[hannah-harrington|Harrington]]). In the twentieth year (445 BCE), Hanani and men from Judah report the wall breached and gates burned. He weeps, fasts, and prays the longest of his penitential prayers (Neh 1:5-11). Granted leave and letters, he travels with military escort (contrast Ezra’s unarmed fast), inspects walls by night, rallies the people, and organizes builders by families/districts against Sanballat (Samaria), Tobiah (Ammon), and Geshem (Arabia). Wall completed in **fifty-two days** (4 Ab–25 Elul 445; 6:15). As governor he confronts debt slavery and usury (Neh 5) — kinship over wealth; communal ransom; debt and land return beyond strict Sabbatical (Jubilee or Blenkinsopp’s “emergency Jubilee” via Harrington). Participates in Torah reading (Neh 8) and covenant sealing (Neh 9–10). Dedicates wall with dual processions and music (Neh 12). In a later return (ch. 13) he expels Tobiah from a temple chamber (first contagious gentile impurity at 13:9 on Harrington’s reading), enforces Sabbath gates, confronts intermarriage with beating/hair-plucking (no formal divorce like Ezra 10), and chases out a high-priestly grandson married into Sanballat’s house. Closing **“Remember me”** prayers (13:14, 22, 31 credit; 13:29 against enemies). Memoir genre: first-person sections among the most vivid autobiographical material in the OT; Harrington compares votive/achievement reports (e.g. Udjahorresnet).
 
 ## Primary Source Appearances
 
@@ -44,10 +44,12 @@ Nehemiah shows that faithful leadership in the post-exilic period requires both 
 
 ## Influence on Commentary Traditions
 
-Harrington (NICOT) reads Nehemiah through the lens of purity, assembly, and social identity: the wall, the lists, the economic reforms, and the Sabbath/mixed-marriage enforcement are all about maintaining a distinct, holy people capable of being "light to the nations" while surviving as a small community under empire. Breneman and traditional commentators emphasize prayer, courage, leadership principles, and revival. The first-person memoirs have shaped Christian understandings of "secular" work as vocation (cupbearer to governor) and of prayer as the foundation of action. The book is used in preaching on opposition to God's work, economic justice, and the rebuilding of community after devastation. In Jewish and Christian tradition Nehemiah stands as the practical complement to Ezra the scribe — together they show that Torah and walls, prayer and policy, are both needed for the people of God.
+Harrington (NICOT, full re-ingest 2026-07-18): wall as holiness boundary (Exc. 13); Samarian (not yet NT Samaritan) opposition as political as well as religious; Neh 5 kinship/Jubilee ethics; Neh 13 power struggle with Eliashib; gentile impurity innovation at 13:9; full-text focus on Torah/community over wall alone. Breneman and traditional commentators emphasize prayer, courage, leadership, and revival. Memoirs shape Christian vocation theology (cupbearer → governor) and prayer-as-foundation-of-action. Jewish and Christian tradition: practical complement to Ezra the scribe — Torah and walls, prayer and policy.
 
 **Key Links**:
-- [[ezra-nehemiah|Ezra-Nehemiah]] (text; Harrington on purity, assembly, identity, wall as boundary)
+- [[ezra-nehemiah|Ezra-Nehemiah]] · [[harrington-ezra-nehemiah-nicot|Harrington NICOT]]
+- [[ezra|Ezra]] · [[intermarriage-ezra-nehemiah|Intermarriage controversy]]
+- [[samaritans|Samaritans / Samarians]] · [[purity|Purity]] · [[jerusalem|Jerusalem]]
 - [[ezra|Ezra]] (colleague in reform and covenant renewal)
 - [[esther|Esther]] (contemporary Persian court context)
 - [[wall|Wall of Jerusalem]]

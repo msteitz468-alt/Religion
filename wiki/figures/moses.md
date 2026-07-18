@@ -5,7 +5,7 @@ tradition: cross-tradition
 textual_sources: [Exodus, Leviticus, Numbers, Deuteronomy, Hebrews, The Zohar]
 dates: 13th century BCE (traditional)
 roles: [prophet, lawgiver, leader, mediator]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-07-18
 tags: [figure, cross-tradition, prophet, kabbalah]
 ---
@@ -19,7 +19,7 @@ From [[james-bruckner|James K. Bruckner]] (UBCS Exodus): Moses is the central hu
 
 **Primary Source Appearances**:
 - **Exodus**: Dominant figure — birth (ch. 2), call (3-4), plagues/exodus (5-15), wilderness to Sinai (15-18), theophany and law (19-24), golden calf intercession (32-34), tabernacle (25-31, 35-40). Bruckner structures around six sections with Moses as the human pivot: exit from Egypt (plagues, Passover, sea), journey (provision), law/covenant, instructions, crisis/forgiveness (name proclaimed), building/presence. Zohar Vol. IV (Shemot–Yitro) focuses on the call, plagues, sea crossing (with 72-Name), Amalek, Jethro, and Sinai revelation as the Moses–Shekhinah romance and sefirotic theurgy.
-- **Leviticus, Numbers, Deuteronomy**: Continues as lawgiver, census leader, spy story, rebellions (Korah, water from rock), farewell discourses and death (Deut). Central to the Pentateuch as mediator of Torah.
+- **Leviticus, Numbers, Deuteronomy**: Continues as lawgiver, census leader, spy story, rebellions (Korah, water from rock), farewell discourses and death (Deut). Central to the Pentateuch as mediator of Torah. [[timothy-ashley|Ashley]] (NICOT Numbers) densifies Numbers-specific loci: unique **mouth-to-mouth** prophecy vs Miriam/Aaron (Num 12); multi-factorial **Meribah** sin (20:1–13)—inexact obedience, anger, self as miracle-worker, formally *lack of trust* to hold Yahweh holy publicly, parallel to the people’s unbelief in ch. 14; intercession pattern across rebellions; commissioning of Joshua with Eleazar/Urim (27:12–23) while Moses remains senior leader through Numbers’ end and Deuteronomy; Midian war as unfinished business before death (31:2 with 27:13).
 - **Psalms**: Psalm 90 is attributed to Moses, serving as the foundational opening for Book Four of the Psalter in response to the exile.
 - **Hebrews 3:1-6**: Compared with Jesus; Moses faithful as "servant" in God's house, Christ as "Son" over it.
 - **Hebrews 11:23-29**: Faith in identifying with God's people, choosing reproach over Egyptian treasures, keeping Passover, crossing sea "as on dry land".

@@ -8,7 +8,7 @@ positions:
   - The judgment in 6:8 is temporal, not eternal; the warning is about community consequences, not final loss (minority Reformed position)
 traditions_involved: [Christianity — evangelical; Reformed; Arminian; Wesleyan; Catholic; critical scholarship]
 resolution_status: open
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, new-testament, hebrews, apostasy, perseverance, warning-passages]
 ---
 
@@ -16,15 +16,25 @@ tags: [controversy, new-testament, hebrews, apostasy, perseverance, warning-pass
 
 ## The Five Warning Passages
 
-Hebrews contains five major warning passages that constitute a sustained pastoral strategy against apostasy:
+Hebrews contains five major warning passages that constitute a sustained pastoral strategy against apostasy. Cockerill treats them as an integrated architecture (not isolated proof-texts), escalating from neglect → Kadesh unbelief → irrevocable loss after experienced grace → post-solid-food repudiation → final refusal of the heavenly speaker:
 
-1. **2:1–4** — "How shall we escape if we neglect such a great salvation?"
-2. **3:7–4:13** — The wilderness generation as paradigmatic apostasy; "take care lest any of you have an evil, unbelieving heart, leading you to fall away from the living God" (3:12)
-3. **6:4–8** — "It is impossible to renew again to repentance those who have once been enlightened…"
-4. **10:26–31** — "If we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins…"
-5. **12:25–29** — "See that you do not refuse him who is speaking… for our God is a consuming fire"
+1. **2:1–4** — “How shall we escape if we neglect such a great salvation?”
+2. **3:7–4:13** — Wilderness generation at Kadesh-Barnea; “fall away from the living God” (3:12); rest still open
+3. **6:4–8** — “It is impossible to renew again to repentance those who have once been enlightened…”
+4. **10:26–31** — “If we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins…”
+5. **12:25–29** — “See that you do not refuse him who is speaking… for our God is a consuming fire”
 
-The third warning (6:4–8) has generated the most extensive scholarly debate because of its description of those for whom renewal is "impossible," its detailed account of their prior spiritual experience, and its stark imagery of burning. The following discussion focuses primarily on 6:4–8 but addresses the controversy as a whole.
+Related hinge texts Cockerill integrates: 4:12–13 (living word / reckoning); 12:14–17 (Esau as arch-apostate foil). The third warning (6:4–8) has generated the most extensive scholarly debate. **Multi-position structure below is preserved without adjudication.**
+
+### First warning 2:1–4 (Cockerill, R3)
+
+Cockerill reads 2:1–4 as applying 1:1–14: inclusive “we”; attention proportionate to Son-revelation; “things heard” = non-distant divine word anticipating Ps 95; nautical metaphor — attend the course lest neglect cause **drift** from the intended harbor (R3 L1973–1981). Drift is culpable and, unchecked, leads to falling “away from the living God” (3:12). Less-to-greater: Sinai “word spoken through angels” (epitome of pre-Son revelation) received just “reward” for every transgression; “great salvation” is *provision* (not mere demand) via the Great High Priest — neglect → eternal loss; certainty of judgment intensified vs OT (R3 L1987–1993). Triple validation: spoken through the Lord; attested by those who heard; God co-witnesses by signs/wonders/Spirit apportionments (R3 L1995–2003). Social pressure and lethargy are named causes (cf. 10:25; 5:11–14; 10:32–39).
+
+### Wilderness / Kadesh 3:1–4:13 (Cockerill, R4)
+
+Second half of “A Very Short History of the Disobedient” (R4 L2119). Wilderness generation is **example, not type** of Christian believers — both groups are one people of God called to the same faith/obedience and same “rest” (R4 L2123). Focus is **Kadesh-Barnea** (Num 14) as climax of disobedience, not Käsemann’s forty-year wandering as pilgrimage model (R4 L2125). No single impending “Kadesh event”; if unchecked, unbelief from drift/neglect becomes irreversible loss like the ancestors (R4 L2127).
+
+Hold-fast conditions (3:6, 14): Cockerill rejects Fanning’s inferential-conditional (future perseverance as mere *evidence* of present membership) — Christ provides means and compelling reason, not automatic guarantee of the elect; pastor addresses hearers as true believers (“holy… house… participants in Christ… enlightened… Spirit… powers”) (R4 L2173–2177). Unbelief is the comprehensive descriptor (disobedience included); “fall away from the living God” = acting as if he were not living (R4 L2229–2241). Rest forfeited = eternal City/homeland of ch. 11, not mere temporal Canaan (R4 L2235, 2283). Rest is local and future (Laansma/Hofius); continuous present “we are entering” is process, not secured past (R4 L2301, 2315). 4:12–13 closes the section with living word and “word of reckoning”; pairs with 10:26–31 as poles of warning architecture (R4 L2365–2369).
 
 ## The Passage (Hebrews 6:4–8)
 
@@ -56,15 +66,21 @@ The fifth and final participle — **"fallen away"** (*parapesontas*) — stands
 
 **Pastoral reassurance embedded in the warning**: Both v. 3 ("if God permits") and the structure of the passage (vv. 9–12 immediately assure the hearers that they are not among the apostates described) show that the warning is not counsel of despair. The person anxious about their own condition in response to this warning is, by that very anxiety, demonstrated not to be apostate. The apostate would be unmoved (v. 6's present participles: the apostate *continues* to hold Christ up to public shame; they do not respond with contrition).
 
-## Position 1: Genuine Believers; Genuine Apostasy (Arminian/Wesleyan)
+## Position 1: Genuine Believers; Genuine Apostasy (often labeled Arminian/Wesleyan)
 
-**Representatives**: Cockerill, deSilva, Osborne, McKnight
+**Representatives**: Cockerill (NICNT constructive reading; four-views article names Wesleyan-Arminian), deSilva, Osborne, McKnight
 
-The five participles describe genuine Christian experience. "Taste" is used in 2:9 for Jesus' tasting of death — a full, genuine experience, not a surface contact. "Partakers of the Holy Spirit" echoes "partakers of Christ" (3:14) and the NT's consistent use of the Spirit's indwelling as the mark of belonging to Christ. The wilderness generation (3:7–4:13), the paradigmatic example of apostasy throughout Hebrews, had genuinely experienced God's grace and provision — they were the covenant community, not a merely nominal group. Their loss was real and eternal (Cockerill: Hebrews consistently uses *katapausis* for the eternal inheritance, not a temporal blessing).
+**Cockerill’s constructive reading of 6:4–8 (R5; body text does not use “Wesleyan/Arminian” labels in-range):**
 
-On this reading, the warning passages are genuine warnings to genuine believers about a genuine possibility. The pastoral logic of the sermon requires this: the pastor could not achieve his purpose of motivating perseverance with a merely hypothetical warning or a warning that describes people who were never really Christians.
+1. **Five aorist participles under one article** = unified description of the converted who later fall: once enlightened; tasted heavenly gift; partakers of Holy Spirit; tasted good word of God and powers of the coming age; **and who have fallen away** (R5 L2628). “Once” + pride of place stress definitive conversion; “taste” = true experience, not mere instruction (R5 L2630–2638).
+2. **“Fallen away”** is substantive, not conditional: describes the genuinely converted *who have fallen*, not “who might fall.” Apostasy = repudiation of Christ and surrender of confession that sunders connection — not sin in general (R5 L2642–2644). Third person so hearers may still escape.
+3. **Impossibility**: re-crucifying / holding up to public shame (present participles = ongoing post-apostate stance). Apostates sever themselves from once-for-all work (9:12; 10:10): “Where, now, can they go for deliverance?” Ultimate source of *adynaton* in **God’s character** (// 6:18 impossible for God to lie) — not mere psychological hardening (R5 L2646–2652).
+4. **Same land, two harvests** (6:7–8): not two fixed parcels/classes; apostasy of those who give every evidence of being faithful is possible; “burning” = eternal judgment (R5 L2656–2662). Echoes Isa 5 vineyard, Deut blessing/curse, Gen thorns.
+5. **Pastoral reassurance** (6:9–12): “beloved”; better things pertaining to salvation; God not unjust to forget past love-work — yet past faithfulness does **not guarantee** future perseverance; urge full assurance of hope until the end; imitate faith-and-patience heirs (R5 L2672–2694). Anxiety at the warning *reassures* — the apostate would be unmoved (R5 L2652).
 
-**The impossibility** is located in God's character and the logic of once-for-all atonement (see above), not in an irresistible hardening of the heart.
+Broader Position-1 grammar: “Taste” in 2:9 for Jesus’ death supports full experience; “partakers of the Holy Spirit” // “partakers of Christ” (3:14); wilderness generation genuinely experienced grace; *katapausis* = eternal inheritance. Pastoral logic: genuine warnings to genuine believers about a genuine possibility — not merely hypothetical or never-converted classes.
+
+**The impossibility** is located in God’s character and the logic of once-for-all atonement, not in an irresistible hardening of the heart.
 
 ## Position 2: Warning Real; Elect Cannot Fall (Reformed/Calvinist)
 
@@ -94,37 +110,57 @@ The "burning" in 6:8 is temporal, not eternal — analogous to the temporal judg
 
 **Critique** (Cockerill): Hebrews consistently uses *katapausis* ("rest"), *sōtēria* ("salvation"), and the imagery of the heavenly "City" for the eternal inheritance. The "burning" in 6:8 is covenant language of ultimate and eternal consequence (not merely temporal); the contrast with "receiving blessing from God" in v. 7 is an eternal contrast. The comparison with Heb 12:29 ("our God is a consuming fire") confirms the eschatological register.
 
-## Hebrews 10:26–31
+## Hebrews 10:26–31 (Cockerill densified, R9)
 
-The second major warning passage, intensified because it comes after the full disclosure of Christ's high-priestly benefits:
+The second major warning, intensified because it comes after full disclosure of Christ’s high-priestly benefits (the “solid food” of 7:1–10:18). Cockerill stresses a **different role** from 6:4–8: earlier warning roused lethargy to grasp high-priestly teaching; 10:26–31 alarms against abandoning the *now-explained* salvation (R9 L3547–3555). Personal “**if we**” (vs impersonal 6:4–8); not a church-discipline manual; not meant to torment the sensitive — the true apostate would be unmoved.
 
 *"For if we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins, but a fearful expectation of judgment, and a fury of fire that will consume the adversaries. Anyone who has set aside the law of Moses dies without mercy on the evidence of two or three witnesses. How much worse punishment, do you think, will be deserved by the one who has trampled underfoot the Son of God, and has profaned the blood of the covenant by which he was sanctified, and has outraged the Spirit of grace?"*
 
-**Key features**: (1) "No longer remains a sacrifice for sins" — the once-for-all atonement, having been definitively rejected, leaves no further provision. (2) The person is described as one "by whom he was sanctified" (*en hō hēgiasthē*) — the antecedent "he" must refer to the apostate, who had been genuinely set apart by the blood of the covenant. (3) The comparison with the Mosaic law heightens the stakes via *qal wayyomer*: if transgression of Moses' law warranted death, how much more severe the judgment for trampling the Son's blood underfoot?
+**Cockerill’s key features (R9 L3557–3587):**
 
-The phrase "by which he was sanctified" strongly implies the apostate had genuine standing as a member of the covenant community. This is the most direct support for Position 1 and the greatest problem for Position 3.
+1. **Willful, persistent, informed sin** (present tense; “willfully” fronted): intentional continuous post-knowledge neglect/drifting of Christian privileges and community — polar opposite of “drawing near” (10:22). Neglect is not itself apostasy; *persistence* can reach Kadesh-like final rejection. “Knowledge of the truth” here primarily = high-priestly exposition just given (not merely conversion/baptism). Over-simple Num 15 haughty-hand import rejected (Hebrews neither cites nor echoes that terminology).
+2. **No remaining sacrifice**: after 8:1–10:18 and 10:18’s end of other sin-sacrifices, repudiation leaves no remedy, recourse, or hope. Fiery judgment (Isa 26:11 echo) equates Christ-repudiation with idolatry; apostates become “adversaries”/enemies under the Son’s feet (1:13; 10:13).
+3. **Less-to-greater (10:28–29)**: setting aside Moses’ law → death without mercy; repudiation of Christ → **worse** = eternal retributive loss (not formative discipline of 12:4–11). OT faithfulness still has eternal stakes elsewhere in Hebrews; Mosaic capital penalty is the *lesser* case for severity only.
+4. **Three aorist participles of apostasy** (one article): (a) **trample** the exalted Son of God; (b) account the covenant blood by which **he was sanctified** as common/profane; (c) **insult** the Spirit of grace (climax — repudiation of God’s presence/power in one’s life; // partaker of Spirit, 6:4). Aorists mark definitive *climax* of unchecked laxity, not a summary of ongoing attitude.
+5. **Deut 32** quotations: vengeance + vindication; “terrifying thing to fall into the hands of the living God” (// 3:12 fall *away from* the living God). Warning balanced by encouragement (10:32–39) lest despair.
 
-## Hebrews 12:25–29
+The phrase “by which he was sanctified” strongly implies the apostate had genuine covenant standing. On Cockerill’s reading this is major support for Position 1 and the greatest problem for Position 3; other positions contest the force of the antecedent or the sense of “sanctified.”
 
-The fifth and final warning, climaxing the sermon:
+## Hebrews 12:25–29 (Cockerill densified, R11)
+
+Fifth and final warning, climaxing the history of the faithful (10:19–12:29) and mirroring 1:1–2:18 (R11 L4023, 4173–4207).
 
 *"See that you do not refuse him who is speaking. For if they did not escape when they refused him who warned them on earth, much less will we escape if we reject him who warns from heaven… For our God is a consuming fire."*
 
-The structural parallel with 2:1–4 (the first warning) creates an *inclusio*: the sermon begins and ends with the warning that the greater privilege of the new revelation entails greater accountability. Those who refused the Sinai theophany faced judgment; how much more those who refuse the voice speaking from the heavenly Zion (12:22–24).
+**Cockerill’s architecture:**
+
+- **Revelation arc**: God spoke by providing “great salvation” → now speaks from heaven offering that salvation → will speak once more at final Judgment (R11 L4173–4175). Dual less-to-greater: (1) refuse earthly Sinai warning vs turn from heavenly; (2) Sinai earth-shake vs heaven-and-earth shake.
+- **“Refuse”** updates 2:3 neglect and 3:12: more forceful; “neglect” escalated to definitive “turning away”; direct “we who turn” to elicit “no, we are not those” (R11 L4177–4183).
+- **Hag 2:6** as “promise”: judgment is warning *and* joyful salvation-promise (only at Judgment do the faithful enter the Unshakable Kingdom fully) (R11 L4185–4189). Paraphrase presses “not only earth but also heavens” for absolute finality — not Platonic dualism (see [[hebrews-worldview-platonic-vs-apocalyptic]]) (R11 L4191–4199).
+- **Unshakable Kingdom**: present continuous “receiving” + future entrance at return; synonym set with rest / City / Zion / what cannot be shaken (R11 L4201–4203).
+- **Gratitude + godly fear and awe** as climactic response; “our God is a consuming fire” (Deut 4:24 with “our” intensifying identity of Sinai-judging God with the Christian God’s people) (R11 L4205–4207).
+
+**Esau hinge (12:14–17)** answers 2:3: neglect → bitter root → Esau-like disregard of eternal birthright for temporal pittance → no place of repentance (tears for lost *blessing*, not repentance of folly) (R11 L4087–4115). Climactic counterpart of 2:1–4; foil of ch. 11; desire-driven (worse than wilderness fear-driven) arch-apostasy.
+
+Structural *inclusio* with 2:1–4: greater privilege of new revelation entails greater accountability.
 
 ## The Wilderness Generation as Paradigm
 
-Throughout Hebrews the wilderness generation of Num 13–14 functions as the paradigmatic example of apostasy. Their privileges were genuine (covenant people, Sinai, manna, provision); their loss was real and eternal (loss of the "rest" — which Hebrews reads as the eschatological inheritance, not merely the earthly Promised Land). This use of the wilderness generation is fundamental: if the wilderness generation's experience proves they were never truly God's people, the entire pastoral logic of Hebrews collapses, because the pastor explicitly identifies his congregation as one people with the wilderness generation (3:1–6; 4:1).
+Throughout Hebrews the wilderness generation of Num 13–14 functions as the paradigmatic example of apostasy. On Cockerill’s reading their privileges were genuine (covenant people, Sinai, manna, provision); their loss was real and eternal (loss of the “rest” as eschatological inheritance, not merely earthly Canaan). If their experience proved they were never truly God’s people, the pastoral logic collapses — the pastor identifies his congregation as one people with them (3:1–6; 4:1) and Moses as steward *in* that house (R4 L2169–2177). Position 3 and some Reformed readings contest this identification of wilderness experience with “saving” standing.
 
 ## Resolution Status
 
-**Open.** The warning passages of Hebrews are the most sustained exegetical battleground between Arminian and Calvinist theologies of perseverance in the NT. Neither reading is exegetically impossible; both engage seriously with the text. The debate turns ultimately on: (1) whether the five participles in 6:4–6 describe genuine saving experience; (2) what kind of "impossibility" is asserted in 6:4; (3) whether the wilderness generation paradigm proves or refutes genuine prior standing before God; and (4) what the phrase "by which he was sanctified" in 10:29 implies about the apostate's prior state. These questions are inseparable from the broader theological commitments of each tradition.
+**Open.** The warning passages of Hebrews remain the most sustained exegetical battleground between Arminian/Wesleyan and Calvinist theologies of perseverance in the NT. Neither family of readings is exegetically impossible; both engage seriously with the text. The debate turns on: (1) whether the five participles in 6:4–6 describe genuine saving experience; (2) what kind of “impossibility” is asserted in 6:4; (3) whether the wilderness generation paradigm proves or refutes genuine prior standing before God; (4) what “by which he was sanctified” in 10:29 implies; (5) how 12:25–29’s finality interacts with election/perseverance doctrines. These questions are inseparable from broader theological commitments. This page records positions; it does not adjudicate.
+
+**Fidelity note (2026-07-18):** Cockerill NICNT constructive reading densified from digests R3 (2:1–4), R4 (3–4), R5 (6:4–8), R9 (10:26–31), R11 (12:14–17; 12:25–29). Body commentary in the 6:4–8 range does not label the view “Wesleyan/Arminian”; that label belongs to the four-views article and institutional location. See [[cockerill-hebrews-nicnt]].
 
 ## Key Links
 
 - [[hebrews|Letter to the Hebrews]] — primary text
-- [[gareth-lee-cockerill|Gareth Lee Cockerill]] — NICNT 2012; Wesleyan-Arminian reading; genuine apostasy possible
-- [[hebrews-worldview-platonic-vs-apocalyptic|Worldview of Hebrews]] — the eschatological character of the "rest" and salvation shapes interpretation of the warnings
-- [[justification|Justification]] — perseverance of the saints debate intersects with Calvinist/Arminian soteriology
-- [[new-covenant|New Covenant]] — 10:15–18 as the backdrop for the warning of 10:26–31 ("no longer remains a sacrifice for sins")
-- [[numbers|Numbers]] — Num 13–14 as the source for the wilderness generation paradigm (Heb 3–4)
+- [[cockerill-hebrews-nicnt|Cockerill NICNT Hebrews]] — source for densified constructive reading
+- [[gareth-lee-cockerill|Gareth Lee Cockerill]] — NICNT 2012; constructive reading of warnings (genuine apostasy possible)
+- [[hebrews-worldview-platonic-vs-apocalyptic|Worldview of Hebrews]] — eschatological character of “rest” and salvation shapes warning interpretation
+- [[priesthood-of-christ|Priesthood of Christ]] — high-priestly benefits that raise accountability (10:26–31)
+- [[justification|Justification]] — perseverance of the saints debate intersects Calvinist/Arminian soteriology
+- [[new-covenant|New Covenant]] — 10:15–18 backdrop for “no longer remains a sacrifice for sins”
+- [[numbers|Numbers]] — Num 13–14 wilderness generation paradigm (Heb 3–4)

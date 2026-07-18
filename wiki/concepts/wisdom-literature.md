@@ -2,7 +2,7 @@
 title: Wisdom Literature
 domain: hermeneutics / biblical genre / theology
 traditions_using: [Judaism, Christianity]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-18
 tags: [concept, wisdom-literature, genre, proverbs, job, ecclesiastes, old-testament, new-testament, james]
 ---
@@ -13,11 +13,22 @@ Wisdom literature is a distinct literary and theological category within the Heb
 
 **Concern with universal human experience**: Wisdom literature rarely invokes Israel's redemptive history — the exodus, the covenant, the monarchy. It is concerned with general patterns of human life: how the world works, why the righteous suffer, what makes a good life, the limits of human knowledge. Job's setting in Edomite territory with non-Israelite characters is typical: Wisdom is deliberately international and transhistorical.
 
-**The fear of YHWH as the foundation**: The theological anchor of all biblical wisdom is "the fear of YHWH is the beginning/foundation of wisdom" (Prov 1:7; 9:10; Job 28:28; Ps 111:10). Fear of God is not terror but reverent trust — the epistemological prerequisite for correct understanding of the created order.
+**The [[fear-of-the-lord|fear of YHWH]] as the foundation**: The theological anchor of all biblical wisdom is "the fear of YHWH is the beginning/foundation of wisdom" (Prov 1:7; 9:10; Job 28:28; Ps 111:10). Fear of God is not terror but reverent trust — the epistemological prerequisite for correct understanding of the created order.
 
 **Order, pattern, and exception**: The Wisdom tradition assumes that God has built a moral order into creation — the righteous generally prosper; folly leads to ruin; creation has discernible patterns. Proverbs affirms this order confidently. Ecclesiastes and Job push against it, examining the exceptions and the limits of human understanding.
 
 **Inductive rather than deductive**: Wisdom literature proceeds by observation, comparison, and inference rather than by appeals to revelation or covenant history. The wise person observes nature, human behavior, and the patterns of social life, draws analogies, and formulates generalizations (*māšāl*, "proverb/parable/riddle").
+
+> **[Attributed counter-position — Waltke].** [[bruce-waltke|Bruce K. Waltke]] resists framing
+> the inductive surface as the *epistemological ground* of Proverbs. On his reading the book's
+> distinctive mark is not internationalism, eudaemonism, or a "search for order" but **unique
+> inspiration**: "the basis for the book of Proverbs' epistemology... is not natural theology,
+> but special revelation through inspired spokespersons." The sages "used [nature analogies] to
+> buttress their world-and-life views, which were already firmly in place" (the ant of 6:6–8) —
+> observation illustrates a revealed wisdom rather than generating it. Waltke thus rejects von
+> Rad's "wisdom-in-creation" (*ma'at*) thesis, invoking [Agur]'s confession (30:1–6) that no one
+> can attain wisdom by ascending to heaven. Recorded here as his position, not as the wiki's
+> adjudication of the genre.
 
 ## Biblical Wisdom Books
 
@@ -39,11 +50,26 @@ The resolution within the tradition: Ben Sira (Sirach 24) explicitly identifies 
 
 Wisdom literature is the most internationally connected genre in the OT. Major ANE parallels:
 
-- **Egyptian instruction texts**: The "Instruction of Amenemope" has direct verbal parallels with Prov 22:17-24:22
+- **Egyptian instruction texts**: The "Instruction of Amenemope" has direct verbal parallels with Prov 22:17-24:22 (see the deepened treatment below)
 - **Mesopotamian theodicy texts**: "I Will Praise the Lord of Wisdom" ("Babylonian Job"), "The Babylonian Ecclesiastes"
 - **Sumerian lament texts**: Righteous sufferer who confesses and is healed
 
 Hartley's controlling verdict on the whole comparison set is that "the author may have been influenced by the rich literary tradition of the ancient Near East about suffering, but **more in format than in substance**." What he finds distinctive in Job: "The author expanded the dialogue from two to four speakers, a major literary breakthrough"; the hymnic register, which "gives the work a grandeur not visible in the Near Eastern parallels"; the severity of the challenge — "Criticism of the traditional beliefs about reward and punishment is much more severe in the book of Job"; and the litigation posture, which none of the parallel sufferers adopts. He also cites Roberts's claim that the author "successfully joined the cultic and the wisdom traditions." See [[book-of-job|Job]] for the comparison table.
+
+**The Amenemope case (Waltke, Proverbs Vol. 2).** The clearest instance of Israelite adaptation is
+Collection III of Proverbs (22:17–24:22), the "Thirty Sayings of the Wise." [[bruce-waltke|Waltke]]
+argues the "thirty sayings" model itself derives from the colophon of the Egyptian *Instruction of
+Amenemope* (ca. 1186–1069 BCE), and treats that affinity as text-critical support for emending
+Prov 22:20 to *šelôšîm* ("thirty"). Two disciplining claims matter for how the genre relates to its
+ANE environment: (1) **material dependence is limited** — it extends only to the first eleven
+sayings (22:16–23:11) and "disappears" precisely at 23:11, after which the collection draws on the
+Aramaic *Ahiqar* and other non-Amenemope sources; and (2) the borrowing is **theologically
+controlled** — the prologue's center line "adjusts the adopted sayings of the wise to faith in
+Israel's covenant-keeping God," so that trust in the LORD (22:19) "distinguishes Solomon's sayings
+from those of his peers." At the boundary-stone saying the contrast is explicit: "in Prov 23:10–11
+Israel's covenant-keeping God protects the boundaries, but in Amenemope the moon god Thoth does."
+This is Waltke's model of adaptation-under-theological-control, parallel to Hartley's "more in
+format than in substance" verdict on Job. See [[proverbs|Proverbs]].
 
 ## Job 28: Wisdom Hidden, and the One Wisdom Available
 
@@ -100,9 +126,10 @@ Wholeness]] for James's distinctive "two ways" framing of wisdom and folly.
 ## Sources Ingested
 
 1. [[hartley-job-nicot|Hartley, John E. *The Book of Job*]]. NICOT. Grand Rapids: Eerdmans, 1988. (Re-ingested 2026-07-18.)
-2. [[bruce-waltke|Waltke, Bruce K.]]. *The Book of Proverbs: Chapters 1–15*. NICOT. Grand Rapids: Eerdmans, 2004.
-3. [[tremper-longman|Longman, Tremper, III]]. *The Book of Ecclesiastes*. NICOT. Grand Rapids: Eerdmans, 1998.
+2. [[waltke-proverbs-nicot|Waltke, Bruce K. *The Book of Proverbs: Chapters 1–15*. NICOT]]. Grand Rapids: Eerdmans, 2004. (Fidelity re-ingest 2026-07-18.)
+3. [[longman-ecclesiastes-nicot|Longman, Tremper, III. *The Book of Ecclesiastes*. NICOT. Eerdmans, 1998]] — fidelity re-ingest 2026-07-18: **framed wisdom autobiography** (Akkadian fictional autobiography parallel); Qohelet as pedagogical **foil**; book-level meaning in the Frame Narrator (12:13–14), not in equating Qohelet with the book’s message. See [[ecclesiastes]], [[hebel]], [[tremper-longman]].
 4. [[douglas-moo|Moo, Douglas J.]]. *The Letter of James*. PNTC. Grand Rapids: Eerdmans, 2000. (For the NT-wisdom / paraenesis genre debate only.)
+5. [[waltke-proverbs-15-31-nicot|Waltke, Bruce K. *The Book of Proverbs: Chapters 15:30–31:31*. NICOT]]. Grand Rapids: Eerdmans, 2005. (Fidelity re-ingest 2026-07-18; the Amenemope/ANE-adaptation material.)
 
 ## Related Texts
 

@@ -18,7 +18,7 @@ Aaron is the first high priest of Israel, older brother of Moses, and key figure
 
 Born to Amram and Jochebed (Exod 6:20), Aaron is three years older than Moses (Exod 7:7). He marries Elisheba (Exod 6:23), fathering Nadab, Abihu, Eleazar, and Ithamar. Called as Moses' "mouth" (Exod 4:16), he confronts Pharaoh alongside Moses, his staff becoming a serpent and initiating some plagues (Exod 7–8). During the golden calf crisis (Exod 32), Aaron yields to the people's demand, fashions the idol, and declares a feast—leading to judgment (3,000 slain) but his own survival through Moses' intercession. In Leviticus, Aaron and his sons are consecrated as priests (ch. 8); Nadab and Abihu die for offering "unauthorized fire" (ch. 10), after which God gives priestly regulations. Aaron intercedes with incense during the Korah rebellion (Num 16–17), his budding staff confirming the Levitical priesthood (Num 17). He dies on Mount Hor after Moses strips him of priestly garments and transfers them to Eleazar (Num 20:22–29). Deuteronomy notes his death and burial (Deut 10:6; 32:50).
 
-From [[gordon-wenham|Gordon J. Wenham]] (NICOT Leviticus): Aaron's ordination (Lev 8) and first sacrifices (Lev 9) inaugurate the priestly system, but the immediate judgment on his sons (Lev 10) underscores the holiness required. Wenham highlights Aaron's role in the Day of Atonement (Lev 16) as the high priest entering the Most Holy Place once a year, bearing the people's sins via the scapegoat (Azazel).
+From [[gordon-wenham|Gordon J. Wenham]] (NICOT Leviticus; fidelity re-ingest 2026-07-18, [[wenham-leviticus-nicot]]): Aaron’s ordination (Lev 8; Moses as temporary priest until installation) and first sacrifices (Lev 9) inaugurate the system with glory-fire of acceptance (9:24); the immediate judgment on his sons (Lev 10) turns the same fire-formula into judgment for what was **not commanded**. On the Day of Atonement (Lev 16) Aaron alone enters the holy of holies with blood; the Azazel goat publicly visualizes sin’s removal (etymology open—[[azazel-identity]]). Hebrews, on Wenham’s reading, contrasts Aaron (sinner; repeated; earthly; reminder of sin) with Christ (sinless; once-for-all; heavenly; permanent forgiveness).
 
 ## Primary Source Appearances
 
@@ -48,13 +48,13 @@ Aaron is the human mediator of Israel's cultic life, bridging God and people thr
 
 - **Golden calf**: Historical event or etiological story explaining calf worship? Wenham and others see it as genuine rebellion highlighting the need for the covenant renewal in Exod 34. Critical views link it to Jeroboam's calves.
 - **Nadab and Abihu**: Cause of "unauthorized fire" (strange incense? drunkenness?)? Death as warning against innovation or as polemic against rival priesthoods. Wenham: underscores that even priests must obey exactly; their sin pollutes the sanctuary.
-- **Day of Atonement and Azazel**: Scapegoat's destination (wilderness demon? cliff? "complete removal")? Wenham: the rite removes sin from the community/tabernacle, restoring access to God's presence.
+- **Day of Atonement and Azazel**: Scapegoat's destination (wilderness demon? cliff? "complete destruction")? Positions recorded on [[azazel-identity]]; Wenham’s functional conclusion: sin is exterminated from Israel.
 - **Priesthood origins**: Mosaic institution or later (post-exilic) projection? Traditional: Mosaic; critical: P source idealizes Aaronides over Levites.
 - **Death on Hor**: Why stripped of garments before death (Num 20)? Succession to Eleazar; symbolic transfer of office.
 
 ## Influence on Commentary Traditions
 
-- **Wenham (Leviticus, NICOT)**: Aaron's story illustrates holiness-as-wholeness (Douglas); the priestly system as gracious provision for covenant maintenance, not magic. Detailed on sacrificial variety and the Holiness Code's social ethics. Challenges late dating and source fragmentation.
+- **Wenham (Leviticus, NICOT)** — [[wenham-leviticus-nicot]]: Aaron’s story illustrates holiness-as-wholeness (Douglas); graded sacrifice; priestly system as gracious covenant maintenance. Challenges late dating and source fragmentation without dogmatic Mosaic requirement.
 - **Hebrews (Cockerill and others)**: Aaron typifies the old order's limitations (mortal, sinful, repetitive sacrifices); points to Christ's superior, once-for-all priesthood.
 - **Jewish tradition**: Model of peace-making (Avot); Kohanim retain ritual roles. Midrash expands his reluctance and intercession.
 - **Christian tradition**: Prefigures Christ (priesthood, intercession, atonement); informs views of ordained ministry (e.g., "Aaronic" vs. "Melchizedek" orders in some theologies).
@@ -63,11 +63,11 @@ Aaron is the human mediator of Israel's cultic life, bridging God and people thr
 **Key Links**:
 - [[leviticus|Leviticus]] (Wenham) — priestly laws and Aaron's ordination
 - [[exodus|Exodus]] (Bruckner) — golden calf and initial call
-- [[gordon-wenham|Gordon J. Wenham]]
+- [[gordon-wenham|Gordon J. Wenham]] · [[wenham-leviticus-nicot]] · [[azazel-identity]]
+- [[nadab-and-abihu|Nadab and Abihu]]
 - [[moses|Moses]] (brother and leader)
-- [[tabernacle|Tabernacle]], [[covenant|Covenant]], [[holiness|Holiness]]
+- [[tabernacle|Tabernacle]], [[covenant|Covenant]], [[holiness|Holiness]], [[sacrifice|Sacrifice]], [[atonement|Atonement]]
 - [[hebrews|Hebrews]] (typology)
-- [[aaron|Aaron]] (this page; cross to Nadab/Abihu if created, Day of Atonement concept)
 - [[documentary-hypothesis|Documentary Hypothesis]] (P source debates)
 
 ### Bruckner (UBCS Exodus) reingest anchors (2026-07-18) — calf culpability, vestments, consecration

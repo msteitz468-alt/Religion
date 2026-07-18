@@ -18,6 +18,8 @@ over the older labels "low Christology" and "adoptionist Christology": "the man
 Jesus is showered with divine favors beyond anyone's wildest dreams … elevated to a
 divine status on a level with God himself, sitting at his right hand."
 
+**Note on Phil 2:** [[g-walter-hansen|Hansen]] (PNTC) reads the [[christ-hymn|Christ hymn]] as *preexistence + incarnation + exaltation* (not pure “from below” adoptionism): exaltation **reveals** identity already true in the form of God rather than conferring equality previously lacking. That evangelical confessional reading is a distinct position from Ehrman’s developmental “Christ Poem” reconstruction; both are recorded without adjudication.
+
 On Ehrman's reconstruction this is the **earliest** Christology — the belief that, at
 his [[resurrection|resurrection]], God exalted Jesus to heaven and "to a position of
 virtually unheard-of status and authority." The resurrection, in the oldest tradition,

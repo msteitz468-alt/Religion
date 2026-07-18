@@ -9,7 +9,7 @@ positions:
   - Spirit-experience-centered (baptismal theology)
 traditions_involved: [Christianity, early Patristic, NT scholarship]
 resolution_status: open
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, johannine, christology, heresy]
 ---
 
@@ -95,7 +95,7 @@ Reconstructed from a careful mirror reading of 1 John and 2 John:
 
 ## Assessment
 
-[[i-howard-marshall|Marshall]]: "It seems most likely that the opponents were Christians who felt that they had moved beyond the elementary stages of orthodox theology to a new position which called orthodox affirmations into question. Under the influence of Docetism they argued against a real incarnation of the Son of God in Jesus, and probably adopted a view like that of Cerinthus or Basilides." He resists a precise identification; a combination of reliance on spiritual experience and a Gnostic-type world-view led to a Christianity in which Jesus Christ no longer occupied a central position.
+[[i-howard-marshall|Marshall]]: "It seems most likely that the opponents were Christians who felt that they had moved beyond the elementary stages of orthodox theology to a new position which called orthodox affirmations into question. Under the influence of Docetism they argued against a real incarnation of the Son of God in Jesus, and probably adopted a view like that of Cerinthus or Basilides." He resists a precise identification; a combination of reliance on spiritual experience and a Gnostic-type world-view led to a Christianity in which Jesus Christ no longer occupied a central position. On the exact content of the denial, Marshall leans on the **present-continuous participle** in 2 John 7 ("Jesus Christ coming in flesh," contrasted with the perfect in 1 John 4:2): the deceivers denied not the fact of the incarnation so much as its *permanence* — "the Word had become flesh and remained flesh" — which fits a separationist christology (the heavenly Christ withdrawing before the cross) better than a flat denial that Jesus had a body.
 
 [[colin-kruse|Kruse]]: Whatever the precise origin (misreading of the Gospel, background in mystery religion, Spirit experience, or external influence), the result was the same — a de-emphasizing of the incarnation and vicarious death of Christ and a concomitant de-emphasizing of the commands of Christ, especially the command to love one another.
 
@@ -106,3 +106,4 @@ The controversy is open. No proposed identification is exact; the secessionists 
 - Text: [[letters-of-john|Letters of John (1, 2, 3 John)]]
 - Concept: [[antichrist|Antichrist]]
 - Commentators: [[i-howard-marshall|I. Howard Marshall]], [[colin-kruse|Colin G. Kruse]]
+- Sources: [[marshall-epistles-of-john-nicnt|Marshall, The Epistles of John (NICNT)]] · [[kruse-letters-of-john|Kruse, The Letters of John (PNTC)]]

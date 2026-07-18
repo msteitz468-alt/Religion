@@ -2,7 +2,7 @@
 title: Covenant
 domain: theology / law
 traditions_using: [Judaism, Christianity, Islam (tangentially)]
-sources_ingested: 7
+sources_ingested: 8
 last_updated: 2026-07-18
 tags: [concept, theology, law, cross-tradition]
 ---
@@ -88,9 +88,61 @@ The Shechem covenant renewal is the climactic act of the book of Joshua and the 
 
 Joshua's warning — "you cannot serve the LORD, for he is a holy God; he is a jealous God" (24:19) — is among the most remarkable statements in the Former Prophets. It appears to counsel *against* the covenant the chapter just establishes. [[marten-woudstra|Woudstra]] reads it not as contradiction but as a warning about the absolute demands of covenant with the Holy One: what Israel is undertaking is not manageable religion but binding relationship with a God who will hold them to their word. The book's final note — "Israel served the LORD all the days of Joshua and the elders who outlived him" (24:31) — is the narrator's affirmation that the seemingly impossible was achieved, however temporarily.
 
+### Woudstra on Joshua’s covenant frame (Shechem, Ebal, *maʿal*)
+
+Attributed to [[marten-woudstra|Woudstra]], *Joshua* NICOT ([[woudstra-joshua-nicot]]; digests A, C, G; 2026-07-18 re-ingest). This extends the Shechem outline above; it does not replace multi-source covenant typology.
+
+**Book structure as covenant pedagogy.** Woudstra outlines Joshua in three parts: (I) promised land conquered; (II) distributed; (III) **“The Promised Land to Be Kept in Covenant Obedience”** (23:1–24:33). Hortatory chs. 1 and 23–24 form a frame. Occasion of the book: “the covenant between God and Israel and the need… to keep alive the memories of the past.” Word *berît* is used sparingly in Joshua though the idea is “present everywhere” (ark; Achan 7:11, 15; Gibeon ch. 9; 24:25).
+
+**Gilgal and Ebal as covenant ceremonies.** Josh 5:1–12 (circumcision and Passover) are covenant-related even when the word is not explicit (// Gen 17; Exod 12:48b). Law under the Old Covenant is a covenant condition, not works-righteousness — the code was given after Egypt’s redemption. Ebal altar and law-reading (8:30–35): “the right of possessing the promised land is tied to the proclamation of, and subjection to, God’s covenant claims”; blessing and curse are the two poles of covenant history (// Deut 11:26; 30:1).
+
+**Shechem assembly (24:1–28).** More official than ch. 23; “stationed themselves before God” signals formal covenant ceremony (// Deut 29:9 Eng. 10). Site choice motivated by patriarchal associations (Abraham’s altar; Jacob’s purchase/altar Gen 33:18–20); “before God” need not require ark transfer from Shiloh. Historical survey (24:2–13) stresses **divine monergism** and gratuitous land gift (“land on which you had not expended any effort”). Exhortation 24:14: fear the Lord sincerely (*tāmîm*) and faithfully (*ʾemeṯ*); put away gods beyond the River **and in Egypt** (Woudstra refuses to deem the Egypt clause suspect — // Ezek 20; 23).
+
+On 24:19–20: “You cannot serve the LORD” is not absolute (// 23:8; 24:31) but confronts seriousness; God is holy (*qōḏeš*) and jealous; will not forgive wilful rebellion (*pešaʿ*) and sin (*ḥēṭ*) as something sinners can count on — forgiveness is miracle of grace; forsaking turns covenant blessings into curses (// Deut 28; Lev 26).
+
+**Documentation (24:25–28).** First explicit *berît* of the chapter: Joshua made covenant with/for the people; laid down statute and ordinance (*ḥōq*, *mišpāṭ*) as rule of covenant life — total ethical commitment grounded in redemption, not ritual only; recorded in “the book of the law of God”; large stone under the oak in the holy place as witness. Emphasis falls on **what the Lord has said** rather than the people’s words; when the stone witnesses against them it is “tantamount to God’s redemptive acts witnessing against them.”
+
+**Covenant obligation and later calamity.** “By informing the reader of Israel’s undertaking of the covenant obligation the writer… makes it clear that Israel’s later calamities can not be laid to God’s charge. The Lord himself is beyond reproach… The message of the book of Joshua is essentially very positive and hopeful.” Closing testimony: Israel served the Lord (24:31) — positive significance after v. 19’s impossibility language.
+
+**Ch. 23’s three calls.** Land possession (present and future) conditional on covenant obedience without canceling gratuitous gift; Torah is “God’s gracious provision for a life of covenant fellowship”; second call: apostasy via intermarriage with remnant nations → land forfeiture; third: as good promises fulfilled, so evil will come when covenant is transgressed (*ʿāḇar*).
+
+### *Maʿal* frames: Achan and the eastern altar
+
+Woudstra’s structural claim (Introduction III; Josh 7; 22:9–34): the same Hebrew **maʿal** (“breach of faith, trespass”) brackets the conquest narratives.
+
+| Locus | Function |
+|---|---|
+| **Josh 7 (Achan)** | Actual corporate trespass after the first city taken: one man’s purloining of *ḥerem* goods is held against all Israel; breach of covenant; purification required before Ai falls |
+| **Josh 22 (eastern altar)** | Potential danger after cities taken and Transjordan tribes return: western investigation charges *maʿal* (vv. 16, 20), recalling Achan (v. 20); altar proves to be *ʾēd* (witness — covenant-making term // Gen 31:48; 24:26–27), not rival sacrifice |
+
+Lesson he draws: “the promised land can be truly possessed only if the people of God adhere to his commandments.” Altar purpose also guards national/cultic unity (Deut 12 concern: no arbitrary sanctuaries without divine authorization of the Name’s dwelling). Positive verdict: “Today we know that the Lord is among us” because trespass was not committed; land possession (chs. 13–22) is blessing only if covenant statutes are observed of the Lord whose land it is (Lev 25:23). See [[herem|Ḥerem]] (Achan) and [[promised-land|Promised Land]].
+
 ## The New Covenant
 
 Jeremiah 31:31–34 predicts a "new covenant" (*berît ḥadāšâ*) in which the Torah will be written on the heart rather than stone tablets. The NT reads this as fulfilled in Jesus' death (Luke 22:20; 1 Cor 11:25; Heb 8–10). [[darrell-bock|Bock]] reads Acts as the narrative of the new covenant community's formation through the Spirit, inaugurated at Pentecost. How the new covenant relates to the Abrahamic and Mosaic covenants — whether it replaces, fulfills, or renews them — is a major point of Christian theological controversy.
+
+## Covenant Curse and the Covenant with Levi (Verhoef, NICOT — 2026-07-18)
+
+From [[pieter-verhoef|Verhoef]] on [[haggai|Haggai]] and [[malachi|Malachi]], two
+post-exilic witnesses to covenant as the governing framework of prophetic rebuke.
+
+- **Covenant sanctions in Haggai.** Verhoef reads the futility of the people's
+  labor and the drought (Hag. 1:6, 9–11) as **covenant curses** (*Wirkungslosigkeitsflüche*),
+  the enforcement of the sanctions of Lev. 26 and Deut. 28, not natural misfortune —
+  "the vertical dimension in their relationship to God." The turn "from this day on I
+  will bless you" (2:19) restores the blessing side of the covenant. The rebuilt temple
+  and God's abiding presence presuppose the covenant relationship (faith, obedience,
+  worship), never an automatic warranty.
+- **The covenant with Levi in Malachi.** See [[levites]]. Malachi invokes a "covenant
+  with Levi" (2:4–8) whose content is, from God's side, "life and peace" and, from
+  Levi's side, the obligation of reverence (*môrāʾ*). Verhoef locates its origin most
+  probably at Exod. 32:26–29 (with the earliest explicit mention at Jer. 33:20–21) and
+  reads the corrupt priests as having "annulled" it. This priestly covenant sits
+  alongside the Sinai covenant ("the covenant of our fathers," Mal. 2:10) that
+  constitutes Israel as God's "treasured possession" (*segullah*).
+- **The messenger of the covenant.** Malachi 3:1's [[messenger-of-the-covenant|messenger
+  of the covenant]] is "destined to dispense both the covenant blessing and the covenant
+  vengeance."
 
 ## Cross-Tradition Tensions
 
@@ -107,7 +159,8 @@ The covenant concept raises several unresolved inter-tradition controversies:
 4. [[peter-craigie|Craigie, Peter C.]]. *The Book of Deuteronomy*. NICOT. Grand Rapids: Eerdmans, 1976.
 5. [[darrell-bock|Bock, Darrell L.]]. *Acts*. BECNT. Grand Rapids: Baker Academic, 2007.
 6. [[james-bruckner|Bruckner, James K.]]. *Exodus*. UBCS. Grand Rapids: Baker Books, 2008/2012.
-7. [[marten-woudstra|Woudstra, Marten H.]]. *Joshua*. NICOT. Grand Rapids: Eerdmans, 1981.
+7. [[marten-woudstra|Woudstra, Marten H.]]. *Joshua*. NICOT. Grand Rapids: Eerdmans, 1981. Source page: [[woudstra-joshua-nicot]] (fidelity re-ingest 2026-07-18; Shechem / *maʿal* / Ebal sections above).
+8. [[pieter-verhoef|Verhoef, Pieter A.]]. *The Books of Haggai and Malachi*. NICOT. Grand Rapids: Eerdmans, 1987. Source page: [[verhoef-haggai-malachi]] (covenant curses in Haggai; the covenant with Levi in Malachi).
 
 ## Related Texts
 
@@ -121,3 +174,4 @@ The covenant concept raises several unresolved inter-tradition controversies:
 - [[romans|Letter to the Romans]]
 - [[circumcision|Circumcision]]
 - [[divine-providence|Divine Providence]]
+- [[promised-land|Promised Land]] · [[herem|Ḥerem]] · [[shechem|Shechem]]

@@ -8,7 +8,7 @@ positions:
   - Practical theologians of success — no developed program; shared practical theology of visible power (Seifrid; Hafemann)
 traditions_involved: [Christianity]
 resolution_status: open
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, pauline, opponents, historical]
 ---
 
@@ -61,11 +61,11 @@ C. K. Barrett (*A Commentary on the Second Epistle to the Corinthians*, 1973) an
 
 ### 4. Practical Theologians of Success — No Developed Program (Seifrid)
 
-[[mark-seifrid|Seifrid]] (PNTC, 2014) argues for the most minimalist reconstruction. The opponents are Jewish (11:22), claim apostolic status, preach "another Jesus" (11:4), and present themselves by outward marks: rhetoric, charismatic presence, visions, and signs. But they have no unified theological program and are not in agreement with each other (10:12–18 — each seeks his own recognition in Corinth). What they share is a practical theology: they measure apostolic legitimacy (and therefore the presence of Christ and the validity of the Gospel) by the standards of visible success, power, and impressive appearance.
+[[mark-seifrid|Seifrid]] (PNTC, 2014; fidelity re-ingest 2026-07-18, [[seifrid-2-corinthians-pntc]]) argues for the most minimalist reconstruction. The opponents are Jewish (11:22), claim apostolic status, preach "another Jesus" (11:4), and present themselves by outward marks: rhetoric, charismatic presence, visions, and signs. They accept financial support (unlike Paul). But they have no unified theological program and are not in agreement with each other (10:12–18). What they share is a practical theology: they measure apostolic legitimacy by visible success, power, and impressive appearance — a practical *theologia gloriae* that is, at root, a loss of the Gospel (“the Gospel may be lost not merely by bad doctrine but by bad living”).
 
-Seifrid's decisive methodological point: "It is questionable, in fact, whether they presented a united front." To attempt to read a coherent theology off of Paul's polemic in 2 Cor 3, 10, or 11 is to commit the fallacy of over-determining the opponents from limited and indirect evidence.
+Seifrid's methodological point: over-determining a coherent opponents’ theology from 2 Cor 3, 10, or 11 exceeds the evidence. Ch. 3 is addressed to the **Corinthians**, not as a second Judaizing front. Letters of commendation (3:1) are not clearly from Jerusalem. “Super-apostles” is Paul’s ironic coinage; false apostles are servants of Satan disguising themselves as servants of righteousness (11:13–15).
 
-The real significance of the opponents, in Seifrid's reading, is not their theology but what they reveal about the Corinthians: the Corinthians have embraced a practical theology of glory that pre-dates the opponents' arrival and explains the entire Corinthian problem from 1 Corinthians onward. The opponents have merely radicalized a problem already present.
+The real significance of the opponents is what they reveal about the **Corinthians**: a practical theology of glory that pre-dates the opponents’ arrival (already in 1 Corinthians). The opponents radicalize a problem already present. In the letter’s close, opponents drop out of focus as Paul seeks healing of the apostle–church relation and recognition of his apostleship.
 
 ## Key Exegetical Cruxes
 
@@ -85,6 +85,7 @@ The real significance of the opponents, in Seifrid's reading, is not their theol
 
 - [[2-corinthians|Second Letter to the Corinthians]]
 - [[mark-seifrid|Mark A. Seifrid]] — primary source (minimalist practical-theology thesis)
+- [[seifrid-2-corinthians-pntc|Seifrid, 2 Corinthians (PNTC)]] — fidelity re-ingest 2026-07-18
 - [[theology-of-the-cross|Theology of the Cross]] — Seifrid's *theologia crucis* as the positive counterpart to the opponents' *theologia gloriae*
 - [[1-corinthians|First Letter to the Corinthians]] — the Corinthian problem pre-dates the opponents
 - [[acts-paul-tensions|Acts and Paul's Letters]] — Acts gives no indication of the severe apostolic controversy in Corinth; the tension between Acts' portrait of Paul and 2 Corinthians' self-portrait is a secondary historical crux

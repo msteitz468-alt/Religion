@@ -2,8 +2,8 @@
 title: Justification (Dikaiosynē / Dikaiōsis)
 domain: soteriology / theology
 traditions_using: [Christianity — especially Protestant; also Catholic, Orthodox with significant differences]
-sources_ingested: 4
-last_updated: 2026-06-06
+sources_ingested: 6
+last_updated: 2026-07-18
 tags: [concept, christianity, soteriology, pauline, reformation]
 ---
 
@@ -74,17 +74,20 @@ Catholic teaching (Trent) understands justification as both declarative and tran
 
 **The anthropological argument**: Galatians 3:10 presupposes human inability — not just that the Torah era is over, but that sinful humanity cannot render the obedience Torah demands. The syllogism in 3:10 (only perfect Torah-keepers escape the curse; no one can perfectly keep Torah; therefore, all who rely on Torah are cursed) grounds the polemic against Torah observance in a pessimistic anthropology. Westerholm: "The fundamental question addressed by Galatians is not 'What is wrong with Judaism?' but 'What is wrong with humanity that Judaism cannot remedy?'"
 
-**Future-oriented justification**: In Galatians the language of justification has a primarily *future* orientation. The letter is less about "how you get saved initially" than about "ultimate justification" — the final eschatological verdict. The agitators argued that only Torah observers could expect God's vindication at the judgment; Paul argues for faith alone. The "already/not yet" character of justification: there is a definitive initial justification (presumed throughout), but the letter's focus is on the eschatological vindication believers await by faith through the Spirit (5:5).
+**Future-oriented justification**: In Galatians the language of justification has a primarily *future* orientation. The letter is less about "how you get saved initially" than about "ultimate justification" — the final eschatological verdict. The agitators argued that only Torah observers could expect God's vindication at the judgment; Paul argues for faith alone. On the three tenses of δικαιόω in 2:16, Moo finds deliberate temporal vagueness with a principial focus on faith alone, while the future and rhetorical situation imply future aspect against agitators who tied last-judgment verdict to works of the law: "Paul responds that justification is always, whatever its time, a matter of faith and not works of the law—or of works of any kind" (raw L2599; [[moo-galatians-becnt|source]]). At 5:5 the "hope of righteousness" is future forensic vindication by Spirit/faith. The "already/not yet" character: definitive initial justification is presumed throughout; the letter's focus is eschatological vindication.
 
-**Union with Christ as more fundamental**: Moo (following Calvin) places union with Christ as the theological foundation: both forensic justification and moral transformation are inseparable products of being "in Christ." This is the "double gift" — not justification and sanctification as two stages, but as two aspects of one union. This prevents the forensic from being divorced from the transformative without collapsing them into one act (as in Catholicism).
+**Works and final salvation (paraenesis)**: At 6:7–8 Moo insists human works are indispensable for attaining eternal life, yet they are faith's Spirit-produced effect — not an alien dogmatic edifice on Paul: "Human works that please the Spirit are indeed necessary for final salvation… But Paul's teaching elsewhere in this very letter justifies our claiming that these works are the effect of faith and are produced in and through the Spirit" (L5080 region). This integrates forensic sola fide with ethical urgency without collapsing into works-righteousness.
+
+**Union with Christ as more fundamental**: Moo (following Calvin) places union with Christ as the theological foundation: both forensic justification and moral transformation are inseparable products of being "in Christ." At 2:19–20 "crucified with Christ" is real identification (believers "regarded by God as having hung on the cross with Christ," L2639), not mere metaphor. This is the "double gift" — not justification and sanctification as two stages, but as two aspects of one union. This prevents the forensic from being divorced from the transformative without collapsing them into one act (as in Catholicism).
 
 **"The law of Christ" (6:2)**: Galatians introduces the concept of "the law of Christ" — the new covenant's distinctive ethical authority (Christ's teaching and the apostles), which replaces the Mosaic Torah's direct authority over believers. The OT law "fulfills" (5:14) when the love command, as taught by Christ, achieves all the OT law intended.
 
 ## James's "Justify" — Vindication at the Judgment (Moo)
 
 The [[james|Letter of James]] is the great NT counter-pole to Paul on justification: "a person is
-justified by works and not by faith alone" (2:24). [[douglas-moo|Moo]] (PNTC James, 2000) argues
-the contradiction is apparent, not real, because *dikaioō* carries a **different sense** in James:
+justified by works and not by faith alone" (2:24). [[douglas-moo|Moo]] (PNTC James, 2000;
+[[moo-james-pntc|source page]], fidelity re-ingest 2026-07-18) argues the contradiction is apparent,
+not real, because *dikaioō* carries a **different sense** in James:
 - In **Paul**, justification is God's *initial, forensic declaration* of the sinner's innocence at
   the point of faith — how one *gets into* relationship with God (the sense developed above).
 - In **James**, *dikaioō* means God's *ultimate vindication in the final judgment*, which takes a
@@ -106,6 +109,34 @@ The result is a canonical complementarity: faith alone justifies (Paul, initial)
 inevitably produces the works God vindicates at the last judgment (James, final). "Paul strikes at
 legalism; James at quietism."
 
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from the ingest of [[darrell-bock|Bock's]] BECNT [[acts|Acts]]. All interpretive
+claims are [[darrell-bock|Darrell Bock]]'s.*
+
+Justification language surfaces in Acts chiefly at **Paul's Pisidian Antioch sermon (13:38–39)**,
+where forgiveness of sins is proclaimed "through this man," and "by him everyone who believes is
+**freed** [*dikaioō*] from everything from which you could not be freed by the law of Moses." Bock
+reads this as Paul's statement that **"Jesus can provide what Moses and the law could not, namely,
+justification."** Siding with Bruce and Fitzmyer against Witherington's nuance, Bock holds the law
+is "utterly inadequate" — not that it forgives some sins but not others — and notes that *dikaioō*
+(used twice) is "a favorite term of Paul," alluding to the argument of Rom. 3:21–8:39 (declaration
+of righteousness plus provision of the Spirit); the verb here can carry the forensic "declare
+righteous" or the sense "be set free" from a claim (close to Rom. 6:7).
+
+**Bock's engagement of the Luke-vs-Paul justification debate.** Bock addresses the charge (Vielhauer
+1966) that Luke's justification is "entirely negative" and "not Paul's view," and Barrett's claim
+that the Acts expression lacks the "full Pauline forensic sense." Bock's reply is that this "may be
+nothing more than a **Lukan telescoping** of Paul's view": "with Paul, Luke sees justification for
+one's sins as clearing the way for the Spirit ... not as synonymous with forgiveness but providing
+for it." On his reading, "the legal declaration of forgiveness, which is Paul's emphasis, leads to a
+release from sin" and into fellowship with God through the gift of the Spirit (Rom. 6–8). More
+broadly, Bock frames **Lukan soteriology mainly as forgiveness plus the Spirit** — Luke highlights
+the "who" of salvation more than the "how," so justification language, while present, is not the
+dominant Lukan idiom. The bearing of this on the overall consistency of Acts with the Pauline
+epistles is recorded, without adjudication, on [[acts-paul-tensions|Acts and the Paul of the
+Epistles]].
+
 ## Key Links
 
 - [[romans|Letter to the Romans]] — primary locus
@@ -118,9 +149,12 @@ legalism; James at quietism."
 - [[james|The Letter of James]] — the NT counter-pole; "justified by works" as final vindication
 - [[james-paul-justification|James and Paul on Justification]] — the full treatment of the tension
 - [[covenantal-nomism|Covenantal Nomism]] — the second-temple soteriological backdrop
-- [[mark-seifrid|Mark A. Seifrid]] — 2 Cor. 5:21 as the compressed heart of forensic justification; *great exchange*
+- [[mark-seifrid|Mark A. Seifrid]] — 2 Cor 5:21 as irreducibly ontological exclusive+inclusive place-taking (not bare imputation); *great exchange*; [[seifrid-2-corinthians-pntc|PNTC 2 Cor]] fidelity re-ingest 2026-07-18
 - [[pistis-christou|*Pistis Christou* Debate]] — whether justification comes by faith *in* Christ or Christ's *own* faithfulness
 - [[johannine-determinism|Johannine Determinism]] — compare: John's "eternal life as knowledge" vs. Paul's forensic justification
+- [[darrell-bock|Darrell Bock]] — BECNT Acts (2007); the "Lukan telescoping" reply on Acts 13:38–39
+- [[acts|Acts of the Apostles]] · [[acts-paul-tensions|Acts and the Paul of the Epistles]]
+- [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007]]
 
 ## Related Texts
 

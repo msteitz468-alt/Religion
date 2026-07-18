@@ -2,9 +2,9 @@
 title: ḥesed (Covenant Kindness)
 domain: theology
 traditions_using: [Judaism, Christianity]
-sources_ingested: 1
-last_updated: 2026-06-05
-tags: [concept, theology, old-testament, covenant, ethics, ruth]
+sources_ingested: 3
+last_updated: 2026-07-18
+tags: [concept, theology, old-testament, covenant, ethics, ruth, psalms, micah]
 ---
 
 **ḥesed** (Hebrew: חֶסֶד) is one of the most theologically weighted words in the Hebrew Bible, typically rendered "steadfast love," "lovingkindness," "covenant loyalty," "mercy," or simply "kindness" in English translations. No single English word captures the full semantic range. ḥesed denotes loyalty and generosity *within a relationship* — it is not abstract benevolence but the active expression of faithfulness between parties who are bound to one another. It is the characteristic virtue both of YHWH's dealings with Israel and of Israel's (or any person's) dealings with others in covenant.
@@ -20,12 +20,19 @@ The most important OT text for the term is **Exodus 34:6-7**: "YHWH, YHWH, a God
 
 ## ḥesed in the Psalter
 
-The Psalter deploys *ḥesed* as one of its central theological categories. YHWH's *ḥesed* endures forever (*ʿôlam*) — this phrase is the refrain of Psalm 136 (appearing 26 times) and structures the entire psalm as a recitation of YHWH's acts. Key psalms:
-- Ps 63:3: "Your *ḥesed* is better than life"
-- Ps 118:1-4, 29: "His *ḥesed* endures forever" — the opening and closing refrain of the Great Hallel
-- Ps 100:5: "YHWH is good; his *ḥesed* endures forever"
+The Psalter is the densest biblical concentration of the term. [[declaisse-walford-jacobson-tanner|Jacobson]] (NICOT Psalms Introduction §I) reports that of **255 OT occurrences of *ḥeseḏ*, 130 are in the Psalter**. The NICOT volume deliberately leaves the word untranslated as the loanword **hesed**, arguing that no English pair (love, mercy, fidelity, kindness) captures both character and action: “Hesed is both who the Lord is and what the Lord does” — electing, delivering, and sustaining Israel (cf. Exod 34:6 creedal fragment).
 
-The Psalter's deployment of *ḥesed* forms the theological backdrop against which the Ruth narrative's three uses of the word are read in canonical sequence (Ruth before Psalms in the Babylonian Talmud arrangement).
+YHWH's *ḥesed* endures forever (*ʿôlam*) — the refrain of Psalm 136 structures that psalm as a recitation of YHWH's acts (Nancy deClaissé-Walford: Great Hallel; every-verse *hesed* refrain; covenant *hesed* definition). Other load-bearing loci from the fidelity re-ingest:
+
+- **Ps 33** (Jacobson): *hesed* fills the earth as theological pivot; military vanity vs hope in *hesed*
+- **Ps 89** (Tanner): *hesed* / faithfulness / covenant threads unify the psalm; vv. 1–37 praise the promise; vv. 38–51 accuse God of renouncing it; **89:49** — “Where is your hesed of old… which by your faithfulness you swore to David?” — unanswered theodicy question (see [[davidic-covenant]], [[theodicy]])
+- **Ps 106:45** (Jacobson): capstone of confessional history — God remembered covenant “according to the multitude of his hesed”
+- **Ps 107** (Nancy): opens Book Five answering 106:47 with thanksgiving for *hesed* deliverance
+- **Ps 118** (Nancy): *hesed* envelope around entrance/festal liturgy
+- **Ps 130** (Nancy): with the Lord are forgiveness, *hesed*, and deliverance
+- **Ps 136** (Nancy): Great Hallel; antiphonal second-temple use
+
+The Psalter’s deployment of *ḥesed* forms the theological backdrop against which the Ruth narrative’s three uses of the word are read in canonical sequence (Ruth before Psalms in the Babylonian Talmud arrangement). Source: [[declaisse-walford-psalms-nicot]].
 
 ## ḥesed in Ruth
 
@@ -77,9 +84,21 @@ The Greek *eleos* (mercy) and *charis* (grace) both translate aspects of *ḥese
 
 See [[divine-name|The Divine Name (YHWH)]] for the Sinai revelation context of ḥesed as God's self-declaration.
 
+## ḥesed in Micah (Nogalski)
+
+[[james-nogalski|Nogalski]] (*Micah*, NICOT 2024) treats *ḥesed* as a structural hinge in the lawsuit–liturgy half of [[micah|Micah]]:
+
+- **Mic 6:8** — “love kindness (*ḥesed*)” is the middle term of the triad (with *mišpāṭ* and walking *ṣnʿ* “modestly”). Nogalski stresses that *ḥesed* cannot be reduced to one English gloss: it includes kindness but also **fidelity and reciprocity**, and in covenantal terms **fidelity to covenant obligations**. Within the *rîb* drama, 6:8 is the prophet’s rejoinder that also **indicts** leaders already condemned in Mic 2–3 (injustice and broken covenant fidelity). Best intertext for “he has told you”: Hos 12:6(7).
+- **Mic 7:2** — the *ḥāsîd* (“faithful one”) has perished from the land: reverse of 6:8’s demand.
+- **Mic 7:18–20** — “he delights in *ḥesed*”; *ʾemet* to Jacob and *ḥesed* to Abraham. Nogalski reads the pair as dual address to divine ongoing fidelity and hoped human reciprocity, and places 7:18–19 in the Twelve’s Exod 34:6–7 web (with Joel, Jonah, Nahum).
+
+Source: [[nogalski-micah-nicot]].
+
 ## Sources Ingested
 
-1. [[peter-lau|Lau, Peter H. W.]]. *Ruth*. NICOT. Grand Rapids: Eerdmans, 2023.
+1. [[peter-lau|Lau, Peter H. W.]]. *Ruth*. NICOT. Grand Rapids: Eerdmans, 2023. — see [[lau-ruth-nicot|source page]] (full re-read 2026-07-18).
+2. [[declaisse-walford-psalms-nicot|deClaissé-Walford, Jacobson & Tanner]]. *The Book of Psalms*. NICOT. 2014 — fidelity re-ingest 2026-07-18 (130/255 OT uses in Psalter; loanword policy; Ps 89 crisis; Ps 136 Great Hallel).
+3. [[nogalski-micah-nicot|Nogalski, James D.]]. *The Book of Micah*. NICOT. 2024 — fidelity re-ingest 2026-07-18 (Mic 6:8; 7:2; 7:18–20).
 
 ## Related Texts
 
@@ -87,3 +106,4 @@ See [[divine-name|The Divine Name (YHWH)]] for the Sinai revelation context of �
 - [[book-of-ruth|Ruth]]
 - [[psalms|The Psalms (Psalter)]]
 - [[song-of-songs|Song of Songs (Song of Solomon / Canticles)]]
+- [[micah|Micah]]

@@ -31,6 +31,24 @@ Key interpretive consequences:
 - **The speeches in Acts** are best understood against the backdrop of Jesus' own teachings in Luke's Gospel, which they often echo
 - **Resurrection hinge (Green):** Luke 24 // Acts 1 internal repetition; witnesses, Spirit promise, and Jerusalem base are the narrative seam
 
+### Bock (BECNT Acts): kingdom inclusio, journey parallels, open ending
+
+*Reinforced 2026-07-18 from the ingest of [[darrell-bock|Bock's]] BECNT [[acts|Acts]]. Claims are
+[[darrell-bock|Bock]]'s.*
+
+Bock adds three structural observations that treat the two volumes as one authorial design:
+
+- **The kingdom-of-God inclusio.** "The kingdom of God" brackets Acts (1:3 // 28:23, 31), and Bock
+  reads this repetition as a deliberate frame binding the book's opening and its open-ended close.
+- **The Jesus-to-Paul journey-to-Jerusalem parallels.** Paul's resolve to go to Jerusalem and then
+  to Rome (19:21; 23:11) consciously parallels Jesus's journey to Jerusalem in Luke's Gospel (Luke
+  9:51), with shared miracle and passion patterns — reinforcing the two-volume symmetry.
+- **The open ending as authorial design.** Bock argues the abrupt close at 28:30–31 ("unhindered,"
+  *akōlytōs*) is **deliberately open-ended by design**, not because Luke ran out of material or
+  died: "Luke chose to end his book here because his point was the arrival of the word to the
+  highest levels of Rome," with the future of the Jewish nation left open "because the church is
+  still preaching the word to whoever will hear it."
+
 ## Ancient Context
 
 Two-volume literary works were not unusual in antiquity. Green notes ancient authors divided lengthy works into “books” each fitting one papyrus roll (~35-foot max) as physical expediency, not necessarily a new subject. Josephus (*Jewish War* / *Jewish Antiquities*), Diodorus Siculus, and other Hellenistic historians produced multi-volume historical works with internal cross-references. Luke-Acts fits naturally into this literary context.

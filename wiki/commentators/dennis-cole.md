@@ -35,6 +35,8 @@ Cole employs **close literary reading combined with archaeological and ANE conte
 
 **On the seven-cycle structure**: Cole's structural proposal sets his commentary apart from predecessors. He argues the 2-3-2 pattern (two Sinai preparation cycles, three wilderness rebellion cycles, two conquest preparation cycles) reflects deliberate literary architecture, not haphazard editorial combination.
 
+**Relation to Ashley (NICOT):** [[timothy-ashley|Ashley]] prefers the traditional geographic three-section outline (with two travel sections) and a five-part working analysis, while treating Olson’s two-census scheme as valuable but secondary. Cole’s 2-3-2 cycles and Ashley’s geographic map both treat the censuses as load-bearing but organize the wilderness middle differently. Ashley is more open to long transmission and less committed to full Mosaic-era origins than Cole; both read final form for the church and resist source-critical fragmentation of meaning. See [[numbers|Numbers]] Structure section and [[ashley-numbers-nicot]].
+
 ## Engagement with Jewish Interpretation
 
 Cole's engagement with the Jewish interpretive tradition is minimal. He references *Bemidbar Rabbah*, Talmudic sources, and Targums at points, and cites Jacob Milgrom's JPS commentary as a dialogue partner — but medieval Jewish commentators are not systematically engaged. His primary interlocutors are modern critical scholars (Gray, Levine, Budd, Milgrom, Olson) and conservative evangelical scholars (Harrison, Allen).
@@ -46,3 +48,7 @@ Cole interacts most substantially with: Jacob Milgrom (comprehensive Jewish trea
 ## Sources Ingested
 
 1. *Numbers*. NAC. Nashville: Broadman & Holman, 2000.
+
+## Links
+
+- [[numbers|Numbers]] · [[timothy-ashley|Timothy R. Ashley]] · [[ashley-numbers-nicot|Ashley Numbers NICOT]]

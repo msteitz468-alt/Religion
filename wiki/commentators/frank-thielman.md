@@ -6,7 +6,7 @@ tradition: Christianity (Evangelical Protestant)
 affiliation: Beeson Divinity School, Samford University (Birmingham, Alabama)
 primary_texts_commented: [Ephesians, Philippians (earlier work), Theology of the New Testament]
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [commentator, christianity, evangelical, new-testament, pauline]
 ---
 
@@ -53,6 +53,12 @@ Thielman's dating (c. AD 62, end of Roman imprisonment described in Acts 28) is 
 
 **The church's cosmic role (3:10)**: "That through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places." The church's unity across ethnic lines is not simply a social achievement — it is a cosmic proclamation addressed to the hostile spiritual powers that sustain division. This is the most distinctively Ephesian ecclesiological claim: the church is a witness to the cosmos, not just a community of the redeemed.
 
+**The descent (4:9)**: Against the incarnation reading (Calvin) and the Pentecost/Spirit reading, Thielman argues *ta katōtera merē tēs gēs* most naturally means the realm of the dead, but reads the descent-below/ascent-above as a single triumphant **merism** (cf. Ps 139:8) — a post-resurrection movement expressing Christ's cosmic reach — not a between-death-and-resurrection descensus; he treats the *prōton* variant (which would favor incarnation) as non-original.
+
+**The armor from Isaiah (6:14–17)**: The belt (truth) and breastplate (righteousness) and helmet (salvation) derive from Isa 11:5 and 59:17 LXX — the imagery of God as an armor-clad warrior, but redirected so that God now *supplies* his armor to his people rather than wearing it himself. *Kosmokratores* (6:12) is the term's first known occurrence in Greek literature. The "sword of the Spirit … the word of God" (*rhēma*) is the gospel (as in 5:26), not a Spirit-prompted proof-text; the genitive marks the Spirit as the sword's *source*.
+
+**The *en aphtharsia* crux (6:24)**: The closing blessing on those who love Christ "in incorruption" is resolved via a *Psalms of Solomon* 6.6 parallel — an adverbial sense, "sincerely / with integrity," rather than a reference to the believers' future immortality.
+
 ## Known Controversies and Tensions
 
 - His defense of Pauline authorship is rigorous but remains a minority position among critical NT scholars. Lincoln's pseudonymity case (ICC) retains considerable scholarly influence.
@@ -63,8 +69,13 @@ Thielman's dating (c. AD 62, end of Roman imprisonment described in Acts 28) is 
 
 Thielman stands in the mainstream of evangelical Pauline scholarship, in conversation with Moo (BECNT Galatians), Schreiner (BECNT Romans), and the broader Reformed-evangelical tradition represented by the BECNT and NICNT series. His work on Paul and the law (*Paul and the Law*, 1994) provides the exegetical basis for his reading of 2:14–15; his earlier NT theology work grounds the broader ecclesiological reading.
 
+## Sources Ingested
+
+- [[thielman-ephesians-becnt|*Ephesians* (BECNT), 2010]] — full commentary body (Introduction + Eph 1:1–6:24), fidelity re-ingest 2026-07-18; see source page for scope plan and coverage ledger.
+
 ## Key Links
 
+- [[thielman-ephesians-becnt|Thielman, *Ephesians* (BECNT)]] — source page
 - [[ephesians|Letter to the Ephesians]] — primary text commented
 - [[ephesians-authorship|Ephesians: Pauline or Pseudonymous?]] — the central introduction controversy
 - [[ephesians-middle-wall|The Middle Wall in Eph 2:14]] — his most distinctive exegetical contribution

@@ -2,8 +2,8 @@
 title: Testimony/Witness (Martyria)
 domain: hermeneutics / theology
 traditions_using: [Christianity (Johannine)]
-sources_ingested: 1
-last_updated: 2026-06-05
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, christianity, hermeneutics, johannine]
 ---
 
@@ -47,12 +47,21 @@ This creates significant tension with historical-critical scholarship, which typ
 
 The testimony framework is also relevant to the Gospel's genre. Michaels (following Bauckham) situates the Gospel toward the historiographical end of the ancient biography (*bios*) spectrum. The insistence on eyewitness testimony (19:35; 21:24), the precision of topographical and chronological detail, and the explicit truth claims are consistent with an ancient historiographical aim — even if the testimony comes through the interpretive lens of the Spirit of Truth.
 
+## Testimony in 1 John: The Spirit, the Water, and the Blood (5:6–12)
+
+The *martyria* framework carries over into the First Epistle, where it does polemical work against the [[johannine-secessionists|secessionists]]. [[i-howard-marshall|Marshall]] (NICNT) reads 1 John 5:6–8 as a threefold witness to the reality of Jesus Christ's coming — "the Spirit, the water and the blood; and the three are in agreement." The **water** (Jesus' baptism) and the **blood** (his atoning death) are the same two events named in 5:6, deployed against the opponents who accepted "water" but denied "blood"; Marshall argues against reading them as the sacraments (baptism + Eucharist), since v. 6 signals no change of meaning and "blood" for the Eucharist would be unparalleled. The **Spirit** "takes first place… since it is he who witnesses through the water and the blood," and "the Spirit is the truth" (5:6).
+
+Marshall stresses the witnesses "stand or fall together": one cannot accept the Spirit's testimony while rejecting the water and the blood. In 5:9–10 this human-level testimony is capped by **God's own testimony**, which is greater; to believe the Son is to accept God's testimony, and to disbelieve is to make God "a liar" (5:10). The content of that testimony is stated in 5:11: "God has given us eternal life, and this life is in his Son."
+
+On the **Johannine Comma** (the added "three that testify in heaven: the Father, the Word and the Holy Spirit," 5:7–8 in the Vulgate/KJV), Marshall is unequivocal: it stands in no reputable Greek manuscript and is quoted by no early writer — not even by Trinitarian polemicists who "would have joyfully seized" on it — and is a scribal gloss. "Beyond any shadow of doubt the wording of the [modern] text represents what John actually wrote."
+
 ## Key Links
 
 - [[gospel-of-john|Gospel of John]]
 - [[paraclete-advocate|The Paraclete/Advocate]] — Spirit as guarantor of testimony
 - [[beloved-disciple-identity|The Beloved Disciple]] — the human author-witness
-- [[j-ramsey-michaels|J. Ramsey Michaels]] — primary source
+- [[j-ramsey-michaels|J. Ramsey Michaels]] — primary source (Gospel)
+- [[i-howard-marshall|I. Howard Marshall]] — [[marshall-epistles-of-john-nicnt|The Epistles of John (NICNT)]] (1 John 5:6–12)
 
 ## Related Texts
 

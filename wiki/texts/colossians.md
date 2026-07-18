@@ -11,7 +11,7 @@ canon_scope:
 language_original: Greek
 date_range: c. AD 52–57 (Ephesian imprisonment, McKnight) or c. AD 62 (Roman imprisonment, Thielman); c. 60s–90s if pseudonymous (minority view)
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [text, christianity, new-testament, pauline, epistle]
 ---
 
@@ -155,6 +155,9 @@ The Arian controversy centered here: does *prōtotokos pases ktiseōs* mean Chri
 **5. "Worship of Angels" (2:18)**
 Three interpretations: (a) objective genitive — worshiping angels; (b) subjective genitive — angels' worship, i.e., joining angelic liturgy through mystical ascent (Francis, McKnight); (c) descriptive genitive — angel-like worship. McKnight: the context (combined with 2:23's lack of any mention of angels in the restatement) favors the third option — ascetic practices designed to achieve a kind of angel-like purity and worship-experience.
 
+**6. "Filling up what is lacking in Christ's afflictions" (1:24)**
+A *crux interpretum*: "I fill up in my flesh what is lacking (*hysterēmata*) in Christ's afflictions for the sake of his body, the church." Readings surveyed by McKnight range from moral-exemplary ("noble death"), to mystical-union (Luz: "in the suffering of Paul Christ suffers for the church"), to the "messianic woes" apocalyptic reading (a fixed quota of end-time afflictions, most already absorbed by Christ). McKnight rejects the messianic-woes reading as straining Paul's own realized eschatology ("those days are past… now… the era of resurrection," 2:12) and proposes a **"missional-Christoformity" reading**: Paul suffers *like* Christ (adjectival), drawing the Isaiah 49 servant mantle over his mission, for the church's benefit — while keeping Christ's atonement explicitly sufficient (1:19–22; 2:9–15). The quantitative "what is lacking" is honored without making Paul's suffering atoning.
+
 ## Commentators
 
 - [[scot-mcknight|Scot McKnight]] — NICNT (Eerdmans, 2018); primary source for this wiki's Colossians content; favors Ephesian imprisonment; "halakic mystics" opponents; Christoformity; egalitarian household code reading
@@ -167,6 +170,7 @@ Three interpretations: (a) objective genitive — worshiping angels; (b) subject
 
 ## Key Links
 
+- [[mcknight-colossians-nicnt|McKnight, *The Letter to the Colossians* (NICNT)]] — source page; primary commentary ingested for this text
 - [[ephesians|Letter to the Ephesians]] — sister letter; extensive verbal and thematic parallels
 - [[colossians-authorship|Colossians: Pauline or Deutero-Pauline?]] — authorship controversy
 - [[colossian-opponents|The Colossian Opponents ("Colossian Philosophy")]] — halakic mystics; the theological threat

@@ -9,104 +9,134 @@ canon_scope:
   disputed_by: []
   rejected_by: []
 language_original: Hebrew and Aramaic (Ezra 4:8–6:18; 7:12–26 in Aramaic)
-date_range: Events ca. 538–430 BCE; compilation ca. 430–300 BCE; final editing possibly 3rd century BCE
+date_range: Events ca. 538–430 BCE; early combination ca. 430–424 BCE; final editing possibly into early Hellenistic period (not before Darius III)
 sources_ingested: 3
-last_updated: 2026-06-07
+last_updated: 2026-07-18
 tags: [text, old-testament, writings, post-exilic, second-temple, ezra, nehemiah, persian-period]
 ---
 
-Ezra-Nehemiah narrates the return of Jewish exiles from Babylon to Yehud (Judah) under Persian imperial authorization — the restoration of the temple, the community, and the walls of Jerusalem — and the reforms of Ezra and Nehemiah that shaped what Judaism became. It is, as [[hannah-harrington|Harrington]] describes, "the earliest Jewish literature of the Second Temple era": a document not merely about historical events but about the formation of Jewish identity under threat, and the first sustained engagement with the question "Who is Israel?" after the exile.
+Ezra–Nehemiah narrates the return of Jewish exiles from Babylon to Yehud under Persian imperial authorization — restoration of temple, community, and walls of Jerusalem — and the reforms of [[ezra|Ezra]] and [[nehemiah|Nehemiah]] that shaped what Second Temple Judaism became. [[hannah-harrington|Harrington]] frames it as “the earliest Jewish literature of the Second Temple era”: not only a historical source for postexilic Yehud but a document about identity under threat and the earliest sustained narrative engagement with “Who is a Jew?”
 
-## Canonical Position and Unity
+## Textual Overview
 
-In the Hebrew Bible, Ezra and Nehemiah form a **single book** — the Masoretes give their traditional paragraph count only at the end of Nehemiah, and the midpoint falls at Neh 3:32, not at the end of Ezra. Jewish tradition (Josephus; Talmud, b. B. Bat. 15a), Melito of Sardis (2nd century CE), and the LXX all treat them as one work. The division into two books began with the Church Fathers (Origen, Jerome). This commentary follows the unified tradition.
+### Canonical position and unity
 
-The relationship to Chronicles: the view that Ezra-Nehemiah and Chronicles share the same author (the "Chronicler") has been strongly contested by Japhet and Williamson. The two works diverge significantly: Chronicles is open toward the Northern tribes; Ezra-Nehemiah is rigidly separatist. Chronicles downplays intermarriage; Ezra-Nehemiah treats it as existential crisis. Chronicles emphasizes immediate retribution; Ezra-Nehemiah does not. [[hannah-harrington|Harrington]] follows the majority view: Ezra-Nehemiah and Chronicles have **separate authors**, with Chronicles likely composed *after* Ezra-Nehemiah (Steinmann's orthographic argument).
+In the Hebrew Bible, Ezra and Nehemiah form a **single book** — the Masoretes give their traditional paragraph count only at the end of Nehemiah; the midpoint falls at Neh 3:32. Jewish tradition (Josephus; b. B. Bat. 15a), Melito of Sardis, and the LXX treat them as one work. Division into two books begins with the Church Fathers (Origen, Jerome). Harrington follows the unified tradition.
 
-## Literary Structure
+**Relationship to Chronicles**: The older “Chronicler” authorship view is strongly contested by Japhet and Williamson. Harrington follows separate authorship: Chronicles is open toward the Northern tribes; Ezra–Nehemiah is rigidly separatist. Chronicles downplays intermarriage; E-N treats it as existential crisis. Steinmann’s orthographic argument: 2 Chr 36:22-23 is a later reading of Ezra 1:1-3a.
 
-Ezra-Nehemiah is organized around **three parallel returns**, each triggered by Persian imperial authorization and each accomplishing a specific restoration goal:
+### Structure (three parallel returns)
 
-| Return | Leader | Persian king | Goal accomplished |
+| Return | Leader | Persian king | Goal |
 |---|---|---|---|
-| First return | Zerubbabel | Cyrus / Darius I | Temple rebuilt and dedicated (Ezra 1–6) |
-| Second return | Ezra | Artaxerxes I | Community reformed by Torah (Ezra 7–10) |
-| Third return | Nehemiah | Artaxerxes I | Walls built; city secured (Neh 1–13) |
+| First | Zerubbabel (with Sheshbazzar) | Cyrus / Darius I | Temple rebuilt and dedicated (Ezra 1–6) — **Prologue** |
+| Second | Ezra | Artaxerxes I | Community reformed by Torah (Ezra 7–10) — **Ezra Memoir** |
+| Third | Nehemiah | Artaxerxes I | Walls built; city secured; Torah/covenant (Neh 1–13) — **Nehemiah Memoir** |
 
-Each block exhibits the same structure: divine initiative → Persian authorization → return of exiles → local opposition → completion with YHWH's help. This pattern is not chronological arrangement but theological architecture.
+Each block: divine initiative → Persian authorization → return/exiles → local opposition → completion with YHWH’s help (Throntveit; Harrington).
 
-**Literary devices**: [[hannah-harrington|Harrington]] follows Eskenazi and Throntveit in identifying concentricity (chiastic structure at every level), resumptive repetition (framing material with identical or near-identical phrases at beginning and end — e.g., Ezra 4:5b / 4:24b), and prayers as structural markers (Neh 5; 6; 13:14, 22, 29, 31). Lists (genealogies, returnee rosters, builders, signatories) are integral to the structure, not secondary insertions.
+**Literary devices** (Harrington following Eskenazi, Throntveit, Talmon): concentricity/chiasm at every level; **resumptive repetition** (e.g. Ezra 4:5b // 4:24b frames Artaxerxes wall-opposition thematically — not a chronological blunder); prayers as structural markers (esp. Nehemiah’s “Remember” prayers); lists (~70% of the book is lists and archival material per Harrington) as integral structure.
 
-## Historical Setting: The Persian Period
+**Composition**: About 70% lists/archives (Harrington). Official documents compared favorably with Achaemenid parallels (Hensley; Hoglund “general authenticity”). Harrington: early editor combined Ezra and Nehemiah material **no earlier than 430 BCE and no later than death of Artaxerxes (424 BCE)**; final compilation not before “Darius the Persian” (most likely Darius III). Leaves **Neh 8 in place** against the reigning theory that relocates it into the Ezra Memoir.
 
-The action takes place in the Persian province of **Yehud** (= postexilic Judah), a small administrative subdivision of the satrapy "Babylon and Across the River" (Ezra 8:36; Neh 2:7, 9). Yehud encompassed approximately 800 square miles — bounded roughly by Beth-Zur (south), Tell en-Naṣbeh (north), En-Gedi (east), and Gezer (west). Its population after the Babylonian deportations was a fraction of preexilic levels: perhaps 60,000 persons in Zerubbabel's time.
+## Major Themes / Narrative Summary
 
-The Persian policy of supporting local cults (attested by the Cyrus Cylinder and the Persepolis Fortification Tablets) explains the remarkable imperial patronage of the Jerusalem temple. Cyrus returned the temple vessels (Ezra 1:7-11) and subsidized rebuilding (Ezra 6:3-5); Darius confirmed the decree (Ezra 6:6-12); Artaxerxes I funded Ezra's mission with silver and gold (Ezra 7:15-20). In return, local populations prayed for the royal family — a standard arrangement throughout the empire. For the Jewish experience in the Persian diaspora during this same era, see the book of [[book-of-esther|Esther]].
+### Second Exodus and second Moses
 
-**Ezra and Nehemiah as contemporaries**: [[hannah-harrington|Harrington]] adopts the simplest reading — both worked under **Artaxerxes I** (Ezra: 458 BCE; Nehemiah: 445–432 BCE). They appear together in Neh 8:9; 12:26, 36. Arguments for placing Ezra under Artaxerxes II (398 BCE) require emendations and separate the two men in ways the text resists.
+Return from Babylon as second exodus; public Torah reading as new Sinai (Neh 8); Ezra as “a sort of second Moses” (literary structuring, not Christian typology). Persian kings function as instruments of YHWH’s plan; the prophets do not condemn the Persian Empire.
 
-## Themes and Purpose
+### Four pillars of Second Temple Judaism (Harrington)
 
-### Second Exodus
+1. Yahweh sole true God of Israel (early-stage monotheism; Neh 9:5b-6 as primary confessional locus; Stern archaeology: radical reduction of figurines in Persian Yehud)
+2. Torah authoritative (democratization: scribe-teacher; people read for themselves, Neh 9:3)
+3. Jerusalem/sanctuary “the place of his holiness” (Ezra 9:8)
+4. Community of Israel holy (Ezra 9:2 “holy seed”)
 
-The literary structure of Ezra-Nehemiah draws explicitly on the exodus tradition. The return from Babylon is a **second exodus from slavery**: a new Sinai (Neh 8: public Torah reading), a new Moses (Ezra as scribe-priest who mediates the law), a new settlement (return to the land). Prophetic promises of return (Jer 30–33; Ezek 36–37) are understood as being fulfilled. The Cyrus proclamation (Ezra 1:1-4) echoes the language of prophetic commission. Harrington notes that even Persian kings function as instruments of YHWH's plan — the prophets never condemn the Persian Empire.
+### Expansion of holiness (Eskenazi, endorsed by Harrington)
 
-### Expansion of Holiness
+- **Ezra 1–6**: Holiness at altar and temple
+- **Ezra 7–10**: Holiness extended to all Israel (“holy seed”)
+- **Nehemiah**: Holiness expanded to the city (Neh 11:1, 18; 12:27-47; people “in the house of God” merely within walls, 12:40)
 
-One of Eskenazi's key observations (endorsed by Harrington): holiness expands from the temple outward across the entire narrative:
-- **Ezra 1–6**: Holiness located at the altar and temple
-- **Ezra 7–10**: Holiness extended to all Israel ("holy seed," Ezra 9:2)
-- **Nehemiah**: Holiness expanded to encompass the entire city of Jerusalem (Neh 11:1, 18; 12:27-47; the people find themselves "in the house of God" simply by being within the city walls, 12:40)
+Anticipates NT temple-language for the community (1 Cor 6:19; Eph 2:20-22) — as reception, not identity of doctrine.
 
-This trajectory — from sacred precincts to holy city to holy people — anticipates the NT's extension of temple language to the community of believers themselves (1 Cor 6:19; 2 Cor 6:16; Eph 2:20-22).
+### Community formation under pressure
 
-### Community Formation under Pressure
+Governing sociological question: how does a minority maintain identity under imperial pressure and assimilation? Strategies: (1) Torah education; (2) temple worship; (3) separation from foreigners. Harrington surveys Douglas group/grid (via Janzen and Moffat) and Turner social drama as interpretive tools; her own intermarriage analysis centers **priestly lexicon** (*maʿal*, *zeraʿ qōdeš*). Full-text focus of the Nehemiah Memoir **as it stands**: not the wall alone but rebuilding community by Torah and covenant (after wall, rededication to law, then fit to repopulate holy city).
 
-The governing sociological question of Ezra-Nehemiah: **How does a minority community maintain its identity under imperial pressure and the attraction of assimilation?** [[hannah-harrington|Harrington]] uses Mary Douglas's group/grid model: the returnee community is "high group" (strong external boundary) operating as a threatened minority — and Ezra's and Nehemiah's stringent measures are intelligible as survival responses. The three strategies are: (1) education in Torah as the written Word of God; (2) restoration of temple worship; (3) separation from foreigners.
+## Textual and Manuscript Tradition
 
-## Key Controversies and Episodes
+Original one scroll; predominantly Hebrew with Imperial Aramaic blocks (Ezra 4:8–6:18; 7:12–26) — only Ezra and Daniel have large Aramaic sections. Held in high regard among Second Temple Jews before traditional canon closed (LXX, DSS, Josephus allusions). **1 Esdras**: divergent Greek account (late 2nd/early 1st c. BCE), confuses chronology, places Neh 8 after Ezra 10, credits Zerubbabel’s wisdom at Darius’s court (contrary to biblical stress on Persian beneficence).
+
+## Hermeneutical Frameworks
+
+| Framework | How E-N is read in this wiki’s sources |
+|---|---|
+| **Jewish traditional** | Foundation for matrilineal identity, public Torah reading, Great Assembly trajectory |
+| **Christian evangelical (Breneman)** | Covenant fidelity, prayerful leadership, justified separation |
+| **Christian evangelical + ST comparative (Harrington)** | Seedbed of STJ; priestly purity rhetoric; literary architecture; NT reversals of ethnic impurity |
+| **Social-scientific (Janzen/Moffat via Harrington)** | High/mid group boundary maintenance; social drama of crisis |
+| **Historical-critical** | Persian documents, Yehud archaeology, separate-from-Chronicles authorship debates |
+| **Feminist / critical** | Gendered cost of expulsion; silence of foreign wives |
+
+## Canon and Reception
+
+Canonical for rabbinic Judaism (Writings) and all major Christian canons. Reception history is itself the content of Harrington’s Excursuses: intermarriage ban → Jubilees/4QMMT; gentile impurity → Josephus/Mishnah; synagogue cluster → later Jewish and Christian worship; *dāraš* → midrash. Samarian opposition is **not** identical with later Samaritanism (see [[samaritans]]).
+
+## Scholarship and Historiography (positions)
+
+- **Date of Ezra’s mission**: Harrington adopts 458 BCE (Artaxerxes I) with Nehemiah 445; late-Ezra (398, Artaxerxes II) rejected.
+- **Authorship vs Chronicles**: Separate (Japhet, Williamson, Harrington) vs older Chronicler theory.
+- **Neh 8 placement**: Harrington leaves in place; many relocate into Ezra Memoir.
+- **Historicity of lists/decrees**: Hensley/Hoglund general authenticity of Achaemenid-style documents; Yehud ~800 sq mi; population fractions of preexilic levels.
+- **Yehud province**: Independent from late 6th c. (contra Alt’s later-date theory) — Harrington’s view.
+
+## Key interpretive cruxes
 
 ### The Intermarriage Crisis (Ezra 9–10; Neh 13)
-See [[intermarriage-ezra-nehemiah|The Intermarriage Controversy in Ezra-Nehemiah]] for full analysis. This is the most contested episode in the book. Ezra orders the dissolution of marriages between Jewish men and foreign women, with the expulsion of wives and children. This goes beyond anything in the Pentateuch and represents a defining moment for the question of Jewish identity.
+See [[intermarriage-ezra-nehemiah]]. Harrington: *maʿal* against holy seed; no conversion; 113 families; matrilineal root; ST intensification. Breneman: justified covenant maintenance.
 
 ### The Torah Reading (Neh 8)
-Ezra's public reading of the Torah before the assembled people (Neh 8:1-8) is one of the most significant scenes in post-exilic literature. Harrington identifies **nine elements of synagogue practice** appearing here for the first time together: assembly of the people, request for the Torah, standing while it is read, opening of the scroll, Ezra's blessing, congregational response ("Amen"), sermon instruction, Torah reading, oral explanation, and fellowship meal. This is the embryo of synagogue worship.
-
-The Levites' role in explaining the text (*mepōrāš*, 8:8 — "clearly, with interpretation") is the first recorded instance of oral explanatory tradition functioning alongside written Torah. The root *dāraš* ("to seek/study the Torah") appears at Ezra 7:10 — the **earliest occurrence of the term underlying *midrash*** in Jewish literature. See [[midrash|Midrash]].
+Nine elements of later synagogue practice first clustered: assembly; request for Torah; standing for open scroll; blessing; Amen; sermon; reading; oral explanation (*məpōrāš*); fellowship meal. Levites give the sense. Day-2 study yields Sukkot midrash on Lev 23:40-42. Root *dāraš* at Ezra 7:10 — embryo of [[midrash]].
 
 ### Opposition (Ezra 4–6; Neh 4; 6)
-The pattern of local opposition and imperial resolution repeats throughout: Samarians, Ammonites, Arabians, and Ashdodites oppose rebuilding. Sanballat (Samaria), Tobiah (Ammon), and Geshem (Arabia) threaten Nehemiah. The letters embedded in Ezra (chs. 4–6) are partly in **Aramaic** — the lingua franca of the Persian Empire — making Ezra the only OT book with sustained bilingual composition (Hebrew and Aramaic).
+Samarians, Ammonites, Arabians, Ashdodites. Sanballat, Tobiah, Geshem. Aramaic letters. Wall as boundary “for Israel and by Israel” (Janzen via Harrington).
 
-## Foundation of Second Temple Judaism: Nine Innovations
+### Neh 5 economic reform
+Kinship over wealth; communal ransom; debt + land return beyond Sabbatical → Jubilee or Blenkinsopp’s “emergency Jubilee.”
 
-Harrington documents nine areas where Ezra-Nehemiah innovates beyond Pentateuchal law, becoming foundational for Second Temple Judaism (and in some cases generating lasting controversy):
+### Neh 13 final reforms
+Power struggle with Eliashib; Tobiah expelled from temple chamber — **first contagious gentile impurity** (Harrington at 13:9; disputed by Klawans/Hayes); Sabbath gates; intermarriage violence without formal divorce; “Remember me” prayers (13:14, 22, 29, 31).
+
+## Foundation of Second Temple Judaism: Nine Innovations (Harrington)
 
 | Innovation | Text | Significance |
 |---|---|---|
-| Total intermarriage prohibition | Ezra 9:1-2; 10:11-12; Neh 13:23-25 | Extended to all non-Jews; not just Canaanites; earliest source for matrilineal descent law |
-| "Holy seed" (*zeraʿ haqqōdeš*) | Ezra 9:2 | Holiness as biological/racial, not just covenantal |
-| Gentile impurity | Ezra 6:21; 9:11; Neh 13:9 | First in HB to attach impurity label to *persons by ethnicity*, not just to actions |
-| Strict Sabbath (no trade) | Neh 13:15-22 | Stricter than Pentateuch; anticipates CD xi 14-17; Jubilees 50 |
-| Midrash Torah method | Ezra 7:10 | Earliest use of *dāraš* for Torah study/interpretation; embryo of rabbinic midrash |
-| Synagogue elements (x9) | Neh 8:4-7 | First time these elements appear together as a worship assembly |
-| Ransom of captives extended | Neh 5:5-12 | Leviticus limited this to clan; Nehemiah extends it to the whole community |
-| Rotating priestly/Levitical shifts | Neh 12:24-25; 13:30 | Not spelled out in the Pentateuch; becomes standard Jewish and early Christian practice |
-| Genealogical records for priesthood | Ezra 2:62-63; 7:1-5; Neh 7:64-65 | First systematic use of genealogy to determine priestly eligibility |
+| Total intermarriage prohibition | Ezra 9:1-2; 10:11-12; Neh 13:23-25 | All non-Jews; no conversion; earliest matrilineal root |
+| “Holy seed” (*zeraʿ haqqōdeš*) | Ezra 9:2 | Biological transmission of holiness |
+| Gentile impurity | Ezra 6:21; 9:11; Neh 13:9 | Impurity attached to *persons by ethnicity* |
+| Strict Sabbath (no trade) | Neh 13:15-22 | Stricter than Pentateuch; anticipates CD, Jubilees |
+| Midrash Torah method | Ezra 7:10; Neh 8 | *dāraš* as Torah study; embryo of rabbinic midrash |
+| Synagogue elements (×9) | Neh 8:4-7 | First cluster of later synagogue practice |
+| Ransom of captives extended | Neh 5:5-12 | Beyond clan to whole community |
+| Rotating priestly/Levitical shifts | Neh 12:24-25; 13:30 | Becomes standard ST and early Christian practice |
+| Genealogical records for priesthood | Ezra 2:62-63; 7:1-5; Neh 7:64-65 | Systematic genealogy for eligibility |
 
-## NT Connections
+## NT Connections (as Harrington marks them)
 
-- **Luke 1:8-10**: Zechariah receives the angelic annunciation of John's birth "during the time of his division" (his priestly rotation) — a practice established in Neh 12; Ezra 6
-- **1 Cor 6:19**: "Your body is a temple of the Holy Spirit" — inherits the trajectory of holy people/holy seed from Ezra-Nehemiah, mediated through Second Temple tradition
-- **2 Cor 6:14-16**: Paul's prohibition of being "unequally yoked with unbelievers" — religious (not ethnic) version of the Ezra-Nehemiah intermarriage concern
-- **Heb 12:1**: "A great cloud of witnesses" — the generational continuity of the covenant people across time, expressed structurally in the genealogies of Ezra-Nehemiah
-- **Luke 4:16-21**: Jesus reads from the scroll in the synagogue — standing, opening the scroll, reading, teaching — the Neh 8 pattern institutionalized
-- **Acts 10:28**: Peter's observation that it is "unlawful for a Jew to associate with or to visit a Gentile" — the Ezra-Nehemiah gentile impurity tradition in its NT context, which the vision in Acts 10 directly reverses
+- **Luke 1:8-10**: Priestly rotation established in Neh 12 / Ezra 6
+- **1 Cor 6:19; Eph 2:20-22**: Community as temple — trajectory of holy people/city
+- **2 Cor 6:14-16**: Religious (not ethnic) version of intermarriage concern
+- **Luke 4:16-21**: Synagogue reading pattern from Neh 8
+- **Acts 10:28**: Gentile association ban reversed by Cornelius vision
+- **Gal 3:28**: Ethnic category abolished
+- **1 Cor 7:12-14**: Contagious sanctification — *not* an option for Ezra
 
 ## Comparison of Ingested Commentaries
 
-[[hannah-harrington|Harrington]] (NICOT, 2022) and [[mervin-breneman|Breneman]] (NAC, 1993) represent significantly different approaches to the same material. Harrington's social-scientific, Second Temple comparative method produces a richer account of Ezra-Nehemiah's historical innovations; Breneman's traditional evangelical exposition produces a cleaner theological synthesis. On the intermarriage controversy, Breneman defends Ezra's decrees as justified covenant maintenance; Harrington explains them sociologically without full endorsement. Breneman's 1993 commentary precedes major developments in Second Temple studies and reflects minimal engagement with what has become a substantial secondary literature.
+[[hannah-harrington|Harrington]] (NICOT, 2022) and [[mervin-breneman|Breneman]] (NAC, 1993) differ sharply in method. Harrington’s ST comparative and literary work produces a denser account of historical innovations; Breneman’s traditional evangelical exposition produces a cleaner theological synthesis. On intermarriage, Breneman defends the decrees as justified; Harrington explains them via *maʿal*/holy seed and minority survival without full endorsement. Source page: [[harrington-ezra-nehemiah-nicot]].
 
 ## Sources Ingested
 
-1. [[hannah-harrington|Harrington, Hannah K.]]. *The Books of Ezra and Nehemiah*. NICOT. Grand Rapids: Eerdmans, 2022.
+1. [[harrington-ezra-nehemiah-nicot|Harrington, Hannah K.]]. *The Books of Ezra and Nehemiah*. NICOT. Grand Rapids: Eerdmans, 2022. (Full-body re-ingest 2026-07-18.)
 2. [[mervin-breneman|Breneman, Mervin]]. *Ezra, Nehemiah, Esther*. NAC 10. Nashville: Broadman & Holman, 1993.

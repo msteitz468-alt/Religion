@@ -11,7 +11,7 @@ canon_scope:
 language_original: Hebrew
 date_range: Events from creation to 538 BCE; composition debated, likely 4th–5th century BCE
 sources_ingested: 2
-last_updated: 2026-06-07
+last_updated: 2026-07-18
 tags: [text, old-testament, writings, chronicles, david, solomon, temple, post-exilic, levites]
 ---
 
@@ -136,6 +136,59 @@ Chronicles gives a reason Samuel-Kings does not: David's wars polluted the land 
 
 Cyrus's decree is read as a super-Sabbath/Jubilee proclamation (Lev 25 language of *qôl* "proclamation" and return to ancestral property; comes in the 50th generation since Adam per Johnstone). Cyrus inherits the Davidic task of building the house and sends the people home with David's benediction ("May YHWH his God be with him"). Isaiah 44–45 explicitly calls Cyrus YHWH's *māšîaḥ* (anointed) and shepherd. The Chronicler thus presents the transition to Gentile empire as the continuation, not the end, of the Davidic commission.
 
+## The Divided Kingdom in Detail (2 Chr 10–36)
+
+[[peter-leithart|Leithart]]'s reading of the divided monarchy turns on several structural threads
+beyond the general Judges-cycle pattern:
+
+**The retribution engine — *seek/find, forsake/be-abandoned*.** The Chronicler's organizing
+principle (anchored in Azariah's oracle, 2 Chr 15:2: "those who seek find; those who forsake are
+abandoned") is worked out reign by reign as immediate recompense. Several kings share a
+**faithful-early / faithless-late** shape: **Asa** reforms and defeats Zerah but later strips the
+temple to bribe Aram, imprisons the prophet Hanani, and dies of a foot disease refusing to seek
+YHWH; **Joash** restores the temple under the priest Jehoiada but apostatizes after Jehoiada's
+death and murders the prophet Zechariah son of Jehoiada in the temple court ("May YHWH see and
+avenge"). Leithart: "We are back in the age of the judges."
+
+**The *maʿal* / *maʿalah* pun.** The pivotal sin-term *maʿal* (sacrilege, misappropriating what
+is holy) runs from Achan (1 Chr 2:7) through Saul (10:13), Asa, Uzziah, Ahaz, and Manasseh to the
+exile itself (2 Chr 36:14). Leithart frames the kings' choice as one "between *maʿal* and
+*maʿalah*, between sacrilege and exaltation" — **Uzziah** is the emblem: "marvelously helped until
+he was strong," he is exalted (*maʿalah*) and then falls by *maʿal*, usurping the priestly
+incense-prerogative and struck with leprosy "on his forehead, in the very place where the high
+priest's golden crown is placed."
+
+**Liturgical warfare.** Chronicles' clearest statement that "prayer is the primary tactic of war"
+is **Jehoshaphat's** battle (2 Chr 20): facing Moab and Ammon he proclaims a fast, forms the first
+*qahal* since Solomon, and sends **singers in holy attire before the army** while YHWH "sets
+ambushes." Leithart guards this against magic: "There is nothing automatic or magical about a
+worship service… Liturgical warfare is effective only as it expresses the worshiper's reliance on
+the Lord of Hosts." Jehoshaphat's great flaw is the mirror image: his marriage-alliance with
+**Ahab** ("Loving Yahweh's Enemies") is a "poison" whose "genetic and contagious" spread — through
+Athaliah — organizes the next four reigns.
+
+**The two-kingdom inversion: "Judah Becomes Israel" → "Israel Becomes Judah."** Under the house of
+Ahab's influence Judah is remade "into the image of Israel" (climaxing in **Ahaz**); then, as
+Judah declines, the north briefly behaves as the true Israel. The hinge is the **Oded episode**
+(2 Chr 28:8–15): a northern prophet halts the victorious Israelite army, which clothes, feeds, and
+returns its Judahite captives — "for a brief moment, Israel is what Judah is supposed to be"
+(Leithart connects it to Matt 25 and forward to [[cyrus|Cyrus]]). The reunion hope crests at
+**Hezekiah's** great Passover (all Israel "from Dan to Beersheba") and **Josiah's** reform into
+the north, never fully achieved.
+
+**Manasseh's repentance** (2 Chr 33), unique to Chronicles and, in Leithart's words,
+"unprecedented in Chronicles, without parallel in the Old Testament": the worst king — "a man of
+sixes, perhaps even a 666" — is exiled in "thorns" to Babylon, humbles himself per 2 Chr 7:14, and
+is restored. His exile-and-return "anticipates what later happens to the whole nation," a
+proto-exile-and-return that grounds the book's final hope that "even ma'al can be forgiven."
+
+**Prototemple theology and divine aseity.** On the Nathan oracle (1 Chr 17) Leithart builds a
+"prototemple theology": YHWH's needlessness (aseity) means the house neither contains nor is
+needed by him, yet he genuinely "is / is not there, in loco" — grounding, for Leithart,
+incarnation, ecclesiology, and eucharistic real presence. The temple pattern (*tabnit*) given to
+David comes not by ascending a mountain (as Moses) but by the Spirit "with him" and by a writing
+"by his hand upon me" (1 Chr 28:12,19).
+
 ## Chronicles vs. Samuel-Kings: Key Omissions and Additions
 
 | Omitted from Chronicles | Added/Expanded in Chronicles |
@@ -167,6 +220,14 @@ Concept pages developed from this text:
 
 [[davidic-covenant]]
 
+## Related Figures
+
+Kings and figures of Chronicles with their own pages: [[david|David]], [[solomon|Solomon]],
+[[hezekiah|Hezekiah]], [[ahaz|Ahaz]], [[josiah|Josiah]], [[cyrus|Cyrus]], [[asaph|Asaph]],
+[[nathan|Nathan]], [[heman|Heman]]. Other divided-kingdom kings (Rehoboam, Jeroboam, Abijah, Asa,
+Jehoshaphat, Jehoram, Athaliah, Joash, Amaziah, Uzziah, Manasseh) are treated above rather than on
+separate pages.
+
 ## Sources Ingested
 
-1. [[peter-leithart|Leithart, Peter J.]]. *1 & 2 Chronicles*. Brazos Theological Commentary on the Bible. Grand Rapids: Brazos Press, 2019.
+1. [[leithart-1-2-chronicles-btcb|Leithart, Peter J.]] *1 & 2 Chronicles*. Brazos Theological Commentary on the Bible. Grand Rapids: Brazos Press, 2019. (Full sequential re-ingest 2026-07-18; source page + coverage ledger created.)

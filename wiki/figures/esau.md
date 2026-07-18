@@ -5,9 +5,9 @@ tradition: cross-tradition (Judaism, Christianity) — tribal/national progenito
 textual_sources: [Genesis 25–36; Obadiah; Malachi 1; Romans 9; Hebrews 12; The Zohar]
 dates: legendary / patriarchal age
 roles: [twin of Jacob, progenitor of Edom, archetypal foil and adversary]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-18
-tags: [figure, genesis, kabbalah, edom, foil, cross-tradition]
+tags: [figure, genesis, kabbalah, edom, foil, cross-tradition, hebrews]
 ---
 
 # Esau
@@ -31,14 +31,14 @@ tags: [figure, genesis, kabbalah, edom, foil, cross-tradition]
 - **Genesis 25–36** — birth, birthright, blessing, reconciliation, and the Edomite genealogy.
 - **Obadiah** — the prophetic oracle against Edom for its violence against "your brother Jacob."
 - **Malachi 1:2–3** — "I loved Jacob but hated Esau," cited in **Romans 9:13** for unconditional election.
-- **Hebrews 12:16–17** — Esau as the "profane" person who sold his birthright and found no place for repentance; a warning to apostates.
+- **Hebrews 12:16–17** — Esau as the "profane"/godless person who sold his birthright and found no place for repentance; a warning to apostates (Cockerill densification below).
 
 ---
 
 ## Tradition-Specific Reception
 
 - **Jewish**: Esau (often "**Edom**") becomes a cipher for **Rome** and, later, for Christendom — the dominant hostile empire under which Israel suffers in exile. Rabbinic Midrash darkens the Genesis portrait: Esau as violent, idolatrous, and hypocritical, the eternal antagonist whose end is bound up with the redemption of Israel.
-- **Christian**: the rejected elder brother of Pauline election theology (Rom 9); in Hebrews a type of the profane apostate. Ironically, the Jewish identification of Esau/Edom *with* Rome/Christianity inverts the Christian self-understanding.
+- **Christian**: the rejected elder brother of Pauline election theology (Rom 9); in Hebrews a type of the profane apostate (see Cockerill below). Ironically, the Jewish identification of Esau/Edom *with* Rome/Christianity inverts the Christian self-understanding.
 - **Kabbalistic (the Zohar)** — see below; Esau and his Prince Samael as the Other Side.
 
 ---
@@ -88,6 +88,20 @@ Attributed to [[victor-hamilton|Victor P. Hamilton]] ([[hamilton-genesis-18-50-n
 - **NT:** Rom 9:10–13 — “Jacob I loved” = chosen; “Esau I hated” = not chosen; election before works. Heb 12:16–17 — *pórnos* / *bébēlos*: values inversion (immediate need over spiritual inheritance); tears seek self-change, not God; “Esau’s faithlessness is irremediable” in Hamilton’s reading of Hebrews.
 - **Reconciliation (33):** Jacob’s fear of 400 men is natural misapprehension; neither Esau nor later Joseph is bent on retaliation (cf. 50:15). *ʾāḇaq* (wrestle) anticipates *ḥāḇaq* (embrace). Segmented *tôlĕdôt* of Esau (Gen 36) parallels Ishmael’s twelve — horizontal genealogy barely protruding into narrative.
 
+### Cockerill (NICNT) — Hebrews 12:14–17 (2026-07-18)
+
+Attributed to [[gareth-lee-cockerill|Gareth Lee Cockerill]] ([[cockerill-hebrews-nicnt|Hebrews NICNT]]). Digest R11 (12:4–29).
+
+**Structural placement.** For Cockerill, 12:14–17 is the climactic counterpart of 2:1–4 (neglect of “so great salvation” brought to final clarity): neglect has become outright disregard for the things of God and positive preference for this world. Esau is the **foil of the faithful** in 11:1–40 and worse than the wilderness generation of 3:7–19 — desire-driven abandonment, not only fear-driven disobedience. Those who reject Christ align with Esau’s rejection of the Abrahamic God, not a return to patriarchal fidelity (R11 L4087). Strategic twin of [[rahab|Rahab]] as final faith example. Progressive apostasy chain (Deut 29:15–20): fall short of grace → bitter root defiling many → Esau-type immoral/godless open apostasy; no middle ground between endurance and apostasy (R11 L4095–4099).
+
+**Birthright = Abrahamic promise / eternal City.** Godlessness is the opposite of the holiness God’s people pursue: living as if God’s power were unreal and his promises of reward invalid. Esau “sold his own birthright for a single meal”; his firstborn birthright was the promise given Abraham of a people and an **eternal heavenly City** (Heb 11:9–10, 13–16) — not a mere OT land token. He surrendered this for the merest pittance of this world’s goods; to abandon Christ is to spurn the one who fulfilled the promise Esau disregarded (R11 L4101).
+
+**“Immoral” and “godless” both apply.** The OT never accuses Esau of sexual immorality; later tradition often does, but Hebrews rarely draws on that tradition. Cockerill rejects readings that apply only “godless” to Esau or that make “immoral” only national-adultery figurative language: Esau abandoned God from **desire** (worldly pleasure), paid like one who hires a prostitute — sold the eternal for a pittance of the temporal. Both epithets describe this “arch-apostate” (R11 L4103).
+
+**No place of repentance; tears for blessing, not for profanity.** Irrevocable forfeiture of the right to inherit the blessing; “he found no place of repentance” = moral/religious opportunity excluded by rejection of God’s covenant (// 6:4–8; 10:26–31). Esau did not seek repentance with tears — he sought the **blessing** with tears: “It was his loss, not his profanity, that he mourned.” Parallel: Kadesh generation tried to take the land without true repentance (Num 14:39–45). Apostates deliberately spurn grace and put themselves outside Christ’s sacrifice; divine rejection is mirrored in unrepentant callousness. Those truly concerned for salvation have not followed Esau (R11 L4105–4109).
+
+**After the warning.** Unlike Esau, hearers “have not come” into a state of judgment (12:18–21 Sinai) but “have come” into blessing (12:22–24 Zion) (R11 L4123). The “assembly of the firstborn enrolled in heaven” are those who have refused Esau’s path of selling the firstborn right (R11 L4155–4157). Climactic response: gratitude and godly fear; Esau was “godless” because he refused to recognize God’s majesty and ultimate authority (R11 L4205).
+
 ---
 
 ## Theological and Narrative Significance
@@ -116,3 +130,4 @@ Esau is the structural **foil** by which the narrative defines the elect line: a
 - [[zohar|The Zohar]], [[kabbalah|Kabbalah]], [[matt-zohar-pritzker-vol3|Matt Pritzker Zohar Vol. III]], [[genesis|Genesis]]
 - [[obadiah|Obadiah]] — the oracle against Edom; house of Esau as stubble; convert-prophet of Esau’s end
 - [[victor-hamilton|Victor P. Hamilton]], [[hamilton-genesis-18-50-nicot|Hamilton Genesis 18–50]]
+- [[hebrews|Hebrews]] · [[gareth-lee-cockerill|Gareth Lee Cockerill]] · [[cockerill-hebrews-nicnt|Cockerill Hebrews NICNT]] · [[rahab|Rahab]] (faith foil to Esau’s apostasy in Cockerill’s pairing)

@@ -6,7 +6,7 @@ textual_sources: [Matthew (13:55), Mark (6:3), the Letter of Jude (v. 1); the "b
 dates: floruit mid-1st century; b. perhaps c. AD 10; d. perhaps early 70s
 roles: [brother of Jesus, brother of James, "slave of Jesus Christ", letter-writer, leader/missionary in Palestinian church]
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [figure, christianity, new-testament, family-of-jesus, jerusalem-church]
 ---
 
@@ -19,7 +19,7 @@ Simon). He self-identifies in his letter as "a slave of Jesus Christ and **broth
 than in apostleship or the kinship to Jesus directly. This is the wiki's third **figure page**, after
 [[james-the-just|James the Just]] and [[peter-apostle|Simon Peter]]; with Jude, the wiki now documents
 two of the "brothers of the Lord" and rounds out the **family of Jesus** as a force in the early
-Palestinian church. ([[gene-green|Gene L. Green]]'s BECNT *Jude and 2 Peter* is the source ingest.)
+Palestinian church. ([[gene-green|Gene L. Green]]'s BECNT *Jude and 2 Peter* is the source ingest; [[green-jude-2peter-becnt|source page]], fidelity re-ingest 2026-07-18.)
 
 ## Identity and the Name
 
@@ -60,11 +60,11 @@ NT evidence favors identifying the author as the brother of James and Jesus (Mat
 ## The Kinship Question (Three Views)
 
 As with [[james-the-just|James]], how Jude is related to Jesus depends on one's view of Mary:
-- **Helvidian** (most Protestants; Green's preference): Jude is a *full/half-brother*, a son of
-  Joseph and Mary — the most natural reading of the nuclear-family language of Matt. 13:55.
+- **Helvidian** (most Protestants; Green's preference, L1011): Jude is a *full/half-brother*, a son of
+  Joseph and Mary — “the most accessible reading” of the nuclear-family language of Matt. 13:55.
 - **Epiphanian** (Eastern Orthodox): a *step-brother*, son of Joseph by a prior marriage (preserving
-  Mary's perpetual virginity) — Green judges this "possible but not probable."
-- **Hieronymian** (Jerome; Roman Catholic): a *cousin*.
+  Mary's perpetual virginity) — Green: “possible but not probable,” and “distinctly theological” (to preserve Mary’s honor).
+- **Hieronymian** (Jerome; Roman Catholic): a *cousin* (Mary of Clopas / Alphaeus conflations) — least probable for Green.
 
 ## Primary Source Appearances
 

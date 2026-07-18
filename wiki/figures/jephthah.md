@@ -6,7 +6,7 @@ textual_sources: [Judges 10:6–12:7]
 dates: [floruit during Ammonite oppression; traditional early Iron Age]
 roles: [outcast warrior, negotiator, judge, vow-maker, tragic father]
 sources_ingested: 1
-last_updated: 2026-06-07
+last_updated: 2026-07-18
 tags: [figure, judaism, christianity, old-testament, judges, vow, controversy]
 ---
 
@@ -38,14 +38,14 @@ Jephthah is a study in treating YHWH the way he treats everything else — as a 
 
 ## Historicity and Interpretive Controversies
 
-- **The vow's fulfillment**: Human sacrifice or lifelong virginity/seclusion? The text says "did with her according to his vow" and "she knew no man"; both readings have ancient support. The annual lament by daughters fits either (mourning death or mourning childlessness).
+- **The vow's fulfillment**: Human sacrifice or lifelong virginity/seclusion? Both readings have ancient support. **Webb (NICOT):** firm on **literal sacrifice**; virginity = content of mourning, not substitute fulfillment. See [[jephthah-vow]].
 - **Diplomacy vs. holy war**: The long message to Ammon is a sophisticated appeal to history and divine grant; the king ignores it and Jephthah proceeds to battle. Does this show "just war" reasoning already in Judges?
 - **Shibboleth slaughter**: Excessive vengeance or necessary boundary enforcement? 42,000 is a huge number; some see hyperbole or later inflation.
 - **Hebrews 11 inclusion**: How can a man guilty of a rash, possibly murderous vow be listed among the faithful? The canon judges differently from later moralizing readings.
 
 ## Influence on Commentary Traditions
 
-The story is the locus classicus for debates about vows, human sacrifice in the OT, and the moral character of the judges. Webb and others note the narrative's restraint (no explicit condemnation or approval of the fulfillment) and its place in the larger spiral. It is regularly cited in ethics and homiletics on "be careful what you vow" and "God is not a negotiator." The daughter's agency (accepting the vow, requesting the two months, the lament custom) has been recovered in feminist readings as a voice of lament and resistance. The controversy page [[jephthah-vow|Controversy: Jephthah's Vow]] exists to track the range of interpretations. In canonical context it prepares for the even greater moral chaos of the epilogues and the need for a different kind of leadership.
+The story is the locus classicus for debates about vows, human sacrifice in the OT, and the moral character of the judges. Webb notes narrative reticence of wording but still reads literal sacrifice; the vow is a shrewd bribe continuous with negotiation-religion (not impulsive). It is regularly cited in ethics and homiletics on "be careful what you vow" and "God is not a negotiator." The daughter's agency (accepting the vow, requesting the two months, the lament custom) has been recovered in feminist readings as a voice of lament and resistance. The controversy page [[jephthah-vow|Controversy: Jephthah's Vow]] exists to track the range of interpretations. In canonical context it prepares for the even greater moral chaos of the epilogues and the need for a different kind of leadership.
 
 **Key Links**:
 - [[judges|Judges]] (Webb on negotiation theology, downward spiral, Jephthah as capable but compromised)

@@ -6,7 +6,7 @@ tradition: Evangelical Protestant (Reformed)
 affiliation: Westminster Theological Seminary; Regent College (Vancouver); Reformed Theological Seminary (Orlando)
 primary_texts_commented: [Proverbs, Genesis (co-author), Psalms (co-author)]
 sources_ingested: 2
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [commentator, nicot, reformed, evangelical, proverbs, hebrew-philology, wisdom-literature]
 ---
 
@@ -40,6 +40,8 @@ Waltke provides the most systematic treatment of biblical poetics in the wiki. T
 
 Waltke's ANE treatment is the most extensive in the wiki. He uses Egyptian, Mesopotamian, and Ugaritic parallels extensively to illuminate form, structure, vocabulary, and social setting — while insisting on the theological distinctiveness of Israel's wisdom: "Pagan wisdom, though it, too, may be religious, has no anchor in the covenant-God."
 
+**Text-critical base.** Waltke works primarily from the Leningrad Codex (following the Bomberg edition at 8:16), holding the MT "a reliable witness to the original text." He makes "little use" of the two fragmentary Qumran Proverbs manuscripts (4Q102, 4Q103), treats the LXX as "both free and creative" (with Tov and Childs he assumes the priority of the MT recension), and cites the Greek only where a literal rendering preserves an original reading against the MT (e.g. 1:15; 3:3; 8:5). He regards H. C. Washington's thesis that the LXX "created the fiction of Solomonic authorship" by rearranging the collections as evidence *for* the priority of the MT sequence.
+
 ### 4. Typological Christology
 
 The theology section's most distinctive contribution: Woman Wisdom is *not* a direct identification with Christ but a **type** of Christ — similar in structure but inferior in degree. This positions Waltke between the Arian (Woman Wisdom = a creature, used to subordinate Christ) and the uncritical patristic position (Woman Wisdom = Christ directly) — both exegetically inadequate when applied to the original text of Proverbs 8. The typological reading maintains the hermeneutical legitimacy of the Christological reading while avoiding its overreach.
@@ -69,5 +71,24 @@ The theology section's most distinctive contribution: Woman Wisdom is *not* a di
 
 ## Sources Ingested
 
-1. [[bruce-waltke|Waltke, Bruce K.]]. *The Book of Proverbs: Chapters 1–15*. NICOT. Grand Rapids: Eerdmans, 2004.
-2. [[bruce-waltke|Waltke, Bruce K.]]. *The Book of Proverbs: Chapters 15–31*. NICOT. Grand Rapids: Eerdmans, 2005.
+1. [[waltke-proverbs-nicot|Waltke, Bruce K. *The Book of Proverbs: Chapters 1–15*. NICOT]]. Grand Rapids: Eerdmans, 2004. (Fidelity re-ingest 2026-07-18; see source page for coverage ledger.)
+2. [[waltke-proverbs-15-31-nicot|Waltke, Bruce K. *The Book of Proverbs: Chapters 15:30–31:31*. NICOT]]. Grand Rapids: Eerdmans, 2005. (Fidelity re-ingest 2026-07-18; Collections IIB–VII, see source page for coverage ledger.)
+
+## Method across the Second Volume (15:30–31:31)
+
+The second volume, being commentary only (the whole-book Introduction sits in Vol. 1), displays
+Waltke's method most densely at the level of the individual unit. Recurring moves: demarcating
+units by **catchword, janus verse, inclusio, and chiasm** (e.g. the "breached wall" inclusio
+framing the "seven perverted types," 25:28–26:28; the righteous/wicked framing couplets
+organizing chs 28–29); a consistently **conservative text-critical stance** that defends "the
+more difficult MT" against LXX paraphrase and *metri causa* emendation (e.g. retaining "silver
+dross" against the Ugaritic "glaze" reading at 26:23); and a habit of reading prophetic technical
+terms as taking a **wisdom nuance** in Proverbs — *qesem* (16:10), *ḥāzôn* (29:18), and *maśśāʾ*
+(30:1; 31:1) all denote the sage's inspired revelation rather than mantic or prophetic vision.
+His two most consequential Vol. 2 judgments for the wiki are the disciplined account of the
+**Amenemope** borrowing in Collection III (dependence limited to 22:16–23:11, theologically
+controlled by trust in the covenant God) and his defense of the **historical** (non-allegorical)
+reading of the [[valiant-woman|valiant wife]] as the counterpart, not the equivalent, of
+[[woman-wisdom|Woman Wisdom]]. He treats [[agur|Agur]] and [[lemuel|Lemuel]] as genuine
+non-Solomonic authors whose collections the "inspired editor" added to a "developing canon,"
+against the LXX's rearrangement to preserve Solomonic authorship of the whole.

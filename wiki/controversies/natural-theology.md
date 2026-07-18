@@ -6,9 +6,10 @@ positions:
   - "Barthian: all knowledge of God exclusively through the Word of God; no natural religious capacity in man"
   - "Roman Catholic: natural knowledge of God possible through the analogia entis (analogy of being)"
   - "Brunner's mediating position: a 'point of contact' (Anknüpfungspunkt) in fallen humanity as formal capacity"
+  - "Bock (BECNT Acts): Paul's Lystra (14:15-17) and Areopagus (17:22-31) speeches affirm creation/providence as a preaching bridge to pagans, insufficient without special revelation"
 traditions_involved: [christianity]
 resolution_status: open
-last_updated: 2026-06-27
+last_updated: 2026-07-18
 tags: [controversy, christianity, barth, natural-theology, epistemology, reformed]
 ---
 
@@ -58,6 +59,49 @@ Roman Catholic natural theology (Thomistic *analogia entis*) holds that creature
 
 Barth argues that the choice between these positions shapes everything: the definition of the Church, the method of dogmatics, the authority of Church proclamation, and whether dogmatics works with a criterion ("the self-certainty of God's Word") or with surrogates (lines 9765–9800). "It makes a great difference whether ... we have to say all this [that the criterion is in the believer's consciousness] or whether we are perhaps not to say it at all. Dogmatics will be very different, Church proclamation will be very different and finally the whole Church will be decisively different according to whether this must be said or not" (lines 9774–9777).
 
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from the ingest of [[darrell-bock|Bock's]] BECNT [[acts|Acts]]. All interpretive
+claims are [[darrell-bock|Darrell Bock]]'s; positions are recorded without adjudication.*
+
+Bock's exposition of [[acts|Acts]] engages natural theology at the level of **apostolic
+preaching to pagans**, in the two speeches Paul addresses to purely Gentile audiences: the **Lystra
+speech** (14:15–17) and the **Areopagus address at Athens** (17:22–31). These furnish a New
+Testament counter-pole to Barth's rejection above — an apparent affirmation that creation and
+providence supply a genuine, if insufficient, point of contact for preaching the Creator.
+
+- **Creation/providence as a preaching bridge (Lystra, 14:15–17).** Bock characterizes Paul's
+  reply to the Zeus/Hermes crowd as **"classic prophetic Jewish natural theology like that seen in
+  Isa. 40–41"** (citing Bruce): a turn "from vain and dead idols to the ... creator of heaven and
+  earth," who "did not leave himself without witness" in rain, fruitful seasons, and "food and
+  gladness." Bock notes God "as Creator ... makes his creatures accountable" — "the foundation
+  stone of Jewish thought" and "a classic way to address Gentiles." He observes that the absence of
+  any mention of Jesus "is striking but not surprising," since "one cannot discuss Jesus without
+  first establishing that God is one" (Deut. 6:4).
+- **The Areopagus and the limits of creation-knowledge (17:22–31).** Bock reads the Athens speech
+  as moving "from the 'unknown god' to the Creator to the one whom God has appointed to judge the
+  world," halting at the resurrection because the Greeks "did not have such a category." He frames
+  the speech as "natural theology, or revealed theology ... then moves to God's plan": the Aratus
+  citation ("we are his offspring," 17:28) is *contextualized*, not endorsed, and against a Stoic
+  kinship reading (Dio Chrysostom) Bock insists "there is a kinship at creation but that this is
+  not enough" — "God will not be discovered through nature alone," so one "must come to grips with
+  God's revelation" (vv. 30–31). Bock roots the speech in Jewish thought (Gärtner) rather than
+  Stoic philosophy (*pace* Dibelius).
+- **Relation to Romans 1 (the Vielhauer objection).** Bock addresses the charge (Vielhauer 1966)
+  that the Areopagus speech's tone is so different from **Rom. 1:20** that it cannot be Pauline. His
+  reply is that the difference "fails ... to appreciate Paul's ability to contextualize": Romans is
+  "Paul addressing Christians about the fallenness of the culture," while Acts 17 is "the attempt
+  to make a bridge to the culture." At Lystra likewise, Bock reads Paul as making the Rom. 1:20
+  point (revelation leaves the nations "without excuse") "with a more gentle emphasis." This feeds
+  the broader dispute over the consistency of Acts with the Pauline letters recorded on
+  [[acts-paul-tensions|Acts and the Paul of the Epistles]].
+
+Bock's Acts material thus records a **New Testament position affirming a preaching-bridge function
+for natural/creation knowledge** — attributed to Paul as Bock reads him, and set here alongside (not
+adjudicated against) Barth's rejection of natural theology.
+
 ---
 
-*See also*: [[karl-barth]], [[barth-church-dogmatics-i1]], [[knowability-of-the-word-of-god]], [[analogia-fidei]], [[analogia-entis]], [[revelation]]
+*See also*: [[karl-barth]], [[barth-church-dogmatics-i1]], [[knowability-of-the-word-of-god]], [[analogia-fidei]], [[analogia-entis]], [[revelation]], [[acts]], [[darrell-bock]], [[acts-paul-tensions]], [[speeches-in-acts]]
+
+*Sources include*: [[bock-acts-becnt|Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007]]

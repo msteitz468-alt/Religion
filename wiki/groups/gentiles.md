@@ -5,7 +5,7 @@ tradition: Christianity
 textual_sources: [matthew, isaiah]
 periods_active: ["Second Temple period", "1st century CE"]
 roles_significance: ["outsiders to Israel's covenant", "recipients of the Messiah's ministry in Matthew", "addressees of the universal commission"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-18
 tags: [group, christianity, judaism, matthew]
 ---
@@ -226,9 +226,37 @@ France connects the food-law barrier directly to the early-church dispute reflec
 to be a rule without exceptions." He does not adjudicate the tension he identifies between Isa 61's
 Zion-directed message and Isa 42:1's nations-directed justice.
 
+## In Acts, on Bock's reading (BECNT)
+
+*Added 2026-07-18 from [[bock-acts-becnt|Bock, *Acts* (BECNT)]]. All interpretive claims are Bock's
+or those of scholars he names.*
+
+For Bock the inclusion of the Gentiles is the central theological theme of Acts — the question of
+"how salvation relates to Israel's God yet includes Gentiles" — worked out in stages along the 1:8
+program (Jerusalem → Samaria → the end of the earth). The **Cornelius** episode (10:1–11:18) is "the
+book's turning point": God, not any human decision, brings the gospel to a Gentile household, the
+sheet-vision teaching that "what God has cleansed" (unclean food, and therefore table fellowship with
+Gentiles) is clean, so that "God shows no partiality" (10:34) and the Spirit falls on Gentiles before
+baptism — the "Gentile Pentecost." Bock stresses the food/fellowship link as load-bearing: Acts 10 is
+"the strongest passage in Acts indicating the removal of food laws that have social implications."
+The **Jerusalem Consultation** (Acts 15) then settles that the question is "not whether Gentiles
+should be included but on what basis"; circumcision is "emphatically refuted" as a requirement, and
+James's four abstentions (the *Jakobsklauseln*) are about fellowship, "not about salvation." Bock
+notes that Cornelius is not strictly the first Gentile Christian (Nicolaus of Antioch, a proselyte,
+precedes him, 6:5), but the first to come directly without full conversion to Judaism — a distinct
+category from the **God-fearers** (Cornelius, Lydia, Titius Justus), Gentile sympathizers whom Bock
+thinks Luke does not treat as a strict technical term. Across the Pauline mission the repeated "turn
+to the Gentiles" (13:46; 18:6; 28:28) is programmatic but "not absolute" — Paul still begins with the
+Jew first (Rom. 1:16) in each city. The theme culminates in Paul's Rome declaration that "this
+salvation of God has been sent to the Gentiles; they will listen" (28:28), which Bock (rejecting
+J. Sanders's anti-Semitism thesis) reads not as a final rejection of Israel but as God's continuing
+appeal to a still-hoped-for ethnic Israel (Rom. 11).
+
 ## Sources Ingested
 
 - R. T. France, *The Gospel of Matthew* (NICNT; Eerdmans, 2007) — see [[rt-france|R. T. France]].
+- Darrell L. Bock, *Acts* (BECNT; Baker Academic, 2007) — see
+  [[bock-acts-becnt|Bock, *Acts* (BECNT)]]; Gentile inclusion as the central theme of Acts.
 
 ## Links
 

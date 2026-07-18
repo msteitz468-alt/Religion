@@ -2,7 +2,7 @@
 title: Theodicy
 domain: theology / philosophy of religion
 traditions_using: [Judaism, Christianity, Islam]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-18
 tags: [concept, theodicy, suffering, justice, wisdom-literature, secularization]
 ---
@@ -119,10 +119,27 @@ attaches to humans in the measure of their knowledge of God, not equally. He rea
 Batra 16a), holding instead that Job's words were vindicated because he *abandoned his error*
 (III:23). See [[divine-providence]], [[matter-and-form]].
 
+## NICOT Psalms — lament path through theodicy (2026-07-18)
+
+*Attributed to [[declaisse-walford-jacobson-tanner|Tanner / deClaissé-Walford / Jacobson]] in [[declaisse-walford-psalms-nicot|*The Book of Psalms* (NICOT, 2014)]].*
+
+The Psalter’s theodicy is not a philosophical resolution but a **liturgical-canonical path**: complaint authorized as sacred speech, then (editorially) directed toward praise without erasing the dark units.
+
+| Locus | Move (as authors state) |
+|---|---|
+| **Ps 73** (Tanner / Book Three) | Job/Ecclesiastes-like crisis: wicked prosper, pure heart almost slips; **sanctuary** pivot restores order |
+| **Ps 88** (Tanner) | Unrelieved darkness; God as cause of crisis; no turn to praise; legitimates godforsaken speech as Scripture |
+| **Ps 89** (Tanner) | Corporate theodicy of the **broken Davidic promise**; 89:49 unanswered (see [[davidic-covenant]]) |
+| **Book Four** | “Answer of sorts”: YHWH reigns; Moses/exodus frame; not restoration of the human king |
+| **Book Five / Final Hallel** | Return and absolute praise (150) as *telos* after the crisis — direction of travel, not suppression of lament |
+
+Contrast with [[hartley-job-nicot|Hartley on Job]]: Job presses a lawsuit and receives Yahweh speeches + encounter; the Psalter presses complaint within prayer and answers (where it answers) by **editorial sequence** and renewed praise of Yahweh’s kingship/*hesed*. Source: [[psalms]].
+
 ## Sources Ingested
 
 1. [[hartley-job-nicot|Hartley, John E. *The Book of Job*]]. NICOT. Grand Rapids: Eerdmans, 1988. (Re-ingested 2026-07-18.)
 2. [[guide-for-the-perplexed|Maimonides, *The Guide for the Perplexed*]] (III:8–24).
+3. [[declaisse-walford-psalms-nicot|deClaissé-Walford, Jacobson & Tanner]]. *The Book of Psalms*. NICOT. 2014 — fidelity re-ingest 2026-07-18.
 
 ## Related Texts
 
@@ -133,3 +150,4 @@ Batra 16a), holding instead that Job's words were vindicated because he *abandon
 - [[lamentations|Lamentations]]
 - [[psalms|The Psalms (Psalter)]]
 - [[song-of-songs|Song of Songs (Song of Solomon / Canticles)]]
+
