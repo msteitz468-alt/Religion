@@ -34,6 +34,12 @@ Jethro is a paradigm of the believing outsider. His confession ("Now I know that
 **Influence on Commentary Traditions**:
 - Bruckner emphasizes Jethro's role in acknowledging YHWH and providing necessary structural wisdom to Moses, demonstrating that God's grace and practical wisdom can come through outsiders.
 
+**Bruckner (UBCS Exodus) reingest anchors (2026-07-18)** (*source: [[bruckner-exodus-ubcs|Bruckner, Exodus (UBCS)]]*):
+- On the names: "My best judgment is that the two names [Jethro/Reuel] represent the same person from two different traditions, merged in Exodus" ([[james-bruckner|Bruckner]]). Jethro = lit. "his abundance"; Reuel = "God's friend"; Midianites descend from Abraham and Keturah (Gen 25:2–4).
+- Conversion by testimony: "he was a priest for God (ʾelohim) but did not know ʾelohim as the Lord until Moses' witness" — "For the first time in Scripture a non-Israelite is 'converted' to faith in the Lord," on testimony rather than sight. Bruckner rejects readings that make Jethro's sacrifice to ʾelohim a mark of unbelief: "ʾElohim and Yahweh are not two different gods... This is a central assertion of the book of Exodus," and pairs 18:12 with 24:9–11 as covenant-meal mirrors on either side of the law-giving.
+- Jethro as "a model of hope for Gentiles"; his placement before Sinai "is not accidental" — Scripture "acknowledged the possibility of righteous Gentiles."
+- The justice reform (18:13–27): "rule by law rather than by force. This is one of the greatest gifts of Judaism to the civilized world" (Bruckner); "It is ironic that a non-Israelite advises Moses concerning the administration of God's law" — divine guidance through Gentile wisdom and experience (with Fretheim). Bruckner reports Durham's four "speculative theories" of Jethro's priesthood (Kenite hypothesis included) without adopting them.
+
 **Key Links**:
 - [[moses|Moses]]
 - [[exodus|Exodus]]

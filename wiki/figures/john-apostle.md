@@ -124,6 +124,7 @@ also a study in transformation — from ambition to the apostle of love and the 
 - [[gospel-of-john|Gospel of John]] / [[letters-of-john|Letters of John]] / [[revelation|Revelation]]
   — the Johannine corpus traditionally attributed to him
 - [[grant-osborne|Grant R. Osborne]] — defends apostolic authorship of Revelation
+- [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest; authorship/date arguments
 - [[revelation-date-authorship|Revelation: Authorship and Date]] — the authorship debate
 - [[beloved-disciple-identity|The Beloved Disciple]] — the identity question in the Gospel
 - [[peter-apostle|Simon Peter]] / [[james-the-just|James the Just]] — the other two Jerusalem "pillars"

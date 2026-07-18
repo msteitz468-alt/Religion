@@ -4,7 +4,7 @@ tradition: Judaism (Second Temple / Essene)
 canon_status: authoritative (for Essenism; deuterocanonical in Ethiopia)
 canon_scope:
   canonical_for: []
-  deuterocanonical_for: [ethiopian-orthodox, essenism]
+  deuterocanonical_for: [ethiopian-orthodoxy, essenism]
   authoritative_for: [essenism]
   disputed_by: []
   rejected_by: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism, islam]
@@ -90,6 +90,16 @@ A separate but related Enochic text not preserved in the Ethiopic 1 Enoch. The B
 **Enoch's Interpretation**: Enoch interprets the dreams as predicting the destruction of the giants in the coming flood-judgment.
 
 **Gilgamesh Named**: One of the fragments contains the name **Gilgamesh** — the Mesopotamian hero — as one of the giants. This is remarkable: a Jewish text preserves Gilgamesh as a named participant in the Enochic Watchers narrative. The Book of Giants later circulated among the **Manichaeans** (Mani incorporated it into his mythology), confirming its wide circulation in late antiquity.
+
+## Hermeneutical Framework
+
+**Pseudepigraphic revelation as the authority claim.** Enoch speaks in the first person as a recipient of angelic instruction and a reader of heavenly writing: "I know the mysteries [of the Lord which] the holy ones have explained and showed me and which I read [in] the heavenly [tablets]" (4Q204). The visionary journey form reinforces it — "I was shown other mountains... I passed to the Paradise of righteousness" (4Q206) — as does his being shown the pits where souls wait "until the day of their judgement." Authority rests on eyewitness cosmic travel and privileged access to celestial records, not on exegesis of a received text.
+
+**Narrative expansion of Genesis 6:1–4.** The terse biblical notice of the "sons of God" and the Nephilim is developed into a full Watchers narrative with a named hierarchy — twenty chiefs headed by Shemihazah, including Asael, Baraqel, Kokabel and Hermoni (4Q201 1) — who "took for themselves wives from all those whom they chose... and to teach them sorcery and magic," and whose union produces giants. The related 4Q180 gives an alternative naming with Azazel at the centre; Vermes describes that text's subject as "the myth of the fallen angels and the daughters of men, which is based on Genesis vi, 1–4, and fully developed in 1 Enoch." Expansion here is generative rather than explanatory: it supplies an aetiology of evil that Genesis withholds.
+
+**Calendrical reasoning in the Astronomical Book.** The Qumran recension is, per Vermes, "considerably longer than the Ethiopic." The surviving material tracks lunar waxing and waning in sevenths against the sun's passage through "gates" — "the sun comple[tes] the passage through all the sections (?) of the first gate and recommences to go in and come out" (4Q209 7). This is descriptive astronomical reckoning; the ingested range contains no explicit argument for the 364-day year and no polemic against a lunar calendar, so the connection to the sect's solar calendar should not be read out of this text alone.
+
+**Textual divergence from the Ethiopic — a hermeneutically loaded absence.** Vermes: the Qumran copies are "attested by, but not strictly identical to, the Ethiopic... the astronomical section is more developed... while **the Book of Parables (chaps. XXXVII–LXXI) with its Son of Man speculation is completely lacking at Qumran**." Because the Parables carry Enoch's Son of Man material, its absence bears directly on debates over pre-Christian Son of Man expectation. Vermes is methodologically strict about not filling the gap: he declines to translate Milik's retroversions, printing only "those which make sense in themselves." See the "Absence of the Book of Parables" section below, and [[1-enoch]].
 
 ## Significance of the Qumran Enoch Material
 1. **Aramaic original confirmed**: The Enochic texts are originally Aramaic Second Temple compositions, not translations from Ethiopic

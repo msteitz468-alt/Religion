@@ -2,8 +2,8 @@
 title: Holy Spirit
 domain: theology
 traditions_using: [Christianity — broadly]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, christianity, trinity, pneumatology]
 ---
 
@@ -76,6 +76,45 @@ progress is made" — Basil famously withholds calling the Spirit God in the sam
 and Son — and "the later question of the [[filioque|filioque]] is not an issue" in the
 fourth-century debate.
 
+## The Spirit in Mark's Prologue (France, NIGTC Mark, 2002)
+
+*Added 2026-07-18 from the fidelity reingest of [[france-mark-nigtc|France's NIGTC Mark]]. All
+interpretive claims are [[rt-france|R. T. France]]'s.*
+
+France notes that πνεῦμα is a prologue-concentrated term in [[mark|Mark]]: three mentions in
+1:2-13 (1:8, 10, 12) where the Spirit "appears as a central figure in the launching of Jesus'
+ministry," but only three thereafter, just one relating to Jesus' ministry — a distribution he
+compares to Λόγος in John's prologue. His claims:
+
+- **Jesus as both bearer and dispenser of the Spirit.** The prologue's Spirit-emphasis marks
+  Jesus as empowered by the Spirit (Isa 11:2; 42:1; 61:1) and, "remarkably," as the one who
+  "'dispenses' the Spirit, a role which in the OT passages ... was exclusively that of Yahweh
+  himself." Read with the ἰσχυρότερος prediction (1:7-8), Mark's application to the human Jesus
+  of words that in themselves point to the coming of God shows that for Mark "the coming of
+  Jesus is the eschatological coming of God."
+- **Against a two-stage "Baptism in the Spirit."** France argues Mk 1:8 is not a suitable NT
+  grounding for the Pentecostal doctrine of Spirit-baptism as a second-stage experience: all NT
+  uses of the phrase contrast Spirit baptism with John's water baptism, so "the immediate
+  reference is ... not to a second stage of Christian experience, but to the authentic Christian
+  experience as contrasted with the preliminary (pre-Christian) experience represented by John's
+  water baptism"; the fulfilment of 1:8b is the whole experience of the early Christian
+  movement, not Pentecost alone.
+- **The Spirit as driver into testing.** Mark's ἐκβάλλει (1:12) — more vivid than Matthew/Luke's
+  "leading," normally implying possible resistance — has the Spirit drive Jesus into the
+  wilderness, where France reads πειραζόμενος positively as "testing" *initiated by the Spirit*
+  on the pattern of Israel's wilderness πειρασμός (Deut 8). In the tableau of 1:12-13 the Spirit
+  and the angels stand on Jesus' side against [[satan|Satan]] and the wild animals.
+- **Blasphemy against the Spirit (3:28-30).** In Mark's setting the unforgivable sin is the
+  scribes' allegation that Jesus' Spirit-empowered ministry is Beelzebul's work — "the
+  unforgivable sin of calling good evil and evil good"; Mark (unlike Matthew/Luke) makes the
+  charge of possession itself the unforgivable blasphemy. France adds the pastoral caveat that
+  the saying "is a warning to those who adopt a position of deliberate rejection and antagonism,
+  not an attempt to frighten those of tender conscience."
+- **No pneumatology at the cross.** France holds Mark's ἐκπνέω (15:37) is a simple solemn
+  euphemism for death, offering "even less scope than the πνεῦμα phrases of Matthew and John for
+  reading into the scene any reference to the Holy Spirit"; he rejects the suggestion of a
+  Spirit-blast tearing the temple curtain.
+
 ## Relation to Other Concepts
 
 - [[pro-nicene-theology]] · [[opera-trinitatis]] · [[nicaea-and-its-legacy]]
@@ -86,4 +125,4 @@ fourth-century debate.
 - [[revelation]] — the Spirit constitutes the "subjective side" of revelation (*Revealedness*)
 
 ---
-*See also*: [[karl-barth]], [[barth-church-dogmatics-i1-s8-12]], [[trinity]], [[filioque]], [[redemption]], [[reconciliation]]
+*See also*: [[karl-barth]], [[barth-church-dogmatics-i1-s8-12]], [[trinity]], [[filioque]], [[redemption]], [[reconciliation]], [[rt-france]], [[france-mark-nigtc]], [[mark]]

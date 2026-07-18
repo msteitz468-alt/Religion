@@ -5,8 +5,8 @@ tradition: cross-tradition (primarily Hebrew Bible; ANE)
 textual_sources: [Judges, 1–2 Samuel, Joshua 13; Amos 9.7; Jeremiah 47; Ezekiel 25; Egyptian records (Rameses III); Assyrian annals; archaeology of the pentapolis]
 periods_active: c. 1185–600s BCE (Iron Age); pentapolis flourishes through the Iron Age until Babylonian conquest
 roles_significance: [the archetypal Iron Age enemy of Israel; an Aegean-derived people of the southern coast; catalyst for Israelite kingship; bearers of a distinctive material culture; "Philistine" later becomes a byword]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [group, ancient-near-east, iron-age, sea-peoples, aegean, philistia, israel]
 ---
 
@@ -69,9 +69,34 @@ forged. Their pressure reframes Israel's politics (judges → king), and their c
 contrast sharpens Israel's identity markers. The ark narrative (Dagon falling before
 Yahweh, 1 Sam. 5) stages a theological contest between Yahweh and the Philistine god.
 
+### Block on Ezekiel 25:15–17
+
+Daniel Block ([[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]]) treats this brief
+oracle as a "twin to the previous prophecy against the Edomites," linked by the Leitwort
+*nāqam* ("vengeance"). On origins he notes the Sea Peoples background and Caphtor/Crete per
+Amos 9:7, while the Table of Nations "identifies them as Hamitic in descent, suggesting an
+earlier migration to Crete from the Delta region of Egypt." The judgment features the
+wordplay *wĕhikrattî ʾet-kĕrētîm* ("cutting off the Cherethites"), Cherethites being
+"related to the name 'Crete.'" Block adds that Nebuchadrezzar destroyed Ashkelon and that
+the specific occasion of the Philistines' vengeance against Judah "is nowhere recorded."
+
 ## Influence on Later Traditions and Controversies
 
 "Palestine" itself derives from "Philistia." The Goliath/David and Samson stories
 became enduring cultural archetypes. Related: [[sea-peoples]], [[israelites]],
 [[canaanites]], [[ashkelon]], [[ekron]], [[ashdod]], [[gaza]], [[david]], [[saul]],
 [[samson]], [[monarchy-request]].
+
+## Isaiah 14:28–32 (Oswalt, NICOT — 2026-07-18 ingest)
+
+One of only three precisely dated oracles in Isaiah ("In the year of the death of King
+Ahaz"). The Philistines, rejoicing that "the staff that struck you is broken," are warned of
+a serpent-line of worse rulers to come. Oswalt surveys the broken-staff proposals (Ahaz; the
+Davidic monarchy — the Targumic reading with Hezekiah as the "adder"; a dead Assyrian king)
+and takes his own position: the staff is "not in fact any dead monarch, but merely the
+general Assyrian weakness… prevailing at that time" during the ca. 715 revolt agitation —
+"The Assyrian dragon was not dead" (Sargon, Sennacherib, Esarhaddon were coming). The
+oracle's answer to the Philistine envoys seeking coalition: "God who brought Zion into
+existence is Zion's only security (28:16)." Hezekiah later attacked Philistine cities that
+refused to join his own anti-Assyrian coalition and held Padi of Ekron in Jerusalem — the
+policy Isaiah opposed. See [[isaiah|Isaiah]], [[ahaz|Ahaz]], [[hezekiah|Hezekiah]].

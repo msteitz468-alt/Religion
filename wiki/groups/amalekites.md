@@ -5,8 +5,8 @@ tradition: Judaism / cross-tradition
 textual_sources: [Exodus, Numbers, Deuteronomy, 1 Samuel, Esther, The Zohar]
 periods_active: ["Wilderness period (Exod 17) through monarchy (1 Sam 15); typological/eternal enemy in later tradition"]
 roles_significance: ["archetypal enemy of Israel", "embodiment of the Sitra Aḥra in history", "target of ḥerem", "eschatological foe whose defeat inaugurates redemption"]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [group, judaism, kabbalah, enemy, typology]
 ---
 
@@ -37,7 +37,7 @@ Amalek (and the Amalekites) is the paradigmatic enemy people in the Hebrew Bible
 
 **Christian**: Typological reading often identifies Amalek with the forces of evil or with specific historical opponents of the Church; the "eternal war" is spiritualized (Eph 6). Less central than in Jewish tradition, but present in patristic and medieval exegesis as a type of the devil or of persistent sin.
 
-**Modern / political**: "Amalek" rhetoric has been deployed in Israeli discourse (e.g., against certain enemies or in settlement contexts) and has generated controversy when used to justify contemporary violence. The Zoharic identification with the Sitra Aḥra makes the category spiritual and cosmic rather than purely ethnic, but the historical command remains a sensitive locus in Jewish ethics and inter-religious polemic. See [[controversies/herem-canaanite-conquest|Ḥerem and the Canaanite Conquest]] (extended to Amalek).
+**Modern / political**: "Amalek" rhetoric has been deployed in Israeli discourse (e.g., against certain enemies or in settlement contexts) and has generated controversy when used to justify contemporary violence. The Zoharic identification with the Sitra Aḥra makes the category spiritual and cosmic rather than purely ethnic, but the historical command remains a sensitive locus in Jewish ethics and inter-religious polemic. See [[herem-canaanite-conquest|Ḥerem and the Canaanite Conquest]] (extended to Amalek).
 
 ## Historical and Archaeological Context
 
@@ -65,5 +65,28 @@ Amalek functions as the dark mirror to Israel’s election: the first to test th
 - [[midianites|Midianites]] — sometimes confederated or overlapping in the wilderness
 - [[moses|Moses]] and [[joshua|Joshua]] — leaders in the first Amalek war
 - [[saul|Saul]] and [[esther|Esther]] — later fulfillments of the commandment
-- [[herem|Ḥerem]] and [[controversies/herem-canaanite-conquest|the Ḥerem controversy]]
+- [[herem|Ḥerem]] and [[herem-canaanite-conquest|the Ḥerem controversy]]
 - [[exodus|Exodus]] and [[1-samuel|1 Samuel]] (primary biblical loci)
+- [[matt-zohar-pritzker-vol4|Matt Pritzker Vol. IV]] — Be-Shallaḥ Amalek reingest anchors below
+
+### Bruckner (UBCS Exodus) anchors (2026-07-18) — Exod 17:8–16
+
+*Source: [[bruckner-exodus-ubcs|Bruckner, Exodus (UBCS)]].*
+
+[[james-bruckner|Bruckner]] treats the Rephidim attack as abrupt and unexpected; the Amalekites are "a nomadic people centered northeast of Sinai in the Negev (Num. 13:29)," descendants of Esau (Gen 36:16). Joshua "overcame" (*khalash*, "weakened," "mowed down") them — "It was a rout." Exod 17:14 is "the first mention of writing as a way of remembering in Exodus," a promise "that functioned like a curse"; Bruckner notes the irony that "no one would remember the Amalekites if this text did not preserve their memory," and cites 1 Chr 4:43 (Simeonites wipe out the remnant under Hezekiah). On 17:16 he reports the rabbinic reading (via Sarna) that the throne (*kes* for *kisseh*) is written defectively because "as long as men like Amalek are at work in the world... God's sovereignty will be incomplete," and that "in traditional interpretation Amalek comes to represent all who want to kill God's chosen people"; he deems the proposed "banner" emendation unnecessary (with Fretheim). Moses' steady hands (with Aaron and Hur): "Six hands remained steady, an expression that means 'confirmed' (from which we receive the word 'amen,' ʾaman)."
+
+### Pritzker Vol. IV reingest anchors (2026-07-18)
+
+*Source: [[matt-zohar-pritzker-vol4|Matt, *The Zohar: Pritzker Edition*, Vol. IV]], Be-Shallaḥ manna–Amalek (~2:65a–67a). Zohar body. Links: [[zohar]], [[sitra-ahra]], [[shekhinah]], [[moses]].*
+
+**Immediate cause — Massah testing (Exod 17:7–8).** After manna and rock-water, Israel asks *Is YHVH among us or Ayin (Nothingness)?* — not stupidity (they saw Shekhinah and glory at the sea) but attempt to discern **Ancient One** (concealed *Ayin*) vs Short-Tempered One; punished for **separation** and testing. **Immediately Amalek came.**
+
+**Dog / ox and donkey / first of nations (~2:65a).** Ox and donkey = two **crowns of the left** to which nations link; when they couple as one the world cannot endure (*Do not plow with ox and donkey together*). From between their sides issues the **dog** — most impudent (Exod 11:7 typology): “You said, *Is YHVH among us or not?* Behold, I am handing you over to the dog.” Immediately Amalek. *First of nations, Amalek* (Num 24:20): not chronological first; after Egypt all nations feared (Exod 15:14) **except Amalek** (*he did not fear God*, Dt 25:18); first to wage war → end unto destruction; *Wiping out, I will wipe out* (Exod 17:14) / *You shall wipe out* (Dt 25:19).
+
+**Severe Judgment / war above and below / Torah hands (~2:65b–66a).** Amalek from a decree of **severe Judgment**; single war **above and below**. Virtuous Israel strengthens power above; unvirtuous weakens it and strengthens severe Judgment. Amalek provokes **Judgment against Compassion**. *Birphidim* = *be-rippui yadayim*, slackening of hands from **Torah** (Torah = the blessed Holy One). Below: seized men, **cut them on the sign of holy engraving**, threw upward: *Take what You wanted!* — especially those **circumcised but not uncovered**.
+
+**Samael assist; Youth; sword of the covenant (~2:66a).** Moses sees **Samael** descending from above to assist Amalek; therefore Joshua (youth) battles below while Moses arrays above. Joshua’s rung = **Youth** (not Shekhinah, who is married/joined to Moses); Youth above aroused, arrayed by **Mother** with weapons for **vengeance of the Covenant** (*sword avenging with vengeance of the covenant*, Lev 26:25); *by the edge of the sword* = avenging sword, not spears. *Va-yaḥalosh*: cast lots / smash power above; that sword slays them.
+
+**Hands of Moses / faith / wipe-out dual.** Hands *kevedim* = glorious/holy; Aaron and Ḥur → *emunah* (faith); raise right over left → Israel above prevails. *Wiping out, I will wipe out*: wiping out **above**, I wipe out **below** (memory above and below); alt. you wipe below, I wipe above (Dt 25:19). Altar *YHVH Nissi* = vengeance for the holy insignia / covenant. *War for YHVH against Amalek mi-dor dor* — *dor* deficient: every generation contains some of that **evil seed**; God wages war against them; *Let sinners vanish* this world and world to come.
+
+**Relation to prior Vol. IV summary on this page.** The older “knows the measure of the feet / cools the bath” typology remains reception-orientation; the reingest anchors above are the digests’ primary Be-Shallaḥ claims (dog, first of nations, Samael, covenant mutilation, dual wipe-out, Youth/sword).

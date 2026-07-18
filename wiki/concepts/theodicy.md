@@ -3,7 +3,7 @@ title: Theodicy
 domain: theology / philosophy of religion
 traditions_using: [Judaism, Christianity, Islam]
 sources_ingested: 2
-last_updated: 2026-06-27
+last_updated: 2026-07-18
 tags: [concept, theodicy, suffering, justice, wisdom-literature, secularization]
 ---
 
@@ -34,16 +34,26 @@ The framework is not *wrong* as a general pattern — Proverbs and Deuteronomy b
 
 ## Job's Challenge: The Theodicy Lawsuit
 
-Job does not merely lament his suffering. He takes God to *court*. The legal metaphor (*rîb*, "lawsuit") structures much of Job's speech from chs. 9-31. Job believes:
+Job does not merely lament his suffering. He takes God to *court*. Legal language — lawsuit, litigation, arbiter, witness, oath — structures much of Job's speech from chs. 9-31. (*Note:* [[john-hartley|Hartley]], the wiki's main source here, uses "lawsuit," "litigation," and "litigant" but does not use the technical term *rîb*; do not attribute that vocabulary to him.) Job believes:
 1. He is innocent (he has not sinned to deserve this affliction)
 2. God is just (God's governance of the world is in principle fair)
 3. These two beliefs are currently in irreconcilable tension
 
 His resolution: if he could get a hearing before God, God would vindicate him. His avowal of innocence (chs. 29-31) is a formal legal oath compelling God to respond.
 
+## Hartley's Account of How Job Raises Theodicy
+
+[[john-hartley|Hartley]] locates the origin of the theodicy question in Job not in the fact of suffering but in a **gap between doctrine and observation**: "Suffering opens Job's eyes to the discrepancy between the belief that God punishes the wicked and the reality that in numerous cases the wicked are never punished and the innocent are caught by sudden disaster. He wonders whether God is a capricious deity, doing good or ill according to his whims (9:22–24; 21:7–33; 24:1–17). Thus Job raises the issue of theodicy" (p. 49).
+
+He is careful about what the book then does with the retribution doctrine: it does not discard it. "This work does not reject the doctrine of retribution, but rather corrects misguided applications of that doctrine" (p. 22); what is challenged is "a simplistic understanding of the doctrine of double retribution—that the righteous are always blessed and that the wicked experience untold hardship, leading to premature death." The comforters' error, on Hartley's reading, is not merely diagnostic but *soteriological*: "Because they encourage Job to repent primarily to escape his suffering and to receive God's blessing, they unsuspectingly tempt him to use God for personal gain, the essence of sin. Therefore, if Job followed their counsel, he would confirm the Satan's proposition that human beings are totally self-serving in their worship of God." He adds that the book "strongly denounces the practice of using deceptive arguments to defend God (13:7–12)" — a claim confirmed in the epilogue, where the friends' fault is that they "have spoken falsely in their attempt to defend God."
+
+*Register caution:* the retribution theology voiced by Eliphaz, Bildad, and Zophar is the **speech of characters**, staged by the book in order to be broken. It is neither Hartley's own position nor the teaching of the book.
+
 ## The Elihu Resolution: Disciplinary Suffering
 
-Before God speaks, Elihu (chs. 32-37) offers a theological advance over the three comforters. He argues that God uses suffering as *discipline* — to redirect a person from error or potential error before it develops further (33:12-22; 36:16-21). Suffering is not always punitive; it can be an act of divine mercy. Elihu also introduces the concept of a **mediating angel** who finds a ransom and delivers the sufferer from Sheol (33:23-28) — the most soteriologically specific statement in the book. See [[john-hartley|Hartley]].
+Before God speaks, Elihu (chs. 32-37) offers a theological advance over the three comforters. He argues that God uses suffering as *discipline* — to redirect a person from error or potential error before it develops further (33:12-22; 36:16-21). Suffering is not always punitive; it can be an act of divine mercy. Elihu also introduces the concept of a **mediating angel** who finds a ransom and delivers the sufferer from Sheol (33:23-28) — the most soteriologically specific statement in the book.
+
+Hartley summarizes Elihu's answer in four moves: God uses "dreams and suffering as rods of discipline to turn a person from error, even if the error is only potential"; "Pain is often an instrument of God's mercy"; the redirection of the question — "Elihu wishes to direct attention to the purpose of suffering, rather than to try to discover its origin"; and the divine initiative of "graciously send[ing] a mediating angel to proclaim that a ransom has been found (33:23–28)," God being "mercifully just in all his dealings (ch. 34)" and having "nothing to gain by acting unjustly (ch. 35)" (pp. 49–50). Hartley also notes what distinguishes Elihu from the three friends on this point: "Elihu thus locates Job's plight in his inflamed rhetoric rather than in any continuance of past sins. Therein Elihu departs from the judgment of the comforters that Job is suffering because of some hidden sin."
 
 ## The Yahweh Speeches: Not an Answer, but a Reframing
 
@@ -57,6 +67,12 @@ God's speeches from the whirlwind (chs. 38-41) do not address Job's specific cha
 | God's response *is* the answer: personal encounter transcends explanation | The theophany itself resolves the question | Kierkegaard; Buber; process theology |
 
 [[john-hartley|Hartley's]] position: the speeches offer *grounds for trust* — if God manages the cosmos with such fine-grained wisdom, no human being is in a position to accuse God of injustice in any particular case. The problem is not resolved intellectually but overcome through encounter.
+
+His central formulation of the argument's structure is worth quoting exactly, because it is the load-bearing sentence of his whole theodicy: **"The foundation of God's argument in his speeches is that power and wisdom (justice) are one in the supreme ruler of the universe. That is, by demonstrating that he exercises his power in wisdom, God proves that he rules the world in justice"** (pp. 49–50). The creation imagery is not decoration but premise: God "has structured the world exactly according to his blueprints (38:4–8). With this metaphor he claims that he has built justice into the structure of the universe."
+
+Hartley also draws an **anti-dualist** conclusion from the speeches that is easy to miss. God "asserts that no corner of the world is outside his authority (38:16–24), thereby refuting any theory that injustice and suffering exist because God is in a struggle with a strong foe." On this reading the Yahweh speeches close off the cosmic-conflict theodicy as firmly as they close off Job's accusation: [[behemoth-and-leviathan|Behemoth and Leviathan]], "symbols of hostile cosmic forces," are creatures under Yahweh's mastery, and questioning about them "brings Job to realize that no human being has a proper perspective to judge the course of matters in the universe."
+
+Hartley's final term is not argument but encounter: "the author finds the profoundest personal answer to undeserved suffering to reside in the divine-human encounter. That God both appears to Job and speaks with him means that Job's encounter is more than a mystical experience with a numinous force; it is a meeting with the personal God." And the wager of the prologue is settled in the yielding: "In yielding himself to God Job reveals beyond any doubt that he serves God out of love, not for material gain or prestige."
 
 ## Traditions on Theodicy
 
@@ -105,7 +121,7 @@ Batra 16a), holding instead that Job's words were vindicated because he *abandon
 
 ## Sources Ingested
 
-1. [[john-hartley|Hartley, John E.]]. *The Book of Job*. NICOT. Grand Rapids: Eerdmans, 1988.
+1. [[hartley-job-nicot|Hartley, John E. *The Book of Job*]]. NICOT. Grand Rapids: Eerdmans, 1988. (Re-ingested 2026-07-18.)
 2. [[guide-for-the-perplexed|Maimonides, *The Guide for the Perplexed*]] (III:8–24).
 
 ## Related Texts

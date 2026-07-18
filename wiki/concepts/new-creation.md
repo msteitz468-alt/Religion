@@ -81,7 +81,10 @@ Christ." See [[2-peter|2 Peter]].
 Revelation gives the new creation its climactic, visionary form. [[grant-osborne|Osborne]] (BECNT,
 2002) traces the throne-room and consummation visions:
 - **"A new heaven and a new earth" (21:1).** The fulfillment of Isaiah 65:17; 66:22 (cf. 2 Pet.
-  3:13). Osborne discusses whether 21:1–5 envisions the **renovation** of the present cosmos or its
+  3:13). On the 2026-07-18 fidelity re-read, Osborne surveys renovation vs replacement among modern
+  commentators and sides **primarily with replacement** of the old order (with continuity inside the
+  wholly new: physical resurrection; united heaven-and-earth), following the destruction tradition
+  of 20:11; 21:1 (*ἀπῆλθαν* — "have passed away"). He discusses whether 21:1–5 envisions the **renovation** of the present cosmos or its
   replacement by a fresh **re-creation** — God first "destroys the old earth tainted with sin" (20:11;
   21:1) and then "makes all things new" (21:5), combining heaven and earth into a new created reality.
   The creation theme is, for Osborne, the ultimate proof of God's sovereignty: the God who made the
@@ -135,6 +138,7 @@ The "new creation" in Paul reconnects to the creation theology of Genesis 1–2.
 - [[2-peter|The Second Letter of Peter]] — 2 Pet 3:10–13: new heavens and new earth after judgment by fire
 - [[gene-green|Gene L. Green]] — BECNT 2 Peter (2008); renewal-not-annihilation; the "found" reading of 3:10
 - [[revelation|The Revelation to John]] — Rev 21–22: new heaven and earth; New Jerusalem as Holy of Holies and final Eden
+- [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest; primarily **replacement** of the old cosmos (with continuity inside the wholly new order), not mere renovation
 - [[grant-osborne|Grant R. Osborne]] — BECNT Revelation (2002); renovation vs. re-creation; the consummated vision
 
 ## Related Texts

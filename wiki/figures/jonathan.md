@@ -5,8 +5,8 @@ tradition: Judaism / Christianity
 textual_sources: [1 Samuel 13–14; 18–20; 23; 31; 2 Samuel 1; 9; 1 Chronicles 8:33–34; 10:2]
 dates: [late 11th century BCE (traditional); d. with Saul at Mount Gilboa]
 roles: [crown prince of Israel, warrior, covenant friend of David]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [figure, judaism, christianity, old-testament, court-narrative, covenant-friendship]
 ---
 
@@ -64,3 +64,7 @@ that exceeds mere political function.
   as exemplary; David's lament has furnished liturgy and music for centuries. The relationship
   has also been the focus of modern debate over whether the language connotes covenant
   friendship or erotic love — a dispute the terse text does not resolve.
+
+## Tsumura (NICOT) — Fidelity Reingest Note (2026-07-18)
+
+[[david-tsumura|Tsumura]] on 1 Samuel: Jonathan’s Michmash faith is a “sandwich” of trust between Saul’s two rejection chapters (13 and 15); the covenant and robe gift (18) enact give-vs-Saul’s-take; ch. 20 *ḥesed* binds David’s house/seed; reverse order “Jonathan and Saul” may stress Jonathan’s narrative priority. Source: [[tsumura-1-samuel-nicot]].

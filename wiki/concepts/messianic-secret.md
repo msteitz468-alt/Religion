@@ -2,8 +2,8 @@
 title: The Messianic Secret
 domain: hermeneutics / NT theology
 traditions_using: [Christianity, NT scholarship]
-sources_ingested: 1
-last_updated: 2026-06-05
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, new-testament, mark, christology, hermeneutics, wrede, secrecy, messianic]
 ---
 
@@ -31,6 +31,19 @@ The commands to silence are therefore **not** a cover-up but a **management of p
 
 The time-limit on silence is 9:9 explicitly: "do not tell what you have seen until the Son of Man has risen from the dead." The resurrection is the event that makes the messianic identity fully intelligible.
 
+### Detail from the 2026-07-18 fidelity reingest of [[france-mark-nigtc|France's NIGTC Mark]]
+
+*The following sharpens the summary above with France's verse-level argumentation.*
+
+- **"Messianic secret" strictly so called occurs once.** France stresses that 8:30 "is the only place in the gospel where a specifically messianic secret is mentioned"; the parallel command at 9:9 uses "Son of Man" instead. Secrecy elsewhere is a broader, more varied motif.
+- **The historicist rationale.** France defends a "historicist" explanation of 8:30: given popular hopes of political liberation (e.g. Pss. Sol. 17), the title ὁ Χριστός carried ready-made political connotations "very different from Jesus' sense of mission" and was dangerous to use publicly — a ban Jesus himself lifts at 14:61-62. Endorsing N. T. Wright's quip, France dismisses Wrede's theory as having "long outlived its sell-by date."
+- **Title substitution.** France observes that after 8:29 ὁ Χριστός disappears until 14:61-62, deliberately replaced by the "less-known and more enigmatic" ὁ υἱὸς τοῦ ἀνθρώπου (see [[son-of-man|Son of Man]]), though the messianic concept remains central.
+- **Demons and the reader.** France reads the demon's ὁ ἅγιος τοῦ θεοῦ (1:24) as supernatural insight "as yet denied to human actors" that "the reader is expected to note," and the demons' "Son of God" cry at 3:11 as "the highest christological confession of Mark's gospel," hidden from humans until 14:61-62 and 15:39. He distinguishes 1:25 (silencing as part of the exorcism) from 1:34, which "more clearly than v. 25, introduces the theme of the 'messianic secret'" — the problem being what the demons *know*.
+- **Deliberate counterweights.** France notes that in 2:1-12 "Jesus has a point to make, and it is meant to be noticed"; that at 2:28 the christological claim of sabbath lordship means "the 'messianic secret' is strained to the limits"; and that in 3:1-6 Jesus "is determined to force the issue by a public display," showing "how partial the motif of secrecy is in Mark's gospel." The lamp saying (4:21-22) "tells strongly against any interpretation of vv. 11-12 which suggests that that knowledge is meant to be kept hidden."
+- **The Decapolis reversal.** France explains the commanded *proclamation* of 5:19-20 by geography: in Gentile territory "there was no ready-made messianic expectation to contend with," so the risk motivating silence did not exist. He also notes that the secrecy command at 7:36, in the same Decapolis, stands in tension with 5:19-20 — a tension Mark "does not explain, or apparently even notice."
+- **The progressive lifting.** France tracks the weakening of the secrecy from Bartimaeus's unrebuked "Son of David" (10:47-48: "the secrecy enjoined at Caesarea Philippi is beginning to weaken"), through the donkey ride of 11:1-10 — "a clear messianic declaration by Jesus, and the end of any secrecy on the subject except in the purely formal sense that the declaration is by actions" — to the trial, where uniquely in [[mark|Mark]] Jesus answers the High Priest with an emphatic Ἐγώ εἰμι (14:62): "The time for concealment is over." Between 11:1 and 14:62 the claim is stated only obliquely (a character in a parable, 12:6; a psalm quotation, 12:10-11; a teasing question, 12:35-37), partly, France argues, because open declaration would supply ammunition for denunciation to Rome.
+- **Reader-privileged perspective.** France argues the prologue functions like Job 1–2, giving the reader a heavenly perspective denied to the actors: "all the time the reader knows what disciples, crowds, and chief priests do not"; uniquely in Mark the baptismal revelation is private to Jesus (1:9-11).
+
 ## The Pattern in Detail
 
 France identifies several distinct types of silence command:
@@ -54,6 +67,61 @@ This prevents the messianic secret from being reduced to a communications proble
 
 The concept of divine secrets revealed to the elect appears widely in Second Temple Jewish apocalyptic literature (Daniel; 1 Enoch; Dead Sea Scrolls). The *mystērion* of 4:11 is in this tradition: a reality hidden from the unprepared but disclosed to the inner circle. The difference in Mark is that the "mystery" is not cosmic speculation about angels or the end of history but the identity of Jesus of Nazareth as the crucified Son of Man — a claim that overturns every prior understanding of what divine election and power mean.
 
+## France on Secrecy in *Matthew* (NICNT Matthew, 2007)
+
+*Added 2026-07-18. The section above records France's position on **Mark**, from his NIGTC
+volume. His account of **Matthew** is materially different, and the two must not be conflated:
+in Matthew he distinguishes two classes of secrecy command and assigns them opposite weight.*
+
+### Healing secrecy: "an occasional relic of a prominent Marcan theme"
+
+On Matt 12:16 — where Matthew omits Mark's exorcism context, leaving the demand for secrecy
+without any explanation — France's judgment, quoting his own earlier comment, is that it is
+"**more like an occasional relic of a prominent Marcan theme than an issue that was also
+important to Matthew himself.**"
+
+He extends this to the other retained instances. The healing-secrecy demands Matthew preserves
+(8:4; 9:30; 12:16) are, he holds, no longer a prominent feature of Matthew's presentation, and
+might reflect a merely prudential concern to avoid popular attention. At 9:30 he offers a
+tentative alternative: since those healed are the first to address Jesus as "Son of David" (i.e.
+Messiah), "the secrecy may have less to do with the healing itself than with their perception of
+Jesus' role" — or Jesus simply needed respite from popular pressure.
+
+### Christological secrecy: "no less emphatic than Mark"
+
+France draws the line sharply at 16:20. Of the command following Peter's confession he writes:
+"But this is different. … here there is no healing and no crowd. And the subject is not Jesus'
+miracles, but his identity as Messiah." And of the two demands with a specifically
+christological focus — 16:20 and 17:9 — "**Matthew is no less emphatic than Mark on the need for
+secrecy.**"
+
+The two claims are therefore complementary, not contradictory: France downgrades *healing*
+secrecy in Matthew while holding *messianic* secrecy proper as firmly in Matthew as in Mark.
+
+### Why the prohibition
+
+France locates the reason not in inaccuracy — v. 17 affirms [[peter-apostle|Peter]] is right —
+but in "the danger of using such language in public," given the conventional nationalistic
+connotations of "Messiah." He observes that right up to 26:63-64, where the question is finally
+answered directly (and even then in Matthew "with a degree of reservation"), "**Jesus never
+publicly claims in so many words to be the Messiah**"; the only public use is 22:42, framed as
+an academic argument that strikingly avoids identifying the Messiah with himself.
+
+He ties the secrecy directly to Peter's coming rebuke: vv. 21-23 exemplify precisely the natural
+misunderstanding of "Messiah" to be expected if the title were unguardedly proclaimed. "**If
+Peter could get it so badly wrong, how much more the wider public.**"
+
+### The Matthean paradox that Mark lacks
+
+France argues that Matt 16:17-19 dramatically changes the pericope's impact relative to Mark and
+Luke. There, Jesus' only response to the confession is the prohibition, so an unaware reader
+might suppose Peter had erred. In Matthew there is immediate glad acceptance, so "the reader is
+obliged to think out the paradox of why a correct and warmly welcomed declaration is yet not to
+be made the subject of public announcement."
+
+*Source-condition note: extracted from an ebook conversion in which all footnote bodies were
+dropped, so France's attributions in notes are unrecoverable.*
+
 ## Bibliography and Scholarly Context
 
 - **Wrede, William**. *Das Messiasgeheimnis in den Evangelien* (1901). ET: *The Messianic Secret*. Cambridge: James Clarke, 1971.
@@ -65,7 +133,14 @@ The concept of divine secrets revealed to the elect appears widely in Second Tem
 ## Wiki Connections
 
 - [[mark|Gospel of Mark]] — primary locus of the literary phenomenon
-- [[matthew|Gospel of Matthew]] — messianic secret also present, though France reads it through the fulfillment-theme lens in his NICNT commentary
+- [[matthew|Gospel of Matthew]] — messianic secret also present; see **France on Secrecy in
+  *Matthew*** above, where he distinguishes healing secrecy (a Marcan relic) from christological
+  secrecy (as emphatic as Mark's)
+- [[synoptic-problem|The Synoptic Problem]] — France's source-critical stance, which underwrites
+  his "Marcan relic" judgment
+- [[jesus|Jesus]] — Matthean christology in France's reading
 - [[apocalyptic-literature|Apocalyptic Literature]] — Second Temple background for divine *mystērion*
 - [[mark-ending|The Ending of Mark]] — the open ending of 16:8 as the final instance of Mark's paradox
 - [[rt-france|R. T. France]] — source of the France interpretation detailed here
+- [[france-mark-nigtc|France, *The Gospel of Mark* (NIGTC)]] — source page for the Mark material
+- [[son-of-man|Son of Man]] — the title Jesus substitutes for ὁ Χριστός after 8:29 (France)

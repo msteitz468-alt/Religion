@@ -9,6 +9,8 @@ tags: [concept, christianity, scholasticism, ethics, aquinas]
 
 # Beatitude (The Last End of Man)
 
+> **Not to be confused with** [[beatitudes|The Beatitudes (Matthew 5:3–10)]], the macarisms opening the Sermon on the Mount. This page concerns the scholastic concept of *beatitudo* as the final end of man.
+
 **Beatitude** (*beatitudo*, happiness, blessedness) is the final end of human life and the
 starting point of [[thomas-aquinas|Aquinas]]'s moral theology. The whole *Prima Secundae* of the
 [[summa-theologica|*Summa Theologiae*]] opens with it (I-II, Q1–5), because "the end is the rule of

@@ -5,8 +5,8 @@ tradition: cross-tradition
 textual_sources: [1 Kings, 2 Kings, Malachi, Matthew, Mark, Luke, The Zohar]
 dates: [9th century BCE]
 roles: [prophet, miracle worker]
-sources_ingested: 3
-last_updated: 2026-06-07
+sources_ingested: 5
+last_updated: 2026-07-18
 tags: [figure, cross-tradition, prophet, kabbalah]
 ---
 
@@ -31,6 +31,41 @@ Elijah the Tishbite (from Tishbe in Gilead), preeminent prophet in the northern 
 **Islam**: Ilyas (Elias), a prophet sent to his people (often linked to the Israelites of the northern kingdom) to call them from worship of Baal (Ba'l) back to Allah alone (Q 6:85; 37:123–132). He is praised for his steadfastness; some traditions connect him with al-Khidr or other immortal figures. The Carmel contest is sometimes referenced in popular piety.
 
 **Kabbalah (the Zohar)**: The [[zohar|Zohar]] inherits and develops the rabbinic motif of Elijah's perpetual, invisible presence at every **circumcision** (*brit milah*). Because he never died but ascended alive (2 Kgs 2), Elijah is appointed to witness Israel keeping the covenant of [[sefirot|Yesod]] — the very sefirah of the covenant and the channel of divine blessing to the [[shekhinah|Shekhinah]]. The Zohar (Parashat Lekh Lekha, on the covenant of Abraham) explains the custom of preparing a **"chair of Elijah"** (*kisei shel Eliyahu*) at each circumcision: because Elijah had once complained that Israel "forsook the covenant" (1 Kgs 19:10, 14), God decreed that he must be present at every circumcision to *see* that Israel in fact upholds it. The Zohar describes Elijah "sweeping through the world" in an instant to be present at each rite simultaneously — a flight made possible by his angelic, deathless nature. The act of circumcision thus becomes a theurgical sealing of the covenant in the flesh, witnessed by the deathless prophet, that strengthens the bond of Yesod and promotes the union of Tif'eret and the Shekhinah. See [[kabbalah|Kabbalah]], [[sefirot|Ten Sefirot]] (Yesod), [[shekhinah|Shekhinah]].
+
+**Elijah in the Gospel of Mark (France, NIGTC Mark, 2002)**
+
+*Added 2026-07-18 from the fidelity reingest of [[france-mark-nigtc|France's NIGTC Mark]]. All
+interpretive claims are [[rt-france|R. T. France]]'s.*
+
+- **John the Baptist as the returning Elijah.** France argues [[john-the-baptist|John]] appears
+  in [[mark|Mark]] 1:2-8 "at least as a prophet (Zc. 13:4), and most likely as the returning
+  Elijah" — via his clothing (2 Kgs 1:8) and the Malachi 3:1 context read with Mal 3:23-24 —
+  with explicit identification withheld until 9:13. The prologue presents Jesus as "mightier
+  than the returning Elijah."
+- **9:11-13.** France reads the exchange after the transfiguration as Jesus endorsing scribal
+  Elijah-expectation (Mal 4:5-6) but declaring it already fulfilled in John — Mark leaving the
+  identification implicit — with "Elijah's" rejection foreshadowing the Son of Man's suffering.
+  The scriptural basis is a typological reading of the 1 Kings Elijah narratives: "His bold
+  confrontations with Ahab and Jezebel prefigure John's open challenge to Antipas and Herodias;
+  the difference is that Herodias will succeed where Jezebel failed." France likewise highlights
+  the Ahab/Jezebel–Elijah pattern behind Mark's account of John's death (6:17-29).
+- **At the transfiguration (9:4).** France argues Elijah and Moses appear not as "law and
+  prophets" (an idea he calls the "least valid" traditional option) but as eschatological
+  figures whose reappearance "symbolises the coming of the long-expected messianic age"; both
+  also prefigure the rejection of God's spokesmen, and both were regarded in some Jewish thought
+  as "deathless ones." The divine voice exposes the inappropriateness of Peter's putting Elijah
+  and Moses on a par with Jesus.
+- **Popular christology.** France notes that all popular options for Jesus' identity in 6:14-15
+  and 8:28 (John redivivus, *Elijah*, a prophet) fall within the "prophet" category — laudatory
+  but falling short of the truth; and that the forty days of 1:13 echo Israel's wilderness
+  period rather than Moses or Elijah.
+- **At the cross (15:35-36).** France explains the bystanders' mishearing of *Eloi* as a call to
+  Elijah via the belief in Elijah's eschatological return and his popular role as heavenly
+  helper in times of need; the vinegar offer was in itself "a harmless and even kindly act" onto
+  which Mark, echoing Ps 69:21, puts "a more sinister construction."
+- **Elijah as call-narrative model.** Following M. Hengel, France reads Jesus' peremptory call
+  of the fishermen (1:16-20) on the "charismatic leader" model of Elijah calling Elisha rather
+  than a rabbi–pupil relation — see [[discipleship|discipleship]].
 
 **Theological and Narrative Significance**
 
@@ -57,5 +92,18 @@ Provan (NIBC) gives dedicated excursuses on Elijah (and Elisha) "in Canonical Co
 - [[luke|Luke]] (4:25–27)
 - [[james|James]] (5:17)
 - [[prophet|Prophet]] / [[zeal|Zeal for YHWH]]
+- [[mark|Gospel of Mark]] / [[rt-france|R. T. France]] / [[france-mark-nigtc|France, NIGTC Mark]] (Marcan reception section above)
 - [[zohar|The Zohar]], [[kabbalah|Kabbalah]] — Elijah at every circumcision; the chair of Elijah
 - [[sefirot|Ten Sefirot]] (Yesod, the covenant), [[shekhinah|Shekhinah]]
+- [[provan-1-2-kings-nibc|Provan NIBC 1–2 Kings]] (fidelity reingest 2026-07-18)
+
+## Provan NIBC reingest (2026-07-18)
+
+*Attributed to [[iain-provan|Iain W. Provan]], [[provan-1-2-kings-nibc|*1 and 2 Kings* (NIBC)]]. Digest R4, §26–§34.*
+
+- **Salvation within judgment:** Living LORD (not Baal/Mot) controls rain, fertility, life/death; Kerith, Zarephath, Carmel fire-as-purge, delayed house-judgment after Ahab’s penitence.
+- **Carmel:** Public “who is God?”; twelve-stone Israel; simple prayer vs ecstatic Baal-prophecy; Ahab as impotent as Baal; Jezebel/Asherah remain under-fought.
+- **Horeb:** Selective memory turns victory into defeat; God not only in fire but in *qôl demāmâh daqqâh*; long war via Hazael/Jehu/Elisha and the 7,000; Elijah must be *part of* the plan, not the whole plan—yet remains Jonah-like and half-obedient.
+- **Naboth / Micaiah:** Inheritance theology; vegetable garden as Egypt-izing; worship and ethics one coin; one true prophet vs ~400; lying spirit in heavenly council; random arrow as divine aim.
+- **Ahaziah / ascension:** Baal-Zebub inquiry met by Carmel’s God; double portion / Moses–Joshua pattern; authorial *ʿlh* guards death-vs-translation mystery.
+- **§34 Canonical excursus:** Flawed hero (Moses + Jonah); Transfiguration (Jesus greater); **John the Baptist** via preparatory role (1 Kgs 19 → Mal 4), figurative not literal undying return; Rom 11 / Heb 11 / Jas 5; humility lessons for remnant faith and prayer.

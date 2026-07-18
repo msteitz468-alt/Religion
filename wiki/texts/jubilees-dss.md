@@ -4,7 +4,7 @@ tradition: Judaism (Second Temple / Essene)
 canon_status: authoritative (for Essenism; deuterocanonical or non-canonical elsewhere)
 canon_scope:
   canonical_for: []
-  deuterocanonical_for: [ethiopian-orthodox, essenism]
+  deuterocanonical_for: [ethiopian-orthodoxy, essenism]
   authoritative_for: [essenism]
   disputed_by: []
   rejected_by: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism, islam]
@@ -50,6 +50,22 @@ This is the **earliest pre-Christian attestation** of the rabbinic tradition (la
 The Qumran Isaac is an active participant in atonement, not merely its passive object. This precedes and partially shapes Christian Atonement theology's emphasis on Christ's willing self-offering.
 
 **Mastema's role**: The prince of darkness (Mastema) accusation of Abraham is also found in the full Jubilees text — Mastema is the one who challenges God to test Abraham (paralleling Satan in the Prologue of Job). The Qumran version emphasizes this accusatory function.
+
+## Hermeneutical Framework
+
+Jubilees is the paradigm case of **"rewritten Bible"** at Qumran. Vermes's definition is exact: "The work itself is a midrashic retelling of the story of Genesis (and the beginning of Exodus) in the form of a revelation conveyed by angels to Moses."
+
+Three interpretive commitments follow from that sentence:
+
+**Retelling, not commenting.** Jubilees does not stand outside Genesis and explain it; it re-narrates it. There is no lemma, no citation formula, no interpretive distance — the exegesis is carried by the retelling itself.
+
+**A revealed chronological framework.** The Hebrew title Vermes records is *Book of the Divisions of the Times* — "repeated also in other 4Q fragments, a title already known from the Damascus Document (XVI, 3)." Biblical narrative is redistributed into jubilee periods, so that chronology becomes the organizing interpretive grid. That the Damascus Document already cites the work under this title, and that 4Q228 quotes it as authority — "For thus is written in the Divisions [of times]" — shows Jubilees functioning as scripture-like authority within the sect.
+
+**Angelic dictation as the authority claim.** The revelation is mediated by angels to Moses, which places Jubilees' version of Genesis on the same footing as the Sinai revelation rather than subordinate to it.
+
+**Gap-filling.** Where Genesis is terse, Jubilees and its associated Qumran material supply motive and dialogue. The Akedah in 4Q225 dramatizes a heavenly tribunal absent from Genesis 22 — the angels of Mastemah anticipating that Abraham "will be found unfaithful [to God]" while holy angels weep — and gives Isaac the words "T[ie me well]." Vermes notes these features "display close parallels to the post-biblical representation of the Akedah... anticipating features known from the Palestinian Targums," and that 4Q225 is "the earliest (pre-Christian) evidence for the rabbinic story of Isaac's voluntary self-sacrifice."
+
+**On the calendar:** the 364-day solar reckoning is central to Jubilees as a whole, but the Qumran Jubilees fragments in the ingested range do not themselves argue it. The embedded Enoch fragment (4Q227) does tie Enoch's astronomical writing to preserving the righteous from error — he "wrote all the ... heaven and the ways of its host and the [mon]ths ... [th]at the ri[ghteous] may not stray."
 
 ## The Jubilees Calendar
 Jubilees is the primary literary source for the **364-day solar calendar** that became the Qumran community's foundational commitment:

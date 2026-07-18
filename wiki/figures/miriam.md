@@ -5,8 +5,8 @@ tradition: Judaism / Christianity / cross-tradition
 textual_sources: [Exodus, Numbers, Deuteronomy, Micah, 1 Chronicles, The Zohar]
 dates: 13th century BCE (traditional)
 roles: [prophetess, leader, musician, intercessor]
-sources_ingested: 3
-last_updated: 2026-06-07
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [figure, judaism, christianity, prophetess, levite, kabbalah]
 ---
 
@@ -67,3 +67,19 @@ Miriam represents the inclusion of women in prophetic and leadership roles withi
 - [[hebrews|Hebrews]] (typology)
 - [[miriam|Miriam]] (this page; cross to daughters of Zelophehad for women's inheritance)
 - [[documentary-hypothesis|Documentary Hypothesis]] (source layers in her traditions)
+
+### Pritzker Vol. IV reingest anchors (2026-07-18)
+
+*Source: [[matt-zohar-pritzker-vol4|Matt, *The Zohar: Pritzker Edition*, Vol. IV]]. Honest thin-coverage report from reingest digests. Links: [[zohar]], [[shekhinah]], [[moses]].*
+
+**Named Miriam almost absent in Vol. IV digests (Shemot–Yitro scopes read).** Across the reingest ranges, the proper name Miriam and the Song of Miriam (Exod 15:20–21) are **not** treated as lemmata.
+
+**Shemot only — “his sister” typologies (Exod 2:4; ~2:12a–12b), not biography.** The Zohar reads *His sister stationed herself afar* as: (1) sister of the one who calls Assembly of Israel *my sister* (Song 5:2), with *afar* via Jer 31:3; (2) **Wisdom** (*Say to Wisdom, “You are my sister,”* Prov 7:4); (3) R. Yitsḥak — when Israel sins, Judgment accuses and the sister stations afar. No Amram–Jochebed–Miriam family narrative as such; deliverance weeping is routed through Shekhinah / Rachel, not named Miriam.
+
+**Be-Shallaḥ Song range (D):** Song of the Sea theurgy is Moses / Matronita / Israel; digest explicitly flags **Song of Miriam / prophetess not reached** (range ends Marah before manna).
+
+**Va-Era–Yitro:** no Miriam loci in digests.
+
+**Editorial note on prior Kabbalistic paragraph above:** The earlier “Kabbalistic (Zohar, Pritzker Vol. IV)” block that assigns Miriam the women’s Song as sefirotic completion of Moses’ song is **not grounded** in the 2026-07-18 Vol. IV reingest digests; treat it as unanchored orientation pending a scope that actually reads Exod 15:20–21. Prefer the thin anchors here for fidelity.
+
+**Key Links (Vol. IV):** [[matt-zohar-pritzker-vol4|Matt Pritzker Vol. IV]], [[zohar|The Zohar]], [[shekhinah|Shekhinah]]

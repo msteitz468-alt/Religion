@@ -2,8 +2,8 @@
 title: Luke-Acts as a Two-Volume Work
 domain: hermeneutics / literary structure
 traditions_using: [Christianity]
-sources_ingested: 1
-last_updated: 2026-06-04
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, christianity, hermeneutics, new-testament]
 ---
 
@@ -15,30 +15,38 @@ The **Luke-Acts unity** refers to the scholarly recognition that the Gospel of L
 - **Common addressee**: Both are addressed to "Theophilus"
 - **Narrative continuity**: Acts begins precisely where Luke ends (the ascension) and opens by summarizing Luke's contents
 - **Shared vocabulary and style**: The same Koine Greek diction, theological emphases (the Spirit, prayer, meals, "the way"), and structural devices appear throughout
-- **Theological continuity**: The promise of the Spirit at Pentecost (Acts 2) fulfills Jesus' promise to send the Paraclete (Luke 24:49; Acts 1:4-5)
+- **Theological continuity**: The promise of the Spirit at Pentecost (Acts 2) fulfills Jesus' promise to send the Spirit (Luke 24:49; Acts 1:4-5)
+- **Physical proportionality (Green):** Gospel ~19,400 words and Acts ~18,400 words — roughly equal papyrus-roll lengths; both begin in Jerusalem; Gospel ends / Acts begins with commission + ascension; conscious Jesus/apostles parallels
 
 ## Significance for Interpretation
 
-[[darrell-bock|Bock]] argues that failing to read Acts through the Luke-Acts unity lens is a fundamental interpretive error. Reading Acts as an independent document misses its function as the narrative of the Spirit's continuation of Jesus' ministry, and misses connections to Luke's Gospel that illuminate Acts' theology.
+[[joel-green|Green]] (NICNT Luke) makes unity a *methodological* commitment: Luke-Acts is one simple narrative cycle serving God’s purpose to bring full salvation to all people; incidents in the Gospel anticipate Acts (e.g. Simeon 2:32 light to Gentiles realized under the Spirit only in Acts). “Seen against this purpose, the Gospel of Luke is incomplete in itself.” Order and co-text across both volumes control meaning; purpose/audience/needs must account for both books.
+
+[[darrell-bock|Bock]] (BECNT Acts) argues that failing to read Acts through the Luke-Acts unity lens is a fundamental interpretive error. Reading Acts as an independent document misses its function as the narrative of the Spirit's continuation of Jesus' ministry, and misses connections to Luke's Gospel that illuminate Acts' theology.
 
 Key interpretive consequences:
 - **The Holy Spirit** in Acts is the same Spirit promised by Jesus in the Gospel of Luke — not a new theological development but the fulfillment of a specific promise
 - **The Jerusalem community** in Acts is in direct continuity with the disciples who traveled with Jesus in Luke's Gospel — the same people, the same story
 - **The Gentile mission** in Acts is the fulfillment of Simeon's prophecy in Luke 2:32 ("a light for revelation to the Gentiles")
 - **The speeches in Acts** are best understood against the backdrop of Jesus' own teachings in Luke's Gospel, which they often echo
+- **Resurrection hinge (Green):** Luke 24 // Acts 1 internal repetition; witnesses, Spirit promise, and Jerusalem base are the narrative seam
 
 ## Ancient Context
 
-Two-volume literary works were not unusual in antiquity. The work of Josephus (*Jewish War* and *Jewish Antiquities*) provides a parallel from roughly the same period: a Jewish historian writing consecutive volumes of related material, addressed to a specific readership. Diodorus Siculus and other Hellenistic historians similarly produced multi-volume historical works with internal cross-references. Luke-Acts fits naturally into this literary context.
+Two-volume literary works were not unusual in antiquity. Green notes ancient authors divided lengthy works into “books” each fitting one papyrus roll (~35-foot max) as physical expediency, not necessarily a new subject. Josephus (*Jewish War* / *Jewish Antiquities*), Diodorus Siculus, and other Hellenistic historians produced multi-volume historical works with internal cross-references. Luke-Acts fits naturally into this literary context.
 
 ## Implications for the Canon
 
-The canonical separation of Luke and Acts — Luke placed among the Gospels, Acts placed between the Gospels and the Pauline letters — partially obscures the two-volume unity. The separation was likely motivated by the desire to group the four Gospels together. Readers who move directly from Luke to John miss the narrative continuation Acts provides.
+The canonical separation of Luke and Acts — Luke placed among the Gospels, Acts placed between the Gospels and the Pauline letters — partially obscures the two-volume unity. Green stresses that second-century placement made Luke thought of first as “Gospel” and Acts as framework for Paul; in Luke’s day no literary form “Gospel” existed as Luke’s genre self-designation (he writes a “narrative”). Readers who move directly from Luke to John miss the narrative continuation Acts provides.
 
 ## Sources Ingested
 
-1. [[darrell-bock|Bock, Darrell L.]]. *Acts*. BECNT. Grand Rapids: Baker Academic, 2007.
+1. [[green-luke-nicnt|Green, Joel B. *The Gospel of Luke*. NICNT. Eerdmans, 1997]] — fidelity re-ingest 2026-07-18
+2. [[darrell-bock|Bock, Darrell L.]]. *Acts*. BECNT. Grand Rapids: Baker Academic, 2007.
 
 ## Related Texts
 
 - [[luke|Gospel of Luke]]
+- [[acts|Acts of the Apostles]]
+- [[joel-green|Joel B. Green]]
+- [[theophilus|Theophilus]]

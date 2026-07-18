@@ -1,0 +1,2778 @@
+C. PART 5C: BABYLON, AND THREE CONCLUSIONS (50:1–51:64)
+
+
+As it is not surprising that the Jeremiah scroll eventually includes a set of messages concerning other nations, so it is not surprising that this set of messages comes to a climax with Babylon, the great power in Jeremiah’s time that brought about the fall of Jerusalem. The messages come in two chapters of announcements concerning Babylon’s own fall and associated announcements promising restoration for Israel.128 Nor is it surprising that the Babylon material is so substantial, comprising a compilation of such material that is almost as extensive as the messages relating to all the rest of the nations that are covered by Jer 46–49. With these messages about Babylon, the Jeremiah scroll comes to a climax with its assertion of the preeminence of Yahweh over the world power.129 “The very size of this collection shows the special nature of Babylon among the nations. This is the empire; it cannot be treated like just another nation.”130 Commentators belonging to imperial nations such as Britain or the United States may dislike what might seem the chapters’ “obsessional antagonism towards the national enemy.”131 But the chapters might seem different when read through the eyes of people from Kenya in the 1950s or Nicaragua in the 1980s. “Revenge fantasies”—in this case, imagining Yahweh taking redress—can be a strategy for survival.132
+
+The material on Babylon is followed by a brief conclusion to the messages about other nations, pairing with the introduction to them in 46:1 (51:58b), a coda about a last act of Jeremiah in relation to Babylon (51:59–64a), and a conclusion to Jeremiah’s message as a whole (51:64b).
+
+
+
+
+
+1. Introduction (50:1 [LXX 27:1])
+
+
+1The word that Yahweh spoke regarding Babylon, regarding the country of Chaldea, a by means of Jeremiah the prophet. b
+
+a. Kaśdîm can refer both to Chaldeans and to Chaldea; in phrases such as “the country of” and “the people who live in,” I take it to refer to Chaldea (cf. expressions such as “country of Judah,” “country of Egypt”). See further the translation note and commentary on 21:4.
+
+b. LXX has a much shorter version of the verse.
+
+This opening to the chapters rather suggests that they come from Jeremiah himself, an impression confirmed and developed in the story that follows (51:59–64). As is the case with the Jeremiah scroll as a whole (see the discussion “Unity of Composition” in the introduction to this commentary, pp. 5–26), there are several ways one might interpret this impression.
+
+Is it a fiction? Did all the material come from prophets and scribes other than and later than Jeremiah?133 I have no theological objection to this suggestion, given that God can inspire fiction, but I find it somehow implausible.
+
+Does it indicate that every message in the chapters came from Jeremiah himself? It may be so, but there would then be a contrast with the way the Scriptures usually work. For instance, the Gospels give us different adapted versions of Jesus’s teaching in Matt 5–7 and Luke 6 (and teaching that is different again in John) rather than transcripts.
+
+The mainstream scholarly view is that Jeremiah’s curators, too, provide adapted versions of his teaching. These chapters then provide both actual words of Jeremiah, words of Jeremiah that the curators have supplemented, and words that have been developed by the curators themselves and by other prophets. Being the mainstream scholarly view does not mean this assumption is right, but I take it as my own working assumption. Here as elsewhere, the scroll presents us with an adapted version that the curators have been inspired to formulate.
+
+
+
+A further mainstream scholarly assumption is that we can go on to work out which elements within the chapters actually came from Jeremiah and which came from his curators or other prophets. I do not work with this assumption, since the criteria for making such distinctions seem questionable. For instance:
+
+If the content or style or vocabulary of a message matches that of other messages from Jeremiah, it need not mean it comes from Jeremiah.
+
+If the content or style or vocabulary of a message does not match that of other messages from Jeremiah, it need not mean it does not come from Jeremiah.
+
+A passage’s looking like a later insertion into the message in which it appears need not mean that someone other than Jeremiah made the insertion.
+
+A passage’s being poetry rather than prose need not indicate that it comes from Jeremiah, and its being prose rather than poetry need not preclude its coming from Jeremiah.
+
+A passage’s being a reworking of a passage from earlier in the scroll neither indicates nor precludes its coming from Jeremiah.
+
+A passage’s being a reworking of a passage from another prophetic scroll need not preclude its coming from Jeremiah.
+
+When the prophecies in Isa 40–55 talk to their audience about Cyrus the Great as a figure of the present, it is one of the concrete indications that the authorship of Isa 40–55 can be distinguished from the work of Isaiah ben Amoz and that the chapters come from a later century. There are no parallel concrete indications of later authorship in Jer 50–51 (or elsewhere in the Jeremiah scroll).
+
+
+
+The chapters’ not suggesting criteria for distinguishing between Jeremiah’s words and the words of his curators is one reason why scholars come to different conclusions regarding which are which. Fortunately, the messages’ authorship need not make a difference to their meaning, and they are intelligible without our being able to identify their author. I am therefore agnostic on the question of authorship, here as elsewhere in this commentary, and in referring to “Jeremiah,” I conflate the actual Jeremiah and whoever may be channeling him.
+
+One lack that generates uncertainty about the messages’ origin is that Jer 50–51 does not have dates or other historical references, unlike the preceding messages to Kedar/Hazor and Elam. This feature raises the question whether “Babylon comes to represent more than the historical Babylon and becomes here the ultimate enemy of YHWH, the entity that stands under an almost cosmic judgment,”134 which could then be a factor in the development of awareness of and study of the problem of evil in the Hebrew Bible.135 This fact might link with the absence of any prospect for Babylon’s restoration to parallel the promise of restoration for, for example, Egypt and Moab.
+
+On the other hand, the chapters do refer concretely to the Medes and related peoples (51:11, 27–28), and Babylon’s coming to represent something beyond the historical Babylon may be more an aspect of the chapters’ reception over the centuries than part of the meaning they would have had for Jeremiah, his curators, and the people who first heard the scroll read. This reception includes the influence of Jeremiah in the New Testament, with its references to Babylon, and in particular its expectation that God will put down Rome. That contemporary Babylon will drink from the chalice full of Yahweh’s anger, will fall cataclysmically, and will be turned into a place where demons dwell and into one haunted by all kinds of unclean birds (Rev 18:2). “The event so dramatically portrayed in chapters 50–51 was the necessary prelude to the historical future for Judah that had been promised in chapters 30–33. And similarly, the event portrayed in Revelation 18, in language richly borrowed from Jeremiah, is the necessary prelude to the eternal future for the whole creation that we glimpse in Revelation 21–22.”136
+
+In the dynamic of the first half of the Jeremiah scroll, the prophet speaks initially of an unidentified aggressor from the north who will bring Jerusalem’s downfall (e.g., 1:13–15; 3:18; 4:6; 6:1, 22) and only later names Babylon as the aggressor (20:1–6). Jeremiah 50–51 manifests a parallel dynamic. Initially, the chapters speak solely of an aggressor from the north who will bring Babylon’s own downfall (50:3, 9, 41); only later do they name names (51:11, 27–28). The Medes had arisen to great power status in the region during the same period as the Babylonians, and the two powers had worked together to encourage the downfall of Assyria. From the late seventh century they then coexisted, with the Median empire extending in an arc northwest, north, northeast, and east of the Babylonian Empire. During the period after Babylon became Judah’s de facto overlord (beginning, say, after Nebuchadrezzar’s victory in the Battle of Carchemish in 605), it would thus take no great political acumen or divine revelation to work out that if anyone was going to put down the Babylonians, it could be the Medes. When it happened, in the mid-sixth century, Cyrus the Great was able to combine the Median and Persian empires, and it was they that in due course put paid to Babylon. While some of the messages in Jer 50–51 may then derive from prophets who were channeling Jeremiah, their referring only to the Medes and not to the Persians is one pointer suggesting that these poems come from the period before the Medo-Persian empire became a reality. The references to Ararat, Minni, and Ashkenaz (51:27) also make sense in the context of the early or mid-sixth century and not later.137
+
+The coda to the chapters in 51:59–64 does specifically date Jeremiah’s original Babylon scroll in 594, three years after the first plundering of the temple and the first exile of Judahites to Babylon. Although Jeremiah wrote this scroll in order to have it thrown into the Euphrates, the reference to all these words (51:60), words that still exist, implies that he produced a second copy, as he did of the 604 scroll. The story of his writing the scroll implies that he had been speaking about the destiny of Babylon and about the significance of that destiny in connection with the future of Judah for some years up until 594. This statement fits with the unsurprising fact that Jer 25 has him speaking of these questions in 604, when Babylon had just become the imperial power and Nebuchadrezzar had just become its king. Over the next twenty years, until we lose track of Jeremiah in Egypt, it would be surprising if he did not have further things to say about these questions, and not surprising if he or his curators added them to any scroll he compiled in 594. Indeed, a number of the units in Jer 50–51 imply that the fall of Jerusalem has happened, though the interpretation of these statements is tricky and they may be anticipatory references to that event. This latter possibility is supported by the messages’ ability also to speak as if the fall of Babylon has happened. Such messages seem to be anticipatory references to a future event. They speak in vividly imagined terms that suggest no knowledge of what actually happened in 539, as they show no awareness of Persia being on the horizon and do not compare with the passages about Cyrus in Isa 44–45. The final dated event to which the Jeremiah scroll refers is the release of Jehoiachin in 562, but it does then refer to “all the days of his life” after that release, which might imply some passage of time (it also refers in 52:11 to the day of Zedekiah’s death, but it gives no indication of whether it had happened). One might then hypothesize that the 550s or 540s are the period in which Jer 50–51 reached its final form.138
+
+The question of dates links with another aspect of the scroll’s contents. There is a contrast between Jeremiah’s message about Babylon and Nebuchadrezzar in Jer 50–51 and Jeremiah’s elsewhere seeing Nebuchadrezzar as Yahweh’s servant and requiring Judah to submit to Babylon (e.g., Jer 27–29). This contrast is a wide-canvas version of his combining the two attitudes in the same context in Jer 25. There, too, he spoke of Nebuchadrezzar as Yahweh’s servant, but also of Yahweh as planning in due course to “attend to” the Babylonians, make them drink a chalice full of divine wrath, and turn their country into a wasteland. Yahweh’s double attitude corresponds to the two sides he expresses in connection with Assyria in Isa 10:5–19.139 In speaking of Babylon in Jer 27–29, too, he “repeatedly anticipates that city’s demise.”140 Theologically, there is no tension between Jeremiah’s urging a policy of submission to Babylon in Jer 25 and promising that Yahweh will take redress on Babylon in Jer 50–51. And whereas 29:10 has Jeremiah saying that Babylon would fall after seventy years while 51:33 has him say that it will happen in yet a little while, one cannot press the significance of that latter phrase (compare Isa 10:25; 26:20; 29:17; Hagg 2:6–7; and similar tensions within the New Testament), or, for that matter, of the former.
+
+Pragmatically, however, there is a tension between the two aspects of the message attributed to Jeremiah, a tension that itself has two facets. It is misleading to speak of Jeremiah’s stance in that other context as pro-Babylonian, even if pro-Babylonian politicians in Jerusalem could claim his support for their policies. It “reduces the whole issue to a shallow and simplistic level of political alignment, as if Jeremiah was simply the pawn of one of the squabbling factions in Jerusalem.”141 On the other hand, the public proclamation of prophecies such as the ones in Jer 50–51 would hardly have issued in “honourable treatment under the patronage of the empire” (39:12–14; 40:4–6).142 But maybe we should not assume that Babylon took that much notice of the rantings of a small-time prophet whom Judah itself did not take seriously. It is perhaps more problematic that the proclamation of these messages to the Judahite communities either in Jerusalem or in Babylon in the years leading up to 587 would surely compromise the effectiveness of the message that Jeremiah otherwise preaches in Jer 27–29 and elsewhere.143 It would make him sound like Hananiah.144 This consideration might support the assumption that 51:59–64 does not imply a public reading of this scroll (see the commentary there). It would fit 51:59–64 if the series of messages were chanted as a form of prayer or as something like a curse that might be Yahweh’s means of implementing the calamity of which they speak.145 If we should not assume that Jer 50–51 reflects Jeremiah’s public preaching in the decades up to 587, nevertheless it does suggest the aim of communicating with Judahites, perhaps in congregational meetings in Judah or Egypt or Babylon after 587 (50:5 pictures Jeremiah delivering that message in Jerusalem).
+
+The Prophet adopts various modes of speaking, and not without reason, because he had to thunder rather than to speak; and then as he spoke of a thing incredible, there was need of no common confirmation; the faithful also, almost pining away in their miseries, could hardly entertain any hope. This is the reason why the Prophet dwells so long and so diffusely on a subject in itself not obscure, for there was not only need of amplifying, but also of great vehemence.146
+
+Behind Jeremiah’s various modes of speaking, one can perceive a number of modes of speaking from the community’s everyday life, with which the audience would be familiar and which supports the assumption that ultimately the messages were designed for the Judahites to hear. There will be varying relationships between the way these forms of speech worked in everyday life and the way the prophet has adapted and transformed them. A message may thus adopt and adapt a form such as
+
+an announcement by a messenger bringing news of distant events (e.g., 50:2);
+
+an announcement or warning by a prophet about coming political events, with advice about the necessary action (e.g., 50:3, 8–10, 41–46; 51:6–10, 45–58);
+
+a promise given by a priest or prophet in response to a plea from their people (e.g., 50:4–7, 17–20, 33–34; 51:34–44);
+
+a confrontation or warning by a prophet or priest, given in connection with people’s wrongdoing (50:11–13);
+
+a commission by a commander-in-chief to his army (50:14–16, 21–32; 51:1–5, 11–14, 20–28);
+
+a curse uttered by a priest or prophet (50:35–40);
+
+and a praise song (51:15–19).
+
+
+
+The messages thus cover topics such as threats to Babylon, commissions of attackers, and promises to Israel, but as with the rest of the Jeremiah scroll, the arrangement is not systematic. The curators do not put together all the threats or all the promises or all the treatments of a particular theme. While on occasions they juxtapose messages that speak in similar ways, at other points the arrangement seems random. In this respect, the unit compares with chapters such as Jer 2 and Jer 48. I infer that the curators sometimes juxtaposed messages that went well together and were mutually illumining but sometimes simply fitted things in where they could or worked with already existent smaller collocations. One can discern some points at which the chapters bring together related material:
+
+50:2–20 gives prominent attention to the restoration of Ephraim and Judah and interweaves this theme with the provision of reasons for Yahweh’s action against Babylon.
+
+50:21–32 comprises three commissions to Babylon’s attackers and provides a number of reasons for Yahweh’s action that relate to Yahweh himself rather than to Israel’s needs or destiny.
+
+50:33–46 comprises threats of Babylon’s fall that work especially by restating prophetic messages appearing elsewhere in the Jeremiah scroll or in other prophetic scrolls.
+
+51:1–33 is a more miscellaneous collection, perhaps framed by the introductory and closing “Yahweh has said this” statements; I have treated it as two compilations, with the song of praise in vv. 15–19 forming a climax to the first and the dramatic apostrophe in vv. 20–23 opening the second.
+
+51:34–44 is a protest by Zion about Nebuchadrezzar’s treatment of it and a response by Yahweh.
+
+51:45–58a comprises two exhortations to leave Babylon and two sets of reasons based on the fact that “days are coming.”147
+
+
+
+The emphases of the chapters are:148
+
+Yahweh intends to put Babylon down himself; he assures the Judahites that imperial power and oppression will not last forever (50:2–3, 23, 39–40; 51:25–26, 41–43, 54–58).
+
+He will thereby show who is really God and expose the powerlessness of the Babylonian gods and the images that represent them (50:2, 34, 44; 51:17, 47).
+
+Given that he works in the world and works through human agencies, he will act by military means using the nations and armies of the region (50:3, 9, 41–43; 51:1–3, 11–12, 27–28).
+
+He will take redress on Babylon for its wrongdoing in relation to him (50:11, 14–15, 24, 28, 29–32; 51:11, 24).
+
+As one who “acts on behalf of those who cannot defend themselves,”149 he will treat Babylon the way Babylon treated Israel and other nations—and the way he himself treated Israel (50:15, 22–23; 51:35–36, 49).
+
+He intends to enable Ephraim and Judah to return to Yahweh, to Zion, and to their land (50:4–7, 17–20, 33–34; 51:10).
+
+Given that “there is a time to settle and a time to flee,”150 Jer 29 represented the first “time,” but Judahites now need to be willing and ready to leave Babylon (50:8; 51:6, 45, 50).
+
+
+
+Near the end of the two chapters comes a protest prayer of Judah’s and a response from Yahweh promising action (51:34–44).
+
+But, even when it is implicit, both compositions are a series of impassioned responses to equally impassioned grievances. The whole is a testimony that “God heard their groaning … and God took notice of them” (Exod 2:24–25). It was to be heard by those who pleaded for the punishment of their oppressors, as in Ps 83:9–17(10–18). The promises of homecoming in ch. 50 correspond to the petitions, “Do good to Zion in your good pleasure; rebuild the walls of Jerusalem,” in Ps 51:18(20). The promises of the people’s vindication in ch. 51 correspond to the wish in Ps 79:10, “Let the avenging of the outpoured blood of your servants be known among the nations before our eyes” (cf. Ps 58:10[11] and esp. 137:8 concerning Babylon). And the promises of Yahweh’s own vindication, also in ch. 51, implicitly answer laments that Judah’s God, too, had suffered loss amid Judah’s suffering, as Pss 74:4–8 and 79:1 protest…. A host of grief-stricken prayers find their divine amen in chs. 50–51.151
+
+Indeed, “a good liturgy of the events of the sixth century would read 50–51 after the reading of the book of Lamentations.”152
+
+
+
+
+
+2. The Fate of Flock, Lions, and Shepherds (50:2–20 [LXX 27:2–20])
+
+
+2Tell among the nations and make it heard,
+
+lift up a banner and make it heard. a
+
+Do not conceal, say:
+
+“Babylon has been captured.
+
+Bel has been shamed, Merodach shattered,
+
+its idols shamed, its fetishes shattered.” b
+
+3Because a northern nation is going up c against it—
+
+that one will make its country into a desolation. d
+
+There will be no one living in it—
+
+human being and animal alike e are fleeing, going. f
+
+4In those days and at that time (Yahweh’s affirmation): g
+
+The Israelites will come,
+
+they and the Judahites together.
+
+Crying as they go, h they will go,
+
+and Yahweh their God they will have recourse to.
+
+5To Zion they will ask the way,
+
+their faces toward here: “Come!” i
+
+They will join themselves to Yahweh in a pledge for all time
+
+that will not be put out of mind. j
+
+6A flock that were lost, my people became k—
+
+their shepherds led them astray.
+
+On the mountains they turned them back l—
+
+from mountain to hill they went.
+
+They put their resting-place out of mind—
+
+7all the people who found them consumed them.
+
+Their adversaries said:
+
+We will not incur liability, m
+
+on account of the fact that they did wrong toward Yahweh,
+
+the faithful habitat, their ancestors’ hope, n Yahweh. o
+
+8Flee p from within Babylon,
+
+from the country of Chaldea, get out, q
+
+be like the he-goats before the flock.
+
+9Because there, I am stirring,
+
+getting to go up r against Babylon,
+
+An assembly of big s nations
+
+from a northern country.
+
+They will line up in relation to it—
+
+from there it will be captured.
+
+Its arrows will be like those of a bereaving t strong man—
+
+they will not turn back empty.
+
+10Chaldea will become spoil—
+
+all its spoilers will be full (Yahweh’s affirmation). u
+
+11Because you celebrate, because you are merry, v
+
+you plunderers of my domain,
+
+Because you jump like a heifer threshing, w
+
+bellow like stallions, x
+
+12Your mother is being greatly shamed,
+
+the one who gave birth to you is being confounded. y
+
+There, the end of the nations:
+
+wilderness, desert, and steppe. z
+
+13Because of Yahweh’s fury it will not live; aa
+
+it will become a desolation, all of it.
+
+Everyone passing by Babylon will be desolate
+
+and will whistle at all its wounds.
+
+14Line up against Babylon all around,
+
+all you who direct bb the bow.
+
+Shoot at it, don’t spare an arrow,
+
+because it has done wrong in relation to Yahweh. cc
+
+15Shout against it all around; dd
+
+it is giving its hand.
+
+Its towers are falling, its walls are smashing,
+
+because it is Yahweh’s redress. ee
+
+Take redress upon it;
+
+as it did, do to it.
+
+16Cut off sower ff from Babylon,
+
+and the one who seizes the sickle at harvest time.
+
+In the face of the oppressor’s gg sword,
+
+an individual to his people, they will turn their face;
+
+an individual to his country, they will flee. hh
+
+17Israel is a sheep that was detached,
+
+that lions have driven away.
+
+First the king of Assyria devoured it,
+
+and this was the end:
+
+Nebuchadrezzar ii king of Babylon got its bones. jj
+
+18Therefore Yahweh of Armies, the God of Israel, kk has said this:
+
+Here am I, attending
+
+to the king of Babylon and to his country
+
+as I attended to the king of Assyria.
+
+19And I will return Israel to its habitat,
+
+and it will pasture in the Carmel and the Bashan. ll
+
+In the highland of Ephraim and the Gilead mm
+
+its appetite will be full.
+
+20In those days and at that time (Yahweh’s affirmation): nn
+
+It will be sought, the waywardness of Israel, oo but there will be none,
+
+and the wrongdoings of Judah, but they will not be found,
+
+because I will pardon whomever I let remain. pp
+
+a. LXX lacks this colon.
+
+b. LXX has a distinctive version of this line; D. J. Reimer notes it as one where MT may manifest a hardening attitude toward Babylon (The Oracles against Babylon in Jeremiah 50–51 [San Francisco: Mellen Research University Press, 1993], 135–36, 152).
+
+c. The qatal verb is now anticipatory, a usage related to the declarative/performative (see the introduction to 13:18–22, pp. 354–55; see also 1:5 and the translation note on it). The usage recurs in vv. 12 and 15.
+
+d. The asyndeton and the word order with the subject preceding the verbs suggest that this colon is subordinate to the previous one. So also in vv. 3b, 6–7 (3×), 9, 10.
+
+e. Lit. “from human being even to animal.”
+
+f. On this verb, see note p. LXX lacks fleeing, going.
+
+g. LXX lacks (Yahweh’s affirmation).
+
+h. Lit. “going and crying” (two infinitives).
+
+i. For MT bōʾû, LXX, Vg, Aq, Tg imply varying easier readings.
+
+j. MTL has a section marker here.
+
+k. The qere has plural, the ketiv singular.
+
+l. The qere has a qatal verb, šôbәbûm; the ketiv implies the adjective šôbābîm (“turning back”), as in 3:14, 22.
+
+m. LXX “we will not forgive them” suggests the verb nāśāʾ rather than ʾāšam.
+
+n. And/or their well; see P. J. P. Van Hecke, “Metaphorical Shifts in the Oracle against Babylon (Jeremiah 50–51),” SJOT 17 (2003): 71–73.
+
+o. LXX lacks Yahweh. MT has a section marker here.
+
+p. Whereas one would expect nudû (from nûd) to mean “wander,” that meaning does not lead well into the decisiveness implied by the next two cola; some occurrences of nûd seem to treat it as a byform of nādad, which makes better sense here (9:10[9] has nādad).
+
+q. The verbs come at either end of v. 8a, which has an a-b-b′-a′ pattern. For the qere’s imperative ṣēʾû, the ketiv implies jussive yēṣәʾû (“they are to get out”).
+
+r. LXX lacks getting to go up.
+
+s. LXX lacks big.
+
+t. For MT’s maškîl (cf. Vg, Aq), LXX, Sym imply maśkîl (“insightful”).
+
+u. LXX lacks (Yahweh’s affirmation).
+
+v. The ketiv has feminine singular verbs throughout v. 11.
+
+w. For MT dāšâ from the verb dûš, LXX, Vg imply dešeʾ (“[on] grass”).
+
+x. The simple waw suggests two simultaneous actions.
+
+y. LXX’s “your mother for good” is a puzzle; HUBP considers approaches.
+
+z. LXX lacks desert and steppe.
+
+aa. See the translation note on 17:25.
+
+bb. See the translation note on 46:9.
+
+cc. LXX lacks this colon.
+
+dd. LXX lacks all around.
+
+ee. Tg has “Yahweh’s people’s redress,” and it might indeed give Judah some satisfaction to see that Babylon goes through the experience of destruction that Jerusalem went through, but Jeremiah does not think in these terms, and neither does Judah take the redress. Yahweh takes the redress (through the northern army) for what Babylon did in relation to him.
+
+ff. For MT zôrēaʿ (cf. Aq, Sym), LXX “seed” implies zeraʿ.
+
+gg. For MT yônâ, LXX has “Greek,” implying yәwāniyyâ (cf. 46:16).
+
+hh. MT has a section marker here.
+
+ii. LXX lacks Nebuchadrezzar.
+
+jj. MT has a marker here.
+
+kk. LXX lacks of Armies, the God of Israel.
+
+ll. Tg appropriately paraphrases “a fruitful and fat land.” LXX lacks and the Bashan.
+
+mm. For Tg’s rendering (“the sanctuary”), 22:6 provides the background (C. T. R. Hayward, The Targum of Jeremiah: Translated, with a Critical Introduction, Apparatus and Notes, The Aramaic Bible 12 [Edinburgh: T&T Clark, 1987], 181).
+
+nn. LXX lacks (Yahweh’s affirmation).
+
+oo. This phrase has the object marker as if it were the object of the passive verb.
+
+pp. LXX continues, “in the country, says the Lord.” MTA has a unit marker here.
+
+Verses 2–20 comprise a sequence of six messages that were originally independent. Two features are distinctive of this first sequence. One is the prominence it gives to the restoration of Ephraim and Judah, which it does not directly link with the fate of Babylon, but which does implicitly link with it. That restoration means something physical, material, and geographical; it also means a restoration of the people’s relationship with Yahweh and with each other. The other distinctive feature is Yahweh’s reasons for bringing calamity on Babylon. The calamity will mean the exposure of their idols’ powerlessness; it will also be an act of redress for their plundering Yahweh’s own domain in Canaan and enjoying doing so.
+
+vv. 2–3
+
+Yahweh’s commissioning an announcement of Babylon’s fall (five bicola)
+
+
+
+vv. 4–7
+
+Yahweh’s promise that Israel will return to him and to its country (an introduction, seven bicola, a resumptive introduction, and a closing tricolon)
+
+
+
+vv. 8–13
+
+Yahweh’s urging people to leave Babylon in light of its coming capture and his confrontation of Babylon itself (an introductory tricolon, two linked bicola, three bicola, and three sets of three bicola, the middle set being linked)
+
+
+
+vv. 14–16
+
+Yahweh’s commission to Babylon’s attackers (six bicola and a closing tricolon)
+
+
+
+vv. 17–19
+
+The background and Yahweh’s declaration of intent (a bicolon and a tricolon; then a resumptive introduction, an opening tricolon, and two bicola)
+
+
+
+v. 20
+
+A promise that Israel’s waywardness will not be a problem in the future (an introduction and a tricolon)
+
+
+
+2 The opening lines summarize the main point of Jer 50–51. As is often the case in Jer 46–51, the prophet issues a commission whose speaker and addressees are unnamed, though the curators’ introduction in v. 1 implies that we should assume Yahweh to be the speaker. The addressees are not military figures who are to implement Yahweh’s intention, as they were in 49:28 and 31, but messengers who are to announce that this decision has been implemented. So Yahweh invites Jeremiah’s actual hearers to imagine that the fall of Babylon has happened. These actual hearers are presumably Judahites in Jerusalem or Egypt, or in Babylon itself. They are to imagine the messengers hastening from Babylon around its empire to tell people the news. Whereas lifting up a banner or standard would be a literal reality in connection with commissioning an army, here it is a figure of speech—messengers do not literally lift up a banner. It is an image for making the news publicly available in a context where Babylon itself might like to conceal it; that verb is a litotes. There is another level to the figure of speech. In reality, the fall has not yet happened, so the talk of lifting a banner and making something heard and not concealing it suggests both the image of actual messengers who will one day announce Babylon’s fall when it has actually happened and the paradoxical idea that the certainty of Babylon’s fall needs to be proclaimed now, among the Judahites; it needs to be believed in by the message’s actual audience. “Let all take notice of the good news; there shall be a general jail delivery.”153
+
+There are two aspects to the news that will eventually be announced. First, there is the news that Babylon itself has been captured—which raises the questions of how and by whom. But before we get a sort-of answer to those questions, Yahweh moves on to a corollary that is at least as important: Bel has been shamed, Merodach shattered. Bel is named in the First Testament only here, in 51:44, and in Isa 46:1, each time in a similar context (Bel appears further in LXX in its version of Daniel and in the Letter of Jeremiah). Merodach appears only here, though his name features in compound names (e.g., 52:31); it forms an alternative way of pronouncing the god conventionally referred to in English as Marduk. Both Merodach and Bel refer to the supreme Babylonian god, the supreme god of the Babylonian world by virtue of being the supreme god of the imperial capital. Strictly speaking, Merodach is a name while Bel is a title related to ba‘al; it also means “master.”154 When Jerusalem fell, Yahweh seemed to have been defeated and shamed. The fall of Babylon will mean that Marduk has been defeated, shamed, and shattered. He will not have been able to defend his city. The three verbs captured, shamed, and shattered came together in regard to Moab in 48:1; the latter two verbs came together in 8:9; 48:20, 39. These two apply both to the god himself and to the images that represented him. Idols and fetishes come only here in Jeremiah. Idols (ʿāṣāb) is a word Hosea likes; fetishes (gillûlîm) comes mostly in Ezekiel. Both are potentially mean words: etymologically idols suggests at best something manufactured, at worst something causing pain and toil; fetishes at best suggests mere blocks of wood, at worst lumps of feces. In Hebrew as in English, shattered (ḥātat) can nicely refer both to a physical shattering (e.g., 14:4) and to an inner shattering (e.g., 1:17; 17:18). Likewise, shamed can denote both a public shaming by events and an inner shaming that internalizes the public shaming. And there is a mutual interplay between what happens to the god and to his images. The god is emotionally or mentally shattered, or should be, as his image is physically shattered; and the idol is shamed as the god whom it allegedly represents is shown to have no reality that corresponds to his reputation.
+
+3 Jeremiah makes a transition to speaking overtly about the future (see the translation note), and at last there comes some sort of explanation of who will have captured Babylon and will have thereby shamed and shattered it and its god. It is only a sort-of explanation, because it names no names, as 51:11, 27–28 will eventually do. With some irony, the conqueror is simply designated as someone from the north, which was Jeremiah’s description of Jerusalem’s conqueror until he eventually named Babylon. As the dynamic in Jer 50–51 parallels that in Jer 2–20, Babylon becomes Judah’s doppelgänger.155 Its coming devastation will correspond to that of Judah and other threatened peoples (see, e.g., 2:15; 33:10; 49:13, 33; see the commentary there). Now, “the new ‘foe from the north’ makes the old ‘foe from the north’ helpless, wretched, and devastated.”156 Geographically, it would be even clearer and more literal that Babylon’s attackers come from the north if they were the Medes than was the case with Judah and the Babylonians. But as was the case earlier, designating the conqueror as a northern nation is as much a symbolic as a geographical statement (see 1:14 and the commentary on it).
+
+4 Chronologically associated with the fall of Babylon, Ephraimites and Judahites will come to Zion. Indeed, when vv. 4–5 are heard “in tandem” with vv. 2–3, for Jer 50–51 “two main themes are put in bold relief.”157 One might say that “the entire ‘message’ of this literature is given in a nutshell in the first five verses.”158 Implicitly, there might be need for a causal link between the two events; for various reasons, a Judahite return from Babylon presupposes Babylon’s fall. But even more than the description of Babylon falling to an attack from the north, the description in vv. 4–7 is not just talking in down-to-earth terms about a return from exile. It works in a different framework—indeed, a series of different frameworks. First, it is talking about Ephraimites and Judahites together, like Jer 30–33. The background to Yahweh’s promise, then, is a vision of the destiny of the entire people of Israel and of a return of Ephraimites who had been transported by Assyria as well as Judahites who had been transported by Babylon. And together goes behind not only the exile that followed 722 but the split between the two peoples that happened two centuries previously. Crying also picks up from 31:9. In this context as in that one, crying does not denote simply sadness (cf. 22:10; 31:15; 48:32; though it may imply contrition, cf. Ezra 10:1) but a more mixed emotion—a response to something deeply moving and so marvelous that it seems too good to be true. People can have recourse to Yahweh in exile (29:13), but Jeremiah here speaks of a recourse to Yahweh associated with returning from exile.
+
+5 One reason is that Zion remains the place to which he made a special commitment (3:14; 8:19; 31:6, 12; four more references will follow in Jer 50–51). People are not going merely to Jerusalem, the city and the place where people live; they are going to Zion, the place where the temple is. Human beings like having special places where they can be sure of meeting with God, and Yahweh mercifully made Zion such a place. Actually, people are coming here: apparently Jeremiah and his audience are in Jerusalem.159 Another reason for referring to recourse to Yahweh in this connection is implicit in the prediction in v. 5b, which presupposes the collapse of the pledge that once obtained between Israel and Yahweh (see 11:1–17; on the image of a pledge, see the introduction to 11:1–17, pp. 315–16). It’s really scandalous to think that they will need to join themselves to Yahweh—that verb elsewhere refers to foreigners becoming worshipers of Yahweh (Isa 14:1; 56:3, 6; Zech 2:11[15]). But they will indeed need to. Jeremiah underlines the point by speaking of a pledge for all time (picking up from 32:40), unlike the pledge that Israel annulled. And he adds that it is one that will not be put out of mind, so that this phrase is attached to something much more pleasant than it previously was (20:11; 23:40). Will it not be put out of mind by Yahweh or by them? Either way, the rebellion that led to disaster and the disaster itself are not going to recur, ever.
+
+6 How did they come to be far away, and how did that pledge get annulled, and how did they cease to be joined to Yahweh and to become like foreigners? Israel, my people, are a flock, but they became a flock that were lost. How could it have happened? Because their shepherds, the kings, priests, and prophets, led them astray. They took them over mountain and hill, which ought to be no problem, because the hillsides are where the pasture is, but here the mountains stand for the shrines, the “high places,” which were often at elevated positions on hills and mountains. Thus the flock put out … of mind (that verb again) their resting-place. The term denotes the abode where (for instance) sheep can sleep safely (e.g., Isa 65:10), which in the allegory denotes the Zion to which they are now returning.
+
+7 The consequence of the sheep abandoning their safe resting-place is that they can be caught, killed, and eaten. To be less allegorical, Israel was vulnerable to adversaries such as Assyria and Babylon. Jeremiah invites his audience to imagine these adversaries defending their action with complete plausibility. To use Jeremiah’s expression, they were acting as Yahweh’s servants; no guilt can attach to their action. The guilt is Israel’s for abandoning Yahweh, whom Jeremiah imagines the adversaries describing in two telling images. Yahweh is their faithful habitat, another expression taken up from Jer 30–31 (see 31:23 and the commentary on it). Jeremiah transfers the image from Zion to Yahweh himself. And he adds that Yahweh is the people’s hope (cf. 14:8; 17:13)—their ancestors’ hope and therefore one who they know can be taken as their hope, if they think about their ancestors’ story. Jeremiah portrays the Babylonians as understanding things that Israel has not yet understood—both the reality of their wrongdoing and the reality and nature of their God.160
+
+8 Placed here, this exhortation takes up from vv. 2–7 in several ways: it issues some urgent imperatives to some unnamed addressees, like v. 2; it does so in connection with the coming fall of Babylon to a force from the north; it speaks of Babylon’s shame; and it takes up the image of a flock. Out of its context in the scroll, the addressees might be any people (at least, any foreign people) in Babylon—its function would then be simply to underline the magnitude and the certainty of the city’s fall. In its context in the scroll, it puts pressure on Judahites who are quite settled and happy in Babylon (cf. Isa 48:20). Yahweh urges them to leave, as his agents once urged Lot and his family to leave Sodom (Gen 19).161 Perhaps the macho he-goats are the first to push their way forward when the shepherd lets the flock out from its pen. Perhaps the idea is that people should not be looking over their shoulder to see if someone else is on the move.162 Tg takes the exhortation to imply that they should be like officers at the head of the people, “strutting without fear or fright.”163
+
+9–10 Stirring (ʿûr hiphil) is the First Testament’s common verb for the arousing of a major power to take action against Babylon (e.g., Isa 13:17; 45:13). It will actually be an assembly of big nations, a collaboration of peoples (Medes, Persians), who will put Babylon down. Here, Yahweh describes how they will line up as an army so that the city will be captured (cf. v. 2). In a grisly image, the archers are like hunters whose arrows will certainly hit their target. So will warriors turn wives into widows and children into orphans. Thus the people of Chaldea, the former spoilers, will become spoil.
+
+11–12a The people who will become spoil (v. 10) are the people who currently celebrate being plunderers of my domain (naḥălâ; see the commentary on 2:7). It will be so even while they claim they are only doing what their victims deserve (v. 7). So they are further victims of poetic justice. Jeremiah’s vivid imagery for their celebratory plundering (v. 11b) is his way of making the point that Isa 47:6 makes in the context of a different vivid image. Yes, when their mother city is defeated, it will be shamed and confounded.
+
+12b–13 The unique expression the end of the nations links by contrast with Babylon’s being the head of the nations (31:7). Hebrew has no word for “empire,” and nations sometimes functions as such a word would; this connotation makes sense here. Jeremiah is proclaiming the end of the Babylonian Empire in wilderness, desert, and steppe, the kind of grim landscape that Yahweh once had to bring Israel through (2:6). As in v. 3, the development of this description in v. 13 reuses standard descriptions of disaster that have already applied to Judah (e.g., 4:27; 19:8).164
+
+14–15 Another originally separate message begins again with imperatives, this time the kind addressed to unnamed warriors; eventually Jeremiah will tell us that the implementers of these commands will be the Median army, but at the moment they are anonymous. He develops the figure of commissioning attackers in a sustained way through six of the seven lines that comprise the message, and in doing so broadens the nature of the exhortations. Three cola urging on the bowmen dominate v. 14, but the fourth colon repeats the charge from v. 7 (where it was an excuse). The next verse has overlapping dynamic. First, three cola issue an exhortation to fighters generally; the second and third describe the victory that is unfolding. Giving its hand is elsewhere a term for committing oneself or making a pledge, like “shaking hands” in English, though from a position of weakness (e.g., Ezek 17:18; Lam 5:6).165 Jeremiah is imagining Babylon making alliances to defend itself against the coalition of attackers that previous verses have described—as (ironically) Assyria made alliances when the Babylonians and Medes (!) were attacking it. The fourth colon is then another because clause, a corollary of the preceding because colon. Babylon has done wrong in relation to Yahweh (v. 14); so Yahweh will take redress (see the commentary on 5:9). Redress involves more poetic justice. The punishment is to fit the crime.
+
+16 A further bidding expresses vividly though more abstractly an aspect of the recurrent threat regarding the devastation of cultivated land (e.g., v. 12). In keeping with the rhetoric of vv. 14–15, Yahweh again issues a commission to Babylon’s attackers, this time to cut off the people involved in agriculture. The first line covers the two ends of their work, sowing and harvesting, and thus implicitly everything that happens in between. Cutting off could mean killing, but the second line implies that wise farmworkers will evade slaughter. Much agricultural work in Babylonia was undertaken by foreigners whom Babylon had transported, Judahites included, and they will be able to recognize the moment when it is wise and possible to flee home.
+
+17 The message in vv. 17–20 again picks up the sheep image from vv. 6–7 and 8–10, but once more it takes it in a different direction. Israel is now not the victim of its own shepherds nor the flock hightailing it out of Babylon but the single victim of Assyrian and Babylonian lions. The double identification of the attackers underlines how Israel here refers to the one nation, notwithstanding its division into Ephraim and Judah. The point is further underscored by its being called a single sheep—or goat; the word (śeh) can refer to either. Either way, in the First Testament and in material reality, a single sheep suggests vulnerability. Here the single sheep became detached from the flock and came to be at the mercy of several lions.166 One cannot press the metaphor to establish what is the flock here, though the implication may be that the Israelites thought they had been treated harder than people such as Edom, Moab, and Ammon. The point Jeremiah makes is rather the grizzly picture of its first being vulnerable to Assyria, who essentially devoured it, then to Nebuchadrezzar, who chewed its bones.
+
+18–19 Yahweh has already attended to the king of Assyria; he will do the same to the king of Babylon and to his country. Once again, the country that benefits from its leader’s actions also pays the price for them. But the point about the threat is that it will enable Israel (again Jeremiah refers to the entire nation) to return to its habitat. This term regains its more literal reference (contrast v. 7), one especially appropriate in the context of the sheep image. The reference is spelled out in the parallel cola with their allusion to pasture. Metaphor also returns in the naming of the four great fertile regions, which are not especially literal pasture, but for literal Israel they will be indeed places where its appetite can be full.
+
+20 Again picking up the dynamic of Jer 30–31, a further promise adds relational provision to material provision, in keeping with the principle that both are required in connection with human need and divine care. The messages in vv. 2–19 have made clear that Israel’s sufferings stem from its waywardness. There is some subtle ambiguity about the promise. Is there no waywardness to be found because all waywardness will be pardoned? Or is the promise that no waywardness will be manifested, as a result of the creative potential of being pardoned and restored? The latter logic might fit 31:31–34.
+
+
+
+
+
+3. Challenges That Yahweh Accepts (50:21–32 [LXX 27:21–32])
+
+
+21Against the country—Double Bitterness: a
+
+go up against it,
+
+and toward the people who live in Attention. b
+
+Put to the sword and devote c after them d (Yahweh’s affirmation);
+
+act in accordance with all that I have ordered you. e
+
+22The sound of battle in the country, f
+
+a great breaking!
+
+23How g it h is splitting and breaking, i
+
+the hammer of the entire earth!
+
+How it is becoming a desolation,
+
+Babylon among the nations!
+
+24I am trapping you, j yes, you are being captured, Babylon,
+
+but you yourself do not acknowledge it.
+
+You are being found, yes, you are being seized,
+
+because against Yahweh you issued a challenge.
+
+25Yahweh is opening his store
+
+and getting out his instruments of condemnation.
+
+Because that is the work of the Lord Yahweh of Armies k
+
+in the country of Chaldea.
+
+26Come to it from end to end, l
+
+open up its granaries.
+
+Pile it up like heaps m and devote it—
+
+there is not to be a remainder of it.
+
+27Put all its bullocks n to the sword—
+
+they are to go down to the slaughter!
+
+Oh, them, because their day is coming,
+
+the time of their being attended to! o
+
+28The sound of people fleeing and escaping
+
+from the country of Babylon,
+
+To tell in Zion of the redress of Yahweh our God,
+
+redress for his palace. p
+
+29Make it heard toward Babylon to archers, q
+
+all who direct a bow!
+
+Camp against it all around—
+
+there must not be r people who escape.
+
+Recompense it in accordance with its deed—
+
+in accordance with all that it did, do to it.
+
+Because it was arrogant in relation to Yahweh, s
+
+to Israel’s sacred one.
+
+30Therefore its young men will fall in its squares;
+
+all its men of battle will become still t
+
+on that day u (Yahweh’s affirmation). v
+
+31Here am I toward you, arrogance (an affirmation of the Lord Yahweh of Armies w),
+
+because your day has come,
+
+the time when I am attending to you. x
+
+32Arrogance will collapse and fall,
+
+with no one to lift it up.
+
+I will set fire to its towns y
+
+and it will consume everything around it. z
+
+a. The article on hāʾāreṣ works against the translation “the country of Double Bitterness” (Lundbom, Jeremiah 37–52, 402). LXX “bitterly” understands mәrāthaim adverbially.
+
+b. LXX takes pәqôd to mean “attend to.”
+
+c. On this verb, see the commentary on 25:9b.
+
+d. The elliptical expression generates assonance across three words, ḥarōb wәhaḥărēm ʾaḥărêhem (CTAT, 2:829).
+
+e. MT has a section marker here.
+
+f. LXX also has “of the Chaldeans.”
+
+g. See the commentary on 48:39.
+
+h. Tg interprets it as “the king,” but this requires some inference; the verb’s masculine gender may derive from the masculine word for hammer (paṭṭîš).
+
+i. The qatal verbs are again anticipatory (see the translation note on v. 2); there are further examples in vv. 23b–25 and 31.
+
+j. LXX has a third-person plural verb.
+
+k. LXX lacks of Armies.
+
+l. Miqqēṣ (lit. “from end”) elsewhere refers to time, but miqqāṣâ and miqqāṣeh can have the broader meaning (cf. 51:31; Gen 47:2; Ezek 33:2); Sym understands “all of you.” On the text of the colon, see CTAT, 2:829–31.
+
+m. For MT kәmô ʿărēmîm, LXX “like a cave” implies kәmô mәʿārāb; Vg “in heaps” implies bәmô ʿărēmîm.
+
+n. For MT pāreykā, LXX “its fruit” implies piryāh (LXX then derives the verb from ḥārēb, “be dry”). Tg appropriately paraphrases “its strong men.”
+
+o. MT has a section marker here.
+
+p. LXX lacks this colon.
+
+q. Whereas LXX, Vg, Tg give rabbîm its usual meaning, “many,” the parallel colon suggests “archers” (cf. Job 16:13).
+
+r. The qere presupposes the presence of lāh (“of it”), also, as in v. 26.
+
+s. Tg has “against the people of the Lord”; cf. the note on v. 15.
+
+t. See the translation note on 6:2.
+
+u. LXX lacks on that day.
+
+v. MT has a marker here. The verse is a slight variant on 49:26.
+
+w. LXX has simply “of the Lord.”
+
+x. The (anticipatory) qatal verb (see the translation note on v. 2) depends on the construct noun (GK 130d).
+
+y. For MT ʿārāyw (cf. Aq), LXX has “its forest” (implying yaʿărô) as in 21:14b, of which this line is a slight variant.
+
+z. MT has a section marker here.
+
+This second section of messages comprises three further commissions to Babylon’s attackers. The commissions compare with vv. 14–20, but they have two linked characteristics over against vv. 1–20. The section more or less gives up making any references to Israel; its focus lies simply on the catastrophe Yahweh intends to bring to Babylon. And it incorporates a number of reasons for this action on Yahweh’s part, whose rationale does not relate to Israel’s needs or destiny.
+
+vv. 21–25
+
+Yahweh’s commission is a response to Babylon’s challenge to him (an opening tricolon and eight self-contained bicola)
+
+
+
+vv. 26–28
+
+Yahweh’s commission concerns an act of redress in connection with his palace (six bicola, the last two linked)
+
+
+
+vv. 29–32
+
+Yahweh’s commission initiates a rebuke to Babylon’s arrogance (four bicola and a semi-closing tricolon, then a resumptive tricolon and two bicola)
+
+
+
+21 Yet again, Yahweh commissions an attacker against Babylon (this time the verbs are singular). It is the first occasion when Babylon is given a substitute name: Double Bitterness, or Merathaim. The name recalls the Babylonian place name Marratu, which suggests bitter water, but Jeremiah turns it into a Hebrew word that makes a comment on Babylon as a place characterized by double bitterness, like Judah: how dire and bitter (mar) had Judah’s behavior been (2:19). The name could also make people think in terms of “Double Rebellion” (“rebel” is mārâ); the words “rebel” and “bitter” came close together when Yahweh said that Judah has rebelled against me. … This is your direness, because it’s something bitter (4:17, 18). As we know already from v. 18, Babylon is therefore about to receive Attention (pәqôd) of an unwelcome sort (see v. 27). Here, too, Jeremiah takes up a Babylonian name, that of a tribe called Puqudu (which also appears in Ezek 23:23). So the doubly bitter/rebellious people is about to be attended to. The second line puts great emphasis on total annihilation: (a) put to the sword, (b) devote, which suggests elimination, and (c) in case there is any doubt, make sure you go after them and get the last of them. Don’t let there be any survivors. And in this connection, act in accordance with all that I have ordered you.
+
+22–25 Yet again Jeremiah imagines things happening, now in fulfillment of the commission in the previous verse, and he seeks to get the audience to imagine it. Babylon has been the hammer of the entire earth, but that hammer is now splitting and breaking. Then, rhetorically, Yahweh addresses Babylon itself, which brings the point home to Jeremiah’s Judahite audience in a new way: Yahweh has laid a trap for Babylon. It is being captured, and like an animal that walks into a trap, it doesn’t realize. As is the case with the Judahite leadership, “Something is happening here but you don’t know what it is, do you, Mr. Jones” (Bob Dylan; see the commentary on 14:18). How encouraged Judahites could be now by this “mock lament”!167 Jeremiah adds one of the occasional pieces of rationale that characterize this section: because against Yahweh you issued a challenge. Babylon thought it could assert itself against Yahweh—for instance, by invading his palace (v. 28). It is about to find that it was mistaken. Yahweh is getting out the weapons whereby he will give practical expression to his condemnation (see the commentary on 10:10). Such work does not come naturally to him; it is strange or alien (Isa 28:21). But in circumstances such as the present ones, it is the necessary work of the Lord Yahweh of Armies.
+
+26–27 In that connection, Jeremiah or Yahweh again reverts to commissioning destroyers. The prophecy seems at first to be speaking once more in terms of the country’s food supplies, with the commission leaping over the military attack to the aftermath; while an invading army commonly scoops up a country’s food supplies to feed itself, here the victors are commissioned to engage in pointless total destruction that will make ongoing life impossible. But the subsequent instruction to pile it up like heaps and devote it then suggests that the talk of granaries was a metaphor. It is Babylon itself that is to be piled up like grain and destroyed. Likewise, the bullocks stand for the nation’s warriors (cf. Isa 34:7; Ezek 39:18, which also talk about slaughter). Their day is a distinctive expression, but having a day of their own is not good news. It is the time of their being attended to. As the exclamation how (v. 23) can suggest either lamentation or satisfaction or both (it is “an ironic lament”),168 the exclamation oh (hôy) can signify either protest (22:13) or grief (22:18) but in this context may also suggest both (see the commentary on 22:13).
+
+28 One again has to be wary of literalism in interpreting Jeremiah’s hyperbole. If the northern army has annihilated the entire people, there are no fugitives escaping to Zion. But Jeremiah allows for such escapees, presumably Judahites, who are the means of again articulating that Yahweh’s action against Babylon counts as redress and here make concrete the reason for the redress and the nature of that challenge that Jeremiah referred to in v. 25. People cannot expect to attack the king’s or the King’s palace (on this word, see the commentary on 7:4) and get away with it. While it is to be expected that the redress will be a comfort to the Judahites, Jeremiah wants them to see it as a proper response to the Babylonians’ treating Yahweh with contempt. The assault on the temple might be that of 597 or 587, and might relate to the assault having actually happened or to the event that Jeremiah knows will happen.
+
+29–30 A third commission follows. Logically, it goes behind the preceding one and it has a particular focus. It begins with a commission to commissioners: that is, Yahweh bids his aides to go and tell the northern army’s archers to get on with their job of firing arrows at the city’s defenders to provide cover for the engineers building ramps and undermining gates and walls.169 Both archers and engineers will camp against it all around, but the focus lies on the archers, who are to form a vast company to surround Babylon in order that they can also make sure that no one escapes. Everyone will be shot. The commission’s burden thus parallels and amplifies vv. 26–27. It will be appropriate recompense for what the city itself did, which is now expressed in terms of being arrogant (see the commentary on 43:2). Its self-confident assertiveness clashes with Yahweh’s being Israel’s sacred one. Jeremiah uses the title conventionally translated “the holy one of Israel,” which is characteristic of the book of Isaiah but also occurs in Pss 71:22; 78:41; 89:18(19). You cannot mess with someone who is sacred; it provokes a response. In addition, Yahweh’s being Israel’s sacred one makes attacking Israel unwise, like invading his domain or palace. Underestimating him is unwise. Like Israel, Babylon has made this mistake and will pay the price.
+
+31–32 The scroll juxtaposes another message, taking up the theme of arrogance, which becomes a kind of title for Babylon.170 Babylon is arrogance incarnate and, yes, it is about to pay the price. “Arrogance typically has a short life.”171 Likewise, the message picks up the idea of people having their day, in the bad sense. It will be the time when I am attending to you (cf. v. 27).
+
+
+
+
+
+4. Threats That Yahweh Repeats (50:33–46 [LXX 27:33–46])
+
+
+33Yahweh of Armies a has said this.
+
+The Israelites are oppressed,
+
+and the Judahites, together.
+
+All their captors took strong hold of them b—
+
+they refused to send them off.
+
+34Their restorer c is strong—
+
+Yahweh of Armies his name.
+
+He will definitely argue d their case
+
+in order to give rest to the earth
+
+and to give unrest e to the people who live in Babylon.
+
+35A sword against Chaldea (Yahweh’s affirmation) f
+
+toward the people who live in Babylon,
+
+toward its officials and toward its experts!
+
+36A sword toward the oracles, g and they will become fools; h
+
+a sword toward its strong men, and they will shatter!
+
+37A sword toward his horses and toward his chariotry, i
+
+and toward the entire foreign group that’s within it,
+
+and they will become women!
+
+A sword toward its stores, and they will be plundered—
+
+38a desert j toward its water, and it will dry up. k
+
+Because it is a country of images,
+
+and because of their dreadful objects l they will go crazy. m
+
+39Therefore creatures from the desert will live with creatures from foreign shores, n
+
+and ostriches will live in it.
+
+It will not live o again, ever;
+
+it will not dwell for generation after generation. p
+
+40As at God’s overturning of Sodom,
+
+and of Gomorrah and of its neighbors (Yahweh’s affirmation),
+
+No one will live there,
+
+no human being will reside in it. q
+
+41There, a people is coming from the north,
+
+a big nation and many kings—
+
+they stir themselves from the furthest parts of the earth.
+
+42Bow and sabre they grasp hold of,
+
+they are fierce, and they have no compassion.
+
+The sound of them—it’s like the sea that roars,
+
+and on horses they ride,
+
+Drawn up like an individual for battle,
+
+against you, Miss Babylon.
+
+43The king of Babylon has heard the news of them
+
+and his hands have drooped.
+
+Distress has grasped hold of him,
+
+writhing like a woman giving birth. r
+
+44There, it will be as when a lion goes up
+
+from the Jordan swell into a permanent habitat.
+
+Because I intend to hustle him out of it,
+
+and whoever is chosen for it I will appoint.
+
+Because who is like me,
+
+who can summons me?
+
+Who on earth is the shepherd
+
+who can stand before me?
+
+45Therefore listen to Yahweh’s counsel
+
+that he has determined for Babylon,
+
+His intentions that he has devised
+
+for the country of Chaldea.
+
+If the flock’s boys don’t drag them away,
+
+if the habitat isn’t desolate at them …
+
+46At the sound when Babylon is being seized, s
+
+the earth is shaking,
+
+and an outcry among the nations—it is making itself heard. t
+
+a. LXX lacks of Armies.
+
+b. The asyndeton and the word order with the object preceding the verb suggest that this colon is subordinate to the next.
+
+c. Aq, Sym nicely render “the one who is near them.”
+
+d. The infinitive precedes the finite verb, underlining the point; it is formed like an infinitive construct rather than an absolute (which is more typical), enhancing the assonance of rîb yārîb ʾet-rîbâ (Joüon 123q).
+
+e. The verbs hirgîaʿ and hirgîz (give rest/unrest) are nicely alliterative while contradictory in meaning; both look like qatals but are actually infinitives (see GK 53l).
+
+f. LXX lacks (Yahweh’s affirmation).
+
+g. See the translation note and commentary on 48:30.
+
+h. LXX lacks this colon.
+
+i. LXX additionally repeats “a sword toward its strong men.”
+
+j. Sword is ḥereb; desert is ḥōreb.
+
+k. LXX “will be shamed” suggests yēbōšû rather than yābēšû.
+
+l. For MT ʾêmîm, LXX “islands” implies ʾiyyîm, which comes in the next colon.
+
+m. For MT’s hithpoel yithōlālû, LXX, Vg, Tg “glory” implies hithpael yithallālû (4:2).
+
+n. Ṣiyyîm and ʾiyyîm (creatures, foreign shores) rhyme, like tōhû and bōhû in 4:23 and Gen 1:2 (Holladay, Commentary on Jeremiah, 2:420), with similar implications.
+
+o. See the translation note on 17:25.
+
+p. LXX lacks this colon.
+
+q. Verse 40 repeats 49:18 (see the translation notes and commentary there) in a slightly different form.
+
+r. Verses 41–43 repeat 6:22–24 (see the translation notes and commentary there) in a slightly different form; see E. Peels, “‘Against You, Daughter of Babylon’: A Remarkable Example of Text-Reception in the Oracle of Jeremiah 50–51,” in Peursen and Dyk, Tradition and Innovation, 31–44.
+
+s. LXX, Vg translate loosely “at the sound of the seizing”; nitpәśâ is actually a finite verb dependent on the construct noun (cf. Joüon 129p).
+
+t. MT has a section marker here. Verses 44–46 repeat 49:19–21 (see the translation notes and commentary there) in a slightly different form.
+
+The last section of Jer 50 is dominated by a sequence of threats that continue to declare the coming fall of Babylon and do so especially by restating older prophetic messages.172 An implication of this feature is the assumption that a message from Yahweh may not be “done” when it has applied in one context or to one people. It is almost to be expected that it would apply in others and to others.173
+
+vv. 33–34
+
+Yahweh will act as he did in the exodus story, as Israel’s restorer and advocate (an introduction, three bicola, and a closing tricolon)
+
+
+
+vv. 35–40
+
+Yahweh charges a sword, which leads into a reworking from Isa 13 and Jer 49 (a bicolon framed by two tricola; then six bicola, the last two linked)
+
+
+
+vv. 41–43
+
+A people is coming from the north, described by reworking 6:22–24 (an opening tricolon, a bicolon, two linked bicola, then two bicola)
+
+
+
+vv. 44–46
+
+Yahweh intends to hustle Babylon like a lion, a reworking from 49:19–21 (four bicola, two linked bicola, a bicolon, and a closing tricolon)
+
+
+
+The four messages thus complement each other in the background they presuppose:
+
+in the exodus story;
+
+in the message about Babylon in Isaiah;
+
+in a message about Judah from much earlier in the Jeremiah scroll;
+
+and in a message about Edom from the immediately previous chapter in Jeremiah.
+
+
+
+33 Initially, this sequence returns to the logic of Yahweh’s action. Whereas vv. 21–32 described it as redress and recompense in response to Babylon’s action and stance toward Yahweh himself, now it becomes a response to Babylon’s action in relation to Israel. Oppressed (ʿāšaq) more precisely means treated fraudulently (7:6; 21:12), and vv. 33b–34 suggest an awareness of this connotation. Jeremiah takes the reality of fraudulence and oppression within a community, whereby the powerful cheat the needy out of their rights, and make it an image for the way Assyria and Babylon have treated Israel as a whole. Ephraim and Judah had simply insisted on their independence, on being in control of their own destinies, but Assyria and Babylon first took them captive and then refused to send them off: the phrase recalls a much earlier experience (Exod 4:23; 7:14).174 Actually, the Judahites will turn out to be happy in Babylon and not enthusiastic about returning to Judah when they have the chance, but this irony hardly changes the wrong involved in the imperial powers’ domination of the region.
+
+34 What Israel needed in Egypt was someone to act as its restorer (see the commentary on 31:11). Fortunately it had someone (Exod 6:6; 15:13), and someone with a strong hand (Exod 3:19; 6:1; 13:3, 9, 14, 16). And fortunately, Israel again has a restorer, who is indeed strong; the adjective (ḥāzāq) links with the verb in v. 33b (ḥāzaq hiphil). Yahweh of Armies is his name underlines the point. The task of a restorer may involve taking up someone’s case in a meeting of the elders at the town gate; the account of Boaz in Ruth 4 provides an example. Yahweh will fulfill this moral obligation, too (Ps 74 also brings together talk of Yahweh restoring and of his taking up Israel’s case).175 If we may press the image, Yahweh is appearing in a meeting of the heavenly powers and arguing Israel’s case there—the prophecy sets aside any thought of Israel’s having deserved what happened to it. The broader context is that the neat byproduct of Yahweh’s action against Babylon is also to give rest to the earth as a whole that is Babylon’s victim, because it will give unrest to the people who live in Babylon itself. The promise stimulates a prayer:
+
+Grant, Almighty God, that, as thou hast deigned once to take us under thy protection, we may always raise up our eyes to thine infinite power, and that when we see all things not only confounded, but also trodden under foot by the world, we may not yet doubt but that thy power is sufficient to deliver us, so that we may perpetually call on thy name, and with firm constancy so fight against all temptations, that we may at length enjoy in thy celestial kingdom the fruit of our victory, through Jesus Christ our Lord.—Amen.176
+
+35–37a One might see this next declaration of Babylon’s doom as a response to vv. 33–34.177 It begins as a kind of curse, a little like Mercutio’s “a plague o’ both your houses,”178 except that when Yahweh utters a curse, it is certain to come true. A sword will fall. Jeremiah has spoken many times of a sword as the means of bringing death. Here, it is to come on the people as a whole, then on those within the people who make its political decisions and formulate its political policies, then on its oracles in the sense of the ministers who bring messages from a god about what is going to happen and what should therefore be done to avoid it (if it is bad news); Yahweh will see to the frustrating of their revelations so that they will become fools. Then it is to come on the supposed strong men who defend the city so that they will shatter, physically but perhaps also in morale, like their deities (v. 2; see the commentary there). It will come on his (the king’s?) horses and chariotry and the entire foreign group that’s within it—which in this context suggests a force of foreign mercenaries. They will become women, like Egypt’s mercenaries who cannot be relied on to stand firm when things get overwhelmingly dangerous (46:16, 21).
+
+37b–38a The content of the curse has already suggested that we should not be literalistic in interpreting the sword, as if it wielded itself. The point now becomes clearer: the sword stands for the fighter bearing the sword, who will plunder Babylon’s armory and resources. A final toggling of the language abandons the sword image for the image of desert or drought that will come upon Babylon’s water supply, which is also the key to its being able to irrigate its fields. It is an ironic and devastating threat, because Babylon straddled the Euphrates, and water was the last thing it thought it needed to worry about.
+
+38b In adding a reason for the curse, the message comes to have a similar shape to that of vv. 33–34. There, the argument was that Babylon will fall because Yahweh is strong; here the argument is that Babylon will fall because it is a country of images and its images are weak, inadequate to the challenge lying before them. They will not be able to protect Babylon from sword or drought. Indeed, the Babylonians’ devotion to them will issue in sword and drought. Yahweh declared earlier that the nations will go crazy because of the sword he sends among them (25:16); the same logic applies. It is because the Babylonians’ reliance on them will have this dreadful result that the images are dreadful objects. There is no reason to think that the Babylonians were afraid of their images or the gods they represented, though in reality they should be afraid.
+
+39–40 The message in vv. 35–40 closes with a development of the point about desert and drought. It begins with a reference to creatures whose names do not correspond to actual species but rather link with desert and foreign shores and thus suggest creatures that are alien, eerie, and frightening. Ostriches appear elsewhere in the company of such creatures of the wild or of the desert (e.g., Isa 34:13–15; 43:20; Lam 4:3). The message makes its point by adopting phrases that appear elsewhere in prophecy. One can compare vv. 39–40 with declarations about Babylon in Isa 13:19–22 and about Edom in Jer 49:18 (see also 49:33):
+
+Jer 50:39
+
+Isa 13:19–22
+
+
+
+
+
+as at God’s overturning of Sodom and of Gomorrah
+
+
+
+therefore creatures from the desert will
+
+
+
+
+
+live with creatures from foreign shores
+
+
+
+
+
+and ostriches will live in it
+
+
+
+
+
+it will not live again, ever
+
+it will not live ever
+
+
+
+it will not dwell for generation after generation
+
+it will not dwell for generation after generation …
+
+
+
+
+
+creatures from the desert will lie down there …
+
+
+
+
+
+ostriches will dwell there …
+
+
+
+
+
+jackals in its castles
+
+
+
+Jer 50:40
+
+Jer 49:18
+
+
+
+as at God’s overturning of Sodom
+
+as at the overturning of Sodom
+
+
+
+and of Gomorrah and of its neighbors
+
+and Gomorrah and its neighbors
+
+
+
+(Yahweh’s affirmation)
+
+(Yahweh has said)
+
+
+
+no one will live there
+
+no one will live there
+
+
+
+no human being will reside in it
+
+no human being will reside in it
+
+
+
+Though we cannot be sure about the direction of the adopting, the parallels indicate how prophecies interact with each other. If Yahweh has spoken once in a particular way, his message will not be just a random one-off revelation but an expression of his typical or ongoing purpose. So there will be no surprise when it turns out to be illuminating in a different context, as happens with the Moab prophecy in Jer 48. Thus prophecies may come in wholly fresh words or may come in familiar words, and both processes can produce compelling and frightening results.
+
+41–43 The dynamic continues with a message that applies to Babylon the message to Judah in 6:22–24:
+
+50:41–43
+
+6:22–24
+
+
+
+41there a people is coming from the north
+
+6:22there a people is coming from a northern country
+
+
+
+a big nation and many kings
+
+a big nation
+
+
+
+they stir themselves
+
+it stirs itself
+
+
+
+from the furthest parts of the earth
+
+from the furthest parts of the earth
+
+
+
+42bow and sabre they grasp hold of
+
+23bow and sabre they grasp hold of
+
+
+
+they are fierce, and they have no compassion
+
+it’s fierce, and they have no compassion
+
+
+
+the sound of them—it’s like the sea that roars
+
+the sound of them—it’s like the sea that roars
+
+
+
+and on horses they ride
+
+and on horses they ride
+
+
+
+drawn up like an individual for battle
+
+drawn up like an individual for battle
+
+
+
+against you Miss Babylon
+
+against you Miss Zion
+
+
+
+43the king of Babylon has heard the news of them
+
+24we have heard the news of it
+
+
+
+and his hands have drooped
+
+our hands have drooped
+
+
+
+distress has grasped hold of him
+
+distress has grasped hold of us
+
+
+
+writhing like a woman giving birth
+
+writhing like a woman giving birth
+
+
+
+The impact of the message would be enhanced for anyone who had heard the version in 6:22–24. It offers the reassurance that the grimness of what Yahweh intends for Judah will also overwhelm Babylon,179 and in particular its king.180 Conversely, anyone in Judah who first heard the message about Babylon and rejoiced in it could be devastated by the realization that the same fate hangs over Judah. One could see 6:22–24 as in effect one of the prophecies about a foreign nation applied to Judah.181
+
+44–46 The section dominated by the reworking of earlier prophecies closes with a restatement of the threat concerning Edom in 49:19–21, which thus continues from the reworking of 49:18 in v. 40:
+
+50:44–46
+
+49:19–21
+
+
+
+50:44there, it will be as when a lion goes up
+
+49:19there, it will be as when a lion goes up
+
+
+
+from the Jordan swell into a permanent habitat
+
+from the Jordan swell into a permanent habitat
+
+
+
+because I intend to hustle him out of it
+
+because I intend to hustle him out of it
+
+
+
+and whoever is chosen for it I will appoint
+
+and whoever is chosen for it I will appoint
+
+
+
+because who is like me
+
+because who is like me
+
+
+
+who can summons me182
+
+who can summons me
+
+
+
+who on earth is the shepherd
+
+who on earth is the shepherd
+
+
+
+who can stand before me
+
+who can stand before me
+
+
+
+45therefore listen to Yahweh’s counsel
+
+20therefore listen to Yahweh’s counsel
+
+
+
+that he has determined for Babylon
+
+that he has determined for Edom
+
+
+
+his intentions that he has devised
+
+his intentions that he has devised
+
+
+
+for the country of Chaldea
+
+for the people who live in Teman
+
+
+
+if the flock’s boys don’t drag them away
+
+if the flock’s boys don’t drag them away
+
+
+
+if the habitat isn’t desolate at them
+
+if their habitat isn’t desolate at them
+
+
+
+46at the sound when Babylon is being seized
+
+21at the sound of their fall
+
+
+
+the earth is shaking183
+
+the earth is shaking
+
+
+
+and an outcry among the nations
+
+an outcry at the Sea of Reeds
+
+
+
+it is making itself heard
+
+its sound is making itself heard
+
+
+
+Once again, Jeremiah’s reworking of earlier messages indicates that there is system in Yahweh’s operating and that his hearers would be unwise to assume that he is simply predicting what they will read in the newspapers about Edom or about Babylon. The fall of Jerusalem was not the kind of event that prophets pictured; nor were the fall of Babylon, the fall of Edom, the fall of Antiochus Epiphanes, the coming of the Messiah, or the fall of Jerusalem in AD 70. Prophecies are not predictions inspired by God but imaginative and imaginary scenarios inspired by God so that they have the capacity to give a true impression of the significance of the event to which they refer and thus to provoke an appropriate response whereby people turn to God.
+
+
+
+
+
+5. The Faithful and Powerful God (51:1–19 [LXX 28:1–19])
+
+
+1Yahweh has said this.
+
+Here am I, stirring against Babylon,
+
+and toward the people who live in “The midst of those who rise against me,” a
+
+a devastating wind.
+
+2I will send off aliens b against Babylon and they will winnow it,
+
+and strip its country,
+
+When they have been c against it d all around
+
+on the day of dire fortune.
+
+3Toward [the one who] will direct, the one who will direct his bow, e
+
+toward [the one who] will get himself up in his armor: f
+
+Do not spare the young men—
+
+devote its entire army.
+
+4They will fall, run through, in the country of Chaldea,
+
+thrust through in its streets.
+
+5Because Israel and Judah has not been widowed
+
+through its God, through Yahweh of Armies,
+
+Because their country—it was full of liability
+
+through Israel’s sacred one. g
+
+6Flee from within Babylon—
+
+save, each individual, his life.
+
+Don’t become still h through its waywardness,
+
+because it is a time of redress.
+
+For Yahweh it is a remuneration
+
+with which he is recompensing it.
+
+7Babylon was a gold chalice in Yahweh’s hand,
+
+getting the entire earth drunk.
+
+In that nations drank of its wine i—
+
+as a result, nations j are crazy.
+
+8Suddenly Babylon is falling and breaking k—
+
+howl over it!
+
+Get ointment for its wounds—
+
+perhaps it may heal.
+
+9We are healing Babylon,
+
+but it has not healed.
+
+Abandon it, let’s go,
+
+each to his country.
+
+Because the decision about it has reached to the heavens,
+
+it has risen to the skies.
+
+10Yahweh has made great faithfulness go out for us l—
+
+come, let us recount in Zion
+
+the action of Yahweh our God. m
+
+11Polish the arrows,
+
+fill the quivers!
+
+(Yahweh is stirring the spirit of the kings of Media,
+
+because against Babylon his intention is to devastate it.
+
+Because that will be Yahweh’s redress,
+
+redress for his palace.) n
+
+12Toward the walls of Babylon lift up a standard,
+
+establish a strong watch.
+
+Set up watchmen,
+
+prepare ambushes.
+
+Because Yahweh is both intending and acting on
+
+that of which he spoke toward the people who live in Babylon.
+
+13You who dwell o by abundant water,
+
+abundant in stores:
+
+Your end is coming,
+
+the measure for p your cutting off. q
+
+14Yahweh of Armies has sworn by his life:
+
+Though I have filled you with humanity like locust, r
+
+they will chant a shout against you. s
+
+15Maker of earth by his energy,
+
+establisher of the world by his smartness,
+
+who by his insight stretched the heavens:
+
+16With the sound of his giving a roar of water in the heavens,
+
+and his causing billows to go up from the end of the earth,
+
+Lightnings with the rain he makes,
+
+and he causes wind to go out from his stores.
+
+17Every human being shows himself stupid through his knowledge,
+
+every goldsmith is put to shame through his image.
+
+Because his model is deception;
+
+there is no spirit in them.
+
+18They are empty, a work for mockery—
+
+at the time of their being attended to, they will perish.
+
+19Not like these is Jacob’s share,
+
+because he is the shaper of everything.
+
+And it is the clan that is his domain:
+
+Yahweh of Armies is his name. t
+
+a. For MT lēb-qāmāy, LXX has “the Chaldeans” (cf. Tg); “the other ancient versions seem greatly perplexed, and differ in their interpretation of this passage” (Blayney, Jeremiah, 139). MT’s expression comes from substituting the Hebrew equivalent of ABC by ZYX; thus ksdym (Chaldeans) becomes lbqmy (cf. v. 41 and the translation note on 25:26). Jeremiah then provides these consonants with some vowels, generating a phrase that makes a point about Babylon; see the commentary.
+
+b. For MT zārîm, Aq, Sym, Vg imply zōrîm (“winnowers”), and LXX implies zēdîm (“arrogant people”) with a related different reading of the subsequent verb; cf. McKane, Jeremiah, 2:1296.
+
+c. For MT hāʾû, LXX “woe” implies hôy.
+
+d. LXX has “Babylon.”
+
+e. On the verb, see the translation note on 46:9.
+
+f. MT involves an ellipsis in each colon. For wәʾel each time, Vg implies wәʾal (“he is not to direct … not to take a stand”); Tg has a negative in the first clause—a grammatically easier reading that would be an instruction relating to Babylonian defenders. On the complexity of the textual tradition, see CTAT, 2:839–41.
+
+g. LXX has “sacred things.”
+
+h. On this verb, see the translation note on 6:2.
+
+i. The asyndeton and the word order with the object preceding the verb suggest that this colon is subordinate to the next.
+
+j. LXX, Vg lack this second nations.
+
+k. The qatal and wayyiqtol verbs are anticipatory (see the translation note on 50:3); there are further examples in vv. 11–13.
+
+l. Like Hebrew ṣidqōtênû, Tg’s zkwtnʾ could be numerical plural or intensive/abstract plural (see DTT). On the assumption of intensive/abstract, LXX not inappropriately has “his judgment,” repeating krima from v. 9, while Aq’s tēn dikaiosynēn autou spells out the word’s implications. But Vg’s iustitia nostra (cf. Sym) is misleading; see the commentary.
+
+m. MTA has a section marker here.
+
+n. LXX “his people” is an inner-LXX slip for naou autou.
+
+o. The feminine singular šōkant looks like a cross between qatal šākant and participle šōkenet, while the ketiv implies the archaic šākantî; see the translation notes on 2:19, 20.
+
+p. Lit. “the cubit of,” a unique use of ʾammat; LXX “truly” implies ʾĕmet (cf. Aq).
+
+q. Cf. Vg; HALOT. For MT biṣʿēk, LXX “into your guts” implies bәmēʿayik. Aq, Sym assume the regular meaning of beṣaʿ (“what can be grabbed,” 6:13; 8:10; 22:17).
+
+r. LXX, Vg “because I will fill” implies that the colon refers to the huge attacking army (cf. Tg), but one would then expect ʾim lōʾ (cf. Rudolph, Jeremia, 308) rather than simply ʾim. The construction is illustrated by a parallel in 2 Kgs 5:20 (Thompson, Jeremiah, 754), though here it is clearer that kî and ʾim are separate rather than being a compound expression. Kî (lit. “that”) introduces the content of the oath. The if-clause then indicates something Yahweh intends to do, but it is qatal because it is the condition for the apodosis in the next colon, which constitutes the point of the oath.
+
+s. MT has a section marker here.
+
+t. MT has a marker here. Verses 15–19 repeat from 10:12–16; see the translation notes and commentary there. The only noteworthy difference is that 10:16 has Israel in the penultimate colon.
+
+Yahweh formulates his intentions regarding Babylon, in new ways, and again urges people to be ready to abandon the city for their own safety, while Jeremiah buttresses his affirmations and his exhortation with reminders of Yahweh’s unparalleled power as creator and his commitment to Israel. “Each of the three first sections emphasizes that the annihilation of Babylon is Yahweh’s will; the fourth adds to it that he has the power for that.”184
+
+vv. 1–5
+
+Yahweh’s declaration of intent about an attack on Babylon (after an introduction, an opening tricolon and seven bicola, with six in pairs)
+
+
+
+vv. 6–10
+
+An exhortation to flee from Babylon in light of Yahweh’s coming action (ten bicola, then a closing tricolon)
+
+
+
+vv. 11–14
+
+An exhortation to Babylon’s attackers, with a disclosure of their identity (a bicolon, two bicola in parenthesis, three bicola, two linked bicola, then a resumptive introduction and a bicolon)
+
+
+
+vv. 15–19
+
+A song of praise concerning Yahweh as the creator whose domain is Israel (an opening tricolon, two linked bicola, then five bicola)
+
+
+
+1–2 The introduction Yahweh has said this corresponds to the beginning of the messages about Philistia, Ammon, and Kedar (47:2; 49:1, 28), and it will have encouraged the medieval provision of a chapter break at this point, but there is no marked new beginning here in relation to what precedes.185 Once again, Yahweh speaks of stirring up attackers on Babylon (cf. 50:9). But the further description of the calamity to come then glosses Babylon with the phrase the midst (lit. the “heart” or “mind”) of those who rise against me. The letters of that phrase (lbqmy) are a reverse paronomasia on the name Chaldeans (see the translation note). But in addition, “by a kind of bonus,”186 the letters can be vocalized so that those who rise against me makes another comment on Babylon’s offensiveness and on the reason for bringing catastrophe upon it—another way of describing the Chaldeans as people who do wrong in relation to Yahweh or issue a challenge to Yahweh or invade Yahweh’s palace or act arrogantly toward Yahweh (50:14, 24, 28, 29). In describing the calamity, Yahweh takes up the image of a devastating wind and indicates the nature of its devastating work as he develops the image, with a further paronomasia.187 Aliens (zārîm) will devastate Babylon, but in terms of the image in v. 2, they will be winnowers (zōrîm; see the translation note). For winnowing, one needs a breeze, but this wind will be a gale that blows away wheat as well as chaff. Yahweh’s declaration about Babylon again corresponds to his threat against Judah (4:11–12). Verse 11 will shortly identify the alien winnowers, while 2 Chr 36:22–23 and Ezra 1:1–2, in referring to Jeremiah, will describe how Yahweh “stirred the spirit (rûaḥ) of Cyrus” (whom one could indeed call a devastator) to commission Judahites to go and rebuild the temple.
+
+3–4 Jeremiah reverts to speaking literally, though with some elusiveness (see the translation note). The people who fulfill the function of the wind are the foreign archers in their armor. They are no more to spare the young Babylonian fighters than they are to spare their arrows (50:14); rather, they are to devote the Babylonian forces. After devote, one hardly needs the word entire, which thus underscores the grisly reality that the verb presupposes; each time Jeremiah uses this verb in connection with Babylon (cf. 50:21, 26), he adds some such expression to underline the point. If the audience wants to imagine the implications in even more down-to-earth gruesome terms, v. 4 outlines them.
+
+5 The because perhaps makes a contrast between the coming fate of Babylon and the past fate of Israel. One might think that Israel has indeed been widowed in the sense of abandoned by its husband.188 Whereas being widowed in a Western context may be chiefly a cause of grief and sorrow, in a traditional society the male head of a family is key to its security and livelihood, and widowhood threatens vulnerability and starvation. The second because might then indicate why Babylon is going to be widowed,189 but the sequence of clauses more likely suggests that it indicates why such abandonment of Israel would have been justifiable: Israel’s land was full of wrongdoing, and thus of guilt, and thus of liability (ʾāšām). Jeremiah uses this noun only here, though with some irony it follows up an occurrence of the related verb (50:7). There, Israel’s attackers were imagined reassuring themselves that they would incur no liability because Israel deserved the chastisement of which they were the executors—and they were right that Israel was full of such guilt through following other deities, through (that is, in relation to) Israel’s sacred one. There is further irony, since Jeremiah’s earlier reference to Yahweh as Israel’s sacred one (50:29), also the only other occurrence in Jeremiah, related to Babylon’s arrogance toward Yahweh as Israel’s sacred one. Israel is just as guilty, but this guilt has not issued in Yahweh’s turning it into a widow.
+
+6 In the context, this new message that begins with another exhortation to leave Babylon because of the coming calamity is addressing the Judahites there, but (rhetorically at least) it might also address other foreigners such as merchants doing business in Babylon.190 Yet again, the wording links ironically with what precedes: when the Babylonians become still (50:30), you don’t want to join them, do you? You don’t want to be present when Yahweh takes redress upon Babylon (cf. 50:28) for its waywardness, when he gives Babylon its remuneration, when he is recompensing Babylon (cf. 50:29). There might have seemed nowhere safer than Babylon.191 Actually there was nowhere more dangerous.
+
+7 Jeremiah returns to the imagery of 25:15–29, where the chalice went from Yahweh’s hand to Jeremiah’s hand for the nations to drink from, though here Jeremiah uses the image in a different way. This chalice is gold, which would make the entire earth feel even more honored to drink from it. It stands for an empire “politically powerful and culturally dazzling.”192 But the chalice not only gets them drunk; it makes them crazy (cf. 50:38).
+
+8–10 Now is the moment of the great reversal. Babylon is “the butler who got sick.”193 If we are to be literalistic, the people urged to dress Babylon’s wounds are foreigners in its midst, which will again mean not least the Judahites, exercising a ministry like Jonah’s to Nineveh—or Daniel’s to Nebuchadrezzar and Belshazzar!194 But their task is hopeless, and anyway the exhortation is perhaps sarcastic.195 The wounds are fatal, because of Yahweh’s decision (mišpāṭ; see 1:16; 4:2 and the commentary there). This decision Yahweh has made about Babylon has reached to the heavens, it has risen to the skies. The next line clarifies this declaration. Yahweh’s steadfast commitment and faithful decisions, which reach the heavens and the sky, the high mountains and the great deep, issue in deliverance for his people (Ps 36:5–6[6–7]; cf. Pss 57:10[11]; 108:4[5]). Yahweh’s decision about Babylon is such a decision, one whereby Yahweh has made great faithfulness go out for us. Therefore, our obligation as Judahites is to get back to recount in Zion the action of Yahweh our God. Jeremiah invites people to imagine chanting a thanksgiving psalm.196 As usual, the faithfulness to which Jeremiah refers is thus not Israel’s faithfulness (of which it had shown little) or vindication (of which it had deserved little) but Yahweh’s faithfulness that emerged from his commitment, the great faithfulness or faithful acts proclaimed in Judg 5:11; 1 Sam 12:7; Ps 103:6; Dan 9:16; Mic 6:5.
+
+11 Another new message begins. Jeremiah once again addresses Babylon’s imagined attackers, specifically its archers. Here, they have not left home yet; they are to start preparing for a march. The exhortation gives way to a background comment that looks like a later insertion into the exhortation, but it’s an important insertion because it reveals these attackers’ identities. The dynamic of Jer 50–51 follows that of the opening chapters of Jeremiah, where first there was mention of an attacker from the north, then the identification of the attacker, though it may again promote the reflection, “Well, yes, who else could it be?” Stirring (ʿûr hiphil) was the verb used of the coalition of unnamed nations in 50:9 and of the unidentified wind (rûaḥ) in 51:1; it was the language used in Isa 10:26 of Assyria (though there the verb was polel) and in Isa 13:17 of the Medes. The reworking of Isa 13:19–22 in 50:39–40 makes it plausible to think of Jeremiah here alluding to Isa 13:17. To speak of stirring up the spirit (rûaḥ, as in v. 1) suggests both arousing the energy and awakening something inside a person that might surprise them, which fits the language in 2 Chr 36:22 and Ezra 1:1. The plural kings hints at a recognition that the Median Empire is a coalition, like the Babylonian Empire. These kings will be the means of exacting Yahweh’s … redress for his palace, of which 50:28 spoke.
+
+12 The leadership of the attacking army is to lift up a standard to muster the troops for an advance on Babylon, initially simply to blockade the city and prevent anyone going in to bring provisions or getting out to escape—hence the ambushes. As Yahweh formulated an intention and acted against Jerusalem (Lam 2:17), so he is intending and acting against Babylon.197
+
+13 Jeremiah turns to address Babylon itself. It might think it could last out a long blockade. It doesn’t have to worry about its water supply, like most cities; and it apparently has a substantial grain supply. But it is deceiving itself. Etymologically, the end of something (qēṣ) is the point at which it is “cut off” (qāṣaṣ), and maybe Jeremiah plays with that fact when he glosses his reference to the end with an apparent metaphor in the expression that refers more literally to “the cubit [at which] you are cut off,” a different verb for cutting off (bāṣaʿ) and a more technical expression suggesting that “the cutting of the web from the loom is a figure for death” (cf. Isa 38:12).198
+
+14 Yahweh’s oath (cf. Amos 6:8) backs up Jeremiah’s declaration. Yahweh’s words could signify that he intends to send a huge army to Babylon, but the construction more likely refers to his already having made Babylon the monumentally huge city that it was (see the translation note). Either way, he will see that a shout issues within it and against it that will echo his own shout in 25:30 (cf. also 48:33).
+
+15–19 The announcement of Babylon’s end underscored by Yahweh’s oath issues in an appropriate song of praise.199 Its description of Yahweh reiterates from 10:12–16 (see the commentary there); it proclaims his power and wisdom as the creator200 and thus backs up the claims he has been making in vv. 11–14. “To confess the Holy One in such circumstances as the maker of everything … must have seemed to many, even many Israelites, as whistling in the dark.”201 But here, these lines assert that he has the capacity to do as he says, and has the motivation to do so, given the fact that Jacob is his domain.
+
+
+
+
+
+6. The Shatterer Shattered (51:20–33 [LXX 28:20–33])
+
+
+20You, a a shatterer for me—
+
+of battle instruments: b
+
+I used to shatter nations with you, c
+
+and devastate kingdoms with you.
+
+I used to shatter horse and its charioteer with you,
+
+and shatter chariot and its charioteer with you.
+
+22I used to shatter man and woman with you,
+
+and shatter elder and youth with you. d
+
+I used to shatter young man and young girl e with you,
+
+23and shatter shepherd and his flock with you.
+
+I used to shatter plowman and his pair with you,
+
+and shatter governors and overseers with you.
+
+24But I will pay back Babylon
+
+and all the people who live in Chaldea,
+
+For all their dire dealing,
+
+which they did in Zion before your f eyes (Yahweh’s affirmation). g
+
+25Here am I in relation to you,
+
+devastator mountain (Yahweh’s affirmation), h
+
+the devastator of the entire earth.
+
+I will extend my hand against you
+
+and roll you from the cliffs
+
+and make you a burnt mountain.
+
+26People will not get from you
+
+a cornerstone or foundation stone
+
+because you will be a total destruction for all time (Yahweh’s affirmation).
+
+27Lift up a standard in the earth,
+
+sound a horn among the nations,
+
+sanctify nations against it.
+
+Make it heard to kingdoms i against it:
+
+Ararat, Minni, Ashkenaz.
+
+Appoint a marshal j against it,
+
+get horse to go up like bristling k locust.
+
+28Sanctify nations against it,
+
+the kings l of Media,
+
+Its governors and all its overseers,
+
+and every country that it rules.
+
+29The earth is quaking and writhing, m
+
+because Yahweh’s intentions are being implemented against Babylon, n
+
+To make the country of Babylon
+
+a desolation, without anyone living there.
+
+30The strong men of Babylon are ceasing to do battle—
+
+they are sitting in the fortresses.
+
+Their strength is drying up—
+
+they are becoming women.
+
+People are setting fire to its dwellings,
+
+its bars are breaking.
+
+31Runner runs to meet runner,
+
+messenger to meet messenger,
+
+To give the message to the king of Babylon
+
+that his city has been captured from end to end. o
+
+32The fords—they have been seized,
+
+the marshes p—people have set them on fire,
+
+the men of battle—they are panicking. q
+
+33Because Yahweh of Armies, the God of Israel, r has said this:
+
+Miss s Babylon is like a threshing floor
+
+at the time of its treading.
+
+Yet a little while
+
+and the time of harvest will come for it.
+
+a. You is again masculine singular, and Qimchi (in MG) assumes that Yahweh addresses the king of Babylon, but the gender may again derive from the associated noun—here mappēṣ—and the you may continue to be Babylon itself.
+
+b. This phrase is the object of shatterer (cf. LXX, Vg, Tg) in a broken construct chain (cf. Isa 19:8).
+
+c. LXX, Vg give the sequence of waw-consecutives their usual future time reference; you would then need to be the Medes or their king (cf. v. 28 LXX). But the role described is not elsewhere theirs but Babylon’s past role, so more likely the verbs are past imperfect in significance.
+
+d. LXX lacks this colon.
+
+e. See the translation note on 18:13.
+
+f. The your is plural.
+
+g. MT has a section marker here.
+
+h. LXX lacks (Yahweh’s affirmation).
+
+i. Sym has “kings.”
+
+j. Ṭipsār apparently derives from an Akkadian word for a scribe; Vg simply transliterates it, LXX has “siege engines,” and Tg has “people who make war.” BDB (381) compares šōṭēr, which also implies the “military function of those skilled in writing.”
+
+k. Likewise, the versions imply puzzlement about this rare word, for which see Job 4:15.
+
+l. LXX has singular “king.”
+
+m. Tg “be sick” derives tāḥōl from ḥālâ rather than from ḥûl.
+
+n. The qatal and wayyiqtol verbs are anticipatory (see the translation note on 50:2); there are further examples in vv. 30 and 32.
+
+o. See BDB and the note on 50:26. But LXX attaches this phrase to the next line.
+
+p. LXX has “communities” and HALOT “forts,” which seem more plausible than the usual meaning of ʾăgammîm.
+
+q. MT has a section marker here.
+
+r. LXX lacks of Armies, the God of Israel.
+
+s. For MT bat, LXX “the houses of the king of” implies bottê melek.
+
+Verses 20–33 is a further miscellaneous collocation of messages, with a strong beginning in Yahweh’s confrontation of his erstwhile agent of shattering and devastation.
+
+vv. 20–24
+
+A warning to Babylon the shatterer (six bicola, then two further linked bicola)
+
+
+
+vv. 25–26
+
+A warning to Babylon the devastator (three tricola)
+
+
+
+vv. 27–33
+
+A commission to Babylon’s attackers (two tricola framing eleven bicola, including four in two pairs, then a resumptive introduction and two bicola)
+
+
+
+20–23 Yahweh again speaks to Babylon and recalls the role he has given it in the past. In this poem “of astonishing intensity and discipline,”202 the image of the shatterer compares with the more concrete image of the club, applied to Assyria (Isa 10:5) and to Moab (Jer 48:17). The hammer song also matches the sword song of 50:35–38.203 Here, the unique term shatterer links with the verb that will be repeated. Suggesting someone who would break things to pieces (cf. 13:14; 22:28; 48:12), it is a more fearful image for Babylon’s role in 25:8–29. “In a way, this little poem summarizes the whole message of Jeremiah,”204 except that here “Yahweh … presents no argument, no indictment, no reasons—giving only a single-minded judgment via some unspecified agent to the nations and kingdoms of the world.”205
+
+24 But Yahweh’s using Babylon in this way has now come to an end, and the experience is to be directed onto Babylon itself. In making this point, Yahweh turns to addressing the Judahites about Babylon in a side comment rather than continuing to speak to Babylon. The dynamic compares with that in v. 11; here as there, the side comment looks like an insertion into the context of the address to Babylon, yet one that plays an important role as “the window through which the rest of the subsection is meant to be viewed.”206 The actual audience for Jeremiah’s entire message is Judahites, so rhetorically the change is a move from letting them “overhear” Yahweh addressing Babylon to directly addressing them about Babylon. There is a power about the indirect address; there is another sort of power about the direct address. If they should be unsure whether the message about Babylon is really a piece of good news that is actually meant for them, then the switch makes the point explicit. The reference to what the Babylonians did in Zion before your eyes conveys particular poignancy. Judahites exiled to Babylon in 587 or slouching off to Egypt two or three years later and Judahites who never left or who fled across the Jordan: they all saw it.
+
+25–26 But it was simply a side comment, and there follows a further message addressing Babylon, with a declaration that the years of its being devastator and shatterer (cf. v. 21) are indeed over. While it’s clear that Babylon is a means of devastation, and that of the entire earth, the address to a mountain is more surprising. It might simply be a metaphor for Babylon as huge, strong, and domineering. But devastator mountain (har hammašḥît; lit. “mountain of devastation” or “mountain of the devastator”) comes in 2 Kgs 23:13 in connection with Josiah’s reformation, referring to the mountain ridge opposite Jerusalem, or part of it, where Solomon built shrines for his wives’ deities. Its familiar name is the Mount of Olives, though that term comes in the First Testament only in Zech 14:4. The area is covered in olive trees, and its alternative name is then “mountain of anointing” (har hammišḥâ; e.g., m. Rosh Hashanah 2:4).207 The title in 2 Kgs 23:13 is a pejorative variant of this name, denoting the mountain as a place that had been devastated by the rites conducted there or that would bring devastation on Judah or that would be devastated by Yahweh’s action against it. In taking up this designation, Jeremiah passes a similar verdict on Babylon. While Babylon is not literally a mountain, metaphorically it is a place equivalent to the devastator mountain that Judahites knew. It is a place devastated by the service of gods such as Bel and due to be devastated for its service of Bel, and (as the next colon notes) a place that had caused devastation all over its world. Yahweh goes on to let the metaphor be triply mixed. The mountain comes to be located on cliffs. Momentarily, we should perhaps forget the picture of Babylon as a mountain and think of it sitting on a height, from which it is thrown off and turned into a burnt-out mountain—which will suggest the destructive conflagration of the city, so complete that there will be nothing to recycle. Genesis 11:3 shows an awareness that in literal terms there was no stone in Babylon.208
+
+27–28 In a further message related in substance through not in imagery, Yahweh once again commissions aides to charge an army to march against Babylon, with a dramatic series of imperatives: lift up, sound, sanctify, make it heard, appoint, get … to go up, and sanctify again—this last significant repeated verb frames the entire enterprise. There is no doubt that the northern attacker is doing Yahweh’s work. There is another sacred engagement to be undertaken, like the one Yahweh commissioned against Judah (cf. 6:4; 22:7). Whereas such commissions have previously implied a single nation’s army, against Babylon something more substantial is perhaps needed or appropriate. Babylon has been the sacred army; now it is to be the victim of a sacred army. Ararat, Minni, and Ashkenaz (Urarṭu, Mannai, and Ašguzas or Scythia)209 are peoples north of Assyria (in eastern Turkey and Iran), and they are thus appropriate referents for talk of a northern army. They are within the broad parameters of the sixth-century Median Empire; it is their kings who are the kings of Media.
+
+29–32 The earth (or “the land”—of Chaldea) is quaking in anticipation of this army’s arrival, and its military is paralyzed; at least, such a reaction will be appropriate. The account in these verses operates like a camera spotting different things going on and presenting them in an appropriately jumbled montage. Breaking down of the city’s gateway bars, for instance, would precede the invaders setting fire to its houses. The account of the runners or messengers parodies the commitment and efficiency of the imperial communication system. The arrival of intelligence would be expected to have the effect noted in 50:43. Fords and marshes are features of the Euphrates outside the city; their capture would precede the breaking down of bars and burning of houses. It would be the reeds in the marshes that the army would set on fire, perhaps “to cut off escape and to burn out fugitives who might have sought refuge there.”210 The montage conveys an impression of chaos, confusion, and turmoil. According to Herodotus (Histories 1.191), Cyrus’s actual capture of Babylon did involve the Persians taking its people unawares, and because of the city’s great size, the outer parts of it were overcome while the inhabitants of the middle part knew nothing of it.211
+
+33 Once more, Jeremiah and Yahweh stand back and return to the present. The introduction to v. 33 perhaps closes off vv. 1–33 (see v. 1). You can tell when harvest is due: the threshing floor has been prepared by being cleared and trodden down, and it sits waiting for the threshers to arrive. Babylon’s time really is coming, as surely as harvest time comes.
+
+
+
+
+
+7. Zion’s Lament (51:34–44 [LXX 28:34–44])
+
+
+34He consumed me, confounded me, a
+
+did Nebuchadrezzar king of Babylon—
+
+he rendered me an empty dish.
+
+He swallowed me like a monster,
+
+filled his belly with my treats, rinsed me off. b
+
+35The violence done to me and my body c be on Babylon,
+
+says the girl who lives in Zion.
+
+My blood be toward the people who live in Chaldea,
+
+says Jerusalem. d
+
+36Therefore Yahweh has said this.
+
+Here am I, arguing the case for you,
+
+and taking redress for you. e
+
+I will wither its sea,
+
+and dry up its fountain.
+
+37Babylon will become heaps,
+
+the abode of jackals, a desolation, something to whistle at,
+
+with no one living there. f
+
+38Together, like cougars g they roar h—
+
+they have growled i like lion cubs.
+
+39When they get hot, I will set out their drink,
+
+and get them drunk, in order that they may be merry. j
+
+But they will sleep an everlasting sleep
+
+and not wake up (Yahweh’s affirmation).
+
+40I will take them down like lambs for slaughtering,
+
+like rams along with goats.
+
+41How Sheshach is being captured,
+
+the praise of the entire earth is being seized!
+
+How it is becoming a desolation—
+
+Babylon among the nations! k
+
+42The sea is going up over Babylon—
+
+with the noise of its waves it is being covered!
+
+43Its towns are becoming a desolation,
+
+a country—desert and steppe,
+
+A country l where no individual lives in them,
+
+and no human being passes through them.
+
+44So I will attend to Bel in Babylon m
+
+and make what he has swallowed come out of his mouth. n
+
+Nations will no longer stream to him—
+
+yes, Babylon’s wall is falling. o
+
+a. Tg appropriately prefaces v. 34 with “Jerusalem said.”
+
+b. The ketiv has “us” through v. 34. LXX lacks rinsed me off, while Tg “banished” (cf. Vg) derives hĕdîḥānî from the more common nādaḥ (cf. 50:17) rather than dûaḥ/dîaḥ or from a homonym; either way, the translation suggests a paronomasia.
+
+c. Lit. “my violence and my flesh.”
+
+d. MT has a section marker here.
+
+e. The waw-consecutive continues the participial construction, and in both cola Yahweh emphasizes the point by following the verb with its related noun: “arguing your argument and redressing your redress” (cf. 50:15, 34).
+
+f. The verse reworks 9:11(10); see the translation notes and commentary there. LXX lacks the middle colon.
+
+g. Strictly, “lions”; Jeremiah uses two different words for lions in the two cola.
+
+h. LXX lacks they roar. The asyndeton and word order (with the verb at the end of the colon) suggest that the first colon is subordinate to the second; the reverse applies in vv. 41b and 44b.
+
+i. For MT nāʿărû, LXX “they were aroused” implies nēʿōrû.
+
+j. LXX “be stupefied” (NETS; cf. Vg) for MT yaʿălōzû translates in light of the context (cf. CTAT, 2:849–50).
+
+k. The qatal and wayyiqtol verbs are again anticipatory (see the translation note on 50:2); there are further examples in vv. 42–44.
+
+l. LXX lacks a country.
+
+m. LXX has simply “to Babylon”; Tg has “to the people who serve Bel in Babylon.”
+
+n. Bel, Babel, and bilʿô form a triple assonance.
+
+o. LXX lacks vv. 44b–49a.
+
+This new message takes the form of a protest psalm.
+
+v. 34
+
+Miss Zion protests at Nebuchadrezzar’s treatment of her (an opening tricolon and a bicolon)
+
+
+
+v. 35
+
+She calls for a corresponding redress to be exacted on Babylon (two self-contained bicola)
+
+
+
+vv. 36–44
+
+Yahweh responds
+
+
+
+vv. 36–37
+
+An initial commitment to take up Zion’s case (after an introduction, two self-contained bicola and a tricolon)
+
+
+
+vv. 38–40
+
+A promise to take the animals down (four self-contained bicola)
+
+
+
+vv. 41–43
+
+An anticipatory description of the city’s fall (five bicola, the last two linked)
+
+
+
+v. 44
+
+A closing commitment taking up the terms of the protest (one bicolon)
+
+
+
+34 The message begins with a protest such as might appear in a psalm remonstrating at an enemy invasion. Like many such psalms, it takes first-person singular form but speaks on behalf of the community, as v. 35 will make explicit. Again like such psalms, it indicates that “the darkness of trouble” has overwhelmed the community’s spirit.212 Confounded suggests as much, being the verb used of occasions when Yahweh confused and bewildered Israel’s attackers (Exod 14:24; Josh 10:10; Judg 4:15; 1 Sam 7:10); now the people of God has been on the receiving end of this experience. Those occasions show that being confounded is not just a problem in the minds of its victims. Here, Miss Jerusalem begins with the protest he consumed me (ʾākal), a familiar way to describe a devastating defeat (e.g., 10:25; 50:32). Jeremiah recently used it with more reference to its literal meaning: other peoples consumed Yahweh’s people like sheep (50:7). And he made clear that he meant the image by adding a reference to crunching their bones (50:17). Here he takes it further in more vivid and grisly fashion. Nebuchadrezzar ate up every bit of his victim; to mix the metaphors, he thus turned Jerusalem into an empty dish. He embodied the monster (tannin) standing for supernatural forces of violent and anarchic power that can threaten to overwhelm stability and overwhelm life itself (e.g., Isa 27:1; 51:9).213 The treats with which Nebuchadrezzar thus filled his belly were more literally the fine artifacts of the temple. Nebuchadrezzar took some in 597 and more in 587, when he really thus rinsed me off, though one can imagine Jeremiah using that hyperbole even in 597. In either context, it’s neat that the verb also suggests a paronomasia with another verb meaning sent off into exile (see the translation note).
+
+35 The prayer continues, like a protest psalm, by urging that the attackers be held responsible for their action. Wrong done to another person generates something objective and solid that sits there disrupting and disturbing reality until something is done about it. Even time and the passing of generations may not dissolve it. If the world’s proper life is to continue, something has to be done to restore its order and harmony. In the West, people speak of a need to bring closure, which is often a euphemism for retribution. In the First Testament, a standard picture of this need starts from a sense that someone’s shed blood sits there crying out about the wrong done to the person (e.g., Gen 4:10; Job 16:18). This blood is against or on the perpetrator or their head (e.g., Lev 20:9; Judg 9:24; 2 Sam 1:16; Ezek 18:13; Jonah 1:14). In her distinctive formulation of this awareness, Miss Jerusalem starts from an alternative picture: the violence done to her is on the perpetrator, as Sarah puts it with some irony in Gen 16:5214 (cf. again Judg 9:24; also Ps 7:16[17]). Abraham (Sarah implies) is responsible for the violence or violation and responsible to do something about it. Here, the formulation of the girl who lives in Zion, who speaks in a hendiadys of the violence done to me and my body—of the bodily violence done to me—suggests rape, a common reality of war and a recurrent image for the assault of an attacker on a community. The Babylonians raped me, Miss Jerusalem says. You must make them pay for it.
+
+36–37 A protest psalm hopes to receive a response from Yahweh, and this one does. Yahweh might reasonably have replied in snorting fashion to Jerusalem (as he did to some of Jeremiah’s own protests) that Jerusalem deserved what happened to it. But the point of the message is to proclaim that calamity is coming on Babylon, and the form of a protest psalm is a way of doing so. Thus Yahweh works with that form, though in due course he will leave it behind. The psalm’s form is related to the appeal of an ordinary person to a king, who is in a position to take action about the matter that the suppliant raises. Here, Yahweh agrees to set about arguing the case for you and taking redress for you, the model he assumed in, for example, 50:15, 28, 34. He pictures himself as prosecuting a case in the heavenly cabinet or determining from the chair what the decision must be. He then moves to the traditional imagery of withering and drying up. It has distinctive resonances in connection with Babylon. Babylon sits distinctively astride a major river, surrounded by irrigation canals and streams, as if the vast resources of water lying under the earth’s surface bubble up like a fountain. So Yahweh’s resolution paints a devastating picture. Following up that threat, he moves on to a familiar hyperbolic description of Babylon’s destruction, whose wording makes clear that Jeremiah is again applying to Babylon the threats that Yahweh made to Jerusalem (see the translation note).
+
+38–40 Yahweh reverts to Miss Zion’s image of the ravenous beast and runs with it. Babylon is like a pride of hungry lions. They have been out on the prowl and gotten hot. They need a refreshing drink, which he will provide. But he is segueing into the drink imagery of 25:15–29; the Babylonians are now a company of banqueters. He gets them dead drunk and fast asleep, which makes them easy victims for killing, like lambs or rams. “Babylonian lions … end up as slaughtered lambs.”215
+
+41 In another transition, Yahweh returns to a form of speech that can be associated with a lament, though it can also suggest amazement. Here, any suggestion of lament is ironic,216 but amazement is palpable. Babylon is a city at which the surrounding world marvels. That very fact suggests the danger of its position. It rivals Yahweh in people’s eyes and in its own eyes. Yahweh once more describes its fall as if it has already happened—that is, the verbs speak of the event as though it is now past; Babylon is again Sheshach, as in 25:26 (see the translation note and commentary there).
+
+42–43 Yahweh goes on to reverse the significance of water imagery. Babylon did know what an excess of water could be like—it knew what flooding could mean. Judahites were also familiar with the image of the sea as a repository of dynamic but turbulent and riotous energy, like the monster figure of v. 34. And they were familiar with that figure as an image for armies on the rampage overwhelming a country they invaded (e.g., Pss 46; 93; Isa 8:7–8). Yet again, Judah’s prospective destiny (e.g., 2:15; 4:7) is also Babylon’s.
+
+44 Finally, Yahweh returns once more to Miss Zion’s original protest. Behind Nebuchadrezzar is Bel, whose name hints at his being a swallower (bālaʿ); he swallowed the artifacts of Jerusalem by virtue of the fact that Nebuchadrezzar took them back to Babylon and put them in Bel’s temple. It implied that Bel had defeated Yahweh. Yahweh will now reassert himself217 and ensure that the artifacts return to Jerusalem. Bel’s temple now seems like the center of the world, but the world is going to stream in a different direction (Isa 2:2). Given the impressive nature of Babylon’s wall, it is quite a statement to say that this wall is falling.218
+
+
+
+
+
+8. So Be Mindful of Jerusalem and of Babylon (51:45–58c [LXX 28:45–58c])
+
+
+45Get out from within it, my people,
+
+save, each individual, his life,
+
+from Yahweh’s angry blazing!
+
+46Beware that your mind doesn’t become soft or you become afraid
+
+at the report that makes itself heard in the country.
+
+The report will come in the year
+
+and after it in the second year:
+
+Violence in the country
+
+and ruler against ruler.
+
+47Therefore, there, days are coming
+
+when I will attend to Babylon’s images.
+
+Its entire country—it will be shamed, a
+
+and all its people who are run through—they will fall within it.
+
+48Heavens and earth and all that is in them
+
+will chant over Babylon.
+
+Because from the north the destroyers will come to it (Yahweh’s affirmation):
+
+49yes, Babylon—regarding the fall of people in Israel who have been run through;
+
+yes, regarding Babylon—people in the entire earth who have been run through have fallen.
+
+50Survivors of the sword, go,
+
+don’t stand there!
+
+Be mindful of Yahweh from afar,
+
+and Jerusalem—it is to go up into your mind.
+
+51We were shamed, because we heard reviling—
+
+disgrace covered our faces.
+
+Because strangers came
+
+to the sacred places in Yahweh’s house. b
+
+52Therefore, there, days are coming (Yahweh’s affirmation)
+
+when I will attend to its images,
+
+and in its entire country the person who has been run through will groan.
+
+53When Babylon goes up to the heavens, c
+
+and when it fortifies its strong height,
+
+from me destroyers will come to it (Yahweh’s affirmation). d
+
+54The sound of an outcry from Babylon,
+
+and a great breaking from the country of Chaldea!
+
+55Because Yahweh is destroying Babylon,
+
+and eliminating a loud sound from it.
+
+Their waves e will roar like much water—
+
+the din of their sound will give out.
+
+56Because he is coming upon it,
+
+upon Babylon a destroyer.
+
+Its strong men will be captured—
+
+it will have shattered f their bows.
+
+Because Yahweh is a God of great requital—
+
+he does deal retribution. g
+
+57I will get its officials and its experts drunk,
+
+its governors and overseers and strong men.
+
+And they will sleep an everlasting sleep
+
+and will not wake up.
+
+(An affirmation of the King,
+
+Yahweh of Armies his name). h
+
+58a–cYahweh of Armies has said this.
+
+The great wall i of Babylon, broad—
+
+it will be totally levelled. j
+
+Its high gateways—
+
+they will be set on fire.
+
+a. For tēbôš, Tg “be dried up” derives the verb from yābēš rather than bûš.
+
+b. MT has a marker here.
+
+c. Tg refers this colon concretely to building structures with their top in the heavens, in anticipation of the parallel colon and with closer parallel to Gen 11:1–9.
+
+d. MT has a section marker here.
+
+e. Aq, Sym have “its waves,” an easier reading.
+
+f. LXX, Vg, Tg implicitly see ḥittәtâ as intransitive piel (cf. GK 52k), which seems implausible. More likely, the verb is impersonal; the implicit subject is the event. Qimchi (in MG) sees Babylon as the subject.
+
+g. The infinitive precedes the finite verb, underlining the factuality of the action. The idiom recurs in v. 58.
+
+h. MT has a section marker here.
+
+i. Since the subsequent adjective broad more naturally applies to the wall than to the city, and since the verb that follows is singular, plural ḥōmôt is more likely intensive than numerical (Volz, Jeremia, 439).
+
+j. The infinitive precedes the finite verb, underlining the factuality of the action.
+
+The form of this new message differs from that of vv. 34–44, but its theme links with it. It implies that the preceding protest is one Judahites need to make, as opposed to one they are actually making. They thus need to listen to Yahweh’s response. They are too settled in Babylon. They are not praying that way. The section comprises exhortations followed by declarations, then a closing vision.
+
+vv. 45–46
+
+An exhortation to be mindful and to be prepared to leave (a tricolon, a bicolon, and two linked bicola)
+
+
+
+vv. 47–49
+
+A declaration that days are coming, for Babylon’s images and people (three bicola and a tricolon)
+
+
+
+vv. 50–51
+
+Another exhortation to be mindful and to be prepared to leave (four bicola in two pairs)
+
+
+
+vv. 52–53
+
+Another declaration that days are coming, for Babylon’s images and fortification (two tricola)
+
+
+
+vv. 54–58a
+
+Jeremiah’s closing vision of Babylon’s fall (nine bicola, then a resumptive introduction and two further bicola)
+
+
+
+45 A tricolon thus introduces a recurrent exhortation, beginning from words similar to those of 50:8; 51:6, though adding the appeal to my people and the further motivation that they need to escape the threat of Yahweh’s angry blazing. That phrase again indicates that Yahweh intends to treat Babylon as he threatened to treat Judah (e.g., 4:8, 26). This time, Yahweh will not be angry with Judah, but the expression of his anger will risk anyone in Babylon being victim of collateral damage; the way things work out in the world is that “innocent people” in the wrong place at the wrong time get swallowed up with the guilty (cf. the commentary on 25:8–9a). But on this occasion (as at Sodom) Yahweh tries to get them out of the place before events overwhelm them.
+
+46 Having a soft mind can be a virtue (2 Kgs 22:19), but it can mean getting paralyzed by fear (Deut 20:3, 8). “The Jews must not lose their nerve.”219 In the mid-sixth century, the annual reports that Jeremiah speaks of could make knowledgeable people think of Babylonian politics, when Nebuchadrezzar’s death in 562 was followed over the next six years by a sequence of kings and assassinations. Josephus quotes Berosus:
+
+Nabuchodonosor fell sick and died, after a reign of forty-three years, and the realm passed to his son Evilmaraduch. This prince, whose government was arbitrary and licentious, fell a victim to a plot, being assassinated by his sister’s husband, Neriglisar, after a reign of two years. On his death Neriglisar, his murderer, succeeded to the throne, and reigned four years. His son, Laborosoardoch, a mere boy, occupied it for nine months, when, owing to the depraved disposition which he showed, a conspiracy was formed against him, and he was beaten to death by his friends. After his murder the conspirators held a meeting, and by common consent conferred the kingdom on Nabonnedos, a Babylonian and one of their gang. In his reign the walls of Babylon abutting the river were magnificently built with baked brick and bitumen.220
+
+A later and more imaginative reader might see here the sequence of kingdoms that appear in Daniel, which makes this verse the most interesting in the entire long prophecy about Babylon.221 But Yahweh may just be commenting more generally on the way “wars and rumors of wars” (Matt 24; Luke 21) characterize human history.222
+
+47–49 It’s a loose therefore, perhaps implying “in light of those facts, pay attention to this message.” Attending to Babylon’s images suggests attending to the gods they allegedly represent. The vulnerability of the images implies the powerlessness of the gods, and the disaster that comes on both images and gods means the country will be shamed by the failure of what it has trusted in. As usual, shame refers not merely to a feeling of being exposed but to the outward results of that exposure. Put crudely, shame means death, whose agent Yahweh reaffirms to be the northern destroyers. The universal chant over Babylon could thus have varying implications, including horror and satisfaction. The syntax in v. 49 is elliptical, but the meaning is reasonably clear: Babylon will fall because it has caused so many deaths in Israel. And it will fall because it has caused so many deaths among other nations too. “Oppressed people sigh, requesting a judgment from God, when tyrants and blasphemers seem to themselves to be glorious and think themselves to be highly esteemed. But this judgment of God will speak to everything.” Indeed, the tyrants and blasphemers “have been condemned, I say, by the sighs and prayers of people even before the judgment of God is seen and understood.”223
+
+50 A second sequence of exhortation and promise parallels vv. 45–49. Following the reference to people having fallen, those who are rhetorically survivors of the sword are the survivors of the carnage Babylon caused in 597 or 587. Jeremiah encouraged them to settle down in Babylon, and once Babylon fell, understandably not many wanted to return to Jerusalem. Verses 45–49 have given one reason why Judahites in Babylon must resist the temptation just to stand there, but Jeremiah now gives what one might see as a deeper reason. From afar there in Babylon, they are to be mindful of Yahweh rather than putting Yahweh and Jerusalem out of mind. The exhortation raises new possibilities about the significance of Ps 137, which refuses to forget Jerusalem and makes a commitment to keep the city in mind and to let it “go up” above any other joy. Be mindful and go up are the same verbs as in Ps 137:6. While Jer 29 indicates that it’s possible to think about Jerusalem too much and not settle down in Babylon, Jer 51 indicates that it’s possible not to think about Jerusalem enough and not to be ready to leave.
+
+51 The we statements may indicate why people might not want to think about Jerusalem. They are traumatized. Shame, reviling, and disgrace that Yahweh threatened and then imposed (e.g., 24:9) are things people want to forget. In this context, they are distraught at strangers defiling Yahweh’s sanctuary not for Yahweh’s sake but because of the shame it brought to them.224 Babylon’s destruction will shame Babylon and raise questions about its gods. Jerusalem has already gone through that experience.
+
+52–53 This therefore is more straightforward than the one in v. 47, even if the Judahites’ concern in v. 51 focused more on themselves than on Yahweh. Yahweh again speaks of attending to the images. Perhaps the order of events in v. 52b is reverse chronological: first they groan, then (having been run through) they die. But Jeremiah’s vivid imagination may have the Babylonians continuing to groan over the fate of their city after they die.225 The subsequent description of Babylon as going up to the heavens parallels Isa 14:13 and suggests overreach in thinking and self-understanding, though it also recalls the story of Babel in Gen 11:1–9; when it fortifies its strong height in the parallel colon recalls the building project of which that story speaks.
+
+54–55 Once more, Jeremiah starts again with another anticipatory description of the city’s destruction. The poet-prophet “is the one who hears before others hear.”226 Sound is the key word here.227 First, there is the sound of an outcry, the cry of pain and protest that will issue from the city when the great breaking comes upon it. Its background is that, in destroying Babylon, Yahweh will be eliminating a loud sound from it, the sound (for instance) of its battle forces (4:29) that roar like the sea (6:23) or the sound of community merrymaking and celebration (7:34). Instead, there is the sound of the roaring of the destroyers’ waves, whose ocean-like breakers with their din have overwhelmed the Babylonian ocean. “When Yahweh despoils Babylon (v. 55), the stir and noise associated with the life of a great city will yield to a stillness which is the silence of death.”228
+
+56–57 And once again, behind the destroyers is the Destroyer. Captured and shattered recur from 50:2 and in a small way suggest a frame around 50:2–51:58, though the verbs are common—they come also in 50:9, 10, 24, 36; 51:31, 41. More significant are further points of connection with Ps 137:
+
+Miss Babylon, to be destroyed,
+
+the blessings of the one who deals retribution to you,
+
+the requital that you have dealt to us!
+
+The blessings of the one who seizes hold
+
+and shatters your babies toward the cliff!
+
+“Destroy,” “retribution,” “requital,” “shatter,” “cliff”: all are words in common between the psalm and the context in Jeremiah. The prophecy declares that the wish and prayer of the psalm will be fulfilled, or the psalm voices the wish and prayer that the prophecy encourages. The promise about sleep recurs from v. 39, and the verses’ promise as a whole is undergirded by the unusually long reassurance about Yahweh’s affirmation. After the ten references to human kings in Jer 50–51, the chapters almost close with a reminder that Yahweh is the real King.
+
+58a–c One might have expected the reassurance regarding Yahweh’s affirmation to mark the end of the messages about Babylon, but actually it is not characteristic for such reassurances to close off a message. While occasionally they do (e.g., 50:30; 51:24, 26), more often they come in the middle of a message (e.g., 50:10, 21, 35, 40; 51:39). And there is no particular reason to see the final pair of bicola as a message on its own. Rather, it is they that bring vv. 54–58a to a close, with another bold assertion,229 that the city’s great wall … will be totally levelled and its high gateways destroyed.
+
+
+
+
+
+9. Conclusion (51:58d [LXX 28:58d])
+
+
+Peoples will toil a for emptiness;
+
+countries—for fire b they will get weary. c
+
+a. LXX has “will not toil”: that is, the nations’ work in attacking Babylon will not be wasted (R. P. Carroll, Jeremiah, OTL, 853).
+
+b. For MT bāʾēš, LXX “in rule” implies bәrōʾš, a slip (CTAT, 2:851–53).
+
+c. MT has a section marker here.
+
+The move to anonymous plural “peoples” and “countries” for the last line in 46:1–51:58 suggests that it closes off the sequence of messages about foreign nations.230
+
+58d The line almost corresponds to Hab 2:13:
+
+Peoples will toil231 for fire;
+
+countries—for emptiness they will get weary.232
+
+In keeping with the usual pattern, opinions differ on whether Jeremiah is quoting Habakkuk or Habakkuk is quoting Jeremiah or both have a common source—perhaps a proverbial saying233 worthy of Ecclesiastes that is here applied to a particular context. Either way, the line makes a telling general comment on Babylon in particular and on nations in general. Jeremiah incorporates no suggestion that Judah should take up arms against Babylon or any other nation. He has no thought of Judah taking redress for wrongs that other peoples have done to it. But his framework for thinking about such questions differs from the concern about nonviolence that has become prevalent in some Western thinking over the past century, and he has no instinct toward friendly attitudes to other religions.
+
+The worshiping community would publicly re-enact God’s involvement in history, God’s victory over oppressive regimes, and God’s reign on earth. Through ridicule, revel, and affirmation, the worshiping congregation would envision God subverting and disassembling pretentious world powers as a way to carry out divine justice and sovereignty…. [The messages’] weapons are rhetoric and imagination not military hardware. They represent the liturgical literature of refugees who find themselves on the margins of society without power, temple, land, or hope.234
+
+In this context, the messages declare that Yahweh reigns, that he is involved in contemporary events on the political and military stage, and that he is putting paid to its power structures.235 They suggest the prayer:
+
+Grant, Almighty God, that since we see that the most opulent kingdoms have not escaped thy hand, we may learn to recumb [recline] only on thine aid, and to submit ourselves to thee, with due humility, so that we may be protected by thy hand, and that this only true confidence may sustain us in all perils, that thou hast undertaken the care of our salvation; and that we may, in the meantime, fight under thy banner with sincerity and uprightness of life, until we shall at length enjoy the fruit of our victory, in the celestial kingdom, through Christ our Lord.—Amen.236
+
+
+
+
+
+10. The Story of the Scroll, and Another Conclusion (51:59–64 [LXX 28:59–64])
+
+
+59The word that Jeremiah the prophet ordered a Seraiah ben Neriah, son of Mahseiah, when he went with b Zedekiah King of Judah to Babylon in the fourth year of his reign, when Sereiah was accommodation official. c 60Jeremiah wrote down the entire dire fate that would come to Babylon in one document, all these things that are written for Babylon. 61And Jeremiah said to Seraiah: When you come to Babylon, see that you read out d all these things, 62and say, Yahweh, you yourself spoke regarding this place, about cutting it off so that there will not be in it human being or animal, because it will be a great desolation for all time. 63And when you have finished reading out this document, you are to tie a stone to it and throw it into the middle of the Euphrates 64and say, So will Babylon sink and not get up in the face of the dire fate e that I am letting come upon it. So they will get weary.
+
+As far as this are Jeremiah’s words. f
+
+a. LXX has “the word that the Lord ordered Jeremiah the prophet to speak to”; the action is undertaken on Yahweh’s initiative, not on Jeremiah’s (see the commentary), perhaps because it is what one would expect theologically (McKane, Jeremiah, 2:1350).
+
+b. For ʾet, Vg, Aq, Sym have “with,” but LXX has “from,” implying mēʾēt; Tg “in/with the commission of” is ambiguous.
+
+c. Lit. “official of rest.” For MT mәnûḥâ, LXX, Tg “gift[s]” suggests mәnāḥôt/mәnāḥâ, “official in charge of the tribute”; Vg “prophecy” suggests hammaśśāʾ as in 1 Chr 15:27 (BHS) or suggests that mәnûḥâ implies the spirit of God “resting” on him as in Num 11:25 (HUBP).
+
+d. Lit. “see and read out”; for this idiom, cf. Exod 25:40.
+
+e. For MT hārāʿâ, “the Chaldeans” in the Codex Vaticanus of the Septuagint (LXXB) implies kaśdîm.
+
+f. MT has a marker here. LXX lacks So they will get weary. As far as this are Jeremiah’s words.
+
+Following the messages about different nations, and specifically the messages about Babylon, is a story about how Jeremiah sends the messages about Babylon to Babylon. While it might be “just a story,”237 it threatens to deconstruct if it tells of something that never happened. It relates that Jeremiah took action to see that Yahweh implemented his intentions about Babylon; if he did not, the story backfires. Given that many of the messages in Jer 50–51 seem likely to have come from after 587, however, a 594 document would not have contained all these things that are written for Babylon—if all these things implies the entirety of Jer 50–51. Like other stories in Jeremiah, then, vv. 59–64 are likely to be dramatized fact, a story based on fact, rather than simply history. The story illustrates how a document can become an independent actor in a narrative. Documents can communicate across geographical and temporal distances; they are both fragile and durable, and they exist in both mundane and divine realms. In Jeremiah, texts are rarely devoid of some sense of their performative, effective capacity. They are the stuff of normal, everyday interactions, but they also have the capacity to serve higher purposes. “This mysterious aspect of the written word … comes, not from some abstract notion of magical power, but from the power inherent in Yhwh’s involvement in that written word.”238
+
+59 The story refers to something that happened in 594. Zedekiah’s going to Babylon that year was perhaps an expression of his loyalty to Nebuchadrezzar, who had put him on the throne in place of Jehoiachin (2 Kgs 24:17). The setting might be the aftermath of the plotting at which Jer 27–28 hints or in the broader context of Babylon being in difficulty with the southwestern corner of its empire, near Egypt.239 LXX plausibly implies that Zedekiah was delivering Judah’s taxes; it would be one concrete expression of loyalty. MT likely implies that Seraiah’s role involved arranging lodgings for the king and his entourage on the journey—it would take a number of weeks. A seal from Jerusalem bears Seraiah’s name (see the commentary on 36:11–14a); 32:12 invites the inference that he was Baruch’s brother and that the Mahseiah family might have been a family of scribes.240
+
+60 The story concerns a symbolic act, comparable to earlier such acts on Jeremiah’s part but with distinctive features. It is an act of some complexity; its several aspects have similar implications, but they work in different ways. First, writing the document puts Yahweh’s words into writing and contributes to ensuring that they come about. The commission heightens the contrast between the document’s contents and Jeremiah’s insistence that Zedekiah must submit to Nebuchadrezzar. It hardly follows that “the dating of this anti-Babylon sign-act to the fourth year of Zedekiah (51:59) clearly indicates that the ‘serve Babylon and live’ philosophy had met with strong opposition in the years immediately following 597.”241 Setting the oracles against Babylon in this particular year suggests that different perspectives on Babylon are not to be explained merely by attributing them to different people or to the same person at different times. Both the present submission to Babylon and the ultimate doom of Babylon are Yahweh’s will.242 Jeremiah’s entrusting Seraiah with his commission does carry massive irony given that the document that he sends is full of declarations that Babylon is going to fall. “How ironic that the diplomatic bag which carried such wealth also contained the book of curses!”243
+
+61–62 Reading the document aloud adds to the effectiveness of writing: it becomes something out there in the world—the world where it needs to be implemented. While Seraiah would perhaps read the document in the hearing of the Judahites in Babylon or of the Babylonians themselves (which would be brave, given its contents),244 the story does not say so, and the reading is not a political act. It’s not like the public reading in Jer 36. This reading happens in order for Yahweh to hear it, with an implicit challenge to Yahweh to do as he has said in these messages. This feature of the commission fits with one distinctive aspect of the story: that the commission happens on Jeremiah’s initiative, not Yahweh’s (again, it’s possible that Yahweh bade Jeremiah initiate this action, but the story does not say so). The reading is an acted prayer, which makes a link with 51:34–44; Seraiah is to wave the document in Yahweh’s face.245 Whereas Jeremiah’s words addressed to Babylon were a speech act, in his commission to Seraiah, “Jeremiah effectually creates a new illocution for Seraiah to perform” as “the audience changes from the hearers of the oracle to God himself when Seraiah prays.”246 Jeremiah refers to Babylon as this place, a key phrase in the Jeremiah scroll, which moves from Jerusalem as “this place” (Jer 7) to all the places where Baruch may go (45:5) to Babylon as this place.247 As Jerusalem has been compromised as a sacred space, Babylon has been a kind of interim sacred space.248 But using the phrase this place also links ironically with the transfer of curses in Jeremiah from Jerusalem to Babylon.249
+
+63 Seraiah’s action is not like the depositing of a document. Nor does it constitute “text destruction” like that in Jer 36.250 Throwing the document into the river so that it sinks will prevent its destruction, add yet further to the implementing of its declarations, and further guarantee their fulfillment. The city’s fate is sealed by the drowning of all the messages that speak about it. “Nothing can now prevent Babylon’s defeat.”251
+
+64a The story compares with other accounts of symbolic acts in Jeremiah that include no account of the act’s happening; formally, the story is like a colophon.252 It exists for the sake of the people who read it, who thereby receive the assurance that Yahweh will fulfill the messages in Jer 50–51. Although the story refers to an event in 594, it carries no implication for when the story was told. It might have been after 587; and within the Jeremiah scroll, it speaks to people living after 587. The last words within the story, so they will get weary, make explicit that the closing line in Jeremiah’s own words in v. 58 indeed applies to the Babylonians. “In the slaughter of Babylon as well as of the rest of the nations in chs. 46–49, Yahweh is able to display the futility of the world’s imperial intentions.”253
+
+64b This closing sentence might be the colophon that originally applied just to Jer 50–51 or to Jer 46–51,254 but within the Jeremiah scroll, it notes the fact that we are actually at the end of Jeremiah’s words; there are none in Jer 52.
+
+
+
+
+1. R. P. Carroll, Jeremiah, OTL, 751. See, e.g., J. H. Hayes, “The Usage of Oracles against Foreign Nations in Ancient Israel,” JBL 87 (1968): 81–92.
+
+2. J. Hwang, “The Missio Dei as an Integrative Motif in the Book of Jeremiah,” BBR 23 (2013): 500.
+
+3. For discussion, see, e.g., M. Haran, “The Place of the Prophecies against the Nations in the Book of Jeremiah,” in Emanuel: Studies in Hebrew Bible, Septuagint, and Dead Sea Scrolls in Honor of Emanuel Tov, ed. S. M. Paul et al., VTSup 94 (Leiden: Brill, 2003), 699–706; H.-J. Stipp, “Das eschatologische Schema im alexandrinischen Jeremiabuch,” VT 64 (2014): 484–501; J. W. Watts, “Text and Redaction,” 432–47.
+
+4. Diamond, “Jeremiah,” 611.
+
+5. P. R. Raabe, “What Is Israel’s God Up To?,” 233.
+
+6. See P. D. Miller, “Jeremiah,” for his “Reflections” on Jer 46–51.
+
+7. Fretheim, Jeremiah, 575, 577.
+
+8. J. G. Amesz, “A God of Vengeance? Comparing Yhwh’s Dealings with Judah and Babylon in the Book of Jeremiah,” in Kessler, Reading the Book of Jeremiah, 99–116.
+
+9. Holladay, Commentary on Jeremiah, 2:313.
+
+10. Diamond, “Jeremiah,” 610.
+
+11. Grayson, Chronicles, 99.
+
+12. On the thinness of data on Neco, see H. M. Barstad, “Jeremiah the Historian,” in Studies on the Text and Versions of the Hebrew Bible in Honour of Robert Gordon, ed. G. Khan and D. Lipton, VTSup 149 (Leiden: Brill, 2012), 91–94.
+
+13. J. J. Jackson, “Jeremiah 46: Two Oracles on Egypt,” HBT 15 (1993): 141.
+
+14. Jones, Jeremiah, 493.
+
+15. Holladay, Commentary on Jeremiah, 2:318. See further C. de Jong, “Deux oracles contre les nations: Reflets de la politique étrangère de Joaqim,” in Bogaert, Livre de Jérémie, 369–79.
+
+16. CHP, 382.
+
+17. J. R. Huddlestun, “‘Who Is This That Rises Like the Nile?’ Some Egyptian Texts on the Inundation and a Prophetic Trope,” in Beck et al., Fortunate the Eyes That See, 360–63.
+
+18. See D. T. Adamo, “The Portrayal of Africa and Africans in the Book of Jeremiah,” In die Skriflig 52 (2018).
+
+19. Pixley, Jeremiah, 136.
+
+20. See ANET, 308; Wiseman, Chronicles of Chaldaean Kings, 94–95; and for the other possibilities, Keown, Scalise, and Smothers, Jeremiah 26–52, 287–88.
+
+21. M. Jones, “The Temple of Apis in Memphis,” Journal of Egyptian Archaeology 76 (1990): 141–47.
+
+22. Cf. Qimchi, in MG.
+
+23. “It is sweet and proper to die for one’s country” (Horace, Odes 3.2.13); cf. Berrigan, Jeremiah, 178.
+
+24. Calvin, Jeremiah, 4:650.
+
+25. J. K. Hoffmeier, “A New Insight on Pharaoh Apries from Herodotus, Diodorus and Jeremiah 46:17,” Journal of the Society for the Study of Egyptian Antiquities 11 (1981): 165–70.
+
+26. The monster associated with Egypt is rahab, not the rāḥāb of Josh 2.
+
+27. J. Goldingay, “Jeremiah and the Superpower,” in Goldingay, Uprooting and Planting, 65–67.
+
+28. Cf. Fischer, Jeremia, 2:489–90.
+
+29. G. Galvin, Egypt as a Place of Refuge, 154.
+
+30. M. A. Fishbane, Haftarot, The JPS Bible Commentary (Philadelphia: Jewish Publication Society, 2002), 97.
+
+31. R. P. Carroll, Jeremiah, OTL, 771.
+
+32. Weiser, Jeremia, 2:395.
+
+33. Qimchi, in MG.
+
+34. E. Peels, “‘But Fear Not, O Jacob My Servant’: Place and Function of the Salvation Oracle Jeremiah 46:27–28 MT,” in Biblical Hebrew in Context: Essays in Semitics and Old Testament Texts in Honour of Professor Jan P. Lettinga, ed. K. van Bekkum, Gert Kwakkel, and Walter H. Rose, OTS 74 (Leiden: Brill 2018), 114–29.
+
+35. Brueggemann, Jeremiah 26–52, 229–30.
+
+36. Wiseman, Chronicles of Chaldaean Kings, 71.
+
+37. Lundbom, Jeremiah 37–52, 233.
+
+38. See McKane’s discussion in Jeremiah, 2:1153–54.
+
+39. McKane, Jeremiah, 2:1141.
+
+40. See the Sennacherib Annals, ANET, 288.
+
+41. Brueggemann, Jeremiah 26–52, 231.
+
+42. Contra Duhm, Jeremia, 342–44.
+
+43. H. J. Katzenstein, “‘Before Pharaoh Conquered Gaza’ (Jeremiah xlvii 1),” VT 33 (1983): 249–51; E. Peels, “‘Before Pharaoh Seized Gaza’: A Reappraisal of the Date, Function, and Purpose of the Superscription of Jeremiah 47,” VT 63 (2013): 308–22.
+
+44. Holladay, Commentary on Jeremiah, 2:338.
+
+45. ANET, 308.
+
+46. See, e.g., J. M. Miller, “Moab and the Moabites,” in Studies in the Mesha Inscription and Moab, ed. J. A. Dearman, Archaeology and Biblical Studies 2 (Atlanta: Scholars, 1989), 1–40.
+
+47. From A. R. van der Deijl, Protest or Propaganda: War in the Old Testament Book of Kings and in Contemporaneous Ancient Near Eastern Texts, SSN 51 (Leiden: Brill, 2008), 304–9.
+
+48. See further G. L. Mattingly, “Moabite Religion and the Mesha‘ Inscription,” in Dearman, Studies in the Mesha Inscription, 211–38.
+
+49. R. P. Carroll, Jeremiah, OTL, 795.
+
+50. See H.-P. Müller, “Chemosh,” DDD, 186–89.
+
+51. Wildberger (Isaiah 13–27, 127–29) lays out the parallels in Hebrew.
+
+52. Where Jer 48:5 has bekî, Isa 15:5 has bô.
+
+53. Isa 15:5 lacks the explicit preposition bә.
+
+54. Isa 16:6 has the hapax legomenon gēʾ; Jer 48:29 has the usual gēʾeh.
+
+55. Isa 15:5 also has “my heart cries out for Moab.”
+
+56. Isa 16:7 has laʾăšîšê, but Jer 48:31 has ʾel ʾanšê, “a milder reading” (Holladay, Commentary on Jeremiah, 2:343).
+
+57. Isa 16:9 has gepen; Jer 48:32 has haggepen.
+
+58. Isa 16:8 has these cola in a different order.
+
+59. Isa 16:9 has qәṣîrēk; Jer 48:32 has bәṣîrēk.
+
+60. Isa 16:10 has a masculine verb; Jer 48:33 has a feminine verb.
+
+61. Isa 15:6 has simply mәšammôt; Jer 48:34 has limәšammôt.
+
+62. Num 21:28 has a masculine verb; Jer 48:45 has a feminine.
+
+63. Num 21:28 has a qatal verb; Jer 48:45 has a waw-consecutive. Num 24:17 has “it will smash the brow of Moab.”
+
+64. Num 24:17 has “the foundation [qarqar] of all the people of Seth” (if “foundation” is the meaning of qarqar and if śēt denotes Seth), while scalp in Jer 48:45 is qodqōd.
+
+65. In Num 21:29, captivity is šәbît; in Jer 48:46, it is šebî then šibyâ.
+
+66. See, e.g., Bright, Jeremiah, 322; Holladay, Commentary on Jeremiah 2:346–49; Wildberger, Isaiah 13–27, 124–25; J. Blenkinsopp, Isaiah 1–39: A New Translation with Introduction and Commentary, AB 19 (New York: Doubleday, 2000), 297–98.
+
+67. Calvin, Jeremiah, 5:33.
+
+68. J. I. Woods lays out Jer 48 MT and LXX synoptically, then comments on the differences between the two, in Jeremiah 48 as Christian Scripture (Cambridge: Clarke, 2011), 25–66.
+
+69. Cf. Duhm, Jeremia, 345; he calls the chapter a “strange anthology.”
+
+70. Thus my divisions hardly ever correspond to Lundbom’s (Jeremiah 37–52, viii-ix), Allen’s (Jeremiah, 477–78), or Holladay’s (Commentary on Jeremiah, 2:349–53).
+
+71. See Lundbom, “Language and Rhetoric,” 212–19.
+
+72. See the discussion of Isa 15–16 in this connection in B. C. Jones, Howling over Moab: Irony and Rhetoric in Isaiah 15–16, SBLDS 157 (Atlanta: Scholars, 1996), 113–61, 231–41.
+
+73. Woods, Jeremiah 48, 227.
+
+74. See C. Ben-David, “The ‘Ascent of Luhith’ and the ‘Road to Horonaim,’” Palestine Exploration Quarterly 133 (2001): 136–44.
+
+75. Woods, Jeremiah 48, 188–216.
+
+76. See W. D. Barker, “Wine Production in Ancient Israel and the Meaning of šәmārîm in the Hebrew Bible,” in Leshon Limmudim: Essays on the Language and Literature of the Hebrew Bible in Honour of A. A. Macintosh, ed. D. A. Baer and R. P. Gordon, LHBOTS 593 (London: T&T Clark, 2013), 268–74; he thinks v. 11a implies the spoiling has happened, but v. 11b suggests it hasn’t.
+
+77. See W. Röllig, “Bethel,” DDD, 173–75.
+
+78. C. J. Sharp, “Embodying Moab: The Figuring of Moab in Jeremiah 48 as Reinscription of the Judean Body,” in Concerning the Nations: Essays on the Oracles against the Nations in Isaiah, Jeremiah and Ezekiel, ed. A. Mein, E. K. Holt, and H. C. P. Kim, LHBOTS 612 (London: T&T Clark, 2016), 108.
+
+79. Lundbom, Jeremiah 37–52, 279.
+
+80. Brueggemann, Jeremiah 26–52, 240.
+
+81. See HALOT.
+
+82. Barth, CD IV, 1:473.
+
+83. Lundbom, Jeremiah 37–52, 288.
+
+84. But K. A. D. Smelik questions these assumptions and argues for the north (Converting the Past: Studies in Ancient Israelite and Moabite Historiography, OTS 28 [Leiden: Brill, 1992], 85–89).
+
+85. Volz, Jeremia, 414.
+
+86. Oecolampadius, In Hieremiam, on the passage; cf. Tyler, Jeremiah, 421.
+
+87. BDB, 32. ʾȆkâ in v. 17 was more unequivocally doleful (cf. Lam 1:1; 2:1; 4:1, 2).
+
+88. Brueggemann, Jeremiah 26–52, 246.
+
+89. Lundbom, Jeremiah 37–52, 315.
+
+90. C. W. Tyson alternatively suggests a link with events between 597 and 587; see The Ammonites: Elites, Empires, and Sociopolitical Change (1000–500 BCE), LHBOTS 585 (London: T&T Clark, 2014), 120–21.
+
+91. E. Puech, “Milcom,” DDD, 575–77.
+
+92. P. D. Miller, “Jeremiah,” on the passage.
+
+93. Calvin, Jeremiah, 5:70.
+
+94. It is one indication that vv. 1–5 might be in origin a Moab prophecy; see E. A. Knauf, “Jeremia xlix 1–5: Ein zweites Moab-Orakel im Jeremia-Buch,” VT 42 (1992): 124–28.
+
+95. Theodoret, Ermeneia, PG 81:728.
+
+96. Brueggemann, Jeremiah 26–52, 250.
+
+97. W. H. Schmidt, Jeremia, 2:305.
+
+98. Theodoret, Ermeneia, PG 81:728.
+
+99. See L. Haney, “Yhwh the God of Israel … and of Edom?” in Goldingay, Uprooting and Planting, 78–115.
+
+100. The Obadiah version of this section is thus longer than the Jeremiah version, and it has two of the cola as rhetorical questions instead of statements, but the substance is the same.
+
+101. Mayer, Commentary, 446.
+
+102. Allen, Jeremiah, 496.
+
+103. McKane, Jeremiah, 2:1215.
+
+104. E. Assis, Identity in Conflict: The Struggle between Esau and Jacob, Edom and Israel, Siphrut 19 (Winona Lake, IN: Eisenbrauns, 2016), 95–96.
+
+105. Holladay, Commentary on Jeremiah, 2:375.
+
+106. J. Bugenhagen, In Ieremiam, on the passage, as quoted in Tyler, Jeremiah, 426.
+
+107. Boadt, Jeremiah 26–52, 134–35.
+
+108. R. Graybill, “Jeremiah, Sade, and Repetition as Counterpleasure in the Oracle against Edom,” in Holt and H. C. P. Kim, Concerning the Nations, 128–29.
+
+109. So Calvin, Jeremiah, 5:112–13.
+
+110. Josephus’s account (Jewish Antiquities 13.9.1) suggests forced conversion; but see, e.g., the discussion in A. Kasher, Jews, Idumaeans, and Ancient Arabs: Relations of the Jews in Eretz-Israel with the Nations of the Frontier and the Desert During the Hellenistic and Roman Era (332 BCE – 70 CE), Texte und Studien zum Antiken Judentum 18 (Tübingen: Mohr Siebeck, 1988), 44–78.
+
+111. Weiser, Jeremia, 2:419.
+
+112. McKane, Jeremiah, 2:1230–31.
+
+113. Trapp, Commentary, on the passage.
+
+114. P. D. Miller, “Jeremiah,” 357 (English updated).
+
+115. McKane, Jeremiah 2:1234.
+
+116. Keown, Scalise, and Smothers, Jeremiah 26–52, 334.
+
+117. CTAT, 2:812.
+
+118. Holladay, Commentary on Jeremiah, 2:381.
+
+119. Lundbom, Jeremiah 37–52, 353; he refers to ANET, 284, 286, 291–92, 297–301, which record the Assyrian campaigns against and plundering of tribes in Arabia.
+
+120. Allen, Jeremiah, 500.
+
+121. So P. D. Miller, “Jeremiah,” on the passage.
+
+122. Grayson, Chronicles, 101; ANET, 564.
+
+123. Lundbom, Jeremiah 37–52, 354.
+
+124. Holladay, Commentary on Jeremiah, 2:387.
+
+125. Cf. H. G. L. Peels, “God’s Throne in Elam,” OTS 44 (2000): 216–29.
+
+126. P. D. Miller, “Jeremiah,” in his reflections on Jer 46–51.
+
+127. Grayson, Chronicles, 102; see further Lundbom, Jeremiah 37–52, 362.
+
+128. M. K. Chae emphasizes the hopeful aspect to the arrangement (“Redactional Intentions of MT Jeremiah Concerning the Oracles against the Nations,” JBL 134 [2015]: 577–93).
+
+129. Fischer, Jeremia, 2:630.
+
+130. Pixley, Jeremiah, 144.
+
+131. R. P. Carroll, Jeremiah, OTL, 814.
+
+132. A. Kalmanofsky, “‘As She Did, Do to Her’: Jeremiah’s OAN as Revenge Fantasies,” in Mein, Holt, and H. C. P. Kim, Concerning the Nations, 109–27; but H. S. Pyper critiques the chapters’ implicitly quietist stance in “Postcolonialism and Propaganda in Jeremiah’s Oracles against the Nations,” in Mein, Holt, and H. C. P. Kim, Concerning the Nations, 145–57.
+
+133. See, e.g., Rudolph, Jeremia, 297–99.
+
+134. R. I. Thelle, “Babylon in the Book of Jeremiah (MT),” in Barstad and Kratz, Prophecy, 216–17; cf. J. Hill’s (Friend or Foe?) thesis that the notion of metaphor is key to understanding Babylon in Jeremiah.
+
+135. Y. Hoffman, “Jeremiah 50–51 and the Concept of Evil in the Hebrew Bible,” in The Problem of Evil and Its Symbols in Jewish and Christian Tradition, ed. H. G. Reventlow and Y. Hoffman, JSOTSup 366 (London: T&T Clark, 2004), 14–28.
+
+136. Wright, Jeremiah, 436.
+
+137. See Keown, Scalise, and Smothers, Jeremiah 26–52, 363–64.
+
+138. Again, see “Unity of Composition,” pp. 5–26; “Authorship and Date,” pp. 27–36. S. Frolov argues that 52:31–34 in their 2 Kings version must date from within Evil-merodach’s reign from 562 to 560 and thus that 2 Kings reached its final form by that date (“Evil-Merodach and the Deuteronomist: The Sociohistorical Setting of Dtr in the Light of 2 Kgs 25,27–30,” Bib 88 [2007]: 174–90); the same argument would suggest that the Jeremiah scroll reached its final form by that date.
+
+139. Boadt, Jeremiah 26–52, 139. R. P. Carroll (Jeremiah, OTL, 843) questions this analogy on the grounds that Isa 10:5–19 accuses Assyria of excessive zeal, but actually its argument seems to concern arrogance—as is the case in Jer 50–51.
+
+140. M. Leuchter, “Sacred Space and Communal Legitimacy in Exile: The Contribution of Seraiah’s Colophon (Jer 51:59–64a),” in Boda et al., Prophets Speak on Forced Migration, 84.
+
+141. Cf. Wright, Jeremiah, 438–39; and the commentary on 21:10 above.
+
+142. R. P. Carroll, Jeremiah, OTL, 816.
+
+143. K. A. D. Smelik, “The Function of Jeremiah 50 and 51 in the Book of Jeremiah,” in Kessler, Reading Jeremiah, 87–98.
+
+144. See M. Köszeghy, Der Streit um Babel in den Büchern Jesaja und Jeremia, BWANT 173 (Stuttgart: Kohlhammer, 2007).
+
+145. Cf. R. P. Carroll, Jeremiah, OTL, 842, 847, 855.
+
+146. Calvin, Jeremiah, 4:197.
+
+147. My understanding of the chapters’ structure thus compares with those of K. T. Aitken, “The Oracles against Babylon in Jeremiah 50–51,” TynB 35 (1984): 25–63; and A. O. Bellis, The Structure and Composition of Jeremiah 50:2–51:58 (Lewiston, NY: Mellen, 1995).
+
+148. Cf. Wright, Jeremiah, 433–36.
+
+149. Stulman, Jeremiah, 385.
+
+150. Wright, Jeremiah, 440.
+
+151. Allen, Jeremiah, 509. Cf. B. Gosse, “L’enracinement du livre de Jérémie dans le Psautier: Teil 1,” Biblische Notizen 158 (2013): 41–44.
+
+152. R. P. Carroll, Jeremiah, OTL, 834; cf. Allen, Jeremiah, 509.
+
+153. Trapp, Commentary, 358 (spelling updated).
+
+154. See T. Abusch, “Marduk,” DDD, 543–49; Abusch notes that there are various ways of vocalizing the name, and the Hebrew version does not seem to be pejorative like Molech (see the commentary on 32:35).
+
+155. R. Thelle, “Babylon as Judah’s Doppelgänger: The Identity of Opposites in the Book of Jeremiah,” in Mein, Holt, and H. C. P. Kim, Concerning the Nations, 77–94; cf. Reimer’s concluding comments to his study of forms and imagery in Jer 50–51 (Oracles against Babylon, 240).
+
+156. Brueggemann, Jeremiah 26–52, 261.
+
+157. Lundbom, Jeremiah 37–52, 376.
+
+158. M. Kessler, Battle of the Gods: The God of Israel versus Marduk of Babylon. A Literary/Theological Interpretation of Jeremiah 50–51, SSN 42 (Assen: van Gorcum, 2003), 71.
+
+159. Lundbom, Jeremiah 37–52, 375.
+
+160. Brueggemann, Jeremiah 26–52, 261.
+
+161. Allen, Jeremiah, 513.
+
+162. H. Bullinger in his sermon on this passage, as quoted in Tyler, Jeremiah, 438.
+
+163. Qimchi, in MG, as paraphrased by Rosenberg, Jeremiah, 2:383.
+
+164. Cf. Gosse, “Masoretic Redaction of Jeremiah,” 79.
+
+165. Keown, Scalise, and Smothers, Jeremiah 26–52, 366.
+
+166. Foreman, Animal Metaphors, 84.
+
+167. Kessler, Battle of the Gods, 88.
+
+168. Weiser, Jeremia, 2:438.
+
+169. Thompson, Jeremiah, 742–43.
+
+170. You is masculine singular, and Isaac Abravanel (Commentary on the Latter Prophets) neatly identifies Belshazzar as the embodiment of arrogance, though the pronoun may simply reflect the gender and number of zādôn.
+
+171. Lundbom, Jeremiah 37–52, 413.
+
+172. A. O. Bellis, “Poetic Structure and Intertextual Logic in Jeremiah 50,” in Diamond, K. M. O’Connor, and Stulman, Troubling Jeremiah, 179–99.
+
+173. Cf. P. R. Ackroyd, Studies in the Religious Tradition of the Old Testament (London: SCM, 1987), 61–75.
+
+174. Thompson, Jeremiah, 743–44.
+
+175. B. Gosse, “Jérémie 50,33–40, en relation avec les psaumes d’Asaph et deutéro-Asaphites et le livre d’Isaïe,” BN 158 (2013): 4–6.
+
+176. Calvin, Jeremiah, 4:205.
+
+177. So A. O. Bellis, “The New Exodus in Jeremiah 50:33–38,” in Imagery and Imagination in Biblical Literature: Essays in Honor of Aloysius Fitzgerald, F. S. C., ed. L. Boadt and M. S. Smith, CBQ Monograph 32 (Washington, DC: Catholic Biblical Association, 2001), 157–68.
+
+178. W. Shakespeare, Romeo and Juliet, Act III, Scene 1; cf. Lundbom, Jeremiah 37–52, 419.
+
+179. W. Brueggemann, “At the Mercy of Babylon,” 7–8.
+
+180. Qimchi (in MG) again finds Belshazzar here.
+
+181. Cf. Holt, “Meaning of an Inclusio,” 181–205.
+
+182. Whereas 49:19 has the spelling yōʿîdennî, 50:44 has yôʿidennî.
+
+183. Whereas 49:21 has the usual qal verb, 50:46 has the niphal.
+
+184. Rudolph, Jeremia, 305.
+
+185. Duhm, Jeremia, 366.
+
+186. McKane, Jeremiah, 2:1295.
+
+187. Qimchi, in MG.
+
+188. R. P. Carroll, Jeremiah, OTL, 838.
+
+189. Qimchi, in MG.
+
+190. Qimchi, in MG.
+
+191. Calvin, Jeremiah, 4:240.
+
+192. McKane, Jeremiah, 2:1300.
+
+193. Kessler, Battle of the Gods, 106.
+
+194. Duhm, Jeremia, 368.
+
+195. Isaac Abravanel, Commentary on the Latter Prophets, as paraphrased by Rosenberg, Jeremiah, 2:396.
+
+196. Cf. Duhm, Jeremia, 368.
+
+197. R. P. Carroll, Jeremiah, OTL, 839.
+
+198. Bright, Jeremiah, 356.
+
+199. Kessler, Battle of the Gods, 113.
+
+200. Brueggemann, “Jeremiah: Creatio in Extremis,” 163.
+
+201. Pixley, Jeremiah, 152.
+
+202. Brueggemann, Jeremiah 26–52, 272.
+
+203. Boadt, Jeremiah 26–52, 145.
+
+204. Pixley, Jeremiah, 153.
+
+205. Lundbom, Jeremiah 37–52, 456.
+
+206. Allen, Jeremiah, 528.
+
+207. Holladay, Commentary on Jeremiah, 2:425. English translations of the Mishnah render the name loosely as “Mount of Olives.”
+
+208. Duhm, Jeremia, 370. Tg interprets the stones metaphorically as kings and rulers.
+
+209. See Lundbom, Jeremiah 37–52, 463–64. The application of the name Ashkenaz to an area within Europe and of the term Ashkenazi to European Jews came about in the medieval period.
+
+210. Bright, Jeremiah, 357.
+
+211. Blayney, Jeremiah, 442; see further Vanderhooft, Neo-Babylonian Empire, 188–202.
+
+212. Theodoret, Ermeneia, PG 81:752.
+
+213. R. P. Carroll (“Discombobulations of Time,” 77–78) reports that Saddam Hussein was seen in the context of the Gulf War as an embodiment of the Babylonian monster.
+
+214. Kessler, Battle of the Gods, 127.
+
+215. Allen, Jeremiah, 530.
+
+216. Weiser, Jeremia, 1:445.
+
+217. R. P. Carroll, Jeremiah, OTL, 848.
+
+218. Thompson, Jeremiah, 765.
+
+219. McKane, Jeremiah, 2:1336.
+
+220. Josephus, Against Apion 1.20.
+
+221. Duhm, Jeremia, 373.
+
+222. Mayer, Commentary, 476.
+
+223. Bugenhagen, In Ieremiam, 447; cf. Tyler, Jeremiah, 448.
+
+224. Rashi, in MG.
+
+225. It might be tempting here to understand ḥālāl to mean traumatized (LXX has traumatiai! See D. G. Garber, “Vocabulary of Trauma,” 309–22).
+
+226. Brueggemann, Jeremiah 26–52, 280.
+
+227. Keown, Scalise, and Smothers, Jeremiah 26–52, 372.
+
+228. McKane, Jeremiah, 2:1344.
+
+229. See the description in Lundbom, Jeremiah 37–52, 499.
+
+230. Volz, Jeremia, 441.
+
+231. Hab 2:13 has the spelling wәyîgәʿû over against wәyigәʿû in Jer 51:58.
+
+232. Hab 2:13 has straightforward yiqtol yiʿāpû over against the waw-consecutive wәyāʿēpû in Jer 51:58, where the subject is extraposed (casus pendens; TTH 123a).
+
+233. Thompson, Jeremiah, 769.
+
+234. Stulman, Jeremiah, 384.
+
+235. Stulman, Jeremiah, 385.
+
+236. Calvin, Jeremiah, 4:165.
+
+237. So W. McKane, “Jeremiah’s Instructions to Seraiah (Jeremiah 51:59–64),” in Pomegranates and Golden Bells: Studies in Biblical, Jewish, and Near Eastern Ritual, Law, and Literature in Honor of Jacob Milgrom, ed. D. P. Wright, D. N. Freedman, and A. Hurvitz (Winona Lake, IN: Eisenbrauns, 1995), 697–706.
+
+238. Eggleston, “See and Read”, 94, 101.
+
+239. See Lipschits, Fall and Rise of Jerusalem, 62–65.
+
+240. Lundbom, Jeremiah 37–52, 506.
+
+241. Sharp, “Call of Jeremiah,” 432
+
+242. P. D. Miller, “Jeremiah,” on the passage.
+
+243. R. P. Carroll, Jeremiah, OTL, 856.
+
+244. Friebel (Sign Acts, 154–69) assumes he would.
+
+245. Brueggemann, Jeremiah 26–52, 284.
+
+246. K. D. Holroyd, “Multiple Speech Act Layers, Jeremiah, and the Future of Studies in Structural Theology,” in Das heilige Herz der Tora: Festschrift für Hendrik Koorevaar zu seinem 65. Geburtstag, ed. S. Riecker and J. Steinberg (Aachen: Shaker, 2011), 90.
+
+247. B. Gosse, “Trois étapes de la rédaction du livre de Jérémie,” ZAW 111 (1999): 508–29.
+
+248. M. Leuchter, “Sacred Space,” 77–99.
+
+249. B. Gosse, “La malédiction contre Babylone de Jérémie 51,59–64 et les rédactions du livre de Jérémie,” ZAW 98 (1986): 383–99.
+
+250. N. B. Levtow, “Text Production and Destruction in Ancient Israel,” in Social Theory and the Study of Israelite Religion Essays in Retrospect and Prospect, ed. S. M. Olyan, Resources for Biblical Study 71 (Atlanta: Society of Biblical Literature, 2012), 111–39.
+
+251. R. P. Carroll, Jeremiah, OTL, 856.
+
+252. Lundbom, Jeremiah 37–52, 502–5.
+
+253. Diamond, “Jeremiah,” 611.
+
+254. See J. R. Lundbom, “Baruch, Seraiah, and Expanded Colophons in the Book of Jeremiah,” JSOT 36 (1986): 96.
+
+
+
+
+
+EPILOGUE (52:1–34)
+
+
+The Jeremiah scroll could have seemed to come to a satisfactory end with 51:64 (which read like an end), as was the case with 45:5 and 36:32, but it did not come to an end at any of these points, almost as if it “resists closure” as an aspect of its links with disaster and trauma.1 Its readers would certainly not expect a repetition of the account of Jerusalem’s fall that appeared in Jer 39, though they might have noticed that the scroll sometimes incorporates more than one account of an event—at least, it contains a story about Jeremiah delivering a message and elsewhere a précis of his words on that occasion. The chapter would be even more surprising to readers who knew the 2 Kings narrative. They would approach the chapter with a sense of déjà vu, wondering what they were expected to take from it.
+
+But Jer 52 forms a frame with Jer 1 around the Jeremiah scroll. With it, the scroll reaches its goal, and there is no reason to see it as a later addition, as if Jer 1–51 once existed without it.2 Matching the opening chapter and matching the nature of the scroll as a whole, it tells a solemn story of Judah’s waywardness and of the calamity that followed, while also affirming that calamity is not Yahweh’s last word.
+
+Initially, the chapter reinforces the gloomy tone of the scroll as a whole. Pull up, pull down, wipe out, smash: “Never were four words more fully realized.”3 The chapter “highlights the ultimate tragic irony that the authors face: it vindicates Jeremiah as a true prophet, while at the same time it shows how ineffective all forms of human mediation were in preventing disaster.”4 Following on 51:64b, it answers the question, “What happened, then? Did those words of Jeremiah come true?” In taking up that question, it does not need to make mention of Jeremiah himself. The answer it implies is that Jeremiah’s words indeed found some measure of fulfillment, both horribly and encouragingly. Horrifying things happened to the monarchy, to the city, to the temple, and to the people. But in the course of giving an account of these horrors, the chapter incorporates notes of possible encouragement.5 Not only did the Babylonians leave some people behind in Jerusalem; the number they took to Babylon was minute. The men of battle (which really means all the men) scattered; but the implication is that they did not die. The temple accoutrements and the bronze of items such as the temple pillars went off to Babylon; but they didn’t get lost. And finally, the Davidic king who had been taken to Babylon in 597 was released there. So anyone yielding to the temptation to leave the movie theater during the credits would miss something vital and encouraging. The story forms an apposite closure for the scroll insofar as its balance reflects that of Jeremiah’s message: much waywardness, much consequential trouble, but a glimmer of hope. Both calamity and reestablishment fall way short of Yahweh’s threats and promises, in keeping with the usual pattern. There was no actual annihilation and no genuine renewal. There was frightful calamity but also a hint of extraordinary restoration. There was something, not nothing.
+
+1Zedekiah was a man of twenty-one years when he began to reign, and he reigned eleven years in Jerusalem. His mother’s name was Hamutal a bat Jeremiah, from Libnah. b 2He did what was dire in Yahweh’s eyes in accordance with all that Jehoiakim had done, 3because it was directed toward c Yahweh’s anger against Jerusalem and Judah, until he threw them out from his presence.
+
+Zedekiah rebelled against the king of Babylon. 4Then in the ninth year of his reign, in the tenth d month, on the tenth of the month, Nebuchadrezzar King of Babylon came, he and his entire force, against Jerusalem. They camped e against it and built a blockade against it all around. 5The city came under siege until the eleventh year of King Zedekiah. 6In the fourth month, f on the ninth of the month, the famine was heavy in the city, and there was no bread for the people of the country. 7The city broke open and all the men of battle were fleeing. They went out from the city g at night by way of the gateway between the double wall that was opposite the king’s garden, with the Chaldeans against the city all around, and they went by the steppes road. 8But the Chaldean force chased after the king and caught up with Zedekiah h in the Jericho steppes; all his force had scattered from him. 9They captured the king and made him go up to the king of Babylon at Riblah in the region of Hamath, i and he spoke out authoritative decisions j with him. 10The king of Babylon slaughtered Zedekiah’s sons k before his eyes. All the Judahite officials he also slaughtered at Riblah. l 11Zedekiah’s eyes he blinded, and he shackled him with bronze chains. The king of Babylon made him come to Babylon and put him in a house of custody m until the day of his death. n
+
+12In the fifth month, on the tenth o of the month (it was the nineteenth year of King Nebuchadrezzar King of Babylon), p Nebuzaradan the chief of the guards came—he stood as the king of Babylon’s representative q—to Jerusalem, 13and burned Yahweh’s house, the king’s house, and all the houses in Jerusalem. Every house of a big person r he burned in fire. 14All the walls of Jerusalem, all around, the entire Chaldean force that was with the chief of the guards pulled down. 15Some of the poorest elements of the people s and the rest of the people who remained in the city, and the people who had submitted (who had submitted to the king of Babylon) and the rest of the crowd, t Nebuzaradan the chief of the guards made go into exile. 16Some of the poorest elements u in the country Nebuzaradan v the chief of the guards let remain as vinedressers and farmworkers.
+
+17The bronze pillars that belonged to Yahweh’s house, the stands, and the bronze sea that was in Yahweh’s house, the Chaldeans broke up. They carried all their bronze to Babylon. 18The buckets, the shovels, the trimmers, the throwers, the ladles, and all the bronze articles with which people ministered, they got. 19The bowls, the firepans, the containers, the pots, the lamps, the ladles, and the chalices, what was gold [as] gold and what was silver [as] silver, the chief of the guards got. w 20The two pillars, the one sea, and the twelve bronze cattle that were underneath, the stands, x which King Solomon made for Yahweh’s house—there was no weighing their bronze, all these articles. 21The pillars—eighteen cubits y the height of one pillar, and a line of twelve cubits would go around it; its thickness—four fingers, hollow; z 22with a bronze capital on it—the height of one capital five aa cubits, and lattice work with pomegranates on the capital all around, the whole bronze, and like these for the second pillar with pomegranates. bb 23There were ninety-six pomegranates windward; cc all the pomegranates—a hundred on the lattice work all around. dd
+
+24The chief of the guards got Seraiah the head priest, Zephaniah ee the second priest, and the three keepers of the threshold, 25and from the city he got ff an overseer gg who was appointee over the men of battle, seven hh people from the heads who were before ii the king, who were present in the city, the scribe of the army officer jj who mustered the people of the country, and sixty individuals from the people of the country who were present inside the city. 26Nebuzaradan the chief of the guards got them and made them go to the king of Babylon at Riblah, 27and the king of Babylon struck them down and put them to death kk at Riblah in the region of Hamath.
+
+So Judah went into exile from upon its land. ll 28This is the company that Nebuchadrezzar made go into exile: in the seventh year, 3,023 Judahites; 29in Nebuchadrezzar’s eighteenth year, from Jerusalem 832 individuals; 30in Nebuchadrezzar’s twenty-third year, Nebuzaradan the chief of the guards made 745 individual Judahites go into exile; all the individuals, 4,600. mm
+
+31Then in the thirty-seventh year of the exile of Jehoiachin nn King of Judah, in the twelfth month, on the twenty-fifth oo of the month, Evil-merodach pp King of Babylon, in the year he began to reign, lifted the head of Jehoiachin King of Judah, let him go from the house of confinement, 32and spoke of good things with him. He put his throne above the throne of the kings who were with him in Babylon,33 so he would change his confinement clothes and eat a meal before him regularly all the days of his life. qq 34His provision was given to him as a regular provision from the king of Babylon, a day’s allocation on its day, until the day of his death, rr all the days of his life. ss
+
+a. So the qere, which corresponds to 2 Kgs 23:31; the ketiv implies Hamital (cf. LXX, Vg).
+
+b. A town in the Shephelah; see Josh 10:28–32; 15:42.
+
+c. The expression compares with 32:31 (Thompson, Jeremiah, 772); see the translation note there.
+
+d. Some LXX MSS have “eighth” or “ninth.”
+
+e. 2 Kgs 25:1 has “he camped.”
+
+f. LXX and 2 Kgs 25:3 lack in the fourth month.
+
+g. LXX and 2 Kgs 25:4 lack were fleeing and from the city; 2 Kgs 25:4 also lacks they went out.
+
+h. For Zedekiah, LXX and 2 Kgs 25:6 have simply “him.”
+
+i. LXX has “Diblah” here and elsewhere, and it lacks in the region of Hamath (as does 2 Kgs 25:6).
+
+j. 2 Kgs 25:6 has “they spoke out an authoritative decision.”
+
+k. 2 Kgs 25:7 has “Zedekiah’s sons they slaughtered.”
+
+l. 2 Kgs 25:7 lacks this sentence.
+
+m. Lit. “attention house”—that is, punishment house. LXX has “grinding house,” with the implication that grinding grain was the prisoners’ chief occupation (cf. Judg 16:21); perhaps MT has substituted a more general expression.
+
+n. For this sentence, 2 Kgs 25:7 has simply “He made him come to Babylon.”
+
+o. 2 Kgs 25:8 has “seventh.”
+
+p. LXX lacks (it was the nineteenth year of King Nebuchadrezzar King of Babylon). By the Babylonian Chronicle’s method of counting years, it was the eighteenth year (v. 29) (Allen, Jeremiah, 540).
+
+q. Lit. “stood before the king of Babylon”; MT’s construction is asyndetic or implies an unmarked relative clause. For ʿāmad, LXX “standing” implies ʿōmēd, while 2 Kgs 25:8 has “servant of the king of Babylon.”
+
+r. For MT’s bêt haggādôl (cf. Tg), LXX, Vg “every big house” implies absolute bayit or the idiom whereby an adjective is added in the genitive rather than as an attribute (GK 128w); cf. bêt gādôl in 2 Kgs 25:9.
+
+s. 2 Kgs 25:11 lacks some of the poorest elements of the people.
+
+t. Taking ʾāmôn as an alternative to hāmôn (cf. 2 Kgs 25:11), with Vg, Tg, Syr (LXX lacks v. 15). It otherwise occurs only in Prov 8:30, where its meaning is unclear, though one possibility is craftsman or builder—which would fit here.
+
+u. V. 16 thus begins in the same way as v. 15, which may explain LXX’s lack of v. 15 as homoioarkton.
+
+v. LXX and 2 Kgs 25:12 lack Nabuzaradan.
+
+w. LXX and 2 Kgs 25:14–17 have shorter lists compared with vv. 18–23; on the textual problems, see Holladay, Commentary on Jeremiah, 2:437.
+
+x. The more obvious translation “under the stands” (Vg, Aq) makes poor sense; LXX has “under the sea.” For the adverbial use of taḥat, cf. Gen 49:25 (see CTAT, 2:857–59).
+
+y. LXX has “thirty-five cubits.” A cubit is roughly half a yard or half a meter.
+
+z. For MT nābûb, LXX “around” implies sābîb.
+
+aa. Cf. 1 Kgs 7:16; but 2 Kgs 25:17 says “three.”
+
+bb. LXX reads “eight pomegranates to the cubit for the twelve cubits.”
+
+cc. For MT’s puzzling rûḥâ, LXX has “the one side.”
+
+dd. MTA has a section marker here.
+
+ee. LXX lacks Seraiah and Zephaniah.
+
+ff. LXX lacks from the city he got.
+
+gg. See the translation note on 29:2.
+
+hh. 2 Kgs 25:19 has “five.”
+
+ii. Lit. “who saw the face of.”
+
+jj. LXX lacks officer.
+
+kk. The double expression adds emphasis (cf. 41:2); LXX lacks and put them to death.
+
+ll. LXX lacks so Judah went into exile from upon its land. MTA has a section marker here.
+
+mm. MT has a marker here.
+
+nn. LXX has “Jehoiakim” each time in this verse.
+
+oo. LXX has “twenty-fourth,” while 2 Kgs 25:27 has “twenty-seventh.”
+
+pp. More precisely, ʾĕwîl-mәrōdak—that is, his name does not include the English word evil. In Akkadian, the name would be an alternative to the more familiar Amel-Marduk (see R. H. Sack, Amēl-Marduk 562–560 B. C. [Kevelaer: Butzon, 1972]). Either name would mean “man of Marduk,” but a Judahite might rejoice that in Hebrew ʾĕwîl-mәrōdak would mean “fool of Marduk” or “Marduk is foolish.”
+
+qq. While the two simple waw clauses may simply be anomalous (cf. GK 112pp; Duhm, Jeremia, 382), they also may indicate the logical connection with what precedes. The subject of the second verb must be Jehoiachin, and probably he is therefore the subject of the first verb. Likewise, all the days of his life refers to Jehoiachin’s life (cf. v. 34); a reference to Evil-merodach’s life would carry some irony, as he was assassinated after a year or two (see the commentary on 51:46).
+
+rr. 2 Kgs 25:30 lacks until the day of his death.
+
+ss. LXX lacks all the days of his life.
+
+The chapter is one of five First Testament accounts of the fall of Jerusalem and its aftermath. In outline, synoptically, they compare as follows:
+
+
+
+First Esdras 1:46–2:7 is another version building on 2 Chr 36 and Ezra 1.6
+
+After going different ways for some time, MT and LXX agree that 52:1–34 brings the Jeremiah scroll to a close. Beyond the more significant differences noted by the chart, both the MT and LXX versions of the chapter mostly correspond to the account of the fall of Jerusalem in 2 Kgs 24:18–25:30.7 “How intertextual can you get?”8 They also overlap with the narrative in Jer 37–43 (MT and LXX broadly correspond in those chapters, with the usual differences of detail), with significant correspondence in 52:4–16 compared with 39:1–10. While these phenomena must be clues to aspects of the development of the scroll, there is the usual room for disagreement over which version came first, but a comparison of the different versions can draw attention to their respective features.9 The most noticeable distinctive features of Jer 52 MT are its lack of reference to Gedaliah, its inclusion of the numbers of Judahites taken to Babylon, and its lack of reference to Cyrus’s commission to Judahites to return to rebuild the temple—which Chronicles can see as fulfilling Yahweh’s word to Jeremiah. Related is the fact that Jer 52 and 2 Kgs 25 record the fate of Judahite priestly and military leaders but make no mention of Jeremiah and his fate. The chapter makes no reference to its significance in relation to the fulfillment of Jeremiah’s message or his vindication. Like Jer 50–51, it hardly postdates 539; in light of vv. 31–34, a date in the 550s or 540s makes sense, as it does for Jer 50–51.
+
+1 It seems odd that the chapter begins with Zedekiah’s accession rather than his rebellion that led to the fall of Jerusalem, or Jehoiakim’s reign, or Jehoiachin’s accession and deposing (since the chapter closes with Jehoiachin). Jehoiakim had died in 597, and Jehoiachin his son had succeeded him. The likely background to the Babylonians’ putting Zedekiah in his place is that Jehoiachin followed (or was assumed to follow) Jehoiakim’s policy of courting alliance with Egypt. The Babylonians expected Zedekiah to accept subordination to Babylon, which was also Jeremiah’s exhortation.10 There is a double irony in the Babylonians’ changing his name from Mattaniah (“Yah’s gift”! 2 Kgs 24:17) to Zedekiah (“Yah my faithfulness”). It was surely not “the intention of the Babylonian ruler … in this way to ‘show that he was fulfilling the will of the native God of Jerusalem and Judah, both in salvation and judgment’? This is what he actually did…. In this situation the prophet saw that another opportunity had been given by God to the people…. But Zedekiah did not live up to his name.”11
+
+2–3a The presence of vv. 2–3 in MT makes for a contrast with LXX. Zedekiah’s doing what was dire in Yahweh’s eyes will have included resistance to Babylon, though Jeremiah’s messages have implied that it also involved other forms of unfaithfulness to Yahweh. The explanation that things happened because it was directed toward Yahweh’s anger against Jerusalem and Judah, until he threw them out from his presence is laconic. It makes links between Zedekiah’s action, Yahweh’s anger, and Jerusalem’s fall, but it leaves their relationship obscure. Did Zedekiah’s policies cause Yahweh to act in anger? Or was Jehoiakim’s waywardness the cause and Zedekiah’s accession and moral or religious stupidity an expression of that anger, and then the immediate cause of the city’s fall?12 Often such questions cannot be answered, only noted. MT simply sets alongside each other on one hand the way Zedekiah is acting in relation to Yahweh and the way Yahweh will act in the story that follows (there will be no more references to Yahweh except the expression “Yahweh’s house”) and on the other hand the actions of Zedekiah toward Nebuchadrezzar and the actions of Nebuchadrezzar toward Judah, without commenting on the relationship between them. In isolation, one might universalize the first way of looking at events and affirm a universal supernaturalism or absolutize the second and affirm and reduce history to power. The Jeremiah scroll relativizes each of these perspectives by juxtaposing them with each other and presupposing “intrusion, surprise, discontinuity, gifts, judgment, newness, and ambiguity.”13 Prophets such as Jeremiah
+
+thought and spoke in a way which was supremely true theologically and supremely realistic politically. But they and their word were a foreign body in their environment. Apart from the fact that they spoke the Word of God, the only point in their favour was that events actually proved them right: that history passed devastatingly over Israel; that first the state of Israel and then that of Judah was completely eliminated; that nothing was left to the men of Israel but the God against whom they had sinned to the last in resisting His judgment, but whose hard hand they could not finally withstand—the covenant God, the Lord of the world, their Judge even as their strength, but as the strength which they had despised … [in] their repudiation of their helplessness in face of God, their stubbornness against the only One who could help them.14
+
+3b–6 The king’s decision to rebel against Yahweh and against Nebuchadrezzar brings calamity on Jerusalem. As usual, the people pay a price for their leadership’s action, as in other contexts they benefit from it. In principle, one can hardly fault Judah’s desire for independence or desire to determine its own political policies (e.g., to look to Egypt rather than to Babylon). But in this context, in light of events over recent decades, Yahweh has decided that submission to Babylon is an expression of submission to him. Though Nebuchadrezzar is thus unwittingly acting as Yahweh’s servant, his own concern lies elsewhere. Keeping control of Judah is one aspect of keeping control of the Levant and its trade routes that he had taken over from the Assyrians15 and of exercising some authority in relation to Egypt in this connection. And rebels need to be put in their place to make sure that no other people gets fancy ideas. In itself, a blockade means not attempting to take the city by force but preventing supplies reaching it. It might seem odd for the Babylonians to need to blockade the city for as long as eighteen months, and for Jerusalem to be able to survive such a blockade implies impressive preparation by way of the bringing in of grain and other supplies. But we know from 37:5 that the siege was not continuous; the Babylonians had to interrupt it to pursue other business.
+
+7–11 The city broke open16 sounds more like a breaking from inside than a breaking from outside, and the subsequent account of all the men of battle … fleeing may suggest that they were the people who finally gave in to the inevitable; they would know that they in particular would get slaughtered if they didn’t run for it. The grimmest scene in the First Testament follows, an account that reformulates the one in 39:4–7 (see the commentary there). The death of Zedekiah’s sons means that his line will not continue, so that in this context this note initiates the contrast between Zedekiah and Jehoiachin (see vv. 31–34). Likewise, until the day of his death, distinctive to Jer 52 compared with 2 Kgs 25:7 as well as Jer 39:7, will make for a contrast with the closing words about Jehoiachin in v. 34: he will be sustained by Babylonian kings until the day of his death, all the days of his life.17 But in the meantime, for Zedekiah, house of custody might mean house arrest rather than prison.18
+
+12–16 Another month has passed; perhaps the Babylonians were sorting out the people and the plunder before setting about the destruction of the city.19 Judahites might view what now follows as the grimmest scene in the First Testament. While Nebuchadrezzar could be expressing his wrath toward Jerusalem because its people have wasted his army’s energy over the past two years, more importantly he is seeking to ensure that this capital city never counts again. So Nebuzaradan burned it in fire: so often Jeremiah has talked about burning in fire. The army pulled it down: Yahweh used this verb in commissioning Jeremiah, and it has recurred since. Some very ordinary people Nebuzaradan made go into exile: they could work in Nebuchadrezzar’s fields, and he could recoup some of his investment. But some of them he let remain as vinedressers and tillers. Their position is less explicit here than it was at 39:10 (see the commentary there). That earlier account makes clearer that it is for their own sake that they are tending vines and other trees rather than providing for the needs of an occupying force, but the repetition in v. 16 over against v. 15 suggests that this note is the first of a series of notes of hope running through the chapter. While some ordinary people were subject to forced migration, some were allowed to stay.
+
+17–23 Yet another scene competes for the title as the First Testament’s grimmest. The account of the temple building in 1 Kgs 7:15–37 helps to identify the objects v. 17 refers to. The catalog in v. 18 covers buckets (sîr), in this context containers for ashes (Exod 27:3); shovels (yāʿ) for sweeping away (yāʿâ) burnt logs and ashes; trimmers (mәzammeret) for tending the wicks of lamps; throwers (mizrāq) from which the blood was tossed (zāraq) against the altar; and ladles (kap) in the shape of the palm of a hand (kap), perhaps for burning incense. The catalog goes on in v. 19 to cover bowls (sap), firepans (maḥtâ) that would be capable of taking hold (ḥātâ) of burning wood, lamps (mәnôrâ), and flagons (mәnaqqît) used in connection with libations (Exod 25:29), and it repeats throwers, pots, and ladles from v. 18. Pomegranates were a decorative feature of the temple (1 Kgs 7:18, 20, 42), possibly symbolizing fruitfulness.20 The lists of temple articles and the account of what happened to them witness to the pain of the community that watched them be destroyed or stolen; it contrasts with the much briefer account in 2 Chr 36:19, whose brevity reflects its origin in a later time when the temple had been rebuilt and was functioning again. Given the plundering in 597, it is surprising that there should be so much to plunder now. It is hard to imagine the Judahite community having had the energy and resources to restore the accoutrements of the temple after 597. So it seems likely that this chapter conflates the various pillagings of the temple as we come to its demise. This possibility may also fit with the overlaps in the lists in vv. 18–19.
+
+24–27 Dramatically, the narrative about these other Judahite leaders (also missing from 2 Chr 36) first lists the people who get arrested then eventually in the last clause relates their fate. This head priest is Seraiah ben Azariah, grandson of Hilkiah (1 Chr 6:13–14 [5:39–40]; for Hilkiah, see 2 Kgs 22); it is a different Seraiah from the ones in 40:8 and 51:59. Zephaniah featured in 29:24–29. Priests exercising oversight at the threshold of the temple would be responsible for safeguarding its sanctity in various ways, but the keepers of the threshold stood at the temple door receiving offerings in 2 Kgs 22:4; they were treasurers. The people present in the city will be people from elsewhere who took refuge there. People of the country sometimes suggests people with power or influence, which would fit here with the fate that overtakes them (see the translation note on 1:18).
+
+28–30 Jer 52 lacks the account of Gedaliah’s appointment that appears in 2 Kgs 25:22–26 (the scroll has already treated this development at length in 40:1–43:7) and in its place has a unique list of the numbers of people taken to Babylon in 597, 587, and 582. The numbers are puzzling. Second Kings 24:14 and 16 give figures of 10,000 and 8,000 for 597; maybe 3,023 covers only the men and those larger figures are estimates that include the women and children.21 Whatever the numbers’ historical significance, in this context they convey the impression that the number of people transported to Babylon was small. Jeremiah has often spoken as if “the exile” would mean a wholesale forced migration of the Judahite people analogous to the one presented in 2 Kgs 17 in connection with Ephraim, which is how Western convention has thought of it. In this connection, vv. 28–30 are significant in several ways. They indicate that as usual, Yahweh’s action is softer than his threats. They issue the reminder that 587 was not the beginning of exile,22 and they suggest that the 597 exile was more significant; it was indeed an important break.23 And they indicate that the exile of 587 was not the last. We know of an exile in 582 only from this passage; the usual guess is that it was a reprisal for the events related in Jer 41, but attempts to answer the question of its significance “are rather like a game of blind man’s bluff.”24 As a whole, the small numbers support the notion that the myth of an empty land is indeed a myth—the land was by no means emptied (see the commentary on 42:2–3). Admittedly, in addition to the people transported, no doubt many people had died in the siege. Others had fled, but they could come back, as Jer 40 has indicated. The Babylonians will have intended to put an end to the life of the capital city, but they had no reason to terminate life in what would become the province of Judah. Although “the destruction of Jerusalem and the end of the kingdom of Judah brought about the gravest demographic crisis in the history of the kingdom of Judah,”25 it did not mean that there was no significant community in Judah after 587, or after 582. Jeremiah 24 in its context could call people left in Jerusalem just bad figs—figs with little potential—and after 587 they are indeed just poor people. But Jer 40 gives a less gloomy picture of the prospects of a community in Judah; they generated the prayers in Lamentations, and archaeological discoveries confirm how they kept life going there.26 The Jeremiah scroll speaks with more than one voice about the various Judahite communities after 587. According to Jer 24, the Babylonian exiles are good figs, figs with potential, and Jehoiachin is among them; but there aren’t many of them, and Ezekiel doesn’t give the impression that they are so insightful or committed. Jeremiah 44 threatens the Egyptian exiles with annihilation, but Jeremiah and Baruch are there, this community made it possible for us to be reading much of Jeremiah’s story, and an Egyptian Jewish community flourished over the centuries. Thus “authors from the first generation after the destruction of Jerusalem who lived in Judah, Egypt, and Babylon perceived Babylonian rule, the destruction, the exile, the remnant in Judah, and the status of the House of David in different ways.”27 Indeed, the situation would have been more complicated than that observation necessarily implies. Within Judah, Egypt, and Babylon, authors and ordinary people would have different views on these matters, as the Ezekiel scroll and Lamentations as well as the Jeremiah scroll make clear. Judahites in Babylon and some Judahites in Egypt were not in those places because they chose to go there and saw the future as lying there; they were there because they had been frog-marched to those locations. Differences of perspective on issues such as acceptance of Babylonian authority or the future of the Davidic line would not be simply geographically based.
+
+31 We hear nothing of what happened over the next twenty years. What we do get is a final hopeful coda to the story. Kings such as Evil-merodach sometimes granted an amnesty on their accession, partly to encourage the loyalty of the beneficiaries.28 The expression lifted the head comes only here and in a similar context in Gen 40:13. Bowing the head is a sign of submission or humiliation or shame; you cannot look the other person in the eye. Having one’s head lifted is a sign of being restored to acceptability, even to honor. Thus “the sense of an ending offered by ch. 52 is also tinged with the sense of a new beginning.”29 Here, too, Yahweh’s threats are harsher than his actions; the release and elevation of Jehoiachin is not what one would have expected on the basis of 22:24–30 (nor is there any indication of a change of heart on Jehoiachin’s part). It is a sign that Yahweh may not be finished with Judah and specifically with the line of David; and Jehoiachin’s grandson Zerubbabel (1 Chr 3:17–19) will be a leader in Judah half a century later (Ezra 3), even though not a king. The very dating of events by Jehoiachin’s exile rather than by the reign of a Babylonian king is suggestive.
+
+32–34 Whereas 22:30 spoke negatively about Jehoiachin’s throne, v. 32 now speaks positively. As a passage such as 32:42 spoke of the good Yahweh intended for Judah on the other side of disaster, Evil-merodach now spoke of good things with him. The mention of the kings who were with him in Babylon is illumined by a record from Nebuchadrezzar’s court (thus from somewhat earlier) that mentions the kings of Tyre, Gaza, Sidon, Arvad, and Ashdod.30 Eating regularly with the king would not imply three meals a day every day. Regular provision would cover ordinary life for him and his family. Babylonian administrative records from Nebuchadrezzar’s time (thus again from somewhat earlier) record on stone tablets deliveries of oil to various foreigners; the deliveries are quantified by the sila (something less than two pints), and they include supplies delivered to Jehoiachin king of Judah and his sons:
+
+10 to … [Ia]-’-kin, king of Ia …
+
+2½ sila to [… so]ns of the king of Ia-a-ḫu-du
+
+10 to Ia-ku-ú-ki-nu, the son of the king of Ia-ku-du
+
+2½ sila for the 5 sons of the king of Ia-ku-du31
+
+Even at this stage, then, we should not think of Jehoiachin as in prison, even if he is under house arrest. And even these records regard him as king of Judah. But Evil-merodach’s action would likely relate in some way to his strategy for exercising authority over Judah.32 Finally, whereas Zedekiah was to be in a house of custody until the day of his death (v. 11), Jehoiachin is to be in his reestablished position until the day of his death.33 We have noted that Chronicles lacks an account of Jehoiachin’s elevation. Instead, it tells of Yahweh stirring the spirit of Cyrus the Great to commission the rebuilding of the temple in fulfillment of Jeremiah’s promise, which it thus sees as the sign that Yahweh has not finished with Judah. It is an indication that Chronicles is written with more hindsight than Jer 52 and that Jer 52 dates from before 539.
+
+Grant, Almighty God, that as thou hast not only provided for thine ancient Church, by choosing Jeremiah as thy servant, but hast also designed that the fruit of his labors should continue to our age, O grant that we may not be unthankful to thee, but that we may so avail ourselves of so great a benefit, that the fruit of it may appear in us to the glory of thy name; may we learn so entirely to devote ourselves to thy service, and each of us be so attentive to the work of his calling, that we may strive with united hearts to promote the honor of thy name, and also the kingdom of thine only-begotten Son, until we finish our warfare, and come at length into that celestial rest, which has been obtained for us by the blood of thine only Son.34
+
+
+
+
+1. Cf. K. M. O’Connor, “Terror All Around: Confusion as Meaning-Making,” in Diamond and Stulman, Jeremiah (Dis)placed, 78.
+
+2. J. Smith argues this point on the basis of the nature of the Greek translation in “Jeremiah 52: Thackeray and Beyond,” Bulletin of the International Organization for Septuagint and Cognate Studies 35 (2002): 55–96.
+
+3. Wright, Jeremiah, 442.
+
+4. C. Patton, “Layers of Meaning,” 167.
+
+5. Clements, Jeremiah, 268–72.
+
+6. R. F. Person, “II Kings 24,18–25,30 and Jeremiah 52,” ZAW 105 (1993): 174–205, provides a Hebrew synopsis of these texts and a retroversion of the Greek texts and compares them; see also R. F. Person, The Kings-Isaiah and Kings-Jeremiah Recensions, BZAW 252 (Berlin: de Gruyter, 1997).
+
+7. See the translation notes for detailed differences. P.-M. Bogaert (“Les trois forms de Jérémie 52,” in Tradition of the Text: Studies Offered to Dominique Barthélemy in Celebration of His 70th Birthday, ed. G. J. Norton and S. Pisano, OBO 109 [Göttingen: Vandenhoeck & Ruprecht, 1991], 1–7), A. Rofé (“Not Exile but Annihilation for Zedekiah’s People,” in VIII Congress of the International Organization for Septuagint and Cognate Studies, ed. L. Greenspoon and O. Munnich, SCS 41 [Atlanta: Scholars, 1995], 165–70), and G. Fischer (“Jeremiah 52,” in X Congress of the International Organization for Septuagint and Cognate Studies, ed. B. A. Taylor, SCS 51 [Atlanta: Society of Biblical Literature, 2001], 37–48) consider their implications for theories about the relationship of MT and LXX.
+
+8. R. P. Carroll, “Intertextuality and the Book of Jeremiah,” in The New Literary Criticism and the Hebrew Bible, ed. J. C. Exum and D. J. A. Clines, JSOTSup 143 (Sheffield: JSOT, 1993), 63; cf. R. P. Carroll, “The Book of J,” in Diamond, K. M. O’Connor, and Stulman, Troubling Jeremiah, 220–43.
+
+9. G. Fischer, “Jeremía 52—ein Schlüssel zum Jeremiabuch,” Bib 79 (1998): 333–59.
+
+10. See, e.g., Lipschits, Fall and Rise of Jerusalem, 49–62.
+
+11. Barth, CD IV, 1:469, quoting from W. Vischer, Das Christuszeugnis des Alten Testament (Munich: Kaiser, 1935–42), 2:535.
+
+12. R. P. Carroll, Jeremiah, OTL, 859.
+
+13. W. Brueggemann, “The Prophetic Word of God and History,” Int 48 (1994): 241.
+
+14. Barth, CD IV, 1:468–69.
+
+15. H. M. Barstad, “The City State of Jerusalem in the Neo-Babylonian Empire,” in By the Irrigation Canals of Babylon: Approaches to the Study of the Exile, ed. J. J. Ahn and J. Middlemas, LHBOTS 526 (London: T&T Clark, 2012), 34–48.
+
+16. The verb is niphal, not pual or hophal as in 39:2, where see the translation note.
+
+17. Allen, Jeremiah, 538.
+
+18. McKane, Jeremiah, 2:1365.
+
+19. Lipschits, Fall and Rise of Jerusalem, 80.
+
+20. Lundbom, Jeremiah 37–52, 528.
+
+21. On different possibilities, see Lipschits, Fall and Rise of Jerusalem, 59–60.
+
+22. Cf. J. J. Ahn, “Forced Migrations Guiding the Exile,” in Ahn and Middlemas, By the Irrigation Canals, 173–89.
+

@@ -2,8 +2,8 @@
 title: The Davidic Covenant (2 Sam 7)
 domain: theology / covenant
 traditions_using: [Judaism, Christianity]
-sources_ingested: 2
-last_updated: 2026-06-05
+sources_ingested: 5
+last_updated: 2026-07-18
 tags: [concept, theology, covenant, old-testament, samuel, davidic, messianic]
 ---
 
@@ -94,6 +94,15 @@ The covenant promise becomes the engine of prophetic Messianic expectation throu
 - **Psalm 132**: The dual elections of David's heir (v. 11; echoing 2 Sam 7) and Zion (v. 13; echoing 2 Sam 6) as the two foci of Davidic theology
 - **Psalm 2**: The king as YHWH's anointed, adopted Son; the nations' rebellion against him
 
+### Ezekiel's Davidic Hope (Block, NICOT, ingest 2026-07-18)
+
+From [[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]] on Ezekiel's development of the covenant:
+
+- **34:23–24 "my servant David," one shepherd.** Block reads the *rōʿeh ʾeḥād* as going "beyond Jer. 23:4" (plural shepherds): oneness reverses the divided monarchy. His position on the referent: "There is no thought in these prophecies of the resurrection of the historical king, as some kind of David redivivus. Ezekiel's use of the singular 'shepherd,' and his emphasis on ʾeḥād, 'one,' also preclude the restoration of the dynasty in the abstract… He envisions a single person, who may embody the dynasty but who occupies the throne himself" — grounded in Nathan's oracle (2 Sam 7:8) and Jer 33's irrevocability. Verse 24 "ties Yahweh's national covenant with Israel to the dynastic covenant with David"; the prince "symbolizes the presence of Yahweh in the midst of his people."
+- **nāśîʾ vs melek.** Ezekiel's archaic title *nāśîʾ* (vs Hosea's and Jeremiah's "David their king") "is not intended to deny this person's true kingship but to highlight the distinction between him and the recent occupants of the office," per Block. In 37:22–24, by contrast, *melek* "highlights the restoration of Israel to full nationhood. To the prophet's audience, the use of nāśîʾ would have signified less than complete restoration"; "Ezekiel was not fundamentally opposed to monarchic social structures."
+- **37:24–25 eternality.** Naming David "affirms the eternality of his original promise to David (2 Sam. 7:16)"; David as *nāśîʾ* forever means Yahweh "dismisses unequivocally the past conditionality of occupancy of the throne. What happened to Zedekiah in 586 will never happen again." Yet Block notes a striking limit: "Remarkably, he plays no part in the restoration of the nation… But the Messiah's personal presence symbolizes the reign of Yahweh in the glorious new age."
+- **The nāśîʾ of chs. 40–48 — Block's genre-shift resolution.** In the temple Torah (44:1–3ff.) the prince "is a cultic figure… a significant departure from the role of the nāśîʾ in chs. 1–39, where he poses as a Davidic figure (cf. 34:24; 37:25)" — functioning "primarily, if not exclusively, as a liturgical personage, without a hint of a Davidic connection," a patron of the cult who worships amid the people; "Whether or not Ezekiel envisions this nāśîʾ as a messianic figure, the realism of this portrait is remarkable… theirs is a service vocation, not a profession of privilege." Block treats the two portraits as belonging to different visionary genres rather than flattening one into the other.
+
 ## NT Fulfillment
 
 The Davidic covenant is the OT foundation for NT Christology. The NT presents Jesus as the ultimate heir in whom the eternal promise is fulfilled:
@@ -129,10 +138,34 @@ The Chronicler retells Nathan's oracle (1 Chr 17 = 2 Sam 7) with additional emph
 
 **The surprise: Cyrus as new David** (2 Chr 36:22-23): The Chronicler's typological pattern (Judges cycle → new David) leads the reader to expect a Davidic king after Josiah. Instead, **Cyrus of Persia inherits the Davidic commission**. Cyrus confesses YHWH, claims divine appointment to build YHWH's house, and sends the exiles home with David's own benediction. Isaiah 44:28–45:7 explicitly calls Cyrus YHWH's *māšîaḥ* (anointed). The Davidic covenant does not fail — it transfers to a Gentile. Chronicles narrates the transition from the Davidic monarchy to the oikoumenē of Gentile empires that provide the stage for the Messiah's coming. The final words of the Hebrew Bible are Cyrus's commission: "Let him go up." See [[1-2-chronicles|1–2 Chronicles]].
 
+## Tsumura NICOT 2 Samuel — Fidelity Reingest (2026-07-18)
+
+From [[tsumura-2-samuel-nicot]] (Intro §VI.B; commentary on ch. 7):
+
+- Central theme of 2 Samuel “even of the entire Old Testament”; Matt 1:1 midpoint Abraham–David–Jesus.
+- One-sided grant like Abraham, not Sinai bilateral obligations; *ḥesed* will not depart as from Saul (7:15).
+- *Bayit* wordplay; eternal throne (*ʿôlām*); concept not late (Hittite “eternal treaty”; Ugaritic/Assyrian eternal kingship language).
+- Discourse grammar: PAST (8b–11a) / PRESENT (11b) / FUTURE (12–16) partition — resolves rest “discrepancy” used for multi-layer Dtr theories.
+- Messianic trajectory: near-term Solomon builder; ultimate Jesus on throne forever (Luke 1:32–33); Last Words *berît ʿôlām* (23:5) closes the corpus.
+- After Bathsheba, covenant is not cancelled: sword on the house is discipline within irrevocable *ḥesed*; Jedidiah/Solomon as loved heir.
+
+## Provan on the promise in Kings (2026-07-18)
+
+*Attributed to [[iain-provan|Iain W. Provan]], [[provan-1-2-kings-nibc|*1 and 2 Kings* (NIBC)]]. Digests R0, R2, R3, R5–R6.*
+
+Provan’s didactic summary of Kings places **promise** at the heart of the LORD’s gracious behavior. The Davidic promise appears in **paradoxical form**:
+
+- **Unconditional register:** Explains why David’s house survives when other dynasties fall (1 Kgs 11:36; 15:4; 2 Kgs 8:19—“lamp”).
+- **Conditional register:** Continuance tied to obedience (1 Kgs 2:4; 8:25; 9:4–5).
+
+As Kings progresses, accumulated sin (Ahaz, Manasseh) seems to let the conditional view prevail; Judah falls as thoroughly as Israel. Yet **Jehoiachin lives** (2 Kgs 25:27–30)—for Provan a Joash-like reappearance holding open the hope that grace may triumph over law and that 2 Sam 7:15–16 still holds. Parallel: Abrahamic promise (2 Kgs 13:23; 1 Kgs 8:22–53 exile prayer). Division under Solomon is **“not forever”** (1 Kgs 11:39). Recorded as Provan’s narrative-theological reading of the Kings plot, not an adjudication against other covenant models.
+
 ## Sources Ingested
 
-1. [[david-tsumura|Tsumura, David Toshio]]. *The Second Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2019.
+1. [[david-tsumura|Tsumura, David Toshio]]. *The Second Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2019. — Fidelity re-ingest: [[tsumura-2-samuel-nicot]].
 2. [[peter-leithart|Leithart, Peter J.]]. *1 & 2 Chronicles*. BTC. Grand Rapids: Brazos Press, 2019.
+3. [[block-ezekiel-25-48-nicot|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 25–48*. NICOT. Grand Rapids: Eerdmans, 1998 — Ezek 34:23–24; 37:22–25; the nāśîʾ of chs. 40–48.
+4. [[provan-1-2-kings-nibc|Provan, Iain W.]]. *1 and 2 Kings*. NIBC. 1995 — fidelity reingest 2026-07-18.
 
 ## Related Texts
 

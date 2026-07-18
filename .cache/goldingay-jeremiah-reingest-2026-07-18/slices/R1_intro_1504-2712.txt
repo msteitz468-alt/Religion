@@ -1,0 +1,1209 @@
+I. BACKGROUND
+
+
+The introduction to the Jeremiah scroll (1:1–3) provides key information concerning its background:
+
+The words of Jeremiah ben Hilkiah, one of the priests who were in Anathoth in the territory of Benjamin, to whom Yahweh’s message came in the time of Josiah ben Amon King of Judah, in the thirteenth year of his reign, and came in the time of Jehoiakim ben Josiah King of Judah, until the ending of the eleventh year of Zedekiah ben Josiah King of Judah, until the exile of Jerusalem in the fifth month.
+
+
+
+
+
+A. JOSIAH, JEHOIAKIM, ZEDEKIAH, AND THE FALL OF JERUSALEM
+
+
+Jeremiah was born during the reign of Manasseh in Judah (687–642 BC).1 For a century, Judah and its neighbors had been the victims of Assyria’s desire to control the Levant, the area bordering on the Mediterranean. Judah was an Assyrian tribute state and effectively part of the Assyrian Empire even though it still had its own monarchy. One consequence was that Manasseh allowed worship in Jerusalem to take account of Assyrian understandings of the gods and worship practices. In addition, traditional (“Canaanite”) understandings of the gods and related aspects of spirituality continued to be influential in Jerusalem and in people’s everyday lives. Manasseh’s son Amon succeeded him and reigned for two years (642–640) before being assassinated, after which his son Josiah, still a boy, succeeded him.
+
+Assyrian power was declining, and Josiah’s mentors and Josiah himself were able to initiate changes in Judah that amounted to both religious reformation and assertion of political independence. Second Kings 22–23 relates how a “Torah scroll” came to light in 622 in the course of restoration work in the Jerusalem temple, and this discovery stimulated further reforms. Overlaps between these reforms and Deuteronomy suggest that the scroll was some form of what we know as Deuteronomy. The discovery came just after Yahweh’s commission of Jeremiah in 626, which was also about the time when Ashurbanipal, the last great king of Assyria, died, and when Nabopolassar, the first great Neo-Babylonian king, asserted control of Babylon and initiated the process whereby Babylon would take over the Assyrian Empire.2
+
+As Assyria declined, Babylon and Media grew in power, and 609 saw a key battle between these forces. The Egyptian king decided to join in, perceiving that a Babylonian victory would be a threat to him. Josiah thought that Assyria’s losing was desirable, so it seemed in Judah’s interest to back Babylon—ironically, in light of later events. Josiah therefore tried to stop the Egyptian army’s advance but failed and lost his life.
+
+His son Jehoahaz thus succeeded him in 609 but was swiftly deposed by the Egyptians (he is unmentioned in Jer 1:1–3) and replaced by his brother Jehoiakim, who encouraged the dismantling of Josiah’s reformation. A key event during his reign was the Battle of Carchemish in 605, when Babylonian and Median forces again defeated the armies of Assyria and Egypt. This event had decisive implications for the future of Judah. Judah would thenceforth come under the domination of the Babylonians, who were from that time the people who wanted to control the Levant. The next year saw Nebuchadrezzar3 campaigning there, and Jer 36 gives a dramatic account of Yahweh’s telling Jeremiah to have his messages written down that year and read to Jehoiakim, only for Jehoiakim to dismiss them.
+
+Jehoiakim died in 597 and was succeeded by his son Jehoiachin. Like Jehoahaz, he was swiftly deposed, this time by the Babylonians (he is also unmentioned in Jer 1:1–3). They plundered the temple, took Jehoiachin and many leading Judahites to Babylon, and replaced him with his uncle, Zedekiah, another son of Josiah, who continued the religious policies of Jehoiakim. He reigned from 597 to 587. During this decade, there were thus two Judahite communities, both with Davidic kings, one in Babylon and one in Judah, though we have no evidence of tension between them. In 589/588, Zedekiah led Judah in asserting independence from the Babylonians, who again invaded Judah, captured and devastated Jerusalem, and took Zedekiah into exile.
+
+The political story that holds together the narrative implied by the Jeremiah scroll is thus the story of three kings, Josiah, Jehoiakim, and Zedekiah, followed by the fall of Jerusalem and the aftershocks in Mizpah, of which we will read in Jeremiah.
+
+
+
+
+
+B. YAHWEH’S MESSAGE CAME
+
+
+According to its introduction, the Jeremiah scroll comprises words of Jeremiah given in this historical context. The words of Jeremiah given in this historical context also comprise the “message,” more literally the “word,” of Yahweh that came to Jeremiah.4 The introduction implies that the scroll’s readers need to adopt the position of people who accept that presupposition if they are to understand the scroll.5
+
+More literally, the message “happened” (hāyâ) to Jeremiah. How did it do so? The introduction goes on to recount a conversation between Yahweh and Jeremiah (1:4–19). If we had been there, would we have heard Yahweh’s voice? Surely not everyone who claims to have heard God’s voice is crazy, and sometimes the Scriptures give a realistic report of God’s speaking aloud: see 1 Sam 3 and the varying accounts of Yahweh’s speaking at Sinai and of Jesus’s appearing to Saul of Tarsus. Or did the conversation happen inside Jeremiah’s head? Either way, Yahweh formulated words and spoke them to Jeremiah, and Jeremiah heard them.
+
+The conversation includes Yahweh’s declaring that he will be giving Jeremiah orders about what Jeremiah is to say. He will be dictating messages that Jeremiah will pass on. Many of the messages that we later read in the scroll presumably issued from such dictation. They came “from Yahweh’s mouth,” not from Jeremiah’s mind (23:16).
+
+Yahweh also touches Jeremiah’s mouth and says he is putting his words in Jeremiah’s mouth (1:9), which suggests a different model from dictation for the transmitting of a message. It implies that Jeremiah’s lips may utter words he has not heard or consciously formulated; he will open his mouth and will himself listen to what comes out. In a promise of which Jeremiah might be understood as the fulfillment, Yahweh says of the prophet whom he will cause to arise, “I will put my words in his mouth” (Deut 18:18). On the other hand, on some occasions when someone puts words in another person’s mouth (Exod 4:15; 2 Sam 14:19; Ezra 8:17), they seem to indicate the nature of the message, but they leave the messenger to formulate the actual words, like (one suspects) the Rabshakeh in 2 Kgs 18. Jeremiah can thus move between speaking as one directly uttering Yahweh’s words, so that Yahweh is “I,” and speaking about Yahweh as “he.”6 Modern preachers may be aware that there are insights and words that they are given and ways in which they themselves develop and formulate these insights and words. Jeremiah’s messages also combined these two aspects.
+
+Jeremiah later suggests yet another model for understanding how Yahweh’s message comes to him. The difference between him and other prophets is that he has stood in Yahweh’s cabinet (23:21–22). He has been in attendance on Yahweh there along with Yahweh’s other aides (mostly supernatural ones), he has listened to debates, and he has taken part in them and in the making of decisions (cf. 1 Kgs 22:19–22). He then functions as someone sent by Yahweh with a role to play in the implementing of these decisions—by declaring Yahweh’s message to people. In what sense did he attend these meetings? When Ezekiel was transported to Jerusalem (Ezek 8–11), I imagine one would still have found him physically in Babylon, and when Paul was transported into the third heaven (2 Cor 12), one would still have found him wherever he had been before this experience began (though he interestingly expresses uncertainty about whether or not it was an out-of-body experience). One’s body and spirit are sufficiently separable for body to be in one place and spirit in another (cf. 1 Cor 5:3–4). So it would be for Jeremiah.
+
+A further element in Jeremiah’s account of his commission deserves note as background to his work. In response to Yahweh’s speaking to him, he says, in effect, “Not me, I’m only a kid.” His attempt to resist Yahweh then becomes part of Yahweh’s message in this scroll. Subsequently, he makes other comparable contributions to the message, not least as he protests about things that happen to him. A related possible ambiguity in the scroll’s introduction deserves noting in this connection as background to the idea of the scroll as “Yahweh’s message.” The expression for “the words of Jeremiah” (dibrê yirmәyāhû) could be understood to mean “the acts of Jeremiah” (the equivalent expression is applied to Jehoiakim in 2 Kgs 24:5).7 A distinctive feature of the Jeremiah scroll is the extent to which it relates things that Jeremiah does and things that happen to him. Yahweh’s message expresses itself in those actions and experiences.
+
+
+
+
+
+II. UNITY OF COMPOSITION
+
+
+The scroll’s introduction indicates that it came into being sometime after the fall of Jerusalem in 587 but that the scroll will refer to events going back over the preceding forty years. Was it composed in one go, or does the story of its composition go back some time? Conversely, the scroll makes no reference to events beyond the immediate aftermath of 587 (except in 52:31–34), but this fact need not imply that it came into being in those immediate years or decades. Does the story of its composition go on for some time? What can we say about its composition and unity?
+
+
+
+
+
+A. THE THREE HORIZONS
+
+
+The scroll directly suggests three horizons8 for reading it; they correspond roughly to three horizons implied by the introduction.
+
+(1)There is the series of particular contexts in which Jeremiah delivered his messages, to which the scroll sometimes refers (e.g., 3:6; 21:1; 25:1).
+
+(2)There is Jeremiah’s dictation of his entire message up to that point to Baruch in 604, to which 36:1–4, 32 refers (30:1–2 also refers to his writing, as does 51:59–64—with a date, 594).
+
+(3)There is the production of an expanded scroll sometime after 587 (to judge from 1:1–3) and of its final form as we have it not before 562 (to judge from 52:31–34).
+
+As the scroll reports it, then, Jeremiah uttered his words to Judahite people during the reigns of the kings it names and in the aftermath of the fall of Jerusalem, between the 620s and the 580s. When it reports that Yahweh said something to Jeremiah in the reign of one or another of the kings, it invites us to listen to its words against that context.
+
+Yet the scroll as a whole sets Jeremiah’s individual messages in the context of the history that continues until the fall of Jerusalem and its aftermath. They would have a nuanced significance once the catastrophe had actually happened, after which Jeremiah continued to embody Yahweh’s straightness and mercy as he was taken off to Egypt. The scroll itself thus came into being to speak to people some while after the events it threatens and then relates. So we read it against two horizons: the context in which Jeremiah spoke a particular message and the context from which people can look back on his message and on the events surrounding it and ask about their significance. By 562, Jeremiah would have been at least eighty, and he might have still been alive, but the last we hear of him is around 585, in Egypt. After that date, no one preserved any messages he received or told any stories about him that made it into the scroll. In effect, his work and life come to an end about 585.
+
+In between the initial speaking and the final composition, Jer 36 suggests an intervening horizon by telling the story of Jeremiah having his message transcribed by Baruch. The original production of this 604 scroll was designed to bring home in that context the message Jeremiah had been delivering for two decades: “Yahweh is bringing catastrophe on Judah; you must turn back to him.” In that scroll and context, Jeremiah need not have been concerned to anchor individual messages in their original settings. They became part of a message designed to speak in 604. “The mind of Jeremiah is fixed on the situation in 604 BC and he calls the old prophecies to mind entirely in terms of this situation.” He is not aiming to repeat them as he might have uttered them years previously but to speak them as “the divine word to Jehoiakim and his cabinet” now.9 Actually, something similar is true about the Jeremiah scroll that eventually emerged after 587. It aims to bring Yahweh’s word to Judah now.
+
+Although messages in Jer 1–20 indicate that they speak to concrete settings and events in the decades beginning in 626, only once (3:6) do they mention the reign of a particular king. Jeremiah and the scroll’s compilers apparently saw no reason to preserve his messages in a way that would enable people reading the scroll to place each of them in particular contexts in the time of a particular king. Actually, Jeremiah implies that he has been saying the same thing all through, so what difference would it make? While we might like to set each message in its specific context, and while commentators have sought to do so, it is simply a matter of guesswork, and in this commentary I will not make the attempt.
+
+On the other hand, if Jeremiah got Baruch to put a collection of his messages into writing in 604, I am going to guess that Jer 2–6 represents Baruch’s subsequent rewritten scroll and keep that possibility in mind as a heuristic device—an aid to imagination. But the Jeremiah scroll does not privilege any one of the three horizons, and interpreters may properly vary over which context they focus on. In connection with any section of the scroll, it is worth asking which context illuminates it.
+
+The Jeremiah scroll is one work, but its contents suggest that its composition reflects the contributions of more than one person. One indication is that it incorporates first-person speech (“Yahweh’s word came to me”) and third-person speech (“Yahweh’s word came to Jeremiah”). While first-person speech may mean that these words are Jeremiah’s own, it need not carry that implication; Ecclesiastes uses the “I” form, as ghostwriters and speech writers do. Conversely, while third-person speech may mean that the words come from someone speaking about Jeremiah, this speech form also need not carry the obvious implication; writers sometimes refer to themselves in the third person (Robert Carroll did so in his writings on Jeremiah10). Rhetorically, the two forms of speech have different affects, but a move between first person and third person need not signify a change in speaker or writer.
+
+Likewise, a move between poetry and prose need not signify a change in speaker or writer.11 The English author Philip Larkin published both poetry and prose. Nor can one infer from someone’s poetic style what their prose style would be or vice versa. Nor does a change of subject signify a change of author: Larkin wrote extensively on jazz in his prose, but not in his poetry. In the Jeremiah scroll, only the prose speaks of the “temple” (as the hêkāl) and of the (old) “covenant”; this difference may signify nothing about whether or not the prose came from the author of the poetry. A difference between the convictions or message expressed in the prose and poetry would be more significant, but the Jeremiah scroll does not manifest divergences of this kind. It is (for instance) capable of speaking both as if the fall of Jerusalem is inevitable and as if people need to turn so that they may avert this catastrophe, but such tensions appear within the poetry and within the prose, not just between them. More significant is, again, the fact that the two forms of speech or writing have different rhetorical affects.12
+
+I do assume that there is material in the scroll conveying Jeremiah’s own words and also material produced by people who wanted to write about him. One may think of these people as his disciples, though the scroll never says that he had any, and the word’s meaning is vague. One may think of them as his editors, though editors are somewhat distanced from the object of their work, and they may not agree with it. One may think of them as his secretaries or scribes, which is at least a word that comes in the scroll, and it has the advantage and disadvantage of being much used in current scholarly writing on Jeremiah;13 it thus carries some freight. One may think of them as preachers aiming to interpret Jeremiah to their contemporaries.14 Calvin sees them as priests and Levites.15
+
+I will refer to them as the scroll’s curators and storytellers. Storytellers use imagination to generate a narrative with form and drama that makes it possible for people to appreciate and respond to it; it may be more factual or more fictional. Curators conserve things so as to look after them and make them available, selecting, arranging, and thus enabling them to say what they have to say. If we wish to think more concretely about these storytellers and curators, we could imagine them as embodied in the person of Baruch. The scroll calls him Jeremiah’s scribe, though it never implies that he did the work of storyteller or curator except in compiling the 604 scroll, nor that he thus had anything like the creative role in generating the Jeremiah scroll that has sometimes been imagined for him. Scholarly study has thought of these curators and storytellers as “the Deuteronomists,” the people whose work lies behind the “Deuteronomistic History,” especially 2 Kings, though scholarly thinking about their relationship with the thought and language of Jeremiah has been fraught.16 Nor is it clear whether the Deuteronomists will survive the ferment over the origin of Genesis to Kings that now characterizes First Testament scholarship,17 though this difficulty does not terminate discussion of intertextual and other forms of relationship between Jeremiah and Deuteronomy or 2 Kings.18
+
+Scholars traditionally describe the material in the scroll that they think came from Jeremiah as “authentic,” though they sometimes put scare quotes around this word.19 Material that came from a curator or storyteller is thus “inauthentic.”20 The two words imply an inappropriate value judgment. Storyteller and curator may be just as authentic messengers of Yahweh and interpreters of Jeremiah as Jeremiah himself. The word “authentic” also gets us into trouble if we cannot distinguish between material that came directly from Jeremiah and material that did not—if this uncertainty leaves us uncertain of the material’s value. Further, the value judgment pushes people who want to affirm that the material is valuable into arguing that it must therefore come directly from Jeremiah. Actually, we do not know which material came from Jeremiah, but this fact does not stop the entire scroll being authentic in the sense of the product of people who worked under God to bring his message to Judah.
+
+Therefore, as I pay little attention to establishing the dates of messages that the scroll leaves undated, I also do not pay much attention to determining whether messages came from Jeremiah or a curator or where the boundary lies between fact and imagination in the stories.
+
+If Jeremiah and Baruch produced a scroll comprising messages delivered by Jeremiah over twenty-three years, it would be surprising if Jeremiah or Baruch did not have it in their backpack in 587. In keeping with a pattern that one can infer in regard to Hosea and Amos in connection with the fall of Samaria in 722, one may imagine that the confirmation of Jeremiah’s message by the fall of Jerusalem in 587 led some people in Jerusalem or in locations such as Mizpah, Bethel, Babylon, and Egypt to think more about his message, to make sure it was preserved, to ask what implications it had for the future, and to develop it in a way that provided answers to that question. The people I am calling Jeremiah’s storytellers and curators are such people. In principle, then, one might seek to discern ways in which they have done their work.
+
+In Mizpah and then in Egypt, Jeremiah himself would surely have been involved in that reflection, while the storytellers and curators will have generated the narratives within Jer 26 to 36 and the complex into which they were incorporated, as well as the longer complex comprising Jer 37–44. While most people in Jeremiah’s day might have had some basic literacy, only a tiny number would be able to write stories such as appear in the Jeremiah scroll or to compile it or read it (as Jer 36 implies).21 One can imagine collections of Jeremiah’s sayings like the 604 scroll and of stories involving him being read “by small groups of trained scribes” or “in acts of public confession and worship”22 in the period following the catastrophe of 587. Treating scribal and liturgical as alternatives may involve a false antithesis if Levites could be scribes and vice versa.23
+
+Could something like the Jeremiah scroll have been produced in a context like the aftermath of 587 and before the Persian period, or does its production imply a setting where there is a leisured class who can settle down and write books, as some argue?24 That argument works in connection with writing books about the Jeremiah scroll, but writing the scroll itself seems at least as likely to be a response to a religious and social crisis (the picture that Jer 36 gives) or to a community trauma like that of the fall of Jerusalem and the experience of exile. A prophet or a curator needs no great infrastructure in this connection, only a scroll, a pen, a dark evening, and a candle. Accumulating evidence of a significant ongoing community in Judah (outside the devastated capital) in the Babylonian period25 provides a plausible context for such reflection and work—if it did not take place in Egypt. Conversely, there is no direct evidence that Judahites in the Persian period possessed infrastructure for writing a scroll in a way that Judahites in the Babylonian period did not.
+
+One possible aim of the curators’ and storytellers’ work is thus to provide a rationale for the sad state of Judah and its people, which reflects their abandonment of Yahweh.26 In this respect, the Jeremiah scroll complements the books of Kings.27 As German theology flourished (in a way that may seem surprising) after the catastrophe of the First World War and again after the catastrophe of the Second World War, it would not be difficult to imagine that the calamity that came upon Jerusalem in 587 issued in creativity among Judahites in subsequent decades. The scroll itself is then “a ‘thick’ response to disaster…. It names the disaster, interprets the disaster, and portrays the prophet as a survivor of disaster.”28 It is “a kind of survival manual.”29
+
+
+
+
+
+B. THE COMPOSITION OF JEREMIAH AND THE COMPOSITION OF THE GOSPELS
+
+
+A process of development generated the composition of the scroll that we have. But intensive study over more than a century has generated no consensus concerning this process or the process whereby individual chapters developed. As is the case with attempts to date messages of Jeremiah in specific contexts and to distinguish between more factual and more fictional in narratives, I therefore do not attempt to adjudicate over theories concerning the process whereby different chapters in the scroll developed or to formulate more theories about it. I do not object to people studying “textual genetics rather than poetics,”30 but I focus on the latter, on what the curators who generated the documents present to us in each chapter and on the understanding of Jeremiah that they set forward. I take their understanding as an “authentic” one. While I include footnote references to some work on the possible development of material in the scroll so that readers may follow it up, in the commentary I focus on the text we have rather than seeking to uncover the compositional process whereby it may have developed.
+
+I do have a mental picture of the general compositional process, partly imagined on the basis of the possibility that the New Testament Gospels provide a plausible model (or plausible models) for thinking about the composition of the Jeremiah scroll and about its relationship to events.31 Like the Jeremiah scroll, the Gospels combine messages and stories, though they make the story the framework for the messages whereas the Jeremiah scroll makes the messages the framework for the stories. Like the Jeremiah scroll, the Gospels tell a story about what God was doing and saying historically but do so in a way that brings home its significance for the people of their day. In both respects, their telling corresponds to what one can envisage God wanting and inspiring.
+
+Oddly enough, the time span between the first and the last events that the scroll relates (626 and 562) is not so different from the time span from Jesus’s birth to the writing of the Four Gospels—or at least of the first three. A difference between Jeremiah and Jesus is that the Jeremiah scroll tells of the prophet having his message written down whereas the Gospels do not say that Jesus did so. In other respects, there are partial analogies between the processes of their composition. During Jeremiah’s working life and over succeeding decades, some people held onto his messages while also adapting them so that they spoke in new ways. In addition, they told stories about him that also spoke to their contemporaries, doing so in a way that stayed narratively within the framework of his own life and work. In principle, one can therefore ask about the difference between their version of events and of his teaching on one hand and the actual events and his actual teaching on the other, though opinions differ on the results of such investigation, as in the case of the Gospels.
+
+Again oddly enough, we have more than one version of the Jeremiah scroll, as we do of the Jesus story—a Hebrew version preserved in the Masoretic Text and a shorter Greek version preserved in the LXX (see “The Hebrew Text,” pp. 43–46). Among the Gospels, Mark is the version nearest to actual history (while still being an interpretation of Jesus’s story). Matthew pays more attention to working out the story’s significance for its readers, who were Jews who believe in Jesus. Luke-Acts explicitly takes the story beyond Jesus’s own day. And from Matthew and Luke one may be able to work back to another collection of Jesus’s teaching that they both knew (Q). John is a version that takes a more creative and imaginative approach to narrating Jesus’s significance. Accounts of the feeding of the five thousand (Mark 6; Matt 14; Luke 9; John 6) provide an illustration. Perhaps Jeremiah and Baruch’s 604 scroll is a bit like Mark, LXX Jeremiah is a bit like Matthew, and MT Jeremiah is a bit like Luke. (It is another nice coincidence that Mark wrote before the fall of Jerusalem, Matthew and Luke after it.)
+
+This comparison with the Gospels suggests several reflections in connection with Jeremiah.
+
+Our having multiple versions of the Jesus story establishes a richer but also more complicated baseline for thinking about the relationship between Jesus and the way people told his story, whereas we have only the two versions of the Jeremiah scroll.
+
+A way of formulating the question about the relationship between Jeremiah and the Jeremiah scroll is to ask whether the scroll is more like Mark, more like Matthew or Luke, or more like John. And a way of categorizing scholarly work on Jeremiah is to classify it according to its answer to that question. But one’s answer to that question is as much the hypothesis from which one starts as the conclusion that one reaches.
+
+The presence of all four Gospels in the Scriptures reflects an assumption that God likes all four ways of telling the Jesus story. The place of the Jeremiah scroll among the Scriptures then does not imply that in its relationship to Jeremiah himself it is more like Mark than like John. Either way, it is “authentic.”
+
+If MT Jeremiah is an expanded edition of the version lying behind LXX Jeremiah, it is not therefore inferior any more than Matthew is inferior to Mark. Nor is it a basis for emending MT’s text—or for that matter vice versa. Both MT Jeremiah and LXX Jeremiah need to be understood in their own right, like Matthew, Mark, and Luke, though a comparison of the versions may draw attention to significant features.
+
+A focus on getting behind the Jeremiah scroll and tracing the process whereby it came into being risks ceasing to pay attention to the scroll itself—as is the case with a focus on getting behind Mark or John. Tracing that process may be interesting and worthwhile, but it is a different enterprise from interpreting the scroll.
+
+If getting behind the Gospels to the Jesus of history is complicated (!), then tracing the process whereby the Jeremiah scroll developed is at least as complicated, as is reflected in the scholarly study of the past century or so.
+
+Christians may read the Gospels to listen to the message the Gospel writers brought as they reflected on Jesus’s life and ministry with the assumption that in this way we may imagine our way into Jesus’s life and ministry and learn from it. Thus, alongside “suspension of belief” in the “historical Jeremiah” in order to “read the text as if that character were the product of the tradition itself”32 (that is, to read, interpret, and believe the received text as if the Jeremiah in it were the “real” Jeremiah), one might put suspension of belief in a redactional process that we cannot trace in order to read the text that issued from that process (that is, to read, interpret, and believe the received text without wondering if it is the “real” text).
+
+A chapter such as Jer 32 is instructive in this connection. It anticipates the form of some chapters in John’s Gospel that open with a symbolic act by Jesus that is the lead-in to a theme relating to the symbolic act. In those chapters, over a period of fifty years or so after Jesus’s death and resurrection, the Holy Spirit inspired John to take events from Jesus’s life and his actual words and make them the basis for a reflection on his significance, which John presents as Jesus’s own words. The Christian community came to recognize the authenticity of that reflection in this connection. It may be anachronistic to imagine the community thinking about this process in a way that made the distinction that I might presuppose between what Jesus said and what John might infer from it,33 but given that I cannot help making that distinction, then the way I express it involves affirming my trust that the Christian community did the right thing when it recognized that John had truly articulated the significance of Jesus and, for that matter, my assumption that Jesus himself would have liked the way John has put things on his lips that he did not say.
+
+
+
+In light of this analogy with the Gospels, I picture the composition of the scroll along the following lines. The picture is shrouded in the word possibly, though I do not keep repeating that word below.
+
+Between 626 and 604, Yahweh was giving Jeremiah messages that he delivered in the temple courtyards and elsewhere. These messages appear within Jer 2–6. Jeremiah critiqued the Judahite religion that Josiah tried to reform and supported his reformation, but he opposed Josiah’s political and military policies. He opposed the reversion to pre-reformation religious practices after Josiah’s death.
+
+In 604, Yahweh told Jeremiah to write up all his messages. Jehoiakim destroyed the resulting document, but Jeremiah rewrote it, and Jer 2–6 is the rewritten version—perhaps annotated after 587. We cannot date most of the messages within Jer 2–6 to particular moments between 626 and 604.
+
+Through the reigns of Jehoiakim, Jehoiachin, and Zedekiah, Yahweh continued to give Jeremiah messages to deliver in the temple courtyard and in the palace. They provoked controversy and opposition. In the last years before 587 and the aftermath, Yahweh continued to give Jeremiah messages for Judah, some more promissory as the catastrophe approached and after it happened. Before the city’s fall, he continued to deliver these messages in the temple courtyard and in the palace; afterward, he delivered them in Mizpah.
+
+In Mizpah or in Egypt, Jeremiah got Baruch to write down the further messages that he had received during the reigns of Jehoiakim, Jehoiachin, and Zedekiah, which appear within Jer 7–36 and 46–51. They are or include the “many similar words” of 36:32. There is no reason to set verse and prose sharply apart within these chapters as Jeremiah’s method of communication, but prose may more often indicate that curators are summarizing Jeremiah’s message as they understand it.
+
+Storytellers in Mizpah or Egypt wrote the stories about Jeremiah up until his move to Egypt and its aftermath, beginning with 1:4–19 but mostly within Jer 26–45. They include messages by Jeremiah in prose whose wording the curators sometimes formulated, based on what they knew Jeremiah had said or on the implications of his message.
+
+Curators compiled the complexes of messages and stories that we can discern within the scroll (e.g., 39:1–44:30; 46:1–51:64) and placed the complexes end to end (as happened with the book of Psalms) in bringing together the material in 1:1–52:30 in an organized form. They added 52:31–34 in about 560.
+
+The scroll refers to the Medes as a serious power and potential threat for Babylon and to three peoples within the Median Empire; it shows no awareness of the Persians, who took over the Median Empire and turned out to be the actual threat to Babylon; it refers to the release of Jehoiachin as if that were a sign of hope but shows no awareness of the accession of Cyrus to which Ezra 1 can refer as a more telling sign of hope and the fulfillment of Jeremiah’s promises; it speaks much of the fall of Babylon but shows no awareness of how Babylon actually fell and gives no indication that imperial power has passed from Babylon to Persia, that many Judahites have returned to Jerusalem, or that the temple has been rebuilt. By the 550s or 540s, then, the scroll reached something close to the version we have.
+
+Copies reached Judah and Babylon, and curators in Egypt, Judah, or Babylon produced the further versions that approximate to the Hebrew text that we have and to the Hebrew text lying behind the LXX version (the LXX Vorlage, or LXXV).
+
+Both scrolls may have been glossed later. MT Jeremiah includes a distinctive number of small variations between the ketiv and the qere, which may reflect this process.
+
+
+
+
+
+C. THE PERSIAN PERIOD: A FOURTH HORIZON?
+
+
+In the unresolved scholarly debate on the origin of the scroll, views focus more on the Persian and Greek periods than on the decades that more immediately followed the time of Jeremiah’s own activity. In placing the scroll’s finalizing in the Babylonian period, I take the minority opinion.34 Much scholarship in the late twentieth and early twenty-first century has seen the Persian period as the key context in which First Testament scrolls in general came into existence. The illumination that emerges from postcolonial perspectives35 and considerations of ideology36 has especially encouraged the making of this connection, not least for Jeremiah.
+
+Ezra 1–6 relates that Yahweh fulfilled one of Jeremiah’s declarations when Judahites in Babylon returned to Jerusalem to rebuild the temple. They refused to let people whose ancestors had long ago been forced migrants into Samaria join in the project, and “the people of the country weakened the hands of the people of Judah” in connection with it (Ezra 4:4). They sought to get the Persian authorities to stop this work and the subsequent rebuilding of Jerusalem itself. On the other hand, people who had joined the returned exiles in the building project on the basis of separating themselves from the defilement of “the nations of the country” in order to have recourse to Yahweh did in due course join in the celebration of the temple rebuilding (Ezra 6:21–22). Identifying these groups is difficult, but it is enough to establish that there were tensions and conflicts between different groups in Judah, specifically between people who had returned from Babylon and people who had not gone into exile.
+
+One could call them different interest groups. And just as different Christian groups see themselves as the heirs of the New Testament or parts of it, one can imagine different groups in Judah claiming to be the heirs of Jeremiah’s message. One can further ask of the Jeremiah scroll itself the modern and postmodern question, “Whose interests does it serve?”37 If “the political is primary,”38 and if the scroll came into being in the Persian period, then it would not be surprising if these groups’ claims were expressed in the scroll itself. If, for instance, its curators were people who had come back from Babylon or were their descendants, one can ask how they wrote their claims into their work.39
+
+Several issues need distinguishing and evaluating here.
+
+The scroll may reflect conflicts and different interests among the Judahite communities over the relative status of the community in Judah, in Babylon, and in Egypt or over the status of Jehoiachin or over attitudes toward the Babylonian Empire itself. But the fact of such conflicts does not imply that they needed a century to emerge or find expression.40
+
+Reference to the tensions and conflicts of which Ezra 1–6 speaks has to be read into the Jeremiah text. While Jer 24 and 29 can be connected with them, they do not require such a connection or point directly to these tensions and conflicts (see the commentary on Jer 24 and 29).
+
+The connections can be made on the basis of redaction-critical study of the text. But the redaction-critical study emerges from the theory as much as the other way around.
+
+If one explains the scroll’s capacity to combine two contrasting views (e.g., in its attitude toward Jehoiachin or in describing Nebuchadrezzar as Yahweh’s servant and declaring that Yahweh’s wrath is coming on Babylon) as reflecting the view of pro-Babylonian and anti-Babylonian groups, that “explanation” only pushes the question back a stage: if the two attitudes could not be taken by one group, how did both attitudes gain access to the same scroll? (On theological tensions in the scroll, see “Main Themes and Their Implications,” pp. 59–60.)
+
+“Why would each of these groups,” who all named the name of the one God, “have chosen to re-establish their identities in such exclusivist ways?” Was it an inevitable aspect of the need to reformulate the faith? Does the reaction seem odd because of our modern, liberal, inclusive tendencies?41 Or might we turn this question on its head? Whereas “Whose interests does it serve?” has become a familiar question in the West in the context of conflicts over the past century, perhaps we are imposing it on Ezra and Jeremiah, and people were less preoccupied by power than modern Western people or could disagree without being in conflict.
+
+
+
+Further, the following considerations raise difficulties for the idea that the scroll reflects the Persian period.
+
+It makes no reference to anything we know about in the Persian period. It never refers to the Persians themselves or to the issues that surface in Ezra 7–Nehemiah 13. The First Testament does include material with a background in the Second Temple period (e.g., in Chronicles, Ezra, Nehemiah, Esther, Ecclesiastes, Daniel, Haggai, and Zechariah), which explicitly refers to this background and includes Persian words and represents features of Late Biblical Hebrew. Jeremiah does not have these characteristics.42 (It also gives no concrete indication of links with the Greek period, such as Greek words or historical references; the question of development of ideas—specifically eschatological/apocalyptic ideas—involves arguing in a circle.43)
+
+“There is thus some effort of the imagination involved in locating the scroll in this context” in that “passages are explained against a variety of proposed backgrounds of which we have little in the way of real knowledge.”44 To elaborate the point,
+
+“Few periods of biblical history have attracted as much attention in recent years as the Persian era…. As a result of this scholarly interest, many Old Testament texts and the most important processes in the development of the YHWH faith have been (re-)dated to this era…. [But] many of these processes (e.g. the emergence of the Torah in the Persian period) have merely been deduced and therefore remain hypothetical and speculative…. Primary and secondary sources for the approximately 200-year Persian supremacy in the ancient Near East are incredibly sparse, much more so than for the 100-years of Assyrian hegemony…. The scarcer and more problematic the sources, the greater the conjecture and speculation.”45
+
+“The tough circumstance of the community in Judah in the Persian period indeed required Judahite intellectuals to be interacting with Israel’s traditions: “Total abandonment of cultural heritage and identity must have seemed unthinkable.”46 And one can see scrolls such as Chronicles and Ecclesiastes as engaged in such reflection. The problem with suggesting that the Jeremiah scroll’s development was an aspect of this reflection is the wide gap between its contents and the purpose that according to this hypothesis it was designed to fulfill. The content of those works looks quite different from that of the Jeremiah scroll.
+
+The quotations from Jeremiah within the First Testament take up the promises rather than the warnings, and the Ezekiel scroll includes much more by way of promise than the Jeremiah scroll. It’s been said that “the prophetic books are about hope”47 and that “predominantly … Jeremiah’s book contains a message of hope.”48 Actually, the Jeremiah scroll is closer to being dominated by threat. B. Baba Batra 14b exaggerates only slightly in saying that “it is all of it the destruction” (see “The Jeremiah Scroll in the Canons of Judaism and of the Church,” pp. 42–43). It is at least a “predominantly dystopian text,”49 not the kind of text one would expect to develop to meet the needs of the Persian period.
+
+
+
+
+
+D. DISUNITY OF COMPOSITION (A FIFTH HORIZON)
+
+
+The suggestion that the Jeremiah scroll relates to the Persian period is an interpretation that arises from a Western scholarly context and reads the text in light of concerns that come from the time of the readers. To put it in anthropological terms, it is etic rather than emic.50 It is an “in front of the text” reading rather than an “in the text” reading. Paradoxically, as an “in front of the text” reading, it becomes another “behind the text” reading of the kind that were common in connection with Jeremiah in the twentieth century. There is some irony about Jeremiah study’s moving from a quest for the historical Jeremiah of the First Temple period to a quest for the historical Jeremianic authors and communities of the Second Temple period; the latter quest is another version of the former and is just as doomed. There is a further parallel with study of the Gospels, which moved from a quest for the historical Jesus to a quest for the communities that the Gospels addressed; this also did not work out very well and could thus lead back to asking questions about “the Gospels for all Christians.”51
+
+There is nothing wrong in principle with “in front of the text” readings just as there is nothing wrong with “behind the text” readings. Indeed, there is a sense in which any reading is an “in front of the text” one because, by definition, interpreters all live in front of the text as (e.g.) Western academics sympathetic to postmodern and postcolonial thinking in the twenty-first century. But the image of horizons presupposes that we seek to allow our horizon to merge with that of the text—at least to understand it, even if not necessarily to agree with it. The problem with the “in front of the text” Persian-period understanding of the Jeremiah scroll resembles the problem with an understanding of the Song of Songs as concerned with God’s relationship with Israel or Jesus’s relationship with a believer. It may illumine that relationship, but it loses the thrust of the text itself. And it ends up critiquing the text for fulfilling a different aim from the one that was its concern. The promise and the drawback of “in front of the text” approaches lie in their reading Jeremiah in light of Western insights, experiences, and culture. As they engage in ideological criticism of the scroll and look for ideological considerations that are reflected in the text, they do so in light of their own ideological convictions. Thus, paradoxically, postcolonial interpretation takes an imperial stance in relation to the text. Beginning from a position of power over the text, in the name of marginalized people it marginalizes the text and advances its own ideological concerns.
+
+If the curators of the Jeremiah scroll did live in the Second Temple period, they avoided drawing direct attention to themselves or their context and invited their readers to read the scroll in the context of the period from Josiah to the aftermath of 587. Readers are free to decide for themselves whether they will do so, but in this commentary, I have accepted the invitation.
+
+To do so is not to imply that one abjures “in front of the text” readings, which one could call a fifth horizon. Such readings informed by post-structuralism, feminism, deconstruction, and intertextuality have flourished in the late twentieth and early twenty-first centuries.52 In the commentary, I will refer to some exercises in interpretation that reflect the fourth and fifth horizons, but my focus will be on the first three.
+
+
+
+
+
+E. THE TORAH, THE PROPHETS, AND THE PSALMS
+
+
+Jeremiah has a background in the Torah, the Prophets, and the Psalms,53 though none of these scrolls existed in his day in the form in which we know them. Not surprisingly, the length of the Jeremiah scroll means it has room for allusions to the key moments in the story that appears in the First Testament as we know it: God’s act of creation, his promise to Israel’s ancestors, his destruction of Sodom and Gomorrah, his getting Israel out of Egypt, his leading them through the wilderness, his making a pledge with them, his giving Moses his Ten Words, his listening to Moses and Samuel as intercessors, and his destroying Shiloh. These last references to an Ephraimite person and place remind us that the background information at the beginning of the scroll designates Jeremiah as someone from Anathoth in Benjamin, which could count as Ephraim rather than Judah (see the commentary on 1:1). There could then be some ambiguity about Jeremiah’s position—living in Jerusalem but not quite belonging there. But it would be nice to think that his origin in a priestly family contributed to his wide knowledge of Israel’s story and of the sacred traditions that we know from the Torah, the Prophets, and the Psalms, including priestly material.54
+
+The most explicit single allusion to them appears in 26:18–19, which refers to Micah and to the story of Hezekiah and associates Micah with the kind of warning about disaster coming to Judah that Jeremiah also uttered. But it is not Jeremiah himself who refers to Micah in the text, but the elders of Judah. Jeremiah’s own way of speaking about Yahweh’s relationship with Israel as like that of a husband with his wife—a relationship that laid on the wife an expectation of submission to her husband that Israel failed to fulfill—recalls the message of the Ephraimite prophet Hosea. It is a plausible assumption that a scroll with Hosea’s teaching was compiled in Jerusalem or taken there before or after the fall of Samaria in 722, which could provide means whereby Jeremiah got to know Hosea’s message.55 Further, Jer 48–49 indicates concrete acquaintance with Isaiah and Obadiah (unless the acquaintance is the other way around), and Jer 48 reflects Num 21. The scroll incorporates many further lines and images that may count as allusions to the messages of other prophets.
+
+In his comments on that quasi-marital relationship, Jeremiah also takes up teaching from the Torah that appears in Deut 24, to which Jer 3:1 constitutes a more or less explicit reference. We have noted that Josiah’s reformation was fueled by the emergence of a Torah scroll that seems to have corresponded with something like Deuteronomy as we know it, and there are various points at which Jeremiah seems to presuppose people’s acquaintance with Deuteronomy. The question of acquaintance and allusion is complicated by the apparent fact that Deuteronomy as a whole as we know it came into existence during or after the time Jeremiah was active, while the Torah as a whole as we know it comes from after Jeremiah’s day. I think of Ezra bringing it to Jerusalem in 458 (see Ezra 7) as the moment when it was propagated in Jerusalem. So Jeremiah’s message may be background to Deuteronomy as well as Deuteronomy being background to Jeremiah. There are particularly close links between Jeremiah and Deut 32, and the influence might go either way.
+
+Deuteronomy appears in the First Testament as a lead-in to Joshua through Kings, an account of Israel’s story from Moses to the fall of Jerusalem. The telling of that story reflects the same ways of thinking as Deuteronomy, which provides key clues to understanding why Israel’s story unfolded in the way it did. There is again a close relationship between the narrative in 2 Kgs 17–25 and the Jeremiah scroll. Much of Jer 39 and 52 are virtually identical with 2 Kgs 25, as, for example, Matt 4:1–11 is virtually identical with Luke 4:1–13. More subtly, the story of Josiah’s coming to know that Torah scroll and his reaction to it (2 Kgs 22–23) provides a pattern for the story of Jehoiakim’s coming to know the scroll of Jeremiah’s message and his reaction to it (Jer 36)—a pattern with which the Jehoiakim story constitutes a chilling contrast. The teaching and stories in the Jeremiah scroll are related in ways that indicate more generally the influence of the thinking of Deuteronomy and of those succeeding books.
+
+The praises and protest prayers in Jeremiah compare with their equivalents in the Psalms, against whose background Jeremiah praises and prays. Specific links may indicate that he picks up their phrases or may indicate that he influences them. He also has themes and language in common with Isa 40–55 and with Ezekiel that might indicate influence either way.56
+
+
+
+
+
+F. WAS JEREMIAH A HISTORICAL FIGURE?
+
+
+The contents of the Jeremiah scroll fit against a historical background in events in Judah in the late Assyrian and Babylonian period, the period to which the scroll’s introduction refers. But the plausibility of this background does not determine how historical the Jeremiah story is. Fictional works are often set against a credible historical background, so having a plausible historical background and being history-like say nothing about whether a work presents itself as historical or succeeds in being historical, if it has that aim. And it has sometimes been argued that Jeremiah is more or less a fictional character. In the LXX, the Jeremiah scroll is followed by Baruch, a work in which Jeremiah’s scribe delivers a message to the Judahites in Babylon, and then (after Lamentations) by a Letter of Jeremiah sent to the Judahites in Babylon. But these writings have no actual connection with a historical Jeremiah or Baruch and they never had a place in the Torah, the Prophets, and the Writings. Is Jeremiah comparable to them57—essentially a literary creation?58 Or is the Jeremiah scroll more like the closing chapters of 2 Kings that give a basically factual account of the decades to which the Jeremiah scroll also relates?
+
+The fact that the Jeremiah scroll is Yahweh’s message, Yahweh’s word, does not in itself indicate that it must be presenting itself as historical. Yahweh likes history, but he also likes works of the imagination; they can be a good way of conveying insight. Jonah is such a story about a prophet, and Ecclesiastes is a collection of testimonies and observations that half-invites readers to think they come from Solomon (“half-invites” in that it does not name him). Each of those works takes a historical person as its launching point but then constructs a work of imagination. It is inspired imagination; designating these scrolls in this way does not imply they are untrue. They are like Jesus’s parables. They tell people the truth about Yahweh and about themselves, but they do so in a different way from historical works. “Counterfactual histories” can make it possible to think creatively about a better present.59
+
+But a number of considerations suggest that the Jeremiah scroll is more like the closing chapters of 2 Kings in its relation to history than like Jonah or Ecclesiastes.
+
+Jonah is clearly structured in its literary nature and in its thinking. The Jeremiah scroll has some structure, but its material is much more diverse and variegated.60 It has been called “a complicated, untidy accumulation,” a “rolling corpus.”61
+
+Ecclesiastes implicitly attributes its contents to someone whom everyone knew to be important, and even Jonah is a paradoxically appropriate subject for the message conveyed by the story about him. Likewise, by the time Baruch and the Letter of Jeremiah were written, Baruch and Jeremiah were well-known and respected. But in the case of the Jeremiah scroll itself, in the words of Overholt, “what puzzles me is why someone would collect material and then assign it to a ‘fictional’ character” if that is what Jeremiah is.62
+
+Jonah and Ecclesiastes no doubt reflect and interact with concrete historical contexts, but they do not directly refer to these contexts. The material in the Jeremiah scroll interacts explicitly and concretely with Judah in the time from the 620s to the 560s.
+
+Jonah and Ecclesiastes do not seek to “explain the People of Israel’s past against the background of God’s presence, and in this way to interpret the present experience of God’s people in order to shape its future” like the bulk of the First Testament.63 The Jeremiah scroll does work in this way, and there is some tension between the idea of making the past the basis for looking to the future and the idea that the past in question is not at all a real past.
+
+More specifically, the story and message in the Jeremiah scroll concern Yahweh’s involvement with the events of which it speaks, like Exodus, Joshua, and the Gospels. If the message and the narratives are simply fictional, the message deconstructs. It falls apart. Jeremiah’s way of working suggests that the historical and the literary need to be held together.64
+
+Jeremiah, like Exodus, manifests points of connection with otherwise-known facts from Israel’s world. References in the scroll to events and a comparison of names in the scroll with names known from seals at least suggest that a number of passages must have been written close to the time of the events described and written by people involved in those events.65
+
+
+
+These considerations suggest that the Jeremiah scroll is more likely to be based on fact and to relate to an actual prophet called Jeremiah than to be purely a work of the imagination. But we may also note a paradoxical parallel with Jonah and Ecclesiastes. While one’s view on whether these scrolls are fact or fiction makes a difference to an understanding of their significance for Judahite history, it may not make so much difference to interpreting the meaning of the scrolls in themselves or the message from God that they bring.
+
+
+
+
+
+III. AUTHORSHIP AND DATE
+
+
+In a literal, down-to-earth sense, the authors of the Jeremiah scroll are the curators who did their work in the period that came to an end in the 550s or 540s. But they would not have seen themselves as the scroll’s authors. Their aim was to transmit the message of the real author, the prophet Jeremiah—poet, preacher, crusader, persuader.
+
+
+
+
+
+A. JEREMIAH AS POET
+
+
+The first half of the Jeremiah scroll is dominated by messages in poetic form. It suggests an image of Jeremiah chanting poetic messages as he stands in the temple courtyard, as perhaps did rival prophets. It was a natural way to preach. “The prophets were poets,”66 and with prophets such as Jeremiah, “prophetic poets are most unpleasant people to have in the midst of any society.”67
+
+Formally, a distinctive feature of poetry in the First Testament is that it comprises sentences averaging four to eight words, divided into two parts. The second half usually complements the first half; the traditional but misleading term for this pattern is parallelism. I call the two parts cola; a sentence or line is then a bicolon, with two, three, or four words in each half. A Hebrew word has one stressed syllable (whereas in English, a word such as “individual” has two stressed syllables), so the number of words establishes the line’s rhythm. In English translation, the lines are longer because Hebrew compounds words in a way that English does not. Hebrew can also hyphenate words, like English, so that two words count as one, and this convention increases the number of Hebrew words in a line but not the number of stresses.
+
+A sequence of lines with a short second colon can convey shock or protest; the lines bring the listener up short (see, e.g., 13:18–20). Occasionally, other lines may not fit the pattern of two, three, or four stresses in each colon, and the Jeremiah scroll includes lines that are, for example, 4-1 (16:16), 5-2 (3:3; 4:17; 18:6), 5-3 (15:18), 5-4 (2:8; 16:18; 22:15), or 5-5 (10:11). Such exceptionally short or exceptionally long lines draw attention to themselves. In general, rhythm in prophets such as Jeremiah is looser than it is in the Psalms, Proverbs, and Job, where perhaps liturgical, pedagogical, and poetic/literary considerations generate a greater evenness. Perhaps prophets are more improvisational and less deliberate. I assume that they would chant their messages like rap artists, and the feasibility of such performance depends only on keeping the rhythm going, no matter how many words one uses.
+
+Jeremiah is also fond of three-part lines (tricola), which draw attention to themselves by the unexpected third colon that brings a surprise. Tricola often begin or end a poem or a section of a poem. Further, Hebrew like English has conventions about word order. In English, the subject comes before the verb, whereas in Hebrew, the verb comes first; but Jeremiah likes varying the word order to make a point. Yet further, many of Jeremiah’s lines are not self-contained—one will run into the next, and maybe into the next, by enjambment:
+
+I have been mindful about you, of your youthful commitment,
+
+of your bridal love,
+
+Of your going after me in the wilderness,
+
+in a country not sown. (2:2)
+
+The rhythm of those two lines is 4-2 and 3-3 (or one could read the first as a 2-2-2 tricolon). They also illustrate a key feature of the substance of poetry: that it uses imagery to articulate what it has to say in a profound and communicative fashion (see “Theology Imaged,” pp. 57–58). There are verses in the scroll that are rhythmic or pithy but lack imagery; it then becomes a judgment call whether one designates them as prosaic poetry or poetic prose (see e.g., 5:18–19; 9:23–26[22–25]; 10:11, 18; 11:17; 18:18; 25:33). If I err, it is on the side of being generous in designating verses as poetry.
+
+In general, Jeremiah’s poetic style is characterized by “staccato exclamations, rapid changes of scene and vantage point, frequent shifts of voice and discourse, use of invocation, plural command, and rhetorical question, a propensity for assonance and wordplay, a rich array of metaphors and similes from the natural landscapes and from human crafts and trades, and precision of metonymy and synecdoche.”68 It is succinct and terse; it is inclined to omit the little words that aid communication, such as the object marker and prepositions. It uses other forms of ellipsis that can produce jerkiness: it omits (say) a verb and expects the listeners to work out what the line means (see, e.g., 4:6; 12:9). Jeremiah’s poetry is also fond of hyperbole (e.g., 5:1–6; 7:21–23; 20:8); while one needs to be wary of imposing figurative interpretation on extreme statements that are meant literally, indisputable examples of hyperbole (e.g., 40:11–12) are a reminder not to treat Jeremiah or his curators as if they are being extreme when they are not.
+
+One verse in Jeremiah sometimes corresponds to one poetic line; 4:21 is an example. More often, a verse covers more lines: 4:20 comprises two, but 4:19 has three. Where necessary, I refer to a single line as, for example, 4:20a or 4:20b. If I need to refer to individual cola within those lines, I use Greek letters: I would refer to 4:20aα and 4:20aβ, then to 4:20bα and 4:20bβ. In a verse such as 4:19, with three bicola, I would refer to 4:19aα and 4:19aβ, then to 4:19bα and 4:19bβ, and finally to 40:19cα, and 4:19cβ.
+
+
+
+
+
+B. JEREMIAH AS PREACHER
+
+
+As Jeremiah was a priest, he could naturally be a teacher and preacher. Interwoven with his messages in poetry are messages in prose, and one can see why it should be so. Poetry communicates figuratively, indirectly, elliptically, obliquely, allegorically. It makes people scratch their heads. They have to work at understanding it. Prose is straightforward, direct, literal, prosaic, intelligible. It hits people between the eyes. They can hardly avoid understanding it.69 Thus poetry and prose complement each other, like Jesus’s parables and his ordinary teaching. Whereas the verse in the Jeremiah scroll is economical, the prose is prolix. Repetition is a natural feature of prose that is designed to persuade an audience, so that repetition in the written version of a sermon is as likely to indicate that an author is imitating oral style or incorporating a transcript of the preacher’s actual address as it is to indicate that the text has been expanded and should be abbreviated.
+
+Thus, the question whether Jeremiah himself could have communicated both in poetry and in prose is answered as soon as asked; if he wanted to communicate, he would naturally have used both. In wording and in substance, the poetry and the prose overlap, though in wording and in substance, they have distinctive features. In Jer 7, the slogan “Yahweh’s palace/temple” is a novelty, as is the warning about learning the lessons from the fate of Shiloh that recurs in the further prose story in Jer 26 and as are the references to the old “covenant” in Jer 11. There are further instructive features of Jer 11: it refers to a curse and to the response to the curse declaration, to being got out of the iron smelter, to the promise that Yahweh swore to the ancestors, and to “this very day” (11:2–5). These parallels distinguish the passage from other passages in Jeremiah, and in wording and substance such prose messages overlap with Moses’s sermon-like address to Israel in Deuteronomy, with other sermon-like addresses in Joshua through 2 Kings, and with further passages in 1 and 2 Kings. I like the observation that “Jeremiah was a self-proclaimed Deuteronomist.”70
+
+In Jeremiah, many poetic messages carry introductions such as “Yahweh’s word came to me” (2:1), and some prose messages carry introductions such as “the message that came to Jeremiah from Yahweh” (7:1; 11:1). The former invite the hearers to take what follows as something Jeremiah is dictating—the result of the kind of process described in Jer 36. The latter invite the hearers to take what follows as mediated by a curator. The repetitiveness of 27:1–2, 4 (“This word came to Jeremiah from Yahweh. Yahweh said this to me…. Give them this order for their lords. Yahweh of Armies, the God of Israel, has said this: You will say this to your lords.”) indicates that the curators are keen for us to receive their account as authentic to Jeremiah and authentic to Yahweh.
+
+The difference in presentation and the comparison of prose with poetry and with Deuteronomy and 1 and 2 Kings again suggest something comparable to the nature of the Gospels. Their authors sometimes tell us exactly what Jesus said (translated into Greek). They sometimes tweak it to communicate his significance for their readers (some differences between Matthew, Mark, and Luke indicate examples). They sometimes put substantial presentations on Jesus’s lips that they have devised on the basis of starting points in things he said and that expound the significance of what he said for their readers. I take it that something similar is true of the prose messages in Jeremiah. Sometimes the curators interpret by arranging: the five sections in 7:1–8:3 are of separate origin, but the curators have brought them together as Matthew and Luke bring together things Jesus said on different occasions to produce “the Sermon on the Mount” and “the Sermon on the Plain.” Sometimes the curators may provide something close to a transcript or paraphrase or summary of what Jeremiah said. Sometimes they may tweak or develop it or translate it into other terminology. Sometimes they may turn a saying into a sermon. Sometimes they may start from their awareness of an aspect of Jeremiah’s significance that he never articulated. One might attempt to put each prose message into the right category, though it would be speculative. I will go with the curators’ account of their master.
+
+
+
+
+
+C. JEREMIAH AS CRUSADER
+
+
+Modern readers may assume that prophets such as Jeremiah have one of two functions: either to promise the coming of the Messiah or to challenge people to put things right in their society. While Jeremiah does a little of each of these things, they do not describe more than five percent of his activity. His main focus lies on challenging people to be faithful to Yahweh and not to serve other deities and on declaring the consequences that will follow if they fail to do as he says. “The constant thread throughout the book is the apostasy of Judah.”71 The point is clear from the beginning of the scroll (see 1:4–19 and 2:1–37). The scroll is not organized chronologically or topically, and reading it can be confusing or wearying because it keeps coming back to the same issue, to a confrontation of Judah in connection with the way it relates to Yahweh, the way it worships, the way it prays, and the way its people relate to one another—which are all interconnected. The burden of the critique might vary in different decades—for instance, before Josiah’s reformation and during the reigns of later kings. It might vary according to whether Jeremiah is speaking about the Jerusalem temple or other shrines and whether he is addressing official religion or family religion. But critique dominates.
+
+One central critique is that Judahites serve other gods as well as Yahweh, making offerings to them and seeking their blessing. These other gods include the traditional gods of the region, the bәʿālîm (“Masters”), who are believed to facilitate the natural processes whereby crops grow and women have children. Judahites also consult the deities whose beings lie behind the planets—gods acknowledged by Assyria and Babylon as entities that decide earthly events in political and family life. In eighth-century Israel, the First Testament associates the worship of a variety of deities with Ephraim more than Judah, but in the seventh century, in Manasseh’s day, it associates it also with Judah. Although turning to Yahweh and to no one else was basic to Yahweh’s relation to Israel from the time of the exodus, both the First Testament and archaeological discoveries suggest that most Judahites did not realize it, much as vast numbers of people in “Christian” countries have no clue about Christian faith.
+
+People can also be engaged in turning to Yahweh himself in ways that clash with who Yahweh is. The most horrific example is their willingness to sacrifice children to Yahweh. A more characteristic feature of their spirituality is their finding it helpful to make images of Yahweh as aids to worship. People’s worship that is formally offered to a deity called Yahweh may thus imply such a distorted understanding of Yahweh that it is tantamount to worshiping a different deity. This ambiguity can make it difficult to be sure about the object of Jeremiah’s critique—whether he refers to people’s conscious recourse to other deities or to worship that they thought they were offering to Yahweh.
+
+Josiah’s reformation cleaned up aspects of Judahite religion, but Judah reverted to pre-Josianic practice after his death, which hints that not everyone agreed with his reforming activity—including members of his family, to judge from the Jeremiah scroll’s comments about the policies of his sons Jehoiakim and Zedekiah. Taken literalistically, Jeremiah implies that they returned completely to Manassite practices. But 2 Kings does not report a reversion to overt worship of other deities, so Jeremiah’s polemic may indeed presuppose that Judahites thought they were turning to Yahweh but were deceiving themselves.
+
+A further aspect to Jeremiah’s crusading is that people can be engaging in worship and prayer that recognizes Yahweh but be conducting their national and communal life in a way that clashes not only with who Yahweh is but also with his expectations of that communal life. So worship has its proper place in their spirituality, but outside worship they live with false attitudes toward property, sex, truthfulness, and so on. Their political policies may presuppose that they must take responsibility for their future by making alliances with other countries, whereas a prophet such as Jeremiah thinks that trust in Yahweh is key to political policies.
+
+Jeremiah’s crusade has the demanding and challenging aim of getting the community to turn from the various aspects of this failure to live an authentic life with Yahweh.
+
+
+
+
+
+D. JEREMIAH AS PERSUADER
+
+
+One could get the impression from the scroll’s opening message in 2:1–37 (and other chapters) that Jeremiah simply declares that the pouring out of Yahweh’s wrath is inevitable because of Judah’s ingrained waywardness, but in 3:1–4:4 (and other chapters), Jeremiah raises the question whether Judah is going to turn back to Yahweh, with the implication that it would make a difference to Judah’s fate. And what is the point of prophesying if it cannot? Is it simply to leave people without excuse, and encourage the small number of the faithful?72 Is it to enable people after 587 to understand why the city’s fall had to happen and to urge them not to make the mistake that the previous generation made (see “Unity of Composition,” pp. 10–11)? The directness of Jeremiah’s challenge to his contemporaries suggests that those functions of his preaching did not come first. Even when he is declaring that they are incorrigible and that calamity is inevitable, he is aiming to get them to prove him wrong. He knows that Yahweh is still committed to his people; there is little difference between Jeremiah’s and Paul’s convictions about Yahweh’s commitment to Israel.73 Jeremiah is involved in persuasion.
+
+Metaphor is essential to Jeremiah’s work as a theologian who wants to articulate for himself the nature of Yahweh and his relationship with his people. Imagery makes it possible to think and say things that we could not otherwise think or say. But the pragmatic function of imagery is at least as important for Jeremiah as the theological one: “A problem which Jeremiah shared with all the prophets was that of attracting the audience’s attention.”74 Talking in terms that come from the human experience of marriage, family, work, and politics makes it possible to bring home the nature of the relationship between Yahweh and Judah, of what Yahweh has done, of what Judah needs to do, and of the danger it risks by not doing it. Yahweh has married two sisters, Jeremiah suggests, and both are unfaithful (Jer 3). It is an aspect of “the prophets’ rhetoric of horror designed to terrify their audience into reform.”75 Poetic form and the use of imagery are aspects of Jeremiah’s rhetoric, and “biblical prophets are masters of rhetoric. They craft their message to persuade their audience of its truth and to inspire them to reform their behavior.”76 To this end, Jeremiah is forceful and unrelenting, shocking and incendiary.77
+
+Like “ideology,” “rhetoric” can be a pejorative word. It can suggest high-flown language to make a case that would not be compelling if put in plain terms, or it can suggest reference to Aristotelian rhetorical theory.78 But regarding 14:21, Calvin says, “The Prophet joined together two verbs, not so much for the sake of ornament as rhetoricians do, as for the purpose of expressing the intenseness of his concern and anxiety.”79 In a broader sense of rhetoric, expressing his concern in this way is an aspect of his using language to bring home the truth of his case and to persuade people to make the response that the truth deserves.
+
+Jeremiah does use classical rhetorical devices such as metonymy and synecdoche: people’s houses are full of duplicity—that is, of the fruits of duplicity (5:27); their gateways are fading away—that is, their houses are fading away (14:2). He uses catachresis or transferred epithets: a quiver is like a grave opened up—that is, its arrows bring death (5:16). He uses anaphora, purposeful repetition; an example is the repetition of the word duplicity (9:6[5]). He uses paronomasia (that is, “wordplay,” but his wordplay is deadly serious), juxtaposing similar words or suggesting relationships between homonyms and thus making connections or underlining them (e.g., 1:10, 12). A related phenomenon is the use of a word such as rāʿâ that can refer both to the bad things that people do and to the bad things that happen to them. English translations use words such as “wicked” and words such as “trouble,” but Jeremiah suggests the common (though not invariable) link between the two whereby bad actions can lead to bad consequences. I translate by expressions such as “dire action” and “dire experience.”
+
+The entirety of the Jeremiah scroll is rhetoric—not in a bad way, in order to manipulate, but in order to move. Jeremiah’s rhetoric is not a way of getting people to avoid thinking but a way of getting them to think.
+
+
+
+
+
+E. JEREMIAH AND HIS CURATORS AS ANTHOLOGISTS
+
+
+Jeremiah’s poetic messages are typically bite-sized, occupying a couple or a dozen or a score of lines. It is perhaps no coincidence that prophets in the present day, in my experience, bring bite-sized messages. If they are wise, they shut up after their soundbite; the more they go on, the more their message gets diluted and the more one senses their words come from them rather than God. Maybe this phenomenon provokes reflection on the relationship between poetry and prose in Jeremiah, though if so, one would need to add that continuing in one’s own prose words need not exclude the possibility that God affirms the prose development as well as the poetic nucleus.
+
+But Jeremiah and his curators have handed down his poetic messages linked to one another in chains. A chain may comprise a series of messages on the same subject, possibly announced by a heading such as “Regarding the household of the king of Judah” or “Regarding the prophets” or “Regarding Egypt” (21:11; 23:9; 46:2). Or the scroll may leave the readers to work out the link between different poems.
+
+A chapter in a modern Bible will typically contain four to six poetic messages. The obvious indicators that we are moving to a different message are phrases such as “listen to Yahweh’s word” or “Yahweh has said this” or “Yahweh’s affirmation,” which can mark a beginning or end. These phrases sometimes provided clues to the scribes who placed section markers in the Hebrew text and to the medieval scholars who added the chapter divisions in printed Bibles. But one needs to keep in mind that Jeremiah also uses these phrases resumptively in the middle of messages and uses them as attention-getters to emphasize a point. He can begin or end a message with no opening or closing phrase. One therefore also looks for changes of addressee, focus, and imagery that may mark a transition to a new message. The first and last sections of poetry in Jeremiah (Jer 2 and 50–51) provide spectacular examples of the scroll’s combining messages to generate a comprehensive whole,80 while they also provoke questions about the chapters’ structure and components and compel interpreters to recognize the ambiguity of the indicators that they offer. Jeremiah 2 thus illustrates the use of the markers we have just referred to, which can indicate transition points within the chapter or points of emphasis:
+
+“Yahweh’s message came to me” does mark the beginning of the whole chapter.
+
+“Yahweh has said this” suggests the beginning of a message.
+
+“Yahweh’s affirmation,” emphasizing the importance of what precedes, can mark the end of a message, but it can also have resumptive significance within one.
+
+“Listen to Yahweh’s message” can introduce a section, but it can also be a resumptive exhortation.
+
+Lākēn commonly means “therefore” and suggests the approaching end of a section, but it can mean “that’s why” or “thus” and have resumptive significance.
+
+Kî usually means “because” and thus suggests continuity with what precedes, but it can be asseverative, meaning “indeed,” and open a section.
+
+“So now” or “now” (wәʾattâ or ʿattâ) suggests the beginning or conclusion of a section.
+
+A tricolon commonly conveys emphasis and can mark the beginning or end of a section but can also convey emphasis within one (there are four tricola in four verses in vv. 19–22).
+
+The recurrence of words or of similar words can indicate continuity within a section or linkage between separate sections.
+
+A change in the gender or number of addressees (masculine/feminine, singular/plural) can indicate transitions between sections.
+
+MT itself provides section markers after 2:3, 28; 3:5.
+
+
+
+The way themes and arguments develop in the chapter has to be set alongside the presence of such markers in identifying how the chapter may divide, and analysis of structure may turn out to be less objective than one might hope. Interpreters may thus analyze a chapter in varying but complementary ways—as interpreters of a landscape or portrait or musical composition may offer varying but complementary analyses of it.
+
+
+
+
+
+IV. PLACE OF ORIGIN, OCCASION, AND DESTINATION
+
+
+After the fall of Jerusalem, Jeremiah found his way to Mizpah and in due course to northern Egypt (40:1–43:13). There is no mystery about the scroll’s not recording his death; the First Testament records the killing of various prophets, which issues from their work or is a sign of their killers’ attitude to Yahweh’s message, but it does not record the natural death of any prophets. When Jeremiah reached Egypt, he would have been about sixty, and we may infer that he died a natural death there. Were his message and story preserved there or somewhere else? Where did they become the Jeremiah scroll?
+
+It makes sense to think of the two versions of the scroll, MT and LXX, as originating in different places. The scroll refers to Judahite communities in Babylon and Egypt and also to Judahites who took temporary refuge in places such as Ammon and among people in Samaria who identified themselves with Judahite faith. Oddly, the scroll implies that all the Judahite communities—in Babylon, Egypt, and Judah itself—were small, which might make them all seem unlikely locations for generating the scroll. It gives small numbers regarding the people forced to migrate to Babylon (52:28–30), it suggests hyperbolically that there was no one left in Judah, and it declares a death knell for the community in Egypt. Yet we know that the community in Babylon included as much of the Judahite leadership as the Babylonians could round up (in 597 and 587) and that much of the energy that issued in the rebuilding of the community in Jerusalem came from there (see Ezra, Haggai, Zechariah). Archaeological investigations suggest that Judah was not “an empty land” after the deportations—no doubt partly because refugees drifted back from places such as Ammon—and the composition of the poems in Lamentations suggests religious and theological life there. Whereas Jeremiah’s writing off the communities in Egypt as well as Judah has been taken as an indication that “Jeremiah was more frequently wrong than right,”81 the existence of the story and messages in 40:1–44:30 suggests that we should not be literalistic in interpreting Jeremiah’s warnings in those chapters any more than in others; certainly the Judahite community in Egypt subsequently flourished.82
+
+A promise such as the one in 7:7 implicitly favors people living in Judah,83 but it need not have arisen or been preserved there. Conversely, when Jer 24 describes the people in Jerusalem who escaped the 597 exile as the bad figs (the figs with no future) and the 597 exiles as the good figs (the figs with a future), it would again be unwise to be literalistic in interpreting a comment that was devised to give a jolt to the people in Judah. In 587, the people who were the objects of that threat (the confident, prominent Jerusalemites) did have their comeuppance, and “while 24:8–10 promotes a perspective that the people left in the land are not the recipient of God’s promises, this visionary word was related to the first deportation in 597 BC and times can change things.”84 Ezekiel 8 likewise attacks the Jerusalem community between 597 and 587 but hardly in itself provides a basis for inferring the “disenfranchisement” of people who remained in Judah after 587, though no doubt it could be used that way.85 Like Jer 24, Ezek 8 had a function in its context: to warn the 597 exiles against thinking that Yahweh’s action against Jerusalem was finished and they would soon be going home. The prayers in Lamentations suggest a different theology and spirituality in Judah after 587 from the one that Jeremiah and Ezekiel attack before 587. Conversely, Jeremiah also attacks the 597 exiles in Jer 29. Yahweh’s treating Babylon and its king as his servant does not mean Jeremiah is pro-Babylonian or favors the Judahites who have been exiled to Babylon.86
+
+The observation that “MT [of Jeremiah] is repeatedly oriented toward the Babylonian experience”87 does not emerge from the text. It is hard to find significant evidence that a recension of the Jeremiah scroll aimed to make the exiles in Babylon “the sole standard-bearer of Yahweh’s community in the future and to write off any participation in it by Judaeans who had emigrated to Egypt.” Such an aim is a “hidden exegetical content which has to be excavated; it is not given by the text and there is nothing explicit in the text which would lead us to conclude that the interests and claims of the Babylonian Gôlāh [exile community] are served by it.”88 The text does not provide a basis for seeing the Babylonian community as the dynamic context in which the message and story of Jeremiah were preserved, developed, and curated.89 While it is possible to imagine someone taking the raw material for the Jeremiah scroll to Babylon and its being developed there, even without that assumption about the aim of the work, this understanding seems unnecessarily complicated. The more obvious view is that Egypt was one location of the process and Judah the other. And if the older version is the one translated into Greek (the more common scholarly view), it would follow that this version had its origin in Egypt—the home of the LXX, where as far as we know Jeremiah and Baruch ended up—while the background of the MT version was Judah.90 But all such possibilities are simply possibilities.
+
+
+
+
+
+V. CANONICITY
+
+
+Jeremiah claimed to speak a message from Yahweh and challenged people to respond to it as such. Few people before 587 did so; I have speculated that after the fall of Jerusalem, more did. The eventual wider recognition that he brought such a message and that it had purchase for a time long after his day made it influential on an ongoing basis for the community. The authority and canonicity of the Jeremiah scroll follow from the recognition that it records a message from Yahweh that lays down permanent expectations and offers long-standing insights.
+
+
+
+
+
+A. THE SCROLL AS MESSAGE FROM YAHWEH
+
+
+The word “message” points to a classic model for understanding a prophet’s position, role, and authority. Prophets commonly introduce their words by saying, “Yahweh has said this,” which corresponds to the way a messenger might introduce a message from a king (e.g., Isa 36:4, 14, 16). The prophet is Yahweh’s messenger bringing a word from the great King. The word has to be received as such. A messenger represents the king in a strong sense, speaking in his master’s name, using the king’s “I” as if he is the king, though he can switch between this form of speech and a more literal reference to his master as “he” (e.g., 2 Kgs 18:20, 23). Likewise, Jeremiah can move between “I, Yahweh” and “he, Yahweh” or “Yahweh’s affirmation” (e.g., 2:1–3). He can also move between addressing Judah or Jerusalem as “you” and speaking of them as “they” or “it.” His model for understanding his position can be himself as a human being talking with Yahweh (in which case Judah and Jerusalem are “they” or “it”) or it can be him speaking to them “as” Yahweh (in which case Judah and Jerusalem are “you”). The rhetorical effect of the two ways of speaking (the way they have an effect on Judah and Jerusalem) will then vary, but the claim is the same.
+
+Sometimes one may not be able to tell the difference between Jeremiah speaking and Yahweh speaking. As Jer 5 unfolds, at some points the material makes a move from Jeremiah speaking to Yahweh speaking, but sometimes Jeremiah does not make the point of transition clear. One is tempted to try to identify the speaker each time, but Jeremiah’s failure to mark the transitions is not simply a mistake; whether Yahweh or Jeremiah is speaking doesn’t make any difference. It is always Jeremiah speaking, even when he speaks as Yahweh, and it is always Yahweh’s message, even when Jeremiah speaks in his own name. Like other prophets, Jeremiah is also sometimes not specific about who is addressed or about other transitions in accounts of things people say. It may be because he is not sure or because it keeps the audience on their toes or because the content is the important thing.
+
+The scroll’s introduction sets Jeremiah as Yahweh’s messenger in the context of a tumultuous half-century in the life of Judah. But its opening words (“the words of Jeremiah”) raise further questions in connection with what directly follows, which indicates that the scroll comprises more than Jeremiah’s words. It tells the story of Yahweh’s commissioning him, which includes his answering Yahweh back. So the phrase “the words of Jeremiah” needs interpreting loosely. A further distinctive feature of the scroll is the number of stories about Jeremiah that it tells. Jeremiah’s delivering his message was integral to the message itself. He embodied the straightness and care of Yahweh that were expressed in his words.
+
+Even when Jeremiah speaks most explicitly in his own name and about himself, he is not sharing entries from a spiritual journal that is written for his own sake. The Jeremiah scroll is an account of his message (1:1–3), not a diary of his experiences or personal reflections that he formulates to help him understand what is going on. If he kept such a journal and includes excerpts from it in the scroll, he does so because they form part of Yahweh’s message to Judah and Jerusalem. His protests, too, are part of a scroll designed to convey a message for his people, not simply to record his personal agonizing. Nor is there any indication that Jeremiah might have received a divine rebuke for his protests (cf. Isa 45:9; Rom 9:20–21).91 Readers of the prayers and the protests in the scroll have to ask, how is this account of something from Jeremiah’s experience designed to function as Yahweh’s message? In 3:6–10, he reports a prose conversation in which Yahweh shares a reflection, which communicates with the audience in yet another way.
+
+
+
+
+
+B. THE SCROLL AND THE SCRIPTURES
+
+
+In due course, different Jewish communities came to recognize the importance of the collection of Jeremiah’s messages and the stories about him and to pay serious attention to it. The fall of Babylon in 539, the ascendancy of the Persians, the freedom of Judahites to go home to rebuild the temple, the arrival of the Greeks, and the troubles of the second century are beyond the scroll’s narrative horizon. But we know that people paid attention to the Jeremiah scroll during the Second Temple period.92 Second Chronicles ends with a quotation from Jeremiah, and Ezra begins with the same quotation, witnessing to creative interest in the scroll’s significance for events in the life of the Judahite community. Daniel 9 refers back to Jeremiah, engaging in greater hermeneutical creativity. While there are many cross allusions and virtual quotations within the Law, the Prophets, and the Writings—the Torah, Neviim, and Ketuvim; hence Tanak—the Jeremiah scroll is the only work within the Tanak that is explicitly quoted within the Tanak itself. In due course, anonymous Jews translated Jeremiah into Greek, revising it slightly or considerably, and created the letters of Baruch and Jeremiah preserved in the LXX. Qumran scribes copied it and created more “Jeremianic” writings.93 Jesus and his contemporaries read it (Mark 11:17; Matt 16:14), Paul quoted from it (1 Cor 1:31; 2 Cor 10:17; perhaps 1 Cor 2:9; 2 Cor 6:17), Matthew read it (Matt 2:17), Luke takes up the theme of the persecuted prophet, and Hebrews quotes it (8:8–12; 10:16–17).94
+
+One could say that recognizing the Jeremiah scroll in this way indicates that it has canonical status, though the word “canon” means different things in different contexts. The Greek word kanōn means a rule—something by which to measure things and thus to resolve disagreements. When the church came to apply this word to the Scriptures, it referred to a defined list of works, though not necessarily a closed or unalterable one. To ask whether the scroll is part of such a canon in the Second Temple period is anachronistic. We know virtually nothing about the process whereby a defined canon of Scriptures came into being or about anybody who decided which documents were in and which were out.95 Once there is a canon, Jeremiah is part of it, but we don’t know anything of how the scroll came to be recognized in this way. It was presumably among the Prophets to whom Jesus Ben Sira refers about 200 BC when he mentions “the Prophets” in the prologue to his teaching about “Wisdom.”
+
+In MT manuscripts, Jeremiah follows Isaiah, though B. Baba Batra 14b notes the logic of the order Jeremiah, Ezekiel, Isaiah:
+
+The Scholars taught: The order of the Prophets is Joshua and Judges, Samuel and Kings, Jeremiah and Ezekiel, and Isaiah and the Twelve…. Now: Isaiah was before Jeremiah and Ezekiel; Isaiah should come first. But Kings ends with the destruction, and Jeremiah is all of it the destruction, and Ezekiel begins with the destruction but ends with the comfort, and Isaiah is all of it the comfort. We join the destruction to the destruction and the comfort to the comfort.
+
+
+
+
+
+C. THE JEREMIAH SCROLL IN THE CANONS OF JUDAISM AND OF THE CHURCH
+
+
+The communities of people who came to believe in Jesus accepted the Tanak as one aspect of their being in origin part of Judaism or an offshoot of Judaism, though that statement conceals both some looseness and some greater precision.
+
+One aspect of the looseness is that while the Scriptures to which the New Testament refers were at least roughly the same as the works that comprise the Tanak, we do not have evidence that the edges of those Scriptures were set in New Testament times. We do know that Jeremiah would have counted among them; it is quoted in Matt 2:17–18 in a way analogous to the quotations in Chronicles, Ezra, and Daniel. Another aspect of the looseness is that Christian congregations came to work with a broader collection of writings than the Tanak—one that included other works such as Wisdom and Tobit. More significantly for our present concern, its Jeremianic materials were both shorter and longer than the Jeremiah scroll in the Tanak. They were shorter in that this longer canon comprised works as they had been translated into Greek or had been written in Greek, and Greek Jeremiah is shorter than Hebrew Jeremiah (see “The Hebrew Text,” pp. 43–46). They were longer in that they included Baruch and the Letter of Jeremiah.
+
+The greater precision relates to these differences. Many later Christian communities were careful to define the contents of the canon of Scripture. Thus the Anglican Thirty-Nine Articles lists the books that comprise the Tanak (but in the LXX’s order) then lists the “other books” such as Baruch (implicitly including the Letter of Jeremiah) as works read for edification but not to establish doctrine.
+
+Readings in synagogue worship include one from the Torah (they cover the whole over a year) and one from the Prophets, including Jeremiah (from which they include selections over a year). The Tanak is among a variety of canonical works in Judaism, along with the Mishnah, the Talmud, and the teaching of certain rabbis.
+
+Paradoxically, this precision coexisted with another form of looseness. As Jewish communities set the Tanak in the context of the Mishnah, the Talmud, and other works, Christian communities set “the Old Testament” (as they eventually came to call it) in the context of explicitly Christian writings, “the New Testament.” Christian communities read only tiny sections of a scroll such as Jeremiah in worship and hear few sermons on Jeremiah, and it has little influence on Christian theology, ethics, or spirituality. Occasionally, Christians implicitly deny Jeremiah’s canonical status—for instance, by questioning its portrayal of God or of prayer or of women or of attitudes to other nations. More often, they simply ignore Jeremiah and deny its canonical status in that way. This fact is especially regrettable in a context where the declining church in the United States is in a similar position to Judah in the late 600s and the declined church in Europe and elsewhere in the West is in a similar position to Judah after 587, while the growing church in Asia, Africa, and Latin America might be wise to see whether it can avoid going the way of these two. While Second Temple Judaism, the Qumran community, the New Testament, and the church fathers were not as interested in Jeremiah as they were in Isaiah or Daniel, the scroll’s finding a place in the Torah, the Prophets, and the Writings implies that it presents testimonies, messages, and stories that are God-breathed (2 Tim 3:16) in the sense that they are full of illumination for people living way after the time and the context in which they came into being. But we miss the fact that in various senses, Jeremiah is “a spokesman ‘out of time.’”96
+
+
+
+
+
+VI. THE HEBREW TEXT
+
+
+The commentary in this volume follows the version of Jeremiah in the Leningrad (St. Petersburg) Codex of the MT, to which I refer as MTL. It is this text that appears in BHS and NJPS. It dates from about AD 1009. Its copyist was Samuel ben Jacob; he writes in one of its colophons, “With all my heart I did my work; my heart rejoices in my lot.”97 Also from the ninth to eleventh centuries but less complete are the Aleppo Codex (which includes nearly all of Jeremiah and appears in HUBP), the Cairo Codex of the Prophets, the Petropolitan Codex of the Latter Prophets, and Sassoon Codex 1053.98 Our oldest copies of MT thus come from fifteen hundred years after Jeremiah’s day, and as is the case with any ancient document, our oldest copies of the Jeremiah scroll can hardly represent the original form of it. In order to get closer to that original form, one investigates other versions than MT.
+
+
+
+
+
+A. THE TWO VERSIONS
+
+
+Of the two major versions of the scroll, one in Hebrew preserved in MT and one translated into Greek and preserved in LXX, the Greek version is more than 10 percent shorter than the Hebrew version, though the continuation of the LXX Jeremianic material in Baruch and the Letter of Jeremiah (not to say Lamentations) makes up for that shortfall. There is a series of possible ways of understanding the relationship between the two versions, and all have their advocates: that MT is an expanded edition of the Hebrew underlying LXX (the most common view), that LXX represents an abbreviated edition of the Hebrew underlying MT,99 that LXX is sometimes older but sometimes represents abbreviation, or that both are independent recensions of an earlier text that we no longer have—which is my own working assumption.100 Apart from length, the most substantial difference between MT and LXX is that MT has the block of messages about foreign nations near the end of the scroll, immediately before the final chapter, whereas LXX locates it in the middle of the scroll, following ch. 25. Both locations make sense in different ways. The order of the messages within the block also varies between MT and LXX.
+
+In the translation notes, I draw attention to many of the detailed differences between MT and LXX, which usually consist in words that MT has but LXX lacks. MT keeps reminding us that we are reading something that is “Yahweh’s affirmation,” that Jeremiah is a “prophet” (in the context of Jeremiah’s own work in Judah, “prophet” was not necessarily a compliment), and that the God of whom the text speaks is “Yahweh of Armies.” MT sometimes repeats a message or part of a message, implying that it is significant in more than one context, whereas LXX lacks such repetitions.101 Sometimes the longer MT text may be seeking to clarify things and make explicit things that are implicit. It sometimes underlines the deserved nature of Yahweh’s action against Judah, and it introduces the designation of Nebuchadrezzar as “my servant” (see the commentary on 27:6). The significance of some other differences is harder to see, such as an inclination frequently to specify that the king of Babylon is Nebuchadrezzar, that Jeconiah is “ben Jehoiakim King of Judah,” or that Hananiah is also “a prophet.” MT often seems simply to like things to be filled out; LXX likes things more succinct. LXX may deliberately make things more concise, or it may be omitting things accidentally.102
+
+Whatever the right answer to the question of the two texts’ interrelationship, it is possible to study either in its own right.103 But comparing them helps to draw attention to special features of each. If LXX is based on an earlier version of the scroll than MT, a desire to get back to its earliest version generates special focus on LXX; an interest in a version that was further developed to articulate the scroll’s significance for people generates a focus on the Hebrew version that gained a place in the Tanak.104 It might be too much to say that “the duty of a commentator on the Hebrew text is to maintain the final form of the text in MT,”105 but it is a defensible stance. In this commentary I note ways in which LXX differs from MT but focus on MT.
+
+
+
+
+
+B. BEHIND THE MASORETIC TEXT
+
+
+Either the Greek or the Hebrew text may thus properly be studied in its own right, and greater appreciation of the integrity and distinctiveness of each version changes the focus of study. But for much of the twentieth century, a main focus in the study of LXX Jeremiah was the aim of getting behind MT to something nearer the original form of the scroll. Yet it is actually hard to define what we would mean by the original or most authentic form of a scriptural scroll, as can also be the case with modern works in the age of the word processor and the internet. You would hardly be interested in an earlier version of this commentary rather than the one you are reading. But difficulties in understanding MT and the existence of other versions of the text still encourage the study of the other versions with a view to getting behind it.
+
+While there are many other copies of MT as well as the ones noted above, to which commentaries and the notes in BHS refer, they come from later in the medieval period, and it is unlikely that they preserve independent older versions of the text. I occasionally refer to them as “medieval manuscripts.” On the other hand, there are a number of earlier fragments of Jeremiah from the Cairo Geniza (they are to be distinguished from the Cairo Codex, which was named after Cairo because it was long kept there).106 And there are some fragments from Qumran, known as 2QJer and 4QJer, which as such are a millennium older than MT. Their text sometimes corresponds to MT and sometimes to a Hebrew text that one might see as lying behind LXX, which suggests that the Qumran community was acquainted with both versions of the scroll but also that MT does preserve a form of the text that is a millennium older than the actual MT manuscripts.
+
+To gain access to older forms of the text than MT, we also have Greek translations later than LXX by Aquila, Symmachus, and Theodotion, as well as Jerome’s Latin translation known as the Vulgate, the Syriac translation known as the Peshitta, and the Aramaic translation known as Targum Jonathan (the words Vulgate and Peshitta both designate their translation as “the people’s”). On the assumption that we can work out from them what was the Hebrew text they were translating, those other textual traditions may put us on the track of a more intelligible text when MT Jeremiah is difficult to understand. And even when it is quite intelligible, they may put us on the track of an older text—though the various considerations I have noted about the relative independence of MT and LXX underline the care needed in connection with such extrapolation.107 As with LXX, these translations also enable us to see how they were interpreting the text, which can help us with our own interpretation.
+
+Four centuries ago, European scholars began making their own suggestions about ways in which the text might be restored to a more original form. Many of these suggestions appear in the notes to BHS, and some of the possibilities raised by those other versions of the text and by modern scholars may indeed lead us to an earlier form of the text. On the other hand, some of the apparent difficulties likely reflect the fact that the scroll expresses itself elliptically or uses unusual words. It is impossible to have great conviction about where the text has become mistakenly changed and what suggestions one should accept for its restoration. If I were to base my reading of Jeremiah on my version of a restored form of the scroll, I would probably be right at some points but wrong at others, and there is no assurance that my version of the text overall would be better than MTL. More or less invariably in this commentary, then, I follow MTL and try to make sense of it as it stands, though in the notes I draw attention to alternative versions of the text—especially readings that can be inferred from the old translations.108
+
+In following MT, I also generally work with MT’s punctuation and thus follow MT where it hyphenates words and they have only one stress. Although it is frequently tempting to rework the punctuation to produce a more consistent rhythm, I resist this temptation on the same assumption as I make regarding questions about the consonantal text and the vocalization: that it is unlikely that on the whole I will end up with a better text than the Masoretes have preserved. But in the notes, I sometimes draw attention to ways in which one could change the punctuation and thus make the rhythm more conventional. On the other hand, from time to time I feel free to rework MT’s divisions of verses and cola where a recognition that the verses are poetic lines suggests such changes.
+
+I use the term “units” to refer to the divisions within the text, as I identify them, whose size roughly corresponds to that of the medieval chapter divisions in printed Bibles. I use the term “sections” to refer to semi-complete sections within these units. Units and sections thus also roughly correspond to petuhot and setumot in the Qumran and MT Hebrew manuscripts. There, a petuhah is an “open” unit; at the end of a petuhah, the line is left empty and the next petuhah begins on a new line. A setumah is a “closed” section; at the end of a setumah there is a space in the line, but the next setumah may then continue on the same line or put the space at the beginning of the next line. BHS and NJPS print a pe or a samek where in MTL or MTA there is a new line or a space.109 When I refer to a “unit marker” or “section marker,” I imply that MTL and MTA agree on its location; where they disagree about which kind of break occurs, I use the unqualified ambiguous expression “marker.” At Jer 8–9 and occasionally elsewhere, printed English Bibles and printed Hebrew Bibles vary in their chapter divisions: 8:1–23 in the Hebrew is 8:1–9:1 in the English. These differences are variant forms of the medieval chapter system; they do not denote differences between MT’s Hebrew text and the English translations (MT has no marker after 8:22 or after 9:1 [8:23]). Where necessary, I give the English reference followed by the Hebrew, as in the reference at the end of the previous sentence.
+
+
+
+
+
+VII. THEOLOGY
+
+
+The Jeremiah scroll has almost as broad and wide-ranging a set of theological assumptions and implications as the Torah, the Prophets, and the Writings as a whole. It offers its own take on the nature of God, on the theological significance of Israel, on God’s attitude to the nations, and on how to look at past, present, and future.
+
+
+
+
+
+A. THE GOD OF ISRAEL
+
+
+The God of the Jeremiah scroll is Yahweh, the God of Israel and the creator of the world, who claims sovereignty over both. Jeremiah offers no reason why he chose to be the God of a particular people or of this particular people. He might be quite happy with the nonanswer to this question in Deut 7, where Moses first affirms that it was not because Israel was so impressive that he chose it; he just did. He made a commitment to Israel’s ancestors and then he couldn’t get out of it if he wanted to. This “explanation” simply pushes the question back: why did he make such a commitment to Israel’s ancestors? Moses does not even go through the motions of answering that question. Jeremiah, too, goes behind Yahweh’s commitment to Israel to his commitment to its ancestors without purporting to explain it. Like Moses, Jeremiah focuses on the results of making it. It was because he made that commitment that he got the Israelites out of Egypt, looked after them in the wilderness, and gave them their land. Jeremiah does not consider the question whether he was being fair to the Canaanites any more than considering the basis for giving the land to the Israelites.
+
+The God of the Jeremiah scroll is faithful, committed, caring, and compassionate. He is also angry, wrathful, and raging. He has those characteristics because—well, because he has those characteristics. In other words, when he acts in those ways, he is being himself, and he can hardly not be himself.110 His faithfulness (ṣәdāqâ) means he acts in the right way in relation to people who belong to him and to whom he belongs. He fulfills his promises. He protects. His commitment (ḥesed) goes beyond his faithfulness. It means that when his people have been unfaithful, he stays faithful. His caring (ʾahăbâ) means that he is love, not merely in the sense of an emotional response but in a self-giving sense. His compassion (raḥămîm) means he has the feelings of a mother for the children of her womb (reḥem).
+
+He is also characterized by anger, wrath, and rage. Jeremiah does not assume that there is anything inherently wrong with anger. The question is who exercises it and to what ends. Whereas the First Testament elsewhere suggests that anger is a subordinate or more marginal aspect of Yahweh’s character (e.g., Lam 3:33), Jeremiah offers no pointers in this direction. He rather emphasizes the monumental threat that Yahweh’s wrath constitutes for Judah. Yet he incidentally and unconsciously indicates that Yahweh’s bark is worse than his bite. Yahweh talks a lot about anger, but his actions fall far short of what the talk would make one expect.
+
+The God of the Jeremiah scroll is insightful, sovereign, and powerful, while also interactive and resistible. He can make plans for events in the world and implement them, and when other people (such as Judah or Edom) think they can formulate policies and implement them, he can expose their pretentiousness. He can do as he likes in the world. Human “kings” exercise an authority and power that falls far short of the authority and power of the King. He is Yahweh of Armies, “a doxology in miniature that acclaims God as Divine Warrior leading the heavenly armies into battle.”111 The greatest human king that people know he can treat as his servant, his agent in implementing his will in the world. Yet Jeremiah does not imply that everything that happens in the world issues from Yahweh’s will. Israel rather consistently ignores his wishes. His sovereignty is more theoretical than practical and more occasional than consistent. He works via human decision-making; Jeremiah speaks of no divine acts that do not work via human decision-making.
+
+Yahweh is the one who made the heavens and the earth by his insight and power. He is the only God. Like the rest of the First Testament, Jeremiah is not interested in monotheism in itself but in mono-Yahwism. He insists not that there is only one God but that Yahweh alone is God. Monotheism follows, but it is not the important issue. The important question is Yahweh’s own status, significance, and power over against other beings who are called gods. Jeremiah does not deny the existence of other gods; he rather declares that they are insignificant compared with Yahweh. They cannot do anything. Whereas other peoples believe it is possible to make images of their gods, Yahweh forbids the making of images of him. Jeremiah does not say it is impossible, nor does he give reasons for the ban, as Deuteronomy does, though he implies that the weakness of images is their being human-made.
+
+Jeremiah’s account of God raises for the church whether it takes seriously that he is a wrathful God and one active in world events, both of which convictions are accepted by the New Testament but not obvious in the church’s thinking and talk.
+
+
+
+
+
+B. THE ISRAEL OF GOD
+
+
+In the expression “the God of Israel,” the word “of” is systematically ambiguous. Jeremiah does not describe Yahweh as the God of Assyria, Egypt, Babylon, Moab, or Elam, and he does not describe God as creating or providing for or revealing himself to these peoples. He does describe Yahweh as acting in their national lives, mostly by bringing calamity but also by restoring them to fullness of life. And they are ultimately destined to recognize Yahweh—more for his sake or for the sake of the truth than for their own sake. They are inclined to be reliant on their own resources and capacities and need to be disabused of such stupidity, though it is a stupidity no worse and no better than Israel’s. Not possessing the Torah or the words of prophets evidently does not leave them ignorant of what they ought to know in this connection.
+
+But Israel is “my people.” The prominence of the word “people” (ʿam) in Jeremiah points to the fact that Yahweh’s primary relationship is with the people as a body as opposed to the individual. The name “Israel” then points to the fact that “people” suggests the community belonging together as a family—they have a shared genealogy as the descendants of Jacob/Israel. They are also a “nation” (gôy), which is a less warm word, but suggests something more numerous than a family. It designates Israel as a political entity, an important aspect of Israel in Jeremiah’s day. They are Yahweh’s “domain” (naḥălâ), his particular and inalienable possession, like the domain of land that belongs to a family.
+
+Such is the good news. The bad news is that occurrences of the phrase “my people” usually come in troublesome contexts—contexts that refer to their not behaving as “my people” and to Yahweh’s not treating them as “my people.” Although Yahweh is Israel’s God and Israel is Yahweh’s people (lit. “God for you” and “a people for me”), that formulation represents Yahweh’s original intention and his intention for the future (7:23; 11:4; 24:7; 30:22; 31:1, 33; 32:38) but not the present reality.
+
+The formulation does draw attention to the mutuality of relationship between Yahweh and Israel, though the two are not partners—or if they are, Israel is the junior partner. Rather, Israel is Yahweh’s servant (30:10; 46:27–28), though neatly, Jeremiah uses that word to suggest Israel’s security as Yahweh’s servant rather than its responsibility. With its worship, Israel is to serve him rather than serving other deities, which is its inclination (8:2; 16:11; 30:9).
+
+Being Yahweh’s servant means both security and vulnerability. This master will not ultimately cast off his servant, but he will feel free to discipline him in quite severe ways. In Jeremiah, Israel is indeed threatened with drastic discipline, discipline that amounts to being wiped out. It is cut down and cut down and threatened with being cut down again. In the background is the cutting down that happened a century previously, when Israel was virtually reduced to the rump state of Judah. One might have thought that this decimation could never be reversed. But Jeremiah affirms that Yahweh will restore Ephraim as well as Judah. The master cannot get out of it, because of who he is. Yahweh thus lives with a tension over the word “remainder” or “remnant.” He threatens to cut Israel down even further, and does so, but he cannot actually eliminate it and promises to turn it into a numerous people again.
+
+A family does not require kings or priests, perhaps not even prophets or experts. A nation does require them, and Israel has them. Their responsibility is to rule the nation in Yahweh’s way, to pass on his teaching, to bring his messages, to mediate his insight, and to facilitate its worship and service. Israel’s leaders comprehensively fail in these respects. Instead of enabling Israel to function as his servant, they hinder it. Yahweh’s response is not to abolish monarchy, priesthood, prophecy, and expertise. Part of the background is that here, too, he is bound by commitments he has made in the past, as is the case with his relationship to Israel. He made commitments to Levi and to David. As with Israel, then, he may take severe disciplinary action against the current holders of Levitical and Davidic office, but he does not cast off the line.
+
+Jesus and Paul give a similar account of Israel to Jeremiah’s, which raises for the church whether it takes seriously the status of the Jewish people for God. Jeremiah’s critique of Israel also raises the question whether he would address the church in the twenty-first century in a similar way.112
+
+
+
+
+
+C. THE NATIONS
+
+
+Jeremiah’s commission is to be a prophet regarding the nations. The scroll uses several prepositions that can be translated “regarding” (lә, ʿal, ʾel), which could denote “to,” “for,” “about,” or “against.”
+
+There is no record of Jeremiah ever prophesying to foreign nations. In Jer 27, Yahweh commissions him to do so, but the story does not say that he does, which confirms that it is actually about his prophesying to Judah about the nations. The point is that the nations are important to Judah, and Yahweh’s dealings with them are important to Judah. Judah needs to understand what Yahweh is doing with the nations because of the significance of Yahweh’s actions for Judah’s relationship with Yahweh.
+
+Another apparent exception that proves the rule is that Jeremiah commissions Seraiah to read out his prophecies in Babylon (51:59–64). Again, there is no record of Seraiah’s doing so, and again the story appears in the scroll because of its importance to Judah. Further, Jeremiah does not say that the reading is to be done in Babylon’s hearing. It is to be done in Yahweh’s hearing. The story thus illustrates how Jeremiah prophesies against the nations. The purpose of reading out the prophecies is to get Yahweh to do as he has said in his pronouncements about Babylon. It will work because Yahweh answers such prayers and because Seraiah will perform a sign-act that will contribute to the implementing of the pronouncements. And Babylon does fall, though in nothing like the way Yahweh has said.
+
+Jeremiah prophesies for as well as against the nations in the sense that he promises that Yahweh will restore them. He will no more eliminate them than he will eliminate Judah. Admittedly, he does not issue that promise about Babylon as he does about some other nations. But he does have mercy on Babylon in the sense that it does not get destroyed—even though it does lose its position as the center of an empire.
+
+Jeremiah prophesies about the nations in connection with the fact that they serve him, though they do not realize it. The point is explicit in connection with the great empire itself: Nebuchadrezzar is Yahweh’s servant. It is unfortunate for Judah, because he will serve Yahweh by bringing catastrophe to Judah for rebelling against Yahweh and rebelling against Babylon. In fulfillment of declarations by Jeremiah, 2 Chr 36 will describe a successor of his as in effect Yahweh’s servant in a way that is fortunate for Judah, because Cyrus will serve Yahweh by commissioning Judahites to go home to rebuild the temple.
+
+The converse of Nebuchadrezzar’s being Yahweh’s servant is that Yahweh is Nebuchadrezzar’s master. He is Lord in relation to the nations. He has authority over them, and he has power over them. He is both for the nations as his servants and against them. He will demonstrate it by implementing the kind of proclamations that he issues in Jer 46–51, which contain promises as well as threats. A significant feature of those threats is the range of nations they concern:
+
+Egypt, the old oppressor but also current threat or potential resource
+
+Philistia, Moab, Ammon, and Edom, the neighbors that might also be threats or temptations
+
+Kedar, Hazor, and Elam, far-off peoples that are irrelevant to Judah but are within Yahweh’s purview
+
+Babylon itself, the imperial power that rivals Yahweh and has brought such suffering to other peoples and such devastation to Zion
+
+
+
+Jeremiah thus also prophesies about the nations because Yahweh wants Judah to look at them in the right way. Jeremiah implicitly agrees with Isaiah that Judah is neither to look to other nations as resources nor to be afraid of other nations as if they could bring Judah trouble—unless Yahweh wants them to do so, in which case Judah’s problem is Yahweh, not the nations.
+
+The New Testament picks up Jeremiah’s theology of empire and thus raises questions for churches that are part of imperial nations while suggesting good news for churches within subaltern nations.
+
+
+
+
+
+D. THE PRESENT, THE PAST, AND THE FUTURE
+
+
+Although Jeremiah is not an exercise in narrative theology in the way that 2 Kings is, it is implicitly a narrative theology (the Gospels will take up the approach of 2 Kings, and Paul will take up the approach of Jeremiah). Its theology focuses on what Yahweh has done, is doing, and will do; it looks at the present in light of the past and the future and urges its readers to live their lives on that basis.
+
+In the present, Judah looks to Yahweh to encourage the crops to grow and to help its women have children, but it does so in a way that pictures Yahweh rather like the bәʿālîm—the Masters. It may also consciously look to the Masters or other deities. And it looks to Egypt or other nations as resources in connection with its foreign policy.
+
+In the present, it is thus ignoring the past. Its present is designed to be lived in light of the way Yahweh looked after it in the wilderness, the way it responded at that time, and the pledge that Yahweh made with it at that time. These events were designed to shape its theology, but “Jeremiah has to practice his ministry and his faith in a community alienated from and cut off from its founding, authorizing memory.” In addition, “the prophet is rooted in a powerful vision of an alternative future” that he needs to get it to heed.113
+
+Jeremiah’s vision of the future is dominated by two great events: the day of Yahweh (though he uses that actual phrase only in 46:10) and the time when Yahweh will “bring about the restoration of Israel.” One might think of the second as a subset of the first; Israel was used to seeing Yahweh’s day as the time when his great positive purposes for Israel would be fulfilled in blessing and fruitfulness. Amos 5:18–20 presupposes that understanding, but Yahweh turns its implications upside-down. In line with Amos, Jeremiah thus speaks often of “that day” as a grave day, a day of dire trouble, a day of disaster, a day of distress (17:16–18; 18:17; 30:7). But “that day” can become the day of restoration (30:8). Indeed, on the one occasion when he uses the actual expression “the day of Yahweh,” it has regained the positive significance it had for Amos’s contemporaries and become the day when Yahweh takes action against Egypt. On the other hand, if Judah was trusting Egypt as its ally …
+
+“That day” and the day of restoration are not eschatological events in the sense of belonging in a far-off time or a different epoch or bringing history to an end. If they are, they nevertheless find embodiment in the meantime during current history, during this epoch, and during a time that is near. The fall of Jerusalem will be that day (Lam 1:12; 2:1, 21–22). Yahweh will make its grim reality become actual within Israel’s life; he will make the future become the present.
+
+But Yahweh will not let that negative action be his last one. People had not wholly misunderstood him when they looked forward to a great day of blessing. Now it will need to be the day when Yahweh brings about his people’s restoration. Yahweh announces it in 30:3, and the picture of the future that Jer 30–33 paints is implicitly a working out of the phrase’s implications. It will mean building and planting instead of demolishing and uprooting. It includes bringing Ephraim and Judah back to the country he gave to their ancestors and having them serve David (past and future come together). It includes liberation from the service of strangers, the healing of wounds, the rebuilding of Jerusalem, the planting of vineyards in Samaria and its people making pilgrimage to Zion, the realization of that vision that they should be a people for him and he should be God for them, and the making of a new pledge that includes the writing of the Torah into their minds. It includes forgiving and forgetting. Like the vision of Yahweh’s day, it is not eschatological in the sense of belonging in a far-off time or different epoch or in the sense of bringing history to an end. And as the threat of Yahweh’s day found an embodiment in the lives of the people to whom it was issued (or in the lives of their children and grandchildren), so the promise of restoration found an embodiment in the lives of the people to whom it was issued (or in the lives of their children and grandchildren).
+
+The New Testament presupposes a “now but not yet” theology like Jeremiah’s that urges churches to live in light of both “now” and “not yet.”
+
+
+
+
+
+VIII. MAIN THEMES AND THEIR IMPLICATIONS
+
+
+Broadly, the theology of the scroll as we have outlined it fits into that of the First Testament as a whole, and particularly the Latter Prophets.114 What of ways in which the scroll stands out? The scroll’s most distinctive theme is its focus on the prophet himself; the way people relate to him is an expression of their relationship to God. A second distinctive feature is the way he uses a range of images to describe God. That feature links with a third: that the scroll sees two sides to complex questions. One of its implications is thus that it equips readers to formulate a theology that is both inclusive and timely.
+
+
+
+
+
+A. THEOLOGY EMBODIED: JEREMIAH AS SUBJECT
+
+
+In Jeremiah, the message—the word (haddābār)—became flesh and dwelt among us, full of grace and truth. Some of the stories about Jeremiah that appear in the scroll are what have been called type scenes. Type scenes are stories about events that recur in human experience, so that the stories about them get told in similar ways. The kind of events are an annunciation, a birth, a betrothal, a wedding, a meal, a banquet, an appearing of God or another supernatural being, a dream, a death, a funeral, a coronation, an ordination, a cabinet meeting. A type scene gives an author the scaffolding for a story but also makes possible the construction of something with its own distinctive nature. The scroll begins with a notable example of a type scene: the commissioning of a prophet. Sometimes one can see a story in Jeremiah as a play with several acts and scenes and as raising questions that it then goes on to answer—or sometimes does not. Jeremiah 26 is an example; Jer 28 is a more spectacular one, with its plot relating how a prophet with an encouraging message drops dead—a story characterized by unpredictable and shocking drama, all within seventeen verses. These stories illustrate the key role played by dialogue in Hebrew narrative, and they are often vivid and full of circumstantial detail (such as people’s names). While their concreteness does not make it more likely that they are historical, any more than is the case with Jesus’s parables, it does reflect how the author is an engaging storyteller. A number of the stories about Jeremiah relate how he undertakes symbolic actions (Jer 13; 18; 19–20). Here, too, there is both scaffolding for the stories and variation. Each enables the communication and interpretation of the story.
+
+The message of grace finds expression in Yahweh’s insistence on using Jeremiah to address Judah about its faithlessness, warn it about the catastrophe he intended to bring, and urge it to turn back to him in order that he need not do as he threatened. Its being a message of grace finds further expression in the way Jeremiah persists in doing so. Its being a message of truth finds expression in Jeremiah’s insistence on speaking with truthfulness and on living out the opposite of deceit or falseness. All these characteristics are embodied in Jeremiah’s person and life as well as in his words; he mediates the revelation of God through his person and his life. He also embodies what it means to respond to God. “The figure of Jeremiah assumes a paradigmatic value for his disciples.” He is not merely a hero to admire but a model of accepting the word of God in a time of crisis.115 Thus “the Book of Jeremiah does not so much teach religious truths as present a religious personality. Prophecy had already taught its truths, its last effort was to reveal itself in a life.”116 Jeremiah’s life is crucial to his work and message.
+
+Jeremiah may be the most embodied of the biblical prophets. His prophetic role clearly impacts his body. Once God’s words enter Jeremiah’s body, they burn within him (Jer 5:14), at times causing him delight (15:16), at times causing him physical distress (20:9). God commands Jeremiah not to marry and have children, thereby curtailing bodily pleasures and functions (16:2–3). Like other prophets, Jeremiah uses his body to communicate and engages in sign-acts. He wears and then buries linen underwear, smashes clay pots, and places a yoke around his neck (chs. 13, 18, 19, 27, 28). He also relies heavily on disturbing corporeal rhetoric such as the frequently evoked image of birds and beasts that consume Israel’s unburied dead (7:33, 16:4, 19:7, 22:19, 34:20). Another prominent feature of Jeremiah’s corporeal rhetoric is the image of the incurable sore.117
+
+Jeremiah’s reports of his protests and his interactions with Yahweh are an aspect of the way his life is part of his message. “He is a metaphor for God’s word. Through him we see into God’s pathos and purpose and into the plight and destiny of the people.”118 He is not the only figure in the scroll who is significant in this way: Baruch, Ebed-melech, and Uriah accompany him as people whose commitment risks their lives or costs their lives. The scroll thus reports the initiation of the way “the goodly fellowship of the prophets praise thee” and “the noble army of martyrs praise thee,” as the ancient Christian hymn Te Deum puts it.
+
+
+
+
+
+B. THEOLOGY IMAGED
+
+
+Prophets do much of their thinking in imagery. It is necessarily so. There are few things one can say literally about God and his relationship with us; we are bound to use metaphor in this connection. It is imagery that makes ideas possible. It enables us to think and see things and then to communicate them. Metaphor makes it possible to speak about things that we could not otherwise speak of; it also makes it possible to say more about things that we can speak of because we can speak of one thing we know in terms of another thing that we know. Jeremiah is comparable to Hosea in the extravagant profusion of his metaphorical thinking and language.119
+
+God is king, and in different ways both the world and Israel are the people he governs. People must bow down before him. He has a cabinet. He sends messengers. He is commander-in-chief and sends his (heavenly and earthly) armies to bring trouble to rebels. He exercises authority. He makes pledges. He may listen to intercession.
+
+God is guide. He points out the path for people to walk. They must go after him rather than go after other guides (gods).
+
+God is master. People must serve him and not serve other masters.
+
+God is builder, but also destroyer.
+
+God is shepherd. He provides.
+
+God is father. He begets children. He adopts children. Israel belongs to his household. He passes on a domain.
+
+God is husband. He marries a wife. He commits himself to faithfulness and expects faithfulness. He is lord. He is jealous, and he objects to his wife whoring and committing adultery. He divorces.
+
+God is teacher. He expects attentiveness and obedience.
+
+God is farmer. He plants vines, olives, and figs. He expects fruit. He plants trees and fells them. He irrigates or withholds irrigation. He controls access to his garden and resents its invasion and attack. But he can devastate it if it fails to produce fruit. He has a farmhand.
+
+
+
+Jeremiah’s view of God is characterized by a “robustness” to which his use of imagery contributes.120 Yahweh is “an abandoned bridegroom, a water fountain, a betrayed father, a lion, a wolf, a leopard, a potter….”121 Jeremiah’s use of imagery thus contributes to another feature of the scroll: its resistance to speaking univocally. There are subjects on which it is unequivocal: Israel must serve Yahweh alone and must exercise authority with faithfulness. But on some other matters, it speaks with considerable diversity. Ironically, the moment of the postmodern turn at the end of the twentieth century was also a moment when some scholarly study of Jeremiah became puzzled by the complexity of the attitudes that the scroll takes to a number of questions. It was an irony because this complexity makes Jeremiah more of a postmodern book. It does not offer simple answers to simple questions or simple answers to complex questions. “The claim of theological incoherence in Jeremiah is often due to the theology of interpreters; something does not make sense from within their own theological framework.”122 The scroll may speak in terms that are in tension with one another, and as readers we may prefer one to the other. Readers assess Jeremiah’s ideology in light of their own ideology.123 “Its combustible mix of politics and prophecy points to a Word of God that is dynamic, contextually responsive, and stubbornly resistant to commodification by any one group or ideology.”124
+
+
+
+
+
+C. THEOLOGY OF A BOTH-AND CHARACTER
+
+
+The robustness and diversity of Jeremiah’s portrait of God link with the both-and character of his proclamation as it emerges in connection with a series of questions raised by the scroll.
+
+Is Yahweh chiefly characterized by anger or by love? I have suggested the answer to this question in considering “The God of Israel” (see p. 49). Love and faithfulness are key to Yahweh’s character, but he is capable of acting in wrath, and in Jeremiah’s day that capacity finds strong expression. While the idea that Yahweh punishes people can have a destructive effect on people who are traumatized by horrific experiences,125 the idea that Yahweh does not punish people might also have a destructive effect on them (so Heb 12). But maybe it is therefore significant that Jeremiah does not use the actual language of punishment or judgment (and hence I use words such as “catastrophe” and “calamity” rather than “judgment”). The scroll does not look at the relationship between God and humanity in the quasi-legal framework that has been common in Christian thinking since the medieval period. Its thinking is hierarchical but relational.
+
+Is catastrophe inevitable or can Judah avert it by turning to Yahweh?126 Jeremiah gives both impressions in different contexts. Catastrophe is inevitable (if Judah carries on as it is). Judah must turn (catastrophe can then be avoided). There is no indication that either Jeremiah or Yahweh changes his mind about these possibilities at some point (e.g., when it becomes clear that Judah is not going to turn). It’s never over until it’s over. Jeremiah 36:3 makes explicit Yahweh’s aim in issuing his threats, and 18:1–11 provides a clue to interrelating the two possibilities.
+
+Will the catastrophe mean the destruction of Israel or simply its decimation? Whereas the scroll explicitly provides a way to look at the alternatives of inevitability or turning, it simply proclaims the possibility both of total annihilation and of decimation that leaves something. “I am going to make an end of them” (kālâ piel, 14:12); “I will not make an end of you” (the noun kālâ, 5:18). It seems unlikely that Jeremiah simply juxtaposed the two kinds of statements within the main years of his proclamation (see, e.g., 4:27) because the second undermines the force of the first. Perhaps the juxtaposition is an example of the development of the messages when the catastrophe had happened and people needed to be and could be reassured that Yahweh did not intend to bring about complete destruction—and did not do so. Perhaps Yahweh changed his mind about obliterating Israel. Perhaps he never intended to do so, and the first kind of statement involved a hyperbole. These possibilities interweave with questions raised by Jesus’s statements (e.g., Matt 21:43) and discussed in Rom 9–11.
+
+Does Yahweh intend simply to put down the Davidic monarchy, or will it be restored? Again the scroll simply juxtaposes these possibilities, but they can be part of a bigger picture: in the long term, Yahweh must be faithful to his promise to David, but that fact does not give any individual king a basis for assuming he can do as he likes and get away with it.
+
+Does Yahweh simply despise Israel’s worship, or can it be redeemed? Likewise, the scroll implies that the temple and its worship are part of the ongoing life of Israel, but Yahweh can be dismissive of the worship offered by a particular generation.
+
+Are other nations simply doomed, or is there hope for them? As I have already noted, in a number of cases the scroll makes clear that their prospects are the same as Israel’s.
+
+
+
+One implication of the scroll, then, is that it pushes readers to develop a theology that is both inclusive and timely. It recognizes that truth is complex and that theology needs to incorporate both-ands; it also pushes readers to perceive which of the both-ands needs bringing out now. A prophet is someone who “knows what time it is,”127 someone who can “distinguish whether a historical hour stands under the wrath or the love of God.”128
+
+
+
+
+
+IX. ANALYSIS OF CONTENTS
+
+
+When Western readers start to read through books such as Isaiah or Jeremiah, they can be bemused. Without obvious logic, these prophetic scrolls switch between subjects, between prose and poetry, between God speaking and a prophet speaking, between addressing Israel and addressing God, between narrative and direct address, between threatening and promising, between foretelling and forthtelling, between what is imminent and what is far off. As a consequence, the prophetic scrolls can seem “virtually incomprehensible as books.”129 The Jeremiah scroll is the longest of the prophetic scrolls, and it is all the more difficult to find one’s way around because its organization is less clear than that of the other prophetic scrolls. Indeed, one might infer that “the Book of Jeremiah is not a work made from whole cloth. The book is not only without any discernible organization, on the contrary, there rules it a conspicuous lack of plan.”130 Now premodern readers such as Jerome, Rashi, and Calvin apparently did not find Jeremiah unreadable, though it is not surprising that modern readers should find it difficult. It is more surprising if postmodern readers have this difficulty (as with the equivocal nature of its contents), because so much contemporary writing abjures logic and structure.
+
+“The book of Jeremiah is an elaborate tapestry of meaning-making that honors complexity, delights in ambiguity, and relishes heteroglossia (Bakhtin’s term).” But “while this meaning-making map is wild and unwieldy, it is not formless.”131 The scroll is bookended by a chapter relating how Jeremiah came to be a prophet and summarizing the nature of his message and a chapter telling of the fate of the Jerusalem to which he addressed that message. It then divides into two halves, with the first half dominated by messages and the second by stories. Jeremiah 25 both concludes the first half and opens the second.132
+
+
+
+
+
+A. JEREMIAH 1–25
+
+
+One difficulty that readers may feel when they work through the Jeremiah scroll is that “in the entire book the same argument keeps repeating.”133 In response to the repetitiveness, commentators “tend perhaps to consider themselves not so much servants of the word as its sedulous critics, even its improvers.”134 Over and over, Jeremiah declares that Judah is unfaithful to Yahweh and Yahweh intends to bring calamity upon it. One recalls the preacher who was asked why he kept repeating the same sermon: “When they listen to that one, I’ll preach another.” Jeremiah’s messages are variants on one theme. But the written collection of these messages does divide into a series of major sections, signaled by the opening phrase “The word that came to Jeremiah from Yahweh” or a variant on it:
+
+Prologue
+
+1:1–19
+
+
+
+
+
+Part 1
+
+2:1–6:36
+
+Confrontation, Exhortation, Warning
+
+
+
+Part 2a
+
+7:1–10:25
+
+Exhortations and Exchanges
+
+
+
+Part 2b
+
+11:1–13:22
+
+Jeremiah’s Arguments
+
+
+
+Part 2c
+
+14:1–17:27
+
+Drought, Hunger, Sword
+
+
+
+Part 2d
+
+18:1–20:18
+
+Concerning Plans and Counsels
+
+
+
+Part 2e
+
+21:1–24:10
+
+On Kings and Prophets
+
+
+
+Conclusion
+
+25:1–38
+
+
+
+
+
+At a formal level, this framework provides Jer 1–25 with some structuring. One way or another, each of the major sections opens with a prose account of a message for Jeremiah to deliver to Judah; each section then comprises mostly messages in poetry. The themes of the prose and the poetry are similar, and the same message indeed recurs through the different sections as Jeremiah tries different ways of getting his message home. The logic of Jer 1–25 corresponds to the perspective on Ephraim expounded in 2 Kgs 17:7–23:
+
+Ephraim has served other gods.
+
+In doing so, it has ignored the prophets.
+
+Judah has acted in the same way.
+
+Its kings are especially to blame for Ephraim’s downfall.135
+
+
+
+The sections combine their repetitiveness with a subverting of the Judahites’ possible or actual assumptions, whereby they avoid the thrust of Jeremiah’s repeated message:
+
+Part 1
+
+begins by undermining assumptions about the exodus.
+
+
+
+Part 2a
+
+begins by undermining assumptions about the temple.
+
+
+
+Part 2b
+
+begins by undermining assumptions about Sinai.
+
+
+
+Part 2c
+
+begins by undermining assumptions about prayer.
+
+
+
+Part 2d
+
+begins by undermining assumptions about divine sovereignty.
+
+
+
+Part 2e
+
+begins by undermining assumptions about David.
+
+
+
+
+
+B. JEREMIAH 25–52
+
+
+Whereas the first half of the scroll incorporates few dates, the second half is dominated by stories with dates that make clear that the stories cluster around 604, 597, and 587. The difficulty modern readers may then feel is that the chapters do not come in chronological order.136 “Dischrononologization represents a significant tactic of time management from chs. 21 to 51.”137 It is again surprising if postmodern readers have difficulty with the chapters’ order, because we watch movies and television series that work in dramatic sequence rather than chronological sequence (“three weeks earlier,” “two years later”). The Jeremiah text points both to a reading as history and to a reading as drama.138 A dramatic order rather than a chronological order can both entertain and make the audience think, and it can make connections that would not otherwise be apparent.
+
+Like the first half of the scroll, the second half divides into major sections. On a broad canvas, the sequences are clear, though there is room for disagreement about some of the details:
+
+Introduction 25:1–38
+
+
+
+Part 3
+
+The Die Cast and the Possibility of Restoration
+
+
+
+a
+
+26:1–29:32
+
+Stories about Prophets
+
+
+
+b
+
+30:1–33:26
+
+At Last, a Focus on Hope
+
+
+
+c
+
+34:1–36:32
+
+Stories Implying a Reversion to Reality
+
+
+
+Part 4
+
+The Calamity and the Aftermath
+
+
+
+a
+
+37:1–39:18
+
+Last Chances, Calamity, and a Footnote for Ebed-melech
+
+
+
+b
+
+40:1–45:5
+
+Aftermath, Missed Chances, and a Footnote for Baruch
+
+
+
+Part 5
+
+Messages about Other Nations
+
+
+
+a
+
+46:1–28
+
+Egypt
+
+
+
+b
+
+47:1–49:39
+
+Neighbors and Distant Peoples
+
+
+
+c
+
+50:1–51:64
+
+Babylon
+
+
+
+Epilogue 52:1–34
+
+
+
+One feature of the scroll’s second half is a series of false endings: Jer 33 might seem like an end, so might Jer 36, so might Jer 39, so might Jer 45, and so might Jer 51.139 The placing of Jer 30–33 shows that one cannot suggest that “the book of Jeremiah moves along a plot trajectory from judgment to restoration.” Indeed, actually “it would be difficult to argue convincingly for a large-scale plot unfolding from judgment to salvation in the book. The prophetic diction of chaos, terror, divine fury, and grievous loss controls the tenor of the book from beginning to end.”140 At the same time, Jer 30–33 does qualify the gloom, and the second half of the scroll does manifest a suggestive sequence of doom on Judah (chs. 26–45), on other nations (chs. 46–49), and on Babylon (chs. 50–51).141 And the closing chapter has notes of hope that do not quite count as a Hollywood ending but do mitigate the gloom that would obtain if the scroll ended with the fall of Jerusalem or the killing of Gedaliah and its aftermath.
+
+
+
+
+1. Formulating dates for Israelite kings raises difficulties. Many kings appointed their successors to reign jointly with them, presumably in part to ensure the succession; thus, the dates of reigns can overlap. Manasseh had apparently reigned as co-king with Hezekiah since about 697. Date formulations in modern books may also vary by a year because the Jewish year starts at a different point from the Western year (and sometimes in the spring, sometimes in the fall; see the commentary on 36:9) and because formulations vary over whether a king’s accession year counts as his first actual year.
+
+2. For these events and the ones in the next paragraph, see, e.g., O. Lipschits, The Fall and Rise of Jerusalem: Judah under Babylonian Rule (Winona Lake, IN: Eisenbrauns, 2005), 11–35.
+
+3. I will use this English form of the name, reflecting the Hebrew form that usually appears in Jeremiah, except in connection with Jer 27–29, where the form Nebuchadnezzar appears; see the translation note on 21:2.
+
+4. A. G. Shead takes up this opening phrase of the scroll in his study of “The Word of God in the Words of Jeremiah,” the subtitle of A Mouth Full of Fire, New Studies in Biblical Theology 9 (Nottingham: Apollos, 2012).
+
+5. E. K. Holt, “Word of Jeremiah—Word of God,” in Uprooting and Planting: Essays on Jeremiah for Leslie Allen, ed. J. Goldingay, LHBOTS 459 (London: T&T Clark 2007), 172–89.
+
+6. In Jeremiah, “the means for marking DD [direct divine discourse] are the most varied, unpredictable, and … chaotic of any book in the Hebrew Bible” (S. A. Meier, Speaking of Speaking: Marking Direct Discourse in the Hebrew Bible, VTSup 46 [Leiden: Brill, 1992], 258).
+
+7. R. Davidson, Jeremiah, The Daily Study Bible (Edinburgh: Saint Andrew, 1985), 1:1.
+
+8. With apologies to A. C. Thiselton, The Two Horizons (Grand Rapids: Eerdmans, 1980), though he adapted the image from H.-G. Gadamer, Truth and Method (New York: Crossroad, 1975).
+
+9. D. R. Jones, Jeremiah, The New Century Bible Commentary (Grand Rapids: Eerdmans, 1992), 96.
+
+10. E.g., R. P. Carroll, “Radical Clashes of Will and Style,” JSOT 45 (1989): 99–100; “Arguing about Jeremiah,” in Congress Volume: Leuven 1989, ed. J. A. Emerton, VTSup 43 (Leiden: Brill, 1991), 229–33.
+
+11. Cf. F. Lippke, “Ancient Editing and the Coherence of Traditions within the Book of Jeremiah and throughout the nby’im,” in Jeremiah’s Scriptures, ed. H. Najman and K. Schmid, JSJSup 173 (Leiden: Brill, 2016), 49–52.
+
+12. I thus do not work with the assumption that distinguishing between poetry and prose, and then between prose messages and narratives, is key to studying the scroll—an assumption that has been basic to Jeremiah scholarship since Duhm’s commentary (Das Buch Jeremia, Kurzer Hand-Commentar zum Alten Testament 11 [Tübingen: Mohr Siebeck, 1901]) and S. Mowinckel’s Zur Komposition des Buches Jeremia (Kristiania: Dybward, 1914). Indeed, L. Stulman has noted that, in effect, though the world of scholarship has concluded that the twentieth-century framework for the study of Jeremiah was fundamentally flawed, it has carried on using it all the same (“Reflections on the Prose Sermons in the Book of Jeremiah,” in Bible Through the Lens of Trauma, ed. E. Boase and C. G. Frechete, Semeia Studies 38 [Atlanta: SCM, 2016], 127–30). See further J. M. Henderson, Jeremiah under the Shadow of Duhm: A Critique of the Use of Poetic Form as a Criterion of Authenticity, T&T Clark Biblical Studies (London: T&T Clark, 2019); D. Rom-Shiloni, “From Prophetic Words to Prophetic Literature: Challenging Paradigms That Control Our Academic Thought on Jeremiah and Ezekiel,” JBL 138 (2019), 565–86.
+
+13. See the survey in B. E. Kelle, “The Phenomenon of Israelite Prophecy in Contemporary Scholarship,” CurBR 12 (2013): 296–300.
+
+14. E. W. Nicholson, Preaching to the Exiles: A Study of the Prose Tradition in the Book of Jeremiah (Oxford: Blackwell, 1970).
+
+15. J. Calvin, Commentary on Jeremiah and Lamentations, trans. John Owen, 5 vols. (repr., Grand Rapids: Christian Classics Ethereal Library), 4:3.
+
+16. See, e.g., a number of the papers in Najman and Schmid, Jeremiah’s Scriptures; C. J. Sharp, Prophecy and Ideology in Jeremiah: Struggles for Authority in the Deutero-Jeremianic Prose, Old Testament Studies (London: T&T Clark, 2003), esp. 1–39; W. L. Holladay, “Elusive Deuteronomists, Jeremiah, and Proto-Deuteronomy,” CBQ 66 (2004): 55–77; M. J. Williams, “An Investigation of the Legitimacy of Source Distinctions for the Prose Material in Jeremiah,” JBL 112 (1993): 193–210.
+
+17. Cf. C. L. Crouch, An Introduction to the Study of Jeremiah (London: T&T Clark, 2017), 48.
+
+18. See, e.g., N. Mastnjak, Deuteronomy and the Emergence of Textual Authority in Jeremiah, FAT 2/87 (Tübingen: Mohr Siebeck, 2016).
+
+19. E.g., J. A. Thompson, The Book of Jeremiah, NICOT (Grand Rapids: Eerdmans, 1980), 37, 38; S.-M. Kang, “The Authentic Sermon on Jeremiah in Jeremiah 7:1–20,” in Texts, Temples, and Traditions: Tribute to Menahem Haran, ed. M. V. Fox et al. (Winona Lake, IN: Eisenbrauns, 1996), 147–62; Sharp, Prophecy and Ideology in Jeremiah, 8, 45, 106.
+
+20. E.g., W. L. Holladay, A Commentary on the Book of the Prophet Jeremiah, 2 vols., Hermeneia (Philadelphia: Fortress, 1986; Minneapolis: Fortress, 1989), 2:165.
+
+21. See, e.g., J. M. Bos, “The ‘Literarization’ of the Biblical Prophecy of Doom,” in Contextualizing Israel’s Sacred Writing: Ancient Literacy, Orality, and Literary Production, ed. B. B. Schmidt, AIIL 22 (Atlanta: Society of Biblical Literature, 2015), 263–65; M. Nissinen, “How Prophecy Became Literature,” SJOT 19 (2005): 153–72.
+
+22. R. E. Clements, “Jeremiah 1–25 and the Deuteronomistic History,” in Understanding Poets and Prophets: Essays in Honour of George Wishart Anderson, ed. A. G. Auld, JSOTSup 152 (Sheffield: JSOT, 1993), 93.
+
+23. See, e.g., K. van der Toorn, Scribal Culture and the Making of the Hebrew Bible (Cambridge, MA: Harvard University Press, 2007).
+
+24. Carroll, “Arguing about Jeremiah,” 234.
+
+25. See Lipschits, Fall and Rise of Jerusalem; E. Meyers, “Exile and Restoration in Light of Recent Archaeology and Demographic Studies,” in Exile and Restoration Revisited: Essays on the Babylonian and Persian Periods in Memory of Peter R. Ackroyd, ed. G. N. Knoppers, L. L. Grabbe, and D. Fulton, The Library of Second Temple Studies 73 (London: T&T Clark, 2009), 166–73.
+
+26. The word “theodicy” is often used in this connection: the word comes about eighteen times in A. R. P. Diamond’s commentary on Jer 1–10 (“Jeremiah,” in Eerdmans Commentary on the Bible, ed. J. D. G. Dunn and J. W. Rogerson [Grand Rapids: Eerdmans, 2003], 548–65); see also A. R. P. Diamond, The Confessions of Jeremiah in Context: Scenes of Prophetic Drama, JSOTSup 45 (Sheffield: Sheffield Academic, 1987), e.g., 189–91 on Jer 11–20. See my introductory comment on 11:1–13:22 below.
+
+27. Cf. T. Römer, “The Formation of the Book of Jeremiah as a Supplement to the So-Called Deuteronomistic History,” in The Production of Prophecy: Constructing Prophecy and Prophets in Yehud, ed. D. V. Edelman and E. Ben Zvi (London: Equinox, 2009), 168–83, though he dates both in the Persian period.
+
+28. K. M. O’Connor, “Surviving Disaster in the Book of Jeremiah,” WW 22 (2002): 369–70.
+
+29. K. M. O’Connor, “How Trauma Studies Can Contribute to Old Testament Studies,” in Trauma and Traumatization in Individual and Collective Dimensions: Insights from Biblical Studies and Beyond, ed. E.-M. Becker, J. Dochhorn, and E. K. Holt, Studia Aarhusiana Neotestamentica 2 (Göttingen: Vandenhoeck & Ruprecht, 2014), 210; Jeremiah: Pain and Promise (Minneapolis: Fortress, 2011).
+
+30. A. R. P. Diamond and L. Stulman, “Analytical Introduction,” in Jeremiah (Dis)placed, ed. A. R. P. Diamond and L. Stulman, LHBOTS 529 (London: T&T Clark, 2011), 3. The authors of this quotation do rather object, and H.-J. Stipp responds to them in “‘But into the Water You Must Not Dip It,’” in Thinking of Water in the Early Second Temple Period, ed. E. Ben Zvi and C. Levin, BZAW 461 (Berlin: de Gruyter, 2014), 167–95; he says in effect that even if we are never going to agree on the nature of the redactional process in Jeremiah, he is going to do it anyway (170). For that decision, see also, e.g., R. P. Carroll, “Synchronic Deconstructions of Jeremiah,” in Synchronic or Diachronic: A Debate on Method in Old Testament Exegesis, ed. J. C. de Moor, OTS 34 (Leiden: Brill, 1995), 39–51.
+
+31. D. K. Jobling notes analogies between Jeremiah research and Jesus research in “The Quest of the Historical Jeremiah,” Union Seminary Quarterly Review 34 (1978): 3–12; cf. R. P. Carroll, Jeremiah: A Commentary, OTL (London: SCM, 1986), 63. Oddly, Carroll refers specifically to the synoptic Gospels even though John provides a closer model for his understanding of Jeremiah.
+
+32. R. P. Carroll, “Arguing about Jeremiah,” 229.
+
+33. See H. W. Frei’s exploration of the development of thinking about biblical narrative during the eighteenth and nineteenth centuries in The Eclipse of Biblical Narrative (New Haven: Yale University Press, 1974).
+
+34. But cf., e.g., J. R. Lundbom, Jeremiah 1–20: A New Translation with Introduction and Commentary, AB 21A (New York: Doubleday, 1999), 100–101; M. Leuchter, The Polemics of Exile in Jeremiah 26–45 (Cambridge: Cambridge University Press, 2008), 1–17; for the opposite view, see, e.g., essays in Edelman and Ben Zvi, Production of Prophecy; J. Hill, “The Book of Jeremiah (MT) and Its Early Second Temple Background,” in Goldingay, Uprooting and Planting, 153–71.
+
+35. See, e.g., S. V. Davidson, Empire and Exile: Postcolonial Readings of the Book of Jeremiah, LHBOTS 542 (London: T&T Clark, 2011).
+
+36. See, e.g., R. P. Carroll, “Jeremiah, Intertextuality and Ideologiekritik,” JNSL 22 (1996): 15–34.
+
+37. This question may be posed in connection with the question of gender, on which the Jeremiah scroll works with the gender assumptions of its culture while also deconstructing, harnessing, or subverting them (see, e.g., 3:7 and the comment), and one may interweave the two questions: see C. M. Maier and C. J. Sharp, eds., Prophecy and Power: Jeremiah in Feminist and Postcolonial Perspective, LHBOTS 577 (London: T&T Clark, 2013); M. E. Mills, Jeremiah: An Introduction and Study Guide; Prophecy in a Time of Crisis (London: T&T Clark, 2015), 70–82.
+
+38. R. P. Carroll, Jeremiah, Old Testament Guides (Sheffield: JSOT, 1989), 98.
+
+39. See, e.g., R. P. Carroll: Jeremiah: A Commentary, 65–82.
+
+40. D. Rom-Shiloni, “Group Identities in Jeremiah,” in A Palimpsest: Rhetoric, Ideology, Stylistics and Language Relating to Persian Israel, ed. E. Ben Zvi, D. Edelman, and F. Polak (Piscataway, NJ: Gorgias, 2009), 11–46.
+
+41. D. Rom-Shiloni, “Exclusive Inclusivity, the Transparent and the Invisible,” JHS 18/1 (2018): 76–77.
+
+42. See, e.g., A. Hornkohl, Ancient Hebrew Periodization and the Language of the Book of Jeremiah: The Case for a Sixth-Century Date of Composition, Studies in Semitic Languages and Linguistics 74 (Leiden: Brill, 2014); R. Hendel and J. Joosten, How Old Is the Hebrew Bible? (New Haven: Yale University, 2018); M. Tafferner, “The Linguistic Date of the Masoretic Extensions in the Book of Jeremiah” (paper presented at the Annual Meeting of the Evangelical Theological Society, San Antonio, TX, 15 November 2016); for the contrary view, see R. Rezetko, “The (Dis)Connection between Textual and Linguistic Developments in the Book of Jeremiah,” in Empirical Models Challenging Biblical Criticism, ed. R. F. Person and R. Rezetko, AIIL 25 (Atlanta: Society of Biblical Literature, 2016), 239–69.
+
+43. Cf. L.-S. Tiemeyer, “Will the Prophetic Texts from the Hellenistic Period Stand Up, Please?” in Judah Between East and West: The Transition from Persian to Greek Rule (ca. 400–200 BCE), ed. O. Lipschits and L. L. Grabbe, The Library of Second Temple Studies 75 (London: T&T Clark, 2012), 255–79.
+
+44. J. G. McConville, “Jeremiah: Prophet and Book,” TynB 42 (1991): 85.
+
+45. O. Keel, Jerusalem and the One God: A Religious History (Minneapolis: Fortress, 2017), 135–36.
+
+46. Diamond, “Jeremiah,” 572.
+
+47. E. Ben Zvi, “The Concept of Prophetic Books and Its Historical Setting,” in Edelman and Ben Zvi, Production of Prophecy, 75.
+
+48. R. E. Clements, Jeremiah, Interpretation: A Bible Commentary for Teaching and Preaching (Atlanta: John Knox, 1988), 3.
+
+49. M. Brummitt, “Troubling Utopias: Possible Worlds and Possible Voices in the Book of Jeremiah,” in Diamond and Stulman, Jeremiah (Dis)placed, 186.
+
+50. P. R. Raabe, “What Is Israel’s God Up To among the Nations?” in The Book of Jeremiah: Composition, Reception, and Interpretation, ed. J. Lundbom, C. A. Evans, and B. A. Anderson, VTSup 178 (Leiden: Brill, 2018), 234.
+
+51. See R. Bauckham, ed., The Gospels for All Christians (Grand Rapids: Eerdmans, 1997).
+
+52. See, e.g., C. E. Carroll, “Another Dodecade: A Dialectic Model of the Decentred Universe of Jeremiah Studies 1996–2008,” CurBR 8 (2010): 162–82.
+
+53. See Holladay, Commentary on Jeremiah, 2:35–70.
+
+54. See D. Rom-Shiloni, “The Forest and the Trees: The Place of Pentateuchal Materials in Prophecy of the Late Seventh/Early Sixth Centuries BCE,” in Congress Volume Stellenbosch 2016, ed. L. C. Jonker, G. Kotzé, and C. M. Maier, VTSup 177 (Leiden: Brill, 2017), 56–92.
+
+55. See H. Lalleman-de Winkel, Jeremiah in Prophetic Tradition, Contributions to Biblical Exegesis and Theology 26 (Leeuven: Peeters, 2000), 85–144.
+
+56. See, e.g., B. D. Sommer, A Prophet Reads Scripture: Allusion in Isaiah 40–66, Contraversions: Jews and Other Differences (Stanford: Stanford University Press, 1998); H. Leene, “Blowing the Same Shofar: An Intertextual Comparison of Representations of the Prophetic Role in Jeremiah and Ezekiel,” in The Elusive Prophet: The Prophet as a Historical Person, Literary Character and Anonymous Artist, ed. J. C. de Moor, OTS 45 (Leiden: Brill, 2001), 175–98; L. Boadt, “Do Jeremiah and Ezekiel Share a Common View of the Exile?” in Goldingay, Uprooting and Planting, 14–31.
+
+57. See R. G. Kratz, “Why Jeremiah? The Invention of a Prophetic Figure,” in Najman and Schmid, Jeremiah’s Scriptures, 197–212.
+
+58. T. Collins, The Mantle of Elijah: The Redaction Criticism of the Prophetical Books, The Biblical Seminar 20 (Sheffield: JSOT, 1993), 120; cf. R. P. Carroll, From Chaos to Covenant: Uses of Prophecy in the Book of Jeremiah (London: SCM, 1981), 5–30.
+
+59. E. Ben Zvi, “The Voice and Role of a Counterfactual Memory in the Construction of Exile and Return,” in The Concept of Exile in Ancient Israel and Its Historical Contexts, ed. E. Ben Zvi and C. Levin, BZAW 404 (Berlin: de Gruyter, 2010), 169.
+
+60. B. M. Levinson, “Was Jeremiah Invented? The Relation of an Author to a Literary Tradition; A Response to Reinhard G. Kratz,” in Najman and Schmid, Jeremiah’s Scriptures, 217.
+
+61. W. McKane, A Critical and Exegetical Commentary on Jeremiah, 2 vols., ICC (repr., London: T & T Clark, 2014), 1:l. McKane adds, “Small pieces of pre-existing text trigger exegesis or commentary” (lxxxiii).
+
+62. T. W. Overholt, “‘It Is Difficult to Read,’” JSOT 48 (1990): 52.
+
+63. A. Berlejung, “Sources,” in T&T Clark Handbook of the Old Testament, ed. J. C. Gertz et al. (London: T&T Clark, 2012), 3; cf. Z. T. Mohammad, “Jeremiah: The Prophet and the Concept; A Response to Reinhard G. Kratz,” in Najman and Schmid, Jeremiah’s Scriptures, 226.
+
+64. R. R. Wilson, “Historicizing the Prophets: History and Literature in the Book of Jeremiah,” in On the Way to Nineveh: Studies in Honor of George M. Landes, ed. S. L. Cook and S. C. Winter, American Schools of Oriental Research Books 4 (Atlanta: Scholars, 1999), 136–54.
+
+65. L. L. Grabbe, “‘The Lying Pen of the Scribes’?” in Essays on Ancient Israel in Its Near Eastern Context: A Tribute to Nadav Na’aman, ed. Y. Amit et al. (Winona Lake, IN: Eisenbrauns, 2006), 189–204; D. A. Glatt-Gilad, “The Personal Names in Jeremiah as a Source for the History of the Period,” Hebrew Studies 41 (2000): 31–45; J. A. Dearman, “My Servants the Scribes,” JBL 109 (1990): 403–21; Keel, Jerusalem and the One God, 119.
+
+66. R. P. Carroll, From Chaos to Covenant, 60.
+
+67. J. Pixley, Jeremiah, Chalice Commentaries for Today (St. Louis, MO: Chalice, 2004), 49.
+
+68. A. J. Rosenberg, “Jeremiah and Ezekiel,” in The Literary Guide to the Bible, ed. R. Alter and F. Kermode (London: Collins, 1987), 185.
+
+69. Cf. R. R. Wilson, “Poetry and Prose in the Book of Jeremiah,” in Ki Baruch Hu: Ancient Near Eastern, Biblical, and Judaic Studies in Honor of Baruch A. Levine, ed. R. Chazan, William W. Hallo, and L. H. Schiffman (Winona Lake, IN: Eisenbrauns, 1999), 413–27.
+
+70. M. Leuchter, Josiah’s Reform and Jeremiah’s Scroll: Historical Calamity and Prophetic Response, Hebrew Bible Monographs 6 (Sheffield: Sheffield Phoenix, 2006), 168; see further M. Leuchter, “The Medium and the Message,” ZAW 126 (2014): 208–27. H. Weippert (Die Prosareden des Jeremiabuches, BZAW 132 [Berlin: de Gruyter, 1973]) argues that the “Deuteronomistic” prose could be Jeremianic. C. M. Maier (Jeremia als Lehrer der Tora: Soziale Gebote des Deuteronomiums in Fortschreibungen des Jeremiabuches, FRLANT 196 [Göttingen: Vandenhoeck & Ruprecht, 2002]) argues that in passages such as Jer 7; 11; 26, we have a portrait of Jeremiah that derives from the exilic or Persian period.
+
+71. P. A. Viviano, “Characterizing Jeremiah,” WW 22 (2002): 365.
+
+72. Calvin, Jeremiah, 1:454.
+
+73. Contrast M. Reasoner, “The Redemptive Inversions of Jeremiah in Romans 9–11,” Bib 95 (2014): 388–404.
+
+74. J. L. Berquist, “Prophetic Legitimation in Jeremiah,” VT 39 (1989): 129.
+
+75. A. Kalmanofsky, “The Dangerous Sisters of Jeremiah and Ezekiel,” JBL 130 (2011): 300.
+
+76. A. Kalmanofsky, Terror All Around: The Rhetoric of Horror in the Book of Jeremiah, LHBOTS 390 (London: T&T Clark, 2008), 1.
+
+77. Viviano, “Characterizing Jeremiah,” 366.
+
+78. So S. J. Choi, “A New Heart to Know the Lord: Rhetorical Analysis of Jeremiah 21–24” (PhD diss., University of Gloucestershire, 2001).
+
+79. Calvin, Jeremiah, 2:253.
+
+80. In his study of Jer 2, H. L. Ellison also compares Isa 1 (“The Prophecy of Jeremiah,” EvQ 32 [1960]: 4).
+
+81. R. P. Carroll, “Century’s End: Jeremiah Studies at the Beginning of the Third Millennium,” Currents in Research: Biblical Studies 8 (2000): 22, his emphasis.
+
+82. On the mythical nature of the empty land, see, e.g., D. Rom-Shiloni, “What Is ‘Persian’ in Late Sixth Century B. C. E. Prophetic Literature? Case Studies and Criteria,” in Discerning Criteria for Dating Persian Period Texts, ed. R. J. Bautch and M. Lackowski, FAT 2/101 (Tübingen: Mohr Siebeck, 2019), 32–41.
+
+83. M. Leuchter, “Jeremiah,” in The Oxford Handbook of the Prophets, ed. C. J. Sharp (Oxford: Oxford University Press, 2016), 179.
+
+84. T. E. Fretheim, Jeremiah, Smith and Helwys Bible Commentary (Macon, GA: Smith and Helwys, 2002), 540.
+
+85. So G. L. Keown, P. J. Scalise, and T. G. Smothers, Jeremiah 26–52, WBC 27 (Dallas: Word, 1995), 263.
+
+86. See, e.g., L. Stulman, “Insiders and Outsiders in the Book of Jeremiah,” JSOT 66 (1995): 71–72.
+
+87. M. Leuchter, “Remembering Jeremiah in the Persian Period,” in Remembering Biblical Figures in the Late Persian and Early Hellenistic Periods: Social Memory and Imagination, ed. D. V. Edelman and E. Ben Zvi (Oxford: Oxford University Press, 2013), 394.
+
+88. McKane, Jeremiah, 2:1091–92.
+
+89. For the argument that an important level of tradition in the scroll is a redaction in Babylon, see, e.g., K.-F. Pohlmann, Studien zum Jeremiabuch: Ein Beitrag zur Frage nach der Entstehung des Jeremiabuches, FRLANT 118 (Göttingen: Vandenhoeck & Ruprecht, 1978); C. R. Seitz, Theology in Conflict: Reactions to the Exile in the Book of Jeremiah, BZAW 176 (Berlin: de Gruyter, 1989).
+
+90. On various possibilities, see, e.g., H.-J. Stipp, Studien zum Jeremiabuch: Text und Redaktion, FAT 96 (Tübingen: Mohr Siebeck, 2015), 325–47. Stipp suggests that the first half was composed in Judah, the second half in Babylon.
+
+91. J. A. Thompson, Jeremiah, 222.
+
+92. See, e.g., C. Wolff, Jeremia in Frühjudentum und Urchristentum, Texte und Untersuchungen zur Geschichte der altchristlichen Literatur 118 (Berlin: Akademie, 1976); A. H. W. Curtis and T. Römer, eds., The Book of Jeremiah and Its Reception, BETL 128 (Leuven: Peeters, 1997); J. Barton, “Jeremiah in the Apocrypha and Pseudepigrapha,” in Troubling Jeremiah, ed. A. R. P. Diamond, K. M. O’Connor, and L. Stulman, JSOTSup 260 (Sheffield: Sheffield Academic, 1999), 306–17; Leuchter, “Remembering Jeremiah”; L. G. Perdue, “Baruch among the Sages,” in Goldingay, Uprooting and Planting, 260–90; S. A. Adams, “Jeremiah in the Old Testament Apocrypha and Pseudepigrapha,” in Lundbom, Evans, and B. A. Anderson, Jeremiah, 359–78; J. H. Newman, Before the Bible: The Liturgical Body and the Formation of Scriptures in Early Judaism (Oxford: Oxford University Press, 2018), 53–74; Najman and Schmid, Jeremiah’s Scriptures.
+
+93. See, e.g., E. Tov, “The Jeremiah Scrolls from Qumran,” Revue de Qumran 14 (1989): 189–206; G. J. Brooke, “The Book of Jeremiah and Its Reception in the Qumran Scrolls,” in Curtis and Römer, Jeremiah and Its Reception, 183–206; M. S. Moore, “The Laments in Jeremiah and 1QH,” in Goldingay, Uprooting and Planting, 228–52; R. Goldstein, “Jeremiah between Destruction and Exile,” Dead Sea Discoveries 20 (2013): 433–51; K. Davis, The Cave 4 Apocryphon of Jeremiah and the Qumran Jeremianic Traditions, STDJ 111 (Leiden: Brill, 2014); A. Lange, “Texts of Jeremiah in the Qumran Library,” in Lundbom, Evans, and B. A. Anderson, Jeremiah, 280–302.
+
+94. See, e.g., C. A. Evans, “Jeremiah in Jesus and the New Testament,” in Lundbom, Evans, and B. A. Anderson, Jeremiah, 303–19 (this volume also includes studies of the Tg, the Latin translations, and the Peshitta); J. Frey, “The Reception of Jeremiah and the Impact of Jeremianic Traditions in the New Testament,” in Najman and Schmid, Jeremiah’s Scriptures, 499–522; J. D. Hays, “The Persecuted Prophet and Judgment on Jerusalem: The Use of LXX Jeremiah in the Gospel of Luke,” BBR 25 (2015): 453–73; M. Knowles, Jeremiah in Matthew’s Gospel: The Rejected Prophet Motif in Matthean Redaction, JSNTSup 68 (Sheffield JSOT Press, 1993); J. W. Mazurel, “Citations from the Book of Jeremiah in the New Testament,” in Kessler, Reading Jeremiah, 181–89; A. Rakotoharintsifa, “Jérémieh en action à Corinthe,” in Curtis and Römer, Jeremiah and Its Reception, 207–16; M. F. Whitters, “Jesus in the Footsteps of Jeremiah,” CBQ 68 (2006): 229–47.
+
+95. For a review of the evidence, see, e.g., T. H. Lim, The Formation of the Jewish Canon (New Haven: Yale University Press, 2013).
+
+96. W. L. Holladay, Jeremiah: Spokesman out of Time (Philadelphia: United Church Press, 1974), 140.
+
+97. See the Leningrad Codex at the Internet Archive, https://archive.org/details/Leningrad_Codex.
+
+98. See E. Würthwein, The Text of the Old Testament, 3rd ed. (Grand Rapids: Eerdmans, 2014), 39–43. I have not had access to the Sassoon Codex 1053. The Cairo Codex of the Prophets is reproduced in D. S. Lowinger, Cairo Codex of the Bible (Jerusalem: Makor, 1971).
+
+99. Jerome has a nice comment on what he sees as a well-intentioned LXX omission: “But what about the Hebrew truth?” (Jerome, Commentary on Jeremiah, trans. Michael Graves, Ancient Christian Texts [Downers Grove, IL: InterVarsity, 2011], 173). He has another comment on 17:1–4: “I do not know why the LXX translators omitted this passage, unless perhaps they were sparing their people…. And there are many other passages of this kind, but to discuss all of them would require not just a book but books” (Jeremiah, 104; I write with admiration and gratitude for the work of Jerome—Hebraist, translator, and commentator—who died in Bethlehem while writing his commentary). Augustine has a neat answer to Jerome’s implicit question, at a different level: “If anything is in the Hebrew text but not in that of the seventy translators, it is something that the Spirit of God did not choose to say through the latter”—and the converse (City of God 18.43).
+
+100. The classic studies are J. G. Janzen, Studies in the Text of Jeremiah, HSM 6 (Cambridge, MA: Harvard University Press, 1973) and such works of E. Tov as “Some Aspects of the Textual and Literary History of the Book of Jeremiah,” in Le livre de Jérémie: Le prophète et son milieu. Les oracles et leur transmission, ed. P.-M. Bogaert, 2nd ed., BETL 54 (Leuven: Peeters, 1997), 145–67, 430; “The Literary History of the Book of Jeremiah in the Light of Its Textual History,” in Empirical Models for Biblical Criticism, ed. J. H. Tigay (Philadelphia: University of Pennsylvania Press, 1985), 211–37. More recent studies and surveys of the question include R. P. Carroll, “Surplus Meaning and the Conflict of Interpretations: A Dodecade of Jeremiah Studies (1984–1995),” Currents in Research: Biblical Studies 4 (1996): 124–25; R. P. Carroll, Jeremiah, OTL, 50–55; G. Fischer, “Mysteries of the Book of Jeremiah,” in Najman and Schmid, Jeremiah’s Scriptures, 166–78; Y. Goldman, Prophétie et royauté au retour de l’exil: Les origines litteraires de la forme massoretique du livre de Jérémie, OBO 118 (Göttingen: Vandenhoeck & Ruprecht, 1992); J. R. Lundbom, “Haplography in the Hebrew Vorlage of LXX Jeremiah,” Hebrew Studies 46 (2005): 301–20; Lundbom, Jeremiah 1–20, 57–62; McKane, Jeremiah, 1:xv–xxxi; R. F. Person, “A Rolling Corpus and Oral Tradition: A Not-So-Literate Solution to a Highly Literate Problem,” in Diamond, K. M O’Connor, and Stulman, Troubling Jeremiah, 263–71; C. J. Sharp, “‘Take Another Scroll and Write’: A Study of the LXX and the MT of Jeremiah’s Oracles against Egypt and Babylon,’” VT 47 (1997): 487–516; A. G. Shead, “The Text of Jeremiah,” in Lundbom, Evans, and B. A. Anderson, Book of Jeremiah, 255–79; H.-J. Stipp, Das masoretische und alexandrinische Sondergut des Jeremiabuches, OBO 136 (Göttingen: Vandenhoeck & Ruprecht, 1994); L. Stulman, “Some Theological and Lexical Differences between the Old Greek and the MT of the Jeremiah Prose Discourses,” Hebrew Studies 25 (1984): 18–23; M. A. Sweeney, Form and Intertextuality in Prophetic and Apocalyptic Literature, FAT 45 (Tübingen: Mohr Siebeck, 2005), 65–77; R. D. Weis, “Textual History of Jeremiah,” in Textual History of the Bible, ed. A. Lange and E. Tov, vol. 1B (Leiden: Brill, 2016), §7.1.
+
+101. G. H. Parke-Taylor (The Formation of the Book of Jeremiah [Atlanta: Society of Biblical Literature, 2000]) systematically studies the doublets in the scroll and the verses that recur in and from other parts of the First Testament in order to see how they suggest insight into the formation of the scroll.
+
+102. See J. R. Lundbom, Jeremiah 37–52: A New Translation with Introduction and Commentary, AB 21C (New York: Doubleday, 2004), 549–63.
+
+103. For LXX in its own right, see esp. G. A. Walser, Jeremiah: A Commentary Based on Ieremias in Codex Vaticanus, Septuagint Commentary Series (Leiden: Brill, 2012). K. Finsterbusch and N. Jacoby lay out the two texts synoptically in German in MT-Jeremia und LXX-Jeremia 1–24 (Neukirchen: Neukirchener, 2016) and MT-Jeremia und LXX-Jeremia 25–52 (Neukirchen: Neukirchener, 2017).
+
+104. B. S. Childs, Introduction to the Old Testament as Scripture (Philadelphia: Fortress, 1979), 352–53.
+
+105. McKane, Jeremiah, 1:623. See further D. L. Christensen, “In Quest of the Autograph of the Book of Jeremiah,” JETS 33 (1990): 145–53.
+
+106. BHS refers to the codex by means of an ordinary capital C and to the geniza fragments by an ornate Gothic C.
+
+107. See, e.g., Crouch, Introduction, 31–37.
+
+108. W. L. Holladay argues the opposite way in “Text Criticism and Beyond: The Case for Jeremiah,” Textus 23 (2007): 173–210, and illustrates his conviction in his commentary—as do most commentators.
+
+109. For divisions in the LXX, see C. Amphoux and A. Serandour, “La composition de Jérémie LXX d’après les divisions du Codex Vaticanus (B),” in XIII Congress of the International Organization for the Septuagint and Cognate Studies, ed. M. K. H. Peters, SCS 55 (Atlanta: Society of Biblical Literature, 2008), 3–21.
+
+110. T. E. Fretheim, What Kind of God? Collected Essays of Terence E. Fretheim, Siphrut 14 (Winona Lake, IN: Eisenbrauns, 2015), 300.
+
+111. C. J. Sharp, “Jeremiah,” in Theological Bible Commentary, ed. D. L. Petersen and G. R. O’Day (Louisville: Westminster John Knox, 2009), 231.
+
+112. See J. Goldingay, “As a Commentator, One Might Ask, ‘What Would Jeremiah or John Say?’” in The Genre of Biblical Commentary: Essays in Honor of John E. Hartley on the Occasion of His 75th Birthday, ed. T. D. Finlay and W. Yarchin (Eugene, OR: Pickwick, 2015), 234–40.
+
+113. W. Brueggemann, Like Fire in the Bones: Listening for the Prophetic Word in Jeremiah (Minneapolis: Fortress, 2006), 144, 151.
+
+114. W. Brueggemann considers Jeremiah’s relationship with other First Testament books in The Theology of the Book of Jeremiah, Old Testament Theology (Cambridge: Cambridge University Press, 2007), 134–86.
+
+115. G. Barbiero, “Tu mi hai sedotto, Signore”: Le confessioni di Geremia alla luce della sua vocazione profetica, Analecta Biblica Studia (Rome: Gregorian, 2013), 12.
+
+116. A. B. Davidson, “Jeremiah the Prophet,” in A Dictionary of the Bible, ed. J. Hastings, vol. 2 (Edinburgh: T&T Clark, 1899), 576.
+
+117. A. Kalmanofsky, “Israel’s Open Sore in the Book of Jeremiah,” JBL 135 (2016): 248.
+
+118. T. Polk, The Prophetic Persona: Jeremiah and the Language of the Self, JSOTSup 32 (Sheffield: JSOT, 1984), 170–71.
+
+119. See D. Bourguet, Des Métaphores de Jérémie, Études Bibliques 9 (Paris: Gabalda, 1987); J. Y. Jindo, Biblical Metaphor Reconsidered: A Cognitive Approach to Poetic Prophecy in Jeremiah 1–24, HSM 64 (Winona Lake, IN: Eisenbrauns, 2010).
+
+120. W. Brueggemann, Hopeful Imagination: Prophetic Voices in Exile (Philadelphia: Fortress, 1986), 14.
+
+121. Brueggemann, Hopeful Imagination, 14–15.
+
+122. Fretheim, What Kind of God?, 296.
+
+123. See, e.g., J. H. le Roux, “In Search of Carroll’s Jeremiah,” OTE 7 (1994): 7–20.
+
+124. Sharp, “Jeremiah,” 234.
+
+125. C. G. Frechette, “The Old Testament as Controlled Substance: How Insights from Trauma Studies Reveal Healing Capacities in Potentially Harmful Texts,” Int 69 (2014): 20–34.
+
+126. See J. Skinner, Prophecy and Religion: Studies in the Life of Jeremiah (Cambridge: Cambridge University Press, 1922), 77–79.
+
+127. A. J. Heschel, The Prophets (New York: Harper, 1962), 106; cf. E. A. Martens, “Jeremiah,” Direction 15 (1986): 3.
+
+128. E. Osswald, Falsche Prophetie im Alten Testament (Tübingen: Mohr Siebeck, 1962), 22; cf. J. A. Sanders, From Sacred Story to Sacred Text (Philadelphia: Fortress, 1987), 84.
+
+129. R. P. Carroll, Jeremiah, OTL, 38.
+
+130. Mowinckel, Komposition, 5, his italics.
+
+131. L. Stulman, “Jeremiah as a Messenger of Hope in Crisis,” Int 62 (2008): 13, 7.
+
+132. For similar analyses to the one that follows, see A. Rofé, “The Arrangement of the Book of Jeremiah,” ZAW 101 (1989): 390–98; S. J. Murphy, “The Quest for the Structure of the Book of Jeremiah,” BSac 166 (2009): 306–18; R. D. Patterson, “Of Bookends, Hinges, and Hooks: Literary Clues to the Arrangement of Jeremiah’s Prophecies,” WTJ 51 (1989): 109–131; L. Stulman, Order amid Chaos: Jeremiah as Symbolic Tapestry, The Biblical Seminar 57 (Sheffield: Sheffield Academic, 1998), 23–55.
+
+133. J. Oecolampadius, In Hieremiam prophetam (Strasbourg: Apiarius, 1533), 39.
+
+134. D. Berrigan, Jeremiah: The World, the Wound of God (Minneapolis: Fortress, 1999), 141.
+
+135. R. E. Clements, “Jeremiah 1–25 and the Deuteronomistic History.”
+
+136. Commentators such as B. Blayney (Jeremiah and Lamentations, 2nd ed. [Edinburgh: Oliphant, 1810]) and J. Bright (Jeremiah: Introduction, Translation, and Notes, AB 21 [Garden City, NY: Doubleday, 1965]) thus rearrange them in order to comment on them.
+
+137. Diamond, “Jeremiah,” 546.
+
+138. Cf. M. C. Calloway’s study of Jer 37–38, “Black Fire on White Fire: Historical Context and Literary Subtext in Jeremiah 37–38,” in Diamond, K. M O’Connor, and Stulman, Troubling Jeremiah, 173–74.
+
+139. Indeed, Newman (Before the Bible, 53–74) notes that some people did not think it should end after Jer 52: they added Baruch and other “Jeremianic” works.
+
+140. Sharp, “Jeremiah,” 231.
+
+141. H.-J. Stipp, “Legenden der Jeremia-Exegese (I),” VT 64 (2014): 500–501.
+
+
+
+
+
+The Book of
+
+JEREMIAH
+
+
+
+
+

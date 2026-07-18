@@ -6,7 +6,7 @@ textual_sources: [2 Samuel 11–12; 1 Kings 1–2; 1 Chronicles 3:5; Matthew 1:6
 dates: [10th century BCE (traditional)]
 roles: [wife of Uriah then of David, queen mother (gebirah), mother of Solomon]
 sources_ingested: 1
-last_updated: 2026-06-09
+last_updated: 2026-07-18
 tags: [figure, judaism, christianity, old-testament, women, court-narrative, davidic-line]
 ---
 
@@ -68,3 +68,7 @@ calculating *gebirah* of 1 Kings is itself part of the story's portrait of how p
   read, with the other irregular unions in Matthew 1, as a sign of grace working through
   human sin and the inclusion of outsiders in the messianic line. Psalm 51, the church's
   preeminent penitential psalm, is by superscription tied to David's repentance over her.
+
+## Tsumura (NICOT 2 Samuel) — Fidelity Reingest Note (2026-07-18)
+
+[[david-tsumura|Tsumura]] embeds 11:1–12:25 as **AXB** within the Ammon war; calls it the “great turning point” of David’s story — covet→adultery→murder escalation; Nathan’s “You are the man”; sword not depart from the house; immediate confession (contrast Saul); child dies; Solomon/Jedidiah “beloved of the LORD.” Ps 51 title defended as historical. Source: [[tsumura-2-samuel-nicot]].

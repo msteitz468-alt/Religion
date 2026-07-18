@@ -4,7 +4,7 @@ tradition: Scientology
 canon_status: canonical
 canon_scope:
   canonical_for: [scientology]
-  rejected_by: [all other traditions]
+  rejected_by: []
 language_original: English
 date_range: "1952 (original); revised/expanded edition 1953"
 sources_ingested: 1

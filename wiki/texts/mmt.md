@@ -52,6 +52,18 @@ The MMT phrase *ma'asay ha-Torah* ("works of the Law") is precisely the phrase P
 
 This does not resolve the debate about Paul's meaning, but it contextualizes it: Paul is apparently arguing against a halakhic framework in which specific community-defining legal observances confer righteous standing before God.
 
+## Hermeneutical Framework
+
+MMT is the clearest surviving specimen of **sectarian halakhic reasoning** — legal derivation from Torah applied to disputed cult practice. Vermes: "MMT is particularly important as a source of ancient legal debate... it is unique among the Dead Sea Scrolls and foreshadows the halakhic process developed and practised by later rabbis." He aligns several of its rulings with Sadducee positions preserved in the Mishnah, placing MMT inside the same disputation genre later systematized by the rabbis.
+
+**Legal derivation by analogy.** The characteristic move is to quote a Torah verse and map it onto contemporary institutional geography. On Leviticus 7's slaughter law: "[And concern]ing that which is written, [If a man slaughters in the camp or slaughters] outside the camp an ox or a lamb or a goat... And we consider the Sanctuary [as the tent of meeting and Je]rusale[m] as... the camp." The wilderness camp of Leviticus is *read as* Jerusalem — an interpretive identification that generates the practical ruling.
+
+**Explicit canon reference.** MMT names a tripartite scriptural corpus as the authority for reading history: "you should understand {the Book of Moses} and the Book[s of the Pr]ophets and Davi[d and all the events] of every age."
+
+**Contemporizing covenant theology.** Deuteronomy 30's blessing-and-curse structure is quoted and then historicized and applied forward: the blessings "came... in the days of Solomon," the curses "in the days of Jeroboam... until Jerusalem and Zedekiah king of Judah were exiled," and then — "we recognize that some of the blessings and curses which are written in the B[ook of Mo]ses have come. And this is at the end of days." The community reads itself as standing at the covenant cycle's final turn. This is contemporizing exegesis, though not the formal lemma-plus-interpretation structure of [[pesher|pesher]].
+
+**Paradigmatic use of biblical figures.** Scriptural history also functions exhortatively: "Remember David, that he was a man of piety, and that he was also saved from many troubles and pardoned."
+
 ## Significance
 1. **Origins of the sect**: MMT reflects the community in a formative phase, still addressing the Jerusalem establishment as potential reformers, not yet as a permanent separatist group
 2. **Tripartite canon**: The earliest Qumran reference to Torah + Prophets + "David" as three divisions of authoritative scripture

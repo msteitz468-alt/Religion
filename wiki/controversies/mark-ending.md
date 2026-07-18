@@ -4,7 +4,7 @@ text_locus: Mark 16:1-20
 positions: [16:8 as intended ending, Original ending lost, Longer Ending secondary, Shorter Ending secondary]
 traditions_involved: [Evangelical Protestant, Historical-critical, Textual criticism, Roman Catholic, Eastern Orthodox]
 resolution_status: open
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [controversy, new-testament, mark, textual-criticism, canon, ending, resurrection]
 ---
 
@@ -17,6 +17,8 @@ The gospel as transmitted exists in three forms:
 **1. Ending at 16:8**: The women flee the empty tomb and "said nothing to anyone, for they were afraid" (ἐφοβοῦντο γάρ). This is the text found in **Codex Sinaiticus (א)** and **Codex Vaticanus (B)** — the two oldest and most reliable manuscripts of the Greek NT (4th century CE). It is also supported by Clement of Alexandria and Origen, who appear to know no text of Mark beyond 16:8.
 
 **2. The Longer Ending (16:9-20)**: Found in the majority of later manuscripts, including Codex Alexandrinus (A), Codex Bezae (D), the Byzantine manuscript tradition, and most of the Western tradition. It is attested from the early second century (Justin, Tatian's Diatessaron, Irenaeus explicitly cites 16:19). The vocabulary, grammar, and style are markedly different from the rest of Mark. The content appears to draw on material from Matthew, Luke, and Acts: Mary Magdalene's appearance (cf. Luke 8:2; John 20:14-18); the road to Emmaus (cf. Luke 24:13-35); the Great Commission with signs (cf. Matt 28:18-20 + Acts); the ascension (cf. Acts 1:9-11; Luke 24:51).
+
+Further manuscript detail from France's Appended Note (NIGTC, 2002): Eusebius and Jerome state that the Longer Ending was absent from the majority of Greek MSS known to them, and the earliest form of the Eusebian canons (from Ammonius) made no provision for text beyond 16:8. Some minuscules (f1, 22, etc.) include the Longer Ending but flag its doubtful status with marginal signs. The fifth-century Codex W inserts an additional 89-word passage (the "Freer logion") at 16:15 — a dialogue on the ending of Satan's power that Metzger (as France reports) calls of "obvious and pervasive apocryphal flavour"; Jerome knew the same words from some Greek MSS. France's literary verdict on 16:9-20: a "pastiche of elements drawn from the other gospels and Acts" with a "secondhand flavour," whose only distinctive contribution is the expectation of snake-handling and poison-drinking as regular signs (v. 18).
 
 **3. The Shorter Ending**: A brief alternative ending found in a few manuscripts (usually following 16:8 or between 16:8 and the Longer Ending): "They reported briefly to Peter and those around him all that they had been told. And afterwards Jesus himself sent out through them, from east to west, the sacred and imperishable proclamation of eternal salvation." Almost universally recognized as a later patchwork designed to supply a missing conclusion.
 
@@ -32,7 +34,7 @@ The majority position in contemporary NT scholarship. The gospel was designed to
 - Is consistent with Mark's literary technique of leaving loose ends that the reader must resolve
 - Makes 16:8 (with its unexplained verb ending the sentence, ἐφοβοῦντο γάρ — literally "for they were afraid," ending with *gar*) into an intentional stylistic shock
 
-Proponents include N. T. Wright, John Dominic Crossan (from different theological angles), and much of the literary-critical guild.
+Proponents include N. T. Wright, John Dominic Crossan (from different theological angles), and much of the literary-critical guild. France traces this majority position to R. H. Lightfoot's 1950 study and suspects the "modern swing of opinion" owes as much "to a change in twentieth-century literary fashion" as to better understanding of Mark's world. In the 2002 commentary he surveys and rejects the main literary defences of an intended 16:8 ending (Wedderburn, Magness, Tolbert, Kermode, Petersen, Danove, Lincoln) as presupposing "an inappropriately 'modern' understanding of literary technique."
 
 ### Position 2: The Original Ending Has Been Lost (France's Position)
 
@@ -46,11 +48,11 @@ France argues 16:8 is *not* the intended ending, on several grounds:
 
 4. **Physical accident explains the data**: The loss of the last leaf of a scroll or the last leaf of a codex gathering is a well-attested phenomenon in ancient manuscript transmission. The uniformity of the gap in all surviving manuscripts requires an early loss — before the manuscript tradition branched — not deliberate truncation.
 
-France's conclusion: the original ending narrated the Galilee appearance(s), consistent with 14:28 and 16:7, and consistent with what Matthew 28:16-20 records. This ending was lost, probably within the first generation of manuscript copying.
+France's conclusion (2002, in his own words): he sides "with the increasingly unfashionable minority who find an intentional ending at 16:8 an unacceptably 'modern' option." He allows two mechanisms — the ending "was never written because of adverse circumstances, illness, or death," or it "was written but then either accidentally lost or deliberately removed" — and declines to adjudicate: "We simply do not know, and there seems no point in speculating" (though he notes scroll-end damage is "a fact of classical textual criticism," citing Gundry). On the stylistic objection that a book cannot end in γάρ, France judges it inconclusive (LXX parallels at Gn. 18:15; 45:3): the real abruptness lies "not primarily in the stylistic form of its final sentence, but in the 'unfinished' nature of its contents." His "reasonable guess (it can be no more)" is that the intended or lost ending paralleled Matthew's: the women's silence overcome — on Gundry's "least unsatisfactory" reading, by a meeting with Jesus himself underlying Mt. 28:9-10, the disobedience "overriden by the force majeure of the command of Jesus" — the message delivered, and a Galilean reunion fulfilling 14:28 and 16:7. That Matthew's ending was actually based on Mark's lost ending he calls "perhaps to push conjecture to the limits." He also finds the women's total silence in 16:8 itself the truly "inexplicable" element: "for Mark to build up so carefully the women's unique role as the first witnesses … only to knock it down in his final sentence by insisting on their complete silence seems bizarre." France records G. W. Trompf's alternative theory that a second-century "second edition" with 16:9-20 displaced all copies of the original ending.
 
 ### Position 3: The Longer Ending Is Original
 
-A minority position with some pre-critical support (Irenaeus, the Byzantine tradition). Almost no modern critical scholars accept it, given the clear differences in vocabulary and style. The presence of a double bracket in critical editions reflects the near-unanimous rejection.
+A minority position with some pre-critical support (Irenaeus, the Byzantine tradition). Almost no modern critical scholars accept it, given the clear differences in vocabulary and style. The presence of a double bracket in critical editions reflects the near-unanimous rejection. France names W. R. Farmer's defence of 16:9-20's authenticity as the lone serious recent exception, noting that it coheres with Farmer's Griesbach (Matthean-priority) source theory.
 
 ### Position 4: The Shorter Ending Is Original
 
@@ -72,5 +74,6 @@ The controversy matters for several reasons:
 
 - [[mark|Gospel of Mark]] — the text page for Mark; primary locus
 - [[rt-france|R. T. France]] — France's NIGTC Mark (2002) articulates Position 2 in detail
+- [[france-mark-nigtc|France, The Gospel of Mark (NIGTC)]] — source page for the 2026-07-18 full re-ingest grounding this page's France material
 - [[matthew|Gospel of Matthew]] — Matt 28:16-20 (the Galilee appearance France sees as the content of the lost ending)
 - [[apocalyptic-literature|Apocalyptic Literature]] — the "open ending" debate intersects with questions about Mark 13's eschatological structure

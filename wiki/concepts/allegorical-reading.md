@@ -2,8 +2,8 @@
 title: Allegorical Reading
 domain: hermeneutics
 traditions_using: [Judaism, Christianity, Islam, Greco-Roman]
-sources_ingested: 3
-last_updated: 2026-06-09
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [concept, hermeneutics, allegory, interpretation, cross-tradition]
 ---
 
@@ -70,6 +70,8 @@ literal sense impossible (so divine corporeality is allegorized, but the creatio
 literal because [[eternity-of-the-world|eternity]] is undemonstrated — Guide II:25). This
 disciplined, demonstration-gated allegoresis parallels the Islamic *[[zahir-batin|batin]]* he
 inherited from [[al-farabi|al-Farabi]] and [[avicenna|Avicenna]].
+
+**Zoharic Midrash ha-Ne’lam (Pritzker Vol. X, Wolski):** Wolski attributes to this earliest Zoharic stratum “one of the high points, if not the high point, of medieval Jewish philosophical allegory.” Body densification (standards reingest 2026-07-18): patriarchal narrative as **soul’s career** — Abram=soul, Sarai=body, Lot=evil impulse; Melchizedek/Michael vs Hell’s prince; Isaac/Rebekah as soul + resurrected body; Laban as refined impulse — alongside proto-kabbalistic midrash (not full sefirotic Sod). Source: [[wolski-zohar-pritzker-vol10|Wolski Pritzker Vol X]]; see [[zohar|The Zohar]] Vol. X, [[zoharic-afterlife|Zoharic Afterlife]], [[nathan-wolski|Nathan Wolski]].
 
 ### Christian — Theoria and Allegoria
 [[origen|Origen]], building on [[philo-of-alexandria|Philo]] and

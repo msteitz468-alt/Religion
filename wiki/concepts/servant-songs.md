@@ -2,8 +2,8 @@
 title: Servant Songs / Suffering Servant
 domain: theology / Christology / messianism / prophecy
 traditions_using: [Judaism, Christianity]
-sources_ingested: 2
-last_updated: 2026-06-06
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [concept, isaiah, servant-songs, suffering-servant, messiah, atonement, christology, prophecy, new-testament]
 ---
 
@@ -97,6 +97,22 @@ The Servant Songs have generated three major interpretive categories:
 
 **Oswalt's "both/and" formulation**: The Servant is not merely an individual replacing the collective Israel; the relationship is circular. God calls Israel to servanthood (chs. 40-48); Israel cannot realize that calling (ch. 48); the Servant takes what Israel is called to be and fulfills it vicariously (chs. 49-53); as a result, Israel can become what she was called to be (chs. 54-66; see 54:17). The circle: Israel → Servant → Israel-as-servant.
 
+### Oswalt's scholarship map (vol. 1 Introduction §IX.C)
+
+In the chs. 1–39 Introduction Oswalt frames the identity question through Christopher North
+("still perhaps the most useful study"), whose four positions are: historical individual,
+mythological, messianic, collective. Oswalt judges the historical-individual proposals
+failures ("have only their original proponent in support") and the mythological reading
+impossible because "the OT writers never made use of ancient Near Eastern myth as their
+neighbors did." He then prefers H. H. Rowley's modification of North — Rowley rejects the
+label "messianic" (denying identification with the Davidic king of chs. 9 and 11) and
+stresses "fluidity in moving back and forth between the collective and the individual" —
+and coins his own figure: "a circle where the movement is from the circumference to the
+center and back again… the answer to the question of the Servant's identity is a resounding
+'both-and.'" He also notes the Christian identification is "as old as Philip's exposition to
+the Ethiopian eunuch," and that "sober commentators at least as far back as Calvin"
+dismissed the Church-as-new-Israel referent.
+
 ### 4. Jewish Interpretive Tradition
 
 Jewish tradition before the destruction of the Temple (70 CE) shows evidence of messianic readings of Isaiah 53 (Targum of Jonathan, some Dead Sea Scrolls fragments). After 70 CE and especially after the Christian appropriation of ch. 53, the dominant rabbinic interpretation became collective — the Servant as the suffering people of Israel. This is the dominant Jewish reading today, though it faces the same internal textual problems as the collective interpretation above.
@@ -133,6 +149,40 @@ later Christian thought (R. P. Martin) — and it rests on Peter's distinctive h
 Christology thus enters the wiki not only as Isaiah's revelation (Oswalt) but as Peter's apostolic
 appropriation.
 
+### The Servant in Mark (France, NIGTC Mark, 2002)
+
+*Added 2026-07-18 from the fidelity reingest of [[france-mark-nigtc|France's NIGTC Mark]]. All
+interpretive claims are [[rt-france|France]]'s.*
+
+France reports and endorses R. E. Watts (*Isaiah's New Exodus and Mark*) as having "convincingly
+demonstrated that Isaiah plays a more dominant role within Mark's use of the OT than previous
+scholarship has recognised." His specific Servant claims for [[mark|Mark]]:
+
+- **The baptismal voice (1:11)** combines Ps 2:7 (Davidic-messianic sonship) with Isa 42:1 (the
+  Spirit-endowed nonviolent servant), the combination grounding "the paradox of a suffering,
+  unrecognised Messiah." He rejects Jeremias's derivation of the whole from Isa 42:1, and —
+  reporting Hooker's challenge to a unified "servant figure" and Juel's mediating position —
+  concludes it is "wiser ... to speak here not of a designation of Jesus as 'the Servant' ...
+  but rather of two contrasting strands in Jewish messianic thought which are here brought
+  creatively together."
+- **The source of the passion predictions.** Since Dan 7's figure is victorious, France
+  reaffirms his long-held position (against attempts to minimise it) that Isaiah 53 is "by far
+  the most probable source of Jesus' conviction that he must suffer and die" (on 8:31), with
+  Pss 22 and 69, Zech 9–14, and Ps 118:22 as supporting pointers; he also notes each Roman
+  action in the third prediction (10:33-34) is paralleled in the Isaianic servant's sufferings.
+- **The ransom saying (10:45)** contains, France argues, a "compelling" accumulation of verbal
+  echoes of Isa 53:10-12 — the giving of the ψυχή, λύτρον ἀντί approximating the *ʾāšām*, the
+  "many" (*rabbîm*). He quotes Cullmann: "It is as if Jesus said, 'The Son of Man came to fulfil
+  the task of the ʿebed Yahweh,'" and defends the position against Barrett and Hooker. See
+  [[son-of-man|Son of Man]].
+- **The cup word (14:24).** "My blood of the covenant ... poured out for many" carries a triple
+  allusion — Exod 24:8, Zech 9:11, and Isa 53:11-12: τὸ ἐκχυννόμενον ὑπὲρ πολλῶν "vividly
+  recalls the language of the final section of the prophecy of the suffering Servant of Yahweh
+  in Is. 53," echoing 10:45.
+- **Passion narrative echoes.** France traces Ps 22 (and Ps 69) echoes through the Golgotha
+  narrative (15:24, 29, 34, 36) assuring the reader that events are "even in detail, 'according
+  to scripture'"; the spitting and striking of 14:65 echo Isa 50:6 (the third Song).
+
 ### Patristic and Medieval
 
 The Servant was almost universally read Christologically from Justin Martyr onward. The "arm of the LORD" (53:1) was applied to the divine-human nature of Christ; the *ʾāšām* (53:10) grounded theories of satisfaction atonement (Anselm). Bernard of Clairvaux preached the Servant's passion extensively. Aquinas distinguished the "merit" of Christ's suffering (satisfying divine justice) from its "efficacy" (producing justification).
@@ -151,6 +201,9 @@ The Servant was almost universally read Christologically from Justin Martyr onwa
 1. [[john-oswalt|Oswalt, John N.]]. *The Book of Isaiah: Chapters 1–39*. NICOT. Grand Rapids: Eerdmans, 1986.
 2. [[john-oswalt|Oswalt, John N.]]. *The Book of Isaiah: Chapters 40–66*. NICOT. Grand Rapids: Eerdmans, 1998.
 3. [[karen-jobes|Jobes, Karen H.]]. *1 Peter*. BECNT. Grand Rapids: Baker Academic, 2005. (For the NT/Petrine appropriation of Isa. 53.)
+4. [[rt-france|France, R. T.]]. *The Gospel of Mark*. NIGTC. Eerdmans, 2002 — see
+   [[france-mark-nigtc|source page]]. (For the Marcan appropriation: 1:11; 8:31; 10:45; 14:24.)
+   Ingested 2026-07-18.
 
 ## Related Texts
 

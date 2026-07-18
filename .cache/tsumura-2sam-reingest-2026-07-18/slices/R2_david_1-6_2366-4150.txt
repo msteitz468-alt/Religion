@@ -1,0 +1,1785 @@
+V. “STORY OF KING DAVID” (1:1–20:26)
+
+
+STORY OF DAVID’S REIGN (1:1–12:31)
+
+
+A. DEATH OF SAUL (1:1-27)
+
+
+From here the history of the early Israelite monarchy moves into the second stage, the era of King David. The narrator first directs our attention to the end of Saul’s life, his death and that of his sons at Mount Gilboa (1 Sam. 31). This episode emphasizes David’s grief, especially as expressed in his elegy, but the deaths of the king and his heir are in fact a step toward David’s kingship. Literarily and discourse grammatically, this section (a: 2 Sam. 1) functions as a LINK between the “Story of Saul and David” (A: 1 Sam. 16–31) and the “Story of King David” (B: 2 Sam. 1–20). In other words, the present section is “a” of the A/aB pattern (“transitional technique”).1
+
+Since not only Saul but his three sons died (though we are later informed that another son is alive), the question as to his successor is implicitly raised. But Saul’s regalia are brought to David without his intervention, by a person acting completely on his own. The narrator presents the whole progress of events as the providential act of God.
+
+1. Report of Saul’s Death (1:1-16)
+
+David in Ziklag hears of the death of Saul. But instead of rejoicing, he mourns and kills the man who claims to have killed Saul. His elegy (vv. 17-27) shows his deep personal grief over the deaths of both Saul and Jonathan.
+
+a. The Amalekite’s Report (1:1-10)
+
+1 After the death of Saul, when David had returned from attacking Amalek, David stayed in Ziklag for two days.
+
+2 On the third day, a man came from the camp where Saul was,2 with his clothes torn and with dirt on his head.
+
+When he came to David, he fell to the ground and bowed.3
+
+3 And David said to him,
+
+“Where have you come from?”
+
+And he said to him,
+
+“I have escaped from the camp of Israel.”
+
+4 And David said to him,
+
+“What happened?
+
+Tell me!”
+
+And he said,
+
+“Because the people fled from the battle and many of the people fell and died.4
+
+Saul and his son Jonathan are also dead.”
+
+5 And David said to the young man who was telling him this,
+
+“How do you know that Saul and his son Jonathan are dead?”
+
+Verse 1 follows after the events of 1 Sam. 30; David is back at home in Ziklag. In v. 4 the man, an Amalekite (v. 8), reports the events of 1 Sam. 31. Since he arrived on the third day after David’s return to Ziklag, David had probably arrived home around the day that Saul died.
+
+1After the death of Saul. This way of beginning a new section is very common; verse 1a is a good example of a LINK between the previous two episodes (A: 1 Sam. 30 and 31) and the following one (B: 2 Sam. 1:1-16) in the pattern of A/aB, just as the entire chapter 1 (a) is a LINK between the “Story of Saul and David” (A) and the “Story of David” (B), as noted above.
+
+This verse illustrates the multidimensional reality of life as against the monodimensional nature of linguistic description.5 David had been back for two days after his attack on Amalek. During this time the Amalekite had been running from Gilboa to Ziklag. Since it probably would have taken him two full days to cover the distance — some 100-112 miles (160-180 km) — David probably had arrived in Ziklag around the day of the battle. The Amalekite must have taken Saul’s diadem and armlet before “the next day” (1 Sam. 31:8), when the Philistines came to strip the slain.
+
+The word order, waw+David šāb (pf.), signifies simultaneity; hence when David had returned. If it meant “After the death of Saul, David returned from” (NIV, Bergen),6 the Hebrew sentence would have a different word order and structure such as *wayyāšob (wayqtl) Dāwīd.
+
+Through all these details the narrator makes it clear that David was not involved in the death of Saul and his sons, especially Jonathan, even though he was a Philistine vassal at that time.
+
+2On the third day, a man comes running to Ziklag with the “good” news, which ends up causing the death of its bearer. On the similarity in narrative pattern between this episode and the messenger’s reporting the defeat of Israel to Eli, see on 1 Sam. 4:12-17.7 Torn clothes and dirt on one’s head are expressions of extreme grief; see also 2 Sam. 13:19; 15:32 and the commentary on 1 Sam. 4:12.8 If this man is lying (see below), his gestures with his clothes torn and with dirt on his head may have been planned “to lend dramatic weight to his story.”9
+
+3–4First, David asks him where he came from. Then he asks: What happened? (lit. “what was the word/matter” = 1 Sam. 4:16). The man begins his answer with ʾăšer; lit. “that.”
+
+It has been debated whether ʾăšer here introduces a direct quotation10 or indirect speech (JPS). However it is probably the first word in the direct speech, meaning “because,” and exhibits some degree of hesitancy, as in 1 Sam. 15:20: “Because (ʾăšer) I listened to the voice of the Lord, I went on the mission on which the Lord sent me.” Like Saul, this man is reluctant to answer straightforwardly.11 Hence, because is here not a matter of cause and effect; rather, it has a metalinguistic function, making an excuse for his answer, like a speaker-oriented kî, which explains the reason for the preceding words.12
+
+5The term young man here refers particularly to a “young fighting man,” that is, a soldier. For the broader meaning of naʿar, see the comments on 1 Sam. 9:3;13 2 Sam. 2:14; 19:17.
+
+6 And the young man who was telling him this said,
+
+“I happened to be on Mount Gilboa.
+
+There was Saul leaning on his spear;
+
+then the chariots and the cavalry were closing in on him.
+
+7 And he turned around and saw me and called to me.
+
+And I said,
+
+‘Here I am.’
+
+8 And he said to me,
+
+‘Who are you?’
+
+And I said14 to him,
+
+‘I am an Amalekite.’
+
+9 And he said to me,
+
+‘Stand by me and kill me,15
+
+for anguish has seized me
+
+because all my life is still within me.’
+
+10 So I stood by him and killed him,
+
+for I realized that he would not live after his falling.16
+
+And I took the diadem that was on his head
+
+and the armlet17 that was on his arm
+
+and brought them to my lord here.”
+
+6–10This account of Saul’s death contradicts that in 1 Sam. 31:3-5. There he fell on his own sword; here the Amalekite kills him. This discrepancy is most easily explained by assuming that the soldier lied in order to gain favor with David. Note also that in 2 Sam. 4:10 David does not say that the man had killed Saul, but just that he had brought the news.18 Saul had destroyed most of the Amalekites (1 Sam. 15), but as this man was the son of a sojourner (v. 13), it is not surprising he was in Israel.
+
+6For Mount Gilboa, see the commentary on 1 Sam. 28:4, 31:1.19
+
+Chariots (rekeb; see on 1 Sam. 8:11)20 were the most important weapons of the Philistine army, but were ineffective in the mountains. Saul had apparently retreated from the plains of Jezreel into the mountainous area of Gilboa to escape them, so the young man’s report that the chariots . . . were closing in on him is probably a fictional embellishment.
+
+The term cavalry (baʿălê happārāšîm) is literally “the owners of the horses/horsemen.” Since this expression “is unparalleled,” Wellhausen, followed by many scholars, omits baʿălê and takes happārāšîm as “horsemen.” However, pārāš can mean either “military horse” or “horseman,”21 and the LXX supports the MT’s longer reading.22 Thus, the MT phrase baʿălê happārāšîm as it stands most likely means cavalry.
+
+8It is surprising that the man confessed his background both to Saul, who had destroyed many of the Amalekites (1 Sam. 15), and to David, who had just come back from warring with them. The Amalekites are the archetypal plunderers in biblical tradition; see on 1 Sam. 14:48; 15:2.23
+
+9The term šābāṣ for anguish (so ESV) is a hapax legomenon, the exact sense of which is uncertain; cf. “convulsions” (NRSV), “the throes of death” (NIV, REB); see HALOT, p. 1402: a) “dizziness, trembling”; b) “weakness.”
+
+The word order of the expression because all my life is still within me (kî-kol-ʿôd napšî bî) is unusual; lit. “because all still of my life in me”; see Job 27:3 (BDB, p. 482). McCarter holds that two variant readings are combined here, ky kl npšy by and ky ʿwd npšy by, and that kl in the MT “must be read adverbially: ‘yet still my life is wholly within me’ (cf. GKC (2) §128e).” He translates: “yet there is life in me still,” which reflects the second variant.24 However, this unusual word order might be an example of the AXB pattern, in which X (“still”) is inserted between AB (“all my life”), thus interrupting a normal sequence A-B while still modifying the phrase AB as a whole.25
+
+10The diadem and the armlet are the royal insignia; the former was an emblem worn on the forehead, given to the king at the time of his coronation (2 K. 11:12, etc.). The armlet is mentioned as an ornament in Num. 31:50.26
+
+b. David’s Response (1:11-12)
+
+11 And David seized his clothes and tore them; so did also all the men who were with him.
+
+12 And they lamented and wept and fasted till evening over Saul and his son Jonathan and over the people of the LORD and over the house of Israel, for they fell by the sword.
+
+11–12When David heard this man’s report, he and all his men lamented (*spd; see on 1 Sam. 25:1),27 by tearing their clothes (see above on v. 2) and fasting, a sign of mourning, as in 1 Sam. 31:13 and 2 Sam. 3:35. The evening was the end of the day; see Judg. 20:26 and 1 Sam. 14:24. The law often refers to uncleanness “till evening” (Lev. 11:24, etc.).
+
+After this summary statement (v. 12), the story resumes the actual dialogue between David and the young man who brought this news.
+
+c. Death of the Amalekite (1:13-16)
+
+13 And David said to the young man who was telling him this,
+
+“Where are you from?”
+
+And he said,
+
+“I am the son of a sojourner, an Amalekite.”
+
+14 And David said to him,
+
+“How were you not afraid of extending your hand
+
+to destroy the LORD’s anointed?”
+
+15 And David called one of the servants and said,
+
+“Go near and strike him down!”
+
+And he struck him, and he died.
+
+16 And David said to him,
+
+“Your blood be on your head!
+
+For your mouth has testified against28 you by saying
+
+‘I have killed the LORD’s anointed.’ ”
+
+13When David asked the young man’s background, he introduced himself as a sojourner, the Amalekite. The legal status of a “sojourner” (or “a resident alien”) gēr was distinguished from that of a foreigner (nēkār). He had a special status both with privileges and with responsibilities. He was protected by the community law, but at the same time bound by legal obligations and penalties as described in Lev. 24:22; cf. 20:2; 24:16; etc.
+
+14–16One may wonder if the order of these verses is confused, seeing that v. 16 is addressed to one who died in v. 15. It may be that this section follows the AXB pattern, in which David’s speech from v. 14 to v. 16 is interrupted by the insertion of v. 15. Such an insertion is not accidental, for And David said to him is repeated both in v. 14 and v. 16. It may be that David’s words were deliberately given at the end of the section in order to emphasize this man’s testimony that he killed the LORD’s anointed.
+
+14As a sojourner who was subject to the laws of Israel, the Amalekite should have recognized the sanctity of Saul as his king — contrast Saul’s armor-bearer (1 Sam. 31:4). David himself had earlier refrained from killing Saul, saying he was the LORD’s anointed; see on 1 Sam. 24:6; 26:9;29 also 2 Sam. 19:21 (MT 22).
+
+16The expression Your blood be on your head means that “you, not I, are responsible for your own death”; see Josh. 2:19; 1 K. 2:32-33, 37; Ezek. 33:4.
+
+2. David’s Elegy for Saul and Jonathan (1:17-27)
+
+David’s lament is a wonderful expression of public and personal grief. It expresses his heartfelt sorrow for the deaths of both Saul and Jonathan, for both the one who sought his life and the one who helped him with love and friendship. David accepts both of their relationships with him as God-given.
+
+a. Title (1:17-18)
+
+17 And David chanted this elegy30 for Saul and his son Jonathan:31
+
+18 To teach the sons of Judah the bow. (It is written in the Book of Jashar.)
+
+17This elegy (qînāh) is said to have been preserved in the Book of Jashar, a prebiblical written source that also included Josh. 10:12-13, and according to the Septuagint text, Solomon’s poem in 1 K. 8:12-13.
+
+Most modern translations interpret the Bow as the name of the lament’s tune (NRSV, JPS, NIV, ESV, etc.), but this is pure speculation.32 However, it may be that To teach the sons of Judah the bow (lelammēd benê-Yehûdāh qāšet) is a heading referring to how this elegy was used, like the heading of Ps. 60, “A Miktam of David; for instruction.” This elegy was possibly used in connection with military training in fighting with the bow and other weapons, as is suggested by the use of miktam in Pss. 16 and 56-59.33 Certainly, Saul and Jonathan were ideal heroes who would be emulated by Israelite soldiers.
+
+For the expression chanted an elegy (*qyn, Polel with a cognate accusative qînāh), see also 2 Sam. 3:33. Note that the motif of “the mourning for a dead hero by his surviving comrade” occurs in the Odyssey where Achilles mourns for Patroclus34 as well as in the Gilgamesh epic (VIII 1-45) where Gilgamesh mourns for Enkidu.35
+
+18wayyōʾmer here has been interpreted in two ways:
+
+(1) “And ordered (to do . . .)” as in the NIV and NRSV.
+
+(2) “Saying,” as a formula introducing the elegy itself like in 2 Sam. 22:2 (= Ps. 18 heading; see the commentary on that verse) and several Egyptian hymns and songs, which is how the NRSV takes it. Klostermann holds that “everything after wayyōʾmer must originally have been part of the poem.”36
+
+Another possibility, however, is that the verbal sequence “chanted . . . and said” is an example of the pattern, verbal action+ “and said,” as mentioned in the Introduction of The First Book of Samuel.37
+
+b. Elegy (1:19-27)
+
+19 “How the prince, O Israel, was slain on your high places;
+
+how the warriors have fallen!
+
+20 Tell it not38 in Gath,
+
+bring not the tidings to the streets of Ashkelon,
+
+lest the daughters of the Philistines rejoice,
+
+lest the daughters of the uncircumcised exult!
+
+21 O mountains in Gilboa and fields of the heights,
+
+let there be no39 dew and no rain upon you!
+
+For there was defiled the shield of the warriors;
+
+the shield of Saul was not anointed with oil.
+
+22 Without the blood of the slain, without the fat of the warriors,
+
+Jonathan’s bow turned40 not41 back
+
+and Saul’s sword returned not empty.
+
+23 Saul and Jonathan, the beloved and charming,
+
+in life and in death they were not separated.
+
+They were swifter than eagles; they were stronger than lions!
+
+24 O daughters of Israel, weep for Saul
+
+who dressed you in scarlet with luxuries,
+
+who put a golden ornament over your cloth!
+
+25 How the warriors have fallen
+
+in the midst of the battle;
+
+how Jonathan was slain on your high places!
+
+26 I grieve for you,42 my brother Jonathan;
+
+you were so good to me.
+
+Your love was wonderful43 to me,
+
+more than the love of women.
+
+27 How the warriors have fallen
+
+and perished, by the weapons of war!
+
+The elegy itself, vv. 19-27, begins with a reference to Saul as “the prince” of Israel and ends by expressing David’s very personal feelings toward his “brother” Jonathan. Literarily, it constitutes a unified whole with the repetition of key words and the refrain, as well as with a number of word pairs. It addresses first Israel, then the mountains of Gilboa, the daughters of Israel, his brother Jonathan, and finally it laments the fallen warriors Saul and Jonathan. The reverse of the order of the word pair from Jonathan – Saul (v. 22) to Saul – Jonathan (v. 23) indicates a change of emphasis. However, it ends with the refrain How the warriors have fallen! mourning both of them.
+
+There is no reason to doubt Davidic authorship of this elegy, for the poem could hardly have been composed apart from the present context.44
+
+19How the warriors have fallen! (ʾêk nāpelû gibbôrîm), repeated in v. 25 and the final v. 27, is the theme that echoes throughout the elegy. Verses 19 and 25 are an inverted distant parallelism that form an “envelope” (inclusio). That is, v. 19a (“the prince was . . . slain on your high places”) is parallel to v. 25c (“Jonathan was slain on your high places”), while v. 19b (“How the warriors have fallen”) is repeated in v. 25a. Though both v. 19b and v. 25a start with the word “how” (ʾêk), v. 19a and v. 25c do not. However, the parallelisms between v. 19a and b and v. 25a and c suggest that “how” is implied in all four lines.
+
+Your high places, “your” meaning Israel, is in both verses 19 and 25, while the prince (haṣṣebî) in v. 19, referring to Saul, is replaced by Jonathan in v. 25. Prince literally means “gazelle”; cf. the translations “your glory” (NIV; JPS; NRSV); “your beauty” (NASB). Designating notable people as cattle can be seen also in expressions such as Ug. “gazelle” (ẓby) // “bull” (ṯr) in the Keret Epic (KTU 1.15 IV 6-7, 17-18).45
+
+The term high place (bāmāh) referred originally to “the swell of the rib cage of a human being or animal” and later to “back, flank” or “high place, ridge, hill-flank.”46 For the religious meaning of this term in the OT, see the commentary on 1 Sam. 9:12;47 also see 2 Sam. 22:34.
+
+20Gath and Ashkelon were two major Philistine cities. For Gath, see the commentary on 1 Sam. 5:8; it is probably modern Tel eṣ-Ṣâfī.48 For Ashkelon, see the commentary on 1 Sam. 6:17.49 David cannot bear to think about the Philistine victory celebrations. Compare the Israelite women rejoicing in 1 Sam. 18:6-7.50
+
+The first line Do not tell it in Gath seems to be too short; we would expect some phrase like “the streets of” (ḥûṣōt) before Gath. As it stands, the two lines are scanned as 2 [6] // 3 [11]. However, all the texts read bgt.
+
+In this verse, the expression “the uncircumcised Philistine(s),” which appears in Judg. 14:3 and 1 Sam. 17:26, 36, is divided into a parallel word-pair, the Philistines - the uncircumcised.51 The word pair rejoice (śmḥ) - exult (ʿlz) also appears in Jer. 50:11; Zeph. 3:14.
+
+21The first half of this verse (21a)
+
+hārê bagilbōaʿ
+
+ʾal-ṭal weʾal-māṭār ʿălêkem
+
+ûśdê terûmōt
+
+is usually translated as
+
+You mountains of Gilboa,
+
+let there be no dew or rain upon you,
+
+nor fields of offerings! (ESV)
+
+The phrase O mountains in Gilboa (hārê bagilbōaʿ) is literally “mountains-of in Gilboa,” with a cstr. noun followed by a prepPh; this is an unusual, but not impossible construction.52 The third line ûśedê terûmōt has been variously emended,53 though it is generally agreed that it is part of the curse of drought. Instead of emending the text, however, or using the traditional interpretation “offerings” (BDB; cf. HALOT) for terûmōt, I would suggest “heights,” based on the verbal root *rwm, “to be exalted, be high” (also Freedman, Dahood, Shea, Firth, etc.).
+
+Most translations take the first line as vocative and the second and third as a bicolon within a tricolon and supply a “nor” in the third line as parallel to “no dew or rain,” as in ESV. However, such a scansion seems very awkward. It is more likely that śedê terûmōt “fields of heights”54 in the third line is parallel to mountains of Gilboa in the first line and refers to the fields on Mt. Gilboa. It would possible to scan v. 21a as follows:
+
+hārê bagilbōaʿ ʾal-ṭal 3 [7] A x
+
+weʾal-māṭār ʿălêkem ûśdê terûmōt 4 [12] x′ &B
+
+However, since the parallelism between two lines would be rather unbalanced, it seems better to see here the AX&B pattern,
+
+hārê bagilbōaʿ A
+
+ʾal-ṭal weʾal-māṭār ʿălêkem X
+
+ûśdê terûmōt &B
+
+where A&B (mountains in Gilboa and fields of the heights) are broken up by the insertion of X (let there be no dew and no rain upon you), for the purpose of slowing the movement.55 In other words, the parallelism is underlyingly a well-balanced bicolon,
+
+hārê bagilbōaʿ ûśdê terûmōt 4 [11(?)] [A & B]
+
+ʾal-ṭal weʾal-māṭār ʿălêkem 3 [9] X
+
+O mountains in Gilboa and fields of the heights,
+
+let there be no dew and no rain upon you!
+
+where the two juxtaposed phrases [A & B] (line 1) are broken up by the insertion of the expression [X] (line 2). Thus the underlying bicolon is well balanced: 4 (11) // 3 (9). With this, the enigmatic “and” in front of “fields of the heights” presents no problem either grammatically or semantically.
+
+The expression no dew and no rain is virtually the same as the Ugaritic curse formula bl ṭl bl rbb “Let there be no dew /Let there be no rain” (KTU 1.19 I 44) pronounced by King Dan’il in the Aqhat Epic when he cursed the place where his crown prince was slain with “a sabbatical cycle of drought.”56 C. H. Gordon notes that it fits in with “the widespread idea that the slaying of a hero brings drought and famine on the scene of the tragedy. . .. The attitude and utterance of David . . . are plainly reflexes of the same tradition that gave rise to the Ugaritic Epic of Aqhat.”57
+
+For (v. 21b) functions as a speaker-oriented particle, which explains why David curses the mountains and fields.
+
+The line there was defiled the shield of the warriors is paralleled by the next line, the shield of Saul was not anointed with oil, that is, “not in proper condition,” as leather shields were treated with oil. The phrase not anointed does not refer to Saul, whom David repeatedly refers to as “anointed” (v. 16; also 1 Sam. 24:6, etc.). For shield, see also 2 Sam. 22:3. The two expressions, was defiled and was not anointed with oil, constitute the A, not B pattern, in which an idea is expressed by a word and its “negated antonym”; the two lines constitute a chiasmus. The Ni. of this verb appears only here; “be defiled”; “is begrimed.” For the practice of anointing leather shields in Mesopotamia, see Millard.58
+
+McCarter reads warriors (MT) as “warrior” (sg.) + enclitic mem and interprets it as referring to Saul.59 However, in v. 19 the plural noun “warriors” also appears in parallel to “prince,” which refers to Saul. Hence, v. 19 and v. 21b form an inclusio, with the key terms in order of abba, i.e., “prince” (sg.) - “warriors” (pl.) // “warriors” (pl.) - “Saul” (sg.).
+
+22Blood and fat are often used as a word pair to refer to the whole of a sacrifice (e.g., Exod. 23:18; Isa. 1:11; Ezek. 39:19). For Jonathan’s bow, see 1 Sam. 20:20. In this “internal parallelism”60 of two short half-lines, two kinds of word pairs are used; one (blood - fat) is merismatic, the other is a breakup of the phrase “slain warriors.” Hence, there is no need to emend ḥălālîm “the slain” to ḥayyālim “the valiant,” as Gevirtz does.61
+
+The second and the third lines constitute a synonymous parallelism, with Jonathan’s bow and Saul’s sword corresponding to each other.
+
+The preposition min in the first line usually means “from,” but it seems better to take is here as a privative, hence without. This would mean that the heroes’ weapons did not return empty, i.e., without slaying enemy warriors.
+
+23–27After the positive description of Saul and Jonathan as the beloved and charming in v. 23, the reader / audience is commanded positively, for the first time, to “weep” for Saul (v. 24). Then, after the refrain How the warriors have fallen in v. 25, the focus switches from Saul to Jonathan. Note that the paired expression, the prince (= Saul) - the warriors (v. 19), is replaced by the warriors - Jonathan in a chiastic order in v. 25.
+
+23“Saul and Jonathan” reverses the order of v. 22. While the third line certainly constitutes an “internal parallelism,” They were swifter than eagles // they were stronger than lions! the scansion in the first half of the verse poses a difficulty. The MT, followed by NASB and NIV, has the imbalanced parallelism: 2 (6) -3 (13) -2 (7).
+
+Šāʾûl wîhônātān
+
+hanneʾĕhābîm wehanneʿîmīm beḥayyêhem
+
+ûbmôtām lōʾ niprādû
+
+Saul and Jonathan
+
+in life they were loved and gracious,
+
+and in death they were not parted. (NIV)
+
+McCarter, after a long discussion of the LXX translators’ problem, concludes that MT originally had the longer reading of the LXX, but it was shortened by haplography. So, he reconstructs and translates v. 23a as:
+
+Saul and Jonathan! Beloved and charming!
+
+They were not parted in life.
+
+and in death they were not separated.62
+
+However, NRSV and JPS apparently analyze the verse as follows:
+
+Šāʾûl wîhônātān // hanneʾĕhābîm wehanneʿîmīm
+
+beḥayyêhem ûbmôtām lōʾ niprādû
+
+minnešārîm qallû // mēʾărāyôt gābērû
+
+This constitutes an elegant tricolon, which has two “internal parallelisms,” one in the first line, the other in the third. The balance would be: 2-2 // 3 // 2-2; or (6)-(10) // (11) // (6)-(7). I believe this is a convincing analysis, so I translate it as above:
+
+Saul and Jonathan, the beloved and charming,
+
+in life and in death they were not separated.
+
+They were swifter than eagles; they were stronger than lions!
+
+The term charming (neʿîmīm; lit. “the good ones”) is used here as a technical stock phrase for heroes (see on v. 26), as in Ugaritic nʿmm. The phrase in life and in death is a merismus, which means “all the time.” Since the Amalekite specified that “his son Jonathan” was dead, it appears that Saul continued to treat him as his heir. Apparently they were able to maintain a relationship, working together and eventually fighting and dying together for Israel.
+
+24The depiction of women wailing for the dead is common in Hebrew, Greek, and other literatures.63 David addresses here the women in Saul’s court, who had been treated luxuriously by Saul. Scarlet (šānî) cloth, made from the bodies of various kermes insects (Persian and Arabic qirmiz ‘crimson’ [HALOT]), was a sign of prosperity (Prov. 31:21).
+
+The root ʿdn of the term luxuries means primarily “to make abundant in water-supply” as with the case of “Eden” (Gen 2:8) and secondarily “to enrich, prosper, make luxuriant.” The cognate term appears in the Aramaic section of the bilingual Aramaic-Akkadian inscription from Tell Fekheriye as mʿdn mt kln // muṭaḫḫidu kibrāti “one who makes the whole land abundant in water-supply.”64
+
+“You” in the phrase “dressed you,” is masculine (2 m.pl.), despite the clear feminine referents, while “your” in the phrase “your cloth” is feminine plural. For the use of masculine pronouns for feminine nouns, see GKC, §135o, which explains this “inaccuracy” as “probably passed from the colloquial language.” This variation has been explained as an example of “gender neutralization,” which is a characteristic of the spoken Hebrew dialect.65
+
+25Here, warriors is paired with Jonathan, while in v. 19 and v. 21 it is paired with “prince” = “Saul.” The refrain How the warriors have fallen constitutes an inclusio with the first verse of this lament, and the order is chiastic.
+
+By mentioning Jonathan here David “effectually connects the Jonathan ‘afterthought,’ as Talmon describes it, to the main body of the poem.”66
+
+26The most personal grief is expressed in this verse, where David mourns his close friend.
+
+The term nʿm means “good” in a special way; this root appears in Samuel only in v. 23 (above) and 2 Sam. 23:1 (the minstrel of the songs of Israel) as an adjective, nāʿîm. Jonathan’s goodness to David was more than just human affection; Jonathan had been first attracted by David’s brave fight against Goliath and his trust on the Lord of Hosts. The quality of David’s faith was the same as that of Jonathan, who had expressed his complete trust on God in his attack on the Philistine garrison in 1 Sam. 14. Jonathan remained faithful to his covenant (see 1 Sam. 18:3; 20:8, 16, cf. 42) and even went and encouraged David in the wilderness of Horesh while David was hiding from Saul (23:15-18).
+
+Jonathan’s love (see on 1 Sam. 20:17) for David had not only “political overtones” (see McCarter on 20:17) but also refers to the warm personal intimacy between the two.67
+
+27The subject of the verbal pair, “to fall” and “to perish,” is the warriors. The first half is the refrain, which has already appeared in verses 19 and 25.
+
+Almost all translations take the parallel structure as a-b-c // b′-C′ and so interpret “weapons” as the subject of perished. However, the analysis a-b-c // b′-D′ seems to be better:
+
+ʾêk nāpelû gibbôrîm How have the warriors fallen
+
+wayyōʾbedû kelê milḥāmāh and perished, by the weapons of war!
+
+In the sequence [V1+V2] - AdvPh, the AdvPh can modify either V1 or V2. Therefore the phrase kelê milḥāmāh can mean either “(along) with the weapons of war” or “by the weapons of war” and can modify either “fallen” or “perished.” If it modifies “perish,” the sentence means: “How the warriors fell and perished (along) with the weapons of war!” as in Ezek. 32:27a (“who went down to Sheol with their weapons of war”). However, the expression “to fall by the sword” is such a common one that it seems more likely that by the weapons of war in the second line modifies vertically68 the verb have . . . fallen in the first line. 69
+
+
+
+
+
+B. KING DAVID (2:1–5:5)
+
+
+Judah makes David their king, while Saul’s general Abner seeks to restore Saul’s kingdom under Saul’s son Ishbosheth. However, during the struggle between the two kingdoms, Abner quarrels with Ishbosheth and decides to support David, but is killed by David’s commander Joab. Later, Ishbosheth is killed by two of his own men. With no candidate for king in the house of Saul, all of Israel unites to anoint the hero David as king.
+
+1. David, the King of Judah (2:1-11)
+
+a. David to Hebron (2:1-4a)
+
+David settles in Hebron, the central city of Judah, and there is crowned king of Judah. This is the first step toward the union of Judah and Israel under him.70
+
+1 Afterward David inquired of the LORD, saying
+
+“Shall I go up to one of the cities of Judah?”
+
+And the LORD said to him,
+
+“Go up!”
+
+And David said,
+
+“Where shall I go up to?”
+
+and he said,
+
+“To Hebron.”
+
+2 And David went up there along with his two wives, Ahinoam the Jezreelite71 and Abigail the widow72 of Nabal the Carmelite.
+
+3 As for his men who were with him, David brought them up, each with his household, and they dwelt in the cities of Hebron.73
+
+4a And the men of Judah came and there anointed David as king over the house of Judah.
+
+1–3With Saul no longer pursuing him and Ziklag burnt, David inquires of the Lord and moves to the Hebron area with his family and men.
+
+1The phrase inquired of (šʾl b-) is also used in 1 Sam. 10:22; 14:37; 30:8; etc.74 As in 23:2-4 and 10-12, David inquires of the Lord in two steps to make it certain that the Lord himself was guiding him; cf. 2 Sam. 5:19, 23. For the meaning of “to ask for,” see on 1 Sam. 1:28.75 We are not told how David inquired. Note that there might have been more than one method for inquiring of the Lord.76
+
+For Hebron [M.R. 159103], see on 1 Sam. 30:31.77 Hebron is the most important city of southern Judah. It was associated with Abraham (Gen. 13:18; 23:2; 25:10), was given to Caleb by Joshua (Josh. 14:13), and was a priestly city (Josh. 21:13).78
+
+David would naturally have considered Hebron as a good place to establish his home base, away from the Philistines and against the Saulide kingdom. Strategically, it was located on a ridge just twenty-five to thirty-one miles (40-50 km) from Ziklag. Politically, it was near his hometown of Bethlehem, and his wives were from the area. Thus, he could unite Judah and other southern clans such as the Calebites, Kenazites, Kenites, and Jerahmeelites (see 1 Sam. 30:29), and “probably the Cherethites in the western Negeb around Ziklag.”79
+
+But even though he may have already given thought to the matter, David inquires, “Where shall I go up to?” Perhaps this indicates his willingness to be led by the Lord’s word.
+
+2Even before he became king, David had two wives, Ahinoam and Abigail (1 Sam. 25:42-43). For them, this is a homecoming. Ahinoam is from Jezreel, and Abigail from Carmel (25:43; 25:3). For Carmel, see the commentary on 1 Sam. 15:12.80
+
+4aJudah apparently has decided that having a king is a good thing, but rather than seeking out a relative of Saul, they choose as king one of their own, the hero David, the chosen of the Lord (1 Sam. 16; 25:30). Even in Saul’s time, Judah formed a separate part of the army (11:8; 15:4), so it was prepared to act independently from the rest of the country.
+
+The phrase men of Judah (ʾanšê Yehûdāh) probably refers to “the elders of Judah” (ziqnê Yehûdāh) (1 Sam. 30:26), just like “the men of Israel” (8:22; cf. “the elders” in v. 4) and “all the men of Jabesh” (11:1; cf. v. 3) which refer to the elders. As McCarter notes, they are “the leading citizens of the towns of Judah and are empowered, it seems, to act officially on behalf of the people of Judah, who constitute, we must assume, some kind of organized and at least partially independent political body.”81
+
+David is here officially anointed as a king over the house of Judah. In 1 Sam. 16:1, 13 he was anointed by Samuel to become the future king over “Israel,” which presumably included Judah, and now we have the first step in actualizing his monarchy. In this passage there is no mention of a prophet. Similarly, in 2 Sam. 5:3, the leaders of the people request David to become their king.
+
+This is the first occurrence of the phrase the house of Judah in the Bible. Compare “the house of David” (bêt dāwīd) in 1 Sam. 20:16 and 2 Sam. 3:1, 6, as well as in the late-ninth-century Tell Dan inscription written in Aramaic, which is the earliest attested extrabiblical document that mentions the name David.82
+
+b. David and Jabesh-gilead (2:4b-7)
+
+4b When David was told83 that84
+
+the men of Jabesh-gilead were those who85 buried Saul,
+
+5 86David sent messengers to the men of Jabesh-gilead and said to them,
+
+“May you be blessed by the LORD!
+
+For you did this loyal deed to your lord Saul
+
+and buried him.
+
+6 And now, may the LORD do you a gracious and truthful deed.
+
+And I too shall do the same good to you
+
+since you have done this deed.
+
+7 And now, let your hands be strong87
+
+and be brave,
+
+for88 your lord Saul is dead
+
+and I am the one whom the house of Judah has anointed as king
+
+over them.”
+
+The deed of the men of Jabesh-gilead in rescuing the bodies of Saul and his sons from the Philistines and burying them was reported in 1 Sam. 31:11-13.89 David here seems to be presenting himself as Saul’s successor and to be suggesting that Jabesh-gilead enter into a treaty relationship with Judah. We are not told whether at this point he knows about Ishbosheth’s survival. However, one gets the impression that David was not simply motivated by politics when he sent messengers to Jabesh-gilead. He was moved by their faithfulness toward their mutual lord and wanted to reward them with blessings from the Lord and deeds from himself.
+
+5The MT reading ʿăśîtem haḥesed hazzeh you did this loyal deed should be retained. While LXXB is missing at this point, the Vorlage of LXXA seems to have been ḥsd hʾlhym (the loyal deed of God).
+
+Generally speaking, a loyal deed involves “a responsible keeping of faith with another with whom one is in a relationship.”90 For this term, see also on 1 Sam. 15:6; 20:8; 2 Sam. 22:26; etc.91
+
+6The hendiadys a gracious and truthful deed (lit. “grace and truth” ḥesed weʾĕmet) appears again in 2 Sam. 15:19-20, where David during his escape from Absalom urges his faithful servant Ittai the Gittite to go back and stay with Absalom. He discharges Ittai’s obligation to himself and blesses him using this phrase. According to Sakenfeld, by using a similar blessing, David is here suggesting that the political relationship between Jabesh-gilead and Saul was at an end, though, in the case of Ittai, David, the beneficiary of the obligation, discharges the obligation, while David has no right to discharge their responsibility to Saul.92 However, he may be implying that by their good deed they have themselves discharged their responsibility to Saul and that “they are now free to establish a new formal relationship with David (rather than with Saul’s descendants), which David offers and suggests that they do.”93 This point is made clear in the expression And now, may the LORD . . . ! And I too.
+
+The Hebrew expression ʿāśāh ṭôbāh (“to do goodness”), like Akkadian ṭābūta epēšu,94 may refer to the establishment of friendship, i.e., diplomatic amity, by treaty. However, while such a political aspect certainly existed in David’s dealings with the people of Jabesh-gilead, David’s word has a religious tone, centering more on the gracious and truthful deed of the Lord than on his own intentions.
+
+7The phrase be brave is literally “become sons of might” (also 2 Sam. 13:28). McCarter thinks that here David invites the men of Jabesh into his service because “sons of might” can be depended upon for loyal service.95
+
+David gives two reasons: their lord Saul is now dead, and David has become king over the house of Judah. The second is certainly an invitation to accept him as king. But apparently they do not accept it, as Gilead becomes part of Ishbosheth’s kingdom (v. 9).
+
+c. Ishbosheth in Mahanaim (2:8-11)
+
+8 As for Abner son of Ner, the army commander who belonged to Saul, he had taken Ishbosheth son of Saul and brought him over to Mahanaim,
+
+9 And he made him king over Gilead, the Ashurites, and Jezreel, and over96 Ephraim and Benjamin, namely97 over Israel in its entirety.
+
+10 — Ishbosheth son of Saul was forty years old when he became king over Israel and he ruled for two years. —
+
+But the house of Judah followed David.
+
+11 And the length of time98 that David was king in Hebron over the house of Judah was seven years and six months.
+
+Abner tries to continue Saul’s kingdom, even on a reduced scale. But from these verses and 3:6-11, it appears that Ishbosheth was little more than his puppet.
+
+8As for Abner . . . , which is the casus pendens (so “Now” [RSV], “Meanwhile” [NIV]), is the SETTING, introducing a new agent, Abner, with his background. The EVENT is vv. 8bf. where Abner’s actions are described by the wayqtls in the mainline of narrative discourse: brought him . . . and made him king.
+
+For Abner, see the commentary on 1 Sam. 14:50.99 He is probably Saul’s uncle. The phrase the army commander who belonged to Saul means that he was Saul’s commander-in-chief of the army; see 1 Sam. 12:9.
+
+Ishbosheth appears as “Ishbaal” in the genealogies in 1 Chr. 8:33, 9:39. Since Ishbosheth probably means “Man-of-shame,” the bosheth in Samuel is usually taken as be “a euphemistic substitution” for “baal” since the latter suggests the Canaanite god. Similarly, the name of Jonathan’s son is given as Mephibosheth in 2 Sam. 4:4, etc. but as Meribaal in 1 Chr. 8:34 and 9:40, and Gideon is called Jerubbaal in Judg. 6:32 but Jerubbesheth in 2 Sam. 11:21. However, whether the baal in the names originally referred to Baal or simply meant “lord” is hotly debated.100 Certainly, there is no reason why Saul should name his sons after the foreign god Baal, and there is no hint that he worshipped any god but the Lord. Therefore, it is often suggested that the “lord” in these names refers to the Lord, i.e., “Yahweh.”101 For the relationship with the Ishvi of 1 Sam. 14:49, see the commentary there.102
+
+Mahanaim (modern Tell edh-Dhahab el-Gharbi [M.R. 214177]), a city near the Jabbok River (Nahr ez-Zerqa), was apparently the capital of Gilead. The fact that the capital had to be in Transjordan suggests the precariousness of Ishbosheth’s rule. Later David used the site as his base of operations during Absalom’s revolt (2 Sam. 17:24–19:8).103
+
+9Gilead and the Ashurites and Jezreel refer to the northern and Transjordan part of the country, Ephraim and Benjamin to the central and main part. Gilead is “the tribal claims of Gad and Reuben, territory ruled by Saul after his victory over Nahash, king of the neighboring state of Ammon.”104
+
+Ashurites is a plural form of the gentilic noun, hence “people of Ashur”; cf. “Ashuri” (NIV). Their identity is unknown. Probably they have nothing to do with the tribe of Asher.105 Jezreel is the area around modern Zerʿin,106 not the Jezreel of David’s wife Ahinoam.
+
+Ephraim refers to the Israelite heartland. Benjamin is the homeland of the house of Saul, centered on the ridge of hills between Jerusalem and Bethel.
+
+JPS treats the last phrase as a summary: “over Gilead, the Ashurites, Jezreel, Ephraim, and Benjamin — over all Israel.” However, since the MT clearly distinguishes the first three names from the second three by the use of two distinct prepositions, the phrase Israel in its entirety seems to restate “Ephraim and Benjamin” and to refer here only to the central part. Ishbosheth did not necessarily have real control over all this area, especially as the Philistines apparently were still in the Jezreel Valley (see 1 Sam. 31:7).
+
+10–11David apparently has decided that his allegiance to Saul as God’s anointed king does not extend to Saul’s descendants, as the rest of the section shows. Furthermore, in 2 Sam. 4:11 he just refers to Ishbosheth as a “righteous man,” not as a king or an anointed one as he had referred to Saul (1 Sam. 24:6; 26:9; 2 Sam. 1:14).
+
+Thus, for a time, there were two kings in the land of Israel. Ishbosheth reigned only two years, but David’s reign as king of Judah at Hebron was seven years and six months (also 5:5). Probably it took some time after Ishbosheth’s death for Israel to recognize David (5:1); the period may also include the time when David was king in Hebron over all Israel before capturing Jerusalem.
+
+2. Abner and Joab (2:12-32)
+
+a. Helkath-hazzurim (2:12-16)
+
+12 And Abner son of Ner and the servants of Ishbosheth son of Saul marched out of Mahanaim toward Gibeon.
+
+13 As for Joab son of Zeruiah and the servants of David, they marched out and encountered them together by the pool of Gibeon. One group stationed itself on this side of the pool; the other group, on that side of the pool.
+
+14 And Abner said to Joab,
+
+“Let some of the young men arise
+
+that they may have a contest before us!”
+
+And Joab said,
+
+“Let them arise!”
+
+15 And they arose and came across by number: twelve of Benjamin, that is,107 of Ishbosheth son of Saul, and twelve of the servants of David.
+
+16 And they seized each other’s heads, with a sword at each other’s sides, and fell together.
+
+— So the place was called108 Helkath-hazzurim which is in Gibeon. —
+
+12Why did the hostilities begin at Gibeon? It is not unlikely that David was negotiating with the Gibeonites as he had attempted to do with Jabesh-gilead, since they harbored a deep resentment against Saul (2 Sam. 21:1-9). Ishbosheth’s court, upset at David’s overture to Jabesh-gilead, may have acted to prevent this union. Gibeon is the modern el-Jib (M.R. 167139), about 5 miles (8 km) northwest of Jerusalem.109
+
+13This section marks the first appearance of Joab son of Zeruiah, though Abishai was identified as his brother in 1 Sam. 26:6. Joab is commander over the army (2 Sam. 8:16) and appears frequently in 2 Samuel, often as a mover of events. He is eventually killed by Solomon’s order (1 K. 2:34).110 Since Abner knows him and his brothers well (vv. 20-22), he probably came to Saul’s court soon after David’s rise to prominence. He is one of the three sons — Joab, Abishai, and Asahel—of David’s sister Zeruiah, and thus David’s nephew (v. 18). Their father probably died young, as he had a grave in Bethlehem (v. 32) and it was unusual for a man to be known by his mother’s name. Zeruiah is not identified in Samuel, but according to 1 Chr. 2:16, she and Abigail, the mother of Amasa, were sisters of David and his brothers. Abigail is identified in 2 Sam. 17:25 as the daughter of Nahash, sister of Zeruiah. It appears that Abigail, and probably Zeruiah, were maternal half-sisters of David by an earlier marriage of their mother. The name Joab (yôʾāb) is probably a shortened form of the full spelling yhwʾb Yehoʾab, which appears in Arad 39:10.111 The pool of Gibeon, also mentioned in Jer. 41:12, has been identified with the “Great Pool of Gibeon,” the huge water system uncovered by J. B. Pritchard.112
+
+14–16Abner proposes a ritual military contest between the two groups. McCarter suggests that this contest was not considered simply a contest of skill, but one whose outcome would determine the divine will, following Fensham, who believes the issues of the divine will and the legitimation of kingship are implicitly present in this account.113 While such contests might be a way of deciding the divine will about some things, it seems unlikely that Abner and Joab could decide the matter of the kingship on their own.
+
+14For the term young men (neʿārîm), see the commentary on 1 Sam. 9:3.114 It can be “a technical or semi-technical military term” like Ugaritic nʿr, and is “often used to refer to first-class fighting men.”115
+
+16The connection of the name with the event is uncertain. McCarter translates the name Helkath-hazzurim (ḥelqat haṣṣūrîm) as “Flints’ Field,” explaining that the weapons used here were probably flint swords or knives (see ḥarbôt ṣūrîm “flint knives” in Josh. 5:2).116 His view is hardly correct though, since the blades made during the tenth century B.C. were made of either bronze or iron.
+
+The comment of v. 16b serves as the TERMINUS of the episode.117
+
+b. Death of Asahel (2:17-23)
+
+17 The fighting was very118 severe on that day.
+
+And Abner and the men of Israel were smitten before the servants of David.
+
+18 And three sons of Zeruiah — Joab, Abishai, and Asahel — were there.
+
+Now Asahel was fast on his legs like one of the gazelles that are in the field.
+
+19 And Asahel chased after Abner; he did not turn aside to go either to the right or to the left from chasing after Abner.
+
+20 And Abner turned around and said,
+
+“Is it you, Asahel?”
+
+And he said,
+
+“Yes, it is.”
+
+21 And Abner said to him,
+
+“Turn aside either to the right or to the left.
+
+Seize one of the young men and take his spoil.”119
+
+But Asahel was not willing to turn away from him.
+
+22 And Abner again said to Asahel,
+
+“Turn away from me!
+
+Why should I strike you down to the ground?
+
+How could I raise my face to Joab, your elder brother?”
+
+23 And he refused to turn away.
+
+And Abner struck him in the belly with the butt of the spear.
+
+And the spear came out of his back.
+
+And he fell down there and died where he was.120
+
+As for all who came to the place where Asahel fell and died, they stopped.
+
+17This transitional verse connects the first episode, the fight at Gibeon, with the second, the death of Asahel. After this episode, the enmity between the surviving sons of Zeruiah and Abner will be a major factor, until Joab finally assassinates Abner (2 Sam. 3:27) over this private matter.
+
+18Abishai is Joab’s older brother and the eldest of the three sons of Zeruiah: in 1 Chr. 2:16 the order is “Abishai, Joab, and Asahel.” He first appeared in 1 Sam. 26:6 when David asked him to go down with him into the camp of Saul.
+
+Asahel is the youngest of the three. He was one of David’s mighty warriors “among the thirty” (2 Sam. 23:24; 1 Chr. 11:26; 27:7). All three brothers favored direct, swift action, though Joab was also politically active.
+
+19The verb “to turn aside” (*nṭh) here and in v. 21 is different from the verb “to deviate” (*swr) in 2 K. 22:2, etc. While the former focuses on the goal, the latter focuses on the process. So, here the phrase did not turn aside to go either to the right or to the left emphasizes the goal of his chasing, that is, Abner. On the other hand, 2 Ki. 22:2 says that Josiah did not deviate to the right or to the left, away from the right path, i.e., the way of his father David (cf. 2 Chr. 34:2; Num. 20:17; Prov. 4:27).
+
+20Is it you, Asahel? : lit. “are you here Asahel?” Muraoka enumerates five cases where the demonstrative zeh follows ʾattāh: Gen. 27:21, 24; 2 Sam. 2:20; 1 K. 18:7, 17. In all five cases “the speaker is attempting to reassure himself that he has correctly established the identity of the other party.” Their context is “highly personal and characterized by a ring of immediacy, which is suitably expressed” by the deictic element “here” (zeh).121
+
+23Abner, an experienced warrior, apparently attacks Asahel, who is following immediately behind him, without reversing the direction of his spear, which would have given Asahel warning.
+
+The Hebrew wayhî introduces the TOPIC of the sentence As for all who came to the place where Asahel fell and died, they stopped; see also 1 Sam. 11:11.122
+
+c. Abner and Joab (2:24-32)
+
+24 And Joab and Abishai chased after Abner.
+
+As the sun set, these two123 came to the hill of Ammah, which is opposite Gia, by the way to the wilderness of Gibeon.
+
+25 The Benjaminites gathered together behind Abner and became one band and took their stand on the top of one hill.
+
+26 Then Abner called to Joab:124
+
+“Should a sword devour forever?
+
+Don’t you know
+
+that bitterness will be in the end?
+
+How long will it be until you command the people to turn away from pursuing their brothers?”
+
+27 Joab said,
+
+“As God lives!
+
+If you had not spoken,
+
+it would have been in the morning125 when the people would have given up126 the pursuit of each other’s brothers.”
+
+28 Then Joab blew the horn.
+
+All the people stopped; they no longer chased after Israel and they fought again no more.
+
+29 As for Abner and his men, they traveled in the Arabah all that night and crossed the Jordan and went all morning127 and came to Mahanaim.
+
+30 As for Joab, he returned from going after Abner and gathered all the people.
+
+There were missing from the servants of David nineteen men and Asahel.
+
+31 As for the servants of David, they struck128 some of the Benjaminites who were among the men of Abner;129 three hundred and sixty men died.
+
+32 So they carried Asahel and buried him in the grave of his father, which is in Bethlehem.
+
+Joab and his men went all night.
+
+Dawn broke130 on them in Hebron.
+
+24As the sun set (wehaššemeš bāʾāh) is literally “and the sun was entering.” In ancient thought, this “entering” is presumably into the netherworld. The noun šemeš, which is usually masculine in Hebrew, is here feminine and used idiomatically. See on 2 Sam. 12:11 and 1 Sam. 20:19.131
+
+The location of the hill of Ammah is unknown. The relative clause which is opposite Gia modifies the hill of Ammah, while the phrase by the way to the wilderness of Gibeon is an adverbial phrase in the main clause which modifies the verb came, not Gibeon. For a similar syntax, see 1 Sam. 2:29; 2 Sam. 11:27; 13:16; 15:7.132
+
+28-29Here as in 2 Sam. 18:16 and 20:22, Joab uses a trumpet to summon an army to mark the end of fighting after a victory. The Arabah is the Jordan Valley rift (also 4:7).133
+
+30The word order of the compound subject nineteen men and Asahel is unusual, for most examples of the compound subject are of the “principal and adjunct” type, for example, “David and his men.” According to Revell, the purpose of this unusual construction is seemingly to “draw attention to the singular component while showing that the person represented [here, Asahel] is not a significant actor in the immediately following context.” Also “the unusual terminal position” of Asahel draws attention (i.e., “end focus”) to the significance of his death.134 See also the commentary on 3:22.
+
+32The way from Gibeon to Hebron passes through Bethlehem.
+
+The movement verb went in the wayqtl form here signals the TERMINUS of the episode.
+
+3. Death of Abner (3:1-39)
+
+This chapter tells of the death of the most powerful character in the house of Saul. It is a continuation of the slow process by which David becomes king over all Israel.
+
+Clearly, one of the concerns of the author is to show that David was not guilty of involvement in the deaths of Abner or Ishbosheth. In fact, the present section is the most “apologetic” in tone of the “Story of King David.” However, as McCarter notes, “From the perspective of the larger narrative, the motivating force was Yahweh’s will and his special favor for David.” But this event took place by the “interplay of four human personalities,” Ishbosheth, David, Abner, and Joab.135
+
+a. House of Saul and House of David (3:1)
+
+1 And the war between the house of Saul and the house of David became prolonged. David was getting stronger and stronger, while the house of Saul was getting weaker and weaker.
+
+The first verse provides a new SETTING as well as a TRANSITION to the following episode, which begins with v. 6 after the insertion of the list of David’s sons in vv. 2-5.
+
+The MT hammilḥāmāh ʾărukkāh is here translated as the war . . . prolonged. However, if it is a phonetic spelling136 for hammilḥāmāh hāʾărukkāh, the translation “a long war” (so, NRSV, NASB) might be better, though literally “the long war.” The term ʾărukkāh is a qatul type adjective.137
+
+x. Sons of David in Hebron (3:2-5)
+
+2 Sons were born138 to David in Hebron.
+
+His firstborn was Amnon by Ahinoam the Jezreelite;
+
+3 his second was Chileab by Abigail139 the widow of Nabal the Carmelite;
+
+the third was Absalom the son of Maacah, daughter of Talmai,
+
+king of Geshur;
+
+4 the fourth was Adonijah, the son of Haggith;
+
+the fifth was Shephatiah son of Abital;
+
+5 the sixth was Ithream by Eglah the wife of David.
+
+These were born to David in Hebron.
+
+This list of David’s sons born in Hebron is an inserted paragraph, which interrupts the flow of narrative from v. 1 to v. 6. Its purpose may be to contrast David’s flourishing house with the waning house of Saul. There is also a list of sons born in Jerusalem in 5:13-16, and a combined list in 1 Chr. 3:1-9.
+
+Six sons of six wives and/or concubines are mentioned here. Besides these wives, he had also married Saul’s daughter Michal (1 Sam. 18:27; 2 Sam. 3:12-16), and later married Bathsheba (11:27), and others (5:13), and he had at least ten concubines (15:16). Wives and concubines were a sign of a king’s wealth; see especially the case of King Solomon (1 K. 11:3); cf. Song of Solomon 6:8.140
+
+2Amnon (ʾamnôn) is the major character in ch. 13. McCarter takes ʾămînôn (13:20) as the correct vocalization, hence he uses “Aminon.”141 For Ahinoam, see the commentary on 1 Sam. 25:43.142
+
+3Chileab is never mentioned again, and David’s fourth son Adonijah (v. 4) later claimed David’s throne (1 K. 1:5), so it is presumed that Chileab died early. The phrase widow of Nabal is literally “woman, wife of Nabal”; see 2:2 and 1 Sam. 27:3; 30:5. Note that a woman could still be called the wife of her dead husband (Ruth 4:5, 10).
+
+Absalom (ʾabšālôm) is the central character of 2 Sam. 13-19. It is certainly possible that this name as well as Solomon (Šlmh) contains the old Canaanite divine name Šlm, which appears in the “official” pantheon list from ancient Ugarit.143 However, the element ʾab “father” may stand for God in Absalom and the other element šālôm may be simply the noun “peace.”
+
+Absalom’s mother is Maacah of Geshur, “a small Aramaic state between Bashan and Hermon” (HALOT).144 Absalom apparently named a daughter after her (1 K. 15:2, 13; 2 Chr. 11:20-22). Talmai is probably a non-Semitic PN (cf. Hurrian tal(a)mi “great”).145
+
+4–5At the time of David’s death Adonijah was his oldest surviving son; see 1 K. 1:5. Shephatiah is mentioned only here and in the genealogy in 1 Chr. 3:3. Abital (ʾăbîṭāl) could mean “My father is Ṭal,” and Ṭal may be a theophoric element”;146 cf. dṬalaya (RS 16.156:8, 17) and the name of Baal’s daughter Ṭly.147 Ithream also is mentioned only here and in 1 Chr. 3:3; it could mean “Remainder of ʿm.”148 Eglah as a proper noun occurs only here and in 1 Chr. 3:3.
+
+These were born is a summary statement, which signals the TERMINUS of the present embedded discourse.
+
+b. House of Saul and House of David (3:6)
+
+6 While the war was going on between the house of Saul and the house of David, it was Abner who was gaining149 power in the house of Saul.
+
+6The clause While the war was going on between the house of Saul and the house of David is a variation on v. 1, thus resuming the narrative flow after the interruption of vv. 2-5. It also serves as a transition to the following episode in which Abner is the major character.
+
+The hāyāh + participle in it was Abner who was gaining power (weʾabnēr hāyāh mitḥazzēq) gives emphasis to an action continuing from the past; see GKC, §116r.
+
+c. Abner and Ishbosheth (3:7-11)
+
+Abner, after a quarrel with Ishbosheth, convinces the Israelite elders that they should go with David. However, he is killed by Joab. The author stresses repeatedly that David had not consented (vv. 21, 26, 28, 37), and, indeed, since Abner was plotting to make him king of Israel, it seems that he would have had nothing to gain from Abner’s death.
+
+7 Now Saul had a concubine; her name was Rizpah daughter of Aia.
+
+And [Ishbosheth] said to Abner,
+
+“Why have you gone in to the concubine of my father?”
+
+8 And Abner got very angry with the words of Ishbosheth and said,
+
+“Am I a dog’s head which is for Judah?
+
+Today I am loyal to the house of Saul your father,
+
+that is to150 his kinsmen151 and his friends.
+
+I did not deliver you152 into the hand of David.
+
+And yet today you charge me153 with guilt about the woman!154
+
+9 May God do thus to Abner and thus again to him,
+
+if, as the LORD swore to David, I do not do this for him:
+
+10 to transfer the kingdom from the house of Saul
+
+and establish the throne of David over Israel and Judah
+
+from Dan to Beersheba!”
+
+11 And he could no longer return any word to Abner because he was afraid of him.
+
+7Rizpah was the concubine (pīlegeš) of Saul and had borne him two sons, Armoni and Mephibosheth (ch. 21:8-11).
+
+Abner is here accused of lying with Saul’s concubine Rizpah. Taking the king’s wives seems to have been considered a prerogative of the throne (see 12:8; 16:21-22; 1 K. 2:22). However, it was a particular woman (“a concubine” in sg.), Rizpah, not an entire harem, who is referred to here. So, even if the accusation was true, it does not necessarily mean that Abner was trying to claim the kingship.
+
+8Dogs were unclean animals and considered insignificant, as in 1 Sam. 17:43; 24:14; 2 Sam. 9:8; 2 K. 8:13; Eccl. 9:4. But, the significance of the phrase a dog’s head (rōʾš keleb) is not clear. Hutton says “head” is a case of a semantic borrowing from Αkkadian rēšu “slave,” and takes the phrase rōʾš keleb not as a construct chain, but as appositive, translating “a slave, a dog.”155 Though attractive, the suggestion seems to be a little far-fetched.
+
+9–10This promise of the Lord is implied in 1 Sam. 15:28 and 16:13, and people in general also seem to have had knowledge of it (24:4; 25:30; 2 Sam. 3:18). Abner had heard about it, but probably had not particularly believed it, or decided that if the Lord would have David king, the Lord would crown him. However, now it gives him a good reason for deserting Ishbosheth. One need not assume here a prophetic or a later Deuteronomistic interpolation as some scholars often assume.
+
+9For the oath formula, May God do thus to. . ., see the commentary on 1 Sam. 3:17.156 The third person is used for the speaker also in 1 Sam. 20:13 and in 25:22.
+
+11The phrase return any word (i.e., respond/answer/report; lehāšîb ʾet-ʾabnēr dābār) is the standard word order, in which the internal object is pushed back to after the external one (see Jer 9:3):157 šwb + (ʾet-) NP + dbr; see 2 Sam. 24:13; 1 K. 2:30; 12:6, 16; 2 K. 22:9, 20; Prov. 27:11; 1 Chr. 21:12; 2 Chr. 34:16, 28. Even when a pronominal suffix is used instead of a NP, the word order is the same. Only 1 K. 12:9 (and the parallel in 2 Chr. 10:9) has the word order: [šwb+ dbr] + ʾet -NP. In later Hebrew, the word order [šwb+ dbr] + l-NP appears, e.g., 2 Chr. 10:6.
+
+d. Abner Sends Messengers to David (3:12-16)
+
+12 And Abner sent messengers to David on his own behalf, saying,
+
+“Whose is the land?”
+
+saying
+
+“Make your covenant with me!
+
+Here my hand is with you
+
+to turn all Israel over to you.”
+
+13 And he said,
+
+“Good!
+
+I will make a covenant with you,
+
+but one thing I am going to ask of you,
+
+that is to say,158
+
+you shall not see my face
+
+unless you first bring Michal the daughter of Saul
+
+when you come to see my face.”
+
+14 Then David sent messengers to Ishbosheth son of Saul, saying,
+
+“Give me my wife Michal
+
+whom I betrothed to myself for a hundred foreskins of the Philistines.”
+
+15 So Ishbosheth sent and took her from her husband,159 that is from Paltiel son of Laish.
+
+16 But her husband went with her, weeping after her as far as Bahurim.
+
+Then Abner said to him,
+
+“Go, return!”
+
+And he returned.
+
+12–13David clearly does not mind taking the Israelite kingdom from Ishbosheth, and he stresses his closeness to Saul as Saul’s son-in-law. David had legally paid the bridal price and never divorced Michal even though she remarried, so she is still legally his wife. David presumably expects Abner to support his argument when the matter is discussed in Ishbosheth’s court.
+
+12The phrase on his behalf (K. tḥtw; Q. taḥtâw) has been interpreted variously; e.g., “in (David’s) place,” i.e., “where he was” = Hebron (see LXXL; NRSV) or “immediately” (JPS), based on LXX parachrēma. If it means “in Abner’s stead,” the expression is redundant, for a messenger by definition is a “representative” of the one who sent him; cf. “as his representatives” (McCarter). The best interpretation seems to be “on his behalf” (NIV; ESV), since Abner urges David to make a covenant with him, not with Ishbosheth.
+
+13David, recognizing Abner’s leadership in the northern part of the country (i.e., the land in v. 12), agrees to make a covenant with Abner on the one condition that he bring Michal the daughter of Saul (see 1 Sam. 18:20-27)160 back to David. To “see the face of,” or to have an audience with, was a privilege as in 14:24, 32; Gen. 43:3.
+
+David’s request for Michal may have been in part political, but since he had Abner’s support even without that, it may also have been personal.
+
+14It is surprising to see Ishbosheth’s involvement, since Abner is negotiating to eliminate him. Noth thinks that David’s marriage to Michal in 1 Sam. 18-19 is a later tradition and hence the present verse is secondary. Thus he thinks that “Ishbosheth” in v. 15 should be corrected to “Abner.” But there is no reason to reject the account of the early marriage. Ishbosheth’s involvement would mean that even he recognized David’s connection with the house of Saul. As David had paid the bride price, he could not refuse to return his wife to him. Note that this is not violating the law in Deut. 24:1-4, for David did not divorce Michal. Mesopotamian laws161 permitted a husband who had been forced to leave the country to reclaim his former wife even if she had become the wife of another man.162
+
+In 1 Sam. 18:25-27, the hundred foreskins were what Saul had demanded as a bride-price (mōhar) in v. 25, so the extra hundred (v. 27) were a gift.
+
+15Paltiel son of Laish is Michal’s second husband; 1 Sam. 25:44 has the shorter hypocoristic name Palti.
+
+16The modern site of Bahurim is Râs eṭ-Ṭmîm, north of Mount Scopus, Jerusalem. It was a Benjamite village and the home of Shimei (2 Sam. 19:16) and Azmaveth (23:31); also see 17:18. Weisman interprets the name as meaning “warrior’s village,” that is, one inhabited by select warriors (see on 1 Sam. 24:2).163
+
+e. Abner Meets David at Hebron (3:17-21)
+
+17 Now the word of Abner reached164 the elders of Israel, saying,
+
+“Formerly165 you were seeking for David to be king over you.
+
+18 Now then, do it!
+
+For the LORD has spoken of David, saying,
+
+‘By the hand of David my servant
+
+I am about to save my people Israel
+
+from the hand of the Philistines,
+
+from the hand of all their enemies.’ ”
+
+19 And Abner also spoke to the Benjamites in person.
+
+And Abner also went to tell David at Hebron in person about everything that was good in the eyes of Israel and the whole house of Benjamin.
+
+20 And Abner came to David at Hebron with twenty men with him.
+
+And David made a feast for Abner and the men who were with him.
+
+21 And Abner said to David,
+
+“Let me arise and go!
+
+Let me gather all Israel to my lord the king
+
+that they may make a covenant with you
+
+and you may become king in whatever your soul desires.”
+
+And David sent Abner forth, and he went in peace.
+
+17–19The Israelites, even the members of Saul’s own tribe of Benjamin, seem to think they are getting nowhere with Ishbosheth as king.
+
+17The elders of Israel (ziqnê Yiśrāʾēl; see the commentary on 1 Sam. 4:3166 and also on 2 Sam. 2:4) were a group of senior tribal leaders who exercised jurisdiction on behalf of the people of Israel.
+
+18The designation of king as the servant of his god was widespread in the ancient Near East (e.g., in Ugarit, king Keret as “servant of El”; see KTU 1.15 II 19), so it cannot be regarded as distinctively Deuteronomistic as is often alleged.
+
+19The expression good has a special meaning in the context of a treaty. Thus, what was good in the eyes of Israel was “what David would be obliged to do to establish a covenant relationship with them.”167
+
+21The phrase he went in peace (*hlk bešālôm) is repeated in vv. 22 and 23, emphasizing David’s innocence in Abner’s death.
+
+f. Joab Murders Abner (3:22-30)
+
+22 As for David’s servants, when Joab came back from the raid, they brought back much plunder with them. But Abner was not with David at Hebron, for he had sent him forth and he had gone in peace.
+
+23 When Joab and all the army that was with him came back, it was reported168 to Joab,
+
+“Abner son of Ner came to the king.
+
+And he sent him forth and he went in peace.”
+
+24 And Joab came to the king and said,
+
+“What have you done?
+
+Behold, Abner came to you.
+
+Why did you send him forth and he has indeed gone?
+
+25 You know Abner son of Ner!
+
+For it was to deceive you that he came,
+
+to learn of your going out and your coming in
+
+and to learn all that you are doing.”
+
+26 And Joab went out from David and sent messengers after Abner, and they brought him back from Bor-hassirah. But David did not know.
+
+27 And Abner returned to Hebron.
+
+And Joab drew him aside into the midst of the gate to speak with him privately, and there he struck him in the belly,169 and he died for the blood of Asael,170 his brother.
+
+28 And David heard afterward and said,
+
+“I and my kingdom are innocent before the LORD forever171
+
+of the blood of Abner son of Ner.
+
+29 May it fall on the head of Joab and on172 all his father’s house!173
+
+May the house of Joab never lack one that has a discharge,
+
+or one who has a skin disease or who holds a distaff,174
+
+or one who falls by the sword or who is in need of bread!”
+
+30 Thus Joab and his brother Abishai murdered175 Abner because he had put their brother Asael to death in the battle in Gibeon.
+
+22–30Here, as later in 18:14 and 20:10, the motive for Joab’s actions can be seen as concern for David’s position (v. 25), concern for his own position (especially as David had not told him what was going on, v. 23), private vengeance (v. 30), or a mixture. We are not told what part Abishai played (vv. 30, 39), but he seems to have been a loyal supporter of his brother (see 10:9-12; 18:2; 20:6-10; also see on 8:13).176
+
+22The syntax of the first half of this verse, lit. “the servants of David and Joab came back (sg.),” is puzzling since normally the singular component of a compound subject is first,177 but, in contrast to 2:30, the verb here is singular. McCarter amends the verb to plural, but he does not solve the problem of the unusual verb-final position of the following clause in the narrative they brought back much plunder with them (lit. “and much plunder with them they brought back”). Instead of emending the text, one could take the clause and Joab came back from the raid as parenthetical and the phrase David’s servants as casus pendens (i.e., topicalization178) and translate as above.
+
+23Joab did not come back until after Abner left. One suspects that David had timed his meeting with Abner to avoid conflict between him and Joab.
+
+25The expression your going out and your coming in probably refers to military actions as in 1 Sam. 18:13. In other words, Joab claims Abner came as a spy.
+
+26Bor-hassirah is near modern Ṣîret el-Bellaʿ, an oasis about two and a half miles (4 km) north of Hebron. The narrator emphasizes again David’s noninvolvement.
+
+27McCarter takes MT ʾel-tôk haššaʿar (into the midst of the gate) as a corruption of ʾl yrk (haššaʿar), which he thinks is reflected by LXX ek plagiōn, and translates “beside the gate.” But the MT makes a good sense when the elaborate structure of a city-gate is taken into consideration; see also the commentary on 1 Sam. 9:18.179
+
+The phrase for the blood of Asael, Joab’s brother refers to the death of Asael in 2:18-23. Here, Joab exercises his duty as “the avenger of blood” (gō’ēl haddām, Num. 35:19, etc.) for the death of his brother Asael. However, it does not seem that this duty necessarily applied to those killed in battle. David says Joab avenged “in the time of peace for blood that had been shed in war” (1 K. 2:5). Besides, otherwise how could peace be made after a conflict?
+
+28MT mēʿīm YHWH (lit. “from with the LORD”), so 4QSama,180 is here translated as before the LORD, for the verb “to be innocent” (*nqy) is most likely to be in collocation with the phrase of the blood, lit. “bloods” (middemê). The same phrase, *nqy + min, appears in Num. 32:22 as “to be free of obligation to the LORD.”
+
+29The plural noun “bloods” of Abner (demê ʾabnēr) in the previous verse is the subject of the plural verb fall on (yāhūlû; lit. “whirl about”); cf. [yh]wl (sg.) in 4QSama.
+
+The term məṣōrāʿ refers to various types of skin disease, not necessarily Hansen’s disease,181 though some modern translations keep the term “leprosy” (NIV11; also ESV; cf. “eruption” JPS). For a similar imprecation, see Deut. 28:27.182 J. Milgrom has noted that some Akkadian curse formulas include the term saḫaršubbû (“scale disease”), which is one of the Akkadian semantic parallels to Hebrew ṣāraʿat.183
+
+In this verse, all nominal forms are masc.sg., referring to male descendants of Joab. One who holds a distaff (maḥăzîq bappelek) is one forced to do the menial woman’s work of spinning, a great comedown for the offspring of the mighty warrior Joab.
+
+The vassal treaties of Esarhaddon in Akkadian have a comparable curse: “May all the gods called by name in this treaty spin you round like a spindle (pilakki), may they make you like a woman before your enemy” (616A-617).184
+
+g. Abner’s Burial and David’s Lament (3:31-39)
+
+31 Then David said to Joab and to all the people who were with him,
+
+“Tear your clothes
+
+and gird on sackcloth
+
+and lament before Abner.”
+
+As for king David, he was walking after the bier.
+
+32 They buried Abner in Hebron.
+
+And the king raised his voice and wept by185 the grave of Abner.
+
+All the people wept.
+
+33 And the king chanted an elegy for Abner, and he said,
+
+“Like a fool dies186 should Abner die?
+
+34 Neither your hands nor your feet were bound;
+
+they were not put in fetters.
+
+Like a falling before sons of injustice have you fallen?”
+
+And all the people continued to weep over him.
+
+35 Then all the people came to have David to eat bread while it was still daytime.
+
+But David swore, saying,
+
+“May God do thus to me and thus again,
+
+if, before the sun sets, I taste bread or anything else!”
+
+36 Now all the people observed it and it was good in their eyes, just as everything the king did was good in the eyes of all the people.
+
+37 And all the people and all Israel knew that day that it was not the king’s will that Abner son of Ner be put to death.
+
+38 And the king said to his servants,
+
+“Do you not know
+
+that a prince and a great man fell this day in Israel?
+
+39 As for me, I am still weak today, though187 anointed king,
+
+while these men, the sons of Zeruiah, are too wild for me.
+
+May the LORD reward the evildoer according to his evil!”
+
+31–39Joab is apparently too important and useful for David to punish, so he does the best he can by cursing him and having a splendid funeral for Abner and making a show of publicly mourning and chanting a lament for him. This is the only funeral described in detail in the Old Testament.188 As elsewhere, tearing clothes, wearing sackcloth, and fasting are features of mourning.
+
+31For tearing clothes as a mourning custom, see the commentary on 1 Sam. 4:12.189 Note also that in the Ugaritic mythological text KTU 1.6 VI 14-15 the god El mourns Baal’s death by pouring “dust” and “powder” on his head and covering himself with a loincloth. The origin of the custom of wearing sackcloth is not certain.190 The term lament (*spd) appears also in 1 Sam. 25:1; 28:3; 2 Sam. 1:12; and 11:26, and it is distinct from *ʾbl, “to mourn,” which appears in 1 Sam. 6:19. For mourning at Samuel’s death, see the commentary on 1 Sam. 25:1.191
+
+As for the phrase lament before Abner, Wensinck holds that it shows that “in funerary mispēd it was the corpse, or perhaps the departed spirit, which was addressed,”192 but S. R. Driver takes the phrase as indicating that David preceded the bier in the procession. However, as de Ward notes, in the same verse, David was reported as walking after the bier.193 Probably the procession was led by Joab, accompanied by his troops; the bier went next, and then David.
+
+33The verb chanted an elegy (wayqōnēn; *qyn, Polel) is here without a cognate accusative qînāh, unlike 2 Sam. 1:17. The introductory formula, “and he said,” appears also in the superscript of Ps. 18 (= 2 Sam. 22:2) and several Egyptian hymns and songs with titles.194 Hence, this may be a case of such a superscription.
+
+34According to the MT scansion, the second and third lines of the quadracolon elegy (vv. 33b-34c), i.e., vv. 34 a-b, are divided as follows:
+
+yādekā lōʾ-ʾăsūrôt Your hands were not bound 2 (7)
+
+weraglệkā lōʾ-linḥuštayim huggāšû your feet were not fettered 3 (12)
+
+However, they are metrically unbalanced. Hence, McCarter, Freedman, A. A. Anderson195 and Qimron196 all add “by manacles” (bzqym) or “in chains” after the first clause, based on 4QSama, bzqym, to improve the balance within the parallelism. However, one can scan the lines like the BHS does as follows:
+
+yādekā lōʾ-ʾăsūrôt weraglệkā your hands were not bound and your feet;
+
+lōʾ-linḥuštayim huggāšû197 they were not put in fetters.
+
+The line yādekā lōʾ-ʾăsūrôt weraglệkā is an example of “interrupted coordination,” the AX&B pattern in which A&B your hands and your feet (yādekā weraglệkā) is interrupted by the insertion of X were not bound (lōʾ-ʾăsūrôt) to mean “Neither your hands nor your feet were bound” like Ps. 11:5a (“The LORD tests the righteous and the wicked”; so NRSV, NASB).198 In this understanding, the “and” of “and your feet” (so MT, 4QSama) is necessary rather than being an additional conjunction; cf. “your feet” (McCarter).
+
+One might take the interrogative h- in the first line (2 Sam. 3:33b) as modifying the fourth line (v. 34c) too; thus, “have you fallen?” // “should Abner die?” This four-line parallelism probably constitutes an AXYB pattern, in which the middle two lines are the inserted bicolon as in Ps. 17:1, Job 12:24-25.199 Note that the inserted bicolon here has the qinah pattern (3:32), which is the most suitable for a lament; see 2 Sam. 18:33.
+
+35For the oath formula May God do thus to me and thus again, see on 1 Sam. 3:17; cf. “ysp — Hypocoristicon, ‘(DN) has added (a son to the family)’ or ‘(DN) will reward’ (2 Sam. 3:35, etc.).”200
+
+37The phrase all Israel means Abner’s own countrymen. VanderKam suggests that David actually planned the murder, though the present narrative covers it up.201 However, he seems to underestimate the importance of Joab, and it is hard to see what David would have gained at this point.
+
+39The formula May the LORD reward (yešallēm YHWH le-) means that “God will repay good for good, and bad for bad”; also Prov. 25:22; Job 21:31; Ruth 2:20; and Arad 21:42 (“the LORD will give my master his due”).202 McCarter believes that 4QSama skips from 2 Sam. 3:39a to 4:1, and so v. 39b in the MT and the ancient versions was “the pious addition of a scribe.”203 However, Herbert refutes McCarter’s claim on the basis of “the two previously unidentified fragments” that he identifies as containing v. 39b. According to his reconstruction, only qāšîm mimmennî (“too hard for me”) is lacking from 4QSama.204
+
+4. Death of Ishbosheth (4:1-12)
+
+Chapter 4 relates the death of Saul’s son, the king Ishbosheth. It is stressed that David had no part in it. David now has no rival for the kingship of Israel.
+
+a. Murder of Ishbosheth (4:1-3)
+
+1 When the son of Saul heard that Abner was dead in Hebron, he lost courage; all Israel was dismayed.
+
+2 Now the son of Saul had two men, commanders of bands;205 the name of the first was Baanah, the name of the second Rechab, sons of Rimmon the Beerothite from the tribe of Benjamin, for Beeroth is also considered part of206 Benjamin.
+
+3 — And the Beerothites had fled to Gittaim and have been sojourners to this day —.
+
+1The son of Saul here is Ishbosheth. However, LXXBAL and 4QSama have “Mephibosheth son of Saul,” which is clearly a mistake for “Ishbosheth son of Saul.”207
+
+he lost courage is literally “both of his hands (fem. du.) sank down” (wayyirpû yādâw). As for the masculine verbal form wayyirpû, it may be explained as third-person common dual yqtl as in Zeph. 3:16; Neh. 6:9; 2 Chr. 15:7, though in Ugaritic almost all examples of third-person common dual yqtl are tqtl(n).208
+
+2–3Beeroth, modern Khirbet el-Burj, is a few miles (km) south of Gibeon and one of a “tetrapolis” led by Gibeon that tricked Joshua into making a treaty with them (Josh. 9); see “Kiriath-jearim, Kephirah, Beeroth” (Ezra 2:25; Neh. 7:29).
+
+The Beerothites, the original pre-Israelite inhabitants, probably fled to Gittaim (gittāymāh), according to Neh. 11:33 a city in Benjamin,209 at the time Saul put the Gibeonites to death (2 Sam. 21:1-2). From the present verse it would seem that after that event, Benjaminites, including Rimmon and his family, came to live there. Joshua 18:25 counts it as part of Benjamin. If this is correct, it suggests that the incident of the Gibeonites occurred early in Saul’s reign, since it is Rimmon, the father of Baanah and Rechab, who is described as the Beerothite. This passage thus stresses that those who killed Ishbosheth were from his own tribe, not partisans of David.
+
+2In the phrase the name of the first, the cardinal number “one” (ʾeḥād) is used as an ordinal, as in Gen. 1:5 (“day one” = “the first day”), in conjunction with the other ordinal number, “the second” (haššēnî).210
+
+The terms Beerothite (habbeʾerōtî) and Beeroth (beʾērôt) in v. 2 appear in shorter, sandhi forms, hbrty (4QSama) and habbērōtî (1 Chr. 11:39), which resulted from vowel sandhi after the loss of the intervocalic ʾaleph.211 See also on 2 Sam. 23:37.
+
+3For the phrase to this day, see the commentary on 1 Sam. 8:8.212 McCarter thinks that the sentence for . . . to this day is a later insertion. But, “for” (v. 2b) is a speaker-oriented particle that introduces a clause to explain the designation the Beerothite. Hence, only v. 3 is parenthetical. But its being parenthetical does not necessarily mean it is a later insertion.
+
+Gittaim is Gath-rimmon (Josh. 19:45), not the Philistine Gath. It is located at or near modern Ramleh.213
+
+b. Note on Mephibosheth, Jonathan’s Son (4:4)
+
+4 Now, Jonathan son of Saul had a son who was crippled in his feet.
+
+He was five years old when the report of Saul and Jonathan came from Jezreel, and his nurse carried him and fled. When she was in a hurry to flee, he fell and became lame.
+
+His name was Mephibosheth.
+
+This verse interrupts the flow of discourse. However, the information about Mephibosheth (mepîbōšet) is probably put here to show why there was no move to make him king after Ishbosheth’s death—he was still a child, and he was crippled. He is further mentioned in 2 Samuel in ch. 9; 16:1-4; 19:24-30; and 21:7. On the relation with the name Meribbaal in 1 Chr. 8:34, see the commentary on 2 Sam. 2:8. Note that the Mephibosheth in 21:8 is a different person, the son of Saul and Rizpah.
+
+c. Continuation of the Murder of Ishbosheth (4:5-7)
+
+5 Now the sons of Rimmon the Beerothite, Rechab and Baanah, went, and they came into the house of Ishbosheth in the heat of the day, while he was lying on his bed in midday
+
+6 — hither they came, even to the middle of the house as takers of wheat — and struck him on the belly. Rechab and Baanah his brother escaped.
+
+7 In this way,214 they came into the house, while he was lying on his bed in his bedroom, and struck him and killed him and cut off his head; and they took his head and traveled the Arabah road all night.
+
+This section describes how Rechab and Baanah murdered Ishbosheth at midday. Many emendations of the text have been suggested, but a close look at the sequence of the verbal forms suggests that most of them are unnecessary.
+
+Now the sons of Rimmon . . . went (v. 5a) is the wayqtl [waw cons. + impf] of a movement verb (wayyēlekû) with a stated subject and so marks a TRANSITION of discourse; it is the SETTING for a new episode.215 The second wayqtl (wayyābōʾû “and they came”) in v. 5b is EVENT 1, which is continued in the next wayqtl (wayyakkūhû “and they struck him”: EVENT 2) in v. 6b. This short episode terminates with a sentence with the qtl [pf.] verb “they escaped” (nimlāṭû).
+
+The parenthetical sentence between the two wayqtls, hither216 they came, even to the middle of the house, as takers of wheat (v. 6a), is a procedural discourse217 (“how”) with a verbal form of qtl,218 which explains how these brothers entered, that is, “as takers of wheat,” taking lōqeḥê ḥiṭṭîm adverbially rather as a subject.
+
+With the expression in this way, they came (EVENT 1) in v. 7, the narrator’s viewpoint219 changes from that of one watching the brothers from afar (“went”; v. 5a) to that of one who is inside the house and sees them come into the house, even into the bedroom! EVENT 2 (“they struck him”) is repeated but with further actions, that is, “and killed him and cut off his head” and “took his head.”
+
+The above discussion on the discourse structure may be summarized as below:
+
+SETTING (5) Now . . . Rechab and Baanah went (wayqtl) . . .
+
+EVENT 1 (what) they came (wayqtl) into the house . . .
+
+SITUATION — he was lying (participle) . . .
+
+PROCEDURE (how) (6) they came (qtl) . . .
+
+EVENT 2 (what) they struck (wayqtl) him . . .
+
+TERMINUS Rechab and Baanah escaped (qtl).
+
+EVENT 1 (what) (7) In this way, they came (wayqtl) into the house . . .
+
+SITUATION — he was lying (participle) . . .
+
+EVENT 2 (what) they struck (wayqtl) him and killed (wayqtl) him and cut (wayqtl) off his head; and they took (wayqtl) his head
+
+TERMINUS and went (wayqtl).
+
+Some claim that v. 7 is a later rephrasing of the account of v. 6.220 But it is reasonable to take it rather as an expansion of the previous verse. The repetitive style is due to its narrative nature, and the discourse structure of vv. 5-6 as noted above supports this interpretation. After recapitulating vv. 5-6, the narrator relates the further actions by the sequence of four wayqtls after “struck”: that is, and killed him (wayqtl) and cut off (wayqtl) his head . . . took (wayqtl) his head and went (wayqtl) the Arabah road all night. The final wayqtl of the movement verb, “and (they) went,” marks TERMINUS of this episode.221
+
+The Arabah road is the road along the Jordan Valley; see the commentary on 2 Sam. 2:29.
+
+6The takers of wheat (lōqeḥê ḥiṭṭîm) could be “buyers” of wheat (see Jastrow, p. 717). This suggests that they pretended to be purchasers222 of wheat in order to gain entry into the house. The LXX reads, “The portress of the house had been gathering wheat; she had nodded and fallen asleep,” and the vast majority of scholars accept Wellhausen’s view that the LXX reflects the original version and the MT is corrupted from its original. McCarter assumes the MT derived its text through several degrees of “graphic confusion.”223 However, his emendation depends too much on the graphic similarity, that is, on the likeness of the shape of scripts.224
+
+E. Mastéy made a detailed linguistic inquiry into this textual problem and supports the MT’s originality.225 He translates lōqeḥê ḥiṭṭîm as “grain robbers” without a reasonable lexical support and interprets the situation as follows: when the two brothers arrive at the house, “grain robbers” were “already inside” and had struck Ishbosheth. So, the brothers escaped. Later, they returned and struck him and killed him (v. 7). Thus, according to Mastéy, Ishbosheth was struck twice, once by the robbers and then by Rechab and Baanah.226 Interesting though it may be, his interpretation is a little forced, for Rechab and Baanah would not have needed to strike Ishbosheth again, as he was presumably still lying on his bed, stricken, and all they would have needed to do was to “kill” him and “cut off” his head.
+
+d. David Kills Rechab and Baanah (4:8-12)
+
+8 And they brought the head of Ishbosheth to David in Hebron and said to the king,
+
+“Here is the head of Ishbosheth, son of Saul, your enemy
+
+who sought your life.
+
+And the LORD has given my lord the king vengeance this day
+
+on Saul and his offspring.”
+
+9 And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite:227
+
+“As the LORD lives,
+
+who has redeemed my life from every danger!
+
+10For the one who once told me,
+
+‘Now Saul is dead!’
+
+thought228 he was a bearer of good news,
+
+but I seized him and killed him in Ziklag,
+
+the one to whom I was supposed to give reward for good news.
+
+11How much more,229 when wicked men have killed a righteous man230
+
+in his house on his bed!
+
+And now, shall I not require his blood from your hand
+
+and exterminate231 you from the land?”
+
+12 And David commanded the young men, and they killed them and cut off their hands and feet and hung them by the pool in Hebron; but they took the head of Ishbosheth and buried it in the grave of Abner in Hebron.
+
+The stage changes from Ishbosheth’s residence to David’s court in Hebron. The verbal phrase brought . . . to David marks the TRANSITION to a new episode.
+
+8Saul, your enemy, who sought your life. It is true that Saul had sought David’s life. However, despite that, David had already refused to kill Saul (1 Sam. 24:4-6; 26:8-9), and furthermore that did not give them an excuse to kill a “righteous man” (v. 11), even if he was Saul’s son (see Deut. 24:16).
+
+9For the oath formula, as the LORD lives, see the commentary on 1 Sam. 14:39.232 The full expression appears again in 1 K. 1:29. The Hebrew term *pdh (“redeem”) was originally an economic term which means either (1) “to pay ransom to” (*pdh + le) or (2) “to release . . . from” (*pdh + min) like Ugaritic pdy.233 Here, David acknowledges that it was the LORD who freed his life from every danger.
+
+10–11This refers to the incident in 2 Sam. 1:13-16. The Amalekite had at least given the excuse that Saul had requested his own death, but Ishbosheth’s death was out-and-out murder. However, as noted earlier, David says nothing here about Ishbosheth as the Lord’s anointed.
+
+The term beśōrāh means reward for good news.234 In the MT, the particle ʾet is prefixed to an indefinite noun phrase a righteous man (ʾet-ʾîš-ṣaddîq), whose meaning is determined by the following phrases.235 For the expression require . . . from your hand (*bqš + miyyedkem), see the commentary on 1 Sam. 20:16.236
+
+12Unlike the case of Joab, there is no problem with executing the killers of Ishbosheth. For hanging a body after death, see 2 Sam. 21:6-14; and Josh. 8:29; 10:26.
+
+5. David, the King of Israel (5:1-5)
+
+It is not stated how soon the events of chapter 5 followed upon those of chapter 4, though it could have been as much as five and a half years (see on 2 Sam. 2:10-11). Presumably the deaths of Abner and Ishbosheth caused a shock among David’s supporters in the north (3:19) and caused them to put off accepting David as king immediately. Some of the shock seems to have remained at the time this account was written. David apparently just bided his time, waiting for the elders of Israel to decide they wanted him as king.
+
+1 And all the tribes of Israel came to David at Hebron and said,
+
+“Here, we are your bone and flesh!
+
+2Even formerly,
+
+when Saul was king over us,
+
+it was you who brought Israel in and out.
+
+And the LORD said to you,
+
+‘You yourself shall shepherd my people Israel;
+
+you yourself shall become a prince over Israel!’ ”
+
+3 Thus all the elders of Israel came to the king at Hebron.
+
+And King David made covenant with them at Hebron before the LORD,
+
+and they anointed David as king over Israel.
+
+4 David was thirty years old when he became king; for forty years he ruled.
+
+5 In Hebron he ruled over Judah seven years and six months; in Jerusalem he ruled thirty-three years over all Israel and Judah.
+
+1–5Finally, David is accepted and anointed as king over the entire house of Israel. First messengers from all the tribes come and ask him to become king, then the elders of Israel come themselves. David makes a covenant with them as representatives of the nation, and they anoint him king over Israel (cf. 1 Sam. 10:25; 11:15). David is one of them (see Deut. 17:15), he is a proven military leader, and he is the chosen of the Lord.
+
+1The particle hinneh (Here) is contrasted with formerly, which refers to David’s former leadership in Israel. We are your bone and flesh (ʿaṣmekā ûbeśārekā), i.e., “your own flesh and blood” (NIV, JPS). Even though there was a distinct division between Judah and the rest of Israel, they still recognize each other as kin (similarly, “brothers” in 2 Sam. 2:26-27).
+
+2The expression, “to go out and in,” refers to the activity of a soldier in battle; see the commentary on 2 Sam. 3:25 and 1 Sam. 18:13.237 The causative (Hi.) brought . . . in and out here connotes David’s leadership in battle. The K. of the MT hāyîtāh mwṣyʾ whmby ʾt-yśrʾl, translated here as who brought Israel in and out, is probably a phonetic spelling of hāyîtā hammôṣîʾ wehammēbîʾ ʾet-Yiśrāʾēl, as in the Q.238
+
+Budde and Eissfeldt239 take the expression the LORD said to you as part of the oracle that Doeg claimed Ahimelech gave David in 1 Sam. 22:10. On the other hand, McCarter thinks that this statement is added by the Deuteronomistic writer, based on its similarity with Nathan’s speech in 2 Sam. 7, which he takes to be a Deuteronomistic insertion.240 However, I would disagree that Nathan’s speech has been Deuteronomistically revised. See the commentary on 2 Sam. 7.
+
+3Thus all the elders of Israel came. Hertzberg holds that the representatives who came to David in v. 1 came again in this verse, but most commentators see here “independent accounts of a single event, redactionally combined.”241 However, it seems best to understand that all the tribes in vv. 1b-2 means messengers of the tribes, and that having received David’s positive response, all the elders of Israel came in person to make covenant with David and anoint him as a king over Israel.
+
+On anointing, see the commentaries on 1 Sam. 9:16; 16:13.242 The covenant probably involved promises on both sides; cf. 10:25. Now, at last, the entire people of Israel, the covenant community, accept David as their representative, i.e., the anointed king of both Judah and Israel. It was probably more than ten years since he was anointed before his father and brothers in 1 Sam. 16. The account in 1 Chr. 11:3 adds the phrase “according to the word of the LORD by Samuel.”
+
+4–54QSama lacks these verses, as do 1 Chr. 11:3 and Josephus.243 McCarter thinks, with Barthélemy, that these verses were suppressed “in one textual tradition because of the inexact correspondence of the years of David’s reign given in vv. 4 (40) and 5 (7 1/2 + 33).” However, as rounding off reign years was normal, this would hardly have been considered a problem. Compare this verse and 2:11, which give “seven years and six months,” with 1 K. 2:11 and 1 Chr. 29:27, which give “seven years.” Also, this would not explain why his age is not given in the latter passages.
+
+4It is often explained that the numbers thirty . . . forty are round numbers, hence not accurate. Solomon’s reign is also given as 40 years (see 1 K. 11:42), while Eli’s judgship lasted 40 years (1 Sam. 4:18). David’s life span is the ideal number “30+40” = 70; see Ps. 90:10. The narrator here may have used the number 40 as a symbolic figure for a full and ideal length of generation, just as 480 years in 1 K. 6:1 possibly stands for twelve generations.244 However, at least in David’s case, the number 40 is not necessarily symbolic, for the number 40 is the sum of 7 years (or 7 years and 6 months) and 33 years. A round number is not always “unhistorical.” The age of the David we see in 1 K. 1 could easily have been around 70.
+
+
+
+
+
+C. JERUSALEM, THE CITY OF DAVID (5:6-25)
+
+
+1. The Royal City of Jerusalem (5:6-10)
+
+6 And the king and his men went to Jerusalem, to the Jebusites, the inhabitants of the land, and they245 spoke to David, saying,
+
+“You cannot come in here.
+
+For even246 the blind and lame will surely turn you away.”
+
+thinking, “David cannot come in here.”
+
+7 And David captured the stronghold of Zion, that is the City of David.
+
+8 And David said on that day,
+
+“Whoever strikes the Jebusites,
+
+let him strike down247 the ‘lame and blind,’
+
+those hated by248 the soul of David,
+
+by means of the water tunnel.”
+
+Therefore it is said,
+
+“The ‘blind and lame’ shall not enter the palace.”249
+
+9  And David lived in the stronghold and called it the City of David.
+
+And David built a wall around it from the Millo and inward.
+
+10 And David became greater and greater, for the LORD God of hosts was with him.
+
+The account of the Davidic kingdom of Israel starts with the capture of Jerusalem, a city on the boundary between Judah and Benjamin. It had not been controlled by any tribe, and thus both symbolically and geographically it was better suited to be the capital of all Israel than Hebron, which is in central Judah.250
+
+Jerusalem was the “Salem” of Melchizedek (Gen. 14:18). Its history goes back to the third millennium, and it had been fortified since the Middle Bronze Age, that is, the first half of the second millennium B.C.251 In the second half of the millennium it was one of the Canaanite city-states under the influence of Egypt. Among the fourteenth-century Amarna letters are several letters to the Pharaoh from the king of Jerusalem.252 A tiny fragment of an Akkadian tablet from the same period was recently found in a fill taken from the Ophel area, between the Old City’s southern wall and the City of David, which has been excavated by Eilat Mazar of Hebrew University. Jerusalem was evidently a major Canaanite city-state during the Late Bronze Age.253
+
+The Jebusites are among the Canaanites listed in Gen. 10:16 and, broadly speaking, are considered to be among the Amorites (Josh. 10:5). The city was too strong to be conquered at the time of Joshua (15:63; Judg. 1:21). The Jebusite city, the city of Zion, was located on the western slope of the Kidron Valley above the city’s water source, the spring of Gihon. An extensive network of water tunnels has been excavated. The water tunnel through which David’s men entered the city was probably one of these. Most likely, it was a Canaanite tunnel (see below) that connects with the shaft now known as “Warren’s Shaft,” which was dug directly over the water channel near the spring. The Hebrew does not specify going “up” the shaft, however, just going through. It should be noted that not all scholars accept that the attack involved the water tunnels, as discussed below.
+
+According to 1 Chr. 11:6, Joab led the attack and was therefore made David’s chief commander. See also the commentary on 1 Sam. 17:54.254 The author of Samuel intentionally focuses on David (see 2 Sam. 5:8) and credits him with the deeds of his men. As R. Gilmour comments, “Samuel is concerned with the glory of David in his capacity and abilities as king, while Chronicles emphasizes the unity of David’s kingdom as he leads ‘all’ Israel.”255
+
+6Various interpretations have been suggested for the significance of the blind and lame here. McCarter summarizes them into three groups: (1) “the city is so strong that its blind and lame citizens will suffice to drive off David” — by Josephus, Kimchi, Caird, McKane, Hertzberg, Ravenna; (2) they are “instruments or at least reminders of the sanctions to be imposed if David violates the oath and enters the city” — by Heller, Yadin, Brunet; (3) it refers to “those among David’s troops who are like blind and lame men in the presence of the impregnable fortress”—Stoebe.256 The first interpretation fits the context best, especially considering v. 8.257 For the uses of “blind” and “lame” in proverbial sayings, Hallo notes two similar proverbs: “In the city of the lame, the halt is courier” (a Sumerian proverb); “In the market place of the blind they call the one-eyed man (their) leader” (a Rabbinic saying).258 In both these sayings, the blind and the lame are the weakest of society.
+
+The phrase surely turn you away (hĕsîrekā), in a 3 m.s., pf. form, has been taken as suffering from problems of both number and tense.259 Hence Wellhausen and S. R. Driver emend the text to yesîrūkā, while others support the rendering “except you take away the blind and the lame” (KJV, RV) either by emendation (Klostermann) or by taking the verb as an infinitive construct with suffix (Stoebe). Herbert takes this perfect tense as past, thus translating “Surely the blind and the lame have turned you aside saying, ‘David will not enter here.’ ”260 But, the perfect of MT verbal form can be explained as perfect of certainty and the singular as collective.
+
+If one considers the last clause as the narrator’s comment on the Jebusites’ thoughts, it is not superfluous.261 They issue their challenge to David because they are confident in the strength of their fortress.
+
+7The stronghold of Zion . . . the City of David, which is the pre-Israelite city, is located at the southeast corner of later Jerusalem. The name Zion appears here for the first time in the Bible. The exact meaning of the name is not certain, but based on Arabic etymologies it may mean “a fortress located on a ridge.”262 The east wall of the Jebusite city has been excavated; it had been fortified since the Middle Bronze Age. The City of David has been excavated by E. Mazar, who claims that a part of David’s palace has been found (see below).263
+
+8It was unnecessary to repeat the subject David, as it is clear from the context, but discourse-grammatically, the stated subject for the narrative tense wayqtl signals a new subparagraph.264 The phrase Whoever strikes the Jebusites (kol-makkēh yebūsî, lit. “as for all those who strike a Jebusite”) is a casus pendens, that is, a topicalization, so appears before the waw+jussive.265
+
+The next phrase is weyiggaʿ baṣṣinnôr weʾet-happisḥîm weʾet-haʿiwrîm (lit. “and let him strike down in/by the water tunnel and the lame and the blind”). The syntax is difficult. It is often translated something like “he should reach the water shaft and strike down the lame and the blind.” The verb is *ngʿ “to touch, strike down.” It often takes the preposition b- before its object: e.g., Gen. 3:3; Exod. 19:12; Lev. 5:2; 1 Sam. 6:9; 2 Sam. 14:10; 23:7. The next word ṣinnôr probably means something like “water tunnel” (see below). As the water tunnel was probably the weakest point in the city’s defenses, taking ṣinnôr with the preposition b- as the object of the verb appears to be reasonable. However, then what do you do with weʾet-happisḥîm weʾet-haʿiwrîm (the lame and the blind)? The verb *ngʿ itself does not imply upward motion, as crawling up a tunnel. The present context rather requires the phrase “the lame and blind” to be the object, even though it does not have the preposition b-. If it is correct, the phrase baṣṣinnôr should be taken adverbially by means of the water tunnel: lit. “in/by” or “through” the water tunnel. (McCarter claims that 4QSama is “damaged at this point (b []),” but the entire phrase by means of the water tunnel [baṣṣinnôr] is clearly attested there.)266
+
+As for the word ṣinnôr, its occurrence in Ps. 42:8 (“waterfalls” [ESV]) makes it highly probable it is some kind of waterway into the city.267 It is usually interpreted as some kind of water pipe (“spout, duct” in Jastrow, p. 1291; “canal, pipe” in Mishnaic Hebrew; see BDB, p. 857; compare also “[water]pipe” in Ugaritic text KTU 4.370:45), and many modern commentators identify this particular pipe with a vertical shaft known as the Warren’s Shaft on the southeastern slope of the City of David.
+
+While some scholars rejected the meaning of ṣinnôr as a pipe on the basis of philological arguments by such scholars as Albright and Yadin, Kleven again supported the identification with “some type of water-shaft”268 and noted Gill’s recent geological investigation (1991) of Warren’s Shaft, which suggests that “ancient (Jebusite) Jerusalem could be entered from at least two extramural points on the eastern hillside: the cave of Gihon and the upper tunnel of Warren’s Shaft Installation.”269 Recently, however, R. Reich270 on the basis of the large stone structures the Spring Tower and the Pool Tower excavated during 1995-2004, has proposed the theory that there were three water systems in the old “City of David”: (1) Hezekiah’s tunnel; (2) the Siloam channel; (3) a Middle Bronze Age shaft above the eighteenth century B.C. pool. In view of a newly discovered horizontal tunnel from MB II, Mazar’s suggestion that the ṣinnôr here is the horizontal tunnel connected to Warren’s shaft is being taken seriously again.271
+
+Note that the phrase the ‘lame and blind’ (weʾet-happisḥîm weʾet-haʿiwrîm; lit. “and the lame and the blind”) as a whole serves as the object of the verb strike down; the initial waw is pleonastic; cf. “those ‘lame and blind’ ” (NIV). David is here echoing the Jebusites’ words in v. 6. Hence, it probably does not mean David hates those who are literally lame or blind, but that he is referring to the self-confident Jebusites who attempted to keep him out.
+
+Therefore (ʿal-kēn) is a speaker-oriented particle, which provides an explanatory note from the perspective of the speaker, not an editorial comment by a later redactor.272 It introduces a sentence that is on a level of discourse different from the preceding speech of David, hence followed by it is said (lit. “they say”).273
+
+Here, the expression the blind and the lame is used sarcastically (see it is said) to refer to the Jebusites in general. “House” can mean either “temple” or “palace.”274 And as there is no biblical prohibition against the blind and the lame entering the temple for worship, the prohibition probably means that the Jebusites may not enter David’s palace even as his subjects.
+
+McCarter has a very complicated view of vv. 6-8. He interprets v. 6 as “for the blind and the lame had incited them,” explaining it as a later gloss to explain v. 8. In v. 8, he translates weyiggaʿ baṣṣinnôr as “strike at the windpipe,” and interprets it to mean to deliver a fatal blow, as David hated having mutilated people, which was related to the prohibition of men with defects serving as priests (Lev. 21:17-21). But there is no biblical prohibition against the blind and the lame entering the temple for worship. Besides, the verbal phrase is never used with a noun for a body part in the literal sense, “to strike s.o. on (a part of body)”; cf. haḥayil ʾăšer-nāgaʿ ʾĕlōhîm belibbām (1 Sam. 10:26) “warriors whose hearts God had touched” (NRSV). Other suggestions for the meaning of ṣinnôr are “with a dagger” (LXX; en paraksiphidi), “joint” (Albright), “phallus” (Glück), etc.275 As the water tunnel interpretation makes sense linguistically and contextually, such interpretations are unnecessary.
+
+9David called the Jebusite stronghold the City of David. Another example of the renaming of a captured city in the ancient Near East is that of the Assyrian king Shalmaneser III (858-824 B.C.) who captured Til-Barsip and renamed it Kār-Shalmaneser.276
+
+What David built (wayyiben dāwīd) is probably a wall, though the MT omits the object by the literary device of brachylogy (see below); cf. “He built up the area” (NIV); “David built the city” (NRSV). McCarter translates “He built a city,” following 4QSama. His view that MT has dwd (“David”) instead of ʿyr (“city”) “by graphic confusion”277 is not convincing. Rather, the threefold repetition of the post-wayqtl subject (“David”) in vv. 9-10 is a rhetorical device.
+
+Brachylogy is omission of an understood word such as the direct object of a transitive verb.278 Hebrew often omits “messenger(s)” after “send,” as in 2 Sam. 10:5. Similarly in English, though not in all languages, one can say “I am reading,” without specifying an object.
+
+The Millo (millôʾ) is literally “the fill,” some kind of rampart, perhaps the Jebusite terracing found in the excavations in the “G section” on the eastern slope of the City of David. Solomon later rebuilt it (1 K. 9:15, 24).279
+
+10Some scholars think the long story of David’s ascent to the throne of Israel ends with the description And David became greater and greater,280 while others consider 2 Sam. 7 to be the conclusion to the story of David’s rise (*hdr).281 However, it seems unlikely that the story ended either here or with chapter 7.282 For one thing, a catalogue of David’s victories over the neighboring nations follows immediately in ch. 8.
+
+The LORD . . . was with him is the theological leitmotif of Samuel; see 1 Sam. 16:18; 18:12, 14, 28; and 2 Sam. 7:9. For the LORD God of hosts (YHWH ʾĕlōhê ṣebāʾôt), usually YHWH ṣebāʾôt, see the commentary on 1 Sam. 1:3.283
+
+2. The Royal Palace (5:11-12)
+
+11 And Hiram284 the king of Tyre sent messengers to David with cedar logs285 and carpenters and stonemasons,286 and they built a house for David.
+
+12 And David knew that the LORD had established him as a king over Israel and that he had exalted his kingdom for the sake of his people Israel.
+
+In 2006, Eilat Mazar identified the Large Stone Structure at the south of the Temple Mount with the tenth-century remains of King David’s palace, built by the Phoenicians. G. Barkai calls Mazar’s findings unprecedented. “She has for the first time after more than 150 years of archaeology in Jerusalem discovered a massive public building dating back to the 10th century B.C.E.”287
+
+11Hiram the king of Tyre was a contemporary of David and Solomon and is mentioned in 1 K. 5 as a friend of Solomon who provides the cedars to build the temple, just as he here provides David with cedars to build his house (see “a house of cedars” in 2 Sam. 7:2). Tyre, the Iron Age capital of the Phoenicians, was a trading empire, and it was in its interest to keep the inland trade routes open to its merchants, especially those routes through Israel to Egypt.
+
+According to Josephus, the fourth year of Solomon’s reign (1 K. 6:1), when he began to build the temple of the Lord, corresponds to either the eleventh or twelfth year of Hiram’s reign. If this is correct, the present event would have occurred during the late part of David’s forty-year reign.
+
+The cedars of Lebanon, which have now all but disappeared, were famous throughout the Near East. There are Assyrian reliefs showing men cutting them down and transporting them to Nineveh.
+
+12The expression established . . . kingdom anticipates that of 2 Sam. 7:12. Some claim that since the language is “dynastic,” it is a Deuteronomistic addition and postexilic. However, in my view, dynastic language does not necessarily make something a postexilic Deuteronomistic addition.288
+
+3. The Royal Family (5:13-16)
+
+13 And David again took concubines and wives in Jerusalem after he came from Hebron.
+
+And sons and daughters were born to David again.
+
+14 These are the names of those who were born to him in Jerusalem:
+
+Shammua and Shobab,
+
+Nathan and Solomon,289
+
+15 Ibhar and Elishua and Nepheg and Japhia,
+
+16 Elishama and Eliada and Eliphelet.
+
+13–16This is a summary statement about David’s kingship in Jerusalem (cf. 3:2-5); it does not mean these eleven sons were all born before v. 17. These are (weʾēlleh) in v. 14 is a formula introducing a list of names.290 The birth of Solomon is mentioned in 12:24. None of the other sons are mentioned in the narratives, but according to 1 Chr. 3:5, the first four were children of Bathsheba. The parallel passages 1 Chr. 3:5-8 and 14:4-7 list two more sons between Elishua and Nepheg (“Eliphelet” and “Nogah”) for a total of thirteen sons. Comparison with 4QSama suggests that the two names might have been omitted in the Samuel MT.291 Nathan was an ancestor of Jesus (Luke 3:31; cf. Matt. 1:6).
+
+13The MT in Jerusalem (mîrûšālaim; cf. bîrûšālaim in 1 Chr. 14:3) has been translated as “from Jerusalem” (NASB, McCarter) like eks Ierousalēm (LXX), which is indeed the normal reading. However, it would seem that here is a phonetic spelling derived from the normal bîrûšālaim (“in Jerusalem”) as the result of a progressive total assimilation at a word boundary:292 thus,
+
+wenāšîm bîrûšālaim → wenāšîm mîrûšālaim
+
+If it meant “from Jerusalem,” the Hebrew form min-yerûšālaim or a variant form mērûšālaim would be expected. So, if it is correct, the MT is not a copyist’s error, that is, an error that arose in the process of scribal practice, but simply a phonetic variant that already existed at the time of the LXX.293
+
+15–16Elishua (ʾĕlîšûaʿ) and Eliada (ʾelyādāʿ) are the variant forms of “Elishama” (ʾĕlîšāmāʿ) in 1 Chr. 3:6 and “Beeliada” (beʿelyādāʿ) in 1 Chr. 14:7. While the former variation can be explained phonetically, i.e., am – uw, both consonants being bilabial, the latter is a variant designation of deity, i.e., “god” (ʾēl) for “master” (beʿel), perhaps related to the aversion to the word baʿal seen also elsewhere in Samuel; see commentary on 2:8.
+
+4. Victories over the Philistines (5:17-25)
+
+a. David’s First Victory (5:17-21)
+
+17 And the Philistines heard that David had been anointed294 as a king over Israel.
+
+And all the Philistines came up to seek David.
+
+And David heard and went down to the stronghold.
+
+18 As for the Philistines, they came and spread out in the Valley of Rephaim.
+
+19 And David inquired of the LORD,
+
+“Shall I go up against the Philistines?
+
+Will you give them into my hand?”
+
+And the LORD said to David,
+
+“Go up!
+
+For I shall indeed give the Philistines into your hand.”
+
+20 And David came to Baal-perazim.
+
+And David defeated them there and said,
+
+“The LORD has broken out upon my enemies before me
+
+like an outburst of water.”
+
+Therefore he called the name of that place Baal-perazim.
+
+21 And they abandoned their idols there.
+
+And David and his men carried them off.
+
+17–21Until now the Philistines may have considered that David was still a vassal to some extent (1 Sam. 27); at least they must have been happy about his struggle with Ishbosheth. However, when David becomes king over Israel, that is, both Israel and Judah, and even captures Jerusalem, they realize he is a threat.
+
+17Went down to the stronghold (hammeṣûdāh). This is sometimes explained to refer to a stronghold in the direction of the Philistine country, for one usually “goes up” to Zion. Hence some scholars hold that this stronghold may be that of Adullam (see 1 Sam. 22:1; 2 Sam. 23:13) and David went down from Hebron where he was anointed (5:3); and from there was told to “go up” to the Valley of Rephaim in v. 19.295 However, the fact that the Philistines came to the Valley of Rephaim, the valley leading toward Jerusalem from the southwest, surely implies David was in Jerusalem, not in Hebron.
+
+Garsiel convincingly argues that “the Philistines would not have concentrated such extensive forces merely to engage in punitive expeditions and lay fields waste.” 296 Certainly, David’s going down to the stronghold of Adullam would not make sense when the Philistines came up to kill him. The expression David . . . went down to the stronghold would make sense topographically if the stronghold refers to the original Jebusite citadel in Jerusalem, which is surrounded by the hills. David must have been at some higher point toward the top of a hill that was outside of the stronghold.297
+
+18And they spread out (cf. “raided” wayyipšeṭû in 1 Chr. 14:9). The Philistines “spread out” also in Judg. 15:9 in order to capture Samson. The Philistines came up to this valley, probably by way of the Valley of Sorek, in order to cut the lines of communication between David’s newly united dominions.298
+
+20“Baal” in Baal-perazim (Baʿal-perāṣîm) could be a common noun meaning “lord,” which seems how it is interpreted here; see on 2 Sam. 2:8. McCarter explains it as a sanctuary on or near Mount Perazim (Isa. 28:21). If David is marching north from Adullam, as McCarter holds, the location would be on “the southern or western border” of the Valley of Rephaim.299 However, if the stronghold is that of Zion as suggested above, David would go up (v. 19) to the higher location of Baal-perazim, which Garsiel identifies with Mount Abu Tor, near the modern railway station in Jerusalem.300
+
+The verbal root *prṣ in the phrase kepereṣ māyim (like an outburst of water; so McCarter) frequently refers to breaking through a wall; e.g., 2 K. 14:13; also Amos 4:3; Neh. 4:3; 6:1. The expression was probably an old metaphor; it must have been idiomatic even before David; thus, the war is here described by a language of flood; just as a flood can be described by the language of war;301 see also Nah. 1:8.302
+
+21This verse is a reversal of 1 Sam. 4:11, where the Philistines carried off the ark. However, the fate of these idols is very different from that of the ark in 1 Sam. 4-6. According to 1 Chr. 14:12 David had the idols burnt. Their idols (ʿăṣabbêhem) here should be compared with “their gods” (ʾĕlōhêhem) in the Chronicles passage; also LXX. Carrying off the gods of a defeated enemy was normal; see the commentary on 1 Sam. 5:1.303
+
+b. David’s Second Victory (5:22-25)
+
+22 Again the Philistines came up and spread out in the Valley of Rephaim.
+
+23 And David inquired of the LORD and he said,
+
+“You shall not go up.
+
+Go around to their back
+
+and come to them in front of balsam-trees.304
+
+24 When you hear the sound of marching305
+
+in the tops of the balsam-trees,
+
+then act with decision,306
+
+for then the LORD will have gone out307 before you
+
+to strike the camp of the Philistines.”
+
+25 And David did so according as the LORD commanded him and defeated the Philistines from Geba up to Gezer.
+
+22–25It may be that the sound of marching in the trees frightened the Philistines (cf. 2 K. 7:6-7). Another possibility is that David was able to use the sound as cover for his attack.308 By this victory, David drove the Philistines out of the central hill country area. For Geba, see the commentary on 1 Sam. 13:16.309
+
+The expulsion of the Philistines up to Gezer (2 Sam. 5:25) made it possible for David to have access to the ark of the Lord in the Gibeonite city of Kiriath-jearim, where it was currently residing; see 1 Sam. 7:1.
+
+22Divine inquiry was often made in two stages; see the commentary on 2 Sam. 2:1. Note the repetition of phrases in vv. 17-21 and in vv. 22-25.
+
+McCarter asserts the antiquity of this account of a second battle; others think it is unauthentic or a variation on vv. 17-21. But Tidwell has demonstrated that “the similarity in form is simply a reflection of the conventionalized nature of battle reports.”310 This may be literary “repetition” or “a build-up and climax”311 based on two historical incidents that happened one after another within a short period. Certainly in a strategic location more than one battle can occur.
+
+25Geba (gebaʿ); so NRSV; JPS; NASB; cf. “Gibeon” (NIV; McCarter), based on LXX and 1 Chr. 14:16. On the “Gibeah” – “Geba” – “Gibeon” identification, see the comments on 1 Sam. 9:2, 10:10 and 13:2.312
+
+
+
+
+
+D. ZION, THE PLACE OF WORSHIP (6:1-23)
+
+
+Jerusalem has become the political capital of the united Israel; now it becomes the religious center also. David brings the ark of the Lord of Hosts to Jerusalem from Baale-judah (that is, Kiriath Jearim), where it has been most of the time since the Philistines returned it in 1 Sam. 6, perhaps about twenty years ago.313 Its arrival in Jerusalem is a climactic moment in the religious history of the Israelites, the covenant people. From now on the Lord would place his Name in Jerusalem.
+
+For the Israelite people during the time of wandering in the wilderness the ark had been a symbol of presence of the Lord, especially of his presence in battle.
+
+And whenever the ark set out, Moses said, “Arise, O LORD, and let your enemies be scattered, and let those who hate you flee before you.”
+
+And when it rested, he said, “Return, O LORD, to the ten thousand thousands of Israel.” (Num. 10:35-36)
+
+It is mentioned several times in connection with battle (Num. 14:44; Josh. 6:4; 1 Sam. 4:3; 14:18). However, there is no mention of it in the account of David’s international victories in 2 Sam. 8, though it does seem to have been taken on the campaign against Rabbah (11:1). David clearly rejected using the ark as a talisman against Absalom (15:25) as the Israelites apparently did against the Philistines (1 Sam. 4). The narrator, so David himself, seems to treat the ark as being not so much for a military purpose as for a religious purpose.
+
+This section is placed between David’s victories over the Philistines (2 Sam. 5:17-25) and Nathan’s oracle to David (7:1-17). Only after his victories over the Philistines could David bring the ark to his royal city. The ark’s arrival in Jerusalem can be seen as the fulfillment of statements like Deut. 12:5, 11. It had been taken from Shiloh into battle against the Philistines by the Shilonite priesthood, which had been rejected by the Lord (1 Sam. 2-5). The ark was captured by the Philistines, and eventually returned to Kiriath-jearim (chs. 5-6).
+
+Certainly, the ark as the symbol of the holy presence of God would give the newly conquered royal city legitimacy as the holy city of the country, the national center for worship of the national god Yahweh. Ever since Sumerian times, a royal city, the very center of the realm, was never complete as such until the national temple was constructed. In this sense, bringing the holy ark into Jerusalem was a crucial event in the history of the monarchy in Israel.
+
+Psalm 132 refers to David’s earnest desire to transfer the ark from Ephrathah,314 from “the fields of Jaar” (v. 6) into the “dwelling place” (v. 5), namely the “resting place” (v. 8) for the Lord in the royal city in order to make it the holy city (2 Sam. 6). “The fields of Jaar” most probably refers to Kiriath-jearim, i.e., Baalah of Judah.315 One need not distinguish between “dwelling place” (Ps. 132:7: miškenôt) and “resting place” (v. 8: menûḥāh) as if the former refers to the tabernacle and the latter to the temple (of Solomon). In this psalm vv. 11-12, the Lord’s covenant with David is mentioned together with the key words such as “son” (v. 12; also, v. 11: lit. “your fruit of the womb”) and “throne,” as in Ps. 89 (“heir” and “throne”).316 Thus, Ps. 132 refers to the election of David and of Zion, the events that are treated in chs. 6 and 7.
+
+1 Remember, O Lord, in David’s favor,
+
+all the hardships he endured,
+
+2 how he swore to the Lord
+
+and vowed to the Mighty One of Jacob,
+
+3 “I will not enter my house
+
+or get into my bed,
+
+4 I will not give sleep to my eyes
+
+or slumber to my eyelids,
+
+5 until I find a place for the Lord,
+
+a dwelling place for the Mighty One of Jacob.”
+
+6 Behold, we heard of it in Ephrathah;
+
+we found it in the fields of Jaar.
+
+7 “Let us go to his dwelling place;
+
+let us worship at his footstool!”
+
+8 Arise, O Lord, and go to your resting place,
+
+you and the ark of your might.
+
+9 Let your priests be clothed with righteousness,
+
+and let your saints shout for joy.
+
+10 For the sake of your servant David,
+
+do not turn away the face of your anointed one.
+
+11 The Lord swore to David a sure oath
+
+from which he will not turn back:
+
+“One of the sons of your body
+
+I will set on your throne.
+
+12 If your sons keep my covenant
+
+and my testimonies that I shall teach them,
+
+their sons also forever
+
+shall sit on your throne.”
+
+13 For the Lord has chosen Zion;
+
+he has desired it for his dwelling place:
+
+14 “This is my resting place forever;
+
+here I will dwell, for I have desired it.
+
+15 I will abundantly bless her provisions;
+
+I will satisfy her poor with bread.
+
+16 Her priests I will clothe with salvation,
+
+and her saints will shout for joy.
+
+17 There I will make a horn to sprout for David;
+
+I have prepared a lamp for my anointed.
+
+18 His enemies I will clothe with shame,
+
+but on him his crown will shine.”
+
+1. Transfer of the Ark to Jerusalem (6:1-19)
+
+The ark of the Lord has remained at Kiriath-jearim (see 1 Sam. 7:2) up until now, though there is mention of its being in the battle camp at the time of the Battle of Michmash (1 Sam. 14:18), and it was possibly at Nob for at least a while; see 1 Sam. 21:1; 22:19.317 Now David proposes to bring the ark from Baalah of Judah, which was earlier called Kiriath-jearim (see 1 Chr. 13:6), into his royal city of Jerusalem. The procession is an elaborate one, including at least two priests and a throng of jubilant people and musicians (2 Sam. 6:5). However, as the procession draws near to Jerusalem, Uzzah, one of the officiating priests, is struck down by the Lord for his irreverence (v. 7).
+
+Why does the Lord act so severely toward Uzzah and hence to David? Both of them had good intentions, but by bringing it on a cart, however new, like the Philistines who returned the ark to Israel (see 1 Sam. 6:7), they transgressed God’s commandment, which required the Levites to carry the ark of God by poles (Exod. 25:14).
+
+David, being afraid of the Lord, moves the ark of God to the house of Obed-edom for three months. Then, he resumes the procession with rejoicing and dancing accompanied by numerous sacrifices (2 Sam. 6:12-15). Finally the ark of the Lord is brought into the tent that David has prepared for it in Jerusalem.318
+
+
+EXCURSUS: THE ORIGIN OF THE CULTIC PROCESSION IN 2 SAMUEL 6
+
+The details of this passage presumably reflect ritual practices of the Jerusalem cult of the monarchical period — but which practices? There are several hypotheses:319
+
+(1) It is based on an annual temple rite such as “the new year festival, the enthronement festival of Yahweh” (Mowinckel), “the festival which commemorated purely historical events, viz. the choice of Zion and election of David” (Kraus) or “a Canaanite coronation rite” (Porter).
+
+(2) It is based on a ritual for transferring the ark, which has its parallel in the historical accounts in the annals of Assyrian kings (e.g., Esarhaddon and Assurbanipal), such as the one that refers to the return of Marduk to his city and temple after eleven years of exile in Assur.320 However, here the ark is not returned to Shiloh, but taken to a new location.
+
+(3) It is based on a ritual for bringing a god into a new royal city, as we see in the historical accounts of the introduction of the national god Assur to the new royal cities of Assyrian kings (e.g., Assurnasirpal II, Sargon II, Sennnacherib, and Esarhaddon).
+
+The third view is the most reasonable for explaining the origin of the cultic procession described in this chapter. Like those Assyrian kings, David played the key role as the patron of the Jerusalem cult in introducing Yahweh to the new royal city.
+
+a. From the House of Abinadab (6:1-5)
+
+1 And David again gathered321 all the select men of Israel,322 thirty323 thousand.
+
+2 And David arose and went with all the people who were with him to Baalah of Judah to bring up from there the ark of God, the name of which is called by the very name of the LORD of Hosts, who sits on the cherubim.
+
+3 And they loaded the ark of God on a new cart and transported it from the house of Abinadab, which was on the hill. Uzzah and Ahio, the sons of Abinadab, were leading the new cart.324
+
+4 As they transported it from the house of Abinadab, which was on the hill,325 with the ark of God, Ahio was walking before the ark.
+
+5 David and all the house of Israel were celebrating before the LORD with all the branches of fir trees, and with lyres, harps, tambours, sistrums, and cymbals.
+
+1–2For the ark of the Lord, see the commentary on 1 Sam. 4:3.326
+
+In 1 Sam. 7:1, the name of the city where the ark was kept is given as Kiriath-jearim; the fact that in David’s time the name was Baalah of Judah suggests that 1 Sam. 4:1–7:2 belongs to a tradition from before David’s time.
+
+1The term selected men (bāḥur) may be a technical term for “selected warriors,” i.e., men chosen for warfare; see Judg. 20:15, 16, 34; 1 Sam. 26:2; also see 1 Sam. 24:2; 2 Sam. 10:9.
+
+The Hebrew ʾelep can mean either “thousand” or the military unit ʾelep. See the commentary on 1 Sam. 4:2 and 6:19.327
+
+2Baalah of Judah (so NIV) is translated variously: e.g., “Baale-judah” (RSV; NASB); “Baalim of Judah” (JPS); cf. 4QSama bʿlh hyʾ qr[yt yʿrym ʾšr] lYHWH.328 McCarter thinks that MT baʿălê yehûdāh is “probably a corrupt remnant of a reading like that of 4QSama” and translates simply “Baalah,” omitting “of Judah.” But the MT is possibly either a phonetic spelling of “Baalah of Judah”:
+
+baʿălāh yehûdāh → baʿălāyehûdāh → baʿălayhûdāh → baʿălêhûdāh
+
+or a form based on an older name *baʿlay, which experienced a monothongization of the diphthong: *baʿlay → baʿălê.
+
+baʿlay yehûdāh → baʿălay yehûdāh → baʿălê yehûdāh
+
+This was the later name of Kiriath-jearim; see “to Baalah [baʿălātāh], that is, to Kiriath-jearim, which belongs to Judah” (1 Chr. 13:6); also Josh. 15:9. For Kiriath-jearim, see the commentary on 1 Sam. 6:21.329
+
+The ark of God (ʾărôn hāʾĕlōhîm) is a visible sign of the presence of the Lord. See the commentary on 1 Sam. 3:3.330 1 Samuel 7:2 says that the ark was at Kiriath-jearim for twenty years.
+
+The ark of God is called by the name (niqrāʾ šēm . . . ʿālâw); lit. “to which the name is called.” See the commentary on 1 Sam. 1:3. The phrase the LORD of Hosts who sits on the cherubim is identical to that in 1 Sam. 4:4. This reminds one of the description of the ark in Exod. 25:18-20. For the phrase “the LORD of Hosts,” see on 1 Sam. 1:3.331
+
+3-4They loaded (*rkb [Hi.]) the ark onto a new cart, that is, a ritually clean cart, as the Philistines did (1 Sam. 6:7). However, the Lord had commanded his people that it should be carried by the Levites; see Exod. 25:14-15; Num. 4:15; 7:9; Deut. 10:8; 31:9, 25; also Josh. 3:15 and 1 Chr. 15:2.
+
+3In Arad Inscription 1:6-7, trkb (Hi.) means not simply “to load” but “to transport” or “to send” objects on a wagon;332 also “to load meal on to a donkey.”333 See the commentary on 1 Sam. 25:42.334
+
+Abinadab was the father of the priests Uzzah and Ahio as well as Eleazar; see 1 Sam. 7:1. Uzzah (ʿuzzāʾ) and Ahio were probably brothers of Eliazar (ʾelʿāzār) in 7:1, though Uzzah and Eliazar may have been the same person, since it is phonetically possible that “Uzzah” (ʿz), a hypocoristicon of a theophoric name ʿuzzîʾēl, is a variation of “Eliazar” (ʾlʿzr), similar to the variants Uzziel (ʿuzzîʾēl) in 1 Chr. 25:4 and Azarel (ʿăzarʾēl) in 25:18 or King Uzziah (ʿuzzîyāhû; 2 K. 15:32-34; 2 Chr. 26:1) and Azariah (ʿăzaryāh; 2 K. 15:1). Note that a syllable- or word-final consonant /r/ may be dropped phonetically as in the cases of Ugaritic DN kṯ (KTU 1.3:VI:18) for kṯr and ʿqš (1.100:33-34) for ʿqšr.335
+
+4The order in which the names Uzzah and Ahio appear is that of the ABBA pattern: namely, “Uzzah and Ahio” (3) – “Ahio” (4) – “Uzzah” (6). There is no need to reconstruct “Uzza walking alongside the ark,” as McCarter posits on the basis of LXXL, before “and Ahio.”336
+
+5The phrase the house of Israel here refers to all the tribes of Israel; it appears for the first time in Samuel in 1 Sam. 7:2. Celebrating (meśaḥăqîm) or “making merry”; see 1 Sam. 18:7; cf. “dancing” (NRSV); “danced” (JPS), based on paizontes (LXX).
+
+The phrase before the LORD (lipnê YHWH), as in Exod. 28:29; 2 Sam. 6:14; etc., means before the ark, which represents God’s presence with his people. That it was not just an arbitrary symbol of his presence, but something that was not to be treated lightly is shown both in 1 Sam. 4:1-7:2 and in this passage. Note that before the LORD is a key phrase in Leviticus, referring to man’s approach to the holy presence of God.
+
+The phrase with all the branches of fir trees (bekōl ʿăṣê berôšîm) has been interpreted in various ways.
+
+(1)Traditionally, the phrase has been explained as referring to musical instruments made of fir wood. However, its relationship with the other instruments in v. 5b is not clear.
+
+(2)Based on the archaeological evidence, it has been interpreted as referring to clappers made of fir wood.337 But with this interpretation the phrase bekōl “with/in all” does not make much sense.
+
+(3)Some have emended the MT to bkl ʿz wbšyrym,338 as “with all their might and with songs,” following the reading of 1 Chr. 13:8, LXX, and 4QSama;339 e.g., “with all their might, with songs” (NRSV; also NIV); “with all their might to the sound of singing” (REB); “with all their might, singing to the accompaniment of” (NJB).
+
+(4)McCarter translates as “with sonorous instruments and songs,” reading bkly ʿz (lit. “with instruments of might”) wbšyrym; he also read bkl ʿz (v. 14) as bkly ʿz.340
+
+(5)Seow draws our attention to an Akkadian cognate burāšu “crushed wood” and connects it with “wood shavings used in rituals, particularly in connection with the akītu festival.”341
+
+However, it may be that ʿăṣê here refers to branches rather than “trees,” since it sometimes refers to a vine; see dm ʿṣ, “wine” (lit. “blood of the vine”), in Ugaritic. Certainly, the branches of the aromatic juniper trees would be most fitting in the context. One might compare these branches with those used in celebrating the king’s procession into his royal city described in Matt. 21:8. Certainly, for David and the Israelite people, the procession of the ark into Jerusalem was the procession of the real king into his holy city.
+
+Music is part of worship in most societies, and it was an important part of Israelite worship. The prophets in 1 Sam. 10:5 were accompanied by harp, tambourine, flute, and lyre. David sings God’s praises in 2 Sam. 22:50, and in his old age he organized musicians to praise the Lord in the temple (1 Chr. 23:1-5). The psalms were composed to be sung, and there are many references to using instruments in worship, as in Pss. 71:22; 92 (heading); 149:1; and 150.
+
+The lyre and the harp were the most common stringed instruments, and David was a skilled lyrist; see 1 Sam. 16:18. For harp, tambourine, pipe, and lyre, see the commentary on 1 Sam. 10:5.342 The term sistrums (menaʿanʿîm) is a hapax legomenon. The Hebrew root *nwʿ “to shake” implies that this instrument has a “rapidly repeated movement.”343 While “castanets” (ESV) is a reasonable guess, it might also be a “sistrum,” an instrument consisting of metal rings or disks shaken on rods. Mitchell follows Latin Vulg. sistra. The word for cymbals (ṣelṣelîm) has the variant form meṣiltayim (= Ug. mṣltm) in 1 Chr. 13:8; 15:28. There were various types of cymbals in the ancient Near East. Some were several inches in diameter; some were hit while being held upright, like modern orchestral cymbals; in other cases, the two cymbals of the pair were held horizontally with rods, one above the other.
+
+b. Perez-uzzah (6:6-11)
+
+6 And they came up to the threshing floor of Nacon.344
+
+And Uzzah reached out his hand to the ark of God and took hold of it, for the oxen almost let it fall.345
+
+7 And the anger of the LORD burned against Uzzah.
+
+And God struck him down on the spot346 for his irreverence, and he died there by347 the ark of God.
+
+8 And David was angry because the LORD had burst forth with an outburst upon Uzzah, and that place is called348 Perez-uzzah to this day.
+
+9 And David was afraid of the LORD that day and said,
+
+“How can the ark of the LORD come to me?”
+
+10 David was unwilling to move the ark of the LORD toward himself,349 toward the City of David.
+
+And David took it aside to the house of Obed-edom the Gittite.
+
+11 And the ark of the LORD stayed at the house of Obed-edom the Gittite for three months.
+
+And the LORD blessed Obed-edom and all his household.
+
+6–11The death of Uzzah resembles the outbreak against Beth-shemesh in 1 Sam. 6:19. The ark was not to be touched. Even though Uzzah’s motive was clearly to prevent desecration, his fault was brought on by the earlier mistake in the mode of transport (see on vv. 3-4). In 1 Chr. 15:13 David states the outbreak was because the Levites did not carry the ark.
+
+6–7Tur-Sinai argues that the stories in 1 Sam. 6:19 and the present passage are “two versions of a single etiological legend.” But, as McCarter holds, they could both be the “instances of the awesome power of Yahweh’s ark.” Both teach that “the transference of the ark from one place to another . . . was not a task to be taken lightly.”350
+
+6The phrase reached out his hand is literally “sent,” without any object. This is a phenomenon of brachylogy351 of “hand,” rather than due to the “haplography” (McCarter). Uzzah was probably following the ark, since Ahio was walking before the ark (v. 4).
+
+7The expression for his irreverence (ʿal-haššal) is translated variously: e.g., “because of his irreverent act” (NIV); “for his indiscretion” (JPS); cf. “because he reached out his hand to the ark” (NRSV).352 Even a careless handling of the holy object could be a cause of the divine anger, for the priests were supposed to know how to transport the ark of God.
+
+8–9David was angry — lit. [nose]353 became hot for David — means David “became ill-humoured (in the face of Yahweh)” (see HALOT) as of Samuel in 1 Sam. 15:11. See “David was distressed” (JPS); “was vexed” (REB). While the anger of the LORD (v. 7) burned against Uzzah himself, David’s anger was toward the situation in which the Lord’s anger burned against Uzzah. Then, David was afraid of the LORD (v. 9), i.e., he literally feared the Lord for his awesomeness and fearfulness.
+
+For the formula to this day, see the commentary on 1 Sam. 8:8.354 The expression does not automatically make any particular verse Deuteronomistic, since the same expression occurs in 6:18b, which seems to be definitely pre-Davidic, and in 1 Sam. 27:6, which seems to have been written early in the divided monarchy.
+
+10–11Since David was unwilling to transfer the dangerous ark to his capital, he moved it to the house of Obed-edom (ʿōbēd-ʾĕdôm), who was a Gittite, a foreigner from Philistine Gath, where David had served as a mercenary (1 Sam. 27-30).
+
+There are three theories as to the origin of this Gittite: (1) He may have been a follower of David from that time, just as Ittai and the six hundred Gittites (2 Sam. 15:18-22) may have been. (2) Later, in 1 Chr. 15 he is described as a Levite musician (v. 21) and doorkeeper (vv. 18, 24; also 26:15). His descendants are listed in 26:4-8. However, McCarter doubts that Obed-edom was a Levite, for his name contains a non-Yahwistic element; he analyzes the name as “servant of (the deity) Edom,” following Albright.355 (3) It is also possible that he was from another Gath, such as Gath-rimmon (Josh. 21:24-25). The first theory may be preferable to the other two.
+
+c. From the House of Obed-edom (6:12-19)
+
+12 And King David was told,
+
+“The LORD blessed the house of Obed-edom
+
+and all that belongs to him
+
+because of the ark of God.”
+
+And David went and brought up the ark of God from the house of Obed-edom to the City of David with rejoicing.
+
+13 Whenever the bearers of the ark of the LORD advanced six paces, he sacrificed a bull and a fatling.
+
+14 David was dancing with all (his) might before the LORD;
+
+and David was wearing a linen ephod.
+
+15 David and all the house of Israel were bringing up the ark of the LORD
+
+with shouting and the sound of the trumpet.
+
+16 When the ark of the LORD was about to enter the city of David, Michal the daughter of Saul was looking down through the window. She saw King David leaping and dancing before the LORD and despised him in her heart.
+
+17 And they brought the ark of the LORD and set it in its place in the midst of the tent that David had pitched for it.
+
+And David offered burnt offerings and peace offerings before the LORD.356
+
+18 And David finished offering the burnt offering and the peace offerings and blessed the people in the name of the LORD of hosts
+
+19 and distributed to all the people, to all the multitude of Israel, to both men and women, individually, the following items:
+
+bread-cakeone
+
+and date-cakeone
+
+and raisin-cakeone.
+
+And all the people went back, each to their own house.
+
+This section, vv. 12-19, is rather a long episode, with a multilayered discourse structure. Noting the verbal forms in this unit, one can recognize here the movement of discourse, which is in parallel with the actual movement of the ark from the house of Obed-edom to Jerusalem.
+
+The SETTING “And King David was told (passive),” is followed by a list of EVENTS, all of which have David as subject. After a parenthetical sentence about Michal (v. 16), there is a TRANSITION “And they brought . . . and set,” and two more EVENTS with David as subject, then the TERMINUS, “And all the people went back.”
+
+13This time the ark is carried properly. It seems that David sacrificed every six steps. Here LXX is unintelligibly divergent from MT.357 1 Chr. 15:26 preserves a different tradition: “And because God helped the Levites who were carrying the ark of the covenant of the LORD, they sacrificed seven bulls and seven rams.”
+
+Ancient Near Eastern literature refers to repeated sacrifices in relation to processions accompanying the transfer and installation of gods.358 As for the number of sacrificed animals, Solomon sacrificed a multitude of oxen and sheep during the dedication of the temple. David probably did not slaughter the animals himself, but this emphasizes that he was the central character in bringing the ark to Jerusalem. The purpose of sacrificing all along the way to Jerusalem is to appease the Lord’s anger and please his God.
+
+The expression a bull and a fatling could be a hendiadys meaning “a fatted bull.”
+
+14For the term dancing (mekarkēr), lit. “hopping, jumping,” McCarter translates “strumming on a sonorous instrument,”359 taking the verb *krr as referring to an activity of the fingers, like David’s special skill in playing a lyre (1 Sam. 16:18). However, as the Ugaritic term krkr “to twist, twiddle”360 suggests, this movement is concerned with more than his fingers. For the phrase with all (his) might (bekol-ʿōz), see the commentary on v. 5 (above); cf. “on a sonorous instrument” (McCarter), based on LXX.
+
+David’s linen ephod (ʾēpôd bād) was a simple linen robe like that of the young Samuel (1 Sam. 2:18). He is scantily clad, without outer robes.
+
+15The phrase David and all the house of Israel (v. 5) is repeated. All the tribes of Israel join David in bringing up the ark of the LORD to the city. The trumpet (šôpār), literally “a horn,” is an instrument made of a ram’s horn, usually used for signaling.
+
+16When the ark of the Lord enters the city, his wife Michal, the daughter of Saul sees him leaping and dancing, and despises him for his unsuitable, unkingly behavior; see v. 20 (below).
+
+The Hebrew for when, wehāyāh, which is waw+pf. (weqtl) has been explained as “abnormal”; certainly, the normal form is wayhî. However, the use of this form signals that v. 16 is one step off the mainline narrative and gives the background information in an embedded discourse.361
+
+For the motif of “the woman at the window,” see Judg. 5:28 and 2 K. 9:30 as well as ivory plaques from Samaria, Arslan Tash, Nimrud, and Khorsabad.362 The motif became a narrative convention in Hebrew literature for depicting a woman who is waiting for someone either with joyous expectation or anxious concern.
+
+17With the ark of the Lord set . . . in the midst of the tent, Jerusalem the royal city becomes the holy city of Zion, where the Lord’s presence is assured by the visible presence of the ark in the tent.363 The tent corresponded to the tabernacle of Exod. 26. McCarter omits the phrase in its place (so LXX) as textually “secondary” with Syr. and 4QSama, as well as the shorter text in Josephus (Ant. 7.86) and 1 Chr. 16:1. However, as Herbert shows, the space considerations of 4QSama rather support the inclusion of this phrase, thus supporting the MT and making McCarter’s lengthy argument moot.364
+
+Peace offerings (šelāmîm) are sacrifices offered to the deity and then eaten by the worshippers in his presence; see Deut. 27:7.
+
+19These gift items are listed in a list formula, as in 1 Sam. 6:17-18 and 25:18.365 The term date-cake (ʾešpār) appears only here and the parallel 1 Chr. 16:3. See HALOT, p. 97. The raisin-cake is a lump of dried compressed grapes, a nourishing and sustaining food; it also appears in Song 2:5.
+
+2. Michal and David (6:20-23)
+
+20 And David returned to bless his house.
+
+And Michal the daughter of Saul came out to meet David and said,
+
+“How the king of Israel distinguished himself today!
+
+He uncovered himself today to the eyes of his servants’ maids
+
+as one of the rabble366 uncovers himself!”
+
+21 And David said to Michal,
+
+“It was before the LORD,
+
+who chose me above your father and above all his house
+
+to appoint me ruler over the people of the LORD, over Israel;
+
+I will celebrate before the LORD!
+
+22 I will be still more lightly esteemed than this
+
+and will be humiliated in my own eyes!
+
+But by the maids whom you have mentioned,
+
+by them I will be honored!
+
+23 And Michal the daughter of Saul had no child to the day of her death.
+
+20–23This section is a kind of epilogue of the story of the transfer of the ark to Jerusalem. Michael is being sarcastic. She no doubt felt he should wear his royal robes as befitted a king, not just an ephod (v. 14). But David stresses that he was dressed simply before the Lord.
+
+20How . . . distinguished himself (*kbd), i.e., “honored himself”; this is sharp sarcasm. Her aristocratic “tone” can be detected in the phrase “his servants’ maids” which means all the young women of Israel.
+
+The term uncovered himself (niglāh), or “revealed oneself,” does not mean that he was bare, as he was wearing a linen ephod, but it was not what a king would wear in public. McCarter’s translation “like some dancer” is based on LXX.
+
+22Some MT manuscripts read “in his [the Lord’s] eyes” for in my own eyes, in which case it would mean David’s humility before the Lord.
+
+23It is not clear whether Michal’s childlessness was natural, with the suggestion that it was punishment for her attitude here, or whether David was no longer intimate with her.
+
+
+
+
+

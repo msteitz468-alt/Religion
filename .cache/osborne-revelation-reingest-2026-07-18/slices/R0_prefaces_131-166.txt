@@ -1,0 +1,38 @@
+=== CACHE SLICE R0_prefaces | lines 131-166 | Series + Author prefaces | 1185 words ===
+
+Series Preface
+
+The chief concern of the Baker Exegetical Commentary on the New Testament (to be known as BECNT) is to provide, within the framework of informed evangelical thought, commentaries that blend scholarly depth with readability, exegetical detail with sensitivity to the whole, attention to critical problems with theological awareness. We hope thereby to attract the interest of a fairly wide audience, from the scholar who is looking for a thoughtful and independent examination of the text to the motivated lay Christian who craves a solid but accessible exposition.
+
+Nevertheless, a major purpose is to address the needs of pastors and others involved in the preaching and exposition of the Scriptures as the uniquely inspired Word of God. This consideration affects directly the parameters of the series. For example, serious biblical expositors cannot afford to depend on a superficial treatment that avoids the difficult questions, but neither are they interested in encyclopedic commentaries that seek to cover every conceivable issue that may arise. Our aim, therefore, is to focus on those problems that have a direct bearing on the meaning of the text (although selected technical details are treated in the additional notes).
+
+Similarly, a special effort is made to avoid treating exegetical questions for their own sake, that is, in relative isolation from the thrust of the argument as a whole. This effort may involve (at the discretion of the individual contributors) abandoning the verse-by-verse approach in favor of an exposition that focuses on the paragraph as the main unit of thought. In all cases, however, the commentaries will stress the development of the argument and explicitly relate each passage to what precedes and follows it so as to identify its function in context as clearly as possible.
+
+We believe, moreover, that a responsible exegetical commentary must take fully into account the latest scholarly research, regardless of its source. The attempt to do this in the context of a conservative theological tradition presents certain challenges, and in the past the results have not always been commendable. In some cases, evangelicals appear to make use of critical scholarship not for the purpose of genuine interaction but only to dismiss it. In other cases, the interaction glides over into assimilation, theological distinctives are ignored or suppressed, and the end product cannot be differentiated from works that arise from a fundamentally different starting point.
+
+The contributors to this series attempt to avoid these pitfalls. On the one hand, they do not consider traditional opinions to be sacrosanct, and they are certainly committed to do justice to the biblical text whether or not it supports such opinions. On the other hand, they will not quickly abandon a long-standing view, if there is persuasive evidence in its favor, for the sake of fashionable theories. What is more important, the contributors share a belief in the trustworthiness and essential unity of Scripture. They also consider that the historic formulations of Christian doctrine, such as the ecumenical creeds and many of the documents originating in the sixteenth-century Reformation, arose from a legitimate reading of Scripture, thus providing a proper framework for its further interpretation. No doubt, the use of such a starting point sometimes results in the imposition of a foreign construct on the text, but we deny that it must necessarily do so or that the writers who claim to approach the text without prejudices are invulnerable to the same danger.
+
+Accordingly, we do not consider theological assumptions—from which, in any case, no commentator is free—to be obstacles to biblical interpretation. On the contrary, an exegete who hopes to understand the apostle Paul in a theological vacuum might just as easily try to interpret Aristotle without regard for the philosophical framework of his whole work or without having recourse to those subsequent philosophical categories that make possible a meaningful contextualization of his thought. It must be emphasized, however, that the contributors to the present series come from a variety of theological traditions and that they do not all have identical views with regard to the proper implementation of these general principles. In the end, all that really matters is whether the series succeeds in representing the original text accurately, clearly, and meaningfully to the contemporary reader.
+
+Shading has been used to assist the reader in locating salient sections of the treatment of each passage: the introductory comments, the discussion of structure, and the concluding summary. Textual variants in the Greek text are signaled in the author’s translation by means of half-brackets around the relevant word or phrase (e.g., ⌜Gerasenes⌝), thereby alerting the reader to turn to the additional notes at the end of each exegetical unit for a discussion of the textual problem. The documentation uses the author-date method, in which the basic reference consists of author’s surname + year + page number(s): Fitzmyer 1981: 297. The only exceptions to this system are well-known reference works (e.g., ﻿BAGD﻿, LSJ, ﻿TDNT﻿). Full publication data and a complete set of indexes can be found at the end of the volume.
+
+Moisés Silva
+
+
+
+
+
+Author’s Preface
+
+The purpose of this commentary is not only to provide the reader with exegetical and background information on the text but to help the reader trace the theological threads that tie the book together. Therefore, there is a great deal of intertextual data in the book, and on key words I provide the reader with an overview of the term and related terms throughout the Apocalypse (I use “Apocalypse” and “Revelation” interchangeably for variety) along with theological commentary on the theme in the book.
+
+Also, I want to make this a resource so that students can know where scholarship divides on key issues. Thus I often have fairly lengthy lists of scholars with the various options on an exegetical debate. When I do so, I do not name the date and page number on which their view will be found, unless there is only one to a view or it is an article where the page number is needed (then I follow the standard author-date format). The reason is twofold: (1) in commentaries it is easy to find where a view is stated by looking up the discussion of the relevant verse, and (2) it would be unnecessarily long and tedious to place all those dates and page numbers in a list of (at times) ten or twelve names. It clutters up the page and intimidates the reader.
+
+I have so many people to thank that it is difficult to know where to begin. First, I wish to thank Trinity Evangelical Divinity School for giving me a sabbatical for this project. I also appreciate the kindness and thoughtful critique of my Baker editors, especially Wells Turner and Moisés Silva. Deep appreciation is due my teaching assistants who worked so hard helping with research, compiling lists, and looking up material: Sung-Min Park, Ben Kim, Dana Harris, Love Sechrest, Christine Poston, and Bill Myatt. It is impossible to say how many hours of work they saved me. Finally, I want to say thanks for the secretarial assistance of Judy Tetour, Heidi Harder, Susanne Henry, and Arlene Maas.
+
+Grant R. Osborne
+
+
+
+
+

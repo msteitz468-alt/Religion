@@ -6,7 +6,7 @@ tradition: Christianity (evangelical Protestant; classical Arminian; historic pr
 affiliation: Trinity Evangelical Divinity School (Deerfield, IL) — Professor of New Testament for ~three decades
 primary_texts_commented: Revelation, Matthew, Romans, John, Luke, Galatians, Ephesians, the Gospels; hermeneutics
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [commentator, christianity, new-testament, evangelical, arminian, apocalyptic, hermeneutics]
 ---
 
@@ -125,8 +125,37 @@ genuine, repeated **call to repentance**; the nations follow "two tracks" (some 
 - Osborne, *Matthew*, ZECNT (Zondervan, 2010); plus commentaries on Romans, John, Galatians,
   Ephesians, and others
 
+## BECNT Revelation — fidelity re-ingest (2026-07-18)
+
+Full-body re-read under Scope & Fidelity standards; source page
+[[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]]. Author's Preface: purpose is not only
+exegesis and background but "to help the reader trace the **theological threads** that tie the book
+together," with key-word overviews across the Apocalypse and lengthy option-lists so students "know
+where scholarship divides."
+
+Load-bearing positions confirmed with loci from the re-read (attributed to Osborne):
+
+| Topic | Osborne's position (summary) |
+|---|---|
+| Genre | Apocalypse + prophecy + letter; non-pseudonymous; victory grounded in past cross |
+| Method | Eclectic, **futurist primary**; preterist + idealist also intended |
+| Symbols | Hermeneutics of humility; first-century background; not newspaper code |
+| Numbers | Predominantly symbolic completeness (incl. 1,000 years, 3½ years as non-forced-literal) |
+| Authorship | Apostle John viable; genre explains Greek/Gospel differences |
+| Date | Mid-90s Domitian preferred (seven-church data changed his earlier Neronian lean) |
+| Structure | Unity; multi-level outline; seals/trumpets/bowls recapitulate with intensification |
+| Beast / 666 | Final Antichrist / unholy empire; Nero *redivivus* form of healed wound; 666 uncertain (Nero Caesar gematria best-known) |
+| Millennium | Historic premillennial, **irenic**; theodicy climax (depravity after un-deceived reign) |
+| Mission | Eternal gospel real; two tracks for nations; trumpets/bowls partly final offer |
+| New creation | Primarily replacement of old cosmos; NJ as Holy of Holies + final Eden; no temple |
+
+Series frame (Silva, BECNT preface): informed evangelical thought; pastors as primary audience;
+genuine critical interaction without assimilation or mere dismissal; trustworthiness and essential
+unity of Scripture; historic creeds as legitimate further-interpretation framework.
+
 ## Key Links
 
+- [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — source page (fidelity re-ingest)
 - [[revelation|The Revelation to John]] — primary text
 - [[john-apostle|John the Apostle]] — the author Osborne defends
 - [[revelation-millennium|The Millennium (Revelation 20)]] — Osborne's premillennial reading

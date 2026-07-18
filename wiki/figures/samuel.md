@@ -6,7 +6,7 @@ textual_sources: [1 Samuel 1–28; 1 Chronicles 6:28; 9:22; 11:3; 26:28; 29:29; 
 dates: [floruit 11th century BCE (traditional); birth announced in days of Eli the priest]
 roles: [prophet, priest, judge, anointer of kings (Saul and David), intercessor, kingmaker, seer]
 sources_ingested: 3
-last_updated: 2026-06-09
+last_updated: 2026-07-18
 tags: [figure, judaism, christianity, old-testament, samuel, prophet, monarchy, judge]
 ---
 
@@ -74,8 +74,11 @@ the traditional and historical-critical accounts per the Contradiction Protocol.
 
 Tsumura (NICOT) emphasizes Samuel's role in subordinating kingship to the prophetic word, the reversal pattern, providence in the ordinary, and the defense of the MT against eclectic emendation. The figure is pivotal in all readings of the Deuteronomistic History and in Christian theology of prophecy and kingship (Christ as the true anointed one who obeys). The call narrative and "obedience better than sacrifice" are staples of preaching on hearing God's voice and prophetic ethics. The Endor story influences discussions of the afterlife, spiritualism, and divine sovereignty over the dead. In Jewish tradition Samuel is the model of the righteous judge and intercessor.
 
+**Tsumura fidelity re-ingest (2026-07-18):** Birth as kingmaker under providence (1:1–2:11); Hannah’s Song as thematic overture; call at Shiloh restores the word of YHWH; ch. 7 judgeship as discourse *terminus* of Story of Samuel; ch. 8 kingmaker despite reluctance; two rejections enact “king subject to prophet”; 15:35 grieves over Saul as true pastor; Endor appearance (28) is extraordinary by God’s power, not normal necromancy endorsement — death oracle and transfer to David. Source: [[tsumura-1-samuel-nicot]].
+
 **Key Links**:
 - [[1-samuel|1 Samuel]] and [[2-samuel|2 Samuel]] (Tsumura on structure, theology, MT)
+- [[tsumura-1-samuel-nicot|Tsumura 1 Samuel NICOT]]
 - [[saul|Saul]] and [[david|David]] (the kings he anoints)
 - [[robert-alter|Robert Alter]] / [[alter-the-david-story|*The David Story*]] (Samuel as irascible prophet)
 - [[hannah|Hannah]] (mother)

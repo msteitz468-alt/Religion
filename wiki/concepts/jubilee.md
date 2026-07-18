@@ -2,8 +2,8 @@
 title: The Jubilee / Year of the Lord's Favor
 domain: theology / law / eschatology
 traditions_using: [Judaism, Christianity]
-sources_ingested: 2
-last_updated: 2026-06-06
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [concept, jubilee, leviticus, isaiah, luke, eschatology, release, poor, social-ethics, kingdom-of-god]
 ---
 
@@ -31,6 +31,13 @@ The most important prophetic Jubilee text. Isaiah 61:1–2 takes Leviticus 25's 
 The Jubilee's "dĕrôr" (liberty) becomes the freedom of the exiles; the "year of release" becomes the "year of the LORD's favor" (*šĕnat-raṣôn*). Isaiah 58:6 provides a parallel formulation: "Is not this the fast that I choose: … to let the oppressed go free, and to break every yoke?"
 
 Isaiah 61 does not abandon economic content for purely spiritual meaning — it combines the material and metaphorical, holding them together in the vision of total restoration: land, community, honor, economic life, and right relationship with God.
+
+## Ezekiel and the Jubilee (Block, NICOT)
+
+[[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]] finds Jubilee theology structuring Ezekiel's temple vision:
+
+- **40:1 — the twenty-fifth year as Jubilee midpoint.** Block computes the vision's date as 10 Nisan, in the 25th year of the exile — April 28, 573 BCE — and reads the number theologically: "as one-half of fifty it invites linkage with the Israelite Jubilee, 'the year of release'… The midpoint of the Jubilee cycle marked a turning of the corner"; "Because Yahweh is the true owner of the land, it cannot be forever out of the possession of those to whom he had granted it." He notes that Isa 61:1's *dĕrôr* shows "Jubilee language was appropriated for" return from exile, so "the twenty-fifth year may signal a turning of the corner in their bondage." (He rejects an autumnal Tishri dating from Lev 25:9: "Ezekiel's priestly heritage and the overtly cultic nature of chs. 40–48 render adherence to a civil, rather than religious, calendar extremely unlikely.")
+- **46:17 — *šĕnat haddĕrôr*.** The prince's land gifts to servants revert "in the year of liberation (šĕnat haddĕrôr)," which Block sees as "inspired by Lev. 25," the Jubilee, with Ezekiel modifying the Mosaic ordinance "by prescribing the return (šûb) of the land." The family-property rule is "a microcosm of the link between the nation and the land of Israel as a whole"; in the restored order "Israel is reconstituted a nation of free citizens, all of whom have equal rights regarding the ownership and occupation of land."
 
 ## The Qumran Jubilee: 11QMelchizedek (11Q13)
 
@@ -92,6 +99,9 @@ The Jubilee's economic ethic also resonates with liberation theology's use of Lu
 - [[servant-songs|Servant Songs]] — Isa 61 is adjacent to the Servant Songs and draws on the same vocabulary of anointing and mission
 - [[hosea|Hosea]] / [[amos|Amos]] — the 8th-century prophets whose social critique the Jubilee legislation grounds
 - [[joel-green|Joel B. Green]] — the primary source for the Jubilee reading of Luke in the wiki
+- [[green-luke-nicnt|Green, *The Gospel of Luke* (NICNT)]] — fidelity re-ingest 2026-07-18; Nazareth program densified on [[luke]]
+- [[ezekiel|Ezekiel]] — the Jubilee-marked date of the temple vision (40:1) and *šĕnat haddĕrôr* (46:17)
+- [[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]] — source for the Ezekiel Jubilee material
 
 ## Related Texts
 

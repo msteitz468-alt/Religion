@@ -3,8 +3,8 @@ title: Deuteronomistic History
 also_known_as: [DtrH, the Deuteronomistic History, the Former Prophets as edited corpus]
 domain: [biblical studies / historical criticism]
 traditions_using: [modern academic biblical studies]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, historical-critical, deuteronomist, former-prophets, redaction]
 ---
 
@@ -54,10 +54,17 @@ How heavily the Deuteronomist shaped the [[1-samuel|Books of Samuel]] is contest
 
 These positions are recorded side by side per the Contradiction Protocol.
 
+## Provan’s caution (NIBC Kings, 1995)
+
+*Attributed to [[iain-provan|Iain W. Provan]], [[provan-1-2-kings-nibc|*1 and 2 Kings* (NIBC)]]. Digest R0.*
+
+Provan acknowledges obvious theological links between Deuteronomy and Kings and the usefulness of the DtrH label for that affinity. He warns, however, that **“Deuteronomic/Deuteronomistic theology” is as much an abstraction** as “Deuteronomistic History”—a construct about putative corporate authors rather than the theology of any particular book in final form. Final-form books (including Kings) display greater subtlety and complexity than the construct; the label can lead final-form readers astray when they contrast “straight deuteronomistic ideology” with material that allegedly undermines it. His own program privileges **reading Kings as a unified narrative** (story that “works”) over reconstructing layers. This is recorded alongside Noth/Polzin/Alter positions without adjudicating composition history.
+
 ## Relation to Other Concepts
 
 The DtrH is one of the foundational hypotheses of the **historical-critical** approach,
 alongside the [[documentary-hypothesis|Documentary Hypothesis]] (which concerns the
 Pentateuch). It stands in methodological tension with the
 [[literary-reading-of-the-bible|literary reading]] of these same books. See also
-[[deuteronomy|Deuteronomy]] and [[deuteronomy-authorship|Deuteronomy: Authorship and Date]].
+[[deuteronomy|Deuteronomy]] and [[deuteronomy-authorship|Deuteronomy: Authorship and Date]] ·
+[[1-2-kings|1 and 2 Kings]] · [[provan-1-2-kings-nibc|Provan NIBC]].

@@ -5,8 +5,8 @@ dates: b. 1956 (contemporary)
 tradition: Evangelical Protestant (Methodist/Wesleyan)
 affiliation: Asbury Theological Seminary (Wilmore, KY); previously New College Berkeley, American Baptist Seminary of the West
 primary_texts_commented: [Luke (NICNT), Luke-Acts (various studies), Theology of the Gospel of Luke (1995)]
-sources_ingested: 2
-last_updated: 2026-06-06
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [commentator, nicnt, evangelical, methodist, wesleyan, luke, luke-acts, narrative-criticism, social-scientific, discourse-analysis, salvation, jubilee]
 ---
 
@@ -57,6 +57,26 @@ This methodology has an important limitation Green acknowledges: it does not off
 - **Bock (BECNT Acts)**: Bock's commentary on Acts (Luke's second volume) takes a more traditional evangelical-historical approach, prioritizing historical reliability and Lukan authorship — methodological contrast to Green's approach to the first volume.
 - **Wesleyan tradition**: Green (Luke), Oswalt (Isaiah, NICOT), Hartley (Job, NICOT) now represent three NICNT/NICOT commentators from the Wesleyan-holiness tradition, the strongest single denominational strand in the wiki after the broadly Reformed evangelical mainstream.
 
+## Fidelity re-ingest — method and positions (NICNT Luke 1997)
+
+From the 2026-07-18 full-body re-read ([[green-luke-nicnt]]; digests R0–R8). Confirmed and densified:
+
+| Topic | Green’s position (attributed) |
+|---|---|
+| Method | Discourse analysis = narratology + social-scientific/culture-critical analysis |
+| Not primary | Form criticism, redaction criticism, Q-tracking, physician-exegesis from Col 4:14 |
+| Genre | Luke-Acts as Greco-Roman historiography; pure *bios* secondary/undercut by theocentrism |
+| Unity | Two volumes, one story of God’s full salvation for all; Gospel incomplete without Acts |
+| Authorship | Identity unimportant to interpretation; “Luke” = narrator |
+| Purpose | Ecclesiological strengthening under opposition; narration is proclamation |
+| Program text | Nazareth 4:16–30 (poor, release, Jubilee, outsiders, today) |
+| Salvation | Holistic, present, embodied; no social/spiritual dichotomy |
+| Money | Chief rival loyalty; cannot be neutral; subverts patron-client reciprocity |
+| Women | Integral disciples and models of faith (not incidental) |
+| Passion | δεῖ + Scripture; innocence motif; Emmaus hermeneutic; hinge to Acts |
+
+Fee’s editor preface situates Green as Methodist in a broadening NICNT; pastoral recovery of the series; narrative “how it works” without cross-referencing Matthew/Mark.
+
 ## Sources Ingested
 
-1. [[joel-green|Green, Joel B.]]. *The Gospel of Luke*. NICNT. Grand Rapids: Eerdmans, 1997.
+1. [[green-luke-nicnt|Green, Joel B. *The Gospel of Luke*. NICNT. Grand Rapids: Eerdmans, 1997]] — fidelity re-ingest 2026-07-18

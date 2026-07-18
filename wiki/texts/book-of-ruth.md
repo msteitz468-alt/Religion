@@ -10,9 +10,9 @@ canon_scope:
   rejected_by: []
 language_original: Hebrew
 date_range: Events set in the period of the judges; composition date debated (monarchic c. 950–700 BCE or postexilic c. 500–400 BCE; no scholarly consensus)
-sources_ingested: 2
-last_updated: 2026-06-07
-tags: [text, megilloth, writings, judaism, christianity, old-testament, former-prophets]
+sources_ingested: 3
+last_updated: 2026-07-18
+tags: [text, megilloth, writings, judaism, christianity, old-testament, former-prophets, zohar, kabbalah]
 ---
 
 Ruth is a short Hebrew narrative set during the period of the judges (1:1) and concluding with the genealogy of King David (4:17-22). It is simultaneously the most intimate book in the Former Prophets sequence (a domestic story of two widows and a landowner) and one of the most theologically dense — carrying the entire weight of Israel's covenant identity, the ethics of the law, the theology of divine-human kindness (*ḥesed*), and the prehistory of the Davidic dynasty. It is one of only two OT books named after a woman, and the only OT book named after a non-Israelite.
@@ -125,6 +125,18 @@ The LXX canonical placement between Judges and 1 Samuel is theologically precise
 
 **The gōʾēl typology**: Boaz's willingness to pay the full cost of redemption, including marriage to a foreign widow, anticipates the incarnation — "Jesus had to be incarnated as a human to redeem humanity" (Heb 2:10-17). As Boaz became kin to redeem, so Christ became human to redeem. Boaz's redemption is material and temporary; Christ's is spiritual and eternal. The closing marriage of Ruth and Boaz points toward the marriage of the Lamb (Rev 19-22). See [[kinsman-redeemer|The Kinsman-Redeemer (Gōʾēl)]].
 
+## Zoharic reception — Midrash ha-Ne’lam on Ruth (Pritzker Vol. XI)
+
+*Source: [[hecker-zohar-pritzker-vol11|Hecker Pritzker Vol XI]] (standards reingest 2026-07-18). Body of *Midrash ha-Ne’lam al Rut* — largest unit in Vol. XI. Register: Zoharic concealed midrash (mostly Aramaic; diverse rabbis; soul/afterlife densest), not Lau’s narrative-critical *ḥesed* frame.*
+
+**Opening map:** Ruth 1:1 → Job 38:7 (morning stars / sons of God as day/night angels); creation for glory (Isa 43:7). **YHVH letters as soul architecture:** *vav*/*he*/*yod-he* as *ruaḥ* / *nefesh* / *nishmeta* (and *nishmeta de-nishmeta*); left-side animal soul from serpent. **Household as letters:** Elimelech = *yod*, Naomi = *he* / *nishmeta* / dove, Ruth = turtledove (*tor* inversion of *Rut*), Orpah = left *nafsha* / folly. Conversion timing (Gilit renamed Ruth; contingent conversion until free cling after husbands die); Orpah = Harafah (David–Ishbi–Nob strand).
+
+**Narrative densifications:** Field of Apples / Boaz’s *khoh* maidens as chariots; midnight threshing floor and two redeemers/messiahs; *yibbum*–*ḥalitsah*; seven (semblance of) wedding blessings for widow–widower; soul built as *name* into the child. **Liturgy:** Grace after Meals (ten requirements); Shema windows; mezuzah/tzitzit/tefillin/Sabbath Bride; Qaddish for the deceased (Hecker preface). **Afterlife digressions:** seven Geihinnom under Dumah; R. Kruspedai near-death (Angel of Death, Shekhinah, Sandalfon); Hell crevice of Upper Galilee butcher freed by son’s Torah; R. Peraḥiah guided tour. **Ten martyrs** sealed (sale of Joseph). **R. Shim’on** annuls Lydda plague (“greater than Moses?”).
+
+**Print / canon standing (Hecker preface):** largely omitted from first Zohar prints; Thiengen 1559 as *Yesod Shirim* / *Tappuḥei Zahav*; Venice 1565 as MhN al Rut; *Zohar Ḥadash* 1658. Some 14th–16th-c. kabbalists did not always treat it as Zoharic. Ruth as first convert becomes vehicle for Gentile polemic.
+
+Do not collapse this register into Lau’s honor-shame / missional *ḥesed* reading; both stay attributed. See [[zohar|The Zohar]] Vol. XI, [[zoharic-afterlife|Zoharic Afterlife]], [[joel-hecker|Joel Hecker]], [[shekhinah|Shekhinah]].
+
 ## Related Pages
 
 - [[peter-lau|Lau, Peter H. W.]] — primary commentary source
@@ -134,7 +146,9 @@ The LXX canonical placement between Judges and 1 Samuel is theologically precise
 - [[covenant|Covenant]] — the covenant faithfulness the narrative embodies
 - [[judges|Judges]] — the canonical context
 - [[genesis|Genesis]] — the Tamar parallel (Gen 38); the Perez genealogy
+- [[zohar|The Zohar]] · [[hecker-zohar-pritzker-vol11|Hecker Pritzker Vol XI]] · [[joel-hecker|Joel Hecker]]
 
 ## Sources Ingested
 
 1. [[peter-lau|Lau, Peter H. W.]]. *Ruth*. New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 2023.
+2. Hecker, Joel (trans.). *The Zohar: Pritzker Edition*, Vol. XI — *Midrash ha-Ne’lam on Ruth*. Standards reingest 2026-07-18: [[hecker-zohar-pritzker-vol11]].

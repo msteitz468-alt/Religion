@@ -69,6 +69,14 @@ freedom of the gospel (Gal. 4.24–25); in Islam, **Tur Sina / Tur** is the bles
 where God spoke to **Musa** (Qur'an 19, 28, 95). It is thus a shared sacred geography across
 all three Abrahamic traditions.
 
+## Commentary Anchors — Bruckner, UBCS Exodus (reingest 2026-07-18)
+
+*Source: [[bruckner-exodus-ubcs|Bruckner, Exodus (UBCS)]].*
+
+[[james-bruckner|Bruckner]] on names and setting: "'Horeb' (lit., 'dry place') is the name used for Sinai in Deuteronomy. Exodus uses both names. The word Sinai sounds like the word 'bush' (seneh)"; the *midbar* around it is "semiarable land where flocks graze," not desert. He notes the southern-route tradition ("Mt. Musa... the site of St. Catherine's monastery") while listing rivals (Mt. Serbal, Mt. Sin Bishar) and reports the rabbinic judgment that the location "is blessedly unknown, like Moses' grave." Rephidim lies "near the rock at Horeb... in the shadow of Mt. Sinai."
+
+On the theophany (Exod 19): Bruckner calls ch. 19 "the theological and literary pivot of Exodus," with chs. 19 and 24 as narrative bookends around the law. The boundary around the mountain "served as an external limitation to preserve human life and make the face-to-face encounter possible"; the trumpet "was walking (halak)" — "God was walking down the mountain toward them"; the encounter "was the only time God appeared and spoke to all the people." The repeated warnings expose "the human inclination to control one's way to holiness." Access is graded — people at the base, elders partway (24:9–11, where "they saw God" at a meal; LXX softens to "saw the place," Targumim to "saw the glory"), Moses alone at the summit. "God did not intend to stay on the mountain, but to travel with them" — the tabernacle's mobility is Sinai's sequel. Israel remains at Sinai from Exod 19 to Num 10:10, receiving "613 commands, by rabbinic count."
+
 ## Key Events and Controversies
 
 The burning bush and the revelation of the divine Name; the covenant and lawgiving; the

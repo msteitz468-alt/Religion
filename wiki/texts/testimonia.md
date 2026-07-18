@@ -6,7 +6,7 @@ canon_status: sectarian
 canon_scope:
   canonical_for: []
   deuterocanonical_for: []
-  authoritative_for: [essenes]
+  authoritative_for: [essenism]
   disputed_by: []
   rejected_by: [rabbinic-judaism, sadducees, christianity, islam]
 language_original: Hebrew

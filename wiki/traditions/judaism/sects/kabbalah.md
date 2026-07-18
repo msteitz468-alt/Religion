@@ -12,7 +12,7 @@ hermeneutical_method: [sod, sefirotic correspondence, gematria, notarikon, theog
 key_figures: [moses-de-leon, shimon-bar-yochai, Isaac the Blind, Moses Naḥmanides, Isaac Luria, the Baal Shem Tov]
 key_texts: [zohar]
 sources_ingested: 1
-last_updated: 2026-06-09
+last_updated: 2026-07-18
 tags: [sect, judaism, mysticism, kabbalah]
 ---
 
@@ -54,6 +54,22 @@ After the 1492 expulsion of Jews from Spain, Kabbalah's center shifted to Safed 
 
 ### Ḥasidism (18th century–present)
 The Baal Shem Tov (Israel ben Eliezer, c.1698–1760) founded the Ḥasidic movement in eastern Europe, which democratized Kabbalah by shifting the emphasis from esoteric study and theurgical practice to *devequt* (cleaving to God), joyful prayer, and the charismatic figure of the *tsaddiq* (righteous leader). Ḥasidism adapted Lurianic Kabbalah for a mass audience.
+
+### Green’s historical map (Pritzker Vol. I Introduction)
+
+*Attributed synthesis from [[arthur-green|Arthur Green]]’s introduction to [[matt-zohar-pritzker-vol1|Matt’s Pritzker Edition, Volume I]]. Complements the narrative above; does not replace it as bare wiki fact.*
+
+Green frames medieval Jewish mysticism as a rereading of Bible and rabbinic literature within the larger medieval project of interpreting a received, authoritative canon. On the path to the [[zohar|Zohar]], he maps:
+
+1. **Provence and the Bahir (mid–late 12th c.).** Green situates Kabbalah’s first appearance in the culturally rich Provençal community around the middle of the twelfth century. The *Sefer ha-Bahir* (*Book of Clarity*) is, in his account, edited in these circles and first referenced in Provençal works of the latter twelfth century; it takes midrashic form yet deliberately mystifies rather than “clarifies,” training the reader to see how much of Scripture he does not understand. Green reports the Bahir’s (and subsequent kabbalists’) claim that **the true subject of Scripture is God Himself** — revelation as divine self-disclosure in secret form; exoteric Torah as will/commandments, esoteric revelation as divine truth pointing to the inner life of God through image-clusters that come to be called the ten sefirot (term from *Sefer Yetsirah*). Alongside the Bahir, Green places more abstract/theoretical writings in the family and circle of **Rabbi Abraham ben David of Posquières** and his son **Rabbi Isaac the Blind** (d. c. 1235): laconic commentaries on prayer and *Sefer Yetsirah*, reflections on divine names — already a defined contemplative system, which Green reads as likely *publication* of previously oral secrets rather than wholly new invention.
+
+2. **Anti-Maimonidean publication of secrets.** Green ties the decision to publicize kabbalistic secrets to the Maimonidean controversy in Provence: the philosophers’ perfect, unchanging, self-sufficient God seemed to undercut cosmic need for the commandments. On Green’s reading, mystics “frightened” by that freedom and implied divine disinterest “came out of” closed oral esotericism; their secrets offered an alternative Torah explanation in which commandments have a **cosmos-sustaining** role (*kavvanot* of prayer; *ta’amei ha-mitsvot*).
+
+3. **Gerona / Catalonia (early–mid 13th c.).** Secrets cross the Pyrenees; a key center is Gerona — **Naḥmanides** (open though often brief kabbalistic allusions “in the way of truth” in his Torah commentary; polemics against Maimonidean philosophical Torah reading) and a somewhat separate circle including **Rabbis Ezra and Azriel** (more innovative; open to Neoplatonic emanationist readings of the sefirot). Green sees this Catalonian stream as still close to the original anti-rationalist purpose of publishing secrets, generally more conservative and abstraction-oriented (highest sefirot; restoration of full divine unity).
+
+4. **Castile and Scholem’s “Gnostic Circle” (mid–late 13th c.).** Around mid-century a new Castilian center, in Green’s account, overshadows Catalonia in volume and originality. Rooted more in Bahir mythic imagery than in Provençal/Catalonian abstraction, figures such as the brothers **Isaac and Jacob ha-Kohen** and **Moses of Burgos** develop fascination with the demonic “left” side. Green reports Scholem’s label **“Gnostic Circle”** for this group; he presents them as the most immediate predecessors of the Zohar circle and holds it likely that [[moses-de-leon|Moses de León]] saw himself as their disciple. Castilian emphasis, Green argues, shifts to the **lower** sefirot — right/left, male/female, the *zivvuga qaddisha* of sixth/ninth with tenth — plus rich theurgy and a “dangerous” edge of demonic and sexual myth.
+
+5. **Zohar as Castilian culmination.** In the last quarter of the thirteenth century Green lists de León, Todros Abulafia, Joseph Gikatilla, Isaac Ibn Sahula, and others (c. 1280–1310) as producing highly varied sefirotic Kabbalah; within this circle, he says, fragments of a more poetic Aramaic composition began to circulate — composed within one or two generations, edited over the following century and a half — “known to the world as the Zohar.” Green opens the whole introduction by calling the Zohar a “lush garden of **sacred eros**” (master–disciple, companions, Israel–Shekhinah, and above all male–female within the Godhead) and a work of “**sacred fantasy**” — not, he insists, to impugn the truth of its insights, but to place its pictorial theology among medieval Jewish, Christian, and Islamic imaginative elaborations.
 
 ---
 
@@ -123,5 +139,8 @@ Crucially, Kabbalah does not reject the other levels of interpretation (*peshat*
 - [[zohar-authorship|Zohar Authorship Controversy]]
 - [[shimon-bar-yochai|Rabbi Shim'on bar Yoḥai]] — attributed author of the Zohar
 - [[moses-de-leon|Moses de León]] — actual author of the Zohar
+- [[arthur-green|Arthur Green]] — Pritzker Vol. I historical map of Provence–Gerona–Castile and “sacred fantasy” framing
+- [[daniel-matt|Daniel C. Matt]] — Pritzker Edition translator/annotator
+- [[matt-zohar-pritzker-vol1|The Zohar: Pritzker Edition, Volume I]]
 - [[rabbinic-judaism|Rabbinic Judaism]] — the halakhic tradition within which Kabbalah operates
 - [[divine-human-marriage|Divine-Human Marriage Metaphor]] — the *zivvuga qaddisha*

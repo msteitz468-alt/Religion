@@ -10,9 +10,9 @@ canon_scope:
   rejected_by: []
 language_original: Hebrew (transitional Biblical Hebrew)
 date_range: Composed ca. 587-540 BCE, in the immediate aftermath of the fall of Jerusalem
-sources_ingested: 2
-last_updated: 2026-06-05
-tags: [text, old-testament, writings, megillot, lamentations, grief, theodicy, exile, Jerusalem, lament]
+sources_ingested: 3
+last_updated: 2026-07-18
+tags: [text, old-testament, writings, megillot, lamentations, grief, theodicy, exile, Jerusalem, lament, zohar, kabbalah]
 ---
 
 Lamentations is five alphabetical poems responding to the fall of Jerusalem in 587 BCE — the single most catastrophic event in Israel's history, which destroyed the city, the temple, and the Davidic monarchy simultaneously. It is "as historical as the Song of Songs is ahistorical; it marks, with untampered immediacy, the focal calamity of the Bible" (Landy). Canonical placement: in Jewish tradition it is one of the five Megillot (festival scrolls), read annually on Tisha B'Av (the fast commemorating the temple's destruction); in Christian Bibles it follows Jeremiah.
@@ -35,11 +35,11 @@ The formal structure contains and expresses the grief rather than resolving it. 
 
 ## Composition and Authorship
 
-Anonymous. The five poems may come from one or multiple poets; the similarities and differences between them are consistent with either. The LXX added a preamble attributing the poems to Jeremiah "after the fall of Jerusalem" — late guesswork, not historical testimony. Goldingay notes: the poems compare with Jeremiah in their imagery, hyperbole, and theological perspectives, but contrast with him in their use of the disciplined acrostic form.
+**Traditional / LXX attribution to Jeremiah** is ancient (LXX superscription: Jeremiah sat weeping and composed after the fall; Jewish tradition likewise). The Hebrew book itself is **anonymous**.
 
-Most plausibly, the poems were composed between 587 and the 540s BCE, while the devastation was still raw and the city remained a ruin. They reflect Transitional Biblical Hebrew (features of both Classical and Late Biblical Hebrew, but far fewer of the latter than Second Temple writings like Ecclesiastes or Chronicles). Archaeological evidence increasingly attests an ongoing Judahite community in the land (outside devastated Jerusalem) — possibly at Mizpah or Bethel — that could have used these poems in fasting and prayer gatherings.
+**Lalleman (TOTC):** "the present commentary assumes that it is unlikely to have been Jeremiah, although the author was apparently familiar with the book of this prophet." Eyewitness of the fall most likely; "no compelling reason to assume a date… much later than… 587 BC"; setting Jerusalem/Judah; possible priestly/Levitical influence (raw 5857–5859; preface raw 423). Against Jeremianic authorship she cites hapax legomena, rare words shared with Isaiah/Psalms but not Jeremiah, more polished poetic style, and the absence of expected *šeqer* at Lam 2:14 (raw 5851–5857). Unity of authorship: multiple voices (poet, personified city, male *geber*, communal "we") do not compel multiple authors (raw 5873). Ch. 3 speaker is a **male survivor**, not Jeremiah (Confessions' prophetic-task frame absent; pit details do not match Jer 38) (digest F / Lam intro).
 
-**Women as possible authors**: Lamentations is notable for its use of a female voice (Ms. Zion speaks in Lam 1 and 2). Women are the traditional lamenters in Israel (cf. Jer 9:17-20; the women who lamented Jephthah's daughter; professional mourning women). It is "at least as likely that the authors of Lamentations were women as men" (Goldingay).
+**Goldingay (NICOT):** poems compare with Jeremiah in imagery and theology but contrast in disciplined acrostic form; composition between 587 and the 540s BCE (Transitional Biblical Hebrew); ongoing Judahite community in the land as plausible setting. **Women as possible authors:** female Zion voice; traditional women's lament role (Jer 9:17–20); "at least as likely… women as men."
 
 ## Theology: Neither Theodicy Nor Anti-Theodicy
 
@@ -74,17 +74,13 @@ These protests do not resolve the tension with the confessions; they simply stan
 
 This combination of theodicy and anti-theodicy — held together by the same texts — makes Lamentations uniquely equipped for ongoing pastoral use. It gives language both to those who believe they deserved what happened and to those who protest that their suffering is beyond any deserving.
 
-### 4. The One Verse of Hope: Lamentations 3:21-24
+### 4. Hope at 3:21–24 — Important, Not a Solution
 
-Surrounded on all sides by unrelieved darkness, the single positive movement in the entire book:
+> "Because of the LORD's great love we are not consumed… his compassions never fail; they are new every morning; great is your faithfulness." (3:22–24)
 
-> "Yet this I call to mind, and therefore I have hope: Because of the LORD's great love we are not consumed, for his compassions never fail; they are new every morning; great is your faithfulness." (3:21-24)
+**Lalleman** (comment, raw 6178): *ḥesed* in the plural; covenantal love/kindness echoing Exod 34:6–7; chiastic enfolding of "we are not consumed" by love/compassion. She insists the positive element "does not 'solve' the problem of suffering. The book continues, and the story does not finish, even at the end of chapter 5" (raw 5965). Ch. 4 returns to ongoing misery; all emotional registers must be heard (Meaning of ch. 3). Only divine speech in the book: "Do not fear" (3:57).
 
-The famous hymn "Great Is Thy Faithfulness" derives from this passage. It is significant that this hope is:
-- One verse in a 154-verse book
-- Immediately before and after surrounded by lament
-- Not a promise of restoration but an act of deliberate *recall* — "I call this to mind" — a choice to remember what is known about Yahweh's character
-- Never "answered" within the book itself
+**Goldingay** stresses the same isolation: one hope movement in a house of sorrow; deliberate *recall*, not narrative resolution; unanswered within the book. Hymnody ("Great Is Thy Faithfulness") draws on 3:22–23.
 
 ### 5. Lamentations as "A House for Sorrow"
 
@@ -118,16 +114,55 @@ The book is not directly quoted in the NT, but it provides:
 - The theology of God's people bearing a corporate suffering that becomes, in Pauline thought, the background for participation in Christ's suffering (2 Cor 1:5-7; Col 1:24)
 - The liturgical tradition that the church uses in lament contexts — Lamentations has been extensively used in Christian Holy Week liturgy
 
+## Hermeneutical Frameworks
+
+| Reader / stream | How Lamentations is read |
+|---|---|
+| **Lalleman (TOTC)** | Form-critical (acrostic, lament elements, voices); Deuteronomic-curse frame without the word "covenant"; hope without closure; Christian Tenebrae + caution against national-guilt transfers |
+| **Goldingay (NICOT)** | Theodicy and anti-theodicy held in parataxis; "problem is the presence of God"; house for sorrow; ANE city-lament contrast |
+| **Jewish liturgical** | Megillot; 9 Ab (Tisha B'Av) commemorating 587 and 70 CE temple destructions (and later calamities) |
+| **Christian liturgical** | Tenebrae / Holy Week (Lalleman notes; raw 6206) |
+
+## Canon and Reception
+
+- **Canonical for** rabbinic Judaism, Catholic, Eastern Orthodox, Protestant (`canon_scope`). Status "never been questioned" in Lalleman's summary (raw 5791).
+- **Placement:** Writings / Megillot in HB; after Jeremiah in LXX and most Christian Bibles (raw 5795–5797).
+- **Jewish use:** 9 Ab mourning and fasting (raw 5797).
+- **Christian use:** Holy Week Tenebrae; Lalleman warns that the church is multi-national — "no nation state is 'God's covenant people' as Israel was" → cannot blame a nation for disaster as covenant curse (pastoral Meaning frame).
+
+## Scholarship and Historiography
+
+- **Authorship:** Traditional Jeremiah vs Lalleman non-Jeremianic eyewitness vs Goldingay anonymous (women possible).
+- **ANE parallels:** Sumerian city laments (Ur); monotheistic contrast — God reigns for ever (5:19) though city destroyed (Lalleman raw 5944).
+- **Acrostic function:** completeness of disaster; ch. 3's triple form may highlight mid-book hope (Longman via Lalleman raw 5952); ch. 5 drops form (falling apart?).
+
+## Key interpretive cruxes
+
+1. **Who wrote it?** Positions above; do not collapse tradition and criticism.
+2. **Is 3:22–24 the centre that solves the book?** Lalleman: important, not a solution (raw 5965). Goldingay: one verse in a house of sorrow.
+3. **Does the book end in hope?** 5:19–22: God reigns; petition to restore; open-ended "unless you have utterly rejected us" — unfinished story (Lalleman Meaning of ch. 5).
+4. **Theodicy vs protest:** Goldingay's both-at-once; Lalleman: guilt acknowledged, God righteous and enemy, liberty of extreme lament.
+
 ## Connections to the Wiki
 
-- **[[jeremiah|Jeremiah]]**: Direct literary sequel; same historical crisis; poetry after the prose
-- **[[isaiah|Isaiah]]**: Isaiah 40-55 as Yahweh's response to Lamentations' unanswered protest
-- **[[psalms|Psalms]]**: Lam 3 draws on protest psalm vocabulary; the book bridges the Psalter's individual protest and the communal catastrophe
-- **[[theodicy|Theodicy]]**: Lamentations represents the most sustained OT example of theodicy-and-anti-theodicy simultaneously
-- **[[divine-human-marriage|Divine-Human Marriage Metaphor]]**: "Ms. Zion" as abandoned wife is continuous with Hosea, Jeremiah, and Ezekiel's marriage imagery
-- **[[song-of-songs|Song of Songs]]**: Paired in Jewish canon as Megillot; Lamentations reverses the Song's setting — the city that was celebrated in love poetry is now desolate
+- **[[jeremiah|Jeremiah]]**: Shared crisis; affinity without common authorship (Lalleman)
+- **[[isaiah|Isaiah]]**: Isa 40–55 as response to unanswered protest
+- **[[psalms|Psalms]]**: Communal lament form (Pss 44; 74; 79; 80; 137)
+- **[[theodicy|Theodicy]]**: Sustained theodicy-and-anti-theodicy
+- **[[divine-human-marriage|Divine-Human Marriage]]**: Zion as widow/abandoned
+- **[[song-of-songs|Song of Songs]]**: Megillot pairing; reverse city imagery
+- **[[hetty-lalleman|Hetty Lalleman]]** · **[[john-goldingay|John Goldingay]]** · **[[lalleman-jeremiah-lamentations-totc|Lalleman TOTC source]]**
+
+## Zoharic reception — Midrash ha-Ne’lam on Lamentations (Pritzker Vol. XI)
+
+*Source: [[hecker-zohar-pritzker-vol11|Hecker Pritzker Vol XI]] (standards reingest 2026-07-18). Register: Zoharic concealed midrash — pathos and divine-family theosophy — not Goldingay’s theodicy/anti-theodicy parataxis or Lalleman’s TOTC frame.*
+
+**Israel vs Babylon eulogy contest:** residents of Babylon claim right to open the acrostic lament as scattered among the nations; residents of the Holy Land reply that they are children of **Matronita**, orphans without Father or Mother; Mother’s bed overturned, throne collapsed, palaces ignorant of Her whereabouts; She wanders rooftops weeping (Isa 22:1). Mother stands to receive the flogging for the children (Isa 53:5). Body labels Master / Matronita / Koh. **Hecker preface** (attributed, not bare body): reframes Holy Family against Christian Father–Mary–Jesus triad (Tif’eret–Shekhinah–Israel as Child).
+
+Further units: serpent enmity / Gen 3 as Temple-destruction template; Ecclesiastes 12 line-by-line on Israel/Temple/sages; compressed **ten martyrs** / Samael prosecution. Hybrid MhN style (many rabbis; Aramaic; some sefirotic symbolism). Complements main-body Shekhinah-in-exile theurgy without equating registers. See [[zohar|The Zohar]] Vol. XI, [[shekhinah|Shekhinah]], [[joel-hecker|Joel Hecker]], [[zoharic-afterlife|Zoharic Afterlife]].
 
 ## Sources Ingested
 
 1. [[john-goldingay|Goldingay, John]]. *The Book of Lamentations*. NICOT. Grand Rapids: Eerdmans, 2022.
-2. [[hetty-lalleman|Lalleman-de Winkel, Hetty]]. *Jeremiah and Lamentations*. TOTC 21. Downers Grove: InterVarsity Press.
+2. [[lalleman-jeremiah-lamentations-totc|Lalleman-de Winkel, Hetty]]. *Jeremiah and Lamentations*. TOTC 21. IVP, 2013 — full-body re-ingest 2026-07-18.
+3. Hecker, Joel (trans.). *The Zohar: Pritzker Edition*, Vol. XI — *Midrash ha-Ne’lam on Lamentations*. Standards reingest 2026-07-18: [[hecker-zohar-pritzker-vol11]].

@@ -2,8 +2,8 @@
 title: The Promised Land (Naḥalâ)
 domain: theology
 traditions_using: [Judaism, Christianity, Islam (tangentially)]
-sources_ingested: 1
-last_updated: 2026-06-04
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, theology, old-testament, joshua, covenant, eschatology]
 ---
 
@@ -59,6 +59,36 @@ Hebrews 4:8 is explicit: "For if Joshua had given them rest, God would not have 
 
 [[marten-woudstra|Woudstra]] affirms this typology as genuine and textually grounded: the land's "rest" language is not arbitrarily chosen as a christological illustration — the OT itself deploys *mĕnûḥâ* as an eschatological category (1 K 8:56: rest "may be enjoyed in principle but can be deepened and enriched").
 
+## Block on the Land in Ezekiel: Naḥălâ as Fiefdom
+
+Daniel Block ([[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]]) develops a
+distinctive reading of the land theme in Ezekiel 25–48:
+
+- **Fiefdom, not clan inheritance.** At the first occurrence of *naḥălâ* in the book (35:15),
+  Block rejects von Rad's hereditary-clan reading in favor of Forshey's: land is given "as a
+  reward for past service—fundamentally military service is involved—and in expectation of
+  future service"; the land of Israel is "her fiefdom to be managed on the landowner's
+  behalf." In chs. 47–48 he likewise reads *naḥălâ* feudally, with Yahweh portrayed "as
+  suzerain," and labels the resulting order "theocratic feudalism": "Yahweh is Israel's true
+  king; the land is his, not an earthly monarch's." This converges with the Lev 25:23
+  landlord-tenant picture above.
+- **Grant to Jacob.** Block notes Ezekiel ties the land promise to "my servant Jacob"
+  (28:25; 37:25) — alluding to Gen 28:13 and 35:12 — rather than to Abraham, in keeping with
+  the prophet's "general reluctance to name Abraham at all"; against the Edomite assumption
+  that a devastated land had been abandoned by its god, Yahweh "remains the divine landlord"
+  (35:10).
+- **Transjordan excluded.** The ideal Israel of 47:13–48:29 omits the Transjordan: "For
+  Ezekiel, as for Moses, 'the holy land' stops at the Jordan River; beyond this the land is
+  unclean." Block sees the same logic already in 25:8–11, where cities in historically
+  Reubenite territory are conceded to Moab.
+- **Aliens receive allotments.** In 47:22–23 resident aliens (*gērîm*) receive tribal
+  allotments — Block cites the judgment that this is "more radical than anything else in all
+  the legal corpora of the Hebrew Bible," concretizing Isa 56:3–8.
+- **Theological cartography.** The east-west tribal strips of 48:1–29 run "in defiance of…
+  the geographic grain"; Block reads the allotment "not as a literary photograph of the land
+  of Israel but as a cartographic painting by an artist with a particular theological
+  agenda."
+
 ## Modern Territorial Applications
 
 Woudstra states clearly: **"Due care should be taken not to carry over the promise of the land into the modern era, as if somehow today the possession of the land is still part of what the people of the ancient covenant may claim."**
@@ -80,6 +110,7 @@ R. Warrior's Native American critique adds a further layer: the paradigm of a pe
 ## Sources Ingested
 
 1. [[marten-woudstra|Woudstra, Marten H.]]. *Joshua*. NICOT. Grand Rapids: Eerdmans, 1981.
+2. [[block-ezekiel-25-48-nicot|Block, Daniel I. *The Book of Ezekiel: Chapters 25–48*. NICOT, 1998.]]
 
 ## Related Texts
 

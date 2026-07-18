@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Hebrew
 date_range: Zechariah 1-8 dated 520-518 BCE; Zechariah 9-14 probably later (no internal dates); book finalized ca. 480-440 BCE
-sources_ingested: 1
-last_updated: 2026-06-05
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [text, old-testament, prophets, minor-prophets, twelve, zechariah, night-visions, branch, messiah, passion-narrative, post-exilic]
 ---
 
@@ -111,6 +111,35 @@ Zechariah 9-14 provides more Passion narrative material than any other OT book:
 
 The density of these connections suggests that the early church — and possibly Jesus himself — read Zechariah 9-14 as a prophetic script for the Passion. Matthew in particular structures the Passion narrative as a systematic fulfillment of the Zechariah shepherd-king oracles.
 
+## Zechariah in Mark: France's NIGTC Reading (2026-07-18 ingest)
+
+From [[rt-france|R. T. France]], *The Gospel of Mark* (NIGTC, 2002) — see
+[[france-mark-nigtc]] — on Zechariah's presence in [[mark|Mark]]'s passion narrative,
+which France holds is already substantial *before* Matthew's fuller development. All
+claims are France's.
+
+- **A uniquely appropriate source.** On Mk 14:27 (Zech 13:7, the struck shepherd) France
+  highlights Zech 9–14 as "a uniquely appropriate source for Jesus' interpretation of his
+  own messianic suffering" — the rejected Shepherd-King — and lists Zech 9–14 among the OT
+  pointers (with Isa 53, Pss 22 and 69, Ps 118:22) behind Jesus' conviction that he must
+  suffer and die (on Mk 8:31).
+- **The entry (Mk 11:1-10).** Mark's πῶλος, with the note that it was unridden, is "a
+  clearer echo of LXX Zc. 9:9" than an explicit "donkey" would be, with further messianic
+  resonances from Gen 49:10-11.
+- **The temple act (Mk 11:15-17).** France reads the action as a symbolic declaration of
+  eschatological judgment and a deliberate claim to messianic authority, possibly
+  re-enacting Zech 14:21 ("no trader in the house of the LORD").
+- **The cup-word (Mk 14:24).** "My blood of the covenant… poured out for many" carries a
+  triple allusion: Exod 24:8, **Zech 9:11** (the blood of the covenant that frees
+  prisoners), and Isa 53:11-12's "many."
+- **A rejected identification.** France rejects Telford's identification of "this mountain"
+  (Mk 11:23) with the temple mount, taking mountain-into-sea as a proverbial statement of
+  the impossible — the Mount of Olives (Zech 14:4) being nearer to hand if any referent
+  were required.
+- **An ironic reversal.** The gathering of the elect "from the four winds" (Mk 13:27)
+  reverses OT return-from-exile texts (Deut 30:4; Zech 2:10): inclusion of all nations
+  rather than extraction of Jewish exiles.
+
 ## Theology
 
 **Covenantal reciprocity**: The governing promise (1:3): "Return to me and I will return to you, says the LORD Almighty." YHWH is pursuing his people; restoration awaits their response; but where repentance is inadequate, YHWH will purify the community through severe judgment (13:8-9).
@@ -133,3 +162,4 @@ The density of these connections suggests that the early church — and possibly
 ## Sources Ingested
 
 1. [[mark-boda|Boda, Mark J.]]. *The Book of Zechariah*. NICOT. Grand Rapids: Eerdmans, 2016.
+2. [[rt-france|France, R. T.]]. *The Gospel of Mark*. NIGTC. Grand Rapids: Eerdmans, 2002 — for Zechariah's reception in Mark. See [[france-mark-nigtc]].

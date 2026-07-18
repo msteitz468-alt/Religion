@@ -4,7 +4,7 @@ text_locus: Revelation 20:1–10 (Satan bound 1,000 years; the saints reign; the
 positions: [premillennialism (historic and dispensational), amillennialism, postmillennialism]
 traditions_involved: [Christianity — all major branches; sharply divides evangelical Protestantism]
 resolution_status: open (tradition-specific; Osborne premillennial but irenic)
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [controversy, christianity, new-testament, eschatology, millennium, revelation]
 ---
 
@@ -85,6 +85,30 @@ events take place… we should not fight over these issues but be 'iron sharpeni
 thousand years as symbolic, distinguishing his historic premillennialism sharply from dispensational
 literalism.
 
+### Fidelity re-ingest densification (BECNT body on 20:1–15)
+
+From the 2026-07-18 full-body re-read of [[osborne-revelation-becnt|Osborne BECNT]] (digest R7; raw
+~5693–6769), attributed to Osborne:
+
+- **Why premil:** better fits narrative flow (parousia → millennium → final judgment → new
+  creation) and the "deceive the nations" / "came to life" language; data "point more to a
+  premillennial stance," though only one direct biblical passage teaches the millennium — hence no
+  rigid fight.
+- **Binding (20:1–3):** total incarceration in the abyss, not amillennial "partial curtailment"
+  during the church age; NT still portrays Satan as active deceiver of unbelievers, so 20:3b "does
+  not fit the current situation."
+- **First resurrection (20:4–6):** **bodily** raising of believers at the parousia (martyrs as
+  representative of the whole faithful church); spiritual/regeneration or intermediate-state
+  readings (Augustine / Hendriksen / Beale line) possible but less probable for Osborne.
+- **Gog and Magog (20:7–10):** **second battle**, not recapitulation of Armageddon (different
+  leader — Satan not beast; fire from heaven not sword from mouth); devil then joins beast and
+  false prophet in the lake of fire — "tormented day and night forever" read as eternal conscious
+  punishment (difficulty for annihilationism on Osborne's terms).
+- **Great white throne (20:11–15):** old earth/sky flee so the new can come; books of deeds + book
+  of life; "saved by grace but will be judged by works" for believers; anyone not in the book of
+  life → lake of fire / second death; predestination and free will both affirmed as functioning
+  together.
+
 ## Why It Matters
 
 The millennium debate organizes wider eschatological systems (rapture, tribulation, the role of
@@ -97,6 +121,7 @@ methodological stance. See [[apocalyptic-literature|Apocalyptic Literature]].
 ## Key Links
 
 - [[revelation|The Revelation to John]] — the text page
+- [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest source
 - [[grant-osborne|Grant R. Osborne]] — source; historic premillennial, irenic
 - [[revelation-interpretive-schools|The Four Interpretive Schools of Revelation]] — the prior method that shapes the millennial reading
 - [[apocalyptic-literature|Apocalyptic Literature]] — symbolic numbers and genre

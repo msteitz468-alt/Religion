@@ -18,28 +18,28 @@ single entry. This is a human-facing summary; the authoritative, dated record is
 ## Christianity
 
 ### Biblical Commentaries — Old Testament
-- Hamilton, Victor P. *The Book of Genesis: Chapters 1–17* & *18–50*. NICOT. Eerdmans, 1990/1995.
-- Bruckner, James K. *Exodus*. Understanding the Bible Commentary Series. Baker Books, 2008.
+- Hamilton, Victor P. *The Book of Genesis: Chapters 1–17* & *18–50*. NICOT. Eerdmans, 1990/1995. — **Vol. 1 (chs. 1–17)** fidelity re-ingest ✅ 2026-07-18 ([[hamilton-genesis-1-17-nicot]]; Intro + full commentary body 221–1038 + 2252–7936). **Vol. 2 (chs. 18–50)** fidelity re-ingest ✅ 2026-07-18 ([[hamilton-genesis-18-50-nicot]]; full commentary body 225–8071).
+- Bruckner, James K. *Exodus*. Understanding the Bible Commentary Series. Baker Books, 2008. — fidelity re-ingest ✅ 2026-07-18 ([[bruckner-exodus-ubcs]]; full Intro + §1–§48 body, raw lines 1–5125; bibliography/endnote apparatus excluded).
 - Wenham, Gordon J. *Leviticus*. NICOT. Eerdmans, 1979.
 - Cole, Dennis R. *Numbers*. NAC. Broadman & Holman, 2000.
 - Craigie, Peter C. *The Book of Deuteronomy*. NICOT. Eerdmans, 1976.
 - Woudstra, Marten H. *Joshua*. NICOT. Eerdmans, 1981.
 - Webb, Barry G. *Judges*. NICOT. Eerdmans, 2012.
 - Lau, Peter H. W. *Ruth*. NICOT. Eerdmans, 2023.
-- Tsumura, David Toshio. *The First* & *Second Book of Samuel*. NICOT. Eerdmans, 2006/2019.
-- Provan, Iain W. *1 and 2 Kings*. NIBC. Hendrickson, 1995.
+- Tsumura, David Toshio. *The First* & *Second Book of Samuel*. NICOT. Eerdmans, 2006/2019. — **1 Samuel** fidelity re-ingest ✅ 2026-07-18 ([[tsumura-1-samuel-nicot]]; full Intro + chs. 1–31 body). **2 Samuel** fidelity re-ingest ✅ 2026-07-18 ([[tsumura-2-samuel-nicot]]; full Intro + chs. 1–24 body).
+- Provan, Iain W. *1 and 2 Kings*. NIBC. Hendrickson, 1995. — fidelity re-ingest ✅ 2026-07-18 ([[provan-1-2-kings-nibc]]; full Intro + §1–§57 body; apparatus excluded).
 - Leithart, Peter J. *1 & 2 Chronicles*. Brazos Theological Commentary. Brazos Press, 2019.
 - Breneman, Mervin. *Ezra, Nehemiah, Esther*. NAC 10. B&H Publishing, 1993.
 - Harrington, Hannah K. *The Books of Ezra and Nehemiah*. NICOT. Eerdmans, 2022.
-- Hartley, John E. *The Book of Job*. NICOT. Eerdmans, 1988.
+- Hartley, John E. *The Book of Job*. NICOT. Eerdmans, 1988. — fidelity re-ingest ✅ 2026-07-18 ([[hartley-job-nicot]]; full Introduction §§I–XII + commentary body on 1:1–42:17; bibliography/indexes excluded as apparatus).
 - deClaissé-Walford, Jacobson & Tanner. *The Book of Psalms*. NICOT. Eerdmans, 2014.
 - Waltke, Bruce K. *The Book of Proverbs: Chapters 1–15* & *15–31*. NICOT. Eerdmans, 2004/2005.
 - Longman, Tremper, III. *The Book of Ecclesiastes*. NICOT. Eerdmans, 1998.
-- Longman, Tremper, III. *Song of Songs*. NICOT. Eerdmans, 2001.
-- Oswalt, John N. *The Book of Isaiah: Chapters 1–39* & *40–66*. NICOT. Eerdmans, 1986/1998.
-- Goldingay, John. *The Book of Jeremiah* & *Lamentations*. NICOT. Eerdmans, 2021/2022.
-- Lalleman-de Winkel, Hetty. *Jeremiah and Lamentations*. TOTC 21. IVP.
-- Block, Daniel I. *The Book of Ezekiel: Chapters 1–24* & *25–48*. NICOT. Eerdmans, 1997/1998.
+- Longman, Tremper, III. *Song of Songs*. NICOT. Eerdmans, 2001. — fidelity re-ingest ✅ 2026-07-18 ([[longman-song-of-songs-nicot]]; Intro I–XII + Poems 1–23).
+- Oswalt, John N. *The Book of Isaiah: Chapters 1–39* & *40–66*. NICOT. Eerdmans, 1986/1998. ✅ Vol. 1 (chs. 1–39) fidelity re-ingest 2026-07-18 (`wiki/sources/oswalt-isaiah-1-39-nicot.md`; Intro §§I–X + full commentary body + Excursus I–II + endnote sweep; bibliography/duplicate-TOC excluded as apparatus). Vol. 2 (chs. 40–66) remains ⚠️ 2026-06-07 old-standards.
+- Goldingay, John. *The Book of Jeremiah* & *Lamentations*. NICOT. Eerdmans, 2021/2022. — **Jeremiah** fidelity re-ingest ✅ 2026-07-18 ([[goldingay-jeremiah-nicot]]). **Lamentations** remains ⚠️ 2026-06-05 old-standards (separate volume).
+- Lalleman-de Winkel, Hetty. *Jeremiah and Lamentations*. TOTC 21. IVP. ✅ full-body re-ingest 2026-07-18 (`wiki/sources/lalleman-jeremiah-lamentations-totc.md`; body 391–6307).
+- Block, Daniel I. *The Book of Ezekiel: Chapters 1–24* & *25–48*. NICOT. Eerdmans, 1997/1998. ✅ Vol. 1 (chs. 1–24) fidelity re-ingest 2026-07-18 (`wiki/sources/block-ezekiel-1-24-nicot.md`; Intro + full commentary body 561–12495; endnotes/indexes excluded as apparatus). ✅ Vol. 2 (chs. 25–48) fidelity re-ingest 2026-07-18 (`wiki/sources/block-ezekiel-25-48-nicot.md`; full commentary body 587–12122; endnotes/TOC excluded as apparatus).
 - Longman, Tremper, III. *Daniel*. NIV Application Commentary. Zondervan, 1999.
 - Dearman, J. Andrew. *Hosea*. NICOT. Eerdmans, 2010.
 - Carroll R., M. Daniel. *The Book of Amos*. NICOT. Eerdmans, 2020.
@@ -47,9 +47,9 @@ single entry. This is a human-facing summary; the authoritative, dated record is
 - Boda, Mark J. *The Book of Zechariah*. NICOT. Eerdmans, 2016.
 
 ### Biblical Commentaries — New Testament
-- France, R. T. *The Gospel of Matthew*. NICNT. Eerdmans, 2007.
-- France, R. T. *The Gospel of Mark*. NIGTC. Eerdmans, 2002.
-- Green, Joel B. *The Gospel of Luke*. NICNT. Eerdmans, 1997.
+- France, R. T. *The Gospel of Matthew*. NICNT. Eerdmans, 2007. ⚠️ Scope 1 (Matt 1:1–16:20) re-ingested to fidelity standard 2026-07-18; Scope 2 (16:21–28:20) outstanding. See `wiki/sources/france-matthew-nicnt.md`.
+- France, R. T. *The Gospel of Mark*. NIGTC. Eerdmans, 2002. — fidelity re-ingest ✅ 2026-07-18 ([[france-mark-nigtc]]; full body: Introduction + commentary 1:1–16:8 + endings excursus + endnotes, raw lines 2680–11364; TOC and bibliography excluded as apparatus).
+- Green, Joel B. *The Gospel of Luke*. NICNT. Eerdmans, 1997. — fidelity re-ingest ✅ 2026-07-18 ([[green-luke-nicnt]]; full body prefaces + Intro + §§1–8, raw 122–196 + 3522–10757; apparatus excluded).
 - Michaels, J. Ramsey. *The Gospel of John*. NICNT. Eerdmans, 2010.
 - Bock, Darrell L. *Acts*. BECNT. Baker Academic, 2007.
 - Schreiner, Thomas R. *Romans*. BECNT. Baker Academic, 1998.
@@ -66,7 +66,7 @@ single entry. This is a human-facing summary; the authoritative, dated record is
 - Green, Gene L. *Jude and 2 Peter*. BECNT. Baker Academic, 2008.
 - Marshall, I. Howard. *The Epistles of John*. NICNT. Eerdmans, 1978.
 - Kruse, Colin G. *The Letters of John*. PNTC. Eerdmans, 2020.
-- Osborne, Grant R. *Revelation*. BECNT. Baker Academic, 2002.
+- Osborne, Grant R. *Revelation*. BECNT. Baker Academic, 2002. — fidelity re-ingest ✅ 2026-07-18 ([[osborne-revelation-becnt]]; full body prefaces + Intro + I–VI, raw 131–166 + 973–7411; apparatus excluded).
 
 ### Patristics, Early Christianity & Historical Scholarship
 - Holmes, Michael W. (ed./trans.). *The Apostolic Fathers: Greek Texts and English Translations*, 3rd ed. Baker Academic, 2007.
@@ -88,7 +88,7 @@ single entry. This is a human-facing summary; the authoritative, dated record is
 ---
 
 ## Judaism
-- Matt / Wolski / Hecker (trans.). *The Zohar: Pritzker Edition*, Volumes I–XII. Stanford University Press, 2004–2019.
+- Matt / Wolski / Hecker (trans.). *The Zohar: Pritzker Edition*, Volumes I–XII. Stanford University Press, 2004–2019. (**Vol. I standards reingest 2026-07-18** — `wiki/scholarship/matt-zohar-pritzker-vol1.md`. **Vol. II standards reingest 2026-07-18** — `wiki/scholarship/matt-zohar-pritzker-vol2.md`. **Vol. III standards reingest 2026-07-18** — `wiki/scholarship/matt-zohar-pritzker-vol3.md`. **Vol. IV standards reingest 2026-07-18** — `wiki/scholarship/matt-zohar-pritzker-vol4.md`. **Vol. V standards reingest 2026-07-18** — `wiki/scholarship/matt-zohar-pritzker-vol5.md`. **Vol. VI standards reingest 2026-07-18** — coverage ledger + verbatim loci; source page `wiki/scholarship/matt-zohar-pritzker-vol6.md`. **Vol. VII standards reingest 2026-07-18** — coverage ledger + verbatim loci; source page `wiki/scholarship/matt-zohar-pritzker-vol7.md`. **Vol. VIII standards reingest 2026-07-18** — coverage ledger + verbatim loci; source page `wiki/scholarship/matt-zohar-pritzker-vol8.md`. **Vol. IX standards reingest 2026-07-18** — coverage ledger + verbatim loci; source page `wiki/scholarship/matt-zohar-pritzker-vol9.md`. **Vol. X standards reingest 2026-07-18** — coverage ledger + verbatim loci; source page `wiki/scholarship/wolski-zohar-pritzker-vol10.md`. **Vol. XI standards reingest 2026-07-18** — coverage ledger + verbatim loci; Idra Zuta misattribution corrected; source page `wiki/scholarship/hecker-zohar-pritzker-vol11.md`. **Vol. XII standards reingest 2026-07-18** — coverage ledger + verbatim loci; source page `wiki/scholarship/wolski-hecker-zohar-pritzker-vol12.md`.)
 - Unterman, Isaac. *The Talmud: Its Origin and Development, Methods and Systems*. Bloch, 1952/1965.
 - Secunda, Shai. *The Iranian Talmud: Reading the Bavli in Its Sasanian Context*.
 - Alter, Robert. *The David Story* (translation + commentary on 1–2 Samuel).
@@ -194,3 +194,4 @@ Primary-text-driven tradition pages built during the world-religions expansion:
 - Armstrong, Karen. *A History of God*.
 - Prothero, Stephen. *God Is Not One*.
 - Delbanco, Andrew. *The Death of Satan*.
+- *Quest Study Bible, New International Version*. Zondervan (NIV 2011; Quest apparatus 1994/2003/2011). **Gospel of John scope ingested in full 2026-07-18** — `wiki/sources/quest-study-bible-niv.md`; other books not yet scoped.

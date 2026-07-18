@@ -6,7 +6,7 @@ tradition: Evangelical Protestant (Anglican / broadly evangelical)
 affiliation: St John's College Nottingham (until 1997); Fuller Theological Seminary, Pasadena (1997-2018; Emeritus thereafter)
 primary_texts_commented: [Jeremiah (NICOT), Lamentations (NICOT), Psalms (BCOTWP, 3 vols.), Daniel (WBC), Isaiah 40-55 (ICC)]
 sources_ingested: 2
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [commentator, nicot, evangelical, anglican, jeremiah, lamentations, both-and, new-covenant, gospels-analogy]
 ---
 
@@ -79,7 +79,15 @@ Goldingay consistently uses the term "First Testament" rather than "Old Testamen
 | Two versions | Both authoritative (MT ≈ Luke; LXX ≈ Matthew) | Single text focused | N/A | Single text |
 | Theological stance | Both-and; resists systematization | Unified theological argument | Unified epistemological foundation | Normative voice corrects unreliable voice |
 
+## Jeremiah NICOT — Fidelity Reingest (2026-07-18)
+
+Source page: [[goldingay-jeremiah-nicot]]. Full Intro + Parts 1–5 + Epilogue re-read (~479 claims).
+
+**Confirmed with loci:** three horizons; Gospels analogy (604/LXX/MT); curators/storytellers; ch. 25 as hinge/axis and 604 point of no return; “confessions” as rhetoric not diary; *bərît* as “pledge”; new pledge 31:31–34 (tôrâ on mind; husband/*bāʿal*; mysterious transform/turn); Jer 36 “nails the coffin shut”; Book of Consolation as “glowing centre”; OAN integral; ch. 52 frame with ch. 1 (calamity short of annihilation / hope short of full renewal).
+
+**Tension with Lalleman:** ch. 25 hinge vs 23–29 true/false centre — both treat 604 as decisive.
+
 ## Sources Ingested
 
-1. [[john-goldingay|Goldingay, John]]. *The Book of Jeremiah*. NICOT. Grand Rapids: Eerdmans, 2021.
-2. [[john-goldingay|Goldingay, John]]. *The Book of Lamentations*. NICOT. Grand Rapids: Eerdmans, 2022.
+1. *The Book of Jeremiah*. NICOT. Grand Rapids: Eerdmans, 2021. — Fidelity re-ingest 2026-07-18: [[goldingay-jeremiah-nicot]].
+2. *The Book of Lamentations*. NICOT. Grand Rapids: Eerdmans, 2022.

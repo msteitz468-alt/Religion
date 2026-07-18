@@ -5,8 +5,8 @@ tradition: Judaism (ANE); kinship-and-enmity motif with Israel
 textual_sources: [Genesis 19 (Lot), Numbers 21–25 (Balak/Balaam), Deuteronomy 23, Judges 3 (Eglon), Ruth, 1–2 Kings, Isaiah 15–16, Jeremiah 48; the Mesha Stela (Moabite Stone)]
 periods_active: Iron Age kingdom east of the Dead Sea (c. 13th/12th c.–6th c. BCE); a Persian-period province; later absorbed
 roles_significance: [Transjordanian neighbor and recurrent enemy of Israel; "brother/cousin" people via Lot; vassal then rebel under Mesha; ancestral line of Ruth → David]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [group, ancient-near-east, iron-age, transjordan, moab, chemosh, judah]
 ---
 
@@ -66,6 +66,18 @@ making Moab a foil for Israel's covenant identity. Yet the **Ruth** narrative su
 exclusionary Deuteronomic law, folding a Moabite woman into the royal genealogy — a
 standing scriptural argument over the boundaries of the covenant people.
 
+### Block on Ezekiel 25:8–11
+
+On Moab's taunt "The house of Judah is just like all the nations," Daniel Block
+([[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]]) comments: "this statement is
+certainly intended as a denial of her election. Consequently, the Moabite taunt is … a
+direct assault on Yahweh himself." He observes that the three named border cities
+(Beth-jeshimoth, Baal-meon, Kiriathaim) are not in the Moabite heartland but are Reubenite
+sites: "Either Ezekiel concedes this region to Moab on historical grounds, or he rejects all
+Israelite claims to the Transjordan for theological reasons" — noting that the ideal-Israel
+vision of 47:13–48:29 "omits any reference to the Transjordan." He cites Josephus (Ant.
+10.9.7) that Nebuchadrezzar overran Moab and Ammon five years after Jerusalem's fall.
+
 ## Influence on Later Traditions and Controversies
 
 Moab fuels the *herem* discussion (Chemosh's *herem* on the Mesha Stela closely parallels
@@ -73,3 +85,20 @@ Moab fuels the *herem* discussion (Chemosh's *herem* on the Mesha Stela closely 
 and the perennial Ruth-vs-Deuteronomy tension over Gentile inclusion. Related:
 [[ammonites]], [[edomites]], [[israelites]], [[midianites]], [[balaam]], [[ruth]],
 [[david]], [[dan]], [[herem-canaanite-conquest]].
+
+## Isaiah 15–16 (Oswalt, NICOT — 2026-07-18 ingest)
+
+Oswalt highlights the Moab oracle's anomalous tone: "There is a much greater sympathy for
+the fate of the Moabites, whereas a sort of grim delight greeted the downfall of the
+others." He attributes this to the peoples' closeness — kinship via Lot, near-identical
+language (the Mesha Inscription), Ruth's easy migration — Israel–Moab relations being
+"always somewhat ambiguous (as compared with Edom, where the hostility was mutually
+unrelenting)." The prophet's tears (16:9–11) he reads as revealing divine compassion: "The
+hand which metes out judgment is not separated from the spirit which grieves… the God who
+has stilled the shouts of joy (v. 10) is also the God who weeps for and with those who now
+cry (Hos 11:1–9)." The asylum plea of 16:1–5 ends in a "clearly messianic" vision of the
+Davidic throne (16:5): "Moab's hope is identical with Judah's" — Moab as representative of
+the nations of 2:1–4. Chemosh proves "unable to help" (16:12). Setting: probably the
+715–711 unrest, with 16:13–14's three-year postscript re-applying an older oracle. The
+Jeremiah 48 parallels Oswalt explains as "a standard poetic treatment of Moab" in the common
+domain. See [[isaiah|Isaiah]].

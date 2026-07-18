@@ -55,6 +55,20 @@ The liturgical purpose of the Songs is to draw the earthly community's Sabbath w
 ## The Seven Prince-Priests
 The opening songs assign a **chief angelic priest** to each of the seven heavenly sanctuaries. These are analogous to the high priest of the earthly Jerusalem Temple but multiplied sevenfold and infinitely more glorious. Their praise is explicitly described in priestly terms: "ministering" (*mesharet*), "offering" (*maqriv*), "blessing."
 
+## Hermeneutical Framework
+
+The Songs work by **dense allusive saturation, never by citation** — there is no "as it is written" anywhere in the surviving fragments. Scripture is not quoted but inhabited. Vermes identifies the source: "The main source of inspiration is the Book of Ezekiel, especially chapters i and x in connection with the throne-chariot and xl–xlviii for the heavenly sanctuary." That identification is Vermes's; the text itself names no source.
+
+**Transposition of the Temple cult into a heavenly key.** Priestly office language is predicated of angels: they are "the priests of [the inner Temple in his royal sanctuary], ministers of the Presence in his glorious innermost Temple chamber" (4Q400 fr. 1 i). The text then stages the earthly priesthood's inferiority explicitly: "for what shall our priesthood be counted in their dwellings? ... How does the offering of our tongue of dust compare with the knowledge of the divine [beings]" (4Q400 2). Human cult is measured against, and found lesser than, the angelic original — the interpretive inverse of Ezekiel 40–48's earthly blueprint.
+
+**Merkabah vocabulary.** The throne-chariot material reworks Ezekiel's imagery without naming it: "The [cheru]bim prostrate themselves before Him and bless. As they rise, a whispered divine voice [is heard]... The cherubim bless the image of the throne-chariot above the firmament... When the wheels advance, angels of holiness come and go" (4Q405 20 II). Wheels appear as "wheels," not transliterated *ophanim*. The "sound of quiet silence" (4Q405 23 I) is the whispered-voice motif. Seven heavenly sanctuaries and seven Sovereign Princes structure the cycle: "He consecrates the seven elevated holy places," each Prince blessing "with seven [wonderful] words." See [[merkabah|Merkabah]].
+
+**Simultaneity of heavenly and earthly worship.** This is Vermes's key interpretive claim: the songs "imply the **simultaneity** of heavenly and earthly worship." The term is his; the text does not use the language of ascent, participation, or imitation. What the text supplies is calendrical anchoring — each song carries a dated superscription ("Song of the holocaust of the sixth Sabbath on the ninth of the [second] month"), tying the angelic liturgy to the same Sabbaths the community was keeping.
+
+**The calendar as an interpretive commitment.** Thirteen songs cover the first thirteen Sabbaths — one quarter of the 364-day solar year. The cycle is unintelligible except on that calendar, so the solar reckoning is built into the text's structure, not merely asserted alongside it.
+
+**Performance.** Every song is headed "For the Master" (e.g. 4Q403). The range gives no gloss on the office and makes no claim to revelation or authorship.
+
 ## Significance
 1. **Earliest post-biblical Merkabah text**: The Songs predate the rabbinic *ma'aseh merkabah* tradition and the *Hekhalot* literature by centuries
 2. **Liturgical integration of mysticism**: The mystical content is embedded in communal liturgy, not reserved for private visionary experience

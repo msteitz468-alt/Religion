@@ -64,7 +64,7 @@ figure, opposed by the "Wicked Priest."
 The Community Rule describes communal property, rank by purity, expulsion procedures, and a
 theology of predestination with two spirits (Spirit of Truth and Spirit of Falsehood).
 
-## Theological Significance
+## Theological and Narrative Significance
 
 The Essenes represent a **sectarian strand** within Second Temple Judaism that:
 - Rejected the Jerusalem Temple as corrupt (or at least its current priesthood)
@@ -75,8 +75,44 @@ The Essenes represent a **sectarian strand** within Second Temple Judaism that:
 Their disappearance after 70 CE (likely destroyed by Rome during the Jewish War) means they
 left no living successor tradition, though their texts survived in the Qumran caves.
 
+## Historical and Archaeological Context
+
+The material evidence for the Essenes as a community is almost entirely the site of **Khirbet Qumran** and its
+cemetery, on the terms of the Qumran-Essene identification. Excavation phasing is disputed: Roland de Vaux's
+scheme posited an extended abandonment (31–4 BCE) following an earthquake, while **Jodi Magness** found no
+archaeological warrant for a 27-year gap, arguing the debris was cleared and the site rebuilt promptly, and that
+no distinct "Phase Ia" is identifiable. Magness dates the first buildings to c. 100 BCE. The settlement was
+destroyed as Roman forces advanced in 68 CE. Fuller treatment of the phasing dispute is on the sect page,
+[[essenism|Essenism]]; see also [[dead-sea-scrolls-vanderkam|VanderKam]].
+
+The external literary evidence is independent of the site: Pliny's notice of a community "above En-gedi" supplies
+the clearest geographical pin, while Josephus and Philo describe Essene practice without locating it at Qumran.
+The identification of the two bodies of evidence with each other remains the load-bearing inference, widely
+accepted but not unanimous.
+
+## Influence on Later Traditions and Controversies
+
+The Essenes left **no successor community**. Destroyed or dispersed in the First Jewish Revolt, they transmitted
+no living tradition, and rabbinic literature preserves no clear memory of them — a silence that itself became a
+scholarly problem after 1947. Their influence is therefore posthumous and textual, running entirely through the
+rediscovered scrolls.
+
+Two contested afterlives are worth flagging:
+
+- **The Christian-origins question.** Structural parallels between Essene practice and the early Jesus movement —
+  communal property, ritual immersion, eschatological urgency, dualistic light/darkness language — have repeatedly
+  been pressed into claims of direct dependence, in both popular and scholarly registers. Vermes notes the
+  parallels while declining to assert dependence. See [[essenism|Essenism]] for the detail.
+- **The identification dispute itself.** Rival accounts of Qumran (a Jerusalem library deposited for safekeeping;
+  a fortified villa) reject the Essene attribution outright. Vermes reviews and rejects these, but the question is
+  not formally closed; it is recorded here without adjudication.
+
+The [[teacher-of-righteousness|Teacher of Righteousness]] and the identity of the Wicked Priest remain the sharpest
+open controversies attached to the group — see [[wicked-priest-identity]].
+
 ## Cross-Links
 
+- [[essenism|Essenism]] — **the sect page**: the Essenes as a religious *system* (canon, doctrine, hermeneutics, relationship to the Jerusalem establishment). This page covers the Essenes as a social and historical actor; the two are complementary per the group/sect distinction.
 - [[pharisees|Pharisees]] and [[sadducees|Sadducees]] — the other two major parties
 - [[community-rule|Community Rule (1QS)]], [[damascus-document|Damascus Document]] — Essene/Qumran texts
 - [[dead-sea-scrolls-vanderkam|VanderKam on the Dead Sea Scrolls]] — scholarly context

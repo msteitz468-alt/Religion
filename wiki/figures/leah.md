@@ -5,8 +5,8 @@ tradition: cross-tradition (Judaism, Christianity) — matriarch
 textual_sources: [Genesis 29–31; 34; 49:31; Ruth 4:11; The Zohar]
 dates: legendary / patriarchal age
 roles: [matriarch, wife of Jacob, mother of six tribes and Dinah]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [figure, matriarch, genesis, kabbalah, women, cross-tradition]
 ---
 
@@ -48,6 +48,22 @@ In the Zohar (Va-Yetse), Leah and [[rachel|Rachel]] are the **two worlds**, uppe
 - **"Through the revealed, one reaches the concealed"**: Jacob openly cleaves to the revealed [[rachel|Rachel]] (Malkhut, *Attah*/"You"), but in doing so he attains Leah (Binah, *Hu*/"He"). The Zohar reads "*he lay with her in the night, Hu* ('He')" (Gen 30:16) as a cipher for Leah = the concealed supernal world. The two sisters together are the two faces of the divine feminine — supernal Mother (Binah) and immanent Bride (Shekhinah/Malkhut).
 - That Leah (Binah, the concealed) is buried with Jacob in **Machpelah**, while Rachel (Malkhut, the exiled lower Shekhinah) lies on the road, encodes this polarity in the geography of the tombs.
 
+### Pritzker II reingest anchors (Va-Yetse)
+
+Material below is grounded in Zohar II (Pritzker Vol. II), Parashat Va-Yetse.
+
+**Concealed / Jubilee / *Hu* (Va-Yetse, 1:153b–154b).** In the Zohar (Pritzker II, 1:153b–154a), Leah’s coupling is not open until morning (*In the morning, here she was Leah!*). The first seven years Jacob serves are read as concealed Jubilee (mistaken for Sabbatical); the second seven as revealed Sabbatical — crowning with two worlds. Higher world, Jubilee, is called *Hu*, He, “since all its matters are concealed… *He lay with her in the night, Hu*” (1:154b). Jacob “did not cleave to the concealed, rather to the revealed… *He cleaves to his wife*.”
+
+**“Hated” = unrevealed (Va-Yetse, 1:154b).** In the Zohar (Pritzker II, 1:154b): “*YHVH saw that Leah was hated*… Jubilee is always a concealed world, none of whose matters are revealed; so all its actions were concealed from Jacob.” The moral problem (children of a “hated” woman normally unvirtuous; mother/sister pattern) is resolved by the concealment reading, not by moral disdain.
+
+**Six directions; joyous mother (Va-Yetse, 1:153b–155a).** Leah’s six sons (plus Dinah) emerge through the mystery of Jubilee — “six directions above her”; Issachar and Zebulun complete the six. In the Zohar, Ps 113:9 (*joyous mother of children*) maps Leah to Jubilee — freedom and joy of worlds, the higher world. Judah from her line completes the Throne: “the throne was incomplete until she gave birth to Judah… *Va-ta’amod*, She stood” (1:155a).
+
+**Stork / ḥasidah; Lebanon birds (Va-Yetse, 1:163a).** In the Zohar (Pritzker II, 1:163a), Laban’s two daughters are read with Lebanon/bird typology: the elder (Leah) as higher world — “Since She is *ḥasidah*, *Ḥesed* issues from Her”; home in the junipers as six heads/sons.
+
+**Death unmentioned; burial concealed (Va-Yetse, 1:158a).** In the Zohar (Pritzker II, 1:158a), when Benjamin is born Rachel dies and the lower world assumes the house; “Leah does not die then — house belongs to lower world.” Higher-world matters are concealed: Leah’s death is unmentioned, unlike Rachel’s. Burial polarity: Leah in the Cave of Machpelah (concealed); Rachel on the road (revealed).
+
+**Mandrake hire re-read as modesty (Va-Yetse, 1:156b–157a).** In the Zohar, Leah’s interception of Jacob is framed as speaking outside, not before her sister; the tent opens to the road; Holy Spirit is roused because tribes would issue from her — not mere impudence.
+
 ---
 
 ## Theological and Narrative Significance
@@ -65,10 +81,10 @@ Leah carries one of Genesis's quiet reversals: the **unloved, substituted wife b
 
 ## Cross-Links
 
-- [[jacob|Jacob]] — her husband (Tif'eret)
-- [[rachel|Rachel]] — her sister; the lower/revealed world (Malkhut)
-- [[judah|Judah]] — her son; the royal/messianic line
+- [[jacob|Jacob]] — her husband (Tif'eret); attains her through love of the revealed
+- [[rachel|Rachel]] — her sister; the lower/revealed world (Malkhut / Sabbatical / *Attah*)
+- [[judah|Judah]] — her son; completes the Throne / royal-messianic line
 - [[shekhinah|Shekhinah]] — the immanent Bride, contrasted with Leah/Binah the supernal Mother
-- [[sefirot|Ten Sefirot]] — Binah (Leah, upper) and Malkhut (Rachel, lower)
+- [[sefirot|Ten Sefirot]] — Binah / Jubilee / *Hu* (Leah, upper) and Malkhut (Rachel, lower)
 - [[sarah|Sarah]], [[rebekah|Rebekah]] — the other matriarchs
 - [[zohar|The Zohar]], [[kabbalah|Kabbalah]], [[genesis|Genesis]]

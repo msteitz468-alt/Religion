@@ -5,8 +5,8 @@ tradition: Judaism / Christianity / cross-tradition
 textual_sources: [1 Samuel 9–31; 2 Samuel 1; 1 Chronicles 8:33; 9:39; Acts 13:21]
 dates: [traditional reign c. 1020–1000 BCE; floruit as king of Israel]
 roles: [first king of Israel, anointed by Samuel, warrior, tragic figure rejected for disobedience, pursuer of David]
-sources_ingested: 3
-last_updated: 2026-06-09
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [figure, judaism, christianity, old-testament, saul, kingship, tragedy]
 ---
 
@@ -72,8 +72,11 @@ with which both men are imagined, he argues, refutes the idea of simple partisan
 
 Tsumura (NICOT) stresses the literary and theological unity with David's rise, the prophetic-word principle, and the reversal motif. Saul is the textbook case for the dangers of kingship without submission to God and for the tragedy of a leader who cares more about image than repentance. In political theology and leadership studies he illustrates the limits of charisma and the necessity of character and obedience. The "how the mighty have fallen" lament is iconic. In Christian preaching he warns against partial obedience and self-justification; in Jewish tradition he is the flawed but human first king whose failure paves the way for David and the messianic hope. The Endor story continues to influence discussions of the afterlife, spiritualism, and divine sovereignty.
 
+**Tsumura fidelity re-ingest (2026-07-18):** Anointed *nāgîd* over YHWH’s *naḥălāh*; de jure (Mizpah) → de facto (Gilgal) kingship; first rejection denies dynasty, second rejects the person; *nḥm* dual sense (emotive regret vs irrevocable judicial decision); 15:30 confession aimed at honor before elders; Nob massacre = destroyer of priesthood (vs David preserver); 19:24 “among the prophets” as negative reversal of ch. 10; Endor last resort after silence of dreams/Urim/prophets; Gilboa honorable tragic end (Jabesh). Source: [[tsumura-1-samuel-nicot]].
+
 **Key Links**:
 - [[1-samuel|1 Samuel]] and [[2-samuel|2 Samuel]] (Tsumura on rejections, reversal, Endor)
+- [[tsumura-1-samuel-nicot|Tsumura 1 Samuel NICOT]]
 - [[samuel|Samuel]] (anointer and judge who rejects him)
 - [[david|David]] (successor, spared twice, lamenter)
 - [[jonathan|Jonathan]] (son and friend of David)

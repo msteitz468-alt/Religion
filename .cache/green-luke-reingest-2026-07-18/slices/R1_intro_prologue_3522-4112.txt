@@ -1,0 +1,591 @@
+INTRODUCTION
+
+
+
+
+
+1. READING THE GOSPEL OF LUKE
+
+
+
+The purpose of this first introductory section is to identify, explain, and, to a lesser degree, defend the interpretive approach of this commentary. It will become immediately clear that this study does not, in part because it cannot, examine the Gospel of Luke from all of the many methodological vantage points in the biblical studies marketplace today. Instead, it pursues a line of study to which I have referred elsewhere as “discourse analysis”—correlating culture-critical and narratological concerns.1 This approach will support an extended examination not only of Luke’s literary art but also his narrative theology (i.e., theology, ethics, and spirituality) in a way that allows him to address contemporary readers without our constructing his work anachronistically as the product of contemporary concerns.2
+
+
+
+
+
+1.1. THE GOSPEL OF LUKE AS “NARRATIVE” (διήγησις)
+
+
+According to the Lukan preface (1:1–4), the author himself categorizes his work as a “narrative” or “orderly account” (and not as a “Gospel,” as the tradition has it). This immediately invites a mode of reading appropriate to “narrative”—especially one that pays due respect to “order.”3 Within the first-century world of books and readers, Luke’s preface also raises the possibility that his “narrative” (as opposed, say, to epic poetry) might be understood with greater precision regarding its literary form or genre. Broadly speaking, the narrative choices available in Roman antiquity were historiography and biography, which take as their respective focus events that happened and people who lived; and novel, which has no necessary historical referent.
+
+As recent study has indicated,4 decisions about genre are important at both the generative and interpretive stages of the communicative process. Writers and readers alike follow repeatable patterns of speech—in the writer’s case sometimes to establish, sometimes to subvert, expectations about meaning and aim. Genre decisions highlight particular ways of visualizing reality, of bringing to the surface specific aspects of experience.
+
+As interesting and consequential as greater precision in genre identification might be, though, in terms of our task of “reading the Gospel of Luke,” this area has become problematized in recent years by the growing recognition that, from the standpoint of our reading of narrative, the line separating historical narrative and nonhistorical cannot be sustained. This is not because historical narrative makes no historical claims (or has no historical referent outside of the text), but because the narrative representation of history is always inherently “partial”—both in the sense of its selectivity and in the sense of its orientation to a hermeneutical vantage point.5 Historiography—in its choice of events to foreground at all, and in its ordering of those events in terms of temporal and causal relations—inevitably provides more, and less, than “what actually happened.”6 Consequently, the crucial first task even for those who read historiography (or biography) is to grapple fully with its status as narrative text.
+
+Concerns of this nature do not render the quest of the genre of Luke’s narrative obsolete or irrelevant, but do relativize somewhat the implications of the identification of genre for our reading of the Lukan enterprise.
+
+
+
+
+
+The Genre of the Gospel of Luke. Since the seminal work on the preface of Luke by Henry J. Cadbury,7 and largely based on it, a broad consensus has emerged that Luke 1:1–4 belongs squarely within the literary tradition of ancient historiography.8 In addition to the preface, Luke’s work shares many other features of Greco-Roman historiography—for example, a genealogical record (3:23–28); the use of meal scenes as occasions for instruction; travel narratives; speeches; letters; and dramatic episodes, such as Jesus’ rejection at Nazareth (4:16–30) and Paul’s stormy voyage and shipwreck (Acts 27:1–28:14).9 This and other data have led to the identification of Luke-Acts as historiography and, then, to further attempts to designate with varying levels of precision the sort of history-writing Luke-Acts most approximates. For example, Aune has sought to clarify further the location of Luke-Acts within the broad framework of ancient historiography by classifying it as a “general history”—that is, the narration of “… the important historical experiences of a single national group from their origin to the recent past.”10 In this case, Luke’s “national consciousness” embraces the origins of the people of “the Way” (Acts 9:2; 19:9, 23; 22:4; 24:14, 22), a distinct sect within first-century Judaism. Callan has also attempted to qualify the nature of Luke-Acts as historiography by designating Luke’s work as one of the first examples of a type of history, concerned “to present a true account of something,” which began to be written in the first century B.C.E.11 And so on.
+
+
+In spite of this consensus and the momentum it has fed for discerning in what sense Luke might be called an “historian,”12 the identification of Luke-Acts as historiography in general and of Luke 1:1–4 as typical of prefaces in Greco-Roman historiography in particular has rested on uneasy ground. For some, Luke has always seemed too motivated by his theological agenda to be regarded as an historian. This is hardly the objection it once seemed, since no ancient historian was without motive, be it theological, apologetic, pedagogical, or whatever. The modern dichotomy that pits history over against theology has grown out of problematic philosophical (and especially epistemological) commitments and is rightly being abandoned.13 More to the point are the formal differences between Luke’s preface and those of the Greek historiographers. Thus, Luke’s preface in Greek seems much too brief, consisting of only one sentence, as compared with the more lengthy openings of Greek historians; the transition from Luke’s preface to the narrative itself is surprisingly abrupt, both in terms of style and with regard to providing any introduction to the narratological beginning in 1:5; unlike others, Luke does not engage in explicit criticism of his predecessors; and Luke’s opening offers no general moral reflections, common among Greek historians.
+
+Such problems as these led Alexander to a complete reassessment of the literary map of Greek preface-writing, with the result that she has been able to provide for an analysis of Luke 1:1–4 a wider frame of comparative reference. From her analysis of the syntactical structure of Luke’s preface and other examples of Greek preface-writing, she finds the closest analogues to Luke 1:1–4 in the “scientific tradition”—that is, technical and professional writing on medicine, mathematics, engineering, and the like.14 Alexander proposes that Luke’s narrative presentation of Jesus and the early Christian movement is “scientific” in the sense that it is concerned to pass on the tradition of accumulated teaching on this subject.
+
+The affinities Alexander documents do not support very well the notion that Luke’s Gospel is a “scientific” treatise; formal, grammatical features cannot mask the significant discontinuity one recognizes when moving from the substance of the scientific tradition to the narrative of the Third Gospel. Nor do the affinities between Luke and the scientific tradition simply negate the identification of Luke 1:1–4 and Luke-Acts with the tradition of Greco-Roman historiography. First, that Luke-Acts does not match in every instance the formal features of Greco-Roman historiography presents no immediate problem, for the genre itself was loosely defined. What is more, Luke has been influenced as well by OT and later Jewish historiography,15 especially with respect to the use of historical sequences to shape a narrative theology. It is not simply that the Jesus-tradition was already in biographical form, as Alexander suggests, for other ways of re-presenting the significance of Jesus were available to Luke and “traditional” by his time. Rather, Luke intends to write a narrative, and in so describing his work﻿16 he identifies his project as a long narrative account of many events, for which the chief prototypes were the early Greek histories of Herodotus and Thucydides.17 Third, we have already outlined ways in which literary components of Luke-Acts—symposia, travel narratives, speeches, and the like—support a positive comparison of Luke’s work with Greco-Roman historiography. Finally, some of the difficulty with identifying Luke 1:1–4 with prefaces in Greco-Roman historiography is overcome when it is recognized that (1) many of Luke’s predecessors in Israelite and Jewish historiography did not reflect on their aims and procedures within the context of the writing itself, and (2) in an important sense, Luke’s work has not one but two openings—1:1–4 and 1:5–2:52. It is especially in 1:5–2:52 that Luke actually locates a suitable point to begin his work, a series of narrative events capable of intending the whole of what follows in Luke-Acts.18
+
+Apart from Alexander’s work, with respect to the classification of Luke-Acts as historiography, the primary dissenting voice has been raised by those who find the closest generic parallels in Greco-Roman biography.19 Biography grew out of historiography and, like it, has an historical referent(s). Taken on its own, the Gospel of Luke is susceptible to a biographical classification; understood in relation to the Acts of the Apostles, this designation is less easy to sustain. More importantly, as we will attempt to show, the Third Gospel is primarily focused on God and the fulfillment of God’s ancient purpose, so it can only in a secondary sense be classified as an account of the life of Jesus. Its identification as a biography is seriously undercut by the recognition of this primary narrative aim,20 as well as by the inability of the biographical genre to account for Luke-Acts taken as a whole. What is nonetheless clear is that Luke, perhaps more than the other Evangelists, has been influenced by Greco-Roman literary forms, especially those related to the biographical genre, even if other formal features and the theocentric focus of his narrative preclude identification of Luke-Acts as “biography” or “biographical succession narrative.”21 The fluidity of such genres as “biography” and even, to some degree, “historiography,” suggests the ease with which generic forms might be manipulated in practice.22
+
+Identification of Luke-Acts as ancient historiography adds to the expectations we may bring to the narrative. Alongside those raised by Luke’s professed intentions (Luke 1:1–4), we may anticipate a narrative in which recent history is given prominence, issues of both causation and teleology are accorded privilege, and determined research is placed in the service of persuasive and engaging instruction.
+
+Throughout this discussion of genre, we have begged an important question that must now be taken up directly. This is the now-debated issue of the nature of the unity between Luke and Acts.
+
+
+
+
+
+1.2. THE UNITY OF LUKE-ACTS
+
+
+The unity of Luke-Acts—two volumes, one story—easily escapes the modern reader in large part due to the canonical placement of these two books in the NT. Although the Gospel and Acts may have been completed and made available to the wider public separately, clearly in the second century C.E. the Gospel of Luke came to be located with the other Gospels, so as to form the “fourfold Gospel.”23 Acts, on the other hand, presumably as a bridge from the story of Jesus to the ministry of Paul, was eventually located in its present position between the Gospels and the Letters. In its canonical location, then, Acts has served to provide a framework for understanding the Pauline tradition,24 and Luke’s first volume has come to be thought of first and foremost as a “Gospel.” It is worth reflecting on the near certainty that, in Luke’s day, no such literary form existed, however, so that we would be amiss to think either that Luke set out to write a “Gospel” or that his readership would have understood his work within such a category.25 Luke refers to his predecessors as “narratives,” not as “Gospels,” and there is no a priori reason to imagine that Luke’s purpose was to write a story of Jesus to which he might later append an account of the early church. Rather, the “narrative” he wished to relate developed naturally and purposefully from the story of Jesus’ earthly ministry to that of the continuation of Jesus’ mission through the early church.26
+
+On account of the content of the prefaces in Luke 1:1–4 and of the secondary preface in Acts 1:1–2, some relationship between the Third Gospel and Acts has long been assumed, and most today would agree that these two books share a common author.27 In addition, it is generally agreed that Acts forms some sort of sequel to the Gospel of Luke—a consensus that is well grounded in a series of data.28 For example, Acts 1:1 not only refers to a “first book,” but also denotes as its subject “all that Jesus began to do and to teach.” This is a transparent summary of the Third Gospel, which characterizes the ministry of Jesus as consisting of words and deeds, held in tandem, leaving no room for reductionism on either side of the equation. With the term “began,” this summary suggests a continuation of the mission of Jesus, an expectation that is not disappointed, for Jesus’ followers “call on his name” (e.g., Acts 2:21; 9:21; 15:17; 18:15; 22:16)—a name that signifies the continuing presence of Jesus to bring wholeness of life (e.g., Acts 3:6, 16; 4:7, 10, 12, 17, 30; 8:12; 9:15, 34; 10:43; 16:18).
+
+The division of Luke-Acts into two volumes, then, need not signify that one story had ended and a new one begun, or that volume two would now turn to a different subject matter.29 Rather, as a matter of physical expediency ancient authors divided their lengthy works into “books,” each of which fit on one papyrus roll.30 The maximum length of a papyrus roll extended to some thirty-five feet,31 and Luke’s two volumes, the longest books in the NT, would have each required a full papyrus roll. In fact, in size the two are roughly equivalent—the Gospel with some 19,400 words, Acts with approximately 18,400 words—so that they would have required papyrus rolls of about the same length. Thus, the division between Luke and Acts conformed to the desire of contemporary writers to keep the size of their books symmetrical.32 In other ways, too, the plan of Luke and Acts suggests a purposeful proportionality. Both narratives begin in Jerusalem; the Gospel ends and Acts begins with commission narratives associated with reports of Jesus’ ascension; the time span covered by each volume is approximately thirty years; Luke’s narration of Jesus’ last days in Jerusalem (19:28–24:53) and of Paul’s arrest, trials, and arrival in Rome (Acts 21:27–28:31) each occupy some 25 percent of their respective books; and in many other ways Luke has consciously developed parallels between Jesus in the Gospel of Luke and his disciples in the Acts of the Apostles.33
+
+Can one push the notion of unity further, in order to embrace “narrative unity” for Luke-Acts? This question revolves around how one constructs the concept of “narrative.” This itself is contested ground,34 though central ingredients would include temporal sequence (involving, in Aristotle’s terms, a beginning, a middle, and an end) and, thus, an aim. In narrative, events are given temporal and causal relationship, sometimes construed by narratologists as “narrative cycle.” A simple narrative cycle might consist of the progression from “possibility” to “realization” to “result.”35 Narrative cycles may appear within narratives—such as the progression from promise to realization to result in Luke’s account of the birth of John (1:5–25, 59–80), but are also constitutive of entire narratives. Can the whole of Luke-Acts be understood as the outworking of a single narrative cycle, serving a single narrative aim?36
+
+Viewing Luke-Acts on the large canvas of narrative analysis, it is possible to see in its entirety a simple narrative cycle, painted in broad strokes.37 In it we see the working out of God’s purpose to bring salvation in all of its fullness to all people. This aim is anticipated by God’s messengers in 1:5–2:52, then made possible by the birth and growth of John and Jesus in households oriented around the purpose of God. According to the Lukan birth narrative, however, the divine aim will not be reached without opposition. The realization of God’s aim is made probable through the preparatory mission of John and the life, death, and exaltation of Jesus, with its concomitant commissioning and promised empowering of Jesus’ followers to extend the message to all people (Luke 3–Acts 1). Jesus himself prepares the way for this universal mission, even if he does not engage much with non-Jews, by systematically dissolving the barriers that predetermine and have as their consequence division between ethnic groups, men and women, adults and children, rich and poor, righteous and sinner, and so on. In his ministry, even conflict is understood within the bounds of God’s salvific purpose, Jesus’ death as a divine necessity, his exaltation a vindication of his ministry and powerful act of God making possible the extension of salvation to Jew and Gentile alike. The subsequent story in Acts consists of a narration of the realization of God’s purpose, particularly in Acts 2–15, as the Christian mission is directed by God to take the necessary steps to achieve an egalitarian community composed of Jews, Samaritans, and Gentiles. The results of this narrative aim (Acts 16–28) highlight more and more Jewish antagonism to the Christian movement, and the church appears more and more to be Gentile in makeup. This, too, is God’s purpose, according to the narrator, speaking above all through his spokesperson Paul (and through Paul, the Scriptures), even if efforts among the Jewish people at interpreting Moses and the prophets as showing the Messiah is Jesus should continue.38
+
+The Gospel of Luke and the Acts of the Apostles, then, narrate one continuous story,39 and the phrase from Luke’s preface that describes the content of his work, “the events that have been fulfilled among us,” refers both to the story of Jesus and to the activity of the early church.40
+
+The narrative unity of Luke-Acts has important implications for our reading of Luke’s work. Most significantly, it requires that our understanding of Luke’s purpose in writing and, thus, our understanding of the need(s) and audience he addressed account for all the evidence, both the Gospel and Acts.41 Similarly, it is critical that we understand that incidents in the Gospel anticipate aspects of the story narrated only (finally) in Acts. Notably, in 2:25–35 Simeon realizes that in this child Jesus a salvation has come that will be experienced as “a light for revelation to the Gentiles” (2:32), but during his ministry as recorded in the Gospel of Luke Jesus actually interacts only rarely with non-Jews. One must wait for Acts to see how the Gentile mission is begun, legitimated, and takes firm shape at the behest of God and as guided and empowered by the Holy Spirit. The last chapter of the Gospel closes off significant aspects of the story’s plot, but there is a more overarching intent at work, the redemptive purpose of God for all people. Seen against this purpose, the Gospel of Luke is incomplete in itself, for it opens up possibilities in the narrative cycle﻿42 that go unrealized in the Gospel but do materialize in the Acts of the Apostles.43
+
+
+
+
+
+1.3. METHOD IN READING THE GOSPEL OF LUKE
+
+
+As historiographical narrative, the Gospel of Luke consists of a series of event-accounts. The significance of each of these accounts is incomplete when viewed on its own. Each must be read with reference to its narrative location. Hence, the order of the narrative, Luke’s staging of events in their narrative sequence, is a primary control on the determination of meaning. For our purpose, it will not do to treat each “event” or “pericope” in isolation, as popular Bible reading, lectionary preaching, and tradition-critical scholarship often do.44 The interests of narratology—including “order,” but also, for example, perspective, characterization, setting, theme, and the like—are immediately relevant to our reading of the Third Gospel.45
+
+Ultimately, of course, the Third Gospel is not simply a narrative text, but a “cultural product.” That is, as literary text, the Gospel of Luke is itself a representation of the values and contexts within which it was generated, so any attempt to dislodge the Gospel from its own world would render it in some ways incomprehensible.46 At the same time, Luke’s narrative gives expression to a vision of the world that cannot be equated with the first-century context insofar as this can be reconstructed via historical inquiry. Luke’s world is one in which God intervenes through miraculous conceptions, angels regularly mediate between heaven and earth, and diabolic forces are active, for example. What is more, by representing historical events and movements in a narrative framework, Luke has provided them with an interpretation that must of necessity escape the historian concerned primarily with the scientific verification of particular events. This is because Luke has woven into the same, seamless fabric events and their interpretation as the fulfillment of the divine purpose. His narrative, then, this cultural product, the Third Gospel, gives expression to an eschatological vision currently manifesting itself in the world wherein God “has brought down the powerful from their thrones, and lifted up the lowly” (1:52). Indeed, it is not too much to say that the Lukan narrative is an invitation to embrace an alternative worldview and to live as if the reign of God had already revolutionized this age.
+
+All language is embedded in culture,47 and because Luke’s narrative enterprise will have been set within a particular discourse situation, it behooves modern interpreters to engage as fully as possible in an exploration of the cultural presuppositions Luke shared with his contemporaries. Hence, when we speak of discerning Luke’s “social setting” we mean more than “narrative world” as this phrase is used in narrative criticism. We mean more than the world available to us only through the narrative viewed as a closed system, but less than the world often represented to us by historical-critical inquiry. The former strips the Gospel of Luke of its cultural embeddedness, while the latter assumes too easily that the (real) social world wherein Luke’s story is set can and should simply be read into Luke’s narrative.48 As we will see, Luke does not represent the “real world” so straightforwardly, but both seeks to provide an alternative view of that world﻿49 and chooses aspects of that world to emphasize while downplaying others.50 The question is, What aspects of the social world of antiquity has Luke chosen to represent in his story—and how has he done so?
+
+All of this means that narratology provides a necessary but incomplete approach to the Third Gospel. In order to grapple with this “cultural product,” one also needs in one’s methodological quiver an historical method deeply rooted in social-scientific or culture-critical sensitivities. This form of historicism will not be concerned fundamentally with “what really happened,” as though such a “History with a capital H”51 were available to us or even possible to construct. Instead, it is concerned with (1) how Luke has “ordered” (1:3) events in order to serve a particular teleology and (2) how Luke’s model readers﻿52 will have heard and been shaped by the episodes of which he has given an account as well as by his narrative understood as a whole.
+
+
+
+
+
+Some Key Terms. The sort of analysis undertaken in this study thus brings to the fore for investigation the social and linguistic webs within which speech occurs and derives its significance.53 These “webs” are of various kinds and can be outlined with reference to the relationship of a given text to its co-text, intertext, and context.
+
+
+Co-text refers to the string of linguistic data within which a text is set, the relationship of, say, a sentence to a paragraph, a pericope in Luke’s Gospel to the larger Lukan narrative, and so on. “Local” co-text refers to the immediately preceding material and is often of paramount importance in shaping how a text will be received. This is because of the limitations of memory; that is, what we have heard or read just prior to the present text has a proportionately greater determinative role in the construction of its meaning in its narrative location. On the other hand, the meaning of a text is rendered more secure when read against the horizons of the narrative as a whole. Indeed, co-text may refer more broadly to what comes after as well as before a given text. We expect promises made in a narrative text, for example, to find their fulfillment later in the narrative, even if we are not always clear how or in what sense those expectations might be realized. Hence, expectations (or “narrative needs”) can be reshaped or even set aside by subsequent co-text.
+
+Intertext refers to the location of a text within the larger linguistic frame of reference on which it consciously or unconsciously draws for meaning. We are particularly interested in how Luke’s narrative draws and/or builds on the LXX.
+
+How is it possible to know when the narrator has drawn on the OT? In many cases, Luke’s use of the OT is explicit. Direct citations such as one finds in 3:3–6 are unambiguous. Less certain are those locations where Luke seems to have drawn on an OT “type-scene”—a form of repetition of earlier biblical narrative, wherein an episode is composed of a fixed sequence of motifs often associated with a recurrent theme. For example, type-scenes like “the announcement of birth” (see below, §2) reiterate a progression of events in a manner typical of what one finds in OT texts, while drawing on a common inventory of actions. Often even more elusive are those places where Luke’s dependence on the OT occurs in the form of allusions or linguistic echoes.
+
+Although our capacity to hear such intertextual reverberations as these is not always (and cannot always be) circumscribed by what we may or may not believe about the intent of the narrator, in our comments on Luke’s use of the OT we are guided by some criteria. These would include especially the criteria of (1) “availability” and (2) “volume”—that is, (1) the presence in the presupposition pool shared by Luke and his audience of the text(s) from which his narrative is alleged to have drawn, and (2) the presence within the Lukan narrative of any of a wide array of evidence that Luke’s vision has been drawn to a particular OT figure and/or text. For example, the criteria of “volume” for a number of intertextual observations might be satisfied with reference to Luke’s amply attested interest in tying his narrative into the story of Abraham, in portraying Jesus in hues borrowed from the Moses-story, or in inscribing the story of Jesus into OT material concerning Elijah and Elisha. In such cases, evidence might take the form of linguistic similarities, common motifs, the actual naming of OT figures, parallel patterns, and the like.
+
+Intertextuality of this sort is not as concerned with finding the one and only, definitive answer to how Luke has employed the OT in such-and-such a text as in seeing how Luke’s narrative serves as a kind of “echo chamber” for the interplay of the ancient, sacred stories with Luke’s own story. Hence, we have much less need to certify to the exclusion of other probable candidates the precise source of an allusion in the Lukan narrative (which in any case is not always possible) than to appreciate the many voices from Israel’s past given a fresh hearing.
+
+Context, finally, refers to the socio-historical realities of the Lukan text—both the world to which it gives witness (i.e., the world of Palestine in the first decades, C.E.) and the world in which the Third Gospel was written (i.e., the wider Greco-Roman world of the latter decades, C.E.). Concern with context is focused on such presuppositions as socio-cultural scripts assumed by the narrator, or provided by the narrator in order to broaden further the presupposition pools of his audience. As we have already noted, and as will become abundantly clear in what follows, Luke may draw on widely held cultural assumptions in order to affirm as well as to undermine them. In order to grapple with Luke’s narrative theology, then, it is important to appreciate how he has gone about the task of engaging the cultural assumptions of his world by means of his narrative.
+
+
+
+
+
+Narrative, History, and Historicity. Against the backdrop of the last two centuries of biblical studies, the approach to the Lukan narrative we have sketched may seem ahistorical to some, or at least impoverished with reference to historical concerns. After all, this commentary is not focused on the identification of Luke’s sources, nor on how Luke might have transformed the traditions available to him in the process of generating his Gospel, nor on whether each episode he records approximates what actually happened. This is not because we reject the idea of sources as such. Luke himself declares his cognizance of other narratives (1:1–4), and his narrative is clearly susceptible to tradition-historical investigation of various kinds. Indeed, the identification of Luke’s two volumes as “historiography” raises immediately issues of Luke’s method of historical inquiry, his access to diverse traditions, and his concern with and practices of verification. And, of course, these issues must be understood in the case of Luke against the backdrop of the canons of historical inquiry and of the narrative representation of history in Greco-Roman antiquity.
+
+
+Not unlike the subsequent writing of history, including that among our contemporaries, ancient historiography was marked by the paradox of two more or less competing interests—veracity (the attempt to depict events that actually happened) and narrative (the attempt to set events within a coherent, meaningful series, the presentation of which accords privilege to causation and teleology).54 This is no less true of Luke in the first-century Roman world than it would have been, say, of the earlier, Greek historiographer Thucydides, whose commitment to impartiality served as the ideal for centuries. Our reading of the Third Gospel is concerned above all with the “narrative” side of this equation—that is, with the sequencing of events and the interpretive aim that weaves its way forward through the narrative, surfacing here and there while lurking beneath the story elsewhere.
+
+Of course, in an important sense, it is true that every sentence in Luke-Acts carries with it a documentary as well as an interpretive force.55 Major commentaries on the Gospel of Luke in recent decades have been occupied primarily with the former of these, with such diachronic questions as how Luke might have used the Gospel of Mark as well as other sources, whether written or oral, or how an individual account in Luke might represent an actual event in the life of Jesus. This commentary takes as its challenge the second interest—the presentation of these events within a coherent narrative, within a meaningful sequence. This is not only because of the ready availability of diachronic commentary on the Third Gospel, however. Our perspective is also guided by our belief that the major challenge facing Luke was not one of verifying that these events actually took place (as though Luke’s first readers had drunk deeply, as we have, from the wells of ninteenth-century historicism). Similarly, while we remain reasonably confident that one of Luke’s major sources was the Gospel of Mark, and that other written narrative materials were available to him, we do not imagine that his first readers had access to their own copies of the Second Gospel or that they could (or would have been interested to) compare the texts of Luke and Mark in ways consistent with modern redaction criticism. (Indeed, given the general illiteracy of and nature of “publishing” in the Roman Mediterranean, even our use of the terms “readers” and “copies” is already enmired in anachronism.)
+
+It may be helpful to provide a single illustration of the claim that Luke’s primary challenge was related to the significance of the story of Jesus and not to its verification. Consider the general portrait of Jesus the healer, so central to the Lukan conception. Reasons for regarding this portrait as generally accurate from an historical perspective are plentiful.
+
+How does the tradition painting Jesus as healer fare under the scrutiny of the criterion of dissimilarity, for example? What about other healers in the wider world of first-century antiquity; what about healing within the Christian communities after Jesus? Within Jewish circles, we know of two potential candidates who are sometimes compared with Jesus, Honi the Circle-Drawer and Hanina ben Dosa. We also know of Apollonius of Tyana, a first-century Gentile miracle worker. Traditions surrounding these persons are important both for indicating that healers were not unknown (or simply dismissed as charlatans) in the world of Jesus, but also for demonstrating how Jesus was dissimilar from such potential analogues as these. According to the evidence we have, both Honi the Circle-Drawer and Hanina ben Dosa easily qualify as “holy men,” but neither can be called a “miracle worker” with respect to his characteristic activity. What is more, these two persons were known for their calling on Yahweh to work in spectacular ways. Jesus, on the other hand, is distinguished by his typical behavior as a healer, and, more importantly, is portrayed in the Gospel tradition as one who exercised in a direct way the saving power of God. He did not ask God to intervene on behalf of those in need of a miracle but pronounced their healing directly, in speech-acts that assumed his possession of divine authority to do so. These speech-acts also distinguish the healing of Jesus from that of his disciples, at least as this is evidenced in the Acts of the Apostles. They do not assume direct access to divine power even when they are engaged in ministries of signs and wonders; indeed, they often recoil from the suggestion of others that they possess divine power (e.g., Acts 14:14–15) and instead pronounced healing “in the name of Jesus” (e.g., 3:6, 16). Unlike Apollonius, Jesus often emphasized the component of faith in his ministry of healing—so much so that, according to the Gospels, one of the characteristic assertions of Jesus was, “Your faith has made you well.” Jesus, then, was both like and unlike other healers, and the portrait of Jesus as healer satisfies the criterion of dissimilarity.
+
+A second criterion often used to determine the authenticity of the traditions about Jesus is concerned with multiple attestation. Without delving much into the technicalities of this discussion, it is immediately possible to see that the portrait of Jesus as healer satisfies this criterion as well. In the Gospel of Matthew alone, we find nineteen stories of the miraculous alongside four summary statements indicating healing as one of the distinctive properties of Jesus’ activity. The Gospel of Mark records eighteen miracle stories and four summaries, while the Gospel of Luke has twenty stories and three summaries. When we take into account that these three Gospels occasionally report the same episode, the list of independent accounts is still impressive: six episodes of exorcism, seventeen accounts of healing (including three resuscitations), and eight so-called nature miracles. In addition, the Evangelists themselves allude to miracles that are not specifically recounted, Jesus makes statements concerning the significance of his healing ministry, and his opponents are reported as offering alternative interpretations of Jesus’ healing activity. Not only do we have “multiple attestation” utilizing different Gospel sources, not only do we have attestation from different types of Gospel material (summaries, debates, and actual accounts, for example), but we also have testimony from Josephus and from the Jewish polemical tradition. Josephus devotes a lengthy paragraph to Jesus that is so positive in its assessment of him that it has long been regarded as a Christian interpolation into the original text. More recent scholarship, however, has been inclined to view Josephus as having documented some information about Jesus, to which Christians later added in order to make his messianic status completely unambiguous. According to the report that is almost certainly derived from Josephus, Jesus was regarded as a wise man and doer of “parabolic works”—that is, a miracle worker (Ant. 18.3.3 §§6364). The early Christian theologian Origen represents his debate partner, Celsus, as believing that Jesus went to Egypt, there learning the secrets of the magicians; Jesus was then able to return to Palestine, where he conducted himself as a deceptive quack (Con. Cel. 1.38). Similarly, in his Dialogue (69.7), the Christian apologist Justin observed that some Jews taught that Jesus’ healing miracles constituted a display of magic art; he was a magician and a deceiver. And in a talmudic text, the extraordinary powers Jesus exercised are attributed to demonic powers, so that Jesus is again labeled as a sorcerer (b. Sanh. 43a, 107b).
+
+Finally, among the criteria that have been of particular importance in recent study of the historical Jesus is the criterion of Jesus’ suffering and death. Here the fundamental question is, How can we account for the level of hostility toward Jesus that led eventually to a Roman execution? Does the tradition of Jesus as healer assist us on this score? Evidence to which we have already alluded is helpful in this respect, since polemical attempts to label Jesus as a sorcerer within the Jewish tradition signal the sort of problem Jesus presented the Jewish leadership in Jerusalem. In fact, according to Luke 23:1–5 Jesus was handed over to Pilate on charges of perverting the nation of Israel and attempting to lead the people astray. These charges are self-evident echoes of language in Deuteronomy 13, where Israel is warned concerning false prophets who, through their signs and wonders, would attempt to lead God’s people astray. Apparently, this is a significant aspect of the case against Jesus: Through his miracle-working he opened himself to being labeled as a false prophet, for whom the prescribed penalty was death.
+
+We have seen, then, that the Gospel portrait of Jesus as healer satisfies the criteria of dissimilarity and multiple attestation, and was in all probability intricately interwoven into the fabric of hostility toward him that led to his execution. Other criteria might have been explored, but by any typical scholarly reckoning this would be enough to establish the authenticity of the tradition as a whole, even if individual miracle episodes would then be examined one by one.56 Nevertheless, the veracity of Jesus’ healing ministry is neither for Luke, nor apparently for his contemporaries, the point at issue. Luke’s Gospel contains within itself two indications of opposition to Luke’s perspective on Jesus as healer—the one from those who regarded Jesus as an agent of Beelzebul, the other from those who found in Jesus’ healing activity cause for branding him as a false prophet (11:14–15; 23:1–5; see the commentary on these texts below). As we have intimated, nonbiblical tradition similarly labels Jesus negatively as a magician or quack. What is pivotal about these testimonia for our purposes is this: Each of these voices assumes that Jesus was indeed a healer, then proceeds with attempts to interpret that activity with reference to its source. Similarly, Luke presupposes the possibility of miraculous healing—for such is the nature of his historicism—and assumes that Jesus was a healer,57 but provides his activity as a healer with interpretive significance by wrapping it in OT cloth and situating it centrally within the narrative of a Spirit-anointed ministry of bringing near the blessings of God’s domain. This interpretive significance does not adhere to the accounts of healing themselves, each taken on its own terms, but becomes visible, even compelling, by their location within the Lukan narrative as a whole. With only very rare exceptions (to be noted in the commentary below), Luke’s compulsion is to provide meaning for the events he recounts, not to argue for or demonstrate their veracity.
+
+For these reasons, the historical concerns of our reading of the Third Gospel do not (often) relate to veracity or verification. Instead, they are tied to (1) how the events Luke recounts in narrative sequence might have been “heard,” or given significance, within the sociohistorical mores of Luke’s world and (2) how Luke, within his own discourse situation and in his narrative representation of history, might have accorded significance to these events.
+
+Nevertheless, at the turn of the twenty-first century, it is perhaps inevitable that the approach taken in this commentary will raise questions about the historical veracity of Luke’s account and, perhaps more particularly, about our construal of its historicity. The impetus for such questions is not hard to find, though one must probably think in terms of several, overlapping motivations. Among these, two surface immediately. There is first the scandal and significance of the Christian belief in the incarnation, the basis of which finds testimony in the Gospel of Luke. God acts in history, redemptively and decisively, according to Luke, so it is more than a matter of curiosity whether “the events that have been fulfilled among us” (1:1) are “true” events. Second, there is our claim that the Gospel of Luke would have been shelved, so to speak, in Roman libraries, along with other representations of the genre of historiography. And, at least in modern thought, the writing of “history” raises questions of accuracy and truth. By way of responding to such concerns, we may outline three programmatic statements.
+
+(1) The approach of this commentary does not purport to answer all of the sorts of questions to which a text like the Third Gospel is susceptible. Beholding the Gospel of Luke as a cultural product in the form of a narrative foregrounds certain methodological choices. Identifying it more as a window﻿58 into historical processes emanating from the historical Jesus and early Christian communities and finding their zenith in the redactional activity of the Third Evangelist has produced already a full stable of commentary that need not be duplicated here.59
+
+(2) The approach adopted here necessarily blurs the distinction between the world of the text and the world behind the text, for it treats the text itself, this historical representation in the form of narrative discourse, as an object of historical interest.60 What is more, it does so in part because we believe Luke has himself invited this form of inquiry and engagement. This is not to say that the author of the Third Gospel was uninterested in actual events in the life of Jesus, only that the Lukan narrative is not the product of such an interest, narrowly defined.61 Thus, for example, one looks in vain for argumentation within the narrative to the effect that this event “actually happened in this way.” Often enough, Luke does not even locate in his accounting possible witnesses capable of providing a dispassionate, corroborating voice in support of the historical veracity of key events (e.g., the annunciation to Mary, the testing of Jesus in the wilderness, Jesus’ prayer on the Mount of Olives, et al.).62 Luke’s contribution does not consist in such critical chronicle-keeping. Instead, as we hope to show, Luke concerns himself, self-consciously, with interpretive persuasion—that is, not with validation of events but with their signification.63
+
+(3) The foregoing comments do not diminish the authority of the Gospel of Luke as Christian Scripture, though they may surface questions about how the authority of Luke, as narrative, is to be construed. This, however, is not really a question for the Third Gospel as much as it is for all biblical narrative. Narrators within the Scriptures of Israel, no more than the Third Evangelist, make no claims for prophetic inspiration. In fact, apart from the preface where Luke writes “himself” into the Third Gospel (1:1–4), he, like other biblical narrators, is absent from the narrative itself.64 Paradoxically, by telling the story thus, the narrator of Luke actually enhances his claim to know the mind of God—that is, to have a divine perspective on these unfolding events. The authority of the Gospel of Luke does not rest on its claim to historical veracity, therefore, but on its capacity to speak for God, to make transparent the significance of the events it narrates.65 After all, history—as “bare facts”—may be a necessary ground for faith, but “facts” are hardly a sufficient ground, nor do they necessarily assist us in our articulation of the nature of faith.66
+
+
+
+
+
+1.4. WHAT OF THE QUESTION OF AUTHORSHIP?
+
+
+This commentary proceeds under the assumption that our ability or inability to identify the author of the Third Gospel is unimportant to its interpretation. Although the most likely candidate for the authorship of Luke-Acts is Luke the physician and sometime companion of Paul,67 the author himself has not included his name within the Gospel itself and the title, “according to Luke,” was added by others only decades later. This suggests that the identity of the author is not critical to our reading of the Gospel; as a consequence, for example, in our reading of the Gospel of Luke we will look elsewhere than to Luke’s probable vocation as a physician to account for his interest in accounts of healing. Because the Gospel is anonymous, and because we know almost nothing about the Lukas of whom Paul writes (Phlm 24; Col 4:14; cf. 2 Tim 4:11), information about the author is largely available to us only by way of reconstruction from hints within the narrative. But information thus gleaned more properly gives us access to the “implied author” or “narrator.”68 Insofar as past discussions of the Gospel have referred to “Luke” as the voice through which the story of Jesus’ mission and message has been related, they have drawn attention to Luke in a role that closely approximates contemporary understanding of the “narrator.” It is in this sense that Luke will be named throughout the commentary.
+
+
+
+
+
+2. THE PURPOSE AND THEOLOGY OF THE GOSPEL OF LUKE
+
+
+Following the publication of The Theology of the Gospel of Luke (1995),69 it remains here only to sketch the mainstays of Luke’s narrative theology. This sketch is in large part determined by the approach to the Gospel adopted here, since narratology draws attention to the question of narrative “theme,” the idea of narrative “aim,” and the possibility of alignment with (“helpers”) and against (“opponents”) that aim.
+
+We have seen that the genre of Luke’s writing suggests the Evangelist’s concern with legitimation and apologetic. Moreover, our discussion of the narrative unity of Luke-Acts has highlighted the centrality of God’s purpose to bring salvation to all. In the conflicted world of the first-century Mediterranean, not least within the larger Jewish world, it is not difficult to see how this understanding of God’s purpose and its embodiment in the Christian movement would have been the source of controversy and uncertainty. Against this backdrop, we propose that the purpose of Luke-Acts would have been to strengthen the Christian movement in the face of opposition by (1) ensuring them in their interpretation and experience of the redemptive purpose and faithfulness of God and by (2) calling them to continued faithfulness and witness in God’s salvific project. The purpose of Luke-Acts, then, would be primarily ecclesiological—concerned with the practices that define and the criteria for legitimating the community of God’s people, and centered on the invitation to participate in God’s project.
+
+Our understanding of the aim of Luke-Acts must also account for its primary theological emphases. Recent scholarship has repeatedly identified “salvation” as the primary theme of Luke-Acts, theme being understood as that which unifies other textual elements within the narrative.70 In order to make sense of the theme of salvation and to show the degree to which it is integrated into the overall purpose of strengthening the church, we may outline some of Luke’s key theological concerns.
+
+To a degree not fully appreciated in many earlier studies of the Third Gospel, Luke’s narrative is theological in substance and focus; that is, it is centered on God. This is not to say that God often appears as a character within the narrative. Manifestly, this is not the case. Rather, it is to assert that the design guiding the progression of the narrative, the purpose being served or combated, is God’s. If salvation is the central theme of Luke, then it is not accidental that, in one of the earliest references to God in the Gospel, Mary addresses him as “God my Savior” (1:47). Especially in the central section of the Gospel concerned with the meandering journey from Galilee to Jerusalem, Jesus attempts to reconstruct the view of God held by his followers in order that they might recognize God as their Father, whose desire is to embrace them with his gracious beneficence (e.g., 11:1–13; 12:32).
+
+The divine purpose or perspective sometimes surfaces directly in the narrative—for example, when God speaks to Jesus at his baptism (3:21–22). More typical, though, is the way the divine purpose is made available and interpreted with reference to the Scriptures, by means of heavenly messengers, through a constellation of terms expressive of God’s design (e.g., “purpose,” “it is necessary,” “to determine,” et al.); and through instances of divine choreography of events. Behind the realization of the divine plan is the Holy Spirit, the power that puts into effect the will of God.
+
+Luke’s emphasis on the divine purpose serves his ecclesiological and hermeneutical interests. As the Christian community struggles with its own identity, not least over against those who also read the Scriptures but who refuse faith in Christ, the coherence between God’s ancient agenda and the ministry of Jesus becomes crucial. In fact, Jesus’ struggle with the Jewish leadership and with Jewish institutions is essentially hermeneutical: Who understands God’s purpose? Who interprets the Scriptures faithfully? Or, to put it more starkly, Whose interpretation has the divine imprimatur? Whose receives divine legitimation? For Luke, the answer is simple. The advent of Jesus is deeply rooted in the ancient covenant, and his mission is fully congruent with God’s intent. This is shown above all by the scriptural pattern of his life and by the divine vindication pronounced over him in his resurrection and ascension.
+
+God may control the agenda of the story, according to Luke, but the main character in Luke’s first volume is Jesus. Compared with characters within the narrative, Luke’s own audience is fortunate in its ability, from the very beginning, to perceive Jesus’ identity and role in God’s redemptive plan. Jesus is portrayed as a prophet, but as more than a prophet; he is the long-awaited Davidic Messiah, Son of God, who fulfills in his career the destiny of a regal prophet for whom death, though necessary, is hardly the last word. For Jesus’ disciples, the struggle is not so much to discern who Jesus is, but how he can fulfill his role. Their own views of the world remain conventional throughout most of the Gospel; hence, almost to the end of the Gospel, they lack the capacity to correlate Jesus’ exalted status as God’s Messiah with the prospect and experience of his heinous suffering.
+
+Early on, Jesus is identified as Savior (2:11), and this is the role he fulfills in numerous ways. Among the most visible are his miracles of healing and the expansive nature of his table fellowship. Both are highlighted by the Third Evangelist, for whom such practices embody the truth of the inbreaking kingdom of God. In Jesus’ interactions with people at the table and in his ministry of healing, he communicates the presence of divine salvation for those whose position in society-at-large is generally on the margins. This is “good news to the poor” (4:18–19). Such behaviors are matched by words, of course, and Jesus’ teaching occupies major sections within the Third Gospel, especially in the middle section of the Gospel devoted to his journey to Jerusalem. What is often striking about his instruction is its orientation not to “proper behavior” per se but toward a reconstructed vision of God and the sort of world order that might reflect this vision of God. To put it differently, Jesus, as Son of God, is God’s representative, whose life is characterized by obedience to God and who interprets for others (if they will only listen!) God’s nature and plan and the contours of appropriate response to God.
+
+For Luke, then, the call to discipleship is fundamentally an invitation for persons to align themselves with Jesus, and thus with God. This means that, for membership among the people of God, the focus is removed from issues of inherited status and a premium is placed on persons whose behaviors manifest their unmitigated embrace of the gracious God. Genuine “children of Abraham” are those who embody in their lives the beneficence of God, and who express openhanded mercy to others, especially toward those in need. Jesus thus calls on people to live as he lives, in contradistinction to the agonistic, competitive form of life marked by conventional notions of honor and status typical of the larger Roman world. Behaviors that grow out of service in the kingdom of God take a different turn: Love your enemies. Do good to those who hate you. Extend hospitality to those who cannot reciprocate. Give without expectation of return. Such practices are possible only for those whose dispositions, whose convictions and commitments, have been reshaped by transformative encounter with the goodness of God. Within the Third Gospel, the chief competitor for this focus stems from Money—not so much money itself, but the rule of Money, manifest in the drive for social praise and, so, in forms of life designed to keep those with power and privilege segregated from those of low status, the least, the lost, and the left-out.
+
+Jesus’ disciples are not entirely successful in embodying faithfulness of this nature and magnitude. This makes all the more striking Luke’s witness of others, near-nobodies in the narrative, who manifest unexpected insight into God’s purpose and respond to the message of Jesus in exemplary ways: a sinful woman from the city (7:36–50), a wealthy toll collector (19:1–10), a crucified criminal (23:39–43), to mention three. For their part, the disciples find that “following Jesus” is mostly about being “with” Jesus—learning from him, becoming socialized anew according to the new world order his ministry serves, propagates, and anticipates—all in preparation for their role as witnesses in the Acts of the Apostles.
+
+If disciples struggle to embrace faithfulness as this is defined and modeled by Jesus, others contend for the opposite. Those hostile to Jesus calculate the divine agenda along quite different lines and see his ministry as a threat to their own positions of leadership and to the institutions that perpetuate the present order of things. In short, they see Jesus as opposing God himself (i.e., God as they understand God to be), and thus someone to be resisted at all costs. The devil himself opposes the divine aim and, from the Lukan perspective, the devil’s aims are served both by diabolic forces that oppress people and by others, including the Jewish leadership in Jerusalem, who oppose God. The river of hostility grows wider and wider, finally to overflow its banks at Jesus’ passion, resulting in his final rejection, crucifixion, and death. The motif of hostility pushes Luke’s narrative along with heightened suspense, but is also employed in order to show in what ironic ways the purpose of God might come to realization, turning opposition against its own ends so as to fulfill the divine plan.
+
+Throughout, the Lukan narrative focuses attention on a pervasive, coordinating theme: salvation. Salvation is neither ethereal nor merely future, but embraces life in the present, restoring the integrity of human life, revitalizing human communities, setting the cosmos in order, and commissioning the community of God’s people to put God’s grace into practice among themselves and toward ever-widening circles of others. The Third Evangelist knows nothing of such dichotomies as those sometimes drawn between social and spiritual or individual and communal. Salvation embraces the totality of embodied life, including its social, economic, and political concerns. For Luke, the God of Israel is the Great Benefactor whose redemptive purpose is manifest in the career of Jesus, whose message is that this benefaction enables and inspires new ways for living in the world.
+
+
+
+
+
+OUTLINE OF THE GOSPEL OF LUKE
+
+1. THE PROLOGUE (1:1–4)
+
+2. THE BIRTH AND CHILDHOOD OF JESUS (1:5–2:52)
+
+2.1. THE ANNOUNCEMENT OF JOHN’S BIRTH (1:5–25)
+
+2.1.1. The Introduction of Zechariah and Elizabeth (1:5–7)
+
+2.1.2. The Announcement of John’s Birth (1:8–23)
+
+2.1.3. Elizabeth’s Response to God’s Favor (1:24–25)
+
+2.2. THE ANNOUNCEMENT OF JESUS’ BIRTH (1:26–38)
+
+2.3. MARY’S VISIT TO ELIZABETH (1:39–56)
+
+2.3.1. Mary and Elizabeth Exchange Greetings (1:39–45)
+
+2.3.2. Mary’s Response to God’s Favor (1:46–55)
+
+2.3.3. Mary’s Extended Stay (1:56)
+
+2.4. THE BIRTH OF JOHN (1:57–80)
+
+2.4.1. A Son Is Born (1:57–58)
+
+2.4.2. The Circumcision and Naming of the Child (1:59–66)
+
+2.4.3. The Prophecy of Zechariah (1:67–79)
+
+2.4.4. The Growth of the Child (1:80)
+
+2.5. THE BIRTH OF JESUS (2:1–20)
+
+2.5.1. The Birth in Bethlehem (2:1–7)
+
+2.5.2. The Angelic Message and the Shepherds (2:8–20)
+
+2.6. THE PRESENTATION OF JESUS IN THE TEMPLE (2:21–39)
+
+2.6.1. The Circumcision and Presentation of Jesus (2:21–24)
+
+2.6.2. The Manifestation of Jesus to Simeon (2:25–35)
+
+2.6.3. The Manifestation of Jesus to Anna (2:36–39)
+
+2.7. THE GROWTH OF JESUS, SON OF GOD (2:40–52)
+
+3. THE PREPARATION FOR THE MINISTRY OF JESUS (3:1–4:13)
+
+3.1. THE MINISTRY OF JOHN (3:1–20)
+
+3.1.1. John, Prophet of the Most High (3:1–6)
+
+3.1.2. John Proclaims the Good News (3:7–18)
+
+3.1.3. The Imprisonment of John (3:19–20)
+
+3.2. THE INTRODUCTION OF JESUS, SON OF GOD (3:21–4:13)
+
+3.2.1. The Anointing of Jesus (3:21–22)
+
+3.2.2. The Genealogy of Jesus (3:23–38)
+
+3.2.3. The Testing of Jesus (4:1–13)
+
+4. THE MINISTRY OF JESUS IN GALILEE (4:14–9:50)
+
+4.1. JESUS PROCLAIMS THE GOOD NEWS IN JEWISH SYNAGOGUES (4:14–44)
+
+4.1.1. Jesus Returns to Galilee (4:14–15)
+
+4.1.2. Good News in Nazareth (4:16–30)
+
+4.1.3. Good News in Capernaum (4:31–44)
+
+4.2. MISSION AND CONTROVERSY (5:1–6:11)
+
+4.2.1. The Calling of the First Disciples (5:1–11)
+
+4.2.2. The Cleansing of a Leper (5:12–16)
+
+4.2.3. Power to Heal, Authority to Forgive (5:17–26)
+
+4.2.4. Table Practices/Table Talk (5:27–39)
+
+4.2.5. Concerning the Sabbath (6:1–11)
+
+4.3. JESUS INSTRUCTS HIS DISCIPLES (6:12–49)
+
+4.3.1. The Calling of the Twelve (6:12–16)
+
+4.3.2. The Status and Practices of Jesus’ Community (6:17–49)
+
+4.3.2.1. A Crowd Gathers (6:17–19)
+
+4.3.2.2. Blessing and Woe (6:20–26)
+
+4.3.2.3. On Giving and Receiving (6:27–38)
+
+4.3.2.4. The Measure of a Disciple (6:39–49)
+
+4.4. THE COMPASSIONATE MINISTRY OF JESUS (7:1–50)
+
+4.4.1. The Healing of a Slave (7:1–10)
+
+4.4.2. The Raising of a Widow’s Son (7:11–17)
+
+4.4.3. Jesus and John (7:18–35)
+
+4.4.4. Jesus, a Pharisee, and a Woman (7:36–50)
+
+4.5. PROCLAIMING THE GOOD NEWS OF THE KINGDOM OF GOD (8:1–56)
+
+4.5.1. Good News of the Kingdom of God (8:1–3)
+
+4.5.2. On the Need for Authentic Hearing (8:4–21)
+
+4.5.3. Responding to the Power of Jesus: From Fear to Faith (8:22–56)
+
+4.5.3.1. Jesus Stills the Storm (8:22–25)
+
+4.5.3.2. Jesus Cures the Gerasene Demoniac (8:26–39)
+
+4.5.3.3. Jesus Heals a Sick Woman and Raises a Dead Girl (8:40–56)
+
+4.6. JESUS’ IDENTITY AND THE NATURE OF DISCIPLESHIP (9:1–50)
+
+4.6.1. The Mission of the Twelve (9:1–17)
+
+4.6.2. Peter’s Confession and the Nature of Discipleship (9:18–27)
+
+4.6.3. The Transfiguration of Jesus (9:28–36)
+
+4.6.4. The Misunderstanding of the Disciples (9:37–50)
+
+5. ON THE WAY TO JERUSALEM (9:51–19:48)
+
+5.1. DISCIPLESHIP: HEARING AND DOING THE WORD (9:51–10:42)
+
+5.1.1. Departure for Jerusalem (9:51–62)
+
+5.1.2. The Mission of the Seventy-two (10:1–20)
+
+5.1.3. The Blessedness of the Disciples (10:21–24)
+
+5.1.4. The Parable of the Compassionate Samaritan (10:25–37)
+
+5.1.5. How to Welcome Jesus (10:38–42)
+
+5.2. THE FATHERHOOD OF GOD (11:1–13)
+
+5.2.1. The Disciples’ Prayer (11:1–4)
+
+5.2.2. Encouragement to Pray (11:5–13)
+
+5.3. JESUS’ BEHAVIOR QUESTIONED (11:14–54)
+
+5.3.1. Jesus Responds to the Crowds (11:14–36)
+
+5.3.1.1. Diverse Opinions (11:14–16)
+
+5.3.1.2. The Kingdom of God Has Drawn Near (11:17–26)
+
+5.3.1.3. The Blessedness of Obedience (11:27–28)
+
+5.3.1.4. The Sign of Jonah (11:29–36)
+
+5.3.2. Jesus Responds to the Pharisees and Teachers (11:37–54)
+
+5.4. VIGILANCE IN THE FACE OF ESCHATOLOGICAL CRISIS (12:1–13:9)
+
+5.4.1. Persecution and Identification with God’s Purpose (12:1–12)
+
+5.4.2. Faithfulness concerning Possessions (12:13–34)
+
+5.4.3. Faithfulness within the Household of God (12:35–48)
+
+5.4.4. Recognizing the Coming Crisis (12:49–59)
+
+5.4.5. Warning concerning Repentance and Fecundity (13:1–9)
+
+5.5. WHO WILL PARTICIPATE IN THE KINGDOM? (13:10–17:10)
+
+5.5.1. The Unsettling Presence of the Kingdom (13:10–21)
+
+5.5.2. Who Will Be Saved? (13:22–30)
+
+5.5.3. The Entwined Fates of Jesus and Jerusalem (13:31–35)
+
+5.5.4. Kingdom and Banquet (14:1–24)
+
+5.5.4.1. Jesus Heals an Insatiable Thirst (14:1–6)
+
+5.5.4.2. Recasting Meal Etiquette (14:7–14)
+
+5.5.4.3. A Wealthy Householder and His Invitation List (14:15–24)
+
+5.5.5. Conditions of Discipleship (14:25–35)
+
+5.5.6. Rejoicing at the Finding of the Lost (15:1–32)
+
+5.5.6.1. Jesus’ Troublesome Table Companions (15:1–2)
+
+5.5.6.2. Celebrating the Recovery of the Lost (15:3–10)
+
+5.5.6.3. Responses at Finding a Lost Son (15:11–32)
+
+5.5.7. Kingdom Economics (16:1–31)
+
+5.5.7.1. Using Wealth to Make Friends (16:1–9)
+
+5.5.7.2. The Rule of Wealth (16:10–13)
+
+5.5.7.3. Jesus’ Polemic against the Pharisees, Lovers of Money (16:14–31)
+
+5.5.8. Faithful Service (17:1–10)
+
+5.6. RESPONDING TO THE KINGDOM (17:11–19:27)
+
+5.6.1. Gratitude from a Foreign Leper (17:11–19)
+
+5.6.2. Faithfulness at the Coming of the Son of Man (17:20–18:8)
+
+5.6.2.1. When Is the Kingdom? (17:20–21)
+
+5.6.2.2. Where Is the Kingdom? (17:22–37)
+
+5.6.2.3. Faithfulness in Anticipation (18:1–8)
+
+5.6.3. How to Enter the Kingdom (18:9–19:27)
+
+5.6.3.1. A Parable concerning the Self-possessed (18:9–14)
+
+5.6.3.2. Receiving Children, Receiving the Kingdom (18:15–17)
+
+5.6.3.3. The Problem of Power and Wealth (18:18–30)
+
+5.6.3.4. The Enigma of Jesus’ Suffering (18:31–34)
+
+5.6.3.5. The Irony of Blindness (18:35–43)
+
+5.6.3.6. Who Is a Son of Abraham? (19:1–10)
+
+5.6.3.7. Those Who Refuse the King (19:11–27)
+
+5.7. JESUS ARRIVES IN JERUSALEM (19:28–48)
+
+5.7.1. Going Up to Jerusalem (19:28–40)
+
+5.7.2. Weeping over Jerusalem (19:41–44)
+
+5.7.3. Preparation of the Temple for Teaching (19:45–48)
+
+6. TEACHING IN THE JERUSALEM TEMPLE (20:1–21:38)
+
+6.1. CONFLICT WITH THE JERUSALEM LEADERSHIP (20:1–21:4)
+
+6.1.1. The Question of Jesus’ Authority (20:1–8)
+
+6.1.2. Jerusalem’s Unfaithful Leadership (20:9–19)
+
+6.1.3. The Question of Caesar’s Authority (and the Priority of the Temple) (20:20–26)
+
+6.1.4. The Question of Moses’ Authority (20:27–40)
+
+6.1.5. The Question of the Messiah’s Authority (20:41–44)
+
+6.1.6. The Despotic Authority of Jerusalem’s Leadership (20:45–21:4)
+
+6.2. THE COMING OF THE END: DEVASTATION, REDEMPTION, READINESS (21:5–38)
+
+7. THE SUFFERING AND DEATH OF JESUS (22:1–23:56)
+
+7.1. THE LAST SUPPER (22:1–38)
+
+7.1.1. Conspiracy (22:1–6)
+
+7.1.2. Preparation for Passover (22:7–13)
+
+7.1.3. Teaching at the Passover Table (22:14–38)
+
+7.1.3.1. Celebration and Fulfillment of Passover (22:14–20)
+
+7.1.3.2. A Betrayer at the Table (22:21–23)
+
+7.1.3.3. Service and Regal Authority (22:24–30)
+
+7.1.3.4. Pending Trials (22:31–38)
+
+7.2. JESUS ON THE MOUNT OF OLIVES (22:39–46)
+
+7.3. JESUS CONFRONTS THE ARRESTING PARTY (22:47–53)
+
+7.4. PETER AND JESUS AT THE HIGH PRIEST’S MANSION (22:54–65)
+
+7.5. THE TRIAL OF JESUS (22:66–23:25)
+
+7.5.1. The Hearing before the Sanhedrin (22:66–71)
+
+7.5.2. The Hearing before Pilate (23:1–5)
+
+7.5.3. The Hearing before Herod (23:6–12)
+
+7.5.4. The Sentencing of Jesus (23:13–25)
+
+7.6. THE CRUCIFIXION OF JESUS (23:26–49)
+
+7.6.1. On the Way to the Crucifixion (23:26–31)
+
+7.6.2. Jesus Crucified and Mocked (23:32–43)
+
+7.6.3. The Death of Jesus (23:44–49)
+
+7.7. THE BURIAL OF JESUS (23:50–56)
+
+8. THE EXALTATION OF JESUS (24:1–53)
+
+8.1. THE EMPTY TOMB (24:1–12)
+
+8.2. ENCOUNTER ON THE ROAD TO EMMAUS (24:13–35)
+
+8.3. THE APPEARANCE TO THE DISCIPLES (24:36–49)
+
+8.4. THE ASCENSION OF JESUS (24:50–53)
+
+
+
+
+
+The Gospel of
+
+LUKE
+
+
+
+
+
+1. THE PROLOGUE (1:1–4)
+
+1Since many have undertaken to set down an orderly account of the events that have been fulfilled among us, 2just as they were handed down to us by those who from the beginning were eyewitnesses and servants of the word, 3I too decided, after investigating everything carefully from the very first, to write an orderly account for you, most excellent Theophilus, 4so that you may know the truth concerning the things about which you have been informed.1
+
+
+
+
+Much more so in antiquity than today, first sentences are the primary point-of-entry for literary productions. The first column of writing, even the first sentence, performed much the same purpose as the modern book jacket précis, table of contents, and title page. In the Greco-Roman world, a “book,” available in the form of a rolled-up scroll,2 did not allow for informal browsing for the purpose of divining its approach, genre, or subject matter. Hence, the opening sentence was crucial for putting those who either read it or heard it read on notice as to what could be expected in the work as a whole.3
+
+Beginnings serve to usher readers from the world outside the text into the world of the text. According to the ancient rhetorician Quintilian, prefaces in oral speech should prepare the audience so that they will desire to listen to the speech as a whole, by rendering them well disposed, attentive, and ready for instruction.4 Given the centrality of rhetorical training to classical education in general﻿5 and the reality that literary productions for wider audiences were more heard (through public reading) than read, it is not surprising that literary prefaces of all sorts followed the advice of such rhetors as Quintilian.6 In How to Write History (second century C.E.), Lucian remarks that audiences will give their full attention to historians whose work is evidently “important, essential, personal, or useful.” Like the orator, however, the historian should give the audience “what will interest and instruct them.”7 How is interest aroused and trust for the author engendered? In narratives, the narrator is typically concerned to communicate that his or her version of the story is “true.”8 For works like Luke’s, this was accomplished with reference to firsthand knowledge of the subject matter—through intimacy with the tradition as well as research and/or personal experience.9
+
+Openings also set a work within the larger context of other known literary productions, establishing a network of relationships with existing works, inviting comparisons of all kinds. As “the first step in the intentional production of meaning,”10 a literary opening suggests continuity or discontinuity with predecessors, and so encourages the reader to approach what follows with a certain set of (sometimes nebulous) expectations.
+
+Luke has inserted at the head of his narrative a Greek-style preface. In doing so, he has followed a well-trodden path, employing a literary convention already widespread in the Greco-Roman world. Prefaces of this sort were used by the authors of a wide variety of works—from the seriously literary to the technical and nonliterary—all of whom were influenced to varying degrees by the conventions of ancient rhetoric. These prefaces often shared common ingredients—(usually) the author’s name; dedication and/or request; remarks regarding the subject matter, its importance and implications; (often diminutive) mention of predecessors; a claim to appropriate methodology; and the transition to the work itself.
+
+Luke’s prologue identifies Luke’s work as a “narrative,” and in these four verses we first encounter the narrator. In the latter half of the Acts of the Apostles, the narrator presents himself not outside the narrative, as in this instance, but as a character within the story;11 this does not happen in the Gospel, however. A narratee is also identified, Theophilus (note: the narrator is not given a name, though we shall refer to him as Luke).12 Although this narrative is directed toward Theophilus by Luke, the prologue-form itself indicates that it is being released for wider public dissemination (see below on v 3). With respect to the relationship established between narrator—narrative—narratee, three observations may be noted. First, Luke is making a claim for the trustworthiness of his book. This opening sentence is designed to impress, to underscore the believability of the narrative by its claims to offer rigorous standards of research, and thus to gain a favorable hearing.
+
+Second, we gain a preliminary vision of the angle from which the narrative will be related. We are given little on which to base our identification of the narrative voice, but a few characterizations are possible. (1) That we are dealing with a written text at all is itself suggestive; even though we have no firm data on which to construct a precise judgment regarding illiteracy in the first-century Roman world, “in agrarian societies limited literacy was the rule.…”13 This, together with the vocabulary and style of Luke 1:1–4, suggests a narrator of some means, educated, probably urban. (2) Recent work indicating the correlation of Luke 1:1–4 with the “scientific tradition” suggests that Luke’s perspective is from the social location of those who traffic in technical or professional writing and who generally have an appreciation for the labors of those who work with their hands.14 This is notable, since more “high-browed” writers in the Greco-Roman world often looked with disdain on the artisan class, and since recent investigations have underscored the presence of just such persons—free artisans and persons with small businesses—in early Christianity.15 (3) It is not possible to determine from the prologue how the narrator situates himself vis-à-vis Jesus and the Jesus-movement chronologically. Some have seen in these verses evidence that Luke is a “third generation” Christian—after the eyewitnesses and original compilers and narrators of the Jesus-story.16 Luke only reports that his time in writing comes after some accounts have already been attempted, however, not that he does not belong to that generation of Christian writers—or, for that matter, that he himself had not observed some of the events he narrated. Indeed, as the narrator of Acts, he explicitly claims to have participated in the events he recounts in selected passages. The prologue does, however, communicate Luke’s claim to being one of “us”—that is, a member of the larger community of persons whose lives were being shaped by the events he goes on to narrate. Luke writes as one of the “people of the Way,” a “Christian.”
+
+Third, Luke himself raises the question of “truth” or “certainty,” and suggests that a primary ingredient that will lead to certainty for Theophilus is the order of the narrative. Luke’s purpose was apparently not to provide an historical foundation for the Christian message. Subsequent writers have struggled with the relationship between kerygma and history, but this does not seem to have been Luke’s problem. For him, the narrative is not the basis of proclamation; rather, narration is proclamation.17 For Luke, an “orderly account” is concerned above all with persuasion. He has “ordered” the events of his narrative so as to bring out their significance, to persuade Theophilus—who is not so much concerned with the issue, Did it happen? as with the queries, What happened? and What does it all mean? By providing a more complete accounting of Jesus in his significance, Luke hopes to encourage active faith.
+
+With respect to structure and style, Luke 1:1–4 is periodic, with one complete sentence made up of five clauses organized into a balance unity:18
+
+many have undertaken—I too decided
+
+to set down an orderly account—to write an orderly account
+
+the events that have been fulfilled among us—everything
+
+from the beginning—from the very first
+
+just as they were handed down to us—so that you may know.
+
+
+
+Accordingly, one recognizes between vv 1–2 and vv 3–4 a balance of phrases that guide the interpretation of Luke’s prologue.
+
+1 Luke sets forth the context for his writing (v 1a) and its content (v 1b). Although the first clause is causal,19 it is not so much concerned with Luke’s motivation for writing as its justification. Luke mentions other attempts at orderly accounts not to disparage them,20 but to place his project in their company. Luke’s purpose will have been to identify with and re-present previous narratological developments of the coming of redemption in Jesus. Luke is not simply a conservator of the tradition, but neither is he a novelist operating apart from a concern for the narrative tradition of interpreting Jesus’ significance. He has his own contribution to make, and he will proceed in relation to that tradition of interpretation. He draws attention to other attempts at orderly narrative in order to certify the value of his subject matter and to open the way for a further work of similar compass.
+
+Luke refers to the existence of these literary predecessors as if they were well known to his audience.21 Unfortunately, their shared knowledge is not ours, and Luke gives us no hint as to whether his predecessors included one or more of our NT Gospels. Luke’s use of the word “many” here follows a widespread practice both in oral and in written beginnings, where “many” is used for its rhetorical effect without necessarily implying “a great number.”22 Its value here is rhetorical: to vouch for the value of Luke’s enterprise by its association with the tradition.23
+
+Because Luke associates his own work so closely with these former attempts,24 it is critical to understand what is meant by “an orderly account.” Some have suggested that Luke is drawing on the rhetorical tradition, and is thus interested in a “longer narrative composed of a number of events,” arranged “by the display of major developments and patterns.”25 Others have found Lucian’s discussion of How to Write History decisive, concluding that “narrative” “… is a technical term for the well-ordered, polished product of the historian’s work.”26 These suggestions are helpful, but we should also emphasize Luke’s use of the cognate verb, “to narrate, to relate, to give an account,”27 which he characteristically employs for the act of describing God’s mighty deeds. For example, in Acts 9:27, Barnabas narrates to the Jerusalem disciples how Saul had seen the Lord on his journey to Damascus—and he does so (like Luke) in the third person. Here he tells of Saul’s experience, and his narration is specifically persuasive in purpose and effect, with a primary emphasis on the Lord’s doing, so that the disciples in Jerusalem are convinced of Saul’s discipleship on the basis of Barnabas’s report (cf. 9:28–29).28 For Luke, “narrative” is proclamation.29 Luke has in mind the use of history to preach, to set forth a persuasive interpretation of God’s work in Jesus and the early church, and the medium of that proclamation is the narrative account whose “order” is crucial for our understanding of that interpretation.
+
+What is the content of this narratological proclamation? Luke’s emphasis on “events” directs our attention to historiographical rather than biographical interests—where the contributions of such persons as (even) Jesus, Peter, Stephen, and Paul are related within larger narrative sequences whose interest transcends their individual deeds. Luke’s words, “that have been fulfilled among us,”30 indicate his concern with how the events narrated in the Gospel and Acts are understood as divine affairs. This indicates, first, that these events are incomplete in themselves and must be understood in relation to a wider interpretive framework. Every writer whose focus is a narrative sequence must struggle with locating an appropriate beginning, a starting point sufficient to show how what follows grows out of narrated exigencies. In his opening phrase, Luke signals his understanding that the events he will narrate are related to God’s purpose, evident in the OT and the history of God’s people, as its culmination.31 This same affirmation is continued throughout the Gospel and in the Acts of the Apostles, where Jesus’ life, death, and resurrection and the shape and progress of the Christian mission are understood as manifestations of God’s will.32 One need not bring to bear on Luke’s prologue the full weight of “prophetic fulfillment”33 to see that Luke is nonetheless concerned to affirm that in these events God’s purpose is realized.34 But this is already to mention, secondly, that this modifier “have been fulfilled” suggests God as its unspoken subject. These are events by which God accomplishes his purpose.
+
+Because of the framework within which these events are “fulfilled”—that is, the divine framework of God’s purpose—those among whom these events are complete (the “among us” of v 1) cannot be restricted to the first generation of men and women who participated in Jesus’ ministry and to whom he appeared after his resurrection. Luke’s inclusion of himself in this “us” guarantees this, but even more significant is the tense of the verb, “have been fulfilled”—perfect, denoting the continuance of completed action. Luke has in mind the Christian community, with its organic unity across generations.35
+
+2 For Luke, the basis of the tradition of God’s work is not “the many” who had compiled narratives (v 1), but this new group—“eyewitnesses and servants of the word”—to whom he also had access. By observing that they handed on the tradition “to us,” Luke again includes himself with the previously mentioned narrators and indicates that his own methodology extended beyond some sort of collation of already existent narrative reports. To describe this process of “handing on,” Luke employs the technical term for the transmission of tradition,36 but this need not refer to the service of authoritative dogmatic interests (cf. 1 Cor 15:3–5). “To pass on certain information either orally or by writing to save it from oblivion” is probably closer to the mark here.37 This emphasis on the process of “handing down,” together with the related information that these people were eyewitnesses and servants of the word from the beginning, constitutes the sort of appeal to tradition and to antiquity for which both the historiographical and scientific traditions were noted. One builds one’s case in relation to past efforts, indicating one’s respect for the tradition and validating one’s message by appealing to its antiquity.38
+
+Luke finds a parallel between his narratological forerunners and these eyewitnesses and ministers of the word. “Just as” the latter had passed on the tradition of these “fulfilled events,” so the former had compiled narratives of those events, shaping them into a coherent unity.39
+
+Two observations raise questions about Luke’s use of “eyewitnesses” here. First, he prefers to designate people as “witnesses,” and the term used here, “eyewitness,” is found nowhere else in Luke-Acts.40 Second, we typically associate the word “eyewitness” with a person who has personally observed an event, but this is not always the case in antiquity.41 The concept of the eyewitness is important to historiography and actually describes the first step in the process of writing history. The historian may be fortunate enough actually to see the events themselves,42 but this can scarcely be premeditated and is consequently the exception. Rather, the historian examined relevant sites of historical incidents, gaining firsthand experience of them. It appears that Luke has used the term “eyewitness” in his prologue in deference to the historiographical and scientific traditions, for which the term was so central, but meant by it both less and more than his identification with those traditions might suggest. He is not describing the first step in history-writing or in emphasizing his own firsthand observation of the data. On the contrary, by “eyewitnesses” he has in mind “witnesses” as that term is developed later—that is, people empowered by the Spirit who “… cannot keep from speaking about what [they] have seen and heard” (Acts 4:20). And for Luke, “seeing” is insufficient unless one’s eyes are opened, as the Emmaus-story demonstrates (Luke 24:13–35).
+
+“Eyewitnesses” and “ministers of the word” are parallel descriptions of the same group of people.43 Luke’s reference to “servants of the word” calls to mind the absolute use of “the word” in Acts, as well as its use in the phrases “word of God” and “word of the Lord.”44 “The word” is often “the Christian message, the good news” (e.g., Acts 10:36; 15:7), but this message is grounded in the coming of Jesus and his missionary activity (cf. 10:37–38) and embraces its consequences in the post-Easter mission and the community of Jesus’ followers (e.g., 6:7; 12:24; 19:20). Acts 1:21–22 suggests that the people Luke has in mind are those who were disciples of Jesus already in Galilee and to whom he appeared following his resurrection, but the list of possible contenders quickly expands to include such persons as Barnabas and Paul and others of the early mission.45
+
+3 Luke finally comes to his own decision to write an orderly account; outlining further his credentials and briefly characterizing his work, he names Theophilus as his narratee, the one to whom the work is aimed and dedicated.
+
+The weight of Luke’s description falls on the two adverbs “carefully” and “orderly.” The first is usually taken with “to investigate” (as in the NRSV), thus indicating how or in what way Luke carried out his research. However, it could just as easily modify the main verb, “to write,”46 and in any case provides a claim of “accuracy” for Luke’s literary product. This is interesting in light of other contexts wherein Luke uses the term, especially in the story of Apollos in Acts 18:24–28.﻿47 Like Theophilus, Apollos had been informed (Luke 1:4; Acts 18:25), but he requires more accurate explication.
+
+The second adverb, “orderly,” is also of consequence, and is also illuminated by its appearance in Acts. Fundamentally, this term means “in sequence” or “one after the other,” but it is still worth asking what sort of sequence is meant.48 Lucian counsels historians to arrange their material in order to give the story “beauty,” enhanced “with the charms of expression, figure, and rhythm,” and, by the arrangement of events, to “illuminate them as vividly as possible.”49 What is interesting about these instructions is their concern for the effect on the readers produced by the order or arrangement of events. Students of narrative have long recognized the power of signification resident in the order in which events are presented to a reader or auditor.50 Helpful for our understanding of Lukan “order” is the parallel use of this word in Acts 11:4: “Then Peter began explaining everything to them in sequence.…” Although “orderly” is used by Luke elsewhere,51 this text appears in a parallel context—namely, the narrating of events in which God has worked. This whole passage, the story of Peter’s encounter with Cornelius and the subsequent report of this encounter to some in Jerusalem in 10:1–11:18, is narrated twice. We hear it from Luke’s point of view first, then from Peter’s, with the result that we can observe how these events are “ordered” by two narrators.52 A comparison of the two demonstrates that “orderly” cannot refer to “adherence to chronological sequence,” nor simply “one after the other.” Rather, Peter’s “ordering” of the account is for the purpose of winning his audience over to his perspective on the events he recounts (cf. Acts 11:18). This notion of “persuasive order” fits well Luke’s own agenda, too.
+
+Who is Theophilus? Some have found in the narratee’s given name a symbolic audience, for, etymologically, “Theophilus” means “dear to God” or “lover of God.”53 Though this helpfully points to the more general audience Luke apparently desired (see below),54 such a symbolic rendering is highly unlikely: (1) Theophilus is a common name, found in the papyri and inscriptions as early as the third century B.C.E.;55 (2) the appellation “most excellent” would then be pointless; and (3) a symbolic dedication of this sort would be unparalleled in Luke’s literary culture. Having concluded this, there is no evidence by which to determine which “Theophilus” Luke had in mind. The title “most excellent,” normally reserved for Roman political officials, may well be honorary,56 though in either case we are dealing with a person of advanced status.
+
+In this reference, Luke is apparently recognizing the role of Theophilus in providing inspiration or at least impetus for his writing, and especially that, through Theophilus’s recommendation and circle of friends and influence, Luke’s book will have gained a wider audience.57 From the standpoint of our understanding of Luke’s prologue, this reality is most important for its expression of Luke’s desire for a public readership beyond his narratee, Theophilus.58 Consequently, what we can discern about Theophilus will provide us with some clues about Luke’s purpose, but we should not assume that Theophilus is Luke’s only desired audience or that Theophilus represents Luke’s “community.”59
+
+4 The final clause of Luke’s prologue defines the purpose of Luke’s writing. Clearly, Theophilus has at least some familiarity with “the events that have been fulfilled among us,” but he requires additional instruction in order to know their truth. Luke writes to persuade Theophilus to embrace their certainty.
+
+“Certainty” or “truth,” in the Greek text, appears in the emphatic position as the final word of this long and involved sentence. It has been easy to find in this concept Luke’s affirmation of the historical veracity of his narrative.60 Luke’s terminology here suggests “the convincing nature of his presentation”61 or “the certainty of these things.”62 So, while the Christian message is inseparably tied to the historical events related to its origins and progression, and Luke must therefore necessarily be concerned with “what happened,”63 it is the question of interpretation that is vital for him. Luke wants Theophilus to be assured about what he has heard, that these events lead to “this” interpretation—that is, the interpretation Luke will present in his narrative.64
+
+How much Theophilus already knows is unclear. Some regard him as a baptized Christian who has undergone formal instruction in the faith.65 Others see him as a relative outsider to the Christian movement, someone who may have heard little more than rumors about Jesus and the early church.66 The sort of formal catechetical process envisioned by the first option is difficult to locate during the apostolic era,67 nor does Luke use the term “to inform, to instruct” in this more technical way.68 According to Acts 18:25, Apollos “had been instructed in the Way of the Lord,” but still knows “only the baptism of John.” It is only after he receives further explanation, we are told, that he was able to show “by the Scriptures that the Messiah is Jesus” (18:24–28). By analogy, we suspect that Theophilus has been informed about the mission of Jesus and the early Christian movement, and that he may even have attached himself to the community of Jesus’ disciples, but key ingredients are lacking in his understanding.
+
+
+
+
+

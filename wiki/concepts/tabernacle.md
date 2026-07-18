@@ -2,8 +2,8 @@
 title: Tabernacle (Mishkan)
 domain: theology / liturgy
 traditions_using: [Judaism, Christianity]
-sources_ingested: 3
-last_updated: 2026-06-07
+sources_ingested: 5
+last_updated: 2026-07-18
 tags: [concept, theology, liturgy, exodus, tabernacle, temple, kabbalah, mysticism]
 ---
 
@@ -72,23 +72,52 @@ The crisis forced the proclamation of Exod 34:6-7 — the fullest statement of G
 
 **[[james-bruckner|Bruckner's]] middle position**: The tabernacle description is genuine theological revelation about God's desire to dwell with the people in a *specific, material, beautiful* way. God wanted almonds and not another flower, three specific colors, exact dimensions. "These chapters reveal much about God in relation to the world." Neither allegorical reduction nor historical dismissal does justice to what the text claims about itself.
 
+## Ezekiel's Temple Vision and the Tabernacle (Block, NICOT)
+
+[[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]] reads Ezekiel 40–48 in deliberate parallel to Exod 25–40. Block itemizes seven parallels between Ezekiel's temple Torah and the Priestly tabernacle legislation — direct revelation to a mediator, revelation on a high mountain, sanctuary plans after covenant, and above all the *kābôd* entering the sanctuary (Exod 40:34–38 // Ezek 43:1–9) — concluding with Levenson that "Ezekiel's mountaintop prophetic experience [is] a programmatic revelation, and the prophet himself... a second Moses." He also notes the tabernacle's erection on New Year's Day behind the altar-consecration parallels (Exod 29/40).
+
+But his Table 16 of discrepancies is equally pointed: Ezekiel's sanctuary has **no ark, no lampstand, no anointing oil, and no table of the bread of the Presence**, a Zadokite rather than Aaronic priesthood, plain linen rather than luxury vestments, and different new-moon offerings — differences that "challenge the fundamental prophetic law of noncontradiction." Block surveys the explanations as open questions (Ezekiel's Torah antedating P; competing exilic priestly traditions; a deliberately purified liturgy), while insisting Ezekiel "never does… lose respect for the Mosaic tradition… he is, after all, of the traditional priestly line himself." Ezekiel is "unconcerned about the accoutrements and furniture… His interest is in the design of sacred space, not the objects that fill up that space" — in 43:7 the throne/footstool language attaches to the temple itself, not to an ark. See [[eschatological-temple|The Eschatological Temple]] and [[divine-glory-kabod|Divine Glory (*Kābôd*)]].
+
 ## Tabernacle and Jewish Tradition
 
 The *Shekhina* ("dwelling presence") is the rabbinic term for God's tangible presence, drawn from *shakan* (the tabernacle verb). The destruction of the Temple (70 CE) raised the question of where the Shekhina dwells now; rabbinic Judaism answers variously: in the Torah, in the synagogue where Torah is studied, in the prayerful community, in the suffering of Israel. The tabernacle's mobility — it traveled with the people — foreshadows this broader conception of divine presence not tied to a fixed location.
 
 ## Zoharic / Kabbalistic Interpretation (Pritzker Edition Vol. V)
 
-The Zohar (Daniel C. Matt, Pritzker Vol. V) gives the *mishkan* its most sustained theosophical development. The Dwelling is not merely a microcosm of creation (as in Bruckner/Fretheim) but the primary **symbol and earthly locus of Shekhinah** herself — the feminine divine presence who “dwells” among the people.
+The Zohar (Daniel C. Matt, Pritzker Vol. V; **standards reingest 2026-07-18**, [[matt-zohar-pritzker-vol5|source page]]) gives the *mishkan* its most sustained theosophical development in the wiki’s corpus. The Dwelling is not merely a microcosm of creation (as in Bruckner/Fretheim) but the primary **symbol and earthly locus of Shekhinah** — the feminine divine presence who “dwells” among the people. Folio zone roughly **2:126b–176b** (Terumah), with Sifra (~2:176b–179a) as upper counterpart.
 
-- **Kallat Moshe (“Bride of Moses”)**: The construction of the *mishkan* is intended to secure Shekhinah’s intimacy with Israel and especially with Moses. She is called the Bride of Moses; the sanctuary becomes the chamber of their union (*zivvuga qaddisha* realized on earth). This extends the “romance of Moses and Shekhinah” already prominent in earlier Zohar material (patriarchs and the sea crossing) into the domain of the sanctuary and the laws that precede it.
-- **Sefirotic symbolism of the structure and vessels**: Every detail — the boards, curtains, colors (blue, purple, crimson), metals (gold, silver, bronze), the Ark, the Table of showbread, the Menorah, the incense altar — corresponds to aspects of the ten sefirot. The *mishkan* as a whole embodies Malkhut/Shekhinah; its erection is a theurgical act that draws the divine feminine down and maintains cosmic balance.
-- **The raw materials as charged with divine power**: The list in Exod 25 (gold, silver, bronze; yarns of blue, purple, crimson; fine linen; goat hair; ram skins dyed red; acacia wood; oil, spices, stones) is read not as a shopping list but as a catalogue of sefirotic potencies that, when assembled according to the divine pattern, create a dwelling place for the Shekhinah.
-- **Relation to the laws (Mishpatim)**: Immediately preceding the Tabernacle instructions is the legal corpus of Parashat Mishpatim. The Zohar (especially in the embedded *Sava de-Mishpatim*) reads these laws as theurgical instruments that prepare the people (and the soul) for the indwelling. The famous *Sava* stratum also introduces *gilgul* (reincarnation) in the context of these laws, linking soul repair to the possibility of hosting the divine presence across lifetimes. See [[gilgul|Gilgul]].
-- **Sifra di-Tsni’uta**: The volume also contains this dense esoteric text, which meditates on the most concealed dimensions of the divine “head” and structure — providing the upper, hidden counterpart to the manifest *mishkan* below.
+- **Offering as taking Matronita** (2:126b–135a zone): *Have them take Me an offering* (Exod 25:2) is read as taking Shekhinah from the Righteous One (*kol ish*, “master of the house”) with divine permission — unlike human jealousy when a wife is taken. *Mi zot* (Song 6:10) joins upper *Mi* and lower *zot* through Jacob the Perfect.
+- **Kallat Moshe (“Bride of Moses”)** (2:140b–141a): Num 7:1 *kallot Mosheh* re-read *kallat Mosheh* — “the Bride of Moses descended to earth.” Shekhinah “steeled Herself and broke through the dismal darkness, as one breaks hard chunks of ice”; *va-yhi* marks “the pain suffered by many armies… on the day that… the Bride of Moses descended.” Dwelling workmanship = **body containing spirit** (Shekhinah); nut shell/kernel model of Holy Land under sin and exile.
+- **Materials and colors**: gold/silver/bronze and blue/purple/crimson/taḥash mapped to calendar moments, angelic camps, and Other-Side shells (digest D–E); not a mere shopping list but potencies for drawing Shekhinah.
+- **Prayer and Sabbath theurgy**: Redemption–Prayer bond; *nefilat appayim*; Shema letter-counts (25+24 → 49 gates); bed/table/chair/lamp; Sabbath entrance array (*Ke-Gavna* strand in Matt’s preface); night unit on **Song of Songs** as Holy of Holies when Temple and moon are full, with dual Dwelling (Moses below / Metatron Youth above) (2:143b+).
+- **Cherubim and diagnostics**: faces turn face-to-face or away; known by sacrificial smoke, altar fire (lion vs dog), and priestly hands (2: mid-Terumah).
+- **Relation to Mishpatim / gilgul**: Laws prepare people and soul for indwelling; *Sava de-Mishpatim* introduces [[gilgul|gilgul]] as soul repair across lifetimes. See [[gilgul|Gilgul]].
+- **Sifra di-Tsni’uta**: condensed “Book of Concealment” on balance, skull, dew, breath, male/female, primordial kings — upper hidden counterpart to the manifest *mishkan* (2:176b–179a; plain then annotated in Matt).
 
-In short, for the Zohar the Tabernacle is the realized answer to the question that drives Exodus: not only *whether* God will dwell with a sinful people, but *how* the feminine divine presence can be housed, united with her Bridegroom (Moses/Tif’eret), and sustained by the theurgical life of Israel.
+### Vol. VI densification (Ki Tissa rupture → Pequdei erection; standards reingest 2026-07-18)
 
-Cross-references: [[zohar|The Zohar]] (Vol. V), [[shekhinah|Shekhinah]], [[moses|Moses]] (as *ba’al ha-Matronita* / Kallat Moshe’s partner), [[gilgul|Gilgul]], [[sefirot|Ten Sefirot]], the earlier Zoharic material on the sea crossing and patriarchal theosophy.
+Source page: [[matt-zohar-pritzker-vol6|Matt Pritzker Vol VI]]. Folio zone roughly **2:188a–244b**.
+
+- **Calf as rejection of the Mother** (2:191a): *Elohim* = Glory of Israel exchanged for *tavnit shor*; Mother who usually restrains the King’s arm is absent; mixed multitude (Egyptian sorcerers) catalyze the demand.
+- **Building after isolation**: Va-Yaqhel assembles *Children of Israel* alone; *terumah* raises Shekhinah with Her Husband; Sabbath re-gifted post-Calf.
+- **Bezalel crafts; Moses erects** (2:235a): letter-permutations for craft vs intention of creation-letters for erection.
+- **Glory fill as bridal arrayal** (Exod 40:35; 2:235b): cloud + glory; husband must not enter while the bride adorns; Dwelling brought to Moses first.
+- **Dual/triple Dwelling; provisional restoration**: above erected with below; sunken point (*et*) restored; death and Samael **withdrawn** on 1 Nisan — **not forever** (Messiah / Isa 25:8); Other Side still receives a regulated share (tefillin hair, monthly goat) so as not to accuse.
+- **Dwelling vs House**: wilderness Dwelling = journeying presence with few troops; Temple = rest with full chariots (2:241a zone).
+
+In short, for the Zohar the Tabernacle answers not only *whether* God will dwell with a sinful people, but *how* the feminine presence can be housed, ruptured by idolatry, and restored — **provisionally** by Moses’ theurgy until final abolition of death.
+
+### Vol. VII densification (sacrifices, purity, Yom Kippur as maintenance; standards reingest 2026-07-18)
+
+Source page: [[matt-zohar-pritzker-vol7|Matt Pritzker Vol VII]]. Folio zone roughly **3:3b–80a**.
+
+- **Twin Dwellings reaffirmed** ([3b]–[4a]): after Sanctuary below built, “another was erected with it… That day was joy of the blessed Holy One”; Moses invited as to a house-dedication meal (Exod 40:35 → Lev 1:1).
+- **Tent as pledge** ([4b]–[5a]): on completion day God informs Moses the Tent would *itmashkena* (be taken as pledge) for Israel’s sins — remedy is the offerings.
+- **Perpetual fire / dual altars** (~3:27b–30b): maintain presence by eliminating impure spirit; gold/bronze map inner bond of faith vs outer Michael service.
+- **Nadab/Abihu** as disruption of Matronita–King joy on the inauguration day — see [[nadab-and-abihu|Nadab and Abihu]].
+- **Yom Kippur**: annual theurgic reset of sanctuary purity; *be-zot* entry; goats/Azazel; golden knotted cord on high priest’s leg (~3:67a); Accuser→Advocate.
+
+Cross-references: [[zohar|The Zohar]] · [[matt-zohar-pritzker-vol5|Matt Pritzker Vol V]] · [[matt-zohar-pritzker-vol6|Matt Pritzker Vol VI]] · [[matt-zohar-pritzker-vol7|Matt Pritzker Vol VII]] · [[shekhinah|Shekhinah]] · [[moses|Moses]] · [[gilgul|Gilgul]] · [[sefirot|Ten Sefirot]] · [[bezalel|Bezalel]] · [[aaron|Aaron]] · [[sitra-ahra|Sitra Aḥra]] · [[sacrifice|Sacrifice]] · [[holiness|Holiness]]
 
 ## Related Pages
 
@@ -103,9 +132,16 @@ Cross-references: [[zohar|The Zohar]] (Vol. V), [[shekhinah|Shekhinah]], [[moses
 
 1. [[james-bruckner|Bruckner, James K.]]. *Exodus*. Understanding the Bible Commentary Series. Grand Rapids: Baker Books, 2008/2012.
 
-2. [[daniel-matt|Matt, Daniel C.]], trans. and comm. *The Zohar: Pritzker Edition, Volume Five*. Stanford University Press, 2009. The *mishkan* is read as the symbol and earthly locus of Shekhinah (Kallat Moshe, Bride of Moses); detailed sefirotic correspondences of the structure and vessels; the theurgical purpose of its construction; linkage to the laws of Mishpatim and the Sava stratum on gilgul. See the Zoharic section above and the full treatment on the [[zohar|Zohar]] page.
+2. [[daniel-matt|Matt, Daniel C.]], *The Zohar: Pritzker Edition, Volume Five* (2009). First-pass 2026-06-07; **standards reingest 2026-07-18** — [[matt-zohar-pritzker-vol5|source page]]; folio-anchored *Kallat Moshe* (2:140b–141a), offering/Matronita, materials, prayer/Sabbath theurgy, Song/Temple night unit, Sifra as upper counterpart.
+
+3. [[daniel-matt|Matt, Daniel C.]], *The Zohar: Pritzker Edition, Volume Six* (2011). First-pass 2026-06-07; **standards reingest 2026-07-18** — [[matt-zohar-pritzker-vol6|source page]]; Calf as Mother-rejection; Bezalel crafts / Moses erects (2:235a); glory fill Exod 40:35 (2:235b); dual Dwelling; Other Side withdrawn not forever.
+
+4. [[daniel-matt|Matt, Daniel C.]], *The Zohar: Pritzker Edition, Volume Seven* (2012). First-pass 2026-06-07; **standards reingest 2026-07-18** — [[matt-zohar-pritzker-vol7|source page]]; twin Dwellings + offerings as maintenance; Nadab/Abihu; YK goats + golden cord (3:67a).
+
+5. [[block-ezekiel-25-48-nicot|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 25–48*. NICOT. Grand Rapids: Eerdmans, 1998 — Exod 25–40 parallels and discrepancies with Ezekiel 40–48; the second-Moses motif; the kābôd-entry pattern.
 
 ## Related Texts
 
+- [[ezekiel|Ezekiel]]
 - [[gospel-of-john|Gospel of John]]
 - [[hebrews|Letter to the Hebrews]]

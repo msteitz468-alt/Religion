@@ -1,0 +1,297 @@
+Introduction *
+
+
+
+I. TEXTUAL CRITICISM
+
+
+A. METHOD OF TEXTUAL RECONSTRUCTION IN DJD (2005)
+
+Although the three Samuel scrolls from Cave 4, namely 4QSama, 4QSamb, and 4QSamc, have been known and partly studied by F. M. Cross and his pupils since their discovery in 1952,1 they were not made fully available to the public until 1991 when the facsimile edition was published. In 1993 the Brill microfiche edition also was published.2 However, it was only in 2005 that Cross and his colleagues published their belated detailed study of the scrolls as a volume in the Discoveries in the Judaean Desert series.3
+
+The basic question regarding these Qumran biblical texts is still whether one should take these three groups of fragments as originally having constituted three independent scrolls, in view of the fact that 4QSamb and especially 4QSamc are very fragmentary. Moreover, quite recently, R. G. Kratz brought up the highly serious question of whether 4QSama was a biblical manuscript (Bibelhandschrift) or a midrashic document.4
+
+In 1997, I briefly compared Cross and Parry’s method of reconstructing the broken parts of the text of 4QSamb with the reconstruction of 4QSama by E. D. Herbert.5 While the former simply gives ad hoc remarks such as “spacing requires,” “the reconstruction required by the limited space,” “there is no room,” and “this line is long,” the latter provides more objective criteria for reconstructing the text.6 Herbert calculates the average column widths (ACW) and the average letter widths (ALW)7 for 4QSama and uses these to check whether a suggested reconstruction is likely.
+
+Despite Herbert’s significant contributions to the method for reconstructing 4QSama, Cross and his school ignored it in their most recent study in DJD. For example, like McCarter, II (1984), DJD reconstructs hʾlwhym after ḥesed in 2 Sam. 2:5, thus reading [ḥesed hʾlwhym hz]h and gives a comment similar to McCarter’s:8 “Space considerations suggest that 4QSama had a text that conflated the readings of MT and LXXA.”9 However, Herbert had already demonstrated that this reconstruction was “unlikely” because the insertion of hʾlwhym “would increase the reconstructed width of 2a [the section a of line 2] to 31.2mm, 11% above the section a average.”10 They should have at least responded to Herbert’s view.
+
+To cite another example, in 2 Sam. 21:5, McCarter translates klh ʿlynw wyrdpnw “set himself against us and persecuted us”, based on LXXB, for he thinks that the ΜΤ klnw, “exterminated us,” is “impossible and obviously defective.” Moreover, he reads ʾšr dmh lhšmydnw “who meant to eradicate us,” in place of MT ʾšr dmh lnw w(!)nšmdnw, following Wellhausen, who takes lnw wnšmdnw as a “corruption of lhšmydnw,”11 Cross et al. also take this position and reconstruct the relevant text as klh ʿlynw wyrdpnw w dmh lhšmydnw.12
+
+However, according to Herbert,13 the reconstruction suggested by McCarter and Cross, et al., would not fit in the lacunae of 4QSama. Herbert notes that the average column width (ACW) of the line is 101.3 ~ 110.6mm, and is never more than 117.6mm, so if 4QSama read klh ʿlynw in place of the MT’s klnw, “the reconstructed width would increase by 9.6mm [more than any other column].”
+
+Furthermore, if the line ended with wyrdpnw instead of MT’s wʾšr, as reconstructed by Fincke, who follows McCarter and Cross et al., the total length of the line (117.71mm) would go beyond the maximum. Hence, Fincke’s handwritten reconstruction of the Hebrew text14 gives the wrong impression to the reader about the real length of the line. Because the total width of the reconstructed line is calculated as 117.71mm, which is longer than any other line in that column, it is misleading for Fincke to draw that line as if it were shorter than lines 20 and 25.15
+
+B. RELATIONSHIP AMONG MT, LXX, AND DSS
+
+In his review of my The First Book of Samuel in RBL (Dec. 2007), R. W. Klein claimed that I ignored “the fact that many of the LXX readings have been confirmed as based on an alternate Hebrew Vorlage by the three Samuel manuscripts from Qumran Cave 4.” However, this is just one side of “the fact.” Sometimes the MT readings are supported by DSS against the LXX as in 2 Sam. 3:28-29, 14:26, etc., while on the other hand at times the MT is supported by the LXX against 4QSama as in 5:6. Moreover, both LXXBAL and 4QSama wrongly supply the name “Mephibosheth” before the MT son of Saul in 4:1. Furthermore, we have cases such as 6:17, where although the MT and the LXX are supported by 4QSama, McCarter suggests omitting it as textually “secondary.” For details, see the comments on the relevant passages.
+
+C. “PHONETIC SPELLING” — THE PHONETIC REALITY BEHIND THE SCRIPTS
+
+In my studies I have suggested that some MT readings usually considered “corrupt” are in fact not corruptions but “phonetic spellings.”16 This troubles some traditional textual critics,17 who are concerned more with formal features such as the shape of scripts and dittography or haplography. In other words, they are interested in how the scripts of the text were written or “copied” rather than what is actually involved phonetically behind the scripts.
+
+To understand the phonetic reality behind the spellings of ancient literatures, it is useful to study the way ancient scribes or authors misspelled. In my study of misspellings in Ugaritic cuneiform texts,18 I dealt with the phenomena of vowel sandhi,19 loss and addition of signs, i.e., “loss of ʾ,” “loss of r, l, m, n” and “addition of q,” etc. These examples show that there is a definite tendency for a scribe, even a trained copyist, to make mistakes by writing phonetic reality into a written text. The fact is that these misspellings are often caused by phonetic reasons.
+
+To cite an example from our text, it is often said that Bedan (1 Sam. 12:11) is a “corruption” from Baraq, but I have suggested that Bedan could be a phonetic realization of the original form Baraq.20 In any case, those “corrupt” MT readings are usually lectio difficilior, hence likely more original (according to the traditional text-critical principle). One should note that phonetic spellings are attested in more than just a “few forms” (Klein) and often argue against the scribal error theory. In 1–2 Samuel phonetic spellings can be seen in the following verses:21
+
+1 Sam. 1:17, 28; 4:19; 6:12; 7:12; 10:7; 12:11; 14:27, 32, 47; 15:9; 17:31; 18:1, 29; 20:2, 30; 22:18; 25:8; 27:8; 30:5; etc.
+
+2 Sam. 3:1, 8; 4:6; 5:2, 13; 7:7; 8:8; 11:24; 13:16; 14:19; 18:3, 12; 19:13; 20:5, 9, 14; 21:9, 12, 16; 22:6, 8, 27, 36, 40, 46; 23:8, 9, 20, 21, 29, 31, etc.
+
+
+
+
+
+II. LITERARY AND HISTORICAL CRITICISM
+
+
+A. PRINCIPLE OF SYNCHRONIC PRIORITY
+
+Any theory of literary composition, however attractive, should be solidly based on a literary and linguistic reading of the text itself. In principle, a diachronic approach to a biblical text should be preceded by a synchronic study of the text as it is, for it is an axiom of textual and linguistic investigation that one should first read a text synchronically,22 taking note of any linguistic and textual variants and apparent discrepancies, and only after that proceed to go behind the text and examine those synchronic irregularities, diachronically. In historical linguistics, it is the established understanding that “both synchronic irregularity and cross-language resemblance can only be explained by reference to earlier language states and to the systematic nature of language change.”23
+
+One might say that both the “traditional” historical-critical approach and the recent synchronic-only intertextuality approach seem to ignore this basic principle of synchronic priority in literary study. It was F. de Saussure in his Cours de linguistique générale, published posthumously in 1916,24 who first distinguished between synchronic and diachronic approaches in linguistic research and put priority on synchronic investigation over diachronic. “He saw the history of a language as a succession of synchronic states, each a complete system où tout se tient and therefore definable only in terms of the relationships existing between its various opposing elements.”25 Yet, Saussure did not emphasize the synchronic approach at the expense of the diachronic approach. He simply distinguished between them and established the principle of the priority of the synchronic. The recent emphasis on the synchronic-only approach is an overreaction to the diachronic-only approach, and in cases it even seems to advocate getting rid of the spatio-temporal, that is, the historical, approach.
+
+B. INTERTEXTUALITY
+
+The synchronic-only literary approach is exemplified by the tendency to emphasize “intertextuality” in narrative criticism. For example, L. L. Lyke26 wrote a book on the dialogue between King David and the wise woman of Tekoa in 2 Sam. 14 from his “post-modern reading sensibilities,” finding his methodological bases in David Stern’s works on the ambiguity of the Midrashic meshalim and Mikhail Bakhtin’s notion of “dialogization,” that is, “the inter-relationships and dialogue between various aspects of a composite narrative.”27
+
+As the events in the woman’s mashal do not correspond at all closely to those leading to the current situation, in this work, Lyke pays close attention to “its verbal, motivic, and thematic particularities” for a clearer understanding of its significance, since, he thinks, “the narrative represents . . . a complex accumulation of overlapping biblical topoi, each of which must be interpreted within its present as well as traditionary context.”28 Thus, Lyke compares the fratricide of 2 Sam. 14:6 with that of Gen. 4:8 and notes “resonance” between them. Then, using the latter text as “a lens by which to view the episodes of sibling rivalry in Genesis,” he moves on to the ancient Jewish traditions, which believed, for example, that Cain was the son of Sammael and that “each of major stories of sibling rivalry in Genesis is associated with Pesach” (p. 37). Several criticisms are in order:
+
+It is a tautology to assume “the multivocal and polysemous quality” of the text on the basis of the ambiguity of its “multiple voices” (p. 20). Just as the meaning of a polysemous word is decided by its use in a particular context, so the meaning of a mashal is to be determined by its particular context. One should distinguish carefully between the author’s intended ambiguity and the postmodern reader’s inability to decide the text and its meaning.29 Critics should be aware of the danger of the word-association game and avoid it as much as possible in order to place their readings on a solid basis.30
+
+Any given narrow constituent element (e.g., “two sons”) can be found in any corpus of ancient Near Eastern wisdom literature. When we narrow down the size of the element and broaden its context, we risk level skipping, looking for a wider — intermediate — context while ignoring its immediate context. What is available from the ancient Near East, especially in Israel, is often too limited to make a definite judgment. This lack of availability rather than the author’s intention could be the cause of the ambiguity or indeterminateness for the (post-)modern reader.31
+
+For any comparison, difference is more important than similarity, for comparison is meaningful only when similar items are compared discriminately.32 An overemphasis on similarities is disastrous to intertextual study. It is not enough just to trace various parallels with other traditions in the Hebrew Bible for understanding a mashal. What is needed is the competence to read the biblical mashal in its original cultural and historical setting, the ancient Near East, and to notice its uniqueness.33
+
+
+
+C. CHARACTERS AND CHARACTERIZATIONS34
+
+One of the characteristics of the new literary criticism is a focus on characters and characterization in narratives. Interpretation of a story can certainly be dependent on an assessment of the characters in the story. Besides the major characters such as Samuel, Saul, and David,35 the recent emphasis on minor characters in the Books of Samuel is noteworthy. For example, U. Simon deals with the role of minor characters in narrative36 while other authors have focused on the roles of a specific character such as Eliab, Joab, or Abigail. These character studies certainly disclose the biblical views on various aspects of the complexity of human reality such as interpersonal relationships, family affairs, suffering, pain, and death as well as happiness and sorrow.
+
+Those minor characters are of great interest in themselves, yet, it should be noted that the author/narrator deals with those minor characters mainly in their relationship with major characters such as David,37 Saul, and Samuel. For example, Jonathan is characterized as the person who stands in opposition to Saul, his father, in their relationships with David. The story of “Amnon and Tamar” (2 Sam. 13:1-22) is intentionally placed in a wider context, where Absalom is the major dramatis personae, that is, in the “Story of Absalom’s Revolt” (13:1-20:26). Yet, the entire section is around David and his relationship with his son Absalom. This is the same in the case of Joab,38 whose relationship with his masters, first David and later Solomon, played a significant role in the history of the united monarchy.
+
+The attitude toward the literary analysis of the Books of Samuel hinges on how one treats the entire 1–2 Samuel.39 Is 1–2 Samuel a collection of various stories about particular dramatis personae? Not so. Even a part of 1–2 Samuel is not worthy to be called David’s biography.40 The author/editor’s concern is rather how God, the Lord of history, guides history through his human agents so that his divine purpose of saving his people may be fulfilled through the human agency of the messiah king, at a particular place of worship, that is, Zion: for example, Ps. 132.41 Such character studies are most profitable when controlled by a spatio-temporal reality of individual circumstances, either cultural or historical.
+
+D. DATE AND AUTHORSHIP
+
+In my commentary on 1 Samuel I suggested tentatively that the final editors of 1–2 Samuel “probably worked around a time not later than the late tenth century, that is, the early period of Rehoboam’s reign”42 in the light of 1 Sam. 27:6, Therefore Ziklag has belonged to the kings of Judah to this day. B. Halpern states that “the picture of the central Negev in Samuel fits the 10th-century evidence, but that of no later time.”43 According to him, “the connection through Shishaq’s list to the archaeology of the Negev” allows us to place 2 Samuel “no later than the 9th century, since the text reflects memories of the 10th century.”44 Since Shishaq conquered the area in 925 B.C., the comment of 1 Sam. 27:6 is unlikely even for the ninth century.
+
+Moreover, as Halpern accepts based on the recent archaeological findings, “large parts of our information on the United Monarchy [in 2 Sam. 8] stem from roughly contemporary sources.”45 The concept of eternal dynasty or kingship as expressed in 2 Sam. 7 is not late; it had been expressed not only in the Ugaritic mythological text of the Baal Cycle (KTU 1.2 IV 10) but also in a letter from Alashia to the Ugaritic king (RS 18.113A+B). Laato notes that Assyrian royal building inscriptions from the second millennium onward rather support “the possibility that the idea of an eternal dynasty played an important role in Israelite royal ideology already during the time that David planned to build a Temple for Yhwh.”46 This too supports the possibility that 2 Sam. 7 came from the era of the united monarchy.47
+
+In the light of the above, my opinion in the previous volume that 1–2 Samuel was composed during the earliest period of the divided monarchy still holds, though this does not exclude the possibility that the books were slightly modernized in the following generation, that is, during the ninth century.48 It is reasonable that the official history of the founder of a dynasty would have been written during the third generation; in the case of Davidic dynasty, at the time of Rehoboam during the tenth century.
+
+E. GENRE AND STYLE
+
+In discussing the historiography of 1–2 Samuel, Noth’s hypothesis of Deuteronomistic history (DH) and historian(s) (DTR) is still influential among the mainline biblical critics, though his hypothesis has been variously modified since.49 However, I believe that one must ask what kind of history (or narrative) the Books of Samuel are. In other words, one should not ignore the question of which genre50 1–2 Samuel belongs to.
+
+Traditionally, 1–2 Samuel was placed between Judges and Kings in the Former Prophets. Yet, one might ask if 1–2 Samuel indeed belongs to the same genre as Judges or 1–2 Kings. One may take the whole of Judges through Kings as narrative prose. However, stylistically, while Judges is written in a more or less epic style, Kings is written in an annalistic style, Samuel is in an intermediate position, exhibiting both epic elements and annalistic features.
+
+In comparison with Chronicles, Samuel is not so much an annalistic history as an epic-like story. For example, while in Chronicles David is introduced as the seventh son (1 Chr. 2:15), in the story of David’s election (1 Sam. 16) he is certainly presented as the eighth son of Jesse, who summoned David after he made seven of his sons pass before Samuel. It may be that one of David’s brothers had died young, hence David being treated as the seventh, though he was actually the eighth son of Jesse.51 However, it is noteworthy that Samuel mentions by name only the three oldest sons (1 Sam. 17:13). If we compare the x // x+1 number parallelism of the Canaanite epic tradition, David could be the seventh and, at the same time, the eighth son.52 Such usage of numbers is not uncommon in a poetic parallelism as in “three, yes four” (Amos 1:3, 6, etc.; Prov. 30:15, 18, 21), “seven, yes eight” (Mic. 5:5; Eccl. 11:2), and “eighth, yes one of the seven” (Rev. 17:11).53 Thus, in the epic-like story in Samuel, it should not be strange that David is described as the seventh, and at the same time, the eighth son.54
+
+Another example of the epic style is the way the narrator of Samuel conveys that Saul was king only for a short time, ignoring at which age he became king and how long (1 Sam. 13:1).55 In the narrator’s mind, Saul was already rejected by God and is described as being king only for two years — two is the smallest numeral in Biblical Hebrew. An annalistic record like Kings would be interested in his age of accession and exactly how long he stayed on the royal throne. On the other hand, Judges is a collection of more epic-like stories, and thus uses round numbers for the periods of individual judges.56
+
+Modern or postmodern narrative critics tend to be concerned only with the macrostructure of narrative discourse and ignore these individual “genre and style” characteristics. One should be mindful of the varieties of genres even in narrative discourse. This tendency may be in keeping with the idea of the so-called Deuteronomistic historian(s), which led/misled scholars to seek a macrostructure and historiography for the whole of Joshua through 2 Kings — this went hand in hand with holistic approaches — even to the point of ignoring the differences among individual constituents. It is now again the time to be concerned with the uniqueness of individual constituents, that is, Judges, Samuel, and Kings, rather than with the universal aspects of the whole.
+
+
+
+
+
+III. DISCOURSE STRUCTURE
+
+
+I discussed discourse grammar in The First Book of Samuel,57 but a few more notes might help the reader to understand this linguistic phenomenon.
+
+Discourse grammar looks at how various grammatical phenomena as sentence structure and forms are used for guiding a discourse. In Longacre’s groundbreaking study of the story of Joseph,58 he points out that in general sentences with verb-initial wayqtl forms normally present the main-line of the story. However, as Longacre himself accepted, not every wayqtl points to the main-line discourse.
+
+1.initial waw vs. sequential waw
+
+For clarification, I would like to make the following distinction. That is, every wayqtl followed by a stated subject initiates a new discourse unit (subparagraph); hence that waw is initial. On the other hand, every wayqtl without a stated subject within a subparagraph carries on the previous EVENT and that waw is hence sequential.59
+
+2.wayqtl as SETTING and/or TERMINUS
+
+Though a wayqtl clause normally describes the EVENT of the narrative discourse, it sometimes appears in the SETTING, especially when a wayqtl form is used with an impersonal subject (e.g., 11:27; 24:1, 4) or with a plural verb with a non–dramatis persona as its subject. Also, when the verb is a movement verb, the wayqtl form might be indicating TRANSITION (e.g., 4:5; 12:1) rather than the EVENT.
+
+3.weqtl as a procedural discourse
+
+When a weqtl form follows a sequence of wayqtl forms, that weqtl clause is a PROCEDURAL discourse rather than NARRATIVE discourse. While in the latter the verbal form wayqtl describes WHAT happens, in the former the verbal form weqtl describes HOW it happens (e.g., 2 Sam. 7).60
+
+4.dialogue pattern
+
+In the Hebrew narrative, there seems to exist a pattern for a dialogue between two persons. For example, as in the following case,
+
+A says to B:
+
+He says:
+
+He says:
+
+B says to A:
+
+For the second and the third, no stated subject is needed. However, for the fourth, the speaker is normally specified, in this case, “B.” For example, in 1 Sam. 3:16-18:61
+
+Eli called Samuel:
+
+And he said:
+
+And he said:
+
+And Samuel told him.
+
+With this in mind, one can easily note in 2 Sam. 18:23 the phrase (“And he said”) should be supplied according to this dialogue pattern in Hebrew conversation.62
+
+
+
+
+
+IV. LITERARY STRUCTURE AND MESSAGE
+
+
+A. THE LITERARY STRUCTURE OF 1–2 SAMUEL
+
+   I.Prologue (1 Sam. 1:1–7:17): “Story of Samuel” — with the Embedded “Story of the Ark of God”
+
+ II.Transition to the Monarchy (1 Sam. 8:1-22)
+
+  III.“Story of Saul” (1 Sam. 9:1–15:35)
+
+  IV.“Story of Saul and David” (1 Sam. 16:1–31:13)
+
+  V.“Story of King David” (2 Sam. 1:1–20:26)
+
+i.Story of David’s Reign (1:1–12:31)
+
+A.Death of Saul (1:1-27)
+
+B.King David (2:1–5:5)
+
+C.Jerusalem, the City of David (5:6-25)
+
+D.Zion, the Place of Worship (6:1-23)
+
+E.“Davidic Covenant”: Eternal Throne (7:1-29)
+
+F.Catalogue of David’s Military Activities (8:1-18)
+
+G.Mephibosheth (9:1-13)
+
+H.Israel-Ammon War (10:1–12:31)
+
+1,[A]. Beginning of Israel-Ammon War (10:1-19)
+
+2,[X]. David and Bathsheba (11:1–12:25)
+
+3,[B]. End of Israel-Ammon War (12:26-31)
+
+ii.Story of Absalom’s Revolt (13:1–20:26)
+
+A.Absalom the Rebel (13:1–14:33)
+
+B.Absalom’s Rebellion (15:1–20:22)
+
+C.David’s Officers (20:23-26)
+
+  VI.Epilogues (2 Sam. 21:1–24:25)
+
+A.Famine and the Death of Saul’s Sons (21:1-14)
+
+B.Philistine War (21:15-22)
+
+X.63Song of David (22:1-51) = Ps. 18
+
+X′.Last Words of David (23:1-7)
+
+B′.David’s Heroes (23:8-39)
+
+A′.Census and the Lord’s Anger (24:1-25)
+
+B. THE MESSAGE OF 1–2 SAMUEL
+
+The message of a piece of literature is usually built into its literary structure; hence we should start by observing how it is written in order to appreciate what is written there.
+
+The message of the literary structure of 1–2 Samuel is how Yahweh, the Lord of history, through the human institution of monarchy guides his covenant people providentially in various aspects of life by his gracious and sovereign hands. Hence, the main concerns of the author(s) are the relationship between divine sovereignty and human institutions as well as the relation between God’s providential guidance and human responsibility. As we noted in the first volume, Rom. 8:28 well summarizes the divine dealings of the people of his covenant: “And we know that for those who love God all things work together for good, for those who are called according to his purpose.” (ESV)
+
+Thus, the Books of Samuel are not a biography of particular persons, not even of King David himself. Certainly, characters such as Samuel, Saul, and David, are the main characters (dramatis personae) in the narrative and many subsidiary persons such as Hannah, Eli, Jonathan, Eliab, Abigail, Abner, Joab, Ish-bosheth, Mephibosheth, Bathsheba, and Absalom come and go along with these main characters. And, hence, recent emphasis64 on the personal features of such minor characters in their relation to the main dramatis personae may help us to understand the character or complex personality of David as the human messiah.65 On the other hand, it may mislead the readers into concentrating on a nonsubstantial subject or theme of the books.
+
+These books are a historical narrative of God’s salvation history, which conveys how the Lord of history advanced the divine plan of salvation a few more steps, including one big step in the Davidic covenant, which eventually would be fulfilled in the life and death of Jesus Christ, the Messiah, the heir of David (see Matt. 1:1) in history. Despite the serious failures of David, Yahweh, the Lord of the universe, works his plan of salvation, establishing his grace and his faithfulness (Ps. 89; see below on “Themes and Theology”), regardless of faithlessness on the side of his people.
+
+Human Desires and Divine Plans
+
+One theme that runs through 1–2 Samuel is that of human desires and divine plans.
+
+i. Hannah
+
+At the beginning of Samuel, Hannah desired to have a boy, so she promised if she were given one she would dedicate him to the Lord. However, God made her position greater than she could have expected; she would eventually become the mother of the king-maker, though she probably did not live to know that.
+
+ii. Saul
+
+Although Saul did not start off desiring to be a king, he exerted himself to meet the people’s expectation as “the longing of all Israel” (1 Sam. 9:20), that is, “the hope of Israel,” and so became concerned with what the people thought of him rather than what the Lord wanted him to do. Fearing the people’s reaction to him, he neglected fearing the Lord and obeying his word (chs. 13 and 15).
+
+iii. David
+
+David desired to build a house for the Lord, but the Lord did not allow it (2 Sam. 7). God’s plan was to establish the Davidic throne eternally (7:16).
+
+First Chronicles 22:8 and 28:3 explain that David was not allowed to build a temple because he had waged great wars and shed much blood before the Lord. However, through David’s sin in carrying out the census in 2 Sam. 24, God led him to purchase the threshing floor of Araunah the Jebusite, where Solomon was later to build the temple.
+
+Thus, God’s plan of salvation continues despite the various phases of human desires. God is the one who proceeds with his plan and purpose by his holy sovereignty and by his grace.
+
+
+
+
+
+V. EXEGESIS AND THEOLOGY
+
+
+One of the criticisms of my commentary on 1 Samuel was that it lacks theological depth and does not pay attention to the “biblical narrative’s literary contours.” For example, S. Chapman says that the “fatal problems” in my approach are my presumptions “that history is the primary bearer of theological significance and that the narrative of Samuel is to be read for the ways in which it makes that history transparent.” By such an appeal to history, Chapman holds, “the rich subtlety of the biblical narrative is streamlined in order to favor the ‘history-likeness’ of its plot.”66
+
+But I would argue that Chapman’s subjective literary narrative approach is reading into the narrative what is not there. For example, having given up an appeal to history, Chapman sees “rhetorical strategy” in such a text like 1 Sam. 13:8 that says Saul went to Gilgal and waited seven days. According to him, Saul’s apparent delay in following through on Samuel’s commission in 10:8 is “a narrative device employed to lead the reader/hearer to forget the matter of Samuel’s commission, for a little while, until it returns front and center in 1 Sam. 13.”67 Chapman holds that such a “narrative forgetting” is a device “to increase the reader’s sympathy with Saul.”68
+
+Reading 1 Sam. 9-12 synchronically, however, it is most reasonable to assume that Saul went to Gilgal more than once between 10:8 and chapter 13. Certainly he was there, with Samuel, to be installed officially as a king (11:15). Moreover, the theme of waiting for seven days during religious rites is nothing peculiar. Often, a ritual waiting on God lasted seven days.69 What is required of an exegete is an ability to read the text as it is, and an understanding of the common sense in the ancient Near Eastern religio-cultural milieu.
+
+The importance of grammar in grasping the meaning and purpose of a narrative is also illustrated by the problem of whether to interpret the preposition ʿal, as “against” or “on” in 2 Sam. 14:1. See the commentary on that verse.70 Another passage where philological analysis greatly influences the meaning of the narrative is 1 Sam. 1:5 on ʾappāyim (lit. “two noses”).71 Again, a theological understanding of one of the most important chapters in these books, 2 Sam. 7, depends on the grammatical analysis of the text itself. That is, (1) the tense of weqtl in vv. 9b-11b vs. 18b-19 as “poetic prose”; (2) the speaker-oriented particle ʿal-kēn and the vertical grammar of parallelism (AXX′B) in v. 22; (3) the exegetical solution of crux interpretum in v. 23; (4) the two different senses of the root *pdh in the light of Ugaritic economic texts. See the commentaries on the passages in 2 Sam. 7.
+
+
+
+
+
+VI. THEMES AND THEOLOGY
+
+
+A. DAVID’S THRONE AND HIS HEIR
+
+Two important themes in 2 Samuel are David’s throne and his heir,72 which are especially dealt with in Yahweh’s promise to David in 2 Sam. 7, just as David’s heir (zeraʿ) and throne (kissēʾ) are the two main themes of Ps. 89:4 (also 29, 36). These two are expressed in Ps. 132 by the dual elections of David’s heir (v. 11; see 2 Sam. 7) and of Zion (v. 13; see 2 Sam. 6; 1 Chr. 13; 15-16).
+
+The theme of David’s throne is carried on by the subsequent prophetic literatures, for example, kissēʾ Dāwīd in Isa. 9:7, while the theme of David’s heir is seen in such passages as those concerning David’s “branch” (ṣemaḥ) in Isa. 4:2; Jer. 23:5; 33:15; Zech. 3:8; 6:12; “shoot” (ḥōṭer) — “sprout” (nēṣer) in Isa. 11:1 (cf. Rev. 5:5; 22:16). In the messianic context “the house of David” (bêt Dāwîd) will carry on both “throne” and “heir” themes, for the term “house” refers to Davidic dynasty, that is, his “heir” on his “throne”; see “the throne of David” (Luke 1:32), “the house of David” (1:69).
+
+B. DAVIDIC COVENANT
+
+There is no doubt that the Davidic covenant73 (2 Sam. 7) is the central theme of 2 Samuel, even of the entire Old Testament. It is certainly the turning point in the divine plan of salvation, as is reflected in the phrase Jesus Christ, the son of David, the son of Abraham (Matt. 1:1) where David, the prototype of messiah, God’s anointed, is placed in the midpoint between Abraham (Gen. 17; cf. 12) and Jesus. The Lord promises74 David that he will make a dynasty (lit. house; v. 11b) for him, by raising his offspring after him and by establishing the eternal kingdom and the throne of his offspring (vv. 12-13) so that David’s throne might be established for ever (v. 16). This throne will be given to Jesus the Messiah, David’s offspring who “will reign over the house of Jacob forever” and of whose “kingdom there will be no end” (Luke 1:33).
+
+The theology of 2 Samuel, therefore, is about God’s character in his dealings with his people, especially with his chosen individuals, with grace (ḥesed) for the sake of his plan and purpose. Because he is faithful to his covenant, in particular to his promise to Abraham (Gen. 12:1-3), God graciously deals with David in the same way in order that the plan of salvation be further fulfilled and finally completed in the life and death of his son Jesus Christ, the Messiah (2 Sam. 7:11b-16).
+
+
+
+
+
+VII. PURPOSE OF 2 SAMUEL
+
+
+In the previous volume on 1 Samuel, I noted that the purpose of that book is twofold:
+
+(1)to explain the meaning of the establishment of the monarchy in Israel;
+
+(2)to show how the Lord prepared David to sit on the royal throne after Saul.
+
+The first purpose continues. However, the purpose of 2 Samuel is not only to explain the meaning of the Israelite monarchy as a political institution but also to show how God led King David’s life specifically despite his grave sins against God in order to keep his promise to provide heirs, finally the heir, to establish his eternal dynasty.
+
+In chapter 7 David, the prototype of messiah, the Lord’s anointed, is granted the divine promise that his kingdom and the throne on which his heir will sit and rule will be established forever. With this Davidic covenant, the divine plan of salvation moves a big step forward since the promise to Abraham a thousand years earlier.
+
+It is noteworthy that in the last words of David (2 Sam. 23:2-7) near the end of the book we find a reference to the “eternal covenant” (berît ʿôlām) that the Lord made with David (v. 5). Exactly because of this “eternal covenant” of God’s faithfulness or grace (ḥesed), his son Jesus the Messiah died a sacrificial death for human sin in order to redeem human beings.
+
+The final chapter, chapter 24, points to the place of worship where David’s son would build the temple for the true King at the royal city of Zion, Jerusalem. However, just as the establishment of the human institution of monarchy sidetracked the covenant people away from the true King, in the same way, Solomon’s Temple would lead the people to look at the physical temple and lead them away from the real presence of God throughout the history of ancient Israel.
+
+Salvation is the recovery of the human fellowship with the holy God. Humans were created as the image of God for two purposes: (1) to worship the Creator; (2) to rule over other creatures as God’s agent, his vice-regent (Gen. 1:26-27). The true recovery will come in the person of the true Messiah. Thus 1–2 Samuel ends with a hint of the preparation for the temple worship, which is a prototype of the true worship of the Sovereign God through His son Jesus Christ, the true Messiah.
+
+
+
+
+

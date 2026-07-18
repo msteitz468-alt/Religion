@@ -2,8 +2,8 @@
 title: The Kinsman-Redeemer (Gōʾēl)
 domain: law / theology
 traditions_using: [Judaism, Christianity]
-sources_ingested: 1
-last_updated: 2026-06-05
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, law, theology, old-testament, ruth, redemption, christology]
 ---
 
@@ -76,10 +76,92 @@ Boaz as a type of Christ is the most developed OT christological type available 
 
 Boaz redeems Ruth; they marry; Obed is born. The marriage of a redeemer and his redeemed is also the form of the climax of biblical revelation: the marriage of the Lamb and his bride (Rev 19:7-9; 21:2, 9; 22:17). The church is the redeemed gathered from every nation; Christ is the kinsman-redeemer who paid the full cost to bring them home. [[peter-lau|Lau]]: the Ruth narrative ends with "a wedding feast, where there is no bitterness or emptiness, only contentedness and fullness." The same image, infinitely expanded, closes Revelation.
 
+## The Gōʾēl of Job 19:25 (Hartley, NICOT Job)
+
+*Added 2026-07-18. All interpretive claims are [[john-hartley|John E. Hartley]]'s; see
+[[job-19-25-redeemer|Job 19:25 and the Redeemer]] for the full controversy.*
+
+Job's "I know that my redeemer lives" is the OT's most disputed *gōʾēl* text, and the fifth
+of the roles listed above (legal advocate) is where Hartley locates it.
+
+**Hartley identifies the *gōʾēl* as God himself**, against "several modern interpreters" who
+"find intolerable the logic of this interpretation that God will help Job against God" and so
+take the redeemer to be the heavenly witness of 16:19. He concedes that view "has much in its
+favor" but holds it "not able to account for all the facts" (p. 293). His five arguments:
+
+1. The title's weight in "Israel's confessional theology," making the author's choice
+   "designed" rather than incidental.
+2. **His strongest — the argument from unused vocabulary:** "If the author did not want to
+   make this identification, he would have chosen another term that would have clearly meant
+   an intermediary between God and man, **for he has already used many: angel or holy one
+   (5:1), umpire or arbiter (9:33–34), witness (16:19), and friend (16:20)**" (p. 293).
+3. Job's brothers, kinsmen, and comforters have all forsaken him, so the redeemer "must be
+   someone other than these parties."
+4. The 9:33 arbiter is excluded on modal grounds: there Job "was fully aware that he was
+   expressing an unrealistic wish, whereas now he is speaking with conviction."
+5. The adjective *ḥay*, "living," which "brings to mind the reference to God as 'the living
+   God'" — "the title 'living redeemer' applies to none other than God" (pp. 293–294).
+
+Hartley accepts rather than dissolves the resulting paradox: "Job is beseeching the God in
+whom he has faith to help him against the God who is punishing him. While this view seems
+irrational, this paradox lies at the core of Job's struggle" (p. 294).
+
+**Vindication before death, in the body, at the ash heap.** Of four interpretations Hartley
+canvasses, he adopts the fourth: "God will intervene before Job's death and restore him to
+his former status." He reads *ʾaḥărôn* as non-eschatological — Job "is thinking not of that
+distant future, but of a day when God will vindicate him and bring his case to a close" — and
+insists on "dust" over RSV's "earth" because "God will appear at the ash heap on which Job
+sits (2:8)… on the very place of his humiliation" (pp. 294–295). He takes *mibbəśārî* as
+"from my flesh," since "Job stresses in v. 27 that he will see God with his own eyes."
+
+**He explicitly rejects the resurrection reading**, on four grounds internal to the book
+(Sheol is the land of no return, 7:9; 10:21; no better lot for the dead, 17:15–16; 14:10–12's
+denial that a human can revive as a tree does; and the silence of every later speech,
+including Elihu's and Yahweh's, on a theme that would otherwise be the book's climax). His
+verdict on the Christian exegesis: "the claim that resurrection is the focal point of this
+passage seems to be **a reading back of the NT into the OT**" (pp. 295–296). See
+[[sheol|Sheol]] for the related resuscitation/resurrection distinction at 14:14.
+
+**Hartley's own NT paragraph — continuity of *logic*, not of doctrine.** This must not be
+flattened into the reception history below; Hartley has just denied that the verse teaches
+resurrection.
+
+> "**Although Job's confession as interpreted does not explicitly support the doctrine of
+> resurrection, it is built on the same logic that will lead to that doctrine becoming the
+> cornerstone of NT faith.** … **Both hold to the dogma that God is just even though he
+> permits unrequited injustices and the suffering of the innocent.** … In this way Job's
+> confidence in God as his Redeemer amidst excruciating suffering stands as a model for all
+> Christians." (p. 297)
+
+The move is typological and analogical by Hartley's own framing, not exegetical.
+
+### Christian reception of Job 19:25 (a separate register)
+
+Recorded as reception, attributed, and distinct from Hartley's exegesis above — these are
+positions Hartley *reports*:
+
+- The bodily-resurrection reading "is dominant in the Christian community," going back to
+  **Clement of Rome** and **Origen**, and "popularized by the major translations in the West."
+- **Jerome's** Latin translation, "which even identifies the Redeemer as the Messiah, has
+  contributed significantly to this view becoming the traditional interpretation."
+- **Luther's** translation "has also propagated this interpretation among Protestants."
+- **Chrysostom** dissents: "a few early church fathers failed to find any reference to a
+  doctrine of resurrection in this passage (e.g., Chrysostom)."
+- An earlier Jewish reading has Job witnessing his vindication as a disembodied spirit from
+  Sheol, which Hartley traces to **Jubilees 23:30–31** and rejects.
+
+Note that within Job the redeemer confession belongs to a **series** of mediator figures —
+angel/holy one (5:1), umpire (9:33–34), witness (16:19), friend (16:20), redeemer (19:25) —
+which Job abandons by 27:2, where, Hartley says, "he abandons any hope for a third party to
+come to his aid."
+
 ## Sources Ingested
 
 1. [[peter-lau|Lau, Peter H. W.]]. *Ruth*. NICOT. Grand Rapids: Eerdmans, 2023.
+2. [[john-hartley|Hartley, John E.]] *The Book of Job*. NICOT. Grand Rapids: Eerdmans, 1988 —
+   see [[hartley-job-nicot|source page]]. Ingested 2026-07-18.
 
 ## Related Texts
 
-- [[book-of-ruth|Ruth]]
+- [[book-of-ruth|Ruth]] · [[book-of-job|Job]]
+- [[job-19-25-redeemer|Job 19:25 and the Redeemer]] · [[sheol|Sheol]]

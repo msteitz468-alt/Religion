@@ -5,8 +5,8 @@ tradition: Judaism (ANE); kinship-and-enmity motif with Israel
 textual_sources: [Genesis 19 (Lot), Numbers 21, Deuteronomy 23, Judges 10–11 (Jephthah), 1 Samuel 11 (Nahash), 2 Samuel 10–12 (David/Rabbah), 1 Kings 11 (Milcom), Jeremiah 49, Ezekiel 25; Assyrian annals]
 periods_active: Iron Age polity in the central Transjordanian highlands around Rabbah (c. 12th c.–6th c. BCE); Persian-period province; into Hellenistic times
 roles_significance: [Transjordanian neighbor and recurrent enemy of Israel; "brother/cousin" people via Lot; besieger of Jabesh-gilead; subdued by David at Rabbah]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [group, ancient-near-east, iron-age, transjordan, ammon, milcom, judah]
 ---
 
@@ -62,6 +62,21 @@ Ammon is a **near-kin foil**: the Lot etiology binds it to Israel by blood while
 as illegitimately born, and the cult of **Milcom** makes it a vehicle for the Deuteronomistic
 theme of apostasy (Solomon's high places). The Nahash and Rabbah episodes structure the rise
 of the monarchy.
+
+### Block on Ezekiel 25:1–7
+
+Daniel Block ([[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]]) renders the
+addressee "Bene Ammon," noting that "this compound form of the name is used consistently for
+the nation and the country throughout the OT" and that the Tell Siran Bottle Inscription
+names rulers *mlk bn ʿmn*, "king of Bene Ammon." The indictment is the exclamation *heʾāḥ*
+("Aha!") over Judah's desecrated sanctuary, wasted land, and exile — actions that "strike at
+the heart of Judean national self-consciousness, disrupting the deity-land-people
+relationship." Judgment hands them to the *bĕnê qedem* (Qedemites), which Block takes as
+"not a proper name or a self-designation, but a vague label used by westerners to denote the
+nomadic groups that migrated about the Arabian desert." The threatened erasure from memory
+means, in the words of a scholar Block quotes, "utter destruction of the population, so that
+there will be no one who may be called an Ammonite"; he cites Josephus (Ant. 10.9.7) that
+Nebuchadrezzar overran Ammon and Moab five years after Jerusalem's fall.
 
 ## Influence on Later Traditions and Controversies
 

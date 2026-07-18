@@ -51,6 +51,18 @@ The parallel with 4Q521 is exact in structure — a list of eschatological savin
 
 Vermes does not adjudicate this but notes the parallel as a significant bridge between Qumran messianism and Gospel tradition.
 
+## Hermeneutical Framework
+
+4Q521 **weaves biblical phrasing into new composition rather than quoting it**. There is no citation formula anywhere in the surviving fragments; Vermes's own word for the method is that the poem "incorporates Ps. cxlvi, 6–7 and Isa. lxi, 1."
+
+**Psalm 146 supplies the frame of divine acts:** "He who liberates the captives, restores sight to the blind, straightens the b[ent]" (fr. 2) reworks Ps. 146:7–8 directly.
+
+**Isaiah 61:1 is reworked with an interpolation.** The line "For He will heal the wounded, and revive the dead and bring good news to the poor" splices **resurrection** into the Isaianic "good news to the poor" formula — content Isaiah 61:1 does not contain. The expansion is visible in the text itself, and it is the text's most consequential interpretive act: the raising of the dead is presented as belonging to the same prophetic promise. Fragment 7 repeats it of God as "the Lifegiver [who] will raise the dead of His people."
+
+**A singular Messiah.** The fragment reads "the hea]vens and the earth will listen to His Messiah" — singular, and, as Vermes notes, "used without the addition of Aaron or Israel," i.e. without the [[two-messiahs|dual-messiah]] formula standard in the sectarian scrolls.
+
+**Genre and sectarian status, both qualified by Vermes.** "Whether the designation 'apocalypse' is fully justified is a moot point: the writing comes across as a composition in verse akin to the poetry of the late biblical period." And: "The surviving fragments do not appear to include anything patently sectarian." The text may not be a Qumran composition at all. Vermes also notes it renders the divine name as *Adonai* rather than the Tetragram.
+
 ## Theological Significance
 4Q521 demonstrates that by the 1st century BCE, **Jewish messianism could include**:
 - A single Messiah figure of commanding cosmic authority

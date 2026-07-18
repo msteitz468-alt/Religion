@@ -2,8 +2,8 @@
 title: Ein Sof
 domain: theology / mysticism
 traditions_using: [Judaism (Kabbalah)]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, judaism, kabbalah, theology, apophatic]
 ---
 
@@ -74,6 +74,48 @@ The kabbalists frequently designate either Keter or Ein Sof itself as *Ayin* (א
 **Pseudo-Dionysius / Christian Apophatic Theology**: The *Mystical Theology* of Pseudo-Dionysius (late 5th c.) reaches a similar apophatic extreme — the divine "darkness beyond light," beyond all names and non-names. The structural parallel with Ein Sof is notable; both emerge from the same Neo-Platonic inheritance (Proclus, Plotinus). Whether the kabbalists were directly influenced by Pseudo-Dionysius (possibly via Sufi intermediaries) is debated. Cross-link: [[logos-christology|Logos Christology]] for the Christian apophatic tradition.
 
 **Philo's "God beyond the Logos"**: Philo already insisted that the true God transcends even the Logos; the divine essence (*ousia*) is utterly beyond predication. This is structurally close to Ein Sof vs. the sefirot, and Philo's influence on medieval Jewish thought (through Arabic philosophy) may be a partial channel. See [[philo-of-alexandria|Philo of Alexandria]].
+
+---
+
+## Grounding from Pritzker Zohar Volume I (standards reingest 2026-07-18)
+
+Attributed to the Zohar body as rendered in Matt, *The Zohar: Pritzker Edition*, Volume I. In Haqdamah the technical label *Ein Sof* is sparse; functional equivalents dominate ("Concealed of all Concealed," "unmentioned," "holy hidden one," *Ayin*). Be-Reshit and Noaḥ use *Ein Sof* more explicitly.
+
+### Spark of impenetrable darkness (*botsina de-qardinuta*)
+
+Opening theogony of Be-Reshit:
+
+> "A spark of impenetrable darkness flashed within the concealed of the concealed, from the head of Infinity… not white, not black, not red, not green, no color at all…. Deep within the spark gushed a flow… **concealed within the concealed of the mystery of Ein Sof**. It split and did not split its aura… until… a single, concealed, supernal point shone. Beyond that point, nothing is known, so it is called ראשית (Reshit), Beginning…" (Zohar 1:15a; Pritzker I)
+
+"Concealed of concealed struck its aura, which **touched and did not touch** this point" (1:15a–b). Light process: "Ein Sof burst out of its aura, revealing this point: י (yod)…. Attaining the realm of Ein Sof, it is hidden away, and all becomes one" (1:16b–17a). "And there was light—**light that already was**" from residual *avir* (aura) (1:16b).
+
+### Beyond question; no trace
+
+Haqdamah on *Mi* (Who):
+
+> "Since it can be questioned, yet remains concealed and unrevealed, it is called Who. **Beyond, there is no question.**" (Zohar 1:1b; Pritzker I)
+
+Be-Reshit restates:
+
+> "Ein Sof contains no trace at all; no question applies to It, nor conceiving contemplating any thought. From within concealing of the concealed, from the **initial descent of Ein Sof**, radiates a tenuous radiance… mystery of concealment of thought." (Zohar 1:21a; Pritzker I)
+
+Till Gen 1:3: "all was suspended in space, from the mystery of Ein Sof"; *Said* arises "silently from the mystery of Ein Sof, in the origin of thought" (1:16b).
+
+### Concealed of all Concealed; unmentioned / It grammar
+
+- Elijah at the seashore (Haqdamah): "When **Concealed of all Concealed** verged on being revealed, it produced at first a single point, which ascended to become thought…. called מי (Mi), Who, origin of structure. Existent and non-existent, deep and hidden, called by no name but Who" (Zohar 1:2a).
+- *Bara shit* reading: "Who created them? **The unmentioned, the hidden unknown**" (1:3b).
+- "With this beginning, **the unknown concealed one** created the palace" (1:15a) — subject not a named God but the unnamed ground.
+- Books of the ancients on Jer 10:7: "מי ayin kamokha, who is **Ayin** like You? … Who else is the holy concealed one?" (Haqdamah).
+- "Concealed of all Concealed, totally unknown, rules over all, rides all" (1:21a); "From the Concealed of all Concealed, a concealed river is drawn forth" (1:29a–b).
+
+### Nine palaces (Parashat Noaḥ)
+
+In the Noaḥ offering / high-theosophy block, Ein Sof radiates through a curtain into **nine palaces** of palaces — neither lights nor spirits nor souls; no one can fathom them — related to Thought clothed in Binah and offerings that crown Thought in Ein Sof; radiance linked to *Ayin* (Zohar Noaḥ range, Pritzker I; cf. body section "Ein Sof and the Nine Palaces" above). Offerings can saturate judgment so that aspiration reaches Ein Sof.
+
+### Sources
+
+- [[matt-zohar-pritzker-vol1|Pritzker Zohar Volume I]] (Matt) — Haqdamah 1:1b–3b; Be-Reshit 1:15a–21a; Noaḥ offering theosophy
 
 ---
 

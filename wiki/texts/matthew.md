@@ -1,6 +1,6 @@
 ---
 title: Gospel of Matthew
-tradition: New Testament (Gospel)
+tradition: Christianity
 canon_status: canonical
 canon_scope:
   canonical_for: [catholicism, eastern-orthodoxy, protestantism]
@@ -9,177 +9,200 @@ canon_scope:
   disputed_by: []
   rejected_by: []
 language_original: Greek
-date_range: France favors ca. 60s CE (pre-70 minority view); critical consensus ca. 80-90 CE
-sources_ingested: 3
-last_updated: 2026-06-06
+date_range: "France (minority): the 60s CE, following Irenaeus; critical majority: ca. 80-90 CE"
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [text, new-testament, gospel, matthew, fulfillment, formula-quotations, sermon-on-the-mount, messiah, son-of-david, galilee]
 ---
 
-The Gospel of Matthew is the first book of the New Testament as canonically ordered and the most quotation-dense engagement with the Old Testament in the entire NT canon. The UBS Greek NT lists 54 direct OT citations and 262 allusions/verbal parallels — a conservative count. France (NICNT, 2007) identifies **fulfillment** as Matthew's governing theme: the coming of Jesus is presented as the climax of the entire history of God's people, with virtually every dimension of OT revelation (prophecy, typology, narrative pattern, legal fulfillment) finding its intended destination in the person of Jesus of Nazareth.
+The Gospel of Matthew is the first book of the New Testament as canonically ordered and the most quotation-dense engagement with the Old Testament in the NT canon. It opens with *biblos geneseōs* ("book of origin"), a phrase that also stands at Genesis 2:4 and 5:1 in the Septuagint.
 
-The gospel opens with *biblos geneseos* ("book of origin/genesis") — deliberately echoing Genesis 2:4 and 5:1, signaling that a new genesis is underway in the arrival of Israel's Messiah.
+[[rt-france|R. T. France]] (NICNT, 2007) identifies **fulfilment** as Matthew's governing theme, understood not as the verification of discrete predictions but as the recognition of recurring patterns: in his formulation, "Matthew's typological interest leads him rather to find patterns which will recur." See [[fulfillment|Fulfilment]] and [[formula-quotations|Formula-Quotations]].
+
+> **Ingest status.** The France NICNT commentary has been re-read under the wiki's current fidelity standard for **Matthew 1:1–16:20 only** (Scope 1). Material below on chapters 16:21–28:20 — the journey to Jerusalem, the confrontation narratives, the eschatological discourse, the passion, and the Great Commission — has **not yet been verified** against a full reading and is retained from the earlier 2026-06-05 ingest pending Scope 2. See [[france-matthew-nicnt|the source page]] for the coverage ledger.
 
 ## Author and Date
 
-**Authorship**: The earliest patristic attributions are unanimous in assigning the gospel to the apostle Matthew (tax collector, son of Alphaeus). France accepts this attribution, noting that the patristic tradition should not be discarded without specific counter-evidence. The gospel's "love-hate relationship with Judaism" fits someone like Matthew — a Jew who had broken with the ruling establishment while remaining deeply rooted in the OT heritage.
+**Authorship.** France accepts apostolic authorship of the canonical Greek gospel, putting it no more strongly than that the apostle Matthew is "as likely a candidate as any." He does not build his exegesis on the attribution.
 
-**Date**: France favors a pre-70 CE date (minority view), arguing: (1) several passages presuppose the temple is still standing (5:23-24; 17:24-27; 23:16-22); (2) the argument that Matthew must post-date 70 CE because it refers to the temple's destruction is circular (Jesus could have predicted it); (3) the NT books may cluster in the 60s (Acts ends at 62 CE with no reference to events of 64-70). The majority scholarly view places Matthew ca. 80-90 CE, mainly based on the assumed post-70 setting and dependence on Mark.
+**Date.** France favours a date in the 60s CE, following Irenaeus — a minority position against the critical majority of ca. 80–90 CE. A caution about citing him here: France states the conclusions of his introductory section, in his own words, "baldly without argument," explicitly declining to write a standard introduction and referring readers instead to his own *Matthew: Evangelist and Teacher* (1989) for the full case on authorship, provenance, date, and sources. **The NICNT volume is therefore not a source for France's detailed arguments on these questions**, and claims about his reasoning should be sourced from the 1989 monograph, which this wiki has not ingested.
 
-**Provenance**: Probably Syria or Palestine; possibly Antioch (scholarly consensus) though France is less certain of the specific location.
+**Provenance.** Not developed in the commentary's introduction.
 
-## Structure: The Geographical Narrative
+## Structure
 
-France rejects two dominant structural proposals:
-- B. W. Bacon's "five books of Moses" scheme (based on the five discourse-conclusion formulas)
-- J. D. Kingsbury's three-section framework ("From that time Jesus began..." at 4:17 and 16:21)
+France rejects two dominant structural proposals: B. W. Bacon's "five books of Moses" scheme, built on the five discourse-conclusion formulas, and J. D. Kingsbury's three-section framework built on the "From that time Jesus began…" formula at 4:17 and 16:21. He adopts instead a six-division geographical outline derived from Mark's.
 
-Instead, France argues for a **geographical narrative structure** following Mark's outline, organized around the progress of Jesus from Galilee to Jerusalem and back:
+An important qualification that the earlier ingest of this page omitted: France regards structure as **reader-imposed rather than authorial**. His divisions represent his own sympathetic reading of the narrative's dynamics; he does not claim to recover an explicit authorial blueprint.
 
 | Section | Chapters | Theme |
 |---|---|---|
-| Prologue: Introducing the Messiah | 1:1-4:11 | OT fulfillment; genealogy; infancy; baptism; temptation |
-| Galilee: Messiah revealed in word and deed | 4:12-16:20 | Public ministry; five discourses; growing opposition |
-| Galilee to Jerusalem: Preparation | 16:21-20:34 | Passion predictions; community teaching; journey |
-| Jerusalem: Confrontation | 21:1-25:46 | Entry; temple; debates; eschatological discourse |
-| Jerusalem: Death and Vindication | 26:1-28:15 | Passion narrative; resurrection |
-| Galilee: Triumphant Relaunch | 28:16-20 | The Great Commission |
+| I. Introducing the Messiah | 1:1–4:11 | Genealogy; infancy; John; baptism; temptation |
+| II. Galilee: the Messiah revealed in word and deed | 4:12–16:20 | Public ministry; discourses; growing opposition |
+| III. From Galilee to Jerusalem | 16:21–20:34 | Passion predictions; community teaching |
+| IV. Jerusalem: confrontation with the religious authorities | 21:1–25:46 | Entry; temple; debates; eschatological discourse |
+| V. Jerusalem: rejected, killed, and vindicated | 26:1–28:15 | Passion narrative; resurrection |
+| VI. Galilee: the messianic mission is launched | 28:16–20 | The Great Commission |
 
-France's commentary is deliberately organized around this narrative flow rather than verse-by-verse atomization. He treats each large section and each pericope as a literary whole before descending to individual verses or phrases. This reflects his core conviction that "the individual parts of the gospel" must be located "within the overall narrative flow of the whole—to look at the woods before focusing in on the trees." Subdivisions represent his own sympathetic reading of the text's dynamics; he frequently notes competing structural proposals and explains his choices without claiming to recover an explicit authorial blueprint.
+France's commentary is organised around this narrative flow rather than verse-by-verse atomisation, treating each section and pericope as a literary whole before descending to individual phrases — "to look at the woods before focusing in on the trees."
 
 ## The Galilee/Jerusalem Polarity
 
-One of France's most distinctive contributions: **the sociopolitical realities of first-century Palestine shape the gospel's narrative arc**.
+France treats the sociopolitical geography of first-century Palestine as hermeneutically mandatory rather than as background colour, and this is among his most distinctive contributions. He reads Galilee and Judea as distinct provinces under separate administration, with mutual tensions: a mixed Galilean population with Hellenistic influences, a distinctive and mocked accent, and a reputation for religious laxity by Judean standards. His analogy for a Galilean Jew in Jerusalem is that he was "as much a foreigner as an Irishman in London or a Texan in New York."
 
-Galilee and Judea were distinct provinces with deep mutual tensions: Galilee had a mixed population with Hellenistic influences; its accent was distinctive and mocked; its residents were considered religiously lax by Judean standards; politically it was under separate administration. An impeccably Jewish Galilean in Jerusalem was "as much a foreigner as an Irishman in London or a Texan in New York."
+On France's reading this structures the narrative: light dawns in Galilee while Judea remains in darkness; the Galilean prophet and his Galilean disciples confront the Jerusalem establishment on its own ground; Peter's accent exposes him in the high priest's courtyard (26:69); and the risen Messiah returns *to Galilee* rather than being vindicated in Jerusalem. See [[galilee|Galilee]], [[nazareth|Nazareth]], [[capernaum|Capernaum]], and [[jerusalem|Jerusalem]].
 
-This matters enormously for Matthew's story:
-- **The opening problem**: How can a Galilean from Nazareth (a village with no messianic pedigree) be the Messiah, who everyone knew must come from Judean Bethlehem, the city of David?
-- **The narrative tension**: The Galilean prophet and his Galilean disciples confront the Jerusalem establishment on its home territory
-- **Peter's exposure** (26:69): "You also were with Jesus the Galilean" — his accent marks him out
-- **The triumph**: After rejection in Jerusalem, the risen Messiah goes *back to Galilee* (28:16-20) — the vindication of the rejected northerner
+## Fulfilment and the Formula-Quotations
 
-To read Matthew without awareness of first-century Palestinian sociopolitics is to miss his point.
+France's position is that the formula-quotations are Matthew's **own editorial commentary**, not a pre-existing testimony collection: "Rather than add a footnote, Matthew has incorporated the fulfillment into the wording of the text."
 
-## The Central Theme: Fulfillment
+He is candid that several of the quoted texts are not predictive in their own contexts — Hosea 11:1 "is a statement about the past, not a prediction of the future," and Isaiah 7:14 addressed Ahaz around 735 BC. His defence is typology understood as a transferable model rather than as prediction-and-verification.
 
-Matthew's dominant theological claim: in the coming of Jesus, the entire OT finds its fulfillment. Fulfillment operates at multiple levels:
+Two of the infancy quotations he leaves explicitly unresolved: on Jeremiah 31:15 he observes that "few claim with any confidence to have fathomed just what he intended," and on the "Nazorean" citation of 2:23 that "no solution… is straightforward" — rejecting both the *nēṣer* and the nazirite wordplays in favour of "Nazorean" as a term of abuse fitting a prophetic theme of the unrecognised Messiah.
 
-### The Eleven Formula-Quotations
-
-Matthew's most distinctive feature: editorial comments introduced by "All this happened to fulfill what was declared by the Lord through the prophet..." (slight variations throughout):
-
-| Reference | OT Text | Event |
-|---|---|---|
-| 1:22-23 | Isa 7:14 (Immanuel) | Virgin birth |
-| 2:15 | Hos 11:1 ("Out of Egypt") | Flight to Egypt |
-| 2:17-18 | Jer 31:15 (Rachel weeping) | Massacre of innocents |
-| 2:23 | ? (obscure; "Nazarene") | Settlement in Nazareth |
-| 4:14-16 | Isa 9:1-2 (Galilee of nations) | Ministry in Galilee |
-| 8:17 | Isa 53:4 (bore our infirmities) | Healing ministry |
-| 12:17-21 | Isa 42:1-4 (servant of Yahweh) | Jesus's withdrawal and healings |
-| 13:35 | Ps 78:2 (parables) | Teaching in parables |
-| 21:4-5 | Zech 9:9 (king on donkey) | Triumphal entry |
-| 27:9-10 | Zech 11:13 (thirty pieces) | Judas's betrayal |
-
-These formula-quotations are Matthew's own **editorial gloss** — not pre-existing proof-texts but his creative application of the OT to the specific events he narrates. Several would have surprised even attentive readers as "messianic" texts (Hos 11:1; Jer 31:15; Ps 78:2); their inclusion testifies to Matthew's "pervasive midrashic agenda" in discovering patterns of correspondence throughout the OT.
+France also argues that 13:14–15, though a quotation of Isaiah 6:9–10, is **not** a formula-quotation: it is spoken by Jesus rather than the narrator, uses a different introductory formula, and follows the LXX unaltered. Full treatment, including which citations qualify and which do not, is on [[formula-quotations|Formula-Quotations]].
 
 ### Typology
 
-Beyond explicit prediction, Matthew reads OT history typologically:
-- **Jesus as new Moses**: Born under threat of infanticide (Moses/Exodus); forty days in the wilderness corresponding to forty years (Israel in the desert); Sermon on the Mount delivered from a mountain (as Moses received Torah); gives the new Torah
-- **Jesus as new Israel**: "Out of Egypt I called my son" (Hos 11:1 = Matt 2:15); the three temptations in the wilderness mirror Israel's three failures
-- **Jesus as new Solomon**: "Son of David" throughout; greater than Solomon (12:42)
-- **Jesus as the Servant of Isaiah**: Bearing our infirmities (8:17 = Isa 53:4); the beloved chosen one (12:17-21 = Isa 42:1-4)
-- **Jesus as the Branch/Davidic Messiah**: Via the genealogy and the Zechariah quotations in the Passion
+Matthew reads OT history typologically, on France's account, though he is not uniformly enthusiastic about typological proposals — he judges Davies and Allison's exodus typology for the infancy narrative "rather exaggerated." Recurring patterns he does accept include Jesus as the new Israel (Hosea 11:1 at 2:15; the wilderness temptations answering Israel's failures with citations from Deuteronomy) and Jesus as the Isaianic servant. See [[typology|Typology]] and [[temptation-of-jesus|The Temptation of Jesus]].
 
-## Key Sections
+## Key Sections (Scope 1: 1:1–16:20)
 
-### The Genealogy (1:1-17): "Book of Origin"
+### The Genealogy (1:1–17)
 
-Matthew opens with *biblos geneseos* — "book of origin/genesis" — echoing both the Septuagint's *biblos geneseos* in Genesis 2:4 and 5:1. The genealogy traces the history of God's people from Abraham through three periods of 14 generations each (Abraham → David; David → Exile; Exile → Messiah), with the theological message: the time of preparation is complete; the Messiah is the climax of the entire story.
+Three sets of fourteen generations from Abraham through David and the exile to the Messiah. France discusses the "book of origin" opening, the Davidic descent, the distinction between legal and biological paternity, and the four women. Detail on [[genealogy-of-jesus|The Genealogy of Jesus]].
 
-**The four women** (Tamar, Rahab, Ruth, Bathsheba): Probably all Gentiles; their inclusion anticipates Matthew's universal horizon and the "make disciples of all nations" commission.
+### The Infancy Narrative (1:18–2:23)
 
-**Fourteen** (3 × 14): Possibly gematria for "David" (D-V-D = 4+6+4 in Hebrew); possibly 6 × 7 pointing toward the 7th seven (the messianic age); most likely, simply Matthew's observation that the OT lists gave him 14 names in the first section, allowing him to create a symmetrical theological structure.
+France reads these chapters as a structured apologetic answering two questions, following Stendahl's *Quis et Unde?*: who Jesus is (chapter 1, establishing Davidic sonship through Joseph) and where he is from (chapter 2, resolving the embarrassment of a Galilean Messiah through the sequence Bethlehem–Egypt–Nazareth). Each scene builds toward its formula-quotation.
 
-### The Infancy Narrative (1:18-2:23): Apologetics for the Messiah
+### The Sermon on the Mount (5:1–7:29)
 
-France reads these chapters as a structured apologetic demonstration answering two questions (following Stendahl: *Quis et Unde?*):
+France reads the discourse as an anthology of related teaching from multiple occasions rather than a transcript of a single sermon.
 
-**Who is he?** (ch. 1): Joseph's Davidic lineage makes Jesus legally "son of David" even though he was not Joseph's biological son. The Virgin Birth fulfills Isaiah 7:14 ("Immanuel — God with us").
+The programmatic statement is 5:17. France rejects the reading of *plēroō* as "obey" or "keep" — the wrong verb, and no answer to the charge of abolition — and rests his case on the observation that the verse says Jesus fulfils "the law **and the prophets**," so the law is fulfilled in the same forward-pointing mode as prophecy. His pivot text is 11:13 ("the law prophesied until John"), yielding the strong conclusion that the Torah "is in a sense provisional." Its authority is not abolished, but "their role will no longer be the same"; Jesus, not the law, is now the ultimate authority.
 
-**Where is he from?** (ch. 2): The apparent embarrassment that Jesus came from Galilee is resolved by tracing his geographical movements — born in Bethlehem (fulfilling Micah 5:2), evacuated to Egypt (fulfilling Hosea 11:1), returned to Judea, but forced north to Galilee to escape Herod Archelaus, eventually settling in Nazareth (fulfilling — in some obscure way — that "he should be called a Nazarene").
+France reads 5:17–19 as directed against antinomians and 5:20 against scribal literalists. The "surpassing righteousness" of 5:20 cannot on his reading mean out-performing the Pharisees at their own activity — it demands "a different level or concept of righteousness altogether."
 
-Each scene is narrated primarily to establish its scriptural fulfillment, with the formula-quotation being the structural goal toward which each scene builds.
+**On the six antitheses, France's resolution is "bypass, not abolish."** He argues the dialogue partner is "not the OT law as such but the OT law as currently… understood and applied," and offers a three-mode taxonomy: the first and second intensify the command inwardly; the third and fourth declare that the regulated action should never have happened at all; the fifth declares a judicial rule inapplicable to personal ethics; the sixth extends love beyond the law's purview. Detail on [[sermon-on-the-mount|The Sermon on the Mount]], [[antitheses|The Antitheses]], [[beatitudes|The Beatitudes]], [[lords-prayer|The Lord's Prayer]], and [[righteousness|Righteousness]].
 
-### The Sermon on the Mount (5:1-7:29)
+### The Miracle Anthology (8:1–9:34)
 
-The first and most elaborate of the five discourses. France reads it as a compilation of related teaching from multiple occasions, organized thematically. The key programmatic statement is 5:17:
+France argues at length that Matthew has rearranged and systematically abbreviated Marcan material into three groups of three with interludes, giving word-count comparisons as evidence (135 words against Mark's 330 for the Gadarene demoniacs; 48 against 154 for the woman with the haemorrhage). His conclusion is "a careful and original arrangement of traditional material by Matthew to serve his editorial purpose." See [[miracles|Miracles]].
 
-> "Do not think I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them."
+### The Mission Discourse (9:35–11:1)
 
-France argues "fulfill" (*plēroō*) here means "bring to full significance/completion" — not mere obedience, and not the abolition of the law's demands, but the Messiah bringing the Torah to its intended destination. The six "antitheses" ("You have heard it said... but I say to you") are not contradictions of Torah but intensifications that address the inner disposition behind external acts.
+France's solution to the crux of 10:23 ("you will not have gone through the towns of Israel before the Son of Man comes") turns on Daniel 7:13: the son of man there comes *to God*, not to earth, so "the presumption must be that they are speaking not of an eschatological parousia but of a heavenly enthronement." He holds this tentatively. See [[son-of-man|Son of Man]] and [[twelve-apostles|The Twelve Apostles]].
 
-### The Great Commission (28:16-20)
+### The Parable Discourse (13:1–53)
 
-The gospel's climax is set not in Jerusalem but on a mountain in Galilee — the defeated disciples going back home to encounter the risen Lord. The declaration:
+France rejects the one-point dogma on literary rather than theological grounds — the sower's four-part construction "demands that the detail be noticed." On the hardening problem of 13:10–17 he offers six mitigating considerations while conceding they "do not remove the robust stress on the divine purpose," and he denies that the *hoti*/*hina* distinction between Matthew and Mark resolves anything. He reads the field of the weeds as the world rather than the church, and rejects 13:52 as Matthew's self-portrait. See [[parable|Parable]].
 
-> "All authority in heaven and on earth has been given to me. Go therefore and make disciples of *all nations*, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."
+### Peter's Confession (16:13–20)
 
-This is the fulfillment of the son-of-Abraham promise (Gen 12:3: "all peoples on earth will be blessed through you") and the terminus of Matthew's geographical argument: the rejected Galilean Messiah is now the universal Lord. The final word — "I am with you" — echoes the Immanuel declaration of 1:23. The frame is complete.
+France holds that **the rock is Peter**: "the wordplay is intended to identify Peter as the rock." He names and rejects both alternatives — the rock-as-confession reading, which he identifies as motivated by anti-papal apologetic, and rock-as-Jesus, which he calls "the exegesis of desperation" — while equally denying that the passage bears on papal succession, which he assigns to "later ecclesiology, not… exegesis of this passage." The keys are storehouse keys rather than gate keys, making Peter steward rather than gatekeeper. See [[peter-apostle|Simon Peter]].
 
 ## The Five Discourses
 
-France argues these are not transcripts of actual sermons but **editorial anthologies** compiled by Matthew from received traditions, each organized around a central theme:
+France reads the five discourses as editorial anthologies compiled from received traditions rather than transcripts of single occasions. His argument is that each discourse's content, where paralleled in Mark and Luke, appears scattered across different contexts in those gospels; gathering is more plausible than independent dismemberment.
 
-| Discourse | Chapters | Theme | Marcan basis |
-|---|---|---|---|
-| Sermon on the Mount | 5-7 | Kingdom ethics | Luke 6:20-49 (shorter) |
-| Mission | 10 | Disciples sent out | Mark 6:7-13 |
-| Parables | 13 | The kingdom of heaven | Mark 4 |
-| Community | 18 | Life in the community | Mark 9:33-50 |
-| Eschatological | 24-25 | End of the age | Mark 13 |
+| Discourse | Chapters | Theme |
+|---|---|---|
+| Sermon on the Mount | 5–7 | Kingdom ethics |
+| Mission | 10 | Disciples sent out |
+| Parables | 13 | The kingdom of heaven |
+| Community | 18 | Life in the community |
+| Eschatological | 24–25 | End of the age |
 
-Evidence for editorial compilation: each discourse's content, when paralleled in Mark and Luke, appears **scattered** across different contexts in those gospels. It is more likely that Matthew gathered related sayings than that Mark and Luke independently dismembered preformed sermons.
+> The table France supplies of the five "basic units" in Mark and Luke underlying each discourse **did not survive the plain-text conversion** of the raw source (the lead-in sentence is present; the table rows are blank). The Marcan bases are therefore not recorded here. See the source page's reliability notes.
 
-## NT Connections in the Wiki
+## Scholarship and Historiography
 
-- **[[acts|Acts of the Apostles]]**: The Great Commission (28:16-20) provides the theological mandate for the church's expansion narrated in Acts
-- **[[isaiah|Isaiah]]**: Formula-quotations cite Isa 7:14 (1:23), 9:1-2 (4:14-16), 42:1-4 (12:17-21), 53:4 (8:17) — direct connections to Oswalt's NICOT Isaiah
-- **[[zechariah|Zechariah]]**: Zech 9:9 (Matt 21:4-5 = triumphal entry), Zech 11:13 (Matt 27:9-10 = thirty pieces of silver), Zech 13:7 (Matt 26:31 = strike the shepherd) — direct connections to Boda's NICOT Zechariah
-- **[[micah|Micah]]**: Mic 5:2 (Matt 2:5-6 = Bethlehem ruler) — Nogalski's NICOT Micah
-- **[[hosea|Hosea]]**: Hos 11:1 (Matt 2:15 = "Out of Egypt I called my son") — Dearman's NICOT Hosea
-- **[[jeremiah|Jeremiah]]**: Jer 31:15 (Matt 2:17-18 = Rachel weeping) — connecting to Jeremiah's exilic lament
-- **[[deuteronomy|Deuteronomy]]**: The temptation narrative (4:1-11) — Jesus responds to each temptation with a quotation from Deuteronomy (8:3; 6:16; 6:13); he is the new Israel succeeding where Israel failed
-- **[[1-2-kings|1 and 2 Kings]]**: The Davidic genealogy connects directly to the Davidic promise traced through Kings; Jesus is the Messiah in whom the promise of 2 Sam 7 is finally fulfilled
-- **[[servant-songs|Servant Songs]]**: Matt 8:17 (Isa 53:4) and 12:17-21 (Isa 42:1-4) are major formula-quotations connecting Jesus to the Servant
+France retains Markan priority but rejects "x-copied-y" models, doubts a unitary Q, and prefers a model of fluid mutual influence — "cross-fertilization" — across oral and written traditions. He states a reluctance to speak of Matthew "redacting" Mark at all. Positions are recorded without adjudication on [[synoptic-problem|The Synoptic Problem]].
 
 ## The Papias Tradition (Fragment 3.16)
 
-The oldest patristic testimony about the Gospel of Matthew's origins comes from **Papias of Hierapolis** (ca. 100–125 CE), preserved in Eusebius (*Church History* 3.39.16):
+*This section derives from the Holmes* Apostolic Fathers *ingest, not from France.*
+
+The oldest patristic testimony about the gospel's origins comes from **Papias of Hierapolis** (ca. 100–125 CE), preserved in Eusebius (*Church History* 3.39.16):
 
 > "Matthew composed the oracles (*logia*) in the Hebrew language (*Hebraïdi dialektōi*), and each person interpreted (*hermēneusen*) them as best he could."
 
-This single sentence has generated more debate than almost any other statement in patristic literature. The crux is the word *logia* ("oracles" or "sayings"):
+The crux is *logia* ("oracles" or "sayings"). If it means the whole gospel narrative, Papias reports an Aramaic or Hebrew Matthew later translated — but canonical Greek Matthew shows no clear signs of being a translation from a Semitic original. If it means a sayings collection, Papias may refer to a predecessor document. If it means OT proof-texts applied to Jesus, he may refer to a testimonium collection rather than a narrative gospel.
 
-- If *logia* means "the whole gospel narrative," Papias is saying Matthew wrote an Aramaic/Hebrew Gospel that was later translated — but the canonical Greek Matthew shows no clear signs of being a translation from a Semitic original
-- If *logia* means "a sayings collection" (like Q or a proto-Matthew), Papias may be referring to a predecessor document that was later incorporated into or replaced by canonical Greek Matthew
-- If *logia* means "OT proof-texts" applied to Jesus, Papias may be referring to a testimonium collection rather than a narrative gospel
+**[CORRECTION, 2026-07-18]** An earlier revision of this page attributed to France a specific position on Papias with a page citation to NICNT pp. 14–22. A full re-reading of France's Introduction finds **Papias is not named there**, and the Introduction does not treat the *logia* question. That attribution and citation have been removed as ungrounded. France's views on Papias, if any, would need to be sourced from *Matthew: Evangelist and Teacher* (1989), which this wiki has not ingested.
 
-The phrase "each person interpreted them as best he could" may explain the diversity of Matthew-like traditions in the early church — different communities drew on the same logia differently — or it may be a candid admission that no single Greek translation became dominant.
+See [[fragments-of-papias|Fragments of Papias]] and [[nt-canon-formation|NT Canon Formation]].
 
-**France's position**: France accepts apostolic authorship of the canonical Greek Matthew and does not find the Papias tradition decisive against it (NICNT, 2007, pp. 14–22). He notes that "Hebrew" in the 2nd century often meant "Aramaic," and that Papias may simply be attesting a tradition that Matthew composed some earlier Aramaic source that was subsequently expanded or replaced by the canonical Greek text. He does not rule out that Papias and the canonical Greek Matthew describe different stages of a compositional history.
+## NT Connections in the Wiki
 
-**Significance for canon history**: The Papias tradition is the earliest explicit association of the name "Matthew" with a written account. By ca. 120 CE, a document called Matthew's "oracles" was known and being translated/interpreted — whether or not this is identical to canonical Matthew, the tradition establishes apostolic attribution for Matthean tradition within the second generation. See [[fragments-of-papias|Fragments of Papias]] and [[nt-canon-formation|NT Canon Formation]].
+- **[[acts|Acts of the Apostles]]** — the Great Commission provides the mandate for the expansion narrated in Acts
+- **[[isaiah|Isaiah]]** — Isa 7:14 (1:23), 9:1–2 (4:14–16), 42:1–4 (12:17–21), 53:4 (8:17); connects to Oswalt's NICOT Isaiah
+- **[[zechariah|Zechariah]]** — Zech 9:9 (21:4–5), 11:13 (27:9–10), 13:7 (26:31); connects to Boda's NICOT Zechariah
+- **[[micah|Micah]]** — Mic 5:2 (2:5–6); Nogalski's NICOT Micah
+- **[[hosea|Hosea]]** — Hos 11:1 (2:15); Dearman's NICOT Hosea
+- **[[jeremiah|Jeremiah]]** — Jer 31:15 (2:17–18)
+- **[[deuteronomy|Deuteronomy]]** — the temptation narrative answers each temptation from Deut 8:3; 6:16; 6:13
+- **[[1-2-kings|1 and 2 Kings]]** — the Davidic genealogy and the promise of 2 Sam 7
+- **[[servant-songs|Servant Songs]]** — 8:17 and 12:17–21
 
+## Matthew as Seen from Mark: France's NIGTC (2002)
+
+France's NIGTC *Mark* (full re-ingest 2026-07-18; see [[france-mark-nigtc]]) yields a
+sustained sideways portrait of Matthew from the Marcan side. All claims are France's.
+
+- **Style.** Mark's historic present appears at least 150 times; "Matthew's much longer text
+  has only half as many." Mark's miracle stories are typically twice as long as Matthew's
+  parallels through vivid descriptive detail; Papias's apology for Mark's lack of "order"
+  reflects comparison with Matthew's "orderly" work and the literary tastes of Papias's time.
+- **Matthean doctrinal and apologetic sensitivity.** France repeatedly reads Matthew as the
+  more careful evangelist: Mark "betrays no doctrinal embarrassment" that Jesus accepted a
+  baptism of repentance for forgiveness — "clearly a problem for Matthew" (Matt 3:14-15);
+  Matthew softens Mark's "he could do no miracle there" (Mk 6:5); Matthew's rephrasing of
+  "Why do you call me good?" (Mk 10:18) shows "later sensitivity Mark and Luke did not
+  share"; Matthew's record on the food laws (Matt 15) is "more apologetically careful,"
+  though France judges naive the view that an evangelist of Matthew's halakhic sensitivity
+  was unaware of the implications of retaining 15:11; and Matthew's/Luke's omission of the
+  saliva healings likely reflects discomfort with their "earthy," almost magical technique.
+- **Inclusive vs. exclusive.** Mark's "whoever is not against us is for us" (Mk 9:40)
+  contrasts in tone with Matthew's exclusive formula (Matt 12:30); Mark (unlike Matthew and
+  Luke) makes the charge of possession itself the unforgivable blasphemy.
+- **Symbolic geography.** Matthew intensified Mark's [[galilee|Galilee]]/[[jerusalem|Jerusalem]]
+  symbolism — "the symbolism with which Mark has invested it was congenial to Matthew but not
+  to Luke."
+- **Levi = Matthew.** France holds Levi (Mark/Luke) is most likely an alternative name for
+  Matthew: "It is therefore not necessary to assume that an otherwise unknown man named Levi
+  has been arbitrarily identified with Matthew by the first evangelist."
+- **The lost ending of Mark.** France reconstructs, "a reasonable guess (it can be no more),"
+  that Mark's intended ending paralleled Matthew's — the women's silence overcome (perhaps by
+  a meeting with Jesus, as Matt 28:9-10), the message delivered, and a Galilean meeting with
+  the eleven; that Matthew's ending was actually *based on* Mark's lost ending "is perhaps to
+  push conjecture to the limits." See [[mark-ending|The Ending of Mark]].
+- **Historical disagreements left open.** Mark calls the temple charge ψευδομαρτυρία on which
+  witnesses failed to agree; Matt 26:60 records it as united testimony of two — "there is no
+  way of discovering whether Mark or Matthew is historically right." The Mark/Matthew-Luke
+  staff discrepancy (Mk 6:8) France treats as a genuinely unresolved harmonisation test case.
+- **Zechariah's shepherd.** The Zech 9–14 shepherd-king matrix is "already present in Mark
+  before Matthew's fuller development" — see [[zechariah|Zechariah]].
+
+## Key Interpretive Cruxes
+
+- **5:17–20** — the sense of *plēroō* and the continuing validity of the Torah. See [[fulfillment|Fulfilment]], [[old-law|The Old Law]].
+- **5:31–32** — the *porneia* exception. France treats divorce here rather than at 19:3–12. See [[divorce|Divorce]].
+- **10:23** — "before the Son of Man comes." Enthronement or parousia.
+- **11:12** — the violence saying. France canvasses five options, commits on the first clause, and leaves the second "obscure."
+- **12:31–32** — blasphemy against the Spirit. France attaches an unusual pastoral qualification.
+- **13:10–17** — whether parables conceal or reveal, and the force of the divine purpose.
+- **15:1–20** — whether Matthew, unlike Mark 7:19, stops short of setting aside the food laws. France says he does not, and leaves the resulting tension with 5:17 unresolved. See [[purity|Purity]].
+- **16:18** — the identity of the rock.
+- **2:23** — the "Nazorean" citation.
 
 ## Concepts
 
-Concept pages developed from this text:
-
-[[messianic-secret]]
+[[fulfillment]] · [[formula-quotations]] · [[kingdom-of-heaven]] · [[discipleship]] · [[righteousness]] · [[parable]] · [[typology]] · [[sabbath]] · [[purity]] · [[divorce]] · [[miracles]] · [[exorcism]] · [[messianic-secret]] · [[son-of-man]]
 
 ## Sources Ingested
 
-1. [[rt-france|France, R. T.]]. *The Gospel of Matthew*. NICNT. Grand Rapids: Eerdmans, 2007.
-2. [[holmes-apostolic-fathers|Holmes, Michael W. (ed.). *The Apostolic Fathers: Greek Texts and English Translations*, 3rd ed. Baker Academic, 2007]] — Papias Fragment 3.16 and its context.
+1. [[rt-france|France, R. T.]]. *The Gospel of Matthew*. NICNT. Grand Rapids: Eerdmans, 2007. — Scope 1 (1:1–16:20) re-read to current fidelity standard 2026-07-18; Scope 2 (16:21–28:20) pending. See [[france-matthew-nicnt|source page]].
+2. [[holmes-apostolic-fathers|Holmes, Michael W. (ed.). *The Apostolic Fathers*, 3rd ed. Baker Academic, 2007]] — Papias Fragment 3.16 and its context.
+3. [[rt-france|France, R. T.]]. *The Gospel of Mark*. NIGTC. Grand Rapids: Eerdmans, 2002 — for Matthew/Mark comparisons. Full re-ingest 2026-07-18; see [[france-mark-nigtc]].

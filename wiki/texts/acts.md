@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Greek (Koine)
 date_range: composed c. 62–80 CE (scholarly range; Bock prefers late 60s)
-sources_ingested: 2
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [text, christianity, new-testament, luke-acts]
 ---
 
@@ -88,6 +88,22 @@ Acts is studied through several modern frameworks:
 - Joseph Fitzmyer — *Acts* (AB, 1998): moderate-critical; takes Lukan authorship seriously
 
 
+## Acts in France's NIGTC Mark (2002) — Marginal Notes
+
+[[rt-france|R. T. France]]'s Mark commentary (see [[france-mark-nigtc]]) touches Acts at
+several points, recorded here for reciprocity (all claims France's):
+
+- Mark's recurring ἐν τῇ ὁδῷ ("on the way") in Mk 8:22–10:52 carries more than literal
+  geography, given the early Christian self-designation as "the Way" in Acts, making that
+  central section of [[mark|Mark]] "a study of discipleship."
+- While Matthew intensified Mark's [[galilee|Galilee]]/[[jerusalem|Jerusalem]] symbolism,
+  Luke and Acts instead depict Jerusalem as the church's true home.
+- The Longer Ending of Mark (16:9-20) is "a pastiche of elements drawn from the other
+  gospels and Acts" — see [[mark-ending|The Ending of Mark]].
+- All four gospels fix the tomb's discovery on "the first day of the week," the basis for
+  the Christian holy day (Acts 20:7; 1 Cor 16:2), while none says the resurrection itself
+  happened then.
+
 ## Concepts
 
 Concept pages developed from this text:
@@ -97,3 +113,4 @@ Concept pages developed from this text:
 ## Sources Ingested
 
 1. [[darrell-bock|Bock, Darrell L.]]. *Acts*. BECNT. Grand Rapids: Baker Academic, 2007.
+2. [[rt-france|France, R. T.]]. *The Gospel of Mark*. NIGTC. Grand Rapids: Eerdmans, 2002 — marginal notes on Acts only. See [[france-mark-nigtc]].

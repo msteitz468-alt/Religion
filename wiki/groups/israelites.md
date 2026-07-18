@@ -71,6 +71,29 @@ the tradition, the birth of the covenant nation — the whole framework of Genes
 Neighboring peoples are cast as kin: Moab and Ammon from Lot (Gen. 19), Edom from Esau,
 Midian from Keturah — etiologies expressing first-millennium political relations.
 
+## The Exodus Formation Narrative (Bruckner, UBCS Exodus — reingest 2026-07-18)
+
+*Attributed layer: how the book of Exodus itself narrates the people's formation, per
+[[james-bruckner|Bruckner]] ([[bruckner-exodus-ubcs|source page]]) — a canonical-theological
+portrait, distinct from the archaeological ethnogenesis models above.*
+
+Bruckner prefers "children of Israel" over "Israelites": "They began and continued on this
+journey as 'children.' Too much is lost when this word is replaced with a more abstract word."
+He distinguishes the terms: "God is forming the nation Israel from the ethnic group known as
+the Hebrews. This group may be related, but it is not identical to... ḫapiru... after the
+Babylonian exile... they would begin to refer to themselves as Jews." Key formation claims:
+Exod 1:7's five verbs of increase echo Gen 1:28 — fecundity under oppression "introduces the
+central theme of the power of God's creation in Exodus"; the broken slaves of 6:9 could not
+even listen — "Physical deliverance was necessary before they could hear or understand. This
+is the 'gospel' of the exodus"; on the slave mentality, "quick physical liberation does not
+necessarily result in the liberation of one's self-perception." At Sinai the vocation "kingdom
+of priests and a holy nation" (19:5–6) means mediating "the word and life of God to the world"
+(with Fretheim: Israel "not seen over against less honored nations"). Against Brueggemann and
+Durham, who see Sinai as Israel's birth, Bruckner argues they were born in Egypt and at the
+sea; Sinai "is the beginning of their responsible adulthood, not their birth." After the
+golden calf, "the people's creation of the tabernacle demonstrated their true repentance"
+(36:3–7) — the freewill offering had to be stopped for excess.
+
 ## Controversies
 
 - The **historicity of the conquest** (literal Joshua vs. the archaeological record):

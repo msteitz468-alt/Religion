@@ -5,8 +5,8 @@ tradition: cross-tradition (Judaism, Christianity, Islam)
 textual_sources: [Genesis 16; 17; 21; 25; Galatians 4; Qur'an; The Zohar]
 dates: legendary / patriarchal age
 roles: [son of Abraham, progenitor of the Ishmaelites/Arabs, prophet (Islam)]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [figure, genesis, kabbalah, islam, cross-tradition]
 ---
 
@@ -50,6 +50,28 @@ The Zohar (Lekh Lekha) reads Ishmael through the lens of **circumcision and grad
 - **Son of the servant / the outer side**: as the son of Hagar the Egyptian, Ishmael is associated with the more external grades — close enough to Abraham ([[abraham|Ḥesed]]) to be blessed and circumcised, but not the channel of the holy seed, which runs through Sarah's son.
 - The Ishmael/Isaac and Hagar/Sarah polarities feed the Zohar's broader mapping of **holy line vs. outer/other side**, paralleling (without simply equating to) the [[esau|Esau]]/Jacob split.
 
+### Pritzker Vol. II reingest anchors (2026-07-18)
+
+Locus-anchored densification from Pritzker *Zohar* II body (Matt English).
+
+**Abram-phase lower engendering.** In the Zohar body (1:90a–90b), “‘Abram does not engender; Abraham does engender.’… as long as he was Abram, he engendered below; once… Abraham and entered the covenant, he engendered above.” Ishmael is the named instance of that lower birth: “Look, he engendered Ishmael while he was still Abram!” Va-Yera: “Ishmael issued from him, since Abraham was then uncircumcised—being situated below, not yet perfected by the sign of the holy covenant”; once circumcised, Isaac issues as “holy seed… fire from water” (1:109b–110a). Annunciation contrast: “Behold, a son!—not Ishmael; this is a son who honors his father” (1:103a).
+
+**Metsaḥeq / expulsion.** After Isaac’s birth, “as long as Ishmael remained in Abraham’s house he did not attain a name… the son of Hagar the Egyptian” — gold vs. scoria (1:118b). Abraham says “his son”; Sarah says “son of Hagar.” R. Shim’on praises Sarah: “Seeing him *metsaḥeq*, reveling, in idolatry… not the son of Abraham… reverting to the pattern of his mother” (1:118b–119a). No share of faith / inheritance in this world or the coming world; God consents. “Through Isaac seed will be named for you—not through Ishmael” (1:119a). Hagar *va-teta* = strayed into delusion/idolatry; God hears the *boy*, not her voice; “there where he is” = under age twenty of the higher court (1:119a).
+
+**End-time note.** In the Zohar body (1:119a), within R. Shim’on’s messianic chronology: “The Ishmaelites are destined… to incite all nations… to attack Jerusalem.”
+
+**Toledot / Ḥayyei Sarah asides.** Generations contrast: Ishmael’s twelve princes vs. Isaac’s two sons, with Jacob surpassing (1:135a). “Years of Ishmael’s life endured” because “he returned to God” (1:124a–124b).
+
+### Hamilton (NICOT) reception (2026-07-18)
+
+Attributed to [[victor-hamilton|Victor P. Hamilton]] ([[hamilton-genesis-1-17-nicot|Genesis 1–17]], [[hamilton-genesis-18-50-nicot|18–50]]).
+
+- **Birth oracle (16):** name *Yishmaʿel* explained with Yahweh attentive to humiliation (// 1 Sam 1:20 pattern of El-name + tetragrammaton etymology). Destiny: “wild ass of the steppe” (derogatory desert nomad); hand against every man; *weʿal-penê* as defiance. Born “for Abram” not “for them” — Sarai absent from naming unit.
+- **Akedah continuity:** ch. 22 thematically continuous with dismissal of Hagar/Ishmael (21:8–21) — both loss of a son, early-morning departure, question whether God can protect the endangered child.
+- **Wilderness (21):** only if one follows LXX does Abraham place a teenage Ishmael on Hagar’s back. Parallel eye-opening: God opens Hagar’s eyes to the well as Abraham lifts eyes to the ram.
+- **Death/tôlĕdôt (25):** structure of 25:1–11 // 25:12–18; twelve chieftains parallel twelve Aramean (22), Edomite (36), and Israelite tribes. Verb “blessed” used of Isaac (v. 11), not of Ishmael — yet twelve offspring illustrate what constitutes blessing. Longevity 137; outlives Abraham ~48 years. Isaac and Ishmael jointly bury Abraham (possible reconciliation // Esau–Jacob at Isaac’s funeral).
+- **Gal 4:** Hamilton’s full treatment after Gen 21: Hagar/Ishmael = flesh / Sinai / present Jerusalem; not a successive old-vs-new covenant scheme.
+
 ---
 
 ## Theological and Narrative Significance
@@ -74,3 +96,4 @@ Ishmael is the great **"what might have been"** of the covenant narrative — Ab
 - [[circumcision|Circumcision]] — Ishmael's circumcision and the covenant of Yesod
 - [[esau|Esau]] — the parallel "outer line" set aside
 - [[zohar|The Zohar]], [[kabbalah|Kabbalah]], [[genesis|Genesis]]
+- [[victor-hamilton|Victor P. Hamilton]], [[hamilton-genesis-1-17-nicot|Hamilton Genesis 1–17]], [[hamilton-genesis-18-50-nicot|Hamilton Genesis 18–50]]

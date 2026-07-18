@@ -6,7 +6,7 @@ canon_status: sectarian
 canon_scope:
   canonical_for: []
   deuterocanonical_for: []
-  authoritative_for: [essenes]
+  authoritative_for: [essenism]
   disputed_by: []
   rejected_by: [rabbinic-judaism, sadducees, christianity, islam]
 language_original: Hebrew
@@ -52,6 +52,16 @@ The banquet procedure:
 4. This procedure governs "every [session] where at least ten persons [are assembled]"
 
 The "at least ten" clause is significant: the same procedure (priest leads, all bless in order) applies to any communal meal of ten or more. The eschatological banquet is the template for every community meal.
+
+## Hermeneutical Framework
+
+The Messianic Rule's distinctive interpretive move is **the projection of present communal law onto the end of days**. The text opens by declaring itself exactly that: "This is the Rule for all the congregation of Israel in the last days, when they shall join [the Community to wa]lk according to the law of the sons of Zadok the Priests." Existing sectarian structure — Zadokite priestly authority, graded ages of office, the councils — is legislated as the order that *will* obtain eschatologically. Vermes: "it was intended for 'all the congregation in the last days'... it is a Rule for a Community adapted to the requirements of the messianic war against the nations."
+
+**Present practice and future practice collapse into one statute.** The messianic banquet passage prescribes precedence at the eschatological meal — the Priest blesses first, then "the Messiah of Israel shall extend his hand over the bread" — and then closes by binding the same rule to ordinary communal life: "It is according to this statute that they shall proceed at every me[al at which] at least ten men are gathered together." The end-time scene and the daily refectory are governed by a single law. This is the hermeneutical engine behind [[two-messiahs|the Two Messiahs doctrine]] as 1QSa presents it.
+
+**Authority through formation, not exegesis.** Interpretive competence is produced by lifelong instruction under priestly hierarchy: "From [his] youth they shall instruct him in the Book of Meditation and shall teach him, according to his age, the precepts of the Covenant." The "Book of Meditation" is named as authoritative but not further described in this text.
+
+**No proof-texting.** 1QSa contains no citation formulas and no verse-by-verse commentary; it works by legislative projection rather than by exegesis of a lemma.
 
 ## Two Messiahs Doctrine
 

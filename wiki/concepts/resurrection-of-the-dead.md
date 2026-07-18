@@ -2,8 +2,8 @@
 title: Resurrection of the Dead (Tehiyyat ha-Metim)
 domain: theology / eschatology
 traditions_using: [Judaism, Christianity, Islam, Zoroastrianism]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [concept, resurrection, eschatology, judaism, afterlife, sheol, second-temple]
 ---
 
@@ -82,6 +82,53 @@ but did not create a hope long prepared in Israel's own tradition. On the Zoroas
 question specifically see [[zoroastrian-influence-on-abrahamic-eschatology|the influence
 page]].
 
+## Block on Ezekiel 37:1–14 (the Valley of Dry Bones)
+
+Daniel Block's NICOT commentary ([[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]])
+gives the dry-bones vision an extended excursus on its bearing on resurrection doctrine:
+
+- **Primarily national, not individual.** "The primary concern of this vision is obviously
+  the revival of the nation of Israel." Ezekiel's own cautious answer to Yahweh's question
+  (37:3) shows, in Block's judgment, that belief in a general eschatological resurrection
+  "had not yet matured in Israel" (cf. Dan 12:1–2; Job 14:14).
+- **Rejected foreign derivations.** Block rejects Egyptian astral-afterlife and
+  Mesopotamian/Syrian New Year (Baal/Mot) backgrounds; against K. Spronk's beatific-afterlife
+  "folk religion" thesis he insists the vision "has nothing to do with a beatific afterlife
+  'forever with God in heaven'"; and he calls B. Lang's Zoroastrian exposure-ground theory
+  "speculative" — the "slain" of 37:9 "rules out … a cemetery of any kind," and if any Persian
+  connection exists, "Ezekiel has presented a powerful polemic against them."
+- **Native Israelite soil.** Block's positive account: "Native Israelite soil provides a more
+  likely seedbed" for the imagery, on four grounds — (1) Hebrew anthropology (the unified
+  *nepeš ḥayyâ*; resurrection as reunion of divorced breath and matter, Gen 2:7); (2) the
+  Elijah/Elisha revivifications; (3) psalmic Sheol-rescue language; (4) Hos 6:1–3 and Isa
+  26:19 — "an idea that had germinated at least one and one-half centuries earlier has begun
+  to bud." Yet "it remained for his successors to develop a clearer picture of an
+  eschatological individualized revivification."
+- **Convergence note.** Block's native-derivation case converges with Levenson's independent
+  argument above (God's power over death, prophetic miracles, national restoration as the
+  matrix of resurrection hope) — two ingested sources reaching the same anti-Persian-
+  derivation conclusion by overlapping routes; recorded here as convergence, not adjudication
+  of the [[zoroastrian-influence-on-abrahamic-eschatology|influence thesis]].
+
+**Reception history (per Block).** The rabbinic witness is "inconsistent": in b. Sanh. 92b,
+R. Eliezer holds the dead Ezekiel resurrected "stood up, uttered song, and [immediately]
+died"; R. Joshua supplies their song ("The Lord … bringeth down to the grave and bringeth
+up"); R. Judah counters "It was truth; it was a parable"; R. Eliezer b. R. Jose the Galilean
+has them go up to Palestine and beget children, and R. Judah b. Bathyra claims "I am one of
+their descendants, and these are the tefillin which my grandfather left me"; Rab identifies
+them as Ephraimites who miscounted the end of the Egyptian bondage. Block notes that later
+rabbinic commentaries "frequently interpreted this passage as a prophecy of the
+eschatological resurrection in the messianic age" (Pirqe R. Eliezer). NT allusions he
+registers include Rev 11:11 (πνεῦμα ζωῆς ~ Ezek 37:5 LXX), 1 Thess 4:8 ~ 37:14, and possibly
+Matt 27:51–54 and John 20:22; "the early church fathers were less ambiguous," citing the
+vision frequently for the eschatological resurrection. In art, the 3rd-century Dura Europos
+synagogue frieze depicts the vision (Parthian dress; an enigmatic figure Block reports as
+"either Ezekiel again … or a Davidic Messiah"), and a 6th-century Christian relief at Dara
+expressed hope that the fallen of 573 "would rise again."
+
+Block also notes (on Ezek 32) that Ezekiel's own [[sheol|Sheol]] leaves "no hints yet of a
+final eschatological judgment" — the negative backdrop against which 37:1–14 works.
+
 ## Tradition-Specific Development
 
 - **Judaism.** The rabbis made resurrection a **defining dogma**: Mishnah Sanhedrin 10:1
@@ -123,3 +170,28 @@ page]].
 - Texts: [[daniel|Daniel]], [[isaiah|Isaiah]], [[ezekiel|Ezekiel]], [[hosea|Hosea]], [[1-samuel|1 Samuel]]
 - Figures: [[elijah|Elijah]], [[elisha|Elisha]], [[ezekiel-prophet|Ezekiel]], [[daniel-prophet|Daniel]]
 - [[sadducees|Sadducees]] / [[pharisees|Pharisees]]; [[rabbinic-judaism|Rabbinic Judaism]]; [[servant-songs|Suffering Servant]]; [[apocalyptic-literature|Apocalyptic Literature]]; [[zoharic-afterlife|Zoharic Afterlife]]
+
+## Isaiah 25:8 and 26:19 (Oswalt, NICOT)
+
+Oswalt calls Isa 26:19, "along with 25:8… the highest conception of resurrection in the OT.
+It asserts that the dead will be revived with shouts of joy to partake in the festivities of
+God's final triumph. This conviction was to become the anchor point of the Christian faith,
+in the light of Christ's resurrection." He reads 25:8's swallowing of death as real conquest
+of mortality (Kissane's non-immortality reading "flies in the face of the plain meaning of
+the passage") and derives the hope logically rather than developmentally: if life lived for
+God does not end in blessing, either the faith was mistaken or "the outworking of God's
+faithfulness is not completed in this life… the second alternative seemed inescapable."
+Guardrails he sets: 26:14 ("the dead will not live") is not an anti-resurrection proof-text
+— "the point is that mortal flesh has no hope of supplanting immortal God"; and 27:13's
+"dead of the land of Assyria" "surely suggests that the resurrection is intended" while
+broadening into national restoration. Against evolutionary late-dating of the theology he
+cites Dahood's Ugaritic evidence "that resurrection may be more a part of OT thought than
+had previously been believed," insists dating by theology is circular, and denies Canaanite
+derivation of 25:8 ("there is no reference to a feast in connection with Baal's victory over
+Mot (whom he does not swallow)"). He notes Paul's "Death is swallowed up in victory"
+(1 Cor 15:54) depends on the Aramaic of 25:8a, where *nṣḥ* can mean both "victory" and
+"forever." These claims sit alongside Levenson's account above as a convergent but
+confessionally distinct reading.
+
+Source: [[oswalt-isaiah-1-39-nicot|Oswalt, Isaiah 1–39 (NICOT)]] · [[isaiah|Isaiah]] ·
+[[sheol|Sheol]] · [[day-of-the-lord|Day of the LORD]].

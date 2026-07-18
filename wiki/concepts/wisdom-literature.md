@@ -3,7 +3,7 @@ title: Wisdom Literature
 domain: hermeneutics / biblical genre / theology
 traditions_using: [Judaism, Christianity]
 sources_ingested: 4
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [concept, wisdom-literature, genre, proverbs, job, ecclesiastes, old-testament, new-testament, james]
 ---
 
@@ -33,7 +33,7 @@ Wisdom literature is a distinct literary and theological category within the Heb
 
 A key theological tension in the tradition: Wisdom literature makes relatively few references to Moses, the Sinai covenant, or the Levitical law. Proverbs' "fear of YHWH" is not primarily about covenant obedience but about attentiveness to the created order. This created theological discomfort — is wisdom a second, independent source of divine guidance alongside Torah?
 
-The resolution within the tradition: Ben Sira (Sirach 24) explicitly identifies Wisdom with Torah, completing an integration that is implicit but undeveloped in the canonical wisdom books. Hartley notes that Job, despite operating in a non-Israelite setting, has deep affinities with Deuteronomy and the prophetic tradition.
+The resolution within the tradition: Ben Sira (Sirach 24) explicitly identifies Wisdom with Torah, completing an integration that is implicit but undeveloped in the canonical wisdom books. Hartley notes that Job, despite operating in a non-Israelite setting, is saturated in Israelite literature; the parallels he tabulates run to Proverbs, Psalms, Lamentations, Ecclesiastes, Jeremiah, Hosea, Amos, Malachi, Genesis, 1 Kings, and above all Isaiah. His judgment: "the author of Job was very familiar with Israel's literature, particularly the hymns and Wisdom literature; without a doubt he knew Pss. 8 and 107." *(Correction to an earlier draft of this page, which credited Hartley with an affinity claim about Deuteronomy; Deuteronomy is not in his parallel lists.)*
 
 ## ANE Wisdom and Its Relationship to Biblical Wisdom
 
@@ -43,7 +43,25 @@ Wisdom literature is the most internationally connected genre in the OT. Major A
 - **Mesopotamian theodicy texts**: "I Will Praise the Lord of Wisdom" ("Babylonian Job"), "The Babylonian Ecclesiastes"
 - **Sumerian lament texts**: Righteous sufferer who confesses and is healed
 
-The author of Job was demonstrably familiar with this tradition and transformed it: the genre of the suffering righteous is ANE-wide, but Job's escalation to a formal *lawsuit* against YHWH is without ANE parallel. See [[book-of-job|Job]] for the comparison table.
+Hartley's controlling verdict on the whole comparison set is that "the author may have been influenced by the rich literary tradition of the ancient Near East about suffering, but **more in format than in substance**." What he finds distinctive in Job: "The author expanded the dialogue from two to four speakers, a major literary breakthrough"; the hymnic register, which "gives the work a grandeur not visible in the Near Eastern parallels"; the severity of the challenge — "Criticism of the traditional beliefs about reward and punishment is much more severe in the book of Job"; and the litigation posture, which none of the parallel sufferers adopts. He also cites Roberts's claim that the author "successfully joined the cultic and the wisdom traditions." See [[book-of-job|Job]] for the comparison table.
+
+## Job 28: Wisdom Hidden, and the One Wisdom Available
+
+The Hymn to Wisdom is the wisdom tradition's most sustained statement about wisdom *itself* rather than about its contents, and [[john-hartley|Hartley's]] reading of it is the wiki's fullest account of the concept.
+
+**The structure is a question, not a lecture.** Hartley makes the twice-repeated refrain — "Where can wisdom be found?" — the chapter's core rather than the famous mining passage: "This double question, which obsesses human beings even though it is unanswerable, is the nucleus of the chapter."
+
+**The mining imagery (28:1–11) is an argument about human competence.** Hartley reads the section as genuine praise of technical genius: "This hymn praises human technical skill as illustrated in the amazing process of mining… man has amazing creative ability to discover the gems hidden deep in the earth." He fills in the technology — the Egyptian expeditions into Sinai worked by "slaves or conscripted gangs," miners "hanging from ropes" in vertical shafts, fire-setting followed by water-quenching to crack the rock, channels (*yəʾōrîm*, a word otherwise used of the Nile and its Delta tributaries) cut as shafts — and notes that mining pushes past the boundary of the living world: "In pushing back the boundary between light and darkness (v. 3), mankind is penetrating beyond the land of the living into the region of chaos. Nevertheless, not even in that remote place will he ever find wisdom." Habel's formulation, which Hartley endorses, is that "the mining process is a paradigm for probing a mystery in the natural domain which parallels probing wisdom at a deeper level in the cosmic domain."
+
+The inaccessibility argument then has two prongs. Exploration fails: "no one knows where wisdom has its abode. The way to wisdom is untraceable and inaccessible." And purchase fails: "wisdom outweighs all earthly jewels and metals. These highly valued objects prove worthless in the marketplace of wisdom." Hartley presses the point that this is not mere concealment but transcendence — "Since wisdom is transcendent, it does not reside anywhere on earth or in the depths of the sea" — while everyone nonetheless senses it: "Although no one, living or dead, has ever seen wisdom, all know intuitively that it exists."
+
+**Wisdom belongs to God, and is displayed in creation.** "In knowing wisdom's place, God is its master. Wisdom, so to speak, discloses to him the deepest secrets of the universe." Hartley points to four "mysterious forces" — the wind, the waters, the rain, and the thunderstorm — as the world-order evidence of wisdom at work, and reads 28:27 with unusual boldness: "Creation was a great adventure for God, as he tested wisdom's capacity"; God "set up wisdom as his counselor (cf. Prov. 8:22–31)… Wisdom is God's closest companion." Von Rad's phrase, which Hartley quotes, is that wisdom is "the divine mystery of creation."
+
+**28:28 is the only wisdom available to humankind — and it is the same wisdom.** Hartley's answer to the long-standing complaint that the verse is a pious anticlimax is grammatical: "Up to this point 'wisdom' has had the definite article, but in this verse it is without it. Since the same word is used, the wisdom available to mankind is qualitatively the same as that which God knows. The fact that this word is without the article indicates that it is the practical side of wisdom human beings may acquire." Hence: "Although human beings cannot discover the way to wisdom, they can find wisdom by fearing God… a human being increases in wisdom primarily by obedience to God, not by investigation into the unknown." He insists this is not anti-intellectualism: "This wisdom is a spiritual wisdom that transcends human knowledge, but that does not mean that it is irrational. The converse is true. It is intelligible, for it is the portal into the vast resources of God's wisdom."
+
+**The hymn is a verdict on the friends' wisdom.** On Hartley's reading the chapter functions polemically within the book: it "judges the efforts of the comforters to teach Job wisdom as a failure. While they have faithfully adhered to the tradition of the fathers, they have misinterpreted Job's specific case and failed to offer him any insight into God's amazing ways." Elsewhere he puts it as a direct judgment — the hymn "judges the counsel of the comforters as lacking in wisdom" — and notes that the verdict is subsequently ratified by God himself: "In the epilogue God will confirm this judgment by saying that the three friends have not spoken about him rightly (42:7–9)." Positively, the hymn "authenticates Job's turning away from his comforters to petition God directly," and links the book's opening and close: "the hymn links the opening characterization of Job as 'one who feared God and shunned evil' (1:1, 8; 2:3) with his submissive response to Yahweh's word in the end (42:1–6)."
+
+Hartley also treats 28:28 and 37:24 as an inclusio around the Elihu block, and ties the ethics of ch. 31 to the same principle: "the Wisdom literature… taught that the fear of God or reverence is the basis of wisdom. A profound awareness of God's majestic holiness guides a person to pursue righteousness and to shun evil."
 
 ## Hermeneutical Method in Wisdom Literature
 
@@ -81,7 +99,7 @@ Wholeness]] for James's distinctive "two ways" framing of wisdom and folly.
 
 ## Sources Ingested
 
-1. [[john-hartley|Hartley, John E.]]. *The Book of Job*. NICOT. Grand Rapids: Eerdmans, 1988.
+1. [[hartley-job-nicot|Hartley, John E. *The Book of Job*]]. NICOT. Grand Rapids: Eerdmans, 1988. (Re-ingested 2026-07-18.)
 2. [[bruce-waltke|Waltke, Bruce K.]]. *The Book of Proverbs: Chapters 1–15*. NICOT. Grand Rapids: Eerdmans, 2004.
 3. [[tremper-longman|Longman, Tremper, III]]. *The Book of Ecclesiastes*. NICOT. Grand Rapids: Eerdmans, 1998.
 4. [[douglas-moo|Moo, Douglas J.]]. *The Letter of James*. PNTC. Grand Rapids: Eerdmans, 2000. (For the NT-wisdom / paraenesis genre debate only.)

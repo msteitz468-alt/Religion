@@ -4,7 +4,7 @@ text_locus: Genesis 6–9 (esp. 7:19–23); ANE flood traditions (Gilgamesh XI, 
 positions: [universal/global deluge, local/regional flood, mythological-literary (non-historical), figurative-anthropological universality]
 traditions_involved: [Christianity, Judaism, Islam, modern critical scholarship]
 resolution_status: open
-last_updated: 2026-06-29
+last_updated: 2026-07-18
 tags: [controversy, flood, genesis, ancient-near-east]
 ---
 
@@ -67,15 +67,33 @@ a theologized retelling of a shared Near Eastern flood myth (very plausibly root
 local Mesopotamian river floods), reworked to carry a *moral* rather than a *noise-irritation*
 rationale for the catastrophe.
 
-### 4. The same parallels, read conservatively
-The ANE parallels do not by themselves settle scope. [[victor-hamilton|Victor Hamilton]] and the
-rhetorical-critical argument of Kikawada and Quinn deploy the **Atrahasis** structural parallel in
-the *opposite* direction — as evidence that Genesis 1–11 is a **unified literary whole** modeled on
-a known genre, and thus an argument against the fragmentary source-critical reading (see
-[[documentary-hypothesis|the Documentary Hypothesis]] and
-[[genesis-ancient-near-east|Genesis and the Ancient Near East]]). Here the shared tradition
-testifies to a *common memory* of a great flood rather than to literary fiction, leaving the
-scope question to be decided on other (exegetical and scientific) grounds.
+### 4. Hamilton’s position (moral cause; universal-leaning language; ANE contrast)
+
+[[victor-hamilton|Hamilton]] in [[hamilton-genesis-1-17-nicot|Genesis 1–17]] densifies three load-bearing moves that cut across the universal/local and critical/conservative axes without collapsing them into a single slogan.
+
+#### (a) Moral motivation vs Gilgamesh / Atrahasis
+
+Genesis opens with clear moral motivation (6:5: every scheme of imagination evil perpetually). Hamilton contrasts this with Mesopotamian accounts:
+
+> “It is important to observe that right at the beginning there is a clear-cut moral motivation behind sending the Flood. The Gilgamesh Epic … lacks such a parallel here. … According to a related flood story, the Atrahasis Epic, … Enlil starts to suffer from insomnia. … Finally a flood is sent… To call this noise moral turbulence … reads into the text far too much. The problem is simply that there are too many people, with the result that there is too much noise. … in a system of thought where the gods are not necessarily morally superior to human beings … there is no recording of the fact that man is to be drowned because he is a rebel and a sinner.” (Hamilton; on Gen 6:5)
+
+Post-Flood, Gen 9:1 “be fruitful… fill the earth” makes Noah a second Adam; Hamilton cites the judgment that Gen 9:1ff “looks like a conscious rejection of the Atrahasis Epic,” which ends in population *control* (barren women, infant mortality, celibate priestesses) — the opposite of Genesis.
+
+#### (b) *ʾereṣ / kol-hāʾāreṣ*: universal appearance, local possibility noted
+
+Hamilton treats the Flood’s geographic claim as **universal-leaning** while explicitly registering local-land uses of the same vocabulary:
+
+> “Geographically, the problem is an infested earth. Note that in 6:5-13, the earth (hāʾāreṣ) is mentioned eight times. Thus the description has all the appearances of a universal condition rather than a local one. … the reference in 7:3 to the animals of kol-hāʾāreṣ argues for an understanding of ʿereṣ elsewhere in the Flood narrative as ‘earth’ … Yet, verses such as Gen. 13:9, 15 show that even in Genesis kol-hāʾāreṣ refers to the whole land.” (Hamilton; on Gen 6:5–13)
+
+He does **not** resolve the crux by fiat into modern “local flood” apologetics; he notes that *ʾereṣ* can mean local land (often with further identifying phrase) and that *kol-hāʾāreṣ* outside Deuteronomy and Joshua–Samuel is usually “earth,” while Gen 13 supplies in-book counterexamples. Universal death-language and the unilateral Noachian covenant (“never again all flesh cut off by floodwaters”; Flood as unique) keep pressing the narrative toward cosmic scope.
+
+#### (c) Un-creation / re-creation architecture (scope-relevant theology)
+
+Two water sources (abyss springs + sky floodgates) recall 1:6–7: the Flood “un-creates” and returns the earth to pre-creation waters — themes **reversed** from Enuma elish (there order by bisecting Tiamat; here chaos released by splitting *tehôm*). Divine *rûaḥ*/wind and passive verbs for sealing waters mark both start and end as divinely controlled; the sun plays no drying role (unlike Sumerian Utu/Ziusudra). Temporal architecture: numbered periods 7–40–150–40–7; Flood lasts one solar year (twelve lunar months + eleven days). Forty days of rain are more “reasonable” for the proportion claimed than Gilgamesh/Atrahasis’s seven days/nights; Noah has no navigational crew — survival is “grace and protecting presence of Yahweh.”
+
+#### (d) Same ANE parallels, unity not fiction
+
+With Kikawada and Quinn, Hamilton deploys the Atrahasis structural parallel as evidence that Genesis 1–11 is a **unified literary whole**, not a J+P patchwork (see [[documentary-hypothesis|Documentary Hypothesis]] and [[genesis-ancient-near-east|Genesis and the ANE]]). Further contrasts he presses: logical ark dimensions vs Utnapishtim’s cube; raven-then-dove sequence more realistic than Gilgamesh dove→swallow→raven; post-flood sacrifice without gods swarming “like flies”; rainbow as warrior-bow reinterpreted for peace (anthropomorphism even in a unit critics assign to P). Scope remains open to exegetical/scientific argument; the comparative data do not, for Hamilton, reduce the narrative to non-historical myth.
 
 ## Tradition-Specific Positions
 
@@ -86,10 +104,13 @@ scope question to be decided on other (exegetical and scientific) grounds.
   full range from traditional to fully critical.
 - **Christianity**: the universal reading was the patristic and medieval default and remains the
   young-earth creationist position; mainstream and academic Christianity today divides among local-
-  flood harmonization and the critical mythological reading. The New Testament's typological use of
-  the Flood (baptism in [[1-peter|1 Peter 3:19–21]]; judgment-and-rescue in 2 Peter) is indifferent
-  to the geological question and turns on the Flood's role as *universal judgment with a preserved
-  remnant*.
+  flood harmonization and the critical mythological reading. Hamilton’s NICOT stance (moral cause;
+  universal-leaning *ʾereṣ* with Gen 13 noted; ANE contrast without demythologizing the event into
+  pure fiction) is a major modern evangelical commentary voice on this spectrum. The New
+  Testament's typological use of the Flood (baptism in [[1-peter|1 Peter 3:19–21]]; judgment-and-
+  rescue in 2 Peter; Hamilton’s notes on *di’ hýdatos* as local “through water”) is largely
+  indifferent to the geological question and turns on the Flood’s role as *universal judgment with
+  a preserved remnant*.
 - **Islam**: the Qur'anic Nūḥ narrative presents the Flood as divine judgment on Noah's people for
   rejecting his preaching; classical tafsir generally reads it as universal, though some modern
   Muslim commentators favor a flood limited to Noah's own people/region — a debate paralleling the
@@ -97,7 +118,8 @@ scope question to be decided on other (exegetical and scientific) grounds.
 - **Modern critical scholarship**: treats the narrative as composite (the J and P flood accounts are
   a standard exhibit in source criticism — see [[documentary-hypothesis|the Documentary
   Hypothesis]]) and as dependent on Mesopotamian tradition; the historical kernel, if any, is a
-  local Mesopotamian inundation.
+  local Mesopotamian inundation. Hamilton re-reads many of the alleged doublets as preview/
+  resumption, specification, and chiastic design rather than independent sources.
 
 ## Why It Stays Open
 
@@ -108,14 +130,18 @@ genetics of population bottlenecks) is decisive on *its* terms; and the *literar
 relocates the whole question by making Genesis a participant in a shared ANE tradition. Each
 tradition resolves the tension by privileging one court — confessional literalism privileges the
 text, harmonizers privilege a phenomenological reading that lets text and science coexist, and
-critical scholarship privileges the comparative literary frame. The wiki records the positions
+critical scholarship privileges the comparative literary frame. Hamilton’s own notes (universal
+*appearance* of *hāʾāreṣ* eight times in 6:5–13 *and* Gen 13 local *kol-hāʾāreṣ*) keep both the
+universal-leaning and local-possibility readings on the table. The wiki records the positions
 without adjudicating among them.
 
 ## Related Pages
 
+- [[hamilton-genesis-1-17-nicot|Hamilton, Genesis 1–17 (NICOT)]] — moral cause; *ʾereṣ* notes; ANE Flood contrasts
 - [[genesis|Genesis]] — primeval history; the flagged "universal or local?" crux
 - [[noah|Noah]] — the figure; the "global deluge" framing and its kabbalistic reading
 - [[epic-of-gilgamesh|The Epic of Gilgamesh]] — Tablet XI flood, Utnapishtim
 - [[genesis-ancient-near-east|Genesis and the Ancient Near East]] — the Atrahasis and Gilgamesh parallels
 - [[documentary-hypothesis|The Documentary Hypothesis]] — the two flood accounts in source criticism
+- [[sons-of-god|Sons of God (Gen 6:1–4)]] — prefatory group-sin unit
 - [[1-peter|1 Peter]] — the Flood as type of baptism

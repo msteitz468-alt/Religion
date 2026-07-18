@@ -181,7 +181,7 @@ DECLINED = user decided not to pursue
 
 ### Observation 13: Subagent extraction blocked by content filter — a recovery case beyond rate limits
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to Religion-wiki CLAUDE.md, Step 3 recovery clause (content-filter block named as a failure mode; recovery keyed off "chunk didn't come back correctly"; pre-cut caches made mandatory). Review 2026-07-18.
 **Date:** 2026-06-28
 **Session context:** Ingesting two sources on Mithraism/Freemasonry. Deployed 3 background Sonnet extraction agents over disjoint line-ranges of *Mithraism in Ostia*. The agent assigned the "Christ and Mithra" chapter (a Christianity-vs-Mithras religious comparison) returned `API Error: Output blocked by content filtering policy` and wrote no notes file; the other two succeeded normally.
 **Skill:** Religion-wiki CLAUDE.md "Deployed Subagent Strategy" (Step 3 recovery clause)
@@ -196,7 +196,7 @@ DECLINED = user decided not to pursue
 
 ### Observation 14: Re-ingested an already-ingested source because Step-1 scaffolding didn't check for an existing source page
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to Religion-wiki CLAUDE.md as new Step 0 pre-flight (grep author+title before scaffolding; resume an existing ledger rather than duplicating). Review 2026-07-18.
 **Date:** 2026-06-28
 **Session context:** Asked to ingest Pelikan, *The Christian Tradition* Vol. 1. I scaffolded by checking related patristics pages (commentators, concepts) to "file lean," then created a source page (`pelikan-christian-tradition-vol1`), deployed extraction agents over Chapter 1, and began filing — before discovering that an **earlier session had already ingested Chapters 1–2 in full** under a different slug (`pelikan-emergence-catholic-tradition`, 12 inbound links, with concept pages already built). I had created a duplicate source page and re-extracted Chapter 1 wastefully.
 
@@ -212,6 +212,8 @@ DECLINED = user decided not to pursue
 
 ### Observation 15: Verify the body/back-matter boundary before assigning the final scope's line-ranges
 
+**Status:** OPEN
+
 **Date:** 2026-06-28
 **Session context:** Ingesting Pelikan, *The Christian Tradition* Vol. I (PDF→text), 7-scope plan by chapter.
 **Skill:** Religion wiki ingest workflow (Deployed Subagent Strategy)
@@ -226,6 +228,8 @@ DECLINED = user decided not to pursue
 
 ### Observation 16: Obsidian table auto-format breaks aliased wikilinks in timeline matrices
 
+**Status:** OPEN
+
 **Date:** 2026-06-29
 **Session context:** User reported "links not completed" in wiki/timelines; found christianity/comparative/islam timeline tables corrupted.
 **Skill:** Wiki maintenance / lint workflow (CLAUDE.md timeline conventions)
@@ -239,6 +243,8 @@ DECLINED = user decided not to pursue
 **Principle:** A burst of red links localized to recently-modified files with split-token targets is a signature of mechanical reformatting, not authoring errors — check version control before manual repair.
 
 ### Observation 17: Subagent silent-hang is a third failure mode the recovery clause should name
+
+**Status:** ACTIONED — Applied to Religion-wiki CLAUDE.md, Step 3 recovery clause (silent-hang named as a failure mode, with transcript-mtime liveness detection). Review 2026-07-18.
 
 **Date:** 2026-06-29
 **Session context:** Ingesting *The Divine Comedy*. Deployed 3 background Sonnet agents over disjoint Inferno line-ranges (cantos 1–11, 12–23, 24–34), each with a pre-cut cache file. Agents A and C completed and wrote their notes files. Agent B (cantos 12–23) read its full range, emitted the assistant message "Now I have enough material. Let me write the structured notes file." — and then never wrote the file. Its transcript mtime stopped advancing for ~18 minutes with no error, no 429, no content-filter block. The main thread detected the stall by comparing transcript mtime to wall-clock, stopped the agent, and recovered the range itself from the pre-cut cache slice (the Kirkpatrick notes file gave per-canto sin/contrapasso/figures).
@@ -255,6 +261,8 @@ DECLINED = user decided not to pursue
 
 ### Observation 18: Boundary gap when OT 8 content straddles two cache ranges
 
+**Status:** OPEN
+
 **Date:** 2026-06-30
 **Session context:** Ingesting Scientology OT Levels PDF (22K lines, 7 agents). Range E ended at the title of OT 8 with no body; Range F began with the Free Zone debrief. Agent E correctly flagged the gap; main thread recovered by reading lines 15590–15720 directly.
 **Skill:** Religion-wiki CLAUDE.md "Deployed Subagent Strategy" (Step 3)
@@ -266,3 +274,86 @@ DECLINED = user decided not to pursue
 **Suggested improvement:** Before finalizing cache splits, grep for "theologically critical" section headers (in this corpus: HCOB titles marked SECRET) and verify that no critical section straddles a split boundary. If one does, adjust the boundary ±50 lines to include the complete section in one agent. Add to Step 2 of the Deployed Subagent Strategy: "For text with clearly demarcated high-importance sections, verify that no section header falls within 20 lines of a split point."
 
 **Principle:** Cache splits at round line numbers are convenient but theologically naive — align splits to section boundaries for high-stakes content, especially when sections are short enough that their entire body could easily straddle a boundary.
+
+### Observation 19: A user-requested re-ingest still requires the existing-source pre-flight check
+
+**Status:** ACTIONED — Applied to Religion-wiki CLAUDE.md Step 0: pre-flight is explicitly NOT waived by a user-requested re-ingest; completed ledger routes to a standards-compliance audit, with findings split into wiring defects vs. content gaps. Review 2026-07-18.
+**Date:** 2026-07-18
+**Session context:** User asked to "re-ingest" Vermes, *The Complete Dead Sea Scrolls in English*, on the stated premise that previously-ingested sources may not meet the updated CLAUDE.md. The Obs-14 pre-flight grep found an existing source page with a complete coverage ledger (lines 1–22830 of a 22,831-line file, "no portion deliberately omitted") and ~25 downstream pages. A full re-extraction would have been almost entirely wasted.
+**Skill:** Religion-wiki CLAUDE.md — Ingest Workflow, Step 1 (Scaffold first) / Obs 14 follow-on
+**Type:** internal
+**Phase/Area:** Ingest scaffolding — pre-flight existence check under explicit re-ingest instruction
+
+**Issue:** Obs 14 framed the existence check as protection against *accidental* duplicate ingests. This session surfaced the harder case: the user **explicitly instructed** a re-ingest. An explicit instruction reads as authorization to skip the check — but the user's premise (that the old ingest was substandard) was itself the thing needing verification. The check found the extraction was sound and complete; the actual defects were **wiring**, not extraction: a phantom `essenism` canon_scope slug used on 15 text pages with no backing page, a group/sect bare-slug collision on `essenes`, 8 text pages missing Hermeneutical Tracking, and two missing back-links. None of these would have been fixed by re-reading the source — and a re-ingest would likely have reproduced them.
+
+**Suggested improvement:** Extend the Step 1 pre-flight so it fires on **re-ingest requests too, not only new ones**, and add a decision rule: when the source page already shows a completed coverage ledger for the requested scope, do NOT re-extract by default. Instead run a **standards-compliance audit** of the existing cluster against current CLAUDE.md (frontmatter completeness, required body sections, hermeneutical tracking, canon_scope slug integrity, bilateral cross-links, red links) and report the gap list. Re-extraction is warranted only where the ledger shows an unfinished scope or the audit finds *content* gaps, not wiring gaps. Distinguish these two failure classes explicitly in the report.
+
+**Principle:** When a user requests rework on the premise that prior output is substandard, verify the premise before acting on it — the premise is a hypothesis, not an instruction. Aging output usually fails newer standards at the *wiring* layer (links, slugs, schema fields) rather than the *extraction* layer, and wiring defects are repaired far more cheaply than they are regenerated. An explicit instruction to redo work raises the value of the pre-flight check rather than waiving it.
+
+### Observation 20: The faithfulness mandate doubles as range-validation — agents catch the main thread's bad cuts
+
+**Status:** ACTIONED — Applied to Religion-wiki CLAUDE.md: Step 2 body-vs-TOC grep rule with in-text marker confirmation, and Step 3 fourth failure mode (agent reports range lacks assigned material) plus the do-not-soften-faithfulness note. Review 2026-07-18.
+**Date:** 2026-07-18
+**Session context:** Repairing the Vermes DSS cluster. I cut six ranges from the source for hermeneutical re-extraction, locating the Angelic Liturgy by grepping for its section heading in the table of contents rather than in the body — landing on lines 11400–12357, which contain Berakhot, Blessings (1QSb) and calendrical texts, but not the Songs of the Sabbath Sacrifice at all. The assigned agent opened its report with an explicit scope caveat: "range_D_angelic.txt does NOT contain the substantive text of the Songs of the Sabbath Sacrifice... I am reporting exactly what is present and flagging the rest as absent, per the faithfulness rule." It further identified that the chariot imagery in its range belonged to 4Q286, a different composition, and warned the material "should not be merged into the Angelic Liturgy's own hermeneutical-framework section." The range was re-cut to 10008–10600 and re-run.
+**Skill:** Religion-wiki CLAUDE.md — Deployed Subagent Strategy (Steps 2–3) / faithfulness mandate
+**Type:** internal
+**Phase/Area:** Range assignment and subagent instruction design
+
+**Issue:** This is a failure mode not covered by the Step 3 recovery clause, which anticipates a chunk *not coming back* (rate limit, content-filter block, silent hang — Obs 13, 17). Here the chunk came back complete and on time; the **main thread's range assignment was wrong**. Nothing in the workflow validates that a named range actually contains the text it is labelled with. What caught it was the faithfulness instruction — the explicit requirement to say "not present in this range" rather than fill gaps from background knowledge. Without that instruction a capable agent would very plausibly have written a fluent, entirely ungrounded Angelic Liturgy section from general knowledge of Ezekiel and merkabah mysticism, and it would have read as correct. The same instruction also caught a subtler error: attributing 4Q286's chariot language to 4Q400–407.
+
+**Suggested improvement:** Two changes. (1) In Step 2, when locating a section by grep, require matching against a **body** occurrence, not the first hit — the first hit is usually the table of contents. Confirm by checking that the candidate range contains expected in-text markers (a fragment siglum, an incipit), not just the title. This is the same class of error as Obs 1, generalized from chapter-boundaries to any grep-located range. (2) Add to the Step 3 recovery clause a fourth case: **the agent reports its range does not contain the assigned material.** Correct response is to re-cut and re-run that range, never to accept a substitute from an adjacent composition. Note in the skill that the faithfulness mandate is what surfaces this, so it should never be softened for convenience.
+
+**Principle:** A well-designed faithfulness constraint is not only an accuracy control on the delegate — it is an **error-detection channel back to the delegator**. Requiring a subagent to say "this is not here" rather than fill the gap converts silent, plausible fabrication into a loud, cheap signal that the orchestrator's own assumptions were wrong. Instructions that permit gap-filling destroy this channel precisely when it is most needed, because the resulting output is fluent and therefore unfalsifiable at review time.
+
+### Observation 21: Progress-visibility rule failed to reach the moment of decision during long subagent runs
+
+**Date:** 2026-07-18
+**Session context:** Scope 1 fidelity re-ingest of France, *The Gospel of Matthew* (NICNT) — 8 extraction subagents, 6 integration subagents, runs of 5–11 minutes each.
+**Skill:** CLAUDE.md ingest workflow (Progress Checklist section)
+**Type:** internal
+**Phase/Area:** Progress Checklist, rule 4 ("No multi-minute silence")
+
+**Issue:** CLAUDE.md states explicitly: "If extractors or integration will run more than ~1–2 minutes, interleave short user-visible status with tool work," and "Silent progress is a defect." The rule was read at session start and still failed three times. The user asked "How is progress coming?", then "Are you frozen?", then "I think you froze up there" — across two separate stretches. Worse, the second failure was caused by *answering* the first: the agent replied to the user's mid-turn message and then did not relaunch the interrupted subagent, so genuinely nothing was running while the user waited. The root cause is structural: subagent calls are blocking and return only on completion, so there is no natural point *during* a 10-minute run at which the agent is prompted to emit status. The rule lives in narrative prose and has no enforcement hook at the moment it applies.
+
+**Suggested improvement:** Convert the rule from narrative guidance into a structural precondition in the Deployed Subagent Strategy, Step 3: **before** any batch of Agent calls, post a user-visible message naming the exact number of agents, their ranges, and an explicit "this will take several minutes with no output until they return." Add to the Step 3 bullet list a required pre-spawn line item, and add to the Recovery paragraph an explicit note that answering a mid-turn user message does not discharge the obligation to relaunch an interrupted agent — verify the spawn actually landed before responding.
+
+**Principle:** When a rule governs behaviour during a blocking operation, prose guidance cannot enforce it — there is no execution point inside the block at which the agent re-reads the rule. Such rules must be relocated to the *boundary* of the operation (a precondition before entering, or a postcondition on exit) where the agent is actually making a decision. This generalises to any "don't go quiet during X" or "keep the user informed while Y" instruction.
+
+### Observation 22: Intake integrity check should test for dropped apparatus, not only truncation
+
+**Date:** 2026-07-18
+**Session context:** France NICNT Matthew re-ingest. Extractor A discovered that the plain-text conversion had dropped every footnote *body* while keeping superscript markers fused into running text ("the law17"). Two structural tables were also blank.
+**Skill:** CLAUDE.md ingest workflow (Step 0b — Intake integrity)
+**Type:** internal
+**Phase/Area:** Step 0b word-count / conversion check
+
+**Issue:** Step 0b's integrity check is built around detecting *truncation* — comparing `wc -w` against expected length, grepping TOC headings in the body, sampling folio headers for gaps. This source passed every one of those tests: 613,422 words, all six body sections present at plausible length. The defect was of a different kind — the conversion was complete at the section level but had silently discarded an entire *evidence class*. For a critical commentary this is severe: France conducts much of his engagement with secondary literature in footnotes, so the loss systematically strips reported-scholar attributions while leaving his main-text exposition intact. An integrator working only from main text would have no signal that attributions were missing, and would be tempted to supply names from background knowledge. The defect was caught only because the first extractor happened to notice and report it, then it was manually propagated into the remaining seven prompts.
+
+**Suggested improvement:** Add to Step 0b a third check alongside word-count and TOC-grep: **apparatus-presence sampling.** Grep for the shape of footnote bodies (numbered lines at column start, or a notes block per chapter), for blank runs immediately following table lead-ins ("as follows:", "may be set out as follows:"), and for superscript digits fused to word boundaries (`[a-z][0-9]{2,4}\b`) which indicate markers surviving without bodies. Record the result in `reliability_notes` before extraction, and — critically — include the finding in *every* extractor prompt from the start rather than discovering it in range 1 and back-propagating.
+
+**Principle:** Completeness checks that measure *volume* miss defects that remove a *category*. A conversion can preserve 100% of sections and still discard 100% of one evidence class. Where a source has structurally distinct registers (body / apparatus / introduction), integrity checking must verify each register independently — and the check belongs before agent dispatch, since a defect found in range 1 of 8 has already mis-specified the other seven prompts.
+
+### Observation 23: Re-ingest audit should distinguish claims that CONTRADICT the source from claims merely unsupported by it
+
+**Date:** 2026-07-18
+**Session context:** France NICNT Matthew re-ingest. Auditing the 2026-06-05 pass against 2,091 freshly extracted claims turned up three distinct defect types on `texts/matthew`.
+**Skill:** CLAUDE.md ingest workflow (Step 0 — Pre-flight, re-ingest decision table)
+**Type:** internal
+**Phase/Area:** Step 0 finding/action table, "fidelity / content defects" row
+
+**Issue:** The Step 0 table lumps all fidelity problems into one row — "ungrounded claims, TOC-reconstruction, wrong loci, single-source theosophy in bare wiki voice…" — all triggering the same action (re-extract the affected scope). In practice the defects found were of three materially different severities: (a) **unsupported detail** — France's pre-70 dating presented with three temple-passage arguments he does not make; (b) **fabricated citation** — a Papias position attributed to "NICNT, 2007, pp. 14–22," where Papias is not named in France's Introduction at all; and (c) **direct contradiction** — the page stated the antitheses "are not contradictions of Torah but intensifications," where France's actual position is "bypass, not abolish" with a taxonomy in which only two of six intensify. Type (c) is the most damaging, because it is confidently phrased, plausible-sounding, reflects the *conventional* reading of the passage, and would be quoted by a downstream reader as France's view. It is also the hardest to detect without a full re-read, since nothing about the sentence looks wrong. Types (a) and (b) at least leave a trace (a suspiciously specific citation; argument detail without a locus).
+
+**Suggested improvement:** Split the fidelity row of the Step 0 table into three graded findings with distinct reporting obligations. Require that any **contradiction** found during a re-ingest audit be (i) recorded explicitly on the source page under a "Defects corrected" heading naming the old claim and the new, (ii) logged in `log.md` as a named correction, and (iii) checked for propagation — a contradicted claim on a hub page has usually been copied to the pages that link it. Add a note that background-knowledge contamination most often surfaces as the *conventional* scholarly reading standing in for the commentator's actual, more distinctive position.
+
+**Principle:** The most dangerous ingest defect is not the unsupported claim but the plausible one that inverts the source. Textbook-consensus contamination is self-camouflaging precisely because it reads as correct; a commentator worth ingesting is usually worth ingesting *because* he departs from consensus, so the places where an old ingest sounds most conventional are the places most likely to have overwritten his actual view. Audits should target agreement-with-consensus as a risk signal, not treat it as reassurance.
+
+### Observation 24: Line-count slicing under-weights dense commentary body, orphaning pericopes in slice tails
+
+**Status:** OPEN
+
+**Date:** 2026-07-18
+**Session context:** Re-ingesting Bock, *Acts* (BECNT). The commentary body (350K words) averaged ~50 words/line (long unwrapped paragraphs). I cut 8 disjoint slices by line number aligned to running-header positions. Every agent faithfully extracted only its briefed verse-range and flagged the rest; the net result was that FIVE pericopes fell in the unextracted TAIL of one slice while the next slice began after them (Acts 3:1–4:31, the Stephen cycle 6:8–8:1a, the first journey 13:1–14:28, the second journey 15:36–18:23, and a thin 1:1–11). Cause: (a) I estimated slice content from running-header/outline line positions, but the book had a global outline block PLUS a per-unit outline recap, so a header's line number is NOT where its exposition sits; (b) exposition density meant each slice held more verses than its line-span implied, so agents "extracted their briefed verses and stopped," dropping the tail. Recovery was clean (density-grep to locate real exposition, re-cut 4 recovery slices, re-extract) precisely because the faithfulness mandate made each agent report "not present in this range."
+
+**Suggested improvement:** Add to CLAUDE.md Step 2 (Deployed Subagent Strategy): for prose-dense commentary where lines are long/unwrapped, size and place cuts by a **word-count cumulative** map, not line count, and locate each boundary at a verified **exposition opening in the body** (the prose paragraph after the section header + translation), never at a header/outline-stub line — because works with a detailed-outline front block and per-unit recaps repeat every header 2–3×. Concretely: before spawning, grep the body for section headers, then confirm each intended boundary sits at real exposition by checking local line-length/rich-line density (a stub cluster is short lines; exposition is ~250+ char lines). Also brief each extractor with its exact VERSE range (not just line range) and instruct: "your slice may contain material past your briefed verses — extract to the end of the slice's real exposition and flag overflow, rather than stopping at your briefed endpoint." That converts silent tail-drops into logged overflow the integrator can dedupe.
+
+**Principle:** When work is partitioned for parallel extraction, the failure mode is not bad extraction but bad boundaries. A boundary defined by a structural marker (a header line) can be far from the content that marker names when the source repeats its outline; and a boundary sized by line count mis-estimates coverage when line density is non-uniform. Partition by the quantity you actually care about (words/content), verify boundaries against real content, and make "extract past your nominal endpoint" the default so slice seams over-cover rather than under-cover.

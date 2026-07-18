@@ -2,8 +2,8 @@
 title: Divine-Human Marriage Metaphor
 domain: theology / biblical metaphor / eschatology
 traditions_using: [Judaism, Christianity]
-sources_ingested: 1
-last_updated: 2026-06-05
+sources_ingested: 5
+last_updated: 2026-07-18
 tags: [concept, marriage, divine-human, covenant, metaphor, sexuality, hosea, ezekiel, revelation, song-of-songs]
 ---
 
@@ -50,11 +50,15 @@ Ezekiel develops the metaphor to its most graphic extent in two long chapters:
 
 **Ezekiel 16**: The most extensive and graphically sexual expression of the metaphor in the entire OT. Jerusalem as an abandoned infant, rescued and raised by YHWH, married when mature, elevated to queen — then becoming a harlot who surpassed even Sodom and Samaria in infidelity. Block defends the passage against modern critics who call it misogynistic: the "woman" is metonymically Jerusalem/Israel; the sexual imagery conveys theological betrayal at its most visceral. Crucially, the chapter ends with an unconditional promise: "I will establish an everlasting covenant with you" (16:60) — YHWH's word cannot be permanently broken by Israel's infidelity. The divine *qinʾâ* (passion/jealousy) drives the judgment and is itself a measure of the depth of YHWH's prior love.
 
+Detail from the Vol. 1 re-ingest (Block, NICOT 1997): the chapter is a *rîb* — for Block a strictly two-party covenant dispute, "particularly appropriate where the marriage metaphor is employed" — likely inspired by Hos 2. The opening acts are legal, not merely romantic: "In your blood, live!" is "a formal declaration of adoption" (ANE emergency-adoption parallels), spreading the garment is the marriage gesture (Ruth 3:9), and the covenant formula has "its source in ancient Near Eastern marriage declarations." The bride's tabernacle-vocabulary wardrobe makes "Queen Jerusalem… a surrogate for the temple." Block chose the word: Ezekiel prefers *znh* (prostitution) over the "more fitting" *nʾp* (adultery) as "a more forceful rhetorical tool." He treats the graphic style as deliberate — "the semipornographic style is a deliberate rhetorical device" — and devotes a formal excursus to feminist objections (Halperin's pathology reading, the abusive-husband charge), responding in seven points while endorsing Darr's four theological convictions behind the troublesome texts; his closing warning: rejecting the portrayal means "we sit in judgment over God — a dangerous inversion indeed." The *qinʾâ* is for him covenant passion: "the zeal of his anger is a reflex of the intensity of his love."
+
 **Ezekiel 23**: Two sisters Oholah (Samaria) and Oholibah (Jerusalem) as two faithless wives, both prostituting themselves to Assyria and Babylon. The most graphic use of the metaphor for political alliances as spiritual adultery. The chapter explains the successive Assyrian and Babylonian destructions through the lens of the violated covenant marriage.
+
+Block (NICOT 1997) reads ch. 23 as an intentional exposition of Jer 3:6–11 and distinguishes it from ch. 16 on five counts: the defilement is **political** (foreign alliances), not cultic; the past reaches back to Egypt, not Canaan; Samaria gets a full biography; Jerusalem is the lusting subject rather than the gazed-at object; and there is no restoration ending. The sisters' matched names (both built on *ʾōhel*, "tent") are for him "artificial archaizing constructs" whose chief point is siblinghood — "the nation is one, and her sin is one." The shift from *znh* to *nʾp* in vv. 36–49 deliberately raises the charge from illicit sex to covenant violation.
 
 ### Jeremiah (Fullest Legal Development)
 
-Jeremiah develops the legal dimensions of the metaphor most precisely. The key text is Jeremiah 3:1, which invokes Deuteronomy 24 (a divorced wife cannot return to her first husband): Israel left God voluntarily (not sent away), has had "many lovers," and yet God offers to take her back — which is legally impossible and therefore an act of pure grace. The question that drives the whole book: "Can God take his people back?" The answer is the [[new-covenant|New Covenant]] (31:31-34): only through God's unilateral forgiveness.
+Jeremiah develops the legal dimensions of the metaphor most precisely. The key text is Jeremiah 3:1, which invokes Deuteronomy 24 (a divorced wife cannot return to her first husband): Israel left God voluntarily (not sent away), has had "many lovers," and yet God offers to take her back — which is legally impossible and therefore an act of pure grace. **Lalleman** frames the essential issue of the book: "will God still take his people back?" (TOTC raw 1022); *šûb* and marriage/adultery language interlock in 2–3, with Hosea as primary prophetic predecessor (raw 1019–1022, 1447–1451). The answer arc, in her reading, is the [[new-covenant|New Covenant]] (31:31–34): only through God's unilateral initiative after the 604 "point of no return."
 
 Key passages:
 - "I remember the devotion of your youth, how as a bride you loved me and followed me through the wilderness" (2:2) — YHWH's wistful memory of the honeymoon period
@@ -121,10 +125,11 @@ In medieval Jewish mysticism (Kabbalah), the marriage metaphor becomes central: 
 
 ## Sources Ingested
 
-1. [[tremper-longman|Longman, Tremper, III]]. *Song of Songs*. NICOT. Grand Rapids: Eerdmans, 2001.
+1. [[tremper-longman|Longman, Tremper, III]]. *Song of Songs*. NICOT. Grand Rapids: Eerdmans, 2001. — Fidelity re-ingest: [[longman-song-of-songs-nicot]] (Intro §XII: allegory erred by suppressing human love *and* pressing details; marriage metaphor still legitimate).
 2. [[john-oswalt|Oswalt, John N.]]. *The Book of Isaiah: Chapters 40–66*. NICOT. Grand Rapids: Eerdmans, 1998.
-3. [[john-goldingay|Goldingay, John]]. *The Book of Jeremiah*. NICOT. Grand Rapids: Eerdmans, 2021.
+3. [[john-goldingay|Goldingay, John]]. *The Book of Jeremiah*. NICOT. Grand Rapids: Eerdmans, 2021. — fidelity re-ingest: [[goldingay-jeremiah-nicot]] (marriage lawsuit 2–3; husband/bāʿal at 31:32).
 4. [[j-andrew-dearman|Dearman, J. Andrew]]. *Hosea*. NICOT. Grand Rapids: Eerdmans, ca. 2010.
+5. [[daniel-block|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 1–24*. NICOT. Eerdmans, 1997 (chs. 16, 23 — fidelity re-ingest 2026-07-18; [[block-ezekiel-1-24-nicot|source page]]).
 
 ## Related Texts
 

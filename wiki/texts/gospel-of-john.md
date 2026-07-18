@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Greek
 date_range: c. 70–100 CE (conventional); possibly earlier (Michaels)
-sources_ingested: 2
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [text, christianity, new-testament, gospel, johannine]
 ---
 
@@ -101,9 +101,25 @@ The Gospel claims eyewitness authorship through "the disciple whom Jesus loved" 
 
 Michaels's summary of the theological parabola: "Just as the Gospel's christology is a kind of parabola, with the Son coming down from the Father into the world and going back up to the Father again, so too is its soteriology — with God the Father drawing a people to God the Son, who leads them in turn back to the Father." The Father is both the initiator and the goal of salvation.
 
+## Textual Notes from the NIV Edition (Quest Study Bible, primary-text read 2026-07-18)
+
+A full read of the Gospel in the NIV (2011 text, [[quest-study-bible-niv|Quest Study Bible]]) surfaces the edition's own text-critical apparatus at the following loci:
+
+- **The Pericope Adulterae (7:53–8:11).** The NIV brackets the whole passage with the notice: "The earliest manuscripts and many other ancient witnesses do not have John 7:53—8:11. A few manuscripts include these verses, wholly or in part, after John 7:36, John 21:25, Luke 21:38 or Luke 24:53." The floating placement in the manuscript tradition is thus flagged in the edition itself.
+- **5:3b–4 (the angel stirring the pool).** Verse 4 is omitted from the text; a footnote reports that "some manuscripts include" the angel-of-the-Lord explanation of the waters of Bethesda ("Some manuscripts Bethzatha; other manuscripts Bethsaida" for the pool's name).
+- **1:18.** The NIV reads "the one and only Son, who is himself God," noting "Some manuscripts but the only Son, who" — the *monogenēs theos* / *monogenēs huios* variant that bears directly on [[word-was-god-1-1|the John 1:1/1:18 Christology disputes]].
+- **1:34.** "God's Chosen One," with the note "See Isaiah 42:1; many manuscripts is the Son of God."
+- **10:29.** "My Father … is greater than all," noting "Many early manuscripts What my Father has given me is greater than all."
+- **20:31.** "that you may believe," noting "Or may continue to believe" — the present/aorist subjunctive variant that scholars connect to whether the Gospel aims at evangelism or at confirming existing believers.
+- ***Hoi Ioudaioi*.** The NIV renders the Greek "the Jews" as "the Jewish leaders" at 1:19; 5:10, 15, 16; 7:1, 11, 13; 9:22; 18:14, 28, 36; 19:7, 12, 31, 38; 20:19, with a footnote stating the term "refers here and elsewhere in John's Gospel to those Jewish leaders who opposed Jesus." This is a translational-interpretive decision of the NIV committee, not a feature of the Greek text.
+- Double-meaning notes: "born again / from above" (3:3, 7); "lifted up / exalted" (3:14; 8:28; 12:32); Spirit/wind (3:8); "prunes / cleans" (15:2); Cephas/Peter = rock (1:42); Thomas/Didymus = twin (11:16 etc.).
+
+**The Quest apparatus as an evangelical reception layer.** The Quest Study Bible's anonymous editorial apparatus reads the Gospel devotionally and apologetically: it asserts apostolic authorship by John son of Zebedee, dates the Gospel AD 80–95 (noting some argue for the 50s–60s), locates it at Ephesus, and addresses it to "non-Jewish followers of Jesus" confronting proto-Gnostic ideas (salvation through special knowledge; a divine but not truly human Jesus). On the temple-cleansing chronology it surveys harmonizing options (two cleansings) alongside the view that John rearranged for theology. On 6:37/6:65 and 17:2 it holds divine initiative and human responsibility together without resolving them, cross-referencing both Calvinist- and Arminian-leaning articles — a deliberate editorial both-ways posture on [[johannine-determinism|Johannine determinism]]. On 13:23 and 21:24 it identifies the Beloved Disciple as John while conceding "we cannot know for certain," and at 21:24 allows that "someone other than John likely added this brief note — perhaps the elders or even the entire church at Ephesus." The apparatus counts "nine miracles (signs)" in its introduction but "only eight of the signs" in a later note (at 4:54) — an internal inconsistency of the apparatus, and in either case a different count from Michaels's seven.
+
 ## Commentators and Sources
 
 - [[j-ramsey-michaels|J. Ramsey Michaels]], *The Gospel of John*, NICNT, Eerdmans, 2010
+- [[quest-study-bible-niv|Quest Study Bible (NIV)]] — primary text read in full (NIV 2011) with evangelical Q&A apparatus, 2026-07-18
 
 ## Key Links
 

@@ -4686,3 +4686,611 @@ converted the "Structure and Historical Arc" band table into a prose account of 
 story (New York→Ohio→Missouri→Nauvoo→martyrdom/succession) so the otherwise disjoint numbered
 corpus can be followed; left the thematic "Key Sections (doctrinal map)" as a reference lookup.
 No new claims; all loci and wikilinks preserved; no red links introduced.
+
+## 2026-07-18 audit+repair | Vermes, *The Complete Dead Sea Scrolls in English* (DSS cluster)
+
+**Not a re-ingest.** Requested as a re-ingest on the premise that the 2026-06-09 ingest predated CLAUDE.md
+updates. Pre-flight check (per skill-observation #14) found the source page's coverage ledger already recording
+lines 1–22830 of the 22,831-line source — read in full, no portion omitted. Re-extraction was declined as
+wasteful; a standards-compliance audit of the resulting ~28-page cluster was run instead.
+
+**Finding:** the extraction was sound. All defects were at the *wiring* layer.
+
+Repairs made:
+- **`essenism` phantom slug resolved.** The sect page had been filed at `traditions/judaism/sects/essenes.md`
+  while 15 `canon_scope` entries and 21 wikilinks pointed at `essenism`. Evidence that two distinct pages were
+  intended: the Vermes source page links `[[essenes]]` and `[[essenism]]` side by side. Renamed the sect page to
+  `essenism.md` (title → "Essenism"), which simultaneously cleared the phantom slug and the `essenes` bare-slug
+  collision with the group page. Updated `judaism.md` `major_sects`.
+- **Group↔sect reciprocity added** between `groups/essenes.md` and `traditions/judaism/sects/essenism.md`, with a
+  new "Relationship to the Essenes as a Group" section on the sect page.
+- **`canon_scope` corrections**: 5 text pages using `essenes` repointed to `essenism`; `ethiopian-orthodox` →
+  `ethiopian-orthodoxy` (2 pages); redundant `cheng-zhu-school` dropped in favour of `neo-confucianism` (2 pages);
+  `hellenized-diaspora-jews` removed from `septuagint` (a group slug, not a sect slug) and preserved as a
+  documented reception fact in the body; `"all other traditions"` removed from `scientology-8-8008` as both a
+  schema violation and an unsourced blanket claim, with a Canon and Reception note explaining the empty bucket.
+  **All `canon_scope` slugs wiki-wide now resolve.**
+- **Hermeneutical Framework sections added** to 8 text pages that lacked them (war-scroll, thanksgiving-hymns,
+  mmt, messianic-rule, angelic-liturgy, messianic-apocalypse, jubilees-dss, book-of-enoch-dss). Written from a
+  fresh scoped re-read of the relevant Vermes ranges via 4 background Sonnet agents over disjoint pre-cut caches,
+  with verbatim anchors and VERMES-vs-TEXT labelling; not from background knowledge. One agent correctly
+  reported that its assigned range did not contain the Angelic Liturgy text at all, and the range was re-cut to
+  lines 10008–10600 before that page was written.
+- **Page-schema repairs**: `figures/melchizedek.md` converted from bold pseudo-headings to real headings and
+  restructured around the required "Tradition-Specific Reception" section (Jewish mystical / Qumran / Christian
+  subsections); `groups/essenes.md` gained the two missing required sections ("Historical and Archaeological
+  Context", "Influence on Later Traditions and Controversies") and its "Theological Significance" heading was
+  corrected to the schema's "Theological and Narrative Significance".
+- **Back-links added**: teacher-of-righteousness → two-messiahs; two-messiahs → sanctuary-of-men.
+
+Scope of new reading: Vermes lines 3044–4580, 4581–5400, 10008–10600, 12358–12620, 16473–17250 — read for
+hermeneutical method only, supplementing the existing full-text ledger. The 2026-06-09 ledger stands unchanged.
+
+Outstanding judgment call surfaced for the user: whether to create a `hellenistic-judaism` sect page under
+Judaism, which would let the Septuagint's diaspora-Jewish reception return to `canon_scope`.
+
+## 2026-07-18 reingest | Matt (trans.), *The Zohar: Pritzker Edition*, Volume I
+
+**Type:** standards reingest (fidelity) of primary-text edition already first-pass ingested 2026-06-07.  
+**Source:** `raw/commentaries/Zohar/The Zohar I.epub` · working extract `raw/commentaries/Zohar/_cache_vol1/zohar_i_full.txt` (16,895 lines).  
+**Declared scope:** entire Vol. I body (Haqdamat Sefer ha-Zohar; Parashat Be-Reshit Gen 1:1–6:8; Parashat Noaḥ Gen 6:9–11:32) + Arthur Green Introduction + Matt Translator’s Introduction. Reference matter and end-notes excluded as apparatus.
+
+**Method:** Pre-flight found source page scaffold + six range caches + complete Stage-1 digests (A–E + X) from earlier same-day work; Stage-2 integration completed this session (exclusive-page integrators + main-thread source page / artifact cleanup). Two-stage mature-cluster variant: digests only in Stage 1; live wiki edits in Stage 2.
+
+**Pages created (1):** [[arthur-green|Arthur Green]] (Pritzker Vol. I Introduction).
+
+**Pages extended (~16):** [[zohar]] (Structure of Vol. I densified + reingest anchors table; Matt MS method; Green authorship framing); [[genesis]] (Vol. I Kabbalistic bullets grounded); concepts [[sefirot]], [[ein-sof]], [[shekhinah]], [[sitra-ahra]], [[pardes]], [[tsaddiq]], [[zoharic-afterlife]]; figures [[adam]], [[noah]], [[shimon-bar-yochai]]; [[daniel-matt]], [[moses-de-leon]], [[kabbalah]], [[zohar-authorship]]; source page [[matt-zohar-pritzker-vol1]].
+
+**Key takeaways (body, Matt trans.):** theogonic Gen 1:1 (*Be-reshit bara Elohim* = “With beginning, created God,” ~1:15a); *botsina de-qardinuta*; Haqdamah rose/Assembly/13 petals; innovated-Torah theurgy; Hell from left day two; serpent=Samael=Satan “all is one”; Adam drives out *Et*; Flood as wasted seed / boiling male–female waters; Noah as Yesod below and failed intercessor vs Moses; tripartite soul + Hell/Kaddish theurgy; Babel/holy tongue.
+
+**Apparatus / framing kept separate:** Matt critical text (~20 MSS; Mantua/Cremona; booklet circulation); Green sacred fantasy, Provence→Gerona→Castile map, Scholem vs Liebes–Meroz authorship positions.
+
+**Not reopened:** Pritzker Vols. II–XII.
+
+**Bookkeeping:** index + sources-ingested marked; source ledger complete; raw already under `raw/commentaries/Zohar/`.
+
+## 2026-07-18 reingest | Lalleman-de Winkel, Hetty. *Jeremiah and Lamentations*. TOTC 21. IVP, 2013
+
+**Type:** standards reingest (fidelity) of commentary first-pass ingested 2026-06-05 with Goldingay NICOT (no source page, no coverage ledger).
+
+**Source path:** `raw/commentaries/biblical/old-testament/Jeremiah and Lamentations - Lalleman-de Winkel, H_.txt` (7,149 lines; 136,846 words). Body scope raw **391–6307** (~133,447 words). Endnotes + marketing excluded.
+
+**Pre-flight (Obs 19):** No source page; pre–Scope & Fidelity paraphrase on commentator/text pages. Fidelity gaps warrant re-extraction (not wiring-only).
+
+**Method:** Six disjoint cache ranges A–F; six parallel extractors → digests only; main-thread integration into existing cluster.
+
+**Pages created (1):** [[lalleman-jeremiah-lamentations-totc|Lalleman TOTC 21 source page]].
+
+**Pages extended (5):** [[hetty-lalleman]] (rewrite to loci standard); [[jeremiah]] (structure, *šûb*, metaphors, new covenant, Hermeneutical/Canon/Scholarship/Cruxes); [[lamentations]] (authorship, hope, required sections); [[new-covenant]] (31:31–34 / 32:40 with raw loci); [[divine-human-marriage]] (Lalleman legal/return framing).
+
+**Key takeaways (body, attributed to Lalleman):** 604 BC scroll-burning as “point of no return”; *šûb* arc human imperative → divine causative restoration; build/plant + medical metaphor clusters; chs. 23–29 true/false-prophecy centre (not ch. 25 break); new covenant as summit of hope (31:31–34; everlasting restatement 32:40); Lamentations unlikely Jeremiah, eyewitness ~587; 3:22–24 important but does not solve the book.
+
+**Tensions recorded (not adjudicated):** Lalleman hard 604 hinge vs Goldingay both-and; structure 23–29 vs ch. 25; Lam authorship positions.
+
+**Bookkeeping:** source ledger complete; raw already under `raw/commentaries/biblical/old-testament/`.
+
+## 2026-07-18 reingest | Matt (trans.), *The Zohar: Pritzker Edition*, Volume II
+
+**Type:** standards reingest (fidelity) of primary-text edition already first-pass ingested 2026-06-07.  
+**Source:** `raw/commentaries/Zohar/The Zohar II - Daniel C. Matt.epub` · working extract `raw/commentaries/Zohar/_cache_vol2/zohar_ii_full.txt` (15,676 lines; body 264–3695).  
+**Declared scope:** entire Vol. II Zohar body — Parashot Lekh Lekha, Va-Yera, Ḥayyei Sarah, Toledot, Va-Yetse (Gen 12:1–32:3; ~1:77a–165b). Reference matter and end-notes excluded as apparatus.
+
+**Method:** Pre-flight: no dedicated Vol. II source page (only Vol. I standards page + 2026-06-07 cluster scaffolding). Two-stage mature-cluster variant: five body-aligned cache ranges → digests A–E only; Stage-2 exclusive-page integrators + main-thread [[zohar]] Vol. II structure densification and source-page synthesis.
+
+**Pages created (0):** no new entity stubs (lean filing).
+
+**Pages extended (~21):** [[zohar]] (Structure of Vol. II densified + reingest anchors; lead Vol. II bullet); [[genesis]] (Gen 12–32 Kabbalistic densification); figures [[abraham]], [[sarah]], [[isaac]], [[rebekah]], [[jacob]], [[rachel]], [[leah]], [[ishmael]], [[esau]], [[lot]], [[melchizedek]]; concepts [[circumcision]], [[shekhinah]], [[sefirot]], [[tsaddiq]], [[sitra-ahra]], [[zoharic-afterlife]]; [[akedah-interpretation]]; [[daniel-matt]]; source page [[matt-zohar-pritzker-vol2]].
+
+**Key takeaways (body, Matt trans.):** *Lekh lekha* as self-refinement; arousal below → above; Egypt refinement; Melchizedek two worlds; circumcision before/after rungs + *Shaddai*/*yod* (~1:89a–96b); Va-Yera theophany and Sodom as Lower Court; Akedah as water embraced by fire, test of Abraham, Jacob triad-harmonization (~1:119b–120a); Sarah’s sefirotic years and death at binding; Machpelah ↔ Garden; Rebekah rekindles tent-lamp; twins holy throne vs serpent/*saʿir*; two wives *Attah*/*Hu* (Rachel revealed / Leah concealed); Maḥanayim and Shekhinah awaiting Benjamin.
+
+**Apparatus kept separate:** Matt end-notes (~from line 7429) and reference matter not sequential claim scopes.
+
+**Not reopened:** Pritzker Vols. III–XII.
+
+**Bookkeeping:** index + sources-ingested marked; source ledger complete; raw already under `raw/commentaries/Zohar/`.
+
+## [2026-07-18] ingest | Block, *The Book of Ezekiel: Chapters 1–24* (NICOT, 1997) — fidelity re-ingest
+
+Explicit user-requested re-ingest of Vol. 1. Prior footprint: 2026-06-05 pre–Scope-and-Fidelity ingest with **no source page** — re-extract warranted. Declared scope: Introduction (raw 561–1978, bibliography sampled/excluded) + full commentary body on 1:1–24:27 (raw 1979–12495); front matter, endnote blocks (~12496–21460), and indexes excluded as apparatus. Integrity: 383,024 words, complete. Six parallel extractors over disjoint ranges (Intro; 1–7; 8–15; 16–18; 19–22; 23–24), all completed — including the filter-flagged chs. 23–24 range (sparse-verbatim discipline; no filter block, no recoveries). Two-stage: digests only, main-thread integration.
+
+**Pages created (2):** sources/block-ezekiel-1-24-nicot (full ledger + volume synthesis); controversies/ezekiel-20-25-no-good-laws (patristic/targumic/rabbinic/modern/Davis-Block reception dispute).
+**Pages extended (5):** texts/ezekiel (Composition/Text/Scholarship; ten Key Interpretive Cruxes incl. 21:32 anti-messianic Nebuchadrezzar reading and 14:14 biblical Daniel; Canon and Reception rewrite from Block's §V — Qumran dependence, taw afterlife, Hananiah ben Hezekiah, Calvin/Luther); commentators/daniel-block (methods 6–8: ANE philology radically transformed, preacher-not-systematic-theologian, reluctant-prophet thesis; characteristic exegetical calls); concepts/divine-glory-kabod (9:3/10:4 stitching, ch. 1/10 echo strategy, glory returns to heaven not Babylon, divine-abandonment ANE frame, reception excursus); concepts/divine-human-marriage (ch. 16 legal adoption+marriage acts, znh-vs-nʾp, feminist-criticism excursus; ch. 23 five differences from ch. 16); concepts/new-covenant (16:60 = reinstitution not new covenant; 11:19 anthropological vs 36:26; 18:31 imperative as rhetoric).
+
+Lint: 268 → 268 findings; 0 new vs baseline (only cross-session noise: tsumura orphan from a sibling session). Trackers: sources-ingested ✅ (Vol. 1 marked; Vol. 2 flagged ⚠️ old-standards); not on outstanding-sources roadmap (nothing to tick). Raw already filed under raw/commentaries/biblical/old-testament/. **Vol. 2 (chs. 25–48) fidelity re-ingest is the natural next scope.**
+
+## 2026-07-18 reingest | Tsumura, David Toshio. *The First Book of Samuel*. NICOT. Eerdmans, 2006
+
+**Type:** standards reingest (fidelity) of evangelical commentary first-pass ingested 2026-06-05 / enhanced 2026-06-07 under pre–Scope-and-Fidelity standards (**no source page**, no line-loci coverage ledger). Explicit user request.
+
+**Source path:** `raw/commentaries/biblical/old-testament/The First Book of Samuel - David Toshio Tsumura.txt` (23,855 lines; 246,509 words). Body scope: Author's Preface (172–194) + Introduction I–X (746–1996) + Text and Commentary chs. 1–31 (3869–16224). Excluded as apparatus: abbreviations; XI Outline (~1997–3231); XII Select Bibliography (3232–3868); Indexes (~16225+).
+
+**Method:** Two-stage mature-cluster variant. Eight disjoint body-aligned cache ranges + main-thread preface → digests only (~351 claims); main-thread integration into existing Samuel cluster. No new entity stubs (file lean).
+
+**Pages created (1):** [[tsumura-1-samuel-nicot|Tsumura 1 Samuel NICOT source page]] (full scope plan, coverage ledger, hermeneutical frame, volume synthesis).
+
+**Pages extended (8):** [[1-samuel]] (Hermeneutical Frameworks, Canon and Reception, Scholarship and Historiography, reingest anchors with page loci, Links); [[david-tsumura]] (Preface + Intro method loci); [[monarchy-request]] (ch. 8 structural/*nāgîd*/sin+providence loci); [[herem-canaanite-conquest]] (Agag/*ḥerem* completion + 15:9/22–23 loci); figures [[samuel]], [[saul]], [[david]], [[jonathan]] (1 Samuel arc reingest notes).
+
+**Key takeaways (body, attributed to Tsumura):** Purpose = monarchy (8–12) + David prepared (16–31); king subject to prophet (Phil 2:8 as messianic climax of the principle); four literary blocks with ch. 8 as transition and ch. 7 as discourse *terminus* of Story of Samuel; MT-first (phonetic spellings, brachylogy, AXB; majority of emendations needless); final edit ≤ late 10th c. (1 Sam 27:6); DH language circularity; *nāgîd* vice-regent vs people's *melek*; two rejections (dynasty then person); *ḥerem* partial fulfillment impossible; Agag = ban completion not sacrifice; *nḥm* emotive (15:11, 35) vs relational (15:29); Nob = Saul destroyer / David preserver of priesthood; Endor not normal pagan channel — extraordinary by God's power; Gilboa honorable tragic end + messianic forward look.
+
+**Tensions recorded (not adjudicated):** MT-preservation vs McCarter/Tov eclectic reconstruction; early composition vs Noth/Cross DH; maximalist United Monarchy (Tel Dan) vs minimalism; Alter literary held alongside as complementary synchronic reading.
+
+**Not reopened:** 2 Samuel Tsumura NICOT (2019) — remains prior old-standards ingest (natural next fidelity re-ingest).
+
+**Bookkeeping:** index + sources-ingested marked; source ledger complete; raw already under `raw/commentaries/biblical/old-testament/`. Session cache digests retained under `.cache/tsumura-1sam-reingest-2026-07-18/`.
+
+## 2026-07-18 reingest | Matt (trans.), *The Zohar: Pritzker Edition*, Volume III
+
+**Type:** standards reingest (fidelity) of primary-text edition already first-pass ingested 2026-06-07.  
+**Source:** `raw/commentaries/Zohar/The Zohar III - Daniel C. Matt.epub` · working extract `raw/commentaries/Zohar/_cache_vol3/zohar_iii_full.txt` (18,103 lines; body 310–4432).  
+**Declared scope:** entire Vol. III Zohar body — Va-Yishlaḥ, Va-Yeshev, Mi-Qets, Va-Yiggash, Va-Yḥi (Gen 32:4–50:26; ~1:166a–251a). Reference matter excluded.
+
+**Method:** Six body-aligned cache ranges (Va-Yḥi split into two density ranges) → digests A–F only; Stage-2 exclusive-page integrators + main-thread [[zohar]] Vol. III structure densification and source-page synthesis.
+
+**Pages created (0).**  
+**Pages extended (~15):** [[zohar]], [[genesis]]; figures [[jacob]], [[joseph]], [[judah]], [[tamar]], [[esau]], [[rachel]]; concepts [[tsaddiq]], [[shekhinah]], [[sefirot]], [[sitra-ahra]], [[zoharic-afterlife]], [[circumcision]]; [[daniel-matt]]; source page [[matt-zohar-pritzker-vol3]].
+
+**Key takeaways (body):** Samael Prince of Esau wrestle (*avaq*/dawn/Israel/*shalem*); Joseph = Yesod fruiting of Jacob; Tamar–Ruth messianic line; *mi-qets* End of Left; Judah approaches Tsaddiq; “Jacob did not die” (sun→moon); perfect deathbed chariot; Joseph double *aron* (coffin + ark of covenant).
+
+**Completes Genesis main-commentary fidelity reingest (Vols. I–III).** Not reopened: Vols. IV–XII.
+
+**Bookkeeping:** index + sources-ingested marked; source ledger complete; raw already under `raw/commentaries/Zohar/`.
+
+## 2026-07-18 reingest | Tsumura, David Toshio. *The Second Book of Samuel*. NICOT. Eerdmans, 2019
+
+**Type:** standards reingest (fidelity) of evangelical commentary first-pass ingested 2026-06-05 / enhanced 2026-06-07 under pre–Scope-and-Fidelity standards (**no source page**). User request following completed 1 Samuel fidelity re-ingest.
+
+**Source path:** `raw/commentaries/biblical/old-testament/The Second Book of Samuel - David Toshio Tsumura_.txt` (18,864 lines; 154,153 words). Body: Preface (187–219) + Introduction I–VII (940–1236) + Story of King David + Epilogue (2366–13317). Excluded: Outline, Bibliography, Indexes.
+
+**Method:** Two-stage mature-cluster variant. Eight body-aligned extractors + main-thread preface → digests only (~303 claims); main-thread integration.
+
+**Pages created (1):** [[tsumura-2-samuel-nicot|Tsumura 2 Samuel NICOT source page]].
+
+**Pages extended (9):** [[2-samuel]] (repaired epilogue table; Hermeneutical/Canon/Scholarship; reingest anchors); [[davidic-covenant]] (ch. 7 discourse + irrevocable ḥesed loci); [[david-tsumura]] (2 Sam reingest section); figures [[david]], [[bathsheba]], [[absalom]], [[joab]], [[nathan]].
+
+**Key takeaways (body, attributed to Tsumura):** Purpose = God led David despite grave sins to keep eternal-dynasty promise; Davidic covenant central theme of 2 Samuel and OT; discourse PAST/PRESENT/FUTURE in Nathan oracle; genre intermediate epic/annalistic; Bathsheba AXB “great turning point”; Epilogues ABXX′B′A′ with Song/Last Words center (*ḥesed* to anointed/seed forever; *berît ʿôlām*); census → Araunah temple site; theme “human desires and divine plans.”
+
+**Tensions recorded:** MT vs McCarter/Cross reconstruction; early vs late eternal-dynasty dating; Tsumura text-first vs Chapman/Alter literary emphasis (not adjudicated).
+
+**Companion complete:** Both Tsumura NICOT Samuel volumes now under Scope & Fidelity ([[tsumura-1-samuel-nicot]] + [[tsumura-2-samuel-nicot]]).
+
+**Bookkeeping:** index + sources-ingested ✅; raw already under `raw/commentaries/biblical/old-testament/`. Digests: `.cache/tsumura-2sam-reingest-2026-07-18/`.
+
+## [2026-07-18] ingest | Block, *The Book of Ezekiel: Chapters 25–48* (NICOT, 1998) — fidelity re-ingest
+
+Explicit user-requested re-ingest of Vol. 2 (prior footprint: 2026-06-05 pre–Scope-and-Fidelity ingest, no source page). Declared scope: full commentary body on 25:1–48:35 (raw 587–12122; 228,483 words); front matter, endnote/abbreviation blocks (12123–20830), and trailing TOC excluded as apparatus. Integrity: 350,705 words, complete. Seven parallel extractors over disjoint ranges (25–28; 29–32; 33–34; 35–36; 37–39; 40–43a; 43b–48), all completed in full — zero recoveries. Two-stage: digests only; main thread + two exclusive-ownership integrators.
+
+**Pages created (3):** controversies/king-of-tyre-interpretation (human king vs. Lucifer-since-Origen vs. myth vs. high priest); concepts/gog-magog (Gyges derivation, Rosh≠Russia, anti-apocalyptic genre verdict, targumic/3 Enoch/Rev 19–20 reception); controversies/ezekiel-temple-vision-interpretation (literalist vs. eschatological vs. Levenson vs. failed program vs. Block's ideational reading vs. Theodoret allegory).
+**Pages extended (24):** texts/ezekiel (Vol. 2 structure; seven new cruxes incl. Tyre nonfulfillment/contingency, P967/Lust, writing-board sticks); commentators/daniel-block (methods 9–10 + Vol. 2 exegetical calls); concepts: divine-glory-kabod (43:1–7 return, enthronement, Hag 2 nonreturn), new-covenant (monergistic covenant of peace; rûaḥ-vs-Torah vs. Jer 31), eschatological-temple (ten factors, graded holiness, Temple Scroll/Rev 21–22), davidic-covenant, tabernacle, millennialism, apocalyptic-literature (contradiction flagged: Gog as apocalyptic vs. Block), jubilee, two-messiahs (Messiah ben Joseph in Gog tradition), sheol (Block's full netherworld synthesis), resurrection-of-the-dead (native-soil thesis; b. Sanh. 92b; Dura Europos; convergence with Levenson noted), circumcision, promised-land; figures: david, pharaoh (Hophra), nebuchadnezzar; groups: edomites, ammonites, moabites, philistines; locations: jerusalem (Hamonah; Yahweh Shammah), babylon.
+
+Lint: see validation below. Trackers: sources-ingested ✅ (Vol. 2 marked; both volumes now under current standards); not on outstanding-sources roadmap. Raw already filed under raw/commentaries/biblical/old-testament/. Block NICOT Ezekiel fidelity re-ingest is now **complete for both volumes**.
+
+## 2026-07-18 reingest | Matt (trans.), *The Zohar: Pritzker Edition*, Volume IV
+
+**Type:** standards reingest (fidelity) of primary-text edition already first-pass ingested 2026-06-07.  
+**Source:** `raw/commentaries/Zohar/The Zohar IV - Daniel C. Matt.epub` · working extract `raw/commentaries/Zohar/_cache_vol4/zohar_iv_full.txt` (16,583 lines; body 303–4324).  
+**Declared scope:** entire Vol. IV Zohar body — Shemot, Va-Era, Bo, Be-Shallaḥ, Yitro (Exod 1:1–20:23; ~2:2b–94a). Reference matter excluded.
+
+**Method:** Six digests A–F (Be-Shallaḥ density-split: sea/Song/72-Name vs manna/Amalek); Stage-2 exclusive-page integrators + main-thread [[zohar]] Vol. IV densification.
+
+**Pages created (0). Pages extended (~13):** [[zohar]], [[exodus]]; [[moses]], [[aaron]], [[miriam]], [[pharaoh]], [[amalekites]]; [[shekhinah]], [[sefirot]], [[sitra-ahra]], [[tsaddiq]], [[circumcision]]; [[daniel-matt]]; [[matt-zohar-pritzker-vol4]].
+
+**Key takeaways:** Shekhinah with Israel in Egypt; Moses husband of house / El Shaddai vs YHVH; plagues as rung-judgment; Passover two bloods; *yam suf* end of rungs; **72-letter Name**; manna crown of Ḥesed; Amalek/Samael dual war; Jethro conversion; Sinai seeing the voices; Torah founds world (Jer 33:25).
+
+**Coverage honesty:** bush/*Ehyeh* thin in Shemot body; densifies in Va-Era frame. Miriam Song not named in digests.
+
+**Not reopened:** Vols. V–XII. Raw already under `raw/commentaries/Zohar/`.
+
+## 2026-07-18 reingest | Longman, Tremper, III. *Song of Songs*. NICOT. Eerdmans, 2001
+
+**Type:** standards reingest (fidelity) of evangelical commentary first-pass ingested 2026-06-05 / enhanced 2026-06-07 under pre–Scope-and-Fidelity standards (**no source page**). Explicit user request.
+
+**Source path:** `raw/commentaries/biblical/old-testament/Song of Songs (New International Commentar - Longman, Tremper, III.txt` (2,927 lines; 75,257 words). Body: Preface (157–183) + Introduction I–XII (190–1034) + Text and Commentary Poems 1–23 (1584–2903). Excluded: Abbreviations; Bibliography (~1035–1583); Indexes (~2904+).
+
+**Method:** Two-stage mature-cluster variant. Three body-aligned extractors + main-thread preface → digests only (~123 claims); main-thread integration.
+
+**Pages created (1):** [[longman-song-of-songs-nicot|Longman Song of Songs NICOT source page]].
+
+**Pages extended (3):** [[song-of-songs]] (Hermeneutical Frameworks; Scholarship; reingest anchors with loci); [[tremper-longman]] (Song-specific method/theology section); [[divine-human-marriage]] (source link + allegory-error formula from Intro §XII).
+
+**Key takeaways (body, attributed to Longman):** Genre = anthology of 23 lyric love poems (“erotic psalter”); not allegory/drama/cultic; superscription “concerns Solomon”; Egyptian love poetry parallel; human love primary (mutual, exclusive, total, beautiful); “do not awaken” thrice; Gen 2–3 → *tĕšûqâ* already–not-yet; divine–human marriage illumination without allegory’s two errors; Carr functional decanonization; 8:6–7 love strong as death / flame of Yah; open ending 8:13–14.
+
+**Tensions recorded (not adjudicated):** vs popular allegory; vs Delitzsch/Provan drama; vs LaCocque free-love reading.
+
+**Bookkeeping:** index + sources-ingested ✅; raw already under `raw/commentaries/biblical/old-testament/`. Digests: `.cache/longman-song-reingest-2026-07-18/`.
+
+## 2026-07-18 reingest | Goldingay, John. *The Book of Jeremiah*. NICOT. Eerdmans, 2021
+
+**Type:** standards reingest (fidelity) of evangelical commentary first-pass ingested 2026-06-05 under pre–Scope-and-Fidelity standards (**no source page**). Explicit user request.
+
+**Source path:** `raw/commentaries/biblical/old-testament/The Book of Jeremiah - John Goldingay_.txt` (29,328 lines; 438,758 words). Body: Introduction I–IX (1504–2712) + Text and Commentary Prologue–Part 5 + Epilogue (2713–29300). Excluded: Select Bibliography; endnote/index apparatus.
+
+**Method:** Two-stage mature-cluster variant. Ten body-aligned extractors → digests only (~479 claims); main-thread integration. Note: R6 mid-slice includes endnote ballast between Part 2e and ch. 25 body (flagged in digest).
+
+**Pages created (1):** [[goldingay-jeremiah-nicot|Goldingay Jeremiah NICOT source page]].
+
+**Pages extended (4):** [[jeremiah]] (reingest anchors; structure tension with Lalleman); [[john-goldingay]] (Jeremiah reingest section); [[new-covenant]] (new pledge 31:31–34 Goldingay loci); [[divine-human-marriage]] (source link).
+
+**Key takeaways (body, attributed to Goldingay):** Three horizons; Gospels analogy (604/LXX/MT); curators/storytellers; ch. 25 hinge/axis and 604 point of no return; confessions as rhetoric not diary; *bərît* as “pledge”; Book of Consolation glowing centre; new pledge 31:31–34 (tôrâ on mind; husband/*bāʿal*; mysterious transform/turn); Jer 36 nails coffin shut; OAN integral; ch. 52 frame (calamity short of annihilation / hope short of full renewal).
+
+**Tensions recorded (not adjudicated):** Goldingay ch. 25 hinge vs Lalleman 23–29 true/false centre; both affirm 604 scroll-burning as decisive.
+
+**Not reopened:** Goldingay *Lamentations* NICOT (2022) — remains old-standards ⚠️.
+
+**Bookkeeping:** index + sources-ingested ✅; raw already under `raw/commentaries/biblical/old-testament/`. Digests: `.cache/goldingay-jeremiah-reingest-2026-07-18/`.
+
+## 2026-07-18 ingest | Matt, Daniel C. (trans.). *The Zohar: Pritzker Edition, Volume V* (standards reingest)
+
+Source type: primary-text-edition (Pritzker critical English from reconstructed Aramaic). **Fidelity reingest** of Vol. V under current Scope & Fidelity / coverage-ledger standards (first-pass 2026-06-07 predated ledgers and verbatim loci).
+
+**Declared scope:** entire Zohar body of Pritzker Vol. V — Parashat Mishpatim (incl. *Sava de-Mishpatim* ~2:94b–114a + main-body commentary ~2:121a–126a), Parashat Terumah (~2:126b–176b), *Sifra di-Tsni’uta* (~2:176b–179a plain + annotated). Cache: `raw/commentaries/Zohar/_cache_vol5/zohar_v_full.txt` (16,539 lines; body 329–4102). Apparatus (Abbreviations from 4103, Bibliography, Index, endnote dump) excluded. Preface 265–328 main-thread framing only.
+
+**Extraction:** seven digests A–G (Sava density-split; Terumah thirds; Sifra). Sequential full reads; no TOC-triage.
+
+**Key densifications (folio-anchored):**
+- *Sava de-Mishpatim* / **Yeiva Sava**: riddles; Torah-maiden (derasha→haggadah→face-to-face→peshat); **gilgul** (scales, Exod 21 Male/Female worlds, levirate redeemer/vessel, sling, *ba’al teshuvah*).
+- Main Mishpatim: people of holiness; Gevurah-balanced laws; Secret of Secrets body of King; Exod 24 covenant.
+- Terumah: *mishkan* = Shekhinah; **Kallat Moshe** (Num 7:1 re-read, 2:140b–141a); materials/prayer/Sabbath theurgy; Song of Songs as Holy of Holies; dual Dwelling (Moses/Metatron).
+- *Sifra di-Tsni’uta*: balance, skull, dew, breath, male/female, primordial kings, Jubilee horn → complete Name.
+
+**Pages created (0).** **Pages updated (9):** [[matt-zohar-pritzker-vol5]] (new source page), [[zohar]], [[exodus]], [[gilgul]], [[tabernacle]], [[moses]], [[bezalel]], [[daniel-matt]], [[index.md]] (+ sources-ingested).
+
+**Bookkeeping:** source page ledger complete; digests retained under `_cache_vol5/digests/`. Raw already under `raw/commentaries/Zohar/`. Vols. VI–XII not reopened.
+
+
+## [2026-07-18] ingest | Oswalt, The Book of Isaiah, Chapters 1–39 (NICOT, 1986) — fidelity re-ingest
+
+Declared scope: full volume — Introduction §§I–X, commentary on Isa 1:1–39:8, Excursus I–II,
+plus a sparse sweep of the conversion-displaced endnote block. Bibliography (§XI), duplicate
+TOC, and abbreviation fragments excluded as apparatus. Read in full via 6 disjoint
+line-range extractors (digests only) + main-thread integration. Prior footprint: 2026-06-07
+bulk multi-source pass with no source page → fidelity re-ingest under current standards.
+
+Pages created (8): oswalt-isaiah-1-39-nicot (source), isaiah-prophet, hezekiah, ahaz,
+sennacherib (figures); holy-one-of-israel, remnant, day-of-the-lord (concepts);
+isaiah-authorship (controversy).
+Pages updated (14): isaiah (Textual/MS Tradition, Hermeneutical Frameworks, Canon and
+Reception, chapter-level 1–39 highlights, new cruxes), john-oswalt (Volume 1 profile),
+servant-songs (North/Rowley map), sheol (Isa 14; 38), apocalyptic-literature (24–27 label
+dissent), resurrection-of-the-dead (25:8; 26:19), assyrians, babylonians, philistines,
+moabites, edomites, jerusalem, lachish, index.
+
+Lint: 242 broken-link lines before and after — 0 new vs baseline. Vol. 2 (chs. 40–66)
+fidelity re-ingest remains outstanding.
+
+## 2026-07-18 ingest | Matt, Daniel C. (trans.). *The Zohar: Pritzker Edition, Volume VI* (standards reingest)
+
+Source type: primary-text-edition (Pritzker critical English). **Fidelity reingest** of Vol. VI under current Scope & Fidelity standards (first-pass 2026-06-07 predated ledgers/verbatim loci).
+
+**Declared scope:** entire Zohar body of Pritzker Vol. VI — **Tetsavveh** (Exod 27:20–30:10; ~2:180a–187b), **Ki Tissa** (~2:188a–194b), **Va-Yaqhel** (~2:195a–220a), **Pequdei** (~2:220b–244b). Completes Exodus. Cache: `raw/commentaries/Zohar/_cache_vol6/zohar_vi_full.txt` (11,419 lines; body 304–2995). Apparatus from 2996 excluded. Preface: Calf as Shekhinah rejection; *Berikh shemeih* later addition.
+
+**Extraction:** seven digests A–G (Va-Yaqhel thirds; Pequdei halves).
+
+**Key densifications (folio-anchored):**
+- Calf = **sin against Mother** (2:191a): *Elohim* exchanged for *tavnit shor*; mixed multitude (Egyptian sorcerers).
+- Moses **pins three limbs** of the King (Exod 32:10; 2:193b): right, left, body.
+- Bezalel **fashions**; Moses alone **erects** (2:235a); glory fill as bridal arrayal (Exod 40:35; 2:235b).
+- Dual Dwelling; death/Samael **withdrawn not forever** (Isa 25:8 messianic); Other Side regulated share.
+
+**Pages created (0).** **Pages updated (9):** [[matt-zohar-pritzker-vol6]] (new source page), [[zohar]], [[exodus]], [[tabernacle]], [[moses]], [[bezalel]], [[aaron]], [[daniel-matt]], [[index.md]] (+ sources-ingested).
+
+**Bookkeeping:** ledger complete; digests under `_cache_vol6/digests/`. Raw already under `raw/commentaries/Zohar/`. Vols. VII–XII not reopened.
+
+
+## 2026-07-18 reingest | Osborne, Grant R. *Revelation*. BECNT. Baker Academic, 2002
+
+**Type:** standards reingest (fidelity) of evangelical commentary first-pass ingested 2026-06-06 under pre–Scope-and-Fidelity standards (**no source page**). Explicit user request.
+
+**Declared scope:** full commentary body — Series Preface + Author's Preface (raw 131–166) + Introduction through Epilogue I–VI (973–7411; ~366k words). Excluded as apparatus: Abbreviations/Transliteration (167–972); Works Cited (7412–9519); Indexes (9520–22417); trailing TOC residual (22418–24093). Integrity: 24,093 lines / 452,548 words total file; body complete.
+
+**Extraction:** nine digests R0–R8 (~320 grounded claims). R0 main-thread; R1–R8 eight parallel extractors (digests only; two-stage). Zero recoveries. Cache: `.cache/osborne-revelation-reingest-2026-07-18/`.
+
+**Key densifications (locus-anchored):**
+- Method: theological threads; eclectic **futurist primary**; hermeneutics of humility; symbolic numbers; OT typology as servant/guide.
+- Authorship/date: apostolic Johannine viable; Domitian mid-90s preferred (seven-church data).
+- Body: seals/trumpets/bowls recapitulation; eternal gospel / mission; Babylon economic critique; historic premil theodicy climax; NJ as Holy of Holies + final Eden; primarily cosmic replacement.
+
+**Pages created (1):** [[osborne-revelation-becnt]]
+
+**Pages extended (12):** [[revelation]], [[grant-osborne]], [[revelation-interpretive-schools]], [[revelation-millennium]], [[revelation-date-authorship]], [[lamb-of-god]], [[new-creation]], [[eschatological-temple]], [[antichrist]], [[john-apostle]], plus index/log/sources-ingested.
+
+**Bookkeeping:** index + sources-ingested ✅; not on outstanding-sources roadmap. Raw already under `raw/commentaries/biblical/new-testament/`. Digests retained under session cache.
+
+
+## 2026-07-18 ingest | Quest Study Bible (NIV) — Gospel of John scope
+
+Primary-text read of the Gospel of John in full (NIV 2011 text + Quest evangelical Q&A apparatus; raw lines 239775–244851 of the Quest Study Bible file; ~46k words incl. apparatus). Direct main-thread read, no subagents. Distinct contribution vs the Michaels NICNT ingest (2026-06-05): the edition's text-critical footnotes (Pericope Adulterae bracketing, 5:3b–4 omission, 1:18 monogenes theos, 1:34, 10:29, 20:31 variants), the NIV "Jewish leaders" rendering of hoi Ioudaioi, and the Quest apparatus documented as an evangelical devotional reception layer.
+
+**Pages created (1):** [[quest-study-bible-niv]]
+**Pages extended (1):** [[gospel-of-john]] (new "Textual Notes from the NIV Edition" section; sources_ingested 2→3)
+
+**Bookkeeping:** index ✅; sources-ingested ✅; not on the outstanding-sources roadmap (no line to tick). Raw source remains in `raw/texts/christianity/` — multi-book source, only the John scope ingested; further books remain unscoped. Lint: 246 broken-link lines vs 253 baseline (0 new).
+
+## 2026-07-18 ingest | Matt, Daniel C. (trans.). *The Zohar: Pritzker Edition, Volume VII* (standards reingest)
+
+**Type:** standards reingest (fidelity) of primary-text edition already first-pass ingested 2026-06-07 under pre–coverage-ledger / verbatim-locus standards (**no prior source page**). Explicit user request.
+
+**Declared scope:** entire Pritzker Vol. VII Zohar body (cache lines 318–4349; ~114k words) — Va-Yiqra, Tsav, Shemini, Tazri’a, Metsora, Aḥarei Mot (Lev 1–18; ~3:3b–80a). Preface 272–317 main-thread framing only. Apparatus from 4350 excluded. Mantua letter-mysticism open (3:2a–3b) omitted by Matt (MS decision).
+
+**Integrity:** `ebook-convert` of `raw/commentaries/Zohar/The Zohar VII - Daniel C. Matt.epub` → `_cache_vol7/zohar_vii_full.txt` (15,938 lines, ~327k words total).
+
+**Extraction:** seven digests A–G (parallel Stage-1 extractors; digests only). Zero recoveries. Cache: `raw/commentaries/Zohar/_cache_vol7/`.
+
+**Key densifications (folio-anchored):**
+- *Qorban* as crown-binding; married *adam*; garden/bride banquet ([3b]–[5b])
+- Perpetual fire / dual altars / *zeh*–*zot* (Tsav)
+- Nadab–Abihu multi-cause dossier (alien fire; unmarried; Assembly unlinked; forced hour; Matronita–King disturbance; bodies burnt / souls endure)
+- *Al mishkavi*; *tsara’at*/evil speech (Tazri’a)
+- YK goats/Azazel; Accuser→Advocate; **golden knotted cord** (~3:67a body; prehistory = Matt apparatus)
+- Three rungs Holy One–Torah–Israel (3:73a); Lilith; Lev 18 as Father/Mother exposure
+
+**Pages created (1):** [[matt-zohar-pritzker-vol7]]
+
+**Pages extended (~10):** [[zohar]], [[leviticus]], [[nadab-and-abihu]], [[aaron]], [[holiness]], [[sacrifice]], [[purity]], [[tabernacle]], [[daniel-matt]], plus index/log/sources-ingested; reciprocal link from [[matt-zohar-pritzker-vol6]].
+
+**Bookkeeping:** index + sources-ingested ✅; not a discrete line on outstanding-sources roadmap (Pritzker I–XII already listed as set). Raw already under `raw/commentaries/Zohar/`. Digests retained under `_cache_vol7/digests/`.
+
+
+## 2026-07-18 ingest | Green, Joel B. *The Gospel of Luke*. NICNT. Eerdmans, 1997 (fidelity re-ingest)
+
+**Type:** standards reingest (fidelity) of commentary first-pass ingested 2026-06-05 under pre–coverage-ledger / Scope-and-Fidelity standards (**no prior source page**). Explicit user request to re-ingest the Gospel of Luke (Green NICNT is the wiki’s Luke commentary source).
+
+**Declared scope:** full commentary body — Editor’s + Author’s Prefaces + Interpretive Asides list (raw 122–196) + Introduction through §8 Exaltation (3522–10757) ≈ 333k words. **Excluded:** Abbreviations + Bibliography (197–3521); NOTES endnote dump (10758–23477); four indexes (23478–34996).
+
+**Integrity:** plain-text conversion of Eerdmans NICNT 1997; body section headers verified in-file (not TOC); NOTES boundary at 10758 confirmed.
+
+**Extraction:** nine digests R0–R8 (~351 grounded claims). R0 main thread; R1–R8 parallel extractors (digests only; no live wiki writes). Zero range recoveries. Cache: `.cache/green-luke-reingest-2026-07-18/`.
+
+**Key densifications (locus-anchored):**
+- Discourse analysis (narratology + culture-critical); co-text / intertext / context
+- Genre: historiography (Cadbury/Aune) + Alexander scientific-preface qualified; pure *bios* undercut by theocentrism
+- Luke-Acts unity as one salvific cycle; Gospel incomplete without Acts; canonical separation obscures
+- Authorship identity “unimportant”; narration is proclamation; Theophilus needs ἀσφάλεια via order
+- Nazareth 4:16–30 program (poor, double ἄφεσις, Jubilee, Elijah/Elisha, today)
+- Travel Narrative as literary-theological construction; possessions/Lost/Zacchaeus
+- Temple authority conflicts; widow’s gift as system critique
+- Passion δεῖ + innocence; Emmaus; embodied resurrection; hinge to Acts
+
+**Pages created (1):** [[green-luke-nicnt]]
+
+**Pages extended (5):** [[luke]], [[joel-green]], [[luke-acts-unity]], [[jubilee]], [[theophilus]]
+
+**Bookkeeping:** index + sources-ingested ✅; not a discrete outstanding-sources roadmap line. Raw already under `raw/commentaries/biblical/new-testament/`. Digests retained under session cache.
+
+---
+
+## 2026-07-18 ingest | France, R. T. *The Gospel of Matthew*. NICNT. Eerdmans, 2007 — Scope 1 fidelity re-ingest
+
+**Type:** re-ingest. The 2026-06-05 pass produced two pages from a 613,000-word volume, with no source page, no scope plan, and no coverage ledger. Pre-flight classified this as a **fidelity defect, not a wiring defect**, triggering a full re-extraction under the current Scope & Fidelity standard.
+
+**Declared scope:** the commentary body, raw lines 185–9560 (413,627 words). The three indexes (lines 9561–51807, 185,418 words) are excluded as apparatus. Split into two scopes; **Scope 1 (lines 185–6245 = Matthew 1:1–16:20) read in full this session.** Scope 2 (16:21–28:20) remains a declared, unfinished portion.
+
+**Method:** eight disjoint line-ranges, one extraction subagent each, digests only (no live wiki writes at Stage 1). **2,091 claims**, each with a verbatim grounding quote and a line locus. Stage 2 integration partitioned by exclusive page ownership across six integrators; taxonomy, new-page decisions, and `texts/matthew` retained on the main thread.
+
+**Reliability findings:**
+- The plain-text conversion **dropped every footnote body**, keeping only superscript markers fused into running text. France conducts much of his engagement with secondary literature in footnotes, so this ingest captures his main-text exposition only. No position was attributed to a named scholar unless the running text names them.
+- France **explicitly declines to write a standard introduction**, stating his conclusions on authorship, provenance, date, and sources "baldly without argument" and deferring to his own *Matthew: Evangelist and Teacher* (1989). The volume is not a source for his reasoning on those questions.
+- Two structural tables (the five discourses' Marcan bases; the ch. 13 outline) did not survive the conversion.
+
+**Defects corrected on [[matthew]]:** (1) a claim that the antitheses "are not contradictions of Torah but intensifications," which **contradicts** France's actual "bypass, not abolish" position and his three-mode taxonomy; (2) a fabricated citation attributing a Papias position to "NICNT, 2007, pp. 14–22" — Papias is not named in France's Introduction; (3) pre-70 dating presented with three supporting temple-passage arguments France does not make.
+
+**Pages created (24):** [[france-matthew-nicnt]] (source page); concepts — [[kingdom-of-heaven]], [[fulfillment]], [[formula-quotations]], [[parable]], [[discipleship]], [[righteousness]], [[antitheses]], [[beatitudes]], [[sabbath]], [[purity]], [[divorce]], [[miracles]], [[exorcism]]; texts — [[sermon-on-the-mount]], [[lords-prayer]], [[genealogy-of-jesus]], [[temptation-of-jesus]]; locations — [[galilee]], [[nazareth]], [[capernaum]]; figures — [[herod-antipas]]; groups — [[twelve-apostles]], [[gentiles]]; controversies — [[synoptic-problem]].
+
+**Pages extended (10):** [[matthew]] (substantially rewritten), [[rt-france]], [[jesus]], [[john-the-baptist]], [[peter-apostle]], [[son-of-man]], [[messianic-secret]], [[pharisees]], [[old-law]], [[oral-torah]].
+
+**Contradictions recorded (not adjudicated):** [[peter-apostle]] — France, an evangelical Anglican, holds the rock **is** Peter, against the page's existing generalization that Protestants typically read it as the confession or as Christ; both preserved with attribution. [[old-law]] — France rejects the moral/ceremonial/judicial division as anachronistic, against the threefold division organizing the existing Aquinas content.
+
+**Validation:** 241 red links vs a 245 pre-ingest baseline (**4 fewer, 0 new**); YAML clean on all new pages.
+
+**Deferred deliberately:** the volume synthesis and a `hubs/texts/matthew` hub, both pending Scope 2 — building either on the Galilean half would back-project, the failure mode this re-ingest exists to correct.
+
+**Bookkeeping:** index ✅; sources-ingested ✅; raw already filed under `raw/commentaries/biblical/new-testament/`. No discrete outstanding-sources roadmap line for this title.
+
+## 2026-07-18 ingest | Matt, Daniel C. (trans.). *The Zohar: Pritzker Edition, Volume VIII* (standards reingest)
+
+**Type:** standards reingest (fidelity) of primary-text edition already first-pass ingested 2026-06-07 under pre–coverage-ledger / verbatim-locus standards (**no prior source page**). Explicit user request (after Vol VII).
+
+**Declared scope:** entire Pritzker Vol. VIII Zohar body (cache lines 362–4252; ~103k words) — Qedoshim, Emor, Be-Har, Be-Ḥuqqotai, Be-Midbar, Naso (incl. *Idra Rabba*), Be-Ha’alotekha (~3:80b–156b). Preface 294–361 main-thread framing only. Apparatus from 4253 excluded.
+
+**Integrity:** `ebook-convert` of `raw/commentaries/Zohar/The Zohar VIII - Daniel C. Matt.epub` → `_cache_vol8/zohar_viii_full.txt` (16,416 lines, ~324k words total).
+
+**Extraction:** eight digests A–H (parallel Stage-1 extractors; digests only). Zero recoveries. Cache: `raw/commentaries/Zohar/_cache_vol8/`.
+
+**Key densifications (folio-anchored):**
+- Qedoshim: holiness vigilance; midnight *zivvug*; **Torah tears up decrees** (locus corrected to Qedoshim, not Naso)
+- Emor: quiet *emor*; festivals; **ushpizin** guests of faith ([103b]–[104a])
+- Be-Har / Be-Ḥuqqotai: Jubilee; exile as Shekhinah’s *mashkona*; I Myself into exile
+- ***Idra Rabba***: Arikh Anpin / Ze’eir Anpin; thirteen beard enhancements; three Companions die by kiss; ten entered / seven emerged
+- Be-Ha’alotekha: **Torah not mere story** ([152a–b]); Miriam *El na refa na lah* eleven-letter Name ([156b])
+
+**Pages created (1):** [[matt-zohar-pritzker-vol8]]
+
+**Pages extended (~9):** [[zohar]], [[leviticus]], [[numbers]], [[holiness]], [[shimon-bar-yochai]], [[daniel-matt]], index/log/sources-ingested; link from [[matt-zohar-pritzker-vol7]].
+
+**Bookkeeping:** index + sources-ingested ✅. Raw already under `raw/commentaries/Zohar/`. Digests retained under `_cache_vol8/digests/`.
+
+
+## [2026-07-18] ingest | France, R. T. *The Gospel of Mark* (NIGTC, 2002) — fidelity re-ingest
+
+Declared scope: full commentary body (Introduction + commentary 1:1–16:8 + Appended Note on the endings + endnotes; raw lines 2680–11364). Read in full via 6 parallel extractors over disjoint line-ranges (~500 grounded claims); TOC and bibliography excluded as apparatus. Replaces the thin 2026-06-05 footprint (which predated the source-page/ledger standard). ingest-complete.
+Pages created: 1 (sources/france-mark-nigtc). Pages updated: 31 — mark, mark-ending, rt-france, messianic-secret, son-of-man, kingdom-of-heaven, discipleship, servant-songs, holy-spirit, satan, elijah, jesus, peter-apostle, john-the-baptist, herod-antipas, pontius-pilate, mary-magdalene, pharisees, sadducees, galilee, jerusalem, capernaum, nazareth, matthew, luke, isaiah, daniel, zechariah, acts, synoptic-problem, plus index/trackers. Lint: 241 broken-link entries before and after — 0 new.
+
+## 2026-07-18 ingest | Matt, Daniel C. (trans.). *The Zohar: Pritzker Edition, Volume IX* (standards reingest)
+
+**Type:** standards reingest (fidelity) of primary-text edition already first-pass ingested 2026-06-07 under pre–coverage-ledger / verbatim-locus standards (**no prior source page**). Explicit user request (after Vol VIII).
+
+**Declared scope:** entire Pritzker Vol. IX Zohar body (cache lines 408–6768; ~170k words) — Shelaḥ Lekha (incl. *Rav Metivta*), Qoraḥ, Ḥuqqat, Balaq (incl. *Yanuqa*), Pineḥas, Va-Etḥannan, Va-Yelekh, Ha’azinu (incl. *Idra Zuta*) (~3:157a–299a). Preface 326–407 main-thread framing only. Apparatus from 6769 excluded. Completes Matt’s main Torah commentary (Pritzker I–IX).
+
+**Integrity:** `ebook-convert` of `raw/commentaries/Zohar/The Zohar IX - Daniel C. Matt.epub` → `_cache_vol9/zohar_ix_full.txt` (25,158 lines, ~510k words total).
+
+**Extraction:** ten digests A–J (parallel Stage-1 extractors; digests only). Zero recoveries. Cache: `raw/commentaries/Zohar/_cache_vol9/`.
+
+**Key densifications (folio-anchored):**
+- Spies: Shekhinah departure; bodies die / souls Garden denizens
+- ***Rav Metivta***: Academies; *nafsha/ruḥa/nishmeta*; Generation of the Desert first revival
+- Qoraḥ / Ḥuqqat: right–left inversion; red heifer; *zot ḥuqqat*
+- ***Yanuqa*** + Yose of Peki’in child revival (+22 years); Balaam forced blessing
+- Pineḥas: *berit shalom*; Nadab–Abihu gilgul
+- Shema unification; Moses–Joshua sun/moon
+- ***Idra Zuta***: death as *hillula* wedding with Shekhinah
+
+**Pages created (1):** [[matt-zohar-pritzker-vol9]]
+
+**Pages extended (~8):** [[zohar]], [[numbers]], [[deuteronomy]], [[shimon-bar-yochai]], [[zoharic-afterlife]], [[daniel-matt]], index/log/sources-ingested; link from [[matt-zohar-pritzker-vol8]].
+
+**Bookkeeping:** index + sources-ingested ✅. Raw already under `raw/commentaries/Zohar/`. Digests retained under `_cache_vol9/digests/`.
+
+
+## 2026-07-18 ingest | Hamilton, Victor P. *The Book of Genesis: Chapters 1–17*. NICOT. Eerdmans, 1990 (fidelity re-ingest)
+
+**Type:** re-ingest. Prior footprint 2026-06-04 / expansion 2026-06-07 under pre–Scope-and-Fidelity standards (no source page, no line-loci coverage ledger). Fidelity defect, not wiring-only.
+
+**Declared scope:** full commentary body — Author’s Preface + Introduction I–VII (raw 221–1038) + Text and Commentary Gen 1:1–17:27 (raw 2252–7936). Excluded: Bibliography 1039–2251; Indexes from 7937.
+
+**Integrity:** 33,584 lines / 226,630 words (ebook incl. apparatus). Body ranges verified against TOC section headers.
+
+**Method:** six disjoint line-range extractors → digests only (~330 claims); Stage-2 exclusive-page integrators (commentator+text; concepts; controversies+ANE; figures) + main-thread source page. Zero range recoveries. Cache: `.cache/hamilton-genesis-1-17-reingest-2026-07-18/`.
+
+**Pages created (1):** [[hamilton-genesis-1-17-nicot]]
+
+**Pages extended (primary):** [[victor-hamilton]], [[genesis]], [[toledot]], [[imago-dei]], [[covenant]], [[creation-ex-nihilo]], [[circumcision]], [[genesis-creation-accounts]], [[documentary-hypothesis]], [[sons-of-god]], [[flood-universality]], [[genesis-ancient-near-east]], [[abraham]], [[adam]], [[noah]], [[ishmael]], [[lot]], [[melchizedek]], [[sarah]]
+
+**Key densifications:** *tôlĕdôt* as superscripts (2:4a); “composite ≠ errant” / Mosaic not required; Gen 1:1 absolute; complementary creation poles; holistic *imago*; non-dogmatic sons of God (corrected prior overstatement); moral Flood vs Atrahasis; Gen 15/17 one covenant (Hiphil *qûm*); circumcision as amen-sign.
+
+**Validation:** 241 red links — **0 new** vs post-scaffold baseline. Raw already under `raw/commentaries/biblical/old-testament/`.
+
+**Bookkeeping:** index + sources-ingested ✅. Digests retained under session cache.
+
+## 2026-07-18 ingest | Hamilton, Victor P. *The Book of Genesis: Chapters 18–50*. NICOT. Eerdmans, 1995 (fidelity re-ingest)
+
+**Type:** re-ingest (paired with Vol. 1). Prior footprint 2026-06-04 / 2026-06-07; no source page.
+
+**Declared scope:** full commentary body Gen 18:1–50:26 (raw 225–8071, incl. Author’s Preface). Introduction is in Vol. 1 only. Excluded: Indexes from 8072.
+
+**Integrity:** 34,547 lines / 381,311 words. Body cycles verified (Abraham II; Isaac/Jacob; Joseph).
+
+**Method:** six disjoint extractors → digests only (~247 claims); same Stage-2 integrator pool as Vol. 1. Zero recoveries. Cache: `.cache/hamilton-genesis-18-50-reingest-2026-07-18/`.
+
+**Pages created (1):** [[hamilton-genesis-18-50-nicot]]
+
+**Pages extended (primary):** [[victor-hamilton]], [[genesis]], [[akedah-interpretation]], [[divine-providence]], [[covenant]], [[abraham]], [[isaac]], [[jacob]], [[joseph]], [[esau]], [[sarah]], [[ishmael]], [[lot]], [[documentary-hypothesis]] (Joseph sale), [[genesis-ancient-near-east]]
+
+**Key densifications:** Akedah as test of surrendering the promise-bearer; 22:15–18 integral conditionality; anti–Isaac-Christ-as-center for NT appropriation; younger-son election + nemesis; Midianites/Ishmaelites not J/E seam; **50:20** double *ḥāšaḇ*; Judah surety / “God sent me.”
+
+**Validation:** 241 red links — **0 new**. Raw already filed.
+
+**Bookkeeping:** index + sources-ingested ✅. Digests retained under session cache. Combined V1+V2 grounded claims ~577.
+
+## 2026-07-18 reingest | Provan, Iain W. *1 and 2 Kings*. NIBC. Hendrickson/Paternoster, 1995 (Baker ebook 2012)
+
+**Type:** standards reingest (fidelity) of evangelical commentary first-pass ingested 2026-06-05 / enhanced 2026-06-07 under pre–Scope-and-Fidelity standards (**no source page**). Explicit user request to reingest 1 and 2 Kings.
+
+**Source page:** [[provan-1-2-kings-nibc]]
+
+**Declared scope:** whole commentary body — Foreword, Preface, Introduction, §1–§57 (four canonical excursuses). Excluded: Abbreviations; For Further Reading; Subject/Scripture indexes.
+
+**Extraction:** seven digests R0–R6 (~347 grounded claims). Parallel extractors (digests only; two-stage). Zero recoveries. Cache: `.cache/provan-kings-reingest-2026-07-18/`.
+
+**Pages created (1):** [[provan-1-2-kings-nibc]]
+
+**Pages extended (8):** [[1-2-kings]] (required sections + Provan anchors); [[iain-provan]] (method + characteristic positions); [[solomon]], [[elijah]], [[elisha]], [[hezekiah]] (Provan reingest sections); [[deuteronomistic-history]] (Provan caution on Dtr label); [[davidic-covenant]] (conditional/unconditional paradox + Jehoiachin hope).
+
+**Key densifications:** one book, three natures; temple prayer as heart; grace underpins law; sin of Jeroboam; salvation within judgment (Elijah/Elisha); 2 Kgs 17 Decalogue indictment; Hezekiah/Manasseh/Josiah; Jehoiachin table hope that grace may triumph over law.
+
+**Validation:** lint red-link count checked vs pre-ingest baseline (241).
+
+**Bookkeeping:** index + sources-ingested ✅; raw already under `raw/commentaries/biblical/old-testament/`. Digests: `.cache/provan-kings-reingest-2026-07-18/`.
+
+## [2026-07-18] ingest | Wolski, Nathan (trans.). *The Zohar: Pritzker Edition*, Volume X (Midrash ha-Ne’lam) — standards reingest
+
+**Type:** fidelity reingest (prior thin pass 2026-06-07; no dedicated source page then).
+
+**Declared scope:** entire Pritzker Vol. X Midrash ha-Ne’lam body (cache lines 349–5215; ~130k words) — Be-Reshit (3 slices) → Noaḥ → Lekh Lekha → Va-Yera → Ḥayyei Sarah → Toledot → Va-Yetse → Shemot → Ki Tetse + Addenda 1–3. Preface 294–348 main-thread framing only. Apparatus from 5216 excluded.
+
+**Integrity:** epub `raw/commentaries/Zohar/The Zohar X - Nathan Wolski.epub` → `raw/commentaries/Zohar/_cache_vol10/zohar_x_full.txt` (18,914 lines / ~341k words via ebook-convert). Body parashah headers verified in-file (not TOC).
+
+**Method:** eight disjoint extractors → digests only (A–H under `_cache_vol10/digests/`); main-thread integration. Stage-2: Edit-extend shared pages.
+
+**Pages created (1):** [[wolski-zohar-pritzker-vol10]]
+
+**Pages extended (primary):** [[zohar]] (Vol. X structure rewritten with folio map + load-bearing motifs), [[genesis]] (MhN subsection densified), [[exodus]] (MhN Shemot unit), [[deuteronomy]] (Ki Tetse + Addenda), [[nathan-wolski]], [[zoharic-afterlife]], [[allegorical-reading]], [[matt-zohar-pritzker-vol9]] (link to Vol X)
+
+**Key densifications:** patriarchal soul allegory (Abram/Sarai/Lot); seven openings of ascent; Bookkeeper/Dumah–Ephron registers; Shemot proto-sefirot exception; reincarnation 2–3×; Shema cools Hell; dog attribute / path of life; Wolski bilingual + authorship positions as attributed framing.
+
+**Validation:** lint red-link count compared to pre-integration baseline (242) — prove 0 new after lint pass.
+
+**Bookkeeping:** index + sources-ingested ✅. Raw already under `raw/commentaries/Zohar/`. Digests retained under `_cache_vol10/digests/`.
+
+## [2026-07-18] ingest | Bruckner, *Exodus* (UBCS) — full fidelity re-ingest
+
+**Declared scope:** entire commentary (front matter, Introduction, §1–§48; raw lines 1–5125). Read in full via 4 disjoint line-range extractors (two-stage: digests only → main-thread integration). Apparatus (For Further Reading, endnotes) excluded with reason.
+
+**Trigger:** explicit re-ingest request. Step-0 audit: June 2026 ingest had no source page / coverage ledger (pre–Scope-and-Fidelity) → fidelity re-extract; June page content audited against new digests and found faithful — densified, not corrected.
+
+**Pages:** created 1 ([[bruckner-exodus-ubcs]]). Updated 15: exodus, james-bruckner, moses, aaron, jethro, bezalel, pharaoh, israelites, amalekites, sinai-horeb, divine-name, covenant, circumcision, holiness, sacrifice. Verified current: passover, miriam, tabernacle, documentary-hypothesis.
+
+**Key densifications:** nakham "theological revolution" (32:14); four divine decisions of Exod 32–34; friendship as restoration hinge; 34:7 forgiveness-with-enduring-consequences vs Tigay; Book of the Covenant vs seven ANE codes (restorative lex talionis, slave protections); Exod 24 blood-as-life; holiness received not achieved; four-fact theology of sacrifice; Aaron calf culpability; Jethro conversion-by-testimony; dating 1299–1250 BC.
+
+**Validation:** lint broken-link count 241 = pre-ingest baseline 241 → 0 new. Raw already filed at raw/commentaries/biblical/old-testament/. Cache: session scratchpad (auto-cleaned).
+
+## [2026-07-18] ingest | Hecker, Joel (trans.). *The Zohar: Pritzker Edition*, Volume XI — standards reingest
+
+**Type:** fidelity reingest (prior thin pass 2026-06-07; no dedicated source page then; **Idra Zuta misattributed** to Vol. XI).
+
+**Declared scope:** entire Pritzker Vol. XI body (cache lines 352–4768; ~118k words) — MhN Song of Songs → MhN Ruth → MhN Lamentations → Zohar on Song of Songs → Matnitin → Tosefta → Sitrei Torah. Preface 268–351 main-thread framing only. Apparatus from ~4769 (REFERENCE MATTER) excluded.
+
+**Integrity:** epub `raw/commentaries/Zohar/The Zohar XI - Joel Hecker.epub` → `raw/commentaries/Zohar/_cache_vol11/zohar_xi_full.txt` (20,439 lines / ~423k words via ebook-convert). Body chapter headers verified in-file (not TOC).
+
+**Method:** seven disjoint extractors → digests only (A–G under `_cache_vol11/digests/`); main-thread integration. Stage-2: Edit-extend shared pages; correct Idra Zuta misattribution.
+
+**Pages created (1):** [[hecker-zohar-pritzker-vol11]]
+
+**Pages extended (primary):** [[zohar]] (Vol. XI structure rewritten with verified chapter inventory + load-bearing motifs; Idra Zuta removed from Vol. XI), [[joel-hecker]] (rewritten), [[book-of-ruth]], [[song-of-songs]], [[lamentations]], [[zoharic-afterlife]], [[shimon-bar-yochai]] (Idra Zuta → Vol. IX correction), overview/index/ledgers
+
+**Key densifications:** four *ruḥot*/kiss; large *shin*; Ruth soul architecture on YHVH letters; Dumah/Hell/Kruspedai/Sandalfon; Grace after Meals; Israel vs Babylon eulogy contest; Rashbi–Elijah Song 1:1–11 + words written above/below; Matnitin oracular voice; Sitrei Torah letter jumbling / Lot=serpent / Secret of Secrets.
+
+**Validation:** lint red-link count compared to pre-integration baseline (241).
+
+**Bookkeeping:** index + sources-ingested ✅. Raw already under `raw/commentaries/Zohar/`. Digests retained under `_cache_vol11/digests/`.
+
+## [2026-07-18] reingest | Wolski & Hecker, The Zohar: Pritzker Edition, Volume XII
+
+**Source type:** primary-text-edition (Zoharic Compositions). EPUB `raw/commentaries/Zohar/The Zohar XII - Nathan Wolski.epub` → working extract `raw/commentaries/Zohar/_cache_vol12/zohar_xii_full.txt` (19,266 lines, ~417k words; body ~134k words, lines 492–4906).
+
+**Declared scope:** entire Vol. XII body (Heikhalot Be-Reshit / Pequdei, Piqqudin, Raza de-Razin, Sitrei Otiyyot, Qav ha-Middah, Merkevet Yeḥezqel, Zohar al ha-Parashot, Tosefta-style passages). Preface + joint Introduction = main-thread framing; apparatus from Abbreviations excluded.
+
+**Method:** eight Stage-1 extractors (digests A–H) on disjoint body ranges; main-thread integration. First-pass 2026-06-07 predated coverage-ledger / verbatim-locus standards — this is a fidelity reingest.
+
+**Translator split (Introduction):** Wolski — Heikhalot Be-Reshit, Heikhalot Pequdei, Piqqudin. Hecker — Raza de-Razin, Sitrei Otiyyot, Qav ha-Middah, Merkevet Yeḥezqel, Zohar al ha-Parashot, Tosefta passages. Joint Introduction: *Zohar Ḥadash* often a misnomer for earliest material.
+
+**Key densifications (body):**
+- Heikhalot: seven holy halls (Merit/Love/Desire/Holy of Holies); “low comprised in high” (2:244b); complete name YHVH Elohim when halls join; seven impurity halls (Pit→dregs of wine).
+- Piqqudin: contiguous 47 commandments; *zakhor*/*shamor*; knowledge of God general→particular; lulav = image of Adam.
+- Raza: six traits; letters zayin/resh/he/pe/samekh/final tsadi; mutability quotes (~2:71a); ZḤ 35b–37c continuation.
+- Sitrei / Qav / Merkevet: YHVH letter-chariots; Botsina de-Qardinuta as Line of Measure; looking-glass prophecy.
+- Parashot + seven Tosefta pieces (Gen 1:1 sefirot map; milah/peri’ah; Uzza/Aza’el; Cain Nod; Noah twice; Mamre; Jacob’s angels = Abraham/Isaac souls).
+
+**Pages:** created 1 source page ([[wolski-hecker-zohar-pritzker-vol12]]); extended [[zohar]], [[heikhalot]], [[raza-de-razin]], [[nathan-wolski]], [[joel-hecker]]; index + sources-ingested.
+
+**Validation:** lint red-link inventory compared to pre-integration baseline (~243 `linked from` count).
+
+**Bookkeeping:** index + sources-ingested ✅. Not a discrete outstanding-sources roadmap line (Pritzker I–XII already listed as set). Raw already under `raw/commentaries/Zohar/`. Digests retained under `_cache_vol12/digests/`.
+
+## 2026-07-18 ingest | Hartley, John E. *The Book of Job*. NICOT. Eerdmans, 1988. — full fidelity re-ingest
+
+**Declared scope:** the whole volume body — Introduction §§I–XII (lines 402–2823) + Text and Commentary on Job 1:1–42:17 (lines 3171–10604). **Read in full.** Excluded as apparatus: §XIII Select Bibliography (2824–3170); Subject/Author/Scripture indexes (10605–22805); front-matter TOC.
+
+**Why re-ingested:** prior passes 2026-06-05 and 2026-06-07 (bulk Writings batch) produced no source page and no coverage ledger — a fidelity defect under current standards, not merely a wiring defect. Intake integrity checked before extraction (205,314 words / 22,805 lines for a ~600pp volume; ratio healthy, no conversion truncation).
+
+**Method:** 5 disjoint line-range extractors writing digests only (R1 Introduction; R2 Prologue + curse-lament + First Cycle; R3 Second and Third Cycles; R4 ch. 28 + Avowal + Elihu; R5 Yahweh speeches + Epilogue), then 3 integrators partitioned by exclusive page ownership (Edit-only on shared pages), with the main thread retaining taxonomy, new controversy pages, `canon_scope`, and the 42:6 correction. All five ranges returned complete coverage; the one seam (the ch. 28 headnote, falling between R3 and R4) was recovered directly on the main thread.
+
+**Pages created (10):** figures/eliphaz-the-temanite, figures/bildad-the-shuhite, figures/zophar-the-naamathite, figures/elihu, locations/uz, concepts/doctrine-of-retribution, concepts/behemoth-and-leviathan, controversies/job-third-cycle-integrity, controversies/elihu-speeches-authenticity, controversies/job-19-25-redeemer.
+
+**Pages updated (11):** texts/book-of-job, figures/job, figures/satan, commentators/john-hartley, concepts/theodicy, concepts/wisdom-literature, concepts/sheol, concepts/kinsman-redeemer, comparisons/the-combat-myth, controversies/job-42-6, controversies/isaiah-job-servant-direction (promoted from stub).
+
+**Corrections to pre-existing content:** (1) controversies/job-42-6 misattributed to Hartley an intransitive *ʾemʾas* "dissolve/melt" reading and a surrender of the lawsuit as such; his actual position is "I abase myself and recant," with *niḥam* as resolute redirection without remorse and the object being Job's avowal of innocence — corrected in place with a visible note. (2) concepts/wisdom-literature credited Hartley with a Job–Deuteronomy affinity absent from his parallel lists. (3) concepts/theodicy attributed *rîb* vocabulary to Hartley, who never uses the term.
+
+**Tensions recorded, not smoothed:** Hartley's 8th- vs 7th-century dating inconsistency; his 27:13–23 vs 27:14–23 verse-range inconsistency; his claim that Elihu departs from the friends against his own note that Elihu "reiterat[es] Bildad's thesis" at 34:12; his both/and Behemoth/Leviathan reading in tension with the combat-myth material on comparisons/the-combat-myth (flagged per Contradiction Protocol).
+
+**Validation:** `python3 Scripts/lint_wiki.py` — 241 broken links before and after; **0 new**. All 10 new pages carry inbound links (4–12 each); no orphans. Raw file already filed at `raw/commentaries/biblical/old-testament/`; no relocation needed.
+
+**Hub decision:** a `hubs/texts/` page for Job was considered and deliberately not built — two sources on Job, and the load is carried by the text page plus four controversy pages without strain. Recorded on the source page.

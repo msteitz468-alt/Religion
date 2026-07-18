@@ -1,5 +1,5 @@
 ---
-title: Essenes
+title: Essenism
 also_known_as: [Essenoi/Essaioi (Greek), the Qumran community (commonly identified), the yahad ("the Community"), the "men of the New Covenant in the land of Damascus"]
 parent_tradition: judaism
 type: sect
@@ -16,7 +16,7 @@ last_updated: 2026-06-09
 tags: [sect, judaism, second-temple, essenes, qumran, dead-sea-scrolls]
 ---
 
-# Essenes
+# Essenism (the Essene sect)
 
 The **Essenes** (*Essenoi* / *Essaioi* in Greek) are a separatist Jewish sect of the Second Temple period (c. 150 BCE – 68 CE), described in ancient sources by Josephus (*War* II.119-61; *Antiquities* XVIII.18-22), Philo (*Every Good Man is Free* 75-91; *Hypothetica* 11.1-18), and Pliny the Elder (*Natural History* V.73). Since 1947 they have been very widely — though not unanimously — identified with the community that produced and preserved the **Dead Sea Scrolls** at Khirbet Qumran. Vermes makes this identification confidently; the primary source evidence from the scrolls themselves aligns closely with the classical descriptions.
 
@@ -124,5 +124,9 @@ The Essenes did not survive the First Jewish Revolt. Their legacy persists throu
 - Vermes, Geza. *The Complete Dead Sea Scrolls in English* (Penguin Classics, 7th ed., 2012) — see [[dead-sea-scrolls-vermes]]
 - VanderKam, James C. *The Dead Sea Scrolls Today* (rev. ed., Eerdmans, 2010) — see [[dead-sea-scrolls-vanderkam]]
 
+## Relationship to the Essenes as a Group
+
+This page treats **Essenism as a religious system** — its canon, doctrine, hermeneutics, and relationship to the Jerusalem establishment. The companion page [[essenes|Essenes (group)]] treats the same community as a **social and historical actor**: the etymology and outsider labels, the classical descriptions in Josephus, Philo, and Pliny, and the community's place alongside the [[pharisees|Pharisees]] and [[sadducees|Sadducees]]. Per the group/sect distinction, both pages are maintained and cross-linked rather than merged.
+
 ## See Also
-[[teacher-of-righteousness]] · [[community-rule]] · [[damascus-document]] · [[habakkuk-commentary]] · [[two-spirits-doctrine]] · [[pesher]] · [[two-messiahs]] · [[sanctuary-of-men]] · [[merkabah]] · [[dead-sea-scrolls-vermes]] · [[sadducees]] · [[pharisees]] · [[rabbinic-judaism]]
+[[essenes|Essenes (group)]] · [[teacher-of-righteousness]] · [[community-rule]] · [[damascus-document]] · [[habakkuk-commentary]] · [[two-spirits-doctrine]] · [[pesher]] · [[two-messiahs]] · [[sanctuary-of-men]] · [[merkabah]] · [[dead-sea-scrolls-vermes]] · [[sadducees]] · [[pharisees]] · [[rabbinic-judaism]]

@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Hebrew
 date_range: 8th century BCE (Isaiah of Jerusalem, 740-701 BCE) per Oswalt; critical consensus dates chs. 40-55 to ca. 550-540 BCE and chs. 56-66 to ca. 520-500 BCE
-sources_ingested: 2
-last_updated: 2026-06-07
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [text, old-testament, prophets, latter-prophets, isaiah, messiah, servant-songs, holy-one-of-israel, prophecy]
 ---
 
@@ -53,7 +53,29 @@ Oswalt's defense of single authorship:
 
 **4. The theological necessity argument**: The theology of chs. 1-39 necessarily demands chs. 40-66. If God defeats Assyria (chs. 36-37) but then loses to Babylon (chs. 38-39), the whole argument about God's trustworthiness collapses unless chs. 40-55 provide the answer in advance. The book has an internal logical structure that requires a single governing intelligence.
 
-See [[servant-songs|Servant Songs / Suffering Servant]] for the implications of this debate for ch. 53's Christological status.
+See [[servant-songs|Servant Songs / Suffering Servant]] for the implications of this debate for ch. 53's Christological status, and [[isaiah-authorship|Authorship and Unity of Isaiah]] for the full position map (Döderlein/Eichhorn/Duhm origins, Torrey, Hanson/Achtemeier, Childs's canonical reading, Radday's stylometrics, and Oswalt's six argumentative moves).
+
+## Textual and Manuscript Tradition
+
+Witnesses (as reported by Oswalt, NICOT vol. 1 Introduction §VII): the MT, the LXX, the Targum, and the Qumran scrolls 1QIsaᵃ and 1QIsaᵇ. Oswalt holds the text "well preserved"; LXX variants are "frequently suspect" as smoothings ("one must reject most of these LXX variants as secondary"), and the LXX's divergences reflect an Alexandrian Hebrew text-type (Cross's local-text theory, cited by Oswalt) rather than free translation. On 1QIsaᵃ, opinions range "from almost complete rejection by H. Orlinsky to very frequent acceptance by R. Clements. The truth is probably somewhere between" (Oswalt). Sample adjudications he records:
+- 14:4 *maḏhēḇâ* (unknown word) → 1QIsaᵃ *marhēḇâ* "fury" — adopted (also by RSV/NEB/NIV)
+- 33:8 "cities" → 1QIsaᵃ "witnesses" — Duhm's old conjecture "now confirmed"
+- 21:8 MT "lion" → 1QIsaᵃ "the seer" — Lowth's conjecture confirmed
+- 37:27–28 — triple agreement of modern conjecture with 1QIsaᵃ; there "the 1QIsa reading… seems likely to be a better witness to the original than is the MT"
+- 6:13 "holy seed" — absent from LXX; 1QIsaᵃ's *bāmâ* reading (behind NEB "sacred pole") discussed; Oswalt retains the MT
+- 19:18 "City of the Sun" (*ḥeres*, Heliopolis) read with ~15 Hebrew MSS + 1QIsa against MT "destruction"
+
+Oswalt's governing text-critical rule: "Our mandate is to interpret the text as it is before us unless there is manuscript evidence to correct that text. To do anything else is to build our interpretations upon air." For the Hezekiah narratives (36–39 // 2 Kings 18–20) he argues Isaianic priority (the "Holy One of Israel" at 37:23 is Isaianic, not Kings, diction; 2 Chr 32:32), while granting that 2 Kings 20 preserves the fuller account of ch. 38 and that 38:21–22 is a harmonizing addition from Kings.
+
+## Hermeneutical Frameworks
+
+- **Oswalt (ingested)**: confessional-evangelical grammatical-historical reading with a strong final-form/canonical commitment — sustained polemic against excision and rearrangement ("It is the present text which holds authority over us"), defense of specific predictive prophecy as load-bearing ("at least in Isaiah theology and prediction are inextricably intertwined"), and explicit Christian telos (the Servant fulfilled in Jesus; "he has chosen us and redeemed us in Christ"). He uses Ugaritic/Canaanite comparanda freely (Leviathan/Lotan, Yam, the cloud-rider, *ǵlmt*) under the rule that the prophet appropriates "well-known emotive language" without adopting the mythological worldview.
+- **Historical-critical tradition (engaged throughout by Oswalt)**: source-division (Duhm), form criticism (Westermann's genres, which Oswalt often accepts descriptively), redaction criticism (Clements, Kaiser — usually rejected), canonical criticism (Childs — engaged sympathetically).
+- **Jewish reception (as reported in the source)**: Targumic messianic readings (4:2 Branch; 9:6), medieval Hezekiah-readings of 9:6; the book's later Jewish and Christian hermeneutical history awaits further sources.
+
+## Canon and Reception
+
+Canonical for all Jewish and Christian communions (see `canon_scope`). Earliest reception data reported by Oswalt: Sirach 48:24 (~190 BCE) already echoes the book's comfort of Zion; 1QIsaᵃ (~100 BCE) shows the 66-chapter form "already well established," essentially identical to the MT of 950 CE; the NT quotes Isaiah "more times than all the other prophets together (21 direct quotations and numerous allusions)." Oswalt describes the book's canonical function as "the bridge between the Already and the Not Yet" and argues it "showed that Christianity was not a Jewish heresy but was in fact part and parcel of biblical religion" — an attributed confessional claim.
 
 ## The Holy One of Israel
 
@@ -145,15 +167,73 @@ Isaiah develops the covenant-as-marriage metaphor more extensively than any othe
 
 These passages fill out the [[divine-human-marriage|Divine-Human Marriage Metaphor]] concept page.
 
+## Chapters 1–39: Chapter-Level Highlights (Oswalt, NICOT vol. 1)
+
+From the 2026-07-18 fidelity re-ingest of Oswalt's first volume:
+
+- **Chs. 1–5** were composed, Oswalt argues, "as a conscious effort to provide an introduction to the whole" book; ch. 1 is Ewald's "Grand Arraignment." The Song of the Vineyard (5:1–7) is a parable, not an allegory — like Nathan's parable, "Isaiah sets his hearers up to judge themselves."
+- **Ch. 6** is placed after chs. 1–5 "for literary and logical reasons rather than historical ones" (Leibreich: equally suited as conclusion and introduction): "Without the lived-out truth which ch. 6 presents, chs. 1–5 present an irreconcilable contradiction." The hardening commission (6:9–13) is inherent in the inaugural call — Isaiah's task "not to be successful in a merely human sense but to be faithful."
+- **7:14 (ʿalmâ)** — Oswalt's dual-focus resolution: *ʿalmâ* denotes "a sexually mature, but unmarried, young woman" ("never used of a married woman in the OT"; "Unless ʿalmâ had overtones of virginity about it, the LXX translation [parthénos] is inexplicable"). The sign "must be rooted in its own time… but it also must extend beyond that time… For such a twofold task ʿalmâ is admirably suited." Initial fulfillment: "Perhaps the most attractive option is that Immanuel and Maher-shalal-hash-baz were one and the same"; ultimate fulfillment, via 8:8's "Immanuel's land": "It can only be the Messiah." Hezekiah is excluded on chronology (born ca. 741).
+- **9:6 titles** — "The titles underscore the ultimate deity of this child-deliverer"; *ʾēl gibbôr* elsewhere always means God (10:21). The Targum reads the figure explicitly as Messiah; the oldest LXX MSS lack the titles (endnote data).
+- **10:5–19** — Assyria as "the rod of my anger": Oswalt calls this application of transcendence to the historical process "a daring and, indeed, astonishing insight."
+- **Chs. 13–23** — the oracles against the nations read as "an announcement of salvation to Israel if she would trust her Lord" (Erlandsson, endorsed): the glory, scheming, wisdom, vision, and wealth of the nations each "equals nothing… don't trust the nations!" Babylon (east) and Tyre (west) bracket the unit symbolically.
+- **14:12–15 (Helel ben Shachar)** — Oswalt sides with the Reformers against the patristic Satan-reading: "This passage is discussing human pride, which, while monumental to be sure, is still human and not angelic," while allowing (endnote) that the verses "apply to him as they do to all creatures."
+- **Chs. 15–16 (Moab)** — genuine grief: "The hand which metes out judgment is not separated from the spirit which grieves"; 16:5 is "clearly messianic… Moab's hope is identical with Judah's."
+- **19:24–25** — "In a remarkable statement Isaiah applies terms previously restricted to Israel to both Egypt and Assyria. He calls Egypt my people… and Assyria the work of my hand."
+- **Chs. 24–27** — Oswalt rejects the "Isaiah Apocalypse" label: the material is "not truly apocalyptic… but more correctly eschatological. The interest is not in triumph outside time but within time." 25:8 and 26:19 are "the highest conception of resurrection in the OT" (see [[resurrection-of-the-dead|Resurrection of the Dead]]); 27:1's Leviathan bends Canaanite Lotan language to say "the true monster… is not some primordial chaos; it is the monster of moral evil."
+- **28:16 (stone in Zion)** — after surveying eleven identifications, Oswalt declines to pick one: "The cornerstone may be the whole complex of ideas relating to the Lord's revelation of his faithfulness… That entire message would one day be summed up in Jesus Christ."
+- **30:15** — "In returning and rest, you will be saved; in quietness and in trust shall be your strength. But you would not" — with 30:18 "in some ways… the message of the book."
+- **Chs. 34–35** — the desert/garden diptych concluding 13–35: "To align oneself with the nations of the earth is to choose a desert; to trust in God is to choose a garden." [[edomites|Edom]] as "the antithesis to Israel" from Genesis to Malachi. Oswalt counters the Torrey/1QIsa two-volume theory (34–35 as introduction to 40–66) with Young's possibility that Jeremiah depends on Isaiah.
+- **Chs. 36–39** — the book's "ideological pivot," reversing chs. 7–12: the Rabshakeh stands where Isaiah stood with [[ahaz|Ahaz]] (7:3 // 36:2), and [[hezekiah|Hezekiah]] trusts where Ahaz would not. Chs. 38–39, placed out of chronological order (illness dated ca. 712/11), answer "with a resounding no" whether Hezekiah is the Messiah: trust "must become a way of life and not merely a magic talisman." Excursus I defends the historicity of 37:36 ("Cut out this event as a historical fact… and the whole theological content of the passage falls to the ground") and rejects the two-campaign theory for lack of extrabiblical evidence.
+
 ## Key Interpretive Controversies
 
-**1. Single vs. multiple authorship** (see above): The dominant critical division
+**1. Single vs. multiple authorship** (see above and [[isaiah-authorship|Authorship and Unity of Isaiah]]): The dominant critical division
 
 **2. The identity of the Servant in 52:13-53:12**: Historical individual (various proposals), collective Israel, or messianic prediction? Oswalt: "both/and" — the Servant is identified as Israel in some passages but is also the One who redeems Israel; ultimately individual, identified with divine power, and fulfilled in Jesus
 
 **3. Isaiah and Job — direction of influence**: [[john-hartley|Hartley]] argued Isaiah was influenced *by* Job (Job's suffering and Servant paradigm → Isaiah's Servant Songs → NT Christology). Oswalt's Isaiah presents the Servant Songs as Isaiah's own prophetic revelation. The scholarly question of which direction the influence ran remains unresolved.
 
-**4. Isaiah 7:14 — *ʿalmâ*** ("virgin" or "young woman"): The LXX translates with *parthenos* (virgin), the basis for Matt 1:23's Christological application. The Hebrew *ʿalmâ* means "young woman of marriageable age," not necessarily a virgin (*bĕtûlâ*). Whether the oracle was intended as a prediction of a literal virgin birth or was reapplied by Matthew to a deeper fulfillment is debated within evangelical scholarship.
+**4. Isaiah 7:14 — *ʿalmâ*** ("virgin" or "young woman"): The LXX translates with *parthenos* (virgin), the basis for Matt 1:23's Christological application. The Hebrew *ʿalmâ* means "young woman of marriageable age," not necessarily a virgin (*bĕtûlâ*). Whether the oracle was intended as a prediction of a literal virgin birth or was reapplied by Matthew to a deeper fulfillment is debated within evangelical scholarship. Oswalt's dual-focus position (see Chapter-Level Highlights above) argues the reverse of Young: *bĕtûlâ* "has no implication in addition to virginity, whereas ʿalmâ does" — the word's connotative surplus is precisely what suits the sign's two horizons. He notes the Ugaritic cognate *ǵlmt* used of a perpetually virgin goddess, "without conceding that Isaiah has merely adapted a myth."
+
+**5. The historicity of the 701 deliverance (37:36)**: destruction of Sennacherib's army (defended by Oswalt as theologically load-bearing, with a plague mechanism and Herodotus ii.141 as garbled corroboration) vs. the legend-growth explanation of the critical mainstream; entangled with the one- vs two-campaign question (Winckler/Bright) and the Isaiah-vs-Kings priority question. Positions recorded on [[sennacherib|Sennacherib]] and [[hezekiah|Hezekiah]].
+
+## Isaiah in the Gospel of Mark: France's NIGTC Reading (2026-07-18 ingest)
+
+From [[rt-france|R. T. France]], *The Gospel of Mark* (NIGTC, 2002) — see
+[[france-mark-nigtc]] — on Isaiah's role in [[mark|Mark]]'s use of the OT. All claims are
+France's unless otherwise attributed.
+
+- **Isaiah's dominance (Watts).** France draws on R. E. Watts (*Isaiah's New Exodus and
+  Mark*), stating that "Watts has convincingly demonstrated that Isaiah plays a more dominant
+  role within Mark's use of the OT than previous scholarship has recognised."
+- **The opening salvo (Mk 1:2-3).** The composite Mal 3:1/Exod 23:20 + Isa 40:3 quotation is
+  Mark's only editorial scriptural quotation in the whole gospel, attributed wholly to Isaiah
+  because the better-known Isaiah text grounds the herald idea; France argues Mark's textual
+  conflation subtly introduces a third person — with Christian hindsight, Jesus — into
+  prophecies of Yahweh's own coming. He reads the wilderness setting via Isaiah's new-Exodus
+  hope, citing Qumran's use of Isa 40:3 (1QS 8:13-14).
+- **Isa 6:9-10 at Mk 4:12.** France reads the hardening citation as typological
+  correspondence between Isaiah's and Jesus' divided receptions rather than a divine
+  intention to prevent repentance, citing Moule against the "pitiful literalism" that makes
+  Isaiah's commission an instruction to be unintelligible. He stresses the shock of 6:52,
+  where the hardened-heart/Isa 6:10 language previously used of opponents is applied to the
+  disciples.
+- **Isa 53 and the passion.** France reaffirms his long-held position that Isaiah 53 is "by
+  far the most probable source" of Jesus' conviction that he must suffer and die (with Pss 22
+  and 69, Zech 9–14, and Ps 118:22 as supporting pointers), with verbal echoes of Isa 53 at
+  Mk 10:45 and in the cup-word's "poured out for many" (14:24, recalling Isa 53:11-12); the
+  spitting of 14:65 echoes Isa 50:6. See [[servant-songs|Servant Songs]].
+- **Healings as divine work.** The Decapolis and Bethsaida healings (Mk 7:31-37; 8:22-26)
+  read against Isa 35:5-6 and 29:18 "add up to a very impressive claim with regard to who
+  Jesus is," since opening blind eyes and deaf ears is God's work in the OT.
+- **The vineyard (Mk 12:1-12).** The parable of the tenants echoes Isa 5:1-2, but "in Isaiah
+  it is the vineyard which has failed, here it is the tenants… Jesus' parable offers hope for
+  a new beginning."
+- **Cosmic imagery turned homeward (Mk 13:24-25).** The imagery draws verbally on Isa 13:10
+  (against Babylon) and Isa 34:4 (against Edom) — prophetic symbolism for political upheaval,
+  with "a savage irony in the use of words taken from Isaiah's patriotic denunciation of
+  Babylon and Edom to pronounce now the downfall of the temple" in [[jerusalem|Jerusalem]].
 
 ## Connections to the Wiki
 
@@ -170,9 +250,12 @@ These passages fill out the [[divine-human-marriage|Divine-Human Marriage Metaph
 
 Concept pages developed from this text:
 
-[[divine-glory-kabod]] · [[jubilee]] · [[new-covenant]] · [[new-creation]] · [[resurrection-of-the-dead]] · [[servant-songs]]
+[[day-of-the-lord]] · [[divine-glory-kabod]] · [[holy-one-of-israel]] · [[jubilee]] · [[new-covenant]] · [[new-creation]] · [[remnant]] · [[resurrection-of-the-dead]] · [[servant-songs]]
+
+Figures developed from this text: [[isaiah-prophet|Isaiah (prophet)]] · [[hezekiah|Hezekiah]] · [[ahaz|Ahaz]] · [[sennacherib|Sennacherib]]
 
 ## Sources Ingested
 
 1. [[john-oswalt|Oswalt, John N.]]. *The Book of Isaiah: Chapters 1–39*. NICOT. Grand Rapids: Eerdmans, 1986.
 2. [[john-oswalt|Oswalt, John N.]]. *The Book of Isaiah: Chapters 40–66*. NICOT. Grand Rapids: Eerdmans, 1998.
+3. [[rt-france|France, R. T.]]. *The Gospel of Mark*. NIGTC. Grand Rapids: Eerdmans, 2002 — for Isaiah's reception in Mark. See [[france-mark-nigtc]].

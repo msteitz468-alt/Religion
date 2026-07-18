@@ -7,7 +7,7 @@ positions:
   - Synthetic / tension-holding (both poles are deliberate)
 traditions_involved: [Christianity — evangelical, critical Protestant; Judaism — critical scholarship]
 resolution_status: open
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [controversy, old-testament, samuel, monarchy, political-theology]
 ---
 
@@ -64,6 +64,18 @@ The sin is real: the elders' motive is faithless. The accommodation is real: YHW
 
 [[david-tsumura|Tsumura]] specifically notes that the "pro-monarchic" and "anti-monarchic" passages have been "somewhat overemphasized" in their difference. The key distinction is not *institution* vs. *apostasy* but *YHWH's king* vs. *the people's king*. Saul is described at 1 Sam 15:30 as wanting to worship "the LORD *your* God" — not "my God." The possessive reveals the inner condition: Saul has become a king for the people, not a vice-regent of YHWH. David will be "the king whom God chooses for himself" (16:1).
 
+### Tsumura loci (fidelity re-ingest 2026-07-18)
+
+From [[tsumura-1-samuel-nicot|Tsumura NICOT]] on 1 Sam 8 (and structural frame):
+
+- **Structural place of ch. 8:** Discourse analysis makes 7:2–17 the *terminus* of the “Story of Samuel” (chs. 1–7); ch. 8 is an independent **transition** between Story of Samuel and Story of Saul (9–15) — not simply the first chapter of a “foundation of monarchy” block ending at 12 or 15 (against Tsevat/McCarter/Halpern as Tsumura maps them).
+- **Sin and providence together:** The request is a serious religious offense against theocracy (“they have rejected me from ruling … as a king,” 8:7); yet the Lord providentially guides “though somewhat negatively,” making Samuel the reluctant kingmaker.
+- ***melek* vs *nāgîd*:** People want a “king” (*melek*); God will give a *nāgîd* (9:16). Regardless of terms, the biblical conception (per Tsumura) is that the human king is simply vice-regent/deputy of the heavenly King.
+- **Motive “like all the nations”:** Cultural conformity and desire for a standing military judge-warrior, not waiting for YHWH to raise a judge (contrast Gideon’s refusal of hereditary rule, Judg 8:23, which Tsumura cites as foil).
+- **Ch. 12 frame:** Conditional obedience for people *and* king (12:14–15, 25); rain sign; wickedness of asking for a king held together with provisional acceptance under covenant service.
+
+Source page: [[tsumura-1-samuel-nicot]].
+
 ## The Deuteronomic Regulation (Deut 17:14-20)
 
 The Mosaic legislation anticipates a king ("You may indeed set a king over you whom the LORD your God will choose") but surrounds it with severe restrictions:
@@ -96,4 +108,4 @@ The address holds together: the request was sinful; the institution is granted; 
 
 ## Sources Ingested
 
-1. [[david-tsumura|Tsumura, David Toshio]]. *The First Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2006.
+1. [[david-tsumura|Tsumura, David Toshio]]. *The First Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2006. — Fidelity re-ingest: [[tsumura-1-samuel-nicot]].

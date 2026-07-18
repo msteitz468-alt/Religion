@@ -2,8 +2,8 @@
 title: New Covenant
 domain: theology / soteriology / eschatology
 traditions_using: [Judaism, Christianity]
-sources_ingested: 2
-last_updated: 2026-06-05
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [concept, covenant, new-covenant, jeremiah, hebrews, soteriology, forgiveness, torah, heart]
 ---
 
@@ -43,9 +43,11 @@ The basis for the entire covenant: not Israel's improved performance but YHWH's 
 
 ## Historical Context in Jeremiah
 
-The new covenant promise appears in Jeremiah 31 within the "Book of Comfort" (chs. 30-33) — written while Jeremiah was imprisoned during the final siege of Jerusalem (32:2), with the city's fall imminent. Lalleman's structural reading: the new covenant promise is only possible because the 604 BCE "point of no return" has already passed. Now that judgment is certain, only divine initiative (not human repentance) can secure a future. The new covenant is the most extreme expression of the *šûb* shift from human imperative to divine promise: God himself will write Torah on hearts, ensure that his people know him, and forgive them.
+The promise sits in the **Book of Comfort** (Jer 30–33). **Lalleman** ties it to the post-604 *šûb* arc: after Jehoiakim's scroll-burning, human repentance is no longer the path; God is subject of restoration (intro raw 1034–1035; 30–31 comment raw 4483–4484). Field-purchase narrative (32) is dated to the tenth year of Zedekiah (588), courtyard of the guard, under siege — "a remarkable context for the command to buy land" (raw 4604–4606).
 
-The adjacent passage (31:35-37) underlines the covenant's permanence by linking it to the fixed order of creation: the new covenant will be as reliable as day and night.
+**Lalleman's comment on 31:31–34** (raw 4546): Sinai vocabulary remains, but the people broke the old covenant; God makes a new one — "what was impossible in treaties between human LORDs and vassals." Law internalized on hearts (seat of will/decision); intimate knowledge of God; v. 34 does not abolish all teaching but means everyone will know from within what God wills; contrast 17:1, 9 (sin engraved; deceitful heart); forgiveness removes hindrances; corporate "my people" retained. "There is continuity between the old and the new, and yet there will be a radical new beginning." Ch. 31 Meaning: "summit of Jeremiah's message of hope"; inaugurated in Jesus' blood (Luke 22:20; also 1 Cor 11; Heb 8; 10); basis is "God's eternal love and compassion (31:3, 20)" (raw 4554–4555).
+
+**32:40** restates as **everlasting covenant** (Davidic resonance, 2 Sam 7); "I will" cascade with *šûb* God-as-subject; singleness of heart; God dedicates himself "with all my heart and soul" (reverse of usual human obligation in Deut 6) (raw 4620–4621). **31:35–37** and **33:19–26** ground permanence in creation's day/night ordinances.
 
 ## Ezekiel 36:25-27 — The Parallel Text
 
@@ -63,6 +65,21 @@ Comparison:
 | Forgiveness | "I will forgive... remember no more" (v. 34) | Cleansing from uncleanness (v. 25) |
 
 Both texts point to the same eschatological reality: YHWH will solve the problem of covenant infidelity from the inside, not by external enforcement but by internal transformation through his Spirit and his inscribed word. Paul draws on both in 2 Cor 3:3-6.
+
+**Block's qualifications (NICOT Vol. 1 re-ingest, 2026-07-18):**
+- **Ezek 16:60 is not a "new covenant."** On the everlasting covenant of 16:59–63 Block is emphatic: "Ezekiel herewith envisions not the establishment of a new covenant to meet the needs of a new historical situation, but the reinstitution, the fulfillment, of the eternal covenant made long ago" — *zākar* implies a preexistent covenant, and the primary inspiration is Lev 26:40–45 (Yahweh "remembering" the covenant after ultimate judgment). He itemizes seven links with Jer 31:31–34 but notes Ezekiel's own priestly stamp (*ʿôlām*, *hēqîm*, shame as the response to grace: "forgiveness becomes the precondition to shame").
+- **11:19–20 vs. 36:26–27.** The earlier heart-transplant promise (the "single heart" showing Jer 32:39's influence) is for Block "clearly anthropological — the transformation of the human spirit," whereas in 36:26–27 "'a new spirit' merges with 'my spirit.'" The covenant formula's first occurrence in the book (11:20) he derives "from ancient legal terminology, specifically the marriage ceremony."
+- **The command form.** In 18:31 ("make yourselves a new heart and a new spirit") the imperative "does not mean that Ezekiel believes his audience capable of moral and spiritual self-transformation. The command… is a rhetorical device, highlighting the responsibility of the nation."
+
+### Ezekiel 25–48 (Block, NICOT Vol. 2 ingest, 2026-07-18)
+
+From [[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]]:
+
+- **The covenant of peace (34:25–30) is monergistic and unconditional.** Block emphasizes that *kārat lĕ* ("to cut *for*") rather than *kārat ʾet* "highlights the monergistic nature of this covenant." Against Lev 26's conditional blessings (compared in his full synoptic table): "Ezekiel drops all hints of contingency, citing no qualifications or human preconditions and making no appeal for repentance… The complete destruction of the old order had freed him from the burdens of the nation's past infidelity and allowed him to begin anew." The *bĕrît šālôm* resumes the *bĕrît ʿôlām* of 16:60; its paradigm, via Isa 54:7–10, is the postdiluvian Noahic covenant; *šālôm* means "wholeness, harmony, fulfillment," not mere absence of hostility. The climax (v. 30) is "his announcement of the new covenant… the reestablishment of the covenant relationship."
+- **36:26–28 and Jeremiah.** Block: "A comparison of these verses with Jer. 31:33 suggests Jeremianic influence. Jeremiah and Ezekiel obviously have the same covenant renewal in mind, but what Jeremiah attributes to the divine Torah, Ezekiel ascribes to the infusion of the divine rûaḥ." He distinguishes *lēb* and *rûaḥ*: the new heart is "given to (nātan lĕ)" the Israelites, the spirit "placed within (nātan bĕqereb)" them, identified as Yahweh's own rûaḥ; the heart of stone "speaks of coldness, insensitivity, incorrigibility, and even lifelessness," requiring a solution "more radical even than the circumcision of the heart prescribed by Deut. 30:6–8."
+- **37:26: renewed, not novel.** On the *bĕrît ʿôlām* of 37:26 Block answers the new-vs-renewed question with six clues (covenant formula; truncated land-grant; Abraham-like multiplication; residence promise; 16:60–63's "remembering" implying "a preexistent entity"; restoration always cast in terms of past realities): "The terms of the covenant made at Sinai thus provide the background not only for Israel's judgment but also for the hope of restoration… the present complex of promises bears a striking resemblance to Lev. 26:1–13."
+- **39:29: the Spirit as covenant seal.** The outpoured Spirit — transformed from the judgment cliché *šāpak ḥămātî* and distinguished from the *nātan* of 36:27 — "serves as a sign and seal of the covenant… Yahweh's mark of ownership," sealing the *bĕrît šālôm/bĕrît ʿôlām* of 37:26; Block pictures rûaḥ here "as a sort of divine fluid."
+- **Old-Covenant Spirit-infusion (Block's excursus).** Block argues against "the view that in ancient Israel the Holy Spirit came upon persons for specific tasks, but in the church he indwells the believer," on four grounds: it conflates "spiritual endowment and spiritual infusion"; it misses "ecclesiological continuity between the Testaments" ("under the Old Covenant regeneration was achieved not by works of righteousness but by Yahweh's infusion of the individual with his Spirit," with Gen 2:7 as paradigm); Ps 51:12–13 (with Isa 63:10–11, the only OT occurrences of *rûaḥ qodšĕkā*); and John 3:5–8, where Jesus' rebuke of Nicodemus "appear[s] to be based on Ezek. 36:25–29."
 
 ## Related OT Promises
 
@@ -111,11 +128,25 @@ The Greek *kainḕ diathḗkē* (new covenant/testament) is the term from which 
 - **[[hesed|*ḥesed*]]** — The new covenant is grounded in YHWH's *ḥesed* (covenant commitment); "I will remember their sin no more" is the ultimate expression of unconditional *ḥesed*
 - **[[servant-songs|Servant Songs]]** — The Suffering Servant's ministry in Isa 53 makes the forgiveness of the new covenant possible; the two texts are canonically linked
 
+## Goldingay NICOT — Fidelity Reingest Note (2026-07-18)
+
+From [[goldingay-jeremiah-nicot]] on Jer 31:31–34 (and links at 24:7; 32:40):
+
+- Translates *bərît* as **“pledge”** and “cut/solemnize a new pledge” with Israel’s and Judah’s households.
+- Contrasts Sinai pledge they **violated**, when Yahweh was **husband/*bāʿal*** to them.
+- New content: tôrâ written on the mind; all know Yahweh; pardon as ground.
+- Relation of Yahweh’s transforming action and Israel’s **turning** left mysterious (// Deut 30:1–10; order differs).
+- Not permission to do as one likes; Qumran “new covenant” and Hebrews reception noted without flattening.
+- 32:40 reformulates as pledge lasting for all time + one mind/path.
+
+Record alongside Lalleman’s “summit of hope” / continuity-with-radical-new-beginning reading (not adjudicated).
+
 ## Sources Ingested
 
-1. [[john-goldingay|Goldingay, John]]. *The Book of Jeremiah*. NICOT. Grand Rapids: Eerdmans, 2021.
-2. [[hetty-lalleman|Lalleman-de Winkel, Hetty]]. *Jeremiah and Lamentations*. TOTC 21. Downers Grove: InterVarsity Press.
+1. [[john-goldingay|Goldingay, John]]. *The Book of Jeremiah*. NICOT. Grand Rapids: Eerdmans, 2021. — Fidelity re-ingest: [[goldingay-jeremiah-nicot]].
+2. [[lalleman-jeremiah-lamentations-totc|Lalleman-de Winkel, Hetty]]. *Jeremiah and Lamentations*. TOTC 21. IVP, 2013 — full-body re-ingest 2026-07-18.
 3. [[daniel-block|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 1–24*. NICOT. Grand Rapids: Eerdmans, 1997.
+4. [[block-ezekiel-25-48-nicot|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 25–48*. NICOT. Grand Rapids: Eerdmans, 1998 — covenant of peace (34:25–30), 36:26–28 rûaḥ vs Torah, 37:26 *bĕrît ʿôlām*, 39:29 Spirit as seal, Old-Covenant Spirit-infusion excursus.
 
 ## Related Texts
 

@@ -73,6 +73,10 @@ the "earth-dwellers" in a last pogrom against God's people. Key features:
   theme that Satan can only *imitate* what God has already done. The beast's "mortal wound that was
   healed" (13:3, 12, 14) imitates the death and resurrection of Christ and likely reflects the **Nero
   *redivivus*** legend.
+- **Excursus densification (fidelity re-ingest):** the Antichrist is a **person embodying empire**,
+  not empire alone; fatal wound healed is christological parody in Nero *redivivus* form; false
+  prophet (earth beast) is the religious agent of the first beast; mark as ownership-seal parody
+  with economic exclusion.
 - **The mark and the number "666" (13:16–18).** Osborne reads the number **symbolically** — the
   number of humanity/imperfection (falling short of the divine 7, trebled) — and the "mark" as a
   parody of God's sealing of the saints (7:3), i.e., a sign of *ownership/allegiance*, not a literal
@@ -104,7 +108,7 @@ The Protestant Reformation applied "antichrist" to the papacy (Luther). The spec
 - Concepts: [[apocalyptic-literature|Apocalyptic Literature]] (eschatological context); [[daniel|Daniel]] (OT background, Dan 10–12)
 - Figures: [[satan|Satan / the Devil]] — the dragon who empowers the beast; the related but distinct cosmic adversary; and [[secularization-of-evil|the modern "death of Satan"]]
 - Commentators: [[i-howard-marshall|I. Howard Marshall]], [[colin-kruse|Colin G. Kruse]], [[jeffrey-weima|Jeffrey A. D. Weima]], [[grant-osborne|Grant R. Osborne]]
-- Revelation: [[revelation|The Revelation to John]] (the beast, chs. 13, 17); [[revelation-interpretive-schools|The Four Interpretive Schools]]
+- Revelation: [[revelation|The Revelation to John]] (the beast, chs. 13, 17); [[osborne-revelation-becnt|Osborne BECNT]] (Antichrist excursus + chs. 13, 17); [[revelation-interpretive-schools|The Four Interpretive Schools]]
 
 ## Related Texts
 

@@ -12,7 +12,7 @@ positions:
 traditions_involved: [Christianity — evangelical, liberal Protestant, Catholic; Judaism — modern critical]
 sources_ingested: 3
 resolution_status: open
-last_updated: 2026-06-07
+last_updated: 2026-07-18
 tags: [controversy, ethics, old-testament, joshua, warfare, herem]
 ---
 
@@ -137,6 +137,8 @@ Tsumura does not develop a sustained theological defense of the *ḥerem* as a w
 
 **Samuel's execution of Agag is the *completion* of the *ḥerem*, not a sacrifice**. McCarter suggests Samuel's action was "sacrificial butchering," pointing to the phrase "before the LORD" (15:33) and the context of a sacrificial site at Gilgal. Tsumura rejects this: Samuel's action is categorically the *ḥerem* (the "ban") — the same as Achan's judgment in Joshua 7. The phrase "before the LORD" marks a cultic setting but does not define the act as sacrifice. Saul failed to execute the divine command; Samuel completes it.
 
+**Fidelity re-ingest loci (2026-07-18, [[tsumura-1-samuel-nicot]]):** On 15:9 Tsumura stresses that Saul *and the people* spare Agag and the best livestock — “partial fulfillment is not a possibility” in ban logic; purpose was God’s ancient command, not spoil; war “after fashion of other wars” profanes the holy (Hertzberg via Tsumura). Central verdict 15:22–23: “obedience is better than sacrifice”; rebellion = sin of divination; rejecting the word = rejection from kingship. Poetic *lex talionis* over Agag (15:33) framed as two-line parallelism.
+
 **The theological climax of 1 Sam 15 is the equation of disobedience with idolatry** (15:23):
 
 > "For rebellion is the sin of divination; presumption is wickedness and idolatry. Because you have rejected the word of the LORD, he has rejected you from being king."
@@ -177,5 +179,5 @@ This controversy is **open** across all traditions. No consensus exists on how t
 
 1. [[marten-woudstra|Woudstra, Marten H.]]. *Joshua*. NICOT. Grand Rapids: Eerdmans, 1981.
 2. [[barry-webb|Webb, Barry G.]]. *Judges*. NICOT. Grand Rapids: Eerdmans, 2012.
-3. [[david-tsumura|Tsumura, David Toshio]]. *The First Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2006.
+3. [[david-tsumura|Tsumura, David Toshio]]. *The First Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2006. — Fidelity re-ingest: [[tsumura-1-samuel-nicot]].
 4. [[coogan-oxford-history-biblical-world|Coogan, Michael D., ed.]]. *The Oxford History of the Biblical World*. Oxford, 1998. (Historical-critical/archaeological angle: the conquest as largely non-historical; see [[jericho]], [[hazor]], [[israelites]].)

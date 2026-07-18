@@ -6,7 +6,7 @@ textual_sources: [2 Samuel 7; 2 Samuel 12; 1 Kings 1; 1 Chronicles 17, 29; 2 Chr
 dates: [10th century BCE (traditional); floruit at the court of David and accession of Solomon]
 roles: [court prophet, oracle-bearer, royal conscience, kingmaker]
 sources_ingested: 1
-last_updated: 2026-06-09
+last_updated: 2026-07-18
 tags: [figure, judaism, christianity, old-testament, prophet, davidic-covenant, court-narrative]
 ---
 
@@ -76,3 +76,7 @@ befogged old king that he did, the text leaves pointedly open.
 
 Not to be confused with **Nathan son of David** (a son born in Jerusalem, 2 Sam 5:14,
 ancestor in Luke's genealogy), nor with the modern scholar [[nathan-wolski|Nathan Wolski]].
+
+## Tsumura (NICOT 2 Samuel) — Fidelity Reingest Note (2026-07-18)
+
+[[david-tsumura|Tsumura]]: Court prophet first approving temple impulse, then overnight oracle; 2 Sam 7 discourse grammar PAST/PRESENT/FUTURE; same prophet who delivers eternal *ḥesed* later delivers “You are the man” (12:7) — covenant not cancelled by discipline. Source: [[tsumura-2-samuel-nicot]] · [[davidic-covenant]].

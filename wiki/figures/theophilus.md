@@ -5,8 +5,8 @@ tradition: Christianity
 textual_sources: [Gospel of Luke, Acts of the Apostles]
 dates: 1st century CE
 roles: [narratee, patron]
-sources_ingested: 1
-last_updated: 2026-06-06
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [figure, christianity]
 ---
 
@@ -34,7 +34,7 @@ As explicit narratee, Theophilus represents Luke's intended audience: educated, 
 - **Patronage implications**: The dedication implies Theophilus' support for dissemination; this affects how we understand the work's intended circulation (not purely private).
 
 **Influence on Commentary Traditions**:
-- **Green (Luke)**: Theophilus as real patron of high status who has been "instructed" but needs certainty. The prologue frames the entire two-volume work as an orderly, eyewitness-based narrative whose purpose is assurance. The address is both personal and representative of an audience navigating the social/political implications of the Jesus movement.
+- **Green (Luke)**: Theophilus as real patron of high status who has been "instructed" but needs certainty. The prologue frames the entire two-volume work as an orderly, eyewitness-based narrative whose purpose is assurance. The address is both personal and representative of an audience navigating the social/political implications of the Jesus movement. Fidelity re-ingest ([[green-luke-nicnt]], 2026-07-18): Green stresses that for Theophilus the primary ingredient is *order* of narrative; concern is less “Did it happen?” than “What happened?” and “What does it mean?” — narration is proclamation (ἀσφάλεια via persuasive sequence). Preface-form also signals release for wider public dissemination beyond a private dedicatee.
 - **Bock (Acts)**: Reinforces the patron relationship and the unified purpose across Luke-Acts. The "first book" reference and the historical monograph genre serve readers like Theophilus who need reliable grounding in the origins of the new community.
 - Broader: Influences understandings of Luke-Acts as apologetic historiography aimed at educated readers; model for dedications in early Christian literature. Cross-tradition: highlights the conventional yet purposeful address in Greco-Roman literary culture.
 

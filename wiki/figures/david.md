@@ -5,8 +5,8 @@ tradition: Judaism / Christianity / Islam / cross-tradition
 textual_sources: [1 Samuel 16–31; 2 Samuel 1–24; 1 Kings 1–2; 1 Chronicles 11–29; Psalms (many attributed); Matthew 1:1, 6, 17; Luke 1:32; Acts 2:25–36; 13:22–23; Romans 1:3; Hebrews 11:32; and numerous prophetic references]
 dates: [traditional c. 1010–970 BCE; floruit as shepherd, warrior, king of Judah (Hebron 7 years), king of all Israel (Jerusalem 33 years)]
 roles: [shepherd, musician, warrior, anointed king, psalmist, sinner (Bathsheba/Uriah), repentant, covenant recipient, temple planner, father of Solomon]
-sources_ingested: 4
-last_updated: 2026-06-09
+sources_ingested: 5
+last_updated: 2026-07-18
 tags: [figure, judaism, christianity, islam, old-testament, david, kingship, messiah, covenant, psalmist]
 ---
 
@@ -79,9 +79,36 @@ otherwise cold political testament — "nobody in the David story talks like thi
 literary reading is recorded alongside the historical-critical and confessional readings per
 the Contradiction Protocol.
 
+## Block on "My Servant David" in Ezekiel (34:23–24; 37:24–25)
+
+Daniel Block ([[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]]) treats Ezekiel's
+promise of "my servant David" as genuinely messianic: against "most scholars" who reject the
+messianic interpretation elsewhere in the book, he holds that "Ezekiel does in fact make
+several clear messianic pronouncements (34:24; 37:24; cf. 17:22)." On 34:23–24 he rules out
+two readings: "There is no thought in these prophecies of the resurrection of the historical
+king, as some kind of David redivivus," and the singular "shepherd" with the emphasis on
+*ʾeḥād* ("one") also "preclude[s] the restoration of the dynasty in the abstract … He
+envisions a single person, who may embody the dynasty but who occupies the throne himself" —
+grounded in Nathan's oracle (2 Sam 7) and Jer 33's irrevocable covenant. In 37:24 the shift
+from *nāśîʾ* to *melek* signals full nationhood: "To the prophet's audience, the use of
+*nāśîʾ* would have signified less than complete restoration"; naming David "affirms the
+eternality of his original promise to David (2 Sam 7:16)" and "discredits all past rulers."
+Yet Block notes a striking limit: "Remarkably, he plays no part in the restoration of the
+nation. He neither gathers the people nor leads them back … But the Messiah's personal
+presence symbolizes the reign of Yahweh in the glorious new age." Block distinguishes this
+Davidic figure from the cultic *nāśîʾ* of chs. 40–48, whose role is "facilitative, not
+regally symbolic," with "silence on the Davidic connection." In NT reception, he reads
+Jesus' Good Shepherd claim (John 10) against Ezek 34 as, to the Jewish leaders, "a
+blasphemous identification with deity" — since in Ezekiel "the true shepherd of God's people
+is the Lord himself."
+
 ## Influence on Commentary Traditions
 
 Tsumura (NICOT 1–2 Samuel) stresses the literary unity (Hannah's Song to David's Song/Last Words), the reversal theme, providence in ordinary events, the Davidic covenant as theological center, and the MT as reliable. The figure dominates Jewish liturgy (Psalms), Christian hymnody and preaching (shepherd, king, penitent), and theology (covenant, messianism, the "heart" God seeks). The Bathsheba story and Ps 51 are central to doctrines of sin, repentance, and grace. The covenant (2 Sam 7) is foundational for kingdom theology and Christology. Modern scholarship (narrative criticism, social-scientific) explores honor-shame, kinship, and the complexity of David's character. David remains the most fully portrayed human figure in the OT and the bridge to the Messiah in both testaments.
+
+**Tsumura 1 Samuel fidelity re-ingest (2026-07-18):** 16:1–13 as A/aB link into Story of Saul-and-David; heart vs outward appearance (16:7); *ḥămôr leḥem* archaic calque (16:20); Goliath — “battle is the LORD’s”; Jonathan covenant / robe gift as give vs Saul’s take; Nob → Abiathar preserves priesthood and oracle with David; twice spares “the LORD’s anointed” (24, 26); Abigail restrains bloodguilt (25; *bayit neʾĕmān* trajectory toward 2 Sam 7); Endor oracle already names kingdom transfer; Gilboa opens path to elegy and messianic “anointed.” Source: [[tsumura-1-samuel-nicot]].
+
+**Tsumura 2 Samuel fidelity re-ingest (2026-07-18):** 2 Sam 1 A/aB link + elegy; Jerusalem/ark; **ch. 7** eternal house (discourse PAST/PRESENT/FUTURE); Bathsheba AXB “great turning point” + genuine repentance; Absalom revolt enacts sword-on-house; Song/Last Words epilogue center; census → Araunah temple site. Source: [[tsumura-2-samuel-nicot]].
 
 **Key Links**:
 - [[1-samuel|1 Samuel]] and [[2-samuel|2 Samuel]] (Tsumura on structure, covenant, reversal)

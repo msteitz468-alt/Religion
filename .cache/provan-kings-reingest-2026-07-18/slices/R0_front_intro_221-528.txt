@@ -1,0 +1,308 @@
+Foreword
+
+
+
+* * *
+
+
+
+
+
+As an ancient document, the Old Testament often seems something quite foreign to modern men and women. Opening its pages may feel, to the modern reader, like traversing a kind of literary time warp into a whole other world. In that world sisters and brothers marry, long hair mysteriously makes men superhuman, and temple altars daily smell of savory burning flesh and sweet incense. There, desert bushes burn but leave no ashes, water gushes from rocks, and cities fall because people march around them. A different world, indeed!
+
+Even God, the Old Testament’s main character, seems a stranger compared to his more familiar New Testament counterpart. Sometimes the divine is portrayed as a loving father and faithful friend, someone who rescues people from their greatest dangers or generously rewards them for heroic deeds. At other times, however, God resembles more a cruel despot, one furious at human failures, raving against enemies and bloodthirsty for revenge. Thus, skittish about the Old Testament’s diverse portrayal of God, some readers carefully select which portions of the text to study, or they avoid the Old Testament altogether.
+
+The purpose of this commentary series is to help readers navigate this strange and sometimes forbidding literary and spiritual terrain. Its goal is to break down the barriers between the ancient and modern worlds so that the power and meaning of these biblical texts become transparent to contemporary readers. How is this to be done? And what sets this series apart from others currently on the market?
+
+This commentary series will bypass several popular approaches to biblical interpretation. It will not follow a precritical approach that interprets the text without reference to recent scholarly conversations. Such a commentary contents itself with offering little more than a paraphrase of the text with occasional supplements from archaeology, word studies, and classical theology. It mistakenly believes that there have been few insights into the Bible since Calvin or Luther. Nor will this series pursue an anticritical approach whose preoccupation is to defend the Bible against its detractors, especially scholarly ones. Such a commentary has little space left to move beyond showing why the Bible’s critics are wrong to explaining what the biblical text means. The result is a paucity of vibrant biblical theology. Again, this series finds inadequate a critical approach that seeks to understand the text apart from belief in the meaning it conveys. Though modern readers have been taught to be discerning, they do not want to live in the “desert of criticism” either.
+
+Instead, as its editors, we have sought to align this series with what has been labeled believing criticism. This approach marries probing, reflective interpretation of the text to loyal biblical devotion and warm Christian affection. Our contributors tackle the task of interpretation using the full range of critical methodologies and practices. Yet they do so as people of faith who hold the text in the highest regard. The commentators in this series use criticism to bring the message of the biblical texts vividly to life so the minds of modern readers may be illumined and their faith deepened.
+
+The authors in this series combine a firm commitment to modern scholarship with a similar commitment to the Bible’s full authority for Christians. They bring to the task the highest technical skills, warm theological commitment, and rich insight from their various communities. In so doing, they hope to enrich the life of the academy as well as the life of the church.
+
+Part of the richness of this commentary series derives from its authors’ breadth of experience and ecclesial background. As editors, we have consciously brought together a diverse group of scholars in terms of age, gender, denominational affiliation, and race. We make no claim that they represent the full expression of the people of God, but they do bring fresh, broad perspectives to the interpretive task. But though this series has sought out diversity among its contributors, they also reflect a commitment to a common center. These commentators write as “believing critics”—scholars who desire to speak for church and academy, for academy and church. As editors, we offer this series in devotion to God and for the enrichment of God’s people.
+
+ROBERT L. HUBBARD JR.
+
+ROBERT K. JOHNSTON
+
+Editors
+
+
+
+
+
+* * *
+
+
+
+
+
+Preface
+
+
+
+* * *
+
+
+
+
+
+Academic man is no more an island than any other kind, and no piece of academic work is ever entirely the product of one person’s efforts. This commentary, for example, was largely written during a period of sabbatical leave from the University of Edinburgh in the summer of 1993; and if leave had not been made possible, it would not yet have been written. Thanks are therefore due to my colleagues in the Faculty of Divinity, some of whom bore extra burdens because of my absence. I would like to thank in particular Dr. Graeme Auld, who has proved during my time in Edinburgh to be a most stimulating partner in dialogue about Kings, and who very kindly allowed me to read an advance copy of his interesting new book on textual and compositional matters, Kings Without Privilege (Edinburgh: T. & T. Clark, 1994). I am also most grateful to those who created the immediate environment in which I was able to work. I was privileged to hold a Visiting Fellowship at Clare Hall, Cambridge, throughout my time away from Edinburgh, and greatly enjoyed participating in the life of that community. My thanks are due to the President and the Fellows of the college for their invitation to join with them. Tyndale House, Cambridge, provided excellent accommodation and library resources, and—most important of all—a stimulating academic and spiritual context in which to do my daily work. I am deeply grateful to the staff and to my fellow workers for the experience. My family remain, finally, the solid mortal rock upon which all my enterprises are built and the touchstone for their connection with reality. They endured the project bravely and coped particularly well with the discovery that the relationship between the English noun “sabbatical” and the Hebrew verb šābaṯ (“cease, desist, rest”) is a tenuous one. The book is dedicated to my children, as a token of my love for them and as a witness to my aspirations for their future.
+
+Three people need to be thanked in particular for their efforts in reading the manuscript. As it was being produced, the whole book was read by Dr. Lynette Provan and by Dr. Phil Long. Both applauded sufficiently to be encouraging, and both offered criticism that has undoubtedly made it a better book than it otherwise would have been. I regard the presence of the Long family at Tyndale House during my time there as, in fact, providential. This is not only because of the benefits that I gained from talking with Phil and reading his excellent new book, The Art of Biblical History (FCI; Grand Rapids: Zondervan, 1994). It is also because of the babysitting facilities that they were able (and always willing) to offer. Such things are not unimportant. Towards the end of the process of composition, Dr. Philip Satterthwaite kindly read the introduction and offered helpful comment upon it. To all three, I express my warm appreciation.
+
+A brief word is required about citations. My general policy has been to cite in the additional notes to each section of the commentary only certain very recent books and articles that touch upon what I consider important points of interpretation and that have not been taken into account by previous commentators on Kings. The preface is the place, therefore, where I must make clear how indebted I am to all those who have written before me. In this respect, too, the academic is far from being an island. I would like to have some trees left on my bit of land, however; so I cannot possibly mention everyone by name.
+
+Iain Provan
+
+New College, Edinburgh
+
+
+
+
+
+* * *
+
+
+
+
+
+Abbreviations
+
+
+
+* * *
+
+
+
+
+
+AB Anchor Bible
+
+ANET J. B. Pritchard, ed., Ancient Near Eastern Texts
+
+b. Babylonian Talmud
+
+BA Biblical Archaeologist
+
+B. Bat. Baba Bathra
+
+Ber. Berakot
+
+Bib Biblica
+
+BHS Biblia hebraica stuttgartensia
+
+B&L The Bible and Literature Series
+
+BSem The Biblical Seminar
+
+BZAW Beihefte zur ZAW
+
+CBQ Catholic Biblical Quarterly
+
+CBQMS Catholic Biblical Quarterly Monograph Series
+
+ConB Coniectanea Biblica
+
+DSB Daily Study Bible
+
+EBC Everyman’s Bible Commentary
+
+ExpT Expository Times
+
+FCI Foundations of Contemporary Interpretation
+
+FOTL Forms of the Old Testament Literature
+
+Gen. Rab. Genesis Rabbah
+
+Gk. Greek
+
+GKC E. Kautzsch, ed., Gesenius’ Hebrew Grammar, trans. A. E. Cowley
+
+Hb. Hebrew
+
+HTR Harvard Theological Review
+
+HSM Harvard Semitic Monographs
+
+IBC Interpretation: A Bible Commentary for Teaching and Preaching
+
+IBD J. D. Douglas, ed., The Illustrated Bible Dictionary
+
+ICC International Critical Commentary
+
+ICT Issues inContemporary Theology
+
+Int Interpretation
+
+ITC International Theological Commentary
+
+JBL Journal of Biblical Literature
+
+JSOT Journal for the Study of the Old Testament
+
+JSOTSup Journal for the Study of the Old Testament, Supplement Series
+
+JSS Journal of Semitic Studies
+
+lit. literally
+
+LXX Septuagint
+
+MS(MSS) manuscript(s)
+
+MT Masoretic Text
+
+NCB New Century Bible
+
+NIV New International Version
+
+NT New Testament
+
+OBS The Oxford Bible Series
+
+OT Old Testament
+
+OTL Old Testament Library
+
+OTS Oudtestamentische Studiën
+
+POS Pretoria Oriental Series
+
+Proof Prooftexts
+
+RB Revue Biblique
+
+RSV Revised Standard Version
+
+Sanh. Sanhedrin
+
+SBLDS Society of Biblical Literature Dissertation Series
+
+SBLMS Society of Biblical Literature Monograph Series
+
+SHANE Studies in the History of the Ancient Near East
+
+SJOT Scandinavian Journal of the Old Testament
+
+SJT Scottish Journal of Theology
+
+TC Tyndale Commentaries
+
+Tg. Targum
+
+UCOP University of Cambridge Oriental Publications
+
+VT Vetus Testamentum
+
+VTSup Vetus Testamentum Supplements
+
+War The Jewish War
+
+WBC Word Biblical Commentary
+
+WBT Word Biblical Themes
+
+ZAW Zeitschrift für die alttestamentliche Wissenschaft
+
+
+
+
+
+* * *
+
+
+
+
+
+Introduction
+
+
+
+* * *
+
+
+
+
+
+First and Second Kings represent two parts of what must clearly be thought of as one book.[1] Kings will consequently be referred to throughout this commentary as “the book” rather than “the books” of Kings. That is not to imply, of course, that this “book” is itself a self-contained entity that may be read in splendid isolation from the other books of the OT. On the contrary, it constantly presupposes knowledge of the story of Israel thus far, whether in Samuel (its close connection to which is well captured in the LXX title “1–4 Reigns” for Samuel-Kings); in Joshua and judges (cf. the traditional Jewish designation “The Former Prophets” for Joshua-Kings); or in the Pentateuch (particularly Deuteronomy). It also frequently invites reflection upon itself in the light of the prophetic and other writings of the OT.[2] This is a book that must be read with an eye to all the other books comprising the library that Christians call “the Old Testament.” Indeed, a truly Christian reading will involve reflection upon the meaning of Kings in the total canonical context of the Christian Bible. The Book is the environment in which the individual book must be read.
+
+The book of Kings tells us a story; it is narrative literature. It is a story that is certainly about the past (whatever else it may also be about); it is literature with historiographical intent. It is, finally, didactic literature—it seeks to teach its readers a number of things about God and the ways of God. By way of introduction we shall explore each of these three aspects of the nature of the book further.[3]
+
+The Book of Kings as Narrative Literature
+
+The book of Kings is narrative literature, rather than some other sort. A story is narrated, presenting a number of characters; events follow each other in chronological sequence; and verbal and thematic links bind the whole entity together. The main characters in the story are the LORD God of Israel, various Israelite kings and prophets, and a number of significant foreigners—although it is not always the main characters who are given prominence.[4] The plot is concerned with the attempt that Israel makes (or more often, does not make) under its monarchy to live as the people of God in the promised land and with how God deals with the Israelites in their success and failure. It is a plot worked out gradually, as king succeeds king, from David (1 Kgs. 1:1) to Zedekiah (2 Kgs. 25:7), with an epilog reserved for Jehoiachin (25:27–30), and in an ordered way, as the reign of each king finds its particular place in the book’s framework. That framework characteristically tells us when, in relation to another king, a certain monarch came to the throne, how long he reigned, and the name of his capital city. We learn about his death/burial and his successor and about where to look for further information about him. We are offered an evaluation of him in terms of his religious policy. In the case of Judean (rather than northern Israelite) kings, we are told the name of his mother and his age at his accession to the throne. A good example of the full set of these so-called “regnal formulae” occurs in 1 Kings 22:41–43, 45, 50. With their general regularity of expression throughout Kings, the formulae contribute much to the book’s sense of coherence—to the sense that it “hangs together” as a single piece of work (compare, e.g., 1 Kgs. 14:22–24 with 2 Kgs. 16:2–4, and both with 2 Kgs. 17:7–11). In fact, ancient tradition ascribed the book to a single author—to the prophet Jeremiah (cf. b. B. Bat. 15a).
+
+Modern scholars have, on the whole, doubted the reliability of this tradition. They have generally doubted, indeed, whether a single author could have written the whole book at all. Although they acknowledge a significant degree of coherence within it, they claim to find a greater or lesser degree of incoherence as well—features that are unexpected in the work of a single author (e.g., inconsistencies, repetitions, variations in style and language). This suggests that the person who put Kings together was not able to do just as he wished. He was to a greater or lesser extent constrained by the material available to him, unable or unwilling to impose complete consistency upon it.[5] Alternatively (or in addition), the original work has been expanded by one or more editors.[6] They too were constrained by what lay before them, and they too were able to make the text convey their particular message only to a certain extent. What we have in Kings, then, is a composite work, put together over a period of time by a number of authors or editors, its various parts speaking with more or less conflicting voices.[7] Some voices may be louder than others, but they are still unable entirely to drown out their fellows.
+
+Given this general perception of the nature of Kings, it is hardly surprising that scholarly reading of the book as a book in the modern period has generally ceased. It is not difficult at all to find monographs and articles written in the last two centuries that hypothesise about the original source material used by the editors of Kings or about the various levels of editing that might exist in the text.[8] It is not even very difficult to find discussion of the theology or theologies of the various people supposed to have been responsible for the book.[9] What is scarce before the last decade is writing on the book itself in its final form as a piece of narrative. This is also true in the commentaries. Numerous commentaries tell the reader, on the one hand, what individual pieces of Kings might have meant before they were incorporated into the book, or, on the other hand, which pieces are “original” to the book and which are late additions (or worse, “mere glosses”). There is no shortage of discussion of the historical and cultural background of the various parts of Kings, of the likely geographical location of the various cities mentioned in the text, of the obscurities of OT flora and fauna. Of the analysis of bits and pieces there has been (and continues to be) no end. Of the reading of a reconstructed narrative of some kind—the text rearranged to make it more “plausible,” and the various “inconsistent” parts filtered out or subordinated to the narrative line being pursued by the commentator—there has been a little. Of the reading of the book as it stands as a complete story there has been, until recently, scarcely any.
+
+But is the fundamental assertion of incoherence—which has fixed such a gulf between modern academic reading of Kings and both ancient and modern reading of other kinds—is this assertion well-founded? Repetition can, after all, be an aspect of literary artistry.[10] Variation in style and language can have many explanations other than difference in authorship. “Inconsistent” is a word often used where terms such as “theologically complex” or “ironic” would do just as well.[11] Is there anything that compels us to see incoherence in Kings? Or is it simply that OT scholars, often lacking general competence in literary matters and approaching Kings with inherited presuppositions about its incoherent nature, have largely found what they expected to find?
+
+It is certainly the case that more recent work on Hebrew narrative, which has eschewed speculation about the way the biblical texts might have reached their present form and has attempted to understand them just as they are, has been extraordinarily fruitful in its efforts to make sense of them. It has, indeed, revealed the extent of the artistry involved in the construction, not only of individual stories, but also of whole sections of text and entire books. Incoherence tends to dissolve in the course of such analysis. Searching questions tend to be asked about models of composition that presuppose frustrated or reluctant authors, not fully in control of their material, or incompetent editors, intruding their presence sufficiently that we should notice them, but unable fully to impose themselves. The biblical text begins, in fact, to make considerably more sense (and to be a much better read) than many of the books written about it.
+
+Encouraged by recent work of this kind,[12] and by my own reading of Hebrew texts, to believe that the trouble with Kings does indeed lie with the readers and not with the text, I have certainly set out in this commentary to read the book of Kings as a unified whole.[13] By this I do not imply that the book was, after all, produced by a single author at one particular moment in time, never to be touched by human hand again. I am persuaded, rather, that the books of the OT generally grew gradually into their present form in dialogue with each other, each shaping the developing tradition and being shaped by it. Only this explains the high level of intertextuality to be found in the OT—the way in which individual books either share portions of text with other books (e.g., 2 Kgs. 18:17–20:19 and Isa. 36:1–38:8; 38:21–39:8; 2 Kgs. 24:18–25:30 and Jer. 52:1–34), or quote them (e.g., 1 Kgs. 22:28 and Mic. 1:2), or otherwise reveal that they are aware of them (e.g., by narrating stories in such a manner that they evoke other stories with which they might usefully be compared or contrasted: see the commentary).[14]
+
+For this reason I prefer the term “authors” to the term “author” when referring to the human forces responsible for the book’s creation. My working assumption, nevertheless, has been that these “authors” have not been the victims either of their sources or of their own incompetence. They have presented the material that they wanted to present, ordered and crafted in the way they wanted to do it—just as the authors of Chronicles or the Gospels have done. They have produced a text that is intended to make sense as it is read cumulatively from beginning to end, each part being seen in the context of the whole. This is, of course, only an assumption. It is a reasonable assumption, nonetheless, corresponding to the assumption with which we approach narrative literature in general and grounded in what has been discovered about individual sections of Hebrew narrative in particular. It is reasonable—and reasonableness is all that can be hoped for where working assumptions are concerned. When such an assumption is brought to the text, together with a commitment to consider it possible that “problems in the text” may actually be “problems with my understanding of the text,” I believe that the book of Kings can indeed be seen as a carefully crafted and coherent entity. The story “works.” It does not need tinkering to make it do so.[15]
+
+The stakes are high. The modern period has seen the gradual breakdown of the Bible story as the defining story of Western culture.[16] What was once regarded as a unified narrative whole that set the context in which individual human narratives were to be understood and lived out has come to be seen largely as a collection of larger or smaller fragments, unrelated to each other, and requiring recontextualization by the individual reader if they are to be properly understood. The Bible is a kind of primordial chaos, waiting for the reader-as-god to create something out of it. We have seen, in other words, the progressive loss of a sense of Scripture. This is certainly true of the Western world in general; but it is also true—in particular where the OT is concerned—of the church. The OT is a part of the Bible that the church seems increasingly happy to live without, except when it can be plundered for the odd illustration of a NT theme. The idea that it tells a coherent story that itself defines the church, although implied in many credal formulations, is not an idea that is in practice always taken very seriously. This is true across the theological spectrum. Even conservative commentaries on the OT narrative books tend to supply coherence to the story from elsewhere, rather than drawing it out of the story itself. They show little interest in reading the text as a text—even though they assert most firmly that it is a text inspired by God himself.[17] What is going on behind the text is regarded as much more important than what is happening in it.
+
+For those who claim to stand in the orthodox Christian tradition, this loss of the OT as Scripture in both church and world cannot be a matter of indifference. Rather, its recovery must be regarded as of the utmost importance. This commentary is intended as a small step in that direction. It is therefore a commentary primarily on the book of Kings as narrative literature.[18]
+
+The Book of Kings as Historiographical Literature
+
+The importance of dealing with the biblical narrative texts on their own terms as literature is gradually becoming more widely acknowledged. It is striking, however, that so many of the authors who write so helpfully in this area at the same time display a marked reluctance to affirm the importance of dealing with these texts as accounts of the past. They acknowledge that a book like Kings gives the impression of speaking about the past. They concede that a history-like element is an obvious and important feature of this kind of book. They emphasize the lifelikeness of much of the depiction, the lack of artificiality or heroic elevation in so much of the story. This is “realistic narrative.” Yet they resist the idea that the narrative world thus portrayed has anything to do with the “real” world of the past. It is, rather, a “fictive world,” entire in itself and referring only to itself. Its integrity must not be compromised by seeking to relate it to anything outside itself. Text and history must be kept apart.[19]
+
+Why has this kind of argument become so popular? One would not wish to oversimplify. Yet it seems clear that its popularity has at least partly to do with a desire for protection. Those who have come to appreciate biblical narrative as narrative—even to rediscover, as they recover from a particularly large dose of historical criticism, the existential power of the biblical story as a story—wish to protect it (and themselves) from harm, to keep the text “safe.” Experience has shown that the text is not “safe” in the hands of those concerned with what has happened in the past, wherever they claim to stand in the theological spectrum. These people have characteristically regarded it, not as a story to be read, but as a problem to be solved; not as literature, but as a quarry out of which “facts” may (or may not) be dug and used at will. It is largely those with historical interests, in fact, who have in the past rendered books like Kings unreadable, battling over the bits and pieces and obscuring the whole. This being so, is it not best simply to deny proper access to these Philistines who have no feel for the text and no interest in it for its own sake? And how better to do this than to affirm that the sort of questions that they might ask of it—those questions of historical referentiality—are simply irrelevant? It does not matter whether what Kings says corresponds to what appears to have happened in historical Israel. All that matters is that the story makes sense in itself and when read along with the other OT stories.
+
+Interestingly enough, it is not only those with literary interests who want to keep text and history apart. It is increasingly the historians themselves. It has become fashionable to distinguish quite self-consciously between “biblical Israel” and “historical Israel.” “Historical Israel” is the real Israel that occupied the central Palestinian highlands for just over two centuries and has left its traces in Palestinian soil. This Israel is to be studied by looking at the artifacts the people left behind, the buildings they occupied, and the literature they certainly wrote (i.e., datable inscriptions), all within the framework of general theory about such things as social and state formation. “Biblical Israel,” on the other hand—the Israel presented to us in the OT—is a literary construct. It has some points of contact with the past, but it is so ideologically slanted that it cannot serve as the starting point for serious historical enquiry. It must be set aside, as we attempt to replace fiction with facts—as a truly critical scholarship takes over from a scholarship compromised by religious sentiment.[20]
+
+Separation of text and history is popular, then, on all sides. Some like it because it offers the prospect of insulating both text and reader against the chilly winds of historical enquiry. Others favor it because it clears the way for the progress of proper historical enquiry, as the last demons of religious presupposition are forever cast out. The fact that it is popular, however, does not mean we should accept it as a given. First, it is clear that a book like Kings has historiographical intent. It looks, not only sideways at the other books of the OT but also back to the events and characters of the past. It seeks to tell us, not about a fictive world, but about the real world that God has made and in which God acts. To be sure, it does tell us about this real world in ways that sometimes have a fictive quality about them. There appear to be literary conventions governing the use of names and numbers,[21] for example, that must be taken into consideration when attempting any correlation between text and history where these phenomena are concerned. To fail to take the historiographical impulse seriously overall, however, is to fail to take the book seriously. That failure is as profound as the failure to read the book as a book. It will not do—at least, not if one thinks it important that texts and their authors should be treated with respect. Most scholars regard this as important in relation to their own books. It is only proper that they should treat other people’s books in the same way.
+
+Secondly, it is not entirely clear why we should dig the great ditch between biblical Israel and historical Israel that the newer historians demand. It is, after all, the case that all historiography, whether ancient or modern, has a story-like quality—that all writing or speaking about the past involves turning happenings and people into events and characters. All historiography is also in some sense ideological literature. That is, any story about the past involves selection and interpretation by authors intent on persuading their readership in some way.[22] This does not mean that historiographical texts are in general incapable of speaking truly about the past. The historians in question clearly believe that some stories about Israel’s past are indeed true. They believe this, for example, of many of the modern stories about it—the stories told by archaeologists, anthropologists, sociologists, and the rest. We assume, in addition, that they wish us to regard their own books as true accounts of Israel’s past—and not, for example, as cleverly constructed fictions. There is evidently no difficulty in principle, then, about historiographical texts referring truly to the past. It seems that a decision has simply been made that the biblical witness to Israel’s past, in particular, is to be marginalised. A selective skepticism is at work here. The biblical stories about Israel, on the one hand, are approached with the maximum degree of suspicion in regard to the extent to which they truly reflect what happened. There is, on the other hand, a touching degree of (sometimes quite uncritical) faith displayed when it comes to modern narratives about this same entity. Confessionalism of a religious sort is attacked in the name of critical enquiry and objectivity, but the noisy ejection of religious commitment through the front door of the scholarly house is only a cover for the quieter smuggling in (whether conscious or unconscious) of a quite different form of commitment through the rear.
+
+Those who think that selective skepticism in general is a poor foundation upon which to build historical reconstruction are, however, likely to take a very different view about the picture of Israel found in the book of Kings. It will be regarded, certainly, as only one portrait of the past among the many that might have been painted. It is clear on any reading of Kings that its authors do not tell us everything that happened during that part of the Iron Age about which they are writing.[23] They do not even claim to do so.[24] Kings is a highly selective account, in which fairly long periods can be passed over briefly and periods of a year or less can occupy quite a bit of space. It is a particular view of the past, with its own highlights and its own persuasive appeal[25]—only one portrait of what happened, but no less valuable as a witness to the past for that.
+
+The person who views Kings as part of Christian Scripture, however, will want to say more than this. This person will want to say that this portrait is one of two concerning this period of Israelite history that God has given the church for use in “teaching, rebuking, correcting and training in righteousness” (2 Tim. 3:16). It is one of the authorized portraits of Israel’s past (Chronicles is the other) so far as life and faith are concerned; and other portraits are simply of academic interest. It is this portrait that is to be received and studied. I say “received” quite deliberately. It is no part of the Christian exegete’s task to participate in that attempted re-painting of the portrait in the modern colors favored by so many of the commentators on Kings. This exercise has as its premise the idea that it is possible to make Kings “more historical” than we currently find it to be. We do this largely by reinterpreting what the authors of the book tell us about the past in terms, firstly, of a closed system of thought where God does not act in the world and where there can be no appeal to miracle as an explanatory account of events;[26] and in terms, secondly, of what people other than the authors of Kings, both ancient and modern, have to say about what was happening during this time.[27] Why the resulting pictures should be regarded as “more historical” than what we are actually given in Kings is something of a mystery. Their most obvious feature is usually their subjectivity, as each scholar paints the portrait of the past which is right in his or her own eyes, according to various (and extremely varied) notions about what is “probable,” and “possible,” and so on.
+
+The Christian exegete of Kings who is thinking consistently, however, is not going to view the task of exegesis as involving the progressive expulsion of God from the book and the progressive introduction of other, “more objective,” explanations for the course of Israelite history. She or he is certainly not going to view the task as involving the reshaping of the book on the basis of material that was not at first included in it. The portrait as painted will be the object of study. The narrative will be taken seriously as a whole, in its relationship to the past.
+
+In summary, my conviction is that, although it is the text that is authoritative for the Church and not the history behind the text—the portrait and not the subject painted—the question of historical referentiality cannot be dodged. Kings must be taken seriously as a narrative about Israel’s past.[28]
+
+The Book of Kings as Didactic Literature
+
+The book of Kings is not only a narrative about the past. It is also a narrative that seeks to teach its readers a number of things about God and his ways. That is, the book of Kings tells us about Israel’s past, not so that we should become better informed about it in some abstract, intellectually detached way, but so that we should learn from it (Rom. 15:4; 1 Cor. 10:11). The best way into this subject is probably first of all to summarize the story as a whole, before discussing in a more thematic way its theology.
+
+The book of Kings opens towards the end of David’s reign with a struggle over which of his sons should succeed him. Solomon emerges victorious over Adonijah and is given instructions by David about how he should rule (1 Kgs. 1:1–2:11). He should keep the law of Moses, so that the LORD will keep his promise to David of an everlasting dynasty over Israel, and he should act as a man of wisdom. The succeeding narrative is constructed around these two ideas of wisdom and law (2:12–11:43). For much of the time Solomon’s wisdom functions in a positive way, as the people of Israel enjoy prosperity and peace and see the temple of the LORD built in their midst. At both the beginning and the end of his reign, however, it operates in a more self-interested way, as Solomon eliminates those who threaten his hold on the throne and accumulates vast wealth. For much of the time, the king is presented as someone committed to the LORD and his ways. Yet there are from the very beginning questions about his complete adherence to the law, and eventually he turns away and worships other gods. Surprisingly, however, his disobedience does not lead to the end of the Davidic dynasty. A prophet announces that punishment will be deferred until the days of his son, who is to lose only part of the kingdom, rather than all of it. This alienation of northern Israel from David will itself not last forever. It is only a temporary phenomenon.
+
+The dissolution of the empire is duly described, as Jeroboam, son of Nebat, leads northern Israel into independence from Rehoboam and Judah (1 Kgs. 12:1–24). It is an exodus into slavery, however, as the northern kingdom is immediately captivated by other gods and never again succeeds in breaking free of their influence, whether they be the gods manufactured by Jeroboam (12:25ff.) or those introduced from elsewhere (16:29ff.). Prophets oppose the apostate kings, whose dynasties come and go as the judgment of God falls upon them. The most notable of these prophets are Elijah and Elisha, whose activities take up a substantial part of the narrative throughout 1 Kings 17–2 Kings 13. They themselves in some respects mitigate the full force of God’s wrath upon Israel, offering salvation in the midst of judgment. Final judgment is in any case slow in coming, because of God’s promises and his compassion for his people (2 Kgs. 10:30; 13:23). Eventually, however, it arrives; northern Israel is sent into exile in Assyria (2 Kgs. 17).
+
+Although the religious situation in Judah is initially no better than that in Israel (1 Kgs. 14:22–24; 15:3–5), Judah’s story thereafter is not one of continuous apostasy. Relatively good kings do rule in the gaps between the wicked kings (1 Kgs. 15:9–22:50; 2 Kgs. 12:1–15:38), and towards the end of the story, we meet two of the very best kings there ever were (2 Kgs. 18:1ff.; 22:1ff.)—kings who reform Israelite worship and obey and trust in God. Sin gradually accumulates, nevertheless, and although it at first appears that, because of a deep commitment to David, God will treat Judah with less severity than Israel, in the end this commitment only delays judgment rather than averting it. The sins of Manasseh are too much to bear (2 Kgs. 21), and Judah is duly exiled to Babylon (2 Kgs. 24–25). The future of the Davidic line apparently hangs by the slender thread of a displaced ruler sitting at the table of the king of Babylon (25:27–30).
+
+Various themes are prominent in the story.[29] First, God is indeed God. He is not to be confused with the various gods worshipped within Israel and outside—for these are simply human creations (1 Kgs. 12:25–30; 2 Kgs. 17:16; 19:14–19). They are part of the created order, like the people who worship them, and they are powerless, futile entities (1 Kgs. 11:5; 16:13; 18:22–40; 2 Kgs. 17:15; 18:33–35). The LORD, by contrast, is the incomparable Creator of heaven and earth (1 Kgs. 8:23; 2 Kgs. 19:15), utterly distinct from the world created (1 Kgs. 8:9, 14–21, 27–30; 18:26–38), yet powerfully active within it. It is God, and not any god, who controls nature (1 Kgs. 17–19; 2 Kgs. 1:2–17; 4:8–37; 5:1–18; 6:1–7, 27). It is God, and neither god, nor king, nor prophet, who controls history (1 Kgs. 11:14, 23; 14:1–18; 22:1–38; 2 Kgs. 5:1–18; 10:32–33; 18:17–19:37). This latter point is perhaps illustrated most clearly in the way that prophets generally function within the book, describing the future before God brings it about (1 Kgs. 11:29–39; 13:1–32; 16:1–4; 20:13–34; 2 Kgs. 19:6–7, 20–34). Nothing can hinder the fulfilment of this prophetic word—although God in divine freedom can override its fulfilment for divine purposes (1 Kgs. 21:17–29; 2 Kgs. 3:15–27). There is only one living God; it is the LORD (1 Kgs. 18:15; 2 Kgs. 5:15).
+
+Secondly, as the only God there is, the LORD demands exclusive worship. God is not prepared to take a place alongside the gods or to be displaced by them. God is not about to be confused with any part of the created order. God alone will be worshipped, by Israelite and foreigner alike (1 Kgs. 8:41–43, 60; 2 Kgs. 5:15–18; 17:24–41). Much of Kings therefore addresses the problem of illegitimate worship. The main interest is in the content of this worship, which must not involve idols or images nor reflect any aspect of the fertility and other cults of “the nations” (1 Kgs. 11:1–40; 12:25–13:34; 14:22–24; 16:29–33; 2 Kgs. 16:1–4; 17:7–23; 21:1–9). There is subsidiary concern about the place of worship, which is ideally the Jerusalem temple and not the local “high places” (1 Kgs. 3:2; 5:1–9:9; 15:14; 22:43; 2 Kgs. 18:4; 23:1–20). The book is also concerned to describe the moral wrongs that inevitably accompany false worship. For as the worship of something other than God inevitably leads to some kind of mistreatment of fellow-mortals in the eyes of God (1 Kgs. 21; 2 Kgs. 16:1–4; 21:1–16), so true worship of God is always bound up with obedience to the law of God. By the same token, true wisdom is defined in terms of true worship and wholehearted obedience. It is not something that can be divorced from either (1 Kgs. 1–11). Worship and ethics are two sides of the same coin, in Kings as elsewhere in the OT.
+
+Thirdly, as the giver of the law that defines true worship and right thinking and behavior generally, the LORD is also the one who executes judgment upon wrongdoers. The world of Kings is a moral world in which wrongdoing is punished, whether the sinner be king (1 Kgs. 11:9–13; 14:1–18), prophet (1 Kgs. 13:7–25; 20:35–36), or ordinary Israelite (2 Kgs. 5:19–27; 7:17–20). It is not a vending-machine world, however, in which every coin of sin that is inserted results in individually packaged retribution. There is no neat correlation between sin and judgment in Kings, even though people are told that they must obey God if they are to be blessed (1 Kgs. 2:1–4; 11:38). This is largely because of the compassionate character of the Judge, who does not desire final judgment to fall upon beloved creatures (2 Kgs. 13:23; 14:27) and is ever ready to find cause why such judgment should be delayed or mitigated (1 Kgs. 21:25–29; 2 Kgs. 22:15–20). God’s grace is to be found everywhere in the book of Kings, confounding the expectations that the reader has formed on the basis of law (1 Kgs. 11:9–13; 15:1–5; 2 Kgs. 8:19). Sin can, nevertheless, accumulate to such an extent that judgment falls not only upon individuals but upon whole cultures, sweeping the relatively innocent away with the guilty (2 Kgs. 17:1–23; 23:29–25:26).
+
+This brings us at the last to the theme: promise. It is promise that is usually found at the heart of the LORD’s gracious behavior towards the people of God. The most prominent of the promises in Kings is God’s promise to David of an eternal dynasty. It appears in a curiously paradoxical form. In much of the narrative it provides us with an explanation as to why the Davidic dynasty survives, when other dynasties do not, in spite of the disobedience of David’s successors (1 Kgs. 11:36; 15:4; 2 Kgs. 8:19). The promise is viewed, in other words, as unconditional. At other times, however, the continuance of the dynasty is because of the obedience of David’s successors (1 Kgs. 2:4; 8:25; 9:4–5). The promise is treated as conditional. As the book progresses this latter view seemingly prevails; accumulating sin puts the promise in its unconditional aspect under too much stress and in the end brings God’s judgment down upon Judah just as severely as upon Israel (2 Kgs. 16:1–4; 21:1–15; 23:31–25:26). And yet, Jehoiachin lives (2 Kgs. 25:27–30). His survival in the midst of near total disaster, like that of Joash before him (2 Kgs. 11), holds out the possibility of recovery for the Davidic line—the possibility that the promise transcends sin after all and that David will indeed rule again over all Israel, as 1 Kings 11:39 implies. It suggests that grace may triumph over law in the story of Israel’s future, as in so much of the story of her past. A similar possibility is clearly in mind with regard to the other great promise in the book—the promise to Abraham, Isaac, and Jacob of descendants and everlasting possession of the land of Canaan. This too is a promise that influences God’s treatment of his people in the story (2 Kgs. 13:23, and implicitly in 1 Kgs. 4:20–21, 24; 18:36), and it is a promise that lies in the background of Solomon’s prayer in 1 Kings 8:22–53, as he looks forward to the possibility of forgiveness after judgment. Grace may not be presumed upon, but it can be hoped for on the basis of God’s character and promises.[30]
+
+The story of Kings, which has these themes at its heart, is not self-contained. It is part of the whole story of the Bible from Genesis to Revelation, and it must be read by the Christian reader with an eye to that total canonical context. The Book, as I asserted towards the beginning of this introduction, is the environment in which the individual book must be read. This does not mean (as it has sometimes been taken to mean in the past) that Kings has no theological significance of its own and that its meaning is entirely bestowed upon it by the NT. That is not to take the OT seriously as Scripture. The OT must be read as speaking to the church on its own terms—as providing the theological (and not simply the historical) context in which the NT is to be understood, as well as being read in the light of the NT.[31] It does mean, however, that Christians must read a book like Kings in the light of the whole biblical story as it has unfolded to its end. We must, in particular, read it in the light of the words and actions of the central character of that story, Jesus Christ. The Bible will be approached, in other words—as it has been throughout the Christian era (although decreasingly so in modern times)—as a “. . . canonically and narrationally unified and internally glossed . . . whole centered in Jesus Christ and telling the story of the dealings of the Triune God with his people and his world . . .”[32]
+
+Read in such a way, one of the things that immediately becomes apparent about the story is its patterning. The biblical story is told in such a way that events and characters in the later chapters recall events and characters in the earlier chapters, by way of comparison or contrast. This is already apparent within the book of Kings. The kings of Judah are compared and contrasted with David; Jeroboam is painted in the colors, first of Moses, and then of Aaron; both Manasseh and Josiah in their own ways remind us of Ahab; and so on. It is also apparent in the NT, whose authors tell the story of Jesus in ways that constantly remind us of Kings, whether at the general thematic level (God; worship and ethics; sin and judgment; grace and promise) or at the level of individual character and event. The story of Kings, in other words, functions typologically in respect of the later NT story, preparing its way and gaining full significance only when read with it in mind. It also functions typologically in respect of the persons addressed by the NT (i.e., us, the readers). It invites us to read our own lives into the lives of its characters—to attach our story to its larger narrative whole—and it gains its full significance for us only as we begin to understand ourselves in its context.[33]
+
+It is naturally impossible in the course of a single book to comment fully on how such patterning works and on how OT and NT are drawn together by it.[34] I have, however, cited NT references where it has seemed to me that reflection on the NT might contribute to the reading of Kings in a particularly significant way (and vice versa). In addition, I have on four occasions departed from straightforward commentary on the text to offer some thoughts on major characters in the book in canonical context (see §§18, 34, 46, 57). Those looking for ideas as to how sections of Kings can be preached or taught in a Christian context might well look at these excursuses and at the scripture index at the end of the commentary, where the other biblical passages mentioned in the commentary are listed. The commentary is designed, however—like the book upon which it comments—to be read all the way through, rather than simply dipped into here and there, and it is only engagement with the whole book of Kings that will truly communicate its distinctive message. It exists not to be raided but to be read!
+
+
+
+
+
+* * *
+
+
+
+
+

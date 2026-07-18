@@ -1,0 +1,2149 @@
+VI. EPILOGUE (21:1–24:25)
+
+
+
+Those who take 2 Samuel basically as a Succession Narrative (SN) treat the last four chapters, chs. 21-24, as an appendix and hold that the main narrative flows from 2 Sam. 20 to 1 K. 1. However, these four chapters themselves are a tightly organized literary unit and form the epilogue of the entire book, i.e., 1–2 Samuel, corresponding to the prologue (1 Sam. 1-7). The poems in the prologue and the epilogue, that is, the Song of Hannah (1 Sam. 2:1-10) and David’s Song (2 Sam. 22) and Last Words (23:1-7), constitute an inclusio of the entire narrative. Thus the overall structure of 1–2 Samuel as a whole strengthens and focuses on the main themes of the entire book, that is, the monarchy, the Davidic kingdom and the royal throne of David.1
+
+   I.Prologue (1 Sam. 1:1–7:17): “Story of Samuel”
+
+A.Rise of Samuel as Prophet (1:1–3:21)
+
+X.“Story of the Ark of God” (4:1–7:1)2
+
+B.Judgeship of Samuel (7:2-17)
+
+ II.Transition to the Monarchy (1 Sam. 8:1-22)
+
+  III.“Story of Saul” (1 Sam. 9:1–15:35)
+
+  IV.“Story of Saul and David” (1 Sam. 16:1–31:13)
+
+  V.“Story of King David” (2 Sam. 1:1–20:26)
+
+  VI.Epilogue (2 Sam. 21:1–24:25)
+
+A.Famine and the Death of Saul’s Sons (21:1-14)
+
+B.Philistine War (21:15-22)
+
+X.Song of David (22:1-51) = Ps. 18
+
+X′.Last Words of David (23:1-7)
+
+B′.David’s Heroes (23:8-39)
+
+A′.Census and the Lord’s Anger (24:1-25)
+
+It should be noted that the AXB pattern3 appears both in the Prologue and in the Epilogue.4 The Epilogue is a chiastic arrangement: two poems (X and X′) are in the center, framed by two lists with narrative,5 B and B′,6 which are framed by the first and last sections, which are both narratives with the theme of death as the result of God’s anger.7
+
+The narratives are not placed in chronological order, however, for the first poem (ch. 22 = Ps. 18) is probably from the earlier part of David’s life, possibly even before he became king, and the second (23:1-7) from the last days of his life. On the other hand, the narrative sections (A, B, E and F) seem to be sequential. The last section (ch. 24) is climactic, describing the events leading to the purchase of the land upon which Solomon would build the temple. Thus, I analyze the literary structure here as a kind of the AXB pattern, i.e., ABXX′B′A′,8 where the two poems in chs. 22 (X) and 23 (X′), are inserted into the narrative flow of A-B-B′-A′.
+
+
+
+
+
+A. FAMINE FOR THREE YEARS (21:1-14)
+
+
+1. Saul against the Gibeonites (21:1)
+
+1 And there was a famine in the days of David for three years, year after year.
+
+And David sought the LORD’s face.
+
+And the LORD said,
+
+“Due to Saul and his bloody house,
+
+and because he put the Gibeonites to death.”
+
+The first section of Epilogue9 pushes us back to sometime before the previous chapter, probably to the early part of Davidic monarchy, but no earlier than chapter 9. See the commentary on that chapter.
+
+1A famine had afflicted Israel for three years because of Saul’s attempt to exterminate the Gibeonites, who were protected by an oath sworn in the time of Joshua (Josh 9:3-27). There is no other direct mention of the incident in the Bible, but it may be in the background of 2 Sam. 4:2-3 (see commentary).10 The famine was an expression of divine wrath against King Saul’s violation of the treaty. This incident illustrates how serious the consequences may be when the leader of God’s people offends God’s righteousness. But we don’t know why God did not punish Saul at the time. Generally speaking, leaders’ failures must be sorted out by their successors, if the justice is to prevail.
+
+Regarding the present incident, C. H. Gordon calls our attention to the fact that “the fitness (physical and moral) and deportment of kings were serious matters, for they were believed to bring on a corresponding state of land and people.” While in Odyssey 19:109-14 “a faultless king who fears the gods and rules his mighty men justly, brings on fertility of earth, trees, cattle and sea,” in Oedipus Rex “Sophocles tells of the blight on Theban grain, cattle and women in travail, because of the King’s sin.”11
+
+According to Malamat and Fensham,12 the incident is to be taken as a case of punishment for treaty violations in the ancient Near East. Looking at Hittite texts such as the so-called plague prayers of the fourteenth century Hittite king Mursili II, Malamat identifies “a common doctrine of causality” in both Israelite and Hittite literatures according to which “a national disaster (famine, plague, etc.) might arise from a past violation of a treaty oath.”
+
+The act of seeking the LORD’s face is to ask the Lord’s special favor, as one might seek an audience with a king in times of trouble.
+
+Due to Saul and his bloody house (ʾel-šāʾûl weʾel-bêt haddāmîm) is an incomplete sentence, not a “confused wording” (Budde),13 and is literally “to Saul and to the house of the blood.” It is presumably uttered in response to such a question as, “Why did this famine occur?” See the commentary on 1 Sam. 1:22 for the phenomenon of aposiopesis, i.e., the device of suddenly breaking off in mid-speech.14>The Hebrew expression his bloody house means “bloodguilt on his house” (see NRSV; also McCarter) or “the bloodguilt of his house” (JPS), not simply “bloodshed of his house.”
+
+2. David and the Gibeonites (21:2-6)
+
+2 And the king called the Gibeonites and spoke to them.
+
+— Now15 the Gibeonites were not of the sons of Israel but of the remnant of the Amorites. Although the sons of Israel had sworn to them, Saul had sought to strike them out in his zeal for the sons of Israel and Judah —
+
+3 And David said to the Gibeonites,
+
+“What shall I do for you?
+
+How can I make atonement
+
+that you may bless the inheritance of the LORD?”
+
+4 And the Gibeonites said to him,
+
+“We have nothing16 to do with silver or gold
+
+with regard to Saul or his house.
+
+It is not for us17 to put anyone to death in Israel.”
+
+And he said,
+
+“Whatever you say I will do for you.”
+
+5 And they said to the king,
+
+“As for the man who18 consumed us19
+
+and who planned to exterminate us20
+
+from remaining in any territory of Israel,
+
+6 let seven men from among his sons be given21 to us,
+
+and we will hang them before the LORD
+
+in Gibeah of Saul, the chosen of the LORD.”
+
+And the king said,
+
+“I will give them.”
+
+2The remnant of the Amorites refers to the pre-Israelite inhabitants of the land. Though the Israelites had sworn to, i.e., made an alliance with, the Gibeonites, Saul had conducted bloodshed against them in his zeal for his people of Israel and Judah. A king should not do such an unlawful thing against God’s will even in his zeal for the covenant people of God. In other words, his “bloody [from bloodshed] house” bore “bloodguilt” for this violence.
+
+3For the expression make atonement (*kpr, Pi.), see the commentary on 1 Sam. 3:14.22 David admits here that he is the one who should make compensation, as the leader of his people, for the difficult situation his predecessor had left him.
+
+The Hebrew of you may bless (lit. “you, bless!”) is the imperative, which is used “instead of the more normal voluntative, for the purpose of expressing with somewhat greater force the intention of the previous verb.”23
+
+For the inheritance of the LORD (naḥălat YHWH), see 2 Sam. 14:16; 20:19; see especially the commentary on 1 Sam. 26:19.24
+
+4The Gibeonites have no interest either in monetary compensation from the house of Saul or in putting anyone to death in Israel. The latter seems to contradict v. 6, but Brichto explains this as meaning the death of any random Israelite as compensation for the Gibeonite slaughter.25
+
+6Seven men is a symbolic number of Saul’s descendants. In order that God be entreated (v. 14), these seven sons were to be hanged before the LORD. This of course was against the command “nor shall children be put to death because of their fathers” (Deut. 24:16). Were these seven accomplices of Saul’s act? The text does not suggests that, and furthermore, as David must have been at least in his late teens when Merab married (1 Sam. 18:19) and was no more than thirty when Saul died (2 Sam. 5:4), even Merab’s oldest son could scarcely have been ten when Saul died. See also commentary on ch. 9.
+
+The meaning of the term hang (so NASB) is uncertain; see Num. 25:4; cf. “impale” (NRSV, JPS); “crucify” (McCarter); “to be killed and exposed” (NIV).26 Such exposure of the corpse was probably “part of the punishment for a treaty violation elsewhere in the ancient Near East.”27
+
+For the phrase Gibeah of Saul, the chosen of the LORD (begibʿat Šāʾûl beḥîr YHWH), McCarter suggests reading it as “(to Yahweh-)in-Gibeon on the mountain of Yahweh,” following Wellhausen and explaining that *bhr “on the mountain” was misread as beḥîr “the chosen one.”28 However, such a scribal error (i.e., h for ḥ) occurs less likely than has been asserted.29 Also there is no support for his hypothesis that this refers to “the Gibeonite Yahweh, the local manifestation of the national god”; see the commentary on McCarter’s view of “Yahweh-in-Hebron” in 2 Sam. 15:7 and my criticism of his view. See 1 Sam. 11:4 on the phrase “Gibeah of Saul.”
+
+3. The Death and Exposure of Saul’s Sons (21:7-11)
+
+7 But the king spared Mephibosheth, son of Jonathan son of Saul, because of the oath of the LORD that was between them, between David and Jonathan son of Saul.
+
+8 And the king took the two sons of Rizpah the daughter of Aiah, whom she bore to Saul, Armoni and Mephibosheth, and the five sons of Merab30 the daughter of Saul, whom she bore to Adriel son of Barzillai the Meholathite,
+
+9 and gave them into the hands of the Gibeonites and they hanged them on the mountain before the LORD.
+
+And the seven of them fell together. They31 were put to death in the days of harvest on the first (days), that is, at the beginning of barley harvest.32
+
+10 And Rizpah the daughter of Aiah took sackcloth and spread it for herself on the rock, from the beginning of the harvest until rain33 fell on them from the sky; and she did not allow the birds of the sky to rest on them by day, or the beasts of the field by night.
+
+11 And it was told David what Rizpah the daughter of Aiah, the concubine of Saul, had done.
+
+7It is often asserted that David found out about Mephibosheth only after this incident, so originally ch. 9 was placed after this incident and this verse was inserted when the material was separated.34 However, this is unnecessary; see the commentary on ch. 9. Mephibosheth, son of Jonathan here should be distinguished from Mephibosheth in v. 8 who is the son of Saul; see on 4:4. Both in ch. 9 and here David remembered his oath to his friend Jonathan and his descendants (1 Sam. 20:14-16).
+
+8Rizpah is mentioned in 2 Sam. 3:7 as Saul’s concubine. Merab’s marriage to Adriel was mentioned in 1 Sam. 18:19.
+
+For the five sons of Merab the Leningrad Codex reads “the five sons of Michal,” but we know that Michal was childless (see 2 Sam. 6:23) and furthermore that Adriel was the husband of her sister Merab (1 Sam. 18:19).35 So “Michal” is likely a scribal error, substituting a more familiar name for a less familiar name. For Adriel . . . the Meholathite, see the commentary on 1 Sam. 18:19.36
+
+9The translation the seven of them (also NASB, NRSV, McCarter) is based on the Q. šebaʿtām; the K. šiibaʿtāyim is either a dual of “seven,” i.e., “fourteen,” or adverbial “seven times.”
+
+The beginning of barley harvest was in April. McCarter suggests taking harvest on the first (days) as “Ziv” on the basis of zeion in LXXL which he thinks is “a Hellenized transliteration of the month name zw, ‘Ziv,’ ” but this is farfetched.37
+
+10Until rain fell on them, possibly implies that “the rain should have fallen upon them.” Perhaps it had been decided that they would not be buried until the rains fell (and the famine stopped). That would suggest that when David heard what Rizpah was doing (v. 11) he buried them earlier than planned, and then God responded (v. 14), probably by rain.
+
+There was great horror of leaving bodies unburied to be eaten by animals or birds (1 Sam. 17:44, 46; Ps. 79:2); Deuteronomy 21:22-23 says that the bodies of those who are hung should be buried that day (see Josh. 8:29). C. H. Gordon notes that “the disgrace of the unburied corpse left to be devoured by dogs and carrion-eating birds” appears also in Homer.38 This was famously the fate of Ahab and Jezebel (1 K. 21:23-24; 22:38; 2 K. 9:10, 36).
+
+11what (ʾet ʾăšer) with the particle ʾet is grammatically the object, but semantically it is the subject of the passive verb was told. For other examples in which a noun with ʾet is the subject of verb, see on 1 Sam. 20:13.39
+
+4. God’s Wrath Ends (21:12-14)
+
+12 And David went and took the bones of Saul and the bones of Jonathan his son from the citizens40 of Jabesh-gilead, who had stolen them from the open square of Beth-shan, where the Philistines had hung41 them on the day when the Philistines struck down Saul on Gilboa.
+
+13 And he brought up the bones of Saul and the bones of Jonathan his son from there; and they gathered the bones of those who had been hanged
+
+14 and buried the bones of Saul and Jonathan his son in the land of Benjamin in Zela, in the grave of Kish his father; they did all that the king commanded.
+
+And God responded to the plea42 for the land after that.
+
+12For the bones of Saul and the bones of Jonathan, see 1 Sam. 31:12-13, where the men of Jabesh burned the bodies of Saul and Jonathan and his two other sons and buried their bones. McCarter thinks that as the bodies were burned, it could have been no more than ashes that David recovered. However, even after lengthy burning of a body, the bones remain.43 For Jabesh-gilead, see on 1 Sam. 11:1; 31:11-13;44 and 2 Sam. 2:4.
+
+MT Bêt-šan is a phonetic spelling of the normal Bêt-šeʾan, in which the intervocalic /ʾ/ lost its consonantal value and the resultant contiguous vowels, e+a, become a as the result of vowel sandhi. The spelling without {ʾ} appears only in 1–2 Samuel. For Beth-shan, see the commentary on 1 Sam. 31:10.45
+
+14Saul was apparently from Gibeon (1 Sam. 11:4), but his family could have originally come from the Benjaminite town of Zela, which is also known as Zela Ha-eleph (Josh 18:28). The town was probably the modern Khirbet es-Salah, less than three miles (5 km) to the south of Gibeon;46 see also on 1 Sam. 9:2.47 Presumably they buried in this same grave the bones of the seven who were hanged that they had gathered (v. 13), as well as those of Saul’s two other sons who died at Gilboa. For Saul’s usual place of residence, see “Gibeah” in 1 Sam. 10:10.48
+
+Note here that proper burial was considered essential for the welfare of the dead and the living, as illustrated by the Ugaritic funerary text KTU 1.161, in which a sevenfold sacrificial ritual was performed after the burial, presumably for seven days, for the welfare (šlm) of the newly enthroned king Amurapi and his family as well as for his kingdom.49
+
+God “was entreated” (*ʿtr): or “God was pleaded with” (HALOT, p. 905) implies that God heard and responded. The expression also appears at 24:25. In both instances, God’s anger was finally appeased by David’s conduct — here by burying the bones, and in ch. 24 by the sacrifices at the designated place.
+
+
+
+
+
+B. THE PHILISTINE WARS (21:15-22)
+
+
+15 And there was again a war between the Philistines and Israel.50
+
+And David went down together with his servants and they fought against the Philistines.
+
+And David became weary.
+
+16 As for Ishbi-benob,51 who was among the descendants of the giant, the weight of whose spear was three hundred shekels of bronze and who was girded with a new (sword), he said that he would strike David.
+
+17 And Abishai the son of Zeruiah helped him and struck the Philistine and killed him.
+
+Then the men of David swore to him, saying
+
+“You shall not go out again with us to battle,
+
+so that you may not extinguish the lamp of Israel.”
+
+18 After this there was war again with the Philistines at Gob; then Sibbecai the Hushathite struck down Saph, who was among the descendants of the giant.
+
+19 And there was war with the Philistines again at Gob, and Elhanan the son of Jaare-oregim, the Bethlehemite, struck down Goliath the Gittite, the shaft of whose spear was like a weaver’s beam.
+
+20 And there was again war at Gath, where there was a man of great size; his fingers on each hand and his toes on each foot were six each, thus making twenty-four in number. He too was a descendant of the giant.52
+
+21 And he defied Israel.
+
+And Jonathan the son of Shimei, David’s brother, struck him down.
+
+22 These four were born to the giant in Gath.
+
+And they fell by the hand of David and by the hand of his servants.
+
+There was again a war (v. 15) suggests that this is an excerpt from some writing about David’s wars. It is an account of four fights of David’s men with Philistine giants.
+
+16The giant (Heb. rāpāh) has usually been understood as referring to the Rephaim, the “legendary giants of the past” (Gen. 14:5; 15:20; Deut. 2:10-11, 20; 3:13; Josh. 12:4; 13:12; 17:15; etc.). It is certainly understandable that the giants were explained as the descendants of Rapiʾu, the giant ancestor, on the popular level; in fact, giants are sons of giants, just as gods were sons of gods (bn ilm) in Hebrew and Ugaritic.53
+
+The meaning of the Hebrew term qên (here translated spear) is uncertain. Some suggestions are “spear” (so RSV; LXX), “bronze spearhead” (NIV), or “lance” (HALOT, p. 1097), and “helmet,” reading qwbʿw (McCarter and others).54 Translations of ḥădāšāh, include “a new sword” (RSV, ESV), “a new (sword)” (NIV), “new weapons” (NRSV) and “new armor” (JPS, McCarter). Compare “a club, mace” (LXXB).55 In any case, both are weapons of some type.
+
+17On Abishai, see the commentary on 1 Sam. 26:656 and 2 Sam. 2:18.
+
+The expression the lamp of Israel (nēr Yiśrāʾēl) appears only here; for a similar idea about the importance of the king, see 18:3. But, here, it explains David not so much as a military leader as a symbolic figure of a leader of the covenant people Israel. David was certainly Yahweh’s anointed king and, as D. G. Firth holds, “the lamp symbolism (nēr) is important for the Davidic monarchy (1 K. 11:36; 15:4; 2 K. 8:19; 2 Chr. 21:7).”57
+
+18The geographical name Gob has been interpreted variously. McCarter58 takes it as “Gezer,” as in 1 Chr. 20:4; cf. “Gath” (LXXB). However, Naʾaman identifies the recently excavated Khirbet Qeiyafa on the northern side of the valley of Elah as the biblical Gob.59 The city was already destroyed in the early ninth century, so this identification would support the antiquity of the story of David, if the identification is correct.
+
+For Sibbecai, see on 2 Sam. 23:27. The Hushathite means he was from the village of Hushah (1 Chr. 4:4), which is the modern Husan in the Judaean hills; it is located a few miles (a few km) southwest of Bethlehem. In 1 Chr. 20:4 Saph appears as “Sippai,” which could be a longer form of the same name.
+
+19Elhanan. . . struck down Goliath the Gittite. Since in 1 Sam. 17 David killed Goliath from Gath (v. 4; “Gittite” means someone from Gath), this statement has caused endless controversy.60 Suggestions of the relation between these two passages range from saying that the phrase “Lahmi the brother of” has fallen out of the text before “Goliath” in this chapter (see the parallel passage in 1 Chr. 20:5) to saying that the deed of Elhanan was later attributed to David.61 Other suggestions are that the name “Goliath” became attached to David’s anonymous victim or, as I tend to hold, that the passages refer to two different men called Goliath by the Israelites.
+
+The name Goliath (golyāt) (see on 1 Sam. 17:4)62 has been traced by Albright and others back to the non-Semitic Anatolian name Walwatta, an older form of the Lydian name Alyattes. Recently, similar personal names, Alwt [Hebrew script, aleph-lamed-vav-tav] and Wlt, have been identified in the “Goliath Inscription,” the earliest known inscription from the Philistine Gath, Tell eṣ-Ṣâfī, which dates from the tenth to mid-ninth century B.C.63 While the Alyattes = Goliath etymology has been considered doubtful by some, the PNs Alwt and Wlt as well as golyāt are most probably non-Semitic Indo-European names. And Alwt and the Carian PN w/uliat (cf. Hittite walliwalli “powerful”) might explain the etymology of Goliath, as suggested by H. C. Merchert.64
+
+Though no direct relation of the inscription with David’s story should be proposed, one possibility is that the Philistine counterpart of the Hebrew name golyāt was a well-known PN in Philistine Gath. It is possible that the name and its variants became a common name used by the Israelites to refer to a Philistine giant, just as “the descendant of Rapha” means the descendants of giant (vv. 16, 18). For the originally non-Semitic proper name Achish (1 Sam. 21:10, 27:2) that may have become a title for a Philistine ruler, see the commentary on 1 Sam. 21:10.65
+
+For the shaft of (his) spear (lit. “the wood of his spear”), see on 1 Sam. 17:7.66 Korpel notes the same usage of “wood” for the shaft of a spear in Baal’s seven wooden shafts of his lightning-spears (ʿṣ brq) in KTU 1.101:4.67 For the expression like a weaver’s beam, see on 1 Sam. 17:7.68
+
+21Jonathan may be the Jonathan listed as one of David’s thirty mighty men (23:32). Shimei was David’s third eldest brother. His name is given in various forms in 1 Sam. 16:9; 17:13; 2 Sam. 13:3; and 1 Chr. 2:13.
+
+22These four, which is used with the particle ʾet, serves as the subject of a passive verb, reflecting grammatical ergativity.69
+
+For the giant in Gath, see on v. 16. McCarter translates it as “Rapha-in-Gath,” taking Rapha as a divine name of a chthonic character.70
+
+
+
+
+
+X. THE SONG OF DAVID (22:1-51 = Ps. 18)
+
+
+Chapters 22 and 23 both are songs of David, the first with a title alluding to the beginning of his reign, and the second alluding to its end. The “Song of David” in ch. 22 is essentially the same psalm as Ps. 18. However, in the Hebrew text of the two passages there are many differences in spelling, etc., though few of them come across in translation. Most of these differences can be understood when one realizes that the Book of Psalms, which was regularly used in worship throughout history, uses “standard” Hebrew spelling, while the spelling in the Samuel passage tends to avoid using consonant letters for long vowels and is much more phonetic in character (e.g., 2 Sam. 22:8, 27, 36, 40, 46, etc.), due to the fact that as a poem included within a narrative, it was written as it was meant to be heard, that is, aurally.
+
+For example, in vv. 1-2, 2 Sam. 22 has defective spellings, while the corresponding verses of Ps. 18 has full spellings: e.g.
+
+defective spelling full spelling
+
+אֹתוֹ ‎(2 Sam. 22:1) אוֹתוֹ (Ps. 18 title)
+
+וּמְצֻדָתִי ‎(2 Sam. 22:2) וּמְצוּדָתִי (Ps. 18:3)
+
+As another example, the term waʿănōtekā in v. 36, which has troubled many scholars, is often emended to mean “your help” in the light of 4QSama (wʿzrtk), even though LXXB and LXXL support the MT against 4QSama.71 However, it is possible to explain waʿănōtekā as a phonetic variant of the corresponding weʿanwatkā in Ps. 18:35, which is from *ʿnw (“to oppress”).72
+
+These two psalms are usually explained as two versions of a single original composition,73 one being used by the writer of Samuel, and the other by the collector of Book 1 of the Psalms.
+
+There are in general two theories on the relation between 2 Sam. 22 and Ps. 18.
+
+One is that David wrote all his psalms in fairly standard spellings, basically as they are now in the Book of Psalms, and they existed as a collection. When the Books of Samuel were written, the author took Ps. 18 and wrote it either from memory or dictation using phonetic spelling.
+
+The second is that the original collection of David’s psalms used phonetic spellings, the “standard” spelling of the court for several generations, and the author of Samuel copied Ps. 18 as it was written. Later, the spelling of all of the psalms in the book of Psalms was “modernized” for use in the choir.
+
+
+
+As for the nonspelling differences, perhaps the Samuel version is as David first wrote it, but the Psalm version reflects changes that were made for various reasons either by David himself or by the choirmasters. For example, 2 Sam. 22 starts off with a series of nouns, “Lord, my rock and my fortress.” It is most natural to take these as attributive statements, “The Lord is my rock and my fortress, my deliverer.” But it is not until we get to the second-person verb (you save me) at the end of v. 3 that we realize that all those nouns are vocative (O Lord, my rock), not attributive (O Lord, you are my rock).74 Perhaps for this reason in Ps. 18 the song was changed by adding “I love you, O Lord, my strength” at the start and deleting “you save me from violence,” so the nouns are clearly attributive from the beginning The LORD is my rock, and the listener does not have to do a reanalysis upon hearing you save me from violence.
+
+The song is often said to have many similarities to Canaanite mythology, and it has even been asserted that the language, especially that of vv. 8-20, was adapted from the myths of the storm god Baal.75 However, that view is too simplistic, and the similarities have been overemphasized. The song rather describes the Lord’s control over the universe and the forces of nature, using a rich selection of imagery and metaphor from the ancient Near Eastern literature; see below.76
+
+1. 22:1-2a
+
+1 And David spoke to the LORD the words of this song when the LORD delivered him from the hand of all his enemies, especially77 from the hand of Saul.
+
+2a And he said,
+
+This is the heading of the song. It is essentially the same as that of Ps. 18. Psalm 18 is one of thirteen psalms (3; 7; 18 [=2 Sam. 22]; 34; 51; 52; 54; 56; 57; 59; 60; 63; and 142) that identify themselves as connected with events in the life of David. The heading of the psalm starts off, “To the choirmaster. Of David, the servant of the LORD, who spoke to the LORD.”
+
+And David spoke— This “speaking” is an act of recitation or singing. The term song (šîrāh) here is a feminine noun; also in Exod. 15:1; Deut. 31:19, 21, 22, 30; 32:44.
+
+The term when is literally “in the day.” This does not refer to one particular incident in David’s life, though, since the text is concerned with deliverance from “all his enemies.”
+
+The term hand (twice) here is literally “palm” (kap), for which the psalm heading has the synonymous variant “hand” (yad) in the phrase the hand of Saul. Both kap and yad have the meaning of “power” in this context.
+
+An elaborate title followed by the phrase And he said can be found also in second millennium Egyptian songs as the Great Hymn to Osiris (CS 1.26) and The Great Hymn to Aten (CS 1.28).78 A literary tradition of songs and hymns with titles, which give information about the occasion, the singer, and musical notices such as instruments and modes, has been attested since the third millennium B.C. in the ancient Near East. One noticeable example is the “Nikkal hymn from Ugarit” (RS 15.30+15.49+17.387) of mid-second millennium B.C., a Hurrian hymn with Akkadian musical notation, that gives the name of a historical king, Ammurapi.79 Other examples showing that kings or other royal family members participated in musical activities are also known from the pre-Davidic ANE. “Theban king Intef II waxes lyrical in his very personal praise of the goddess Hathor, in his exuberant hymn, engraved on one of the stelae at his tomb.”80
+
+This song deals with battle. Its first part (vv. 2-31) describes the fight in terms of the actions of the Lord; the next section (vv. 33-49) deals with the fight against enemies in terms of what David did, thanks to the Lord who equipped him for battle (v. 40).
+
+2. 22:2b-4
+
+2b O LORD, my rock and my fortress,
+
+and my deliverer,
+
+3 God, who is my rock, in whom I take refuge,
+
+my shield and the horn of my salvation,
+
+my stronghold and my refuge,
+
+my savior, you save me from violence!81
+
+4 As the one who is worthy to be praised I call upon the LORD;
+
+from82 my enemies I am saved.
+
+2bLXXL and Syr. follow Ps. 18:1 in beginning this verse with a monocolon, “I love you, LORD, my strength!”
+
+O LORD (cf. “The LORD is”; so NIV, ESV, REB) is followed by nine titles or epithets of Yahweh in the vocative. These vocatives are in keeping with the second-person verb you save me (v. 3). In Ps. 18, which lacks the verb “you save me (from violence),” at the end of the verse, the syntax is “The Lord is my rock. . ., and the horn of my savior, my stronghold.” Besides in the parallel text Ps. 18:2, the same expression my rock and my fortress appears also in Pss. 31:3; 71:3.
+
+The phrase my deliverer is literally “deliverer of me, to me”; the “to me” is added for emphasis, but Ps. 18:2 lacks it.
+
+3God, who is my rock (ʾĕlōhê ṣûrî; lit. “God of my rock”), that is, “God who is my strength”; cf. “my God, my rock” in Ps. 18:2 (ʾēlî ṣûrî), hence, as a hendiadys “my divine crag” (McCarter). In this psalm the LXX avoids a literal translation of ṣûr “rock” and translates boēthos mou “my helper”; in other places, the LXX sometimes translates it as “strength” (e.g., Ps. 73:26).83 The description of God as “a rock” that offers refuge and safety is frequent in the Bible; see on 1 Sam. 2:2.84
+
+The term horn in the phrase the horn of my salvation signifies here strength rather than dignity as in 1 Sam. 2:1, 10. Compare “my mighty champion” (JPS); “my . . . sure defender” (REB). The word pair, stronghold and refuge, also appears in Ps. 59:16 [17].
+
+The end of v. 3, and my refuge, my savior, you save me from violence! is lacking in Ps. 18:2. McCarter, deleting mšʿy “my savior” as a conflation, rereads mōšīʿî mēḥāmās tōšīʿēnî (“my savior, you save me from violence”) as mḥmsym yšʿny (“from violent men he saves me”) since there is no other second-person verb in the first twenty-five lines of the poem.85 But with all the vocatives (see on v. 2b), a second-person verb you save me (tōšīʿēnî) is not to be wondered at. It might be possible to translate the verb as “he saves me,” taking the verb as a taqtul- 3 m.sg. form (see Gordon, UT, p. 74) as in 1 Sam. 17:21. However, taqtul- is usually a 3 m.pl. or du. form.
+
+4The word mehullāl, translated here as the one who is worthy to be praised, and YHWH are appositional; the verb ʾeqrāʾ (“I call upon”) interrupts the adjacency of two nominal phrases, thus constituting the AXB pattern: i.e., mehullāl ʾeqrāʾ YHWH. McCarter emends the text to mehôlāl “treated as a fool, derided” in the light of Ps. 102:8, where “enemies” (ʾôyebāy) and “those who deride me” (mehôlālay) appear in parallelism, in order that the colon may be “semantically and structurally equivalent” to the beginning of v. 7. But there is no support for his reading from ancient versions.
+
+The verbs ʾeqrāʾ and ʾiwwāšēaʿ in this verse have been translated variously: e.g., “I called” (JPS), “call” (ESV), “shall call” (REB)” and “I was” “I am,” or “I shall be” saved. The tense of a yqtl-verb in poetical texts can be either past or nonpast; it is decided from the context. Since, as explained below, it seems we should take vv. 5-7 with the change of verbal forms from yqtls to qtls as referring to David’s past experience, the yqtls in v. 4 should be taken as his present conviction.
+
+3. 22:5-7
+
+5 For86 the waves of death encompassed me;
+
+the torrents of destruction overwhelmed me.
+
+6 The cords of Sheol surrounded me;
+
+the snares of death confronted me.
+
+7 In my distress I called upon the LORD,
+
+and to my God I called.
+
+And he heard my voice from his temple,
+
+and my cry for help was in his ears.
+
+5-6These verses can be compared with Ps. 116:3:
+
+the waves of death (v. 5) the cords of death (Ps. 18:4; 116:3)
+
+the torrents of destruction
+
+the cords of Sheol (v. 6) the terrors of Sheol (Ps. 116:3)
+
+the snares of death
+
+in my distress (v. 7) distress and sorrow (Ps. 116:3)
+
+While Ps. 116:3 is a tricolon, the present text consists of three bicola, each corresponding to one line of the tricolon of Ps. 116. Jonah 2:5-6a uses a similar structure.
+
+5For the phrase the waves of death (mišberê-māwet), Ps. 18:4 has ḥeblê-māwet “the cords of death.”
+
+The phrase torrents of destruction (naḥălê belîyaʿal) is literally “the torrents of Beliyaal (i.e., “worthlessness”)”; only here in the OT is this term paired with death (māwet); cf. “hell” (McCarter).87 See on 1 Sam. 1:16 and Excursus in The First Book of Samuel;88 also 2 Sam. 16:7; 20:1.
+
+6Sheol normally refers the place of the dead. But here it is used as a synonym for death. The etymology of the term (i.e., “a place of inquiry”89) is still hotly debated,90 but it probably refers to a place where the living asks (*šʾl) about the whereabouts or fate of the dead in order to facilitate a reunion. In 1–2 Samuel it appears only twice, here and in 1 Sam. 2:6, both poetic texts. In fact, in the entire Bible the term appears only in poetic texts or in idiomatic phrases such as “to go down to Sheol” (e.g., Gen. 37:35), which means “to die.”
+
+The Hebrew term sabbūnî for surrounded is a shorter phonetic spelling of the corresponding term sebābûnî (Ps. 18:5).91
+
+In vv. 5-6, the two sets of word pairs constitute a chiastic order AB//BA: death - destruction // Sheol - death. All four lines say in prose, “I was facing death.”
+
+7For the sequence in Samuel of I called (ʾeqrāʾ) . . . I called (ʾeqrāʾ) followed by and he heard (wayyišmaʿ), Ps. 18:6 has I called (ʾeqrāʾ) . . . I cried for help (ʾăšawwēaʿ). He heard (yišmaʿ) without waw consecutive. The parallelism of these verbal forms may support the hypothesis that in poetic texts the tense of the so-called imperfect verbs may be past, regardless of waw.
+
+As is usual, heard does not simply mean a passive “hearing”; it implies an attentive listening and, usually, a positive response. This is the point at which the situation changes. Temple probably refers to God’s heavenly temple, from which he comes down in v. 10; see Ps. 11:4; Micah 1:2-3.
+
+4. 22:8-16
+
+8 And the earth trembled and quaked;
+
+the foundations of the heavens shook
+
+and trembled, because he was angry.92
+
+9 Smoke went up from his nostrils;
+
+and fire from his mouth devoured;
+
+glowing coals flamed forth from him.93
+
+10 He spread open the heavens94 and came down;
+
+and thick darkness was under his feet.
+
+11 And he rode on a cherub95 and flew;
+
+and he appeared96 on the wings of the wind.
+
+12 And he made the darkness around him his canopies,
+
+the sieve of the waters, the thick clouds of the skies.
+
+13 From the brightness before him
+
+coals of fire flamed forth.
+
+14 The LORD thundered from heaven;
+
+and the Most High uttered his voice.
+
+15 And he sent out arrows, and scattered them;
+
+lightning, and routed them.
+
+16 And the sources of the sea appeared;
+
+the foundations of the world were laid bare
+
+at the rebuke of the LORD,
+
+at the blast of the breath97 of his nostrils.
+
+8-16The action of the Lord is described in vivid metaphor. What is the metaphor used? The phenomenon that would cover most of the description is a volcano, which causes earthquake, smoke, fire, fiery coals, and ash clouds. However, there are no volcanoes nearby. There are volcanoes near the southern end of the Red Sea, but they were not active three thousand years ago.
+
+Earthquake imagery (earthquakes were known, see Amos 1:1) is often associated with the Lord (Isa. 5:25; 24:18), but earthquakes do not cause clouds.
+
+I believe it is best to take these as storm images; describing battle in terms of storm is common both in the Bible and other Near Eastern literature.98 In this song, the Lord is depicted as a mighty warrior riding in a chariot drawn by the wind or a cherub. David is probably thinking mainly of actual fighting, though he may have been thinking of some instances of spiritual battle also.
+
+8The trembling of the earth is here said to be due to Yahweh’s anger as in Isa. 13:13; Jer. 10:10; Nah. 1:5. But it also accompanies his approach (Judg. 5:4; Ps. 68:8; 77:18) or results from his uttering his voice (Joel 3:16). The phrase the foundations of the heavens (môsedôt haššāmayim) is a unique expression, which is replaced by its variant phrase “the foundations of the mountains” (môsedê hârîm) in Ps. 18:7; the latter also appears in Deut. 32:22. Compare the foundations of the world in v. 16.
+
+Ηere the sequence of verbs, trembled (wattigʿaš) . . . quaked (wattirʿaš) . . . shook (yirgāzû) . . . trembled (wayyitgāʿăšû), is wayqtl . . . wayqtl . . . yqtl . . . wayqtl. Ιt should be noted that the third verb (yqtl) is past tense without waw; see above (v. 4).
+
+Q. wayyitgāʿaš (trembled: 3 m.s.) does not match the subject the earth (f.s). K. wtgʿš should be vocalized either as wattigʿaš (Qal, impf., 3 f.s.), as in Ps 18:7, or wattiggāʿaš < wattitgāʿaš (Hit. impf., 3 f.s.) like wayyitgāʿăšû “and (they) trembled” of the third colon of the same verse.99
+
+9When he was angry, smoke went up from Yahweh’s nostrils as it did from the nostrils of Leviathan in Job 41:20 (MT v. 12). The imagery here is probably that of a thunderstorm.
+
+10-11In Ps. 68:33 the Lord is metaphorically described as “the rider of the ancient highest heavens” (rōkēb bišmê šemê-qedem), who employs a cloud chariot to fly on the wings of the wind (v. 11; Ps. 104:3; Isa. 19:1). See the Ugaritic epithet of Baal as “the Rider of the clouds” (rkb ʿrpt) in ΚΤU 1.2 IV 8, etc.100 The Lord is fighting against David’s enemies.
+
+12101 Verse 12 and Ps. 18:11 differ slightly; the former is a bicolon, while the latter a tricolon.102
+
+wayyāšet ḥōšek sebîbōtâw sukkôt
+
+ḥašrat-mayim ʿābê šeḥāqîm
+
+And he made the darkness around him his canopies,
+
+the sieve of the waters, the thick clouds of the skies.
+
+Ps. 18:11 (MT 12)
+
+yāšet ḥōšek
+
+sitrô sebîbôtâw sukkātô
+
+ḥeškat-mayim ʿābê šeḥāqîm
+
+He made the darkness his covering,
+
+around him his canopy,
+
+the darkness of waters, the thick clouds of the skies.
+
+Comparing the first line in the Samuel passage and the first two lines of the psalm passage, it seems that one could say that the colon (or line) of Samuel is expanded into a bicolon in the psalm, with the addition of the parallel term, “his covering.” Here, the grammatical relation between “he made the darkness” and “around him” is horizontal in Samuel, while in the psalm it is vertical with the structure AX // BX′. The phrases A (“he made the darkness”) and B (“around him”) have a vertical grammatical relationship, while on the other hand X′ (“his canopy”) is simply a restatement of X (“his covering”).103 The phrase wayyāšet (and he made) in Samuel is impf. with waw consecutive, while on the other hand yāšet (he made) in the psalm could be an old yqtl preterite; see below on v. 14.
+
+The phrase ḥašrat-mayim is here translated as the sieve of the waters, following McCarter, who explains it based on Postbiblical Hebrew ḥašar “sift, distill through as sieve.” He holds that “this cosmic structure is the celestial rain cloud” which was, he assumes, called a sieve “because rain falls to earth from it in small drops.”104 See “a mass of waters” (NASB); cf. ḥeškat-mayim “the darkness of waters” in the psalm.
+
+The phrase thick clouds of the skies (ʿābê šeḥāqîm; also Ps. 18:11) has been taken as a gloss,105 but the structures of the two parallel passages rather support its existence in its original contexts, as noted above. The basic meaning of the two parallel passages is almost the same:
+
+2 Sam. 22:12And he made the darkness around him, namely the sieves of the waters,
+
+namely the thick clouds of the skies, (to be) his canopies.
+
+Ps. 18:11He made the darkness around him, namely the darkness of waters,
+
+namely the thick clouds of the skies,
+
+(to be) his covering, namely his canopy.
+
+See below on v. 39, where the parallelism is a tricolon, while the corresponding Ps. 18:38 has a bicolon.
+
+13Here, coals of fire (gaḥălê ʾēš), an imagery of flashing lightning and hail, is added to the rain-cloud imagery; cf. “fiery coals” (JPS); “bolts of lightning” (NIV).
+
+14The mode of theophany is the thunderstorm, as is often in older biblical poetry.106 The verb thundered (yarʿēm), which is a yqtl-form, is an old preterite. It appears in 2 Sam. 22 only here and in v. 16, while the parallel passages in Ps. 18 have wayqtl (wayyarʿēm; wayyiggālû); see on v. 12.
+
+Thundered and uttered his voice are a paired expression. On the Lord’s thundering, see on 1 Sam. 7:10.107 For the voice of the storm god Baal as thunder, see KTU 1.5 V 8-9 (UT 51:5:70-71). The same idiomatic expression is attested in Amos 1:2;108 Ps. 29:3-9; 46:6; etc.109
+
+15This verse is a good example of poetic parallelism exhibiting “verticality” in Biblical Hebrew parallelism.”110 It has the parallelistic structure a-b-x // b′-x′:
+
+And he sent out arrows, and scattered them;
+
+// lightning, and routed them.
+
+wayqtl - NP(O) - wayqtl
+
+// NP(O) - wayqtl
+
+The first VP (sent out) governs both NP(O)s, not only arrows in the first line but also lightning in the second line, so he sent out and lightning are vertical-grammatically related to each other; see also vv. 23 and 41 below.
+
+Instead of bārāq “lightning,” Ps. 18:14 has the variant form υ̂berāqîm rāb, which has been translated as “and he shot out lightnings” etc., by taking rāb as a verbal form. However, the verse in the Samuel text is a good example of a parallelism with vertical grammar, and the variant text in the psalm should be analyzed similarly with a NP at the beginning of the line, not a sentence; hence, “And lightning flashes in abundance” or the like, taking rāb adverbially.
+
+For the term routed (K. wyhmm; Q. wayyāhōm; or “confused”), see 1 Sam. 7:10. McCarter takes the two “them”s of this verse to refer to the previous nouns “arrows” and “lightning bolts” respectively since the “enemies” do not appear until v. 18, and translates this verb as “made them rumble.”111
+
+16Based on the sources of the sea (ʾăpīqê yām), the variant phrase “the sources of water” (ʾăpîqê mayim) in Ps. 18:15 is often translated as “the channels of the sea” (e.g., NRSV, JPS and NIV), the first mem being taken as enclitic to the preceding construct noun: thus (ʾăpîqê-m ym).112 See the Ugaritic expression, apq thmtm “the springs of two oceans” (DULAT, p. 91).
+
+For the phrase the foundations of the world (mōsedôt tēbēl), see Isa 24:18; Mic. 6:2; Ps. 82:5; etc., also the Ugaritic expression msdt arṣ in KTU 1.4 I 40, and 1 Sam. 2:8b “the pillars of the earth.”
+
+The phrase at the rebuke of the LORD has the variant “at your rebuke, O LORD!” in Ps 18:15; see Pss 76:6; 104:7.
+
+On the phrase at the blast of the breath, Block comments that “this poet perceives the rûaḥ as divine breath with which the world is controlled and the forces in opposition to Yahweh are defeated.”113
+
+5. 22:17-20
+
+17 He sent (his hand) from on high (and) took me;
+
+he drew me out of mighty waters.
+
+18 He delivered me from my strong enemy,
+
+from those who hated me,
+
+for they were too strong for me.
+
+19 They confronted me in the day of my calamity;
+
+and the LORD became a support for me.
+
+20 And he brought me forth114 into a broad place;
+
+he rescued me, because he delighted in me.
+
+17Mighty waters (mayim rabbîm) goes back to the imagery of v. 5. The expression is sometimes taken as referring to a Chaoskampf (battle with chaos) through which the Lord supposedly established order as the result of his victory. However, the Bible does not suggest there was any battle in connection with creation.115 This and other similar expressions are metaphors describing the psalmist’s difficult situation in the languages of storm and flood.116 Passages like this describe the destruction of enemies for the sake of deliverance or protection of those who trust in God: e.g., Ps. 46:1-4; 74:12-14; Hab. 3:8.117
+
+The phrase sent (his hand) is a brachylogy of the key term “his hand.”118
+
+18Here, for the first time the psalmist’s enemy is mentioned directly. The term enemy (sg.) is in parallel with those who hated (pl.). This word pair appears also in v. 41.
+
+20A broad place is the opposite of a place that is “narrow,” an idiom meaning “to be greatly distressed” (lit. “the matter is narrow for”) in 1 Sam. 30:6; 2 Sam. 13:2; Ps. 4:1; etc. See Ps. 31:8, “You have set my feet in a broad place.” Compare Dahood and Tromp, who understand the phrase as “the broad domain,” which they take as “a designation of the netherworld,”119 but this is unnecessary and certainly does not fit the present context.
+
+6. 22:21-25
+
+21 The LORD rewarded me according to my righteousness;
+
+according to the cleanness of my hands he recompensed me.
+
+22 For I have kept the ways of the LORD;
+
+I have not acted wickedly, that is, without my God.
+
+23 For all his ordinances were before me;
+
+his statutes, I did not turn away from them.120
+
+24 I was121 blameless toward him;
+
+I kept myself from my iniquity.
+
+25 And the LORD recompensed me according to my righteousness,
+
+according to my cleanness122 before his eyes.
+
+21The verb rewarded is imperfect; but it is an old yqtl that is a preterite or past tense. Similarly, the phrase he recompensed me (yāšîb lî; lit. “he returned . . . to me”) is preterite. The bicolon constitutes a chiasmus.
+
+22McCarter translates the Hebrew welōʾ rāšaʿtî mēʾĕlōhāy (lit. “I had not acted wickedly from my god”) as “strayed wickedly from my god.” He notes similar constructions involving min- with other verbs in GKC §119xy and especially 119ff.123 However, the construction is rather to be explained simply as the privative use of the preposition min, hence without. This bicolon is a good example of a synonymous parallelism, where the two lines describe two sides of the same coin.
+
+23The parallelism should be understood vertically as in vv. 15 and 41. Thus,
+
+For all his ordinances were before me,
+
+and his statutes, I did not turn away from them.
+
+It can be paraphrased as, “For all his ordinances and his statutes were before me; I did not turn away from them.” The grammatical structure of the bicolon is: NP(S) – prepPh // NP(S); VP(ʾāsûr “turn away” [S+Vi]) – prepPh.
+
+McCarter reads mimmennāh as “from me,” emending the text following LXXL and Ps. 18:22,124 which, however, has a different grammatical structure:
+
+For all his rules were before me,
+
+and his statutes I did not put away from me. (ESV)
+
+There, NP(S) – prepPh // NP(O) – VP(ʾāsîr “put away” [S+Vt]) – prepPh.
+
+The second line is simply an example of inversion of the word order of V-O. In Ps. 18 “statutes” is the object of the transitive verb “put away,” but in 2 Samuel it cannot be the object of the intransitive verb “turn away.”
+
+24The term tāmîm “blameless” appears four times in this poem: also in vv. 26, 31, 33. Here and in v. 26, David’s concern is his own blamelessness, while in vv. 31 and 33, it denotes the “perfect” way, i.e., the blameless state of divine conduct.125
+
+25This verse repeats the phrase recompensed me and the word pair cleanness and righteousness of v. 21b. Thus, it and v. 21 constitute a chiastic inclusio, delimiting the section vv. 21-25.
+
+Compared to v. 21, the element leneged ʿênâw (before his eyes or “in his sight”) is new, replacing “of my hands,” while all the other phrases and expressions are the same or similar. Psalm 18:24 repeats “the cleanness of my hands” here.
+
+7. 22:26-33
+
+26 Toward126 the kind you show yourself kind;
+
+toward the blameless man127 you show yourself blameless.
+
+27 Toward the pure you show yourself pure;
+
+toward the crooked you show yourself perverse.
+
+28 A humble people you deliver;
+
+but with your eyes on the haughty you bring them down.
+
+29 For you are my lamp, O LORD;
+
+the LORD lightens my darkness.
+
+30 For by you I can run over a barricade;128
+
+by my God I can leap over a wall.
+
+31 As for God, his way is blameless;
+
+the utterance of the LORD is refined.
+
+He is a shield to all who take refuge in him.
+
+32 For who is God besides129 the LORD?
+
+And who is the rock besides our God?
+
+33 God is the one who strengthens me with power;
+
+and he certainly130 shows his way to the blameless.
+
+26-27These two verses form a quadracolon, i.e., a four-line parallelism, all of the form “With the X (man) you show yourself X (or X′).” (The addition of “man” in the second line seems to be for line length.) “You show yourself X” is a verbal form derived from the adjective X.
+
+26Though McCarter refers to “the textual confusion in this verse,”131 the MT makes good sense with a proper understanding of the structure of the poetic parallelism.
+
+The verb you show yourself kind (titḥassād) is a denominative verb from ḥesed; see 2 Sam. 2:5 on this term.
+
+The phrase the blameless man (gibbôr tāmîm) is literally “a blameless warrior,” but gibbôr may no longer have a military sense. Like gibbôr in 1 Sam. 9:1, it probably simply refers to a high member of society (see Ruth 2:1).132
+
+27The Hebrew term tittappāl (you show yourself perverse) here differs from titpattāl in Ps. 18:26. While the Psalm preserves the regular Hithpael form, the Samuel text is the result of several phonetic changes.133
+
+tittappāl <-(metathesis)- tippattāl <-(assimilation)- titpattāl
+
+28This verse restates the theme of the Song of Hannah at the beginning of Samuel (1 Sam. 2:7-8): God controls human destiny, humbling the proud, but raising the humble. This is certainly one of the book’s main themes.
+
+The phrase weʾet-ʿam ʿānî (A humble people [you deliver]) is kî-ʾattāh ʿam-ʿānî (“For you [deliver] a humble people”) in Ps. 18:27. In Samuel the initial part is waw plus the object marker, while in the latter it is ki plus the independent pronoun attāh as the subject. Nevertheless the basic grammar and meaning are the same in the two passages.
+
+Similarly, in the second half of this verse, MT Samuel weʿênêkā ʿal-rāmîm (with your eyes on the haughty) and weʿênayim rāmôt (“the haughty eyes”) in Ps. 18:27 are both grammatically and semantically the same. That is, the verb tašpîl, which appears in both texts, means you bring down.
+
+30“šwr(?)” “wall” is literally “bull.” Millard has personally suggested that the meaning here is indeed “bull,” and it is related to the bull-leaping of Minoan Crete, which is depicted on the fresco of the Great Palace at Knossos.
+
+31The meaning of the term ṣerûpāh (refined) is uncertain, but presumably has something to do with silver in the light of Akkadian ṣarpu “refined (said of silver)”; “silver.”134
+
+32This also is close to 1 Sam. 2:2 in Hannah’s song, extolling the Lord as a rock and the one and only God. It also reflects back to the beginning of the song (vv. 2-3), where God is called a refuge.
+
+For the expression who is God besides the LORD? see 1 Sam. 2:2. This is the “monotheistic formula,” which Eichrodt thinks appears in other literature first in the seventh century.135 McCarter also speculates that the present passage is an expansion of Isa. 45:5. On the other hand, D. N. Freedman holds a tenth-century date for Hannah’s song,136 and the present psalm could be very old like that. Here too, as in Hannah’s prayer, Yahweh’s incomparability and his uniqueness are juxtaposed, though implicitly.137
+
+For God as the rock, see on v. 3. Here, the “rock” is in parallel with “God” (ʾēl); see Hab. 1:12 (YHWH// “the rock”). Also, the phrase “the LORD our God” is here broken up into two parallel phrases.138
+
+33The Hebrew māʿuzzî ḥāyil has been variously translated: “my strong fortress,” or “the one who arms me with strength.” McCarter translates “who girded me,” following Ps. 18:32 (hamʾazzerēnî ḥāyil) as well as 4QSama;139 see on 1 Sam. 2:4.140 However, the text should be translated as the one who strengthens me with power, taking the verbal form as a Piel participle with an object suffix; see LXXB, for which McCarter reads mʿzzny as the Vorlage.
+
+The meaning of the MT form wayyattēr, translated here as he certainly shows, is uncertain. It has been taken as the assimilation of the consonant /n/ to the following /t/ of the verb *ntr, Hi (“to leap away”; see HALOT, p. 736). See DULAT, p. 652: ntr “to jump, leap.” However, such a meaning does not fit the context. McCarter explains the term as a defective spelling of wayyetaʾer from *tʾr (“and he traced”) and translates “and mapped out” in the light of Isa. 44:13 and Num. 34:7, 8, 10.141 However, he ignores the vowel points of the MT spelling. Instead, purely morphologically, it could be a sandhi spelling from *ʾtr, Pi wayyeʾattēr. But, now, we can only guess its meaning. Compare Ps. 18:32 “and he made (wayyittēn) my way (darkî) blameless” (so HALOT, p. 734).142
+
+Taken together with v. 31, the second half of v. 33 means “God, whose way is blameless, certainly shows his way to the blameless.” This is in keeping with v. 26b, which states that God shows himself blameless to the blameless. Compare “God, whose way is blameless, makes my way blameless” in Ps. 18:30a, 32b.
+
+8.22:34-43
+
+34 Setting my feet, like hinds,
+
+yea on the heights he makes me stand.
+
+35 He trains my hands for battle;
+
+my arms bend a bow of bronze.
+
+36 You have given me the shield of your salvation;
+
+your chastisement has made me great.
+
+37 You have enlarged my steps under me;
+
+my ankles have not slipped.
+
+38 I pursued my enemies and destroyed them;143
+
+I did not turn back until they were consumed.
+
+39 I consumed them and smashed them;
+
+they did not rise144
+
+but fell under my feet.
+
+40 You girded me with strength for battle;
+
+you subdued under me those who rose against me.
+
+41 You made my enemies turn their backs to me,
+
+those who hated me, and I destroyed145 them.
+
+42 They looked for help, but there was none to save;
+
+at the LORD, but he did not answer them.
+
+43 I beat them fine like the dust of the earth;
+
+like the mire of the streets I crushed and stamped on them.
+
+34The phrase setting my feet, like hinds appears in Hab. 3:19 also.
+
+The phrase yea on the heights (weʿal bāmôtay) modifies both setting and stand, thus being double-duty; waw of the second colon can be ignored in translation. For this expression, see also 2 Sam. 1:19, 25.
+
+35Based on Ugaritic and Arabic cognates, McCarter translates this verb (*nḥt) as “he shaped.”146 However, the meaning bend (lit. “cause to descend” = “press down”) fits in the practice of the idiomatic expression “to bend a bow” (*drk “to tread [a bow]”) in order to shoot an arrow; see Pss. 7:12; 11:2; 58:7; 64:3; etc.147 A bow of bronze (qešet-neḥûšāh) is probably a bow reinforced with bronze, which would be difficult to draw, but powerful and very durable. Note that “bronze” is a symbol of unbreakability in Jer. 1:18; Mic. 4:13; Job 6:12; 40:18; etc. A bow of bronze also appears together with “an iron weapon” in Job 20:24.
+
+36After your salvation, Ps. 18:35 has the additional colon, “and your right hand supported me” (wîmînekaʾ tisʿādēnî).
+
+Your chastisement (ʿanwatka; lit. “oppression,” from the root *ʿnw) is often translated as “help” by emending the text based on 4QSama; cf. “gentleness” (ESV), “you stoop down” (NIV). However, the difference between waʿănōtekā in this text and weʿanwatkā in Ps. 18:35 can be explained as follows:148
+
+weʿanwatkā = weʿanuatkā -(contraction)→ weʿanōtekā -(shwa rule)→ waʿănōtekā
+
+37The Hebrew form taḥtēnî (under me) with -n- (cf. taḥtāy in Ps. 18:36) occurs only in this poem (also in vv. 40, 48), though in Ugaritic and Phoenician prepositions sometimes appear with an -n- form.149
+
+39McCarter thinks that I consumed them (wāʾăkallēm) reflects the LXX of the end of v. 38: “until I finished them.” However, the phrase here should be taken as a word pair: “consume and smash”; in Ugaritic these two verbs, kly and mḫṣ, appear also as a word pair.150
+
+Τhe expression not rise . . . and fell is a transposition of the common A not B pattern; see Amos 5:2. The verse can be analyzed as a tricolon: 8-5-8,
+
+wāʾăkallēm wāʾemḥāṣēm
+
+welōʾ yeqûmûn
+
+wayyipelû taḥat raglāy
+
+while Ps 18:38 is a bicolon: 8-7
+
+̄ʾemḥāṣēm welōʾ-yūklû qûm
+
+yippelû taḥat raglāy.
+
+See on v. 12 above where the parallelism is a bicolon, while Ps. 18:11 is a tricolon.
+
+40The term wattazrēnî (you girded me) is a sandhi spelling151 of the corresponding term watteʾazzerēnî in Ps. 18:39. Τhus,
+
+watteʾazzerēnî — (loss of intervolalic aleph)→ watteazzerēnî
+
+— (vowel sandhi)→ wattazzerēnî
+
+— (restructuring)→ wattazrēnî
+
+In other words, the term watteʾazzerēnî first experienced the loss of an intervocalic aleph; then, vowel sandhi occurred between [e] and [a]. Finally the phonetic structure was slightly modified to become wattazrēnî.
+
+Therefore the text should not be explained as a scribal error or a misspelling, i.e., scribal omission of the aleph, but rather as an example of internal vowel sandhi.
+
+The phrase those who rose against me (qāmay) is a parallel term of my enemies (ʾōyebay) in vv. 38 and 41. For this word pair, see also on v. 49.
+
+41Here, vertical grammar (see on v. 15) is at work; those who hated me, like its paired expression my enemies, is the object of the verb made in the first line. Hence, the meaning is: “You made my enemies, i.e., those who hated me, turn their backs to me, and I destroyed them.”
+
+One could take the second line as an example of topicalization before a wayqtl construction,152 “as for those who hated me, I destroyed them.” However, vertical grammar explains poetic parallelism better than prose grammar, which is basically horizontal.
+
+42Normally the verbal root *šʿh means “to gaze.” In view of Ps. 18:41, which has *šwʿ “to cry out for help,” and of the verbal root *yšʿ, which means “to help, save,” one may reasonably suggest that the term yišʿû (*šʿh) of this verse is originally from a biconsonantal verb *šʿ and means they looked for help.
+
+The phrase at the LORD (ʾl YHWH) — also 4QSama — in the second line vertically modifies They looked for help in the first line, while the clause but he did not answer them in the second line is a further specification of but there was none to save in the first. In other words, according to the vertical grammar of parallelism,153 the bicolon as a whole means: “They looked at the Lord for help, but there was none to save them, and the Lord did not answer them.”
+
+43The expression the dust of the earth (ʿăpar-ʾāreṣ) appears also in Amos 2:7 and Job 14:19; the word pair constitutes a construct chain; cf. LXXL and Syr. The phrase keʿāpār ʿal-penê-rûaḥ “like the dust before the wind” in Ps. 18:42 is similar to like the dust of the earth as a metaphorical expression for fineness.
+
+9. 22:44-46
+
+44 You delivered me from the contentions of my people;
+
+you kept me as the head of the nations;
+
+people whom I had not known served me.
+
+45 Foreigners came cringing to me;
+
+as soon as they heard,154 they obeyed me.
+
+46 Foreigners lost heart;
+
+they came trembling out of their fortresses.
+
+44The variants between the Samuel passage and Ps. 18:43, i.e., my people (ʿammî) - “the people” (ʿām) and you kept me (tišmerēnî) - “you have set/made me” (teśîmēnî), are not evidence of scribal errors, but features of slightly variant versions of the same poem.
+
+45Note that the colons v. 45a and v. 45b are inverted with variations in Ps. 18:44.
+
+46The MT of came trembling (weyaḥgerû) is a metathesis of weyaḥregû (so Ps. 18:45), which is from the verbal root *ḥrg “quake.” Such metathesis often occurs when the verbal root includes the consonant /r/.155 Hence, both forms are acceptable, and either could have existed in the original texts.
+
+The Hebrew misgeret (*sgr “to shut”) refers to a place such as a “prison” (HALOT) or fortress. McCarter takes the phrase as “their collars” (lit. “their rims”), as in Ps. 142:8 where masger means “neck stock, collar” like sugar, from the Assyrian sigaru. However, misgeret is better taken as a term for a place such as a “prison” or fortress, for the verbal root is most likely *ḥrg rather than *ḥgr (“to gird oneself”).
+
+10. 22:47-49
+
+47 The LORD lives! Blessed be my rock;
+
+exalted be the God of my salvation, a rock!
+
+48 The God, the one who executes vengeance for me,
+
+the one who brings down156 peoples under me.
+
+49 He is the one who brings me out from my enemies;
+
+above157 my adversaries you lift me high;
+
+from the violent man you deliver me.
+
+47-49This is the close of the second half, summarizing what the Lord has done and repeating the key-word rock (also v. 3).
+
+47For the oath formula the LORD lives, see 1 Sam. 14:39.158
+
+The Hebrew expression ʾĕlōhê ṣûr yišʿî (lit. “God rock of my salvation”) follows the AXB pattern, in which the construct chain God of my salvation is interrupted by the insertion of X.159 For the phrase God of my salvation, see the parallel text Ps. 18:46 and many other texts that read “God of (my, our, your, etc.) salvation.” The phrase God of my salvation, a rock is perfectly adequate as a restatement of my rock in the first line. No emendation of the construct form ʾĕlōhe to ʾĕlōhay is necessary.
+
+The translation “God, the rock of my salvation” (lit. “God of the rock of my salvation”) is also possible in the light of the expressions such as “the rock of my/our salvation” (ṣûr yešûʿātî in Ps. 89:26; ṣûr yišʿēnû in 95:1), and “the Rock of his salvation” (ṣûr yešūʿātô in Deut. 32:15); also “the rock of my strength” (Ps 62:7). In this case, the first construct chain (“God of the rock”) is taken as apposition (see above in v. 3): “God, [who is] the rock of my salvation.” Note that a construct chain AB is sometimes broken up, with A and B distributed in two parallel colons: A of B ==> A//B.160 For example, the construct chain “coals of fire” (A of B; vv. 13-14) is broken up and “fire” (B) and “coals” (A) are distributed into two parallel lines in v. 9. However, B is not appositive to A in A//B.
+
+49In this tricolon, my enemies in the first line and my adversaries in the second are a popular word pair that closely connects the first two lines. On the other hand, while the first line is in the third person, both the second and the third are in the second person. Thus, the second line serves as a hinge, tightly connecting the first and the third lines.
+
+For you deliver me (taṣṣîlēnî), McCarter translates “you protected me,” reading tnṣrny with LXXL and 4QSama, but his reading [t]nṣrny of 4QSama is rejected by Herbert and corrected in DJD 17 to ]tṣrny.161
+
+11. 22:50-51
+
+50 Therefore I will extol you, O LORD, among the nations;
+
+to your name I will sing praises.
+
+51 He is the one who magnifies the salvation of his king,
+
+the one who does lovingkindness to his anointed,
+
+to David and to his seed forever.
+
+50-51The song concludes with a reference to ch. 7 and to the last verse of the Song of Hannah (1 Sam. 2:10).
+
+50The particle ʿal-kēn (therefore), which usually appears in prose rather than in poetry (only 13 times in the Psalms out of 161 times in the OT), here introduces a chiastic bicolon:
+
+Therefore
+
+I will extol you, O LORD, among the nations;
+
+to your name I will sing praise.
+
+51The translation the one who magnifies follows the K. mgdyl, not the Q. migdôl, which means “tower.” See also the Q. magdîl in Ps. 18:50.
+
+For lovingkindness (ḥesed), see 2 Sam. 2:5; cf. “steadfast love” (RSV); “unfailing kindness” (NIV). JPS translates the idiom *ʿs̀h ḥesed (lit. “to do lovingkindness”) as “deals graciously.”
+
+Some hold that the verse as a whole is an addition intended to give the psalm closer application to the context identified in v. 1, while others think that only v. 51c (to David and to his seed forever) is secondary. Since the terminology such as ʿōśeh ḥesed, zarʿô, and ʿad-ʿôlām is “that of Nathan’s oracle and related passages,” McCarter suggests two possibilities: (1) v. 51 is original and stemmed from circles at the Jerusalem court; (2) v. 51 (or at least v. 51c) is an addition based on Nathan’s oracle in order to associate the psalm of a northern (Israelite) origin with the house of David.162 The first possibility is more likely, in view of the fact that Nathan the prophet of the Lord (7:4-7) was also David’s counselor (7:2-3) at the Jerusalem court. Verse 51 reminds us of the Lord’s promise to David and his “house” (dynasty) of his seed (heir) and eternal throne in 7:12-16.
+
+Thus, this song of victory (X) by David marks the center of the concluding section of the Books of Samuel, with a praise to the Lord who magnifies the salvation of his king, and who does lovingkindness to his anointed, namely, to David and to his seed forever, and is situated in the middle of the Epilogue (ABXX′B′A′) with the other poetic text, David’s Last Words (X′: 23:1-7).
+
+
+
+
+
+X′. THE LAST WORDS OF DAVID (23:1-7)
+
+
+The “Last Words of David” is a psalm praising God for establishing his house as the ruler; it reflects back to the promise in ch. 7. Also, like the wisdom psalms, it contrasts the just ruler and worthless men.
+
+It consists of five parts:163
+
+Title: These are the last words of David, and identification of David (v. 1).164
+
+Introduction (vv. 2-3a)
+
+Description of the righteous ruler (vv. 3b-4) - like the light of the morning at sunrise
+
+David’s comment (v. 5)
+
+Description of worthless men (vv. 6-7) - like uprooted thorns
+
+
+
+McCarter sees here a motif of “the king under the image of sun,” a widespread motif in the royal ideologies of the ancient Near East. He cites solar imagery and terminology from Egyptian and Hittite materials as well as biblical passages such as Ps. 84:12; Mal. 3:20.165
+
+Not a few scholars regard David as the author of the psalm “from at least v. 3b onwards.”166 McCarter tentatively dates it to the early monarchical period, “perhaps to the time of David,” since he can find no “late” vocabulary here and the opening of this poem is parallel to the Balaam oracles (Num. 23), which are “widely recognized as very ancient.”167 He also cannot find any trace of the later Deuteronomistic language.
+
+The elaborate title in v. 1, as noted below, resembles those in some Egyptian poetry. It may be, as already noted above (see the commentaries on 5:6-10 and 8:16), that David had learned the Egyptian literary practices indirectly from the Jebusite court in Jerusalem, which had a close relationship with Egypt during the Amarna age.
+
+The general idea of David’s poem is: if my successors are guided by righteous principles of government, my dynasty, under the blessing of God, will be established and prosper.168 This theme is carried on throughout the books of 1-2 Kings.
+
+1 And169 these are the last words of David.
+
+The oracle of David the son of Jesse,
+
+the oracle of the man who was raised by the Exalted One,
+
+the anointed of the God of Jacob,
+
+the minstrel of the songs of Israel:
+
+2 The spirit of the LORD speaks through me;
+
+his word is on my tongue.
+
+3 The God of Israel has spoken;
+
+to me the rock of Israel has said:
+
+“As for one who rules over men righteously,
+
+who rules in the fear of God,
+
+4 he is like the light of a morning when the sun rises,
+
+(of) a morning when there are no clouds;
+
+(he is like) shafts of sunshine, after rain,
+
+on the grass from the earth.”
+
+5 Is not my house like this170 with God?
+
+For he has made the eternal covenant with me,
+
+which is ordered and secured in all things;
+
+as for171 all my salvation and all my desire,
+
+will he not indeed make them grow?
+
+6 As for the worthless, all of them172 are like173 uprooted thorns,
+
+for they cannot be taken with the hand.
+
+7 But the man who strikes them
+
+should be equipped with the blade and shaft of a spear;
+
+with fire they will be completely burned on the spot.
+
+1This long title is similar to that of some Egyptian poems; e.g., “The Great Cairo Hymn of Praise to Amun-Re” and “The Great Hymn to the Aten.”174 The formula the oracle of . . . the oracle of the man appears also in Num. 24:3-4, 15-16; see also Prov. 30:1 and Ps. 36:1. Only in these four contexts is this formula used in connection with human speakers. G. Rendsburg thinks this usage is of northern, i.e., Israelian, origin.175
+
+The phrase hqym ʿāl translated here with a noun by the Exalted One (or “Most High” [NIV]) can also be translated with an adverb “on high” (RSV, JPS, ESV). Unlike ʿlw (“against them”) in 1 Sam. 2:10, the term here has no final w.176 McCarter reads hqym ʾl based on 4QSama and LXXL, and translates it as “God established” “in view of the frequent interchange of the prepositions ʾl and ʿl in Samuel (22:42; etc.).”177 NRSV translates similarly as “God exalted.” However, it should be noted that in the MT this interchange of the initial aleph and ayin is mostly limited to the cases of the prepositions ʾl and ʿl, and not for the noun “god.” This “raising” refers to the divine inauguration of the kingship of David, the anointed of the God of Jacob.
+
+The phrase neʿîm zemīrôt Yiśrāʾēl, lit. “the sweet one of the zemīrôt of Israel,” has been interpreted in two ways, depending on the meaning of zemīrôt.
+
+Traditionally, zemīrôt has been taken to come from *dmr (I) “to sing, play a musical instrument,” and the phrase has been interpreted musically and translated as “the sweet psalmist of Israel” (KJV, RSV, NASB); “the favorite of the songs of Israel” (JPS); “Israel’s singer of songs” (NIV).
+
+However, recently some have interpreted zemīrôt in the light of *dmr (II) “to protect,” and translated the phrase as “the favorite of the Strong One of Israel” (NRSV); “the darling of the stronghold of Israel” (McCarter). The latter reads zemīrôt Yiśrāʾēl as zimrat Israel, a divine epithet that is in parallel to the God of Jacob. He sees the same verbal root in ʿozzî wezimrāt yāh (Exod. 15:2; Isa. 12:2; and Ps. 118:14) which he translates “my strength and my stronghold.”
+
+Nevertheless, the MT here reads zemīrôt, not zimrat, and hence is most naturally translated as “songs.” Furthermore, in Ugaritic the word nʿm “good,” a cognate of neʿîm, “sweet,” is used to mean “minstrel,” that is a “good-voiced person,” so neʿîm zemīrôt Yiśrāʾēl most naturally means the minstrel of the songs of Israel.178 See also the commentary on 2 Sam. 1:26.
+
+It should not be surprising to see a man of war as a musician in the ancient world. For example, Achilles is represented as entertaining himself with his lyre (Iliad 9:185-86).179
+
+2The sentence the spirit of the LORD speaks through me (bî), which is in parallel with his word is on my tongue, shows that David represents himself as a prophet (see Matt. 22:43; Acts 1:16; 2:30; 4:25; Heb. 4:7) rather than simply as a poet who was thought to be divinely inspired.180
+
+3For the rock as a designation of God, see on 1 Sam. 2:2181 and 2 Sam. 22:2.
+
+The king who rules over men righteously is one who rules in the fear of God, according to the divine statutes. In other words, the king who fears God would rule over people righteously in the same way as the righteous God would rule the people. For the fear of God (yirʾat ʾĕlōhîm), see Prov. 1:7; 9:10; etc.
+
+4The he is the just ruler of the previous verse, not God (see “For the LORD God is a sun and shield” in Ps 84:11). David is talking neither of God nor of himself; he is referring to the future messiah, the offspring (or heir) of David; see 2 Sam. 7:16. Revelation 3:14 (also 1:5) seems to identify the “faithful and trusted” witness of Ps. 89:36-37 as Jesus Christ.182
+
+RSV, ESV, etc. see here three metaphorical expressions, “like the morning light” - ”like the sun” - ”like rain.” Likewise, Mettinger takes the verse as “a triple simile,” while de Boer sees here three proverbs. Smith holds that v. 4 compares the king both to the sun as it dawns and to the rain as it causes grass to grow, just as Hos. 6:3 compares Yahweh to both the sun and the rain.183
+
+However, the parallelism rather supports the following fairly literal translation:
+
+he is like the light of a morning when the sun rises,
+
+(of) a morning when there are no clouds;184
+
+(he is like) shafts of sunshine after rain
+
+on the grass from the earth.
+
+Here, the shafts of sunshine (minnōgah) is literally “some of the brightness” with a partitive min.185 “Light” (ʾôr) and “brightness” (nōgah) are a word pair seen in Isa. 60:3, 19; Amos 5:20; Hab. 3:4,186 11; etc. The parallelism and the word pair suggest rather that only one metaphor is involved, the solar metaphor: like the light // (like) the shafts of sunshine.
+
+The phrase after rain (X: lit. “from rain”) is better taken as inserted into the phrase (like) the shafts of sunshine on the grass (McCarter), thus constituting the AXB pattern.187 Hence, the metaphor involves the light of the rising sun in the morning that is shining bright on the grass after rain. Note that there is no verb such as “spring up” in the Hebrew text. Thus, what is described poetically in vv. 3b-4 is this: the righteous king, to whom David refers here, would rule his people righteously like the sun shines over all.
+
+5The eternal covenant (berît ʿôlām) here refers to the covenant God made with David in ch. 7, which is referred to also in Ps. 89:19-37; 132:11; Isa. 55:3; Jer. 33:17; 2 Chr. 13:5; 21:7; etc. For discussion of “eternal covenant,” see the commentary on ch. 7.
+
+The phrase ordered and secured (ʿărûkāh . . . šemūrāh) is, according to Driver, “an expression borrowed probably from legal terminology, and intended to describe the bryt [covenant] as one of which the terms are fully and duly set forth . . . , and which is secured by proper precautions against surreptitious alteration or injury.”188 All my salvation and all my desire expresses David’s confidence in his covenant God, who will certainly let them grow.
+
+6This verse describes the worthless (belîyaʿal). The etymology of this word is hotly debated. The term can also mean “the destructive ones.”189 In this poem, the worthless is structurally contrasted with the one who rules over men righteously, who rules in the fear of God (v. 3). Also, the metaphor describing them here like thorns is contrasted with the metaphors describing the ruler like the light // (like) the shafts of sunshine (v. 4).
+
+The phrase qôṣ mūnād has been traditionally taken as meaning “scattered thorns” (LXX) based on the root ndd (Hoph. ptc.) “move.” See HALOT on ndd I and qôṣ II. McCarter, however, suggests the root nwd whose basic meaning is “move out of place,” and translates uprooted thorns; see Isa. 17:11; 1 K. 14:15.190 The term can be traced back to the original biconsonantal *nd; either root would suggest the impermanent state of dead thorns.
+
+7Since thorns cannot be touched directly by hand, the people handing them are equipped with (yimmālēʾ) a long tool. The verb is literally “to be filled”; see also “arms himself with” (RSV, ESV, JPS) in the light of 2 K. 9:24. The translation “uses” (NRSV, NIV) is not specific enough to convey the nuance of the Hebrew verb, however. McCarter reads ‘m l’ “if not, unless, except,” based on the LXXL.191
+
+Here, the metaphor functions as follows:
+
+the worthless men — like uprooted thorns
+
+they cannot be taken with the hand;
+
+the man who strikes the worthless men
+
+should be equipped with . . . a spear;
+
+with fire they (both the worthless and uprooted thorns) will be completely
+
+burned on the spot.
+
+The phrase the blade and shaft of a spear (barzel weʿēṣ ḥănît) (lit. “iron and wood of a spear”) refers merismatically to the whole of a spear; it does not mean “either an iron or a wooden tool.” For the phrase shaft of a spear, see 1 Sam. 17:7 and 2 Sam. 21:19.192
+
+The phrase on the spot (baššābet) is literally “in the sitting.”193 For the image of thorns burning, see Isa. 9:18; 10:17; Heb. 6:8.
+
+
+
+
+
+B′. DAVID’S HEROES (23:8-39)
+
+
+This list of “David’s mighty men” begins formally with the title These are the names of and ends with the total number, thirty-seven in all (v. 39). For lists, see on 1 Sam. 6:17-18.194 The list is divided into two groups, “the three,” that is, Josheb-basshebeth, Eleazar, and Shammah (vv. 8-12), and “the thirty” (18-39). Thirty-three men are mentioned as being among “the thirty.” It is generally accepted that Joab, who is not listed, is assumed, making thirty-four men. These thirty-four men plus “the three” make up the “thirty-seven” of v. 39.
+
+This section is paralleled in 1 Chr. 11:10-41a; vv. 41b-47 give additional names. It does not give a total number corresponding to the “thirty-seven” of the Samuel passage, however.
+
+1. David’s Three (23:8-12)
+
+8 These are the names of the warriors whom David had:
+
+Josheb-basshebeth a Tahchemonite,
+
+the head of the captains;
+
+he was (called) Adino the Eznite,
+
+because of eight hundred slain by him at one time.
+
+9 Next to him was Eleazar the son of Dodo the son of Ahohi;
+
+he was among the three warriors with David.
+
+When they defied the Philistines who were gathered there to battle,
+
+the men of Israel withdrew.195
+
+10 It was he who arose and struck the Philistines until his hand was weary and clung to the sword.
+
+And the LORD brought about a great victory that day; the people went back after him only to strip (the slain).
+
+11 Next to him was Shammah the son of Agee the Ararite.
+
+And the Philistines were gathered into a troop.
+
+And a plot of ground was there which was full of lentils, but the people fled from the Philistines.
+
+12 And he took his stand in the midst of the plot, defended it and struck the Philistines.
+
+And the LORD brought about a great victory.
+
+8At the top of David’s heroes are listed the triad of officers, Josheb-basshebeth, Eleazar and Shammah. None of them are dramatis personae in the stories in 1–2 Samuel.196
+
+Josheb-basshebeth (yōšeb-baššebet) seems to be a popular etymologization, rather than “deformation” (HALOT, p. 445), of the formal “Jashobeam” (yāšobʿām) in 1 Chr. 11:11, which follows the typical Semitic name pattern impf. verb + ʿām (e.g., Jeroboam yārobʿām). Probably, both names for him circulated among the Israelites. Tahchemonite (taḥkemōnî) here is a noun using the taqtilān-type, while the corresponding name in 1 Chr. 11:11 “the Hachmonite” (ben-ḥakmônî) uses the qatilān-type noun gentilic formation. According to 1 Chr. 27:2-3 he was in charge of David’s military division for the first month.
+
+The term the captains (lit. “the three”; haššālīšî) has been interpreted variously: e.g., “the chief warriors who stood immediately next to the king and the commander of the army” (Thenius); “officers of the third rank, below the king and commander of the army” (Mastin, Naʾaman); “the third man in the chariot.” Schley argued that the term refers to “a special group of warriors whose original distinction had been that they had fought in three-man squads.”197 Margalith compares it with Ugaritic ṯlṯ “a metal, probably ‘bronze, copper’ ” (UT §19.2691), which he thinks means also “armoured.”198 According to him, the third-ranking officials are called “telestai” in Pylos in Greece, which is the original hometown of the Philistines. They are possibly “reminiscent of the šlyš, the knights of David (1 Chr. 12:19) and Ahab (2 Ki. 7:17); they were charioteers and wore heavy armour, like the šlyšm of Pharaoh (Exod. 14:7).”199 See “Triad” (a different Hebrew word) in v. 18 below.
+
+The Hebrew text of Adino the Eznite is ʿădînô hʿṣnw (K.); ʿădînô hāʿeṣnî (Q.). It is probably an otherwise unknown name Adino the Eznite (so JPS). It is possible that the heroic action of Josheb-basshebeth, his name itself a popular etymology of Jashobeam as noted above, resembled the heroism of a certain Adino the Eznite who was well known to the audience of 2 Samuel. But in any case, it is phonologically impossible to posit a case of textual corruption from ʿôrēr ʾet-ḥănîtô (1 Chr. 11:11) to ʿădînô hāʿeṣnî.200 Note that the K. seems to reflect a phonetic assimilation of -nî (Q.) to - nô.
+
+9The Hebrew of the son of Dodo, ben-ddy (K.) is a phonetic spelling that results from the assimilation of the final -î of ben-dōdô ben-ʾăḥōḥî. For the son of Ahohi, compare “the Ahohite” in 1 Chr. 11:12. Aho(a)h was the name of a son of Benjamin’s oldest son Bela (1 Chr. 8:4). Another of the thirty, Zalmon (Ilia) was also an Ahohite (v. 28; 1 Chr. 11:29).
+
+“He was among”: Τhe Ηebrew spelling (K.) bšlšh gbrym reads bišlōšāh haggibbōrîm (lit. “in three warriors”) in the Q; the Κ. is probably a phonetic spelling reflecting the actual pronunciation [bišlōšāgibbōrîm], rather than being a haplography.201
+
+11-12Third hero was Shammah the son of Agee the Ararite. He was defending the plot, or rather the lentils in it, against theft. Compare the Philistines robbing the threshing floors in 1 Sam. 23:1. In view of the parallel spelling hāʾrārî in v. 33, the term the Ararite (hārārî) is a sandhi form of hāʾărārî, i.e., “the Ararite” (JPS).
+
+The difficult Hebrew phrase laḥayyāh (v. 11) probably means into a troop; see v. 13. Some like HALOT, p. 525, take it as a geographical name, a corruption of the more difficult form leḥyāh, and translate the phrase “at Lehi,” as in Judg. 15:14, 17, etc. However, it should probably be taken as a variant form of laḥawwāh; in fact, the form with a directive he would be leḥîyāh.
+
+x. Water from the Well of Bethlehem (23:13-17)
+
+13 And three of the thirty chiefs went down and came to David
+
+at harvest time202 to the cave of Adullam, while the troop of the Philistines was camping in the Valley of Rephaim.
+
+14 David was then in the stronghold; the garrison of the
+
+Philistines was then at Bethlehem.
+
+15 And David had a strong desire and said,
+
+“Who would give me water to drink
+
+from the well of Bethlehem which is in the gate?”
+
+16 And the three warriors broke through the camp of the
+
+Philistines, and drew water from the well of Bethlehem which
+
+was in the gate, and took it and brought it to David. But he
+
+would not drink it and poured it out to the LORD.
+
+17 And he said,
+
+“Far be it from me, O LORD, that I should do this.
+
+Is it not the blood of the men who went at the risk of their
+
+lives?”
+
+Therefore he would not drink it.
+
+These things the three warriors did.
+
+13-17This episode may have occurred during the time David was fleeing Saul, or during one of the Philistine attacks in 2 Sam. 5:17-25. The taste of the water in different localities varies, and of course, the water one grew up drinking tastes best. One can guess that David was more homesick than thirsty. His words are not a command. It probably did not occur to him that someone might actually act on them. This episode shows the love his men had for their leader and his regard for them. Garsiel holds that this “water retrieval” mission was during the battles at the Valley of Rephaim (see 2 Sam. 5:17-25). But the reference to the cave of Adullam in v. 13 suggests the earlier occasion. Also, the text does not suggest that it was “primarily a reconnaissance mission.”203 On Valley of Rephaim, see the commentary on 2 Sam. 5:17.
+
+13These three men were apparently not the above “three,” but rather members of the “thirty” mentioned below. The translation three of the thirty chiefs is based on Q. šelōšāh mēhaššelōšîm rōʾš and supported by the context. Evidently Κ. šlšym mēhaššelōšîm rōʾš experienced a dittography; šelôšāh min-haššelôšîm rōʾš (1 Chr. 11:15 follows the Q). The influence of Egyptian institutions here on the early Israelite monarchy has been noted, since a group of thirty men can be identified as the king’s bodyguard in the Egyptian court in a Theban inscription about the coronation of Ramesses II.204
+
+It was at harvest time, hence it was hot and dry and rain was not expected. For the cave of Adullam, see on 1 Sam. 22:1.205
+
+The word troop (ḥayyat) is a variant form of ḥawwat, the construct of ḥawwāh (“army, troop”).
+
+14David was then in . . . and the garrison . . . was then are circumstantial clauses like “The Canaanites were then in” (Gen. 12:6; also 13:7) with exactly the same grammatical construction: we – N. - ʾāz – Adv.
+
+15The expression in the gate means inside of the complex structure of the city-gate, not “by the gate” (NASB; NRSV).
+
+16For the water libation, see on 1 Sam. 7:6.206
+
+17For the idiom far be it from me, O LORD, see on 1 Sam. 2:30.207 David may be offering this water in acknowledgment that he should not have made such a remark, but in that case it seems he would have made some other sacrifice also. It seems rather that he is saying this water is too precious for him to drink. Is it not the blood of. . .? is often translated as “Shall I drink the blood of” (NASB, RSV, ESV, etc.) in the light of 1 Chr. 11:19 “Shall I drink the blood of these men who went at the risk of their lives?” But, our text is an example of aposiopesis.208 The preposition be (at the risk of) is the beth pretii: “at the cost of their lives”; see 1 K. 2:23.209
+
+2. The Thirty: The First Two—Abishai and Benaiah (23:18-23)
+
+Verses 18-39 is the list of David’s “thirty men.” They are Abishai, Benaiah, and the men listed in 24-39. Most of the first dozen and a large part of the remainder are Judahites, so the group was probably formed early in David’s career. It has thirty-four names in it, probably representing thirty-five men (see on v. 32). Probably those of “the thirty” who died in battle like Asahel (v. 24; 2:18-23) and Uriah (v. 39; 11:17) were replaced by others. Some of the names appear as officers in 1 Chr. 27, and most appear in the list in 1 Chr. 11:20-47, which is an expansion of this, but is not labeled as being a list of “the thirty” (compare v. 24 here and 1 Chr. 11:26).
+
+18 Now Abishai, the brother of Joab, the son of Zeruiah, was chief of the thirty. And he swung210 his spear against three hundred and killed them; he won a name beside the Three.211
+
+19 Is it that he was honored more than the thirty? And he became their commander; but to the Three he did not attain.212
+
+20 Now Benaiah the son of Jehoiada was a valiant man with great deeds from Kabzeel. He struck down two (sons) of Ariel of Moab. He also went down and struck down a lion in the middle of a pit on the day of snow.
+
+21 And he struck down an Egyptian, a huge man. In the hand of the Egyptian was a spear. And he went down to him with a staff and snatched the spear from the hand of the Egyptian and killed him with his own spear.
+
+22 These things Benaiah the son of Jehoiada did; he had a name beside the three warriors.
+
+23 More than the thirty he was honored; but to the Three he did not attain. And David appointed him over his bodyguard.
+
+18The term thirty is literally “the third” (K. hšlšy) or “the three” (Q. haššelōšāh).213 It can possibly be explained as a phonetic spelling, the result of consonatal sandhi (m + w → w): thus
+
+haššelōšîm+wehûʾ “the thirty. And he” →
+
+haššelōšîwehûʾ → haššelōšî wehûʾ: hšlšy (K.)
+
+Note that two Hebrew manuscripts and the Syriac version have “thirty,” which is followed by NASB, NRSV, ESV; Driver.214 See also 1 Chr. 11:25.
+
+19Is it that (hăkî) is a neutral interrogative; see BDB, p. 472; cf. “He was most honored of the thirty” (NASB); “He was the most renowned of the Thirty” (NRSV). There is a Hebrew manuscript that has the reading of the thirty (hšlšym), against the Leningrad Codex “the three”; see above on v. 18.
+
+20Benaiah was captain of the Cherethites and Pelethites, the royal bodyguard; see 2 Sam. 8:18; 20:23. He replaced Joab as the army commander under Solomon; see 1 K. 2:35. Zeron holds that Benaiah is treated as special in this list, so it was “probably published during the reign of Solomon when Benaiah was commander of the army.”215 According to 1 Chr. 27:5-6, his father Jehoiada was chief priest. The passage says Benaiah’s son was in charge of his division; perhaps his other duties prevented him from the normal care of his division.
+
+The phrase a valiant man (lit. “the son of a man of “) is based on the Q. ben-ʾîš-ḥayil (so 1 Chr. 11:22). The phrase refers to a special class of citizen, i.e., “wealthy landowner who is competent, apt for military service and brave” (HALOT, p. 312). Talmon216 takes this expression as “a conflation of two synonymous readings” — ben-ḥayil and ʾîš-ḥayil. But this example should be compared with ben-ʾîš gēr “the son of a sojourner” in 2 Sam. 1:13, while a Benjamite (ben-ʾîš yemînî) in 1 Sam. 9:1 should be compared with ben-ʾîš miṣrî (“the son of an Egyptian man” in Lev. 24:10) and ben-ʾîš ʾeprātî (“the son of an Ephrathite” in 1 Sam. 17:12). NRSV and ESV suggest another reading, “the son of Ishhai.” However, the K. ben-ʾîš-ḥay is a form resulting from “consonantal sandhi”217 between the two consonants [l] and [r]. In other words, as the result of sandhi, [r] absorbed [l] at the word boundary.
+
+ben-ʾîš-ḥayil rab- → ben-ʾîš-ḥayilrab- → ben-ʾîš-ḥay rab-
+
+Hence, the K. reflects a phonetic spelling and no other reading is necessary.
+
+Kabzeel is a town in the extreme south of Judah, near Arad and Beersheba; see Josh. 15:21; 1 Chr. 11:22.
+
+21The Hebrew K. ʾăšer marʾeh “one who has a sight,” that is, a huge man, is preferable to the Q. ʾîš marʾeh “a man of appearance,” that is, “a handsome man” (NRSV, ESV). In fact, the K. is the more difficult, and hence probably the more original, reading. The final /r/ was likely absorbed by the following /m/ as a result of consonantal sandhi at the word boundary.218
+
+3. The Rest of the Thirty (23:24-39)
+
+24 Asahel the brother of Joab was among the thirty.
+
+Elhanan the son of Dodo of Bethlehem
+
+25 Shammah the Harodite
+
+Elika the Harodite
+
+26 Helez the Paltite
+
+Ira the son of Ikkesh the Tekoite
+
+27 Abiezer the Anathothite
+
+Mebunnai the Hushathite
+
+28 Zalmon the Ahohite
+
+Mahrai the Netophathite
+
+29 Heled the son of Baanah the Netophathite
+
+Ittai the son of Ribai of Gibeah of the Benjaminites
+
+30 Benaiah a Pirathonite
+
+Hiddai of the brooks of Gaash
+
+31 Abi-albon the Arbathite
+
+Azmaveth the Barhumite
+
+32 Eliahba the Shaalbonite
+
+(and) Jonathan, the sons of Jashen
+
+33 Shammah the Hararite
+
+Ahiam the son of Sharar the Ararite
+
+34 Eliphelet the son of Ahasbai, the son of the Maacathite
+
+Eliam the son of Ahithophel the Gilonite
+
+35 Hezro the Carmelite
+
+Paarai the Arbite
+
+36 Igal the son of Nathan of Zobah
+
+Bani the Gadite
+
+37 Zelek the Ammonite
+
+Naharai the Beerothite
+
+the armor bearers of Joab the son of Zeruiah
+
+38 Ira the Ithrite
+
+Gareb the Ithrite
+
+39 Uriah the Hittite
+
+total 37
+
+24For Asahel, see on 2 Sam. 2:18. He was in charge of David’s military division for the fourth month; and his son Zebadiah after him (1 Chr. 27:7). This is probably mentioned because he died very early.
+
+Elhanan is described as the slayer of “Goliath” in 2 Sam. 21:19 (see commentary).
+
+25Shammah and Elika are from Harod, which is probably modern Khirbet el-Haredan (?), a few miles (km) southeast of Jerusalem, rather than the Spring of Harod near Jezreel (Judg. 7:1).219
+
+26A Paltite is probably either a member of the Calebite clan descended from Pelet (1 Chr. 2:47) or an inhabitant of Beth-pelet, a town in the extreme southern district of Judah near Beersheba (Josh. 15:27).
+
+Ira was from Tekoa and in charge of David’s military division for the sixth month in 1 Chr. 27:9. For Tekoa, see on 2 Sam. 14:2.
+
+27Abiezer was from Anathoth and in charge of David’s military division for the ninth month, according to 1 Chr. 27:12. Anathoth has been identified with Ras el-Kharrubeh, near the modern village of Anata, three miles (4.8 km) north-northeast of Jerusalem. It was the birthplace of the prophet Jeremiah (Jer. 1:1) and a priestly city in Benjamin, the place to which Abiathar was banished by Solomon (1 K. 2:26).
+
+For Mebunnai, LXXLMN supports the reading of “Sibbecai” sibbekay, as in 2 Sam. 21:18 and 1 Chr. 11:29. McCarter posits that the MT form resulted from two “graphic errors”: confusion of kap and nun; and confusion of samek and mem.220 Husha is identified as modern Husan, southwest of Bethlehem.
+
+28Here for Zalmon the Ahohite, 1 Chr. 11:29 has Ilai the Ahohite.
+
+Μahrai was in charge of David’s military division for the tenth month, according to 1 Chr. 27:13. He and Heled are from Νetophah, which is usually identified as the modern site Khirbet Bedd Faluh between Bethlehem and Tekoa, but most recently as Umm Tuba, in the southern hills of Jerusalem.221
+
+29The MT ḥēleb reads “Heleb” (so NASB, JPS, NRSV, ESV). McCarter reads it as “Heldai” (ḥelday) like 1 Chr. 27:15, explaining that the MT arose “by graphic confusion of dy and b.” But the MT could be a phonetic spelling resulting from a regressive total assimilation from ḥēled ben-baʿănāh (so 1 Chr. 11:30): ḥēled ben → ḥēleb ben.222 In 1 Chr. 27:15 Heled is described as being in charge of David’s military division for the twelfth month.
+
+For Gibeah of the Benjaminites, the home of Saul, see on 1 Sam. 9:1-2.223
+
+30Benaiah the Pirathonite was in charge of David’s military division for the eleventh month according to 1 Chr. 27:14. Pirathon was the hometown of the minor judge Abdon; Judg. 12:13-15. McCarter identifies it as an Ephraimite town, “perhaps” Farʿâtā, ca. five miles (8 km) southwest of Shechem.224
+
+Hiddai appears as “Hurai” in 1 Chr. 11:32, Mount Gaash (Josh. 24:30 = Judg. 2:9) lies south of Timnath-heres, which is about fifteen miles (24 km) southwest of Shechem. Hiddai appears also as a Phoenician PN, which is a “hypocoristicon or affection-name.”225
+
+31McCarter proposes that the original reading of Abi-albon the Arbathite (ʾăbî-ʿalbôn hāʿarbātî), is “Abial the Beth-arabathite” in the light of Abiel the Arbathite ʾăbîʾēl hāʿarbātî in 1 Chr. 11:32.226 However, LXX Abiēl huios tou Arabōthitou suggests the normal form ʾăbîʾēl ben hāʿarbāti, of which the MT’s ăbî-ʿalbôn hāʿarbāti could be a phonetic variant. Hence, the LXX and the MT preserve variant names of the same person.
+
+Azmaveth means “death is strong.” A person with the same name was in charge of David’s storehouses; see 1 Chr. 27:25. It also appears as a place name in Benjamin: Ezra 2:24; Neh 7:28; 12:29. In the Ugaritic mythological texts, the expression mt ʿz “Μot is strong” appears several times: KTU 1.6 VI 17, 18, 20. No direct relation should be posited between Ugaritic myths and the Hebrew personal name, however. The expression “as strong as death” reflects general human experience; see Song 8:6.227
+
+Barhumite (barḥūmî) is probably a variant name of “Bahrumite,” which was changed by metathesis: baḥrūmî —> barḥūmî. The Chronicler’s “Baharumite” (baḥărûmî) is another variant form of “Bahrumite.” Both names are simultaneously current, like “Gezrite” (= of Gezer), which has two phonetic variant forms: gizrî (1 Sam. 27:8 [Q.]) and the metathesized form girzî (K.).228 Barhumite and “Bahrumite” are both probably connected with the village of Bahurim on Jerusalem’s east outskirts; see on 2 Sam. 3:16.
+
+32-33The translation of vv. 32-33 given here is the most natural, but it should be noted that those verses have been translated a number of ways; see also 1 Chr. 11:34-35.
+
+A Shaalbonite (haššaʿalbōnî) is one who is from the city Shaalbim (Judg. 1:35; 1 K. 4:9) or its dialectal variant Shaalbin (Josh. 19:42). Shaalbon may be “a dialect by-form” of Shaalbim; see HALOT, p. 1612. It has been identified with Selbit/Tell-Šaʿalʾwīm, three miles (4.5 km) northwest of Ayyalōn and eight miles (6.5 km) north of Beth-shemesh.
+
+1 Chr. 11:34 has “the sons of Hashem” followed by the gentilic the Gizonite. Jashen could be an assimilated form of *Hashen, a possible dialictal variant of Hashem. Thus:
+
+benê hāšēm: benê hāšēn → benê yāšēn
+
+Thus, the correspondence of the names is as follows:
+
+2 Sam. 23:32-33a 1 Chr. 11:33b-34
+
+Eliahba the Shaalbonite, Eliahba the Shaalbonite,
+
+the sons of Jashen, the sons of Hashem the Gizonite,
+
+Jonathan, Shammah the Hararite Jonathan the son of Shagee the Hararite
+
+The sons of Jashen, using only the patronymic, is unique in this list of personal names. The Hebrew order is “Eliahba the Shaalbonite, the sons of Jashen, Jonathan” (2 Sam. 23:32). The phrase the sons of Jashen probably refers to two men, or twins (the “sons” could be a dual construct), and is inserted between two names Eliahba and Jonathan229 following the AXB pattern, hence meaning Eliahba the Shaalbonite and Jonathan, the sons of Jashen.
+
+The phrase the Hararite (hahărārî) is a definite article ha + hărārî, a noun which itself could be a sandhi form of hāʾărārî, i.e., “the Ararite”; see on v. 11.
+
+The Ararite (hāʾrārî) is a historical spelling with the consonant aleph: cf. “Hararite” (NRSV, NIV). McCarter reads “the Urite,” based on LXXB.230
+
+34The Maacathite is not to be associated with the northern Aramean kingdom of Maacah (2 Sam. 10:6) or with Beth-maacah near Dan (20:14-15). According to 1 Chr. 4:19, “Eshtemoa the Maacathite” belonged to a Judahite clan near Hebron.
+
+Whether this Eliam should be identified with Bathsheba’s father (see 2 Sam. 11:3) is not certain. For Ahithophel the Gilonite, see 2 Sam. 15:12.
+
+35-36Hezro (K. ḥeṣrô), as in 1 Chr. 11:37, is a contracted form of ḥeṣraw, which could be a variant of ḥeṣray (Q.).
+
+For the Carmelite, see 1 Sam. 15:12, 25:2, 27:3. Carmel is located south of Hebron in Judah.
+
+The following discrepancy,
+
+2 Sam. 23:35b-36 1 Chr. 11:37b-38
+
+Paarai the Arbite, Naarai the son of Ezbai,
+
+Igal the son of Nathan of Zobah, Joel the brother of Nathan,
+
+Bani the Gadite, Mibhar the son of Hagri,
+
+may reflect two different oral traditions. It is impossible to determine the original names.
+
+37The K. takes both Zelek the Ammonite and Naharai the Beerothite as the armor bearers (pl.) of Joab, while the Q. (also 1 Chr. 11:39) takes only Naharai as the “armor bearer” (sg.).
+
+Τhe Beerothite is written here with the full spelling beʾērōtî, while 1 Chr. 11:39 has a shorter sandhi spelling:
+
+bērōtî <-(sandhi)231- beērōtî <-(loss of intervocalic aleph)- beʾērōtî.
+
+For the Beerothite, see on 2 Sam. 4:2.
+
+38The Ithrite (also 1 Chr. 11:40). They were the chief indigenous clan of Kiriath-jearim; see 1 Chr. 2:53.
+
+39For Uriah the Hittite, see on 2 Sam. 11:3.
+
+total (kōl) 37:
+
+For comparison, see the list of defeated kings in Josh. 12 with total (v. 24). For examples of lists with the total (sum), see Ugaritic economic texts such as KTU 4.63, 69, 71-72, 100, etc. with the Sumerian ŠU.NIGÍN (“total, sum”), or 4.173 with the Ugaritic tgmr (“total”).232
+
+The above list has only thirty-six names by my analysis and that of most scholars. As mentioned above, the most obvious solution is to include Joab as having been so obvious he was left out.233 On the other hand, McCarter would find the thirty-seventh name in some name that has been taken as an appellative, such as “Adino the Eznite” (v. 8). But, as he holds, it is futile to make any guess “because we do not know the condition of the text at the time the editor made his computation.”234
+
+
+
+
+
+A′. CENSUS AND THE LORD’S ANGER (24:1-25)
+
+
+The Lord’s anger and David’s sin lead to a plague, but this in turn leads to the purchase of a threshing floor in Jerusalem to offer burnt offerings to the Lord. This site will become the location of Solomon’s temple, and so this event became the preparation for building the earthly palace of the heavenly king. The Books of Samuel thus end anticipating the building that David himself had desired but had not been allowed to accomplish (2 Sam. 7).
+
+The placement of this episode seems to be climactic rather than chronological.
+
+1. David’s Census (24:1-9)
+
+a. David and Joab (24:1-4a)
+
+1 Now again the anger of the LORD burned against Israel
+
+and stirred David up against them to say “Go, count Israel and Judah.”
+
+2 And the king said to Joab, the commander of the army, who was with him,235
+
+“Go through all the tribes of Israel,
+
+from Dan to Beersheba,
+
+and register the people
+
+so that I may know the number of the people.”
+
+3 And Joab said to the king,
+
+“May the LORD your God add to the people
+
+a hundred times as many as they are
+
+while the eyes of my lord the king still see.
+
+As for my lord the king,
+
+why does he delight in this thing?”
+
+4a But the word of the king prevailed against Joab and against the commanders of the army.
+
+1-4aThis verse at the beginning of a new episode is the SETTING for the following EVENT (vv. 2ff.), because the verb (lit. “to add, do again”), though in the wayqtl form, is followed by the impersonal subject the anger of the LORD (see Introduction). The EVENT starts in v. 2 with And the king said and consists of a dialogue between David and Joab. Verse 4a is the TERMINUS, again with the wayqtl form followed by the impersonal subject the word of the king.
+
+1We are told nothing of why the anger of the LORD burned against Israel or what the previous incident (“again”) refers to. This anger incited David to count the number of soldiers (v. 9). While the text does not explain explicitly why his counting resulted in the Lord’s punishment, David’s counting was an offense serious enough to bring about a disaster. One possible answer is that David as the human representative of the divine king may have shown a lack of faith and obedience to his sovereign master. Often, sinners are not aware of their sinfulness immediately, as David in the Bathsheba incident in 2 Sam. 11-12; see also Lev. 5:1-6. For the “psychology” of divine wrath, see Ezek. 5:13, “My anger shall spend itself, and I will vent my fury on them and satisfy myself.”236
+
+There are two possibilities for the subject of the verb stirred: namely the anger (see “it incited” [NASB]) and the LORD (see “he incited” [NRSV; ESV; Anderson; Bergen]). In the light of the discourse grammar that supports the principle that “every wayqtl followed by a stated subject initiates a new discourse unit,”237 the most natural translation, however, is “the anger (m.sg.; lit. “nose”) of the LORD burned against Israel and stirred David up.” This syntax, taking the same agent as the subject of both verbs, may be supported by the Chronicler’s rendering in 1 Chr. 21:1, which reads: “Then Satan stood against Israel and incited David to number Israel” (ESV; also NIV, JPS, etc.). It seems that the author simply introduces Satan as the Lord’s agent for punishing David because of the unknown “evil” of David.
+
+However, it is not necessary to think that the Chronicler simply reinterprets the Lord’s action as Satan’s.238 Japhet holds the term śāṭān in 1 Chr. 21:1 serves “as a common noun, similar to 1 K. 11:14, 23, 25, or Ps. 109:6, and refers to ‘an adversary,’ who acts against Israel by inciting the king to take the wrong action.”239 Our passage, 2 Sam. 24:1, also states that it was not the Lord but the anger of the LORD that stirred David up. As far as its syntactical understanding is concerned, Japhet’s view seems convincing, though she takes the term śāṭān as a common noun despite the fact that the term is without an article.
+
+The inf. phrase lēʾmōr here means “to say” in a literal sense; it is not being used as a direct speech marker (“saying”).
+
+3By numbering the people for military purposes (v. 9), David was apparently showing lack of trust in the Lord to supply the necessary men when needed. Or, it may be that the issue is David’s dependence on human rather than divine force. It’s also possible that the protocol for David’s census violates the requirements of Exod 30:12, as noted below. We do not know exactly why Joab opposed it.
+
+b. Registration (24:4b-9)
+
+4b And Joab and the commanders of the army went out from before240 the king to register the people of Israel.
+
+5 And they crossed the Jordan and camped in Aroer, on the right side of the city that is in the middle of the valley of Gad, and (came) to Jazer.
+
+6 And they came to Gilead and to the land of Tahtim-hodshi; and they came to Dan-jaan and around to Sidon.
+
+7 And they came to the fortress of Tyre and to all the cities of the Hivites and Canaanites; and they went out to the Negeb of Judah at Beersheba.
+
+8 And they went through all the land; and they came back to Jerusalem at the end of nine months and twenty days.
+
+9 And Joab gave the number of the registration of the people to the king; and there were in Israel eight hundred thousand soldiers who drew the sword; and the men of Judah were five hundred thousand men.
+
+The census here lists only men who are eligible for military activities, while a census list in Ugarit (KTU 4.102) lists women, children, or young people by household. It is possible, as Greenwood recently suggested, that David conducted this census “to assign corveé labor” for preparing for the construction of a temple for the Lord but it proved to have been premature and too early.241 This is, however, a pure speculation, although the ending point at the threshfloor could support this.
+
+4bVerse 4b is the TRANSITION to a new stage, which is indicated by the movement verb went out. At the same time it is the SETTING to the following EVENT, Joab and his men’s travel (they crossed . . . camped . . . came . . . came . . . came . . . went out in vv. 5-7; they went through . . . came back in v. 8) to various places to register the people of Israel.
+
+5-8The details of the census trip are not certain, but it seems the men begin at Aroer, a city on the Arnon River on the border with Moab, go north through Gilead and Bashan, and then go north-northwest to Dan. From there they go to the coast, to the fortress of Tyre, then go south to Beersheba, then return to Jerusalem.242 It takes nine months and twenty days. The territory covers the entire area under the direct control of Davidic monarchy.
+
+Jazer is a stronghold facing the kingdom of the Ammonites; see Josh. 21:39; 1 Chr. 6:81; etc.243 The land of Tahtim-hodshi, though obscure, suggests the Bashan area in the light of LXXB Thabasōn. Jaan (yʿn) could be a metathesis of the name Ijon (ʿyn), which Rainey identifies with Tell ed-Dibbin in Marj ʿAyyun, about 10 miles (16 km) north of Dan.244
+
+7The fortress of Tyre probably is not the city of Tyre, but the Israelite fortress of Usu a little to the south of Tyre, known from Egyptian and Assyrian inscriptions.245 The phrase all the cities of the Hivites and Canaanites does suggest that they were the pre-Israelite population that had maintained their social and political integrity up to that point. No information is given here about those cities; see Judg. 1:27-36.
+
+Beersheba was a local administrative center during the united monarchy. It is near the junction of the Hebron wadi from the hill country and the Beersheba wadi from the east.246 It marks the jumping-off-point for travel through the barren Negev to the south.
+
+9The EVENT, Joab’s reporting the number of the registration of the people to the king, is finally mentioned. Then, the summary is given as the TERMINUS: there were a total of 1,300,000 soldiers in Israel and Judah. 1 Chr. 21:5 gives different numbers: 1,100,000 in Israel, 470,000 in Judah.
+
+2. David’s Guilt (24:10-14)
+
+a. “I Have Sinned” (24:10-11a)
+
+10 And David’s heart struck him after he had numbered the people.
+
+And David said to the LORD,
+
+“I have sinned greatly in what I have done.
+
+But now, O LORD,
+
+please take away the guilt of your servant,
+
+for I have acted very foolishly.”
+
+11a And David arose in the morning.
+
+10The verb struck, impf. with a waw-consecutive, has an impersonal subject (David’s heart). The verse 10a is hence a SETTING for the following EVENT of David’s confession and supplication. David’s verbal action (David said to the LORD), is followed by the TERMINUS of this short episode: And David arose in the morning. The last sentence functions also as a TRANSITION, with a movement verb arose, to the following episode of “David and Gad.”
+
+McCarter notes the unusual use of after (ʾaḥărê-kēn “afterward”) here and supplies “because” after it. Miscall would keep the MT as it is and explains that the “unusual” usage here and in 21:14 indicates “the open, uncertain relation with the preceding event(s).”247
+
+I have sinned — this is a genuine confession of sin against God. What he has done presumably offended God, and David is aware of it. Though the text does not specify what his sin was, one possibility is that he did not fulfill the requirement of the law in Exod. 30:12 that he take a ransom (kōper), the “half-shekel tax,” from them to give to the Lord when he numbered them:
+
+When you take the census of the people of Israel, then each shall give a ransom for his life to the LORD when you number them, that there be no plague among them when you number them. (ESV)
+
+11aThis half verse is usually translated with 11b as follows:
+
+And when David arose in the morning, the word of the LORD came (RSV).
+
+However, v. 11a should be a main clause according to Hebrew syntax, while v. 11b is a disjunctive clause with the word of the LORD being topicalized. As noted above, it is better to hold that the current episode closes with v. 11a and a new episode begins with v. 11b.
+
+b. David and Gad (24:11b-14)
+
+11b Now, the word of the LORD came to the prophet Gad, David’s seer, saying,
+
+12 “Go and speak to David,
+
+‘Thus says the LORD:
+
+Three things I am offering to you.
+
+Choose one of them for yourself
+
+so that I may do it to you.’ ”
+
+13 And Gad came to David and told him:248
+
+“Shall seven years of famine come to you in your land?
+
+Or for three months will you flee before your foes
+
+who pursue you?
+
+Or shall there be three days’ pestilence in your land?
+
+Now consider and see
+
+what answer I shall return to the one who sent me.”
+
+14 And David said to Gad,
+
+“I am in great distress.
+
+Let us fall into the hand of the LORD,
+
+for his mercies are great;
+
+into the hand of man let me not fall!”
+
+V. 11b and v. 12 function as a SETTING with a nominal sentence (with a casus pendens of the impersonal noun word) to the following EVENT (a dialogue between Gad and David) in vv. 13-14.
+
+11bThe term seer (ḥōzēh) could be an older (or “dialectal”) designation for a prophet; see 1 Sam. 9:9 on “seer” (rōʾēh).249
+
+12The 3 m.pl. pronoun them refers here to the fem. pl. noun “three” (šālōš). This has been explained as an example of “gender neutralization” which is a characteristic of the spoken Hebrew dialect; see also 1 Sam. 9:20; 2 Sam. 1:24.250
+
+The phrase thus says the LORD is the prophetic “messenger formula” used by the prophet of the Lord (also 7:5, 8; 12:7, 11) who is confident that what he conveys is not his personal opinion. For this formula, see the comment on 1 Sam. 2:27.251
+
+13In the Ugaritic epic of King Keret, famine struck the land because of the king’s sin, just as Israel was punished for David’s sin. Homer also states that the well-being of a land depends on the conduct of its sovereign.252 See also 2 Sam. 21:1.
+
+Seven years of famine was an important theme in the ancient Near East — see Gen. 41:30, and 2 K. 8:1. It can also be found in a Ugaritic myth and ritual text (KTU 1.23)253 as well as the Aqhat Epic. First Chronicles 21:12 gives “three years of famine,” instead of seven years of famine. It is commonly said that the Chronicle passage preserves the original reading, “in view of the pattern ‘three years’, ‘three months’ and ‘three days’, in descending order.”254 It seems that while the Books of Samuel reflect the epic style that adopts the perfect number “seven” to describe a severe famine (cf. Gen. 41),255 the Chronicler is more realistic in describing the length of famines in general (see Isa. 37:30; 2 K. 19:29). Probably even two years of famine would cause real suffering.
+
+Famine, sword, and pestilence is a well-known trio of disasters (Jer. 14:12; 18:21; Ezek. 5:17; etc.). Probably the number of people who would die in each of these disasters would be approximately equal (pestilence kills faster than a famine): i.e., “seven” (or three) years of famine = three months of enemies’ pursuit = three days of pestilence. One might wonder why the gracious God demanded this much as a recompense for David’s sin (v. 10). One thing is certain; he is also the holy God who demands that a human king as his representative be faithful to his commands as he acts as the vice-regent of the Sovereign King.
+
+14David apparently does not even consider choosing the famine. He considers that falling into the hand of the merciful Lord is much better than falling into the hand of man. David was confident in God’s mercy in the midst of his punishment, while on the other hand human enemies are sinful and cruel without any compassion. Though the hand of the LORD is a destroying agent of God, the Lord himself is both holy and merciful.
+
+3. The Lord’s Anger (24:15-25)
+
+a. Three Days’ Pestilence (24:15-19)
+
+15 And the LORD sent a pestilence in Israel from the morning until the appointed time; and seventy thousand men of the people died, from Dan to Beersheba.
+
+16 And the angel sent his hand toward Jerusalem to destroy it.
+
+And the LORD relented concerning the calamity and said to the angel who was destroying the people,
+
+“It is enough!
+
+Now relax your hand!”
+
+The angel of the LORD was then by the threshing floor of Araunah256 the Jebusite.
+
+17 And David said to the LORD when he saw the angel who was striking the people:
+
+“Behold, it is I who have sinned!
+
+It is I who have done wrong!
+
+As for these sheep, what have they done?
+
+Please let your hand be against me
+
+and against my father’s house!”
+
+18 And Gad came to David that day and said to him,
+
+“Go up and erect an altar to the LORD
+
+on the threshing floor of Araunah the Jebusite.”
+
+19 And David went up according to the word of Gad, as the LORD commanded.
+
+15The hand of the Lord brought a pestilence and, as the result, seventy thousand men died in the whole country (from Dan to Beersheba). These people were sacrificed in order to appease God’s anger toward David. First Chronicles 22:8 possibly refers to this incident when it says that David shed “much blood” before the Lord and hence could not build a house for the name of the Lord.
+
+16The angel of the LORD here is God’s agent who brings destruction or judgment in the form of pestilence. First Chronicles 21:16 does not have an equivalent to the MT of 24:16-17, but it does appear in 4QSama.257
+
+For Jebusites, see on 2 Sam. 5:6.
+
+17David sees his people as sheep, thus identifying himself as their shepherd, as do Hammurbi and other ancient rulers. The phrase my father’s house means my extended family; see on 1 Sam. 17:25.258
+
+It may be appropriate to think of David’s feeling for his people here in this chapter and his concern with the recovery of Zion after his repentance in Ps. 51:18-19.259
+
+Do good to Zion in your good pleasure;
+
+build up the walls of Jerusalem;
+
+then will you delight in right sacrifices,
+
+in burnt offerings and whole burnt offerings;
+
+then bulls will be offered on your altar.
+
+When David as the representative of his people (his sheep) committed that terrible sin against God, the entire country suffered the disaster not only spiritually but also politically. Hence, after repenting his great sin on the personal level in vv. 1-17, David prayed for the recovery of the place of worship for the entire people in vv. 18-19 of this psalm.
+
+In the same way, in 2 Sam. 24, due to the king’s offence to his God, his people, i.e., his sheep would suffer due to God’s judgment. Thus, the internal scheming among David’s children impacted the day-to-day lives of ordinary Israelites. Certainly Absalom’s rebellion (chs. 15-19) and Sheba’s revolt (ch. 20) were the outcome of his great sin. Moreover, Adonijah’s self-coronation (1 K. 1:5-53) obviously divided the nation’s leadership into factions. Thus, the offence of the leader involves judgment on his people. But, why ought they suffer? We are not totally informed of why in the biblical context. However, it may be due to the character of the holy God who cannot compromise with the misconduct of the leader, the representative of the group. We know that, according to the ancient religious tradition, the welfare of the country deeply depends on the health of the king. See the case of the Ugaritic King Keret’s serious illness, as the result of his failure to fulfill his vows to a goddess. In that case, the entire country languished from drought and famine, “in keeping with the notion that a land reflected the moral and physical state of its king.”260 According to the biblical tradition, the welfare of the country deeply depends on the moral and spiritual relationship with God of the leader of the covenant people.
+
+Here in 2 Sam. 24 it is not David’s supplication (as in Ps. 51:18) but the Lord’s initiative that commanded through the prophet Gad to erect an altar to the LORD, so that David and his people may propitiate the anger of the Lord. So, it was not by chance that the angel of the LORD was by the threshing floor of Araunah (v. 16). Rather, the Lord guided David mercifully to the very place of worship, where his son Solomon eventually builds the temple for the Lord. The temple is thus the place where the sinful people are invited by God’s mercy to worship and have fellowship with God.
+
+b. David and Araunah (24:20-25)
+
+20 And Araunah looked down and saw the king and his servants crossing over toward him.
+
+And Araunah went out and prostrated himself before the king with his face to the ground.
+
+21 And Araunah said,
+
+“Why has my lord the king come to his servant?”
+
+And David said,
+
+“To buy the threshing floor from you
+
+in order to build an altar to the LORD,
+
+so that the plague may be restrained from the people.”
+
+22 And Araunah said to David,
+
+“Let my lord the king take and offer up
+
+what is good in his sight;
+
+Look, the oxen for the burnt offering
+
+and the threshing-sledges and the yokes of the oxen
+
+for the wood.
+
+23 Everything, O king, Araunah gives to the king.”
+
+And Araunah said to the king,
+
+“May the LORD your God accept you favorably.”
+
+24 And the king said to Araunah,
+
+“No, but I will surely buy them from you for a price;
+
+I will not offer burnt offerings to the LORD my God
+
+without payment.”
+
+And David bought the threshing floor and the oxen for fifty shekels of silver.
+
+25 And David built there an altar to the LORD and offered burnt offerings and peace offerings.
+
+And the LORD was entreated for the land.
+
+And the plague was restrained from Israel.
+
+20This verse (v. 20) is a SETTING for the following dialogue (vv. 21-24). It consists of two subparagraphs, both of which begin with a wayqtl followed by a stated subject (here Araunah), the former with verbs of perception and the latter with verbs of movement.
+
+Araunah looked down. Threshing floors were usually on a high place so the wind could blow the chaff away. The site of the temple (Temple Mount) is the top of the hill to the north of the City of David, about 450 yards (400 m) uphill from it.
+
+23Araunah gives, i.e., “I give,” is a performative perfect,261 thus Araunah by announcing his giving carries it out.262
+
+24For the biblical emphasis on paying the full price in the purchase of land, see Abraham’s purchase of a field (Gen. 23:3-16).263 David feels that as he is the one who sinned and it is for the sake of the nation, he should pay for the place of sacrifice.
+
+25What the author does not mention here, probably because everyone knew it, is that this threshing floor is the site upon which Solomon would build the temple to the Lord (2 Chr. 3:1). Thus, it is a fitting end to the story of David.
+
+For the phrase was entreated for the land, see also 21:14.
+
+The Books of Samuel end here without further development of David’s plan and desire to build the temple for the Lord. First Chronicles 22:7-10 explains why the Lord did not permit David to fulfill his desire to build the house for the name of the Lord. It was Solomon, son of David, who actually built the earthly temple. The next book, 1 Kings, first deals with the establishment of Solomon’s throne after succession troubles (chs. 1-2) and then with his building of the temple with the help of Hiram king of Tyre (5:1-6:38).
+
+Thus, the main themes of the books of Samuel are the establishment of monarchy and kingship in Israel (1 Samuel) and the confirmation of David’s throne and his heir (2 Samuel). As noted above, the climax of the books is the chapter on the Davidic covenant in 2 Sam. 7. Here, 1–2 Samuel end with God’s merciful intervention to guide David and his people to the place of worship to be reconciled with God. It is the faithfulness of the Lord that led and fulfilled the whole plan of salvation through the human agencies used by his divine purpose. This plan and purpose were finally fulfilled in the life and death of his son Jesus Christ, the Messiah (see Matt. 1:1).
+
+
+
+
+1. See Introduction of Tsumura, I, pp. 67-68.
+
+2. In the first volume, The First Book of Samuel, p. 66, I designated this section as “B,” and the next as “C,” but since it is an embedded discourse, it is better designated as “X,” an inserted episode of the AXB pattern.
+
+3. The literary structure is designated as A-B-C-C′-B′-A′ by other scholars such as Anderson, p. 248; W. Dietrich, Samuel, vol. 1, p. 5*. But the C/C′ are poetic, while the others are narrative, hence it seems we have here the AXB pattern rather than the chiastic pattern ABA. See Tsumura, I, pp. 60-64.
+
+4. In my The First Book of Samuel, p. 67, I took 2 Sam. 21-24 as constituting a concentric structure, the ABCBA pattern. But, I now revise it as a complex AXB pattern, i.e., ABXX′B′A′.
+
+5. For the relation between list and narrative, see Tsumura, I, pp. 222-24; Tsumura, “List and Narrative in I Samuel 6,17-18a,” pp. 353-69.
+
+6. See H. H. Klement, 2 Samuel 21-24: Context, Structure and Meaning in the Samuel Conclusion (European University Studies; Frankfurt: Peter Lang, 2000).
+
+7. See Bergen, p. 442, who analyzes the six sections into three chiastic pairs: A B C C′ B′ A′.
+
+8. See “C. Literary Insertion: AXB Pattern,” in Tsumura, I, pp. 60-64, et passim.
+
+9. For a recent survey and a detailed literary-critical study of this episode see S. Chavel, “Compository and Creativity in 2 Samuel 21:1-14,” JBL 122 (2003) 23-52; see p. 24, no. 4, for various interpretations with detailed bibliographical notes.
+
+10. For various speculations concerning this incident, see McCarter, II, p. 441.
+
+11. Gordon, CB, p. 242.
+
+12. A. Malamat, “Doctrines of Causality in Biblical and Hittite Historiography. A Parallel,” VT 5 (1955) 1-12; F. C. Fensham, “The Treaty between Israel and the Gibeonites,” BA 27 (1964) 96-100.
+
+13. See Chavel, “Compository and Creativity,” 26, no. 10.
+
+14. Tsumura, I, p. 128.
+
+15. The disjunctive waw here introduces parenthetical clauses.
+
+16. Lit., “there is not to us,” following the Q. reading ʾên-lānû, instead of the K. ʾyn-ly (“I have nothing”).
+
+17. Or “we have no right to put anyone to death in Israel” (see NIV).
+
+18. McCarter, II, p. 438, reads the extant letters of v. 5 in 4QSama as ʾyš ʾ[šr] “a man who,” but Herbert and DJD now read h]ʾyš ʾš[r “the man who,” which is the same as the MT (also LXXB); see Herbert, RBDSS, p. 182; DJD 17, p. 177. Herbert reads [h] “since, if it were lacking, we would expect to see the tail of the final ך of the preceding word.” (p. 183).
+
+19. For the man who consumed us, McCarter suggests the translation “set himself against us and persecuted us,” based on the LXXB. However, according to Herbert, RBDSS, p. 183, the reconstruction suggested by McCarter would not fit in the lacunae of 4QSama. See Introduction.
+
+20. MT: waʾăšer dimmāh-lānû nišmadnû; literally, “and who devised against us (and) we were exterminated.”
+
+21. The Q. yuttan is the older qal passive, while the K. yntn is Ni.
+
+22. Tsumura, I, p. 180.
+
+23. Driver, p. 350.
+
+24. Tsumura, I, pp. 604-5.
+
+25. H. C. Brichto, “Kin, Cult, Land and Afterlife,” p. 37.
+
+26. For various interpretations of this term, see McCarter, II, p. 442; Driver, p. 351.
+
+27. Fensham, “The Treaty between Israel and the Gibeonites,” pp. 96-100.
+
+28. McCarter, II, p. 438.
+
+29. See Tsumura, “Scribal Errors or Phonetic Spellings?,” pp. 390-411.
+
+30. See LXXLN and MT(MSS). But, BHS has “Michal,” following the majority of the MT texts.
+
+31. As for They, the K. hēm is a phonetic spelling, without the final mater lectionis; cf. Q. hēmmāh.
+
+32. The K. bārī(ʾ)šōnîm teḥillat qeṣîr śeʿōrîm, which means on the first (days), i.e., at the beginning of barley harvest, is a phonetic spelling of bārī(ʾ)šōnîm bitḥillat qeṣîr śeʿōrîm, which occurred as a result of external sandhi, i.e., a phonetic adjustment at a word boundary. See Tsumura, “Scribal Errors or Phonetic Spellings?” 401-3.
+
+33. Literally “water.”
+
+34. McCarter, II, p. 442-43.
+
+35. For the textual problem, see S. D. Walters, “Childless Michal, Mother of Five,” in The Tablet and the Scroll. Near Eastern Studies in Honor of William W. Hallo, ed. M. Cohen, D. Snell, and D. Weisberg (Bethesda, Maryland: CDL Press, 1993), pp. 290-96; R. P. Hays, “A Problematic Spouse: A Text-Critical Examination of Merab’s Place in 1 Samuel 18:17-19 and 2 Samuel 21:8,” ZAW 129 (2017) 220-33.
+
+36. Tsumura, I, pp. 486-84.
+
+37. McCarter, II, p. 439.
+
+38. Gordon, CB, p. 268.
+
+39. Tsumura, I, p. 508 n. 46. See W-O, §10.3.c.
+
+40. Lit. “lords”; cf. “men” (NASB); “people” (NRSV); cf. “men” in 2 Sam. 2:5.
+
+41. Τhe K. tālûm (had hung) is a sandhi spelling of telāʾûm (i.e., without the aleph). See Tsumura, “Scribal Errors or Phonetic Spellings?” 399. The Q. telāʾûm is most probably a later standardization of the spelling.
+
+42. Lit. “was entreated.”
+
+43. McCarter, p. 443. However, in Japan, even after cremation there are bones among the ashes. It is normal for the family to put these bones into the funeral urn after cremation — I have done it myself; the ashes are then poured in.
+
+44. Tsumura, I, pp. 304, 655-56.
+
+45. Tsumura, I, p. 654. For the phenomenon of sandhi, see Tsumura, “Scribal Errors or Phonetic Spellings?” 399; Tsumura, “Vowel sandhi in Biblical Hebrew,” p. 585.
+
+46. See K. van der Toorn, “Saul and the Rise of Israelite State Religion,” VT 43 (1993) 520.
+
+47. Tsumura, I, p. 263.
+
+48. Tsumura, I, p. 292.
+
+49. See Tsumura, “The Interpretation of the Ugaritic Funerary Text KTU 1.161,” pp. 40-55.
+
+50. Lit. “a war of the Philistines with Israel.”
+
+51. As for Ishbi-benob (Heb. yišbî benōb as the Q.), the K. yišbô benōb may be reflecting a phonetic reality resulting from a partial assimilation of the semivowel /i/ to /u/ in the context where the bilabial consonant /b/ appears both in the preceding and the subsequent positions. Cf. “Dod son of Joash” (McCarter), restoring “the displaced marginal plus that stands before v. 11 in LXXL and after v. 11 in LXXBA.” (McCarter, II, pp. 447-48)
+
+52. Lit. “born to the giant” (NASB); “descended from the giants” (NRSV).
+
+53. In Ugaritic, however, the term rpum refers to the deified ancestors of the dynasty who were of an earlier generation rather than the recently deceased ancestors, who were referred to as mlkm; see KTU 1.161 (Tsumura, “The Interpretation of the Ugaritic Funerary Text KTU 1.161”). It is used as a divine name Rpu, the “eponymous deity of the group of deified ancestors” in 1.108 (DULAT, pp. 742-43). See also J. N. Ford, “The ‘Living Rephaim’ of Ugarit: Quick or Defunct?” UF 24 (1992) 73-101.
+
+54. McCarter, II, p. 448.
+
+55. For various translations, see McCarter II, p. 448.
+
+56. Tsumura, I, pp. 599-600.
+
+57. Firth, p. 510.
+
+58. McCarter, II, p. 448.
+
+59. See N. Naʾaman, “In Search of the Ancient Name of Khirbet Qeiyafa,” JHS 8 (2008) article 21.
+
+60. See Japhet, pp. 368-69.
+
+61. Many hold that “the tradition attributing the slaying of Goliath to Elhanan is older than that which credits the deed to David” (McCarter, II, p. 450).
+
+62. Tsumura, I, p. 440.
+
+63. A. M. Maeir et al., “A Late Iron Age I/ Early Iron Age II Old Canaanite Inscription from Tell eṣ-Ṣâfī/ Gath, Israel: Palaeography, Dating, and Historical-Cultural Significance,” BASOR 351 (2008) 39-71.
+
+64. Maeir et al., “A Late Iron Age I / Early Iron Age II Old Canaanite Inscription from Tell eṣ-Ṣâfī / Gath, Israel,” 58.
+
+65. Tsumura, I, pp. 535-36.
+
+66. Tsumura, I, pp. 443-44.
+
+67. M. C. A. Korpel, A Rift in the Clouds: Ugaritic and Hebrew Descriptions of the Divine (UBL 8; Münster: Ugarit-Verlag, 1990), p. 498 n. 461.
+
+68. Tsumura, I, pp. 443-44.
+
+69. See Tsumura, I, p. 508 n. 46; also W-O, §10.3.c.
+
+70. McCarter, II, p. 451. On the relationship between the biblical Rephaim and Ugaritic rpum, see the various works cited in DULAT, 742-43.
+
+71. See Herbert, RBDSS, p. 187.
+
+72. Tsumura, “Scribal Errors or Phonetic Spellings?,” p. 394.
+
+73. E.g., T. Young, “Psalm 18 and 2 Samuel 22: Two Versions of the Same Song,” in Seeking Out the Wisdom of the Ancients: Essays Offered to Honor Michael V. Fox on the Occasion of His Sixty-Fifth Birthday, ed. R. L. Troxel, K. G. Friebel, and D. R. Magary (Winona Lake, Ind.: Eisenbrauns, 2005), pp. 53-69.
+
+74. Most translations, as Vulg., KJV, RSV, NIV, ESV, take these nouns as attributive nouns, not vocatives. But JPS translates them as vocatives.
+
+75. For example, see P. C. Craigie, Ugarit and the Old Testament (Grand Rapids: Eerdmans, 1983), p. 88; Craigie, Psalms 1-50 (WBC 19; Waco, Tex.: Word, 1983), p. 174.
+
+76. D. T. Tsumura, Creation and Destruction: A Reappraisal of the Chaoskampf Theory in the Old Testament (Winona Lake, Ind.: Eisenbrauns, 2005), pp. 149-51.
+
+77. The particle w, here translated as especially,” is an emphatic waw; GKC, § 154a n. 1b; Anderson, pp. 262-63.
+
+78. See also Tsumura, “Hymns and Songs with Titles and Subscriptions in the Ancient Near East,” p. 2 [Japanese with an English summary].
+
+79. Tsumura, “Hymns and Songs with Titles and Subscriptions,” 2-7; see also N. Wyatt, “The Religion of Ugarit: An Overview,” in HUS, p. 580.
+
+80. K. A. Kitchen, On the Reliability of the Old Testament (Grand Rapids: Eerdmans, 2003), p. 105. Cf. B. S. Childs, “Psalm Titles and Midrashic Exegesis,” JSS 16 (1971) 137-50; A. M. Cooper, “The Life and Times of King David According to the Book of Psalms,” in The Poet and the Historian: Essays in Literary and Historical Biblical Criticism, ed. R. E. Friedman (HSS 26; Chico: Scholars Press, 1983), pp. 117-31.
+
+81. Ps. 18:2 has
+
+The LORD is my rock and my fortress,
+
+and my deliverer,
+
+my God, who is my rock, in whom I take refuge,
+
+my shield and the horn of my salvation,
+
+my stronghold.
+
+82. Note that Ps 18:3 has the unassimilated form min-ʾōyebay ; the Samuel text reflects phonetic reality.
+
+83. McCarter, II, p. 455.
+
+84. Tsumura, I, pp. 143-44.
+
+85. McCarter, II, pp. 455-56.
+
+86. Ps. 18:4 lacks “for.”
+
+87. McCarter, II, p. 465. For “Beliyaal,” see Tsumura, I, pp. 122-24.
+
+88. Tsumura, I, pp. 121-24.
+
+89. See Excursus in Tsumura, I, pp. 617-18, esp. n. 12.
+
+90. See HALOT, pp. 1368-69.
+
+91. Tsumura, “Scribal Errors or Phonetic Spellings?,” p. 394 n. 19.
+
+92. Lit. “it (=“an anger”) burned to him,” i.e., “he was angry”; see “you are angry” (ḥārāh lekā) in Gen. 4:6; 2 Sam. 19:42. This is an example of brachylogy, i.e., the ellipsis of the subject of an idiom; see Tsumura, I, pp. 64-65.
+
+93. Or “by it,” referring to the mouth of the Lord.
+
+94. Cf. “bowed” (NASB, NRSV); “bent” (JPS); “parted” (NIV). See D. T. Tsumura, “šmym- Heaven, sky, firmament, air,” in NIDOTTE, pp. 160-66, on “heavens” and this verb.
+
+95. The cherub (kerûb) is “a winged sphinx”; see on 1 Sam. 4:4 in Tsumura, I, p. 192; also 2 Sam. 6:2.
+
+96. McCarter, II, p. 457, reads “he swooped” (cf. NIV: “he soared”), reading wyd’ with Syr., Vulg., and Targ., as in Ps. 18:10.
+
+97. With an adverbial min (lit. “from”).
+
+98. See Tsumura, Creation and Destruction, pp. 182-95.
+
+99. See Tsumura, “Scribal Errors or Phonetic Spellings?,” pp. 394-95.
+
+100. DULAT, p. 740; also see A. Rahmouni, Divine Epithets in the Ugaritic Alphabetic Texts (Leiden: E. J. Brill, 2008), pp. 288-91.
+
+101. For vv. 12-19, see M. Weinfeld, “Divine Intervention in War in Ancient Israel and in the Ancient Near East,” in History, Historiography and Interpretation: Studies in Biblical and Cuneiform Literatures, ed. H. Tadmor and M. Weinfeld (Jerusalem: Magnes Press, 1983), pp. 136-40.
+
+102. Tsumura, “Vertical Grammar of Parallelism in Hebrew Poetry,” p. 175.
+
+103. See Tsumura, “Vertical Grammar of Parallelism in Hebrew Poetry,” pp. 167-81; also Tsumura, “Textual Corruptions, or Linguistic Phenomena?,” pp. 141-42.
+
+104. McCarter, II, p. 466.
+
+105. E.g., McCarter, II, pp. 453, 457.
+
+106. See Cross, Canaanite Myth and Hebrew Epic, pp. 156-63.
+
+107. Tsumura, I, pp. 236-37.
+
+108. See D. T. Tsumura, “Amos 1:2a,” Exeg 8 (1997) 89-92.
+
+109. Weinfeld, “Divine Intervention in War,” pp. 141f.
+
+110. Tsumura, “Vertical Grammar of Parallelism in Hebrew Poetry,” 178; Tsumura, “Verticality in Biblical Hebrew Parallelism,” pp. 189-206.
+
+111. McCarter, II, pp. 453 & 67.
+
+112. McCarter, II, p. 457.
+
+113. D. I. Block, “Empowered by the Spirit of God: The Holy Spirit in the Historiographic Writings of the Old Testament,” Southern Baptist Journal of Theology 1 (1997) 44.
+
+114. Wayyōṣēʾ . . . ʾōtî ; cf. wayyôṣîʾēnî (Ps. 18:19).
+
+115. One should distinguish the following terminology: (1) Chaoskampf — a divine battle resulting in creation, known only in the battle against the sea monster Tiamat in which the storm god Marduk won the victory against Tiamat and eventually “created” the cosmos out of the dead corpse of Tiamat, as reflected in Enuma elish; (2) theomachy — a battle between two deities such as the Canaanite storm god Baal and the sea god Yamm without a creation motif; (3) divine battle — the battle where a god fights on behalf of his people against spiritual or historical enemies, with a destruction motif. See D. T. Tsumura, “The ‘Chaoskampf’ Motif in Ugaritic and Hebrew Literatures,” in Le Royaume d’Ougarit de la Crète à l’Euphrate: Nouveaux axes de Recherche, ed. J.- M. Michaud (Proche-Orient et Littérature Ougaritique 2; Sherbrooke: GGC, 2007), pp. 473-499; and Tsumura, “Chaos and Chaoskampf in the Bible: Is ‘Chaos’ a Suitable Term to Describe Creation or Conflict in the Bible?” in Conversations on Canaan and the Bible: Creation, Chaos, Monotheism, Yahwism, ed. R. S. Watson and A. H. W. Curtis (Berlin: Walter de Gruyter, forthcoming).
+
+116. Tsumura, Creation and Destruction, pp. 184-87.
+
+117. See Tsumura, Creation and Destruction, ch. 9, “A Creation Motif in Psalm 46?” (pp. 156-63) and ch. 10, “A Destruction Motif in Habakkuk 3” (pp. 164-81). For the destruction motif in Ps. 74:12-14, see D. T. Tsumura, “The Creation Motif in Psalm 74:12-14? A Reappraisal of the Theory of the Dragon Myth,” JBL 134 (2015) 547-55.
+
+118. For the brachylogy, see Tsumura, I, pp. 64-65.
+
+119. M. J. Dahood, Psalms I (AB 16; Garden City, N.Y.: Doubleday, 1965), p. 111; N. J. Tromp, Primitive Conceptions of Death and the Nether World in the Old Testament (Rome: Pontifical Biblical Institute, 1969), p. 47.
+
+120. Lit. “from it” (3 f.s.).
+
+121. Or “I have been.”
+
+122. Ps. 18:24 has “the cleanness of my hands” (kebōr yāday) as in 2 Sam. 22:21.
+
+123. McCarter, II, p. 468.
+
+124. McCarter, II, p. 458.
+
+125. For various interpretations, see HALOT, pp. 1749-50.
+
+126. See Ugaritic ʿm.
+
+127. Cf. gebar tāmîm (Ps. 18:25).
+
+128. NIV, note; or “wall” (HALOT, p. 177).
+
+129. Lit. “from without”; cf. “except” (zûlātî) in Ps. 18:31; see Josh. 22:19; Isa. 43:11; 44:6, 8; 45:21.
+
+130. Taking wayqtl as pf. of assurance or certainty.
+
+131. See McCarter, II, p. 458, for his highly speculative explanation.
+
+132. See R. L. Hubbard, Jr., The Book of Ruth (NICOT; Grand Rapids: Eerdmans, 1988), p. 133.
+
+133. Tsumura, “Scribal Errors or Phonetic Spellings?,” p. 396.
+
+134. CAD, Ṣ, p. 113.
+
+135. W. Eichrodt, Theology of the Old Testament, vol. I (OTL; London: SCM Press, 1961), p. 221; McCarter, II, p. 469.
+
+136. D. N. Freedman, “Psalm 113 and the Song of Hannah,” EI 14 (1978) 56*-69*. See Tsumura, I, p. 135 n. 2.
+
+137. Labuschagne, The Incomparability of Yahweh in the Old Testament.
+
+138. See Melamed, “Break-up of Stereotype Phrases as an Artistic Device in Biblical Poetry,” pp. 115-53.
+
+139. McCarter, II, p. 459.
+
+140. Tsumura, I, p. 145.
+
+141. McCarter, II, p. 459.
+
+142. Cf. “richtig wayyittēn” (Delitzsch, 112).
+
+143. wāʾašmîdēm; cf. weʾaśśîgēm “and overtook them” (Ps. 18:37).
+
+144. welōʾ yeqûmûn; cf. “they were not able to rise” welōʾ-yūkelû qûm (Ps. 18:38).
+
+145. For the verb *ṣmt “to destroy, wipe out, defeat” in Ugaritic, see KTU 1.2 IV 9, 1.3 II 8; and DULAT, 786-87.
+
+146. McCarter, II, pp. 459, 470.
+
+147. Tsumura, I, p. 380 n. 100. On the topics of brachylogy and idiom, see Tsumura, I, pp. 64-65; Tsumura, “Literary Insertion (AXB Pattern) in Biblical Hebrew,” pp. 473-75; Tsumura, “Niphal with an Internal Object in Hab 3, 9a,” p. 14 n. 10.
+
+148. See Tsumura, “Scribal Errors or Phonetic Spellings?,” p. 394.
+
+149. See Gordon, UT, §12.9; S. Segert, A Basic Grammar of the Ugaritic Language: With Selected Texts and Glossary (Berkeley: University of California Press, 1984), §51.26; Bordreuil and Pardee, A Manual of Ugaritic, p. 40. For the Phoenician form thtn, see KAI 24.14; 14.9.
+
+150. DULAT, pp. 540-41; see KTU 1.4 II 24-25; 1.5 I 1; 1.19 IV 34; etc.
+
+151. See Tsumura, “Scribal Errors or Phonetic Spellings?” 396-97; also Tsumura, “Textual Corruptions, or Linguistic Phenomena?,” p. 139.
+
+152. See Tsumura, I, p. 47.
+
+153. Tsumura, “Vertical Grammar of Parallelism in Hebrew Poetry,” pp. 167-81.
+
+154. Lit. “to the hearing of ear.”
+
+155. See Tsumura, “Scribal Errors or Phonetic Spellings?,” p. 392; Tsumura, “Textual Corruptions, or Linguistic Phenomena?” 138.
+
+156. môrîd: m.sg. participle; cf. wayyadbēr “and subdues” (Ps. 18:47).
+
+157. Lit. “from.”
+
+158. Tsumura, I, p. 377.
+
+159. Tsumura, I, pp. 60-64.
+
+160. See most recently Tsumura, “Vertical Grammar of Parallelism in Hebrew Poetry,” pp. 179-80.
+
+161. Herbert, RBDSS, p. 190; DJD 17, pp. 181, 186.
+
+162. McCarter, II, pp. 472-73.
+
+163. See G. del Olmo Lete, “David’s Farewell Oracle (2 Samuel XXIII, 1-7): A Literary Analysis,” VT 34 (1984) 414-37.
+
+164. See Tsumura, “Hymns and Songs with Titles and Subscriptions in the Ancient Near East,” pp. 1-7 [Japanese with an English summary].
+
+165. McCarter, II, p. 484.
+
+166. Hertzberg, p. 400. See G. A. Rendsburg, “The Northern Origin of ‘The Last Words of David’ (2 Sam 23,1-7),” Bib 69 (1988) 115 n. 15.
+
+167. McCarter, II, p. 486.
+
+168. Driver, pp. 361–62.
+
+169. MT has waw. It is supported by 4QSama, LXX; see Hoffner.
+
+170. So, T. N. D. Mettinger, “ ‘The Last Words of David’: A Study of Structure and Meaning in II Samuel 23:1-7,” Svensk exegetisk Årsbok 41/42 (1976/1977) 153-54.
+
+171. topicalization, introduced by kî.
+
+172. Possibly, either the conflation or metaplasm of two suffixes: -hem and -am; see McCarter, II, p. 478, for de Boer’s view.
+
+173. See BHS [corrected]; based on a misprinted edition of BHS, McCarter discusses “MT” b- as a confused spelling; however, in fact, the MT Leningrad has k- ; Tadahiro Matsumoto called my attention to this.
+
+174. CS, I, pp. 37, 45.
+
+175. Rendsburg, “The Northern Origin,” 115.
+
+176. Tsumura, I, p. 140 n. 36.
+
+177. McCarter, II, p. 477.
+
+178. See D. T. Tsumura, “Ugaritic Contributions to Hebrew Lexicography,” Studies in Language and Literature 1 (Institute of Literature and Linguistics, U of Tsukuba, 1976), 101-5 [Japanese]; see also Lewis, Cults of the Dead in Ancient Israel and Ugarit (Atlanta: Scholars Press, 1989), p. 52.
+
+179. Gordon, CB, p. 225.
+
+180. The minstrel is described as “divine” in the Odyssey; see Gordon, CB, p. 121 n. 1, and p. 224. See W-O, p. 173; O’Connor, “War and Rebel Chants in the Former Prophets,” pp. 322-23.
+
+181. Tsumura, I, pp. 143-44.
+
+182. See the commentary on 2 Sam. 7 and its relationship with Ps. 89, esp. vv. 36-37. Also see Introduction: Themes and Theology of 2 Samuel.
+
+183. M. S. Smith, “The Near Eastern Background of Solar Language for Yahweh,” JBL 109 (1990) 36: “In the Iron Age, the Israelite king was described, like Yahweh, in solar metaphor, sometimes in combination with rain imagery.” Hoffner also sees here references to the sun and the rain.
+
+184. Cf. “a morning too bright for clouds” (McCarter, II, pp. 477-78: lit. “a morning without clouds from (= because of) brightness.”
+
+185. For the partitive min, see J-M, §133e.
+
+186. For the Janus parallelism in this verse, see D. T. Tsumura, “Janus Parallelism in Hab. III 4,” VT 54 (2004) 124-28 [reprinted in VT 63 (2013) 113-16].
+
+187. See Tsumura, I, pp. 60-64.
+
+188. Driver, p. 360.
+
+189. For a detailed discussion of this term, see Tsumura, I, pp. 122-24.
+
+190. McCarter, II, p. 483.
+
+191. McCarter, II, p. 479.
+
+192. See Tsumura, I, p. 441 n. 43.
+
+193. For various interpretations of this term, see S. Naéh, “A New Suggestion Regarding 2 Samuel XXIII 7,” VT 46 (1996) 260-65.
+
+194. Tsumura, I, pp. 221-23.
+
+195. Lit. “went up.”
+
+196. See the commentary on v. 18 and Gordon, CB, p. 17. See also N. Naʾaman, “The List of David’s Officers (šālîšîm),” VT 38 (1988) 71-79.
+
+197. D. G. Schley, “The šālîšîm: Officers or Special Three-man Squads?” VT 40 (1990) 326.
+
+198. O. Margalith, “A Note on šālîšîm,” VT 42 (1992) 266.
+
+199. O. Margalith, “Where Did the Philistines Come From?” ZAW 107 (1995) 107-8.
+
+200. For a detailed discussion of the textual problems, see McCarter, II, pp. 489-90.
+
+201. See Tsumura, “Scribal Errors or Phonetic Spellings?,” pp. 400-401; also Tsumura, “Textual Corruptions, or Linguistic Phenomena?,” p. 140.
+
+202. Lit. “to harvest time.”
+
+203. M. Garsiel, “The Water Retrieval Mission of David’s Three Warriors and Its Relationship to the Battle of the Valley of Refaim,” in Teshurot LaAvishur: Studies in the Bible and the Ancient Near East, in Hebrew and Semitic Languages; Festschrift Presented to Prof. Yitzhak Avishur on the Occasion of His 65th Birthday, ed. M. Heltzer and M. Malul (Tel Aviv: Archaeological Center Publications, 2004), p. 58*.
+
+204. See McCarter, II, pp. 496-97.
+
+205. Tsumura, I, p. 538.
+
+206. Tsumura, I, p. 234.
+
+207. Tsumura, I, p. 168.
+
+208. For aposiopesis, see the commentaries on 2 Sam. 13:16 (above) and Tsumura, I, pp. 119, 128.
+
+209. Driver, p. 367.
+
+210. Lit. “to awake, to set in motion” (*ʿwr: HALOT, p. 802).
+
+211. Lit. “to him (is) the name in the Three.”
+
+212. Lit. “but to the three he did not come.”
+
+213. See Gordon, CB, p. 17.
+
+214. Driver, p. 367.
+
+215. See McCarter, II, p. 496.
+
+216. S. Talmon, “Double Readings in the Masoretic Text,” Textus 1 (1960) 166.
+
+217. Tsumura, “Scribal Errors or Phonetic Spellings?” 401; Tsumura, “Textual Corruptions, or Linguistic Phenomena?” 139-40.
+
+218. See Tsumura, “Scribal Errors or Phonetic Spellings?” 401; Tsumura, “Textual Corruptions, or Linguistic Phenomena?” 140.
+
+219. See McCarter, II, p. 497.
+
+220. McCarter, II, p. 492.
+
+221. http://www.mfa.gov.il/MFA/Israel+beyond+politics/Royal-seal-impressions-discovered-23-Feb-2009.aspx.
+
+222. See Tsumura, “Scribal Errors or Phonetic Spellings?” 403.
+
+223. Tsumura, I, pp. 262-64.
+
+224. McCarter, II, p. 498.
+
+225. Avigad and Sass, Corpus of West Semitic Stamp Seals, p. 496, No. 738.
+
+226. McCarter, II, p. 492.
+
+227. HALOT, p. 810 on Azmavet.
+
+228. Tsumura, “Scribal Errors or Phonetic Spellings?” 392.
+
+229. See Tsumura, “Coordination Interrupted,” pp. 117-32; also Tsumura, I, pp. 60-64.
+
+230. McCarter, II, p. 493.
+
+231. Tsumura, “Vowel sandhi in Biblical Hebrew,” pp. 575-88.
+
+232. See DULAT, pp. 861-62. For the Akkadian term for “sum, total,” see CAD, N/1, pp. 293-94. Also see Tsumura, “List and Narrative in I Samuel 6,17-18a,” pp. 353-69; also Tsumura, I, p. 222.
+
+233. See, e.g., K. Elliger, “Die dreissig Helden Davids,” Palästinajahrbuch 31 (1935) 36.
+
+234. McCarter, II, p. 499.
+
+235. For to Joab, the commander of the army, who was with him, the LXXL has “to Joab and the commanders of the army” and hence NRSV translates “who were with him.” The LXXL reading of the plural “commanders” is probably the result of adjustment to v. 4a. Since Joab is one of the commanders, the MT reading should be retained.
+
+236. C. H. Gordon, CB, pp. 270-71 notes the common theme of divine “wrath” in Homer and the Bible.
+
+237. See Introduction, III.1.
+
+238. See R. E. Stokes, “The Devil Made David Do It . . . Or Did He? The Nature, Identity, and Literary Origins of the Satan in 1 Chronicles 21:1,” JBL 128 (2009) 91-106.
+
+239. Japhet, p. 375.
+
+240. Lit. “before”; here the context requires the translation from before.
+
+241. See K. R. Greenwood, “Labor Pains: The Relationship Between David’s Census and Corvée Labor,” BBR 20 (2010) 467-78.
+
+242. See CBA, #106.
+
+243. See ABD, III, pp. 650-51.
+
+244. SB, p. 163.
+
+245. SB, pp. 163-64. It has been suggested that the “fortified city” in Ps. 60:9 and 108:10 refers to this Usu; see SB, p. 161.
+
+246. SB, p. 40.
+
+247. P. Miscall, “2 Samuel 24: A Meditation on Wrath, Guilt, and the King,” Shofar 11 (1993) 71.
+
+248. Lit. “and told him and said to him”; see Introduction of Tsumura, I, p. xii.
+
+249. Tsumura, I, p. 270.
+
+250. See Rendsburg, DAH, p. 44.
+
+251. Tsumura, I, p. 165.
+
+252. Gordon, CB, p. 151.
+
+253. Tsumura, “The Ugaritic Drama of the Good Gods”; Tsumura, “Kings and Cults in Ancient Ugarit,” pp. 215-38. See also Tsumura, “Revisiting the ‘Seven’ Good Gods of Fertility in Ugarit,” pp. 629-41.
+
+254. See Japhet, p. 380.
+
+255. For the use of number seven in the epic literatures, see Tsumura, I, pp. 420-21.
+
+256. The K., hʾwrnh, of the name Araunah results from metathesis :
+
+hāʾăwarnāh ← hāʾărawnāh (Q.);
+
+cf. K. ʾrnyh (v. 18): ʾărōnyāh ← ʾărōnāh ← ʾărawnāh.
+
+The Ugaritic equivalent of ʾărawnāh could be the PN arwn (KTU 4.783:1), which may be analyzed as arw “lion” (KTU 6.62:2; see UT §19.2356) + -n. However, B. Mazar takes it as a Hurrian name or title that means “the lord.” He even suggests that it was the title of the last ruler of the Jebusites. See B. Mazar, “King David’s Scribe and the High Officialdom of the United Monarchy of Israel,” pp. 136-37; B. Mazar, Biblical Israel: State and People (Jerusalem: Magnes Press, 1992), p. 93. But the identification is unlikely because of the difference of the vowel and the consonant order; cf. Hurrian iwrn (see UT, §19.116; also i-wi-ir-ni in a syllabic spelling, which is identified with Ug. ma-al-ku “king” in Ug. V 130:III:13’; see Huehnergard, UVST, p. 27), the suffix -n corresponds to the definite article h-.
+
+257. Herbert, RBDSS, p. 195. See also A. Rofé, “4QSama in the Light of Historico-literary Criticism: The Case of 2 Sam 24 and 1 Chr 21,” in Biblische und Judaistische Studien: Festschrift für Paolo Sacchi, ed. A. Vivian (Judentum und Umwelt 29; Frankfurt am Main: Peter Lang, 1990), pp. 109-19.
+
+258. Tsumura, I, p. 454.
+
+259. See the Excursus in 2 Sam. 12 (above) on David’s repentance in Ps 51.
+
+260. Gordon, PLMU, p. 36.
+
+261. E. Talstra, “Text Grammar and Hebrew Bible II: Syntax and Semantics,” BO 39 (1982) 26-38, cited by Y. Endo, The Verbal System of Classical Hebrew in the Joseph Story: An Approach from Discourse Analysis (SSN 32; Assen: Van Gorcum, 1996), §2.5.2.2.
+
+262. For this verse, see B. A. Levine, “ ‘The Lord Your God Accept You’ (2 Samuel 24:23): The Altar Erected by David on the Threshing Floor of Araunah,” EI 24 (Avraham Malamat Volume; 1993) 122-29.
+
+263. See R. Westbrook, Property and the Family in Biblical Law (JSOTSS 113; Sheffield: JSOT Press, 1991).
+
+
+
+
+

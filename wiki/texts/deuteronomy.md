@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Hebrew
 date_range: composition debated — traditional: Mosaic (c. 1400 BCE); critical: 7th century BCE (Josianic); scholarly consensus: multiple stages with Mosaic core
-sources_ingested: 2
-last_updated: 2026-06-07
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [text, judaism, christianity, torah, pentateuch, kabbalah, mysticism]
 ---
 
@@ -73,21 +73,32 @@ Deuteronomy is the most quoted OT book in the NT. Jesus quotes the Shema (Mark 1
 
 ## Kabbalistic / Zoharic Reading of Deuteronomy (Daniel C. Matt, Pritzker Edition Volume IX)
 
-The first sustained Sod-level mystical commentary on Deuteronomy in the wiki enters with Matt’s Pritzker Edition Volume IX, which completes the Zohar’s main running Torah commentary (Vols. I–IX together cover Genesis through Deuteronomy). Building on the portable theurgy of the wilderness journey developed in Numbers (and ultimately on the Tabernacle and Leviticus material of Vols. V–VIII), Vol. IX reads Moses’ farewell addresses on the plains of Moab as theurgic acts of covenant renewal and transmission of the divine mystery. The book is the culmination of the Zohar’s vision of the Torah as the inner biography of God and the practical handbook for maintaining the sefirotic union (*zivvuga qaddisha*) and Shekhinah’s presence in the transition from journey to settlement.
+*Source: [[matt-zohar-pritzker-vol9|Matt Pritzker Vol IX]] (standards reingest 2026-07-18). Deuteronomy body ~3:260b–299a (Va-Etḥannan, Va-Yelekh, Ha’azinu / *Idra Zuta*). Completes main Torah commentary Vols. I–IX.*
 
-**Moses as mediator and theurgic speaker**: Moses (uniquely aligned with Tif’eret in Zoharic symbolism) delivers the “words” (Devarim) that renew the covenant, re-present the Exodus, and prepare Israel for the land. His speeches are not merely historical recollection or legal repetition but cosmic acts that affect the upper worlds. The recurring “this day” (*hayyôm hazzeh*) language is read as the eternal present in which the theurgic power of the covenant is activated.
+**Moses as Tif’eret / sun**: Beginning of redemption; body without arm when incomplete; illumines Joshua as moon after setting (*hinnekha* still shines). Mishneh Torah as “voice of words.”
 
-**The Shema and unification**: The central demand of exclusive allegiance (Deut 6:4, the Shema) is interpreted as the unification of the sefirot—particularly the joining of the masculine and feminine divine aspects. Loving God “with all your heart, with all your soul, and with all your might” becomes a theurgical practice that draws down and maintains the flow of blessing and the indwelling of Shekhinah. The land itself is the locus where this union can be realized or disrupted.
+**Shema unification (~Va-Etḥannan)**: YHVH–Eloheinu–YHVH–One mapped to Father / streams / Tree crown / Assembly of Israel; tefillin four compartments; Name as Love; *You shall love* as theurgy; mezuzah/Shaddai.
 
-**Land, blessings, curses, and the Other Side**: The land of Canaan is the sefirotic inheritance; retention depends on alignment with the divine flow. The extensive blessings and curses (ch. 28) frame the consequences of theurgy: observance sustains the channels between worlds; violation empowers the Sitra Aḥra (the “shell” or Other Side, as in the Esau/kernel imagery elsewhere in the volume). The conquest and *herem* (devoted destruction) are read in light of the ongoing cosmic struggle against the forces that “cool” faith (echoing Amalek from earlier Exodus material).
+**Write this song (Va-Yelekh)**: Engraved Name and testimony; *shir* vs *shirah*; earth rises in Judgment; future perfect song / bond of faith (Zech 14:9).
 
-**Rav Metivta and the soul’s journey (visionary interlude)**: One of the volume’s most significant sections is the Rav Metivta (“Master of the Academy”): a visionary narrative in which Rabbi Shim’on and the Companions journey to the Garden of Eden, encounter the souls of the righteous, and receive revelations about the afterlife, the structure and ascent of the tripartite soul (nefesh, ruach, neshamah), and the mysteries of the world to come. This material provides portable eschatological and psychological wisdom for the wilderness generation and for all who study Torah in exile. It ties Deuteronomy’s theme of transition (Moses’ death, Joshua’s succession) to the ultimate ascent and the soul’s return to its divine source.
+**Ha’azinu / Song of Moses**: Worlds tremble until the Name; Moses as model for revealing wisdom before death (Prov 3:27).
 
-**The Yanuqa (the Child) and transmission of secrets**: A lively narrative interlude features a precocious (and sometimes irreverent) boy who teaches, teases, and challenges the Companions with sophisticated interpretations. The Yanuqa embodies the surprising and intergenerational transmission of Zoharic wisdom—secrets can come from unexpected sources—and models the living, oral dimension of the tradition alongside the written Torah that Moses is handing over.
+***Idra Zuta*** (embedded in Ha’azinu): Rashbi arranges to depart the world; reveals Divine Masculine–Feminine secrets in presence of Shekhinah; death as *hillula* (wedding celebration); celestial voice; comparison Shim’on : Companions :: Moses : prophets. See [[shimon-bar-yochai|Shim’on bar Yoḥai]].
 
-**Moses’ death and the completion of the commentary**: The book’s close (Moses’ song, blessing, death, and the note that “no prophet has arisen in Israel like Moses”) is read as the ultimate theurgical handover. Moses’ soul ascends or unites with the higher realms, leaving the written Torah as the enduring channel for divine influx, study as theurgy, and the maintenance of the zivvuga qaddisha in the land and in exile. With this, the Zohar’s main Torah commentary reaches its conclusion.
+**Note on location:** *Rav Metivta* and *Yanuqa* in Vol. IX sit primarily in **Numbers** (Shelaḥ / Balaq), not Deuteronomy body — earlier summary had over-associated them with Deuteronomy. Soul/afterlife densification: [[zoharic-afterlife|Zoharic Afterlife]].
 
-**Hermeneutical character**: Entirely at the **Sod** level—symbolic, theosophical, theurgical, and narrative-expansive. Deuteronomy is re-enacted in the heavenly realm; Moses’ words are simultaneously historical address and cosmic event. This complements (and contrasts with) Craigie’s and Arnold’s treaty-form, rhetorical, and covenantal readings by adding the mythic drama of sefirot, Shekhinah, and the soul’s journey. Cross-references: [[zohar|The Zohar]], [[shekhinah|Shekhinah]], [[moses|Moses]], [[daniel-matt|Daniel C. Matt]], [[numbers|Numbers]] (Zoharic continuation), [[gnosis|Gnosis]], [[zoharic-afterlife|Zoharic Afterlife]] (Rav Metivta).
+**Hermeneutical character**: Sod / theosophical / theurgical. Complements Craigie/Arnold treaty-form readings without replacing them. Cross-references: [[zohar|The Zohar]], [[shekhinah|Shekhinah]], [[moses|Moses]], [[numbers|Numbers]], [[daniel-matt|Daniel C. Matt]].
+
+### Midrash ha-Ne’lam on Ki Tetse + MS Addenda (Pritzker Vol. X, Wolski)
+
+Brief Torah MhN unit on **Parashat Ki Tetse** (Deut 21:10–25:19 zone) plus three manuscript addenda completing MhN on the Torah in Wolski’s possession. Source: [[wolski-zohar-pritzker-vol10|Wolski Pritzker Vol X]] (standards reingest 2026-07-18). Body claims:
+
+- **Childlessness / reincarnation** ([59b]–[59c]): soul returns two or three times to be refined (Job 33:29); after three failures, cut off (Num 15:31); levirate preserves name/seed so the soul need not re-enter; deposit parable (guarded / lost / sullied); *neshamah* given to become a **birthing soul**; vessel-to-vessel if no stock.
+- **Add. 1**: *me’orot* defective lights; Jacob/Esau sun–moon dominion; sun’s twenty-four songs; Metatron raises righteous souls nightly; Song 3:1 — three night watches; Holy One delights with souls in two hundred concealed worlds; merit complete only at death.
+- **Add. 2**: “Whoever recites the Shema by its letters—Hell is cooled for him”; night watches (donkey / dogs); soul raised nightly as witness of deeds; after death, **dog attribute** barks → sling to Hell (Israel spared: “no dog will snarl”); **path of life** three days darkness then light.
+- **Add. 3**: Nephilim multireadings (Adam/Eve fallen; miscarriages; bastards; giants); *nefesh–ruaḥ–neshamah*; Flood judgment with compassion.
+
+Distinct from Vol. IX main-body Deuteronomy theurgy (Shema as sefirotic unification; *Idra Zuta*). Cross-links: [[nathan-wolski|Nathan Wolski]], [[zoharic-afterlife|Zoharic Afterlife]], [[gilgul|Gilgul]], [[shema|Shema]], [[zohar|The Zohar]].
 
 
 ## Concepts
@@ -105,4 +116,5 @@ Craigie's NICOT commentary is a conservative evangelical work that defends an ea
 
 Arnold's commentary reinforces the treaty framework and adds emphasis on the book's homiletical character as Moses' final addresses, with detailed treatment of the law code's ethical and social vision (e.g., care for the vulnerable, limits on kingship, central sanctuary). He engages modern critical debates on dating while defending the book's theological unity and its role in shaping Israel's identity as a covenant people. Sources now reflect both for comprehensive narrative enhancement.
 
-3. [[daniel-matt|Matt, Daniel C.]] (trans.). *The Zohar: Pritzker Edition, Volume IX*. Stanford University Press, 2016. (Remainder of Numbers + full Deuteronomy as theurgic covenant renewal, Moses as Tif’eret mediator, Shema as sefirotic unification, Rav Metivta on soul/afterlife, Yanuqa narrative, completion of the main Torah commentary in Pritzker Vols. I–IX.)
+3. [[daniel-matt|Matt, Daniel C.]] (trans.). *The Zohar: Pritzker Edition, Volume IX*. Stanford University Press, 2016. **Standards reingest 2026-07-18** — [[matt-zohar-pritzker-vol9|source page]]; Va-Etḥannan Shema; Va-Yelekh song; Ha’azinu/*Idra Zuta*.
+4. [[nathan-wolski|Wolski, Nathan]] (trans. and annot.). *The Zohar: Pritzker Edition, Volume Ten: Midrash ha-Ne’lam*. Stanford University Press, 2016. **Standards reingest 2026-07-18** — [[wolski-zohar-pritzker-vol10|source page]]; Ki Tetse reincarnation/levirate; Addenda (Shema cools Hell; path of life; Nephilim).

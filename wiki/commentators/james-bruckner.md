@@ -6,7 +6,7 @@ tradition: Christianity (evangelical Protestant, broadly ecumenical)
 affiliation: North Park Theological Seminary (Chicago)
 primary_texts_commented: Exodus
 sources_ingested: 1
-last_updated: 2026-06-04
+last_updated: 2026-07-18
 tags: [commentator, christianity, evangelical, old-testament]
 ---
 
@@ -54,6 +54,16 @@ His reading of the difficult "yet he will by no means clear the guilty" clause: 
 
 **On liberation theology's limits**: Following Warrior, Bruckner notes that many contemporary Christians are not the enslaved Hebrews in the analogy but the "silent Egyptian populace" — or even the Canaanites. The liberation paradigm is valid but limited: "honesty does not allow many of us the hermeneutical luxury of identifying ourselves as oppressed slaves."
 
+**On God's relenting (Exod 32:14)**: *Nakham* for God means "relented"/"had compassion," never "repent" ("since God does not sin"). The relenting "is in itself a theological revolution... This particular decision to relent led to an eternal change in the way God relates to the world" — henceforth God "would not... always punish the wicked in the world promptly," and forgiveness was possible "even in the worst cases." He frames Exod 32–34 as God's four decisions (not consume / presence / forgiveness / new covenant), with Moses' friendship as the basis of the reversal.
+
+**On biblical law**: "Israel's law is unique in that it is embedded in the story of the Lord's salvation." Comparative reading against the seven ANE codes: fewer class distinctions, no death penalty for property crimes, unique protection of slaves and aliens; lex talionis read restoratively (with Shalom Paul) — "No application of physical talion is found in Scripture." On slavery he is candid: God "regulated, rather than prohibited, the practice," beginning "a gradual trajectory of limited freedom and protection"; the laws' acceptance of slavery and women's lower status "points to the limitations of any culture in manifesting the righteousness of God." No single law is God's word "in isolation from the whole corpus of 613 laws or from its three-thousand-year history of interpretation."
+
+**On sacrifice and holiness**: A four-fact theology of sacrifice (shalom created; sin as shattered relationship; restoration costly; the animal as visible representation of that cost); "The elaborate sacrificial system was a means of conversing and living with a holy God." Holiness is received, not achieved: "Exodus 31:13b, 'I am the LORD, who makes you holy,' is the best way to understand holiness" — against "religion's definition of holiness."
+
+**On covenant blood (Exod 24:8)**: the lifeblood "represents the life God gives in the laws of the book of the covenant... The law was life" — contrasted with Leviticus (blood cleanses sin) and combined by Jesus in the cup-word.
+
+**On divine violence**: "The Bible assumes a categorical difference between the Lord God and us... To recognize that the Lord is God, and we are not, means to cease judging God's actions by human motivations," while lament and protest remain legitimate; "Scripture does not back away from the difficult reality that God takes life to redeem life."
+
 ## Key Scholars Engaged
 
 Bruckner draws most extensively on: **Terence Fretheim** (*Exodus*, OBT — major influence throughout); **Walter Brueggemann** (*Exodus*, NIB — liberation themes); **John Durham** (*Exodus*, WBC — detailed exegesis); **Brevard Childs** (*Exodus*, OTL — canonical approach); **Benno Jacob** (*Exodus* — Jewish traditional reading); **Nahum Sarna** (*Exploring Exodus* — historical/ANE background); **Philo** (allegorical tradition, critically engaged); Robert Warrior (Native American liberation critique).
@@ -68,4 +78,4 @@ Bruckner occupies a **centrist position** in this wiki's commentary spectrum:
 
 ## Sources Ingested
 
-1. *Exodus*. Understanding the Bible Commentary Series. Grand Rapids: Baker Books, 2008/2012.
+1. *Exodus*. Understanding the Bible Commentary Series. Grand Rapids: Baker Books, 2008/2012. Initial ingest 2026-06-04/06-07; **full fidelity re-ingest 2026-07-18** (whole work, coverage ledger) — see [[bruckner-exodus-ubcs|Bruckner, Exodus (UBCS) — source page]].

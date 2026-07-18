@@ -1,0 +1,845 @@
+INTRODUCTION'
+
+
+
+1. TITLE
+
+
+The title Song of Songs comes from the first two words of the first verse in the Hebrew text (sir hassirim). The most obvious meaning of this phrase follows from a recognition that the syntax (the use of the same word in construct relationship, first in the singular and the second time in the plural) denotes a superlative in Hebrew. This, in other words, is the best song of all. Grammatical analogies include "utterly meaningless" (Eccles. 1:2 and throughout) and "Holy of Holies," in reference to the most holy spot on earth (Exod. 29:37) - see other analogies in Deuteronomy 10:14 ("heaven of heavens") and Genesis 9:25 ("servant of servants"). Origen identified seven songs in Scripture and argued that the Song of Songs was the best.2 This may be compared with rabbinic assertions, stated in different ways, that the Song was the best of the Solomonic corpus (see below under Authorship). Since Luther, Germans have captured this sense by typically titling the book Hoheleid, "the best song."
+
+Though I agree that the title has this superlative sense, I believe it intends to convey more than simply "the best song." When we explain the structure of the book, we will see that there are both centrifugal and centripetal forces at work.3 We will argue that there is a loose unity to the Song suggested by an occasional refrain and a unity of persona (thus the singular Song), but that the poems are ultimately independent of one another. The book is something like an erotic psalter (thus Songs).4
+
+Though this commentary uses and encourages the title Song of Songs, two other titles are also current in the literature. First, Song of Solomon highlights the connection that the superscription ties between the book and David's son (see commentary on 1: 1). However, inasmuch as this title implies Solomonic authorship of the whole, it is misleading (see Authorship). Second, the term Canticles is occasionally used and derives from the name given to the book in the Latin Vulgate (Canticum canticorum, which means Song of Songs).
+
+Song of Songs is the fourth book in the third section of the Hebrew Bible (the Ketubim). While in the English canon it follows Ecclesiastes, in the Hebrew it precedes it. In the latter, as a result, we have the interesting and surely intentional order of Proverbs, Ruth, and the Song. Proverbs, it will be remembered, concludes with the poem concerning the virtuous woman (31:10-31). Ruth and the Song, then, both present virtuous and assertive women for our contemplation.
+
+The Song of Songs is also a part of the Megillot "Scrolls," five books each of which were associated in postbiblical times with a particular Jewish feast. The Song of Songs was read on the eighth day of Passover, an association that likely arose because the book was read as a historical allegory beginning with the Exodus and ending with the coming of the Messiah (see below under History of Interpretation).
+
+
+
+
+
+II. AUTHORSHIP
+
+
+The discussion over the authorship of the Song of Songs begins with the superscription in 1:1:
+
+Kr hassirim "`ser lislomoh
+
+The part of the superscription potentially relevant to the issue of authorship is the subordinate clause formed by the last two words. As mentioned above, this verse functions something like a title page, introducing the work that follows. It seems a reasonable hypothesis to suggest that the superscription was added after the book was composed, and the meager evidence that we have here? Such views, of course, have to defend against those who understand the language of the book to be late (see below under Language).
+
+Indeed, the tradition of Solomon as a writer and songster is strong in the prose tradition of the Old Testament. The most relevant passage is that found in 1 Kings 4:29-34:
+
+God gave Solomon wisdom and very great insight, and a breadth of understanding as measureless as the sand on the seashore. Solomon's wisdom was greater than the wisdom of all the men of the East, and greater than all the wisdom of Egypt. He was wiser than any other man, including Ethan the Ezrahite - wiser than Heman, Calcol and Darda, the sons of Mahol. And his fame spread to all the surrounding nations. He spoke three thousand proverbs and his songs numbered a thousand and five. He described plant life, from the cedar of Lebanon to the hyssop that grows out of walls. He also taught about animals and birds, reptiles and fish. Men of all nations came to listen to Solomon's wisdom, sent by all the kinds of the world, who had heard of his wisdom.
+
+In a word, Solomon was quite a prolific wisdom author. Most relevant to the Song is the statement that he wrote over a thousand songs. Could some of these be the songs of that book of love poetry`?
+
+It seems most natural on the basis of this evidence to conclude that the superscription is making the claim that Solomon wrote the Song in its entirety. For those who believe that the Bible speaks authoritatively in such matters, this seems the end of the discussion. All that is left to do is to provide arguments in favor of Solomonic authorship and to answer those objections that are brought against it. However, the situation is not quite so simple. There are significant reasons to question the idea that Solomon wrote the entirety of the Song. As we survey these reasons, we will see that some are indeed ill-founded, while others are persuasive. We will move from the weakest to the strongest claims.
+
+In the first place, we have the question of language. We will deal with the specific evidence concerning language later in the Introduction. For now, I simply want to suggest that language is not a reliable indicator of the date of a book for two reasons. First, our knowledge of the development of the Hebrew language is tenuous, particularly in terms of the influence that other languages had on Hebrew. In the past, the discovery of Aramaisms in the text was considered strong evidence of its lateness. Now, with the relatively recent discovery of Aramaic dated to the eleventh century B.C.9 (Tell Fekheriye Inscription), it appears that the influence of Aramaic on Hebrew occurred earlier than invites the conclusion that the superscription was written by someone not connected with the composition of the poems that follow.6 Does that mean that it claims that Solomon is its author? Not necessarily if viewed from the perspective of the grammar. The preposition le that is prefixed to Solomon's name can theoretically be understood in more than one way in this context:
+
+To Solomon: The book is dedicated to Solomon.
+
+By Solomon: Authorship.
+
+Concerning Solomon: Solomon is the subject matter of the book.
+
+Solomonic: which may mean something like "in the Solomonic/wisdom literary tradition."
+
+Traditionally, there is no doubt but that the book was understood to be written by Solomon, if not also about him (see History of Interpretation). The Midrash Rabbah, for instance, talks of the three main contributions of Solomon - Song of Songs, Proverbs, and Ecclesiastes - as belonging to three phases of his life, with the explanation that "when a man is young he composes songs; when he grows older he makes sententious remarks; and when he becomes an old man he speaks of the vanity of things." Thus, the Song is thought to be composed by Solomon in his youth, not only when his sexual energy was high, but also before his apostasy, which was motivated in large part by illegitimate lust (see below). Furthermore, those who believe that the Song was authored by Solomon suggest that the popular title for the book, Song of Solomon, implicitly identifies Solomon as the author.
+
+Even in the modern period, Solomonic authorship has found its de- fenders.7 One common line of defense has to do with the imagery of the Song, which assumes both wealth and an international trade that would make the Israelite author and audience aware of the exotic spices that find mention in the poems (i.e., 4:13-14).8 Others would add the argument that the most natural way to read the superscription is as an attribution of authorship, and, since there is no reason to question Solomon's ability to write love poems, why should modern scholars question the tradition? In addition, it is felt by many that the lamed preposition elsewhere indicates authorship, so why not the exilic period. There is no good reason to deny an early influence since we know that the two language groups had contact as early as David (cf. 2 Sam. 8:5-8). The supposed presence of a single Persian loanword (4:3, pardes) is hardly enough to convince us of a late date. Second, we are ignorant concerning the possible linguistic updating of earlier biblical material. As a matter of fact, it is hard to imagine that there was no updating during the long period that we believe the Bible came into existence; otherwise, later generations would have had a hard time understanding the language. Although editors would have tended to be more conservative with poetry in any such updating due to the demands of literary artifice, nonetheless we must allow for the possibility that the Song of Songs was updated, which would not allow us to use (possibly) later linguistic forms to date the composition of the text.
+
+Second, we might question an essential Solomonic role in the Song due to Solomon's dubious reputation in the area of love. Song extols an exclusive, committed relationship. To these lovers there is only one other person - each other.10 Yet the historical tradition concerning Solomon does not focus on one woman but many wives and concubines. One of his wives stood out from among others, namely, the daughter of the Pharaoh of Egypt, but that is due to the importance of the military alliance that was formed between Egypt and Israel, not because of a unique love between the two. This is made clear in 1 Kings 11:1: "King Solomon, however, loved many foreign women besides Pharaoh's daughter - Moabites, Ammonites, Edomites, Sidonians and Hittites." Furthermore, the Deuteronomic historian makes no secret of the catastrophe that resulted from these marriages: "They were from nations about which the LORD had told the Israelites, `You must not intermarry with them, because they will surely turn your hearts after their gods.' Nevertheless, Solomon held fast to them in love." Indeed, he had seven hundred wives "of royal birth." The results were a personal tragedy: "As Solomon grew old, his wives turned his heart after other gods, and his heart was not fully devoted to the LORD his God, as the heart of David his father had been. He followed Ashtoreth, the goddess of the Sidonians, and Molech, the detestable god of the Ammonites. So Solomon did evil in the eyes of the LORD; he did not follow the LORD completely, as David his father had done" (1 Kings 4:46). His foreign love affairs also led to a national calamity immediately upon his death. God judged Solomon for his apostasy by splitting the kingdom, united under his rule, into two parts. His son and those who descended from his line would only rule the southern kingdom of Judah, and, sure enough, when Solomon died, one of his subordinates led a rebellion against Reho boam (I Kings 12). The Deuteronomic historian, however, was interested in even the more devastating effects of this and other acts of rebellion. The final form of Kings should surely be dated to the exile, where the question that it (along with Samuel) grapples with is: "Why are we in exile?" In the mind of the historian, Solomon's sinful marriages constitute a banner reason why Judah was defeated and the temple destroyed. All of this is to query the likelihood of a book about romantic love being written by Solomon. It seems quite a stretch to suggest, along with the above-quoted rabbinic legend, that the Song was a product of Solomon's pure youth. It seems a better strategy to explore other options of understanding the superscription.
+
+A third consideration that causes us to distance the Song of Songs as a whole from Solomonic authorship is the minimal role that Solomon plays in the text. A mere three passages even mention Solomon at all, and in all three it is clear that Solomon is the object of the poem, not its composer. Some might respond by saying that Solomon plays a much larger role if we recognize that he stands behind every mention of the "king" in the text. However, most recent scholarship has rightly recognized that king, like shepherd, is an epithet of respect and endearment,' 1 not a reference to an actual political sovereign and certainly not a cipher for Solomon. Furthermore, the three passages themselves refer to Solomon in different ways. A full discussion of the passages may be found in the commentary below, but here we will offer a few guiding comments. In 1:3 Solomon - if he is mentioned at a1112 - is not referred to as a person; only the dark color of his tents is mentioned. In 3:611 (particularly v. 11), Solomon's wedding is more the topic than Solomon the person. The glory of his wedding excites those who are called upon to remember it. It brings honor to the institution of marriage. The passage itself is not saying that Solomon married the woman of the Song. It is simply promoting the wonder of marriage by focusing on all the wonderful and expensive accoutrements of Solomon's wedding. Finally, 8:11-12 paints a negative picture of Solomon as one who tries to buy love but is ridiculed for the attempt. It is doubtful that Solomon would characterize himself this way. In conclusion, we find no support for Solomonic authorship in the texts that mention his name. We should also mention the one passage where a woman is called a Shulammite (7:1 [English 6:13]). As explained in the commentary, this appears to be a feminine form of the name Solomon and suggests that perhaps both names are used for their etymological sense of "peace."
+
+Fourth, important to the significance of Solomon in the superscription is how the name is used in the superscriptions of other books. Proverbs explicitly has his name in the first verse (1: 1), and Ecclesiastes strongly implies Solomon (1:1). Yet in both cases, a close examination reveals that neither implies that Solomon wrote the whole book. Indeed, as argued in an earlier work, I suggest that Solomon did not write the book of Ecclesiastes but rather provided the fictional background for Qohelet.'3 The book of Proverbs shows signs of multiple authorship, more an anthology composed of a number of texts from different authors and time periods. Frequently, the sections are marked by captions that indicate authorship. They cite a group called "the wise" (22:17; 24:23), Agur (30:1), King Lemuel (31:1), and Solomon (1:1; 10:1; 25:1) as sources of the wisdom of the book. Only Proverbs 1:8-8:18 and 31:10-31 are without an explicit authorship attribution. Proverbs 1:1-7 serves as an extended superscription and introduction to the book that connects authorship to Solomon but does not claim it for the section itself.14
+
+In our opinion, the lislomoh in the Song of Songs is most like the mention of Solomon in the superscription of the book of Proverbs. Below, in the sections on structure and genre, we will describe the Song as an anthology of love poems. There is nothing inconceivable about the idea that Solomon wrote one or more of the poems. However, there is also nothing that indisputably connects the book with Solomon. Fortunately, little is at stake in terms of authorship of these poems. The one thing that is clear is that it is not telling a story about Solomon. To posit such a reading involves excessive eisegesis to make it work. Our translation of the preposition in the superscription (The Song of Songs, which concerns Solomon) is purposively ambiguous in terms of Solomon's relationship to the Song.
+
+
+
+
+
+A WOMAN POET?
+
+
+One school of thought suggests that a woman poet may have written the Song of Songs. These scholars point out that the woman's voice dominates the book. A. Brenner, for instance, indicates that out of one hundred and seventeen verses, the woman speaks sixty-one and a half of them.15 She is fully aware that mere quantity does not argue the case for a woman's authorship; indeed, a male can imitate a woman's voice at least to a certain extent. She also understands that the Song is a collection and so can come from a variety of different time periods and authors. However, Brenner still suspects that certain poems - she mentions in particular 1:2-6; 3:1-4; 5:1-7; 5:10-16 - "are so essentially feminine that a male could hardly imitate their tone and texture successfully." 16 The thesis of J. Bekkenkamp and F. van Dijk further supports Brenner's thesis. They argue that the Song is part of an extensive tradition of women who sang songs. They survey references to women singing in the Bible (2 Sam. 1:20, 24; Jer. 9:17, 20; Ezek. 32:16) as well as quotations of their songs (Judges 5; 1 Sam. 18:6-7). From this evidence they conclude that "it is very likely that we are dealing with women's poetry in the Song of Songs."17 S. D. Goiten is even more specific. Following the lead of M. H. Segal,18 she situates the Song in the time of Solomon. Detecting a woman's voice in the book, she posits a particular woman as the author: "The Song was composed in honour of King Solomon by a young woman, daughter of a nobleman (ndyb), who was brought to his court in order to adorn his parties by her singing.... What would be more natural than for Solomon, the great woman-lover, to ask one of the female singers of his court to gather for him the best of current Israelite love poetry?"19
+
+It is not just women scholars who argue for this position; they are joined also by F. Landy and A. LaCocque. Indeed, the latter quotes the former as he states his opinion that "the author of the Song was a female poet who intended to `cock a snook at all Puritans."'20 In other words, according to both these commentators, the Song was written by a woman who was resisting social norms, including the idea that women should be receivers not initiators of love.
+
+Against the rising tide supporting the idea of female authorship of the Song comes D. J. A. Clines, always reading "against the grain." In a nutshell, his opinion is that the woman of the Song is the perfect woman from a male perspective, the ideal dream of most men, and thus a fabrication by men.21 He believes the book was written by men in order to meet the need "of a male public for erotic literature."22
+
+The discussions of the gender of the author of the Song reveals more about us as commentators than it does about the Song. It relies on a theory of literature and of gender that believes that women and men are typecast in the way that they write. The irony is that the arguments on both sides are not coming from social conservatives, but they certainly feed the agendas of those conservatives. The most honest appraisal is that we do not know for certain who wrote the songs of the Song, a man or a woman, and in any case it is a collection of love poetry, whether by men, or women, or both. It strikes me, though, that Clines is the most egregious of these commentators since his view relies on the supposition that no woman would have the interest in the kind of love that the beloved articulates.
+
+
+
+
+
+III. LITERARY STYLE
+
+
+READING THE POETRY OF THE SONG
+
+
+The Song bears all the characteristics of what we recognize as Hebrew poetry: terseness, parallelism, imagery, and secondary poetical devices.23 Accordingly, it was one of three poetical books given special accents in the Masoretic tradition (te amin). Unfortunately, though, we have no native description of the conventions of Hebrew poetry, so we will here give a brief description of the major ones with an emphasis on their manifestation in the Song.
+
+
+
+
+
+Terseness
+
+
+Terseness simply describes the fact that Hebrew poetry is distinguished from prose by the brevity of its clauses. Prose is constructed of sentences that form paragraphs that build longer discourses; poetry is made up of short cola that form parallel lines (see below) that may build stanzas or simply longer poems. The colon is short, on average three major words, occasionally four, and rarely more. The second colon of a parallel line is almost always shorter than the first. A significant factor in this is ellipsis, which results when the second colon omits a part of the first colon with the understanding that the omitted part of the first colon is to be read into the second. Song of Songs 8:6a provides a banner example with the omission of the verb in the second colon:
+
+
+
+Another reason for terseness is the relative lack of conjunctions in Hebrew poetry. Conjunctions are brief words (in English "and," "but," "therefore," "however," and the like) but significant in that they make clear to the reader precisely how the clauses relate to one another. They are not completely lacking in poetry, nor in the poetry of the Song, as we see in the first few verses:
+
+
+
+Here we see the use of two conjunctions that are explicit in the Hebrew: "for" (ki) and "therefore" (`al-ken). More typical is the verse that follows (1:4), which completely lacks conjunctions, raising questions concerning the relationship of the clauses.
+
+
+
+
+
+The terseness of poetry, manifested in part by ellipsis and the lack of conjunctions (as well as the lack of other morphemic markers like the indicator of the direct object ['et]), is a prime reason why poetry lacks semantic precision. We will see that both parallelism and especially imagery only deepen the ambiguity of poetry. However, poets relish this intentional ambiguity that results in an emotional richness.
+
+
+
+
+
+Parallelism
+
+
+Parallelism is perhaps the most widely recognized device of Hebrew poetry, but even it is not pervasive throughout the literature. Not every line of a Hebrew poem is parallelistic. Furthermore, there are gradations of parallelism, from very strong parallel structures to extremely weak ones. Nonetheless, as a widely used characteristic of Hebrew poetry, and one that appears quite extensively in the Song of Songs, it is important to have a basic understanding of it in anticipation of a commentary on the book.
+
+Parallelism is the common term for the long-observed near repetition that characterizes the poetic line in Hebrew poetry. It was named parallelism by Robert Lowth in the eighteenth century, a term borrowed from geometry to describe what he called "a certain conformation of the sentences" in which "equals refer to equals, and opposites to opposites... ..24
+
+Since Lowth, parallelism has been recognized as the most telltale feature of biblical poetry. Also since Lowth, literary and biblical scholars have emphasized the equivalence between the related cola of a poetic line. This may be illustrated by C. S. Lewis's statement that parallelism is "the practice of saying the same thing twice in different words"25 While Lewis did understand the parallel line to operate according to the principle "the same in the other," his emphasis was on coherence of the cola, and handbooks on biblical poetry presented an even less balanced statement on the relationship between the cola than he did.
+
+Parallelism has received intense scrutiny over the past few years from biblical and literary scholars.26 The emerging consensus is that the parallel line is a more subtle literary device than previously thought. The present paradigm for understanding parallelism is development rather than equivalence. The biblical poet is doing more than saying the same thing twice. The second part always nuances the first part in some way. J. Kugel rightly refuses to replace Lowth's traditional three categories of parallelism (synonymous, antithetic, synthetic) with others. He simply argues that the second colon always contributes to the thought of the first colon, as suggested by his formula "a, what's more b"
+
+The fact that the parallel line is much more subtle than the old traditional formula of equivalence is clearly seen in the Song, where the parallelism is often quite subtle and rarely even close to synonymous. Here are two examples from different sections of the Song.
+
+
+
+In this bicolon we have what appears to be nearly synonymous parallelism. Part of our difficulty may be knowing the various nuances of words like "dew" and "drizzle" in the original, not only semantic differences but emotional overtones. Nonetheless, we can see the specification that is achieved as we move from colon a to colon b when we note that "head" is replaced by "hair." More importantly, the mood is enriched and the scene becomes much clearer by the specification of "night" found only in the second colon. Balance is achieved in the line in spite of the additional element, we will note, by the ellipsis of the verb in colon b.
+
+Our second example comes from the descriptive song (wasf) of chapter 4. Here we see examples of a parallelism where colon A creates a metaphor for a body part, which is extended in colon b. This particular type of "A, what's more B" construction may be illustrated by simply translating Song of Songs 4:3:
+
+
+
+We should also be aware that parallelism operates on more than the semantic level, as described above. Space does not allow a detailed description, but recent studies have enlarged our understanding to include grammatical and even phonological parallelism.27
+
+In the following commentary, the above understanding of parallelism underlies the interpretation but will only be made explicit when it is particularly striking or relevant to the meaning of the verse under consideration.
+
+
+
+
+
+Imagery
+
+
+The third trait of Hebrew poetry is imagery and figurative language. Imagery is not the exclusive province of poetry, but the frequency and intensity of imagery is heightened in discourse that we normally recognize as poetic. It is, after all, another way to write compactly, as well as to increase the emotional impact of a passage. The subject matter of the Song, love, calls for a rich use of imagery, and when we turn to the text, we will not be disappointed. Indeed, the Song presents us with perhaps the largest concentration of imagery anywhere in the Bible, and its images are also among the most suggestive and, at times, enigmatic.
+
+As M. H. Abrams points out, imagery is an "ambiguous term.."28 He goes on to quote C. Day Lewis, who speaks of imagery as "a picture made out of words." Such pictures are often the result of comparison, the two most common types being metaphor and simile. Simile, on the one level, is not even figurative language; it is capable of being understood on a literal level. A simile is a comparison between two things and is marked by the use of "like" or "as." Song of Songs 4:1b is a clear example:
+
+
+
+Metaphor has long been considered the master image or even the essence of poetry by literary scholars since the time of Aristotle. Metaphor presents a stronger connection between the two objects of comparison and is truly figurative language, as in Song of Songs 4:1 a:
+
+
+
+Metaphor catches our attention by the disparity between the two objects and the daring suggestion of similarity. Readers must ponder and reflect on the point of the similarity and, by so doing, explore multiple levels of meaning and experience the emotional overtones of the metaphor.
+
+The commentary proper will note some special characteristics of the imagery of the Song. For one thing, the Song's imagery will exploit comparisons, not only of sight but of all the senses, including taste, touch, smell, and sound. Love excites all the senses, and the poet reflects this through figurative language. Further, the love of the Song is an intimate, sensual, even erotic passion. The subject calls for an evocative language but one that does not offend or expose in an unseemly way.29 Again, in the commentary below we will note the use of double entendre, imagery that suggests an erotic meaning behind the surface meaning of the text.
+
+The language of love invites images from certain spheres of life more than others. J. M. Munro, in her excellent study of the images of the Song, names four major areas from which the imagery of the Song is drawn: courtly imagery, imagery of family life, nature imagery, and images of space and time. It is my opinion that she missed one other major area: military images (e.g., the text and commentary at Song of Songs 1:9; 4:4; 6:4, 10).30
+
+It is of the nature of imagery to be controversial in interpretation. Figurative language is not concerned with precision of content. Indeed, imagery both reveals and conceals the object of comparison. To say that the woman's eyes are like doves raises all sorts of questions that are difficult to answer, not just because we lack the ancient context but also because of the nature of im- agery.31 In what way are her eyes like doves? First we go extremely far in unpacking the image, and then we start to question whether or not we have gone too far. It is here that we will find the most disagreement about the interpretation of the images. Some of my readers, especially my professional colleagues, will judge me as taking the images too far; my guess is that far more will say the opposite, that I have been reticent in my analysis of the images. I feel, however, that in the interpretation of some scholars (Landy, Brenner, and Goulder32 come immediately to mind) free association with the images of the Song is so prevalent that we learn far more about the interpreters than we do about the text. However, since the interpretation of images involves an artistic sense more than a scientific mind-set, the readers of this commentary will have to form that judgment for themselves.33
+
+
+
+
+
+SECONDARY POETIC DEVICES
+
+
+Besides parallelism and imagery, a number of other ornamental devices appear in Hebrew poetry. While parallelism and imagery are very frequent in Old Testament poetry, the others are secondary in that they appear less regularly.
+
+Ancient Hebrew poets "beautified" and enhanced their poetic creations in many different ways. Many have been studied, given technical names, and categorized by scholars. This introduction is not the place to introduce even those devices that are used in the Song,34 but devices like inclusio, merism, and chiasm will be indicated and discussed in the commentary below as they are encountered in the text of the Song.
+
+
+
+
+
+CHARACTERIZATION
+
+
+The Song speaks through its characters. There is no narrator, and we will argue below that there is no overarching narrative or plot. However, the characters whom we hear in the Song have a consistency of persona, and we will here briefly present an overview of their function within the Song:
+
+
+
+
+
+The Woman
+
+
+We begin with the woman because she is by far the most dominant presence in the Song. She speaks more frequently than the man, and, when the latter speaks, he often speaks of her (see in particular chapter 4). The age of the woman, as well as of the man, is not explicitly mentioned, but we should probably envision them as young, just coming to maturity. In some of the poems the couple is not married, or they are newly married, and M. V. Fox reminds us that the best guess based on the evidence we have is that marriage took place in the early or mid-teens in ancient Israel.35
+
+The woman not only speaks more often but also initiates the relationship and pursues it. She frequently expresses her desire for the man; she even overcomes threats and obstacles to be with him (3:1-5; 5:2-8). Her view of herself is modest (1:5-6; 2:1), but as we see her through the eyes of the man she is magnificent (see in particular the wasfs in 4:1-7, 10-15; 7:1-6). He calls her "most beautiful of women" (1:8), darling (1:9, 15; 2:2, 10, 13; 4:1, 7; 5:2), his bride (4:8, 9, 10, 11, 12; 5:1); his sister (4:12; 5:1, 2), his dove (5:2).
+
+
+
+
+
+The Man
+
+
+We learn about the man not only from his own speech but also from the woman's speech to him. We are introduced to him first by the latter as she describes him as desirable (1:2-4).36 In this first speech, she also refers to him as king (1:4; see also 1:12 and perhaps 7:5). This fueled interpretive speculation that the man is Solomon and should be understood as such throughout the poem. However, she also refers to him as a shepherd (1:7). Those who wish to preserve the identification of the man with Solomon argue either that the shepherd image is not incompatible with the royal image or that the figures should be divided and two men are described in the Song. However, the approach taken in this commentary is to understand both king and shepherd as figurative terms, wherein the woman endows the man with metaphorical roles to express her respect and desire for him. He is desired to be sure, but he also desires her. She pursues him, but he also pursues her (2:8-14; 5:2-4).
+
+
+
+
+
+The Women
+
+
+Throughout the Song we hear from a group of women who are variously identified as "daughters of Jerusalem" (e.g., 1:5), "daughters of Zion" (e.g., 3:11), or simply "young women" (e.g., 1:3). Indeed, in some contexts, they are assumed to be the audience for the woman's addresses without being explicitly mentioned (1:5-6). It is intriguing to suggest that these references apply to the same group of women. While we state this, however, we must be careful also to safeguard against the idea that these are real women. Like the woman and the man of the Song, the women are a literary device, and the question is not so much who are they as what is their function within the poems. However, it is possible to suggest that they have a distinct character, which is signaled in 1:5 by their association with Jerusalem. In a word, they are city girls, young and naive, inexperienced in matters of love. It is here that they find their functions as a sounding board, a contrast, and students of the woman.
+
+(1) Sounding board: In some poems the women serve as a backdrop to the speeches of the woman, asking her questions that stir longer speeches or reacting to her comments. A good example of this function is found in 5:9, where the young women ask the woman to describe her man, inspiring her moving description of him in 5:10-16. At times the women go beyond mere sounding board in their reaction to the woman and her actions. In 1:4, e.g., they confirm the woman's choice of the man, and in 5:1 b they provide an outside witness to the joy of the union between the two. (2) Contrast: The women are associated with Jerusalem, the leading city of Israel. As such, they stand in contrast with the woman, who is identified with country settings - vineyard, orchard, nut grove. It seems that her defensive response to the fact that she has been darkened by the sun in 1:5-6 may be in reaction to the softness of city girls. (3) Sometimes, however, the woman, experienced in love, instructs the young women to be careful not to easily enter into this potentially dangerous relationship (see commentary at 2:7; 3:5; 8:4).37
+
+
+
+
+
+Mother, Brother, Father
+
+
+The woman's family play a role in the Song, and most interesting is the role of the brothers. They appear in two places, the beginning (1:5-6) and the end (8:8-9), in the Song. She talks about her brothers in 1:5-6, and they speak in 8:8-9. From other stories in the Bible, we understand that brothers play a role in protecting their sister's sexuality and even in marriage negotiations. The brothers thus represent the control of sexuality and societal norms, and both the passages in which they appear bear out this purpose.38 It is interesting that the woman resists these norms as she pursues her true love.
+
+Perhaps the brothers play a large role because of the absence of the father. This is also underlined by the mention of the woman's mother in 3:4, 11; 6:9; 8: 1. Why the father is not mentioned in the Song is a matter of speculation. The theme is the resistance of social norms in the pursuit of true love, and this is well communicated by the use of brothers. Perhaps it would have been unrealistic, considering the ancient context, to have the woman ignore the advice or the guidance of her father. The mother is mentioned in contexts that have to do with sexuality.
+
+
+
+
+
+IV. LANGUAGE
+
+
+Language, words, and syntax have been used in biblical studies to try to date the composition of individual books or parts of books. However, such use of language has many pitfalls. First, as some of the debates over specific words in the commentary proper will convincingly demonstrate, there is much flexibility in how we understand the origin and history of the Hebrew language, not to speak of the other languages that supposedly influenced the development of Hebrew.39 Second, we cannot be sure whether the biblical books were themselves updated linguistically. Again, as stated above, the period of transmission even within the Old Testament time period was so long that someone living at the end of that time period may have had difficulty understanding an earlier form of Hebrew. A counter argument might be made that we are dealing with poetry, which has more stringent linguistic demands than prose, when we are reading the Song of Songs. Would a linguistic updating damage the poetic quality of the Song and therefore be discouraged? Perhaps, but Hebrew poetry has no demonstrable meter that would be particularly affected by changes in word length and so forth. My argument is not to prove that dating by language is ineffective, but to point out the pitfalls in order that we might take these arguments with an appropriate grain of salt.
+
+It is notable that the poems of the Song of Songs, for instance, use se rather than User as a relative pronoun.40 At one time it was thought that the use of se indicated a late date for a biblical book since it occurs in late postbiblical Hebrew, but then occurrences of se in texts that are largely thought to be early (like Judg. 5:7) might point to the fact that the difference is dialectical or perhaps geared to genre. We can infer nothing about date from the use of the relative pronoun.
+
+Much discussion swirls around the appearance of terminology pertaining to exotic spices. The Israeli scholar Chaim Rabin41 has argued that words like koper, nerd, karkom, ganeh, ginndmon, and "halot demonstrate a Tamil influence on the Song of Songs. He further argues that this would point to a time when there was trade between Israel and India (perhaps through southern Arabia). The reign of Solomon, he concludes, was such a time. However, this line of evidence, though perhaps enticing for a conservative scholar, has to be tempered by the fact that, as Brenner points out, there were other times when the Near East had trade contacts with India.42 Furthermore, other etymologies or alternative evidence can be cited for some of these words. A. Harman, e.g., indicates that koper occurs in Ugaritic texts.43
+
+Arguments may be found on both sides for words that supposedly have Aramaic, Persian, or Greek etymologies, which are said to indicate a late date. Examples of supposed Aramaic influence include berot (for normal Hebrew bergs; see 1:17), natar (for nasar in 1:6), and setdw (2:11) for "winter." Archer disputes these,44 and in any case Aramaic loanwords are now less frequently considered an indication of a late date as they once were. A supposed late Greek word (appiryon in 3:9) may have come from India and not Greece, and the same may be said of the frequently noted pardes in 4:13, which is often said to be a late Persian loanword. We cannot be certain about the way these words came into the Hebrew language.
+
+
+
+
+
+V. DATE
+
+
+Our observations of the language as well as the authorship of the book lead us to an agnostic stand on the issue of date. Indeed, we have already observed that the Song is a collection much like the books of Psalms and Proverbs. Thus, like those books, it may contain poetic compositions that derive from different time periods. Perhaps some of the poems are Solomonic, but, if so, we must also admit that others are later. We agree with R. Gordis that "being lyrical in character, with no historical allusions, most of the songs are undatable."45 Gordis, thus, rightly pinpoints the timeless quality of these poems. Fortunately, nothing is at stake in the interpretation of the Song, and thus we will avoid unnecessary speculation.
+
+
+
+
+
+VI. THE TEXT
+
+
+The Hebrew text (MT) of the Song of Songs is without major problems, is strongly supported by the versions, and is the basis of the following translation and commentary. The difficulties encountered in the text have to do with the unusual number of rare words, the rich poetry, and the genre rather than with any problems with the text's transmission.
+
+Other ancient witnesses to the text of Ecclesiastes include the Greek, Syriac, Latin, and Aramaic versions. There were four manuscripts of the Song discovered at the Dead Sea.46 They all came from the Herodian period, between 30 B.c. and A.D. 70. Three were found in Cave 4, and two of these (4QCanta and 4QCantb) witness to large portions of the text (3:4-5, 7-11; 6:11-12; 7:1-7 and 2:9-17; 3:1-2, 5, 9-10; 4:1-3, 8-11, 14-16; 5:1, respectively). M. Abegg, Jr., P. Flint, and E. Ulrich speculate that 4QCanta is missing 4:7-6:11 intentionally because of its erotic nature, but that seems unlikely considering that the scroll contains other passages that are more than a little sensuous. The fourth text was found in Cave 6 (6QCant) and is not a substantial witness to the text.
+
+The Septuagint, Peshitta,47 and Latin provide only occasional variations from the Masoretic Text and even rarer attestations of superior readings. The commentary below will discuss the individual variants. Lastly, the Aramaic text of the Song is less a textual version than an indication of the early history of interpretation, and thus we reserve comment until the following section.48
+
+
+
+
+
+VII. HISTORY OF INTERPRETATION
+
+
+Whoever sings the Song of Songs with a tremulous voice in a banquet hall and (so) treats it as a sort of ditty has no share in the world to come.49
+
+These words are attributed to Rabbi Aqiba, who flourished around A.D. 100,50 and are one of our earliest recorded witnesses to the interpretation of the Song of Songs. What is most interesting about his statement is that it reflects a debate over the book's interpretation. Those who were singing it in the banquet hall surely had a sense of the erotic nature of the book, while Aqiba's prohibition of such a use and understanding is explained in another famous quotation of his concerning the Song. In disputing the idea that the Song had no authoritative status, Aqiba exclaimed: "God forbid! - no man in Israel ever disputed about the Song of Songs [that he should say] that it does not render the hands unclean, for all the ages are not worth the day on which the Song of Songs was given to Israel; for all the Writings are holy, but the Song of Songs is the Holy of Holies"51 It appears that the lines were drawn early over the question whether the surface meaning of the text had to do with human sexuality or the relationship between God and humanity.
+
+It is our purpose in the present section to trace the history of the debate over the interpretation of the Song from its earliest evidence down to the present. The story of the interpretation of the book is a particularly interesting one, and it is tightly connected to the question of genre identification. What kind of book is the Song of Songs? Thus, our discussion of the Song's history of interpretation will set up the next section concerning genre identification. In other words, the shape of our present discussion is part of the argument for our identification of the genre of the Song. Since our decision about genre will determine the direction of our interpretation of individual passages, the following two sections are crucial. The great rabbinic sage Saadia famously stated, "Know, my brother, that you will find great differences in interpretation of the Song of Songs. In truth they differ because the Song of Songs resembles locks to which the keys have been lost."52 This statement makes abundant sense, particularly if we imagine that the keys are genre identification. Proper genre identification unlocks the proper interpretation of the book. It is for this reason that we devote considerable space to this issue.53
+
+It would be pretentious to suggest, however, that our discussion of history of interpretation will be exhaustive; it would take more than a single volume to approach that goal. In any case, our intention and needs are more modest. We are interested in showing interpretive trajectories and options to aid us in our own discovery of the genre of the Song. Of course, genre identification arises from interaction with the text itself in a kind of hermeneutical spiral (see below under Genre), but we can learn from the wrong turns and successful decisions of the past.
+
+The following survey will move from one interpretive option to an other. We will begin with those that were favored in the early history of interpretation, though we will encounter modern advocates, and move toward the interpretations favored at the beginning of the twenty-first century, though we will note ancient precursors. Furthermore, while we can describe a broad consensus today, there are significant differences in detail. In any case, there are two major interpretive questions that will also shape the following section: (1) Is the Song allegory or natural love poetry? (2) Does the Song have a plot? We will answer these questions by examining the following interpretive options: allegory, love poetry, drama, cultic poetry, psychological poetry, and wisdom. These are not all mutually exclusive categories, and thus we must remain open to the possibility of combining some of them in our final genre identification.
+
+
+
+
+
+BEFORE AQIBA
+
+
+We have only the scantiest and most indirect evidence before the turn from B.C. to A.D., which means that a number of centuries passed before we get an inkling of how people read the book. We concluded above (under Date) that we could not precisely date the book, but it almost certainly was the Persian period or before. Thus, we do not have any evidence for how the "original audience" understood the book. By the time of Aqiba it is possible, actually highly likely, that the official interpretive community represented by Aqiba already had imposed a foreign meaning on the text.
+
+It is often pointed out that the Septuagint of the Song shows no sign of allegorizing the text.54 Unfortunately, we do not know when to date the translation of this book precisely. Furthermore, it may be just a good literal translation of the text that avoided embedding any interpretation into it. In other words, the translator may have understood the book allegorically, but he simply represented the surface meaning of the Hebrew text into Greek.
+
+
+
+
+
+Allegorical Interpretations
+
+
+Aqiba's statement that the Song is the "Holy of Holies" strongly implies that he held to an allegorical interpretation of the book. As we will see, this strategy of interpretation was dominant and almost exclusive from the beginning of our evidence until the middle of the nineteenth century. Indeed, as we will comment below, the allegorical interpretation is enjoying something of a renaissance today in certain circles. We will divide our discussion of allegorical strategies of interpretation into two major parts: Jewish and Christian interpretations. The latter almost certainly took its clue from the former, but its different theology leads to a different understanding of the book.
+
+However, before beginning our survey of Jewish and Christian allegories, we need to define our terms. We need to make a distinction between an allegorical piece of literature and an allegorical interpretive strategy. The former is an intentional piece of writing: an author intends the reader to take the surface meaning of his text as symbolic of another level of meaning. In the words of The Princeton Encyclopedia of Poetry and Poetics, "We have allegory when the events of a narrative obviously and continuously refer to another simultaneous structure of events or ideas, whether historical events, moral or philosophical ideas, or natural phenomena."55 A key aspect of this interpretation is the adverb "obviously." A good example of an allegory is the still-popular work Pilgrim's Progress by John Bunyan. That this work is an allegory is blatantly obvious. The main character is named Christian, and he is on a journey to the Celestial City. On his journey, he encounters obstacles like the Slough of Despond. It would be impossible for even the average reader to avoid the below-the-surface meaning, because it is not too far below the surface.
+
+The Bible does contain allegories. In Judges 9 Abimelech had his brothers murdered in order to clear his way to the throne. However, the youngest brother Jotham escaped and then returned after Abimelech proclaimed himself king. Jotham told a story about how the trees chose a king for themselves. The trees went to the most productive and most dignified of their fellow trees first, trees like the olive, the fig, and the vine, but they all rejected the idea. They were too busy being productive. Finally they went to the thornbush and asked that useless plant to rule over them, and it accepted. Not only did it accept, but it began to display qualities and powers well beyond its nature. It would provide shade for all the other trees, and it threatened even the mighty cedar with fire. Jotham's allegory is a clear and consistent allegory that satirized Abimelech and the office of the king.
+
+Though allegory does appear in the Hebrew Bible, it is clear from our definition and example that the Song of Songs is not an allegory. The book itself has no signals that it is to be read in any other way than as a love song. No one can dispute this fact. However, this observation does not end the discussion. Even though the Song is not an allegory as such, it has been the ob ject of an allegorical interpretation from the very beginning of recorded commentary on the book.
+
+Allegory as a strategy of interpretation began with Greek myths. The Greek gods were capricious and often capable of what most would regard as immoral actions. As such, the theology of Homer was ridiculed by Plato and others. An attempt was made to salvage Homer by allegory, and so allegorical commentaries on Greek myth rose up with the intention of "the defense of the sobriety and profundity of religious myths which appeared, on the face of it, to ascribe capriciousness or indecency to the gods.."56
+
+With this background, we will now turn to examples of Jewish allegorization of the Song, and then to Christian ones. After the survey, we will critically interact with this strategy of interpretation.
+
+
+
+
+
+JEWISH ALLEGORIES
+
+
+Historical Allegories
+
+
+Early Jewish interpretations are predominantly allegorical, though we will observe variety among the different allegories proposed. However, most Jewish allegorical interpretations begin with the idea that the man in the Song is God and the woman is Israel. The Song of Songs, then, is not about what it seems to be about on the surface, the sensual love between a man and a woman. It is actually about the love that God has for Israel.
+
+Though Aqiba was an early voice for this approach to the Song, we do not have more than his isolated statements. A longer example is the Targum to the Song, written between ca. A.D. 700 and 900.57 The Targum will be our prime source for the Jewish allegorical approach that reads the Song as essentially a redemptive history of God's chosen people, Israel.58
+
+The introduction to the Targum situates the Song within Ten Songs that "were uttered in this world."59 These songs begin with Adam's in Psalm 92 and culminate with Isaiah 20:29, a song for the release of the exiles. Song of Songs is the ninth one in the list. It is referred to as the "best of them all" and is connected with Solomon, who "uttered [it] by the Holy Spirit before the Lord of all the World."
+
+The Targum itself reads the Song as a redemptive history that begins with the Exodus and ends with a section on the description of the Messianic period (7:14-8:7), but with two "flashbacks" (8:8-10 and 8:11-14) to the days before the consummation of history. R. Loewe argues that the Targum plays down the Messiah and his reign as part of an anti-Christian polemic.60 By this time, Christians have appropriated a distinctive type of allegorical interpretation of the Song, and Loewe notes swipes at it as well as implicit criticisms of Jewish mystical interpretations of the Song, both of which are described below.
+
+The Targum is too detailed and complex to give any kind of running description of its content. We will satisfy our intentions by paraphrasing the Targum's interpretation of the opening section (1:2-9). The woman, Israel, begins by begging the man, God, to kiss her. Israel desires relationship with God. She praises his reputation and asks him to take her into his private room. The bedroom is Palestine, the promised land. This opening unit then refers to the Exodus from Egypt. The kissing itself is the giving of the Law and therefore refers to the revelation of God at Sinai. However, in the wilderness they also sinned by worshipping the golden calf. The girl's confession of blackness is an acknowledgment of this sin of idolatry. Verses 7-8 describes Moses' concern about Israel's future fidelity to the Lord and his warning to them. Verse 9, the reference to the woman as similar to Pharaoh's mare, brings to mind the crossing of the Red Sea.
+
+In this manner the Targum, our example of Jewish historical allegorical interpretation, continues through the redemptive history of the Old Testament. Since there is little substantial connection between the words of the Song and the interpretation, other historical allegories, though similar, are not identical.61 However, we are interested in simply surveying and under standing the different major approaches to the Song, and so we pass on now to Jewish philosophical/mystical interpretations.
+
+
+
+
+
+Philosophical/Mystical Allegories
+
+
+Its fair to describe the historical allegorical approach as mainstream among early Jewish interpretations, but reading the Song as the story of God's people from Exodus to the Messiah is not the sole attested interpretive strategy. Many Jewish sages thought the Song was about the union between God and the individual soul. Again, I will comment only on a couple of representative examples.
+
+Earlier, we, following the work of Loewe,62 observed that the Targum had evidence of an anti-mystical tendenz. It appears that the Targum was, in part, offering a reading that displaced certain Jewish readings it regarded as wrong or even dangerous. Specifically, Loewe describes the early traditions connected to the Shi'ur Qomah (translated "Measure of the Body" in reference to God's body; see below) and cites the work of S. Lieberman, who "had recently demonstrated that the description, in fantastically exaggerated physical terms, of the mystical `body' of the Deity that goes under the name of Shi'ur Qomah was originally a midrash, intended for esoteric circulation, on the catalogue of her lover's physical charms given by the maiden in the Song of Songs (5:10-16)."63 From this text we learn that the mystical approach to the Song was early.64
+
+However, we have more evidence of this approach from the medieval period, particularly among those rabbis who followed the work of Maimonides. We will focus on the work of one such rabbinic scholar,65 Levi ben Gershom (also known as Gersonides), since he is the subject of a new study by M. Kellner.66 Levi ben Gershom was an Aristotelian67 who distinguished between the material intellect, the acquired intellect, and the Active Intellect. The last stands for God, and the first is the capacity for God's creatures to learn. The acquired intellect is knowledge that is accumulated through life. Levi reads the Song as an allegory on two levels.68 The man represents the Active Intellect and the woman the material intellect; the Song shows them in dialogue, and their union is "a human being's highest perfection and greatest felicity."69 The second level concerns discussion of the relationship between the faculties of the soul and the material intellect. "In any event, the main thrust of these discussions relates to the overwhelming desire of the material intellect to approach the Active Intellect and its attempts to enlist the (willing) aid of the other faculties of the soul in this quest."70
+
+Besides the main characters of the man (Active Intellect) and the woman (material intellect), Gersonides also identifies the minor characters in this drama of epistemological/mystical union. Jerusalem is a human being, and so the daughters of Jerusalem are the faculties of the soul. Zion is the pinnacle of Jerusalem, and so the daughters of Zion specify those faculties that are closest to the intellect. These identifications betray Gersonides' approach to the Song.
+
+Perhaps this is the proper place to mention the interesting twist to interpretation provided by Don Isaac Abravanel (sixteenth century).71 In his reading, the man is Solomon and the woman stands for wisdom. Thus, their union represents Solomon's divinely given wisdom.
+
+We have thus observed two main lines of ancient Jewish interpretation of the Song of Songs, the allegorical and the philosophical/mystical. The Targum and Levi ben Gershom were our leading examples, though we readily admit that there were many variations on the themes that they represented. Two conclusions are notable for our further explorations. First, we observe the remarkable repression of the "literal" or "natural" reading of the Song. Besides those, chided by Aqiba, singing at the taverns, no one affirms a reading of the Song that promotes an erotic understanding of the relationship between the man and the woman.72 Second, early Christian interpreta tion follows Jewish interpretation (mutatis mutandi) very closely, a topic to which we now turn.
+
+
+
+
+
+CHRISTIAN ALLEGORICAL INTERPRETATION
+
+
+Hippolytus (ca. A.D. 200) provides us with the first example of Christian exegesis of the Song, and, though we have only fragments of his work, he clearly allegorized its message. For instance, he understands the two breasts of the woman in 4:5 to refer to the Old and New Testaments.73 Since he was the first attested Christian interpreter of the Song, we do not know the influences on Hippolytus that led him to his conclusions, but we can speculate. We know that at least one hundred years before him Jewish interpreters understood the book to speak of God's love for Israel (see above and in particular the quote from Aqiba). The Christian community grew out of the Jewish community, and it would have been natural for them to adopt the same allegorical approach to the Song but to transform the referents of the symbols from God and Israel to Jesus and the Church. Once this general equation is made, there is still ample room for variations since, as we will point out below, allegorical interpretation is quite arbitrary in its assignment of symbolic value to the text. O. Keel rightly stated that "if two allegorizers ever agree on the interpretation of a verse it is only because one has copied another."74 As it turns out, particularly after our next example of Christian allegorical exegesis, Christian interpreters did depend on previous tradition to understand the verses of the Song.75
+
+Indeed, no one had a larger and longer influence on Christian interpretation of the Song than Origen (A.D. 185-253/54). Origen was born in Alexandria to wealthy Christian parents, though when his father was martyred during a persecution, the family lost everything. A wealthy patron helped Origen finish his education, which was in the Greco-Roman tradition, but at a certain point in his life he adopted a radically ascetic lifestyle that included disowning, at least explicitly, pagan intellectual influence. On a practical level, he felt that Christian spirituality entailed a denigration of fleshly concerns, most notably sexuality, a viewpoint that obviously would impact his understanding of the Song of Songs. Indeed, his views on sexuality were so strong that it appears that they moved Origen to undergo castration, and what Origen did to his own body, he did, via allegorical interpretation, to the Song of Songs - he "desexed" it.76
+
+However, as R. E. Murphy and others are correct to point out, Origen certainly understood that the form of the Song had to do with human mar- riage.77 Indeed, he called the Song an epithalamium, or "wedding song," a song sung before reaching the marriage bed. Yet the "Bridegroom" and the "Bride" in the Song are immediately spiritualized in Origen's conception of the book; they are identified, respectively, with Jesus Christ and the Church or, at least occasionally, the individual human soul. He quickly passes over the "literal" level of the Song because, as he puts it, "these things seem to me to afford no profit to the reader as far as the story goes; nor do they maintain any continuous narrative such as we find in other Scripture stories. It is necessary, therefore, rather to give them all a spiritual meaning."78
+
+Surprisingly, at least at first thought, Origen certainly devoted much attention to this book that on a surface reading communicated so little spiritual profit. We know he wrote ten volumes of commentary on the Song as well as a number of homilies.79 This focus on the Song continues through the Middle Ages with its strong stand on celibacy. It is understandable why some may find this near obsession as an expression of unnatural repression, but it may also be generated by an understandable fear that the Song may be "misunderstood" by those not initiated into the proper interpretive method and may suffer from such a misunderstanding. This indeed is Origen's express intention in his commentary on the Song.
+
+Origen, heavily influenced by Neoplatonism and Gnostic speculation (see below), held that the body and the soul were two separate entities. Both were created by God, but the body secondarily and as a kind of repository of the soul. To promote the soul, the body needed to be subjugated and eventually eliminated in death. The Song is so explicitly about the pleasures of the body on the surface that it could not mean what it appeared to mean, and allegorical interpretation was the perfect vehicle for eradicating that surface meaning.
+
+Origen was likely influenced in his interpretation by two sources. First, we know that he was aware of Hippolytus, even visiting the older churchman in Rome in the year 215. Second, and perhaps more important, he was acquainted with Jewish allegorical interpretation because of his relationship with various rabbis, including R. Hillel, who taught him Hebrew.80 Indeed, Origen lived much of his later life in the coastal city of Caesarea. R. Kimelman notes not only an influence but an implicit debate in the writings of Origen and the rabbis of his day, particularly R. Yohanan, as they argue for different referents for the symbols of the Song of Songs as allegory. For instance, Kimelman cites their comments on 1:2, which in the Masoretic tradition says that the woman prefers the man's love to wine. The Septuagint, on the contrary, mentions breasts instead of wine. It might be a conundrum why Yohanan interprets the Septuagint version rather than the Masoretic tradition, since Jewish interpreters favored the latter, until we recognize that he is purposively and polemically interacting with Origen here, who, as most Christian interpreters of the day, would prefer the Septuagint. The debate is not about which text is adopted but the meaning of breasts. Origen identified the wine as the good teaching of the Law and Prophets, but the even better milk from the breasts as the teaching of the Bridegroom, namely, Jesus. Yohanan, likely implicitly disputing this, rather identifies the wine as the written Torah and the milk from the breasts as the oral Torah.81 Thus the debate continued.
+
+Origen's influence was immense. His understanding of the Song of Songs in particular endured through the ages. Indeed, E. Kallas notes how popular the Song was during the Middle Ages. He comments that in the Patrologia Latina thirty-two commentaries on the Song are listed between the fourth and eleventh centuries, while there are only six on Galatians and nine on Romans!82 Space permits us to comment only on two other prominent early interpreters of the Song: Jerome and Bernard of Clairvaux.
+
+Jerome's significance was that he introduced and popularized Origen's allegorical approach into the Western Church.83 Jerome lived from A.D. 331-420 and is best known for his work on the Latin Vulgate, but he was an extremely influential theologian and biblical interpreter as well. Jerome embraced the ascetic lifestyle thought to be the expression of highest spirituality during the time. That is, he renounced the desires of the flesh to fan the fires of the soul. It is said that Jerome used to throw himself into thornbushes when he felt the onset of sexual arousal as a youth. After even that didn't work, he took up the study of Hebrew to calm his concupiscence! Jerome, like Origen, learned his Hebrew from rabbis and moved to Bethlehem, where he did much of his work at the end of his life.
+
+Nothing expresses his attitude toward sexuality and toward the Song of Songs better than a letter he wrote to his disciple Paula concerning the course of biblical study that he suggests for her daughter Paula. It is worth quoting at length:
+
+Let her treasures be not silk or gems but manuscripts of the holy scriptures; and in these let her think less of gilding, and Babylonian parchment, and arabesque patterns, than of correctness and accurate punctuation. Let her begin by learning the psalter, and then let her gather rules of life out of the Proverbs of Solomon. From the Preacher let her gain the habit of despising the world and its vanities. Let her follow the example set in Job of virtue and of patience. Then let her pass on to the gospels never to be laid aside once they have been taken in hand. Let her also drink in with a willing heart the Acts of the Apostles and the Epistles. As soon as she has enriched the storehouse of her mind with these treasures, let her commit to memory the prophets, the heptateuch, the Books of Kings and of Chronicles, the rolls also of Ezra and Esther. When she has done all these she may safely read the Song of Songs but not before: for, were she to read it at the beginning, she would fail to perceive that, though it is written in fleshly words, it is a marriage song of a spiritual bridal. And not understanding this she would suffer from it.84
+
+After looking at this proposed program of study, I think it is safe to say that she would never read the Song, and that may well be Jerome's intention.
+
+Bernard of Clairvaux (twelfth century) is our example of a late medieval interpreter who continues in the allegorical tradition of Hippolytus, Origen, and Jerome. Bernard was the abbot of the Cistercian monastery at Clairvaux and was a key leader in the rapid expansion of the order throughout Europe. He was concerned to promote the contemplative ideal among Christians of his day, and his treatment of the Song of Songs demonstrates the fervor of his desire.
+
+Bernard wrote eighty-six sermons on the Song between 1135 and his death in 1153. Even so, he covered only through 3:1, thus averaging over two sermons per verse! In his first sermon, Bernard lays the basic strategy for his approach to the Song.85 We note that he considers the Song the epitome of biblical teaching. Thus, he addresses his sermons to the spiritually mature, his fellow monks, and not the masses. He suggests that people cannot benefit from the Song until they have mastered the two other Solomonic books of Ecclesiastes and Proverbs, in order to despise the world and the self. The Song provides the more constructive lesson of building up one's mystical union with God. After all, the bride is the individual soul who desires God, and the groom is God. Their union is the desired mystical union between the two.
+
+The literal meaning is the "outer husk of the `dead letter' of the writ- ing,"86 and a good example is his understanding of Song 1:10, which in our translation is rendered:
+
+
+
+Bernard comments: "The heavenly goldsmiths, to whom this task is committed, promise that they will fashion resplendent tokens of truth and insert them in the soul's inward ears. I cannot see what this may mean if not the construction of certain spiritual images in order to bring the purest intuitions of divine wisdom before the eyes of the soul that contemplates, to enable it to perceive, as though in a puzzling mirror what it cannot yet gaze on face to face. ....87
+
+W. E. Phipps has made the persuasive case that Bernard's avoidance of sexuality and concomitant allegorical approach to the Song are the result not only of a tradition of interpretation but also of his "contempt for the flesh and for females "88 The dark side of his sublimation of sexuality comes out in his violent reaction toward enemies of the faith. Nowhere is this illustrated more vividly than in his determination to see Peter Abelard removed from the Church and even erased from life itself because of his different views on love and women. Bernard becomes a timely reminder that the unnatural suppression of sexual love can lead to frightful consequences.89
+
+However, this tendency is true not only of celibate monks but of married ministers and theologians in the later Protestant movement as well.90 We can observe the exact same interpretive strategy among many different Protestant traditions, though the particular shape of the application of the strategy may differ from person to person.
+
+Kailas has not persuaded me that Luther had moved from an allegorical interpretation of the text.91 While it is true that Luther does take the historical context into account, he utilizes it to develop yet another allegorical interpretation. He explicitly rejects Origen, to be sure, but he just changes the referents of the figurative language of the Song. Instead of God and the Church, or the individual soul, Luther suggests that the relationship between the man and the woman describes the relationship between God and Solomon and is in essence a political allegory.
+
+Luther exposited the Song in a series of lectures at Wittenberg during 1530. In the preface, he rejects the allegorical approach of Origen as well as the literal interpretation of Theodore of Mopsuestia (below). He takes his clue from a document written by the emperor, "The Dangers and Adventures of the Famous Hero and Knight Sir Teuerdank." Behind the story of Teuerdank and Lady Ehrenreich was the true life love of Maximilian toward Mary of Burgundy. According to Kallas, Luther thought that this illustrated the custom of nobility through time, to talk about personal matters in highly figurative literature. So in the Song, Solomon is talking about his intimate relationship with God and its effect on his reign over God's people through poetic imagery. Kallas quotes Luther's own statement of Solomon's intention in the Song as a composition in which he "commends his own government to us and composes a sort of encomium of peace and the present state of the realm. In it he gives thanks for God for the highest blessing, external peace."92
+
+Seventeenth-century Reformed theology provides many examples of allegorical interpretations of the Song. Thomas Brightman and Johannes Cocceius both read the Song as a historical allegory beginning from the old dispensation through Christ and up to the consummation of history. They even found connections to the Reformation and Calvin in particular. According to Alexander, Brightman in particular influenced other prominent Reformed exegetes in the succeeding generations, including John Cotton, Nathanael Homes, John Davenport, George Wither, Caspar Heunisch, as well as Cocceius.93 The Westminster Assembly, which produced the classic Reformed confession The Westminster Confession of Faith, condemned those who understood the Song of Songs as "a hot carnal pamphlet formed by some loose Apollo or Cupid."94
+
+This kind of historical allegory fell out of favor after the seventeenth century, but a general allegorical approach that understood the man and the woman of the Song to represent God and his people persisted both in and outside of Reformed theological circles. John Wesley (1703-91) represents the perspective that continues to find the literal or natural reading of the Song wrong, even repulsive:
+
+The description of this bridegroom and bride is such as could not with decency be used or meant concerning Solomon and Pharaoh's daughter; that many expressions and descriptions, if applied to them, would be absurd and monstrous; and that it therefore follows that this book is to be understood allegorically concerning that spiritual love and marriage, which is between Christ and his church.95
+
+The allegorical approach has been on the wane in academic circles since the middle of the nineteenth century for reasons that we will turn to in a moment.96 It is still commonly encountered in popular teaching and preach ing in the Church. Though not as popular, a group of Catholic scholars in the twentieth century have exploited their literary insights into offering something very similar to a traditional allegorical approach. The most well-known examples of Catholic allegorical interpretation in the twentieth century are those by A. Feuillet, A. Robert, and R. Tournay.97 These recent examples are exceptions to the rule. The allegorical approach has gone from being the dominant approach to the interpretation to the Song to almost a kind of eccentric archaism.98 We will now explore the reasons for this definite shift.
+
+
+
+
+
+THE REJECTION OF THE ALLEGORICAL APPROACH
+
+
+The Song of Songs is an interesting study in terms of the history of interpretation because no other biblical book witnesses to such a definite and universally recognized shift in genre identification. Until the nineteenth century the Song was unquestioningly treated as some type of allegory (the rare exceptions will be treated below), and after the nineteenth century we are hardpressed to find supporters of the allegorical approach, at least among scholars. This move has taken place among most Catholics,99 Jewish scholars, and Protestants, both liberal and evangelical. Why was there such a shift?
+
+In part the shift may be explained as a result of a larger cultural transformation as Western society moved from a premodern to a modern worldview. In other words, the Enlightenment, often rightly vilified by evangelical Christians as robbing us of a sense of the supernatural, may have been a help to proper interpretation of the Song of Songs.' 00
+
+We begin our account with a reminder of the Church and synagogue's early views on the body and sexuality. Scholars have made the case that the view that reads the Bible as pitting the spiritual over against the physical was the result of the influence of Platonic philosophy. 101 If the physical was inherently evil, then a book like the Song of Songs could be treated in one of two ways. Theoretically, it could have been rejected or removed from the canon. It is likely that the book was already firmly ensconced in the canon, so another strategy of repression had to be adopted. The allegorical method provided a handy means of making a text say something different from what it says on the surface.
+
+An allegorical approach was developed by later Greek philosophers who had moral difficulties with the capricious gods and goddesses as described by Hesiod and Homer. As a result, they assigned symbolic value to the deities and their actions that allowed them to salvage something they considered good from the ridiculously childish conception of the gods passed down from the earlier generations. They made the myths teach something different from what they seemed to say on the surface.102 It is this method that early Jewish and Christian interpreters adopted, in good faith to be sure. They sincerely felt that the Song's explicit sexuality was at odds with the rest of the Bible, and so they used allegorical interpretation to change the surface meaning into conformity with what they thought the rest of the Bible taught.
+
+However, there is absolutely nothing in the Song of Songs itself that hints of a meaning different from the sexual meaning. As a result, the assignment of spiritual meaning to the text assumes an incredibly arbitrary character. Unless one commentator is simply following in the tradition of another, there are virtually unlimited possibilities for interpretation. "The bride's two breasts in 4:5 and 7:8 have been variously interpreted as `the church from which we feed; the two testaments, Old and New; the twin precepts of love of God and neighbor; and the Blood and the Water. Gregory of Nyssa found in them the outer and the inner man, united in one sentient being." 103
+
+In a premodern cultural environment, this sort of unsubstantiated interpretation could be handed down from one generation to another with little questioning, especially when it was backed by the authority of the Church and its official exegetes. The Renaissance-Enlightenment, however, with its heavy influence on the Reformation, insisted on a return to the sources and reasons for interpretation. If an interpreter suggested that the two breasts of the woman in 4:5 refer to the Old and New Testaments, the critic would demand a basis, which could not be provided. In short, the allegorical approach ran out of steam in large measure because of its ad hoc nature.104
+
+An Enlightenment insistence that an interpretation be established by a literary argument rather than simple traditional fiat is the first reason for the failure of the allegorical approach to the Song.
+
+The second is probably also to be seen as a part of the ethos of the modern world, namely, the archeology of the Near East, which grew serious during the nineteenth and twentieth centuries. Not only were large architectural structures explored, but the ground yielded tens and even hundreds of thousands of ancient written documents. Among these documents were love poems from Egypt, Mesopotamia, and Ugarit bearing similarities with the Song of Songs (which we will survey in a forthcoming section). These texts, with their familiar epithets, formulas, and phrases, were clearly intended to speak of human love. In the light of these discoveries, it became increasingly difficult to read the Song in a strictly allegorical fashion. As a result, the literal or natural interpretation grew in dominance.
+
+Third, similarities were noticed, not just with ancient literature, but with modem Middle Eastern practice. There was a strong European presence in the Middle East during the nineteenth century, and on occasion Westerners would observe something that would remind them of biblical customs. Perhaps the most notable instance of this, certainly as regards the Song of Songs, is the case of J. G. Wetzstein, who was German consul to Syria in the middle of the nineteenth century. As German consul, he was witness to many Arab customs, including wedding customs, and in them he saw similarities with the Song. 105 Perhaps most notable, and certainly the most lasting insight that he communicated, concerned the wasf. As part of a wedding ceremony, a song would be sung that was "a description of the personal perfections and beauty of the two," that is, the bride and the groom.106 The similarities between modern Arab wedding customs and the Song bolstered the position that the Song was itself focused on human love.
+
+Fourth, there is a new appreciation for the body in our culture and even in religious circles. There remain, indeed, large disagreements about the exact relationship between the soul and the body, but few today would outand-out denigrate the body in the interests of the soul. Many, including myself, would affirm that the soul is not a separate substance apart from the body and also would acknowledge that the human body itself is part of what it means to be created in the image of God. Indeed, both male and female gender are connected to image language in Genesis 1:27:
+
+
+
+
+
+THE LITERAL/NATURAL INTERPRETATION OF THE SONG
+
+
+The literal/natural reading of the Song resists the idea that the Song is a code, saying something different than the words imply. There is no need for a special key to unlock the code, but rather the interpreter applies the same principles to the Song as he or she would to any other comparable writing. It is necessary, though, to point out immediately that literal does not mean a flat or plain interpretation. A natural reading affirms the presence of rich poetry with all the ambiguity and mystery inherent in that poetry. Important precursors to the modern preference for a literal reading of the Song may be seen in Theodore of Mopsuestia, Sebastian Castellio, and John Calvin.
+
+Theodore (A.D. 350-428) was one of the most interesting figures of early church history, frequently taking minority positions that got him in ecclesiastical trouble, but often winning the day in the long run. One such view was the interpretation of the Song of Songs that he took simply as a passionate love poem between Solomon and the Egyptian princess whom he married. While his interpretive intuitions were valid, his theological conclusions could be and were questioned. He said that such a love poem should not appear in the Holy Scripture. It is probably more for the latter view that he found himself criticized even by his student Theodoret, who judged his teacher's literal interpretation as "not fitting the mouth of a crazy woman "107 Later, he was condemned, in part for his views on the Song, by the Second Council of Constantinople (A.D. 553).108
+
+During the Reformation, John Calvin and Sebastian Castellio disagreed regarding the nature and value of the Song of Songs. The latter revived both aspects of Theodore of Mopsuestia's opinion about the Song, that is, that it was a love poem and also unworthy of the canon. Calvin found this objectionable to the extreme, and M. Pope quotes him in a way that implies that he found the literal meaning intolerable: "Our principal dispute concerns the Song of Songs. He considers it a lascivious and obscene poem, in which Solomon has described his love affair."109 However, Phipps responds that this is not the case. Calvin believed that the Song concerned physical love, but should be in the canon. The Reformer "did not think it improper to associate the marriage bed celebration with the deepest divine manifestation of love." 110 Calvin did use his considerable influence to see that his former student never was ordained and was eventually exiled from Geneva.
+
+As mentioned, it is fair to say that the literal/natural approach to interpretation has replaced the allegorical approach as the standard way of understanding the intention of the poem. However, that is just the first part of the question. Among those who agree that the Song is a poem about love, there are disagreements about precisely what type of love the poem represents. We will now turn to a discussion of the main schools of thought among those who believe it concerns human love under the following topics: (1) the dramatic approach (two character and three character) and (2) the anthological approach.
+
+
+
+
+
+The Dramatic Approach
+
+
+It may be a bit misleading to label this interpretive strategy the dramatic approach because it gives the misimpression that its advocates believe that the Song was connected with the theater and thus was a staged production." This is clearly not the case. We have retained the name to describe this strategy, however, on the grounds that it has been used for over a century. What unites the interpretations that, in spite of their differences, we call the dramatic approach is their construction of a plot. They argue, against the allegorical approach, that the Song is about human love, but they also believe it tells a story. We will use leading examples to describe the two most common types of dramatic approach, the two-character drama and the three-character drama.
+
+
+
+
+
+Two Characters
+
+
+The two-character approach may well go back to Theodore of Mopsuestia, whom we have seen bucked the nearly universal trend of allegorizing the Song in his day and asserted that the Song was about Solomon and his Egyptian love. Origen apparently also understood that the Song had this historical meaning. However, neither of them thought that such a story was befitting the canon. While the former simply expelled it from his canon, the latter interpreted it in what he thought was the eminently precious allegorical meaning of the text.
+
+We will use the commentary of the conservative Lutheran exegete Franz Delitzsch as our example of a two-character dramatic approach to the text. We do this in large part because Delitzsch's commentary series (written along with C. F. Keil) still finds wide use particularly by ministers and laypeople. Delitzsch asserts that the Song is a love poem, but one that tells a Story. 112 The main characters are Solomon - and he defends the traditional Solomonic origins of the Song - and the Shulammite. He believes that the Shulammite is an actual historical figure, but, unlike many before and after him, he does not think she is the Egyptian princess or any prominent woman but rather "a country maiden of humble rank, who, by her beauty and by the purity of her soul, filled Solomon with a love for her which drew him away from the wantonness of polygamy, and made for him the primitive idea of marriage, as it is described in Gen. ii 23ff., a self-experienced reality."' 13
+
+Delitzsch cannot speak highly enough of this rustic country lass, contrasted with the sophisticated city girls known as the daughters of Jerusalem. Her description and also the narrative of their relationship lead him to rhapsodize about how the Song is more about character than sex. Shulammite is a paragon of virtue: "Her words and her silence, her doing and suffering, her enjoyment and self-denial, her conduct as betrothed, as a bride, and as a wife, her behaviour towards her mother, her younger sister, and her brothers - all this gives the impression of a beautiful soul in a body formed as it were from the dust of flowers."114 This humble woman humbles the king: "Solomon raises this child to the rank of queen, and becomes beside this queen as a child."' 15
+
+These are the characters; Delitzsch goes on to describe the action by delineating six acts, each of which has two scenes:
+
+1. The mutual affection of the lovers (1:2-2:7), with the conclusion, "I adjure you, ye daughters of Jerusalem."
+
+2. The mutual seeking and finding of the lovers (2:8-3:5), with the conclusion, "I adjure you, ye daughters of Jerusalem."
+
+3. The fetching of the bride and the marriage (3:6-5:1), beginning with "Who is this ... ?" and ending with "Drink and be drunken, beloved."
+
+4. Love scorned but won again (5:2-6:9).
+
+5. The Shulammite, the attractively fair but humble princess (6:10-8:4), beginning with "Who is this ... ?" and ending with "I adjure you, ye daughters of Jerusalem."
+
+6. The ratification of the covenant of love in the Shulammite's home (8:5-14), beginning with "Who is this ... ?"116
+
+
+
+
+
+Three Characters
+
+
+Another school of thought within the dramatic approach to the Song argued that there were not two but three characters in the narrative. This position goes back at least to Ibn Ezra (twelfth century).' 17 This viewpoint, in part at least, was likely motivated by uneasiness concerning Solomon and his love life. Solomon, after all, was seduced into idolatry by his lusts for foreign women ( I Kings 1 1:1-13). Indeed, as we have already observed, Solomon is pictured at the end of the Song as one who buys and sells love (8:11-12). The threecharacter view discovered the third character by separating the king from the shepherd in the book, thus producing a love triangle. Generalizing these approaches, the plot surrounds a country girl who has, unfortunately for her, caught the eye of the lustful king Solomon, who wants to carry her away to his harem. She, however, is deeply in love with a shepherd, a country lad, and she does everything that she can to resist the advances of the lascivious king.
+
+Our example of a three-character dramatic approach will be the recent commentary by I. Provan.118 Provan's view falls into the general pattern of the three-character approach, but with a twist - the woman is already married to Solomon and an unhappy member of his harem. Provan describes his view:
+
+The woman, already a member of the king's harem, expresses her continuing love for her lover (and, implicitly, her disdain for the king) and he reciprocates (chapters 1-2). The contrast between king and lover is forcibly underlined in chapter 3, where both the woman's determination to overcome threats to her relationship with the man and her negative view of the royal bed and its owner are clear. Both the threats to and depths of the relationship are in evidence in chapters 4-5, where the language and imagery speak of a committed, marital-like relationship between the man and the woman; and chapters 6-7 portray for us in yet further graphic detail the nature of his relationship. Chapter 8 provides us with a strong closing statement of the woman's passion for the man and her resistance to those other males who claim possession of her, whether her brothers or the king. It is a stirring tale of fidelity to first love in the face of power, coercion and all the temptations of the royal court. 119
+
+Provan's twist then is to see in this three-character love triangle the superiority of true love over legal love.' 20
+
+
+
+
+
+CRITIQUE OF THE DRAMATIC APPROACH
+
+
+In my opinion, the dramatic approach has the same fatal shortcoming as the allegorical approach. Nothing in the text supports taking this interpretive strategy. In the first place, the Song is composed of dialogue with absolutely no stage directions. There is no narrative voice that guides readers as they process the speeches of the characters. As a matter of fact, even the rubrics that label the speakers are not in the original Hebrew text and are added by the translator/interpreter.121 As a matter of fact, as the commentary below will make explicit, we cannot be absolutely certain who is speaking in about 10 percent of the cases.
+
+Furthermore, close attention to the writings of advocates of the dramatic approach show that they must overinterpret the text in order to make the plot work. The simplest example of this is the insistence that the shepherd and the king are separate individuals, which is highly unlikely.
+
+I consider these objections insuperable. For that reason, I advocate the view that the Song is a collection of love poems.
+
+
+
+
+
+LOVE POETRY
+
+
+Human beings have a strong narrative impulse. We tend to make stories out of the most disparate elements. It is my contention that it is this impulse rather than anything in the Song that leads to the dramatic approach. In the verse-byverse study that follows in the body of the commentary, we will see that, while there are clear poems in the text, the individual poems are of uncertain and often even of doubtful connection with one another. In the section to follow on Structure, we will admit to literary dynamics that cause us to see an overall coherence to the book, but not a strict narrative unity, that is, a plot. We thus conclude that the Song is an anthology of love poems, a kind of erotic psalter.
+
+However, we must immediately recognize that this psalter is not clearly delineated. In other words, tradition has not passed down to us a canonical division between poems, and as a result we are left with some ambiguity in terms of the number of songs that it contains. Those who argue in favor of an anthological approach to the Song often differ over the precise number of poems that it contains. In a sense, on a practical level, it does not matter whether there are eighty or six poems; the pressing concern of exegesis of the Song is unpacking the metaphors and explaining the effect that it has on us as readers. However, in our study we find ourselves in the midst of the extremes of those who advocate a number of poems in the Song, like F. Landsberger, who does not give us a full study but in his article gives us the impression that virtually every verse is a separate song.122 We also disagree with M. D. Goulder, however, who argues that there are only fourteen songs.123 We find ourselves most close to the analysis of M. Falk, who is also to be credited with influencing the most recent flare of popularity of the anthological approach to the Song.124 Nonetheless, we do not agree with her in detail, since she describes thirty-one songs in the Song, while our analysis below will offer twenty-three. In the introduction to each poem we will give the evidence for our division as well as an indication of how strongly we feel that evidence is.
+
+The conclusion that the Song is an anthology of love poetry as opposed to a drama significantly affects the task of the commentator. It turns attention away from the explanation of a story, or, more pointedly, the construction of a story, to the explication of the meaning of words and metaphors and an attempt to bring out the emotional texture of the poems.
+
+
+
+
+
+ALTERNATIVE THEORIES
+
+
+Our previous discussion of the history of interpretation has focused on the two large issues that have shaped readers' approaches to the Song. First, is it an allegory that describes the love between God and his creatures or love poetry that evokes the love of a man for a woman? We have concluded the latter is the intention of the Song. Second, then, is the Song a drama/narrative or a collection/anthology of poems? We have agreed with the latter position. However, we cannot leave the subject of the history of the Song without comment on two other interpretive strategies that have been much discussed in the literature on the Song, namely, the cultic approach and the psychological approach.
+
+
+
+
+
+Cultic Interpretations
+
+
+As described above, the nineteenth century A.D. saw the rediscovery of the great civilizations and literature of the ancient Near East and, in particular, the recovery of love poems that bear similarity to the Song. In addition, texts associated with a sacred marriage ritual also were made public.125 The sacred marriage ceremony in its oldest known form involved the coupling of Dumuz and Inanna, two Sumerian deities, in order to ensure fertility for the coming year. This Sumerian version found a reflex in the Akkadian sacred marriage between Tammuz and Ishtar, and a Canaanite version as well. On a human plane, this divine marriage was acted out by the king and queen or, alternatively, by a priestess of the goddess.
+
+In the early twentieth century, certain scholars, most eminently T. J. Meek, argued that the Song of Songs was a Hebrew reflex to this ancient Near Eastern myth and ritual.126 More recently, Meek's viewpoint has been articulated by the legendary Sumerologist S. N. Kramer: "there is good reason to conclude that at least some of the passionate and rhapsodic love songs of which the book [Song of Songs] is composed are cultic in origin, and were sung in the course of the hieros gamos, or `sacred marriage,' between a king and a votary of Astarte, the Canaanite goddess of love and procreation whom even as wise a Hebrew king as Solomon worshipped and adored... "127
+
+Nothing in the Song itself supports the idea that it is part of a Hebrew sacred marriage ritual, and, indeed, there is no hint of a marriage ritual anywhere in the Old Testament. To be sure, we have clear evidence that some Israelites worshipped a female counterpart to Yahweh, but the canon as we have it today certainly distances and indeed rejects any threat to monotheism. There are some who argue that the texts of the Old Testament betray an earlier layer before monotheism came to dominate Israelite theological think- ing,128 but such an opinion is highly speculative and cannot be supported by the texts as we have them. In any case, no one writing on the Song today supports Meek's version of a mythological approach to the Song.129
+
+More recently, and often discussed, is Marvin Pope's attempt to situate the Song in the context of the ancient Near Eastern marzeah festival. No one has devoted more attention to this festival and its purported echoes down through the ages than Pope. 130 The marzeah was a meal - at times Pope describes it as an institution - that asserted the force of life, with which he includes sex, over against death. This meal involved heavy drinking, eating, singing, and sexual acts in the context of a funerary cult. Pope argues that the climax of the Song is found in 8:6c, d:
+
+
+
+Pope explains the connection of the marzeah with the Song in the following way:
+
+This fear of death] may be the covert concern of the Canticle, the response to inexorable human fate with the assertion of Love as the only power that frustrates the complete victory of Death. The sacred marriage was a celebration and affirmation of this vital force. Life and love come into stark confrontation with Death in mortuary observances, not only in the wake and burial but in the ongoing concern to commune with the departed and provide for their needs in the infernal realm with offerings of food and drink.
+
+In response to Pope, we acknowledge that the Old Testament is aware of the marzeah festival. However, in the two places where it is mentioned it is castigated as sinful (Amos 6:7; Jer. 16:5). Furthermore, not only is marzeah not mentioned positively in the Song, it is never mentioned. Thus, it is more likely that both the marzeah and the Song acknowledge the power of love over death independently than that there is some kind of connection between the two.132
+
+
+
+
+
+PSYCHOLOGICAL INTERPRETATION: F LANDY133
+
+
+Landy's study of the Song starts on the right foot when he states, "My contention, briefly put, is that as Wisdom literaturet34 the Song inquires into and expresses the nature of love and therefore of man, with a profundity and compression that has rarely been equalled and in ancient times perhaps only by Sappho."135 Thus far, he stands in the tradition of interpreting the Song as love poetry. He believes that the Song is composed of love lyrics. Where Landy's approach becomes innovative, and obscuring, is in his psychological readings of the characters and metaphors of the Song. He applies Freudian and Jungian categories and concepts to the text. Not to deny that there are important intuitions and insights into the text such as his insistence that the lovers of the Song are types of lovers and not real individuals, these insights are clear without the psychological jargon. Typical of the latter is the conclusion that ". . . both lovers derive from and reconstitute the bisexual mother, the ambivalent archetype."136 As one reads Landy's work, one gets the uncomfortable feeling that we are learning more about the scholar than the object of his study. Moreover, once again we encounter a type of allegory, in this case the allegory of one's psyche, rather than an exposition of the text.137
+
+
+
+
+
+POLITICAL INTERPRETATION: L. STADELMANN138
+
+
+Stadelmann begins by alluding to the medieval idea that the Song needs a key in order to unlock the code that hides the meaning of the book from a plain reading of the text. In his case, though, the book is not a theological allegory but a political one, and the purpose for couching the political message in the form of love poetry was to hide a revolutionary message from the eyes of an oppressive power.
+
+The original setting, according to Stadelmann, is the Persian domination of Judah, and the message concerns the hopes, desires, and intention to restore a Davidic descendant on the throne of Judah. The various characters in the Song represent political entities in postexilic Judah. For instance, Solomon is "representative of the monarchical state of the Davidic dynasty," and the woman represents "the native population of Judah. "3t9 The love between Solomon and the Shulammite is thus a cipher based on treaty/covenant language, and it refers to the relationship between vassal and king, to the bond between king and people.
+
+Stadelmann thus presents an innovative understanding of the Song - Luther may provide a kind of precursor in that he too saw a political lesson behind the text. Yet Stadlemann's analysis suffers the weakness of all allegorical readings: the lack of any indication within the text that we are to read the text in the manner he describes. It assumes that we need a key to unlock its mysteries. On the contrary, we have argued that there is no reason to avoid the obvious sexual meaning of the text.
+
+
+
+
+
+VIII. GENRE
+
+
+The lengthy section above provides the argumentation for the conclusions drawn in this section on the genre of the text. We have surveyed the major options and have anticipated our identification of the Song as an anthology of love poetry. More specifically, the Song is lyric poetry that expresses the thoughts and feelings of the poet(s) via the characters of his artistic creation with the intention of evoking those thoughts and feelings in the heart and mind of the reader. There is really nothing quite like the Song in the Hebrew Bible; its closest connections, we have seen above, are with other ancient Near Eastern love poems. A text like Psalm 45 is similar,140 but there the love between the king and his queen-to-be is described by a third party, not expressed by the man and the woman themselves.
+
+In terms of the structure of the Song, we will below explicate the relationship between the poems; for now suffice it to say that they are only loosely connected by recurrent refrains, a consistency of persona, and repetition of themes and metaphors.
+
+This conclusion concerning genre shapes how the verse-by-verse commentary will proceed.141 Our focus will not be on creating a narrative story line as in the dramatic approach or identifying the hidden referents of an allegory - whether historical, political, psychological, or cultic. Our genre identification, rather, triggers a reading strategy that will concentrate on unpacking metaphors, recovering ancient customs and conventions, and describing the thoughts and emotions evoked by the poet.
+
+B. S. Childs,142 F. Landy,143 and others144 have called the Song a work of wisdom literature. This is in addition to, not in place of, its identification as love poetry. Others have rejected this identification. Certainly, there is a clear difference between the Song and a blatantly didactic work like the book of Proverbs. However, if wisdom is broadly conceived, as suggested by the just-named scholars, then a case can be made for the appropriateness of wisdom as descriptive of the Song. Wisdom is the application of God's will to the nitty-gritty of life. This, at least, is a partial perspective on the topic. By describing a love that is intense, exclusive, and faithful in spite of obstacles, the Song indirectly but passionately reveals God's will for that special relationship between a man and a woman. Murphy insightfully points out that the Song might be read as an "explication" of Proverbs 30:19: "the way of a man with a maiden."145 It is certainly not out of keeping with wisdom literature to note that explicit theological language is lacking in the Song, though below we will insist that, when read canonically, the book is rich in insight into the relationship between God and his people. J. M. Munro may be on the right track when she notices a wisdom connection in the relationship between the young woman and the chorus, composed of other young women, whom she is instructing in the ways of love.146
+
+We should also pay attention to the form of the individual poems that constitute the Song. The introduction to each poem will comment on its form and, when helpful, give a description. Here we will just list the different forms and give examples in parentheses. First, we see the use of both monologue (2:18-17; 7:12-14) and dialogue (1:15-17; 2:1-7; 4:1-5:1; 8:13-14). Second, in terms of content we have noted admiration songs (1: 15-17; 2:1-3; 3:6-1 1), descriptions of experience (2:4-7; 5:2-7; 6:11-12), songs of yearning (3:1-5; 8:1-4; 8:13-14), invitations (2:10-14; 4:8-9; 7:12-14), the tease (1:78), and the wasf (4:1-7, 12-14; 5:10-16; 6:4-6; 7:2-8).
+
+
+
+
+
+IX. ANCIENT NEAR EASTERN BACKGROUND
+
+
+The Song of Songs did not appear in a literary and cultural vacuum. Above, we alluded to the fact that the broader Near East attests to the presence of literary texts that are similar to what we find in the Song. In anticipation of this evidence, we argued that the Song speaks primarily of human, not divine, love. The most important evidence comes from Egypt, but we will also mention the love poetry from Mesopotamian, Northwest Semitic, early Arabic, and Indian literature. This evidence shows similarities to the Song's genre, theme, motifs, language, and poetic techniques.147
+
+
+
+
+
+EGYPTIAN LOVE POETRY
+
+
+Egyptian love poetry comes from the Ramesside period (19th and 20th Dynasty: 1305-1150 B.c.) and is found in four places: Chester Beatty Papyrus I, Papyrus Harris 500, the Turin Papyrus, and the Cairo Love Songs.148 M. V. Fox has argued that the purpose of these songs was entertainment, probably at banquets. In any case, there is no indication that they served a cultic or ritual purpose.
+
+Like the Song, these writings do not tell a story but are a collection of an unspecified number of love poems. Some of the poems are monologues, but others have both speakers present. Nonetheless, contrary to the Song, even when both lovers are present, they appear to speak about each other rather than to each other.149 However, as in the Song, the man and the woman are not concrete historical personages but rather types of a man and a woman in love.
+
+That Egyptian love poems exude the same mood as the Song is demonstrated by a quotation from number 18 in Papyrus Harris 500:
+
+
+
+
+
+The use of floral imagery, particularly the woman as the field, as well as water imagery (cf. 4:12-15) is immediately reminiscent of the Song. The romantic mood and the joy of being in each other's presence are also similar.
+
+There are a number of other, more detailed similarities. For instance, the man refers to the woman as his "sister," reminiscent of Song of Songs 4:10-12. In Papyrus Harris 500 (number 6), the boy says:
+
+
+
+In addition, the physical descriptions of the man and the woman bear some similarities to the wasfs of the Song. For an example, we cite number 31 of Papyrus Chester Beatty I:
+
+
+
+
+
+MESOPOTAMIAN LOVE POETRY
+
+
+Under this heading we will treat both Sumerian and Akkadian literature. While the former has a number of relevant texts, there is little that is exactly like the Song of Songs. Akkadian has less love poetry than Sumerian.
+
+As J. G. Westenholz neatly explains, there are three basic types of love poetry in Sumerian. It includes poetry where "(1) deities assume the role of lovers; (2) individual Sumerian kings are praised as they unite with their consorts or with the goddess Inanna; and (3) lovers are not gods or kings."151 In all three categories, however, there is nothing quite like the Song of Songs even though there are similar metaphors, themes, and epithets. Perhaps the closest parallel may be found in the so-called Message of Ludingirra to His Mother. Of course, as the title of this Old Babylonian (ca. 1800-1600 B.C.) tablet written in Sumerian implies, this is not a letter from one lover to another but from a son to a mother. However, as J. Cooper points out, the son's description of his mother cannot help but bring to mind the descriptive songs of the Song:
+
+
+
+In the following commentary, we will occasionally bring to mind the Sumerian and Akkadian texts153 that have specific connections with particular verses in the Song.
+
+
+
+
+
+LOVE POETRY IN NORTHWEST SEMITIC LITERATURE
+
+
+So far no equivalent to the Song has been found outside of Hebrew in Northwest Semitic poetry. Nonetheless, mention must be made of snippets of texts that bear some similarity to individual poems. One example is the description of Hurriya in the Ugaritic text Kirtu. King Kirtu has just been told by `Ilu that he should get a new wife by besieging the city of Udum and compelling its king Pabil to turn over his daughter Hurriya, who is described to Pabil by Kirtu as:
+
+
+
+Nonetheless, in spite of this and similar love poems in the Ugaritic epics, we will find little that is really illuminating of the Song in Northwest Semitic.
+
+
+
+
+
+OTHER ANCIENT LITERATURE
+
+
+Scholarly work has pointed to similarities elsewhere, most notably in the socalled pre-Islamic Arabian odes, written in the two centuries before the rise of Islam. M. Jinbachian has argued that these odes have great similarity to the Song and are relevant because they preserve ancient Semitic poetic con- ventions.155 A. Mariaselvam has also compared the Song to ancient Tamil love poetry.116 The similarities are there, but what is at doubt is the genetic relationship between the Song and this Indian poetry. In any case, Egyptian love poetry provides a closer parallel.
+
+
+
+
+
+SIGNIFICANCE
+
+
+The ancient parallels to the Song from Egypt, Mesopotamia, Ugarit, and India demonstrate that the language of love crosses national and linguistic boundaries. We are not suggesting any kind of direct borrowing of songs between these cultures, but there was likely an awareness of love songs from other countries, at least among the elite, similar to the awareness of wise sayings from abroad (1 Kings 4:29-34).
+
+We believe that the similarities between the Song and the abovedescribed love poems were obvious from their presentation. However, by way of summary, we would say that the Song shares the same general topic of human love and sexuality, similar forms (notably the "descriptive poem"), and analogous epithets and images.
+
+Differences are also apparent. This includes the lack of true dialogue in the non-Hebrew examples. In the case of the Ugaritic example, it is pure narrative description; for the others, the poems are monologues. Perhaps we could suggest a difference in intention as well. As we observed with the Egyptian love songs, the purpose was entertainment. As we will attempt to show in the commentary, it is possible to discern in the relationship between the young woman and the chorus in the Song an intention to teach the latter, by example and admonition, the nature of love and its appropriate behavior.
+
+
+
+
+
+X. STRUCTURE
+
+
+The question of the structure of the Song is a difficult one, as is demonstrated by the plethora of hypotheses found in the secondary literature. No two scholars agree in detail, though there are what might be called schools of thought on the subject. While we feel confident in the general conclusions reached regarding the structure of the Song, we have no illusions that the following is the final word.157
+
+One's approach to the structure of the Song is heavily affected by genre identification. Those who advocate a dramatic approach to the Song are committed to an overall unity of plot for the book; the structure follows the movement of that plot, which usually flows from the ups and downs in the relationship between the man and the woman. We have already rejected the dramatic approach as overly eisegetical.
+
+Those of us who conclude that the Song is a collection of love poems, however, differ as to the coherence of the collection as a whole. On the one hand, there are scholars who believe that the Song may be divided into six to eight poems that have an "overarching macrostructure."158 On the other hand, there are scholars who suggest a larger number of poems, "each with its own independent microstructure," with no substantial connection between the poems.159
+
+Early on in this introduction, we tipped our hand in favor of a balanced view of the structure of the book, playing on the title Song of Songs. It is a single Song composed of many different Songs. Thus, in the language of D. Grossberg,160 we find centripetal and centrifugal forces in the book. The literary unity161 of the Song may be seen in the book's verbal echoes, consis tency of characters, repetition of scenes, and the refrains162 that run through the book. In the commentary to follow we will point out the most relevant of these in the introductions to the separate units. In addition, we will describe the boundaries between the poems, which lead us to the conclusion that the Song does flow as with a progression. Our overall conclusion agrees with that of P. Cotterell, who says, "the Song is a collection of songs on a common and generally erotic theme, legitimated by the naming of Solomon, skillfully welded together both by allusion and by the repetition of key vocabulary, but offering no narrative time line maintained through the work"163
+
+At this point, we will add one further note concerning attempts to find chiastic structures in the Song. As will be pointed out in the commentary, there surely are echoes throughout the Song, some stronger than others. However, the chiastic schemes suggested by scholars like J. C. Exum, W. H. Shea, and E. C. Webster164 are produced by varying the size of the matched units and drawing out selective content for comparison.165 The fact that these scholars do not agree in their analyses bears out the subtle manipulation of the evidence necessary to make their patterns work.
+
+
+
+
+
+XI. CANON
+
+
+The status and function of canon are much in discussion these days. Is "canonical" an achieved status or does the term describe an inherent authority that is later recognized by the people of God?166 In other words, does the Church make the canon or does the canon make the Church? Herman Ridderbos provides the best defense of the latter, while disputing the former. He ar gues that the canonical books are self-attesting and accepted by faith, rather than provable by an external criterion such as authorship.
+
+While I agree with Ridderbos on this issue, I will now address the issue of the external attestation to the canonical status of the Song of Songs. We begin with a restatement of Rabbi Aqiba's famous exclamation: "God forbid! - no than in Israel ever disputed about the Song of Songs [that he should say] that it does not render the hands unclean, for all the ages are not worth the day on which the Song of Songs was given to Israel; for all the Writings are holy, but the Song of Songs is the Holy of Holies."167 Of course, from the tone, we know that this statement was uttered in the midst of a disagreement about the status of the Song, and apparently it was Rabbi Yose who was on the receiving end.
+
+Nonetheless, it is fair to say that the Song was one of a handful of books about which disagreement festered.168 There are difficulties reconstructing the nature of the dispute because of the obscurity of the ancient language used to refer to a book's canonicity. Most scholars, however, conclude that the Song was well situated within the canon as early as we have mention of such matters. For instance, it is explicitly included in the canons of Aquila, Melito, and Tertullian in the second century A.D., and it is likely implied in Josephus's mention of twenty-two books and 2 Esdras's (4 Ezra) citation of twenty-four books.169 The latter probably provides testimony that reflects opinion as early as the second century B.C. However, the rabbis raised questions from time to time. These questions likely arose because of the secular nature of the book. The dispute concerned whether the Song "defiled the hands" or not, a phrase about which there is some controversy. Most understand the phrase to signify what we call canonicity because its holy nature means that touching it required ritual cleansing. Thus, when a passage in the Talmud doubts that the Song defiles the hands, it is questioning the book's authoritative status. However, some scholars, as explained by M. J. Broyde, argue that a denial that the Song defiles the hands is not a rejection of a book's place in the canon but rather an acknowledgment that the book (along with Ecclesiastes and Esther) nowhere uses the Tetragrammaton to refer to God.170 The nomenclature, again according to Broyde, has to do with protecting scrolls that contain God's name from being nibbled by rodents and other ani mals since scholars ate while studying the scrolls or because the scrolls were stored with sacred food. Such nomenclature causes students of the sacred scrolls to wash their hands for fear that they will soil those scrolls with food and the name of Yahweh be defaced by hungry rodents.
+
+In summary, there is no doubt that the Song was well situated in the canon as early as we have evidence (2 Esdras, Josephus, Aquila, Melito, Tertullian), though a significant undercurrent of doubt is expressed, especially if "defile the hands" is equated with what we call canonicity and not with the simple recognition of the absence of the Tetragrammaton. However, we do not know why the Song was first placed in the canon. Christians, of course, simply followed Jewish acceptance of the book, but the process of its inclusion in a Jewish canon is long lost to us. Many think it is either the connection with Solomoni7' or else the allegorical interpretation of the Song'72 that won the day. However, there are putative Solomonic writings that never made it into the mainstream canon (Wisdom of Solomon), and it is much more likely that the allegorization of the Song was a product of the book's inclusion in the canon rather than vice versa.'73
+
+
+
+
+
+XII. THE SIGNIFICANCE AND THEOLOGY OF THE SONG OF SONGS
+
+
+AS LOVE POETRY
+
+
+The burden of the Introduction has been to demonstrate and describe the Song of Songs as an anthology of love poems. In light of the history of interpretation, with its impulse to bypass the obviously sensual meaning of the book, it is important to insist on the Song's primary significance in relationship to an important aspect of our humanity: love and sexuality. Above, we have observed how the Song's obvious meaning was hijacked because of the imposition of nonbiblical ideas on the Bible. The burden of proof now lies with those who would deny the Song's application to human love relationships.
+
+Indeed, as human love poetry, the Song plays a crucial role in the Bible as a whole. In answer to the question, "What is a book like the Song of Songs doing in the canon?" we respond by asking the reader to imagine a Bible without the Song. Without the Song, the Church and synagogue would be left with spare and virtually exclusively negative words about an important aspect of our lives. Sexuality is a major aspect of the human experience, and God in his wisdom has spoken through the poet(s) of the Song to encourage us as well as warn us about its power in our lives.
+
+God is interested in us as whole people. We are not souls encased in a husk of flesh. The Song celebrates the joys of physical touch, the exhilaration of exotic scents, the sweet sound of an intimate voice, the taste of another's body. Furthermore, the book explores human emotion - the thrill and power of love as well as its often attendant pain. The Song affirms human love, intimate relationship, sensuality, and sexuality.
+
+The Church has a tendency to make the topic of sexuality a taboo; it is rarely spoken about or discussed in the context of Christian fellowship. The Song, however, affirms the importance of love and sex and provides encouragement and a platform for frank talk about sex among God's people. Unfortunately, it is my observation that Christian leaders rarely teach or preach on the Song. In a word, the Song celebrates human sexuality and love.
+
+This last statement raises the issue of the relationship between the lover and the beloved in the poems of the Song. Are they married?174 This question is most difficult for those who believe that the Song tells a story. After all, toward the end of the book there are poems where the couple is not married (8:8-10), even though early in the book they are sexually intimate (1:17; 2:1-7; 4:1-5:1). Furthermore, the text only rarely uses the language of marriage,175 perhaps raising the question in the minds of some readers whether the Song is a celebration of love apart from marriage. A. LaCocque, for instance, has the temerity to say that "the entire Song strums the chord of `free love,' neither recognized nor institutionalized." 176 B. S. Childs is surely right, in spite of LaCocque's modernist reading of the context, to approach this question in the light of the canon as a whole, when he states: "The Song is wisdom's reflection on the joyful and mysterious nature of love between a man and a woman within the institution of marriage.... The writer simply assumes the Hebrew order of the family as a part of the given order of his society, and seeks to explore and unravel its mysteries from within.." 77 We must read the Song within its broader context, which means the entire canon, and in this context the intimacies described between the man and the woman must be understood within the bounds of marriage.178 However, we must bear in mind that the book is an anthology of poems. In some poems the man and the woman are probably courting, while in others their intimacies reach an intensity that the biblical woridview only thought appropriate in a context of public commitment.
+
+In much recent writing, the Song has been correctly understood as love poetry but incorrectly used in order to promote specific dating or sexual practices.179 It is important to remember that the Song is not a dating guide or a sex manual. It is not a "how-to" book, but rather poetry intent on evoking a mood more than making mandates to the reader concerning specific types of behavior. Nonetheless, the Song's passionate and intimate descriptions of sensual touch may serve the purpose of freeing married couples to experiment and experience a physical relationship they wrongly thought proscribed by their Christian commitment.
+
+In spite of the predominant note of celebration, the Song also issues a warning about the danger of love, and not just illicit sex. Love is a potent force, as is most vigorously articulated in Song 8:6-7:
+
+
+
+This potent force can lead not only to ecstatic joy but also to heartbreak and a longing that makes one faint or even sick (2:5; 5:8). It is this that leads the woman to warn the "daughters of Jerusalem" not to arouse love before its time (2:7; 3:5; 8:4).180
+
+Thus, the Song presents us with both celebration and warning concerning that most intense and fragile of all human emotions, romantic love, and its physical expression, sexuality. Nothing brings more comfort this side of heaven than an intimate relationship with another. Marriage is indeed the most intimate of all human relationships. 181 However, as the most intimate, we can also be reminded of the blessings of other relationships as well. Friendship, for instance, whether with people of our own and the opposite sex, can bring joy into a difficult and hard world.182 They can also disturb and trouble. Again, the Song can serve as a reminder of the dual nature of love in other than marital human relationships.
+
+The Song not only addresses the predominant attitudes of the Church but also of our society. If the Church tends to understand sex and even human love as taboo, society at large in our time treats it as an idol. An idol is anything besides God where we try to find the ultimate meaning of life. It goes without saying that people live for sex in the twenty-first century, and the advertisers know it. If medieval society was influenced by Platonic and Aristotelian philosophy, our own postmodern age has been influenced by Hugh Heffner and the Playboy revolution. To many, a life without sex is a life that is not worth living - and not just sex, but sexuality without constraints. Again, though, the Song reminds us of the danger and the power of sexuality. To make sex the center of one's life is to devote one's life to a capricious and dangerous god. Love and sex have important roles in our lives, but they should always be subordinate to our devotion to God. Just as the Song finds its proper interpretation only in the context of the canon as a whole, so our sexual life finds its place only in the broader context of our devotion toward God. Love and sex are not the final answer to life's troubles or meaning. Indeed, our human relationships are always in the process of becoming or growing. With that in mind, we see how appropriate it is that the Song ends not with a climactic and finally satisfying embrace, but an expression of yearning for union:
+
+
+
+
+
+Married couples are usually well aware of the fact that the answers to one's problems are not all found in marriage. There is no such thing as a perfect marriage this side of heaven. We are always left wanting something more in all of our relationships, particularly marriage. The Song's cautionary poems remind us of this. In this way, the Song communicates to singles as well as married couples. Indeed, this is particularly true if we are right to identify the chorus, the daughters of Jerusalem, as a group of unmarried women who are being schooled in love by the main speaker, the young woman. Perhaps more than anyone, single men and women expect more out of marriage than it can deliver. The Song thus provides a healthy balance between celebrating and cautioning about human love.
+
+Thus, we believe that the Song's primary intention is to address the issues of human love and relationships. According to the Song, love is mutual, exclusive, total, and beautiful.183 To ignore or suppress this is to distort the message of the book. The man and the woman of the Song are not historical personages but rather poetic types, and as such the poet invites the readers to identify with them. In this way, the work encourages intimate, passionate love.
+
+As we conclude this section, however, we want to do so with a warning. David Carr has pointed out that the shift in the nineteenth century from an allegorical to a literal reading was accompanied by what he calls a "functional decanonization" of the Song.184 That is, while the academy and the Church now recognize the sexual nature of the Song, this has led to less actual use of the text in sermons and even academic writing. Those of us who believe that the whole canon is relevant to modern Church and society would conclude then that the battle is only half won if, when the text's true nature is recognized, it is not then used.
+
+
+
+
+
+AS THE STORY OF SEXUALITY REDEEMED
+
+
+In the immediately preceding seLl1ou, we reserved our comments to the Song of Songs itself. Once we understand the Song, we can begin to situate it in the context of the Bible as a who!. The next two sections of the Introduction will address the canonical significance of the hook. My thinking in the present section has been deeply shaped by the work of Phyllis Trible, t 85 who delineates a movement from the creation of the sexual relationship, to its distortion, and then finally to its redemption.
+
+The story begins in the Garden (Genesis 2). God created Adam from the dust of the ground and God's own breath. The raw materials used in the creation of Adam show his fundamental connection to both creation and the Creator. His distinctive relationship with God is further underlined by the fact that he is created in the divine image, something that will also be affirmed of the female, Eve (Gen. 1:27). Adam was not technically alone in the garden. Besides God himself, the other creatures, the animals, were there, and through naming the animals God shows Adam that he is in relationship with them. It is also likely that Adam's naming of the animals shows that he is their superior. Thus, at the beginning Adam is in the Garden with God and the animals, a being far superior to him and creatures that are inferior. The result is that something is missing: he is lonely ("But for Adam no suitable helper was found" [Gen. 2:20b]).
+
+God responded to Adam's needs by creating a partner:
+
+So the LORD God caused the man to fall into a deep sleep; and while he was sleeping, he took one of the man's ribs and closed up the place with flesh. Then the LORD God made a woman from the rib he had taken out of the man, and he brought her to the man.
+
+The significance of the creation of the woman from the man's ribt86 has been debated over the years. For one thing, some scholars believe that the Hebrew word and its use here is due to the fact that in Sumerian the words for "life" and "rib" sound similar (ti[I 1).187 Perhaps so, but the symbolic meaning goes further than this explanation. In the first place, the process of the woman's creation shows that she and the man are intimately connected. She came out of the man, as Adam's poetic response to her creation indicates (see below). Yet it also addresses the equality of the man and the woman. G. J. Wenham cites the great Baptist preacher Charles Haddon Spurgeon to this effect. Eve is "not made out of his head to top him, not out of his feet to be trampled upon by him, but out of his side to be equal with him, under his arm to be protected, and near his heart to be beloved."188
+
+The chapter concludes with Adam's hymn of joy at the creation of his equal partner Eve, which emphasizes their equality and intimacy:
+
+
+
+Perhaps most relevant for our understanding of this text's relationship with the Song of Songs is the concluding statement of the chapter: "The man and his wife were both naked, and they felt no shame." It is precisely in the area of sexuality ("nakedness") that their intimacy and total vulnerability to one another is expressed most powerfully.
+
+In the Garden, Adam and Eve experienced harmony and complete vulnerability toward one another. However, by the very next chapter they cover themselves with fig leaves, seeking refuge from the gaze of the other (Gen. 3:7). Why such a radical transformation in their relationship?
+
+The story of the Fall accounts for the change. The narrative begins with the sudden appearance of a talking serpent. Due to the abruptness of his appearance, the identity of the serpent is difficult to discuss within the context of the passage.'89 In any case, the serpent is an evil force intending to lead God's human creatures into an act of rebellion. In the previous chapter God had given just one prohibition, and that was that Adam and Eve could not eat the fruit of the tree of the knowledge of good and evil (Gen. 2:16-17). The serpent, though, questioned God's motive for making this prohibition. God said they would die if they ate the fruit; the serpent countered by saying that they would become God-like in their wisdom if they ate it. Eve was persuaded and ate the fruit. Adam, apparently in the presence of the serpent and Eve during their conversation (Gen. 3:6), did not even utter a protest or question his wife's offer of the fruit, and he too ate it.
+
+The result was sin, rebellion against God, and the consequence of the sin was a fracture between Adam and Eve and God. It is interesting, though, that the first manifestation that something was wrong in the Garden appears in the area of Adam's and Eve's sexuality: "Then the eyes of both of them were opened, and they realized they were naked; so they sewed fig leaves together and made coverings for themselves" (Gen. 3:7). Soon God himself appeared to Adam, who was hiding from him, and confronted him with his sin. He responded by pointing the finger at Eve ("The woman you put here with me - she gave me some fruit from the tree, and I ate it" [Gen. 3:12]). Eve, in her turn, blamed the serpent ("The serpent deceived me, and I ate" [Gen. 3:13]). God then cursed serpent, man, and woman. The most relevant curse for the purposes of our present study is the second part of the one given to Eve: "Your desire will be for your husband, and he will rule over you" (Gen. 3:16). There is more than one possible interpretation of this curse. On the one hand, it may refer to the fact that the woman desires to have a relationship with a man, but he will dominate her. On the other hand, it is more likely that the desire for domination works both ways. As Susan Foh points out,190 the word "desire" (tsugd) occurs again in Genesis 4:7, where it refers to sin crouching at the door desiring to overtake Cain. In this context we can clearly see that the word does not signify a tender desire but a desire to control and consume. In other words, Eve desires to dominate Adam, but Adam will counter by trying to control her. The Bible traces destructive power struggles between the genders back to the Fall and the rebellion of humans against God himself.
+
+No longer are Adam and Eve naked and feeling no shame. They immediately cover themselves with fig leaves. From vulnerability and openness they move to self-consciousness, which is seen in their concern with their nakedness. They now have something to hide. God in his grace does not kill them immediately, though this moment is the time when death is introduced at least in the world of humanity. As a token of his continuing involvement with fallen humanity, God creates clothes for them out of animal skins before he ejects them from the Garden.
+
+It is with this background in Genesis 2-3 that we return again to the Song of Songs. In this section, we will simply provide a perspective, an overview of our reading of the Song's contribution to the theme of sexuality or intimacy redeemed. The commentary proper will argue for the specific interpretations presented here. In the Song of Songs we read about the man and the woman in the garden. They are naked, and feel no shame. Specific poems that support this statement include 1:15-17; 2:1-7, 8-17; 4:10-5:1; 6:1-3;191 6:11-12; 7:7-11 (English 7:6-10);192 7:12-14 (English 7:11-13). One cannot help but hear echoes of the Garden of Eden while reading these poems. The implication of a canonical reading of the Song is that the book speaks of the healing of intimacy. Not that that healing is fully accomplished. On the one hand, the Song celebrates their union and proclaims that intimacy happens in this world. On the other hand, the cautionary poems show that lapses occur in even the best relationships. The redemption of our intimate human relationships, indeed like the redemption of our relationships with God, is an already-not yet phenomenon.
+
+Indeed, one of the most remarked-upon features of the Song is the confident voice of the woman as she pursues relationship with the man. The man responds in kind, and it is fair to characterize their relationship as egalitarian. There is no power play between them, no domination of one against the other. This observation is particularly significant in light of our comments above about the curse on the woman. It is striking that the word "desire" (tesuga), which we discussed above in reference to Genesis 3:16 and 4:7, occurs only one more time - in Song of Songs 7:11 (English 7:10): "I belong to my lover, and his desire is for me." Here the use is clearly positive. It is also in a refrain of mutual love, affection, and possession.
+
+However, as will be pointed out later in reference to individual passages, not all is healed in the area of human relationships. A significant number of passages express the truth that problems of intimacy still exist in the world of the Song. Little foxes are "ruining our vineyard, our vineyard in bloom" (2:15). The city is often the setting of those poems where union is difficult or impossible (3:1-3; 5:2-7193). While rejoicing in love, three times (2:7; 3:5; 8:4) the young woman warns the chorus of the dangers of premature love: "I adjure you, daughters of Jerusalem, by the gazelles or the deer of the field, not to awaken or arouse love until it desires."
+
+In a word, relationships, broken by sin, may experience the healing of redemption, but it is an already-not yet phenomenon. The consummation of relationships will not take place until the eschaton, but precisely what that means is beyond precise description. Much that is relevant to this claim will be present in the next section, but here we will deal with one enigmatic passage that speaks of marriage in heaven, Luke 20:27-40. There Jesus is confronted by the Sadducees, who do not believe in resurrection after death. They use a hypothetical situation in an attempt to ridicule Jesus. They speak of a woman who at the end of her life had had seven husbands, each of whom had in turn predeceased her before producing offspring. To whom will she be married in heaven?
+
+Jesus' words are enigmatic in large part because he refused to allow the Sadducees to misdirect the conversation. The part relevant to our discussion is 20:34-36: "The people of this age marry and are given in marriage. But those who are considered worthy of taking part in that age and in the resurrection from the dead will neither marry nor be given in marriage, and they can no longer die; for they are like the angels." This passage has led too quickly to the conclusion that there is nothing like sexuality or intimacy in heaven. However, we must suspend our hasty judgments. We really do not know what the angels are like in this regard. 194 We must remain open as to the nature of relationships in heaven and not impose a cold, sterile, nonsensual understanding on the biblical text. What we do know is that both divine-human and human-human relationships will be healed and completely restored in heaven, and that brings us to our final point about the significance of the teaching of the Song of Songs.
+
+
+
+
+
+AS ILLUMINATING THE DIVINE-HUMAN RELATIONSHIP
+
+
+Earlier we criticized an allegorical approach to the Song that read a theological meaning onto the surface of the book, and in its place we argued support for the idea that the Song is a collection of poems that celebrate and caution concerning human love. However, we now come full circle in order to affirm the legitimacy of a theological reading of the book. Read within the context of the canon, the Song has a clear and obvious relevance to the divine-human relationship. After all, throughout the Bible God's relationship to humankind is likened to a marriage.195 In this metaphor God is the husband and his people are his wife. It is not that God is male or that there are no female images of God in the Bible (see Psalm 13 1; Proverbs 6-8; Isa. 66:13). In Israelite society the man was the head of the household, and thus, within the marriage metaphor, it is understandable that God is cast within the role of the husband, and humans, both male and female, play the female role.
+
+Indeed, we may start by noting that Malachi speaks of marriage as a covenant (Mal. 2:14), a relationship that is built on mutual love but finds expression in a legal form. Israel's relationship with God in the Old Testament is also covenantal, as witnessed in the books of Exodus (19-24) and Deuter onomy. Israel's breaking of its covenant with God is likened to the breaking of the marriage bond. Hosea may be the first to use this marriage metaphor when he describes the alienation between Israel and God as a break in their marriage vows. God commands the prophet to marry "an adulterous wife" (Hos. 1:2), and later Hosea commands his children to admonish her in a way that challenges the spiritual apostasy of the people of God:
+
+
+
+The prophet Ezekiel develops the metaphor of marriage as spiritual symbol to its greatest extent. He dedicates two long chapters to recounting the perversity of Israel's relationship to God using sexual terms. We will pass over Ezekiel 16 and illustrate the prophet's argument with Ezekiel 23. Ezekiel describes two sisters, identifying the first, Oholah, with Samaria and the second, Oholibah, with Jerusalem. These sisters became prostitutes in Egypt, where "their breasts were fondled and their virgin bosoms caressed" (Ezek. 23:3).
+
+God then complains that Oholah lusted after Assyrian soldiers even when he was still married to her (Ezek. 23:5-8). As a result, he simply gave her to them, and they humiliated her and then killed her (Ezek. 23:9-10). Oholibah did not learn a lesson from her sister's fate. She found herself attracted to the Babylonians. Her rejection of the marriage bed was intense, since "she lusted after her lovers whose genitals were like those of donkeys and whose emission was like that of horses" (Ezek. 23:20). In the end God will judge Oholibah, his unfaithful wife, as he did Oholah.
+
+Other prophets also exploit the resemblance of Israel's unfaithfulness to a broken marriage covenant. In Jeremiah, God remembers when his relationship with Israel was good, using these terms:
+
+
+
+Yet in the present, Israel commits spiritual adultery. Idolatry is adultery, as Jeremiah 3:6 makes clear: "Have you seen what faithless Israel has done? She has gone up on every high hill and under every spreading tree and has committed adultery there."
+
+Isaiah too makes the literary connection between idolatry and adul tery. God has divorced his wife Israel because of her adultery (Isa. 50:1). However, Isaiah also speaks of Israel's future salvation as a restoration of the marriage relationship.
+
+
+
+The prophets exploit the marriage metaphor most dramatically, but its contours can be discerned elsewhere in the Old Testament as well. In the Pentateuch we hear of Yahweh's jealousy, an emotion that is only proper to an exclusive relationship like marriage (Exod. 19:3-6; 20:2-6; 34:14). Also, Israel's rebellion is described as adultery and prostitution (Exod. 34:15-16; Lev. 17:7).
+
+The use of the marriage relationship as a metaphor of the relationship between God and his people continues in the New Testament. Most notably, Paul in the book of Ephesians instructs Christians that their connection with Christ is like a marriage (Eph. 5:21-33). Accordingly, wives should submit to their husbands as the Church submits to Christ, and husbands should love their wives with the sacrificial love that Christ has for the Church. 196
+
+The book of Revelation describes the end of history, when God will once and for all destroy all evil. His faithful people will be united with him forever in glory. It is not surprising, considering the development of the marriage metaphor up to this point in the Bible, that this final union between God and his people is described as a marriage:
+
+
+
+The allegorical approach was not wrong in insisting that we read the Song as relevant to our relationship to God. The more we understand about marriage, the more we understand about our relationship with God. More than any other human relationship marriage reflects the divine-human relationship. There are only two relationships that are mutually exclusive to humans. We may have only one spouse and only one God. Accordingly, these are the only two relationships where jealousy can be a positive emotion.197 The allegorical approach erred in two ways, however. First, allegorists suppressed the human love dimension of the Song, and, second, they pressed the details in arbitrary ways in order to elicit specific theological meaning from the text. 1 98
+
+
+
+
+
+CONCLUSION
+
+
+In summary, then, the Song of Songs has a large, but often neglected, contribution to make to the religious community and to society. In the first place, it affirms love, sex, and, if read properly within the context of the canon, marriage. Second, it warns readers that such an intense emotion has its dangers. Though the Song's surface meaning is clearly concerned with human sexuality, a canonical reading offers at least two other major avenues of understanding the Song. (1) Human sexuality is part of the story of the creation, fall, and redemption of human relationships. God created marriage (Genesis 2), but that relationship was harmed by sin (Genesis 3). Yet the Song holds out the promise of healing, though complete harmony in relationships awaits the eschaton. (2) Throughout the Bible relationship with God is described by the metaphor of marriage. As with any metaphor, the reader must observe a proper reticence in terms of pressing the analogy. Nonetheless, from the Song we learn about the emotional intensity, intimacy, and exclusivity of our relationship with the God of the universe.
+
+
+
+
+

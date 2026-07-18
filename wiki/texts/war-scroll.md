@@ -61,6 +61,20 @@ Extended prayers and hymns for the various phases:
 ### The Role of Michael
 The War Scroll identifies **Michael** (Prince of Light, Prince of Angels) as the heavenly commander of the Sons of Light, parallel to Belial commanding the Sons of Darkness. This confirms the angelic-war cosmology behind the Two Spirits doctrine.
 
+## Hermeneutical Framework
+
+The War Scroll is not a military manual but an **eschatological-liturgical reworking of biblical war traditions**. Vermes is explicit on the genre: "This work should not be mistaken for a manual of military warfare pure and simple. It is a theological writing, and the war of which it treats symbolizes the eternal struggle between the spirits of Light and Darkness."
+
+**Method — allusive reworking rather than citation.** Through the body of 1QM, scripture is absorbed rather than quoted. The trumpet and standard inscriptions recast military and administrative vocabulary in theological terms ("On the trumpets calling the congregation they shall write, *The Called of God*"), and the creation hymn of col. X rehearses Genesis primeval material — "of the confusion of tongues / and of the scattering of the peoples" — without any citation formula. The camp-purity regulations (the exclusion of the lame and blind, the latrine set "about two thousand cubits" from the camp) follow the pattern of Deuteronomic and Numbers camp legislation, but 1QM attaches no "as it is written" to them; whether this is legal derivation or independent composition is not stated in the source.
+
+**Source-critical dependence on Daniel.** Vermes locates the scroll's core in Daniel: "The primitive work, represented in the present composition by columns I and XV–XIX, draws its inspiration from Daniel xi, 40–xii, 3, and describes the final battle against the Kittim." This is Vermes's own reconstruction, not a claim the scroll makes about itself. He adds the qualification that "Scripture doubtless exercised a definite influence on the author of this Rule, but there is nevertheless a great deal of material completely foreign to it."
+
+**Self-referential textual authority.** The scroll grounds battle liturgy in its own written corpus rather than in scripture: the priest "shall recite aloud the Prayer in Time of War [written in the Book] of the Rule concerning this time... He shall marshal all the formations there, as is [written in the Book of War]." Authority here is communal and documentary.
+
+**Explicit pesher in the Book of War fragments.** The related Cave 4 material shifts method sharply, deploying formal citation-and-application. Fragment 4 quotes Ezekiel — "[which wa]s written [in the book of Ezekiel the Prophet, I will strike your bow from your left hand]" — and applies it to the Prince of the Congregation defeating the king of the Kittim. Fragment 7 quotes Isaiah 10:34–11:1 and identifies the "shoot from the stump of Jesse" with the sect's own figure: "the Branch of David... and the Prince of the Congregation, the Br[anch of David] will kill him." This is [[pesher|pesher]] proper — prophecy read as describing the community's own imminent future.
+
+See [[pesher]], [[kittim]], [[two-messiahs]].
+
 ## Relationship to Other Texts
 - **1QS / Two Spirits doctrine**: The War Scroll enacts the cosmic dualism of 1QS III–IV in military-eschatological form
 - **11Q13 (Melchizedek)**: Melchizedek (= Michael) presides over the final judgment; the War Scroll's Michael is the same heavenly commander

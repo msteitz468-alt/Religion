@@ -2,8 +2,8 @@
 title: Apocalyptic Literature
 domain: hermeneutics / biblical genre / eschatology
 traditions_using: [Judaism, Christianity]
-sources_ingested: 2
-last_updated: 2026-06-06
+sources_ingested: 5
+last_updated: 2026-07-18
 tags: [concept, apocalyptic, genre, daniel, revelation, eschatology, son-of-man, symbolic-imagery, prophecy]
 ---
 
@@ -108,7 +108,11 @@ The culminating NT apocalyptic text; extensively dependent on Daniel:
 
 ### Other Significant OT Apocalyptic Material
 
-- **Ezekiel 38-39** (Gog and Magog): Block calls this a "literary cartoon" — a visionary portrayal of ultimate cosmic evil defeated by God; its imagery is intentionally unreal
+- **Ezekiel 38-39** (Gog and Magog): Block calls this a "literary cartoon" — a visionary portrayal of ultimate cosmic evil defeated by God; its imagery is intentionally unreal. **Note**: in the full Vol. 2 commentary Block argues *against* classifying the oracle as apocalyptic at all — see the Block subsection below.
+
+### Block Against the Apocalyptic Classification of the Gog Oracle
+
+In [[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]], Block directly contests the genre label commonly attached to Ezek 38–39. He surveys the classification's history (from Hitzig; Cooke reading it as "apocalyptic, rising from unfulfilled prophecy"; Ahroni arguing from unrealistic style, cosmic dualism, and the number seven for a late date), then applies J. J. Collins's formal definition of apocalypse and concludes that "none of the revelatory features of apocalyptic [is] present"; the oracle "neither serves as a precursor to an ultimate eschatological salvation or a true consummation… **the apocalyptic approach to the Gog oracle should be abandoned**." Against Zimmerli and Fishbane (whom he quotes: "a national oracle has been expanded and has assumed apocalyptic significance"), Block argues (with Odell) that the question of 38:17 expects a *negative* answer — Gog is "in fact not 'the foe from the north' of whom Jeremiah had spoken… This oracle, therefore, is not about unfulfilled prophecy, but about earlier prophecies illegitimately appropriated." This stands in tension with this page's inclusion of Ezek 38–39 among "significant apocalyptic material" (a common scholarly framing retained above); both positions are recorded here per the Contradiction Protocol.
 - **Isaiah 24-27** (the "Isaiah Apocalypse"): cosmic judgment and restoration; "he will swallow up death forever"
 - **Zechariah 9-14**: night visions; cosmic warfare; the shepherd struck; "YHWH will be king over the whole earth"
 
@@ -191,6 +195,7 @@ prototype being the open question of [[zoroastrian-influence-on-abrahamic-eschat
 1. [[tremper-longman|Longman, Tremper, III]]. *Daniel*. NIV Application Commentary. Grand Rapids: Zondervan, 1999.
 2. [[grant-osborne|Osborne, Grant R.]]. *Revelation*. BECNT. Grand Rapids: Baker Academic, 2002.
 3. [[cohn-cosmos-chaos-and-the-world-to-come|Cohn, Norman]]. *Cosmos, Chaos and the World to Come*. 2nd ed. Yale University Press, 2001.
+4. [[block-ezekiel-25-48-nicot|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 25–48*. NICOT. Grand Rapids: Eerdmans, 1998 — Block's case against the apocalyptic classification of the Gog oracle (Ezek 38–39).
 
 ## Related Texts
 
@@ -202,3 +207,23 @@ prototype being the open question of [[zoroastrian-influence-on-abrahamic-eschat
 - [[jonah|Jonah]]
 - [[jude|The Letter of Jude]]
 - [[mark|Gospel of Mark]]
+
+## Dissent on the "Isaiah Apocalypse" Label (Oswalt, 1986)
+
+On Isa 24–27 Oswalt reports and endorses a scholarly retreat from the genre label: "there is
+now general agreement that the material is not truly apocalyptic, however that may be
+defined, but more correctly eschatological. The interest is not in triumph outside time but
+within time. Nor is the imagery of the arcane, numerological sort usually associated with
+apocalyptic." He likewise rejects Kaiser's "proto-apocalyptic" dating of 17:12–14 ("To
+exclude sweeping imagery from preexilic prophecy is a glaring example of a priori
+reasoning") and judges the Hanson/Millar thesis — chs. 24–27 (with 56–66) as
+proto-apocalyptic products of post-exilic party conflict, patterned on the Canaanite
+cosmic-warrior sequence — "only interesting" absent "a very large number of assumptions."
+He does note the trajectory material later apocalyptic develops: the imprisoned "host of the
+height" awaiting judgment (24:21–22; cf. 2 Pet 2:4) and patron-angels-of-nations ideas.
+This 1986 position should be read alongside this page's broader genre account, which counts
+Isa 24–27 among apocalyptic-adjacent texts — a recorded difference of scholarly
+classification, not an error on either side.
+
+Source: [[oswalt-isaiah-1-39-nicot|Oswalt, Isaiah 1–39 (NICOT)]] · [[isaiah|Isaiah]] ·
+[[day-of-the-lord|Day of the LORD]].

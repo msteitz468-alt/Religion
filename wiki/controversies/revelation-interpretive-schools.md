@@ -78,6 +78,21 @@ difference that Beale makes *idealism* primary and Osborne makes *futurism* prim
 beast, etc., as referring both to recurring church-age realities and to a final eschatological
 fulfillment).
 
+### Fidelity re-ingest densification (Introduction)
+
+From [[osborne-revelation-becnt|Osborne BECNT]] Introduction (raw ~973–1391; digest R1):
+
+- Against SBL-seminar **preterist consensus**, Osborne holds ancient apocalypses are "predominantly
+  futuristic" yet not exclusively so.
+- **Historicist** largely rejected: Western-history-only, must be reworked each era, "total absence
+  of any relevance for John or his original readers."
+- **Futurist subtypes:** dispensational (rapture, seven-year tribulation, national Israel focus,
+  more "literal" symbols) vs **classical premillennial** (single post-trib return; whole church
+  through tribulation; freer symbolism) — Osborne is the latter.
+- Saints in chs. 4–22 = believers of the final period; beast = final Antichrist; seals/trumpets/
+  bowls = final *lex talionis* judgments that also leave a last chance to repent; imagery drawn from
+  first-century Nero/Rome.
+
 ## Why It Matters
 
 The choice of school is the single largest determinant of what Revelation is taken to mean — whether
@@ -90,6 +105,7 @@ Apocalyptic Literature]].
 ## Key Links
 
 - [[revelation|The Revelation to John]] — the text page
+- [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest source
 - [[grant-osborne|Grant R. Osborne]] — source; eclectic-futurist
 - [[revelation-millennium|The Millennium (Revelation 20)]] — where the schools most visibly diverge
 - [[revelation-date-authorship|Revelation: Authorship and Date]] — the early/late date bears on preterism

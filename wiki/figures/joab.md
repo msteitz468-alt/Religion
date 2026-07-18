@@ -6,7 +6,7 @@ textual_sources: [2 Samuel 2–3; 10–14; 18–20; 24; 1 Kings 1–2; 1 Chronic
 dates: [10th century BCE (traditional); executed early in Solomon's reign]
 roles: [commander of David's army, royal enforcer, kingmaker, political assassin]
 sources_ingested: 1
-last_updated: 2026-06-09
+last_updated: 2026-07-18
 tags: [figure, judaism, christianity, old-testament, court-narrative, military]
 ---
 
@@ -65,3 +65,7 @@ Jewish and Christian tradition alike treat Joab as the type of the **over-mighty
 brilliant, loyal in his fashion, and lethally unscrupulous — whose service a ruler cannot do
 without and cannot finally tolerate. His killing of Amasa "in peace" became a stock example
 in moral and legal discussion of treacherous bloodshed.
+
+## Tsumura (NICOT 2 Samuel) — Fidelity Reingest Note (2026-07-18)
+
+[[david-tsumura|Tsumura]]: Abner blood-feud / *gōʾēl* issues; too useful for David to punish fully; kills Absalom against royal order; rebukes David’s grief (sit in the gate or lose the army); murders Amasa (// Abner); remains over the army in late officers list. Source: [[tsumura-2-samuel-nicot]].

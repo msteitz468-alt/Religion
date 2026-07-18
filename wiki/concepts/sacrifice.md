@@ -2,9 +2,9 @@
 title: Sacrifice
 domain: theology
 traditions_using: [Judaism, Christianity, Roman religion]
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [concept, theology, worship, christianity]
+sources_ingested: 2
+last_updated: 2026-07-18
+tags: [concept, theology, worship, christianity, judaism, kabbalah]
 ---
 
 # Sacrifice
@@ -48,6 +48,28 @@ The same argument excludes sacrifice to gods, demons, or angels — and refutes 
 **theurgy**, which claimed to purify the soul through ritual but in fact trafficked with deceiving
 demons. Sacrifice to demons (1 Cor. 10:20) is the false worship the [[plato|Platonists]] could not escape.
 
+## Bruckner (UBCS Exodus) — a theology of sacrifice from Exod 29 (reingest 2026-07-18)
+
+Attributed to [[james-bruckner|Bruckner]]; source page [[bruckner-exodus-ubcs|Bruckner, Exodus (UBCS)]].
+
+Commenting on the consecration sacrifices, Bruckner offers a four-fact account: God created shalom; sin shatters relationships ("People experienced this brokenness as anxiety and alienation"); restoration is costly ("Forgiving another, forgiving oneself, or seeking the forgiveness of another is costly. In sacrifice for sin, the lifeblood and the economic cost of the best animal... visibly and physically represented that cost"); and the animal fittingly represents that cost — "the people saw the alienation (the sin); absorbed the personal cost (sacrifice); and experienced the reality of the struggle for life against death (blood)." Sacrifice's gifts extend beyond atonement (protection, cleansing, fellowship meals, worship): "The elaborate sacrificial system was a means of conversing and living with a holy God." The daily *tamid* is "the foundation of the whole sacrificial system," yet "the lambs did not consecrate or hallow the place—God's own glory did that... God's grace both initiated the relationship and provided for its maintenance." Hand-laying means different things by offering type (transfer of sin; willing participation; dedication to service). He distinguishes Israel's practice from ANE feeding of gods ("The people did not feed God as in pagan sacrifices, rather God fed the people") and — in Christian register — draws the Hebrews trajectory ("In Christ, God became the perfect sacrifice") while noting that "the persistence of faithful Judaism beyond the destruction of two temples... makes clear the temporary nature of the sacrificial system, even for Israel."
+
+Cross-links: [[exodus|Exodus]] · [[aaron|Aaron]] · [[tabernacle|Tabernacle]] · [[passover|Passover]]
+
+## Zoharic / Kabbalistic Reading (Pritzker Vol. VII)
+
+*Source: [[matt-zohar-pritzker-vol7|Matt Pritzker Vol VII]] (standards reingest 2026-07-18). Body ~3:3b–80a. Complements Augustine’s *latreia* typology without equating systems.*
+
+- ***Qorban* as drawing near of crowns** ([5a]): not mere gift but binding of holy crowns to YHVH (Compassion), while *zivḥei Elohim* assuage Judgment on the north.
+- **Married *adam* only** ([5a]–[5b]): unmarried offering is no offering; Nadab/Abihu exemplify (see [[nadab-and-abihu|Nadab and Abihu]]).
+- **Ascent / Thought** ([5b]–[6a]): *olah* male, from Thought consummated at morning that sweetens the Female. Matt preface: *olah* as Shekhinah ascending to the blessed Holy One.
+- **Perpetual fire** (~3:27b): altar fire eliminates impure spirit — “fire consuming fire”; priest of the right arranges Judgment without being of Judgment.
+- **Incense supreme** (~3:59a): *qetoret* binds (*itqatar*) worship more than all offerings; offered “within, within, silently.”
+- **Yom Kippur goats** (~3:62b–64a): one for YHVH, one for Azazel; Accuser becomes Advocate; regulated Other Side portion so twin Judgment forces do not join.
+- **Torah vs sacrifice** (Shemini unit): one who studies Torah “has no need of sacrifices or ascent offerings, since Torah is more valuable than all” — portable theurgy continued in Vol. VIII.
+
+Cross-links: [[zohar|The Zohar]] · [[leviticus|Leviticus]] · [[aaron|Aaron]] · [[shekhinah|Shekhinah]] · [[holiness|Holiness]] · [[sitra-ahra|Sitra Aḥra]] · [[tabernacle|Tabernacle]]
+
 ## Related Pages
 
-[[augustine]] · [[city-of-god]] · [[two-cities]] · [[typology]] · [[porphyry]] · [[pietas]]
+[[augustine]] · [[city-of-god]] · [[two-cities]] · [[typology]] · [[porphyry]] · [[pietas]] · [[zohar]] · [[matt-zohar-pritzker-vol7|Matt Pritzker Vol VII]]

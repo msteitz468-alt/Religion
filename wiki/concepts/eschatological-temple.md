@@ -1,9 +1,9 @@
 ---
 title: The Eschatological Temple (The Church as God's Dwelling Place)
 domain: theology / ecclesiology / eschatology
-traditions_using: [Christianity — especially Pauline and Johannine; Second Temple Jewish background]
-sources_ingested: 3
-last_updated: 2026-06-06
+traditions_using: [Christianity — especially Pauline and Johannine; Second Temple Jewish background; Judaism]
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [concept, christianity, new-testament, pauline, johannine, ecclesiology, eschatology, temple]
 ---
 
@@ -21,6 +21,22 @@ Key trajectories:
 - **Haggai 2:7–9**: "I will fill this house with glory." The second temple disappoints; a greater filling is anticipated.
 - **Isaiah 66:1–2**: "Heaven is my throne and the earth is my footstool; what is the house that you would build for me?" — questioning the adequacy of any human structure to house God.
 - **Second Temple Judaism** developed the idea that the community of the faithful could constitute a "spiritual temple" — God's presence dwelling among the righteous few rather than in the stone building. 1QS 8–9 (the Dead Sea Scrolls, Community Rule) describes the Qumran community as a "holy house for Israel" and "a holy of holies for Aaron." This development primes Pauline usage.
+
+### Ezekiel 40–48 in Detail (Block, NICOT, ingest 2026-07-18)
+
+[[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]] provides the wiki's fullest treatment of Ezekiel's temple vision and its interpretation:
+
+**Ten interpretive factors.** Block prefaces chs. 40–48 by asking whether the block is "a visual riddle (ḥîdâ) or visual metaphorical speech (māšāl)," requiring "several different hermeneutical keys," and lists ten factors: genre (*marʾôt ʾĕlōhîm* linking 40:2 to 1:1 and 8:1 — the vision answers "the abuses exposed in chs. 8–11"); the Jubilee-marked date; the tripartite structure (40:3–43:27 / 44:1–46:24 / 47:1–48:35) paralleling the Mosaic Torah; the relationship to Priestly legislation (seven parallels including the kābôd entering the sanctuary, Exod 40:34–38 // Ezek 43:1–9, alongside a table of discrepancies — Zadokite vs Aaronic priesthood, no ark, no lampstand, no table of the bread of the Presence — that "challenge the fundamental prophetic law of noncontradiction"); and stylized, "highly contrived" features (perfect square city, multiples of five/twenty-five, land division "disregard[ing] topographic and historical realities") "casting doubt on any interpretation that expects a literal fulfillment."
+
+**Not a blueprint.** Against literalist readings Block argues: "contrary to popular opinion, the description of the temple is not presented as a blueprint for some future building… Nowhere is anyone commanded to build it. The man with the measuring line takes Ezekiel on a tour of an existing structure already made"; the dimensions are "exclusively horizontal measurements." Ezekiel is "unconcerned about the accoutrements and furniture… His interest is in the design of sacred space, not the objects that fill up that space."
+
+**Block's "ideational" reading.** His own position: "it seems best to interpret chs. 40–48 ideationally. The issue for the prophet is not physical geography but spiritual realities" (analogous to the dry bones, "not a prophecy of literal individual resurrection"). Summary formula: **"Where God is, there is Zion."** He draws the Christian trajectory explicitly: "Ezekiel hereby lays the foundation for the Pauline spiritualization of the temple… (1 Cor. 3:16–17)… individual Christians become temples (1 Cor. 6:19)" — converging with the Pauline development below.
+
+**Graded holiness.** Block synthesizes the tour as "modified concentric gradations of sanctity" in seven rings (holy of holies → Zadokite priests → Levites → laity → temple mount → land of Israel → world), each ring functioning like "altitude markers on a relief map," with an east-west "central spine of sacrality." The perimeter wall protects "the sanctity of the sacred area from the pollution of common touch and to prevent the contagion of holiness from touching the people"; priestly vestments are left in the sacristies "to prevent them from transmitting holiness to the people." The "Torah of the temple" (43:12) marks the whole summit as *qōdeš qodšîm*, "distinctively holy," with "extreme measures… to prevent the contagion of impurity inside and the contagion of holiness outside."
+
+**Reception.** As a restoration program the vision historically failed, Block notes: "the land was never divided among the tribes… and most seriously of all, the kābôd of Yahweh failed to return (cf. Hag. 2:3–9)." The Qumran [[temple-scroll|Temple Scroll]] "displays numerous connections with Ezekiel" though its blueprint "go[es] its own way for the most part"; Rev 21–22 shows eight itemized links (high mountain, new Jerusalem, glory in the city, measuring interpreter, twelve gates, river of life…), yet "the major divergences in detail point to two different fulfillments" — "John appears to have taken an earlier motif and adapted it for his own purposes."
+
+**The river of life (47:1–12).** Block's excursus "The Afterlife of Ezekiel's Life-Giving River" traces the motif from Eden (Gen 2:10–14) merged with Zion theology, through Joel 4:17–18, Zech 14, the Temple Scroll, Letter of Aristeas, and rabbinic midrash, into John 7:38 and Rev 22:1–2 ("the Ezekielian connection… is obvious"); he tabulates Theodoret's patristic allegory (river = the grace of Christ; the four measurements = the four evangelists; the salt pools = lukewarm Christians), alongside Polychronius, Ephraem, and Jerome. Theologically, Rev 22:3 ("No longer will there be any curse") is "an interpretation of the river of life that is in perfect keeping with the historical interpretation of this text," and the church becomes "the new temple of God… agent of life and renewal" (1 Cor 3:16; Rom 8:18–25).
 
 ## Pauline Development
 
@@ -98,7 +114,11 @@ The NT temple-church concept does not simply replace the Jerusalem temple withou
 - [[new-covenant|New Covenant]] — Ezek 36:27 promises the Spirit within as the new-covenant reality; 1 Cor 3:16 fulfills this
 - [[passover|Passover]] — 1 Cor 5:6–8 uses Passover imagery for community purification
 - [[revelation|The Revelation to John]] — Rev 21:22: the New Jerusalem as the Holy of Holies, with no temple but God and the Lamb
+- [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest; cube-city = Holy of Holies; no temple (21:22)
 - [[grant-osborne|Grant R. Osborne]] — source for the New Jerusalem consummation of the temple theme
+- [[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]] — source for Ezekiel 40–48: ideational reading, graded holiness, river of life, Temple Scroll and Rev 21–22 reception
+- [[ezekiel|Ezekiel]] — the temple vision (chs. 40–48)
+- [[temple-scroll|Temple Scroll]] — Qumran's Ezekiel-connected temple blueprint
 
 ## Related Texts
 

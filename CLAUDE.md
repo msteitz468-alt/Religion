@@ -12,16 +12,90 @@ all files are markdown. Raw sources live in `raw/`; the wiki in `wiki/`. **Never
 *content* of files in `raw/`** (relocating them into typed subfolders is permitted — see
 ingest Step 7).
 
+Two root-level trackers serve different roles and **both must be updated on every ingest**:
+- **`outstanding sources.md`** — the user's **working roadmap** (curated wish-list). When a
+  listed work is ingested, mark its line item with ✅ and the ingest date. Partial ingests use
+  ⚠️. Missing this mark is a bookkeeping defect — same severity as skipping the `log.md` entry.
+- **`sources-ingested.md`** — the on-disk acquisition/ingest ledger (what has been filed and
+  when). Mark completed scopes there too. If the file is missing, create or extend it rather
+  than skip the mark.
+
 ---
 
 ## Task-Observer Activation (mandatory)
 
-At the start of any task-oriented session (ingest, lint, query, any tool-using work), invoke
-the `task-observer` (`one-skill-to-rule-them-all`) skill **before** reading source content or
-beginning work. It captures skill-improvement observations and runs the session-start
-protocol (weekly-review check, observation log). When loading any skill, also check
-`skill-observations/log.md` for OPEN observations relevant to the work and apply their insight
-even if the skill file isn't yet updated.
+**Main agent / orchestrating session only.** At the start of any task-oriented session
+(ingest, lint, query, any tool-using work), the **main agent** invokes the `task-observer`
+(`one-skill-to-rule-them-all`) skill **before** reading source content or beginning work. It
+captures skill-improvement observations and runs the session-start protocol (weekly-review
+check, observation log). When loading any skill, also check `skill-observations/log.md` for
+OPEN observations relevant to the work and apply their insight even if the skill file isn't
+yet updated.
+
+**Subagents must not run task-observer.** Extraction, integration, and other scoped child
+agents skip task-observer and all session-start skill protocols unless the user explicitly
+asks that child to improve a skill. Put this negative instruction in every
+extractor/integrator prompt — inherited CLAUDE.md activation is not a license for children to
+re-enter the meta-skill stack (it burns turns and can stall claims files).
+
+---
+
+## Core Design Principles
+
+- **Commentary is a network of readings, not a tree of doctrines.** Every substantive claim
+  sits at the intersection of *text*, *reader*, *method*, and *community*. Links must preserve
+  those dimensions — topical similarity alone does not justify a link.
+- **Canonicity is a relation, not a property.** A text is canonical *for* a community. Always
+  record standing via `canon_scope` (and body **Canon and Reception**); never flatten conflicting
+  valuations across communities.
+- **Hermeneutics is first-class content.** *How* a text is read belongs alongside *what* it is
+  taken to say. Methods (PaRDeS, Quadriga, tafsir, etc.) are tracked on every text, commentator,
+  tradition, and sect page — the domain analogue of methods-as-first-class in the social sciences.
+- **Never collapse tradition-specific reception into wiki voice.** Jewish, Christian, Islamic,
+  critical, and confessional readings stay attributed and separable. Promotion to bare wiki voice
+  is an editorial event, not a default (see Voice and Attribution Protocol).
+- **Pseudepigraphy and traditional attribution both stay on the page.** Record traditional
+  claims and critical reconstructions as positions (Contradiction Protocol); do not silently
+  overwrite one with the other.
+- **Primary text, apparatus, and modern framing are three evidence classes.** Do not attribute
+  a translator's introduction, footnotes, or a scholarly essay as "the Zohar" / "the Qur'an."
+  Separate registers and cite each class honestly.
+- **File lean, but complete.** Extend a central page before creating a new one; create a page
+  only when the subject warrants it; de-link tangential mentions rather than spawning stubs.
+  When you do create or update, write **complete content** (required sections filled), not stubs
+  to be finished later.
+- **The collection has a known bias.** Strong coverage includes Christian systematics and
+  patristics, large stretches of Jewish rationalism and mysticism (Guide, Zohar/Pritzker),
+  selected Islamic, Buddhist, and Sikh material, and assorted comparative sources. Weaker or
+  thinner areas include large parts of Hindu primary epic literature, African and Indigenous
+  traditions, and many post-classical Islamic tafsir corpora. Flag bias and gaps on tradition
+  overviews and in `overview.md`; write only what the sources support.
+
+---
+
+## Voice and Attribution Protocol — Mandatory
+
+Every claim in the wiki is written in exactly one register. Choosing the wrong register is
+this wiki's equivalent of stating theory as fact.
+
+| Register | Use for | Form |
+|---|---|---|
+| **Wiki voice** | Brute descriptive facts established independently of any single contested reading: print dates, MS counts a source reports, verse references, that a council met, that a page exists in Mantua 1558 | plain declarative prose |
+| **Attributed to text** | Claims *of* a primary work as *the work says* | "In Zohar 1:15a (Pritzker I)…", "Qur'an 4:157 states…" |
+| **Attributed to commentator / translator / scholar** | Any interpretive, theosophical, or critical claim from a named reader | "Matt reconstructs…", "Green frames…", "Scholem argued…", "Rashi reads…" |
+| **Attributed to tradition** | Communal reception, piety, or normative practice | "In Lurianic reception…", "In Ḥaredi piety…", "Among Twelver Shiʿa…" |
+| **Position recording** | Live disputes (authorship, dating, canonicity, doctrine) | each position in its strongest form on a `controversies/` page; no adjudication in wiki voice |
+
+**Rules of thumb:**
+- A claim that would be *revised if one book or one reading were refuted* is attributed.
+- A claim that names a mechanism, meaning, or theosophical structure (not just a citation) is
+  attributed.
+- Concept pages state core claims in attributed voice even on the concept's own page when they
+  derive from a single source or school.
+- Promotion from attributed to wiki voice requires documented multi-source or multi-tradition
+  convergence — note the basis.
+- **Never** present background knowledge, a textbook summary, a familiar term, or an inference
+  as the source's own content (see Scope & Fidelity §4).
 
 ---
 
@@ -33,11 +107,15 @@ raw/                        # Immutable source documents (content never modified
   commentaries/             # Commentary works
   scholarship/              # Academic papers, books, articles
   assets/                   # Images, diagrams, manuscript photos
+  misc/                     # Uncategorized / software / non-ingest items
 
 wiki/                       # LLM-maintained knowledge base
   index.md                  # Master index — updated on every ingest
   log.md                    # Append-only ingestion and query log
-  overview.md               # High-level synthesis of current scope
+  overview.md               # High-level synthesis + coverage/gap register
+
+  sources/                  # One summary page per ingested source (preferred home)
+  scholarship/              # Legacy / overflow source pages (same schema as sources/)
 
   texts/                    # One page per primary text or pericope
   commentators/             # One page per named commentator or school
@@ -51,13 +129,61 @@ wiki/                       # LLM-maintained knowledge base
       sects/[sect].md       #   Sect/denomination/sub-tradition pages
   comparisons/              # Cross-text, cross-tradition comparison pages
   controversies/            # Disputed interpretations and unresolved tensions
-  timelines/                # Chronological hub pages (per-tradition, the master comparative timeline, thematic hubs)
+  timelines/                # Chronological hubs (per-tradition, comparative, thematic)
   queries/                  # Filed answers to significant questions
+
+  hubs/                     # High-resolution special sections (see Hubs)
+    texts/                  # Graduate-level deep analyses of major works
+    commentators/           # Graduate-level intellectual biographies
+    schools/                # Sustained systems beyond slim sect stubs
 ```
+
+**Source pages:** prefer `wiki/sources/[slug].md` for new ingests. Existing pages under
+`wiki/scholarship/` remain valid; do not duplicate a source under both paths. Resolve by
+grep for author+title before creating.
 
 ---
 
 ## Page Types and Formats
+
+Each page type's frontmatter schema is below. Fill **all** fields; use `[[unknown]]` or
+explicit empty lists where genuinely unclear — never leave mandatory fields blank silently.
+
+### Source Page (`wiki/sources/` or `wiki/scholarship/`)
+One page per ingested source. **Required for every ingest.**
+
+```yaml
+---
+title: [Source Title]
+author: []
+year: [publication year]
+source_type: [primary-text | primary-text-edition | commentary | scholarship |
+              polemic | reference | textbook | mixed]
+tradition_coverage: []         # tradition/sect slugs
+texts_covered: []              # text page slugs
+hermeneutical_approach: []     # e.g. sod, peshat, historical-critical, quadriga
+language_of_source: [English / …]
+reliability_notes: []          # conversion issues, missing folios, partisan character, …
+pages_created: [count]
+pages_updated: [count]
+ingested: [YYYY-MM-DD]
+tags: [source]
+---
+```
+
+Required body sections:
+- **What the source is** (genre, edition, translator/annotator)
+- **Scope plan** (ordered bounded scopes; for large works, the Section Plan table)
+- **Coverage ledger** (what was read, line/page ranges, excluded apparatus with reason)
+- **Hermeneutical frame** (how *this* work reads its material; separate body vs apparatus vs intro)
+- **Pages generated / extended**
+- **Volume / work synthesis** (3–5 paragraphs after a complete scope or multi-scope plan:
+  overall argument, what it adds to the wiki, tensions with already-ingested sources;
+  **do not back-project later volumes**)
+- **Key links**
+
+`source_type: polemic` triggers artifact-mode discipline: heavy `reliability_notes`; main
+thread owns all live wiki writes; extracts split into FACTS / THESES / QUOTES.
 
 ### Text Page (`wiki/texts/`)
 Primary texts, books, pericopes, suras, suttas, etc.
@@ -68,11 +194,11 @@ title: [Text Name]
 tradition: [Judaism / Christianity / Islam / Buddhism / Hinduism / etc.]
 canon_status: [headline only — canonical / deuterocanonical / contested / sectarian / non-canonical]
 canon_scope:                 # which traditions/sects treat this text HOW (entries are page slugs)
-  canonical_for: []          #   full scriptural canon
-  deuterocanonical_for: []   #   secondary / graded / disputed-but-included
-  authoritative_for: []      #   cited (liturgy, doctrine, halacha) but NOT scripture
-  disputed_by: []            #   canonicity actively contested
-  rejected_by: []            #   explicitly excluded / condemned
+  canonical_for: []
+  deuterocanonical_for: []
+  authoritative_for: []
+  disputed_by: []
+  rejected_by: []
 language_original: [Hebrew / Greek / Arabic / Sanskrit / Pali / etc.]
 date_range: [approx composition date or range]
 sources_ingested: [count]
@@ -81,23 +207,26 @@ tags: [text, tradition-name, genre]
 ---
 ```
 
-Body: textual overview, major themes, narrative summary/structure, manuscript tradition
-notes, key interpretive cruxes (verses generating the most disagreement), links to
-commentator pages.
+**Required body sections:**
+- **Textual Overview** (what it is; structure)
+- **Major Themes / Narrative Summary**
+- **Textual and Manuscript Tradition** (how the text was transmitted; print history where relevant)
+- **Hermeneutical Frameworks** (how communities and this wiki's sources read it — see Hermeneutical Tracking)
+- **Canon and Reception** (required whenever non-trivial; recommended always for major texts)
+- **Scholarship and Historiography** (dating, authorship, major scholarly positions — *as positions*)
+- **Key interpretive cruxes**
+- **Links** to commentator, concept, controversy pages
 
 **`canon_scope` is required.** Canonicity is a *relation* between text and community, not a
 property of the text. Each bucket entry is the slug of a tradition (`christianity`) or sect
 (`sethian-gnosticism`). The same text routinely appears in several buckets at once.
-`canon_status` is only a coarse one-word headline derived from `canon_scope`. Include a
-**Canon and Reception** body section narrating the split wherever non-trivial. Examples:
+`canon_status` is only a coarse one-word headline derived from `canon_scope`. Examples:
 - **Gospel of Thomas** — `canonical_for: [thomasine-christianity]`; `rejected_by:
   [proto-orthodox-christianity, catholicism, eastern-orthodoxy, protestantism]`; `disputed_by:
-  [coptic-christianity]`. Not merely "apocryphal" — canonical for some, rejected by others.
-- **Book of Mormon** — `canonical_for: [latter-day-saints]`; `deuterocanonical_for:
-  [<Restoration-movement sects>]`; `rejected_by: [catholicism, eastern-orthodoxy,
-  protestantism, …]`. Its claim to *continue the biblical narrative* is a **reception fact in
-  the body** ("Relationship to the parent canon"), not a bucket — buckets record canonical
-  *standing* per community.
+  [coptic-christianity]`.
+- **Book of Mormon** — `canonical_for: [latter-day-saints]`; `rejected_by: [catholicism,
+  eastern-orthodoxy, protestantism, …]`. Narrative continuity claims are **reception facts in
+  the body**, not buckets.
 
 ### Commentator Page (`wiki/commentators/`)
 Individual commentators, schools, or movements.
@@ -110,15 +239,16 @@ dates: [birth–death or floruit]
 tradition: []
 affiliation: []
 primary_texts_commented: []
+hermeneutical_method: []
 sources_ingested: [count]
 last_updated: [YYYY-MM-DD]
 tags: [commentator, tradition-name]
 ---
 ```
 
-Body: biographical context; hermeneutical method (literal/allegorical/moral/anagogical;
-peshat/derash/remez/sod; etc.); major works; characteristic positions; known controversies;
-influence on later tradition.
+Body: biographical context; **hermeneutical method** (literal/allegorical/moral/anagogical;
+peshat/derash/remez/sod; etc.); major works; characteristic positions (attributed); known
+controversies; influence on later tradition; **Sources Ingested**.
 
 ### Figure Page (`wiki/figures/`)
 Major biblical/religious/historical figures who appear in or are subjects of the texts —
@@ -135,9 +265,9 @@ narrative, not purely doctrinal). Figures who are also commentators (Maimonides,
 title: [Figure Name]
 also_known_as: [aliases, titles, epithets — e.g. "Israel", "the Apostle", "Rambam"]
 tradition: [Judaism / Christianity / Islam / cross-tradition / etc.]
-textual_sources: []   # primary texts where the figure appears
+textual_sources: []
 dates: [historical / traditional / floruit / "legendary" / "disputed"]
-roles: []   # patriarch, prophet, apostle, king, priest, judge, founder, …
+roles: []
 sources_ingested: [count]
 last_updated: [YYYY-MM-DD]
 tags: [figure, tradition-name, role-type]
@@ -145,190 +275,135 @@ tags: [figure, tradition-name, role-type]
 ```
 
 Body sections:
-- **Biographical Overview**: attested biographical data (birth, family, events, death) from
-  primary sources. Distinguish textual claims from historical-critical reconstruction; flag
-  disputed dates/locations/events rather than presenting one tradition as fact.
-- **Primary Source Appearances**: which texts feature the figure and in what capacity; key
-  pericopes with a one-line summary of each contribution.
+- **Biographical Overview**: attested biographical data from primary sources. Distinguish
+  textual claims from historical-critical reconstruction; flag disputes rather than presenting
+  one tradition as fact.
+- **Primary Source Appearances**: which texts feature the figure; key pericopes with one-line
+  summaries.
 - **Tradition-Specific Reception** (core): how each tradition interprets/develops/contests the
-  figure, recorded separately (Jewish, Christian, Islamic, Samaritan, …). Per tradition: the
-  primary authoritative source, the dominant interpretive move, intra-tradition disputes.
-- **Theological and Narrative Significance**: typological/narrative/doctrinal role.
-- **Historicity and Interpretive Controversies**: disputes over existence, dating, identity,
-  actions — record positions without adjudicating.
-- **Influence on Commentary Traditions**: which commentators made the figure central, and how
-  (allegorical and literal-historical uses).
+  figure, recorded separately. Per tradition: primary authoritative source, dominant
+  interpretive move, intra-tradition disputes.
+- **Theological and Narrative Significance**
+- **Historicity and Interpretive Controversies** — positions without adjudication
+- **Influence on Commentary Traditions**
 
 ### Group Page (`wiki/groups/`)
 Peoples, tribes, nations, ethnic groups, religious parties, social classes, and collective
-identities acting as actors/foils (Canaanites, Philistines, "the nations/Gentiles", Pharisees,
-Sadducees, Samaritans, the twelve tribes, "the poor").
+identities acting as actors/foils.
 
 **Scope rule**: create when the collective is (a) a corporate actor in one+ primary texts, (b)
 subject of substantial commentary/typology/identity construction, and (c) not better handled
-as a concept. Overlapping cases ("Israel" as both people and concept) may warrant both a
-group and a concept page, cross-linked.
+as a concept. Overlapping cases ("Israel" as people and concept) may warrant both pages,
+cross-linked.
 
 ```yaml
 ---
 title: [Group Name]
-also_known_as: [aliases, self-designations, outsider labels — e.g. "Gentiles / Goyim / Ta ethne"]
+also_known_as: []
 tradition: [Judaism / Christianity / Islam / cross-tradition / etc.]
-textual_sources: []   # primary texts where the group features
-periods_active: [e.g. "Late Bronze–Iron I", "Second Temple / 1st c. CE"]
-roles_significance: []  # antagonists, covenant people, model outsiders, heretics, mission field, …
+textual_sources: []
+periods_active: []
+roles_significance: []
 sources_ingested: [count]
 last_updated: [YYYY-MM-DD]
 tags: [group, tradition-name, category-or-period]
 ---
 ```
 
-Body sections:
-- **Identity and Nomenclature**: etymology/meaning of name(s); self-designation vs. outsider
-  labels; terminology shifts across periods/languages; pejorative or honorific usage.
-- **Primary Textual Appearances**: key passages/arcs where the group is a collective
-  character; one-line summary of each (positive/negative/ambiguous/typological).
-- **Tradition-Specific Portraits**: how each tradition interprets/allegorizes/historicizes/
-  deploys the group (separately per Jewish, Christian, Islamic, …): canonical sources used,
-  main interpretive lens, intra-tradition disagreements.
-- **Historical and Archaeological Context**: extra-biblical evidence (inscriptions, material
-  culture, ANE parallels); debates over identification/origins/historicity; distinguish
-  textual claims from critical reconstruction unless the source adjudicates.
-- **Theological and Narrative Significance**: role in the text's architecture (corporate
-  personality, foil, object of judgment/mercy, paradigm of faith/apostasy, mission vehicle).
-- **Influence on Later Traditions and Controversies**: use in exegesis, preaching, liturgy,
-  politics, polemic. Flag sensitive/contested modern deployments ("Amalek", conquest ethics,
-  "Pharisee" as epithet) and link resulting controversies pages.
+Body sections: **Identity and Nomenclature** · **Primary Textual Appearances** ·
+**Tradition-Specific Portraits** · **Historical and Archaeological Context** ·
+**Theological and Narrative Significance** · **Influence on Later Traditions and Controversies**
+(flag sensitive modern deployments and link controversy pages).
 
 ### Location Page (`wiki/locations/`)
-Places — cities, regions, mountains, rivers, kingdoms, cult sites — carrying sustained
-narrative, theological, or pilgrimage significance. **Must** address historical inhabitants
-("who lived there when") and modern geographic identification.
+Places carrying sustained narrative, theological, or pilgrimage significance. **Must** address
+historical inhabitants and modern geographic identification.
 
-**Scope rule**: create when a place is (a) named with narrative/symbolic weight, (b) the
-setting of significant events/figures/cult, and (c) the object of later interpretive/
-devotional tradition (Jerusalem/Zion, Babylon, Mount Sinai, Galilee, the Jordan, Rome,
-Shechem, Nineveh, the Temple Mount). Minor/incidental place names need no page.
+**Scope rule**: create when a place is (a) named with narrative/symbolic weight, (b) setting of
+significant events/figures/cult, and (c) object of later interpretive/devotional tradition.
+Minor/incidental place names need no page.
 
 ```yaml
 ---
 title: [Location Name]
-also_known_as: [modern + ancient names, tell/site designations — e.g. "Tell es-Sultan (Jericho)"]
+also_known_as: []
 tradition: [Judaism / Christianity / Islam / cross-tradition / etc.]
-textual_sources: []   # primary texts where the location is prominent
-periods_inhabited: [settlement history, e.g. "Chalcolithic–present; major phases: EB, Iron Age, Persian, …"]
-modern_geography: [current location, nearest settlement, coordinates, terrain — e.g. "Tell es-Sultan, West Bank, ~2 km NW of Jericho; Jordan Rift Valley, ~250 m below sea level; 31.870°N 35.444°E"]
-associated_peoples: []  # key groups who controlled/inhabited the site, with dates
+textual_sources: []
+periods_inhabited: []
+modern_geography: []
+associated_peoples: []
 sources_ingested: [count]
 last_updated: [YYYY-MM-DD]
 tags: [location, tradition-name, site-type]
 ---
 ```
 
-Body sections:
-- **Geographical and Historical Overview**: physical setting, strategic/economic importance,
-  settlement/political/nomenclature changes over time; separate periods; note major
-  destructions/rebuilds/abandonments.
-- **Primary Textual Appearances and Inhabitants**: which texts feature the place and why; for
-  each period/stratum, who lived there or controlled it (e.g. "Jebusites until David; Judahite
-  capital thereafter; … Roman Aelia Capitolina after 135 CE").
-- **Archaeological and Extra-Biblical Data**: excavations, key finds, how they relate to or
-  challenge the textual portrait; identification debates ("which mound is Ai?").
-- **Modern Identification and Geography**: how the site is identified today; current name(s),
-  political status, accessibility, identification disputes — enough to locate it on a map.
-- **Theological and Symbolic Significance**: why it matters per tradition (Zion theology,
-  exile/return, pilgrimage, "holy land", eschatological geography; al-Quds and the Night
-  Journey; Christian holy sites; Temple Mount/Western Wall piety).
-- **Key Events, Figures, and Controversies**: major events/figures tied to the site; later
-  interpretive/political controversies (sacred-space claims, Golgotha location, Temple Mount /
-  Haram al-Sharif status).
+Body sections: **Geographical and Historical Overview** · **Primary Textual Appearances and
+Inhabitants** · **Archaeological and Extra-Biblical Data** · **Modern Identification and
+Geography** · **Theological and Symbolic Significance** · **Key Events, Figures, and Controversies**.
 
 ### Tradition Page (`wiki/traditions/[tradition]/[tradition].md`)
-A top-level religion (Judaism, Christianity, Islam, Buddhism, Hinduism, Daoism, …). One
-overview page per tradition, at the root of its subdirectory; the parent node for its `sects/`
-pages and home of the shared/mainstream canon.
+A top-level religion. One overview page per tradition; parent node for its `sects/` pages.
 
 ```yaml
 ---
 title: [Tradition Name]
 also_known_as: []
 type: tradition
-date_range: [origin to present / floruit]
-canon_core: []                 # texts canonical for the tradition broadly — text page slugs
-hermeneutical_frameworks: []   # native interpretive systems (PaRDeS, the Quadriga, Zahir/Batin, …)
-major_sects: []                # slugs of the sect pages nested under this tradition
+date_range: []
+canon_core: []
+hermeneutical_frameworks: []
+major_sects: []
+collection_coverage: [strong / moderate / weak / absent / unaudited]
 sources_ingested: [count]
 last_updated: [YYYY-MM-DD]
 tags: [tradition, tradition-name]
 ---
 ```
 
-Body: definition/self-understanding; historical origin and development; the shared canon and
-how canonical authority works; native hermeneutical frameworks; a **map of major sects** (one
-linked line each); cross-links to the most central figures, groups, concepts, controversies.
+Body: definition/self-understanding; historical origin and development; shared canon and
+canonical authority; native hermeneutical frameworks; **map of major sects**; central figures,
+groups, concepts, controversies; **Collection Coverage Note** (bias and gaps).
 
-**Non-theistic / multi-canon traditions**: a tradition need not be theistic (Buddhism) or have
-a single canon. Where parallel canons share no common ancestor text (Pali Canon vs. Mahayana
-sutras vs. Vajrayana tantras), keep `canon_core` minimal (only what is genuinely shared) and
-carry divergent canons at the **sect level** (`canon_distinctives` / `key_texts`). For
-non-theistic traditions, record the tradition's own account of ultimate reality (*nirvana*,
-*dao*) rather than forcing a deity slot; "doctrine"/soteriological goal replaces "theology
-proper".
+**Non-theistic / multi-canon traditions**: keep `canon_core` minimal (only what is genuinely
+shared); carry divergent canons at the sect level. Record the tradition's own account of
+ultimate reality rather than forcing a deity slot.
 
 ### Sect / Denomination Page (`wiki/traditions/[tradition]/sects/[sect].md`)
-A sub-tradition, denomination, sect, movement, school, or lineage *within* a parent tradition
-(Gnosticism, Marcionism, Catharism, Rabbinic Judaism, Karaism, Kabbalah, Latter-day Saints,
-Sunni/Shia, Theravada/Mahayana/Vajrayana, Zen). A **first-class page type** with its own canon,
-hermeneutical rules, and relationship to the parent and to "orthodoxy".
+A sub-tradition within a parent. First-class page with its own canon, hermeneutics, and
+relationship to orthodoxy.
 
-**Scope rule**: create when a sub-tradition (a) is a distinct religious community/school within
-a parent, (b) has a canon/doctrine/hermeneutic diverging from parent or siblings, and (c)
-generates sustained commentary/identity/polemic.
+**Scope rule**: create when (a) distinct community/school within a parent, (b) canon/doctrine/
+hermeneutic diverging from parent or siblings, and (c) generates sustained commentary/identity/
+polemic.
 
-A sect page is **not** a duplicate of a `groups/` page. Where a group page exists for the same
-community ([[gnostics]], [[marcionites]], [[ebionites]], [[montanists]]), keep both and
-cross-link: the **group page** = community as social/historical actor; the **sect page** =
-sub-tradition as a *system* (canon, doctrine, hermeneutics, relationship to orthodoxy).
+Not a duplicate of a `groups/` page: group = social/historical actor; sect = system (canon,
+doctrine, hermeneutics). Where both apply, keep both and cross-link.
 
 ```yaml
 ---
 title: [Sect / Denomination Name]
 also_known_as: []
-parent_tradition: [slug of parent tradition — e.g. christianity]
+parent_tradition: [slug]
 type: [denomination / sect / movement / school / lineage / normative stream]
-dates: [emergence–present / floruit / "extinct (dates)"]
+dates: []
 status: [extant / extinct / revived]
-relationship_to_orthodoxy: [normative / heterodox / heretical (by whom) / schismatic / independent / self-understood-restoration]
-canon_distinctives: []          # texts added/removed/re-ranked/rejected vs. parent — text page slugs
+relationship_to_orthodoxy: []
+canon_distinctives: []
 key_doctrinal_distinctives: []
 hermeneutical_method: []
 key_figures: []
-key_texts: []                   # text page slugs central to the sect
+key_texts: []
 sources_ingested: [count]
 last_updated: [YYYY-MM-DD]
 tags: [sect, parent-tradition-name]
 ---
 ```
 
-Body sections:
-- **Identity and Origins**: what it is, when/where it emerged, out of what parent or prior
-  sect; self-designation vs. outsider labels.
-- **Relationship to the Parent Tradition**: what it inherits/shares; precise points of
-  departure; whether it sees itself as reform, restoration, purification, continuation, or new
-  revelation.
-- **Canon and Scripture (Canon Divergence)** (core, required): how the sect's canon differs
-  from the parent's — texts added, removed/demoted, re-ranked, reinterpreted. Every text the
-  sect treats distinctively appears here **and** lists this sect in the right `canon_scope`
-  bucket on its own text page. Flag any text whose status differs from the parent.
-- **Doctrinal Distinctives**: theological positions defining the sect against parent/siblings.
-- **Hermeneutical Method** (mandatory, per Hermeneutical Tracking): how it reads its scriptures
-  and the parent's — native rules, esoteric/exoteric layering, authoritative interpreters.
-- **Relationship to Orthodoxy and Other Sects**: who regards it as normative/heterodox/
-  heretical and on what grounds, *without adjudication* (Contradiction Protocol), with each
-  judgment's tradition context. Document mutual condemnations from both sides.
-- **Historical Development, Subdivisions, and Influence**: internal schools/offshoots, later
-  history, suppression/survival, influence on parent and beyond.
-- **Sources Ingested**.
+Body sections: **Identity and Origins** · **Relationship to the Parent Tradition** ·
+**Canon and Scripture (Canon Divergence)** (required) · **Doctrinal Distinctives** ·
+**Hermeneutical Method** (mandatory) · **Relationship to Orthodoxy and Other Sects** (no
+adjudication) · **Historical Development, Subdivisions, and Influence** · **Sources Ingested**.
 
 ### Concept Page (`wiki/concepts/`)
 Theological constructs, hermeneutical methods, recurring doctrinal categories.
@@ -344,8 +419,8 @@ tags: [concept]
 ---
 ```
 
-Body: definition, origin, tradition-specific usage variations, key text-concept connections,
-cross-links to controversies where contested.
+Body: definition; origin; tradition-specific usage (attributed); key text-concept connections
+(bilateral); cross-links to controversies where contested.
 
 ### Comparison Page (`wiki/comparisons/`)
 Generated from cross-tradition/cross-commentator queries; filed for permanence.
@@ -360,14 +435,10 @@ tags: [comparison, ..., hub]
 ---
 ```
 
-**Thematic comparison hubs.** A comparison page may serve as a cross-tradition *thematic
-hub* (e.g. mysticism, scripture/canon, messianism/eschatology): organized **by recurring
-structure, then tradition-by-tradition**, it *gathers and links* existing pages descriptively
-— it does not adjudicate between the traditions. Same conventions as timeline hubs (verify
-slugs before linking; bracketed-plain-names for referents lacking a page; lint clean). Wire it
-into the `index.md` `## Comparisons` section and add a reciprocal back-link from each theme's
-central concept page. **Theme-organized hubs live in `wiki/comparisons/`; only *time*-organized
-hubs go in `wiki/timelines/`.**
+**Thematic comparison hubs** gather and link existing pages by recurring structure then
+tradition-by-tradition — they do not adjudicate. Wire into `index.md` `## Comparisons` and
+add reciprocal back-links from each theme's central concept page. Theme-organized hubs live in
+`wiki/comparisons/`; time-organized hubs in `wiki/timelines/`.
 
 ### Controversy Page (`wiki/controversies/`)
 Interpretive disputes cutting across commentators or traditions.
@@ -376,29 +447,27 @@ Interpretive disputes cutting across commentators or traditions.
 ---
 title: [Issue in Dispute]
 text_locus: [verse, passage, or concept at stake]
-positions: []   # named positions
+positions: []
 traditions_involved: []
+dispute_type: [empirical / interpretive / source-reliability / doctrinal /
+               authorship / dating / canonicity / other]
 resolution_status: [open / historically resolved / tradition-specific]
 last_updated: [YYYY-MM-DD]
 tags: [controversy]
 ---
 ```
 
-### Timeline / Hub Page (`wiki/timelines/`)
-Chronological navigation hubs that link existing pages along a time axis. Three sub-types:
-- **Per-tradition timeline** (`[tradition]-timeline.md`) — one tradition's internal chronology.
-- **Master comparative timeline** (`comparative-timeline.md`) — the cross-tradition spine: a
-  top **era × family matrix** (eras as rows; Abrahamic / Indian-Dharmic / East Asian /
-  Ancient-Other as columns) for the synchronic "what was happening at once" view, then per-era
-  detail tables.
-- **Thematic hub** (e.g. `new-religious-movements-timeline.md`) — a *chronologically*-organized
-  cross-cutting cluster. (Theme-organized hubs that are not chronological are Comparison Pages
-  in `wiki/comparisons/` instead — see the Comparison Page section.)
+### Timeline Page (`wiki/timelines/`)
+Chronological navigation hubs linking existing pages along a time axis. Three sub-types:
+- **Per-tradition timeline** (`[tradition]-timeline.md`)
+- **Master comparative timeline** (`comparative-timeline.md`) — era × family matrix, then
+  per-era detail
+- **Thematic chronological hub** (e.g. `new-religious-movements-timeline.md`)
 
 ```yaml
 ---
 title: [Timeline of X]
-tradition: [name]            # for per-tradition timelines; OR  type: timeline-hub
+tradition: [name]            # OR type: timeline-hub
 date_range: [span]
 sources_ingested: [count]
 last_updated: [YYYY-MM-DD]
@@ -406,23 +475,48 @@ tags: [timeline, <tradition>, hub]
 ---
 ```
 
-Body: **era-banded sections**, densest where wiki coverage is deepest; within each era, split
-tables as *Figures / Texts–Concepts / Councils–Controversies* (adapt headers to the tradition).
-A timeline **links existing pages; it does not introduce new content** — extract-and-file new
-material on the proper page type first, then link it here.
+Body: era-banded sections; within each era, *Figures / Texts–Concepts / Councils–Controversies*
+(adapt headers). A timeline **links existing pages; it does not introduce new content**.
 
 **Conventions (load-bearing):**
-- **Bracketed plain names** (`[William Miller]`, no `[[ ]]`) deliberately mark a referent that
-  lacks a page yet — *not* a red link to be "fixed."
-- **No backslash-escaped pipes in wikilinks inside tables** (`[[a\|b]]`): Obsidian renders them
-  but `lint_wiki.py` misreads the target. Use plain `[[a|b]]` (Obsidian parses it fine).
-- **Verify a slug exists before linking it** (grep the target dir / rely on lint) — never from a
-  remembered directory listing.
+- Bracketed plain names (`[William Miller]`, no `[[ ]]`) mark referents lacking a page — not
+  red links to "fix."
+- No backslash-escaped pipes in wikilinks inside tables (`[[a\|b]]`); use `[[a|b]]`.
+- Verify a slug exists before linking (grep / lint) — never from memory.
 
-**Wiring (required, reciprocal):** link the timeline from its tradition overview page; add it to
-the `index.md` `## Timelines` section; and when a per-tradition timeline is built, **upgrade that
-tradition's cell in the comparative matrix** to point at it. Run `lint_wiki.py` (from the repo
-root: `python Scripts/lint_wiki.py`) and resolve any red links/orphans before marking done.
+**Wiring:** link from tradition overview; add to `index.md` `## Timelines`; upgrade comparative
+matrix cells when a per-tradition timeline is built; lint clean before done.
+
+---
+
+## Link Types — Mandatory Distinctions
+
+Prefer these labels in frontmatter relation lists and in "Relations" body blocks. Prose may
+paraphrase, but do not conflate categories.
+
+| Label | Meaning |
+|---|---|
+| `comments_on: [[text]]` | commentator or commentary addresses this text |
+| `commented_by: [[X]]` | inverse of comments_on |
+| `depends_on: [[concept]]` | load-bearing doctrine or category |
+| `developed_from: [[X]]` | intellectual or doctrinal descent with modification |
+| `reacts_against: [[X]]` | defined itself in opposition (e.g. Kabbalah vs Maimonidean rationalism) |
+| `typologically_reads: [[figure/event]]` | e.g. Noah as Yesod; Exodus as soul's ascent |
+| `parallel_in: [[tradition]]` | cross-tradition analogy without equating |
+| `contradicts_position_on: [[controversy]]` | explicit tension; do not flatten |
+| `canonized_by: [[sect]]` / `rejected_by: [[sect]]` | prefer `canon_scope` buckets; use labels in prose/relations |
+| `preceded_by: [[X]]` / `followed_by: [[X]]` | temporal order only; **not** causation |
+| `influenced: [[X]]` / `influenced_by: [[X]]` | historical influence claim (always attributed) |
+| `part_of: [[X]]` / `contains: [[X]]` | composition (corpus, cycle, anthology) |
+
+**Load-bearing distinctions:**
+- Temporal succession ≠ causal/influence claim.
+- `parallel_in` ≠ identity of doctrine across traditions.
+- A study or reading *supporting* a thesis is a recorded relation, not a wiki-voice verdict.
+
+**Bilateral cross-linking (reciprocity required):** when one page links another substantively,
+the target links back. Especially: text ↔ concept, text ↔ commentator, figure ↔ group,
+sect ↔ group. A one-directional link is a defect.
 
 ---
 
@@ -434,13 +528,11 @@ distinguishing it from its parent. Group and location pages should note traditio
 interpretive moves, typological uses, and polemical deployments.
 
 Standard frameworks to identify and tag:
-- **Jewish**: Peshat (plain), Derash (midrashic), Remez (allegorical), Sod (mystical) — PaRDeS
-- **Christian patristic/medieval**: Literal, Allegorical, Tropological (moral), Anagogical — the Quadriga
-- **Islamic**: Zahir (exoteric), Batin (esoteric); tafsir bi'l-ma'thur (tradition-based) vs. bi'l-ra'y (reason-based)
-- **Buddhist**: Neyartha (interpretable) vs. Nitartha (definitive); commentarial lineage tracking
-- **Daoist**: *commentary-as-transformation* (commentary as practice that transforms the
-  adept); track the philosophical/metaphysical reading (xuanxue; Wang Bi) vs. the religious/
-  longevity-cultivation reading (Heshang Gong) of the same text
+- **Jewish**: Peshat, Derash, Remez, Sod — PaRDeS
+- **Christian patristic/medieval**: Literal, Allegorical, Tropological, Anagogical — the Quadriga
+- **Islamic**: Zahir / Batin; tafsir bi'l-ma'thur vs. bi'l-ra'y
+- **Buddhist**: Neyartha vs. Nitartha; commentarial lineage
+- **Daoist**: commentary-as-transformation; xuanxue vs. longevity-cultivation readings
 - **Modern critical**: Historical-critical, form, redaction, canonical criticism, reader-response
 
 When ingesting a commentary, identify and explicitly record its framework(s). Flag
@@ -449,81 +541,246 @@ for comparison-page generation.
 
 ---
 
+## Historiography and Reception Protocol
+
+Every **major text page** and every **major tradition/sect page** requires attention to how
+knowledge of the subject was produced:
+
+| Concern | Cover |
+|---|---|
+| **Evidence quality** | What manuscripts, editions, archaeological or archival bases the claims rest on |
+| **Scholarly debates** | Dating, authorship, composition history — as positions |
+| **Methodological approaches** | Confessional, historical-critical, literary, phenomenological, etc. |
+| **Reception history** | How communities used, ranked, or rejected the text/school |
+| **Recent revisionism** | Significant changes in the standard account (last ~30 years) where sources support them |
+| **Collection coverage** | What this wiki has ingested well; where gaps remain |
+
+For critical editions, separate **body text**, **apparatus/notes**, and **modern introductions**
+as evidence classes. Absence of a modern critical consensus is not absence of traditional
+reception — record both.
+
+---
+
 ## Ingest Workflow
 
 Two halves of one workflow: the **Deployed Subagent Strategy** (default — *throughput*: how a
-scope is read in parallel) and **Scope & Fidelity** (the standard of *quality*: what each page
-must contain and how to partition a work). Subagents are how a scope gets read, never a lower
-standard of fidelity.
+scope is read in parallel) and **Scope & Fidelity** (the standard of *quality*). Subagents are
+how a scope gets read, never a lower standard of fidelity.
 
 **Non-negotiable principle: the main thread owns structure; subagents own bulk extraction.**
 Subagents never decide taxonomy, page naming, `canon_scope` buckets, sect-vs-group splits, or
 cross-links — they extract faithfully within boundaries the main thread already drew.
 
-### Deployed Subagent Strategy (DEFAULT — execution steps)
+### Progress Checklist (mandatory — user-visible)
 
-**Step 1 — Scaffold first, on the main thread.** Before spawning anything, read enough (TOC,
-intro, conclusion, targeted sampling) to do the judgment work:
-- Identify source type and, for any primary text, its **canonical status per sect/tradition and
-  whether that differs from the parent** (drives `canon_scope` + any sect canon-divergence section).
-- Write the **source summary page** (in `scholarship/` or the relevant text/commentary page)
-  including the **scope plan** (ordered sequence of bounded scopes) and **coverage ledger** skeleton.
-- Create or name the **key linkable pages** (central text/commentator/tradition/sect pages and
-  the figure/group/location/concept pages the ingest will populate) so subagents inherit names.
-- Decide **naming conventions, page taxonomy, and hermeneutical framing**.
+Long tool loops look **frozen** from the user's side even when work is progressing. Silent
+progress is a defect.
 
-Do not spawn any agent until the linkable page names and canon/taxonomy decisions exist.
+1. **Post the checklist at session start** — before spawning extractors. Use the session todo
+   list **and** state the same plan in chat.
+2. **Minimum ingest checklist** (adapt labels; keep the phases):
+   - [ ] Source located · word-count / integrity intake · cache slices cut
+   - [ ] Scaffold (source page + key link targets on disk)
+   - [ ] Extractors spawned — **N agents**, cache dir, expected digest filenames
+   - [ ] Digests inventory — per-range: pending / running / done / missing→recover
+   - [ ] Integration — pages created/updated (tick in batches)
+   - [ ] Validate (`python Scripts/lint_wiki.py`; prove 0 **new** broken links vs baseline)
+   - [ ] Bookkeeping (index, log, outstanding sources ✅, sources-ingested, file raw out of root)
+   - [ ] Cache cleanup (this ingest's session cache only)
+3. **Update as phases complete.** After spawn, show per-range rows; flip to done when the
+   digest file is non-empty on disk. During integration, tick major page batches.
+4. **No multi-minute silence.** If extractors or integration will run more than ~1–2 minutes,
+   interleave short user-visible status with tool work.
+5. **On "are you frozen?"**: first reply is current checklist + digests inventory, not a
+   re-plan without status.
 
-**Step 2 — Split the scope by disjoint line-ranges.** Divide the in-scope raw text into N
-contiguous, non-overlapping chunks by line number.
+### Step 0 — Pre-flight: claim-the-ingest and prior footprint
+
+Before scaffolding, grep the wiki for the **author surname and distinctive title words** and
+for any page already citing the source. Naming conventions vary; a source page may exist under
+a non-obvious slug. Surveying topic pages is not a substitute.
+
+This check applies to **explicit re-ingest requests too**.
+
+| Finding | Action |
+|---|---|
+| Source page exists; ledger shows declared scope **unfinished** | Resume that ledger; do not open a second source page |
+| Source page exists; ledger complete; audit finds **wiring-only** defects (links, slugs, schema, missing reciprocal links, missing section headings with content present elsewhere) | Repair wiring; **do not** re-extract by default |
+| Source page exists; ledger complete **or absent**; audit finds **fidelity / content defects** — ungrounded claims, TOC-reconstruction, wrong loci, single-source theosophy in bare wiki voice, missing coverage ledger, pre–Scope-and-Fidelity textbook paraphrase, missing material that was never read | **Re-extract the affected scope** under current standards; upgrade the existing source page rather than creating a duplicate slug |
+| No prior footprint | Proceed to intake + scaffold |
+
+**Fidelity gaps warrant re-reading.** Wiring defects do not. Aging ingests often fail at both
+layers; report the split explicitly, then re-read only where fidelity fails.
+
+**Resume-incomplete bookkeeping:** if a source page has an `ingested:` date but no matching
+`log.md` line, or the file is still in `raw/` root, or trackers are unmarked — finish
+bookkeeping before or alongside any re-extract.
+
+Write the source-page stub early so a sibling session's check can see it.
+
+### Step 0b — Intake integrity (word-count / conversion check)
+
+Run `wc -w` on the raw text and compare against expected length (~250–350 words/page × page
+count). Note: `wc` prints *lines words chars* — use the **words** column. Converted ebooks
+fail silently (epub→txt can capture only Part One while the TOC still lists every chapter).
+
+If the ratio is badly off:
+1. Grep for each major TOC heading **in the body** (not only the TOC block)
+2. For critical editions / Zohar / Talmudic pagination: sample folio or verse headers for gaps
+3. Record incompleteness on the source page in `reliability_notes` **before** extraction
+
+**OCR ladder** (image-only PDFs / bad text layer): produce readable `.txt`/`.md` before
+ingesting; prefer project-local temp (not small tmpfs `/tmp`); replace the original PDF in
+`raw/` with the OCR'd file once verified; record conversion on the source page.
+
+### Step 1 — Scaffold first, on the main thread
+
+Read enough (TOC, intro, conclusion, targeted sampling) to do the judgment work:
+- Identify source type and, for any primary text, **canonical status per sect/tradition** and
+  whether it differs from the parent (drives `canon_scope` + sect canon-divergence).
+- Write the **source page** with **scope plan / Section Plan** and **coverage ledger** skeleton.
+- Create or name **key linkable pages** so subagents inherit names.
+- Decide naming conventions, page taxonomy, and hermeneutical framing.
+- Decide whether a **hub page** is warranted (see Hubs); if yes, pre-establish its name and
+  build it in the same session once criteria are met.
+- **Grep-verify coined terms** before scaffolding concept pages — if the term is absent from
+  the source, do not invent the page.
+- **Duplicate-page pre-scan:** resolve slugs **folder-agnostically** (`find wiki -name
+  "<slug>.md"` or whole-vault grep). Obsidian resolves by bare filename; a per-folder check
+  manufactures collisions. Grep name-order variants and synonymous titles.
+
+Do not spawn any agent until linkable page names and canon/taxonomy decisions exist **on disk**.
+
+### Step 2 — Split the scope by disjoint line-ranges
+
+Divide the in-scope raw text into N contiguous, non-overlapping chunks by line number.
 - **Size N to the material.** Base on *body* length × density (exclude front matter, apparatus,
   indices, untranslated sections): ~one agent per 2,000–3,500 body lines; floor 2–3; up to ~10
-  for very large/multi-volume works. **Do not default to 6** — over-splitting starves context.
-- **Weight chunks by density/importance**, not even boundaries: dense/pivotal stretches get
-  their own agent; lighter narrative combines. Align to natural section boundaries only where
-  it doesn't fight the weighting.
+  for very large works. **Do not default to 6.**
+- **Weight by density/importance**, not even boundaries. Align to natural section boundaries
+  only where it doesn't fight weighting.
 - Ranges must be **disjoint** — every line in exactly one chunk.
+- **Locate boundaries in the body, never in the TOC.** First grep hit is almost always the
+  TOC; filter to body and confirm **in-text markers** (incipit, folio, chapter openers).
+- **Pre-cut per-range cache files** into session-local storage immediately after locating the
+  source (before or during scaffold). `raw/` is user-mutable mid-session.
+- **Include paratext that carries origin facts** (acknowledgments with commission notes,
+  colophons) in a body range or main-thread ownership — do not drop them outside all slices.
+- **Sensitive-content / filter-prone triage (mandatory):** flag ranges dense in
+  atrocity/persecution documentation **or** charged discourse (heresy polemic, race-science
+  quoted to refute, graphic purity/sexual material in mystical texts). These are first-class
+  wiki content and are **never toned down or omitted**. Mechanical risk: output filters can
+  block a subagent's entire extraction. Prefer sparse-verbatim + line-pointers for
+  filter-prone ranges; route maximally graphic material to the main thread; size every range
+  so single-range main-thread recovery stays comfortable. A content-filter block is a routing
+  signal, never a reason to soften content.
 
-**Step 3 — Spawn one Sonnet subagent per chunk (staggered + background).** Use the Agent tool
-with **`model: sonnet`** and `run_in_background: true`, one per chunk. Each prompt must contain:
-its **exclusive line-range** (read only that range); the **relevant schema, naming conventions,
-and hermeneutical-tracking requirement**; the **established page names** it may link to (Step 1);
-**exclusive ownership of the titles it creates** (distinct title namespace so no two agents
-write the same file); and the **faithfulness mandate** (principle 4 below, enforced per agent):
-extract only what is in its range, **with verbatim-anchored grounding quotes and line/page
-loci**, no outside knowledge, no background summary as source content, no reading beyond range.
-- **Staggered deployment (rate-limit mitigation)**: never launch all at once. Spawn in batches
-  of 2 (≤3 for lighter ranges), then `sleep 10` before the next batch (20s+ if 429s recur).
-  Optionally pre-cut per-range cache files (`/tmp/..._cache/range_N_START_END.txt`) for a cheap
-  one-shot read. Collect task_ids; monitor to completion. If a subagent fails (e.g. 429), the
-  main thread recovers *that range alone* (read its slice, extract, label the block "Main-thread
-  recovery (rate limit on subagent)") and lets the others continue. Do not restart a
-  rate-limited agent.
+### Step 3 — Spawn extractors (parallel + background)
 
-**Step 4 — Review and tie together (main thread).** Dedupe overlapping claims; reconcile naming;
-fix cross-links between new pages (subagents only linked Step-1 names); fill the source page's
-coverage ledger for the scope read; record **contradictions** on both pages and the relevant
-`controversies/` page (Contradiction Protocol); set/extend `canon_scope` on every affected text
-page; confirm each new sect/group page is cross-linked to its counterpart. Remove agent
-artifacts (stray instructions, prompt echoes, tags — grep first). **File lean** (extend a
-central page before creating a new one; de-link tangential mentions rather than spawning stubs).
+Use the Agent tool with background execution, one agent per chunk. Each prompt must contain:
+- its **exclusive line-range** (read only that range / cache file)
+- **schema, naming conventions, Voice and Attribution Protocol, Hermeneutical Tracking**
+- **established page names** as ground truth already verified by the main thread
+- **exclusive ownership** of claim/digest titles (distinct namespace so no two agents write the
+  same file)
+- **faithfulness mandate**: extract only what is in range, with **verbatim-anchored grounding
+  quotes and line/page/folio loci**; no outside knowledge; no reading beyond range
+- instruction that **subagents do not run task-observer**
+- when creating schema'd pages is allowed at all (prefer digests — see two-stage below):
+  **complete copy-pasteable YAML** and exact required body headings
 
-**Step 5 — Lint and validate.** Run `python Scripts/lint_wiki.py` and resolve what it surfaces
-(red links, orphans, commentators/figures/groups/locations/sects mentioned without a page).
-Re-run until clean.
+**Standing subagent instructions** (include in every extraction prompt):
+- **Flag, don't force, entity mismatches.** Near-match to a target page but different entity →
+  Miscellaneous with mismatch flag.
+- **Flag internal duplication** (ebook conversion artifacts); extract once.
+- **Report actual coverage** in the completion summary (exact lines read; if stopped short, say so).
+- **Treat chunk briefs as expectations, not facts** ("likely covers X — verify").
+- Prefer writing **extraction digests / claims files**, not live wiki pages, unless the main
+  thread explicitly assigned exclusive page ownership.
 
-**Step 6 — Bookkeeping.** Update `index.md`; tick the source on `outstanding sources.md` if
-listed; append the `log.md` entry stating the declared **scope** and whether read in full or in
-progress. For a multi-scope work, checkpoint after **each** scope (ledger + index + log,
-verified on disk) and continue autonomously to the next; do not pause to ask "what next?".
+**Deployment:** launch in parallel by default; fall back to staggered batches of 2–3 if rate
+limits appear. Collect task_ids; monitor to completion.
 
-**Step 7 — File the raw source out of `raw/` root.** Once a source is **fully ingested for its
-declared scope** (not mid multi-scope work), `git mv` its file from the top of `raw/` into the
-matching typed subfolder (`raw/texts/`, `raw/commentaries/`, `raw/scholarship/`, or
-`raw/misc/`). **Relocation only — never alter content** (the "never modify" rule governs
-*content*; filing into a subfolder is expected). Then **update every reference to the old path**:
-the `Source:` line on the source page, its coverage ledger, and the `log.md` entry. (For an
-OCR'd source, this happens together with the PDF-replacement in the OCR rule.)
+**Recovery — key off "this chunk didn't come back correctly," not off a single cause.**
+Main thread recovers *that range alone* from the cache slice, labels "Main-thread recovery
+(<cause>)", lets others continue. Observed modes: rate limit (429); content-filter block;
+silent hang (transcript mtime stalled); agent reports range lacks assigned material (re-cut;
+never accept adjacent composition as substitute; never fill with general knowledge).
+
+**Never soften the faithfulness mandate** to make an agent more "useful." "Not present in this
+range" is both accuracy control and the channel that surfaces bad range assignments.
+
+### Step 4 — Review and integrate (main thread)
+
+Dedupe overlapping claims; reconcile naming; form cross-links (subagents only linked Step-1
+names); fill coverage ledger; record contradictions (Contradiction Protocol); set/extend
+`canon_scope`; cross-link new sect/group pairs; remove agent artifacts (grep first).
+**File lean** (extend before create; no stubs).
+
+**Before editing any existing page, open it with the Read tool** (not only Bash `cat`) on the
+lines you'll change — harness Edit safety tracks Read-tool calls.
+
+**When concurrent sessions may touch the same pages:** integrate with **Edit-append, never a
+full Write** on shared pages.
+
+#### Two-stage variant for mature / extension-heavy clusters (default for reingests)
+
+When the wiki already has dense coverage of the source's subject (e.g. reingest of Zohar I
+into an existing Kabbalah cluster), most claims are UPDATEs to shared pages:
+
+- **Stage 1 — extraction, partitioned by disjoint line-range.** Agents write **digests /
+  claims files only** (no live wiki edits). Every claim: short quote + line/folio locus.
+- **Stage 2 — integration, partitioned by exclusive wiki-page ownership.** Each integrator
+  owns a disjoint set of page slugs, greps *all* Stage-1 digests for its slugs, and is
+  restricted to **Edit (no full rewrites)** to fold claims in. Main thread keeps taxonomy,
+  new-page creation, filter-prone pages, and `canon_scope` decisions.
+
+### Step 4b — Section / scope commit cycle (large works)
+
+For multi-scope works, process **one scope at a time** (complete the cycle before the next;
+do not read ahead into filing for N+1 while N is unfinished):
+
+| Step | Action |
+|---|---|
+| 2a | Read the scope in full (Scope & Fidelity) |
+| 2b | **Identify all pages affected** — list new pages (filenames) and existing pages (what changes) *before writing* |
+| 2c | Write all affected pages — complete content, all frontmatter, cross-links, required sections |
+| 2d | **Commit to disk** — write/edit every file; confirm paths exist; only then proceed |
+| 2e | Append section/scope log entry + update ledger on source page |
+| 2f | Clear and advance only after disk commit |
+
+After the full plan: **Volume Synthesis Note** on the source page (3–5 paragraphs); final
+`ingest-complete` log line when the work's plan is exhausted.
+
+### Step 5 — Lint and validate
+
+1. Capture a **baseline** broken-link / lint total (`python Scripts/lint_wiki.py` or project
+   equivalent) before or after isolating the change set if needed.
+2. Run lint; resolve red links, orphans, missing pages for repeatedly mentioned entities,
+   missing `canon_scope`, missing reciprocal links, ledger gaps.
+3. Prove **0 new broken links** vs baseline (compare totals; do not trust a truncated detail
+   list).
+4. Repair wikilinks with the Edit tool (or careful exact replacements), not blind `sed` on
+   piped wikilinks / YAML.
+5. Re-run until clean for the change set.
+
+### Step 6 — Bookkeeping
+
+1. Update `index.md`
+2. Tick **`outstanding sources.md`** and **`sources-ingested.md`**
+3. Append `log.md`: `## [YYYY-MM-DD] ingest | [Source Title]` — declared scope; read in full or
+   in progress; pages created/updated counts
+4. For multi-scope works, checkpoint after **each** scope and continue autonomously
+
+### Step 7 — File the raw source out of `raw/` root
+
+Once fully ingested for its declared scope, move (`git mv` if tracked; plain `mv` if not —
+many raw sources are untracked) into `raw/texts/`, `raw/commentaries/`, `raw/scholarship/`, or
+`raw/misc/`. **Relocation only — never alter content.** Update every reference to the old path
+(source page, ledger, log). File by the **exact path the cache slices were cut from**.
+
+**Do not run `git commit` or `git push`** unless the user explicitly asks — the user handles
+git operations by default.
 
 ### Scope & Fidelity (the standard of quality)
 
@@ -532,105 +789,55 @@ wiki attributes to a source must have actually been read in it; not every source
 cover to cover. You read what we scope, and you read it honestly.
 
 **1. Scope the ingest first.**
-- **Small, bounded sources** (a primary text/pericope, a single commentary, a paper, a short
-  monograph) → scope = the whole thing; read it in full.
-- **Large reference / multi-volume / survey works** → scope = a named portion (chapter, topic,
-  volume, page span). Do not silently expand beyond it.
+- **Small, bounded sources** → scope = the whole thing; read in full.
+- **Large reference / multi-volume / survey works** → scope = a named portion. Do not silently
+  expand beyond it.
 
-**Scope it yourself and progress autonomously.** Do **not** ask me to choose a scope each time.
-For a large work, *you* partition it into a **scope plan** (an ordered sequence of coherent,
-meaty bounded scopes — not one tiny scope per heading), record it on the source's scholarship
-page, then work through scopes in order, one per pass, without asking which is next. Checkpoint
-after each scope (ledger + index + log, verified). When the work's plan is exhausted, move to
-the next unticked source on `outstanding sources.md` and scope it the same way. Surface a choice
-to me only when partitioning is genuinely ambiguous, a scope proves too thin (widen it), or
-something needs my judgment (sourcing gap, faithfulness problem, contested call) — not for
-routine "what next?".
+**Scope it yourself and progress autonomously.** Do not ask which scope is next for routine
+partitioning. Record the scope plan on the source page; work scopes in order; checkpoint after
+each. Surface a choice only when partitioning is genuinely ambiguous, a scope is too thin, or
+judgment is needed.
 
-**2. Read the scope in full, in order — no TOC-triage.** Actually read the in-scope text
-sequentially; do not scan the TOC/index/a few searched passages and reconstruct. Search tools
-may *supplement* the read (locate a cross-reference, verify a term, relocate a passage already
-read) but never *substitute* for it.
+**2. Read the scope in full, in order — no TOC-triage.** Sequential read; search tools may
+supplement but never substitute. TOC-sampling is a named failure mode, not a shortcut.
 
-**3. Read in large spans; file in lean batches.** Prioritize reading over filing. Read a
-substantial span keeping **brief, verbatim-anchored notes** (key claims with line/page locus,
-so attribution stays checkable), then file the batch. Stop to file only when needed — at a
-natural boundary, when unfiled notes risk losing detail, when later material depends on a page
-earlier material warranted, or to record a contradiction while both sides are fresh. **File
-lean**: extend a central page before creating one; create a page only when the subject warrants
-it; de-link a tangential mention rather than spawning a stub. Notes are taken *during* the read
-— not a licence to skim and reconstruct from memory.
+**3. Read in large spans; file in lean batches.** Brief verbatim-anchored notes during the
+read; file at natural boundaries. **File lean**: extend before create; no stubs; complete
+required sections when you file.
 
-**4. Faithfulness — record only what the source says.** Attribute to a source only content you
-actually read in it. **Never present background knowledge, a textbook summary, a familiar term,
-or an inference as the source's own content.** Mark outside context explicitly (e.g. "not in
-X's account"). Before attributing a specific term/date/claim, confirm it is actually there
-(search the text).
+**4. Faithfulness — record only what the source says.** Never present background knowledge, a
+textbook summary, a familiar term, or an inference as the source's own content. Mark outside
+context explicitly. Confirm terms/dates/claims by search before attributing.
 
-**5. Coverage ledger (required) — a scoped ingest is complete *for its scope*.** On the source
-page, record exactly what was read (chapters, sections, page/line ranges). A read covering its
-declared scope is **done, not a standing debt**: mark "read in full (scope: Vol. I, Chs. I–V)",
-*not* "partial". Reserve "partial / in progress" for a scope not yet finished. Any in-scope
-portion deliberately left unread (apparatus, foreign-language sections, indices, repetitive
-matter) must be stated explicitly with the reason. Widening scope later is a **new scoped pass**,
-logged as such — not a debt on the old one.
+**5. Coverage ledger (required).** Record exactly what was read. A read covering its declared
+scope is **done**, not a standing debt. Reserve "partial / in progress" for unfinished
+in-scope reads. State deliberately unread apparatus with reason. Widening scope later is a
+**new scoped pass**.
 
-**OCR rule.** If a source arrives as a non-OCR (image-only) PDF, run OCR to produce a readable
-`.txt`/`.md` before ingesting. Once verified usable, **replace the original PDF in `raw/` with
-the OCR'd file** (same base name, new extension) — delete/overwrite the original. Record the
-conversion on the source page (e.g. "Source: `raw/foo.md` — OCR'd from `foo.pdf` on YYYY-MM-DD").
+### Ingest sequence (checklist form — principles above govern)
 
-### Ingest sequence (per new source — principles above govern throughout)
-
-1. **Identify** source type and, for any primary text, its **canonical status within the sect/
-   tradition being ingested, and whether it differs from the parent** (e.g. canonical for the
-   sect but rejected by the parent). Answer explicitly — it drives `canon_scope` and any sect
-   canon-divergence section.
-2. **Read the scope through and discuss**: read sequentially (principles 2–4); report key
-   takeaways, surprising claims, what it adds/challenges — grounded in the reading, not the TOC.
-3. **Write or update** the relevant pages (lean batches per span — extend before creating):
-   - Source summary page in the appropriate subdir, **with its coverage ledger**.
-   - Commentator page, if attributed to a known figure.
-   - Text pages for primary texts prominently discussed.
-   - **Figure pages** for figures receiving substantial biographical/typological/interpretive
-     treatment; add new tradition-specific readings (Philo's Abraham, Origen's Moses) to the
-     existing page or create it.
-   - **Group pages** for peoples/parties/collectives receiving sustained treatment; extend with
-     new tradition-specific portraits/typologies or create.
-   - **Location pages** for places whose historical inhabitants or modern geography are
-     discussed, or carrying narrative/theological/pilgrimage weight; include settlement history
-     and modern mapping.
-   - **Tradition and sect pages** for any sub-tradition/denomination/school/movement treated —
-     especially canon-divergence and hermeneutical-method sections — plus the parent overview
-     if needed. Cross-link to any existing `groups/` page for the same community.
-   - **Maintain `canon_scope` on every affected text page** whenever a source establishes how a
-     sect/tradition treats a text. Preserve conflicting valuations across communities; do not
-     flatten (Contradiction Protocol).
-   - Concept pages for theological/hermeneutical terms introduced/developed.
-   - Controversy page if the source takes a position on a disputed question.
-   - `overview.md` if the source materially shifts the scope.
-4. **Update `index.md`** with new/modified pages.
-5. **Append to `log.md`**: `## [YYYY-MM-DD] ingest | [Source Title]` — stating the declared
-   scope and whether read in full or in progress (e.g. "scope: Vol. I Chs. I–V — read in full"
-   or "scope: Ch. VI — partial, read pp. X–Y").
-6. **File the raw source out of `raw/` root** (per Step 7 above): `git mv` into the typed
-   subfolder, update every reference to the old path. Relocation only — do not alter content.
-
-A single commentary ingest may touch 10–20 pages; a focused scope of a larger work, fewer.
-Keep filing lean. Widening to a larger scope of the same work is a later, separately-scoped pass.
+1. Identify source type + canon status per community.
+2. Intake integrity check; claim-the-ingest / re-ingest decision.
+3. Scaffold source page + linkable names; post progress checklist.
+4. Read scope(s) via deployed extractors + main-thread integration (or direct read for small works).
+5. Report key takeaways grounded in the reading (not the TOC).
+6. Write/update pages (lean; complete; attributed voice).
+7. Lint to 0 new broken links.
+8. Bookkeeping + file raw out of root.
 
 ---
 
 ## Contradiction Protocol
 
-Commentary traditions are full of irreconcilable conflicts — between traditions, within
-traditions, and between historical-critical scholarship and confessional readings. Do not
-flatten these. When new material contradicts existing content:
-- Flag the contradiction explicitly on both affected pages.
-- Create or update the relevant `wiki/controversies/` page.
-- Do **not** adjudicate which reading is correct unless I explicitly ask for analysis.
-- Record each position's tradition context (a Calvinist–Arminian dispute is not the same kind
-  as a critical-vs-traditional dating dispute).
+When new material contradicts existing content:
+1. Flag explicitly on both affected pages (e.g. `[CONTRADICTION]` or a clear prose flag).
+2. Create or update the relevant `wiki/controversies/` page.
+3. Classify with `dispute_type` (empirical / interpretive / source-reliability / doctrinal /
+   authorship / dating / canonicity / other).
+4. **Do not** adjudicate which reading is correct unless explicitly asked.
+5. Record each position's tradition context (a Calvinist–Arminian dispute is not the same kind
+   as a critical-vs-traditional dating dispute).
+6. Never silently overwrite — preserve both claims with attribution and date.
 
 ---
 
@@ -638,37 +845,56 @@ flatten these. When new material contradicts existing content:
 
 1. Read `index.md` to identify relevant pages.
 2. Read those pages.
-3. Synthesize an answer citing wiki pages (not raw sources directly).
-4. If it required non-trivial synthesis or produced a useful comparison, offer to file it as a
-   `wiki/queries/` page.
+3. Synthesize an answer citing wiki pages (not raw sources directly), respecting Voice and
+   Attribution.
+4. If non-trivial synthesis or a useful comparison, offer to file as `wiki/queries/`.
 5. Append to `log.md`: `## [YYYY-MM-DD] query | [Question Summary]`.
 
 ---
 
 ## Lint Workflow
 
-When I ask for a wiki health check, identify:
+When asked for a wiki health check, identify:
 - Orphan pages (no inbound links).
-- Commentators mentioned in text pages but lacking their own page.
-- Figures mentioned repeatedly across pages but lacking a `figures/` page.
-- Groups/peoples/tribes/collectives mentioned repeatedly but lacking a `groups/` page.
-- Locations whose inhabitants or modern geography are discussed but lacking a `locations/` page.
-- Sub-traditions/denominations/sects/movements referenced but lacking a
-  `traditions/[parent]/sects/` page; any top-level tradition lacking an overview page.
-- Text pages missing `canon_scope`, or whose `canon_scope` omits a community known to canonize/
-  dispute/reject the text.
+- Commentators / figures / groups / locations / sects mentioned repeatedly without pages.
+- Text pages missing `canon_scope`, or omitting a community known to treat the text.
 - Concepts used repeatedly without a concept page.
-- **One-directional links that should be reciprocal** (per the bilateral cross-linking rule):
-  text→concept without the concept→text back-link (or vice versa), and the analogous
-  text↔commentator / figure↔group / sect↔group asymmetries. Flag the missing back-link.
-- Controversies described inline that should be promoted to a `controversies/` page.
+- One-directional links that should be reciprocal.
+- Controversies described inline that should be promoted.
 - Claims superseded by newer sources — flag for review, do not silently overwrite.
-- **Ledger gaps**: source pages lacking a coverage ledger, or whose ledger marks the *declared
-  scope* still "in progress / partial". A scope deliberately narrower than the whole work is
-  **not** a defect — flag only unfinished in-scope reads, missing ledgers, or a source ticked
-  "done" whose ledger shows its declared scope was never finished.
-- Suggest 3–5 sources worth seeking, based on coverage gaps.
-- Suggest 3–5 questions worth investigating, based on unresolved tensions.
+- **Ledger gaps**: missing coverage ledgers; unfinished *declared* scopes; sources ticked done
+  whose ledgers show the scope was never finished. A deliberately narrower scope is not a defect.
+- **Voice violations**: single-source interpretive claims in bare wiki voice.
+- **Hub candidates** warranted by criteria but never built.
+- Suggest 3–5 sources worth seeking; 3–5 questions worth investigating.
+
+**Validation bar after each ingest:** 0 **new** broken links vs pre-ingest baseline; required
+frontmatter fields present on new pages; coverage ledger updated for the declared scope.
+
+---
+
+## Hubs — High-Detail Sections
+
+Slim pages in `texts/`, `commentators/`, and `traditions/.../sects/` remain the default. When
+selection criteria are met, build a **hub page in the same session** — do not defer warranted
+hubs as optional polish. If genuine scope limits force a split, flag and ask rather than
+silently skip.
+
+### Texts Hub (`wiki/hubs/texts/`)
+Graduate-level deep analysis of a major work (structure, strata, hermeneutics, reception,
+scholarship). Criteria: work is multi-volume or multi-strata; multiple sources ingested on it;
+or a single critical edition that reorganizes the wiki's understanding (e.g. full Pritzker
+Zohar). The hub **links and deepens**; it does not replace the text page.
+
+### Commentators Hub (`wiki/hubs/commentators/`)
+Graduate-level intellectual biography (formation, method, works, controversies, afterlife).
+Criteria: figure is central to a major school; multiple sources ingested; or the slim
+commentator page cannot hold the analytic load without becoming unreadable.
+
+### Schools Hub (`wiki/hubs/schools/`)
+Sustained systems (Lurianic Kabbalah, Thomism, Ashʿarism, Madhyamaka) beyond a slim sect stub.
+Criteria: multi-source coverage; distinct canon + hermeneutic + historical phases that exceed
+sect-page length discipline.
 
 ---
 
@@ -676,31 +902,16 @@ When I ask for a wiki health check, identify:
 
 - File names: `kebab-case.md` (`thomas-aquinas.md`, `fourfold-sense.md`).
 - Wiki-internal links: Obsidian format `[[page-name|Display Name]]`.
-- Multi-tradition concepts: use the most widely recognized English name as the page title,
-  aliasing tradition-specific terms in the body (e.g. `allegorical-reading.md` covers Remez,
-  Theoria, Ta'wil).
-- **Tradition / sect / group disambiguation**: a *tradition* page is a top-level religion
-  (`traditions/[t]/[t].md`); a *sect* page is a sub-tradition within it
-  (`traditions/[t]/sects/[s].md`) carrying canon/doctrine/hermeneutics; a *group* page is a
-  people/community as social/historical actor. A community that is both (Gnostics, Marcionites,
-  Ebionites, Montanists) gets **both** pages, cross-linked.
-- **Nested paths are for filing, not link syntax**: reference sect/tradition pages with bare
-  slugs (`[[gnosticism|Gnosticism]]`), not the full path. Keep sect/tradition slugs globally
-  unique so bare-slug links resolve.
-- **`canon_scope` entries are page slugs**: each item in a `canon_scope` bucket (and a sect's
-  `canon_distinctives`) is the kebab-case slug of a tradition/sect page (`latter-day-saints`,
-  `sethian-gnosticism`, `proto-orthodox-christianity`).
-- **Bilateral cross-linking (reciprocity required)**: a wiki link should point both ways. When
-  one page links another, the target page must link back wherever the relationship is
-  substantive. In particular, **text ↔ concept links are bidirectional**: if a text page names a
-  concept it develops/contests, the concept page must list that text under its key text-concept
-  connections, and vice versa. The same reciprocity applies to text↔commentator, figure↔group,
-  and sect↔group (the already-required `groups/`↔`sects/` cross-link) pairings. A one-directional
-  link is a defect to be closed, not left dangling — add the back-link when you create the
-  forward one.
-- Manuscript sigla, critical apparatus, and original-language terms appear in the body, not in
-  file names.
-- Original-language terms: transliterate consistently (one system per language, documented in
+- Multi-tradition concepts: most widely recognized English name as title; alias
+  tradition-specific terms in the body.
+- **Tradition / sect / group disambiguation**: tradition = top-level religion; sect =
+  sub-tradition as system; group = social/historical actor. Both pages when both apply,
+  cross-linked.
+- **Nested paths are for filing, not link syntax**: bare slugs (`[[gnosticism|Gnosticism]]`).
+  Keep sect/tradition slugs globally unique.
+- **`canon_scope` entries are page slugs.**
+- Manuscript sigla and original-language terms appear in the body, not in file names.
+- Original-language terms: transliterate consistently (see below; document system in
   `overview.md`).
 
 ---
@@ -717,16 +928,29 @@ When I ask for a wiki health check, identify:
 
 ## Scope
 
-Current scope of this wiki: [TO BE DEFINED — fill in as we work. Examples: "Synoptic Gospels
-and their patristic commentators," "Maimonidean rationalism and its critics," "Quranic tafsir
-traditions through the 10th century."] I will update this field as the scope evolves.
+Current scope of this wiki (as of 2026-07-18; update as coverage shifts):
+
+**Strong / multi-source clusters:** Christian systematics and patristics (Aquinas, Augustine
+streams, Barth, Pelikan, Zachhuber, etc.); Jewish rationalism and philosophy of religion
+(Maimonides Guide, Heschel); Jewish mysticism via Pritzker Zohar (Vols I–XII ingested under
+earlier standards — fidelity reingests proceed volume-by-volume under this file); selected
+NT/OT evangelical commentary; Dead Sea Scrolls; large Buddhist (Lamrim, Bardo) and Sikh
+(SGGS, McLeod/Singh) blocks; assorted comparative and modern philosophy-of-religion sources.
+
+**Thin or gap areas:** full Hindu epic primary literature; many Islamic tafsir corpora beyond
+partial hadith/philosophy; African, Indigenous, and East Asian popular religion beyond selected
+works; lived modern denominational practice outside textual/systematic sources.
+
+Flag gaps on tradition overviews and in `overview.md`. Prefer filling from ingested sources
+over background synthesis.
 
 ---
 
 ## Division of Labor
 
 **I handle**: sourcing documents, directing analytical focus, asking questions, reading the
-wiki, deciding what matters.
+wiki, deciding what matters, git commit/push unless I explicitly ask you to.
 
-**You handle**: all writing, cross-referencing, maintenance, filing, bookkeeping. Every word in
-`wiki/` is yours unless I explicitly edit something myself.
+**You handle**: all writing, cross-referencing, maintenance, filing, bookkeeping, progress
+visibility, and fidelity to declared scopes. Every word in `wiki/` is yours unless I
+explicitly edit something myself.

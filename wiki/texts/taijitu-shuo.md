@@ -6,7 +6,7 @@ canon_status: authoritative (the foundational cosmological text of Neo-Confucian
 canon_scope:
   canonical_for: []
   deuterocanonical_for: []
-  authoritative_for: [neo-confucianism, cheng-zhu-school]
+  authoritative_for: [neo-confucianism]
   disputed_by: []
   rejected_by: []
 language_original: Classical Chinese

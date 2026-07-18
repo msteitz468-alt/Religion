@@ -5,7 +5,7 @@ type: tradition
 date_range: Iron Age Israelite religion (pre-exilic) – present; "Judaism" proper from the Second Temple / post-exilic period
 canon_core: [genesis, exodus, leviticus, numbers, deuteronomy, book-of-joshua, judges, 1-samuel, 2-samuel, 1-2-kings, isaiah, jeremiah, ezekiel, hosea, joel, amos, obadiah, jonah, micah, zechariah, psalms, proverbs, book-of-job, song-of-songs, book-of-ruth, lamentations, ecclesiastes, book-of-esther, daniel, ezra-nehemiah, 1-2-chronicles]
 hermeneutical_frameworks: [pardes, peshat, derash, remez, sod, thirteen-middot]
-major_sects: [rabbinic-judaism, kabbalah, karaism, sadducees, essenes]
+major_sects: [rabbinic-judaism, kabbalah, karaism, sadducees, essenism]
 sources_ingested: 1
 last_updated: 2026-06-27
 tags: [tradition, judaism]
@@ -62,7 +62,7 @@ medieval **Maimonidean controversy** within Rabbinic Judaism.
   Torah and the rabbinic canon, reading the Tanakh by reason and direct exegesis.
 - [[sadducees|Sadducees]] — the priestly-aristocratic Second Temple party (2nd c. BCE–70 CE);
   accepted the Written Torah and rejected the Oral Torah; forerunner of the Karaite position.
-- [[essenes|Essenes]] — the separatist Second Temple sect commonly identified with Qumran and
+- [[essenism|Essenism (the Essenes)]] — the separatist Second Temple sect commonly identified with Qumran and
   the Dead Sea Scrolls; solar calendar, dualism, and an expansive canon (Jubilees, 1 Enoch).
 
 The [[pharisees|Pharisees]] remain a **group** page (a party, not treated here as a distinct

@@ -1,0 +1,75 @@
+EDITOR’S PREFACE
+
+
+This replacement commentary (the eighth) represents another milestone for the New International Commentary on the New Testament, in that it replaces the first commentary to appear in the original series, that by Norval Geldenhuys in 1951. For that volume, the first editor, Ned Stonehouse, wrote a general foreword introducing the series, while F. F. Bruce, who would eventually succeed Stonehouse as its second editor, wrote a foreword to Geldenhuys’s commentary in particular. Reading these two forewords can be instructive with regard to the evolution of the series.
+
+That the proposed seventeen- (now nineteen-)volume series would “appear with some regularity” is our yet-to-be-realized hope, which now looks to the turn of the century for final realization (Matthew, the Pastoral Letters, and 2 Peter/Jude are outstanding but in process). Whereas the international scope of the series has been maintained, its original Dutch and South African flavor has, with the present volume, now been lost. So also under Bruce’s editorship the intentionally Reformed perspective of the series envisioned by Stonehouse began to wane. The present volume, the second in the series by a Methodist (along with I. Howard Marshall’s Johannine Epistles) is another indication of the cooperative, broadly based, cross-confessional dimension of the evangelical tradition that has emerged in the second half of the twentieth century. But the goal of the series has been maintained throughout all of this evolution: “to provide earnest students of the New Testament with an exposition that is thorough and abreast of modern scholarship and at the same time loyal to Scripture as the infallible Word of God” (Stonehouse, p. 3 in Geldenhuys’s Luke).
+
+Two further reflections from those first forewords are of interest regarding the present volume: the pointedly pastoral dimension of the Geldenhuys volume, and its way of being “abreast of modern scholarship.” The first matter, very frankly, disappeared from most of the succeeding volumes until it was reintroduced in my First Corinthians (1987); and I have urged current authors to work hard at maintaining this dimension of the series. The present commentary happily does so, although not in the more fixed form that Geldenhuys (or Fee) did.
+
+The second matter is the more significant one regarding the present volume; for in some ways Geldenhuys and Green, at the midpoint and the end of the present century respectively, represent two considerably different approaches to these matters, while in both cases going against the grain of the atomistic approach to Synoptic studies that has so long held sway. In his foreword Professor Bruce noted that Geldenhuys maintained a “healthy scepticism” toward “some parts of the critical stock-in-trade” of the academy, which made it look a bit obscurantist for its time, despite Bruce’s demurrer to the contrary.
+
+The present commentary is anything but obscurantist. But it is different from most Synoptic commentaries in its approach to the evangelist Luke, showing very little concern for traditional form-critical and redaction-critical issues. Professor Green is fully aware of these matters, but leaves the reader to consult other commentaries for their details. His concern, and it is a refreshing and exciting concern, is that the reader capture Luke’s narrative of Jesus on its own right. Here at last is a commentary on Luke that tries to help the reader to see how the narrative “works,” how Luke’s own obvious concerns drive the narrative from beginning to end (including Acts), how one should read Luke as its first reader would have read it—without cross-referencing to Matthew or Mark. Thus I am pleased to commend this superb reading of Luke to both the primary audience of the series—the working pastor and teacher, as well as students—and its secondary audience in the academy. Read it and learn—and enjoy,
+
+Also belonging to the newer generation of evangelical scholars (see my preface to Doug Moo’s Romans), Joel Green is especially well-equipped for this task. Since the completion of his Ph.D. in New Testament in 1985 (from Aberdeen, Scotland), he has maintained a vigorous schedule of publications, especially on Luke-Acts (see the entries in his bibliography), as well as serving as editor (or co-editor) for a whole variety of projects (Catalyst, a quarterly for seminarians; the Dictionary of Jesus and the Gospels [IVP]; the I. Howard Marshall Festschrift; and others). He also already has a distinguished teaching career at New College (Berkeley) and the American Baptist Seminary of the West (Berkeley). As of the publication of this volume (Fall 1997) he begins his appointment as Professor of New Testament Interpretation at Asbury Theological Seminary, Wilmore, Kentucky. However, throughout all of his academic life, both as a student and teacher, he has also maintained an active pastoral life in the church. This combination of passion for scholarship and the life of the church has come to a splendid fruition with the present commentary.
+
+GORDON D. FEE
+
+
+
+
+
+AUTHOR’S PREFACE
+
+
+If the name of Hans Conzelmann is associated with the massive shift in Lukan studies characterizing the decades reaching from the 1950s to the publication of Joseph Fitzmyer’s two-volume commentary on the Third Gospel in the 1980s, any survey of more recent exploration of the Gospel of Luke would highlight the work of such scholars as Robert Tannehill and Luke Johnson on the literary side, and Halvor Moxnes and Philip Esler on the social-scientific. My own introduction to serious study of Luke coincided with this latter shift, marked by the waning of the hegemony of historical study (historical criticism, tradition criticism, redaction criticism, and the rest) and the blooming of so-called “newer” approaches (e.g., new literary criticism, narrative criticism, new historicism, and the like). At the time, even the idea of writing a commentary seemed to present too many problems of method and presentation; indeed, more than one person pronounced a plague on all commentary writing! My decision to undertake this project was grounded in my belief that those involved in the church’s ministry continue to be helped most by commentaries on whole books, written from the perspective of a fundamental reverence for the biblical text and from a position of critical engagement with academic biblical studies and active involvement in the life of the church. I also believed that discussion about method in the study of the Gospels need not lead necessarily into a cul-de-sac, and that recent innovations in method had as their natural outcome the possibility of making the Gospel of Luke and its message come even more alive for contemporary readers.
+
+How I have navigated the sometimes difficult, always exciting waters of interpretive method will become clear to any who actually (!) read the Introduction. It will become equally clear that, in spite of the size of this volume, I have made no attempt to address the whole spectrum of questions that might possibly be put to the Gospel of Luke. This has never really been possible, and it is even less so today. This is not for me a cause of despair, but rather reason to rejoice, and to reflect on the multivalency of the Gospel, which can address in so many ways the diverse needs of the historic and global church.
+
+A project of this magnitude is not brought to completion without a crowd of witnesses and participants. Above all, I want to record my gratitude for the encouragement and support of Pamela, Aaron, and Allison—my family; no doubt they will welcome the publication of this commentary as a harbinger of future conversations in our home that do not turn so quickly to Luke! I have benefited greatly from my students and research assistants Gilles Bekaert, Meagan Howland, Kevin Anderson, and Michael McKeever, and from many others who have participated in my various courses on the Third Gospel—first at New College Berkeley, then more recently at the American Baptist Seminary of the West and Graduate Theological Union, Berkeley. Much of my perspective on the Gospel of Luke has been developed in the context of sermons and seminars in local churches and conferences—especially among friends at St. Luke’s United Methodist Church, Richmond, California, and at Redwood Christian Park, Boulder Creek, California. New College Berkeley and the American Baptist Seminary of the West each afforded me time for intensive work on the Gospel of Luke with sabbaticals. I am grateful to the University of Durham for appointing me as Visiting Fellow in the Department of Theology in Spring 1992, and especially to Jimmy and Meta Dunn for their numerous acts of hospitality during that period of study. My research was supported financially not only through these periods of sabbatical leave, but also through the Catholic Biblical Association, which awarded me a Young Scholar’s Fellowship for my project “Toward a Unified Hermeneutic: The Application of Discourse Theory and Sociological Analysis to the Gospel of Luke” (1991–92); and through the Graduate Theological Union, which provided research assistance and additional funding in the form of a Henry Mayo Newhall Fellowship for Student-Faculty Partnership, for the project “Luke-Acts and the Jewish People.” Of course, I am also grateful to Fred Bruce, who extended the initial invitation to me to contribute a commentary on the Gospel of Luke for the NICNT; and to his replacement as series editor, Gordon Fee, whose patience, encouragement, insight, and willingness to allow me to follow a different sort of interpretive path have been greatly appreciated.
+
+Originally, the NICNT was to have used the American Revised Version (1901); this has since given way both to translations generated by the authors of the various commentaries and to the use of other translations. Not wishing to proliferate the number of translations, and in the hope of using a text that is readily available and widely used in churches, I have chosen to employ the NRSV in this commentary. For the most part, I have refrained from discussing text-critical alternatives, though from time to time I have indicated in my editing of the NRSV where my own thinking departs from the translation committee on both text-critical and translation issues.
+
+JOEL B. GREEN
+
+HOLY WEEK 1997
+
+
+
+
+
+INTERPRETIVE ASIDES
+
+§1 The Literary Structure of the Birth Narrative
+
+§2 God’s Purpose, the Scriptures, and the “Beginning” of Luke-Acts
+
+§3 The Social Setting of Luke 1:5–2:52
+
+§4 The Temple and the Incense Offering
+
+§5 The Structure and Role of Mary’s Song
+
+§6 The Structure and Role of Zechariah’s Song
+
+§7 The Birth of Jesus in Literary and Social Perspective
+
+§8 The Prophetic Ministry of John in Luke 3:1–20
+
+§9 Luke 4:14–9:50 in Literary Perspective
+
+§10 Luke 4:14–9:50 and the Region of Galilee
+
+§11 Faith and Possessions in Luke
+
+§12 Christology and Discipleship in Luke 9:1–50
+
+
+FIGURES
+
+1. Power and Privilege in Agrarian Societies
+
+
+
+
+

@@ -11,7 +11,7 @@ canon_scope:
 language_original: Greek
 date_range: Pre-64 CE (France/Hengel); ca. 69 CE also defended; critical consensus ca. 65–70 CE
 sources_ingested: 2
-last_updated: 2026-06-07
+last_updated: 2026-07-18
 tags: [text, new-testament, gospel, mark, narrative, drama, galilee, petrine, messianic-secret, discipleship, son-of-man, immediately]
 ---
 
@@ -145,6 +145,26 @@ This position is a minority view among contemporary scholars; many now defend 16
 
 See: [[mark-ending|The Ending of Mark (16:8 and the Longer Ending)]].
 
+## Key Interpretive Cruxes (France, NIGTC)
+
+Recorded from the full 2026-07-18 re-ingest of [[france-mark-nigtc|France's NIGTC commentary]]; all readings are France's attributed positions unless otherwise noted.
+
+**Text-critical judgments**: France accepts the harder reading ὀργισθείς ("being angry") at 1:41 against σπλαγχνισθείς — "so striking and 'improbable' that a correction to the 'safer' σπλαγχνισθείς would be very natural" — explaining Jesus' anger as directed at the evil in the world and the social taboo, not at the leper. At 2:26 he acknowledges Mark's "Abiathar" as a historical confusion ("Mark seems to share that confusion" with variant OT lists — Abiathar "was not yet ἀρχιερεύς"). He judges ἀποστόλους at 3:14 non-original and υἱοῦ θεοῦ at 1:1 original.
+
+**Purity and the law (7:19)**: France reads 7:19c ("cleansing all foods") as Mark's parenthetical editorial comment with Jesus as subject — a "natural, indeed inevitable, deduction" from Jesus' principle, and revolutionary for Jew-Gentile relations. Defilement in 7:20-23 is "seen exclusively in moral terms."
+
+**Last Supper chronology**: France defends a minority position: Jesus deliberately held a real Passover meal one day early (evening beginning Nisan 14, without lamb), so that Mark, on Jewish day-reckoning, *agrees* with the Johannine dating rather than contradicting it. He cites astronomical evidence that Nisan 14 fell on a Friday in AD 30 and 33 while "there was no date between 27 and 34 when Nisan 15 was a Friday," and notes the tomb details (Joseph's Friday commerce) cohere with a Nisan-14 crucifixion Friday.
+
+**The blasphemy verdict (14:64)**: Following D. L. Bock, France argues Jesus committed no blasphemy in the later mishnaic sense (both speakers used euphemisms — ὁ εὐλογητός, ἡ δύναμις); the blasphemy lay in the self-claim to sit at God's right hand and in the "breathtaking reversal of roles" by which Jesus, as judge, "demoted" Israel's leadership (cf. Ex. 22:27). The hearing was an informal charge-search, not a formal trial; for Pilate the charge was recast as treason via "King of the Jews."
+
+**Peter's denial (14:71)**: France argues ἀναθεματίζειν, transitive with Jesus as the natural unstated object, most probably means Peter voluntarily *cursed Jesus* — "doing what Pliny was later informed that 'real Christians' could not be compelled to do" — a sense he notes Christian translators (RSV, NIV) have found unwelcome. 16:7's "and Peter" then carries an implied "assurance of forgiveness and restoration, the more impressive for being left unsaid."
+
+**The cry of dereliction (15:34)**: Mark's chosen last utterance of Jesus — in Aramaic, addressed uniquely not as "Father" but "My God" — is a "'prayer' … of bewilderment and separation." France refuses to soften it by importing Psalm 22's hopeful ending: "Jesus echoed not the latter part of the psalm but its opening"; Mark "wants us to feel Jesus' agony, not to explain it."
+
+**The torn curtain (15:38)**: A "divine riposte" — torn "from top to bottom" as no human could — more likely the great *outer* curtain than Hebrews' inner one; with Juel (as France quotes): "With Jesus' death, the old religious order comes to an end." The temple's destruction-and-replacement "has indeed begun, even as Jesus continues to hang on the cross." See [[eschatological-temple|Eschatological Temple]].
+
+**The empty tomb (16:1-8)**: France argues the νεανίσκος of 16:5 must be an angel (paralleled in 2 Macc. 3, Josephus, Tobit); that Mark describes "a bodily resurrection leading to continuing life and activity on earth"; that no gospel narrates the resurrection itself ("there are none"); and that "Galilee" in 16:7 is not a cipher for Gentile mission (contra C. F. Evans and Telford) — "'Galilee of the Gentiles' is not a Marcan phrase." He dryly dismisses "sindonology" as a use of Mark's ordinary σινδών.
+
 ## Synoptic Relationships
 
 France accepts Marcan priority — the hypothesis that Mark was the first gospel written and that Matthew and Luke drew on it — but rejects the rigid "Streeterian" two-source model (Mark + Q → Matthew/Luke) as too mechanistic. His preferred model (following J. A. T. Robinson's *Redating the New Testament*): "cross-fertilization" of traditions in the living church, where oral and written traditions circulated freely among communities, so that at any given point Matthew's or Luke's version of a tradition may reflect an earlier oral form than Mark's written version, even though Mark was the first complete gospel produced.
@@ -171,4 +191,4 @@ Concept pages developed from this text:
 
 ## Sources Ingested
 
-1. [[rt-france|France, R. T.]]. *The Gospel of Mark: A Commentary on the Greek Text*. NIGTC. Grand Rapids: Eerdmans, 2002.
+1. [[rt-france|France, R. T.]]. *The Gospel of Mark: A Commentary on the Greek Text*. NIGTC. Grand Rapids: Eerdmans, 2002. First ingested 2026-06-05; fully re-ingested (Introduction through 16:8 + endings excursus and endnotes) 2026-07-18 — see [[france-mark-nigtc|source page]].

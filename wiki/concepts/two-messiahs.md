@@ -1,9 +1,9 @@
 ---
 title: Two Messiahs
 domain: theology / eschatology
-traditions_using: [Second Temple Judaism (Qumran/Essene)]
-sources_ingested: 2
-last_updated: 2026-06-09
+traditions_using: [Second Temple Judaism (Qumran/Essene), rabbinic Judaism (targumic Messiah ben Joseph traditions)]
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [concept, second-temple-judaism, qumran, essenes, eschatology, messiah]
 ---
 
@@ -65,6 +65,10 @@ VanderKam (2010) notes an important nuance regarding **4Q521 (Messianic Apocalyp
 ## Messianic Banquet and Regular Meals
 VanderKam follows Schiffman's interpretation: the regular communal meals at Qumran (with priest leading, blessing of bread and wine, at least 10 men) were **noncultic pre-enactments** of the eschatological messianic banquet described in 1QSa 2.11-22. The messianic banquet statute applies to *every* meal of 10+ men (1QSa 2.21-22), not just a future eschatological event. In the recurring meals, someone played the role of the Messiah of Israel.
 
+## The Gog Traditions and the Two Messiahs (Block, NICOT)
+
+A later, targumic-rabbinic form of the two-messiah idea — Messiah son of Ephraim/Joseph alongside Messiah son of David — is documented in [[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]] in his excursus on Gog in Jewish and Christian tradition (on Ezek 38–39). Block quotes the sources: **Targ. Pseudo-Jonathan Num 11:26** (Eldad and Medad prophesying a king from Magog at the end of days, defeated by fire from beneath the throne of glory, followed by the resurrection of "all the dead of Israel"); the **Fragment Targum** (Gog and Magog "shall fall by the hand of the King Messiah," with seven years' kindling of weapons); **Targ. Ps.-Jon. Exod 40:11** ("Messiah son of Ephraim, by whose hand the house of Israel is to vanquish Gog"); and **3 Enoch 45:5** (5th–6th c.), where the Messiah son of Joseph and the Messiah son of David are both seen together with the Gog/Magog wars. In Block's presentation, the split messianic personality of these traditions — a warrior Messiah of Ephraim/Joseph who vanquishes Gog and a royal Messiah of David — emerges precisely within the reception of Ezekiel's Gog oracle. This is a distinct, later development from the Qumran priestly/royal pairing above, not its continuation.
+
 ## See Also
 [[community-rule]] · [[damascus-document]] · [[heavenly-prince-melchizedek]] · [[teacher-of-righteousness]] · [[essenism]] · [[dead-sea-scrolls-vermes]] · [[dead-sea-scrolls-vanderkam]] · [[melchizedek]]
 
@@ -74,4 +78,8 @@ VanderKam follows Schiffman's interpretation: the regular communal meals at Qumr
 - [[messianic-apocalypse|Messianic Apocalypse (4Q521)]]
 - [[messianic-rule|The Messianic Rule (1QSa)]]
 - [[testimonia|Testimonia (4Q175)]]
+- [[sanctuary-of-men|Sanctuary of Men]] — the community-as-Temple ecclesiology that frames the priestly Messiah's role
+- [[teacher-of-righteousness|Teacher of Righteousness]] — the community awaited the Messiah(s) after his death
 - [[messianism-and-eschatology|Messianism & Eschatology Across Traditions]] — the cross-tradition comparison hub
+- [[ezekiel|Ezekiel]] — the Gog oracle (chs. 38–39) whose reception carries the Messiah ben Joseph / ben David pairing
+- [[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]] — source for the targumic Gog-tradition material

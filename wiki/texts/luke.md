@@ -10,18 +10,24 @@ canon_scope:
   rejected_by: []
 language_original: Greek
 date_range: ca. 80–85 CE (critical consensus); some argue 60s CE; Green treats the question as interpretively secondary
-sources_ingested: 3
-last_updated: 2026-06-07
+sources_ingested: 5
+last_updated: 2026-07-18
 tags: [text, christianity, gospel, luke, luke-acts, historiography, narrative-criticism, social-scientific, discourse-analysis, salvation, poor, women, travel-narrative, jubilee, theocentric, holy-spirit, jerusalem]
 ---
 
 The Gospel of Luke is the third canonical Gospel and the longest book in the New Testament. It is the first volume of a two-part narrative — Luke-Acts — that together constitutes approximately one-quarter of the entire NT by word count. Green's NICNT commentary (1997) reads it as a carefully crafted piece of Greco-Roman historiography, organized around the salvific purpose of God and read best alongside the Acts of the Apostles as its necessary sequel.
 
-## Hermeneutical Tracking
+## Textual Overview
+
+Luke is a Greek narrative (διήγησις, 1:1) of Jesus from birth through ascension, continuous with the [[acts|Acts of the Apostles]] as volume two of one story. Green’s outline (NICNT): Prologue (1:1–4); Birth and childhood (1:5–2:52); Preparation (3:1–4:13); Galilean ministry (4:14–9:50); Travel to Jerusalem (9:51–19:48); Temple teaching (20:1–21:38); Passion (22:1–23:56); Exaltation (24:1–53). Distinctive Lukan material includes the long Travel Narrative, the birth songs, Nazareth as programmatic first sermon, and Jerusalem-centered resurrection appearances.
+
+## Hermeneutical Frameworks
 
 The following interpretive frameworks have been applied to this text by ingested commentators:
-- **Narrative Criticism & Discourse Analysis**: Joel B. Green reads the Gospel as a unified literary whole, focusing on the text's final form, narrative sequence (co-text), and rhetorical aim rather than atomistic form or redaction criticism.
-- **Social-Scientific Criticism**: Green employs culture-critical analysis to illuminate first-century Mediterranean scripts (honor-shame, patronage, purity, kinship) assumed by the narrator and subverted by the Gospel.
+- **Narrative Criticism & Discourse Analysis**: [[joel-green|Joel B. Green]] (NICNT 1997; fidelity re-ingest 2026-07-18, [[green-luke-nicnt]]) reads the Gospel as a unified literary whole, focusing on final form, narrative sequence (co-text), and rhetorical aim rather than atomistic form or redaction criticism. Co-text / intertext (esp. LXX) / context (honor-shame, patronage, purity, kinship) structure his reading.
+- **Social-Scientific Criticism**: Green employs culture-critical analysis of first-century Mediterranean scripts assumed and subverted by the Gospel.
+- **Theocentric historiography**: Green classifies Luke-Acts primarily as Greco-Roman historiography undercut as pure biography by God’s primacy as actor; narration itself is proclamation.
+- **Bock (Acts)**: more traditional evangelical-historical approach to volume two — methodological contrast on reliability and authorship emphasis; see [[acts]], [[darrell-bock]].
 
 Luke opens with a formal Greek preface (1:1–4) — the most polished literary opening in the NT — in which the author identifies his work as a "narrative" (διήγησις) addressed to "most excellent Theophilus," grounds it in eyewitness tradition, and declares his purpose: to provide an "orderly account" so that Theophilus may know the certainty of the things about which he has been informed. For Green, this preface is itself proclamation — "for Luke, narration is proclamation."
 
@@ -205,12 +211,95 @@ Jerusalem is the city of destiny: both the place where the divine purpose is con
 - **[[jubilee|The Jubilee / Year of the Lord's Favor]]**: the Nazareth sermon's central concept
 
 
+## Canon and Reception
+
+- **Canonical for** the major Christian streams that receive the fourfold Gospel (Catholic, Eastern Orthodox, Protestant): see `canon_scope` frontmatter.
+- **Marcionite reception (historical):** Marcion’s closed canon used an *edited* Luke plus ten Paulines and rejected the OT; proto-orthodox writers (Irenaeus, Tertullian) treat that edited Luke as a mutilation of the shared Gospel — reception fact, not a claim that canonical Luke is Marcionite. See [[marcion]], [[marcionism]], [[marcionites]].
+- **Luke-Acts and the canon:** Green notes that placing Luke among the Four and Acts as bridge to Paul obscures the two-volume literary unity for modern readers ([[luke-acts-unity]]).
+
+## Scholarship and Historiography
+
+Positions (not adjudications):
+- **Critical consensus dating** often ca. 80–85 CE post-70; some evangelical and traditional arguments favor the 60s. Green treats date as interpretively secondary to narrative reading.
+- **Authorship:** traditional identification with Luke the physician and Pauline companion (Phlm 24; Col 4:14; 2 Tim 4:11); Green holds identity “unimportant to its interpretation” and reads the anonymous narrator. Redaction-critical schools (Conzelmann and heirs) periodize John/Jesus/church; Green rejects dual-epoch staging of John vs Jesus baptism as salvation-historical ages.
+- **Genre:** historiography (Cadbury; Aune general history) vs biography vs Alexander’s scientific-preface analogues — Green qualifies all three and prioritizes narrative reading of Luke-Acts as theocentric historiography.
+- **Synoptic problem:** Green accepts written predecessors (1:1) including Mark but does not exploit Q or redaction differentials in the commentary method.
+
+## Key interpretive cruxes
+
+1. **Nazareth program (4:16–30):** “the poor,” double ἄφεσις, Jubilee “year of the Lord’s favor,” Elijah/Elisha outsiders, “today” — Green’s master key ([[jubilee]]).
+2. **Luke without Acts:** whether the Gospel is theologically complete alone (Green: no for the redemptive purpose for all peoples).
+3. **Possessions:** renunciation vs stewardship vs status-critique (Green: wealth cannot be neutral; kingdom economics subvert patron-client reciprocity).
+4. **Widow’s mite (21:1–4):** exemplary piety vs indictment of a system that “devours widows” (Green favors system critique in temple conflict co-text).
+5. **Passion christology:** martyr typology vs messianic necessity (δεῖ) and Scripture fulfillment; Green stresses divine purpose, innocence motif, and bridge to Acts witness.
+
+## Fidelity re-ingest anchors (Green NICNT 1997)
+
+Grounded claims from the 2026-07-18 full-body re-read (raw 122–196 + 3522–10757; digests R0–R8 ~351 claims). Attributions are to Green’s exposition unless noted as survey.
+
+### Method and introduction
+- **Discourse analysis** = narratology + culture-critical analysis; not form/redaction/source criticism as primary tools.
+- **διήγησις / orderly account:** Luke self-categorizes as narrative, not “Gospel”; order (καθεξῆς) controls meaning; isolated pericopes will not do.
+- **Genre:** Greco-Roman historiography (Cadbury consensus; Aune general history); Alexander scientific-preface affinities noted and qualified; pure *bios* undercut by theocentrism and Acts.
+- **Luke-Acts unity:** one story, two rolls (~19,400 / ~18,400 words); Acts 1:1 “began”; Gospel incomplete for full salvation-to-all purpose (e.g. 2:32 → Acts Gentile mission).
+- **Co-text / intertext / context:** local sequence; LXX echo chamber (Abraham, Moses, Elijah/Elisha); socio-historical scripts affirmed or subverted.
+- **Historicity:** commentary prioritizes *signification* over verification; for healings, contemporaries contest source/interpretation more than bare occurrence.
+- **Authorship:** identity unimportant to interpretation; “Luke” ≈ narrator; traditional physician-companion remains most likely historical candidate.
+- **Purpose:** primarily ecclesiological — strengthen the movement under opposition; ensure God’s redemptive purpose and call to faithfulness/witness.
+- **Salvation theme:** theocentric; Spirit enacts will; holistic present restoration — “knows nothing of… dichotomies… social and spiritual or individual and communal.”
+- **Money as rival:** chief competitor for loyalty; near-nobodies often model faithfulness.
+- **Prologue:** narration is proclamation; Theophilus needs certainty (ἀσφάλεια) via persuasive order more than bare “did it happen?”
+
+### Narrative blocks (body)
+- **Birth (1:5–2:52):** promise–fulfillment–praise; imbalanced John||Jesus parallel elevating Jesus; Spirit density; honor/purity/kinship world; temple inclusio; Magnificat as program (God alone subject of revolutionary verbs); Benedictus holds socio-political and spiritual salvation together; shepherds first hear; Simeon light to Gentiles + division in Israel; boy Jesus in the Father’s house.
+- **Preparation (3:1–4:13):** John as social-renewal prophet; fruits of repentance; Spirit anointing (not dunking-centered); genealogy to Adam; testing as true Son where Israel failed (Deut); devil’s alternative aim.
+- **Nazareth + early Galilee (4:14–6:11):** 4:16–30 programmatic (poor = low-status honor; double release; Jubilee; Elijah/Elisha; today); Capernaum release-healings; call of disciples; table fellowship and Sabbath controversies under kingdom authority.
+- **Late Galilee (6:12–9:50):** Sermon on the Plain reversal (poor/rich as power-privilege); enemy-love / merciful Father; women patrons 8:1–3; hear-and-do kinship; faith over fear; ch. 9 christology–discipleship (confession, daily cross, transfiguration/exodus).
+- **Travel (9:51–19:27):** literary-theological journey (ἀνάλημψις), not itinerary; hearing-and-doing; Samaritan neighbor; prayer/Fatherhood; possessions; Lost (divine joy); mammon; Rich Man and Lazarus; Zacchaeus “today salvation”; pounds against immediate kingdom-at-Jerusalem.
+- **Jerusalem entry + temple (19:28–21:38):** royal entry; weeping over unrecognized visitation; temple reclaim for revelatory teaching; authority conflicts; widow’s gift as system critique; temple fall ≠ immediate End; readiness.
+- **Passion–exaltation (22–24):** farewell table / new covenant; δεῖ and Scripture; Satan–Judas–alliances; innocence through trials; “today… Paradise”; veil; empty tomb; Emmaus (Messiah must suffer then glory); embodied resurrection; witnesses + Spirit promise + Jerusalem hinge to Acts; ascension blessing and temple joy.
+
+## Luke as Seen from Mark: France's NIGTC (2002)
+
+[[rt-france|R. T. France]]'s NIGTC *Mark* (full re-ingest 2026-07-18; see
+[[france-mark-nigtc]]) records a series of Luke/Mark observations. All claims are France's.
+
+- **The "Great Omission."** Mark 6:45 "marks the beginning of Luke's 'Great Omission'" —
+  Luke has nothing of Mk 6:45–8:26. Relatedly, France resolves the Bethsaida geography
+  problem (Mk 6:32, 45) by discounting Luke's placing of the feeding: "An alternative and
+  probably better solution is to discount Luke's placing of the incident."
+- **Style.** Mark uses the historic present at least 150 times; Luke has "hardly any." In
+  Mark (unlike Luke) οἱ μαθηταί and οἱ δώδεκα are functionally equivalent.
+- **Jerusalem as home.** Matthew intensified Mark's [[galilee|Galilee]]/[[jerusalem|Jerusalem]]
+  symbolism, "but not… Luke": Luke (and [[acts|Acts]]) instead depicts Jerusalem as the
+  church's true home.
+- **Christological hints.** France suggests Mark's ἐξῆλθον (1:38) may already hint at the
+  coming into the world of the preexistent Son of God, "as Luke 4:43 apparently takes it."
+  Luke reassigns the abuse of Mk 14:65 from Sanhedrin members to the guards, and Luke's
+  ordering of the denial scene lacks Mark's sharp Jesus/Peter contrast.
+- **Separate traditions.** Luke's anointing account (Lk 7:36-50) is probably a separate
+  tradition from the Bethany anointing (Mk 14:3-9); Mark's καλέσαι (2:17) is best glossed by
+  Luke's εἰς μετάνοιαν. The swordsman of Mk 14:47 was, in Mark's intention, a bystander —
+  contrast Luke and Matthew, who imply a disciple.
+- **Textual note.** The clause "whom he also named apostles" in Mk 3:14 is "probably not
+  original in Mark," suspect as harmonisation to Luke.
+- **The Longer Ending of Mark.** France's literary analysis finds Mk 16:9-20 "a pastiche of
+  elements drawn from the other gospels and Acts" — including the Emmaus story (vv. 12-13)
+  and the ascension (v. 19 // Lk 24:50-51) — with a "secondhand flavour." See
+  [[mark-ending|The Ending of Mark]] and [[synoptic-problem|The Synoptic Problem]].
+
 ## Concepts
 
-Concept pages developed from this text:
+- [[jubilee|The Jubilee / Year of the Lord's Favor]]
+- [[luke-acts-unity|Luke-Acts as a Two-Volume Work]]
 
-[[jubilee]]
+## Commentators
+
+- [[joel-green|Joel B. Green]] — NICNT Luke (1997); discourse analysis; theocentric narrative; Jubilee program; see [[green-luke-nicnt|source page]]
+- [[darrell-bock|Darrell L. Bock]] — BECNT Acts (volume-two companion; different method)
 
 ## Sources Ingested
 
-1. [[joel-green|Green, Joel B.]]. *The Gospel of Luke*. NICNT. Grand Rapids: Eerdmans, 1997.
+1. [[green-luke-nicnt|Green, Joel B. *The Gospel of Luke*. NICNT. Eerdmans, 1997]] — fidelity re-ingest 2026-07-18 (full body)
+2. Related volume-two: Bock, *Acts* (BECNT) — see [[acts]]
+3. [[rt-france|France, R. T.]]. *The Gospel of Mark*. NIGTC. Eerdmans, 2002 — for Luke/Mark comparisons. See [[france-mark-nigtc]].

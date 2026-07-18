@@ -6,7 +6,7 @@ textual_sources: [2 Samuel 3:3; 13–19; 1 Kings 1:6; 1 Chronicles 3:2; Psalm 3 
 dates: [10th century BCE (traditional); d. during his revolt against David]
 roles: [prince, avenger of Tamar, usurper, rebel]
 sources_ingested: 1
-last_updated: 2026-06-09
+last_updated: 2026-07-18
 tags: [figure, judaism, christianity, old-testament, court-narrative, rebellion]
 ---
 
@@ -66,3 +66,7 @@ reader of this material than the source critics.)
 - **Christianity** — Patristic and medieval readers used Absalom typologically as a figure
   of the traitor (sometimes paired with Judas) and as a moral emblem of pride and filial
   rebellion; David's lament was read as an image of divine grief over the lost.
+
+## Tsumura (NICOT 2 Samuel) — Fidelity Reingest Note (2026-07-18)
+
+[[david-tsumura|Tsumura]]: Amnon–Tamar motivates the revolt arc; David’s anger without justice; incomplete reconciliation after Tekoa; conspiracy claims kingly justice; Hushai vs Ahithophel as answered prayer/providence; Joab kills Absalom against “deal gently”; “O Absalom my son”; return politics seed Sheba. Source: [[tsumura-2-samuel-nicot]].

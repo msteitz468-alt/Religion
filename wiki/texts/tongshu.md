@@ -6,7 +6,7 @@ canon_status: authoritative (core text of Neo-Confucian sagehood cultivation)
 canon_scope:
   canonical_for: []
   deuterocanonical_for: []
-  authoritative_for: [neo-confucianism, cheng-zhu-school]
+  authoritative_for: [neo-confucianism]
   disputed_by: []
   rejected_by: []
 language_original: Classical Chinese

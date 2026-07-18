@@ -52,6 +52,18 @@ More liturgical, less intensely personal. These hymns:
 
 The Community Hymns provided the liturgical matrix for communal worship — the congregation thanked God for election and affirmed divine grace over human merit.
 
+## Hermeneutical Framework
+
+The Hodayot work by **generic imitation and appropriation of the biblical psalm**, not by exegesis. Vermes: "The poems contained in the Scroll are similar to the biblical Psalms. They are mostly hymns of thanksgiving, individual prayers as opposed to those intended for communal worship."
+
+**Appropriation rather than citation.** The hymns are saturated with biblical diction — the dust-and-clay self-abasement formula, the lament and thanksgiving forms — but almost never cite. The one explicit appeal to scriptural authority in the opening hymns frames a line as reported divine speech through Moses: "As Thou hast said by the hand of Moses, / Thou forgivest transgression, iniquity, and sin." The biblical form is inhabited in the first person rather than interpreted from outside.
+
+**The genre is repurposed to carry sectarian doctrine.** Content foreign to the biblical Psalms — predestination and the two-spirits division — is delivered inside the thanksgiving form: "Thou hast allotted to them tasks... according to the rule [of the two spirits]"; "the wicked Thou didst create for [the time] of Thy [wrath], Thou didst vow them from the womb to the Day of Massacre." Community-admission language appears the same way: "thus do I bring into community all the men of my Council." The psalm genre becomes the vehicle for [[two-spirits-doctrine|the Two Spirits doctrine]].
+
+**A claim to revealed knowledge.** The speaker repeatedly grounds his understanding in a divinely given spirit: "These things I know / by the wisdom which comes from Thee, / for Thou hast unstopped my ears / to marvellous mysteries." This is an interpretive-authority claim embedded in praise. Whether the speaker is the [[teacher-of-righteousness|Teacher of Righteousness]] is left open by Vermes: the Teacher hymns "appear to refer to the experiences of a teacher abandoned by his friends and persecuted by his enemies... But although this hypothesis is not impossible, no sure conclusion can yet be reached." The text never names him.
+
+**Liturgical reperformance.** Vermes judges the hymns were performed rather than merely read: "it is probable that the psalms of this Scroll were recited by the Guardian and newly initiated members at the Feast of the Renewal of the Covenant," with one hymn reading as "a poetic commentary on the liturgy marking the entry into the Community."
+
 ## Theological Themes
 
 **Predestinarianism and Grace**: The Hodayot present the most thorough pre-Pauline Jewish statement of divine grace overcoming human sinfulness. The speaker consistently denies human merit:

@@ -5,8 +5,8 @@ tradition: cross-tradition (ANE empire; agent of the exile)
 textual_sources: [2 Kings 24–25, Jeremiah, Ezekiel, Lamentations, Daniel, Psalm 137; the Babylonian Chronicle; the Cyrus Cylinder]
 periods_active: Neo-Babylonian Empire 626–539 BCE; conquered Judah, destroyed Jerusalem and the Temple (586); the Babylonian Exile to 539
 roles_significance: [the empire that destroyed the southern kingdom and the First Temple; author of the Babylonian Exile; the "Babylon" of biblical lament and apocalyptic symbol]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [group, ancient-near-east, iron-age, empire, mesopotamia, exile, babylon]
 ---
 
@@ -75,3 +75,19 @@ disaster.
 (Daniel; "Babylon the great" in Revelation; cf. 1 Peter 5.13 "Babylon" = Rome). Related:
 [[assyrians]], [[persians]], [[nebuchadnezzar]], [[babylon]], [[jerusalem]],
 [[lamentations]], [[ezra-nehemiah]], [[samaritans]].
+
+## Isaiah 13–14, 21, 39 (Oswalt, NICOT — 2026-07-18 ingest)
+
+Oswalt distinguishes two Babylons in Isaiah 1–39. In chs. 13–14 Babylon is "clearly an
+attack not so much upon the historical Babylon (cf. 21:10 for that) as… upon that which
+Babylon has always represented: human glory" — already in the late 700s Babylon was the
+culture-center courting allies (Merodach-baladan, 721–710 and 705–703; cf. Isa 39:1), so
+Isaianic authorship needs no exilic setting; the absence of the Persians from ch. 13 is, he
+argues, "unaccountable" for a sixth-century author. The king of Babylon in the taunt-song
+(14:4b–21) is representative: "the attempt to identify a precise historical figure is
+probably futile." In 21:1–10 by contrast Babylon is "a flesh-and-blood kingdom" whose fall
+elicits prophetic anguish ("No empathy is possible with a figure of speech"), read by Oswalt
+as a two-layered oracle spanning the eighth-century and 539 horizons. Ch. 39's embassy is
+"not causal but typical": Hezekiah's pride prefigures the national pride that produced 587.
+Sennacherib destroyed the city in 689. See [[sheol|Sheol]] for the 14:9–21 underworld scene
+and [[day-of-the-lord|Day of the LORD]] for 13:6–18.

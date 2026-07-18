@@ -24,10 +24,10 @@ Master index of all pages. Updated on every ingest.
   - [[seder-nezikin|Seder Nezikin]] — Damages; Civil and criminal jurisprudence
   - [[seder-kodashim|Seder Kodashim]] — Holy Things; Sacrifices and Temple service
   - [[seder-tohorot|Seder Tohorot]] — Purities; Laws of ritual purity
-- [[zohar|The Zohar]] — Foundational text of [[kabbalah|Kabbalah]] / Jewish mysticism; mystical (Sod) commentary on the Torah; Aramaic; attributed to Shim'on bar Yoḥai (2nd c.) but composed by [[moses-de-leon|Moses de León]] in Castile c. 1280–1300; main running Torah commentary (Genesis–Deuteronomy) via Matt's Pritzker Edition **Vols. I–IX** (detailed in previous entries); **Volume X** (Nathan Wolski, 2026-06-07) presents the *Midrash ha-Ne’lam* (“the Concealed Midrash”), the earliest stratum of the Zoharic corpus — a more midrashic, “concealed,” soul-centered layer on Genesis; **Volumes XI–XII** (Hecker and Wolski, 2026-06-07) present additional *Midrash ha-Ne’lam* on the Megillot together with the independent “Zoharic Compositions” (joint Introduction by Wolski and Hecker; Wolski: Heikhalot Be-Reshit/Pequdei and Piqqudin; Hecker: the rest) — *Heikhalot* (theurgic prayer praxis adorning Malkhut/Shekhinah’s halls/maidens for “seventh with seventh” union; two versions), *Raza de-Razin* (physiognomy with mutability/teshuvah emphasis — see new [[heikhalot|Heikhalot]] and [[raza-de-razin|Raza de-Razin]] concepts), *Sitrei Otiyyot* (YHVH letters generating sefirot as chariots), *Qav ha-Middah* (Line of Measure from Ein Sof), plus Piqqudin, Merkevet Yeḥezqel, Zohar al ha-Parashot, and Tosefta-style addenda. Many units mislabeled “New Zohar” in print but among the earliest strata. Completing the non-running strata and the full Pritzker Edition (I–XII). **First Jewish-mysticism source — scope expansion (2026-06-07); main Torah commentary complete (I–IX); concealed midrashic and composition genres added (Vols. X–XII, 2026-06-07); Pritzker Edition complete.**
+- [[zohar|The Zohar]] — Foundational text of [[kabbalah|Kabbalah]] / Jewish mysticism; mystical (Sod) commentary on the Torah; Aramaic; attributed to Shim'on bar Yoḥai (2nd c.) but composed by [[moses-de-leon|Moses de León]] in Castile c. 1280–1300; main running Torah commentary (Genesis–Deuteronomy) via Matt's Pritzker Edition **Vols. I–IX** (detailed in previous entries); **Volume X** (Nathan Wolski; **standards reingest 2026-07-18**, [[wolski-zohar-pritzker-vol10|source page]]) presents the *Midrash ha-Ne’lam* (“the Concealed Midrash”), the earliest stratum of the Zoharic corpus — philosophical allegory + proto-kabbalistic midrash on Genesis, Shemot, Ki Tetse + MS addenda (soul allegory; Bookkeeper/Dumah; seven openings; Shema cools Hell); **Volume XI** (Hecker; **standards reingest 2026-07-18**, [[hecker-zohar-pritzker-vol11|source page]]) — MhN Megillot (Song of Songs, Ruth, Lamentations) + Zoharic Compositions (**Zohar on Song of Songs**, Matnitin, Tosefta, Sitrei Torah); *Zohar Ḥadash* misnomer; **not** Idra Zuta (Vol. IX Ha’azinu). **Volume XII** (Wolski and Hecker, 2026-06-07) completes Compositions: *Heikhalot*, *Raza de-Razin*, *Sitrei Otiyyot*, *Qav ha-Middah*, plus Piqqudin etc. (see [[heikhalot|Heikhalot]], [[raza-de-razin|Raza de-Razin]]). Full Pritzker Edition (I–XII). **Vol. I–IX standards reingests 2026-07-18** (source pages [[matt-zohar-pritzker-vol1]]–[[matt-zohar-pritzker-vol9]]). **Vol. X standards reingest 2026-07-18** ([[wolski-zohar-pritzker-vol10|Wolski Pritzker Vol X]]).
 - [[guide-for-the-perplexed|The Guide for the Perplexed (Moreh Nevukhim)]] — [[maimonides|Maimonides]]'s philosophical-theological classic; Judeo-Arabic, c. 1190; reconciles Torah with Aristotelian philosophy via the doctrine of the parable; negative theology, creation vs. eternity, prophecy, providence, reasons for the commandments; authoritative (non-scriptural) for Rabbinic Judaism (Friedländer trans., ingested in full 2026-06-27)
 - [[god-in-search-of-man|God in Search of Man: A Philosophy of Judaism]] — [[abraham-joshua-heschel|Heschel]]'s 1955 constructive philosophy of Judaism (companion to *Man Is Not Alone*); non-canonical modern theology; three parts (God / Revelation / Response). **Ingested in full 2026-06-27** — Part I ([[radical-amazement]], [[awe]], [[the-ineffable]], [[kavod|glory]], [[depth-theology]], [[divine-pathos]]); Part II ([[revelation]], [[religion-of-time]]); Part III ([[mitzvah]], [[kavanah]], [[halakhah]], [[freedom]], [[nature-of-evil]])
-- [[genesis|Genesis]] — Torah/Pentateuch; creation, patriarchs; Hebrew (enhanced 2026-06-07 with Zoharic/Kabbalistic Sod reading of Gen 1–11)
+- [[genesis|Genesis]] — Torah/Pentateuch; creation, patriarchs; Hebrew · Hamilton NICOT 2-vol fidelity re-ingest 2026-07-18 ([[hamilton-genesis-1-17-nicot]] + [[hamilton-genesis-18-50-nicot]]): *tôlĕdôt* architecture, Gen 1:1 absolute, complementary creation accounts, Gen 15/17 one covenant, Akedah as test, 50:20 double *ḥāšaḇ* · Zoharic Sod reading of Gen 1–11 (Pritzker)
 - [[exodus|Exodus]] — Torah/Pentateuch; liberation, law, tabernacle; Hebrew
 - [[leviticus|Leviticus]] — Torah/Pentateuch; sacrifice, purity, holiness; Hebrew
 - [[numbers|Numbers]] — Torah/Pentateuch; wilderness, census; Hebrew
@@ -35,9 +35,9 @@ Master index of all pages. Updated on every ingest.
 - [[book-of-joshua|Joshua]] — Former Prophets; conquest, distribution, covenant renewal; Hebrew
 - [[judges|Judges]] — Former Prophets; twelve judges; downward spiral; Hebrew
 - [[book-of-ruth|Ruth]] — Megilloth / Former Prophets (LXX); ḥesed; kinsman-redeemer; Davidic ancestry; Hebrew
-- [[1-samuel|1 Samuel]] — Former Prophets; Samuel, Saul, David; transition to monarchy; Hebrew
-- [[2-samuel|2 Samuel]] — Former Prophets; David's reign; Davidic Covenant; Absalom; Hebrew
-- [[1-2-kings|1 and 2 Kings]] — Former Prophets; Deuteronomistic; Solomon; Elijah; exile; Davidic promise thread; Hebrew (enhanced with Provan NIBC: unified book as narrative literature + didactic, theocentric/Prophetic History framing, canonical excursus on Solomon/Elijah/Elisha)
+- [[1-samuel|1 Samuel]] — Former Prophets; Samuel, Saul, David; transition to monarchy; Hebrew · Tsumura NICOT fidelity re-ingest 2026-07-18 ([[tsumura-1-samuel-nicot]]): MT-first, four-block structure, king subject to prophet, *nḥm*/*ḥerem*/Endor loci
+- [[2-samuel|2 Samuel]] — Former Prophets; David's reign; Davidic Covenant; Absalom; Hebrew · Tsumura NICOT fidelity re-ingest 2026-07-18 ([[tsumura-2-samuel-nicot]]): ch. 7 discourse grammar, AXB Bathsheba, ABXX′B′A′ epilogues
+- [[1-2-kings|1 and 2 Kings]] — Former Prophets; one book (Provan); narrative + historiographical + didactic; Solomon prayer/lamp; Elijah–Elisha salvation-within-judgment; 2 Kgs 17; Jehoiachin hope; Hebrew — fidelity reingest Provan NIBC 2026-07-18 ([[provan-1-2-kings-nibc]])
 - [[ezra-nehemiah|Ezra-Nehemiah]] — Writings; post-exilic restoration; Persian period; Hebrew/Aramaic
 - [[book-of-esther|Esther]] — Writings/Megilloth; diaspora; hidden providence; God unnamed; Purim; Hebrew
 - [[1-2-chronicles|1–2 Chronicles]] — Writings; Davidic temple; Levitical music; recapitulation typology; Cyrus as new David; Hebrew (enhanced with Leithart Brazos: doctrinal/Nicene lens, full OT retelling typology, qahal/assembly, music as priestly-royal-prophetic sacrifice, seeking (baqash/darash), Cyrus as new David + Jubilee, David's war-bloodshed pollution, "manual for church reformers")
@@ -47,13 +47,13 @@ Master index of all pages. Updated on every ingest.
 - [[psalms|Psalms (Psalter)]] — Writings/Poetry; five-book narrative; lament to praise; David to Moses; Hebrew
 - [[proverbs|Proverbs]] — Writings/Wisdom; seven collections; fear of the LORD; Woman Wisdom; Solomon; Hebrew
 - [[ecclesiastes|Ecclesiastes (Qohelet)]] — Writings/Wisdom; two voices; *hebel*; Solomonic persona; frame narrator; Hebrew
-- [[song-of-songs|Song of Songs]] — Writings/Megillot; love poetry anthology; sexuality; *tĕšûqâ* arc; divine-human marriage; Hebrew
+- [[song-of-songs|Song of Songs]] — Writings/Megillot; love poetry anthology; sexuality; *tĕšûqâ* arc; divine-human marriage; Hebrew · Longman NICOT fidelity re-ingest 2026-07-18 ([[longman-song-of-songs-nicot]])
 
 ### Latter Prophets
-- [[isaiah|Isaiah]] — Latter Prophets; Servant Songs; Holy One of Israel; single authorship debate; most-quoted OT book in NT; Hebrew
-- [[jeremiah|Jeremiah]] — Latter Prophets; New Covenant; *šûb*; Confessions; "word became flesh"; two versions; Hebrew
-- [[lamentations|Lamentations]] — Writings/Megillot; five alphabetical poems; 587 BCE; theodicy and anti-theodicy; "presence of God"; Hebrew
-- [[ezekiel|Ezekiel]] — Latter Prophets; *kābôd* departure/return; four pillars; dry bones; new heart; *YHWH šammâ*; Hebrew
+- [[isaiah|Isaiah]] — Latter Prophets; Servant Songs; Holy One of Israel; single authorship debate; most-quoted OT book in NT; Hebrew · Oswalt NICOT Vol. 1 (chs. 1–39) fidelity re-ingest 2026-07-18 ([[oswalt-isaiah-1-39-nicot]]): textual/MS tradition (1QIsaᵃ), chapter-level cruxes (7:14; 14:12–15; 24–27; 28:16; 36–39), authorship controversy promoted to [[isaiah-authorship]]
+- [[jeremiah|Jeremiah]] — Latter Prophets; New Covenant; *šûb*; Confessions; "word became flesh"; two versions; Hebrew · Lalleman TOTC full-body re-ingest 2026-07-18 ([[lalleman-jeremiah-lamentations-totc]]) · Goldingay NICOT fidelity re-ingest 2026-07-18 ([[goldingay-jeremiah-nicot]])
+- [[lamentations|Lamentations]] — Writings/Megillot; five alphabetical poems; 587 BCE; theodicy and anti-theodicy; "presence of God"; Hebrew · Lalleman non-Jeremianic authorship + hope-not-solution (same re-ingest)
+- [[ezekiel|Ezekiel]] — Latter Prophets; *kābôd* departure/return; four pillars; dry bones; new heart; *YHWH šammâ*; Hebrew · Block NICOT Vol. 1 (chs. 1–24) fidelity re-ingest 2026-07-18 ([[block-ezekiel-1-24-nicot]]): composition/text/reception, interpretive cruxes (20:25; 21:32; 14:14; 16:60), reluctant-prophet thesis · Vol. 2 (chs. 25–48) fidelity re-ingest 2026-07-18 ([[block-ezekiel-25-48-nicot]]): OAN as proof sayings, Sheol theology, dry-bones reception, Gog, ideational temple-vision hermeneutic
 - [[daniel|Daniel]] — Writings/Prophets; apocalyptic; Son of Man; court stories + visions; "God is in control"; Hebrew/Aramaic
 
 ### Book of the Twelve (Minor Prophets)
@@ -67,9 +67,9 @@ Master index of all pages. Updated on every ingest.
 
 ### New Testament
 - [[matthew|Gospel of Matthew]] — NT/Gospel; fulfillment theme; formula-quotations; Galilee/Jerusalem; Son of David; Greek
-- [[mark|Gospel of Mark]] — NT/Gospel; Drama in Three Acts; Petrine authorship; narrative christology; βίος; Greek
-- [[luke|Gospel of Luke]] — NT/Gospel; Luke-Acts vol. 1; Greco-Roman historiography; theocentric; holistic salvation; Travel Narrative; Jubilee; Greek
-- [[gospel-of-john|Gospel of John]] — NT/Gospel; Logos/Light; I Am sayings; testimony framework; Beloved Disciple; Paraclete; glorification; Greek
+- [[mark|Gospel of Mark]] — NT/Gospel; Drama in Three Acts; Petrine authorship; narrative christology; βίος; Greek; France NIGTC fidelity re-ingest 2026-07-18 ([[france-mark-nigtc]])
+- [[luke|Gospel of Luke]] — NT/Gospel; Luke-Acts vol. 1; Greco-Roman historiography; theocentric; holistic salvation; Travel Narrative; Jubilee; Greek; Green NICNT fidelity re-ingest 2026-07-18 ([[green-luke-nicnt]])
+- [[gospel-of-john|Gospel of John]] — NT/Gospel; Logos/Light; I Am sayings; testimony framework; Beloved Disciple; Paraclete; glorification; Greek **(primary text read in full — NIV, [[quest-study-bible-niv|Quest Study Bible]], 2026-07-18)**
 - [[acts|Acts of the Apostles]] — NT; Luke-Acts vol. 2; church history; Greek
 - [[romans|Letter to the Romans]] — NT/Epistle; dikaiosynē theou; justification; Israel and Gentiles; glory of God; Pauline; Greek
 - [[1-corinthians|First Letter to the Corinthians]] — NT/Epistle; wisdom/cross; flee sexual immorality + idolatry; eschatological temple; glory of God; resurrection; Pauline; Greek
@@ -90,7 +90,7 @@ Master index of all pages. Updated on every ingest.
 - [[1-peter|The First Letter of Peter]] — NT/General Epistle; Diaspora letter; "foreigners and resident aliens"; suffering for the name; Christ as Suffering Servant; spirits in prison (3:18–22); household code; Roman colonization theory; Greek; Jobes BECNT ingested
 - [[2-peter|The Second Letter of Peter]] — NT/General Epistle; warning against false teachers; denial of the parousia and the scoffers' "delay"; partakers of the divine nature (1:4); inspiration of prophecy (1:20–21); new heavens and new earth (3:13); reuses Jude; authorship most disputed in NT; Greek; G. Green BECNT ingested
 - [[jude|The Letter of Jude]] — NT/General Epistle; "contend for the faith" (v. 3); antinomian intruders; quotes 1 Enoch (14–15) and the Assumption of Moses (9); midrashic/pesher exegesis; doxology (24–25); brother of James/Jesus; Greek; G. Green BECNT ingested
-- [[revelation|The Revelation to John]] — NT/Apocalypse; apocalyptic + prophecy + letter; the seven churches; throne room and the Lamb; seals/trumpets/bowls; the beast and 666; Babylon; the millennium (ch. 20); New Jerusalem; symbolic numbers; pervasive OT allusion; Greek; Osborne BECNT ingested
+- [[revelation|The Revelation to John]] — NT/Apocalypse; apocalyptic + prophecy + letter; the seven churches; throne room and the Lamb; seals/trumpets/bowls; the beast and 666; Babylon; the millennium (ch. 20); New Jerusalem; symbolic numbers; pervasive OT allusion; Greek; Osborne BECNT fidelity re-ingest 2026-07-18 ([[osborne-revelation-becnt]])
 
 ### Apostolic Fathers (non-canonical early Christian texts)
 
@@ -212,7 +212,7 @@ Master index of all pages. Updated on every ingest.
 - [[1-enoch|1 Enoch]] — the great apocalyptic pseudepigraphon; the Watchers and the Son of Man; the wiki's richest `canon_scope` (canonical for Ethiopia, authoritative at Qumran, quoted by Jude, rejected elsewhere); Charles translation ingested; Qumran fragments documented in [[book-of-enoch-dss]]
 - [[jubilees|The Book of Jubilees]] — "rewritten Genesis"; the 364-day solar calendar; canonical in Ethiopia, authoritative at Qumran; Charles translation ingested; Qumran fragments documented in [[jubilees-dss]]
 
-**Dead Sea Scrolls — Sectarian Texts (all `authoritative_for: [essenes]`)**:
+**Dead Sea Scrolls — Sectarian Texts (all `authoritative_for: [essenism]`)**:
 - [[community-rule|Community Rule (1QS)]] — the Qumran constitutional document; covenant renewal, Two Spirits, penal code, Council of Community; Vermes ingested
 - [[damascus-document|Damascus Document (CD)]] — the rule book for Essene camp communities; Exhortation + Laws; Teacher and Wicked Priest; Cairo Genizah + 4QD; Vermes ingested
 - [[war-scroll|War Scroll (1QM)]] — the 40-year eschatological war of Sons of Light vs. Sons of Darkness; military organization, liturgy, Michael's role; Vermes ingested
@@ -1003,6 +1003,7 @@ Master index of all pages. Updated on every ingest.
 - [[coogan-oxford-history-biblical-world|The Oxford History of the Biblical World]] (Michael D. Coogan, ed.; Oxford, 1998) — multi-author historical-critical and archaeological survey of the biblical world from the Bronze Age through the Roman period. Ingested (2026-06-07) specifically to enrich **groups/** and **locations/**: Bronze Age peoples (Canaanites, Amorites, Hurrians, Hyksos, Apiru), the emergence of Israel and the Philistines/Sea Peoples, and the imperial powers (Assyria, Babylon, Persia) and their cities (Jerusalem, Samaria, Babylon, Ugarit, Hazor, Megiddo, Shechem, Byblos, Ashkelon, Ekron, Lachish, Jericho, Nineveh). Treats the Bible as a dependent variable weighed against archaeology; key tensions: Exodus historicity, the failure of the literal conquest model, Midianite/Kenite origin of Yahwism, Samarian Yahwism. Chapter authors include Pitard, Redmount, Stager, M. Cogan, and Leith.
 - [[robert-alter|Robert Alter]] (b. 1935) — Berkeley professor of Hebrew & comparative literature; founder of the [[literary-reading-of-the-bible|literary reading of the Bible]] (*The Art of Biblical Narrative*, 1981). Read here through *[[alter-the-david-story|The David Story]]* (1999), his translation + commentary on [[1-samuel|1]]–[[2-samuel|2 Samuel]]: David as "the first full-length portrait of a Machiavellian prince," the [[deuteronomistic-history|Deuteronomist]] as a light-handed editor, history "imagined" Shakespeare-fashion; foil to Polzin. Grounds the David-narrative court-figure cluster (new 2026-06-09)
 - [[alter-the-david-story|Alter, *The David Story*]] (1999) — source summary: literary unity over source atomization; the 1 Kings 2 deathbed seam as the showcase of light Deuteronomistic editing; readings of Samuel, Saul, and David (new 2026-06-09)
+- [[provan-1-2-kings-nibc|Provan, *1 and 2 Kings* (NIBC, 1995)]] — fidelity reingest 2026-07-18; one book; narrative + historiographical + didactic; believing criticism; four canonical excursuses; ~347 grounded claims (full body §1–§57)
 
 ### Scholarship (World Religions)
 - [[cohn-cosmos-chaos-and-the-world-to-come|Cohn, *Cosmos, Chaos and the World to Come*]] (Norman Cohn; Yale, 2nd ed. 2001) — the ancient roots of apocalyptic faith; the static-cosmos/combat-myth → Zoroastrian linear-eschatology thesis (new 2026-06-09)
@@ -1047,6 +1048,10 @@ Master index of all pages. Updated on every ingest.
 ### Jewish Tradition
 - [[isaac-unterman|Isaac Unterman]] (1889–?) — Traditional rabbi; scholarship/exposition on the Talmud
 - [[hillel|Hillel the Elder]] — Sage, Nasi, and founder of Beit Hillel; paradigm of patient leniency
+- [[isaiah-prophet|Isaiah (prophet)]] — Isaiah ben Amoz (act. 739–701 BCE+); call vision (Isa 6); counselor to Ahaz and Hezekiah; sign-acts and sign-named children; "pro-God, not pro- or anti-Assyrian" (Oswalt) (new 2026-07-18)
+- [[hezekiah|Hezekiah]] — reforming king of Judah; the trust "post-test" of Isa 36–39; 701 deliverance; illness and Babylonian envoys; "not the Messiah" (Oswalt) (new 2026-07-18)
+- [[ahaz|Ahaz]] — king of Judah; Syro-Ephraimite crisis; refused the sign (Isa 7); pro-Assyrian covenant and its gods; the failed "pre-test" (new 2026-07-18)
+- [[sennacherib|Sennacherib]] — Assyrian king (705–681); 701 campaign, Lachish reliefs, army's destruction (Isa 37:36) and its historicity debate; murdered 681 (new 2026-07-18)
 - [[shamai|Shamai]] — Sage, Av Beit Din, and founder of Beit Shamai; strict counterpart to Hillel
 - [[akiba|Rabbi Akiba]] — Tanna and martyr; systemized the Oral Law; key leader post-destruction
 - [[judah-hanasi|Rabbi Judah ha-Nasi]] (c. 135–217 CE) — Tannaim; compiler of the Mishna
@@ -1056,31 +1061,33 @@ Master index of all pages. Updated on every ingest.
 - [[aristotle|Aristotle]] (384–322 BCE) — "the Philosopher"; the Aristotelian frame of the Guide; received via [[al-farabi]] and [[avicenna]] (new 2026-06-27)
 - [[moses-de-leon|Moses de León]] (c. 1240–1305) — Castilian kabbalist; principal author/compiler of the [[zohar|Zohar]] (attributed to Shim'on bar Yoḥai); theurgy, divine feminine, Sitra Aḥra; wrote ~20 Hebrew works (*Sefer ha-Rimmon*); see [[zohar-authorship|authorship controversy]]
 - [[joseph-caro|Joseph Caro]] (1488–1575) — Shulchan Aruch; final Sephardic codifier
-- [[daniel-matt|Daniel C. Matt]] (b. 1950) — Modern academic scholar of Jewish mysticism; translator/annotator of the *Zohar: Pritzker Edition* (Stanford, 2004–2017) from a reconstructed critical Aramaic text; historical-critical, de León authorship; the wiki's Zohar source
+- [[daniel-matt|Daniel C. Matt]] (b. 1950) — Modern academic scholar of Jewish mysticism; translator/annotator of the *Zohar: Pritzker Edition* (Stanford, 2004–2017) from a reconstructed critical Aramaic text; historical-critical, de León authorship; the wiki's Zohar source; Vol. I–IX source pages [[matt-zohar-pritzker-vol1|Matt Pritzker Vol I]]–[[matt-zohar-pritzker-vol9|Matt Pritzker Vol IX]] (standards reingests 2026-07-18); Vol. X [[wolski-zohar-pritzker-vol10|Wolski Pritzker Vol X]]; Vol. XI [[hecker-zohar-pritzker-vol11|Hecker Pritzker Vol XI]]; Vol. XII [[wolski-hecker-zohar-pritzker-vol12|Wolski & Hecker Pritzker Vol XII]] (standards reingests 2026-07-18)
+- [[joel-hecker|Joel Hecker]] — Pritzker Vol. XI (MhN Megillot + compositions; standards reingest 2026-07-18, [[hecker-zohar-pritzker-vol11|source]]) and Vol. XII (Raza, Sitrei, Qav, Merkevet, Parashot, Tosefta; standards reingest 2026-07-18, [[wolski-hecker-zohar-pritzker-vol12|source]])
+- [[arthur-green|Arthur Green]] — Scholar of Jewish mysticism; author of the Introduction to Pritzker Zohar Vol. I (historical map of Kabbalah, sacred fantasy/eros, authorship positions); standards reingest 2026-07-18
 - [[shai-secunda|Shai Secunda]] (b. 1979) — Modern academic Talmudist + Iranist; founder-systematizer of **[[talmudo-iranica|Talmudo-Iranica]]** (reading the [[talmud-bavli|Bavli]] in its Sasanian Zoroastrian context); historical/source-critical + Iranian philology + "beyond influence" comparison; *The Iranian Talmud* (2014); Bard College (new 2026-06-09)
 - [[jon-d-levenson|Jon D. Levenson]] (b. 1949) — Harvard; the leading practitioner of **Jewish biblical theology** (historical criticism + theology + rabbinic exegesis); *Resurrection and the Restoration of Israel* (2006); [[resurrection-of-the-dead|resurrection]] as native rabbinic doctrine, resurrection vs. immortality of the soul, the Canaanite [[the-combat-myth|Divine Warrior]] as its root; against anachronistic individualism (new 2026-06-09)
 - [[abraham-joshua-heschel|Abraham Joshua Heschel]] (1907–1972) — Polish-born American theologian (Hasidic lineage; JTS); poetic-phenomenological **philosophy of Judaism** via **[[depth-theology]]**; *God in Search of Man* (1955) ingested (Part I): [[radical-amazement]], [[awe]], [[the-ineffable]], the [[kavod|glory]], and the **[[divine-pathos|"God in search of man"]]** thesis; critic of natural theology and religious rationalism (new 2026-06-27)
 
 ### Christian Tradition (Evangelical Protestant)
-- [[victor-hamilton|Victor P. Hamilton]] — NICOT Genesis (2 vols., 1990/1995); evangelical
+- [[victor-hamilton|Victor P. Hamilton]] — NICOT Genesis (2 vols., 1990/1995); canonical evangelical; composite ≠ errant · sources [[hamilton-genesis-1-17-nicot]] + [[hamilton-genesis-18-50-nicot]] (both fidelity re-ingest 2026-07-18)
 - [[james-bruckner|James K. Bruckner]] — UBCS Exodus (2008); "believing criticism"; creational theology
 - [[peter-craigie|Peter C. Craigie]] (1938–1985) — NICOT Deuteronomy (1976); suzerain-vassal argument
 - [[gordon-wenham|Gordon J. Wenham]] (b. 1943) — NICOT Leviticus (c. 1979); holiness-as-wholeness
 - [[marten-woudstra|Marten H. Woudstra]] — NICOT Joshua (1981); theocentric historiography; Reformed
 - [[barry-webb|Barry G. Webb]] — NICOT Judges (2012); narrative criticism + canonical criticism; Anglican evangelical
 - [[peter-lau|Peter H. W. Lau]] — NICOT Ruth (2023); honor-shame analysis; missions theology; ethnic Chinese evangelical
-- [[david-tsumura|David Toshio Tsumura]] — NICOT 1 Samuel (2006); Semitic philology; MT-first text criticism; Japanese evangelical
-- [[iain-provan|Iain W. Provan]] — NIBC 1 & 2 Kings (1995); literary-canonical; unified narrative; believing criticism; Edinburgh/Regent
+- [[david-tsumura|David Toshio Tsumura]] — NICOT 1 Samuel (2006) + 2 Samuel (2019); Semitic philology; MT-first text criticism; Japanese evangelical · sources [[tsumura-1-samuel-nicot]] + [[tsumura-2-samuel-nicot]] (both fidelity re-ingest 2026-07-18)
+- [[iain-provan|Iain W. Provan]] — NIBC 1 & 2 Kings (1995); literary-canonical; unified narrative; believing criticism; Edinburgh/Regent — source [[provan-1-2-kings-nibc]] (fidelity reingest 2026-07-18)
 - [[hannah-harrington|Hannah K. Harrington]] — NICOT Ezra-Nehemiah (2022); Second Temple specialist; ritual purity; social-scientific method
 - [[mervin-breneman|Mervin Breneman]] — NAC Ezra-Nehemiah-Esther (1993); traditional evangelical exposition; Southern Baptist
 - [[peter-leithart|Peter J. Leithart]] — BTC 1–2 Chronicles (2019); post-critical doctrinal; typological-figural; Reformed
 - [[john-hartley|John E. Hartley]] — NICOT Job (1988); evangelical; message-focused; Wesleyan; ANE parallels
 - [[declaisse-walford-jacobson-tanner|deClaissé-Walford / Jacobson / Tanner]] — NICOT Psalms (2014); canonical shape; three co-authors; poetry-first
 - [[bruce-waltke|Bruce K. Waltke]] — NICOT Proverbs (2 vols., 2004/2005); grammatico-historical; Woman Wisdom as type; Reformed
-- [[tremper-longman|Tremper Longman III]] — NICOT Ecclesiastes + Song of Songs; NIVAC Daniel (1998/1999/2001); *hebel*; love poetry; apocalyptic
+- [[tremper-longman|Tremper Longman III]] — NICOT Ecclesiastes + Song of Songs; NIVAC Daniel (1998/1999/2001); *hebel*; love poetry; apocalyptic · Song source [[longman-song-of-songs-nicot]] (fidelity re-ingest 2026-07-18)
 - [[john-oswalt|John N. Oswalt]] — NICOT Isaiah (2 vols., 1986/1998); single authorship; Holy One of Israel; servanthood; Wesleyan
-- [[john-goldingay|John Goldingay]] — NICOT Jeremiah + Lamentations (2021/2022); Gospels analogy; both-and theology; Anglican
-- [[hetty-lalleman|Hetty Lalleman-de Winkel]] — TOTC Jeremiah + Lamentations; *šûb* analysis; 604 BCE turning point; Dutch Reformed
+- [[john-goldingay|John Goldingay]] — NICOT Jeremiah + Lamentations (2021/2022); Gospels analogy; both-and theology; Anglican · source [[goldingay-jeremiah-nicot]] (Jer fidelity re-ingest 2026-07-18)
+- [[hetty-lalleman|Hetty Lalleman-de Winkel]] — TOTC Jeremiah + Lamentations; *šûb* analysis; 604 BCE turning point; Dutch Reformed · source [[lalleman-jeremiah-lamentations-totc|Lalleman TOTC 21]] (full-body re-ingest 2026-07-18)
 - [[daniel-block|Daniel I. Block]] — NICOT Ezekiel (2 vols., 1997/1998); four pillars; *kābôd* narrative; Baptist; Wheaton
 - [[j-andrew-dearman|J. Andrew Dearman]] — NICOT Hosea (ca. 2010); household root metaphor; marriage metaphor origins; Austin Presbyterian
 - [[m-daniel-carroll|M. Daniel Carroll R.]] — NICOT Amos (2020); social justice; synchronic; Latin American perspective; Denver Seminary
@@ -1088,8 +1095,8 @@ Master index of all pages. Updated on every ingest.
 - [[dennis-cole|Dennis R. Cole]] — NAC Numbers (2000); seven-cycle structure
 - [[darrell-bock|Darrell L. Bock]] (b. 1953) — BECNT Acts (2007); Luke-Acts unity; historical reliability
 - [[mark-boda|Mark J. Boda]] — NICOT Zechariah (2016); night visions; inner-biblical allusion; Branch; McMaster
-- [[rt-france|R. T. France]] — NICNT Matthew (2007) + NIGTC Mark (2002); fulfillment; narrative christology; Galilee/Jerusalem; Messianic Secret; Wycliffe Hall Oxford
-- [[joel-green|Joel B. Green]] — NICNT Luke (1997); discourse analysis; theocentric narrative; Jubilee; holistic salvation; Wesleyan; Asbury
+- [[rt-france|R. T. France]] — NICNT Matthew (2007) + NIGTC Mark (2002); fulfillment; narrative christology; Galilee/Jerusalem; Messianic Secret; Wycliffe Hall Oxford · source [[france-mark-nigtc]] (fidelity re-ingest 2026-07-18)
+- [[joel-green|Joel B. Green]] — NICNT Luke (1997); discourse analysis; theocentric narrative; Jubilee; holistic salvation; Wesleyan; Asbury · source [[green-luke-nicnt]] (fidelity re-ingest 2026-07-18)
 - [[i-howard-marshall|I. Howard Marshall]] (b. 1934) — NICNT Epistles of John (1978); evangelical; apostolic authorship; Cerinthian/Docetic opponents; propitiation; Aberdeen
 - [[colin-kruse|Colin G. Kruse]] — PNTC Letters of John (2000; 2nd ed. 2020); evangelical; scenario-based reconstruction; 24 excursuses; Melbourne School of Theology
 - [[j-ramsey-michaels|J. Ramsey Michaels]] — NICNT Gospel of John (2010); synchronic close reading; "light" not "Logos" as dominant image; Johannine determinism; American Baptist; Gordon-Conwell/Missouri State
@@ -1104,7 +1111,7 @@ Master index of all pages. Updated on every ingest.
 - [[gareth-lee-cockerill|Gareth Lee Cockerill]] — NICNT Hebrews (2012); chiastic structure analysis; anti-neo-Platonic (apocalyptic worldview); Wesleyan-Arminian warning passage reading; Wesley Biblical Seminary
 - [[karen-jobes|Karen H. Jobes]] — BECNT 1 Peter (2005); Septuagint specialist; Roman colonization theory; syntax criticism / bilingual interference; Petrine authorship; ascension-victory reading of 3:18–22; Westmont/Wheaton; first solo woman commentator in the wiki
 - [[gene-green|Gene L. Green]] — BECNT Jude and 2 Peter (2008); cultural-contextual + social (honor) reading; defends authenticity of both; Jude's authoritative use of 1 Enoch; against the testament-genre argument; 2 Peter depends on Jude (*imitatio*); Majority World theology; Wheaton (distinct from Joel B. Green)
-- [[grant-osborne|Grant R. Osborne]] (1942–2018) — BECNT Revelation (2002); *The Hermeneutical Spiral*; Johannine authorship; Domitianic date; eclectic-futurist method; historic premillennial; mission theology; classical Arminian; TEDS; doctoral student of I. H. Marshall
+- [[grant-osborne|Grant R. Osborne]] (1942–2018) — BECNT Revelation (2002); *The Hermeneutical Spiral*; Johannine authorship; Domitianic date; eclectic-futurist method; historic premillennial; mission theology; classical Arminian; TEDS; doctoral student of I. H. Marshall · source [[osborne-revelation-becnt]] (fidelity re-ingest 2026-07-18)
 
 ### Scholarship (Daoism — 2026-06-10)
 - [[ziporyn-daodejing|Ziporyn, *Daodejing*]] (Liveright/Norton, 2022) — translation with Introduction + Notes; composite-text thesis; A/B structure; key-term analysis; working text for the wiki's Daodejing coverage; read in full
@@ -1440,11 +1447,12 @@ Master index of all pages. Updated on every ingest.
 - [[gilgul|Gilgul (Reincarnation / Transmigration of the Soul)]] — First extensive Jewish treatment in the Zohar (*Sava de-Mishpatim*, Vol. V); soul returns in new body for *tikkun* (repair), linked to levirate marriage; the Torah-maiden parable; extends prior Zoharic tripartite soul and afterlife teachings (new concept page, 2026-06-07)
 - [[tsaddiq|Tsaddiq (the Righteous One, Foundation of the World)]] — Yesod and its human embodiment (Joseph); "the righteous one is the foundation of the world" (Prov 10:25); guarding the covenant; the death of the righteous; the Ḥasidic *tsaddiq* (Zohar Vol III, 2026-06-07)
 - [[zoharic-afterlife|The Soul and the Afterlife (Kabbalah)]] — The tripartite soul (nefesh/ruaḥ/neshamah); the soul's journey via Machpelah to the lower Garden of Eden; resurrection dew; "the righteous do not die" (Zohar Vol III)
-- [[heikhalot|Heikhalot (Zoharic)]] — Zoharic reimagination of the heavenly halls/palaces as theurgic prayer praxis: the worshiper adorns Malkhut/Shekhinah’s maidens or chambers for union with the sefirot and Binah (“seventh with seventh”); two versions (Be-Reshit shorter; expanded Pequdei with halls of impurity); Pritzker Vol. XII (Wolski), joint Introduction with Hecker.
-- [[raza-de-razin|Raza de-Razin (Secret of Secrets)]] — Zoharic treatise on physiognomy, metoposcopy, and chiromancy; the body as a readable Sod-level text whose features are mutable through sin, virtue, and *teshuvah* (distinctive pietistic emphasis); linked to *Secretum secretorum*; Pritzker Vol. XII (Hecker).
+- [[heikhalot|Heikhalot (Zoharic)]] — Zoharic reimagination of the heavenly halls/palaces as theurgic prayer praxis: the worshiper adorns Malkhut/Shekhinah’s maidens or chambers for union with the sefirot and Binah (“seventh with seventh”); two versions (Be-Reshit shorter; expanded Pequdei with halls of impurity); Pritzker Vol. XII (Wolski); standards reingest 2026-07-18 ([[wolski-hecker-zohar-pritzker-vol12|source]]).
+- [[raza-de-razin|Raza de-Razin (Secret of Secrets)]] — Zoharic treatise on physiognomy, metoposcopy, and chiromancy; the body as a readable Sod-level text whose features are mutable through sin, virtue, and *teshuvah* (distinctive pietistic emphasis); linked to *Secretum secretorum*; Pritzker Vol. XII (Hecker); standards reingest 2026-07-18 ([[wolski-hecker-zohar-pritzker-vol12|source]]).
 - [[circumcision|Circumcision (Brit Milah)]] — Gen 17 covenant sign; the great Jewish/Christian (Pauline supersession) divide and Islamic *khitan*; Kabbalistic covenant of **Yesod** that "opens the rungs" and guards against the Other Side (Zohar Vol II, 2026-06-07)
 
 ### Biblical Theology
+- [[gog-magog|Gog and Magog]] — Ezekiel 38–39's archetypal end-of-history invader; identity debate (Gyges of Lydia; Rosh≠Russia per Block), genre dispute (not apocalyptic per Block), targumic/3 Enoch Messiah-ben-Joseph reception, Rev 19–20 (new 2026-07-18; [[block-ezekiel-25-48-nicot|Block NICOT Vol. 2]])
 - [[covenant|Covenant]] — Central category spanning all traditions; *berît*
 - [[imago-dei|Imago Dei]] — Image of God (Gen 1:26–27); theological anthropology
 - [[toledot|Toledot Formula]] — Genesis structural device; "generations/history of X"
@@ -1471,6 +1479,9 @@ Master index of all pages. Updated on every ingest.
 - [[hebel|*Hebel* (Vanity/Meaninglessness)]] — Ecclesiastes' governing term; vapor/breath; death and inaccessible time; Romans 8 allusion
 - [[divine-human-marriage|Divine-Human Marriage Metaphor]] — Hosea to Revelation; *tĕšûqâ* arc; Song of Songs as illuminating analogy; eschatological consummation
 - [[servant-songs|Servant Songs / Suffering Servant]] — Isaiah 42, 49, 50, 52-53; identity debate; substitutionary atonement; Christological fulfillment
+- [[holy-one-of-israel|Holy One of Israel]] — Isaiah's signature divine title (13× in 1–39, 16× in 40–66, 7× elsewhere); holiness as otherness + moral perfection; Oswalt's unity argument (new 2026-07-18)
+- [[remnant|Remnant]] — Shear-jashub; "only a remnant"; 6:13 holy seed; Hasel's inverted Assyrian usage; "the most apt summary of the entire book" (Oswalt) (new 2026-07-18)
+- [[day-of-the-lord|Day of the LORD]] — popular vindication-day vs. prophetic "destruction and terror"; Isa 2 and 13; "in that day" double edge; anti-astral polemic (new 2026-07-18)
 - [[new-covenant|New Covenant]] — Jeremiah 31:31-34; Torah on hearts; universal knowledge; forgiveness; longest OT quote in NT (Hebrews 8, 10)
 - [[divine-glory-kabod|Divine Glory (*Kābôd*)]] — YHWH's manifest presence; tabernacle to Ezekiel's temple to Incarnation to new Jerusalem
 - [[apocalyptic-literature|Apocalyptic Literature]] — genre; symbolic imagery; numbers; Daniel to Revelation; "God is in control"; hermeneutic; Cohn's ancient roots
@@ -1604,7 +1615,7 @@ a `sects/` page, cross-linked.)*
     - [[kabbalah|Kabbalah]] — mystical movement (12th c.–present); Ein Sof and the ten sefirot, theurgy, the Sitra Aḥra; the Zohar as canonical mystical scripture
     - [[karaism|Karaism]] — scripturalist sect (8th c.–present); Tanakh alone; **rejects** the rabbinic Oral Torah (new stub 2026-06-09)
     - [[sadducees|Sadducees]] — priestly Second Temple party (2nd c. BCE–70 CE); Written Torah only; no Oral Torah, no resurrection, no providence; aristocratic/Temple-based; vanished after 70 CE; contrast to [[pharisees|Pharisees]] (full page 2026-06-10)
-    - [[essenes|Essenes]] — separatist Second Temple sect; ascetic, communal, pacifist; identified with Qumran / Dead Sea Scroll community; deterministic theology; contrast to Pharisees and Sadducees (full page 2026-06-10)
+    - [[essenes|Essenes (group)]] — the community as social/historical actor; see [[essenism|Essenism]] for the sect page (canon, doctrine, hermeneutics). Separatist Second Temple sect; ascetic, communal, pacifist; identified with Qumran / Dead Sea Scroll community; deterministic theology; contrast to Pharisees and Sadducees (full page 2026-06-10)
 
 ### Christianity
 - [[christianity|Christianity]] — tradition overview; the 27-book NT canon, the Quadriga, map of 2nd-c. sects
@@ -1854,6 +1865,14 @@ a `sects/` page, cross-linked.)*
 ---
 
 ## Controversies
+
+### Isaiah (2026-07-18; [[oswalt-isaiah-1-39-nicot|Oswalt NICOT Vol. 1]])
+- [[isaiah-authorship|Authorship and Unity of Isaiah]] — single essential authorship (Oswalt) vs. Deutero/Trito-Isaiah (Döderlein, Eichhorn, Duhm) vs. redactional continuum / Isaiah school vs. Childs's canonical final form; Radday stylometrics; the predictive-prophecy premise. **Open**
+
+### Ezekiel (2026-07-18; [[block-ezekiel-1-24-nicot|Block NICOT Vol. 1]] + [[block-ezekiel-25-48-nicot|Vol. 2]])
+- [[ezekiel-20-25-no-good-laws|Ezekiel 20:25–26 — The "No-Good Laws"]] — did Yahweh give bad laws and defile his people? Patristic punitive readings (Justin, Irenaeus, Origen, Chrysostom) vs. targumic/rabbinic softenings vs. seven modern solutions vs. Davis/Block anti-domestication. **Open**
+- [[king-of-tyre-interpretation|The King of Tyre (Ezekiel 28)]] — human king vs. Lucifer/Satan (since Origen) vs. Canaanite myth vs. veiled high-priest oracle. **Open**
+- [[ezekiel-temple-vision-interpretation|Ezekiel's Temple Vision (chs. 40–48)]] — literal blueprint vs. millennial program vs. Levenson's liturgical manifesto vs. failed restoration program vs. Block's ideational reading vs. Christian allegory (Theodoret). **Open**
 
 ### Latter-day Saint / Restorationist (2026-07-17)
 - [[book-of-mormon-historicity|Book of Mormon Historicity]] — ancient American Israelites vs. 19th-century composition vs. inspired fiction; Moroni 10 epistemology
@@ -2263,3 +2282,57 @@ a `sects/` page, cross-linked.)*
 - [[cacciaguida|Cacciaguida]] · [[bernard-of-clairvaux|Bernard of Clairvaux]] · [[piccarda-donati|Piccarda Donati]] (figures)
 - Extended: [[justinian|Justinian]] (Par. 6, the Roman Eagle), [[thomas-aquinas|Aquinas]] (Par. 10–14), [[beatific-vision|Beatific Vision]] (Par. 33)
 - Inline (cantica page): Charles Martel, Cunizza, Folco, Rahab, St Francis, St Dominic, Solomon, the Eagle of justice, Trajan & Ripheus, Peter Damian, St Benedict, St Peter/James/John, Adam, the angelic orders, the Celestial Rose
+
+---
+
+## Gospel of Matthew (R. T. France, NICNT) — Added 2026-07-18 (Scope 1 fidelity re-ingest: Matt 1:1–16:20; 8 extraction passes, 2,091 claims; 6 integration passes)
+
+**Source page:** [[france-matthew-nicnt|France, *The Gospel of Matthew* (NICNT, 2007)]] — scope plan, coverage ledger, reliability notes. Scope 2 (Matt 16:21–28:20) outstanding.
+
+### Texts
+- [[sermon-on-the-mount|The Sermon on the Mount (5:1–7:29)]] — France's anthology reading; 5:17–20 as the interpretive crux
+- [[lords-prayer|The Lord's Prayer (6:9–13)]] — petition by petition; the *epiousios* crux
+- [[genealogy-of-jesus|The Genealogy of Jesus (1:1–17)]] · [[temptation-of-jesus|The Temptation of Jesus (4:1–11)]]
+- Extended: [[matthew|Gospel of Matthew]] — substantially rewritten; three ungrounded claims from the 2026-06-05 pass corrected
+
+### Concepts
+- [[fulfillment|Fulfilment]] — typological pattern-recognition, not predictive verification; France's governing theme
+- [[formula-quotations|Formula-Quotations]] — Matthew's own editorial gloss, against the testimony-book hypothesis
+- [[kingdom-of-heaven|Kingdom of Heaven]] · [[parable|Parable]] · [[discipleship|Discipleship]] · [[righteousness|Righteousness]]
+- [[antitheses|The Antitheses (5:21–48)]] — "bypass, not abolish" · [[beatitudes|The Beatitudes (5:3–10)]]
+- [[sabbath|Sabbath]] · [[purity|Purity]] · [[divorce|Divorce]] · [[miracles|Miracles]] · [[exorcism|Exorcism]]
+- Extended: [[son-of-man|Son of Man]] (Dan 7 enthronement reading), [[messianic-secret|The Messianic Secret]] (Matthean nuance vs Marcan), [[old-law|The Old Law]], [[oral-torah|Oral Torah]]
+
+### Locations / Figures / Groups
+- [[galilee|Galilee]] — the Galilee/Jerusalem polarity France treats as hermeneutically mandatory
+- [[nazareth|Nazareth]] · [[capernaum|Capernaum]] · [[herod-antipas|Herod Antipas]]
+- [[twelve-apostles|The Twelve Apostles]] · [[gentiles|Gentiles]]
+- Extended: [[jesus|Jesus]], [[john-the-baptist|John the Baptist]], [[peter-apostle|Simon Peter]] (the rock saying), [[pharisees|Pharisees]], [[rt-france|R. T. France]]
+
+### Controversies
+- [[synoptic-problem|The Synoptic Problem]] — France's cross-fertilization model recorded as one position among others
+
+## Bruckner, Exodus (UBCS) — Full fidelity re-ingest 2026-07-18 (4 extraction passes; main-thread integration)
+
+- [[bruckner-exodus-ubcs|Bruckner, *Exodus* (UBCS) — source page]] — complete work re-read (Intro + §1–§48) with coverage ledger; supersedes June 2026 bookkeeping. Extended: [[exodus]], [[james-bruckner]], [[moses]], [[aaron]], [[jethro]], [[bezalel]], [[pharaoh]], [[israelites]], [[amalekites]], [[sinai-horeb]], [[divine-name]], [[covenant]], [[circumcision]], [[holiness]], [[sacrifice]].
+
+## Hartley, The Book of Job (NICOT) — Full fidelity re-ingest 2026-07-18 (5 extraction passes; 3 integration passes + main-thread controversies)
+
+**Source page:** [[hartley-job-nicot|Hartley, *The Book of Job* (NICOT, 1988)]] — whole volume body re-read (Introduction §§I–XII + commentary on 1:1–42:17) with coverage ledger; supersedes the 2026-06-05/06-07 bookkeeping, which produced no source page.
+
+### Figures / Locations
+- [[eliphaz-the-temanite|Eliphaz the Temanite]] · [[bildad-the-shuhite|Bildad the Shuhite]] · [[zophar-the-naamathite|Zophar the Naamathite]] · [[elihu|Elihu son of Barachel the Buzite]]
+- [[uz|Uz]] — Job's homeland; the Edomite/Transjordanian vs North-Arabian debate
+- Extended: [[job|Job]] (Hartley's portrait of the character — city gate, ash heap, the fourteen sins of ch. 31, intercession), [[satan|the Satan]] (a title, not a name; Hartley declines the NT identification and denies the wager framing)
+
+### Concepts
+- [[doctrine-of-retribution|Doctrine of Retribution]] — Hartley's "double retribution"; the book corrects misapplication rather than rejecting the doctrine; the *ḥinnām* / disinterested-piety hinge
+- [[behemoth-and-leviathan|Behemoth and Leviathan]] — Hartley's both/and reading and his anti-*Chaoskampf* line
+- Extended: [[theodicy|Theodicy]], [[wisdom-literature|Wisdom Literature]] (ch. 28), [[sheol|Sheol]] (resuscitation, not resurrection, at 14:14), [[kinsman-redeemer|Kinsman-Redeemer]]
+
+### Controversies
+- [[job-third-cycle-integrity|The Third Cycle of Job (chs. 24–27)]] — Gordis and Hölscher/Duhm reconstructions vs Hartley's one-block minimal solution; Zophar's silence as design, not damage
+- [[elihu-speeches-authenticity|The Elihu Speeches — Original or Interpolated?]] — Hartley argues integration but leaves authorship open
+- [[job-19-25-redeemer|Job 19:25 — Who Is the Redeemer?]] — God himself; vindication before death; resurrection reading rejected as "reading back of the NT into the OT"
+- Extended: [[job-42-6|Job 42:6]] — **Hartley's position corrected**; he reads *niḥam* as resolute redirection without remorse, and what Job recants is his avowal of innocence
+- [[isaiah-job-servant-direction|Job and Isaiah's Suffering Servant]] — promoted from stub; four positions on the direction of influence

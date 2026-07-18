@@ -5,8 +5,8 @@ tradition: cross-tradition (Judaism, Christianity)
 textual_sources: [Genesis 38; Ruth 4:12; Matthew 1:3; The Zohar]
 dates: legendary / patriarchal age
 roles: [matriarch of the messianic line, righteous initiator]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [figure, genesis, kabbalah, messianic, women, cross-tradition]
 ---
 
@@ -51,6 +51,16 @@ The Zohar (Parashat Va-Yeshev) defends and exalts Tamar at the **Sod** level:
 - **The two mothers of the royal seed**: "There were **two women through whom the seed of Judah was established**, from whom issued King David, King Solomon, and **King Messiah**. These two correspond to one another: **Tamar and [[ruth|Ruth]]**" — both widows whose husbands died, both of whom "exerted themselves in this action." The Zohar thereby reads the irregular unions of Genesis 38 and the book of Ruth as parallel, providential channels for the messianic soul to enter the world through [[judah|Judah]]'s line.
 - The episode stands in pointed contrast to **Er and Onan**, who wasted seed and fed the [[sitra-ahra|Sitra Aḥra]]: Tamar's initiative *rescues* the line that her husbands' sin had endangered, turning the misuse of [[tsaddiq|Yesod]] back toward the establishment of the kingdom ([[shekhinah|Malkhut]]).
 
+### Pritzker Vol. III reingest anchors (2026-07-18)
+
+Material below is grounded in Zohar III (Pritzker Vol. III; [[matt-zohar-pritzker-vol3|Matt, Vol. III]]), Parashat Va-Yeshev (1:186a–188b), with the Er/Onan–Yesod frame of the same unit.
+
+**Er and Onan as *ra* / wasted seed (1:186a–188a).** In the Zohar body (Pritzker III, 1:186a–186b), when Judah “went down,” “the moon was concealed and descended… conjoined by a serpent”; Er = *ra*, evil — “he spilled blood, spilled seed upon the earth. Therefore, YHVH put him to death.” Fruitless emission is the worst defiling sin this world and next: “spilling one’s seed fruitlessly—emitting seed in vain by hand or foot… *Er, Judah’s firstborn, was evil*” (1:188a); “Evil cannot abide with You” (Ps 5:5). Levirate (*yibbum*): “that seed must mend the matter and mold an embryo for restoration, so that the stock not be separated from its root” (1:187b–188a). Children entitle one to the heritage of YHVH / Bundle of the soul / world to come (1:188a). See [[tsaddiq|Tsaddiq]]; [[sitra-ahra|Sitra Aḥra]].
+
+**Tamar’s wisdom; Holy One assists (1:188a–188b).** “Would you ever imagine that she set out to whore with her father-in-law, given that she was inherently modest? Rather, she was **righteous and did this out of wisdom**… the blessed Holy One offered assistance in that very act and she immediately conceived… precisely she, and no other woman, was needed” (1:188a–188b).
+
+**With Ruth: seed of Judah → David / Solomon / King Messiah (1:188b).** “There were **two women through whom the seed of Judah was established**, from whom issued King David, King Solomon, and **King Messiah**. These two correspond to one another: **Tamar and Ruth**… Both of them exerted themselves to act kindly and faithfully toward the dead,” so the world is enhanced; the Holy One assisted. Perets: “alluding here to the original, licentious breach that he breached, because of which he died… he named him פרץ (*Perets*), Breach” — and he will make a breach in other nations (1:188b). Source: [[matt-zohar-pritzker-vol3|Matt Pritzker Zohar Vol. III]]; [[judah|Judah]]; [[shekhinah|Shekhinah]] (kingdom seed).
+
 ---
 
 ## Theological and Narrative Significance
@@ -74,4 +84,4 @@ Tamar belongs to a biblical pattern of **bold women who secure the covenant line
 - [[david|David]] — their royal descendant
 - [[tsaddiq|Tsaddiq]] / [[sitra-ahra|Sitra Aḥra]] — Er and Onan's wasted seed vs. the rescued line
 - [[shekhinah|Shekhinah]] — Malkhut, the kingdom and the messianic seed
-- [[zohar|The Zohar]], [[kabbalah|Kabbalah]], [[genesis|Genesis]]
+- [[zohar|The Zohar]], [[kabbalah|Kabbalah]], [[matt-zohar-pritzker-vol3|Matt Pritzker Zohar Vol. III]], [[genesis|Genesis]]

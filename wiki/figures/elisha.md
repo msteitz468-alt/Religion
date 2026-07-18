@@ -5,8 +5,8 @@ tradition: cross-tradition
 textual_sources: [1 Kings, 2 Kings, Luke]
 dates: [9th century BCE]
 roles: [prophet, miracle worker]
-sources_ingested: 2
-last_updated: 2026-06-06
+sources_ingested: 3
+last_updated: 2026-07-18
 tags: [figure, cross-tradition, prophet]
 ---
 
@@ -53,3 +53,16 @@ Provan (NIBC) provides a dedicated excursus on Elisha in canonical context, expl
 - [[prophet|Prophet]] / [[sons-of-the-prophets|Prophetic Guilds]]
 - [[jehu|Jehu]] (political revolution)
 - [[resurrection-of-the-dead|Resurrection of the Dead]] — [[levenson-resurrection-and-the-restoration-of-israel|Levenson]] treats Elisha's raising of the Shunammite's son (2 Kgs 4) as the most extensive narrative resurrection in the Hebrew Bible, evidence of an *early* faith in God's power over death
+- [[provan-1-2-kings-nibc|Provan NIBC 1–2 Kings]] (fidelity reingest 2026-07-18)
+
+## Provan NIBC reingest (2026-07-18)
+
+*Attributed to [[iain-provan|Iain W. Provan]], [[provan-1-2-kings-nibc|*1 and 2 Kings* (NIBC)]]. Digest R5, §35–§46.*
+
+- **Humble channels:** Servants, maid, lepers, nurse mediate or receive God’s work; kings are often ignorant, arrogant, or obstructive.
+- **Naaman:** Grace to outsider/leper; delayed Jordan cure proves living LORD, not prophetic magic; monotheism; Gehazi the judged insider; **Luke 4:27**.
+- **Jehu incomplete:** Ahab + Baal destroyed; **golden calves remain**; still *yāšār* with fourth-generation promise because Baal’s fall outweighs Jeroboam-sins for now.
+- **Athaliah / Joash:** Judean “Jezebel” nearly ends the seed; Joash hidden in the temple preserves David’s lamp—“David” survives “Jezebel.”
+- **Bones (13:20–21):** Corpse/*šlḵ* // exile/*šlḵ*; residual power; exile-as-tomb with hope if prophetic teaching is held.
+- **Abraham for the North (13:23):** Everlasting patriarchal grace inserted; law/grace tension for Israel as for Judah.
+- **§46 Canonical excursus:** Elisha = **Joshua to Elijah’s Moses** (life-from-death, foreigner salvation, denser miracles after double portion); dual role (“God saves” / “judgment”); named only in Luke 4:27 but many implicit Gospel parallels; underplayed partly because successors raise “Jesus as John’s successor” anxieties.

@@ -55,6 +55,8 @@ The juxtaposition of "forgiving guilt" (v.7a) and "visiting the guilt on childre
 
 **Numbers 14:18-23** corroborates Bruckner's reading: Moses quotes Exod 34:6-7 to persuade God to forgive the wilderness rebellion. God forgives — but that generation nonetheless dies in the wilderness. Forgiveness restores relationship; it does not reverse the trajectory set in motion by the sin.
 
+**Further notes from the 2026-07-18 re-ingest** ([[bruckner-exodus-ubcs|source page]]): Bruckner reports Kohlenberger's account of the Jewish enumeration — the first four attributes (presence, salvation, provision, constancy) derive from the doubly spoken name itself, the other nine from the list of vv. 6–7. The muted theophany is deliberate: "The Lord's greater glory was found not in this visible manifestation, but rather in the relationships proclaimed in his name." The three sin words forgiven (*ʿawon*, *pashaʿ*, *khattaʾah*) signal comprehensiveness — "God will forgive every kind of sin"; *nasaʾ* ("forgiving") is "lifting a burden and carrying it away," the verb of Isa 53:4, 12. *Salakh* (34:9) "occurs only with God as the subject in the OT." Bruckner also links 33:19 ("I will have mercy on whom I will have mercy") to 3:14 as "an expansion of the name Yahweh" (with Childs), and ties God's jealousy (*qannaʾ*) to *qanah*, "the people you bought" (15:16).
+
 ## Exod 6:2-3 and the Documentary Hypothesis
 
 "I am YHWH. I appeared to Abraham, to Isaac and to Jacob as God Almighty, but by my name YHWH I did not make myself known to them." This verse claims that YHWH was *not* the name used with the patriarchs — yet Genesis repeatedly uses YHWH in narratives about Abraham, Isaac, and Jacob.

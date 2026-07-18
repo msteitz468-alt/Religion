@@ -5,8 +5,8 @@ tradition: cross-tradition (Judaism / Christianity / Islam; with Zoroastrian com
 textual_sources: [book-of-job, 1-enoch, jubilees, revelation]
 dates: mythological / legendary (no historical dating)
 roles: [adversary, accuser, tempter, fallen angel, ruler of demons, personification of evil]
-sources_ingested: 1
-last_updated: 2026-06-09
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [figure, cross-tradition, satan, devil, evil, demonology, angelology]
 ---
 
@@ -73,8 +73,8 @@ texts that did not originally describe him.
   earliest explicit identification of the Eden serpent with the Devil.
 
 **New Testament (Satan as a fixed personal enemy):**
-- **The tempter** of Jesus in the wilderness (Matt 4; Luke 4); **Beelzebul**, "prince of
-  demons" (Mark 3); **"I saw Satan fall like lightning"** (Luke 10:18); **"your father the
+- **The tempter** of Jesus in the wilderness (Matt 4; Luke 4; and Mark 1:12-13 — see the Marcan
+  section below); **Beelzebul**, "prince of demons" ([[mark|Mark]] 3); **"I saw Satan fall like lightning"** (Luke 10:18); **"your father the
   devil"** (John 8:44); **"the god of this age"** (2 Cor 4:4) and **"the prince of the
   power of the air"** (Eph 2:2).
 - **[[revelation|Revelation]] 12 and 20** — "the great dragon..., that ancient serpent, who
@@ -166,6 +166,99 @@ Reformation's polemical Devil (and the application of "Antichrist" to the papacy
 literary Devil of **Milton, Goethe (Mephistopheles), and Dostoevsky.** In Judaism the major
 elaboration is **Kabbalistic** ([[sitra-ahra|Sitra Aḥra]] / Samael).
 
+## Satan in the Gospel of Mark (France, NIGTC Mark, 2002)
+
+*Added 2026-07-18 from the fidelity reingest of [[france-mark-nigtc|France's NIGTC Mark]]. All
+interpretive claims are [[rt-france|R. T. France]]'s.*
+
+- **The wilderness tableau (1:12-13).** France reads Mark's thirty-word "temptation" account —
+  which he retitles "The Context of Jesus' Mission" — as a tableau of the dramatis personae of a
+  supernatural conflict behind the earthly scenes of Galilee and Jerusalem: "on the one side,
+  supporting Jesus, are the Spirit and the angels; on the other, Satan and the wild animals."
+  The conflict resurfaces at 8:33, where Jesus' "Get behind me, Satan" to
+  [[peter-apostle|Peter]] is more than abuse: Peter's "human thoughts," by opposing God's
+  revealed purpose, make him and those who agree with him "spokesmen of God's ultimate enemy."
+  France notes the sequence from divine affirmation (1:11) to Satanic testing recalls Job 1, and
+  reads πειραζόμενος positively as "testing" initiated by the Spirit.
+- **No decisive defeat in the wilderness.** Against E. Best, France argues 1:12-13 records no
+  outcome: the continued demonic encounters show a real ongoing contest, so the verses "present
+  dramatis personae, not a decisive victory." Likewise on the "binding the strong man" saying
+  (3:27): "Nothing may be seized from the strong man until he is bound, but this does not
+  require that he be bound once for all" — each exorcism remains a real "power encounter"
+  implementing a victory-in-principle, "as in NT eschatology generally."
+- **The kingdom in terminal decline.** France argues the exorcisms' ultimate significance in
+  3:22-30 is christological: they reveal the collapse of Satan's kingdom before the incoming
+  kingdom of God — "The power of Satan ... has entered terminal decline"; Jesus' ministry is
+  "the decisive turning point in the contest between good and evil."
+- **Beelzebul.** France holds that Beelzebul in Mark is "simply an alternative name for Satan,"
+  of unknown derivation and unattested as a demonic name in pre-Christian Jewish literature: "In
+  the end we simply do not know where Mark got it from." The scribes' charge that Jesus' ministry
+  is Beelzebul's work is, in Mark's setting, the unforgivable blasphemy against the Spirit (see
+  [[holy-spirit|Holy Spirit]]).
+- **Against exorcistic technique.** France cautions against reading exorcistic method — including
+  modern charismatic "binding Satan" rituals — out of 3:27: the imagery relates "not to Jesus'
+  exorcistic methods, but rather to the eschatological salvation which he now brings," the σκεύη
+  plausibly the people rescued from Satan's oppression (echoing Isa 49:24-26).
+
+## The Satan in Job (Hartley, NICOT Job, 1988)
+
+*Added 2026-07-18 from the ingest of [[hartley-job-nicot|Hartley's NICOT Job]]. All
+interpretive claims are [[john-hartley|John E. Hartley]]'s.*
+
+Hartley's treatment is notably **restrained**, and its restraint is itself the significant
+datum: he develops no demonology from Job 1–2 and makes no identification with the later
+Devil.
+
+- **Title, not a name.** "Here the Hebrew word *haśśāṭān* has the article, so it functions as
+  a title rather than as a personal name. The Hebrew root *śṭn* means 'to oppose at law'"
+  (p. 71). Hartley uses the English "the Satan," with the article, throughout translation and
+  comment. He deploys the point against a late date for the book: "The term *the Satan* in the
+  prologue functions as a title, not as a proper name as in the late books of Chronicles and
+  Zechariah" (p. 18).
+- **"Prosecutor" reported but judged inadequate.** Hartley reports that "some scholars
+  conjecture that the Satan may be the prosecuting attorney of the heavenly council. If this
+  view is correct, his task on earth was to discover human sins and failures and to bring his
+  findings before the heavenly assembly" (pp. 71–72) — then declines it for this scene: "But
+  his role in this scene deviates from this explanation. Instead of uncovering disruptive
+  plans, he acts as **a troublemaker, a disturber of the kingdom**" (p. 71).
+- **Membership in the sons of God left open.** Hartley records the dispute without settling
+  it: "The majority of scholars assume that he was"; Driver-Gray "understand the preposition
+  *among* (Heb. *bəṯôḵ*) to indicate that he had a prominent place in this assembly"; but
+  "some recent scholars understand the text to portray the Satan as an intruder," reading
+  *gam* as "other than" or *among* as marking an outsider (p. 72). Hartley redirects to
+  function rather than adjudicating: "the main function of this assembly here is to provide an
+  open forum in which Yahweh permits the testing of Job… the plan to test Job was not hatched
+  in a secret meeting" — which matters because "the author has a doubly difficult task
+  throughout his work: continually to characterize Job as innocent and not to characterize
+  Yahweh as demonic" (pp. 72–73).
+- **No identification with the later or NT Satan.** In the extracted range Hartley **nowhere**
+  equates *haśśāṭān* with a devil-figure, a fallen angel, or the Satan of the New Testament.
+  This is a deliberate restraint worth stating explicitly, given how heavily the rest of this
+  page is shaped by exactly that later synthesis.
+- **Not a wager.** "Many scholars speak of this transaction between Yahweh and the Satan as a
+  wager. But this is inaccurate, for no sum was set to be handed over to the winner. The single
+  issue at stake was the motivation for Job's upright behavior and his fear of God. The Satan
+  functions as God's servant, solely an instrument in the testing. **The author holds to a pure
+  monotheism wherein God is ultimately responsible for all that happens**" (p. 74). Consistent
+  with this, Hartley reads Yahweh's *sûṯ* ("incite") at 2:3 as Yahweh accepting "full
+  responsibility for Job's plight," conceding no authority to the Satan (pp. 79–80), and
+  explains the Satan's disappearance from the epilogue accordingly: "Yahweh himself feels
+  obliged to resolve the conflict for Job" (p. 80). Job, for his part, "has no battle with the
+  Satan" and at 10:8 "attributes the swallowing to God, with no thought about the Satan"
+  (pp. 80, 186).
+- **The challenge and its *ḥinnām* reversal.** The Satan "doubted whether any person would
+  fear God for nothing or without reason (Heb. *ḥinnām*)… The Satan's question insinuated that
+  all good deeds spring from selfish motives" (p. 73); Yahweh's counter-use of the same word
+  at 2:3 declares the accusations "groundless" (p. 80). See
+  [[doctrine-of-retribution|The Doctrine of Retribution]], where Hartley argues that Job's
+  friends inadvertently take the Satan's side by urging repentance for the sake of restored
+  blessing.
+- **Behemoth and Leviathan as the functional stand-in.** The Satan never reappears, and
+  Hartley reads the second Yahweh speech as addressing his challenge obliquely: mastery over
+  the "primordial monsters" demonstrates that Yahweh is "Lord of all forces, earthly and
+  cosmic, that brought on Job's affliction" (p. 534). See
+  [[behemoth-and-leviathan|Behemoth and Leviathan]].
+
 ## Modern Reception — "The Death of Satan" (Delbanco)
 
 [[andrew-delbanco|Andrew Delbanco's]] *The Death of Satan: How Americans Have Lost the
@@ -200,11 +293,16 @@ he fell "acerbo," unripe. See [[divine-comedy|The Divine Comedy]].
 1. [[andrew-delbanco|Delbanco, Andrew]]. *The Death of Satan: How Americans Have Lost the
    Sense of Evil*. New York: Farrar, Straus and Giroux, 1995. (raw/misc)
 2. Dante, *The Divine Comedy* (Inferno 34), trans. Robin Kirkpatrick (Penguin) — ingest 2026-06-29.
+3. [[rt-france|France, R. T.]]. *The Gospel of Mark* (NIGTC; Eerdmans, 2002) — see
+   [[france-mark-nigtc|source page]]; the Marcan Satan section above. Ingested 2026-07-18.
+4. [[john-hartley|Hartley, John E.]] *The Book of Job*. NICOT. Grand Rapids: Eerdmans, 1988 —
+   see [[hartley-job-nicot|source page]]; the Job section above. Ingested 2026-07-18.
 
 ## Cross-Links
 
 - [[andrew-delbanco|Andrew Delbanco]]; [[secularization-of-evil|The Death of Satan / Secularization of Evil]]
 - [[sitra-ahra|Sitra Aḥra]] (Samael; the Jewish-Kabbalistic "Other Side"); [[antichrist|Antichrist]] (the related end-time opponent); [[principalities-powers|Principalities and Powers]]; [[demiurge|the Demiurge]] (Gnostic alternative); [[theodicy|Theodicy]]
 - Texts: [[book-of-job|Job]], [[1-enoch|1 Enoch]], [[jubilees|Jubilees]] (Mastema), [[revelation|Revelation]] (the dragon)
+- Job's comforters, on whom Hartley's verdict is that they unwittingly take the Satan's side by urging Job to seek God for gain: [[eliphaz-the-temanite|Eliphaz the Temanite]] and [[zophar-the-naamathite|Zophar the Naamathite]]; see also [[behemoth-and-leviathan|Behemoth and Leviathan]], which Hartley reads as the Yahweh speeches' functional stand-in for the Satan
 - Figures: [[adam|Adam]] (the Fall; Iblis's refusal to bow), [[jesus-of-nazareth|Jesus]] (the temptation), [[michael-archangel|Michael the Archangel]] (disputes with the devil; war in heaven)
 - Comparative: [[zoroastrianism|Zoroastrianism]] (Angra Mainyu / Ahriman); [[zoroastrian-influence-on-abrahamic-eschatology|Zoroastrian influence on Abrahamic eschatology]]; [[the-combat-myth|the Combat Myth]]; [[gnosticism|Gnosticism]]

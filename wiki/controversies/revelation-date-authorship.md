@@ -61,6 +61,24 @@ of John:
 Osborne concludes the internal evidence supports the strong early external witness: **Johannine
 (apostolic) authorship "makes the best sense."** See [[john-apostle|John the Apostle]].
 
+### Fidelity re-ingest densification (authorship)
+
+From [[osborne-revelation-becnt|Osborne BECNT]] Introduction (digest R1):
+
+- **Internal:** self-identification as John on Patmos — "slave," "prophet," never "apostle"; seven
+  identity proposals surveyed (apostle, elder, Mark, Baptist, another John, Cerinthus, pseudonym).
+- **External:** Justin → Irenaeus, Tertullian, Clement, Origen as accepted view; Marcion first
+  rejecter; Dionysius of Alexandria first developed the linguistic case against apostolic authorship
+  (followed by Eusebius, Cyril of Jerusalem, Chrysostom).
+- **Two Johns (Papias/Eusebius):** Osborne (with Smalley, Gundry) favors one John in Papias;
+  Eusebius's split is read as bias against Revelation; even if two Johns, no evidence one wrote
+  Gospel and the other Apocalypse.
+- **Pseudonymity rejected:** does not fit ancient apocalyptic (pseudonyms were long past); one would
+  expect "John the apostle" if forged; early-church pseudonymity uncertain.
+- **Greek/Gospel differences:** genre, visionary experience, deliberate solecisms / LXX influence
+  rather than separate authors; shared *logos*, oneness motif, rare *ekkenteō* (Zech 12:10), and
+  overlapping vocabulary support affinity.
+
 ## Date
 
 Early Christian writers proposed dates under Claudius, Nero, Domitian, or Trajan; the live modern
@@ -74,16 +92,19 @@ favors **Domitian (c. AD 95)**. The evidence:
 - **Persecution**: the book reflects sporadic, local, mostly *unofficial* hostility (Jewish "synagogues
   of Satan," social/economic pressure to join the guilds and cult), with worse anticipated — fitting
   the 90s; the Neronian persecution (64–68) was severe but limited to *Rome*, with no evidence it
-  reached Asia.
-- **The seven churches** (the evidence that changed Osborne's mind): Laodicea's *unaided* wealth fits
-  its rebuilding after the AD 60 earthquake; "do not harm the oil and wine" (6:6) may reflect
-  Domitian's AD 92 edict on vines; the Nero *redivivus* legend behind the beast's "healed wound"
-  (13:3) developed in the 80s–90s; Smyrna's church may not have existed in the 60s.
+  reached Asia. Most current oppression in the book is Jewish (2:9; 3:9); Antipas past; "perspective
+  of the book is that most of the oppression is yet to come."
+- **The seven churches** (the evidence that changed Osborne's mind): Laodicea's *unaided* recovery
+  best fits post–AD 80 rebuild after the earthquake; wealth better fits the 90s; "do not harm the oil
+  and wine" (6:6) most likely Domitian's AD 92 vine edict; "synagogues of Satan" under Domitian;
+  Smyrna's church may not have existed in the 60s; Nero *redivivus* legend developed in the 80s–90s.
 
 **Arguments for the Neronian date** (and Osborne's answers): the beast's "number" and the "sixth king
 who is" (17:9–11) read as Nero/Galba; the temple "still standing" in 11:1–2 (Osborne: 11:1–2 is
 *symbolic*, not a literal temple). He concludes the date "must remain uncertain," but Domitian "has
-better evidence."
+better evidence." On 17:9–11 he prefers a **combined symbolic-historical** reading (with Bauckham):
+5+1+1 presupposes Domitian as reigning emperor but numbering is symbolic of temporary tyranny about
+to be completed, not a precise emperor cipher.
 
 ## Why It Matters
 
@@ -99,6 +120,7 @@ better evidence."
 ## Key Links
 
 - [[revelation|The Revelation to John]] — the text page
+- [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest source
 - [[grant-osborne|Grant R. Osborne]] — defends apostolic authorship and the Domitianic date
 - [[john-apostle|John the Apostle]] — the traditional author
 - [[papias|Papias of Hierapolis]] — figure page; the Two Johns context

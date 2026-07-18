@@ -6,7 +6,7 @@ tradition: Judaism (Kabbalah)
 affiliation: [Castilian Kabbalah, the "Gnostic" circle of Castile]
 primary_texts_commented: [Torah (Pentateuch), Song of Songs, Ruth]
 sources_ingested: 1
-last_updated: 2026-06-07
+last_updated: 2026-07-18
 tags: [commentator, judaism, kabbalah, castile]
 ---
 
@@ -54,6 +54,16 @@ After de León's death in 1305, his widow reportedly told the kabbalist Isaac of
 
 Whether "author" is even the right category is debated: some scholars (Yehuda Liebes) argue the Zohar emerged from a circle of kabbalists engaged in shared mystical-literary creativity, with de León as the central but not sole figure.
 
+### Green’s framing of de León (Pritzker Vol. I Introduction)
+
+*Attributed summary of [[arthur-green|Arthur Green]]’s introduction to [[matt-zohar-pritzker-vol1|Pritzker Edition Volume I]] — not bare wiki adjudication.*
+
+Green presents Moses de León as “the central figure in both the writing and the circulation of the Zohar” and holds it “likely” that de León “saw himself as a disciple” of the mid-thirteenth-century Castilian kabbalists whom **Gershom Scholem** characterized as the “Gnostic Circle” (fascination with demonic “left” emanation; predecessors of the Zohar circle). Green places de León among Castilian sefirotic writers of c. 1280–1310 (with Todros Abulafia, Joseph Gikatilla, Isaac Ibn Sahula, and others) within whose circle Aramaic poetic fragments first circulated.
+
+On early distribution, Green reports that fragments of the Zohar were first distributed by de León, who claimed they were copied from an ancient manuscript in his possession — in Green’s terms, “a classic technique of pseudepigraphy.” Green’s retelling of the Isaac of Acre investigation (via Zacuto’s *Sefer Yuḥasin*): de León assured Isaac the ancient manuscript was real; the widow later denied any such manuscript and said her husband claimed ancient origins for his own work for pecuniary advantage; others, while also denying an ancient MS, claimed de León had written “through the power of the Holy Name” (Green glosses possible automatic writing or reincarnational access to Rabbi Shim’on). Green notes that Graetz and other opponents treated the widow’s report as simple truth and de León as a charlatan; Green himself flags that de León may have told his wife such things for reasons other than their being the simple truth, and that the “selling books” claim has “the air of an explanation to a spouse.”
+
+Green summarizes the modern scholarly arc as positions: young Scholem initially sought earlier layers and found single authorship hard to believe, then reversed to conclude the entire Zohar was written by de León (philological “fingerprint” comparing Zoharic Aramaic quirks to de León’s Hebrew works); contemporary scholarship (especially **Yehuda Liebes**, developed by **Ronit Meroz**) has “parted company with Scholem on the question of single authorship,” while still tacitly accepting that de León wrote or edited long sections including the main narrative/homiletical body. Green also compares de León’s surviving Hebrew treatises (~twenty; several published) with the Zohar: same doctrinal content but relatively “dull and uninspired” beside the Zohar’s poetic freedom — Green’s impression that de León “stepped into another world” when writing the Zohar, with the shift from Hebrew to Aramaic marking that portal and releasing his muse.
+
 ---
 
 ## Influence
@@ -73,3 +83,5 @@ The Zohar de León produced became, within two centuries, the third canonical pi
 - [[sitra-ahra|Sitra Aḥra]]
 - [[pardes|PaRDeS]]
 - [[daniel-matt|Daniel C. Matt]] — modern translator of the Zohar
+- [[arthur-green|Arthur Green]] — Pritzker Vol. I introduction; frames de León’s role in writing, circulation, and the authorship debate
+- [[matt-zohar-pritzker-vol1|The Zohar: Pritzker Edition, Volume I]]

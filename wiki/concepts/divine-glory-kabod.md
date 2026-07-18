@@ -2,8 +2,8 @@
 title: Divine Glory (*Kābôd*)
 domain: theology / theophany / divine presence
 traditions_using: [Judaism, Christianity]
-sources_ingested: 1
-last_updated: 2026-06-05
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, glory, kabod, divine-presence, theophany, ezekiel, tabernacle, john, revelation, incarnation]
 ---
 
@@ -56,6 +56,23 @@ The *kābôd* returns from the east — the same direction it departed — and f
 
 Block's analysis: the departure-and-return of the divine *kābôd* is the theological spine of Ezekiel. The fall of Jerusalem was not a failure of YHWH's promises; it was YHWH's deliberate withdrawal from a defiled sanctuary. The restoration is not merely political; it is the return of the divine presence.
 
+Further detail from the Vol. 1 re-ingest (NICOT, 1997):
+- Block reads 9:3 and 10:4 as "variations of a key statement that stitches" judgment and abandonment together: "the judgment of the city transpires at the very moment that Yahweh abandons his temple." The idolaters' own slogan — "Yahweh does not see us; Yahweh has abandoned his land" (8:12; 9:9) — "becomes a self-fulfilling prophecy of the staged exit of the glory."
+- Ch. 10 vs. ch. 1: for Block, 10:9–22 is "one of the most obvious illustrations of echo literary strategy in Scripture" — in ch. 10 "the abstract has become concrete," the creatures are recognized as cherubim ("the living heavenly realities that the static sculptures in the inner sanctum symbolize!"), and Ezekiel discovers why the inaugural vision was fiery: the chariot brings coals of judgment and will carry the glory out.
+- Where does the glory go? Block rejects the idea that it travels to Babylon to be the exiles' *miqdāš mĕʿaṭ*: "One should rather envision the throne-chariot conveying the glory back to its real and eternal abode in the heavens" (as Dan 7 and Rev 4 assume), returning only in 43:1–5 "from the same direction by which it had left."
+- The weight Block places on the event: "the turning point in Israel's history came not with the accession of Zedekiah or even the Babylonian capture of Jerusalem, but with the departure of the glory of the King of heaven from his temple." And the sovereignty note: "Yahweh abandons the city by his own decision, for his own reasons, in his own time, and by his own means."
+- ANE frame: Block reads the departure against the Mesopotamian divine-abandonment motif (Cogan on neo-Assyrian image spoliation; Esarhaddon on Marduk leaving Babylon), with the shared logic that abandonment from divine wrath opens the city to foreign armies — thoroughly transformed within Yahwism.
+- Reception (Block's excursus): the vision's afterlife runs through Dan 7; 10:5–6, Ben Sirach 49:8, 1 Enoch 14:18, the Qumran Sabbath Songs' hymnic *merkabâ* exegesis, the Targum's expansion of 1:24, and Rev 4 ("no fewer than a dozen expressions" borrowed); post-70 the vision declared Yahweh "enthroned in heaven… inaccessible to mundane military powers."
+
+**The return in detail (Block, NICOT Vol. 2 ingest, 2026-07-18).** From [[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]]:
+- **43:1–7 as reversal and enthronement.** Block reads the approach of "the glory of the God of Israel… from the east," with "the landscape lit up with his glory" and the sound "like the sound of many waters" (linking 43:2 to 1:24), as deliberately recalling both the departure vision of chs. 8–11 and the inaugural Chebar theophany of 1:4–28: "the present movement affirms that the nation's period of separation from him is past" — a "reversal of the tragedy described in chs. 10–11." In 43:7 Ezekiel witnesses what Block calls "the enthronement of Yahweh": strikingly, the throne/footstool declaration attaches to the **temple itself, not the ark** — Ezekiel's temple has no ark (see [[tabernacle|Tabernacle]]).
+- **The entry pattern.** Block sets 43:1–9 in the tabernacle/temple dedication pattern (Exod 40:34–38; 1 Kgs 6–8): "the arrival of the glory served as a visible seal of Yahweh's approval," with ANE analogues (Esarhaddon on Esagila, Ashurbanipal, Nabonidus).
+- **Anti-akītu polemic.** Block reads the whole vision against the Babylonian akītu festival "celebrating the supremacy and enthronement of Marduk": it "strikes at the heart of paganized perspectives of Ezekiel's compatriots, who interpreted their exile as a sign of Marduk's supremacy over Yahweh." Yahweh "will not wait for any human king to lead him in procession; he comes of his own free will."
+- **Reflexive glory in judgment.** In the Sidon oracle Block notes the niphal *nikbadtî* (28:22), "I will show myself glorious" — the *kābôd* root deployed for Yahweh's self-glorification in judging the nations (cf. Pharaoh in Exod 14).
+- **Historical non-return.** Assessing chs. 40–48 as a restoration program, Block observes that "most seriously of all, the kābôd of Yahweh failed to return (cf. Hag. 2:3–9)" to the second temple — the promise remained open.
+- **Closed east gate.** The permanent closure of the outer east gate (44:1–3) is grounded, for Block, in the *kābôd*'s entry through it — the gate is sanctified by the passage of the glory; and in the recommissioning of 44:4 the prophet again falls prostrate: "Increasing familiarity does not increase this mortal's right to stand in the presence of deity."
+- **Christological closure.** Block ends the commentary on this concept's NT trajectory: "In Jesus the Messiah, the glory of Yahweh, has descended and dwells among us, full of grace and truth (John 1:14). He is Immanuel, 'God with us!'" — and earlier: Jesus is "not only the restored temple (John 2:19–22) but the physical manifestation of divine glory (John 1:14)." He also notes the *kābôd*/δόξα of Rev 21:23–24 as the Ezekielian motif's apocalyptic terminus.
+
 ### Ezekiel and the *Merkabah* Tradition
 
 Ezekiel 1 (the chariot-throne vision) became one of the most generative and contested texts in Jewish tradition. The Talmud restricted its public reading and teaching (Mishnah Megillah 4:10: "The chariot vision is not to be read as a weekly portion"). But it also spawned:
@@ -105,6 +122,7 @@ A recurring pattern structures the *kābôd* narrative across both Testaments:
 ## Sources Ingested
 
 1. [[daniel-block|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 1–24*. NICOT. Grand Rapids: Eerdmans, 1997.
+2. [[block-ezekiel-25-48-nicot|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 25–48*. NICOT. Grand Rapids: Eerdmans, 1998 — the return of the glory (43:1–9), akītu polemic, *nikbadtî* (28:22), Hag 2:3–9 non-return, closed east gate.
 
 ## Related Texts
 

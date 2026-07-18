@@ -5,8 +5,8 @@ tradition: Judaism (Second Temple period)
 textual_sources: [Matthew, Mark, Luke, Acts, Josephus (Jewish Antiquities, Jewish War), Mishna]
 periods_active: c. 2nd c. BCE–70 CE
 roles_significance: [Jewish aristocratic-priestly party; opponents of Oral Torah; allies of the Temple establishment; foils to Pharisaic Judaism]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [group, judaism, second-temple, sadducees]
 ---
 
@@ -86,6 +86,37 @@ Within Judaism, the Sadducean-Pharisaic dispute over Oral Torah is foundational:
 edifice of Rabbinic Judaism is built on the Pharisaic affirmation that the written text cannot
 be read without its accompanying oral tradition.
 
+## France on the Sadducees in Mark (NIGTC Mark, 2002)
+
+*Added 2026-07-18 from the ingest of [[rt-france|R. T. France]], [[france-mark-nigtc|*The Gospel
+of Mark* (NIGTC)]]. All interpretive claims are France's unless another scholar is named.*
+
+- **The resurrection challenge (Mark 12:18-27)**: France explains Sadducean rejection of
+  resurrection by their conservative scriptural authority (Torah primacy, rejection of oral
+  tradition), noting that "probably only two passages in the OT clearly express a belief in
+  resurrection and life after death (Is. 26:19; Dn. 12:2)," the belief growing from the second
+  century B.C. in apocalyptic and Maccabean-martyr traditions. For the Sadducees, "as for most
+  of the OT writers, [[sheol|Sheol]] was a final resting place," continuity lying in reputation
+  and posterity rather than personal survival.
+- France argues Jesus' Exod 3:6 reply is not a simplistic tense argument (no verb stands in the
+  Hebrew or in Mark's quotation) but "a reflection on the character of the covenant God" who
+  identifies himself by the patriarchs' names; this is the only pericope where Jesus directly
+  addresses the afterlife, and his support for the "[[pharisees|Pharisaic]]" view is
+  "unequivocal," with 12:25 excluding marriage (not love) from a resurrection life like that of
+  "angels in heaven."
+- **In the passion narrative**: France identifies the elders–chief priests–scribes list (8:31;
+  11:27; 14:43, 53; 15:1) as the three Sanhedrin power groups — the chief-priestly
+  (Sadducean-aligned) establishment central among them — making the passion predictions "a
+  comprehensive rejection of Jesus by all the leading representatives of God's people Israel."
+  Following D. L. Bock, he treats the night hearing before the (Sadducee-dominated) Sanhedrin
+  as "never seen or intended as a formal Jewish capital case, but a kind of preliminary
+  hearing" to build a case for Rome — so the mishnaic-illegality debate is beside the point,
+  and it is questionable whether the Mishnah's rules (codified c. A.D. 200) even applied
+  c. A.D. 30.
+- In an endnote (via Hoehner) France remarks that [[herod-antipas|Antipas]] "is unlikely to have
+  shared Pharisaic views of an afterlife" — an incidental placement of the Herodian court
+  nearer the Sadducean end of the afterlife spectrum.
+
 ## After 70 CE
 
 The Sadducees ceased to exist as a distinct party after the Temple's destruction. The Karaite
@@ -99,3 +130,5 @@ movement (8th c. CE) is sometimes seen as a partial revival of the Sadducean pri
 - [[talmud-bavli|Babylonian Talmud]] — the Pharisaic tradition that superseded them
 - [[mishna|Mishna]] — records Pharisaic rulings against Sadducean positions
 - [[unterman-talmud|Unterman]] — socio-political analysis
+- [[mark|Gospel of Mark]] · [[rt-france|R. T. France]] · [[france-mark-nigtc|France, Mark (NIGTC)]] — Mark 12:18-27 and the Sanhedrin hearing
+- [[resurrection-of-the-dead|Resurrection of the Dead]] · [[sheol|Sheol]]

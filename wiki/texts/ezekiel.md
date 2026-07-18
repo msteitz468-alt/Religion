@@ -11,7 +11,7 @@ canon_scope:
 language_original: Hebrew
 date_range: Ezekiel's ministry 593-571 BCE (the book's latest dated oracle is 571 BCE); text finalized shortly after
 sources_ingested: 2
-last_updated: 2026-06-07
+last_updated: 2026-07-18
 tags: [text, old-testament, prophets, latter-prophets, ezekiel, exile, glory, spirit, restoration, temple]
 ---
 
@@ -120,6 +120,141 @@ After the fall of Jerusalem (ch. 33 marks the structural hinge — the messenger
 5. **Unprecedented blessing and security**: covenant of peace (34:25-29; 37:26)
 6. **YHWH's permanent residence**: the divine presence returns and the sanctuary is established in Israel's midst forever (37:26-28; 40:1-48:35)
 
+## Composition, Text, and Scholarship
+
+*(grounded in the full Introduction of Block, NICOT Vol. 1 — fidelity re-ingest 2026-07-18)*
+
+**Literary profile (Block's data):** the book consists of fifty literary units, forty-eight
+introduced by a date notice or the word-event formula; fourteen oracles carry date notices,
+from the call (593) to the latest oracle (571, Ezek 29:17). Formula statistics Block compiles:
+*ʾădōnāy yhwh* 217×; *ben-ʾādām* 93×; *bêt yiśrāʾēl* 83× (57% of all OT usage); the
+recognition formula 54× pure plus 18 expanded. The language shows more Aramaisms than
+Jeremiah, dozens of Akkadianisms (Garfinkel's count: 24 definite, 14 probable, 12 possible),
+126 hapax legomena, and heavy dependence on the Priestly writings and the Holiness Code
+(Lev 17–26); the judgment oracles activate the covenant curses of Lev 26 and Deut 28.
+Distinctively absent vocabulary: Zion, *bṭḥ*, *gʾl*, *ḥsd*, *yšʿ*.
+
+**Composition history (positions):** the scholarly spectrum runs from pseudepigraph theories
+and poet-original reductions ("a few oracular fragments"), through Howie's scribe-disciple
+model and "school of Ezekiel" accretion theories, to the recent rehabilitation of Ezekiel as
+"the first and foremost literary prophet." Block defends substantial authorial composition via
+a seven-phase model of prophetic-book genesis (prophetic → rhetorical → transcriptional →
+narratorial → compilation → editorial → nominal events): "In my view, there is no reason to
+doubt that many of Ezekiel's oracles were recorded immediately… the prophet probably recorded
+them himself." His supporting pattern of "resumptive exposition" (themes announced briefly,
+then developed later) is used against redaction-critical stratification, whose formula-based
+criteria he judges unreliable. He still grants real editorial activity (e.g., 1:2–3 as an
+editorial synchronization; 4:1–5:4 as a "redactional conflation").
+
+**Psychoanalytic readings (positions):** Karl Jaspers found Ezekiel "an unequalled case for
+psychological analysis"; E. C. Broome concluded he "was a true psychotic"; D. J. Halperin
+revived the approach via buried rage. Block rejects the enterprise as speculative and as
+disregarding the rhetorical function of prophecy; his counter-frame: Ezekiel is a *môpēt*
+("sign, portent") — "the medium is the message" — and "a profound theologian." Block goes
+further than most in reading Ezekiel as a **reluctant, even resistant prophet**: the call
+narrative's oddities (its unmatched length, the scroll-eating, the sevenfold binding, the
+seven days of stunned silence Block reads as inward struggle) "are not easily answered unless
+one recognizes in Ezekiel a fundamental resistance to his call."
+
+**Text:** LXX frequently departs from MT; earlier scholarship near-automatically preferred
+LXX, while recent work is more eclectic with "a decided preference for MT" in some quarters;
+Qumran fragments in general support MT against the versions (Block's survey). Block's
+commentary is MT-based, with versional or conjectural help only where MT is ungrammatical.
+Ch. 1 is the second-most annotated unit in BHS after ch. 41.
+
+**Chapters 25–48 (Block, NICOT Vol. 2 — fidelity re-ingest 2026-07-18):** Block reads the
+oracles against the nations (25–32) as "negative messages of hope" — proof sayings
+(*Erweisworte*) whose judgment on the gloating neighbors indirectly comforts the exiles. He
+denies the OAN are a distinct genre, explains Babylon's absence by the prophet's
+"pro-Babylonian stance" (Babylon as "the sword in Yahweh's hand"), and analyzes the block as
+two balanced halves around the fulcrum 28:24–26 (ninety-seven verses each side), dominated by
+the number seven (seven nations; seven Egypt oracles). The Egypt collection's date-notice
+density "lends authenticity to the date notices in the book as a whole." Ch. 33, for Block,
+belongs logically with chs. 1–24 ("all the allusions are retrospective"); the OAN insertion is
+an editorial buffer whose interpretive effect is "drastic." The salvation oracles (34–48)
+resurrect the four demolished pillars: "the very notions Ezekiel had discredited as false
+bases of security… are resurrected… and presented as the certain and only reasons for hope."
+Throughout Vol. 2 Block defends MT and Ezekielian unity against emendation and accretion
+criticism (26:1 haplography excepted; 31:3 "Assyria" retained against the cypress emendation;
+39:21–29 defended against near-unanimous deletion), and repeatedly labels the wilder imagery
+(Gog, the bird banquet, the river, the Sheol tableau) a "literary cartoon" whose hyperbole
+warns against overliteral reading.
+
+## Key Interpretive Cruxes
+
+- **1:1 "thirtieth year"**: Block adopts Origen's solution — Ezekiel's own age, the year of
+  priestly induction (Num 4:30). Rival proposals: a transferred colophon (Gevarjahu), a lost
+  vision heading (Spiegel), 43:3–5 (York), 37:1–14 (Brownlee).
+- **3:16–21 watchman speech**: most scholars treat it as a secondary insertion from ch. 33;
+  Block reads the two watchman texts as deliberate "bookends," 3:16–21 private induction,
+  33:1–9 public — "It is as likely that 33:1–9 represents an expansion of 3:16–21" as the
+  reverse.
+- **9:4 the taw**: the mark on the foreheads of those who groan over the abominations. Block's
+  reception excursus traces its afterlife: Damascus Document, Pss. Sol. 15, b. Šabb. 55a
+  (Gabriel's ink-taw and blood-taw), Origen's Jewish informants (a Jewish Christian saw the
+  cross), Rev 7's sealing, Tertullian's taw as the cross.
+- **11:16 *miqdāš mĕʿaṭ***: "without parallel in the OT" (Block) — a Zadokite-line prophet
+  "announces the possibility of a relationship with Yahweh apart from the temple!" Block keeps
+  the deliberate ambiguity with "sanctuary in small measure."
+- **14:14 Noah, Daniel, Job**: against the fashionable identification with the Ugaritic Danʾel
+  of the Aqhat tale, Block argues for the biblical Daniel, Ezekiel's younger contemporary —
+  the Ugaritic figure "is a pagan, worshiping a foreign god," and the identification is
+  "probably wishful thinking — a way to avoid having to deal with Ezekiel's Daniel." The three
+  are not intercessors: "salvation may not be achieved by proxy."
+- **16:59–63 the everlasting covenant**: Block insists this is *not* a new covenant but "the
+  reinstitution, the fulfillment, of the eternal covenant made long ago" (primary inspiration
+  Lev 26:40–45); and, following Odell, the silenced "opening of the mouth" (16:63) ends
+  Israel's formal ritual complaints against Yahweh — "forgiveness becomes the precondition to
+  shame," not the reverse.
+- **18:2 sour-grapes proverb**: against the standard theodicy-protest reading, Block reads the
+  proverb as "materialistic fatalism… an embittered paralysis of the soul" — which resolves
+  the tension with v. 19, where the same audience *demands* transgenerational punishment.
+- **20:25–26 the "no-good laws"**: see [[ezekiel-20-25-no-good-laws|the controversy page]] —
+  a full reception dispute from Justin and Origen through the Targum to Ellen Davis's
+  anti-domestication reading, which Block endorses.
+- **21:32 (Eng. 27) "until he comes whose right it is"**: against the long messianic/
+  christological tradition, Block reads *mišpāṭ* as "judgment" (punishment) and the coming one
+  as **Nebuchadrezzar**; Gen 49:10 is deliberately inverted — "The prophet has turned a sacred
+  text upside down… On Ezekiel's lips Gen. 49:10 is not about tribute and subordination of the
+  world to Judah, but about the judgment of Judah." The genuinely messianic texts for Block are
+  34:23–24 and 37:22–25, with the cedar-sprig coda 17:22–24 as harbinger.
+- **24:1–2 the dated cauldron oracle**: uniquely uses the official regnal-year system,
+  mirroring 2 Kgs 25:1 (Jan 5, 587). Block: the written dated oracle "provided a litmus test
+  of Ezekiel's authenticity" (Deut 18:21–22) — prophecy "moving in the direction of archival
+  speech."
+
+- **26:1–14 / 29:17–21 the Tyre nonfulfillment problem**: Ezekiel's total-destruction oracle
+  against Tyre was not fulfilled by Nebuchadrezzar — 29:17–21 (the book's latest dated oracle,
+  571) awards Egypt as "compensation" for the failed siege. Block surveys seven solutions
+  (denial; abandonment; redactional insertion; honest prophetic error; van den Born's cynical
+  performance; Carroll's *vaticinium ex eventu*) and argues prophetic **contingency**: "The
+  efficaciousness of the word lay not in the word itself but in the power of the divine
+  speaker," who suspended the threat until Alexander.
+- **33:21 "twelfth year"**: the fugitive's arrival seems too long after the city's fall; Block
+  retains MT against the "eleventh year" emendation via a dual-calendar solution (24:1 uses the
+  official regnal calendar; the book's other dates use Ezekiel's exile-based system).
+- **36:23b–38 and Papyrus 967**: the earliest pre-Hexaplaric LXX witness omits 36:23bβ–30 and
+  orders chs. 36 → 38–39 → 37 → 40–48. Block rejects both parablepsis ("an omission of 1,451
+  letters is too long") and Lust's thesis that P967 preserves the earlier edition with MT as a
+  late "anti-Christian Pharisaic" arrangement — seven counterarguments (A. C. Johnson's
+  seventeen parableptic omissions elsewhere in the papyrus; Greenberg on Vorlage subjectivity;
+  the destroyed inclusio) — concluding "My exposition assumes the integrity of MT."
+- **37:16 the two sticks**: against the majority royal-scepter reading, Block argues the
+  *ʿēṣîm* are **writing boards** (*lûaḥ* ~ Akk. *lêʾu*; so already the Targum), since "Ezekiel
+  does not envision the unification of northern and southern dynasties, but the reunion of the
+  kingdoms themselves."
+- **38–39 the Gog pericope**: identity, genre, and reception — see [[gog-magog|Gog and
+  Magog]]. Block derives Gog from Gyges of Lydia, dismisses Rosh=Russia as "impossibly
+  anachronistic," and abandons the apocalyptic classification (Collins's definition applied);
+  38:17's "Are you the one…?" expects a negative answer — earlier prophecy "illegitimately
+  appropriated," not fulfilled.
+- **40–48 the temple vision**: blueprint, millennial program, liturgical manifesto, or
+  ideational vision — see [[ezekiel-temple-vision-interpretation|the controversy page]].
+  Block's position is ideational: "The issue for the prophet is not physical geography but
+  spiritual realities… Where God is, there is Zion."
+- **28:11–19 the king of Tyre**: human king, Lucifer, myth, or high priest — see
+  [[king-of-tyre-interpretation|the controversy page]].
+
 ## Key Passages
 
 ### Ezekiel 1: The *Merkabah* Vision
@@ -157,11 +292,38 @@ Not an architectural blueprint for a future building. Block: "a theological cons
 - **Romans 8:9-11**: The indwelling Spirit who enables obedience — theologically continuous with Ezek 36:27
 - **Revelation 21-22**: The new Jerusalem with the river of life flowing from the throne, the nations healed — extensive Ezekielian echoes; the city descending from heaven is the ultimate fulfillment of *YHWH šammâ*
 
-## Ezekiel in Jewish Tradition
+## Canon and Reception
 
-**Merkabah mysticism**: The first chapter of Ezekiel (the chariot vision) became the foundation of a major Jewish mystical tradition (Merkabah/Chariot mysticism), associated with texts like *Sefer Hekhalot* and *3 Enoch*. The Talmud records that the opening chapter was restricted reading because of its speculative dangers.
+*(Block's Introduction, §V "Ezekiel in Jewish and Christian Tradition")*
 
-**Canonical controversy**: The rabbis almost withdrew Ezekiel from the canonical scriptures because of apparent contradictions with the Torah (e.g., the final temple's laws differ from Mosaic law). According to tradition, Rabbi Hananiah ben Hezekiah burned 300 jars of oil studying it by night to resolve the contradictions.
+**Second Temple**: Ezekiel is never mentioned in the OT outside his book. Ben Sirach 49:8
+remembers the chariot vision; 4 Macc 18:17 cites "Shall these bones live?"; Josephus (*Ant.*
+10.5.1) says Ezekiel "left behind two books" — Block thinks the second is likely the
+*Apocryphon of Ezekiel*, a 1st-century-BC document "especially significant for its eloquent
+presentation of the doctrine of resurrection."
+
+**Qumran**: few textual fragments, but Block judges the influence on the community "profound"
+— the Temple Scroll's temple plans, the Zadokite priesthood claims of the Damascus Document
+(CD A 3:18–4:4), the forehead mark of the saved (CD B 19:11–14; from Ezek 9), and the
+*merkabâ* motif in the Sabbath Songs (see [[angelic-liturgy|Songs of the Sabbath Sacrifice]]).
+
+**Rabbinic Judaism / Merkabah**: Jerome reports Jews under thirty were forbidden to read the
+book's beginning and ending. b. B. Bat. 15a credits the book's writing to the men of the Great
+Synagogue (Ezekiel lived outside the land). Contradictions with the Mosaic Torah raised
+canonicity questions: R. Judah said resolution must wait for Elijah (Menaḥ. 45a), and Hananiah
+ben Hezekiah, with three hundred jars of oil, "harmonized Ezekiel with the Pentateuch" — "had
+it not been for him, it would have been suppressed in the synagogue." After AD 70, ch. 1
+grounded Merkabah mysticism: the throne-chariot as symbol of transcendence and immanence,
+"accessible only to the initiated" (associated texts: *Sefer Hekhalot*, *3 Enoch*).
+
+**Christian reception**: the NT never names Ezekiel, but "the Ezekielian stamp is most
+evident… in the Apocalypse of John" — Block counts dozens of direct contacts (Rev 4 alone
+"borrows no fewer than a dozen expressions" from Ezek 1). Church fathers pursued the temple
+number-symbolism as a picture of the heavenly kingdom/church; Andrew of St. Victor wanted to
+draw the inaugural vision; Calvin's Ezekiel expositions were his last written work, ending at
+ch. 20; "Luther showed little interest in Ezekiel." Modern conservative reception has fixated
+on Gog/Magog and the millennial temple — "evangelicals have had little time for this prophet
+apart from this narrow focus" (Block).
 
 ## Connections to the Wiki
 
@@ -182,5 +344,5 @@ Concept pages developed from this text:
 
 ## Sources Ingested
 
-1. [[daniel-block|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 1–24*. NICOT. Grand Rapids: Eerdmans, 1997.
-2. [[daniel-block|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 25–48*. NICOT. Grand Rapids: Eerdmans, 1998.
+1. [[daniel-block|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 1–24*. NICOT. Grand Rapids: Eerdmans, 1997. Fidelity re-ingest 2026-07-18 — see [[block-ezekiel-1-24-nicot|source page]].
+2. [[daniel-block|Block, Daniel I.]]. *The Book of Ezekiel: Chapters 25–48*. NICOT. Grand Rapids: Eerdmans, 1998. Fidelity re-ingest 2026-07-18 — see [[block-ezekiel-25-48-nicot|source page]].

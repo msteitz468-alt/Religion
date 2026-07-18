@@ -12,8 +12,8 @@ associated_peoples: [
   "Exiled Judeans (the Babylonian Exile, 597/586–539 BCE; King Jehoiachin and the deportees)",
   "Persians (after Cyrus' conquest, 539 BCE); Hellenistic Greeks; later decline and abandonment"
 ]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [location, babylon, mesopotamia, exile, empire, euphrates]
 ---
 
@@ -70,6 +70,22 @@ For [[augustine|Augustine]] in [[city-of-god|*City of God*]] (Books XVI–XVIII)
 Augustine extends the type into a philosophy of history: Assyria/Babylon is "**the first Babylon of the
 East**," and [[rome|Rome]] is "**a second Babylon in the west**" — the two great heads of the earthly
 city, running their course in parallel with the city of God from Abraham to the present.
+
+### Babylon in Ezekiel (Block)
+
+Daniel Block ([[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]]) notes that among
+Ezekiel's oracles against the nations, "conspicuously absent are messages addressed to the
+most powerful nation of the day … Babylon" — which he attributes to "the prophet's
+pro-Babylonian stance in political matters. To him Babylon was the sword in Yahweh's hand";
+the nations addressed were those that "stood in Nebuchadrezzar's divinely ordained path"
+(see [[nebuchadnezzar|Nebuchadnezzar]]). Block also reads the temple vision of chs. 40–48
+against the Babylonian **akītu** festival, the eleven-day Nisan celebration "celebrating the
+supremacy and enthronement of Marduk": the vision "strikes at the heart of paganized
+perspectives of Ezekiel's compatriots, who interpreted their exile as a sign of Marduk's
+supremacy over Yahweh" — unlike Marduk, Yahweh "will not wait for any human king to lead him
+in procession; he comes of his own free will." Similarly the closed east gate (44:1–3) is
+for Block "a veiled polemic against pagan notions" such as the Babylonian *pît bâbi*
+gate-opening ritual for Marduk.
 
 ## Key Events, Figures, and Controversies
 

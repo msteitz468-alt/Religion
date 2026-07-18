@@ -2,8 +2,8 @@
 title: Creation Ex Nihilo
 domain: theology
 traditions_using: [Judaism, Christianity, Islam]
-sources_ingested: 3
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [concept, judaism, islam, christianity, cosmology, aquinas]
 ---
 
@@ -13,6 +13,32 @@ The doctrine that God brought the world into being **out of nothing** (*ex nihil
 pre-existing material substrate — as opposed both to fashioning it from co-eternal matter (Plato)
 and to its being a necessary, beginningless emanation (Aristotle). The three Abrahamic traditions
 each defend it; this page gathers their treatments.
+
+## Genesis 1:1 — Hamilton’s absolute-clause reading
+
+Attributed to [[victor-hamilton|Hamilton]], *The Book of Genesis: Chapters 1–17* (NICOT); source page [[hamilton-genesis-1-17-nicot]]. Densified from reingest digests 2026-07-18.
+
+Hamilton’s own translation of 1:1–2 opens: “In the beginning God created the universe. And the earth—it was a desert and a wasteland…” (raw L2273–2277). He treats Gen 1:1 as among Scripture’s best-known and most contested verses: absolute independent clause vs dependent temporal clause, and the relation of v. 1 to v. 2 and the rest of the chapter (raw L2285–2287 / Gen 1:1).
+
+### Four options; stakes of the choice
+
+Four translation options for *berēʾšîṯ*: (1) absolute, independent clause; (2) indeterminate relative temporal “Initially”; (3) construct subordinated to v. 2; (4) construct subordinated to v. 3 with v. 2 parenthetical. Options (1) and (4) have widest scholarly support; “A knowledge of the Hebrew language will not be sufficient in itself to settle the matter” (raw L2289–2291 / Gen 1:1).
+
+The absolute vs temporal issue is not “esoteric quibbling”:
+
+> “Does Gen. 1:1 teach an absolute beginning of creation as a direct act of God? Or does it affirm the existence of matter before creation of the heavens and the earth? … in the beginning there was one—God; or … two—God and preexistent chaos? … the concept of the creation of chaos would be a contradiction in terms.” (raw L2327 / Gen 1:1)
+
+Hamilton therefore prefers the traditional absolute reading as teaching an **absolute beginning** as a direct act of God — one God, not God + co-eternal chaos/matter. That is the load-bearing exegetical move from this commentary for *creatio ex nihilo* discourse (without claiming that the later technical Latin doctrine is itself stated in Genesis).
+
+### Arguments he advances for the absolute reading
+
+- Against pure-theology shortcuts: Westermann and others choose the traditional translation from wider-chapter theology (repudiation of Enuma elish–type cosmogony); Childs: grammar allows both but “theology of P excludes” preexistent-chaos. Hamilton: theology alone is insufficient — lexical, grammatical, syntactical, comparative, and stylistic arguments also support “In the beginning” (raw L2329–2333 / Gen 1:1).
+- Lexical: Isa 46:9–10 uses *rēʾšîṯ* absolutely for God’s disposition over beginning and end as historical time as such; only Gen 1:1 has the noun followed by a finite perfect verb — unlike 2:4b’s infinitive-construct relative “when” (raw L2335–2337 / Gen 1:1; 2:4b).
+- Article absence not fatal; all ancient versions translate absolute independent clause; Masoretes accented with disjunctive *ṭiphâ* (absolute), not conjunctive (construct) (raw L2339 / Gen 1:1).
+- Comparative: Enuma elish 1–9 is more like Gen 2:4bff. than Gen 1:1–3; if any parallel, 1:2 // EE 1–8 and 1:3 // EE 9 — **Gen 1:1 is unique**. Gunkel: other cosmogonies have “no word which would come close to the first word of the Bible” (raw L2341 / Gen 1:1–3).
+- Structural: v. 1 = opening superscription and summary (functional analogue of the *tôlĕdôt* introductory sentence for later Genesis divisions); v. 2 = situation prior to detailed creation in vv. 3ff.; generalization → particularization (raw L2415–2419 / Gen 1:1–3; cf. [[toledot|toledot]]).
+
+Hamilton thus anchors an absolute beginning in Gen 1:1 as direct divine act, rejecting readings that leave preexistent matter/chaos beside God. Later philosophical formulations (Aquinas, Maimonides, kalām below) are recorded as their own traditions’ articulations, not back-read into the NICOT exegesis.
 
 ## Christianity — Aquinas
 
@@ -80,6 +106,16 @@ world without smuggling in an eternal substrate. He holds creation to be undemon
 defensible than [[eternity-of-the-world|Aristotle's eternity]], and accepts it on prophetic
 authority (II:16). See [[maimonides]].
 
+## Sources Ingested
+
+1. [[victor-hamilton|Hamilton, Victor P.]]. *The Book of Genesis: Chapters 1–17*. NICOT. Grand Rapids: Eerdmans, 1990. Source page: [[hamilton-genesis-1-17-nicot]] — Gen 1:1 absolute-clause reading (above).
+2. [[thomas-aquinas|Aquinas]] / [[summa-theologica|*Summa Theologiae*]] I, Q44–46; Q65–74 (creation; six days).
+3. [[al-ghazali|al-Ghazali]] / [[incoherence-of-the-philosophers|*Tahafut*]]; [[averroes|Averroes]] / [[incoherence-of-the-incoherence|*Tahāfut al-Tahāfut*]] (eternity debates).
+4. [[maimonides|Maimonides]], [[guide-for-the-perplexed|*Guide*]] II:13, 16.
+
 ## Related Texts
 
 - [[genesis|Genesis]]
+- [[toledot|Toledot Formula]]
+- [[imago-dei|Imago Dei]]
+- [[eternity-of-the-world|Eternity of the World]]

@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Hebrew
 date_range: Compositional layers from ca. 10th century BCE; final editing likely late 10th century BCE (Tsumura)
-sources_ingested: 3
-last_updated: 2026-06-09
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [text, old-testament, former-prophets, samuel, monarchy, david, saul]
 ---
 
@@ -98,9 +98,51 @@ The Hebrew text of 1-2 Samuel is in "extremely poor condition" by the standard o
 - **Brachylogy** — idiomatic ellipsis of standard elements
 - **AXB literary patterns** — deliberate rhetorical insertions misread as displaced text
 
-He proposes early composition of the major blocks (10th century BCE), pointing to archaic vocabulary (*ḥămôr leḥem* = an Akkadian calque obsolete by the LXX's era; *ṣemed* as the Akkadian land-area measure *ṣimdu*) that a postexilic Deuteronomistic editor would not have preserved.
+He proposes early composition of the major blocks (10th century BCE), pointing to archaic vocabulary (*ḥămôr leḥem* = an Akkadian calque obsolete by the LXX's era; *ṣemed* as the Akkadian land-area measure *ṣimdu*) that a postexilic Deuteronomistic editor would not have preserved. On dating: [[david-tsumura|Tsumura]] takes 1 Sam 27:6 ("Ziklag has belonged to the kings of Judah to this day") as a terminus ante quem — early Divided Monarchy / early Rehoboam, not later than the late 10th century B.C. (NICOT Intro §III; p. 17–18, 31–32).
 
-Tsumura's discourse grammar analysis (wayqtl for narrative mainline vs. weqtl for predictive discourse; background vs. foreground clauses) resolves apparent chronological issues and supports the literary integrity of the final form. His purpose statement for 1 Samuel: the king in Israel is to be subject to the prophet through whom God conveys his word. Both of Saul's rejections are structured by this principle. He is maximalist on historicity ("the absence of evidence is not evidence of absence") and skeptical of the Deuteronomistic History hypothesis (circularity of labeling expressions "Deuteronomistic," archaic vocabulary preserved only in early composition). ANE comparative material (Ugaritic, Akkadian, Mari, Assyrian inscriptions) is used to illuminate rather than relativize the text.
+Tsumura's discourse grammar analysis (wayqtl for narrative mainline vs. weqtl for predictive discourse; background vs. foreground clauses) resolves apparent chronological issues and supports the literary integrity of the final form. His purpose statement for 1 Samuel (Intro §X, p. 73): the book highlights establishment of the monarchy (chs. 8–12) and preparation of David (chs. 16–31); **the king in Israel is to be subject to the prophet through whom God conveys his word**. Both of Saul's rejections are structured by this principle. He is maximalist on historicity ("the absence of evidence is not evidence of absence") and skeptical of the Deuteronomistic History hypothesis (circularity of labeling expressions "Deuteronomistic," archaic vocabulary preserved only in early composition). ANE comparative material (Ugaritic, Akkadian, Mari, Assyrian inscriptions) is used to illuminate rather than relativize the text.
+
+## Hermeneutical Frameworks
+
+| Framework | How it reads 1 Samuel in this wiki's sources |
+|---|---|
+| **Historical-philological + discourse grammar** ([[david-tsumura|Tsumura]]) | MT-first; AXB/brachylogy/phonetic spellings; *wayqtl*/*weqtl*; ANE contextual; early United-Monarchy composition preferred |
+| **Final-form literary** ([[robert-alter|Alter]]; also endorsed in part by Tsumura) | Word-motifs, paired/tripled episodes, knowledge theme, unified David Story through 1 Kgs 2 |
+| **Source-/redaction-critical (DH)** | Rost AN / HDR / SN; Noth Dtr; Cross double redaction — recorded as positions on dating/composition, not as wiki-voice fact |
+| **Jewish canonical (Former Prophets)** | 1–2 Samuel as single unit within Neviʾim; prophetic judgment on kingship |
+| **Christian evangelical-canonical** | Messianic trajectory via Hannah’s *māšîaḥ*, Davidic line; Magnificat prototype; Phil 2:8 obedience of Messiah-king (Tsumura purpose close) |
+
+## Canon and Reception
+
+- **`canon_scope`:** Canonical for [[rabbinic-judaism|rabbinic Judaism]], [[catholicism|Catholicism]], [[eastern-orthodoxy|Eastern Orthodoxy]], and [[protestantism|Protestantism]] (as 1 Samuel / 1 Kingdoms / 1 Kings depending on title tradition).
+- **Jewish reception:** Part of Former Prophets; Samuel as prophet-judge-kingmaker; Saul tragedy; David messianic ancestor.
+- **Christian reception:** Typological and moral readings of Saul/David; Hannah → Magnificat; David → Christ via 2 Sam 7 / Matt 1:1.
+- **Critical reception:** Core text for DH debates, United Monarchy historicity, and the most difficult Hebrew textual situation in the HB.
+
+## Scholarship and Historiography
+
+Major positions (not adjudicated):
+
+1. **Tsumura (NICOT 2006):** Final editing ≤ late 10th c.; major blocks under United Monarchy; independent AN/HDR as single works unproven; MT majority of emendations needless; Tel Dan *bytdwd* as House of David.
+2. **McCarter / Tov-style eclectic text criticism:** Reconstruct via LXX + 4QSam where MT corrupt.
+3. **Noth / Cross DH:** Limited or multi-stage Deuteronomistic redaction of Samuel (Tsumura rejects the linguistic circularity).
+4. **Minimalist historiography:** Deny or severely reduce United Monarchy without extra-biblical proof (Tsumura counters via Hallo maximalism + Tel Dan/Mesha/Shoshenq notes).
+5. **Alter literary:** Synchronic artistry of the David Story against form-critical fragmentation.
+
+## Tsumura NICOT — Reingest Anchors (2026-07-18)
+
+Fidelity re-ingest of [[tsumura-1-samuel-nicot|Tsumura, *First Samuel* NICOT]] (body Intro + chs. 1–31). Selected load-bearing claims with page loci:
+
+- **Purpose (p. 73):** monarchy established (8–12) + David prepared (16–31); king subject to prophet; Messianic obedience (Phil 2:8) as climax of the principle.
+- **Structure:** four 1 Samuel blocks (1–7 + Ark; 8 transition; 9–15 Saul; 16–31 Saul-and-David); ch. 7 as discourse *terminus* of Story of Samuel (not McCarter’s mere prelude to kingship).
+- **Monarchy request (ch. 8):** transition section; sin (reject theocracy / “like all the nations”) *and* providence “somewhat negatively”; people want *melek*, God gives *nāgîd* (vice-regent). See [[monarchy-request]].
+- **Two rejections:** ch. 13 dynasty denied (“man of his choice”); ch. 15 person rejected; obedience > sacrifice (15:22–23); Agag = *ḥerem* completion not sacrifice. See [[herem-canaanite-conquest]].
+- ***nḥm* (15:11, 29, 35):** emotive regret (11, 35) vs relational non-change of judicial decision (29).
+- **Nob (22):** Saul as destroyer of priesthood; David as preserver (Abiathar + ephod/oracle).
+- **Endor (28):** not endorsement of necromancy; extraordinary event by God’s power; death oracle + kingdom to David.
+- **Gilboa (31):** honorable tragic end (Jabesh burial); forward look to David’s elegy and “Lord’s anointed” (Messiah).
+
+Full coverage ledger: [[tsumura-1-samuel-nicot]].
 
 ## Relationship to the Former Prophets Sequence
 
@@ -134,9 +176,17 @@ redaction-critical tradition per the Contradiction Protocol.
 
 Concept pages developed from this text:
 
-[[davidic-covenant]] · [[deuteronomistic-history]] · [[literary-reading-of-the-bible]] · [[resurrection-of-the-dead]] · [[sheol]] · [[succession-narrative]]
+[[kingship-in-israel]] · [[davidic-covenant]] · [[herem]] · [[ark-of-the-covenant]] · [[divine-providence]] · [[deuteronomistic-history]] · [[literary-reading-of-the-bible]] · [[resurrection-of-the-dead]] · [[sheol]] · [[succession-narrative]]
+
+## Links
+
+- Source: [[tsumura-1-samuel-nicot|Tsumura 1 Samuel NICOT]] · [[alter-the-david-story|Alter, *The David Story*]]
+- Commentator: [[david-tsumura]] · [[robert-alter]]
+- Figures: [[samuel]] · [[saul]] · [[david]] · [[jonathan]] · [[michal]]
+- Controversies: [[monarchy-request]] · [[herem-canaanite-conquest]]
+- Groups / places: [[philistines]] · [[amalekites]] · [[shiloh]]
 
 ## Sources Ingested
 
-1. [[david-tsumura|Tsumura, David Toshio]]. *The First Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2006.
+1. [[david-tsumura|Tsumura, David Toshio]]. *The First Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2006. — **Fidelity re-ingest 2026-07-18** with coverage ledger: [[tsumura-1-samuel-nicot]].
 2. [[robert-alter|Alter, Robert]]. *[[alter-the-david-story|The David Story: A Translation with Commentary of 1 and 2 Samuel]]*. New York: W. W. Norton, 1999.

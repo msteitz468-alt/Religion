@@ -6,7 +6,7 @@ canon_status: sectarian — canonical in the Ethiopian churches; pseudepigraphal
 canon_scope:
   canonical_for: [ethiopian-orthodoxy]
   deuterocanonical_for: []
-  authoritative_for: [essenes]
+  authoritative_for: [essenism]
   disputed_by: []
   rejected_by: [rabbinic-judaism, catholicism, eastern-orthodoxy, protestantism]
 language_original: Hebrew (fully extant in Ge'ez/Ethiopic; Hebrew fragments at Qumran)

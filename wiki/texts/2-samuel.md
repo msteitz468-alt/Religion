@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Hebrew
 date_range: Compositional layers from ca. 10th century BCE; final editing likely late 10th century BCE (Tsumura)
-sources_ingested: 3
-last_updated: 2026-06-09
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [text, old-testament, former-prophets, samuel, david, monarchy, covenant]
 ---
 
@@ -60,12 +60,10 @@ The **David and Bathsheba narrative (11:1–12:25) is structured as an AXB inser
 
 ### VI. Epilogues (21:1–24:25)
 
-The epilogues form a **concentric structure (A-B-X-X'-B'-A')** — an integral literary unit, not a secondary appendix:
+The epilogues form a **concentric structure (A-B-X-X'-B'-A')** — an integral literary unit, not a secondary appendix (against treating them as mere SN appendices):
 
 | Position | Section |
 |---|---|
-
-Tsumura emphasizes discourse structure throughout 2 Samuel (supra-sentential grammar distinguishing mainline narrative, background, and predictive elements) and the unity of 1–2 Samuel as a single work framed by Hannah's Song (1 Sam 2) and David's Song + Last Words (2 Sam 22–23). The Bathsheba narrative (11:1–12:25) is an AXB insertion into the Ammonite war (chs. 10 and 12:26–31 bracket the court drama). The Davidic covenant (ch. 7) is the theological center; the epilogues (famine, Philistine wars, Song = Ps 18, Last Words, census/plague, altar) provide concentric closure and theological reflection on sin, atonement, and worship. Tsumura's purpose for 2 Samuel highlights the unconditional covenant despite David's failure and the movement toward temple and dynasty. He continues the MT-priority and early-date arguments, using ANE parallels for illumination (e.g., royal apologies, covenant language). The "evil spirit" and census passages are treated with attention to divine sovereignty and human responsibility without flattening the tension.
 | A | Famine and execution of Saul's sons (21:1-14) |
 | B | Philistine war heroes (21:15-22) |
 | X | **Song of David** (22:1-51 = Psalm 18) |
@@ -73,7 +71,9 @@ Tsumura emphasizes discourse structure throughout 2 Samuel (supra-sentential gra
 | B' | David's heroes (23:8-39) |
 | A' | Census and the Lord's anger (24:1-25) |
 
-The final episode (ch. 24) — David's census and the subsequent plague, followed by the purchase of Araunah's threshing floor — **points forward to the temple**: the threshing floor becomes the site where Solomon will build the house for YHWH (1 Kgs 6). Tsumura: "Just as the establishment of the human institution of monarchy sidetracked the covenant people away from the true King, in the same way, Solomon's Temple would lead the people to look at the physical temple and lead them away from the real presence of God."
+[[david-tsumura|Tsumura]] emphasizes discourse structure throughout 2 Samuel (supra-sentential grammar distinguishing mainline narrative, background, and predictive elements) and the unity of 1–2 Samuel as a single work framed by Hannah's Song (1 Sam 2) and David's Song + Last Words (2 Sam 22–23). The Bathsheba narrative (11:1–12:25) is an AXB insertion into the Ammonite war. The Davidic covenant (ch. 7) is the theological center; the epilogues provide concentric closure. Purpose of 2 Samuel (Intro §VII): show how God led David's life **despite grave sins** in order to keep the promise of heirs and an eternal dynasty; ch. 24 points to the temple site.
+
+The final episode (ch. 24) — census, plague, Araunah's threshing floor — **points forward to the temple**. Tsumura (Intro §VII): as monarchy sidetracked the people from the true King, Solomon's Temple would lead them to look at the physical temple and away from the real presence of God.
 
 ## The Davidic Covenant (2 Sam 7) — Theological Center
 
@@ -156,13 +156,52 @@ testament. Recorded alongside Tsumura's canonical reading and the source-critica
 per the Contradiction Protocol.
 
 
+## Hermeneutical Frameworks
+
+| Framework | How it reads 2 Samuel in this wiki's sources |
+|---|---|
+| **Historical-philological + discourse grammar** ([[david-tsumura|Tsumura]]) | MT-first (phonetic spellings; DSS/LXX not one-sided); *wayqtl*/*weqtl* procedural discourse especially at 2 Sam 7; synchronic priority; early Divided Monarchy audience |
+| **Final-form literary** ([[robert-alter|Alter]]; partly endorsed by Tsumura) | Character reticence, paired episodes, sin-and-curse center of “David Story” |
+| **Source-/redaction-critical (HDR/SN/DH)** | Rost SN, Noth Dtr — recorded as positions; Tsumura skeptical of DH macrostructure and late dating of eternal-dynasty language |
+| **Jewish / Christian canonical** | Davidic covenant as messianic ground (Ps 89, 132; Matt 1:1; Luke 1:32–33) |
+
+## Canon and Reception
+
+- **`canon_scope`:** Canonical for [[rabbinic-judaism|rabbinic Judaism]], [[catholicism|Catholicism]], [[eastern-orthodoxy|Eastern Orthodoxy]], and [[protestantism|Protestantism]] (2 Samuel / 2 Kingdoms / 2 Kings by title tradition).
+- Continuous with 1 Samuel as a single Former Prophets unit; reception centers on David, covenant, temple site, and messianic hope.
+
+## Scholarship and Historiography
+
+1. **Tsumura (NICOT 2019):** Final edit ≤ late 10th c. (with 1 Sam 27:6); eternal dynasty not postexilic (ANE parallels); genre intermediate epic/annalistic; not David's biography but salvation history.
+2. **Rost / SN-HDR critics:** Court History / Succession Narrative as independent units — Tsumura prefers Story of King David (1–20) + integral Epilogues.
+3. **Alter literary:** David Story as character-driven tragedy of sin and curse.
+4. **Minimalist / maximalist debate:** Tsumura maximalist continuity with vol. 1 (Hallo; Tel Dan context).
+
+## Tsumura NICOT 2 Samuel — Reingest Anchors (2026-07-18)
+
+Fidelity re-ingest of [[tsumura-2-samuel-nicot|Tsumura, *Second Samuel* NICOT]] (Intro I–VII + chs. 1–24 body). Selected load-bearing claims:
+
+- **Purpose (Intro §VII):** God led David's life despite grave sins to keep the promise of heirs / eternal dynasty; *berît ʿôlām* in Last Words (23:5); temple-site preparation (ch. 24).
+- **Theme:** “Human desires and divine plans” (Hannah / Saul / David–temple vs dynasty).
+- **2 Sam 1:** A/aB LINK from Story of Saul-and-David to Story of King David; Amalekite report likely false vs 1 Sam 31.
+- **2 Sam 7:** central theme of book and OT; *bayit* wordplay; discourse PAST/PRESENT/FUTURE partition of Nathan oracle; unconditional grant like Abraham.
+- **11–12 AXB:** Bathsheba as “great turning point”; sword not depart from house; genuine repentance vs Saul.
+- **13–20:** Absalom revolt enacts 12:11; Tekoa intertextuality critique; Joab kills Absalom against order; return politics → Sheba.
+- **21–24 ABXX′B′A′:** Song center (*ḥesed* to anointed/seed forever); Uriah among heroes; census anger of LORD; Araunah → temple.
+
+Full coverage ledger: [[tsumura-2-samuel-nicot]]. Companion: [[tsumura-1-samuel-nicot]].
+
 ## Concepts
 
-Concept pages developed from this text:
+[[davidic-covenant]] · [[kingship-in-israel]] · [[ark-of-the-covenant]] · [[deuteronomistic-history]] · [[literary-reading-of-the-bible]] · [[succession-narrative]]
 
-[[davidic-covenant]] · [[deuteronomistic-history]] · [[literary-reading-of-the-bible]] · [[succession-narrative]]
+## Links
+
+- Source: [[tsumura-2-samuel-nicot|Tsumura 2 Samuel NICOT]] · [[tsumura-1-samuel-nicot|1 Samuel NICOT]] · [[alter-the-david-story|Alter, *The David Story*]]
+- Figures: [[david]] · [[bathsheba]] · [[absalom]] · [[nathan]] · [[joab]] · [[abner]] · [[amnon]] · [[tamar]] · [[michal]] · [[solomon]]
+- Concepts: [[davidic-covenant]] · [[kingship-in-israel]]
 
 ## Sources Ingested
 
-1. [[david-tsumura|Tsumura, David Toshio]]. *The Second Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2019.
+1. [[david-tsumura|Tsumura, David Toshio]]. *The Second Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2019. — **Fidelity re-ingest 2026-07-18:** [[tsumura-2-samuel-nicot]].
 2. [[robert-alter|Alter, Robert]]. *[[alter-the-david-story|The David Story: A Translation with Commentary of 1 and 2 Samuel]]*. New York: W. W. Norton, 1999.

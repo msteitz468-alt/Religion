@@ -6,7 +6,7 @@ textual_sources: [Book of Job]
 dates: [patriarchal-era setting (traditional); composition debated, Hartley argues 7th cent. BCE]
 roles: [righteous sufferer, theodicy exemplar, model of disinterested faith, friend of God]
 sources_ingested: 3
-last_updated: 2026-06-27
+last_updated: 2026-07-18
 tags: [figure, cross-tradition, wisdom-literature, theodicy, suffering, job]
 ---
 
@@ -22,6 +22,30 @@ Job is introduced as "blameless and upright, one who feared God and turned away 
 - **Ezekiel 14:14, 20**: Named with Noah and Daniel as a righteous man whose righteousness would deliver only himself in a land under judgment.
 - **James 5:11**: "You have heard of the steadfastness of Job, and you have seen the purpose of the Lord, how the Lord is compassionate and merciful."
 - **Testament of Job** (pseudepigraphal): Expands the story with Satan as a beggar, Job's wife as a figure of endurance, and eschatological elements.
+
+## Hartley's Portrait of Job as Character
+
+The following reconstruction of Job's social world and moral trajectory is [[john-hartley|Hartley's]] throughout; it is his reading of the character, not a wiki-voice historical claim.
+
+**The noblest sheikh, and the ash heap.** Hartley reads Job's status through the honor-and-shame conventions of an ancient walled town. Job "was accustomed to go through the city gate to the square to fellowship with the elders. The broad place outside the main city gate was the hub of the ancient city… From this practice grew the expression that justice took place in the gate (cf. Amos 5:15)." The deference Job commanded there is stratified: "When Job, the noblest elder, entered the city square, he was accorded the greatest deference. Out of respect youths ceased playing and hid while the old men rose and stood silently. The princes or the officials (*śārîm*) of the city likewise ceased speaking as they raised a hand to their mouths… Nobles (*nəḡîḏîm*)… also hushed their speaking." His honor rested on patronage of the powerless: "the mark of a righteous person was that he heard the cries of these miserable creatures and acted to rescue them." He looked forward to "the growth of his honor and authority in [[uz|Uz]]."
+
+The reversal is therefore total. The ash heap is "outside the city walls… a collection of the ashes from the city's ovens, broken pots, and other refuse; it was the abode of outcasts" (p. 83), and Hartley notes that Job "would have been barred from the public assembly because of his disease." His mockers in ch. 30 are the class beneath contempt — "a foolish, nameless brood… men without a name, i.e., they have no honor. Since people in ancient times believed that a name defined its bearer's essential nature, whoever became nameless had sunk to the lowest level of infamy." Their spitting is the outer limit: "The noblest elder has become the byword of the scum of society… Job suffers the worst social disgrace possible." At 12:4 Hartley reads the same logic: "he who was accorded the highest honor has become a laughingstock… in ancient times to become an object of public scorn was the worst possible disgrace."
+
+**Refusal of a false confession.** Hartley makes 27:4 the hinge of Job's integrity: the untranslated *ʾim* "implies an imprecation: 'May God curse me if I do such a thing.'" Job "will never speak falsely or act deceitfully by confessing some contrived wrongdoing solely to win God's favor (27:4)." Hartley's verdict: "Job thus stands as the prime example of how an upright person can maintain his own integrity even when overwhelmed, for no apparent reason, by the most painful suffering."
+
+**The legal trajectory.** Hartley traces a rising sequence in Job's search for someone to stand between himself and God: the angel or holy one (5:1) → the arbiter or umpire who could "lay his hand on both God and himself and effect a reconciliation" (9:33) → the heavenly witness (16:19) → the Redeemer (19:25) → the formal oath of innocence (ch. 31) → surrender (42:1–6). The oath is the forcing move: "Job leaves God no option but to answer him. If God fails to answer, he is no longer the personal God actively concerned with the behavior of human beings." Hartley insists on the motive: "Job, therefore, has sworn this oath of innocence out of his desperate need to hear from God, not out of arrogance."
+
+**The fourteen sins of ch. 31.** Hartley counts "fourteen sins in his negative confession" and reads the number structurally: "Since seven is the number of perfection or completeness, the use of two sevens in the list points to his faithful adherence to the entire moral law." His list: lust (vv. 1–4); falsehood (5–6); covetousness (7–8); adultery (9–12); mistreatment of servants (13–15); lack of concern for the poor (16–18); failure to clothe the poor (19–20); perversion of justice against the weak (21–23); trust in wealth (24–25); worship of the heavenly bodies (26–28); satisfaction at a foe's misfortune (29–30); failure to extend hospitality to a sojourner (31–32); concealment of a sin without confession (33–34); abuse of the land (38–40b).
+
+The ethic Hartley finds in the chapter is one of attitude rather than act — "Instead of denying blatant acts of transgression punishable by law, Job scrupulously tests his attitudes and motives" — with only two Decalogue sins (adultery, covetousness) named. On 31:15 he presses the common-creation argument: "From God's perspective the slave possesses value as well as the nobleman… His faith has led him to a liberated attitude toward those who were usually considered as having little worth. In this regard he was way ahead of his time." Hartley twice reads the ethic as anticipatory of the Sermon on the Mount — "His moral insight is highly refined, pointing toward the Sermon on the Mount" — a Christian-reception move belonging to Hartley, not to the text. He also notes that 31:2–4 shows Job still holding a retribution doctrine: "prior to his trial Job held a view of retribution similar to his friends' view."
+
+**Intercession and its vicarious benefit.** Of the epilogue Hartley writes: "This scene shows that Job's restored favor with God possesses vicarious benefits for others. It also reveals that Job's attitude had been purged, i.e., he did not bear a grudge against those who had condemned him so harshly… Acting as intercessor, he assisted them in finding favor with God." He grounds Job's new standing in the endurance itself: "Job has gained spiritual authority for having endured undeserved suffering and then yielding his complaint to God." Yahweh's fourfold "my servant" (*ʿeḇeḏ*) in 42:7–8 Hartley reads as "a close, bonded relationship and in the OT… a title of honor for one who serves God" — his own designation for Job, distinct from Isaiah's Servant.
+
+**The daughters, the years, the epitaph.** "In fine epic style, which delights in beautiful or successful women, the hero's daughters receive special prominence." Hartley glosses the names — Jemimah, "turtledove"; Keziah, the aromatic cassia, "a prized variety of cinnamon"; Keren-Happuch, "a horn of eye paint, i.e., black rouge used to highlight the eyes" — and reads their inheritance as exceptional: "they received an inheritance, usually reserved solely for the sons as long as there was a male heir. Job continues to demonstrate a very progressive attitude toward the equity of people for his day (cf. ch. 31)." On the closing verses: "Job lived one hundred and forty years, double the ideal age (cf. Ps. 90:10), and saw his children's children up to four generations, the crown of a blessed life," the 140 being either his life span "or more likely the years added to his life after his trial." And of 42:17: "This epitaph is the same as that used for the noblest among God's servants, i.e., Abraham (Gen. 25:8), Isaac (Gen. 35:29), David (1 Chr. 29:28), and Jehoiada the priest (2 Chr. 24:15)."
+
+**"Dust and ashes."** Hartley hears three things at once in 42:6: self-assessment ("no better than the dust and ashes on which he has been sitting"), an allusion to Abraham's intercession for Sodom ("I have been bold to speak, though I am but dust and ashes," Gen. 18:27), and the literal ash heap. He also finds a concession embedded in it: "Job both renounces all false pride and concedes that God has been true to justice in allowing him, the noblest sheikh, to be brought so low that he has had to sit outside the city on the ash heap." See [[job-42-6|Controversy: Job 42:6]].
+
+**The persevering Job.** Hartley's resolution of the patient-Job / defiant-Job problem is a third term: "In this speech the bifocal image of the patient Job of the prologue and the agitated Job of the dialogue comes into clear focus: the persevering Job."
 
 ## Tradition-Specific Reception
 
@@ -53,6 +77,9 @@ Hartley (NICOT) treats the book as a unified literary masterpiece whose message 
 
 **Key Links** (updated 2026-06-27 — Maimonides section added from *Guide* III.XXIII):
 - [[book-of-job|Job]] (text page, Hartley on message, Elihu, Suffering Servant link)
+- [[hartley-job-nicot|Hartley, *The Book of Job* (NICOT)]] — source page (re-ingested 2026-07-18)
+- [[uz|Uz]] · [[eliphaz-the-temanite|Eliphaz]] · [[bildad-the-shuhite|Bildad]] · [[zophar-the-naamathite|Zophar]] · [[elihu|Elihu]]
+- [[doctrine-of-retribution|The doctrine of retribution]]
 - [[isaiah|Isaiah]] (Servant Songs modeled on Job per Hartley)
 - [[psalms|Psalms]] (Ps 73 theodicy parallel)
 - [[proverbs|Proverbs]] and [[ecclesiastes|Ecclesiastes]] (wisdom corpus conversation on retribution, hebel, fear of the LORD)

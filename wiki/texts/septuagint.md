@@ -5,7 +5,7 @@ canon_status: canonical (as received by the early and Eastern Church); a transla
 canon_scope:
   canonical_for: [eastern-orthodoxy]
   deuterocanonical_for: [catholicism]
-  authoritative_for: [christianity, hellenized-diaspora-jews]
+  authoritative_for: [christianity]
   disputed_by: []
   rejected_by: []
 language_original: Koine Greek (translated from Hebrew/Aramaic)
@@ -68,6 +68,8 @@ validity." Thus:
 - **Catholicism** receives its deuterocanonical books (via the LXX/Vulgate) as deuterocanonical.
 - **[[hellenized-diaspora-jews|Hellenistic Judaism]]** produced and used it as authoritative Scripture
   in Greek, though [[rabbinic-judaism|Rabbinic Judaism]] later fixed the shorter Hebrew canon.
+
+Note on `canon_scope`: Greek-speaking diaspora Jewry is recorded here as a **reception fact** rather than as a `canon_scope` bucket entry, because [[hellenized-diaspora-jews|the Hellenized diaspora Jews]] are filed as a *group* (a community as historical actor) and no corresponding sect page exists. `canon_scope` entries must resolve to tradition or sect page slugs. If a Hellenistic Judaism sect page is created later, this belongs in `authoritative_for`.
 
 ## Cross-Links
 

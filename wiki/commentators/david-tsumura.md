@@ -6,7 +6,7 @@ tradition: Evangelical Protestant
 affiliation: Japan Bible Seminary, Tokyo
 primary_texts_commented: [1 Samuel, 2 Samuel, Genesis 1-2 (earlier monograph)]
 sources_ingested: 2
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [commentator, evangelical, old-testament, japanese, semitic-philology]
 ---
 
@@ -115,7 +115,32 @@ The 2 Samuel volume (published 2019, 13 years after 1 Samuel) refines and defend
 
 **"Human desires and divine plans"** as the governing theme of all 1-2 Samuel — Tsumura's most theological synthesis in the 2 Samuel volume, extending his previous theme of providential guidance.
 
+## 1 Samuel NICOT — Fidelity Reingest Anchors (2026-07-18)
+
+Source page: [[tsumura-1-samuel-nicot]]. Preface + Intro + full commentary body (chs. 1–31) re-read with line loci.
+
+**Preface (pp. xi–xii):** Learned especially from McCarter and R. P. Gordon, “though I often disagree with them”; C. H. Gordon (Ugaritic / Canaanite religion); Millard, Ishida, Hubbard acknowledged. Method program: “stuck to the MT as much as possible, without easy recourse to emendation on the basis of the LXX and other ancient versions… discourse grammar, that is, supra-sentential grammatical analysis.” Comparatively literal translation (*waw* as “and”; word order preserved where possible).
+
+**Intro load-bearing (selected):**
+- MT “extremely poor” yet majority of proposed emendations needless (phonetic spellings, brachylogy, AXB); Qumran/LXX matter but eclectic reconstruction weakly grounded (pp. 2–10).
+- Final editing of 1–2 Samuel probably ≤ late 10th c. (1 Sam 27:6); independent AN/HDR as single works unproven (pp. 11–16, 31–32).
+- DH language arguments circular; Hallo maximalism; Tel Dan *bytdwd* (pp. 16–29).
+- Discourse: SETTING–EVENT–TERMINUS; *wayqtl* ranks; A/aB links (pp. 46–65).
+- Four-block 1 Samuel structure + Hannah three themes; theology of YHWH’s kingship / human deputy; purpose = king subject to prophet (pp. 68–73).
+
+**Commentary exemplars:** ch. 8 transition + *nāgîd*; chs. 13/15 rejections + *ḥerem*/*nḥm*; 16 heart vs eyes + *ḥămôr leḥem*; 19–22 Nob priesthood transfer; 24/26 anointed-sparing; 28 Endor (not normal pagan channel); 31 Gilboa honorable end.
+
+## 2 Samuel NICOT — Fidelity Reingest Anchors (2026-07-18)
+
+Source page: [[tsumura-2-samuel-nicot]]. Preface + Intro I–VII + full commentary body (chs. 1–24) re-read with line loci.
+
+**Preface:** Harrison commission for philology; audience early Divided Monarchy (late 10th c.); defends vol. 1 MT/*lectio difficilior*/anti-DH/synchronic-priority method; literary critics invited to build on solid text; Tekoa (ch. 14) as intertextuality test case.
+
+**Intro load-bearing:** phonetic spellings vs corruption; DSS/LXX/MT not one-sided; genre intermediate epic/annalistic; Epilogues **ABXX′B′A′**; theme “human desires and divine plans”; Davidic covenant central theme of 2 Samuel and OT; purpose = lead David despite grave sins to keep eternal-dynasty promise; temple-site hint (ch. 24).
+
+**Commentary exemplars:** 2 Sam 1 A/aB link; ch. 7 discourse PAST/PRESENT/FUTURE; 11–12 AXB Bathsheba turning point; Absalom revolt + Joab; Song/Last Words center of epilogue; census → Araunah temple site.
+
 ## Sources Ingested
 
-1. [[david-tsumura|Tsumura, David Toshio]]. *The First Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2006.
-2. [[david-tsumura|Tsumura, David Toshio]]. *The Second Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2019.
+1. *The First Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2006. — Fidelity re-ingest 2026-07-18: [[tsumura-1-samuel-nicot]].
+2. *The Second Book of Samuel*. NICOT. Grand Rapids: Eerdmans, 2019. — Fidelity re-ingest 2026-07-18: [[tsumura-2-samuel-nicot]].

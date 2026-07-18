@@ -6,8 +6,8 @@ tradition: Evangelical Protestant (Reformed, broadly)
 affiliation: Westminster Theological Seminary (until ca. 1998); Westmont College (Santa Barbara)
 primary_texts_commented: [Ecclesiastes (NICOT), Song of Songs (NICOT), Daniel (NIVAC), Jeremiah (co-author), Introduction to OT (with Dillard)]
 sources_ingested: 3
-last_updated: 2026-06-05
-tags: [commentator, nicot, evangelical, ecclesiastes, wisdom-literature, akkadian, genre]
+last_updated: 2026-07-18
+tags: [commentator, nicot, evangelical, ecclesiastes, wisdom-literature, akkadian, genre, song-of-songs]
 ---
 
 Tremper Longman III was a colleague of [[bruce-waltke|Bruce Waltke]] at Westminster Theological Seminary before moving to Westmont College. He received his Ph.D. from Yale University with a dissertation on Akkadian fictional autobiography — a genre study that became the foundation of his approach to Ecclesiastes. He co-authored *An Introduction to the Old Testament* with the late Ray Dillard and co-edited the *Baker Commentary on the Old Testament Wisdom and Psalms* series.
@@ -77,8 +77,20 @@ Waltke and Longman were colleagues at Westminster and share a Reformed evangelic
 
 This tension is precisely the tension between Proverbs and Ecclesiastes *within the Wisdom canon itself* — the Frame Narrator's epilogue resolves it by reasserting Prov 1:7 (12:13) as the corrective to Qohelet's despair.
 
+## Song of Songs (NICOT 2001) — Fidelity Reingest (2026-07-18)
+
+Source page: [[longman-song-of-songs-nicot]]. Preface + Intro I–XII + Poems 1–23 re-read with line loci.
+
+**Method (Song-specific):** Genre is the “key” (Saadia): the book is an **anthology of 23 lyric love poems** (“erotic psalter”), not allegory, drama, or *hieros gamos*. Superscription *lĕšĕlōmōh* = “**concerns** Solomon,” not full authorship. Egyptian Ramesside love poetry is the primary ANE parallel. Rejects Provan/Delitzsch plot constructions for lack of stage directions and uncertain speakers (~10%).
+
+**Theology (three dimensions, Intro §XII):** (1) human eros primary — mutual, exclusive, total, beautiful; marriage-in-canon (Childs); “do not awaken” thrice; (2) Gen 2–3 → Song *tĕšûqâ* (7:11 ET 7:10) as already–not-yet redemption of intimacy (Trible-shaped); (3) divine–human marriage metaphor (Hosea–Eph 5–Rev 19) **illuminated** without suppressing human love or arbitrary detail-pressing. Carr’s **functional decanonization**: literal recognition without use is half-defeat.
+
+**Commentary climaxes:** garden of love 4:10–5:1; love strong as death / flame of Yah (8:6–7); Solomon vineyard foil (8:11–12); open ending (8:13–14).
+
+See [[song-of-songs]] and [[divine-human-marriage]].
+
 ## Sources Ingested
 
-1. [[tremper-longman|Longman, Tremper, III]]. *The Book of Ecclesiastes*. NICOT. Grand Rapids: Eerdmans, 1998.
-2. [[tremper-longman|Longman, Tremper, III]]. *Song of Songs*. NICOT. Grand Rapids: Eerdmans, 2001.
-3. [[tremper-longman|Longman, Tremper, III]]. *Daniel*. NIV Application Commentary. Grand Rapids: Zondervan, 1999.
+1. *The Book of Ecclesiastes*. NICOT. Grand Rapids: Eerdmans, 1998.
+2. *Song of Songs*. NICOT. Grand Rapids: Eerdmans, 2001. — Fidelity re-ingest 2026-07-18: [[longman-song-of-songs-nicot]].
+3. *Daniel*. NIV Application Commentary. Grand Rapids: Zondervan, 1999.

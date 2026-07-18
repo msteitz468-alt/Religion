@@ -10,9 +10,9 @@ canon_scope:
   rejected_by: []
 language_original: Hebrew (unusual dialect; *šě* relative pronoun; possible late features)
 date_range: Unknown; undatable ("lyrical in character, with no historical allusions"); likely composite from multiple periods
-sources_ingested: 2
-last_updated: 2026-06-07
-tags: [text, old-testament, writings, wisdom-literature, megillot, song-of-songs, love-poetry, sexuality, marriage]
+sources_ingested: 4
+last_updated: 2026-07-18
+tags: [text, old-testament, writings, wisdom-literature, megillot, song-of-songs, love-poetry, sexuality, marriage, zohar, kabbalah]
 ---
 
 The Song of Songs is the most interpretation-driven book in the Hebrew Bible. Its problem is not obscurity — the book is explicit and sensuous love poetry — but the opposite: what is plainly obvious about it has caused interpreters for two millennia to insist it must mean something else. As Rabbi Saadiah observed, "the Song of Songs resembles locks to which the keys have been lost." Longman's commentary answers: *the key is genre*. Proper genre identification unlocks the proper interpretation of the book, and the proper genre is an **anthology of love poems**.
@@ -177,12 +177,60 @@ NT: The Song is never quoted in the NT, though the divine-human marriage metapho
 - **[[wisdom-literature|Wisdom Literature]]**: The Song belongs to Wisdom broadly conceived (Childs, Landy, Murphy) — wisdom as the application of God's will to the nitty-gritty of life; the man-woman relationship as the most intimate domain of that nitty-gritty
 
 
+## Hermeneutical Frameworks
+
+| Framework | How it reads the Song in this wiki's sources |
+|---|---|
+| **Genre criticism + wisdom-canonical** ([[tremper-longman|Longman]]) | Anthology of 23 lyric love poems (“erotic psalter”); human eros primary; marriage-in-canon; Gen 2–3 already–not-yet; divine–human marriage analogy without allegory’s two errors |
+| **Allegorical (Jewish/Christian tradition)** | Surface suppressed; man = God/Christ, woman = Israel/Church/soul — recorded as reception history, not Longman-endorsed method |
+| **Dramatic (two-/three-character)** | Plot constructions (Delitzsch, Provan) — Longman rejects as unsupported by text |
+| **Cultic / *hieros gamos*** | Sacred marriage readings — Longman rejects (no Israelite evidence) |
+
+## Scholarship and Historiography
+
+1. **Longman (NICOT 2001):** Genre is the key (Saadia’s “lost keys”); 23 poems; superscription “concerns Solomon”; Egyptian love poetry parallel; functional decanonization warning (Carr).
+2. **Allegorical majority to mid-19th c.:** Aqiba, Targum, Origen, Bernard; Keel on arbitrary agreement by copying.
+3. **Literal/natural consensus since 19th c.:** ANE parallels + body-affirming theology drive shift.
+4. **Drama schools:** Delitzsch two-character; Provan three-character triangle — positions recorded without adjudication.
+
+## Longman NICOT — Reingest Anchors (2026-07-18)
+
+Fidelity re-ingest of [[longman-song-of-songs-nicot|Longman, *Song of Songs* NICOT]] (Intro I–XII + Poems 1–23). Selected load-bearing claims with loci:
+
+- **Genre (Intro §VIII, X):** Anthology of **23** love poems / “erotic psalter”; not allegory, drama, or cultic ritual.
+- **Authorship (Intro §II):** Whole book not by Solomon; *lĕ* = “concerns Solomon”; king/shepherd = epithets of respect, not dual plot roles.
+- **Canon (Intro §XI):** Early inclusion; allegory more likely **product** of canonicity than its cause; “defile the hands” / Aqiba.
+- **Theology (Intro §XII):** (1) human love primary — mutual, exclusive, total, beautiful; (2) Gen 2–3 → Song *tĕšûqâ* redemption already–not-yet; (3) divine–human marriage illumination without suppressing eros; “do not awaken” (2:7; 3:5; 8:4); Carr’s **functional decanonization**.
+- **Commentary:** Superscription *šîr haššîrîm*; *wasfs* 4:1–7 / 5:10–16 / 6:4–10 / 7:1–9; garden consummation 4:10–5:1; 8:6–7 love strong as death / flame of Yah; 8:11–12 Solomon vineyard foil; open ending 8:13–14.
+
+Full coverage ledger: [[longman-song-of-songs-nicot]].
+
 ## Concepts
 
-Concept pages developed from this text:
+[[allegorical-reading]] · [[divine-human-marriage]] · [[fourfold-sense]] · [[wisdom-literature]]
 
-[[allegorical-reading]] · [[divine-human-marriage]] · [[fourfold-sense]]
+## Zoharic reception — MhN fragment + Zohar on Song of Songs (Pritzker Vol. XI)
+
+*Source: [[hecker-zohar-pritzker-vol11|Hecker Pritzker Vol XI]] (standards reingest 2026-07-18). Two distinct units — do not conflate with Longman’s erotic-anthology genre claim.*
+
+### Midrash ha-Ne’lam on Song of Songs (short)
+
+Does not run Song as continuous midrash. Opening: four *ruḥot* (Isa 11:2) complete in love’s kiss; large **ש (*shin*)** of Song 1:1 as upper chariot with large **ב** Genesis / **מ** Proverbs / **א** Chronicles as book-openers. Mostly Aramaic theosophy; non-sefirotic Ecclesiastes 12 close. Hecker: likely intro to a larger lost or unrealized work; cast not Rashbi’s Companions.
+
+### Zohar on Song of Songs (mature composition)
+
+Sustained **Rabbi Shim’on–Elijah** exchange on Song **1:1–11**. Hecker: mature Zoharic phase; Rashbi on ascent, Elijah on Other Side rupture/repair; later parts transpose romance onto masculine/feminine **letters**. Body authorship claim: Rashbi’s words written **above** before Ancient of Days; Elijah’s only **below**, by Rashbi’s hand. Dense letter mysticism (*bakh*, upright final letters, 72 names as wine); Pittum ha-Ketoret vs Accuser; Song 1:5 black/beautiful; Moon/*eikhah* Temple frame; cantillation/vowels as Song 1:11 adornments. Cordovero ranks Shir ha-Shirim among compositions of full-fledged commitment (Hecker preface / Cordovero). Practical fallout Hecker notes: **no tefillin on intermediate festival days**.
+
+Do not collapse into Longman’s “anthology of love poems” or into medieval allegory as if identical; Zoharic Sod is its own register. See [[zohar|The Zohar]] Vol. XI, [[joel-hecker|Joel Hecker]], [[shimon-bar-yochai|Shim’on bar Yoḥai]], [[shekhinah|Shekhinah]], [[zohar-authorship|Zohar Authorship]], [[divine-human-marriage|Divine-Human Marriage]].
+
+## Links
+
+- Source: [[longman-song-of-songs-nicot|Longman Song of Songs NICOT]]
+- Commentator: [[tremper-longman]]
+- Related: [[ecclesiastes]] · [[proverbs]] · [[genesis]] · [[divine-human-marriage]]
+- Zoharic: [[hecker-zohar-pritzker-vol11]] · [[joel-hecker]] · [[zohar]]
 
 ## Sources Ingested
 
-1. [[tremper-longman|Longman, Tremper, III]]. *Song of Songs*. NICOT. Grand Rapids: Eerdmans, 2001.
+1. [[tremper-longman|Longman, Tremper, III]]. *Song of Songs*. NICOT. Grand Rapids: Eerdmans, 2001. — **Fidelity re-ingest 2026-07-18:** [[longman-song-of-songs-nicot]].
+2. Hecker, Joel (trans.). *The Zohar: Pritzker Edition*, Vol. XI — MhN on Song of Songs + Zohar on Song of Songs. Standards reingest 2026-07-18: [[hecker-zohar-pritzker-vol11]].

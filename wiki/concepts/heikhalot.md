@@ -2,41 +2,74 @@
 title: Heikhalot (Zoharic)
 domain: mysticism / theurgy
 traditions_using: [Judaism (Kabbalah)]
-sources_ingested: 1
-last_updated: 2026-06-07
-tags: [concept, judaism, kabbalah, zohar, heikhalot, theurgy, shekhinah, sefirot]
+sources_ingested: 2
+last_updated: 2026-07-18
+tags: [concept, judaism, kabbalah, zohar, heikhalot, theurgy, shekhinah, sefirot, sitra-ahra]
 ---
 
 # Heikhalot (Zoharic Halls / Palaces)
 
-The *Heikhalot* (“halls” or “palaces”) in the Zohar refer to a series of celestial chambers or abodes through which the prayer of the adept passes and unifies on its way to effecting the union of the male and female aspects of Divinity (primarily Malkhut/Shekhinah with the upper sefirot and Binah). This constitutes one of the most explicit theurgic praxes in the Zoharic corpus.
+The *Heikhalot* (“halls” or “palaces”) in the Zohar are celestial chambers through which the prayer of the adept passes and unifies, preparing the union of male and female aspects of Divinity (Malkhut/Shekhinah with the upper sefirot and Binah). In Pritzker Vol. XII they form one of the most explicit theurgic praxes in the corpus.
 
 ## Classical Background and Zoharic Reimagination
-Classical Heikhalot literature (late antique Jewish mysticism, e.g., *Heikhalot Rabbati*, *Heikhalot Zutarti*) describes the visionary ascent of the mystic through seven heavenly palaces to behold the Throne of Glory and the divine chariot. The Zohar is indebted to this architecture, angelic hosts, and quest motif but thoroughly reimagines it through its own innovative theosophical and theurgic worldview (the sefirot, the divine feminine, and the *zivvuga qaddisha* — holy union).
 
-In the Zohar the halls are located beneath Malkhut (the lowest sefirah) and mediate/reflect the qualities of the sefirot with which they are associated. They are populated by diverse celestial beings and function as the “semblance of above and the semblance of below.”
+Classical late-antique Heikhalot literature (e.g. *Heikhalot Rabbati*, *Heikhalot Zutarti*) describes visionary ascent through seven heavenly palaces to the Throne of Glory. The Zohar is indebted to that architecture, angelology, and quest motif but reimagines it through sefirotic theosophy and the *zivvuga qaddisha*.
 
-## The Zoharic Treatment (Pritzker Edition, Volume XII)
-The two major Heikhalot units appear traditionally in parashat Be-Reshit (Zohar 1:38a–45b; shorter version) and parashat Pequdei (Zohar 2:244b–268b; far grander, more than three times the length, and including an account of the halls of impurity that parallel the holy halls).
+**Wolski & Hecker Introduction (attributed):** halls lie **beneath Malkhut**; imagined as Malkhut’s maidens adorned in prayer for union with the sefirot; “the real story… is the story of Malkhut and Binah, the binding of ‘seventh with seventh.’” Hebrew/Aramaic *heikhal*/*heikhala* also allows “chamber, palace, sanctuary”; Wolski opts for “hall,” paralleling the Temple entrance-hall leading into a Holy of Holies.
 
-Rabbi Shim’on outlines how the prayers of the righteous navigate and unify the halls, configuring the seventh (and highest) hall to become the abode of Malkhut/Shekhinah. The halls are imagined as Malkhut’s maidens or chambers:
+## Two Versions (Pritzker XII body — Wolski)
 
-> “the worshiper arranges and adorns them in preparation for their union with the sefirot, and ultimately for the union of the male and female grades of Divinity.”
+Traditionally printed in **Be-Reshit (1:38a–45b)** and **Pequdei (2:244b–268b)**. Pequdei is more than three times longer and adds halls of impurity, denser angelology, and morning-liturgy theurgy. Body of Pequdei states that earlier teaching was “in a general way,” now elaborated:
 
-The real story, the Introduction stresses, “is the story of Malkhut and Binah, the binding of ‘seventh with seventh,’ as the divine feminine is adorned and arrayed to receive the flow from within the womb of being.”
+> “All the arrangements follow a single principle: so that low can be comprised in high.” (**2:244b**)
 
-Prayer here is not merely petition or praise but active theurgic preparation and adornment that opens the flow of divine being from the deepest recesses of Divinity outward to the world. Patriarchs and Israel in distress play a role in arousing Shekhinah for protection.
+### Heikhalot Be-Reshit (body claims)
 
-## Theurgic and Symbolic Significance
-- **Adorn ment and Union**: Human ritual action (especially prayer with kavvanah) directly participates in and facilitates the supernal erotic/theurgic union.
-- **Seventh with Seventh**: The alignment of the lowest (Malkhut/Shekhinah) with the highest feminine grade (Binah) as the pivotal moment of blessing and influx.
-- **Halls of Impurity**: The expanded Pequdei version acknowledges a shadow or demonic parallel, consistent with the Zohar’s broader treatment of the Sitra Aḥra as an internal excess within the divine structure rather than a wholly external principle.
-- **Relation to the Figure of Rashbi and the Ḥavrayya**: These discourses are delivered within the circle of Companions, reinforcing the theurgic power of the mystical fraternity itself.
+- Creation engraved above and below “in one mystery”; lower patterned on upper; Adam created with six aspects in the supernal image (**~1:38b** open).
+- **Seven halls above** (mystery of faith) match **seven below**; after banishment from Eden, halls arrayed for righteous souls’ delight.
+- Garden/soul halls: converts (garment of light that “shines and does not shine”; Onqelos above them); Messiah comforting sufferers of affliction; multi-colored light/pillar motifs.
+- Prayer-hall sequence unifies spirits hall-to-hall toward the seventh as **Holy of Holies**, binding **seventh with seventh** (Malkhut receiving from Binah / Will unto Infinity).
 
-## Hermeneutics and Cross-Tradition Notes
-Operating at the Sod (mystical/esoteric) level of [[pardes|PaRDeS]], the Heikhalot units exemplify the Zohar’s characteristic move of reading ritual and visionary traditions as maps of the inner divine life and as instruments for its maintenance and unification. They stand in productive tension and complementarity with the more expansive running Torah commentary (Vols. I–IX) and the assembly discourse of the *Idra Zuta* (Vol. XI).
+### Heikhalot Pequdei — Holy Halls (body claims)
 
-Cross-links: [[zohar|The Zohar]] (Vols. XI–XII Compositions), [[shekhinah|Shekhinah]], [[sefirot|Ten Sefirot]], [[nathan-wolski|Nathan Wolski]], [[joel-hecker|Joel Hecker]], [[shimon-bar-yochai|Shim’on bar Yoḥai]].
+| Hall | Body name / function (sample) |
+|------|-------------------------------|
+| 1–3 | Early halls with spirits (e.g. Sapphire Pavement), pillars, windows, synagogue parallel; merger toward Fourth |
+| **4 Merit (Zekhut)** | Dominion on earth; all merits/sins/punishments/rewards judged; nested halls; 216 lights; Other-Side Sansanyah / diphtheria counterpart (**~2:251b**) |
+| **5 Love** | Ḥesed side; kisses → souls; El Shaddai |
+| **6 Desire (Ratson)** | Jacob takes by kisses; spirit-to-spirit fusion |
+| **7 Holy of Holies** | Joseph/Yesod arrays the concealed hall; Jacob kisses + Joseph intercourse as two modes of desire; Maʿaseh Merkavah resonance |
+
+When halls consummate together they are called by the complete name **YHVH Elohim**. Morning Amidah is mapped hall-by-hall with postures (kneel, prostrate, face). MSS enable a previously unpublished conclusion on prayer postures (Introduction note).
+
+### Seven Halls of Impurity (body claims)
+
+Pequdei alone develops a full Other-Side parallel (see [[sitra-ahra|Sitra Aḥra]]):
+
+| # | Impurity hall | ↔ Holy-side name (body) |
+|---|---------------|-------------------------|
+| 1 | **Pit** | Satan |
+| 2 | **Destruction** | Impure (openings: spilled seed, *arayot*, alien covenant; false dreams) |
+| 3 | **Dumah** | Enemy (illness, Askara/child-killing, Wrath/Rage, evil tongue) |
+| 4 | **Guilt (Ḥovah)** | Stumbling Stone; sins stored vs **Merit** |
+| 5 | **Sheol** | Uncircumcised / Eivah |
+| 6 | Sixth (*shit*) | Death / Shadow of Death / Darkness; Lilith / harlot (Prov 7) |
+| 7 | **Dregs of wine** | Netherworld; openings for nations and kings |
+
+Close: seven abodes of defilement from the serpent; authorization to bite (Eccl 10:11).
+
+## Hermeneutics
+
+[[pardes|PaRDeS]] **Sod**: ritual and visionary ascent as map of inner divine life and instrument of unification. Complements running Torah commentary (Vols. I–IX), concealed midrash (X–XI), and assembly discourse (*Idra* strata). Apparatus (print locations Mantua/Cremona/Cordovero; free-standing origin of the units) is translator framing, not body.
+
+## Cross-Links
+
+- [[zohar|The Zohar]] · [[wolski-hecker-zohar-pritzker-vol12|Vol XII source]]
+- [[shekhinah|Shekhinah]] · [[sefirot|Ten Sefirot]] · [[ein-sof|Ein Sof]] · [[sitra-ahra|Sitra Aḥra]]
+- [[nathan-wolski|Nathan Wolski]] · [[joel-hecker|Joel Hecker]] · [[shimon-bar-yochai|Shim’on bar Yoḥai]]
+- [[raza-de-razin|Raza de-Razin]] (companion composition in same volume)
 
 ## Sources
-- Nathan Wolski and Joel Hecker (trans. and annot.), *The Zohar: Pritzker Edition, Volume Twelve: Zoharic Compositions* (Stanford University Press, 2017), Introduction and Heikhalot units.
+
+1. First-pass wiki file 2026-06-07 (Introduction-heavy).
+2. **Standards reingest 2026-07-18** — digests A–C (Heikhalot Be-Reshit + Pequdei holy + impurity) from Pritzker Vol. XII body (Wolski); source page [[wolski-hecker-zohar-pritzker-vol12]].

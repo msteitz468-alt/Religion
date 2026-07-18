@@ -2,8 +2,8 @@
 title: The Old Law (and the Decalogue) — Aquinas
 domain: theology / law
 traditions_using: [Christianity, Judaism]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [concept, christianity, scholasticism, law, decalogue, aquinas]
 ---
 
@@ -80,6 +80,60 @@ much-cited text in the history of political thought (drawing on Aristotle's *Pol
 - [[maimonides]] — Aquinas's main source for the reasons of the ceremonial precepts
 - [[fourfold-sense]] — the Quadriga Aquinas applies to the ceremonial law
 
+## France on Matthew and the Torah (NICNT, 2007)
+
+The page above records a thirteenth-century scholastic systematization of the Mosaic law. A
+second, quite different treatment enters the wiki with [[rt-france|R. T. France]]'s commentary
+on [[matthew|Matthew]] (NICNT, 2007), which asks not how the Old Law is divided but whether and
+how Matthew's Jesus leaves it standing. The two are not in direct dialogue, and France's
+position cuts against a load-bearing assumption of the Thomist scheme.
+
+**France rejects the moral/ceremonial division as anachronistic for the first century.** Facing
+the irony that Jesus' purity pronouncement undermines the Mosaic food regulations (Lev 11;
+17:10-16) in the very pericope where he accuses his opponents of undermining that same law,
+France declines to resolve it by dividing the law: "that is to import a more recent
+categorization of the law into 'central' and 'peripheral' or into moral and ceremonial of which
+there is little trace in first-century thinking." [CONTRADICTION] This is in direct tension
+with the threefold division (moral / ceremonial / judicial) that organizes Aquinas's treatment
+above. The dispute is one of historical description — whether the categories are native to
+first-century Judaism — not directly one of doctrine; Aquinas is systematizing, France is
+reconstructing. Both positions are recorded; neither is adjudicated here.
+
+**France leaves the tension with 5:17 unresolved.** He states plainly that it is "not easy to
+see either in Jesus' own time or in that of the gospel's first readers how this might have been
+squared with his assurance that he had not come to abolish the law (5:17)," and lets it stand as
+a live tension running through New Testament Christianity rather than harmonizing it. He does
+suggest the pronouncement may be the first pointer toward "a new, Christian, reevaluation of the
+OT laws which will find fuller expression in the argument of the Letter to the Hebrews" — while
+noting Jesus gave his hearers no such basis at the time. See [[new-law]].
+
+**Who opens the question.** France's precise formulation locates the decisive moment: on
+handwashing Jesus is in no tension with the OT law and merely challenges the scribes' right to
+impose nonbiblical rules — legitimate scribal debate. But "it is when Jesus goes on to question
+the very nature of purity in itself that he, not his Pharisaic opponents, opens up the issue of
+the continuing validity of the OT law." See [[purity]].
+
+**Priority rather than repeal.** On the [[sabbath]] conflicts France reads the Hos 6:6 citation
+as a prophetic priority principle (already used at 9:13): "a positive concern for the good of
+others ('mercy') takes precedence over formal compliance with ritual regulations." He is
+emphatic that the sabbath controversy is not about whether the law binds but about what
+observance entails. On the fifth commandment against the *qorbān* vow, he notes the argument
+assumes "the 'honor' which is commanded is more than verbal, and includes making appropriate
+provision for one's parents in old age."
+
+**Bypassing, not abolishing.** In the [[antitheses]] France holds that in the third and fourth
+(divorce, oaths) "Jesus declares that the actions which the OT law presupposes and for which it
+provides regulation should never have occurred in the first place." Asked whether this abolishes
+those regulations, he answers: "it is rather to bypass them, to leave them behind as no longer
+needed." He allows a residual role — "in the real world it may be that there will still be
+divorce, untruthfulness, and judicial retribution, and for these purposes the regulations of the
+OT law may retain a practical role. But insofar as they are needed, that is a mark of the
+failure of the more radical ethic which Jesus here sets out." On Deut 24:1-4 specifically he
+holds Jesus' teaching "ideally makes it obsolete." See [[divorce]], [[fulfillment]].
+
 ## Sources Ingested
 
 - [[summa-theologica]] I-II, Q98–105 (read in full as part of Prima Secundae Scope 4b).
+- [[rt-france|France, R. T.]] *The Gospel of Matthew*. NICNT. Grand Rapids: Eerdmans, 2007 —
+  on Matt 5:17-48; 12:1-14; 15:1-20. Digest C, claims 189, 192-193; Digest F, claim 134;
+  Digest H, claims 102-104, 109, 115.

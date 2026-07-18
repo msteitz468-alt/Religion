@@ -6,7 +6,7 @@ tradition: Evangelical Protestant (Wesleyan-Arminian / Holiness tradition)
 affiliation: Asbury Theological Seminary; Trinity Evangelical Divinity School
 primary_texts_commented: [Isaiah, Called to Be Holy (biblical theology)]
 sources_ingested: 2
-last_updated: 2026-06-05
+last_updated: 2026-07-18
 tags: [commentator, nicot, wesleyan, evangelical, isaiah, prophecy, servant-songs, messianism]
 ---
 
@@ -59,6 +59,38 @@ Every major section of the book — from the call of chs. 1-5 to the eschatologi
 **Cyrus as *māšîaḥ***: The prediction of Cyrus by name (44:28; 45:1) is central to the book's theology, not an embarrassment to be explained away. This is the book's proof text for God's ability to predict — if it is not predictive, the theology built on it is groundless.
 
 **Holistic canonical function**: Isaiah is "the bridge between the Already and the Not Yet" — the book that demonstrates most comprehensively that the Messiah is not a contradiction of the Law and Prophets but their fulfillment.
+
+## Volume 1 Profile (from the 2026-07-18 fidelity re-ingest)
+
+Positions and habits documented verbatim from the chs. 1–39 volume (see
+[[oswalt-isaiah-1-39-nicot|source page]] for loci):
+
+- **Text-as-received rule**: "Our mandate is to interpret the text as it is before us unless
+  there is manuscript evidence to correct that text. To do anything else is to build our
+  interpretations upon air." He repeatedly rejects excision/rearrangement proposals (2:6–22;
+  5:25; 22:15–25; chs. 24–27 stratifications) while accepting 1QIsaᵃ-supported corrections
+  (14:4; 21:8; 33:8; 37:27–28).
+- **ANE comparanda without myth-adoption**: Leviathan/Lotan, Yam, the Baal cloud-rider, the
+  *ǵlmt* cognate, Athtar — the prophet "was appropriating well-known emotive language into
+  which [he] could put new meaning," never "adopting a mythological worldview."
+- **Signature exegetical resolutions**: dual-focus 7:14 (initial fulfillment "perhaps"
+  Maher-shalal-hash-baz; ultimate, the Messiah); 8:16 sealing as attestation of Scripture
+  rather than withdrawal from ministry; 14:12–15 as human pride, with the Reformers against
+  the patristic Satan-reading; 28:16 cornerstone as "the whole complex" of God's revealed
+  faithfulness "summed up in Jesus Christ"; chs. 24–27 as eschatological, not apocalyptic;
+  26:19 with 25:8 as "the highest conception of resurrection in the OT."
+- **Prediction as load-bearing**: "To insist that the predictions were written after the fact
+  is to assert that the great exponents of ethical righteousness in human history falsified
+  their evidence"; the 701 deliverance (37:36) is "the crux of the entire account."
+- **Method polemic**: the failure to take the present form seriously "must stand as one of
+  the modern critical movement's most serious defects"; dating by theology is "extremely
+  tenuous and often betrays a distinctly circular flavor."
+- **Homiletic register**: modern applications throughout (Hitler/Germany 1939–45, F-16s and
+  Main Battle Tanks, "Modern humanism is simply ancient idolatry in a three-piece suit or a
+  pair of designer jeans"), Wesley citations, biblical-authority asides (on 8:20).
+- **Amanuensis concession** (endnote): he would accept amanuenses in the book's production,
+  but "cannot conceive of the present unity being arrived at without the guiding hand of a
+  single master."
 
 ## Comparison with Other NICOT Commentators
 

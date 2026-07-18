@@ -1,0 +1,1224 @@
+TEXT AND COMMENTARY
+
+
+
+
+
+I. PRIMEVAL HISTORY (1:1-11:32)
+
+
+
+
+
+A. THE CREATION OF THE WORLD (1:1-2:3)
+
+
+
+
+
+1. IN THE BEGINNING (1:1-2)
+
+
+
+
+1. In the beginning141 God created the universe.142
+
+
+
+2. And the earth—it was a desert and a wasteland; darkness was on the face of the deep; and the Spirit of God was hovering over the surface of the waters.
+
+
+
+
+
+1 Among the most well-known passages of Scripture is its very first verse, traditionally translated as above. Nevertheless, no small controversy among biblical scholars has swirled around both the translation and the meaning of the verse.
+
+The issues are at least twofold. First, should v. 1 be translated as an independent clause, which is the approach taken in this commentary? Or is the verse to be understood as a dependent clause, “When God began to create... ,” and thus subordinated to some following main clause? Second, what is the relation of v. 1 to v. 2, and for that matter, what is its relation, chronologically, exegetically, and theologically, to the remainder of the chapter?
+
+First, the proper translation of the verse. A number of options are available here: (1) The first word, berē‘šîṯ, is in the absolute state (i.e., it functions independently of any other word) and all of v. 1 is an independent clause and a complete sentence. (2) The first word is an indeterminate noun, used as a relative temporal designation: “Initially (or first, to start with) God created....” (3) The first word is in the construct state (i.e., it functions in close connection with another word, usually a noun) and the verse is a temporal clause subordinated to v. 2: “When God began to create... the earth was without form and void.” (4) The first word is in the construct state and the verse is a temporal clause subordinated to v. 3, with v. 2 taken as a parenthesis: “When God began to create the heavens and the earth—the earth being without form and void—God said....”
+
+How shall we decide among these possibilities? A knowledge of the Hebrew language will not be sufficient in itself to settle the matter, for all four positions have been advocated by competent Hebraists, both ancient and modern. A survey of the extensive literature on the subject reveals that interpretations (1) and (4) have by far the widest support.
+
+The main lines of argument in support of taking v. 1 as a dependent clause which prepares for the main clause in v. 3 are as follows. (a) The vowels in the word berē’ šîṯ indicate the word to be construct, not absolute, and the phrase must thus translate as “In the beginning of,” not “In the beginning,” for which one would expect bārē’ šîṯ. (b) In the “second” Creation account (2:4bff.) the temporal construction is employed—“when the Lord God made the cosmos”—and is a structural parallel to 1:1. (c) The word rē’ šîṯ occurs some fifty times in the OT, and all of these, except possibly Isa. 46:10, are in the construct state.143 Is it likely that Gen. 1:1 contains an exception? (d) Taking the first verse as a dependent clause provides further substantiation for the Babylonian background of this “Priestly” account of creation. That is, in the Babylonian Epic of Creation—the Enuma elish-the first nine lines parallel the first two verses of Genesis.144 Thus:(1) protasis
+
+Gen. 1:1
+
+Enuma elish, lines 1-2
+
+
+
+
+
+(2) parenthetical clauses
+
+1:2
+
+lines 3-8
+
+
+
+
+
+(3) apodosis
+
+1:3
+
+line 9
+
+
+
+
+
+Specifically then, Gen. 1:1—“When God began to create the heavens and the earth”—is the equivalent of the first two lines of Enuma elish: “When above, the heaven had not been named (and) below, the earth had not been called by name.”
+
+Several of the more recent translations of the Bible have accepted this rendering: NEB, NAB, NJPS, RSV, and AB, but only in a footnote. Others, however, have retained the traditional translation; among them, NASB, NKJV, NIV, and JB.
+
+The issue between these two options—“In the beginning when” and “In the beginning”—is not esoteric quibbling or an exercise in micrometry. The larger concern is this: Does Gen. 1:1 teach an absolute beginning of creation as a direct act of God? Or does it affirm the existence of matter before creation of the heavens and the earth? To put the question differently, does Gen. 1:1 suggest that in the beginning there was one—God; or does it suggest that in the beginning there were two—God and preexistent chaos? The latter approach separates itself from the former in that it dictates the existence of chaos prior to creation. But the concept of the creation of chaos would be a contradiction in terms.
+
+In order to avoid this conclusion, several scholars (e.g., Westermann) have opted for the traditional translation, not on the basis of objective linguistic grounds—for they believe the Hebrew word itself to be ambiguous in form—but on the grounds of the wider context of the chapter. It is claimed, for instance, that the Creation story of Gen. 1 is a deliberate repudiation and demythologizing of a pagan cosmogony such as is found in Enuma elish.
+
+If that be the case, is it possible to believe that the author would leave unchanged and unmolested, and thus endorse, one of the distinguishing concepts of the mythical worldview, viz., the creation of the world from preexistent matter which is outside the creator’s divine activity? Would such a vestigial motif be left undisturbed? Thus, speaking of v. 1, Brevard Childs says, “This verse can be interpreted grammatically in two different ways.... While there is a choice grammatically the theology of P excludes the latter possibility [viz., that 1:1 is a dependent, temporal clause subordinated to v. 3] ... we have seen the effort of the Priestly writer to emphasize the absolute transcendence of God over his material.”145
+
+But one does not argue for the translation of 1:1 simply on the grounds of a biblical writer’s creation theology. While this is a legitimate criterion, if it is the only criterion the case for seeing absolute creation is seriously weakened. In our opinion valid lexical, grammatical, syntactical, comparative, and stylistic arguments have been advanced to substantiate the translation In the beginning.146
+
+They may be presented briefly as follows. Lexically, P. Humbert’s two studies are quite correct in their observation that rē’ šîṯ is almost always used in the OT in the construct state, the one departure being Isa. 46:9-10—“ I am God . . . declaring the end [’aharîṯ] from the beginning [mērē’ šîṯ].” It cannot be denied that the prophet, in quoting God, is thinking in terms of God’s absolute disposition over beginning and end, with beginning and end indicating not “a specific period of time within history, but rather historical time as such.”147 Now if one grants that, apart from the possibility of Gen. 1:1, Isa. 46:10 is the only bona fide illustration of this word in the absolute state, then this one example is sufficient to demonstrate that rē’ šîṯ may be used to express a temporal meaning by use of the absolute state construction.
+
+The same word used here in Gen. 1:1, berē’ šîṯ (preposition plus noun), appears four other times in the OT (Jer. 26:1; 27:1; 28:1; 49:34, “in the beginning of the reign of X”).148 Each time the noun is followed by another noun. Only in Gen. 1:1 is the noun followed by a verb in a finite form (specifically, a perfect form). This construction is not frequent, but it is known in most of the Semitic languages.149 Here contrast needs to be made with Gen. 2:4b, literally, “in the day of Yahweh God’s making earth and heavens.” Everybody agrees that this is a relative sentence, “when Yahweh God made earth and heavens.” But the noun in this verse is followed not by a verb in a finite form, as in 1:1, but by a verb in a nonfinite form (specifically, an infinitive construct). Is it not plausible to suggest a different nuance in the two verses by virtue of their different verbal forms?
+
+The absence of the article is not a fatal argument against construing the word as absolute. For one thing, if as we have argued Isa. 46:10 shows rē’ šîṯ used in an absolute sense, it also provides us with an illustration of this word used both absolutely and indeterminately, and thus an exact parallel to Gen. 1:1. Second, all the ancient versions translate the word as an absolute and the whole verse as an independent clause.150 Third, the Masoretes understood the word to be absolute, for they accented the word with the disjunctive accent called a ipḥâ, which is normal for words in the absolute state, rather than with a conjunctive accent, which is normal for words in the construct state.151
+
+Syntactically, the argument in support of the traditional translation, or the translation that subordinates the first verse to the following, revolves around the interpretation of the verse’s relationship to vv. 2 and 3. Related to this matter is the comparative cosmogonic literature, that is, the alleged parallel in syntax between Gen. 1:1-3, 2:4bff. and lines 1-9 of Enuma elish. It is more accurate to say that there is a syntactical similarity between Enuma elish 1-9 and Gen. 2:4bff., but not between Enuma elish 1-9 and Gen. 1:1-3. If there is any parallel between Gen. 1:1-3 and Enuma elish 1-9 it is this: Gen. 1:2 parallels Enuma elish 1-8, and Gen. 1:3 parallels Enuma elish 9. Obviously Gen. 1:1 is unique. Gunkel was quite correct when he said, “The cosmogonies of other people contain no word which would come close to the first word of the Bible.”152
+
+On stylistic grounds the traditional translation conforms to the pattern of sentence lengths throughout the chapter. The rule is not long sentences combining subordinate and principal clauses, but rather a whole series of brief, terse sentences in paratactic style. Thus H. Shanks can say, “Why adapt a translation that has been aptly described as a verzweifelt geschmacklose [hopelessly tasteless] construction, one which destroys a sublime opening to the world’s greatest book?”153
+
+Finally, we may say a word about the interpretation that takes the first verse of the Bible with adverbial force, “initially, first,” zuerst as opposed to im Anfang.154 Though this translation is possible, such a nuance would be expressed more directly in Hebrew by the phrase bāri‘šōnâ (Gen. 13:4; Num. 10:13-14; etc.), rather than by berē’ šîṯ.
+
+2 And the earth—it was a desert and a wasteland. As we move beyond v. 1 and into v. 2, we do not, unfortunately, leave behind all problems of translation and interpretation. As will shortly become evident, v. 2 bristles with points of debate as much as does v. 1.
+
+The first issue is the understanding of the two words tôhû wābōhû. It is unusual, but not unheard of, to have two juxtaposed words in Hebrew that rhyme. Rhyming could indicate, along with other factors, that the verse is poetry rather than prose.155 It is less likely that the phrase is to be understood as farrago, that is, an expression made up of meaningless words but whose meaning may be determined from context.156 No sure Semitic cognate for bōhû has yet been discovered, but tōhû may be safely equated with Ugar. thw, “desert.”157
+
+Both these words are nouns, and thus we have translated them a desert and a wasteland. The rendering “without form and void” (e.g., AV, RSV) might give the impression that the words are adjectives. But what do they imply and how does one arrive at a proper translation? On the one hand, the second word-bōhû-appears only three times in the OT and always in conjunction with tōhû (here; Isa. 34:11, “the line of confusion [tōhû] and the plummet of chaos [bōhû]”; and Jer. 4:23, ”the earth, and lo it was waste [tōhû] and void [bōhû]”).158
+
+On the other hand, tōhû appears twenty times in the OT and unlike bōhû may stand on its own. Eleven of these occurrences are in Isaiah (24:10; 29:21; 34:11; 40:17, 23; 41:29; 44:9; 45:18, 19; 49:4; 59:4). In Deut. 32:10 the word is used in parallel with “desert” (miḏbār) and “wilderness” (yešimōn). The word also designates “desert” in Job 6:18, here a place of virtual death for any straying travelers. It is used to describe a deserted city in Isa. 24:10. The same concept of vastness and emptiness is illustrated by Job 26:7, “He stretches the north over the void [tōhû], suspends the earth on nothing [belîmâ].”
+
+Figuratively, the word describes that which is without substance or reality, something that is groundless, be that conversation (Isa. 29:21), the religious idols of the nations (“wind [rûaḥ] and emptiness are their images”) (Isa. 41:29); also the makers of these idols (Isa. 44:9); and apparent futility in labor, as expressed by the suffering servant (Isa. 49:4, parallel with heḇel).
+
+For our purposes Isa. 45:18-19 is most interesting: “Yahweh ... did not create it [the earth] a chaos ... I did not say ... ‘Look for me in chaos.’” As we shall see shortly, an issue is raised in the interpretation of Gen. 1:2 on the basis of whether Isa. 45:18 reads “Yahweh did not create the earth a chaos” or “Yahweh did not create the earth to be a chaos.” In sum, we observe that the nuance of tōhû is brought out most clearly by words with which it appears in parallel: desert, wilderness, wind, nothing, vanity. None of these obviously appeals to one’s sense of the pleasurable and the aesthetic. At the same time we shall need to discuss below whether the use of these two nouns in Gen. 1:2 designates a creation once pristine but now perverted, or whether 1:2 teaches a creation from a primordial chaos, or whether the expression is a generalization of which vv. 3ff. are a particularization. We reserve comment until we discuss the syntax of the entire verse.
+
+darkness was on the face of the deep. Although Gen. 1 states that God created light (v. 3), it does not say that he created darkness. May we assume from this that darkness, unlike light, is not a part of God’s creation, but is independent of it?159 Is day superior to night? Can one place spiritual meanings on physical phenomena? Other creation traditions within the OT do place darkness within the sphere of God’s creative acts. Compare Isa. 45:7, “I form light and I create darkness.”160
+
+Beginning with the discovery and publication of Enuma elish in the late 1800s, much attention has been given to the relationship between one deity in this epic, Tiamat, and the Hebrew word for deep, tehôm. In Babylonian lore, Tiamat is the belligerent and monstrous ocean goddess. As one who leads battle against the supreme god Anu, she is the personification of evil. Before she is able to win this battle, however, another deity—Marduk—defeats and kills her, then slits her corpse lengthwise “like a shellfish.”161 From these two parts of her body Marduk forms heaven and earth.
+
+Lending credence to the possible relationship between tehôm and Tiamat was the fact that the Hebrew word is feminine, and in all of its thirty-five occurrences it appears without the article except in Isa. 63:13 and Ps. 106:9. This fact suggests that tehôm may indeed be a proper name.
+
+Further support for tehôm as a Hebraized form of Tiamat is found (a) in its association with verbs that can be applied only to human beings or animals; thus Gen. 49:25, “the deep that lies [couches or crouches] below,” and Hab. 3:10, “the deep gave forth its voice”;162 (b) in several uses of tehôm, apart from Gen. 1:2, that occur in a paragraph dealing with Yahweh’s obliteration of superhuman monsters. The best example is Isa. 51:9-11, where a list of Yahweh’s conquests includes Rahab, the dragon, the sea, and the waters of the great “deep.”
+
+Even if the etymological equivalence of tehôm and Tiamat be granted, this still does not demonstrate that the biblical Creation story has a Babylonian background. For one thing, many ancients believed in a primeval watery mass out of which the orders of creation emerged, whether these ancients were the Egyptians with their concept of the god of the primeval waters—Nu—who is the source of all things, or the Greek philosopher Thales.163 Second, the deep of Gen. 1 is so far removed in function from the Tiamat of Enuma elish that any possible relationship is blurred beyond recognition. The deep of Gen. 1 is not personified, and in no way is it viewed as some turbulent, antagonistic force.
+
+Strong negative arguments may be sounded regarding the linguistic relationship between Heb. tehôm and Babylonian Tiamat.164 Much more likely is the correspondence between Heb. tehôm and Ugar. thm (dual, thmtm, plural thmt), “deep, depth(s),” or even earlier Eblaite ti-’a-matum, “ocean abyss.”165
+
+and the Spirit of God was hovering over the surface of the waters. The main issues in this phrase are the translation of the couplet werûaḥ ’ĕlōhîm (“the Spirit of God, the spirit of God, a wind from God, an awesome gale”) and the translation of the verb meraḥepeṯ.peṯ.
+
+As for werûaḥ ’ĕlōhîm, the translation “an awesome gale” may be disposed of most easily. This suggestion takes rûaḥ as “wind” (a valid translation for the word in many biblical passages) and ’ĕlōhîm not as a name for deity but as a way of expressing the superlative in Hebrew—hence “a powerful, awesome, tempestuous, raging wind.” To sustain this picture of intensity and a storm-like atmosphere the following participle, meraḥepeṯ,is rendered something like “was sweeping” or “was stirring.”166
+
+Several factors militate against this translation. First, none of the other eighteen occurrences of this phrase in the OT means anything like “mighty wind.” The next appearance of this phrase is Exod. 31:3, where Bezalel is filled with the rûaḥ ’ĕlōhîm in order to be equipped to build the tabernacle. Obviously a “tempestuous wind” did not come upon Bezalel. This key phrase unites, via an intertextual allusion, world building and tabernacle building, the creation of a world and the creation of a shrine.167 It is most unlikely, therefore, that the phrase be read negatively in Gen. 1 and positively in Exod. 31.
+
+Second, it is true that there are some plausible examples in the Hebrew Bible of ’ĕlōhîm used as a superlative, that is, as an attributive adjective rather than a noun.168 But even these examples are ambiguous. Thus, in Gen. 23:6, is Abraham addressed as “a prince of God” or as “a mighty prince”? In 30:8 does Rachel wrestle with “wrestlings of God” or with “mighty wrestlings”? Is Nineveh “a great city of God” or “an exceedingly great city” (Jon. 3:3)? But even if the translation were transparent in these three references, this would not allow one to apply the same force to ’ĕlōhîm in Gen. 1:2c, for two reasons. First, how could the reader of the original or the translator be expected to differentiate the ’ĕlōhîm of v. 2c from all other occurrences of ’ĕlōhîm in the first chapter? Second, taking ’ĕlōhîm as superlative, and as a further descriptive part of the chaos of formlessness and darkness, places ’ĕlōhîm in v. 2c in opposition to the ’ĕlōhîm who in v. 1 creates the heaven and the earth, and who in v. 3 speaks.169
+
+As our third objection to this translation, we note that if the author had intended to say “a mighty wind” he could have used unambiguous expressions such as rûaḥ geḏôlâ (1 K. 19:11; Job 1:19; Jon. 1:4, “a great wind”) or rûaḥ ṣe‘ārâ (Ps. 107:25; 148:8, “a stormy wind”).
+
+The preferable translation, then, is either “S/spirit” or “wind” of God. In modern times H. M. Orlinsky has made the most cogent presentation of the arguments for “wind.”170 For Orlinsky the translation “S/spirit” is an inauthentic “christianizing” of the Hebrew text, a tradition that is traceable to the philosophical interpretation of rûaḥ by Philo, the famous Jewish philosopher from Alexandria in the first half of the 1st century A.D. In Orlinsky’s judgment rûaḥ, which appears almost 400 times in the OT, does not translate as “spirit” in Genesis until 41:8, “in the morning his [Pharaoh’s] spirit was troubled.” By contrast, earlier uses of rûaḥ in Genesis clearly demand “wind” or “breath.” Thus, 3:8, “they heard the sound of the Lord God walking in the garden in the cool of the day [lerûaḥ hayyôm],” that is, in the windy or breezy time of the day. Similarly in 8:1, “God caused a wind [rûaḥ] to blow over the earth, and the waters subsided.” “Breath” seems most natural for rûaḥ in 6:17; 7:15, 22, “the breath of life.”
+
+Some support for the translation “wind” is found in the Jewish targums, which are translations of the Hebrew Bible into Aramaic. So Targum Onqelos reads werûḥā’ min-qoḏam-yeyā menaššeḇā’ ‘al-’ appê mayyā’, “and a wind from before the Lord was blowing over the face of the waters.” The other famous targums, Targum Jonathan and the Jerusalem Targum, both retain the verb “blowing” but, interestingly, qualify its subject as a “rûḥā’ of mercy from before the Lord.”
+
+The translations of the LXX and Vulg. do not clearly support either translation. The LXX kaí pneúma theoú epephéreto epánō toú hýdatos is exactly reproduced by the Vulg. spiritus Dei ferebatur ... Orlinsky translates the LXX “and the wind of God was sweeping over the water.” Note, however, that both epephéreto and ferebatur are passives; thus a literal translation would be “was brought” or “was carried.”171 The passive form of the verbs reduces the necessity of rendering pneuma/spiritus as “wind.”
+
+Probably the weakest part of Orlinsky’s argument is his contention that the translation “wind” provides another link between Gen. 1 and Enuma elish. In this myth Anu creates the four compass winds primarily as part of his arsenal to eliminate the antagonist Tiamat and then carry away her remains to a remote place. One would be hard-pressed to see any valid relationship between the rûaḥ of Gen. 1 and these storms or winds, called abubu and imhullu, which are Marduk’s weapons.172
+
+Further support for Orlinsky’s arguments comes from R. Luyster’s contention that the key to the phrase “the rûaḥ of God” is the entire clause: “the rûaḥ of God was hovering over the face of the waters.”173 God’s ability to contain and rule over the cosmic waters is a sure indication of his power; for example, “you rule the raging of the sea” (Ps. 89:10 [Eng. 9]). Moreover, God’s wind or breath (as opposed to spirit) is a most potent manifestation of his presence. These two facts suggest that in Gen. 1:2 the antipode to the surging waters is God’s breath or wind, but not his spirit.
+
+The arguments of both Orlinsky and Luyster seem inconsistent. First, one may safely say that the basic concept in rûaḥ is “breath.” Normally the context will indicate whether by “breath” is meant “wind” or “spirit.” What Luyster has not noticed is that in those passages he quotes about the wind as the most potent manifestation of God’s presence, the wind is destructive. Thus, Exod. 15:10, “you did blow with your wind, the sea covered them” (cf. also Isa. 11:15; 40:7; Hos. 13:15).
+
+In those texts in which one has a legitimate choice between “breath” and “spirit” (cf. Gen. 6:3; Job 27:3; 33:4; 34:14; Ps. 104:30; Ezek. 37:14), the emphasis is one of energizing, giving life and vitality, creating and not uncreating.174 If the emphasis that Gen. 1:2 wishes to make is that the rûaḥ is a destructive force, then we must opt for “wind.” If the emphasis that Gen. 1:2 wishes to make is that the rûaḥ is a beneficent force, then we must opt for “S/spirit.” It seems clear that the latter option is the preferable one. Even Luyster takes the participle meraḥe-eṯ to mean “to hover” as a leader, a guide, a protector. Of course, the Hebrew alphabet, unlike modern alphabets, does not distinguish between upper case and lower case. Accordingly, there is no way to tell from the Hebrew whether one should read “spirit” or “Spirit.” To translate “Spirit” runs the risk of superimposing trinitarian concepts on Gen. 1 that are not necessarily present.
+
+We turn our attention now to the force of the participle meraḥeeṯ, which is variously translated “was moving” (RSV), “moved” (AV), “was hovering” (NIV), “hovered” (JB), “swept” (NEB), “sweeping” (Speiser), “brooding” (Gunkel), “rushing” (Peters),175 “swirled” (Fishbane). Obviously translations like “swept,” “sweeping,” “rushing,” “swirled” are dictated by the choice of “wind” for rûaḥ.
+
+The verb is used infrequently in the OT. The Qal stem is used in Jer. 23:9: “my heart is broken within me [šāḇar]; all my bones shake [rāḥa].” The only other use is in Deut. 32:11 (in the Piel stem as in Gen. 1:2): “like an eagle that stirs up [ʿûr] its nest, that hovers [rāḥa] over its young.” Scholars have traditionally supposed that this verse concerns how a bird teaches its young to fly, specifically how the parent provokes the young to flight. The parent bird drives the young eagle from the perch by intimidation, by rushing at the young while vigorously flapping its wings.
+
+But this interpretation may be called into question by the possibility that ʿûr in Deut. 32:11 does not mean “to stir up,” but rather “to watch over, to protect,” as in Ugar. ǵyr.176 This parallel would indicate the likelihood of a similar meaning for rāḥap, at least in the Deuteronomy passage. In Gen. 1:2 is the rûaḥ “sweeping” over the waters or “watching over” the waters? If the latter, then “spirit” would be decidedly more accurate. Yes, there is a formlessness there, a forboding darkness, but all is kept in check and under control by the spirit of God.
+
+Interestingly, in the Ugaritic texts this verb is always associated with eagles. For Ugar. rḥp C. H. Gordon suggests the meaning “soar.”177 It has been found thus far only in the Epic of Aqhat: “Over him [Aqhat] eagles will soar, there will hover a [flight of b]irds” (3 Aqhat, obverse, line 20); “over him eagle[s] soar, there hovers a flight of bird[s. Among] the eagles soars ‘nat” (3 Aqhat, obverse, lines 31-32); “Eagles so[ar] over the house of her father, there hovers a flight of birds” (1 Aqhat, line 32). Thus from the Ugaritic passages and from the Deuteronomy passage it appears that rāḥap describes the actions of birds, not winds.178
+
+Finally, we must discuss the syntax of the entire verse. This verse has three circumstantial clauses with three different subjects and three different kinds of predication: a perfect verb (v. 2a), a nominal clause (v. 2b), and a participle (v. 2c). But do the contents of v. 2 describe something that came to be after God created an originally perfect universe? Or does v. 2 expand on and clarify the shape of the earth when God first created it? Or does v. 2 describe the situation before God begins his actual creation as introduced in v. 3?
+
+The first of these suggestions is popularly known as the gap theory. In essence, this reconstruction suggests that v. 1 describes the original creation, which was flawless. Then something catastrophic happened (Satan’s fall from heaven?), throwing God’s perfect earth into turmoil and judgment so that it became (not “was”) without form and void. Subsequently God started a second creation, so that v. 3 describes not creation but re-creation. 179 The length of this gap between the first and second creation is impossible to determine.
+
+For this analysis two points are essential. The first is that v. 2 be understood as describing something sequential to v. 1. This is accomplished by understanding the verb “was” in v. 2 as having an active rather than a stative force, and by reading the verb as a pluperfect: “the earth had become....” The second necessary ingredient is that the phrase “a desert and a wasteland” be interpreted as a result of divine judgment, for it describes the exact opposite of a beneficent creation. Special appeal is made to Isa. 45:18—“he did not create it a chaos [tōhû]” as opposed to the translation “he did not create it to be a chaos.”
+
+Now, at times the verb “to be” in the perfect tense can have an obvious active force. Certainly 3:22 says, “Behold, the man has become [hāyâ] like one of us.” But for two reasons it cannot have this force in 1:2. First, if the writer had intended v. 2 to be read as a sequence to v. 1, he would never have used the construction he did: waw consecutive plus subject plus verb (in the perfect). Instead it would be: waw conversive attached to the verb (in the imperfect) plus subject. Thus, one would expect wattehî hā’āreṣ rather than what we do have: wehā’āres hāyeṯâ.
+
+Second, in other circumstantial clauses the verb hāyâ in the perfect tense normally carries its stative sense (3:1, “the serpent was wiser”; 29:16, “and Rachel was pretty; 34:5, ”his sons had been [or were] in the field”; Exod. 1:5, “and Joseph was in Egypt”; Jon. 3:3, ”now Nineveh was an exceedingly great city”). The burden of proof, then, is upon those who insist that here we have an instance of hāyâ in a circumstantial clause with the meaning “became.”
+
+We have already voiced our reasons for not interpreting tōhû wāḇōhû as a kind of early Sheol or Hades against which God’s wrath has been loosed. Instead, we see here a reference to the situation prior to specific creation, a situation of formlessness but over which God’s spirit superintends.180
+
+Syntactically, two possibilities remain in understanding v. 2. First, it may describe a condition concurrent with that described in v. 3, “the earth being without form and void, God said.... “This is the approach of Orlinsky, Speiser, and others. The most serious objection to this view is that contemporaneous circumstance is adequately handled by a verbless clause.181 We would expect wehā’āres tōhû wāḇōhû. Hence, we opt for the second possibility, that on syntactical grounds v. 2 be understood as distinct from and prior to v. 3.
+
+In sum, the position taken here is that v. 1 is an opening statement functioning both as a superscription and as a summary. As such, it is the functional equivalent to the colophon “these are the generations of,” which is the introductory sentence to each of the remaining major divisions of Genesis.
+
+Verse 2 then describes the situation prior to the detailed creation that is spelled out in vv. 3ff.182 It has long been observed that the creation days fall into the pattern of a movement from generalization to particularization. Days 1, 2, and 3 parallel days 4, 5, and 6. Thus day 1, the creation of light, goes with day 4, the creation of particular kinds of lights.183 We suggest that this same movement occurs in v. 2 (generalization) and vv. 3-31 (particularization).
+
+
+
+
+
+2. THE FIRST DAY (1:3-5)
+
+
+
+
+3 And God said, “Let there be light, ” and there was light.
+
+
+
+4 And God saw howl184 beautiful the light was. God separated between185 the light and the darkness.
+
+
+
+5 God named the light “day ”; the darkness he named “night. ”186 And there was evening and morning—a first day.187
+
+
+
+
+
+3 This first day of six days of divine activity produces the creation of light. This is quite natural, for the existence of light is the sine qua non for the creation of anything else. All creation takes place in the light.
+
+These three verses contain the words of both God and the narrator. Actually there are only two narrated words of God on this first day: yehî’ôr, “Let there be light. ” Everything else (introduction of the deity, a description of the created object, a statement of evaluation, information on subsequent activities of God, a chronological note) is from the narrator. Yet it is the words of God, however brief, that are paramount. The narrator’s contributions function as something of an appendage. God is the soloist; the narrator is the accompanist.
+
+Verse 3 also introduces the reader to the frequently used phrase of Gen. 1—and God said (vv. 3, 6, 9, 14, 20, 24, 26). It is the Vulg. translation of v. 3, fiat lux, “Let there be light,” that has given birth to the phrase “creation by fiat.” The emphasis is on creation by speech as command.
+
+All Creation stories, biblical and nonbiblical, describe creation in one of four ways: (1) through action of some deity or deities; (2) through conflict with antagonistic forces; (3) through birth and self-reproduction; (4) through speech. Obviously the second and third are not found in Gen. 1 and 2, but both chapters do reflect the use of the first and fourth.
+
+Worth pursuing is the interpretation that claims that there is a basic distinction between the mode of creation in 1:1-2:3 and that of 2:4-31. The contrast is between creation by word and creation by action, God said versus God formed/planted/took a rib. (By the way, this difference is one of the criteria that source critics use to drive a wedge between these two chapters; they label 1: 1-2:4a as “Priestly” and therefore late, and 2:4bff. as “Yahwistic” and therefore earlier, maybe 9th/8th century B.C.)
+
+A closer examination of the two chapters shows that such a distinction is not maintained in the text itself. One observes that the only item in Gen. 1 that is created by fiat, strictly speaking, is light: “And God said, ‘Let there be light,’ and there was light.” Everything else is created, or emerges, in Gen. 1 by fiat plus some subsequent activity that is divinely instigated. Thus, there is no “ ‘let there be a vault,’ and there was a vault,” nor any “ ‘let there be lights/animals/man,’ and there were [was] lights/animals/man.” So, after the “Let there be” of day 2 (v. 6a) comes “And God made the vault.”
+
+4 This verse logically follows v. 3, for x can be separated from y only on the assumption that both x and y are already in existence. separated means here not to pull apart, but to assign each part to its respective sphere and slot.
+
+God’s work in Gen. 1 is often a work of separation. The verb is used five times in this chapter (vv. 4, 6, 7, 14, 18), once with light and darkness, twice with the celestial vault, and twice with the luminaries. A. Kapelrud has suggested that this verb appears as often as it does in Gen. 1—and nowhere else in Genesis—for a deliberate reason. Beginning with the idea that this story was composed for the sake of exiled Judeans who were in jeopardy of compromising their faith, Kapelrud makes the point that the proliferation of “separate” in Gen. 1 functions as a subtle exhortation to the exiles to separate themselves from every possibility of contamination with pagans.188
+
+This suggestion strikes us as more fanciful and imaginative than exegetical. If anything, these opening chapters of Genesis provide a contrast between a separation that is wholesome and a separation that is malignant. In creation there is separation toward order: light from darkness, waters above from waters below, day from night, woman from man. In sin and trespass there is a separation toward disorder: man and woman from God; man from woman; man from the soil; man from a garden.
+
+The major difference between this work of separation and the other two in Gen. 1 is that here the pronouncement of God’s benedictional statement—God saw how beautiful the light was—precedes the separation. In vv. 6-8 and 14-19 this sentence of evaluation follows the separation. Thus it is the light itself that is beautiful (or good, Heb. ṭôḇ), not the creation per se of time into units of light and darkness.
+
+Still, it is important, as was indicated above, that we place in proper perspective what happens on the first day in comparison with following days. God’s first creation is time (vv. 3-5). His second creation is space (w. 6-10).189 Can it be without significance that this Creation story commences in the context of time and concludes (2:1-3) with a return to that category, a day of rest? A civilization whose concept of time is essentially cyclical will for obvious reasons not sanctify the category of time. Its exclusive obsession will be with the sanctification of space. The Genesis concept of the sanctification of time (compare the root qdš in Gen. 2:3) receives more prominence than does the concept of the sanctification of space; in fact, not until Exod. 3:5, which is incidentally the next occurrence of the root qdš (“sanctify”), does one encounter the concept of the sanctification of space—“for the ground on which you are standing is holy ground.”
+
+It will perhaps strike the reader of this story as unusual that its author affirms the existence of light (and a day for that matter) without the existence of the sun, which is still three “days” away. The creation of light anticipates the creation of sunlight. Eventually the task of separating the light from the darkness will be assigned to the heavenly luminaries (v. 18). It is unnecessary to explain such a claim as reflecting scientific ignorance. What the author states is that God caused the light to shine from a source other than the sun for the first three “day.”190
+
+5 The fact that evening is placed before morning throughout this chapter is not a foolproof indication that the OT reckons a day from sunset to sunset. There is some evidence that strongly suggests that the day was considered to begin in the morning at sunrise. For example, this view is supported by the fact that when the OT refers to a second day the time reference is the morning (Gen. 19:33-34; Judg. 6:38; 21:4). Similarly, the phrase “day and night” is much more frequent than “night and day.”191 Thus it seems likely that this refrain in Genesis refers not to the computation of a day but rather to the “vacant time till the morning, the end of a day and the beginning of the next work.”192
+
+
+
+
+
+3. THE SECOND DAY (1:6-8)
+
+
+
+
+6 And God said, “Let there be a vault in the middle of the waters, and let it be a separator193 between waters and waters. ”
+
+
+
+7 So, God made the vault and he separated between the waters beneath the vault and the waters above the vault. And it was so.
+
+
+
+8 God called the vault “sky.” And there was evening and morning—a second day.
+
+
+
+
+
+6 The word we have translated as vault is Heb. rāqîa’, which appears as “firmament” in the AV (from Vulg. firmamentum). The basic meaning of the noun is determined by a consideration of the verb rāqaʿ. Here the basic idea is “to spread out,” and specifically the spreading out of the earth at creation (cf. Ps. 136:6; Isa. 42:5; 44:24) or the spreading out of the sky (cf. Job 37:18). In Isa. 40:19 the meaning is to overlay or plate (with gold). A rāqîa’, then, is something that is created by being spread out either by stretching (e.g., a tent) or by hammering (e.g., a metal; cf. Deut. 28:23, in which the sky in a time of drought is likened to bronze; cf. also the use of rāqa’ in Exod. 39:3, where the meaning is clearly “to hammer out”).
+
+The function of this vault is to separate between waters and waters. It will be observed that the prepositions before “waters” in v. 6 are bên ... le (or lā), while the prepositions before “waters” in v. 7 are bên ... bên. The first combination appears only thirty times in the OT, while the latter combination appears some 126 times. Gen. 1:6 is the only example of bên ... le in Genesis. The next occurrence of this combination is not until Lev. 20:25.
+
+The combination bên ... le appears to be used consistently to draw a distinction between x and y, 194 and when this distinction refers to unspecified classes such as man:wife; father:daughter; clean:unclean. For example, to express that there was a war between Israel and the Philistines (i.e., specific people) the expression bên ... bên would be used. But in expressions like “knowing the difference between good and evil” (i.e., nonspecifics), the combination is usually bên ... le. Thus in Gen. 1:6-7, perhaps v. 6 refers to waters in general. But once the division is made (v. 7), two specific sets of water emerge, those above and those beneath the vault.195
+
+7 Syntactically the subject of separated could be either God (he separated) or the vault (it separated). Without being dogmatic, we prefer the former on the basis of the parallel in v. 4, where God is clearly the subject of the same verb. Also, the expressed subject of the verb in the first clause functions as the subject of the verb in the next principal clause unless there is an obvious indication of a subject change, either through a new subject or through a change in the second verbal form, or both. In favor of attaching the verb with vault as subject is the fact that later in the narrative the work of separation is assigned to the created items themselves, and not to the creator (vv. 14, 18).
+
+Many commentators have shifted MT wayehî-ḵēn, And it was so, from the end of this verse to the end of v. 6, following the LXX at this point. Consistently in Gen. 1 this expression follows God’s opening declarative statement (w. 9, 11, 15, 24). Here the And it was so follows the Tatbericht (the report of action) instead of the Wortbericht (the report of speech). There is a similar placement of the phrase on the sixth day (see v. 30 below).
+
+8 One may compare the creation of the sky as delineated in these verses with the parallel in Enuma elish to see some of the wide discrepancy in mentality between the biblical story and the pagan account. The appropriate lines in Enuma elish read:Then the lord [Marduk] paused to view her dead body [Tiamat],
+
+That he might divide the monster and do artful works.
+
+He split her like a shellfish into two parts;
+
+Half of her he set up and ceiled it as sky,
+
+Pulled down the bar and posted guards.
+
+He bade them to allow not her waters to escape.196
+
+
+
+
+
+In this myth, sky is made not only from preexisting material but specifically from one-half of the cadaver of an evil goddess. Then Marduk must provide locks and guards to deter Tiamat from unleashing her threatening waters on the earth. Heaven as antagonist operates under restraint.
+
+In Canaanite mythology much attention is given to this celestial sea and to Baal, whose primary function is rainmaker. Assuming a central role here are the windows of heaven. By contrast such sluice gates are mentioned only infrequently in Scripture, Gen. 7:11 being the one passage that explicitly mentions the means by which these waters above were released. Preponderantly the OT describes the process of rainfall much as we do, that is, as a concomitant of lightning, clouds, and thunder (Gen. 9:14; Judg. 5:4; 1 K. 18:45; Isa. 5:6; and even poetic passages such as Job 26:8 and Ps. 77:18 [Eng. 17]).197
+
+Only in connection with this second day is the phrase “and God saw how beautiful it was” absent in the MT. LXX has the phrase, probably artificially and for the sake of consistency. It is unlikely that the LXX represents an earliest form of the Hebrew text. The omission of the phrase in v. 8 may indicate that the author viewed the creation of the vault as only a preliminary stage to the emergence of dry land in v. 10, and thus he reserved the phrase until its most appropriate time. The “waters above” are now edged out of the Creation story and dropped from further concern by the author.
+
+
+
+
+
+4. THE THIRD DAY (1:9-13)
+
+
+
+
+9 And God said, “Let the waters beneath the sky be gathered into one collection198 and let the dry land appear. ”And it was so.
+
+
+
+10 God named the dry land “earth”; the collection of waters he named “seas. ” God saw how beautiful it was.
+
+
+
+11 And God said, “Let the earth be green with verdure: seed-bearing plants, and every kind199 of fruit trees—whose seed is enclosed in it—producing fruit on earth. ” And it was so.
+
+
+
+12 The earth brought forth verdure: every kind of seed-bearing plants, every kind of fruit trees—whose seed is enclosed in it. God saw how beautiful it was.
+
+
+
+13 And there was evening and morning—a third day.
+
+
+
+
+
+9-10 Perhaps the use of two jussives in v. 9 suggests that the two developments (the concentration of the subcelestial waters and the emergence of dry land) be understood as concomitant events. If the author had intended the relationship between the two events to be simultaneous, sequential, or cause and effect, one would expect a different construction in the phrase and let the dry land appear. Thus it seems best to read the waw on this second jussive simply as and instead of supplying something like “and [at the same time] ... ,” or “and [subsequently] ... ,” or “so that....”
+
+Verse 10 is structured exactly like v. 5. They share both the verbal pattern wayyiqrā’ ... qārā’ , and the chiastic structure abc: : bac (verb, indirect object, object : :indirect object, verb, object).
+
+The narration of the Creation story now advances from the category of time to that of space. This is the last time, in the creation context, that God will name anything. He continues to create, but he ceases to name. That responsibility will be delegated to man, once he arrives on the scene (2:19, 20, 23; 3:20; 4:17, 25, 26; 5:3, 29).
+
+Just as there is a shift of emphasis in 1:1 from “heavens and earth” to simply “earth” in v. 2, so on this third day of creation there is a shift away from waters/seas and dry land/earth (w. 9-10) to dry land/earth alone in vv. 11-12. Also, although the waters are mentioned before the dry land in v. 9, the dry land is named first in v. 10. The geocentric emphasis of the Creation story thus begins to emerge.200
+
+11-13 These verses move from the creation of the bare earth to the ornamentation of that earth. Unlike the first and second days, which feature one act of creation, this day has two acts of creation: earth and vegetation. For this reason creations involving divine separation are now augmented by a creation involving a divine covering. He who will later cover Adam and Eve in the garden with garments of skin first covers his earth with lush vegetation. Shortly he will dot his sky with luminaries.
+
+Actually Gen. 1 describes eight creative acts by God over a six-day period. The pattern into which these creative acts fall provides even further evidence of the author’s intention to describe the creation schematically:Day one: one work: light
+
+Day two: one work: vault
+
+Day three: two works: earth and vegetation (indicated by the double use of the evaluation, vv. 10, 12)
+
+Day four: one work: luminaries
+
+Day five: one work: birds, fish
+
+Day six: two works: land animals and man (indicated by the double use of the evaluation formula, vv. 25, 31)
+
+
+
+
+
+It is a moot point whether vv. 11 and 12 refer to three different types of plant growth or to two. The Hebrew allows either possibility. But for two reasons this translation assumes, though not dogmatically, that deše’ , verdure, is an all-inclusive word that is then defined by two representatives, ʿēśeḇ, plant(s), and ʿēṣ, tree(s). For one thing, a distinction is made only between plants and trees. The former bear their seeds externally and the latter bear theirs internally, inside the fruit. More tellingly, vv. 29-30 inform us that God gave two of these three items to man for consumption: ʿēśeḇ, and ʿēṣ. Then again, vv. 11-12 may simply describe the appearance of three types of plant growth, of which only two are edible by man.
+
+God’s creative design is that both the plants and the trees will reproduce themselves by bearing seed “each according to its kind” (AV, RSV). Here the concept of both the supernatural and the natural have their place.201 What exists exists because of the creative word of God. This spoken word is the ultimate background to all terrestrial phenomena. Yet this same word grants the means of self-perpetuation to various species and orders of creation. Here then is both point and process, with neither eclipsing the other. It is probably too restrictive to insist that the Hebrew word mîn, “kind(s),” be limited to “species.” Heb. mîn iṣ broad enough to allow “species” as well as “genus, family, order.”202
+
+With the conclusion of the third day yet another color is added to God’s cosmos. To the basic white and black of day and night has been added the blue of sky and sea. Now the canvas is adorned with green. The golden-yellow sun and the reddish human being will complete this rainbow of colors.
+
+
+
+
+
+5. THE FOURTH DAY (1:14-19)
+
+
+
+
+14 And God said, “Let there be luminaries203 in the vault of the sky to separate between day and night; let them be indicators of seasons, days, and years, 204
+
+
+
+15 luminaries in the vault of the sky to shine upon the earth.” And it was so.
+
+
+
+16 God made the two great luminaries, the greater luminary as ruler of the day and the lesser luminary as ruler of the night-also the stars.
+
+
+
+17 God placed them in the vault of the sky to shine upon the earth,
+
+
+
+18 to rule over the day and the night, and to separate between the light and the darkness. God saw how beautiful it was.
+
+
+
+19 And there was evening and morning—a fourth day.
+
+
+
+
+
+14-15 There is progression here from light in general or unspecified (day 1) to specific sources of light (day 4). These sources of light, however, are described first of all only by an all-inclusive term—luminaries. Unlike the previous three days, where a statement about the raison d’être of the created item is either omitted or only briefly noted, here a threefold function is assigned to these celestial light bearers: to separate between day and night, to serve as signs of the passage of time, and to illuminate the earth. So important is the delineation of these functions that they are repeated in vv. 17-18, in reverse order, perhaps as an attention-getting device.
+
+Few commentators deny that this whole chapter has a strong antimythical thrust. Perhaps in no other section—except the sixth day—does this polemic appear so bluntly as it does here. It is sufficient to recall the proliferation of astral deities in most Mediterranean religions: the sun, the moon, and the stars are divine. As such they are autonomous bodies. Around each of them focus various kinds of religious cults and devotees. In the light of this emphasis Gen. 1:14ff. is saying that these luminaries are not eternal; they are created, not to be served but to serve.205 That is the mandate under which they function.
+
+16-18 The author’s polemical concerns continue in these verses as indicated, first of all, by his choice of terminology. He uses the unusual expression the greater luminary instead of the normal word for sun—šemeš—of which he undoubtedly was aware. In the same way he opts for the lesser luminary instead of the familiar yārēaḥ, “moon.” The reason for this choice of terms may be due to the fact that these words—which are very similar in other Semitic languages—are the names of divinities.206 Thus this text is a deliberate attempt to reject out of hand any apotheosizing of the luminaries, by ignoring the concrete terms and using a word that speaks of their function.
+
+Second, the antimythical thrust of this section is indicated by the order in which the luminaries are listed: sun, moon, stars. This order contrasts with the order in Enuma elish, in which priority is given to the stars, following which Marduk organizes the calendar and fixes the polestar. Only then do the moon and sun (in that order) come into play:He bade the moon come forth;
+
+entrusted night (to him);
+
+assigned to him adornment of the night
+
+to measure time.207
+
+
+
+
+
+In fact, Enuma elish does not record the creation of these lights, for they are “great gods.” They are simply placed in their cosmic positions as constellations (stars) or instructed by Marduk (moon and sun). It is significant that in Gen. 1 the reference to the stars, which are so prominent in pagan cosmogonies, is touched on so briefly and quite anticlimactically. Given the MT’s word order in v. 16, one may safely describe the creation of the stars as almost an afterthought or a parenthetical addition.208
+
+
+
+
+
+6. THE FIFTH DAY (1:20-23)
+
+
+
+
+20 And God said, “Let the waters teem with swarming living creatures209 and let birds fly above the earth, beneath the vault of the sky. ”210
+
+
+
+21 God created the large marine creatures and every kind of creeping living creature with which the waters teem, and every kind of winged bird. God saw how beautiful it was.
+
+
+
+22 God blessed them, saying, “Be fertile, multiply, and fill the sea’s waters, and let the birds multiply on the earth. ”
+
+
+
+23 And there was evening and morning—a fifth day.
+
+
+
+
+
+20-21 Just as days one and four correspond, so days two and five are related. Day two brought into existence the necessary environment and habitat—the sky to separate the waters. Now on day five those creatures are created who inhabit the sky and the waters—birds and aquatic beings.
+
+Those creatures who live in water are divided into two categories: (1) extremely large and mostly water-related mammals or reptiles (crocodile, whale, large snakes; hence RSV “the great sea monsters”); and (2) smaller fish and other more diminutive aquatic creatures, who either glide through the water or creep along its bed.
+
+Much discussion has focused on the identity of the enormous marine creatures (Heb. tannînim, v. 21), which particularly in three OT texts are juxtaposed with the name of dragonesque creatures who have met, or will meet, defeat at God’s hands. Ps. 74:13-14 relates that God has “broken the heads of the dragons on the waters,” thus including “dragons” as one of the powers subjugated by God (others are the sea and Leviathan). Vv. 15-17 continue the allusion to the creation event. Isa. 27:1 announces the eschatological day on which Yahweh will both punish Leviathan “and slay the dragon that is in the sea.” Isa. 51:9 also refers to the past when God cut Rahab to pieces, pierced the dragon, and dried up the sea and the waters of the great deep (tehôm rabbâ). Of the nine other OT references to tannîn, most indicate simply some land or sea creature (serpent: Exod. 7:9, 10, 12; Deut. 32:33; Ps. 91:13; perhaps “crocodile” in Ezek. 29:3 and 32:2).211 Still, there are these three verses in which the tannîn appear as an antagonist to God. Is this another literary parallel, asked the scholars, to Enuma elish in which Marduk created the earth by first conquering and slaying the monster Tiamat and then cutting her corpse in half?
+
+Even more interest was drawn to the subject with the discovery of tnn in Ugaritic texts. Ugar. tnn is another name for Yamm (Sea), who is consistently pictured as an enemy of Baal. Thus in one text (ent 111:34-39) Baal’s sister-wife Anat says:What enemies risen ‘gainst Baal?
+
+What foe ’gainst the Rider of Clouds?
+
+Crushed I not El’s Belov’d Yamm?
+
+Destroyed I not El’s Flood Rabbim?
+
+Did I not, pray, muzzle the Dragon [tnn]?
+
+I did crush the crooked serpent [ltn, viz., Leviathan],
+
+Shalyat the seven-headed.212
+
+
+
+
+
+Unlike Enuma elish, the Canaanite Baal versus Yamm (Sea) and Mot (Death) cycle has nothing to do with world origins. Instead the concern here is with the annual cycles in nature and whether there will be dearth or fertility in the land.
+
+Genesis 1 does not even hint of a battle. The tannînim are simply large creatures of the water and are created by God. Perhaps the reappearance in v. 21 of the verb create, not used since v. 1, underlines this point. This is a verb whose only subject in the OT is God, and whose accusative is always the product and never the material.213 Even some of the later texts that use battle imagery place such battles not at creation per se but rather “in days of old” (Isa. 51:9).
+
+The Bible obviously does not hesitate to use the language of myth. The references in Ps. 74, Isa. 27, and Isa. 51 defy any other explanation. Curiously, Genesis does not use the language of myth in its narration of the Creation story. Gen. 1 could not be written with a more antimythical basis.214
+
+22-23 For the first time in the Creation narrative God speaks to somebody. Soliloquy gives way to monologue, indicated by the introduction of the second person imperative mood. But God’s blessing precedes his commands. He gives a blessing and then issues an order. The recipient of God’s first blessing in the Bible is not man—that must wait until v. 28—but fish and fowl. Quite evidently, the essence of God’s blessing is the capacity to be fertile, to reproduce oneself. Everything thus far in the created order has received God’s inspection. To that is now added God’s blessing.
+
+
+
+
+
+7. THE SIXTH DAY (1:24-31)
+
+
+
+
+24 And God said, “Let the earth bring forth every kind of living creature: cattle, reptiles, and every kind of wild animal.” 215 And it was so.
+
+
+
+25 God made every kind of wild animal, every kind of cattle, every kind of land reptile. God saw how beautiful it was.
+
+
+
+26 And God said, “Let us make man in our image, as our likeness. Let them exercise dominion over fish of the sea, over birds of the sky, over the cattle, over all the earth, and over every reptile that crawls on the earth. ”
+
+
+
+27 God created man in his image. In the image of God he created him; male and female he created them.
+
+
+
+28 God blessed them, saying to them: “Be abundantly fruitful,216 fill the earth, and subdue it. Exercise dominion over fish of the sea, over birds of the sky, and over every living thing that moves on the earth. ”
+
+
+
+29 God also said, “Indeed, I have given to you as food every seed-bearing plant on the face of the earth and every tree whose fruit bears seed.
+
+
+
+30 To every wild animal of the earth, to every bird of the sky, to every living creature that crawls, (I give) every green plant as food. ” And it was so.
+
+
+
+31 God looked over everything he made, and indeed it was very beautiful. And there was evening and morning—the sixth day.
+
+
+
+
+
+24-25 The development in creation is now from aquatic and aerial animals (fifth day) to terrestrial animals (sixth day). The corresponding day to day six (i.e., third day) saw the emergence of the dry land. Now the creatures who inhabit the dry land appear.
+
+Three categories of land creatures are described in these two verses. By cattle is meant primarily large quadrupeds which are domesticated. reptiles (lit., “creeping [or crawling] thing”) designate the legless creatures such as lizards and snakes. The third category, every kind of wild animal, is simply the Hebrew word for “living thing.”
+
+For some unknown reason the land animals are not the direct recipient of a divine blessing as are the aquatic creatures (v. 22). Perhaps the announcement of the divine blessing is reserved for the three most critical junctures in the narrative: the introductory statement (v. 1); the creation of organic life (v. 20); and the creation of human life (v. 26).
+
+Like the plants, all living creatures—terrestrial, celestial, and aquatic—are created according to kind. They are created to be self-propagating. The Creator makes creators.
+
+The order in which the land animals appear is different in the two verses. Thus, v. 24: cattle, reptiles, wild animals; v. 25: wild animals, cattle, reptiles. (This three-part division of the mammal world is condensed in v. 28 into one expression: “every living thing that moves on the earth.”) It is unlikely that the sequence of one of the two verses is earlier or more correct than the other. More than likely the summary heading in v. 24—neeš ḥayyâ—rovides a reason in this verse for not starting with ḥayeṯô ʾereṣ.
+
+26 This verse bristles with issues that have been the subjects of innumerable articles and monographs. The first area of debate is over the striking use of the first person plural pronouns: us ... our. Needless to say, earlier Christian commentators were prone to see here a reference to the Trinity. But even if one grants that Moses was in some way responsible for Gen. 1, it is going too far to call Israel’s hero a trinitarian monotheist! Christian readers of the OT may indeed see a trinitarian context in Gen. 1. The question remains whether that was the author’s intention and understanding. The theological battle of Moses’ day was not trinitarianism versus unitarianism. The battle centered around the belief in one God who is himself uncreated, merciful, and sovereign versus the belief in multiple gods and demons who are capricious, unpredictable, and often immoral.
+
+In order to understand the us of v. 26 historically and grammatically, scholars have suggested at least six possibilities for interpretation.217 (1) A mythological interpretation understands the us to refer to other gods. Thus this text is a remnant of the earliest form of the story that somehow escaped the editor who removed from his borrowed tale any pagan elements that would be offensive and unacceptable to monotheists.218
+
+(2) In the biblical adaptation of the story the pantheon concept was replaced with the heavenly court concept. Thus, it is not to other gods, but to the angelic host, the “sons of God,” that God speaks.219
+
+(3) God speaks to something he has recently created and the most likely addressee would be the earth. Thus man owes his origin to both God and the ground.220
+
+(4) Some grammarians have opted here for what they call a plural of majesty, for the word God is itself plural—’elōhîm. Comparison has been made to the “us” in Gen. 11:7 and Isa. 6:8.221
+
+(5) Other grammarians have interpreted the us to be a plural of deliberation. God speaks to himself.222 This would be comparable to an individual who might say to himself: “Let’s see, should I walk to work tomorrow or take the bus?” Biblical uses of this plural of deliberation have been claimed and challenged for Cant. 1:9-11, “I ... we,” and 2 Sam. 24:4, “us ... me.”
+
+(6) The best suggestion approaches the trinitarian understanding but employs less direct terminology. Thus Hasel calls the us of v. 26 a “plural of fullness,” and Clines is close to that with his phrase “duality within the Godhead.”223 According to Clines, God here speaks to the Spirit, mentioned back in v. 2, who now becomes God’s partner in creation. It is one thing to say that the author of Gen. 1 was not schooled in the intricacies of Christian dogma. It is another thing to say he was theologically too primitive or naive to handle such ideas as plurality within unity. What we often so blithely dismiss as “foreign to the thought of the OT” may be nothing of the sort. True, the concept may not be etched on every page of Scripture, but hints and clues are dropped enticingly here and there, and such hints await their full understanding “at the correct time” (Gal. 4:4).
+
+The shift from the consistent use of the verb in the jussive (e.g., “Let there be”) to a cohortative (“Let us make”) is enough to prepare the reader for something momentous on this sixth day. That momentous element is the creation of man in our image, as our likeness. This brings us to the second major issue in this verse: what meaning is conveyed by these two nouns, which occur in parallelism only in this verse, and what is their relationship to each other?
+
+The basic phrase “the image of God” is found only four times in the OT: Gen. 1:26, 27 (twice); 9:6. Related to these passages is 5:3—Adam fathered a son “after his image.” The Hebrew word for “image” is ṣelem, which the LXX normally renders by eikḗn (icon).
+
+Several times ṣelem describes an idolatrous image that is to be destroyed (Num. 33:52; 2 K. 11:18 par. 2 Chr. 23:17; Ezek. 7:20; 16:17; 23:14; Amos 5:26). But two texts in the Psalms seem to require a less concrete meaning for ṣelem. Thus in Ps. 39:7 (Eng. 6) ṣelem parallels heḇel, “vanity”: surely man “moves like a phantom [ṣelem]; the riches he piles up are no more than vapour [heḇel]” (NEB). In 73:20 ṣelem parallels “dream” (ḥalôm): “like a dream [ḥalôm] when a man rouses himself, 0 Lord, like images [ṣelem] in sleep which are dismissed on waking” (NEB). If ṣelem in these two texts is the same word used in Genesis and in the passages cited above, 224then it may be used for purposes other than describing the physical imitation of something. Here image would be something conveying the idea of emptiness, unreality, unsubstantiality.
+
+The only other occurrences of ṣelem in the OT are in 1 Sam. 6:5 (twice), 11. Here the Israelite priests instruct the Philistines, before they return the ark to the Israelites, to make “images” or “models” of the tumors and the mice that the Lord had sent upon them. Outside Genesis, then, this is the only passage where ṣelem designates the representation of something else, without also suggesting that such representation was taboo or illicit.225
+
+What, then, does Gen. 1 signify by designating man as one made in the image of God? We have had occasion to mention above several ways in which Gen. 1 narrates the Creation story in a way radically different from the creation accounts of neighboring cultures. Perhaps such polemicizing continues here.
+
+It is well known that in both Egyptian and Mesopotamian society the king, or some high-ranking official, might be called “the image of God.” Such a designation, however, was not applied to the canal digger or to the mason who worked on a ziggurat. Gen. 1 may be using royal language to describe simply “man.” In God’s eyes all of mankind is royal. All of humanity is related to God, not just the king. Specifically, the Bible democratizes the royalistic and exclusivistic concepts of the nations that surrounded Israel.
+
+We now need to ask the significance of the second phrase, as our likeness.226 The prevailing opinion is that likeness is less important than image, hence its omission in the verse that follows. Man is created in the image of God, but to avoid the possibility that man be viewed as an exact image of God, the word likeness is appended. The physical nuance of the concrete term “image” is toned down by the more abstract term “likeness.” Some support for this interpretation is found in the extensive use of demût (“likeness”) in Ezek. 1-10. Here the prophet never says that he saw God, but only the likeness of God or the likeness of something associated with God. Ezekiel’s own description of the theophany is decidedly reserved (see 1:5, 10,13, 16, 22, 26, 28; 8:2; 10:21, 22). Thus Gen. 1:26 would be an instance of the writer leading with a major word—image—and following it with a minor word—likeness—just as he started with the major verb “create” and followed it with “make.”
+
+Another approach reverses this understanding and suggests that likeness actually specifies and strengthens image.227 This interpretation intensifies rather than diminishes the creature’s reflection of the Creator. It suggests that something about God may be known by studying his image, man. Of course, theologies whose distinguishing feature is the large and impenetrable gulf between an infinite God and a finite man will be unlikely to accept such a possibility. Such theologies stress the sinfulness of man (excluding any other emphases) to the degree that it is impossible to work from man to God as part of an educating process.228
+
+Some debate has emerged over the use of the preposition be attached to ṣelem (“image”) and ke attached to demût (“likeness”), translated above as in and as respectively. In Gen. 1-9 twelve prepositional terms express a relationship of similarity between two entities. Six of these are with the preposition be and another six with ke.229 Eight of these twelve instances involve either the noun image or the noun likeness. Thus be is prefixed to “image” in 1:26, 27 (twice); 9:6; and to “likeness” in 5:1, 3. ke is prefixed to “image” in 5:3 and to “likeness” in 1:26.
+
+One might think that the choice of preposition is not significant, and that we have here simply a stylistic variant. Thus, compare Gen. 1:26, “Let us make man ... as [ke] our likeness” with Gen. 5:1, “In [be] the likeness of God ... he made him.” But Clines has argued at length for taking the be in beṣelem of 1:26 as a beth essentiae. So, the passage would read, “Let us make man as/in the capacity of/to be our image.”230 The existence of the beth essentiae is well established in biblical Hebrew, Exod. 6:3 being the classic illustration, “I appeared as [be] El Shaddai.”
+
+There are two arguments against this interpretation. First, in the Pentateuch the closest parallel to Gen. 1:26 in which something earthly is modeled after something nonearthly is Exod. 25:40, “And see that you make them according to [be] the pattern of them which you were shown in the mountain.” This parallel clearly bears the standard use of be, “in, according to, after.” Second, when the be is the beth essentiae it normally indicates a property of the subject of the verb, not the object of the verb.231 Certainly 1:26 intends that ṣelem, “image,” is a property of ʾāḏām, “man,” which is the direct object of bārāʾ, “create.”
+
+It is clear that v. 26 is not interested in defining what is the image of God in man. The verse simply states the fact, which is repeated in the following verse.232 Nevertheless, innumerable definitions have been suggested : conscience, the soul, original righteousness, reason, the capacity for fellowship with God through prayer, posture, etc. Most of these definitions are based on subjective inferences rather than objective exegesis. Any approach that focuses on one aspect of man—be that physical, spiritual, or intellectual—to the neglect of the rest of man’s constituent features seems doomed to failure. Gen. 1:26 is simply saying that to be human is to bear the image of God. This understanding emphasizes man as a unity. No part of man, no function of man is subordinated to some other, higher part or activity.
+
+Verse 26 has begun by stating man’s relationship to the Creator. It now progresses to spelling out man’s relationship to .the rest of the created order. He is to exercise dominion (rāḏâ) over all other living creatures. This verb appears twenty-two times in the Qal stem. The majority of these deal either with human relationships (Lev. 25:43, 46, 53—a master over a hired servant; 1 K. 5:30 [Eng. 16]; 9:23—an administrator over his employees; 1 K. 5:4 [Eng. 4:24]; Ps. 72:8; 110:2—a king over his subjects), the rule of one nation over another (Lev. 26:17; Num. 24:19; Neh. 9:28; Ps. 68:28 [Eng. 27]; Isa. 14:2, 6; Ezek. 29:15), or a shepherd-’s supervision of his flock (Ezek. 34:4).
+
+The last passage—Ezek. 34:4—shows that rāḏâ could be connected with force and harshness. Such is not the normal nuance of the verb, however. Thus the three passages from Lev. 25 expressly say the master is not to rule over his servants with harshness. Solomon’s dominion (1 K. 5:4 [Eng. 4:24]) was a peaceful dominion. The reigning king of Ps. 72 is also the champion of the poor and the disadvantaged. What is expected of the king is responsible care over that which he rules. Thus, like “image,” exercise dominion reflects royal language. Man is created to rule. But this rule is to be compassionate and not exploitative. Even in the garden of Eden he who would be lord of all must be servant of all.233
+
+27 In this verse the direct discourse of v. 26 is replaced by narrated discourse. Thus in v. 26 we heard the voice of God, and in v. 27 we hear the voice of the narrator. The first part of the verse essentially reports the implementation of God’s words recorded in the previous verse. Note, however, that the narrator reports God making man in his image. Perhaps the use of the third person singular pronominal suffix is deliberate and undercuts the possibility of any misunderstanding of the “our” in v. 26. May this be the writer’s way of saying that when man was created in the image of ’ĕlōhîm, he meant “God” and not “divine council”? If the narrator had meant the latter, then we would expect, “so God created man in their image.”
+
+Unlike God, man is characterized by sexual differentiation. Unlike animals, man is not broken down into species (i.e., “according to their kinds” or “all kinds of”), but rather is designated by sexuality: male and female he created them. Sexuality is applied to animal creatures, but not in the Creation story, only later in the Flood narrative (6:19).
+
+The idea is not unknown in ancient literature that man was first created bisexual and only subsequently were the sexes differentiated. Such is clearly not the meaning here. Rather, the verse affirms that God created in his image a male ʾand a female ʾāḏām. Both share the image of God. Sexuality is not an accident of nature, nor is it simply a biological phenomenon. Instead it is a gift of God. While sexual identity and sexual function are foreign to God’s person, they are nevertheless a part of his will for his image bearers.234
+
+The placement of this phrase—male and female he created them—allows it to function as a bridge between the first part of v. 27 and the verses that immediately follow. As such, the phrase identifies who exactly bears the image of the divine. It also prepares the way for the blessing of fertility that follows. Here the emphasis is on the male and female as procreators, rather than their role of companions.235
+
+28 God gives two assignments to the male and the female: procreation and dominion. Like the animals over whom they rule (v. 22), at the moment of their creation God gives them the power to reproduce themselves. In view of the fact that, at least in Mesopotamia and maybe in Canaan, creation motifs were often employed in fertility rites, Gen. 1 may be saying that reproduction is a blessing and gift from God, and is in no way dependent upon subsequent rites or activities.236
+
+To the previously mentioned “exercise dominion” as one of God’s mandates to man .(v. 26, repeated in v. 28) is added the word subdue. Man is to subdue the earth and to dominate the creatures of sky and land and water. Man’s divinely given commission to rule over all other living creatures is tempered, or better, brought into sharp relief, by the fact that such dominion does not allow him to kill these creatures or to use their flesh as food. Only much later (9:3, post-Flood) is domination extended to include consumption.
+
+Of the two verbs rāḏâ, “exercise dominion,” and kāḇaš, “subdue,” the latter connotes more force. Thus it refers to subjecting someone to slavery (2 Chr. 28:10; Neh. 5:5; Jer. 34:11, 16), to physical abuse and assault (Esth. 7:8), to treading (sins) under foot (Mic. 7:19 and Zech. 9:15, where it parallels “devour”), and to militarily subjecting the population of a city (Num. 32:22, 29; Josh. 18:1). All these references suggest violence or a display of force. For reasons already indicated, it appears unlikely that we need to transfer the nuance of force and dictatorship into the use of kāḇaš in Gen. 1:28. Probably what is designated here is settlement and agriculture; “subdue the land” in ch. 1 is a semantic parallel to “till and keep the land” in 2:5, 15.
+
+We have had occasion to refer to the Mesopotamian Enuma elish. This story’s account of man’s creation provides another interesting counterpoint to the biblical story. In Enuma elish the earth is created from one-half of Tiamat’s corpse. All the deities who had sided with Tiamat against Marduk now receive as their sentence the opprobrious duty of maintaining the earth. Such manual labor is weary and beneath their dignity. In response to their pleas, and in return for building a house for him, Marduk proceeds to create man from the blood of a fallen god, Kingu:Arteries I will knot
+
+and bring bones into being.
+
+I will create Lullu, “man” be his name
+
+I will form Lullu, man
+
+Let him be burdened with the toil of the gods,
+
+that they may freely breathe—
+
+They bound him (Kingu), held him before Ea
+
+inflicted the penalty on him,
+
+severed his arteries;
+
+and from his blood he formed mankind
+
+imposed toil on man, set the gods free.237
+
+
+
+
+
+Man is created as an afterthought, and when he is created he is predestined to be a servant of the gods. There is nothing of the regal and the noble about him such as we find in Gen. 1. Basically he is a substitute, one who is created from the blood of a rebellious deity. The anthropologies of Gen. 1 and Enuma elish could not be wider apart.
+
+29-30 What God creates he preserves. What he brings into being he provides for. Man is to have as his food the seed and fruit of plants. Animals and birds are to have the leaves. (The latter point accords with the description of the eschatological age when “the lion shall eat straw like the ox,” Isa. 11:7; 65:25.) At no point is anything (human beings, animals, birds) allowed to take the life of another living being and consume it for food. The dominion assigned to the human couple over the animal world does not include the prerogative to butcher. Instead, humankind survives on a vegetarian diet. What is strange, and probably unexplainable (from a scientific position), is the fact that the animals too are not carnivores but also vegetarians. The text of Gen. 1 does not state whether human beings and animals had the wherewithal to take the life of another living being, or whether they possessed such strength but held it in check.
+
+31 Two features distinguish this last verse of the chapter from the preceding verses. First, “beautiful” now becomes very beautiful. Second, the preceding five days are all referred to indeterminately—a second day, a third day, etc. But this day is called “the sixth day.” Both of these unique factors help to mark this sixth day as the acme of God’s creation thus far. Note also that the sixth day is treated much more extensively than the earlier days.
+
+
+
+
+
+8. THE SEVENTH DAY (2:1-3)
+
+
+
+
+1 Thus the universe and all its company was completed.
+
+
+
+2 And God had completed his work which he had been doing on the seventh day, and God rested on the seventh day from all his work which he had undertaken.
+
+
+
+3 God blessed the seventh day and made it holy,238 for on it he rested from all the work he had creatively made.239
+
+
+
+
+
+1 Silence and stillness once again enter the atmosphere. The mood of the prologue now resurfaces in this epilogue.240 There is no activity, no noise, no speaking. All that God has willed and designed for his canvas of the universe is now in its place.
+
+Specific reference is made to all the company of the universe. This Hebrew word, ṣāḇā’, may refer to an army (e.g., Gen. 21:22), the stars (Deut. 4:19), or the angels (1 K. 22:19). It is applicable to an organized and disciplined body. According to Speiser, “The Hebrew term is collective ; in the present context it designates the total made up of the various component parts in the planned design of creation; hence array, ranks, company.”241
+
+The Hebrew word for completed or “finished,” kālâ, especially in the Piel stem, has two nuances, as does the English verb. To finish may mean to finish off, to destroy, to consume (as in Gen. 41:30; Josh. 24:20), or to bring to completion. The context offers no reason to apply the first nuance to Gen. 2:1-2. The point made by this verb is that the universe is no longer in a process of being created. What Gen. 1 allows for is not additional creation but procreation and self-perpetuation.
+
+2 The rendering of v. 2 in many modern versions suggests that God performed some creative act on the seventh day and only at the completion of this activity did he rest. In fact, both LXX and SP read “sixth day” in v. 2. The reading of these ancient versions is probably a deliberate emendation rather than a reflection of a Vorlage to the MT. The most simple and legitimate solution is to read the verb as a pluperfect, God had completed his work ... on the seventh day.242
+
+God’s creative activity is described twice as his work. The OT has two words for “labor,” melāʼḵâ and ʽaḇōḏâ. The second word emphasizes labor that is raw and unskilled. The first—and the one used here—designates skilled labor, work that is performed by a craftsman or an artisan. Such is the measure of the finesse and professional skills of God’s work.243
+
+It is readily apparent that the term “Sabbath day” (Heb. yôm haššabbaṯ ) is absent from this paragraph, although the writer uses the verb šāḇaṯ. Instead, the seventh day (yôm haššeḇîʽî) occurs. C. H. Gordon has suggested that the writer used the colorless seventh day in his desire to continue to demythologize the story. Vestiges of an original connection between šbt and myths of holy days is reflected in the postbiblical Hebrew word “Shabbetai,” which translates as “Saturn,” the pagan deity.244
+
+We are of the opinion that the Hebrew noun šabbāƫ the completion of the week, is to be identified philologically with Akk. šapattu, the day of the full moon, that is, the fifteenth day of a lunar month. There is no evidence that the šapattu was a day of rest. It is described as the “day of the quieting of the heart (of the deity),” probably by rituals for appeasement. The deliberate omission of “sabbath” in Gen. 2 may be due to a desire to avoid any possibility of uniting the seventh day with the pagan festival.245
+
+In both Enuma elish and the Atrahasis Epic the gods rest after the creation of man.246 With man to do the menial work of the day-to-day maintenance of the earth, the gods are now free for less demanding administrative tasks in the world. In appreciation for release from this manual work, the gods promise to build Babylon and its temple for Marduk. The gods’ surrogate is now man, who is “charged with the service of the gods that they might be at ease.”247 It is not difficult to see how different the Mesopotamian concept of rest for the divine is from the biblical concept. Thus, not only the omission of “Sabbath” but also the particular use of divine resting demonstrate the uniqueness of the biblical story of creation.
+
+3 In addition to blessing those who are made in his image (1:28), God also blessed the seventh day. Indeed, it is correct to say that the Creation account moves to its conclusion on the seventh day, not the sixth day. It is not an appendage. All the preceding days God called either “beautiful” or “very beautiful.” This day alone he sanctified. Nothing in the creation context that is connected with space is called holy.248 As is well known, the Hebrew verb qāḏaš means “to set apart.” By virtue of being sanctified, one day of rest is set apart from six days of activity. It is divine designation alone that marks the seventh day as holy. Humanity does not confer sanctity on this day by abstention from work. In the words of Westermann “The sanctification of the Sabbath institutes an order for humankind according to which time is divided into time and holy time.... By sanctifying the seventh day God instituted a polarity between the everyday and the solemn, between days of work and days of rest, which was to be determinative for human existence.”249
+
+THE NEW TESTAMENT APPROPRIATION
+
+
+
+
+
+a. Gen. 1:1-5 and John 1:1-5
+
+
+
+
+
+All writers agree that John draws upon the opening verses of Genesis for his own prologue, although no quotations per se appear in the prologue. Quite obviously, the en archḗ in John 1:1 is based on berēʼšîṯ in Gen. 1:1. Unlike Genesis, however, John’s “In (the) beginning” refers not to the beginning of creation but to the undeterminable period prior to creation. As such, the phrase is “a designation, more qualitative than temporal, of the sphere of God.”250
+
+The relationships between Gen. 1 and John 1 go beyond the introductory formula. Peder Borgen has argued that John’s prologue is essentially a targumic exposition of Gen. 1:1-5.251 Specifically Borgen argues that John 1:1-5 is the basic exposition of Gen. 1:1-5 while John 1:6ff. is an elaboration of pivotal terms and phrases in vv. 1-5, but in reverse order: (a) vv. 1-2, the word, God; (b) v. 3, “all things came through him”; (c) vv. 4-5, the light; (cʹ) vv. 7-9, the light; (b’) vv. 10-13, “the world was made through him”; (aʹ) w. 14-18, the word, God.252
+
+While his case for the chiastic structure of John’s prologue may be open to challenge, Borgen’s observations about the Genesis background to John 1:1-5 seem quite legitimate. The evangelist informs us in v. 3 about the role of the Word in creation. The Word is both the agent in creation—“through him”—and the indispensable element in creation—“without him was not anything made.” Thus John begins with the place of Jesus Christ in creation. In w. 4-5 John shifts from the fact and the form of creation to the content of creation. John chooses to speak about only one of the created phenomena—light. While Gen. 1 speaks of light as something natural, John uses light to designate something eternal. “That which had especially come to be in God’s creative word was the gift of eternal life.”253
+
+b. Gen. 1 and Col. 1:15-20
+
+
+
+
+
+Paul here piles up title after title in his delineation of the nature and position of Christ: image, firstborn, head, the beginning. Like John, he identifies Jesus as the necessary agency in creation (v. 16). But he adds two new factors. One is a statement about the purpose of creation (“for him,” v. 16), and the other is a remark about the perpetuation of creation (“in him all things hold together,” v. 17).
+
+In the midst of describing the ministry of Jesus vis-à-vis creation, Paul applies to him, among other titles, the designation “the beginning.” Anumber of years ago C. F. Burney suggested that in Col. 1:16-18 Paul presents an elaborate midrashic exposition on the first word of Gen. 1:1, berēʾšîƫ in which the apostle connects “beginning” in Gen. 1:1 and Prov. 8:22 with Christ. Indeed, for Paul, these two OT references to “beginning” refer to Christ.254 Christ fulfills every meaning which may be extracted from rēʾšîṯ.
+
+As suggestive as such an insight may be, it is still important to keep in mind that Paul’s argument is circumstantially determined. It is not faithful to the context to attribute such phrases to a Hellenistic milieu of which Paul was a part. Rather, Paul, directing a frontal attack against incipient Gnostic elements at Colossae, affirms the absolute primacy and priority of Christ over everything, especially creation and cosmology.255 The world is not evil—it is Christ’s. A remarkably parallel message emerges in Heb. 1:2-3.
+
+
+
+
+
+c. Gen. 1:26 and NT Terminology
+
+Many NT passages allude to Gen. 1:26, but none quotes it exactly. For purposes of organization we may note that NT references to “image” and “likeness” terminology fall into one of three categories:
+
+(1) Christ as the image of God: 2 Cor. 4:4 speaks of “the glory of Christ who is the image of God.” Similarly, Col. 1:15 refers to Christ as “the image of the invisible God.” Here the imago dei concept is interpreted christologically. God’s glory is seen in his image, who is Christ, not man. The relationship between original and image is one of substantial identity, not simply formal similarity. For this reason both passages connect image with revelation.
+
+Related to these two verses, but using different terminology, is Phil. 2:6, which speaks of Christ being “in the form of God.”256 Quite similar is Heb. 1:3, with its emphasis on Christ as “the reflection, one who bears the very stamp of the nature of God.” Again, the emphasis is that Christ shares the essence of God so completely that he can be described as an exact representation of God rather than one who merely resembles God. Note that while the NT does not hesitate to describe Christ as the image (eikṓn) of God, it never describes him as the likeness (homoíōsis) of God (cf. the LXX in Gen. 1:26).
+
+(2) Man as the image of God: 1 Cor. 11:7 says matter-of-factly that man is “the image and glory of God,” and here the phrase is limited to the male. Woman is subsequently described as “the glory of man.” This is the only NT text setting forth a doctrine of the “image” that stresses the sexual differentiation, and some suggest that Paul clearly intends to exclude woman from the image of God, something which Gen. 1:26-27 does not say. If Paul wanted to make that point dramatically, one suspects that he would have clinched his point by continuing, “for woman is the image and the glory of man.” The fact that he carefully avoids designating woman as the eikṓn of the man should warn the reader against seeing too much in this verse.257
+
+Close to 1 Cor. 11:7 is Jas. 3:9, a reference to the tongue with which we bless God and curse men, “who are made after the likeness of God.” “Men” here means any man, redeemed or unredeemed, and thus the verse provides grounds for attributing the image of God to everybody. It is unlikely that James has in mind the possibility of believers “cursing” other believers!
+
+(3) Man as the image of Christ: a number of scattered references allude to the believer being conformed to the image of Christ (Rom. 8:29), being changed into Christ’s likeness (2 Cor. 3:18), putting on the new nature which is renewed after the image of its Creator (Col. 3:10). Other verses speak eschatologically; for example, one day we shall bear the image of the “man of heaven” (1 Cor. 15:49). Unlike 1 Cor. 11:7 and Jas. 3:9, which say that the image is a part of all humanity, these verses are talking about a Christ-likeness in the lives of those who have professed faith in Christ. It is not adequate simply to receive Christ as savior. This act of faith must be followed by an appropriation of Christ into one’s daily life so that the believer gradually becomes like Christ.
+
+In sum, we may quote Clines: “In Christ man sees what manhood was meant to be ... men are the image of Christ so far as they are like Christ ... this is how man, the image of God, who is already man, already the image of God, can become fully man, fully the image of God.”258
+
+
+
+
+
+d. Gen. 1:27 and Matt. 19:4 par. Mark 10:6
+
+Both Matthew and Mark record the incident in which Pharisees approach Jesus to interrogate him on the subject of divorce. Mark’s account suggests that the issue was the permissibility of divorce, while Matthew’s account suggests that the issue was the grounds for divorce. Since Deut. 24:1-4 permits divorce instituted by the husband, Jesus’ interrogators were presumably not really troubled by the question of the legality of divorce. Rather, the issue would be the permissible grounds for divorce.
+
+In response, Jesus does not address himself to that issue at all. Instead, he refers back to Gen. 1:27 and challenges these Pharisees to consider God’s original purpose in the creation of mankind as male and female. The concern of the inquisitors is how and why to terminate a marriage. Jesus’ answer emphasizes why a marriage should be initiated and perpetuated.
+
+To Gen. 1:27 Jesus adds 2:24. Of course, both of these texts precede the Noachian and Sinaitic covenants. Perhaps then the prohibition regarding divorce applies only to Gentiles, Deut. 24:1-4 granting exemption to the Jews. To counteract this kind of spurious logic, Jesus prefaces his quotation from Gen. 1:27 and 2:24 with the important phrasefrom the beginning.” This all-inclusive statement serves to remind his interlocutors that no double standard is operating here. God’s precepts in Gen. 1 and 2 apply to all human beings from the beginning down to the present.259
+
+
+
+
+
+e. Gen. 1:27 and Gal. 3:28
+
+Addressing himself to the issue of unity and equality in Christ, Paul lists three categories of opposites which may not serve as discriminatory criteria for admission to or exclusion from the church of Jesus Christ: Jew/Greek (ethnic), slave/free (cultural), and male/female (sexuality).
+
+The last one is a phrase that Paul takes from Gen. 1:27. It seems to us a severe misunderstanding and an unfortunate interpretation to play off against each other the enlightened, progressive Paul when he applies Gen. 1:27 to husband-wife relationships, and the rabbinic, regressive Paul when he applies material from Gen. 2-3 to husband-wife relationships.
+
+Paul appropriates Gen. 1:27 in the midst of his exhortation on soteriology to the Galatians without the slightest interest in establishing or denying a chain of authority. Egalitarianism versus hierarchicalism is just not the issue.260 The issue is the identity of the irreducible minimum for becoming and being Christian. Circumcision is not an entrance requirement, nor is the observance of special days, months, seasons, and years (Gal. 4:10). Now obviously both of these concepts either bypass the woman completely or involve her only marginally. How is a woman then to be saved? Later Jewish tradition (see T.B. Yebam. 113a; Qidd. 7a; Sanh. 76a) suggested marriage and childbearing. But such an idea is earlier than the rabbinic material. For example, both Targum Onqelos and Targum Jonathan on Gen. 3:16 interpret the verse to mean that because of her sin the woman finds salvation in subordinating herself to her husband via marriage. Note that Ruth (albeit a non-Israelite) enters the covenant family first by marriage, then by conversion. The idea was paramount among the Romans as well. One of the decrees of Augustus penalized bachelorhood and rewarded marriage and childbearing. 261 D. Daube draws attention to the fact that also in a Greek context it was common to emphasize the duty to marry and propagate.262 In rejecting this position Paul says: “(There is) not any Jew or Greek, not any slave or free, not any male and female,” this last phrase representing a faithful reproduction of the LXX of Gen. 1:27.263 While ordained by God, marriage is not for everybody. Most poignantly, to become a member of the community of faith, it is not necessary for a woman to join herself to a man any more than it is for a Gentile to become a Jew.264
+
+
+
+
+
+f. Gen. 2:2 and Heb. 4:4
+
+The quotation of Gen. 2:2 in Heb. 4:4 is closer to the LXX than to the MT, but it departs from the LXX too.265 Thus in Heb. 4:4 ho theós en from Gen. 2:2a is inserted after “he rested,” katépausen, whereas in Gen. 2:2b katépausen supplies the subject and preposition for both parts of the sentence. The point made by the author of Hebrews is that, just as God rested, others have the opportunity to share this rest which has been rescinded from the disobedient Israelites. This rest will be a cessation from labor, just as God has ceased from any further work.266
+
+The author of Hebrews is concerned to do more than simply draw an analogy between the generation of Israelites that failed to enter rest and his present audience whom he is challenging to enter that rest. If that was his only concern, then his remarks about and allusions to God resting on the seventh day would be otiose. Through his references to both Genesis and Joshua, in that order, the writer is subordinating “Canaan rest” (from turmoil) to “Sabbath rest” (from work). It is the latter, not the former, which he urges the Hebrew Christians to appropriate.
+
+
+
+
+
+B. THE GARDEN OF EDEN AND ITS FIRST OCCUPANTS (2:4-25)
+
+
+
+
+
+1. THE FORMATION OF A GARDENER (2:4-7)
+
+
+
+
+4 These are the generations of the heavens and the earth267 when they were created. When Yahweh God made earth and heaven,
+
+
+
+5 no shrub of the field was yet in the earth, no plant of the field sprouted, because Yahweh God had not sent rain on the earth, nor was there any man to work the soil.
+
+
+
+6 But groundwater came up from the underworld268and watered all the surface of the ground.
+
+
+
+7 Yahweh God crafted man, dust from the ground, and blew into his nostrils the breath of life. Thus man became a living person.
+
+
+
+
+
+4 Here one encounters the first of ten appearances of the formula These are the generations of (Heb. ʾēlleh tôleḏôṯ) in Genesis (see also 6:9; 10:1; 11:10, 27; 25:12, 19; 36:1, 9; 37:2; cf. 5:1 for a variant of the formula [“this is the book of the generations of Adam”]). This first one differs from the others in that it describes the generations of the heavens and the earth while the others introduce either the descendants of some person or a narrative about some person (e.g., Noah, sons of Noah/Terah/Ishmael/Isaac/Esau/Jacob). While something like “offspring, descendants” would fit many of the last nine, it may seem strange to refer to the “offspring” or “children” of the universe, but that is expressly what Gen. 2:4 intends.
+
+Many of the recent translations of Genesis (RSV, NEB, JB, NJPV, Speiser, Vawter) divide this verse into two parts. According to this analysis, the section These are the generations of the heavens and the earth when they were created goes with 1:1-2:3. Thus the first unit within Genesis is 1:1-2:4a. The remainder of v. 4—When Yahweh God made earth and heaven—is then taken as the beginning of the next unit. Source analysis ascribes 1:1-2:4a to the exilic Priestly writer(s) or school and 2:4bff. to the earlier Yahwistic source.
+
+Those who subscribe to the bifurcation of v. 4 suggest that v. 4a serves as a subscription or a summary conclusion to the Priestly account of creation. The problem with this suggestion is that elsewhere in Genesis the phrase functions as an introduction, not a conclusion. It seems artificial to suggest that v. 4a originally stood before 1:1 and through some accident was misplaced in the text.
+
+We take the approach that 2:3 concludes the first unit of Genesis and 2:4a begins the second unit. Two lines of evidence support this interpretation. We have already alluded to one: that is, everywhere else in Genesis the tôleḏôṯ formula functions as a superscription to what follows. There is no indication that v. 4a is an exception to this norm.269 The second piece of confirming evidence is the important observation made by John Skinner that the tôleḏôṯ formula is always followed by the genitive of the progenitor, never of the progeny. Thus the phrase the generations of the heavens and the earth describes not the process by which the heavens and the earth are generated, but rather that which is generated by the heavens and the earth. Quite obviously this would be a most inaccurate description of the process of creation as delineated in 1:1-2:3.270
+
+If one takes 2:4a as a superscription to what follows, and if one is faithful to source criticism, then he will be faced with the oddity of an indubitably Priestly trademark (for anything genealogical in the Pentateuch is traced to P) introducing a non-Priestly composition. This anomaly is, of course, one of the major reasons why so many commentators have divided 2:4. To solve this impasse, source critics who take v. 4 as a unit introduce a post-P redactor (deus ex machina) who borrows the phrase from P in order to unite the two traditions, viz., 1:1-2:3 and 2:4bff. Any theory on the biblical text’s early history that must rely on the readily available redactor to eliminate any possible inconsistencies may be open to question and challenge.
+
+Proceeding to other matters in the verse, we note the sudden shift in name for deity from simply “God” to Yahweh God. This designation for deity is used consistently throughout the remainder of the chapter and through ch. 3 (19 times in all). But curiously enough the combination appears in the Pentateuch only once more (Exod. 9:30), though it occurs about twenty times elsewhere in the OT (mostly in Samuel, Kings, and Chronicles). There are, of course, many instances of phrases such as “Yahweh, our God,” “Yahweh your God,” “Yahweh, the God of heaven,” “Yahweh, the God of Abraham,” and so forth. The combination Yahweh God (Heb. yhwh ʾĕlōhîm) that we have in Gen. 2:4-3:24 needs to be distinguished from “Adonai Yahweh” (Heb. ʾaḏōnāy yhwh), which occurs in 15:2, 8. The use of Yahweh God in the so-called J source here seems strange when all other portions of Genesis identified as being from J use simply “Yahweh.”
+
+Scholars have put forth several theories to account for the sudden appearance of the compound name for deity in 2:4ff. (which is usually assigned to the J source), specifically for the presence of ʾĕlōhîm in J. An older suggestion is that the double name is the result of an amalgamation of sources. These sources would be Je, which used only ʾĕlōhîm, and Jj, which used only the tetragrammaton (the four Hebrew letters, yhwh, usually vocalized Yahweh). When these two recensions were joined, the editor harmonized them by juxtaposing ʾĕlōhîm to yhwh.
+
+Hesitant to accept a hypothesis that is so tendentious, other scholars have proposed a more modest scheme. This theory suggests that, true to his form elsewhere, J penned this story in 2:4bff. using only the name Yahweh. Subsequently, and after the completion of 1:1-2:4a by P, a redactor—who joined P and J—merely inserted ʾĕlōhîm after Yahweh in order to give as firm a footing as possible to the identification of the deity of 1:1-2:4a with the deity of 2:4bff. He wanted no one to think that the creator of ch. 1 and the author of life in ch. 2 were different beings.271
+
+This proposal appears as improbable as the first one. Should we really believe that the contemporaries of the post-P redactor would have been led into confusion and bewilderment by the appearance in their literature of two names for deity? In addition, if the appearance of ʾĕlōhîm in J is to be accounted for by the redactor, why did he suddenly break his own pattern in 3:1-5, where apparently, if this theory be true, he excised the tetragrammaton from his text—an unheard-of procedure—and replaced it with ʾĕlōhîm?
+
+Now, it is no secret that in the religions of the ancient Near East compound names were used to designate one god. One thinks of Amon-Re in Egypt and Kothar(-wa-)Hasis at Ugarit. This phenomenon also existed in Israel, as illustrated by Yahweh-Elohim. But why should it suddenly surface in 2:4a and disappear shortly thereafter? Apart from the suggestion of redactional addition alluded to above, one may make the following suggestion by appealing to content as the determining factor rather than redactional activity. In Gen. 1 the emphasis is on creation via the majestic God who speaks and it is done. The more generic name for God—ʾĕlōhîm—fits this emphasis admirably. By contrast, the emphasis in 2:4ff. is more personal. The context here is not a universe but a garden. Also, the picture of man here is not of one with authority but of one under authority, a vassal in a covenant relationship. To be sure, Yahweh would be the proper designation for the deity at this point. The author proceeded, however, to append ʾĕlōhîm to Yahweh to conjoin the concept of a God whose sovereign control extends to both the material and the moral world.272 At the same time, and this time only in this unit, the author abstained from using God’s name “Yahweh” in 3: 1b-5. It would be anomalous to have the serpent quote Yahweh qua Yahweh, since it is cast in the role of divine antagonist. Instead he quotes ʾĕlohîm. The Bible’s first conversation about God is about ʾelōhîm, not Yahweh.
+
+5 The scene described here is that of a barren desert. There is neither shrub nor plant in the fields. Two factors account for this emptiness. God is not doing what he is accustomed to doing—sending rain. Nor is there a man to till the soil, something that he will do when he arrives on the scene. If plant life is to grow in this garden, it will be due to a joint operation. God will do his part and man will expedite his responsibilities. Rain is not sufficient. Tillage is not sufficient. God is not a tiller of the soil and man is not a sender of rain. But the presence of one being without the other guarantees the perpetuation of desertlike conditions.
+
+It would be premature to say that 2:5 flatly contradicts 1:11-12. The latter two verses describe the creation of vegetation on the third day, three days before man is created. In 2:5-7 the reader is informed that when God created man there were no plants or shrubs. To begin with, if this is such a blatant inconsistency, why did the redactor do nothing to smooth it out? It will do no good to say that the biblical compilers hesitated to tamper with the received texts, for the source analysis theory has already posited redactional tampering in the addition of a second name for God in the received J document. Is it logical that the editors would edit the text at one point to remove possible confusion but would leave untouched chronological inconsistencies that the reader might find puzzling and unexpected?
+
+Indeed, one of the two words used here—ʿēśeḇ, plant—was also used in 1:11-12. The other word—śîaḥ, shrub—does not appear in ch. 1. It occurs only three more times in the OT. Young Ishmael was placed under a šîaḥ in the wilderness by his mother (21:15). A šîaḥ grows in a place where the dejected and the debilitated seek shelter and perhaps food (Job 30:4, 7). Thus the reference is to some kind of desert shrub or bush.
+
+We suggest that the reference to shrub and plant in 2:5 is anticipatory and is explained further by 3:18, where God says to Adam: “thorns and thistles [the šîaḥ?] it shall bring forth to you; and you shall eat the plants [ʽēśeḇ] of the field.”273 The “plants” referred to in Gen. 1 must be those that grow wild, those that reproduce themselves by seed alone. The plants referred to in Gen. 2 must be those that grow only as a result of human cultivation through planting and artificial irrigation. Neither of these kinds of growth appears in the fields until after the creation of man and after man’s transgression.
+
+6 The picture is not one of total aridity. Though rain does not yet pour from the heavens, an ’ēḏ does rise from the ground to water the earth’s surface. The translation of this word is uncertain, as a glance at the versions will show. Is it a mist, a river, a flood, a cloud, or something else? Both LXX (pēgḗ) and Vulg. (fons) interpreted it as “spring.” Unfortunately the word appears only once more in the OT, Job 36:27, “he [God] draws the waterdrops that distill rain from the flood [’ēḏô].”274
+
+Etymologically Heb. ’ēḏ has been connected with Akk. id, “river,” which is a loanword from Sum. ID.275 Thus the phenomenon alluded to in 2:6 would be a subterranean freshwater stream. C. H. Gordon has correctly observed that the translation of ’ēḏ in 2:6 as “river” is unlikely in that rivers descend rather than rise.276
+
+Wider support has been given to the possible connection between Heb. ’ēḏ and Akk. edû, “flood, waves, swell,” which is a loanword from Sum. A.DÉ.A. Speiser notes particularly that cuneiform texts use edû and other aquatic terms with verbs such as melu, “to flow, to flood,” and bu-tuq-tum, “to break through” to water the fields (šaqu ša eqli), all suggesting the irruption of subterranean waters.277 Historical support for the idea of an underground river that overflows its bank and seeps to the surface may be found in the tradition preserved by Strabo that the Euphrates, or some branch of it, flowed underground and subsequently surfaced to form lagoons beside either the Persian Gulf or the Mediterranean Sea.278
+
+Perhaps it is not mandatory that we turn to Akkadian for the etymology of ʾēḏ. Dahood has observed that an Eblaite calendar from King Ibbi-Sipiš calls November-December itu NI.DU (elsewhere this month is called itu ga-šúm, “the month of heavy rain”). His proposal is that the Sum. NI.DU be read as Semitic ì-du, which he associates with Heb. ʾēḏ. Thus he translates Gen. 2:6: “So he made a rain cloud come up from the nether ocean and it watered all the surface of the ground.”279
+
+This proposal shifts the all but unanimous identification of ʾēḏ with a Sumerian origin to the possibility of a Semitic origin. Should this connection receive further substantiation, it will lend greater credence to the likelihood of a West Mediterranean origin for many of the biblical narratives. Given the limited texts that have thus far been published from Ebla, scholars are still reluctant to champion too many connections between Eblaite and Biblical Hebrew. One suspects, however, that such hesitancy will prove to be unnecessary. Ebla’s contributions to our understanding of the language of the OT will no doubt continue to grow and shed light on some of the enigmatic passages in the OT.
+
+7 Verses 4b-7 are one long sentence in Hebrew, containing a protasis (v. 4b), a series of circumstantial clauses (vv. 5-6), and an apodosis (v. 7). This apodosis informs us that God the craftsman formed man from the dust of the ground. The Hebrew uses assonance here: God formed hāʾādām ... min-hāʾaḏāmâ. It is hard to capture this play on sounds in English, but it is something like “God formed earthling from the earth.” The verb for crafted is Heb. yāṣar, which on several occasions explicitly describes the vocation or work of a potter (2 Sam. 17:28; Isa. 29:16; Jer. 18:2, 3, 4, 11), especially when used in participial form (yōṣēr). “Potter,” however, is a suitable translation only when the context clearly points to the fact that the work of formation being described is that of a potter. For example, the verb is used in Isa. 44:12 to describe the work of an ironsmith on metals, and hence the verb would carry a meaning like “forge.” A potter, of course, works with mud or clay (ḥōmer), not dust (ʿāpār). And for instances of yāṣar (“to do the work of a potter”) with clay (ḥōmer) compare Isa. 41:25 and Jer. 18:4, 6. (Job 33:6 has Elihu saying that he was formed from clay, but “form” in this instance is qāraṣ. Similarly Job reminds God that he has made him [ʿāśâ] of clay [10:9].) It is taking too much liberty with Heb. ʿāpār to render it “mud” or “clay” so that yāṣar in v. 7 may carry the force of “do the work of a potter.” There are, to be sure, instances where hōmer is used in parallelism with ʿāpar (Job 4:19; 10:9; 27:16; 30:19), but such parallelism argues at best for overlap in meaning rather than identity in meaning.
+
+In contrast to 1:26ff., here we are told that mankind was made from something already in existence. The word of God (1:26ff.) is now augmented by the work of God (2:7), a work that includes both formation and animation. “It is as though for the climactic performance the usual act of will was reinforced by an act of divine effort.”280
+
+We should note that neither the concept of the deity as craftsman nor the concept of man as coming from earthy material is unique to the Bible. For example, from ancient Egypt we have a picture of the ram-headed god Khnum sitting on his throne before a potter’s wheel, on which he fashions the prince Amenhotep III (ca. 1400 B.C.) and his ka (an alter ego which protected and substained the individual?).281 Referring to this particular painting, the Egyptologist John Wilson makes the interesting observation that Egypt lacked a specific account of mankind’s creation. The reason for this lack, he argues, “is that there was no firm and final dividing-line between gods and men. Once a creation was started with beings, it could go on, whether the beings were gods, demi-gods, spirits, or men.”282
+
+Mesopotamian literature provides numerous examples of man’s derivation from clay. We have already seen that in Enuma elish man is created from the blood of a god. In the Gilgamesh Epic (a Babylonian deluge story) the nobles of Uruk pester the gods and ask them to create one equal in strength to the oppressive Gilgamesh. The gods then ask Aruru the creator to make a counterpart to Gilgamesh:Thou, Aruru, didst create [the man];
+
+Create now his double, ...
+
+When Aruru heard this,
+
+A double of Anu she conceived within her.
+
+Aruru washed her hands,
+
+Pinched off clay and cast it on the steppe.
+
+[On the step]pe she created valiant Enkidu.283
+
+
+
+
+
+A sister composition to the Gilgamesh Epic is the Atrahasis Epic, another literary tradition about the creation and early history of man. As in Enuma elish, here too man is created to relieve the gods of heavy work. His creation is described as follows:Wê-ila (a god), who had personality,
+
+They slaughtered in their assembly.
+
+From his flesh and blood
+
+Nintu mixed clay ....
+
+After she had mixed that clay
+
+She summoned the Anunnaki, the great gods.
+
+The Igigi, the great gods,
+
+Spat upon the clay.
+
+Mami opened her mouth
+
+And addressed the great gods,
+
+“You have commanded me a task, I have completed it;
+
+You have slaughtered a god together with his personality.
+
+I have removed your heavy work,
+
+I have imposed your toil on man.”284
+
+
+
+
+
+Nowhere does Gen. 2 imply that dust is to be understood as a metaphor for frailty. Some kind of qualification would have to be added for that nuance to be apparent, as is done, for example, in Gen. 18:27. Gen. 2 simply says that dust was the raw material out of which man was created, as “rib” was the corresponding raw material for the woman. Dust is the womb from which man emerges and the receptacle to which one day he will return (3:19). It defines the beginning and end of his life. True, 3:19 may indicate that man of dust is not an infinite creature, but in so stating, Genesis is not demeaning man.
+
+The dust image appears sporadically throughout the OT and into the NT. Especially interesting for possible connections with Gen. 2:7 are those passages which speak of an exaltation from dust, with the dust representing pre-royal status (1 K. 16:2), poverty (1 Sam. 2:8; Ps. 113:7), and death (Isa. 26:19; Dan. 12:2). To “be raised from the dust” means to be elevated to royal office, to rise above poverty, to find life. Here man is formed from dust to be in control of a garden. Thus, the emphasis on the dust in Gen. 2:7, far from disagreeing with ch. 1, affirms ch. 1’s view of man’s regality. He is raised from the dust to reign.285
+
+The remainder of v. 7 supports this interpretation. into his nostrils the deity blows the breath of life. In Lam. 4:20 the people refer to King Zedekiah as “the breath of our nostrils” (though the word for “breath” there is rûaḥ, not nešāmâ as here, passages like Isa. 42:5 and Job 27:3 show that nešāmâ and rûaḥ are sufficiently related, both meaning “breath”). In ancient Egypt, especially in the cult of Hathor (the divine mother of the king), young princesses appear before the king with several objects in their hands to present to him. As they present these objects they say: “May the Golden One (Hathor) give life to thy nostrils. May the Lady of the Stars unite herself with thee.”286 In our comments on Gen. 1:26 we suggested that the application of the divine image to “man,” as opposed to the king, represented perhaps both a demythologizing of royal mythology and a democratization of society in Israel. Such would seem to be the case here too. It is man, as representative of subsequent humanity, who receives the divine breath. It is not something only for the elite of society.287
+
+Instead of using rûaḥ for “breath” (a word appearing nearly 400 times in the OT), Gen. 2:7 uses nešāmâ (25 times in the OT). Unlike rûaḥ, which is applied to God, man, animals, and even false gods, nešāmâ is applied only to Yahweh and to man. (The nešāmâ of animals is not expressly mentioned except in the oblique reference in 7:22.)288 Thus 2:7 may employ the less popular word for breath because it is man, and man alone, who is the recipient of the divine breath. Now divinely formed and inspired, he is a living person. Until God breathes into him, man is a lifeless corpse.
+
+As we shall see below, in 1 Cor. 15:45 Paul emphatically identifies “the man” of Gen. 2:7 with Adam. He amplifies the simple LXX egéneto ho ánthrōpos, “the man became... ,” into egéneto ho prṓtos ánthrōpos Adam, “The first man Adam became....” This Pauline use of 2:7 will serve as but one example of the thirty-four uses of ʾāḏām in Gen. 1:5 and how they should be translated. In essence the problem is this: is ʾāḏām to be understood generically (mankind) or is it a proper name? And if in translation we shift from one to another, on what basis do we make the shift?
+
+As a general rule, when ʾāḏām appears without the definite article, we may translate it as a personal name, following the rule that personal names are not normally preceded by the definite article. When it occurs with the definite article (hāʾāḏām), we may translate it as “man.”
+
+That this neat rule does not apply to all of the instances of ʾāḏām is borne out by an examination of some of the modern English translations of the Bible. Thus AV has “Adam” eighteen times and “man” sixteen times in chs. 1-5. RSV has “Adam” eight times and “man” twenty-six times. NEB has “Adam” four times and “man” thirty times. JB has “Adam” six times and “man” twenty-eight times.289 In addition, these modern versions disagree as to the first legitimate appearance of Adam” as a personal name: 2:19 (AV, also LXX and Vulg.); 2:20 (NIV); 3:17 (RSV); 3:21 (NEB); 4:25 (JB).
+
+Those who embrace the theory of two sources (P [1:1-2:4a and 5: 1ff.] and J [2:4b-4:26]) in these five chapters are faced with the interesting use of ʾāḏām by P first in a generic sense (1:26—27), then as a proper name (5:1). If indeed P once existed as a separate document, the shift in meaning of ʾāḏām from 1:26—27 to 5:1 would be decidedly jarring. For why would the author use the same word in back-to-back positions to convey two radically different concepts?
+
+One can argue that this shift in meaning is prepared for by the final editor’s deliberate and skillful placing of J (2:3-4:26), in which a shift in meaning from “man” to “Adam” is already manifest.290 Or, one can suggest that 1:5 is the product of one hand in which there is a progression in the use of ʾāḏām from mankind to mankind/Adam to Adam. We have observed the progression from the general to the specific in the Creation story of Gen. 1. Perhaps the same movement is in operation in the use of ʾāḏām in these opening chapters of Scripture.
+
+There is no doubt that “Adam” as a personal name has ancient textual support. Old Akkadian and Old Babylonian texts feature names such as A-da-mu, A-dam-u, and ʾÁ-da-mu,291 while the Ebla texts have produced a reference to A-da-mu, a provincial governor under King Igriš-Ḫolam. In Ugarit one of the titles of El is il ab adm, “El, the father of mankind.”292
+
+
+
+
+
+2. ONE GARDEN, TWO TREES (2:8—9)
+
+
+
+
+8 Yahweh God planted a garden in Eden, eastward,293 and he placed there the man whom he had formed.
+
+
+
+9 Out of the ground Yahweh God made every kind of tree grow, delightful in appearance, good for eating. In the middle of the garden was the tree of life and the tree of the knowledge good and evil.294
+
+
+
+
+
+8 Verses 4-7 pictured God as a potter. Now the divine image that appears is that of God as a planter, as a horticulturalist. He plants a garden in Eden. Eden appears thirteen times in the OT in the singular and three times in the plural to designate a place. Only three references in Genesis specifically distinguish between the garden and Eden as a place where the garden was planted (2:8, 10; 4:16). The expression in 2:8, gan-beʿēḏ en, garden in Eden, contrasts with that in 2:15 and 3:23-24, gan-ʿēḏ en, “garden of Eden,” “Eden-garden.”
+
+Etymologically Heb. ʿēḏen is often connected with Sumerian-Akkadian edinu, “plain, flatland, wilderness, prairie,” a term used as a geographical designation for the plain between the Tigris and Euphrates in southern Mesopotamia. In 3:23 LXX paradeísou tḗs tryphḗs, “paradise of delight,” seems to relate Heb.ʽēden to the verb ʽādan, which occurs only once, and that in the Hithpael stem—“to delight oneself” (Neh. 9:25), and to the related words ʽednâ, “pleasure” (Gen. 18:12), and ʽadînâ, “pleasure seeker” (Isa. 47:8).
+
+There are other expressions throughout the OT for the garden of Eden, namely, “the garden of Yahweh” (Gen. 13:10; Isa. 51:3) and “the garden of God” (Ezek. 28:13; 31:9). The writer of Gen. 2 does not use any such phrase, perhaps to refrain from giving the impression that this garden is where God lives. He is its planter, but not its occupant.
+
+To be sure, the concept of a primeval paradise is not unknown in ancient literature. For example, the Sumerian myth of Enki (god of waters) and Ninhursag (Mother Earth) begins by describing the land of Dilmun, east of Sumer.295 It is a land—or island—that is pure, clean, and bright (lines 1-13), and it is also a place where there is no sickness or death and where all animals live in harmony (lines 14-30). It is a land full of sweet water and of crop-producing fields (lines 31-64). After this initial description of Dilmun, however, the narrrative proceeds to describe Enki’s successive copulation with the goddess Ninhursag, with his daughter Ninmu, with his granddaughter Ninkurra, and eventually with his great-granddaughter Uttu. Recriminations between Enki and Ninhursag follow.
+
+No human beings are involved in this story, and the description of Dilmun is only prolegomenon. The myth is concerned primarily with the interplay of two forces in the universe, earth and water. It seems farfetched, then, to suggest that the paradise motif of Mesopotamia provided the main antecedent and inspiration for the Genesis garden of Eden.
+
+A number of factors in Gen. 2 suggest that the author presents his material in a way that is decidedly antimythical. Thus, we read of man’s creation (v. 7) before we read of the garden’s creation (v. 8). We do not read that the garden is a place of blissful enjoyment. If it is such a place, the text does not pause to make that observation. Instead, man is placed in the garden “to till it and keep it” (v. 15).296
+
+9 This verse focuses on one aspect of the garden—the trees. They do not appear ex nihilo or grow overnight from saplings to towering trees. Only two remarks (both aesthetic) are made about these trees: they are delightful in appearance and good for eating.
+
+Singled out for special mention are two trees, the tree of life and the tree of the knowledge good and evil. The phrase In the middle of [betôk] the garden need not be taken literally to mean that these two trees were in the exact center of the garden. The reference may be simply to the placement of one element in a larger area, as in 1:6, “a vault in the middle of the waters”; 3:8, “the sound of Yahweh God walking in the garden; 9:21, ”he lay uncovered in his tent”; 18:24, 26, “the righteous in the city”; 23:10, “Ephron was sitting among the Hittites.” All of these passages use the term betôk.
+
+The OT refers only twice to the tree of the knowledge good and evil, here and in 2:17. By contrast, the tree of life appears not only in the OT (Gen. 2:9; 3:22, 24; Prov. 3:18; 11:30; 13:12; 15:4—all of these Proverb passages should be understood as using the phrase “tree of life” metaphorically) but also in apocryphal literature (1 Enoch 24:4; 2 Enoch 8:3,. 5, 8; 9:1; 2 Esdr. 8:52) and in the NT (Rev. 2:7; 22:2,14,19—all of which involve a re-creation of an Edenic existence at the eschaton).
+
+Once again ancient Near Eastern literature provides distant parallels to the eating of plants or some edible substance and the subsequent bestowal of life. Thus in the Gilgamesh Epic Utnapishtim gives a plant to Gilgamesh which Gilgamesh calls “Man Becomes Young in Old Age.” He remarks, “I myself shall eat (it) and thus return to the state of my youth.”297 But a snake swallows the plant while Gilgamesh is bathing. Similarly, the Akkadian Myth of Adapa, which shares with the Gilgamesh Epic the theme of forfeited immortality, relates Anu’s offer to Adapa of the bread and food of life. Adapa rejected this offer, for he thought it was only a ruse designed not to supplement his wisdom but to kill him.298
+
+Here again the Bible presents its material in a way that is quite different from that of its neighbors. The mythical idea is that life is gained through a plant, or a tree, or through bread and water. This conception is a thoroughly magical one. Read out of context and superficially, Gen. 3:22 might be interpreted to teach the same thing, i.e., trees confer life, loss of trees means death. Observe that access to the tree of life (3:22) is removed after man’s disobedience, not before it. The reason for death is not due to the loss of the tree of life, but rather to the sin of this first couple in the garden.299 The fact that v. 9 emphasizes not the tree of life but the tree’s planter reinforces the idea that life is from God, not from the tree.300
+
+The second tree singled out for special emphasis is the tree of the knowledge good and evil. As we noted above, it is not just the words good and evil that are crucial for the understanding of this phrase but rather the knowledge good and evil.
+
+Scholars have proposed a number of theories as to the meaning of this second tree, but we shall limit our discussion to four that have gained widest acceptance.301 One suggestion is that the knowledge is sexual.302 As support for this theory scholars point out that the couple’s first reaction after eating the forbidden fruit was that they knew they were naked (3:7). Before the transgression they were naked and unashamed; after the transgression they are ashamed. A second line of support is that “to know” in the OT sometimes means “to be intimate with” (e.g., 4:1, the first mention in the Bible of sexual intercourse). Third, scholars appeal to other OT passages where “to know good and evil” may refer to the sexual urge, both before it develops (Deut. 1:39) and after it has faded (2 Sam. 19:36 [Eng. 35]). Fourth, it is pointed out that in the Gilgamesh Epic Enkidu, created to be Gilgamesh’s opponent, acquired wisdom and indeed “became like a god” after a week of cohabitation with a harlot. Finally, the whole scene is in a garden, which suggests fertility.
+
+At least two factors militate against the identification of sexual awareness. First, to be consistent, this theory must apply sexuality to God, for 3:22 does state, “the man has become like one of us, knowing good and evil.” It seems strained to suggest that the reference here is to human procreation as the counterpart to divine creativity. The sexuality of the deities is, of course, a trademark of the pagan pantheons, but it is a concept conspicuously absent in the OT’s delineation of the nature of God. For this reason God has no spouse, and he does not reproduce a second generation. Indeed, everything else described in Gen. 1 and 2 needs something outside itself to bring it to completion. God alone has within him the resources to be self-fulfilled.
+
+Second, if this phrase meant sexual awareness, why would God wish to outlaw its possession, for it is this tree only that is forbidden to Adam and Eve in Gen. 2? Does not 2:24 (“... and cleave to his wife”), which precedes the transgression, include the idea of sexual knowledge? It is also possible that the word order in 4:1 (we plus subject plus verb in the perfect form, rather than wa plus verb in the imperfect form plus subject, as in 4:17, 25) allows for a pluperfect—“And Adam had known”—suggesting sexual intercourse between Adam and Eve before they ate from the forbidden tree.
+
+Another proposal is that the phrase refers to comprehensive knowledge, even omniscience. “Good and evil” is an example of the literary device called merism, which is an antonymic pair that expresses unity, wholeness, or totality.303 According to this interpretation, when man partook of the forbidden fruit he gained access to one of the deity’s two unique possessions—omniscience; only immortality eluded him.304
+
+The major support for this interpretation is the possibility that elsewhere in the OT the expression “good and evil” suggests everything or anything at all. So Laban’s words to Jacob, “the thing comes from the Lord; we cannot speak to you bad or good,” is taken to mean “we cannot say anything at all” (Gen. 24:50). Compare too 31:24, “take heed that you say not a word to Jacob, either good or bad.” Perhaps the clearest passage where “good and evil” takes on such a nuance is 2 Sam. 14:17, where David is said to resemble an angel in understanding good and evil. Three verses later (v. 20) David is compared again to an angel who knows all that is on the earth.
+
+This suggestion is untenable, however, because according to the biblical narrative man did not gain universal knowledge. Adam sees only in part and knows only in part. It is quite biblical to say God becomes man. It is nonbiblical to say that man ever becomes God. Incarnation, yes; apotheosis, no. To reject this objection by saying that the writer of Gen. 3:22 used a phrase the significance of which was lost to him seems to be forcing the facts to fit the conclusion.
+
+A third proposal is that “the knowledge good and evil” means ethical or cultural knowledge.305 The obvious problem with this proposal is that the text offers no clear indication that Adam’s sin opened the gates for the development of culture. Also, man’s original assignment to care for and till the garden can hardly be called uncivilized or primitive behavior.
+
+Finally, we mention the view that “the knowledge good and evil” indicates moral autonomy.306 This view appeals to many OT passages where “good and evil” is essentially a legal idiom meaning to formulate and articulate a judicial decision. To illustrate, Gen. 24:50, referred to above, says that Laban is unable to say bad or good to the servant Abraham has sent to Laban to obtain a wife for Isaac. That does not mean Laban is speechless. What it does say is that since God has led the servant to the right place and to the right girl (24:45-49), Laban is no longer free to make his own decision on whether he should surrender his daughter to the servant. Similarly, in 31:24, 29, when Laban is told to say not a word, either good or bad, to the fleeing Jacob whom he has just overtaken, God is not outlawing any conversation between the two. Rather, God is telling Laban that he must not reprimand Jacob even though he has a legitimate grievance.
+
+We have also already mentioned Deut. 1:39, which speaks of “your little ones ... who this day have no knowledge of good and evil.” It is hard to believe that this is a metaphorical designation for those who are too young to have experienced sexual awareness. A more natural explanation is that the reference here is to minors; “have no knowledge of good and evil” suggests that they are not legally responsible for their actions.
+
+Solomon’s prayer (1 K. 3:9) that he be able “to discern between good and evil” certainly envisions the capacity to be able to make the correct decision when confronted with alternatives. Here Solomon in fact sounds like a judge.
+
+The Israelite king Ahab resented the prophet Micaiah, who never prophesied good for Ahab but only evil (1 K. 22:18). Again, note how good is set against its opposite evil in a context where decisions and pronouncements are made that are either favorable or unfavorable to the monarch.
+
+It is our position that this interpretation best fits with the knowledge good and evil in Gen. 2-3. What is forbidden to man is the power to decide for himself what is in his best interests and what is not. This is a decision God has not delegated to the earthling. This interpretation also has the benefit of according well with 3:22, “the man has become like one of us, knowing good and evil.” Man has indeed become a god whenever he makes his own self the center, the springboard, and the only frame of reference for moral guidelines. When man attempts to act autonomously he is indeed attempting to be godlike. It is quite apparent why man may have access to all the trees in the garden except this one.
+
+
+
+
+
+3. ONE GARDEN, FOUR RIVERS (2:10—14)
+
+
+
+
+10 A river rises in Eden to irrigate the garden; outside it divides and becomes four sources.
+
+
+
+11 The name of the first307 is Pishon; it is the one which winds through308 the whole land of Havilah, where there is gold.
+
+
+
+12 The gold of that309 land is choice; bdellium and lapis lazuli are there.
+
+
+
+13 The name of the second river is Gihon; it is the one which winds through the whole land of Cush.
+
+
+
+14 The name of the third river is Tigris; it is the one which flows310 east311 of Asshur. The fourth river is the Euphrates.
+
+
+
+
+
+These verses should be seen as an extension of v. 9, the two component parts of the garden being trees (v. 9) and rivers (vv. 10-14). The critical consensus is that these five verses are secondary312 and that, although the reference is to real rivers, two of which are well known, still the section is based on the mythical concept of the four world rivers—Tigris, Euphrates, Nile, and Indus—which surround the entire earth.
+
+The basic reason for suspecting this mythical background is that the traditional translation suggests that the river arose in Eden outside the garden. After passing through the garden it branches into four heads. Among other things, this interpretation would place Eden in the north, not in southern Mesopotamia, and the paragraph would then say that the Tigris and the Euphrates had a common source, which in fact they never did.
+
+There are indeed places in the OT where the verb used in v. 10—yāṣā’—is used of the rise of a river at its source (e.g., Exod. 17:6; Num. 20:11; Judg. 15:19; Ezek. 47:1; Joel 4:18 [Eng. 3:18]; Zech. 14:8, which also has the preposition min following the verb). E. A. Speiser has shown that yāṣā’ min in Gen. 2:10 does not mean “flow from” but rather “rise in,” and what is pictured here is not a river emerging from the garden and subsequently branching into four separate rivers, but rather a river that is formed just outside the garden by the convergence of four separate branches.313
+
+It should be observed that these five verses contain substantially a series of circumstantial clauses, both participial and nominal in form. W. M. W. Roth has made the interesting observation that numerical sayings in the OT have a fondness for this kind of a clause. It is apparent, for example, in the numerical proverbs of Agur (Prov. 30:18-19, 21-23, 24-28, 29-31). Here, of course, the mood is reflection and not narration. Agur is affirming what is true, not what was once true. This usage suggests that Gen. 2:10-14 describes an existing condition rather than a former situation.314
+
+10 The word we have rendered sources is literally “heads” (NIV appropriately “headstreams”). Speiser draws attention to the use of qeṣê, “end,” for the mouth of the river (Josh. 15:5; 18:19); hence ro’šîm refers to the upper course of a river.315
+
+11-12 The Pishon is referred to nowhere else in the OT but does appear in Sir. 24:25. It may be connected with the Hebrew rootpwš, “scatter, press on, break loose, spring forward” (Jer. 50:11; Nah. 3:18; Hab. 1:8; Mal. 3:20 [Eng. 4:2]). Thus its meaning would be something like “Gusher.” That the unknown Pishon and Gihon occur alongside the mighty Tigris and Euphrates might show that the -on ending on Pishon and Gihon is an indicator of a diminutive, and thus two considerably smaller rivers than the Tigris and the Euphrates. The Pishon river may be the Karun in Elam or less likely the Kerkha, both of which once flowed through separate mouths into the head of the Persian Gulf.
+
+This river flows throughout the land of Havilah. In the OT Havilah is both a person and a place. Havilah is one of the five sons of Cush (Gen. 10:7; 1 Chr. 1:9). In the Abrahamic genealogies Havilah is the sixth generation in lineal descent from Shem and is the son of Joktan (Gen. 10:29; 1 Chr. 1:23), and Havilah’s neighbors indicate a location in Arabia. Gen. 25:18 mentions a Havilah as one of the boundaries of Ishmaelite territory, “from Havilah to Shur, which is close to Egypt,” that is, some point in southwestern Arabia. It is in this territory that Saul defeated the Amalekites and captured Agag their king (1 Sam. 15:7). The use of Havilah in Gen. 2:11 is unique in that here alone the word is preceded by the definite article, though the reason for its presence is not clear (see further below).
+
+These other references to Havilah suggested to Albright that the Pishon and the Gihon are either tributaries of the Nile or two streams which unite to form the Nile. Thus he sees both Egyptian (Pishon/Gihon) and Mesopotamian (Tigris/Euphrates) influence on the biblical story.316
+
+The fact that Havilah is preceded by the definite article in 2:11, and that 25:18 distinguishes that Havilah from any other place with the same name, would indicate the possibility that a number of places had this name. 2:11 speaks of the Havilah, and specifies it further by listing gold and gems connected with this site. Note that the gold is not a part of Eden. It is found only in territories outside Eden. While water, food, and monogamous marriage are a part of Eden, riches and precious metals are not.317
+
+13 The second river is Gihon, which flows through the land of Cush. Gihon may be connected with the verb gîaḥ/gûaḥ, which means “to break loose” (Job 38:8; 40:23). There is a spring named Gihon in Jerusalem at the foot of Mt. Olivet (1 K. 1:33, 38, 45; 2 Chr. 32:30; 33:14).
+
+The major problem here is the meaning of Cush. Normally in the OT Cush means Ethiopia or Nubia, that is, the region of the Upper Nile.318 Nevertheless, MT kûš may be a reference to the Kassites (Akk. kaššû/kuššu), located east of the Tigris. This possibility is reflected in the SP’s rendering Gihon as ’Asqop, which is the river Choaspes (modern name Kerkha), east of the Tigris.319
+
+14 The series of rivers concludes with a brief mention of the Tigris and an even briefer mention of the Euphrates. The verse remarks that the Tigris flows east of Asshur, which may be either the Assyrian empire or the capital city of the empire. It is unlikely that the reference can be to the empire whose territory extended on both sides of the Tigris. Thus a reference to the capital city seems more likely.
+
+We recall, however, that Asshur had begun to lose its importance by 1400 B.C. Would the so-called J source highlight a city in its creation epic that had long since ceased to carry any weight, or could this section have been inscribed by someone who knew the glory of the capital?320 Westermann remarks on this point that if the ancient city of Asshur is meant, “then there must be a very ancient tradition which goes back to a time before Nineveh became the capital of the Assyrian kingdom.”321
+
+Of the four rivers, only the Euphrates is not connected with any land, and if our above identifications are correct, it is the most western of the rivers as far as Palestine is concerned. The Hebrew word for Euphrates is perāṯ, and may be based on Sum. buranun, “great river,” and Akk. purattu, “the river.” Now from the Ebla texts comes the word ba-ra-du, “cold river,” and ba-ra-du ma-dad, “the great cold river,” for the Euphrates. This name would be appropriate for the Euphrates, since it originates in the Armenian mountains.322
+
+
+
+
+
+4. KEEPING BOTH THE GARDEN AND THE COMMANDMENT (2:15-17)
+
+
+
+
+15 Yahweh God then took the man and led him into the garden of Eden to dress it and keep it.323
+
+
+
+16 Yahweh God commanded the man, saying: “You may indeed eat of any tree of the garden,
+
+
+
+17 but from the tree of the knowledge good and evil you shall not eat of it, for as surely as you eat of it you shall die. ”
+
+
+
+
+
+15 There is no magic in Eden. Gardens cannot look after themselves; they are not self-perpetuating. Man is placed there to dress it and keep it. The word we have translated dress is ʽāḇaḏ, the normal Hebrew verb meaning “to serve.” So again the note is sounded that man is placed in the garden as servant. He is there not to be served but to serve. The second verb—keep or “tend” (Heb. šāmar)— carries a slightly different nuance. The basic meaning of this root is “to exercise great care over,” to the point, if necessary, of guarding. This emphasis on guarded keeping is substantiated by the fact that the poetic synonym of šāmar is always nāṣar, “to protect” (Deut. 33:9; Ps. 12:8 [Eng. 7]; 105:45; 119:34, 55-56, 145-146; 140:5 [Eng. 4]; 141:3; Prov. 2:8, 11; 4:6; 5:2; 27:18). The same root is used in the next chapter to describe the cherubs who are on guard to prevent access to the tree of life in the garden (Gen. 3:24). The garden is something to be protected more than it is something to be possessed.
+
+The point is made clear here that physical labor is not a consequence of sin. Work enters the picture before sin does, and if man had never sinned he still would be working. Eden certainly is not a paradise in which man passes his time in idyllic and uninterrupted bliss with absolutely no demands on his daily schedule.
+
+In a general sense v. 15 duplicates v. 8. Both verses state that God put man in the garden, although each verse uses a different verb (v. 8—śîm; v. 15—āḥâ [or nûaḥ]). The claim is frequently made that Gen. 2-3 abounds with duplicates, intrusions, and contradictions, indicating either the existence of several Edenic stories or else the appropriation and streamlining of heterogeneous material by the J writer.324
+
+What may be said about the relationship of v. 15 to v. 8 other than that they say the same thing twice? Are they indeed duplicates? There is, to be sure, partial recapitulation of v. 8 in v. 15. V. 8, however, is only a general statement, telling where man was settled. This general statement is then followed by various pieces of information about the garden where man is placed. It has trees throughout and enjoys irrigation. Now follows in v. 15 a specific statement informing us why man was placed there, as the text resumes the point made back in v. 8.
+
+16-17 In the garden God gives to Adam ample permission (any tree) but only a single prohibition (but from the tree ...). We will see in our discussion of ch. 3 that the serpent discreetly avoids any reference to God’s generous permission but magnifies God’s prohibition, which is the reversal of these two verses.
+
+The last part of v. 17 reads literally “in the day of your eating from it dying you shall die,” understanding the infinitive absolute before the verb to strengthen the verbal idea. We have already encountered the phrase beyôm (lit., “in the day”) followed by the infinitive construct in 2:4—“When Yahweh God made....” Here in 2:17 we have translated it as as surely as on the basis of its occasional use as an idiom meaning “for certain,” as in 1 K. 2:37, 42, where Shimei is threatened with death “on the day you go forth and cross the brook Kidron.” As the next few verses indicate, Shimei could not possibly have been executed “on the day” he exited his house. The verse is underscoring the certainty of death, not its chronology.325 Again, Pharaoh’s words to Moses, “in the day you see my face you will die” (Exod. 10:28), mean that if he values his life he ought not to seek a further conference with Pharaoh, or else Moses will be no more.
+
+The traditional translation could be retained, however, by taking the phrase môṯ tāmûṯ (infinitive absolute followed by a finite form of the verb) to mean you are doomed to die, that is, a deferred penalty. The verse is concerned not with immediate execution but with ultimate death. The problem with this interpretation is that “doomed to die” forces on môṯ tāmûṯ a meaning that is not patently observable. Obviously Adam and Eve did not die when they ate of the tree. Thus, in what we consider a poor reading of the text, D. R. G. Beattie wonders why Satan is punished for telling the truth (they did become like God) and exposing God’s lie (they did not die)!326 Others have suggested that God does not carry out his death penalty against Adam and Eve but rather withholds it as an indication of his grace.327 Yet another alternative is that 2:17 means “on the day you eat of it you will become mortal.”328 This approach assumes that God created man immortal, a fact that is not explicitly stated in Genesis and seems contrary to 1 Tim. 6:16, which states that deity alone has immortality. Indeed, in no OT passage does the phrase môṯ tāmûṯ mean “to become mortal.”
+
+Perhaps reexamination of this phrase will shed some light on the problem. First, we need to note the distinction in sections of the OT between “he/you shall die” (yāmûṯ/tāmûṯ), which is the Qal form of the verb, and “he/you shall be put to death” (yûmaṯ/tûmaṯ), which is the Hophal form of the verb. In the former, the executioner is God; thus the sense is: “he shall die (at God’s hands).” In the latter, the executioner is man, and the sense is: “he shall be put to death (by man).” Two Genesis passages illustrate this difference. In 20:7 God says to Abimelech, who is on the verge of adultery with Sarah, “restore the man’s wife ... but if you do not ... know that you shall surely die [môṯ tāmûṯ, as in 2:17].” God himself will directly intervene and strike down Abimelech. In 26:11 Abimelech says to anybody tempted to take advantage of vulnerable Isaac and Rebekah: “Whoever touches this man or his wife shall be put to death [môṯ yûmāṯ].” That is, Abimelech himself will mete out punishment against the aggressor.329 Clearly then, the sanction that is held out before Adam in 2:17 is one that carries a divine implementation.
+
+Second, we need to examine the uses of môṯ tāmûṯ in Scripture. In addition to its appearance in 2:17 and 3:4, it appears twelve, other times in the OT (Gen. 20:7; 1 Sam. 14:44; 22:16; 1 K. 2:37, 42; 2 K. 1:4, 6, 16; Jer. 26:8; Ezek. 3:18; 33:8, 14).330 All of these passages deal with either a punishment for sins or an untimely death that is the result of punishment. In two of these passages we observe that the threatened execution is not carried out. Thus in Jer. 26:8 a sentence of death is pronounced against Jeremiah: “You shall die!” Yet the death penalty is not exacted, for he is released on the basis of a century-old precedent set by Micah in the days of Hezekiah. In 1 Sam. 14:44 Saul says to Jonathan, who has just eaten the honey in ignorance of his father’s ultimatum, “you shall surely die, Jonathan.” Yet Jonathan does not die, but rather gains a reprieve.331 Perhaps then in 1 Sam. 14:44 môṯ tāmûṯ means “you deserve to die.”
+
+Furthermore, note that the three passages from Ezekiel (3:18; 33:8, 14) hold out the possibility that repentance may avert death. This, then, could be another difference between môṯ yāmûṯ and môṯ yûmaṯ: the former allows for the possibility of pardon, whereas the latter does not. Of course, môṯ yāmûṯ by itself does not convey any idea of possible pardon or exemption from punishment. Additional information is necessary for that to be the case, as Jer. 26:8, 1 Sam. 14:44, and the three passages from Ezekiel make clear. All that môṯ yāmûṯ clearly conveys is the announcement of a death sentence by divine or royal decree.
+
+
+
+
+
+5. A FIT HELPER AMONG THE ANIMALS? (2:18-20)
+
+
+
+
+18 Yahweh God said, “It is not good that the man should be alone. I will make332 for him a helper suitable for him. ”
+
+
+
+19 So Yahweh God formed from the dust of the ground every kind of wild animal of the field, every kind of bird of the sky, and he brought them to the man to see what he would call each; whatever the man called each living creature, that was to be its name.
+
+
+
+20 The man gave names to all cattle, birds of the sky, and to every wild animal of the field; but by Adam333 no helper suitable for him was found.334
+
+
+
+
+
+18 Everything thus far in Genesis that has been scrutinized by God has been given a positive assessment. Every situation has come through as either good or very good. For the first time we encounter something that is not good: man’s lack of a corresponding companion. The skies without the luminaries and birds are incomplete. The seas without the fish are incomplete. Without mankind and land animals the earth is incomplete. As a matter of fact, every phenomenon in Gen. 1-2, God excepted, is in need of something else to complete it and to enable it to function.
+
+In this particular case we should note that it is God who makes the judgment about the unsuitability of man’s aloneness. Man is not consulted for his thoughts on the matter. At no point does the man offer to God any grievance about his current circumstances.
+
+God is not only evaluator; he is also rectifier. He is not long on analysis but short on solution. His remedy is to provide a helper suitable for him (i.e., for the man). The last part of v. 18 reads literally, “I will make him for him a helper as in front of him (or according to what is in front of him).” This last phrase, “as in front of him (or according to what is in front of him)” (kenedô), occurs only here and in v. 20. It suggests that what God creates for Adam will correspond to him. Thus the new creation will be neither a superior nor an inferior, but an equal.335 The creation of this helper will form one-half of a polarity, and will be to man as the south pole is to the north pole.
+
+This new creation which man needs is called a helper (ʽēzer), which is masculine in gender, though here it is a term for woman. Any suggestion that this particular word denotes one who has only an associate or subordinate status to a senior member is refuted by the fact that most frequently this same word describes Yahweh’s relationship to Israel. He is Israel’s help(er) because he is the stronger one (see, e.g., Exod. 18:4; Deut. 33:7, 26, 29; Ps. 33:20; 115:9-11; 124:8; 146:5; etc.).336 The LXX translation of ʽēzer by boēthós offers further support for this nuance. The LXX uses boēthós forty-five times to translate several Hebrew words, and except for three occurrences (1 Chr. 12:18; Ezek. 12:14; Nah. 3:9) the word refers to help “from a stronger one, in no way needing help.”337 The word is used less frequently for human helpers, and even here, the helper is one appealed to because of superior military strength (Isa. 30:5) or superior size (Ps. 121:1). The verb behind ‘ēzer is ʽāzar, which means “succor,” “save from danger,” “deliver from death.” The woman in Gen. 2 delivers or saves man from his solitude.
+
+19 Yahweh parades before Adam members of the amimal world so that the man may confer on each its name. This is the first fulfillment of God’s directive to humankind in 1:26, 28 to exercise authority over the animal, the fish, and the fowl. For to confer a name (qārā’ le) is to speak from a position of authority and sovereignty.
+
+Many commentators have maintained that in this verse one finds a classic illustration of a major conflict between the sequence of creation in 1:1-2:4a and that in 2:4bff. In one (1:24-25) animals precede man. In the other (2:19) animals come after man. It is possible to translate formed as “had formed” (so NIV). One can, however, retain the traditional translation and still avoid a contradiction. This verse does not imply that this was God’s first creation of animals. Rather, it refers to the creation of a special group of animals brought before Adam for naming.338
+
+20 The animals are creatures but they are not helpers. Adam must look elsewhere for his complement. Here God is creator, but not namer. In the preceding chapter it was God who conferred names on “light” (1:5), “darkness” (1:5), “the vault” (1:8), “dry land” (1:10). There “called/named” is expressed by the formula qārā’ le, the same formula used in 2:19, 20, though v. 20 adds the plural noun šēmôṯ “names,” as the direct object of wayyiqrā’. It is clear that when God confers a name on something he does so in his capacity of sovereign ruler, but qārā’ le does not by itself suggest superiority. So it is stretching the point to suggest that in naming the animals man exercises sovereignty over them. For that to be clear, one would need a parallel to the “subdue” and “have dominion over” of ch. 1. In naming the animals, man exercises a God-given initiative. God gives to him the task of assigning labels to the only other living creatures who join him in the garden. We are told that the man obediently followed through with this assignment, but we are not told the names he conferred on each creature. In acting as name-giver, the man exhibits a quality of discernment.
+
+
+
+
+
+6. THE CREATION OF WOMAN (2:21-25)
+
+
+
+
+21 So Yahweh God cast a deep sleep on the man so that he fell asleep, and he took one of his sides and enclosed it with flesh.
+
+
+
+22 Then Yahweh God built into a woman the side that he had taken from the man and brought her to the man.
+
+
+
+23 The man said: “This one, this time,339 is bone of my bones and flesh of my flesh. This one shall be called ‘woman,’ for she was taken from man.”
+
+
+
+24 Therefore a man forsakes his father and mother and clings to his wife, and they become one flesh.
+
+
+
+25 Both of them, the man and his wife, were naked, yet not ashamed.
+
+
+
+
+
+21 None of Israel’s neighbors had a tradition involving a separate account of the creation of the female. In biblical thought the woman is not subsumed under her male counterpart. Gen. 1:27 simply informed us that when God created two earth creatures who would be his image bearers he created one earthling that was male and another earthling that was female. The verse said nothing about how he created them or when he created them (simultaneously or sequentially).
+
+These verses (2:21ff.) complement 1:27. The male earthling God made first. Just as the male was “taken” from the earth (3:19, 23), so the woman is “taken” from the man. Both of these special creatures owe their existence to something that existed before them.
+
+Specifically, the text says that God took one of the ṣēlāʽ of man. Almost without exception this word has been translated as “rib” (hence even today the many puns on “Adam’s rib” and “women’s lib”). A better translation of ṣēlāʽ is side. The word designates a side or the shell of the ark of the covenant (Exod. 25:12, 14; 37:3, 5), the side of a building (Exod. 26:20; 36:25) or even a whole room (“side chamber, arcade, cell,” Ezek. 41:5-8), or a ridge or terrace on a hill (2 Sam. 16:13). Gen. 2:21 is the only place in the OT where the modern versions render this word as “rib.”340 If we translate “side” rather than “rib,” then the passage states that woman was created from an undesignated part of man’s body rather than from one of his organs or from a portion of bony tissue.
+
+But even given the preference of “side” for “rib,” we should not conclude either from this verse or from 1:27 that the first human being was androgynous. This particular concept goes back at least to Aristophanes’ discourse on love in Plato’s Symposium (189-93). According to Plato there were originally three kinds of beings, who were joined back-to-back, like Siamese triplets. Each being had the faculties of two human bodies. These creatures could be either masculine, feminine, or bisexual. After an unsuccessful attempt to rebel against the gods, Zeus carved each of the three types of being, splitting them into either two men, or two women, or one man and one woman. Upon demonstrations of remorse for their rebellion, Zeus rejoined the severed halves by making possible their copulation.
+
+A similar teaching prevails in later Jewish (Tannaitic) tradition. Thus to the question “How did male and female come into being?” the answer was given that God took a side of man and from this half made woman; only the two together restore the wholeness of God’s original creation (Midrash Rabbah Gen. 8:1). But when God created Adam, he created him bisexual (’ndrwgynws). Parallel remarks are made by Rabbi Shemuel ben Nahman (see Midrash Rabbah Lev. 14:1).
+
+Such teaching goes beyond the statements of Genesis, however. That Eve is formed from the side of Adam is the teaching of the text. To suggest that the primal being was an androgyne is to read into the text what is not there and to understand 1:27, “male and female created he them,” as “male and female created he him (or it).”
+
+22 The traditional translation of this verse (e.g., RSV) has the Lord God taking the rib of the man and “making” it into a woman. The Hebrew word for “make” is literally “build” (bānā), but the extended meaning “to make, create” is supported by the root bny in Ugaritic. One of the epithets of El is bny bnwt, “creator of created things.”341 The verb built by its very definition implies beauty, stability, and durability.
+
+Working with clay, God is potter. Working with body tissue, God is builder. Eve thus becomes the first thing that is created from another living thing. Also, we need to note that it is not Eve herself but simply the raw material that is taken from the man.342 Just as the man does not emerge until a creative divine act on the dust takes place, so woman does not emerge until a creative divine act is performed on the man’s side.
+
+23 For the first time in Scripture the words of a human being are recorded in direct discourse. The total sum of what man himself has to say in the creation narrative is an exclamatory outburst concerning his helper. She is bone of my bones and flesh of my flesh.
+
+Apart from the man’s statement that his helper is actually part of himself, his words may have additional meaning. If we accept the maxim that in the OT flesh (Heb. bāśār) is often a symbol for an individual’s weakness and frailty, then perhaps bone (Heb. ʽeṣem) may well be its opposite—a symbol of an individual’s strength.343 The possibility that ʽeṣem is the antonym of bāśār is heightened by the fact that one of the meanings of the verb from which ʿeṣem is derived is “to be or make strong” (Gen. 26:16; Ps. 105:24; Dan. 8:8, 24). Thus it is the bones, not the flesh, that survive decay after death (Gen. 50:25).
+
+Now it is true that the OT uses “flesh” by itself as a term for a close relationship, as in Gen. 37:27, “Joseph is our brother, our own flesh.” Four times in the OT one finds the expression “my/your bone and flesh” (Gen. 29:14; Judg. 9:2; 2 Sam. 5:1; 19:13). This may simply be an expanded version of “flesh” and thus only an alternative way of expressing a relationship.344
+
+Brueggemann argues that the phrase “my/your bone and flesh” is actually a covenant formula and that it speaks not of a common birth but of a common, reciprocal loyalty.345 Thus when representatives of the northern tribes visit David at Hebron and say to him, “we are your bone and flesh” (2 Sam. 5:1), this is not a statement of relationship (“we have the same roots”) but a pledge of loyalty (“we will support you in all kinds of circumstances”). Taken this way, the man’s this one, this time, is bone of my bones and flesh of my flesh becomes a covenantal statement of his commitment to her. Thus it would serve as the biblical counterpart to the modern marriage ceremony, “in weakness [i.e., flesh] and in strength [i.e., bone].” Circumstances will not alter the loyalty and commitment of the one to the other. So understood, the verse does not attribute strength to the man and weakness to the woman, as if he is the embodiment of bone and she is the embodiment of flesh. Both the man and the woman share the entire spectrum of human characteristics, from strong to weak.
+
+In the latter part of this verse we encounter our first instance of popular etymology, a derivation that is based on assonance, “she shall be called ‘woman’ [ʾiššâ] because she was taken from man [ʾîš].”346 The text does not say “she shall be called female [neqēḇâ], for she was taken out of male [zāḵār].” Perhaps by using two words which sound alike the narrator wished to emphasize the identity and equality of this primal couple.347
+
+24 Therefore man forsakes his father and mother. Von Rad notes and is puzzled by the fact that in a patriarchal society it is the man who leaves his home rather than the wife who leaves hers.348 One explanation of this verse is that it reflects an erēbu marriage, in which the husband leaves his family and lives with his wife’s family.349 M. M. Bravmann offers another explanation, interpreting the verse psychologically. Referring to the saying that “A son is a son till he gets him a wife, a daughter is a daughter all of her life,” he suggests that the new husband has more of an emotional detachment from his home than the new wife does from her home.350 He leaves home to a degree that she never does.
+
+Perhaps the most crucial element in this verse is the verbs it uses: forsakes and clings. The verb forsake frequently describes Israel’s rejection of her covenant relationship with Yahweh (Jer.1:16; 2:13, 17, 19; 5:7; 16:11; 17:13; 19:4; 22:9; many other examples from the OT could be cited). By contrast, the verb cling often designates the maintenance of the covenant relationship (Deut. 4:4; 10:20; 11:22; 13:5 [Eng. 4]; 30:20). Thus, to leave father and mother and cling to one’s wife means to sever one loyalty and commence another. Already Scripture has sounded the note that marriage is a covenant rather than an ad-hoc, makeshift arrangement.
+
+Now covenantally joined with his wife, the man and his spouse become one flesh. Nothing is said yet about any procreating roles that this couple shall assume. The man does not leave one family to start another family. What is being pinpointed is solidarity. A man by himself is not one flesh. A woman by herself is not one flesh.
+
+25 The climax of the creation is, interestingly, the notation that the couple were naked and felt no shame before each other.351 Of course, naked refers primarily to physical nudity, but one may also think that no barrier of any kind drove a wedge between Adam and Eve.
+
+With the exception of this verse, nakedness in the OT is always connected with some form of humiliation. The three major uses of nakedness are: (1) as a description of the poor (Job 24:7, 10; 31:19; Ezek. 18:16); (2) as a sign of shame or guilt (Gen. 3:7, 10, 11; Ezek. 16:22, 37, 39; Hos. 2:3; Amos 2:16; Mic. 1:8); (3) in reference to birth (Job 1:21; Eccl. 5:15). A full documentation of all passages would show that nakedness as a symbol of guilt is most frequent, and perhaps such a connection between nakedness and guilt was suggested by the abbreviated dress of slaves and prisoners of war.352
+
+THE NEW TESTAMENT APPROPRIATION
+
+
+
+
+
+a. Gen. 2:18-23 and 1 Cor. 11:2-16; 1 Tim. 2:8-15
+
+
+
+
+
+(1) 1 Cor. 11:2-16
+
+
+
+
+
+In a discussion about the right and wrong ways of worship, Paul says that a man dishonors Christ by worshiping with his head covered. Similarly, he argues, a woman dishonors her husband if she worships with her head unveiled. Christ is the head of a man and a husband is the head of a wife.
+
+As a historical precedent for this arrangement, Paul appeals to Gen. 2, from which he reminds his audience of two facts. One is that woman was made from man, not vice versa, and the other is that woman was created for man, not vice versa. Clearly what Paul expresses here is not subordination of woman to man per se, but rather the order of the creative events.353 This is followed by the apostle’s dicta regarding legislation for both man and woman in public worship. V. 8 is concerned to show why it is that the woman is the glory of man rather than the reverse.
+
+Interestingly, Paul does not call woman “the image of man.” The contrast is at the point of glory or manifestation rather than image. In a second parenthetical remark (see RSV), Paul observes that just as the primal woman owed her existence to man, subsequently man owes his existence to woman (v. 12). Perhaps this note of balance is induced by Paul’s fear that his audience read too much into his earlier comments on Gen. 2.354
+
+
+
+
+
+(2) 1 Tim. 2:8-15
+
+
+
+
+
+This paragraph is the locus classicus for many exegetes in their examination of whether there should be any place for women in a ministerial or teaching position. Those who answer no say that this is the plain, literal meaning. This text then becomes the determinative text for interpreting and analyzing other NT references to the role of women. Those who answer yes find, on the contrary, that this passage actually supports a public, teaching role for women.355 Others take the passage only as an illustration of an interesting but irrelevant Christian midrash.356
+
+It is not our purpose to address this particular issue. Rather, we are interested in seeing where and how 1 Tim. 2:8-15 utilizes the Creation story. The writer states in v. 12 that he permits no woman to teach or to have authority over man; she is to keep silent. Then he goes on to state (v. 13), “For Adam was formed first, then Eve.” He further adds (v. 14) that it was the woman who was seduced, not Adam. Now the issue, in terms of hermeneutics, is whether Paul is dealing here with a problem (women teachers who are leading believers astray) that is of purely local import, or whether he is stating a timeless and axiomatic truth that is equally binding today.
+
+Part of the answer to that question is to be found in how one interprets the writer’s appropriation of Gen. 2-3: “he was formed first; she was deceived, not he.” The writer introduces his reference to the Genesis narratives with the conjunction “for” (gar). This conjunction may be understood in two ways. One is to take it as an expression of causation: women are not to teach or have authority over men because woman was not created first and because she was the one deceived. Thus Eve’s creation and seduction are paradigms of the nature of all women in general.357
+
+The other interpretation takes gar as explanatory. Thus “for” means “for example, for instance,” and the reference to Eve’s deception functions as an illustration of how far misguided women can greatly mislead others.358 The major problems with this view are: (1) the normal and prevalent use of gar is as a causal conjunction; and (2) twenty-one times in the Pastorals an imperatival idea is followed by a clause introduced with gar, and in these instances the causal idea is the obvious one.359
+
+In the light of the above we are inclined to agree with those who see a direct cause-and-effect relationship between Paul’s understanding of the Genesis story and its definitive influence on the role of women in the church at Ephesus.
+
+
+
+
+
+b. Gen. 2:24 and 1 Cor. 6:16; Eph. 5:31
+
+We have already referred to Matt. 19:5 and Mark 10:7-8 in our discussion of 1:27. Jesus couples Gen. 1:27 (an action of God) with Gen. 2:24 (a teaching from God) in his response to his critics’ question about the legality of divorce. Therefore in this section we will focus on the Pauline use of Gen. 2:24 in 1 Cor. 6:16 and Eph. 5:31.
+
+
+
+
+
+(1) 1 Cor. 6:16
+
+
+
+
+
+In the context of this verse (w. 9-20), Paul warns against satisfying one’s sexual desires in an immoral fashion. He observes that the one who joins himself to a prostitute becomes one body (hen sṓma) with her, and then supports this point by citing the last part of Gen. 2:24, “the two shall become one flesh (sárka mían].” This physical union between a man and a harlot is then contrasted with one who is united to the Lord in a spiritual union—“he ... becomes one spirit with him” (v. 17).
+
+What Paul is saying is that the union of a man with Christ and with a harlot are incompatible. The commitment of oneself to one of these unions makes the other union impossible. In addition, for Paul union with a harlot was more than just a temporary physical act.360 For even here the two become one flesh.
+
+
+
+
+
+(2) Eph. 5:31
+
+
+
+
+
+This verse is part of a larger unit, vv. 21-33 (one of the apostle’s Haustafeln, i.e., rules by which members of a household conduct themselves), which is devoted to teaching on marriage and particularly the relationship of the wedded partners to each other. The wife is to be subject to her husband (vv. 22-24), and the husband is to show nothing less than Christ-like, Calvary-like love to his wife (w. 25-30). Paul clinches his argument (v. 31) by quoting Gen. 2:24 (LXX). But in a surprise move he suggests that “one flesh” applies ultimately and primarily to Christ and his bride, the Church (v. 32).361
+
+That two can become one is, by Paul’s own admission, a profound mystery. It may be an equal mystery to us how Paul can so quickly lay aside his point about marriage and draw conclusions about christology and ecclesiology. In calling the two-become-one concept a “mystery,” he is presumably using “mystery” precisely as he uses it elsewhere in the book (1:9; 3:3, 4, 9; 6:19). “Mystery” does not mean something that is baffling and defies explanation. Rather, it refers to a truth whose explanation, clarification, and verification is contingent upon the coming and revelation of Christ.
+
+Paul follows his statement, “it [viz., the two shall become one flesh] refers to Christ and the church,” with “and I am saying that” (egṓ dé légō). This phrase reminds one of other sayings, such as “I say, not the Lord, that ...” (1 Cor. 7:12). An even closer parallel is the egṓ dé légō formula in the Sermon on the Mount, “but I say unto you ... ,” in which Jesus challenges a scriptural interpretation prevalent at that time by offering a different interpretation. Perhaps Paul is similarly challenging current interpretations (esp. Gnostic ones) of the one flesh idea (androgyny to distinction, and now back to androgyny). The egṓ dé légō formula may function not so much as polemic but as a way of indicating that in Paul’s mind “one flesh” includes, but certainly goes well beyond, the idea of the physical union between a woman and a man.362
+
+The important point is that for Paul Gen. 2:24 refers to the archetypal union between Christ and the Church. Moreover, the union between Christ and the Church is also the fulfillment of God’s purpose for creation—the uniting of all things in Christ (Eph. 1:10). Believers are to be not only imitators of Christ (5:1-2) but also the historical continuation of his body.
+
+
+
+
+

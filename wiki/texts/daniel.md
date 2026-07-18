@@ -10,8 +10,8 @@ canon_scope:
   rejected_by: []
 language_original: Hebrew and Aramaic (1:1-2:4a and 8:1-12:13 in Hebrew; 2:4b-7:28 in Aramaic)
 date_range: Sixth century BCE (Longman/evangelical) or final redaction second century BCE (critical consensus)
-sources_ingested: 1
-last_updated: 2026-06-05
+sources_ingested: 2
+last_updated: 2026-07-18
 tags: [text, old-testament, writings, daniel, apocalyptic, son-of-man, exile, sovereignty, visions]
 ---
 
@@ -117,6 +117,43 @@ Longman: treat the 70 × 7 as symbolic; the oracle addresses the completion of G
 
 The book ends with the only clear OT statement of individual bodily resurrection: "Multitudes who sleep in the dust of the earth will awake: some to everlasting life, others to shame and everlasting contempt" (12:2). This provides the linguistic and conceptual foundation for NT resurrection theology.
 
+## Daniel 7 in Mark: France's Enthronement Reading (2026-07-18 ingest)
+
+From [[rt-france|R. T. France]], *The Gospel of Mark* (NIGTC, 2002) — see
+[[france-mark-nigtc]] — the wiki's fullest treatment of Daniel 7's reception in
+[[mark|Mark]]. All claims are France's.
+
+- **Enthronement, not parousia.** France's signature position: the "coming of the Son of Man"
+  sayings (Mk 8:38; 13:26; 14:62) use the enthronement language of Dan 7:13-14 for the
+  imminent vindication of the rejected [[son-of-man|Son of Man]], not a parousia ending
+  history — Dan 7:13-14 being "no less than Ps. 110:1 an enthronement oracle," so that "the
+  language of 'coming with clouds' here has no more reference to a coming to earth (at the
+  parousia) than it had in its original context in Dn. 7:13" (on 14:62). What is described in
+  13:24-27 "is a change of government: the temple and all that it stood for is out, and the
+  Son of Man is in" — visible within the generation in the temple's destruction and the
+  church's growth ("They did!", on 13:30). He claims the enthronement reading of 14:62 is
+  "now firmly (though by no means universally) established," and argues consistency: once
+  14:62 is enthronement, "there is no basis for continuing to insist that in 13:26 the same
+  language must refer to the parousia."
+- **The wider synoptic pattern.** Citing his own *Jesus and the Old Testament*, France holds
+  that within the synoptic tradition Dan 7:13-14 is applied to periods from post-resurrection
+  authority (Matt 28:18) to last judgment, but "nowhere was the 'coming' understood as a
+  coming to earth at the parousia"; Rev 1:7 is probably the earliest such use.
+- **Earlier Danielic touches in Mark.** France reads ἐπὶ τῆς γῆς in Mk 2:10 as underlining
+  the boldness of Jesus' claim: forgiveness, hitherto a heavenly function, can now be
+  exercised on earth because of the presence of the Danielic Son of Man. He glosses the
+  μυστήριον of Mk 4:11 against the background of Daniel's *rāz* — privileged information
+  given by revelation, not a puzzle — and hears Daniel 4's tree-and-birds imagery (with Ezek
+  17/31) behind the mustard seed (4:30-32). James and John's request (10:35-40) seizes the
+  royal connotations of the Daniel 7 Son of Man while filtering out the passion.
+- **The trial.** The 14:62 pronouncement "is made up almost entirely of words from two OT
+  passages, Ps. 110:1 and Dn. 7:13"; the "mixed metaphor" of sitting and coming dissolves
+  once both are read as OT metaphors of sovereign authority, not chronology.
+
+*France's enthronement reading and Longman's more conventional NT-appropriation summary
+above (e.g. on Mark 14:62) stand as distinct scholarly positions; the wiki does not
+adjudicate.*
+
 ## Theology
 
 ### 1. Divine Sovereignty — The Central Theme
@@ -156,3 +193,4 @@ Concept pages developed from this text:
 ## Sources Ingested
 
 1. [[tremper-longman|Longman, Tremper, III]]. *Daniel*. NIV Application Commentary. Grand Rapids: Zondervan, 1999.
+2. [[rt-france|France, R. T.]]. *The Gospel of Mark*. NIGTC. Grand Rapids: Eerdmans, 2002 — for Daniel 7's reception in Mark. See [[france-mark-nigtc]].

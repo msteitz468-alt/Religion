@@ -69,4 +69,4 @@ The Teacher figure may underlie several Second Temple and early Christian charac
 - **James the Just**: Eisenman (not endorsed by Vermes) identified the Teacher with James; Vermes rejects this strongly
 
 ## See Also
-[[habakkuk-commentary]] · [[damascus-document]] · [[community-rule]] · [[thanksgiving-hymns]] · [[essenism]] · [[essenes]] · [[pesher]] · [[dead-sea-scrolls-vermes]] · [[two-spirits-doctrine]]
+[[habakkuk-commentary]] · [[two-messiahs]] · [[damascus-document]] · [[community-rule]] · [[thanksgiving-hymns]] · [[essenism]] · [[essenes]] · [[pesher]] · [[dead-sea-scrolls-vermes]] · [[two-spirits-doctrine]]

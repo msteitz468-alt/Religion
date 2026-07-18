@@ -11,7 +11,7 @@ canon_scope:
 language_original: Greek
 date_range: c. AD 95 (Domitian; Osborne) — alternatively the late 60s (Nero) on the early-date view
 sources_ingested: 1
-last_updated: 2026-06-06
+last_updated: 2026-07-18
 tags: [text, christianity, new-testament, apocalyptic, prophecy, eschatology, johannine]
 ---
 
@@ -112,6 +112,21 @@ judgment series overlap rather than running in strict chronological sequence):
 - **Perseverance / conquering** — the horizontal axis: eschatology grounds ethics; the recurring call
   to "conquer" and endure.
 
+## Hermeneutical Frameworks
+
+- **Native / traditional Christian:** apocalyptic-prophetic reception; chiliast and anti-chiliast
+  streams; Quadriga and typological OT reading in the West; Eastern liturgical non-use despite
+  later canonicity.
+- **Osborne BECNT (this wiki's primary commentary):** grammatical-historical with
+  **intertextual/theological synthesis**; **genre-governed** (apocalypse + prophecy + letter);
+  **"hermeneutics of humility"** on symbols (pictorial then referential via first-century
+  background; *esēmanen* / Dan 2); numbers predominantly **symbolic** (completeness); OT as
+  **servant and guide** via typological *transformation*; **eclectic with futurist primary**
+  (present "addressed through parallels with the future"). Full method on
+  [[grant-osborne|Grant R. Osborne]] and [[osborne-revelation-becnt|source page]].
+- **Critical / modern:** redaction/source theories (Aune et al.); sociological "perceived crisis"
+  (Yarbro Collins, Thompson); idealist-primary eclectic (Beale NIGTC).
+
 ## Key Interpretive Cruxes
 
 **1. Which interpretive school?** Historicist, preterist, idealist, or futurist — the choice
@@ -133,8 +148,9 @@ complete people of God), not a literal Jewish remnant.
 
 **5. The New Jerusalem (21:9–22:5).** The cube-shaped city is the **Holy of Holies** — there is "no
 temple in the city, for its temple is the Lord God Almighty and the Lamb" (21:22) — and the **final
-Eden** (the river and tree of life). On 21:1–5, Osborne discusses renovation vs. re-creation of the
-cosmos. See [[new-creation|New Creation]] and [[eschatological-temple|The Eschatological Temple]].
+Eden** (the river and tree of life). On 21:1–5, Osborne sides primarily with **replacement** of the
+old cosmos (with continuity within the wholly new order), not mere renovation. See
+[[new-creation|New Creation]] and [[eschatological-temple|The Eschatological Temple]].
 
 ## Canon and Reception
 
@@ -153,10 +169,83 @@ Revelation's canonical history is the mirror image of the Catholic Epistles': **
 - **Genesis and the new creation** — Eden restored (22:1–5); the new heaven and new earth (Isa
   65–66). See [[new-creation|New Creation]].
 
+## Scholarship and Historiography
+
+Primary ingested commentary: [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT, 2002)]] —
+fidelity re-ingest 2026-07-18 (first-pass 2026-06-06). Positions below are **Osborne's** unless
+otherwise marked. Dating, authorship, and structure debates are recorded as positions on
+[[revelation-date-authorship|Revelation: Authorship and Date]] and related controversy pages; the
+wiki does not adjudicate.
+
+- **Authorship (Osborne):** apostle John viable; differences from the Fourth Gospel are
+  genre/visionary rather than separate authors; pseudonymity rejected.
+- **Date (Osborne):** mid-90s Domitian preferred; seven-church backgrounds (esp. Laodicea) tipped
+  him from an earlier Neronian lean.
+- **Composition:** unity against multi-stage redaction (Aune et al.); deliberate doublets and
+  multi-level structure with **recapitulation** of seals/trumpets/bowls.
+- **Dialogue partners Osborne tracks most closely:** Beale (OT allusions; idealism-primary
+  eclectic); Aune (critical/background); Bauckham (numbers; theology); Ladd / Beasley-Murray /
+  Mounce (historic premil).
+
+## Fidelity re-ingest anchors (Osborne BECNT 2002)
+
+Grounded claims from the 2026-07-18 full-body re-read (raw lines 131–166 + 973–7411; digests R0–R8).
+Attributions are to Osborne's exposition.
+
+### Method and introduction
+- **Four primary problems:** symbolism; structure; four interpretive schools; OT use (not
+  Gospel-style source criticism).
+- **Both preterist and futurist:** "it is a disjunctive fallacy to take an either-or stance";
+  "the present addressed through parallels with the future."
+- **Eclectic, futurist primary** (vs Beale's idealism primary); classical premillennial subtype of
+  futurism, not dispensational rapture-scheme.
+- **Hermeneutics of humility** on symbols; *esēmanen* (1:1) as "communicate by symbols" (with Beale
+  / Dan 2); reject "newspaper" prophecy.
+- **Numbers** 4 / 7 / 10 / 12 (and compounds) predominantly symbolic completeness; thousand years
+  and 3½ years not forced literal.
+- **OT:** no formal quotations; densest allusions in NT; Daniel *not* sole key (Isaiah, Ezekiel,
+  Zechariah frequent); John "fully cognizant of the context" but **transforms** via typology
+  ("servant and guide").
+- **Primary theme:** sovereignty of God (throne; "who is / was / is to come"; divine passive
+  *edothē*). **Horizontal axis:** perseverance (endurance, faithfulness, witness, conquering,
+  obedience). **Mission:** eternal gospel and two tracks for the nations (not judgment-only).
+
+### Narrative cruxes (body)
+- **Seven letters:** concrete Asian cities under Jewish and Roman pressure; compromise via guilds /
+  imperial cult (Nicolaitans, "Jezebel"); Laodicean lukewarm as local water-supply metaphor;
+  Philadelphia "keep from the hour of trial" = protection *within* worldwide testing, not pretrib
+  rapture (Osborne).
+- **Throne / Lamb (4–5):** worship as alternative to imperial cult; Lamb *slain* and worthy to open
+  the scroll; shared worship of God and Lamb (oneness motif).
+- **Seals / trumpets / bowls:** overlapping judgment series (recapitulation with intensification);
+  limited (⅓) judgments leave space for repentance; earth-dwellers largely refuse (9:20–21; 16:9, 11);
+  interludes interpret (7; 10–11; 12–14).
+- **Two witnesses (11):** Moses/Elijah-like individuals *and* symbol of the church; beast kills them
+  in the "great city"; partial earthquake yields true repentance (11:13) as mission counterpoint.
+- **Great conflict (12–16):** woman = whole people of God; dragon's war; sea beast = final Antichrist
+  (Dan 7 composite; Nero *redivivus* form of the healed wound); earth beast = false prophet; **666**
+  — Nero Caesar gematria best-known but uncertain; false trinity as "great imitation"; **eternal
+  gospel** (14:6–7) real offer; bowls total and without interludes; Armageddon as symbolic Megiddo
+  war-name, not a single fixed geography.
+- **Babylon (17–18):** prostitute + great city = Rome / empire of the beast and all Rome-like power
+  centers; four foci — idolatry, immorality, luxury, persecution; ch. 18 primarily **economic
+  oppression**; *lex talionis*; saints rejoice at justice, not sadism.
+- **Parousia (19):** wedding of the Lamb; rider = Faithful and True, Word of God, King of kings;
+  "great war never really occurs" — sword from mouth ends it; beast and false prophet first into
+  lake of fire (alive — problem for annihilationism on Osborne's reading).
+- **Millennium (20):** historic premillennial, irenic; thousand years symbolic but real future;
+  binding total (not church-age partial); first resurrection bodily; release proves total depravity
+  (theodicy climax); Gog/Magog second battle, not recapitulation of Armageddon.
+- **New creation (21–22):** primarily **replacement** of old cosmos with continuity inside the new;
+  New Jerusalem = people *and* place; cube = Holy of Holies; **no temple** (God and Lamb are the
+  temple); final Eden (river, trees of life, no curse); nations walk by the light (mission/
+  inclusion, not universalism); epilogue // prologue (imminence, "Come," add/subtract warning).
+
 ## Commentators
 
 - [[grant-osborne|Grant R. Osborne]] — BECNT (Baker Academic, 2002); Johannine authorship; Domitianic
-  date; eclectic-futurist method; historic premillennial; mission theology; TEDS
+  date; eclectic-futurist method; historic premillennial; mission theology; TEDS; see
+  [[osborne-revelation-becnt|source page]]
 - G. K. Beale (NIGTC, 1999) — the monumental OT-allusion commentary; "redemptive-historical modified
   idealism" (idealist-primary eclectic); Osborne's closest dialogue partner
 - David E. Aune (WBC, 3 vols., 1997–98) — the standard critical commentary; multi-stage redaction;
@@ -169,7 +258,8 @@ Revelation's canonical history is the mirror image of the Catholic Epistles': **
 
 ## Key Links
 
-- [[grant-osborne|Grant R. Osborne]] — primary commentary source (BECNT, 2002)
+- [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest source page
+- [[grant-osborne|Grant R. Osborne]] — primary commentary voice
 - [[john-apostle|John the Apostle]] — the traditional author (figure page)
 - [[revelation-interpretive-schools|The Four Interpretive Schools of Revelation]]
 - [[revelation-millennium|The Millennium (Revelation 20)]]
@@ -179,7 +269,7 @@ Revelation's canonical history is the mirror image of the Catholic Epistles': **
 - [[antichrist|Antichrist]] — the beast and 666
 - [[new-creation|New Creation]] / [[eschatological-temple|The Eschatological Temple]] — the New
   Jerusalem (21–22)
-- [[daniel|Daniel]] — the primary OT apocalyptic source
+- [[daniel|Daniel]] — major OT apocalyptic source (not sole key for Osborne)
 
 ## Concepts
 

@@ -5,8 +5,8 @@ tradition: cross-tradition
 textual_sources: [1 Kings, 2 Chronicles, Proverbs, Ecclesiastes, Song of Songs]
 dates: [c. 970 – 931 BCE]
 roles: [king, builder, wise man]
-sources_ingested: 3
-last_updated: 2026-06-09
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [figure, cross-tradition, king]
 ---
 
@@ -73,3 +73,15 @@ Provan (NIBC) reads Solomon's reign as the hinge that reveals the book's didacti
 - [[wisdom|Wisdom]]
 - [[matthew|Matthew]] (genealogy, "greater than Solomon")
 - [[hebrews|Hebrews]] (tabernacle/temple typology)
+- [[provan-1-2-kings-nibc|Provan NIBC 1–2 Kings]] (fidelity reingest 2026-07-18)
+
+## Provan NIBC reingest (2026-07-18)
+
+*Attributed to [[iain-provan|Iain W. Provan]], [[provan-1-2-kings-nibc|*1 and 2 Kings* (NIBC, 1995)]]. Digests R1–R2, §18.*
+
+- **Succession and charge (§1–2):** Solomon’s rise is realpolitik + public anointing; David’s charge binds **Deuteronomic law** to **conditional** dynasty language (2:1–4) alongside ruthless settling of Joab/Shimei—wisdom and violence intertwined.
+- **Ambiguous wisdom (§3–7):** Early high-place worship, Egyptian marriage, and horse/chariot buildup (Deut 17 “time bomb”) cloud the Gibeon gift; forced labor (*mas*) and district system fund glory under a cloud.
+- **Temple / Name (§8–14):** Temple hosts the Name without containing God; 6:11–13 ties presence to obedience; palace years (13) vs temple years (7) as narrative critique.
+- **Prayer as heart (§13):** Dual register—conditional dynasty (8:23–26) and universal sin → forgiveness (8:31–51); major petition = exile/restoration; “grace always underpins law.”
+- **Apostasy and lamp (§16–17):** Foreign wives, high places, deferred judgment; one tribe for David’s lamp; division **“not forever”** (11:39)—fatherly discipline (2 Sam 7:14), not Saul-like eternal rejection.
+- **§18 Canonical excursus:** Blessing exceeds virtue; messianic type (greater than Solomon; Wisdom of God); anti-anxiety foil of “splendor”; temple superseded yet load-bearing for heavenly-temple theology (Heb./Rev.).

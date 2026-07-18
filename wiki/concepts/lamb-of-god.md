@@ -80,6 +80,7 @@ Lamb is thus both the ground of salvation and the pattern of discipleship.
 ## Key Links
 
 - [[revelation|The Revelation to John]] — the book where the Lamb dominates
+- [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest; Lamb 29×; oneness motif
 - [[grant-osborne|Grant R. Osborne]] — source; the slain Lamb / conquering Ram and the oneness motif
 - [[servant-songs|Servant Songs]] — Isaiah 53, the Suffering-Servant lamb
 - [[gospel-of-john|Gospel of John]] — "the Lamb of God" (1:29, 36)

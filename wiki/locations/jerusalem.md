@@ -13,8 +13,8 @@ associated_peoples: [
   "Returned Judean exiles under Persian rule (small Second Temple community in Yehud)",
   "Hellenistic, Hasmonean, Herodian Jews; Romans (Aelia Capitolina, 135 CE); Byzantine Christians; Muslims (from 638 CE); Crusaders; Ottomans; modern Israelis and Palestinians"
 ]
-sources_ingested: 1
-last_updated: 2026-06-07
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [location, jerusalem, zion, judah, temple, jebusite, exile, second-temple]
 ---
 
@@ -79,6 +79,33 @@ contested places on earth (see Controversies).
 - **Islam**: **al-Quds**, third holiest city, site of the Night Journey and the Dome of
   the Rock on the Haram al-Sharif.
 
+### Jerusalem in Ezekiel 25–48 (Block)
+
+Daniel Block ([[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]]) gathers several
+distinctive Ezekielian moves concerning the city:
+
+- **Trade rival.** Tyre's taunt over the fallen city (26:2) "reflects Tyre's trading
+  interests. For Tyre the fall of Jerusalem meant the elimination of a commercial rival" —
+  Jerusalem as *dalĕtôt hāʿammîm*, "the doors/gates of the peoples," a barrier astride the
+  overland trade routes.
+- **Polemic against official Zion theology.** In the vision of chs. 40–48 the high mountain
+  and city of 40:2 go unnamed, which Block reads as "his continuing polemic against official
+  Jerusalem theology"; the *ʿîr* there designates "not the city Jerusalem as a whole, but the
+  temple complex, conceived as 'a walled enclosure.'" His summary of the vision's geography:
+  "Where God is, there is Zion."
+- **Hamonah.** Block defends the disputed city-name of 39:16 against gloss-deletion ("such
+  changes rob the text of its punch line"), solving it via *hāmôn* as associated with
+  Jerusalem's tumult: "Hamonah's primary function is to memorialize the demise of Israel's
+  last and greatest enemy, but by association it also memorializes the transformation of the
+  city" — "Hamonah is gone, Yahweh is there!," anticipating 48:35.
+- **Yahweh Shammah.** In 48:35 the city, though profane space, "will bear a new name, *yhwh
+  šāmmâ*, 'Yahweh is there.'" The sound "may remind some of *yĕrûšālayim*," but the polluted
+  old name — stained by bloodshed, abominations, idolatry — is dropped: "Ezekiel looks
+  forward to a new day when the city will bear the name of Yahweh with honor."
+- **Rev 21 contrast.** Block notes John's new Jerusalem combines Isa 54 with Ezekiel's
+  design yet "needs no temple," and its universalism (Rev 21:24–27) "contrasts sharply with
+  Ezekiel's parochialism."
+
 ## Key Events, Figures, and Controversies
 
 David's capture; Solomon's Temple; Hezekiah and Sennacherib (701); the Babylonian
@@ -87,3 +114,60 @@ destruction (586); the Second Temple restoration; Roman Aelia Capitolina (135). 
 city are among the world's most intractable disputes. Related: [[samaria]],
 [[babylon]], [[lachish]], [[shechem]], [[melchizedek]], [[david]], [[solomon]],
 [[assyrians]], [[babylonians]], [[persians]].
+
+## Isaiah 1–39: Zion in Oswalt's Reading (2026-07-18 ingest)
+
+From the NICOT vol. 1 re-ingest ([[oswalt-isaiah-1-39-nicot|source]]): Zion appears 47
+times in Isaiah (29 in chs. 1–39) as the poetic term of chosenness and hope. Key Oswalt
+claims (attributed): 2:2–4 makes Zion the eschatological teaching-center — "Jerusalem has
+become a symbol of God's self-revelation through history" — with the temple-mount's
+exaltation figurative; the "valley of vision" title (22:1) is sarcasm; "Ariel" (29:1) is
+probably "altar-hearth," the proud cult-city become the sacrifice, with God himself
+besieging her "in the form of the Assyrians"; and the city is not inviolable — "the answer
+to the question 'Is Jerusalem inviolable?' is always no. But does God hover over Jerusalem
+with special concern…? Yes!" Hezekiah's water works (the Gihon–Siloam tunnel, the pools, the
+wall repairs of 22:8–11) are faulted not as imprudent but as misordered priorities: "before
+paying attention to what is made, he should have paid attention to the Maker." In 701,
+Oswalt suggests, possibly only "a reconnaissance brigade" watched the city (G. A. Smith).
+See [[hezekiah|Hezekiah]], [[sennacherib|Sennacherib]], [[isaiah|Isaiah]].
+
+## Jerusalem in the Gospel of Mark: France's NIGTC Reading (2026-07-18 ingest)
+
+From the full re-ingest of [[rt-france|R. T. France]], *The Gospel of Mark* (NIGTC, 2002) —
+see [[france-mark-nigtc]] — in which Jerusalem functions as one pole of Mark's structural
+[[galilee|Galilee]]/Jerusalem polarity. All claims are France's unless otherwise attributed.
+
+- **"Essentially foreign" territory.** France argues Mark portrays Jerusalem as "essentially
+  foreign" territory for a Galilean; in the Galilean phase the city appears only as the source
+  of hostile scribes (Mk 3:22; 7:1) — "In Jerusalem, it seems, Jesus has few friends" — and the
+  ritual-purity controversy with the Jerusalem delegation (7:1-23) is the narrative hinge
+  pointing forward to what awaits Jesus there. "For the time being Jerusalem remains a distant
+  menace, but its emissaries give clear warning of the confrontation which lies ahead" (3:22).
+- **A dramatised single visit.** France holds Mark's single-visit-to-Jerusalem outline is
+  artificial, owing more to dramatic reshaping than naive event recording; John's pattern of
+  frequent Galilee–Jerusalem journeys is historically more probable, and Mark's own narrative
+  (Bethany hosts, donkey owners, the guest room) hints Jesus had been in the city before.
+- **The death march.** Jerusalem is first named as destination at 10:32, a cameo France reads
+  as conveying "the urgency and, for all but Jesus, the incomprehensibility of the death march
+  to Jerusalem."
+- **The city without faith.** In Act Three (11:1 on) miracles virtually disappear because faith
+  is absent in Jerusalem; the only miraculous action is the negative sign of the withered fig
+  tree, whose appended prayer sayings imply that "the Jerusalem temple is condemned and
+  replaced by the praying community" (11:22-25). The cosmic imagery of 13:24-25, drawn from
+  Isaiah's oracles against Babylon (Isa 13:10) and Edom (Isa 34:4), is turned with "savage
+  irony" against Jerusalem and God's own house — see [[isaiah|Isaiah]] and
+  [[eschatological-temple|Eschatological Temple]].
+- **Two crowds.** France distinguishes the Galilean pilgrims who shouted "Hosanna" on the
+  approach from the Jerusalem city crowd, incited by the priests (15:11), who shouted "Crucify
+  him"; the temple charge (15:29) is what had "particularly impressed and alienated the
+  ordinary population of Jerusalem."
+- **Rejection vs. restoration.** "Jerusalem is for Jesus the place of rejection and death… but
+  Galilee is the place of resurrection and restoration" (14:28; 16:7) — though France denies
+  the contrast is one of Jew versus Gentile.
+- **Topographical notes.** France finds the tomb details of 15:46–16:6 consistent with
+  archaeologically known Jerusalem rock tombs, and (in an endnote) favours Herod's former
+  palace on the western hill over the Antonia as Pilate's Jerusalem residence, while judging
+  the location exegetically unimportant to Mark.
+
+See [[mark|Gospel of Mark]] · [[france-mark-nigtc]] · [[rt-france|R. T. France]] ·
+[[galilee|Galilee]].

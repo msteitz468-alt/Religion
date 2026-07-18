@@ -5,8 +5,8 @@ tradition: cross-tradition (Judaism, Christianity, Islam)
 textual_sources: [Genesis 1–5; 1 Chronicles 1:1; Hosea 6:7; Romans 5; 1 Corinthians 15; Qur'an (Adam); The Zohar; Ibn Arabi, Fusus al-Hikam]
 dates: legendary / primordial
 roles: [first human, progenitor of humankind, first sinner, type/antitype, microcosm]
-sources_ingested: 3
-last_updated: 2026-06-09
+sources_ingested: 4
+last_updated: 2026-07-18
 tags: [figure, cross-tradition, judaism, christianity, islam, kabbalah, sufism, primordial]
 ---
 
@@ -79,6 +79,49 @@ The Zohar reads Adam at the **Sod** level as both microcosm and cosmic actor:
 
 ---
 
+## Zoharic portrait (Pritzker Volume I; reingest 2026-07-18)
+
+Grounded in Matt's *Zohar* Pritzker Edition, Volume I (Parashat Be-Reshit and comparison material in Parashat Noaḥ). Claims are those of Zoharic speakers in Matt's English.
+
+### Male-and-female only is “human”
+In the Vol. I creation run the Zohar states: “A human is male and female, and is otherwise not called human,” restated as “One is not even called אדם (*adam*), human, unless male and female are as one.” Spirit, not body alone, is the “human.”
+
+### Side-by-side, then face-to-face
+On Gen 1:26 / “Let us make” (Zohar ~1:34b–35a): Adam and Eve are first created **side-by-side, not face-to-face**, because “YHVH Elohim had not rained upon earth, and the coupling was not yet fittingly arrayed.” Only after uprooting/transplanting (*va-yisgor*; letter *samekh* as mutual support) do they turn **face-to-face for endurance**. The same span notes an “original Lilith” who accompanied him and was taken away as “no fitting helper” (“books of the ancients”).
+
+### Garments of light → garments of skin
+After the conviction: “At first they wore אור כתנות (*kotnot or*), garments of light… Now… עור כתנות (*kotnot or*), garments of skin, soothing the skin, not the soul.” Parallel loss: nakedness of “weapons of sacred sparkling letters” and “supernal radiance enveloping them.”
+
+### Drove out *Et* (Shekhinah); weakened power above
+On Gen 3:24’s *et ha-adam*, the Zohar transposes: “Who drove out את (*Et*)? Adam. Adam actually drove out *Et!*” Cosmic inner meaning: “When Adam sinned by eating from the tree… he caused a defect, **separating the Woman from Her Husband**. The fault of this defect stood out in the moon, until Israel stood at Mount Sinai…” After the sin: “Woe to you, Adam! You have **weakened supernal power**!”
+
+### 110 / 130 years: demon generation
+After the serpent injects slime into Eve and dual paternity (Cain from the impure side / Abel from Adam’s side), Adam separates from his wife. R. Yitsḥak: **130 years**; R. Shim’on: **110 years** — he engenders “spirits and demons.” Seth alone is “in his likeness”; “Back to שת (*Shet*), Seth, all generations trace, all truly righteous.”
+
+### Book of Raziel; Adam at the gate of souls
+The “book of the generations of Adam” is treated as an actual book given via **Raziel**; it flies away at the sin, is restored, and passes to Seth → Abraham (parallel to the Book of Enoch). In the afterlife frame, every departing soul meets “Adam, sitting by the gate of the Garden of Eden,” delighting in commandment-keepers and *ba‘alei teshuvah*.
+
+### Comparison with Noah
+In Parashat Noaḥ the Zohar contrasts pre-Noah generations as “**children of Adam**” (the violator) with Noah’s renaming of the world as “**offspring of Noah**.” Full settlement from the serpent’s slime waits for Sinai. See [[noah|Noah]].
+
+---
+
+## Hamilton (NICOT) reception (2026-07-18)
+
+Attributed to [[victor-hamilton|Victor P. Hamilton]] ([[hamilton-genesis-1-17-nicot|Genesis 1–17 NICOT]]). Densify only; other traditions above unchanged.
+
+- **Name:** general rule anarthrous *ʾādām* = personal name, articular = “man,” but translations disagree on first “Adam”; Hamilton allows progression general→specific (// Gen 1 days). ANE name support (Akk./Ebla *A-da-mu*; Ugarit El *ab adm*).
+- **2:17 death sanction:** certainty of death sentence by divine decree, not chronology of same-day physical death (*môṯ yāmûṯ*).
+- **Helper / side:** *ʿēzer kənegdô* equal corresponding helper (Yahweh as *ʿēzer* of Israel refutes mere subordinate status); *ṣēlāʿ* better “side” than “rib”; rejects androgynous primal being reading.
+- **Fall dynamics:** God seeks (“Where are you?”) as prosecutor drawing confession; Adam blames woman and God; neither shows contrition. Penalty unit for man is lifelong toilsome work until dust — Hamilton notes absence of *môṯ* in 3:17–19: penalty for Adam (and Cain) is expulsion/wandering, not death as the stated sanction. Coats of skin: grace before judgment (// Cain’s mark; covenant before Flood); over-reading as sacrificial system “probably reading too much.”
+- **Naming Eve:** act of faith amid death threat — “multiply” still stands.
+- **Christian “Fall” / original sin:** OT almost silent on Adam after Gen 5; wait for Rom 5 / 1 Cor 15. Freedom forfeited, not gained. Rom 5:12: corporate mediation of Adam’s sin *and* individual responsible sinning held in tension (Hamilton’s option 6 on *eph’ hṓ*). 1 Cor 15: Adam bringer of death, Christ of life; irony that first Adam names Eve *ḥawwâ* but cannot give *ḥayyâ*.
+- **Genealogy:** linear Adam→Noah (Gen 5) vs segmented Noah’s sons; cannot simply add ages for age of mankind (West Semitic ten-generation archetypes).
+
+See [[fall-of-man|the Fall]], [[original-sin|Original Sin]] if present; [[paul-apostle|Paul]].
+
+---
+
 ## Theological and Narrative Significance
 
 Adam is the pivot on which each tradition's anthropology turns:
@@ -116,3 +159,7 @@ Adam grounds Pauline typology (the Adam–Christ structure of Romans and 1 Corin
 - [[philo-of-alexandria|Philo of Alexandria]] — allegorical Adam
 - [[eve|Eve]] — formed from Adam; the woman of the Eden narrative
 - [[ibn-arabi|Ibn Arabi]] / [[fusus-al-hikam|Fusus al-Hikam]] — Adam as the [[al-insan-al-kamil|Perfect Man]]; compare the Kabbalist [[sefirot|Adam Qadmon]]
+- [[matt-zohar-pritzker-vol1|Matt Pritzker Vol I]] — Be-Reshit / Noaḥ standards reingest
+- [[shekhinah|Shekhinah]] — driven out as *Et*; Woman separated from Husband
+- [[sitra-ahra|Sitra Aḥra]] — serpent/Samael; demon generation years
+- [[victor-hamilton|Victor P. Hamilton]], [[hamilton-genesis-1-17-nicot|Hamilton Genesis 1–17]]
