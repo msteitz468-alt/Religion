@@ -30,7 +30,7 @@ prototypical Protestant church, confessing **justification by faith alone** (*so
 
 The **66-book Protestant canon** (Luther grouped the deuterocanon as "Apocrypha" — useful but
 non-canonical; he also questioned [[james|James]], [[jude|Jude]], [[hebrews|Hebrews]], and
-[[revelation|Revelation]], the *antilegomena*, without removing them). No canon divergence from
+[[revelation-to-john|Revelation]], the *antilegomena*, without removing them). No canon divergence from
 [[protestantism|Protestantism]] generally.
 
 ## Doctrinal Distinctives

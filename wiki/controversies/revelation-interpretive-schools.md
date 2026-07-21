@@ -104,7 +104,7 @@ Apocalyptic Literature]].
 
 ## Key Links
 
-- [[revelation|The Revelation to John]] — the text page
+- [[revelation-to-john|The Revelation to John]] — the text page
 - [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest source
 - [[grant-osborne|Grant R. Osborne]] — source; eclectic-futurist
 - [[revelation-millennium|The Millennium (Revelation 20)]] — where the schools most visibly diverge

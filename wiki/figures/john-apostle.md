@@ -84,7 +84,7 @@ From Michaels (this batch): The Gospel's narrative is structured around testimon
   testimony of Polycarp) anchors the apostolic authorship of the Gospel and Revelation.
 - **Eastern Orthodox**: "St. John the Theologian," one of only three figures called "Theologian";
   yet, ironically, the East was long hesitant about *Revelation* (Dionysius of Alexandria's
-  authorship doubts), which remains outside the Orthodox lectionary. See [[revelation|Revelation]].
+  authorship doubts), which remains outside the Orthodox lectionary. See [[revelation-to-john|Revelation]].
 - **Western / Catholic**: the apostle, evangelist, and seer; the eagle of the four living creatures
   became his traditional symbol (for the soaring prologue).
 - **Critical scholarship**: tends to separate the books among different authors (apostle, elder,
@@ -121,7 +121,7 @@ also a study in transformation — from ambition to the apostle of love and the 
 
 ## Key Links
 
-- [[gospel-of-john|Gospel of John]] / [[letters-of-john|Letters of John]] / [[revelation|Revelation]]
+- [[gospel-of-john|Gospel of John]] / [[letters-of-john|Letters of John]] / [[revelation-to-john|Revelation]]
   — the Johannine corpus traditionally attributed to him
 - [[grant-osborne|Grant R. Osborne]] — defends apostolic authorship of Revelation
 - [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest; authorship/date arguments

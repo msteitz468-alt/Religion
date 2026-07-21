@@ -54,7 +54,7 @@ search of man**, not merely man in search of God:
 
 Concept pages developed from this text:
 
-[[awe]] · [[depth-theology]] · [[divine-pathos]] · [[freedom]] · [[halakhah]] · [[kavanah]] · [[kavod]] · [[mitzvah]] · [[radical-amazement]] · [[religion-of-time]] · [[revelation]] · [[the-ineffable]]
+[[awe]] · [[depth-theology]] · [[divine-pathos]] · [[freedom]] · [[halakhah]] · [[kavanah]] · [[kavod]] · [[mitzvah]] · [[radical-amazement]] · [[religion-of-time]] · [[revelation-heschel|Revelation (Heschel)]] · [[the-ineffable]]
 
 ## Coverage Ledger
 
@@ -100,7 +100,7 @@ the questions to which religion is an answer."
 
 ### Part II — Revelation (chs 17–27)
 
-Part II turns from the awareness of God to **[[revelation|revelation]]** — the divine
+Part II turns from the awareness of God to **[[revelation-heschel|revelation]]** — the divine
 initiative that answers the human quest. Its core moves:
 
 - **Revelation is an event, not a process; an "ecstasy of God."** "The mystic experience is

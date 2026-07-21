@@ -11,7 +11,7 @@ canon_scope:
 language_original: Hebrew
 date_range: Compositional layers from ca. 10th century BCE; final editing likely late 10th century BCE (Tsumura)
 sources_ingested: 4
-last_updated: 2026-07-18
+last_updated: 2026-07-20
 tags: [text, old-testament, former-prophets, samuel, monarchy, david, saul]
 ---
 
@@ -47,6 +47,40 @@ The **Song of Hannah** (1 Sam 2:1-10) functions as a thematic introduction to al
 3. **The kingship theme** — "He will give strength to his king and exalt the horn of his anointed" (2:10b). The reference to "his anointed" (*mĕšîḥô*) is anticipatory — there is no king in Israel yet. It points forward to the entire Saul-David narrative and, beyond it, to the Messianic king.
 
 The song became the direct prototype of Mary's Magnificat (Luke 1:46-55).
+
+## Narrative Summary
+
+### Samuel and the fall of the house of Eli (1–7)
+
+Elkanah of the Ephraimite hill country has two wives, Peninnah who has children and [[hannah|Hannah]] who is barren. At the annual sacrifice at [[shiloh|Shiloh]] Peninnah provokes her rival, and Hannah weeps and will not eat (1:1-8). Praying silently at the sanctuary with her lips moving, she is accused of drunkenness by [[eli|Eli]] the priest; she vows that if given a son she will give him to YHWH all his days and no razor will touch his head (1:9-18). She bears [[samuel|Samuel]], weans him, and brings him to Eli at Shiloh (1:24-28). Her song (2:1-10) praises the God who breaks the bows of the mighty, raises the poor from the dust, kills and makes alive, and will exalt the horn of his anointed.
+
+Eli's sons [[hophni|Hophni]] and Phinehas are "worthless men" who do not know YHWH: they take the sacrificial meat with a three-pronged fork before the fat is burned, demand raw flesh under threat, and lie with the women serving at the entrance of the tent (2:12-22). Eli rebukes them ineffectually. A man of God announces that both sons will die on the same day and that YHWH will raise up a faithful priest (2:27-36). YHWH calls the boy Samuel three times in the night; on Eli's instruction he answers, and receives the oracle against Eli's house, which he reports to Eli in the morning (3:1-18). Samuel is established as a prophet from Dan to [[beersheba|Beersheba]] (3:20).
+
+Israel is defeated by the [[philistines|Philistines]] at Ebenezer and brings the ark of the covenant from Shiloh into the camp; the Philistines rout them a second time, killing thirty thousand, capturing the ark, and killing Hophni and Phinehas. Eli, ninety-eight and blind, falls backward off his seat at the news and breaks his neck; his daughter-in-law dies in childbirth naming the child Ichabod, "the glory has departed" (4:1-22). In Philistine territory the ark is set beside Dagon in [[ashdod|Ashdod]]; Dagon is found fallen, then decapitated with his hands cut off on the threshold. The people are struck with tumors, and the ark is passed to Gath and to [[ekron|Ekron]], panic following it (5:1-12). After seven months the Philistines return it on a new cart with a guilt offering of five golden tumors and five golden mice; it reaches Beth-shemesh, where YHWH strikes men for looking into it, and is then kept at Kiriath-jearim (6:1–7:2). Samuel calls Israel to put away the foreign gods, gathers them at Mizpah, and YHWH thunders against the Philistines (7:3-14).
+
+### Saul's rise (8–15)
+
+Samuel's sons take bribes and pervert justice, and the elders of Israel demand a king "to judge us like all the nations" (8:1-5). Samuel is displeased; YHWH tells him the people have rejected not Samuel but YHWH from being king over them, and instructs him to warn them of the ways of the king: he will take their sons for chariots, their daughters as perfumers and cooks, a tenth of their grain and flocks, and they will cry out in that day (8:6-18). The people refuse to listen.
+
+[[saul|Saul]] son of Kish, a head taller than any of the people, is searching for his father's lost donkeys when his servant suggests consulting the seer (9:1-10). Samuel, forewarned, feeds him at the high place and the next morning pours oil on his head and declares him *nāgîd* over YHWH's inheritance (9:22–10:1). The Spirit rushes on Saul among a band of prophets, and the saying arises, "Is Saul also among the prophets?" (10:10-12). At Mizpah the lots fall to Saul, who is found hiding among the baggage; some worthless men despise him (10:17-27). When Nahash the Ammonite besieges Jabesh-gilead and offers terms only on condition that he gouge out every right eye, the Spirit rushes on Saul; he cuts a yoke of oxen in pieces and sends them through Israel, musters the people, and slaughters the Ammonites (11:1-11). The kingdom is renewed at [[gilgal|Gilgal]]. Samuel's farewell speech calls for thunder and rain in the wheat harvest as a sign against the people's evil in asking for a king, while telling them to serve YHWH faithfully nonetheless (12:1-25).
+
+Saul's son [[jonathan|Jonathan]] strikes the Philistine garrison at Geba. With the Philistines massing at Michmash and his own troops scattering, Saul offers the burnt offering without waiting the appointed seven days; Samuel arrives and tells him his kingdom will not continue, for YHWH has sought a man after his own heart (13:1-14). Jonathan and his armor-bearer climb the crags alone and kill about twenty men, and YHWH sends panic through the Philistine camp (14:1-15). Saul lays an oath on the army that no one eat until evening; Jonathan, not having heard it, eats honey, and the exhausted people later slaughter animals and eat with the blood. The lot falls on Jonathan, and Saul would have executed him but the people ransom him (14:24-45).
+
+Samuel then delivers the *ḥerem* command against the [[amalekites|Amalekites]] for what they did to Israel on the way up from Egypt: kill man and woman, infant and nursing child, ox and sheep, camel and donkey (15:1-3). Saul strikes Amalek but spares Agag their king and the best of the sheep, oxen, and fatlings (15:8-9). Samuel confronts him — "What then is this bleating of sheep in my ears?" — and declares that to obey is better than sacrifice (15:14-22). Saul confesses but asks Samuel to honor him before the elders; as Samuel turns away Saul tears his robe, and Samuel makes the tearing a sign of the kingdom torn from him (15:24-28). Samuel then calls for Agag, who comes cheerfully, and hacks him in pieces before YHWH at Gilgal (15:33). Samuel does not see Saul again until his death, and YHWH regrets having made Saul king (15:35).
+
+### David's rise and Saul's decline (16–31)
+
+YHWH sends Samuel to Bethlehem to anoint one of Jesse's sons. Seven pass before him and are rejected — "man looks on the outward appearance, but YHWH looks on the heart" — and the youngest, [[david|David]], is brought in from the flock and anointed; the Spirit rushes on David, and departs from Saul, who is tormented by a harmful spirit (16:1-14). Saul's servants recommend a skilled lyre-player, and David is brought to court as musician and armor-bearer (16:15-23). In the next episode the Philistine champion [[goliath|Goliath]] of Gath defies Israel for forty days; David, sent by Jesse with provisions for his brothers, hears the challenge, refuses Saul's armor, and kills Goliath with a stone from his sling, then cuts off his head with the giant's own sword (17:1-51). Afterward Saul asks Abner whose son the young man is, and David identifies himself as the son of Jesse the Bethlehemite (17:55-58) — a question sitting in tension with 16:14-23, where David is already in Saul's service and loved by him; the wiki records both accounts without harmonizing them.
+
+Jonathan's soul is knit to David's; he gives him his robe, armor, sword, bow, and belt (18:1-4). The women sing, "Saul has struck down his thousands, and David his ten thousands," and Saul eyes David from that day on, twice hurling a spear at him (18:6-11). Saul sets a bride-price of a hundred Philistine foreskins hoping David will fall; David brings two hundred and marries [[michal|Michal]] (18:25-27). Michal lets David down through a window and puts a household idol in the bed with goats' hair at its head; Saul's messengers pursue him to Ramah, where they and finally Saul himself prophesy and Saul lies naked all day and night (19:11-24). Jonathan tests his father, is nearly speared himself, and warns David by the arrows in the field (20:1-42).
+
+David flees to Nob, where the priest Ahimelech gives him the bread of the Presence and Goliath's sword; Doeg the Edomite sees it (21:1-9). David feigns madness before Achish of Gath, scrabbling on the doors and letting spittle run down his beard (21:10-15), then gathers four hundred distressed and indebted men at the cave of Adullam (22:1-2). Saul, hearing Doeg's report, summons Ahimelech and orders the priests killed; his own guard refuses, and Doeg kills eighty-five priests and then puts Nob to the sword — men, women, children, infants, oxen, donkeys, and sheep. Only Abiathar escapes, carrying the ephod to David (22:6-23).
+
+David rescues Keilah, is betrayed by its citizens, and is hunted in the Wilderness of Ziph and En-gedi. In a cave he cuts off a corner of Saul's robe while Saul relieves himself, then reproaches himself and refuses to strike YHWH's anointed; Saul weeps and acknowledges David will be king (24:1-22). Samuel dies (25:1). Nabal of Carmel insults David's men; Abigail intercepts David's raiding column with provisions and talks him out of the slaughter he has sworn; Nabal's heart dies within him and David takes Abigail as wife (25:2-42). In the second sparing, David and Abishai enter Saul's camp at night and take his spear and water jar from beside his head, Abishai offering to pin him to the ground with one stroke; David again refuses (26:1-25).
+
+David then goes over to Achish of Gath, who gives him Ziklag. From there he raids the Geshurites, Girzites, and Amalekites, leaving neither man nor woman alive so that no one can report to Achish, to whom he claims he has been raiding the Negeb of Judah (27:8-12). With the Philistines mustering against Israel, Saul — Samuel dead, YHWH not answering by dreams, Urim, or prophets — disguises himself and consults the medium at Endor, who brings up Samuel; Samuel tells him the kingdom is given to David and that tomorrow he and his sons will be with him (28:3-19). The Philistine commanders refuse to let David fight beside them (29:1-11); returning to Ziklag he finds it burned and the women and children carried off by Amalekites, pursues with four hundred men on the guidance of an abandoned Egyptian slave, recovers everything, and distributes spoil to the towns of Judah (30:1-31).
+
+On Mount Gilboa the Philistines strike Israel down; Jonathan, Abinadab, and Malchi-shua are killed. Saul, badly wounded by the archers, asks his armor-bearer to run him through; the man refuses, and Saul falls on his own sword, the armor-bearer following him (31:1-6). The Philistines cut off Saul's head, strip his armor into the temple of Ashtaroth, and fasten his body to the wall of Beth-shan. The valiant men of Jabesh-gilead march all night, take down the bodies, burn them, bury the bones under the tamarisk at Jabesh, and fast seven days (31:8-13).
 
 ## Theological Themes
 
@@ -182,8 +216,8 @@ Concept pages developed from this text:
 
 - Source: [[tsumura-1-samuel-nicot|Tsumura 1 Samuel NICOT]] · [[alter-the-david-story|Alter, *The David Story*]]
 - Commentator: [[david-tsumura]] · [[robert-alter]]
-- Figures: [[samuel]] · [[saul]] · [[david]] · [[jonathan]] · [[michal]]
-- Controversies: [[monarchy-request]] · [[herem-canaanite-conquest]]
+- Figures: [[samuel]] · [[saul]] · [[david]] · [[jonathan]] · [[michal]] · [[eli]] · [[hannah]] · [[goliath]]
+- Controversies: [[monarchy-request]] · [[herem-canaanite-conquest]] · [[who-killed-goliath]]
 - Groups / places: [[philistines]] · [[amalekites]] · [[shiloh]]
 
 ## Sources Ingested

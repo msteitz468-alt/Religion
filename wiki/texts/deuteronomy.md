@@ -11,7 +11,7 @@ canon_scope:
 language_original: Hebrew
 date_range: composition debated — traditional/Craigie: Mosaic era (13th c. BCE frame); critical: 7th century BCE (Josianic); Noth DH: exilic matrix
 sources_ingested: 5
-last_updated: 2026-07-18
+last_updated: 2026-07-20
 tags: [text, judaism, christianity, torah, pentateuch, kabbalah, mysticism]
 ---
 
@@ -33,6 +33,28 @@ Self-description: a literary record of **spoken words** (Moses to “all Israel�
 6. **Witnesses / continuity** (30:19; 31; Song 32; deposition; Joshua; 33–34 may be integral)
 
 Treaty form is theological as well as literary: liberation from Egyptian vassaldom transposed into exclusive vassaldom under YHWH; love (*ʾahavah*) is the relational bond.
+
+## Narrative Summary
+
+Deuteronomy has almost no forward action. Its narrative present occupies a single location and a compressed span of days: [[israelites|Israel]] is encamped in the plains of Moab beyond the Jordan, opposite Jericho, at the end of forty years in the wilderness, and [[moses|Moses]] — barred from crossing — speaks. The book's own framing sentences are its plot: "These are the words which Moses spoke to all Israel beyond the Jordan in the wilderness" (1:1); "In the fortieth year, on the first day of the eleventh month, Moses spoke to the Israelites according to all that the LORD had commanded him" (1:3). What happens in Deuteronomy is a series of speeches, a covenant ceremony, a transfer of command, a song, a blessing, and a death.
+
+### The retrospect (1–3)
+
+Moses opens by narrating the journey from Horeb ([[sinai-horeb|Horeb/Sinai]]) forward. At Horeb the LORD said, "You have stayed long enough at this mountain" (1:6), and Israel set out for the hill country of the [[amorites|Amorites]]. Moses recounts appointing judges over the people because he could not bear them alone (1:9–18), then the sending of the twelve spies from Kadesh-barnea, the people's refusal to go up, and the sentence that none of that generation except [[caleb|Caleb]] — and [[joshua|Joshua]] son of Nun, who would lead them in — should see the land (1:19–40). The presumptuous attempt to invade anyway ends in rout at Hormah (1:41–46). Israel then turns back and circles the wilderness for thirty-eight years. Moses recounts passing by the territories of Esau's descendants ([[edomites|Edom]]), [[moabites|Moab]], and [[ammonites|Ammon]], whose lands were not given to Israel (2:1–23), then the wars in Transjordan: Sihon king of Heshbon, whose spirit the LORD hardened, defeated and his cities put to the herem, "men, women, and children" left with no survivor (2:30–35), and Og of Bashan with his sixty fortified cities destroyed in the same way (3:1–7). The conquered territory is assigned to Reuben, Gad, and half of Manasseh, whose fighting men must nevertheless cross over armed ahead of their brothers (3:12–20). Moses reports his own petition to be allowed to cross and the LORD's refusal: "Enough! Speak no more to me of this matter" (3:23–27). He is told to climb Pisgah and look, and to charge Joshua.
+
+### The covenant address (4–30)
+
+Chapter 4 turns from retrospect to exhortation — keep the statutes, add nothing and take nothing away, remember that at Horeb "you saw no form, only a voice" (4:12), and beware idols on pain of exile. Moses sets apart three cities of refuge east of the Jordan (4:41–43), and a new heading (4:44–49) opens the law proper.
+
+Moses restates the Ten Words spoken at Horeb (5:6–21), recalling that the people, terrified by the fire and the voice, asked him to mediate (5:23–31). There follows the Shema — "Hear, O Israel: the LORD our God, the LORD is one" — with the command to love God with all heart, soul, and might, and to teach these words to children, bind them on hand and forehead, and write them on doorposts (6:4–9). Chapter 7 commands, on entry, the herem against the seven nations of [[canaanites|Canaan]]: make no covenant with them, show them no mercy, contract no marriages, tear down their altars and burn their images (7:1–5). Israel is told it was chosen not for its size or righteousness but because the LORD loved it and kept his oath (7:7–8; 9:4–6). Moses recalls the manna and testing of the wilderness (8), the golden calf and the broken tablets, his forty days of intercession, and the making of the ark (9–10), the Baal-and-rain polemic of the land ahead, and the blessing and curse to be set on Mount Gerizim and Mount Ebal (11:26–32).
+
+The specific stipulations (12–26) open with the destruction of Canaanite cult sites and the command to seek "the place the LORD your God will choose" (12:5); they cover clean and unclean food, tithes, the sabbatical release of debts and slaves, the pilgrim festivals, judges, the king who must not multiply horses, wives, or silver and must write himself a copy of the law (17:14–20), priests, the prohibition of divination, the prophet like Moses (18:15–18), cities of refuge, and the laws of war — including the distinction between distant cities, whose women and children may be taken as spoil, and the cities of the nations in the land, of which "you shall save alive nothing that breathes" (20:16–18). Further law covers homicide, family, inheritance, sexual offenses, gleaning, weights and measures, and the blotting out of [[amalekites|Amalek]] (25:17–19), closing with the firstfruits confession "A wandering Aramean was my father" (26:5–9) and the mutual declaration binding LORD and people (26:16–19).
+
+Chapter 27 orders the law written on plastered stones at Ebal, an altar of unhewn stones built there, and twelve curses recited by the Levites with the people answering "Amen." Chapter 28 sets out blessings for obedience and, at far greater length, curses — disease, drought, defeat, madness, siege cannibalism, deportation, and being sold as slaves with no buyer. Chapter 29 renews the covenant in Moab; chapter 30 promises restoration after exile, circumcision of the heart, and closes: "I have set before you life and death, blessing and curse; therefore choose life" (30:19).
+
+### Succession, song, and death (31–34)
+
+Moses, "a hundred and twenty years old," announces he can no longer go out and come in and will not cross the Jordan; the LORD will cross ahead, and Joshua will lead (31:1–8). He writes the law and gives it to the [[levites|Levites]] who carry the ark, to be read publicly every seventh year (31:9–13). At the tent of meeting the LORD commissions Joshua and foretells that the people will break the covenant, ordering the teaching of a song as witness against them (31:14–22). The Song of Moses (32) rehearses God's care and Israel's apostasy in poetry. Moses is then told to ascend Mount Nebo and die there, "because you broke faith with me at the waters of Meribath-kadesh" (32:48–52). Chapter 33 gives his blessing tribe by tribe. In chapter 34 he climbs Nebo, is shown the land from Gilead to [[dan|Dan]], the Negeb, and the plain of Jericho, and dies there in Moab; he is buried in the valley opposite Beth-peor, "and no one knows his burial place to this day" (34:6). Israel weeps thirty days; Joshua, full of the spirit of wisdom because Moses laid hands on him, takes command; and the book closes with the note that no prophet has since arisen in Israel like Moses, whom the LORD knew face to face (34:9–12).
 
 ## Major Themes
 

@@ -50,7 +50,7 @@ a strong **health and wholeness** ethic (vegetarianism, temperance).
 
 ## Hermeneutical Method
 
-**Historicist** interpretation of the prophecies of [[daniel|Daniel]] and [[revelation|Revelation]]
+**Historicist** interpretation of the prophecies of [[daniel|Daniel]] and [[revelation-to-john|Revelation]]
 (prophecy as a continuous unfolding of church history) — one of the four schools on the
 [[revelation-interpretive-schools|Revelation interpretive-schools]] page — with the Bible as sole canon
 read alongside White's confirming "lesser light."

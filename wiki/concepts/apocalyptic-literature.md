@@ -165,7 +165,7 @@ genre.
 the whole age (idealist), or the end (futurist) — or to Western church history (historicist) — the
 genre generates four interpretive schools; most recent scholars (Osborne, Beale, Mounce) adopt an
 **eclectic** synthesis. See [[revelation-interpretive-schools|The Four Interpretive Schools of
-Revelation]] and [[revelation|Revelation]].
+Revelation]] and [[revelation-to-john|Revelation]].
 
 ## The Ancient Roots (Cohn)
 
@@ -185,7 +185,7 @@ prototype being the open question of [[zoroastrian-influence-on-abrahamic-eschat
 ## Related Entries
 
 - [[daniel|Daniel]] — primary OT apocalyptic text
-- [[revelation|The Revelation to John]] — the NT apocalypse; Osborne BECNT
+- [[revelation-to-john|The Revelation to John]] — the NT apocalypse; Osborne BECNT
 - [[grant-osborne|Grant R. Osborne]] — source for the Revelation/genre treatment
 - [[revelation-interpretive-schools|The Four Interpretive Schools of Revelation]]
 - [[lamb-of-god|The Lamb of God]] — the past-victory that distinguishes Revelation from typical apocalyptic

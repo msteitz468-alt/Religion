@@ -36,7 +36,7 @@ distinct from the Mormon **open canon** and from the Christian Science **"pastor
 
 ## Hermeneutical Method
 
-A **historicist** reading of biblical prophecy ([[daniel|Daniel]], [[revelation|Revelation]]) framed by
+A **historicist** reading of biblical prophecy ([[daniel|Daniel]], [[revelation-to-john|Revelation]]) framed by
 the "great controversy" metanarrative; the Bible read as sole canon, with her writings as confirming and
 applying "lesser light."
 

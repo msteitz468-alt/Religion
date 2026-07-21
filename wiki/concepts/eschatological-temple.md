@@ -120,7 +120,7 @@ At 2 Thess 2:4 the man of lawlessness "takes his seat in the temple of God (*nao
 - [[tabernacle|Tabernacle and Sanctuary Theology]] — the OT antecedent sequence
 - [[new-covenant|New Covenant]] — Ezek 36:27 promises the Spirit within as the new-covenant reality; 1 Cor 3:16 fulfills this
 - [[passover|Passover]] — 1 Cor 5:6–8 uses Passover imagery for community purification
-- [[revelation|The Revelation to John]] — Rev 21:22: the New Jerusalem as the Holy of Holies, with no temple but God and the Lamb
+- [[revelation-to-john|The Revelation to John]] — Rev 21:22: the New Jerusalem as the Holy of Holies, with no temple but God and the Lamb
 - [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest; cube-city = Holy of Holies; no temple (21:22)
 - [[grant-osborne|Grant R. Osborne]] — source for the New Jerusalem consummation of the temple theme
 - [[block-ezekiel-25-48-nicot|Block, Ezekiel 25–48 (NICOT)]] — source for Ezekiel 40–48: ideational reading, graded holiness, river of life, Temple Scroll and Rev 21–22 reception

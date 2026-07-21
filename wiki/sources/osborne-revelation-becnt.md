@@ -93,7 +93,7 @@ Series frame (Silva BECNT preface): informed evangelical thought; pastors as pri
 **Created (1):** [[osborne-revelation-becnt|this source page]]
 
 **Extended (12):**
-- [[revelation]] — Hermeneutical Frameworks; Scholarship; fidelity re-ingest anchors
+- [[revelation-to-john|Revelation]] — Hermeneutical Frameworks; Scholarship; fidelity re-ingest anchors
 - [[grant-osborne]] — BECNT re-ingest method/position table
 - Controversies: [[revelation-interpretive-schools]], [[revelation-millennium]], [[revelation-date-authorship]]
 - Concepts: [[lamb-of-god]], [[new-creation]], [[eschatological-temple]], [[antichrist]]
@@ -102,7 +102,7 @@ Series frame (Silva BECNT preface): informed evangelical thought; pastors as pri
 
 **Established link targets (prior ingest — extended, not duplicated):**
 
-- Text: [[revelation]]
+- Text: [[revelation-to-john|Revelation]]
 - Commentator: [[grant-osborne]]
 - Figure: [[john-apostle]]
 - Controversies: [[revelation-interpretive-schools]], [[revelation-millennium]], [[revelation-date-authorship]]
@@ -123,7 +123,7 @@ Osborne's BECNT *Revelation* remains the wiki's sole full-scale commentary on a 
 
 ## Key links
 
-- [[revelation|The Revelation to John]]
+- [[revelation-to-john|The Revelation to John]]
 - [[grant-osborne|Grant R. Osborne]]
 - [[revelation-interpretive-schools|The Four Interpretive Schools of Revelation]]
 - [[revelation-millennium|The Millennium (Revelation 20)]]

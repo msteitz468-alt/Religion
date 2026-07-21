@@ -865,7 +865,7 @@ tension to track on shared topics (conquest, Exodus, authorship).
 [[lamentations]], [[obadiah]]), concepts ([[divine-name]]), and controversies
 ([[herem-canaanite-conquest]], [[intermarriage-ezra-nehemiah]]). "Armageddon"
 ([[megiddo]]) and "Babylon the great" ([[babylon]]) connect the ANE map to NT apocalyptic
-([[revelation]]).
+([[revelation-to-john|Revelation]]).
 
 **Source summary page**: [[coogan-oxford-history-biblical-world]].
 
@@ -913,7 +913,7 @@ claims to read *beneath* it. Daniel Matt himself is a **historical-critical** sc
 [[noah]] (righteous only "in his generation") vs. the NT's unqualified "herald of
 righteousness"; **emanation** vs. *creatio ex nihilo* on the [[genesis]] page; evil from
 *within* the divine (Kabbalah) vs. evil as external adversary or moral trial
-([[theodicy]], [[revelation]]).
+([[theodicy]], [[revelation-to-john|Revelation]]).
 
 **Authorship controversy**: attributed to the 2nd-c. Tanna [[shimon-bar-yochai|Shim'on bar
 Yoḥai]] but composed by [[moses-de-leon|Moses de León]] and his Castilian circle c.

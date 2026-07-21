@@ -10,7 +10,7 @@ tags: [concept, judaism, modern-jewish-thought, heschel]
 # Mitzvah (the Deed as Response)
 
 Part III ("Response") of [[god-in-search-of-man|*God in Search of Man*]] makes the
-**mitzvah** — the commanded deed — the human answer to [[revelation|revelation]] and to the
+**mitzvah** — the commanded deed — the human answer to [[revelation-heschel|revelation]] and to the
 God who is in [[divine-pathos|search of man]]. "The basic term of Jewish living … is mitsvah
 rather than law (*din*)": at once commandment, obligation, deed, and act of benevolence.
 [[abraham-joshua-heschel|Heschel]] calls Jewish law "a science of deeds … not only how to

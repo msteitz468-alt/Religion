@@ -156,7 +156,7 @@ This is a memoir by a hostile former insider, written and published 1956 as an e
 - [[joseph-franklin-rutherford|Joseph Franklin Rutherford]] (Tier 2 president, 1919–1942)
 - [[watchtower-bible-and-tract-society|Watch Tower Bible and Tract Society]] (organizational overview)
 - [[bible-students|Bible Students]] (pre-JW movement)
-- [[revelation|Revelation]] (key prophetic text for JW interpretation)
+- [[revelation-to-john|Revelation]] (key prophetic text for JW interpretation)
 - [[daniel|Daniel]] (the image of Daniel 2:31–34 used as WTS self-description throughout)
 
 ---

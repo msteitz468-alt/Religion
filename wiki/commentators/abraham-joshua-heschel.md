@@ -62,7 +62,7 @@ From [[god-in-search-of-man|*God in Search of Man*]], Part I:
 
 From Part II ("Revelation"):
 
-- A constructive theory of **[[revelation|revelation]]** as *event* not *process* and "an
+- A constructive theory of **[[revelation-heschel|revelation]]** as *event* not *process* and "an
   ecstasy of God" — the divine answer to the human quest (see [[divine-pathos]]). Judaism is
   thereby **[[religion-of-time|a religion of time]]**, grounded in unique historical events.
 - The **paradox of Sinai** ("to reveal He must conceal") and the rule that revelation is

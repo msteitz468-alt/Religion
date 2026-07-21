@@ -55,7 +55,7 @@ service and from celebrating birthdays and most holidays.
 ## Hermeneutical Method
 
 A strongly **centralized** hermeneutic: the **Governing Body** is the sole authoritative interpreter, and
-its understanding ("present truth") can be updated. Prophecy ([[daniel|Daniel]], [[revelation|Revelation]])
+its understanding ("present truth") can be updated. Prophecy ([[daniel|Daniel]], [[revelation-to-john|Revelation]])
 read to yield the 1914 chronology. The WTS's *Watchtower* of 15 September 1910 stated that studying the
 Bible alone leads to spiritual darkness; studying Society publications alone leads to "the light" within
 two years. This principle was confirmed under oath in the **Douglas Walsh trial (1954, Scotland)**: WTS

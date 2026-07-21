@@ -119,7 +119,7 @@ to be completed, not a precise emperor cipher.
 
 ## Key Links
 
-- [[revelation|The Revelation to John]] — the text page
+- [[revelation-to-john|The Revelation to John]] — the text page
 - [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest source
 - [[grant-osborne|Grant R. Osborne]] — defends apostolic authorship and the Domitianic date
 - [[john-apostle|John the Apostle]] — the traditional author

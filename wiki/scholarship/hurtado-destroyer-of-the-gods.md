@@ -126,7 +126,7 @@ Critical review of the *religionsgeschichtliche Schule* (Hatch, Reitzenstein, Bo
 - [[1-corinthians|1 Corinthians]] — food offered to idols (chs. 8–10); Lord's Supper; dyadic Shema (8:4-6); sexual ethics (chs. 5-7)
 - [[galatians|Galatians]] — Paul's Pharisaic past; transethnic identity; children of Abraham
 - [[romans|Romans]] — Rom 10:9-13 dyadic confession; Rom 13 political loyalty
-- [[revelation|Revelation]] — bookishness; codex form; apocalyptic + letter genre hybrid
+- [[revelation-to-john|Revelation]] — bookishness; codex form; apocalyptic + letter genre hybrid
 - [[ephesians|Ephesians]] — household codes; trans-ethnic new humanity
 - [[colossians|Colossians]] — household codes
 - [[1-peter|1 Peter]] — suffering Christians; household codes; slaves' dignity

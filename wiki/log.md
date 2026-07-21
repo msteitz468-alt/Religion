@@ -2038,7 +2038,7 @@ first-class page type; (3) flat `traditions/` would not scale across world relig
   (canonical for Gnostic sects, rejected by proto-orthodoxy); the seven Apostolic Fathers
   ([[1-clement]], [[2-clement]], [[didache]], [[epistle-of-barnabas]], [[shepherd-of-hermas]],
   [[epistle-to-diognetus]], [[fragments-of-papias]]); and the antilegomena / disputed
-  canonical books [[esther]], [[jude]], [[2-peter]], [[revelation]]. Firmly-canonical Tanakh/NT
+  canonical books [[esther]], [[jude]], [[2-peter]], [[revelation-to-john|Revelation]]. Firmly-canonical Tanakh/NT
   books deferred for per-ingest backfill (full Canon-and-Reception body sections likewise
   deferred for the Apostolic Fathers).
 
@@ -2102,7 +2102,7 @@ Closes the last conformance loose ends from phase 2.
   (Sects 13→16, total ~302+). All `canon_scope` slugs now resolve.
 - **Canon-and-Reception body sections** added to all 12 contested/sectarian text pages
   ([[nag-hammadi-library]], the seven Apostolic Fathers, [[esther]], [[jude]], [[2-peter]],
-  [[revelation]]), each narrating the community-relative canon split and cross-linking the
+  [[revelation-to-john|Revelation]]), each narrating the community-relative canon split and cross-linking the
   relevant sect/denomination and controversy pages — fulfilling the Text Page schema's required
   section where the split is non-trivial.
 
@@ -2114,7 +2114,7 @@ issue.
 
 Resolved the phase-3 note: the five contested texts that already had an older, differently-titled
 canon section ([[esther]] "Canonical Position", [[shepherd-of-hermas]] "Canonical Status",
-[[revelation]] "Canonical Reception", [[jude]] "Canonical Reception", and [[epistle-of-barnabas]]
+[[revelation-to-john|Revelation]] "Canonical Reception", [[jude]] "Canonical Reception", and [[epistle-of-barnabas]]
 "Canonical Status and Manuscript Tradition") were merged into a single standardized
 **## Canon and Reception** section per page — older detail retained, the sect-keyed split and
 cross-links folded in, and Barnabas's combined heading split into separate Canon-and-Reception and
@@ -4991,7 +4991,7 @@ Source type: primary-text-edition (Pritzker critical English). **Fidelity reinge
 
 **Pages created (1):** [[osborne-revelation-becnt]]
 
-**Pages extended (12):** [[revelation]], [[grant-osborne]], [[revelation-interpretive-schools]], [[revelation-millennium]], [[revelation-date-authorship]], [[lamb-of-god]], [[new-creation]], [[eschatological-temple]], [[antichrist]], [[john-apostle]], plus index/log/sources-ingested.
+**Pages extended (12):** [[revelation-to-john|Revelation]], [[grant-osborne]], [[revelation-interpretive-schools]], [[revelation-millennium]], [[revelation-date-authorship]], [[lamb-of-god]], [[new-creation]], [[eschatological-temple]], [[antichrist]], [[john-apostle]], plus index/log/sources-ingested.
 
 **Bookkeeping:** index + sources-ingested ✅; not on outstanding-sources roadmap. Raw already under `raw/commentaries/biblical/new-testament/`. Digests retained under session cache.
 
@@ -5820,3 +5820,119 @@ Source: `raw/commentaries/biblical/old-testament/The Books of Haggai and Malachi
 **Key takeaways (grounded):** exact-obedience thesis + new torah amid failure; geographic five-part outline vs Cole 2-3-2 and Olson two-census; Orientation/Disorientation/New Orientation; preexilic final form (possibly united monarchy) without full Mosaic authorship; Harrison on census figures as least-worst; Meribah multi-factor *lack of trust*; copper serpent as obedience-looking; Korah dual-rebellion final-form unity; Balaam relatively neutral in cycle + Deir ʿAllā + star/scepter reception; Phinehas covenant of peace; Midian *ḥērem* unsoftened.
 
 **Bookkeeping:** index, overview, sources-ingested ✅; outstanding sources — not on roadmap (no ✅ required). Lint: 0 new broken links vs baseline.
+
+---
+
+## [2026-07-20] maintenance | Narrative Summary pass — Torah + Former Prophets
+
+**Trigger**: user observation that `wiki/texts/` OT pages were rich on structure, themes, hermeneutics, and reception but carried no plot spine. Audit confirmed: 10 of 14 OT text pages sampled had no `## Narrative Summary` section at all; the schema's "Major Themes / Narrative Summary" slot had in practice been filled by the themes half only. Narrative existed elsewhere only as one-line indices ("Key Episodes"; the figure-page "Primary Source Appearances" lists).
+
+**Scope**: Torah (Genesis, Exodus, Leviticus, Numbers, Deuteronomy) + Former Prophets (Joshua, Judges, 1 Samuel, 2 Samuel, 1–2 Kings). Not an ingest — no new sources read; this is a synthesis-layer repair against the biblical text these pages already cover.
+
+**Method**: main thread verified the full figure/location/group slug inventory on disk (513/82/74) and issued each writer a closed whitelist with an explicit "not on the list → plain text, no brackets" rule, so no link was written from memory. 5 subagents, 2 books each, Edit-only (no full rewrites), placement fixed per page by the main thread.
+
+**Pages extended (10):** [[genesis]] (~1,340w) · [[exodus]] (~1,100w, replacing a 4-line stub) · [[leviticus]] (~758w) · [[numbers]] (~1,438w) · [[deuteronomy]] (~1,090w) · [[book-of-joshua]] (~1,880w) · [[judges]] (~1,770w) · [[1-samuel]] (~1,750w) · [[2-samuel]] (~1,430w) · [[1-2-kings]] (~1,955w). ~14,500 words of narrative added. Figure/location/group pages wikilinked on first mention throughout.
+
+**Register**: plot events written in wiki voice (brute descriptive facts per the Voice and Attribution Protocol); all interpretive, source-critical, and archaeological claims left to the existing attributed sections. Internal tensions recorded unharmonized — Gen 1 vs 2:4b–25; the hardening of Pharaoh's heart alternately attributed; Josh 11:23 vs 13:1 and 21:43–45; 1 Sam 16:14–23 vs 17:55–58; Chronicles divergences noted neutrally.
+
+**Difficult material carried unsoftened** (per Step 2 sensitive-content discipline): the Akedah; Dinah at Shechem; Lot's daughters; the golden-calf sword-sweep; Nadab and Abihu; the stoning of the blasphemer and the sabbath-breaker; Korah; Baal-Peor and the Midian *ḥērem*; the herem at Jericho and Ai and Achan's household; Jephthah's daughter; the Shibboleth slaughter; Judges 19 and the Jabesh-gilead and Shiloh abductions; Agag; Nob; Uriah; Amnon and Tamar; the impaling of Saul's seven descendants; Naboth; Jezebel; Jehu's massacres; child sacrifice under Ahaz and Manasseh; the siege cannibalism at Samaria; Zedekiah's blinding.
+
+**Entity-mismatch flag honored**: the Phinehas of 1 Sam (son of Eli) left unlinked — `[[phinehas]]` is Aaron's grandson.
+
+**Validation**: `python Scripts/lint_wiki.py` — red links 231 before, 231 after; slug-level `comm` diff confirms **0 new broken links and 0 regressions**.
+
+---
+
+## [2026-07-20] maintenance | OT figure/location gap-fill (Torah + Former Prophets)
+
+**Trigger**: writing the narrative summaries earlier this session surfaced a large set of repeatedly-named referents with no page — the plain-text fallbacks in those summaries. User asked for them filled.
+
+**Pages created (21):**
+- **Figures (16)** — Judges/Joshua: [[ehud]], [[othniel]], [[sisera]], [[delilah]], [[achan]]. 1 Samuel: [[eli]], [[hannah]], [[goliath]]. North: [[jeroboam]], [[rehoboam]], [[ahab]], [[jezebel]], [[jehu]]. South: [[athaliah]], [[manasseh]], [[zedekiah]].
+- **Locations (4)** — [[gilgal]], [[gibeon]], [[ai]], [[hebron]].
+- **Controversy (1)** — [[who-killed-goliath]] (promoted from a `[CONTRADICTION]` flag raised on the Goliath page during creation).
+
+All 16 figure pages carry the full 7 required sections; all 4 location pages the full 6; zero missing frontmatter fields (verified programmatically).
+
+**Method**: main thread ran the folder-agnostic duplicate pre-scan (`find wiki -name "<slug>.md"`) — no collisions — then issued 4 subagents a closed slug whitelist plus the same-batch slug list. Each brief carried an explicit anti-fabrication mandate: reception and scholarship grounded ONLY in what already-ingested wiki source pages record (Provan NIBC Kings, Tsumura NICOT 1–2 Samuel, Webb NICOT Judges, Woudstra NICOT Joshua), with instruction to state thinness rather than pad.
+
+**Fidelity outcomes worth recording:**
+- `delilah` — builder explicitly declined to write up the later Western art/opera reception because no ingested source documents it; the absence is stated on the page.
+- `gilgal` — site is unlocated; page names **no** candidate tell and flags the archaeological gap rather than inventing an identification.
+- `gibeon` — el-Jib recorded as the *leading* identification on Pritchard's inscribed *gbʿn* handles, explicitly not as settled.
+- `ai` — the et-Tell occupation problem recorded with four competing responses and a bolded refusal to adjudicate.
+- Omride pages — Kurkh Monolith, Mesha Stele, Black Obelisk, Tel Dan inscription all recorded with hedged, attributed readings and **no numerals or inscription details quoted**; the "house of Omri" label flagged against Jehu's overthrow of that house.
+- **Register control**: the Deuteronomistic verdict on Jeroboam, Ahab, and Jezebel is framed throughout as the *narrative's* theological judgment, not wiki voice; jezebel.md states plainly that the account is polemic written by her opponents. Modern historians' reading of the Omrides as politically successful recorded as a tension, unadjudicated.
+- Existing caution preserved: the "Judg 5 among the oldest extant Hebrew poetry" verdict is still not attributed to Webb.
+- Entity mismatches honored: Eli's son Phinehas is NOT linked to [[phinehas]] (Aaron's grandson) and eli.md carries the disambiguation; manasseh.md disambiguates the king from the tribe in both `also_known_as` and the opening.
+
+**Contradiction Protocol applied**: Manasseh (2 Kgs 21 no-repentance/cause-of-exile vs 2 Chr 33 repentance-and-restoration) — both positions in strongest form, unadjudicated, plus the Prayer of Manasseh handled as a later composition, not canonical across traditions. Also flagged: Kings/Chronicles divergence on Jeroboam, Rehoboam, Jehu; Kings' commendation of Jehu against Hosea 1:4 on the blood of Jezreel.
+
+**Bilateral linking closed**: 26 first-mention plain-text names in the ten Narrative Summary sections converted to wikilinks via a bounded script (section-scoped, first-unlinked-occurrence only, heading lines excluded, dry-run diffed before apply) — not blind `sed`, per Step 5.
+
+**Validation**: `python Scripts/lint_wiki.py` — red links **231 → 228**. Zero newly broken; three pre-existing red links (`eli`, `hannah`, `jehu`) resolved by the new pages.
+
+**Known defect flagged, not fixed**: `revelation.md` exists at BOTH `wiki/texts/revelation.md` and `wiki/concepts/revelation.md`. Obsidian resolves by bare filename, so `[[revelation-to-john|Revelation]]` is ambiguous — a genuine slug collision against the "globally unique slugs" convention. Pre-existing; needs a disambiguation decision.
+
+---
+
+## [2026-07-20] maintenance | Slug-collision fix (`revelation`) + OT gap-fill round 2
+
+### Part 1 — `revelation` slug collision resolved
+
+The defect flagged earlier today. `revelation.md` existed at **both** `wiki/texts/` and
+`wiki/concepts/`; Obsidian resolves by bare filename, so `[[revelation]]` was ambiguous and
+resolving inconsistently. Audit of all **69** occurrences across 49 files found live
+mis-resolution: a large Barth/dogmatics cluster meant revelation *as a theological category* but
+landed on the NT apocalypse, and `index.md` displayed "Revelation (Heschel's Theory)" while
+pointing at the book.
+
+**Resolution** — neither page had a better claim to the bare slug, so both received explicit
+slugs matching their own existing titles, freeing `revelation` for the general concept:
+- `git mv wiki/texts/revelation.md` → **`wiki/texts/revelation-to-john.md`**
+- `git mv wiki/concepts/revelation.md` → **`wiki/concepts/revelation-heschel.md`**
+- **new** `wiki/concepts/revelation.md` — general concept hub
+
+**Link repointing (69 occurrences, classified by evident intent, not by pattern):**
+- **42 → `revelation-to-john`** (the NT book)
+- **9 → `revelation-heschel`** (Heschel cluster: god-in-search-of-man, religion-of-time, mitzvah, freedom, abraham-joshua-heschel, index ×2)
+- **18 → bare `revelation`** (Barth/dogmatics cluster: word-of-god, threefold-word-of-god, revealer-revelation-revealedness, knowability-of-the-word-of-god, analogia-fidei, analogia-entis, natural-theology, dogmatics, dogma-barth, vestigium-trinitatis, holy-spirit, karl-barth, barth-church-dogmatics-i1 ×2, scripture-canon-and-interpretation ×2, continuing-revelation)
+
+Two classification errors were caught by dry-run before writing: the Barth cluster was initially
+routed to the book, and `overview.md:916` / `concepts/sitra-ahra.md:92` were initially routed to
+the concept — reading the context showed both say "evil as external adversary," i.e. **the beast**,
+so the book. Do not classify these by filename or by pattern; read the sentence.
+
+**New page** `concepts/revelation.md` is a hub grounded strictly in already-ingested material
+(Barth *CD* I.1 and Heschel — `word-of-god.md` and `revealer-revelation-revealedness.md` were read
+before writing rather than composed from background knowledge). All 26 of its link targets verified.
+It states its own coverage bias explicitly: **Islamic *waḥy* and the created/uncreated Qur'an debate
+have no page**, and Buddhist/Hindu *śruti* analogues are unbuilt. Both renamed pages carry
+reciprocal disambiguation notes.
+
+### Part 2 — OT gap-fill round 2 (11 pages)
+
+**Figures (8)**: [[naboth]], [[omri]], [[jehoiada]], [[joash]] (of Judah — disambiguated from Joash
+of Israel), [[agag]], [[eglon]], [[hophni]], [[elhanan]].
+**Locations (3)**: [[jezreel]], [[carmel]], [[ramoth-gilead]].
+
+All 8 figures carry the 7 required sections; all 3 locations the 6; zero missing frontmatter
+fields (verified programmatically). Same closed-whitelist method and anti-fabrication mandate as
+round 1.
+
+**Fidelity outcomes:**
+- `omri` — Mesha Stele and the Assyrian "house of Omri" label recorded as artifacts-with-a-standard-reading; **no figures, regnal lengths, or restored readings quoted**. The disproportion between six biblical verses and external prominence filed as a **recorded tension**, with the closing note that the two bodies of evidence answer different questions and the wiki offers no verdict on the reliability of Kings.
+- `joash` — full CONTRADICTION PROTOCOL on 2 Kgs 12 (right "*all his days*"; no apostasy, no prophet-killing, Jehoiada's death not even narrated) vs 2 Chr 24 (right "*all the days of Jehoiada*"; the Asherim, the stoning of Zechariah at the king's command, burial outside the royal tombs). Not harmonized. The Matt 23:35 // Luke 11:51 Zechariah reference recorded **with** the "son of Berechiah" patronymic problem; the identification is **not asserted**.
+- `naboth` — 2 Kgs 9:26 speaks of "the blood of Naboth **and the blood of his sons**," a plural 1 Kgs 21 never narrates. Flagged as an internal seam rather than smoothed.
+- `agag` — Samuel hacking Agag in pieces recorded "without mitigation and without endorsement"; Esther's "Agagite" filed as a reception connection with the resumption reading marked as having no ingested rabbinic source behind it.
+- `ramoth-gilead` — identification **unresolved**; region given from biblical data, candidate tells mentioned generically with **none named**; explicit statement that with no secure site there is no stratigraphy, ceramics, or epigraphy to report, and an explicit refusal to claim extrabiblical Aramaic attestation.
+- `carmel` — ridge secure, **contest site not identified**; traditional sites recorded as later devotional association, none endorsed; Judahite Carmel of 1 Sam 25 disambiguated and its standard placement flagged as unargued in this collection.
+- `jezreel` — Tel Jezreel / Zerʿin as leading identification on name-preservation and topographical fit **only**; no excavation result reported as confirming or refuting any biblical event.
+- `hophni` — disambiguated from the Aaronide [[phinehas]]; Eli's son Phinehas left unlinked.
+- `elhanan` — made consistent with [[who-killed-goliath]], links it, adjudicates nothing; the "Jaare-oregim" patronymic doubling and the 2 Sam 23:24 Elhanan question recorded as open.
+
+**Bilateral linking**: 3 orphans (eglon, hophni, elhanan) resolved by adding inbound links from
+judges, 1-samuel, ehud, eli, goliath, and the controversy page.
+
+**Validation**: `python Scripts/lint_wiki.py` — red links **231 → 226**. Zero newly broken across
+both parts; no dangling `revelation` variants; no orphans among the 31 pages created today.

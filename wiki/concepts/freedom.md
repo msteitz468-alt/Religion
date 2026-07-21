@@ -19,7 +19,7 @@ left to the moral life."
 Freedom is not a standing faculty or mere independence from motive but an **event**: "Freedom
 is an act, an event … the state of going out of the self, an act of spiritual ecstasy." It is
 rare and intermittent — "we are free at rare moments; most of the time we are driven by a
-process" (compare the [[revelation|event-vs-process]] distinction). Its metaphysical ground
+process" (compare the [[revelation-heschel|event-vs-process]] distinction). Its metaphysical ground
 is the biblical doctrine of **creation** rather than the Greek **cosmos**: "the ultimate
 concept in Greek philosophy is the idea of cosmos, of order; the first teaching in the Bible
 is the idea of creation," which means "the universe did not come about by necessity but as a

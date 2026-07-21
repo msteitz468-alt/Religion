@@ -21,7 +21,7 @@ Because God acts in singular historical events, the content of faith is attachme
 events, not assent to abstractions: the Exodus is not a mere symbol of the *idea* of liberty
 — to treat it so "is to disregard the heart of Jewish faith." "Abraham, Isaac, and Jacob are
 not principles to be comprehended but lives to be continued." This is why
-[[revelation|revelation]] must be understood as *event* (unique, precedent-creating) rather
+[[revelation-heschel|revelation]] must be understood as *event* (unique, precedent-creating) rather
 than *process* (regular, lawful).
 
 ## A Chosen Time as Well as a Chosen People
@@ -37,7 +37,7 @@ reading of Exodus 19:1). This time-consciousness is continuous with the theme of
 
 ## Related
 
-[[revelation]] · [[divine-pathos]] · [[god-in-search-of-man]]
+[[revelation-heschel|Revelation (Heschel)]] · [[divine-pathos]] · [[god-in-search-of-man]]
 
 ## Sources
 

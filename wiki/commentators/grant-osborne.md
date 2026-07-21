@@ -156,7 +156,7 @@ unity of Scripture; historic creeds as legitimate further-interpretation framewo
 ## Key Links
 
 - [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — source page (fidelity re-ingest)
-- [[revelation|The Revelation to John]] — primary text
+- [[revelation-to-john|The Revelation to John]] — primary text
 - [[john-apostle|John the Apostle]] — the author Osborne defends
 - [[revelation-millennium|The Millennium (Revelation 20)]] — Osborne's premillennial reading
 - [[revelation-interpretive-schools|The Four Interpretive Schools of Revelation]] — his eclectic-futurist method

@@ -26,7 +26,7 @@ Master index of all pages. Updated on every ingest.
   - [[seder-tohorot|Seder Tohorot]] — Purities; Laws of ritual purity
 - [[zohar|The Zohar]] — Foundational text of [[kabbalah|Kabbalah]] / Jewish mysticism; mystical (Sod) commentary on the Torah; Aramaic; attributed to Shim'on bar Yoḥai (2nd c.) but composed by [[moses-de-leon|Moses de León]] in Castile c. 1280–1300; main running Torah commentary (Genesis–Deuteronomy) via Matt's Pritzker Edition **Vols. I–IX** (detailed in previous entries); **Volume X** (Nathan Wolski; **standards reingest 2026-07-18**, [[wolski-zohar-pritzker-vol10|source page]]) presents the *Midrash ha-Ne’lam* (“the Concealed Midrash”), the earliest stratum of the Zoharic corpus — philosophical allegory + proto-kabbalistic midrash on Genesis, Shemot, Ki Tetse + MS addenda (soul allegory; Bookkeeper/Dumah; seven openings; Shema cools Hell); **Volume XI** (Hecker; **standards reingest 2026-07-18**, [[hecker-zohar-pritzker-vol11|source page]]) — MhN Megillot (Song of Songs, Ruth, Lamentations) + Zoharic Compositions (**Zohar on Song of Songs**, Matnitin, Tosefta, Sitrei Torah); *Zohar Ḥadash* misnomer; **not** Idra Zuta (Vol. IX Ha’azinu). **Volume XII** (Wolski and Hecker, 2026-06-07) completes Compositions: *Heikhalot*, *Raza de-Razin*, *Sitrei Otiyyot*, *Qav ha-Middah*, plus Piqqudin etc. (see [[heikhalot|Heikhalot]], [[raza-de-razin|Raza de-Razin]]). Full Pritzker Edition (I–XII). **Vol. I–IX standards reingests 2026-07-18** (source pages [[matt-zohar-pritzker-vol1]]–[[matt-zohar-pritzker-vol9]]). **Vol. X standards reingest 2026-07-18** ([[wolski-zohar-pritzker-vol10|Wolski Pritzker Vol X]]).
 - [[guide-for-the-perplexed|The Guide for the Perplexed (Moreh Nevukhim)]] — [[maimonides|Maimonides]]'s philosophical-theological classic; Judeo-Arabic, c. 1190; reconciles Torah with Aristotelian philosophy via the doctrine of the parable; negative theology, creation vs. eternity, prophecy, providence, reasons for the commandments; authoritative (non-scriptural) for Rabbinic Judaism (Friedländer trans., ingested in full 2026-06-27)
-- [[god-in-search-of-man|God in Search of Man: A Philosophy of Judaism]] — [[abraham-joshua-heschel|Heschel]]'s 1955 constructive philosophy of Judaism (companion to *Man Is Not Alone*); non-canonical modern theology; three parts (God / Revelation / Response). **Ingested in full 2026-06-27** — Part I ([[radical-amazement]], [[awe]], [[the-ineffable]], [[kavod|glory]], [[depth-theology]], [[divine-pathos]]); Part II ([[revelation]], [[religion-of-time]]); Part III ([[mitzvah]], [[kavanah]], [[halakhah]], [[freedom]], [[nature-of-evil]])
+- [[god-in-search-of-man|God in Search of Man: A Philosophy of Judaism]] — [[abraham-joshua-heschel|Heschel]]'s 1955 constructive philosophy of Judaism (companion to *Man Is Not Alone*); non-canonical modern theology; three parts (God / Revelation / Response). **Ingested in full 2026-06-27** — Part I ([[radical-amazement]], [[awe]], [[the-ineffable]], [[kavod|glory]], [[depth-theology]], [[divine-pathos]]); Part II ([[revelation-heschel|Revelation (Heschel)]], [[religion-of-time]]); Part III ([[mitzvah]], [[kavanah]], [[halakhah]], [[freedom]], [[nature-of-evil]])
 - [[genesis|Genesis]] — Torah/Pentateuch; creation, patriarchs; Hebrew · Hamilton NICOT 2-vol fidelity re-ingest 2026-07-18 ([[hamilton-genesis-1-17-nicot]] + [[hamilton-genesis-18-50-nicot]]): *tôlĕdôt* architecture, Gen 1:1 absolute, complementary creation accounts, Gen 15/17 one covenant, Akedah as test, 50:20 double *ḥāšaḇ* · Zoharic Sod reading of Gen 1–11 (Pritzker)
 - [[exodus|Exodus]] — Torah/Pentateuch; liberation, law, tabernacle; Hebrew
 - [[leviticus|Leviticus]] — Torah/Pentateuch; sacrifice, purity, holiness; Hebrew · Wenham NICOT fidelity re-ingest ✅ 2026-07-18 ([[wenham-leviticus-nicot]]): holiness-as-wholeness (Douglas); graded sacrifice; *kipper* ransom/cleanse; Azazel functional conclusion; ch. 27 recapitulation
@@ -92,7 +92,7 @@ Master index of all pages. Updated on every ingest.
 - [[1-peter|The First Letter of Peter]] — NT/General Epistle; Diaspora letter; "foreigners and resident aliens"; suffering for the name; Christ as Suffering Servant; spirits in prison (3:18–22); household code; Roman colonization theory; Greek; Jobes BECNT fidelity re-ingest 2026-07-18 ([[jobes-1-peter-becnt]])
 - [[2-peter|The Second Letter of Peter]] — NT/General Epistle; warning against false teachers; denial of the parousia and the scoffers' "delay"; partakers of the divine nature (1:4); inspiration of prophecy (1:20–21); new heavens and new earth (3:13); reuses Jude; authorship most disputed in NT; Greek; G. Green BECNT fidelity re-ingest 2026-07-18 ([[green-jude-2peter-becnt]])
 - [[jude|The Letter of Jude]] — NT/General Epistle; "contend for the faith" (v. 3); antinomian intruders; quotes 1 Enoch (14–15) and the Assumption of Moses (9); midrashic/pesher exegesis; doxology (24–25); brother of James/Jesus; Greek; G. Green BECNT fidelity re-ingest 2026-07-18 ([[green-jude-2peter-becnt]])
-- [[revelation|The Revelation to John]] — NT/Apocalypse; apocalyptic + prophecy + letter; the seven churches; throne room and the Lamb; seals/trumpets/bowls; the beast and 666; Babylon; the millennium (ch. 20); New Jerusalem; symbolic numbers; pervasive OT allusion; Greek; Osborne BECNT fidelity re-ingest 2026-07-18 ([[osborne-revelation-becnt]])
+- [[revelation-to-john|The Revelation to John]] — NT/Apocalypse; apocalyptic + prophecy + letter; the seven churches; throne room and the Lamb; seals/trumpets/bowls; the beast and 666; Babylon; the millennium (ch. 20); New Jerusalem; symbolic numbers; pervasive OT allusion; Greek; Osborne BECNT fidelity re-ingest 2026-07-18 ([[osborne-revelation-becnt]])
 
 ### Apostolic Fathers (non-canonical early Christian texts)
 
@@ -362,6 +362,17 @@ Master index of all pages. Updated on every ingest.
 ---
 
 ## Figures
+
+### Old Testament narrative gap-fill (2026-07-20)
+
+*(Created to support the Torah / Former Prophets narrative-summary pass. Figures repeatedly named in the biblical narrative that previously had no page. Reception is grounded only in already-ingested commentaries — Provan NIBC Kings, Tsumura NICOT Samuel, Webb NICOT Judges, Woudstra NICOT Joshua — and is explicitly marked thin where the collection has no source.)*
+
+- **Judges / Joshua**: [[ehud|Ehud]] · [[othniel|Othniel]] · [[sisera|Sisera]] · [[delilah|Delilah]] · [[achan|Achan]]
+- **1 Samuel**: [[eli|Eli]] · [[hannah|Hannah]] · [[goliath|Goliath]]
+- **Northern kingdom**: [[jeroboam|Jeroboam I]] · [[ahab|Ahab]] · [[jezebel|Jezebel]] · [[jehu|Jehu]]
+- **Southern kingdom**: [[rehoboam|Rehoboam]] · [[athaliah|Athaliah]] · [[manasseh|Manasseh (king of Judah)]] · [[zedekiah|Zedekiah]]
+- **Kings cycle (added 2026-07-20)**: [[omri|Omri]] · [[naboth|Naboth]] · [[jehoiada|Jehoiada]] · [[joash|Joash of Judah]]
+- **Judges / Samuel (added 2026-07-20)**: [[eglon|Eglon]] · [[hophni|Hophni]] · [[agag|Agag]] · [[elhanan|Elhanan]]
 
 ### The Greek and Roman Pantheon (2026-06-09)
 
@@ -796,6 +807,16 @@ Master index of all pages. Updated on every ingest.
 - [[alexandria|Alexandria]] — Founded 331 BCE; Hellenistic royal capital and intellectual center (Mouseion/Library); large Jewish diaspora community (Philo); early Christian catechetical school (Clement, Origen); major site of patristic theological development (Athanasius, Trinitarian controversies). Modern: Alexandria, Egypt (Mediterranean port). Historical inhabitants by period + modern identification detailed in page. First location page under new schema (Stead Ch. 6 and related).
 - [[nicaea|Nicaea (İznik)]] — Site of First Ecumenical Council (325 CE, Nicene Creed with homoousios) and Seventh (787, icons); key for Trinitarian formulation and Cappadocian clarification (ousia/hypostasis, unity of substratum). Inhabitants by period: Hellenistic Greek/Bithynian, Roman provincial, 4th-c. Christian bishops/theologians (Athanasius, Eusebius of Caesarea, Arius et al.; majority Eastern), Byzantine, Ottoman/modern Turkish (İznik). Modern: İznik, Bursa Province, Turkey (40.43°N 29.72°E; on Lake İznik; walls and Hagia Sophia remains). Detailed in Wolfson (Creed context, homoousios suspicions, Cappadocian settlement). Cross-linked to cappadocian-fathers group, logos-christology, and Wolfson/Stead scholarship.
 - [[antioch|Antioch (on the Orontes)]] — Founded c.300 BCE; 3rd largest city in the Roman Empire (~150,000 pop.); density 195 persons/acre; 18 ethnic quarters; 41 catastrophes in 600 years; birthplace of the term "Christian" (Acts 11:26); Paul's missionary base; site of the Incident at Antioch (Gal 2:11-14); Ignatius' bishopric; Stark's case study in urban chaos and Christian revitalization (Ch. 7). Historical inhabitants: Seleucid, Greek, Aramaic-Syrian, Jewish diaspora (large), Roman, Christian, Sasanian (two sacks), Arab (637 CE), Crusader (1098-1268), Mamluk, Ottoman. Modern: Antakya, Hatay Province, Turkey (36.202°N 36.160°E). (Stark, *Rise of Christianity*, Ch. 7)
+
+### Old Testament sites (2026-07-20)
+
+- [[gilgal|Gilgal]] — first camp west of the Jordan; twelve stones, circumcision and Passover; Saul's kingship made and rejected here. **Site unlocated**; the wiki has ingested no archaeological source and names no candidate tell. Deut 11:30 sits in tension with the Josh 4:19 Jordan-Valley placement; the Bible also knows a hill-country Gilgal (2 Kgs 2:1; 4:38).
+- [[gibeon|Gibeon]] — the deceptive treaty (Josh 9), the long day (Josh 10), the Gibeonite blood-vengeance (2 Sam 21), Solomon's dream (1 Kgs 3). Leading identification **el-Jib**, on inscribed *gbʿn* jar handles from Pritchard's excavations — recorded as leading, not settled.
+- [[ai|Ai]] — the defeat after Achan's ḥerem violation and the second, successful ambush (Josh 7–8). Carries the well-known **et-Tell occupation problem**; four competing responses recorded, **no identification treated as settled**.
+- [[jezreel|Jezreel]] — Ahab's second residence, Naboth's vineyard, and the site of Jehu's purge; the valley of the same name. Tel Jezreel / Zerʿin recorded as the **leading** identification on name-preservation and topographical fit only — not settled.
+- [[carmel|Mount Carmel]] — the Elijah/Baal contest (1 Kgs 18). The **ridge** is securely identified; the **site of the contest is not**, and traditional sites are recorded as later devotional association, none endorsed. Disambiguates the Carmel in Judah of 1 Sam 25.
+- [[ramoth-gilead|Ramoth-gilead]] — Transjordanian city of refuge and contested border fortress; Ahab's death and Jehu's anointing. Identification **unresolved**; no candidate tell named.
+- [[hebron|Hebron]] — Machpelah and the patriarchal burials; Caleb's inheritance; David's capital for seven years; base of Absalom's revolt. Archaeology flagged as an ingestion gap.
 
 - [[indus-valley-civilization|Indus Valley Civilization (Harappa)]] — Bronze Age urban civilization of the Indus plain (c. 2300–1500 BCE), older than the Vedas; grid cities (Harappa, Mohenjo-Daro), undeciphered seal script, the proto-Śiva "Pashupati" seal debate; modern Pakistan (Punjab/Sindh) + NW India. Doniger's skepticism about reading Hinduism back into it (new 2026-06-09; [[doniger-the-hindus|Doniger]] Chs. 3–4)
 
@@ -1446,7 +1467,7 @@ Master index of all pages. Updated on every ingest.
 - [[the-ineffable|The Ineffable]] — the dimension of hidden *meaning* beyond expression (its biblical name is the glory); "God is a mystery, but the mystery is not God"
 - [[kavod|Kavod (Glory)]] — God's *presence* (not essence) pervading the world; "an act rather than a quality; a process not a substance"
 - [[divine-pathos|Divine Pathos (God in Search of Man)]] — biblical faith as God seeking man; God as concern and ultimate Subject; adverbial theology; faith as attachment, not mere belief
-- [[revelation|Revelation (Heschel's Theory)]] — revelation as event not process, "an ecstasy of God"; the paradox of Sinai; co-revelation ("the word of God and man"); the two-front battle vs. fundamentalism and criticism
+- [[revelation-heschel|Revelation (Heschel's Theory)]] — revelation as event not process, "an ecstasy of God"; the paradox of Sinai; co-revelation ("the word of God and man"); the two-front battle vs. fundamentalism and criticism
 - [[religion-of-time|A Religion of Time]] — Judaism grounded in unique historical events, not timeless truths or sacred space; a chosen time as well as a chosen people
 - [[mitzvah|Mitzvah (the Deed as Response)]] — the commanded deed as response; the leap of action; partnership of God and man; "the deed is wiser than the heart"
 - [[kavanah|Kavanah]] — inner intention/direction of the heart; attentiveness, appreciation, integration; the inward pole of the mitzvah (vs. keva)
@@ -1887,6 +1908,9 @@ a `sects/` page, cross-linked.)*
 ---
 
 ## Controversies
+
+### Samuel (2026-07-20)
+- [[who-killed-goliath|Who Killed Goliath — and How Tall Was He?]] — David (1 Sam 17) vs Elhanan (2 Sam 21:19 MT) vs Lahmi-the-brother (1 Chr 20:5); MT six cubits vs LXX/4QSam-a four cubits. `source-reliability`. **Open**
 
 ### Leviticus / Pentateuch (2026-07-18; [[wenham-leviticus-nicot|Wenham NICOT]])
 - [[azazel-identity|Identity of Azazel (Lev 16)]] — wilderness demon vs “complete destruction” vs rocky precipice; Wenham’s functional conclusion (sin exterminated from Israel). **Open**

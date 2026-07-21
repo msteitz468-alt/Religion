@@ -37,7 +37,7 @@ originally unrelated passages. The synthesized arc runs:
    and was cast down, becoming the ruler of a kingdom of evil spirits and the seducer of
    humanity.
 3. **Lord of hell and end-time enemy.** In fully developed Christian eschatology he is the
-   dragon of [[revelation|Revelation]], bound and finally destroyed at the last judgment;
+   dragon of [[revelation-to-john|Revelation]], bound and finally destroyed at the last judgment;
    in folk and literary tradition, the costumed Devil of damnation.
 
 The crucial historical observation, common to critical scholarship, is that **stages 2–3
@@ -77,7 +77,7 @@ texts that did not originally describe him.
   section below); **Beelzebul**, "prince of demons" ([[mark|Mark]] 3); **"I saw Satan fall like lightning"** (Luke 10:18); **"your father the
   devil"** (John 8:44); **"the god of this age"** (2 Cor 4:4) and **"the prince of the
   power of the air"** (Eph 2:2).
-- **[[revelation|Revelation]] 12 and 20** — "the great dragon..., that ancient serpent, who
+- **[[revelation-to-john|Revelation]] 12 and 20** — "the great dragon..., that ancient serpent, who
   is called the Devil and Satan, the deceiver of the whole world," cast down, then bound a
   thousand years, then thrown into the lake of fire. This is the climactic biblical
   portrait and the seed of the medieval Devil. See [[antichrist|Antichrist]] for the
@@ -302,7 +302,7 @@ he fell "acerbo," unripe. See [[divine-comedy|The Divine Comedy]].
 
 - [[andrew-delbanco|Andrew Delbanco]]; [[secularization-of-evil|The Death of Satan / Secularization of Evil]]
 - [[sitra-ahra|Sitra Aḥra]] (Samael; the Jewish-Kabbalistic "Other Side"); [[antichrist|Antichrist]] (the related end-time opponent); [[principalities-powers|Principalities and Powers]]; [[demiurge|the Demiurge]] (Gnostic alternative); [[theodicy|Theodicy]]
-- Texts: [[book-of-job|Job]], [[1-enoch|1 Enoch]], [[jubilees|Jubilees]] (Mastema), [[revelation|Revelation]] (the dragon)
+- Texts: [[book-of-job|Job]], [[1-enoch|1 Enoch]], [[jubilees|Jubilees]] (Mastema), [[revelation-to-john|Revelation]] (the dragon)
 - Job's comforters, on whom Hartley's verdict is that they unwittingly take the Satan's side by urging Job to seek God for gain: [[eliphaz-the-temanite|Eliphaz the Temanite]] and [[zophar-the-naamathite|Zophar the Naamathite]]; see also [[behemoth-and-leviathan|Behemoth and Leviathan]], which Hartley reads as the Yahweh speeches' functional stand-in for the Satan
 - Figures: [[adam|Adam]] (the Fall; Iblis's refusal to bow), [[jesus-of-nazareth|Jesus]] (the temptation), [[michael-archangel|Michael the Archangel]] (disputes with the devil; war in heaven)
 - Comparative: [[zoroastrianism|Zoroastrianism]] (Angra Mainyu / Ahriman); [[zoroastrian-influence-on-abrahamic-eschatology|Zoroastrian influence on Abrahamic eschatology]]; [[the-combat-myth|the Combat Myth]]; [[gnosticism|Gnosticism]]

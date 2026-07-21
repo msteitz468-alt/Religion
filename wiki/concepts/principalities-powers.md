@@ -123,4 +123,4 @@ The powers framework in Ephesians serves several theological functions:
 - [[1-thessalonians|First Letter to the Thessalonians]]
 - [[1-timothy|First Letter to Timothy]]
 - [[2-thessalonians|Second Letter to the Thessalonians]]
-- [[revelation|The Revelation to John (The Apocalypse)]]
+- [[revelation-to-john|The Revelation to John (The Apocalypse)]]

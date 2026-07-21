@@ -120,7 +120,7 @@ methodological stance. See [[apocalyptic-literature|Apocalyptic Literature]].
 
 ## Key Links
 
-- [[revelation|The Revelation to John]] — the text page
+- [[revelation-to-john|The Revelation to John]] — the text page
 - [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest source
 - [[grant-osborne|Grant R. Osborne]] — source; historic premillennial, irenic
 - [[revelation-interpretive-schools|The Four Interpretive Schools of Revelation]] — the prior method that shapes the millennial reading

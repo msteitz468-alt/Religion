@@ -17,6 +17,10 @@ tags: [text, christianity, new-testament, apocalyptic, prophecy, eschatology, jo
 
 # The Revelation to John (The Apocalypse)
 
+> **Disambiguation** (slug changed 2026-07-20, formerly `revelation`): this page is the **New
+> Testament book**. For revelation as a theological category, see [[revelation|Revelation]];
+> for Heschel's constructive theory, see [[revelation-heschel|Revelation (Heschel's Theory)]].
+
 The final book of the Christian canon and the New Testament's one full-scale **apocalypse** — a
 series of visions given to "John" on the island of Patmos, addressed to seven churches of Roman Asia,
 unveiling the sovereignty of God over history, the defeat of evil, and the consummation of all things

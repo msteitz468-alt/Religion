@@ -141,7 +141,7 @@ The "new creation" in Paul reconnects to the creation theology of Genesis 1–2.
 - [[2-peter|The Second Letter of Peter]] — 2 Pet 3:10–13: new heavens and new earth after judgment by fire
 - [[gene-green|Gene L. Green]] — BECNT 2 Peter (2008); renewal-not-annihilation; the "found" reading of 3:10
 - [[green-jude-2peter-becnt|Green, *Jude and 2 Peter* (BECNT)]] — fidelity re-ingest 2026-07-18
-- [[revelation|The Revelation to John]] — Rev 21–22: new heaven and earth; New Jerusalem as Holy of Holies and final Eden
+- [[revelation-to-john|The Revelation to John]] — Rev 21–22: new heaven and earth; New Jerusalem as Holy of Holies and final Eden
 - [[osborne-revelation-becnt|Osborne, *Revelation* (BECNT)]] — fidelity re-ingest; primarily **replacement** of the old cosmos (with continuity inside the wholly new order), not mere renovation
 - [[grant-osborne|Grant R. Osborne]] — BECNT Revelation (2002); renovation vs. re-creation; the consummated vision
 

@@ -11,7 +11,7 @@ canon_scope:
 language_original: Hebrew
 date_range: composition debated — traditional Mosaic (c. 1400 BCE); critical Priestly (P) postexilic c. 550–450 BCE; mediating preexilic but post-Mosaic (Kaufmann stream)
 sources_ingested: 3
-last_updated: 2026-07-18
+last_updated: 2026-07-20
 tags: [text, judaism, christianity, torah, pentateuch, kabbalah, mysticism]
 ---
 
@@ -35,6 +35,20 @@ Leviticus is the third book of the Torah/Pentateuch. Its Hebrew title *wayyiqra�
 Wenham stresses the book is **lay-oriented** as much as priestly: most laws address all Israel; only sections such as chs. 21–22 specifically concern priests alone; ch. 23’s sabbath-rest emphasis contrasts with Num 28–29 as a more priestly festival calendar.
 
 Chapter 27 (vows) is not a mere stray appendix: Wenham treats it as **thematic recapitulation** of the book’s holiness themes (persons, animals, land → priesthood, sacrifice, Jubilee) after the covenant blessings/curses of ch. 26 (see Key interpretive cruxes).
+
+## Narrative Summary
+
+Leviticus has almost no plot of its own. It is set entirely at one place and one moment: [[sinai-horeb|Sinai]], in the interval between the erection of the tabernacle at the end of [[exodus|Exodus]] and the departure from the mountain in [[numbers|Numbers]]. Nearly the whole book is speech — YHWH speaks to [[moses|Moses]] "from the tent of meeting" (1:1), and Moses relays the instructions to [[aaron|Aaron]], the priests, or the whole assembly of [[israelites|Israel]]. The recurring formula "The Lord spoke to Moses, saying" segments the book the way scene-changes segment a narrative. Only chapters 8–10, and two brief judicial episodes (24:10–23 and, in [[numbers|Numbers]], the sabbath-breaker), narrate events.
+
+### The ritual sequence as the book lays it out
+
+Chapters 1–7 set out the offerings, first as instructions for the laity (1–5) and then as instructions for the priests (6–7): the burnt offering wholly consumed on the altar (ch. 1), the grain offering with oil, frankincense, and salt but no leaven or honey (ch. 2), the well-being offering whose fat and blood go to God and whose meat is eaten (ch. 3), the purification offering graded by the rank of the offender — anointed priest, whole congregation, chieftain, commoner (ch. 4) — and the reparation offering for sacrilege and for defrauding a neighbor (5:14–6:7). The priestly section adds the disposal of ashes, the perpetual altar fire that must never go out (6:12–13), and the priests' portions.
+
+Chapters 8–10 are the book's one sustained narrative. Moses assembles the congregation at the entrance of the tent, washes Aaron and his sons, vests Aaron in the ephod and breastpiece, anoints the tabernacle and the altar, and offers the ordination bull and rams, daubing blood on the right ear, thumb, and big toe of each priest (ch. 8). The ordination lasts seven days. On the eighth day Aaron makes his own first offerings for himself and the people, and when he and Moses bless the people the glory of YHWH appears and fire comes out from before YHWH and consumes the offering on the altar; the people shout and fall on their faces (9:23–24). Immediately after, [[nadab-and-abihu|Nadab and Abihu]], Aaron's two eldest sons, each take a censer and offer "unauthorized fire, which he had not commanded them," and fire comes out from YHWH and consumes them (10:1–2). Moses tells Aaron, "This is what the Lord meant," and Aaron is silent. Their cousins carry the bodies out of the camp by their tunics. Aaron and his surviving sons are forbidden to mourn or leave the sanctuary; a prohibition on wine for priests on duty follows (10:8–11); and the chapter closes with a dispute between Moses and Aaron over the uneaten purification-offering goat, which Moses accepts (10:16–20).
+
+Chapters 11–15 then define what pollutes: edible and inedible creatures (ch. 11), impurity after childbirth (ch. 12), the long diagnostic procedures for skin disease and for mold in garments and houses, with the priest inspecting, shutting up, and pronouncing clean or unclean (chs. 13–14), and genital discharges, both abnormal and ordinary (ch. 15). Chapter 16 is the Day of Atonement: Aaron enters the inner shrine only once a year, behind a cloud of incense, sprinkles blood on the cover of the ark and on the altar, and then lays both hands on the head of the live goat, confessing over it the iniquities of Israel, after which it is driven into the wilderness to Azazel.
+
+Chapters 17–26 turn to the community's own holiness — slaughter and blood, forbidden sexual unions, the mixed body of moral, cultic, and social commands in chapter 19, penalties in chapter 20, priestly qualifications and blemishes (21–22), the festival calendar (ch. 23), the lamp and the bread of the Presence (24:1–9), the sabbatical year and the Jubilee with its release of land and persons (ch. 25), and the blessings and the long escalating curses of chapter 26, ending with the promise that God will remember the covenant with the ancestors. Into this stretch falls the second narrative episode: the son of an Israelite woman and an Egyptian father fights with an Israelite in the camp, blasphemes the Name, and is put in custody until Moses receives instruction; the whole congregation then takes him outside the camp, the hearers lay their hands on his head, and he is stoned to death (24:10–23), with the talion formula stated in the same passage. Chapter 27 closes the book with the valuation of vows — persons, animals, houses, and fields — and the rules of redemption and of the tithe.
 
 ## Major Themes / Narrative Summary
 

@@ -37,7 +37,7 @@ and fresh revelation continued, and whether the church should tighten its rigor.
 ## Canon and Scripture (Canon Divergence)
 
 Accepted the emerging proto-orthodox scriptures (with notable attachment to John and
-[[revelation|Revelation]]) but treated the **new prophetic oracles as authoritative
+[[revelation-to-john|Revelation]]) but treated the **new prophetic oracles as authoritative
 revelation** alongside them. Its claim of ongoing inspiration is one reason the proto-orthodox
 pressed toward a *closed* canon; the Muratorian Fragment explicitly rejects Montanist writings.
 

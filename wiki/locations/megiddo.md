@@ -64,4 +64,4 @@ chariot-fortress became, via prophecy, a byword for the end of history.
 
 Thutmose III's battle; the Deborah war; the Solomonic-gate dating debate; Josiah's death
 (609); "Armageddon." Related: [[hazor]], [[shechem]], [[jezreel|Jezreel]],
-[[canaanites]], [[israelites]], [[assyrians]], [[judges]], [[revelation]].
+[[canaanites]], [[israelites]], [[assyrians]], [[judges]], [[revelation-to-john|Revelation]].

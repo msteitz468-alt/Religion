@@ -34,7 +34,7 @@ for what was happening across other traditions in each era.
 The mainstream canon is the **27-book New Testament** alongside the Old Testament inherited
 from Judaism. That canon was a 2nd–4th century achievement, not a given: several books were
 long contested (the *antilegomena* — [[hebrews|Hebrews]], [[james|James]],
-[[2-peter|2 Peter]], [[jude|Jude]], 2–3 John, [[revelation|Revelation]]), and the boundary
+[[2-peter|2 Peter]], [[jude|Jude]], 2–3 John, [[revelation-to-john|Revelation]]), and the boundary
 was drawn against both the over-narrow canon of [[marcionism|Marcion]] and the expansive
 scriptures of the [[gnosticism|Gnostics]]. The [[nag-hammadi-library|Nag Hammadi]] texts and
 the [[1-clement|Apostolic Fathers]] sit on opposite edges of the boundary — the former
@@ -94,7 +94,7 @@ Orthodoxy; the vehicle through which the deuterocanon enters the Catholic OT).
 **General Epistles & Hebrews** — [[hebrews|Hebrews]] · [[james|James]] · [[1-peter|1 Peter]] ·
 [[2-peter|2 Peter]] · [[letters-of-john|Letters of John (1, 2, 3 John)]] · [[jude|Jude]]
 
-**Apocalyptic** — [[revelation|Revelation]]
+**Apocalyptic** — [[revelation-to-john|Revelation]]
 
 **Canonical passages / pericopes with their own pages** —
 [[genealogy-of-jesus|Genealogy of Jesus]] · [[temptation-of-jesus|Temptation of Jesus]] ·

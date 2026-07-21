@@ -42,7 +42,7 @@ Defined the emerging **27-book New Testament** while retaining the **Old Testame
 both the *subtractive* canon of [[marcionism|Marcion]] and the *expansive* Gnostic scriptures of
 [[nag-hammadi-library|Nag Hammadi]]. Held several books in dispute longer than others (the
 *antilegomena*: [[hebrews|Hebrews]], [[james|James]], [[2-peter|2 Peter]], [[jude|Jude]], 2–3
-John, [[revelation|Revelation]]). On contested text pages this stream is the reference point for
+John, [[revelation-to-john|Revelation]]). On contested text pages this stream is the reference point for
 `disputed_by` / `rejected_by`. See [[nt-canon-formation|NT canon formation]].
 
 ## Doctrinal Distinctives

@@ -117,7 +117,7 @@ His reading of the millennium as literal and material is consistent with a stron
 - [[john-apostle|John the Apostle]] — the "Two Johns" problem: Apostle vs. Elder; Papias may have known and transmitted from the Elder, not the Apostle
 - [[mark|Gospel of Mark]] — Papias' tradition about Mark as Peter's interpreter is a primary witness to Mark's origins
 - [[matthew|Gospel of Matthew]] — Papias' tradition about Matthew's "Hebrew logia" is the primary early witness to a possible Hebrew/Aramaic Matthew
-- [[revelation|Book of Revelation]] — the Two Johns question affects Revelation's authorship; Eusebius argues it was written by the Elder, not the Apostle, partly on the basis of Papias
+- [[revelation-to-john|Book of Revelation]] — the Two Johns question affects Revelation's authorship; Eusebius argues it was written by the Elder, not the Apostle, partly on the basis of Papias
 - [[revelation-date-authorship|Revelation: Date and Authorship]] — Papias is the key witness for Eusebius' two-Johns argument
 - [[nt-canon-formation|NT Canon Formation]] — Papias' "living voice" principle is a primary witness to the valuation of oral tradition over written texts in the early 2nd century
 - [[revelation-millennium|Revelation: The Millennium]] — Papias' literal millennialism, inherited by Irenaeus; Eusebius' reaction

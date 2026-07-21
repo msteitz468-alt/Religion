@@ -42,7 +42,7 @@ Holds the **27-book New Testament** and the **broadest Old Testament** of the th
 the Septuagint-based canon including the deuterocanon plus 1 Esdras, 3 Maccabees, Psalm 151, and the
 Prayer of Manasseh (with 4 Maccabees as an appendix). A notable nuance: **Revelation is canonical but
 not appointed for liturgical reading** — a relic of the East's long historic hesitation over the
-book (reflected in [[revelation|Revelation's]] `disputed_by` note). On ingested text pages, Eastern
+book (reflected in [[revelation-to-john|Revelation's]] `disputed_by` note). On ingested text pages, Eastern
 Orthodoxy appears in `canonical_for`.
 
 ## Doctrinal Distinctives
